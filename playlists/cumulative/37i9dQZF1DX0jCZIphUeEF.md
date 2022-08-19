@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-49 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
+50 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Lovely \- Vocal Good Vibes Mix](https://open.spotify.com/track/591N75XjzRms0Cvcm9qSRw) | [Disco Incorporated](https://open.spotify.com/artist/03bYU8vPMd45QD6byp08HJ) | [Funky Summer Grooves, Vol\. 1](https://open.spotify.com/album/1yv6X3GBXHTc5mZxh9xEuZ) | 5:04 | 2022-08-01 |  |
 | [Mafana \- Marco Lys Remix](https://open.spotify.com/track/5xS9qcXWmDo9hF5rlRxSED) | [Chris Geka](https://open.spotify.com/artist/5lQDyoSLDFj5uTkI5JPczu), [Tecca](https://open.spotify.com/artist/0J7Kqmrp3SxJlw2Ce1o1EJ), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Mafana, Craygnos](https://open.spotify.com/album/5AxY2v9FjYIIsLH7yr3fqq) | 6:31 | 2022-08-01 |  |
 | [Mi Pena](https://open.spotify.com/track/29q0bUyU7TO83cY3oP7rMp) | [Birds of Mind](https://open.spotify.com/artist/6V4bkdqHvsJ2lqkIl4qnG7) | [Mi Pena](https://open.spotify.com/album/28yEiaLt8HAtzE3qTrQBlX) | 5:46 | 2022-08-01 |  |
+| [Midas Touch](https://open.spotify.com/track/4nadecqEmEIuLovLrOUF9A) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [Soul Hits of the 80s](https://open.spotify.com/album/1t9cBcn6XLBwjdZGrqRa8y) | 3:53 | 2022-08-01 |  |
 | [Mondo](https://open.spotify.com/track/6xXLjtrH9S4JaB3SscBXFe) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF) | [Sunshine](https://open.spotify.com/album/6jEhtIGOpUgLG5EivDFxGS) | 8:31 | 2022-08-01 |  |
 | [Nefertiti \- Red Axes Remix](https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN), [Neysa May](https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ), [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Nefertiti \(Red Axes Remix\)](https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd) | 4:48 | 2022-08-01 |  |
 | [Oyelo \- Alt Control Remix](https://open.spotify.com/track/1MWbzEp4QuwPTw0jYtMg4c) | [Sunlightsquare](https://open.spotify.com/artist/04Yb1Hoq1XbQHmjjLhs4Et), [Alt Control](https://open.spotify.com/artist/1ozqRGnD1zBw8EkhwwvKuH) | [Oyelo Mo'Remixes](https://open.spotify.com/album/2YoDRauZ8D1iVD6rcZHOzc) | 5:32 | 2022-08-01 |  |

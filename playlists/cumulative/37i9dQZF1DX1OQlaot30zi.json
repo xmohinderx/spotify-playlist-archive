@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata. Con nuovi brani di Shiva, Nko, Luch\u00e8, Sfera Ebbasta e tanti altri!",
+  "description": "Sempre aggiornata. Con nuovi brani di Nko, Neima, Vale Pain, Shiva Luch\u00e8 e tanti altri.",
   "name": "Novit\u00e0 Rap Italiano",
   "published_playlist_ids": [
     "7sfA9EX1ungjA32R4YoNij"
@@ -101,6 +101,24 @@
       "duration_ms": 165701,
       "name": "+ Pasta + Panza",
       "url": "https://open.spotify.com/track/0L9qgln12cZWk83xJnyeVd"
+    },
+    {
+      "album": {
+        "name": "10 MILA",
+        "url": "https://open.spotify.com/album/6ZguOUjKVLCrAq6hLxSRvb"
+      },
+      "artists": [
+        {
+          "name": "Piccolo Plug",
+          "url": "https://open.spotify.com/artist/087NKpXhjsgavyDxM3vWzm"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124511,
+      "name": "10 MILA",
+      "url": "https://open.spotify.com/track/2kesPCCmnyLpygemxcgNT5"
     },
     {
       "album": {
@@ -895,6 +913,32 @@
       "duration_ms": 135857,
       "name": "Atteggiamento (Bonus Track)",
       "url": "https://open.spotify.com/track/0XlTMea3unL7XPuVpQa1mE"
+    },
+    {
+      "album": {
+        "name": "POCOMALE",
+        "url": "https://open.spotify.com/album/3Zo5EsJGkSlbrxSRcQXFD6"
+      },
+      "artists": [
+        {
+          "name": "Ilypocomale",
+          "url": "https://open.spotify.com/artist/6Gxu96uCNDRK67SqWA7KIj"
+        },
+        {
+          "name": "coffi",
+          "url": "https://open.spotify.com/artist/6jLdUX0GBA4b413D9PVhnP"
+        },
+        {
+          "name": "PiccoloKappa!",
+          "url": "https://open.spotify.com/artist/5mhLgRTZcKZr29mC8aau2Q"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149405,
+      "name": "AU REVOIR",
+      "url": "https://open.spotify.com/track/5saimMS1xQ1K6pMKnwWAjp"
     },
     {
       "album": {
@@ -3002,6 +3046,24 @@
     },
     {
       "album": {
+        "name": "Donnie Brasco freestyle",
+        "url": "https://open.spotify.com/album/78W5CaphrYeizlF43lpJFE"
+      },
+      "artists": [
+        {
+          "name": "Tommy Brillante",
+          "url": "https://open.spotify.com/artist/3h4O6TeqWlerxYOmNvXQ4A"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107586,
+      "name": "Donnie Brasco freestyle",
+      "url": "https://open.spotify.com/track/3UqHxUQxWivrX742Y4AhwM"
+    },
+    {
+      "album": {
         "name": "DON\u2019T CALL ME",
         "url": "https://open.spotify.com/album/2IE2KWpBV2jzydpDtAUbeg"
       },
@@ -3681,7 +3743,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 160454,
       "name": "Fidarti di me",
       "url": "https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw"
@@ -3985,7 +4047,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 88235,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma"
@@ -5057,7 +5119,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 219333,
       "name": "Immigrato",
       "url": "https://open.spotify.com/track/322fNeq8hTL7PXlB5XL3tv"
@@ -5119,7 +5181,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 133029,
       "name": "In Fissa (feat. Fabri Fibra & Ormai)",
       "url": "https://open.spotify.com/track/6Xmo0RODWby2SeffGEDS0M"
@@ -6811,7 +6873,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 147000,
       "name": "Me",
       "url": "https://open.spotify.com/track/1IvTiiP4S4GncH5xxYpUxS"
@@ -9058,6 +9120,24 @@
     },
     {
       "album": {
+        "name": "Marticolare",
+        "url": "https://open.spotify.com/album/6Q7qcEUUH2bbXtOiw3CWAK"
+      },
+      "artists": [
+        {
+          "name": "Marti Stone",
+          "url": "https://open.spotify.com/artist/70aepVNcgjvgDZkVOqBVmQ"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Questa musica del...",
+      "url": "https://open.spotify.com/track/59uvpEGUV66lWAuEgNFUDr"
+    },
+    {
+      "album": {
         "name": "R&R",
         "url": "https://open.spotify.com/album/17SGMxNqxsNMk0ZrFI24jQ"
       },
@@ -9552,6 +9632,28 @@
     },
     {
       "album": {
+        "name": "Se Mi Chiedi",
+        "url": "https://open.spotify.com/album/5v9BWXJPvKHAeRGt5qyKIp"
+      },
+      "artists": [
+        {
+          "name": "Noemi Coozy",
+          "url": "https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx"
+        },
+        {
+          "name": "WVNNV",
+          "url": "https://open.spotify.com/artist/1Z6904tiByLNOKUPLldxwp"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157786,
+      "name": "Se Mi Chiedi",
+      "url": "https://open.spotify.com/track/15TWKmVkfhkvx9JuYj8J4d"
+    },
+    {
+      "album": {
         "name": "SANT'EMERENZIANA",
         "url": "https://open.spotify.com/album/1qRqXo0KwYfDxTAnVW9bfU"
       },
@@ -9567,6 +9669,28 @@
       "duration_ms": 175500,
       "name": "SE MI VUOI RISPONDI",
       "url": "https://open.spotify.com/track/4hvFntfCUxVUFXrRjepCHa"
+    },
+    {
+      "album": {
+        "name": "SECONDI / CAMOUFLAGE",
+        "url": "https://open.spotify.com/album/5EimBXpohd2DCC2lY7iObx"
+      },
+      "artists": [
+        {
+          "name": "fuckpietro",
+          "url": "https://open.spotify.com/artist/6cv1Z8SFYYSPpRSm1TOmxB"
+        },
+        {
+          "name": "shark34",
+          "url": "https://open.spotify.com/artist/3zyZvgvM9daKsobrqK0Md4"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180061,
+      "name": "SECONDI",
+      "url": "https://open.spotify.com/track/2F0lfSnO8D3crTWQkeXfCQ"
     },
     {
       "album": {
@@ -11346,6 +11470,24 @@
     },
     {
       "album": {
+        "name": "VAI DISA!",
+        "url": "https://open.spotify.com/album/1z7NSmgTQGpdwWsulZAAmi"
+      },
+      "artists": [
+        {
+          "name": "FUCKYOURCLIQUE",
+          "url": "https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135240,
+      "name": "VAI DISA!",
+      "url": "https://open.spotify.com/track/3YX9eZcubS44Cd2LnsykUk"
+    },
+    {
+      "album": {
         "name": "Valhalla",
         "url": "https://open.spotify.com/album/3WfpXIDsb2tuKRiD1gbDKi"
       },
@@ -11891,6 +12033,28 @@
       "duration_ms": 174216,
       "name": "X6 (feat. BIA)",
       "url": "https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG"
+    },
+    {
+      "album": {
+        "name": "Seconda Classe",
+        "url": "https://open.spotify.com/album/0sT9gUqrHzHCO1ANhs0hPC"
+      },
+      "artists": [
+        {
+          "name": "BRESCO",
+          "url": "https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC"
+        },
+        {
+          "name": "Caesar",
+          "url": "https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148071,
+      "name": "Xagosto",
+      "url": "https://open.spotify.com/track/1CVUCG2BNQafv6tLAcWcYz"
     },
     {
       "album": {

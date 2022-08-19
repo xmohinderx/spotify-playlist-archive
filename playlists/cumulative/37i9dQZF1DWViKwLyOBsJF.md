@@ -8,9 +8,9 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/2FfrdvaIfa9rTf1DnBs6aX) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7JgDv3Hv4QlA6w6v9yYq2m) | 0:00 | 2021-11-19 | 2022-07-29 |
-| [](https://open.spotify.com/track/3U9kUtbt96KdmmGtt1c6EI) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2RarOAXZmYHWw3Zk23vyDa) | 0:00 | 2021-11-19 | 2022-07-29 |
-| [](https://open.spotify.com/track/7KlSdIDCajVZgAHpMTMV8Y) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 0:00 | 2021-11-19 | 2022-07-29 |
+| [](https://open.spotify.com/track/2FfrdvaIfa9rTf1DnBs6aX) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7JgDv3Hv4QlA6w6v9yYq2m) | 0:00 | 2021-11-19 |  |
+| [](https://open.spotify.com/track/3U9kUtbt96KdmmGtt1c6EI) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2RarOAXZmYHWw3Zk23vyDa) | 0:00 | 2021-11-19 |  |
+| [](https://open.spotify.com/track/7KlSdIDCajVZgAHpMTMV8Y) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 0:00 | 2021-11-19 |  |
 | [A Baby Changes Everything](https://open.spotify.com/track/7JlChhx7Srvi2bOveY2HOI) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [A Baby Changes Everything](https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV) | 3:33 | 2021-11-19 |  |
 | [A Cradle in Bethlehem](https://open.spotify.com/track/2Jpfg8Ad1ETuHtOgmUXIb7) | [Amy Krampf](https://open.spotify.com/artist/0XSMCDhwttU0Drh3z9Gk0i) | [A Cradle in Bethlehem](https://open.spotify.com/album/0VOw1vFXbhrB5E5XbRq0MU) | 3:17 | 2021-11-19 |  |
 | [A Virgin Unspotted](https://open.spotify.com/track/78Lpph0ArlWZDYkKoFTxZU) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:13 | 2021-11-19 |  |

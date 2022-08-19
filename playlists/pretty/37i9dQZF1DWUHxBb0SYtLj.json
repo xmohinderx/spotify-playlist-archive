@@ -1,12 +1,12 @@
 {
   "description": "Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Giol\u00ec & Assia ",
-  "num_followers": 13713,
+  "num_followers": 13714,
   "original_name": "EQUAL Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3NzY2MCwwMDAwMDAwMGE4MGJmZGM4YzZkYzQzN2FhYTRkMDYxM2Y5NWFhOWM5",
+  "snapshot_id": "MTY1OTQ3NzY2MCwwMDAwMDAwMGMxZjRjMTg4NzE5NWQyZjcyYjEzYjM3OTMyZDBiYTgx",
   "tracks": [
     {
       "added_at": "2022-08-02 22:01:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2022-08-02 22:01:00",
       "album": {
+        "name": "UV",
+        "url": "https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY"
+      },
+      "artists": [
+        {
+          "name": "PLASTICA",
+          "url": "https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM"
+        },
+        {
+          "name": "Laila Al Habash",
+          "url": "https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "FAME (feat. Laila Al Habash)",
+      "url": "https://open.spotify.com/track/0jNiQhRIRxu6IGapnsQkY4"
+    },
+    {
+      "added_at": "2022-08-02 22:01:00",
+      "album": {
         "name": "Pornolesbo",
         "url": "https://open.spotify.com/album/4YpQqDBJkMlpTPWBExpk03"
       },
@@ -683,6 +703,22 @@
       "duration_ms": 338200,
       "name": "Eleven",
       "url": "https://open.spotify.com/track/43kunJHghKGr4PDeTi86Gr"
+    },
+    {
+      "added_at": "2022-08-02 22:01:00",
+      "album": {
+        "name": "FILM",
+        "url": "https://open.spotify.com/album/2faTekagaBBlJxmQq1LKRp"
+      },
+      "artists": [
+        {
+          "name": "Daria Huber",
+          "url": "https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw"
+        }
+      ],
+      "duration_ms": 146841,
+      "name": "FILM",
+      "url": "https://open.spotify.com/track/2R2v127dl4wjkbIVbmYg5p"
     },
     {
       "added_at": "2022-08-02 22:01:00",

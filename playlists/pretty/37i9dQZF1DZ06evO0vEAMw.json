@@ -1,15 +1,15 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 46197,
+  "num_followers": 46224,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc2NzkwNDYsMDAwMDAwMDBhNjI5M2NlYzlhYzU1Zjc2MGNhYzc5ZjM0YmU1MDBlZQ==",
+  "snapshot_id": "Mjc2ODA1MjgsMDAwMDAwMDBiMmUyOGZlMTM5NDkyZjQxMzU3ZjFmMjhhZmEzOWIxZg==",
   "tracks": [
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Blow My Mind",
         "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx"
@@ -145,27 +145,7 @@
       "url": "https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
-      "album": {
-        "name": "Dada (feat. Davido) [Remix]",
-        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Dada (feat. Davido) [Remix]",
-      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
-    },
-    {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Lie for You (feat. A Boogie Wit Da Hoodie & Davido)",
         "url": "https://open.spotify.com/album/35AiG6czs0vooB8Om58tbx"
@@ -193,7 +173,27 @@
       "url": "https://open.spotify.com/track/6HMgvWVw3yHmFsmpyb864i"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
+      "album": {
+        "name": "Dada (feat. Davido) [Remix]",
+        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Dada (feat. Davido) [Remix]",
+      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
+    },
+    {
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Blessings REMIX (feat. French Montana & Davido)",
         "url": "https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
@@ -233,7 +233,27 @@
       "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
+      "album": {
+        "name": "Breezy (Deluxe)",
+        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Nobody Has To Know (feat. Davido)",
+      "url": "https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso"
+    },
+    {
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
         "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
@@ -261,27 +281,27 @@
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
-        "name": "Breezy (Deluxe)",
-        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
+        "name": "SHOWING OFF HER BODY (with Davido)",
+        "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 179080,
-      "name": "Nobody Has To Know (feat. Davido)",
-      "url": "https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso"
+      "duration_ms": 212639,
+      "name": "SHOWING OFF HER BODY (with Davido)",
+      "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "FIA",
         "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Stand Strong (feat. Sunday Service Choir)",
         "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
@@ -353,31 +373,7 @@
       "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
-      "album": {
-        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
-        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
-      },
-      "artists": [
-        {
-          "name": "Trinidad Cardona",
-          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Aisha",
-          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
-        }
-      ],
-      "duration_ms": 206069,
-      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
-      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
-    },
-    {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "2AM (feat. Tory Lanez & Davido)",
         "url": "https://open.spotify.com/album/3rXxtzPFyUuvhsOW32kyg9"
@@ -401,7 +397,7 @@
       "url": "https://open.spotify.com/track/6OIJcRL2yycLyIbzrwOUty"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Risky",
         "url": "https://open.spotify.com/album/5xqH5tZFoMLLJL8NbmTFBu"
@@ -421,27 +417,7 @@
       "url": "https://open.spotify.com/track/56HnJIjgi41kpjh6L3Y1Ca"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
-      "album": {
-        "name": "SHOWING OFF HER BODY (with Davido)",
-        "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 212639,
-      "name": "SHOWING OFF HER BODY (with Davido)",
-      "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
-    },
-    {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "International Artist",
         "url": "https://open.spotify.com/album/6opJjTuHd4tQ1h2qrus7jH"
@@ -461,7 +437,7 @@
       "url": "https://open.spotify.com/track/1NAR2XeNMp6SegDBp0NlRy"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "QUAVO HUNCHO",
         "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
@@ -485,7 +461,7 @@
       "url": "https://open.spotify.com/track/5KDfDLEaGAQ2uyuzsWByVa"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
@@ -505,23 +481,7 @@
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
-      "album": {
-        "name": "Best Of Davido",
-        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 190295,
-      "name": "Skelewu",
-      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
-    },
-    {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Like (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
@@ -545,7 +505,47 @@
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
+      "album": {
+        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
+        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
+      },
+      "artists": [
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Aisha",
+          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
+        }
+      ],
+      "duration_ms": 206069,
+      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
+      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
+    },
+    {
+      "added_at": "2022-08-18 14:08:17",
+      "album": {
+        "name": "Best Of Davido",
+        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "Skelewu",
+      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
+    },
+    {
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Heat Of The Moment",
         "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
@@ -565,31 +565,23 @@
       "url": "https://open.spotify.com/track/1q03sSwtOk5czzjKFa4qhA"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
-        "name": "Dream Girl (Global Remix)",
-        "url": "https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD"
+        "name": "Assurance",
+        "url": "https://open.spotify.com/album/6huSyEs9vbA9Nfhs3tBFCX"
       },
       "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 212405,
-      "name": "Dream Girl - Global Remix",
-      "url": "https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI"
+      "duration_ms": 249320,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/5Vp6x6DnVjh2JDaC4It6ak"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
         "url": "https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M"
@@ -613,7 +605,31 @@
       "url": "https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
+      "album": {
+        "name": "Dream Girl (Global Remix)",
+        "url": "https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 212405,
+      "name": "Dream Girl - Global Remix",
+      "url": "https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI"
+    },
+    {
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
@@ -629,23 +645,7 @@
       "url": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
-      "album": {
-        "name": "Gobe",
-        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 229668,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
-    },
-    {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Ke Star (Remix)",
         "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
@@ -669,23 +669,7 @@
       "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
-      "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 203505,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU"
-    },
-    {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Nwa Baby",
         "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
@@ -701,10 +685,10 @@
       "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
-        "name": "Assurance",
-        "url": "https://open.spotify.com/album/6huSyEs9vbA9Nfhs3tBFCX"
+        "name": "Gobe",
+        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
       },
       "artists": [
         {
@@ -712,12 +696,12 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 249320,
-      "name": "Assurance",
-      "url": "https://open.spotify.com/track/5Vp6x6DnVjh2JDaC4It6ak"
+      "duration_ms": 229668,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Dami Duro",
         "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
@@ -733,7 +717,7 @@
       "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
@@ -749,27 +733,7 @@
       "url": "https://open.spotify.com/track/3UZsdMo8mE9rzVmy8FjdEA"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Lower Body (feat. Davido)",
-      "url": "https://open.spotify.com/track/2jARcMhrTB54EH2VxNvWpW"
-    },
-    {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
@@ -778,14 +742,38 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         }
       ],
-      "duration_ms": 163636,
-      "name": "1 Milli",
-      "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
+      "duration_ms": 219310,
+      "name": "Disturbance (feat. Peruzzi)",
+      "url": "https://open.spotify.com/track/1alvkxYJx3AcVERNyFJRmF"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2hFJ5AXzhqEzl2meezVwyN"
+      },
+      "artists": [
+        {
+          "name": "King Joel",
+          "url": "https://open.spotify.com/artist/4wyA5NzlO7dAf1fZ1pD36c"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 175307,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/4V9qUKyxbIxLkRGa15eAkN"
+    },
+    {
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Green With Envy",
         "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
@@ -809,7 +797,7 @@
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
@@ -829,47 +817,7 @@
       "url": "https://open.spotify.com/track/5h9n5J7SRLzqBx4PyzhAFs"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2hFJ5AXzhqEzl2meezVwyN"
-      },
-      "artists": [
-        {
-          "name": "King Joel",
-          "url": "https://open.spotify.com/artist/4wyA5NzlO7dAf1fZ1pD36c"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 175307,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/4V9qUKyxbIxLkRGa15eAkN"
-    },
-    {
-      "added_at": "2022-08-17 13:26:26",
-      "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 219310,
-      "name": "Disturbance (feat. Peruzzi)",
-      "url": "https://open.spotify.com/track/1alvkxYJx3AcVERNyFJRmF"
-    },
-    {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/4QKaoPynmreMExrmIU4Nz0"
@@ -893,43 +841,7 @@
       "url": "https://open.spotify.com/track/0NcnzIoouhXB3qc9ZcyHS3"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 164102,
-      "name": "Very Special",
-      "url": "https://open.spotify.com/track/5n5bwxW0hfUIxESGoyY7s1"
-    },
-    {
-      "added_at": "2022-08-17 13:26:26",
-      "album": {
-        "name": "No Bad Songz",
-        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 208427,
-      "name": "One Ticket",
-      "url": "https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1"
-    },
-    {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
@@ -957,27 +869,27 @@
       "url": "https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
+        "name": "No Bad Songz",
+        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Killa (feat. DaVido)",
-      "url": "https://open.spotify.com/track/46YL800EFmXBhOjab7MLsy"
+      "duration_ms": 208427,
+      "name": "One Ticket",
+      "url": "https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
@@ -997,7 +909,27 @@
       "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Lower Body (feat. Davido)",
+      "url": "https://open.spotify.com/track/2jARcMhrTB54EH2VxNvWpW"
+    },
+    {
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Wonder Woman",
         "url": "https://open.spotify.com/album/2aMlq0mM1bhA2CdVChIclZ"
@@ -1013,7 +945,43 @@
       "url": "https://open.spotify.com/track/7Mlxx8SMVwG36rVGjvRCEP"
     },
     {
-      "added_at": "2022-08-17 13:26:26",
+      "added_at": "2022-08-18 14:08:17",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Killa (feat. DaVido)",
+      "url": "https://open.spotify.com/track/46YL800EFmXBhOjab7MLsy"
+    },
+    {
+      "added_at": "2022-08-18 14:08:17",
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 164102,
+      "name": "Very Special",
+      "url": "https://open.spotify.com/track/5n5bwxW0hfUIxESGoyY7s1"
+    },
+    {
+      "added_at": "2022-08-18 14:08:17",
       "album": {
         "name": "Like Dat",
         "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
@@ -1027,6 +995,46 @@
       "duration_ms": 200000,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
+    },
+    {
+      "added_at": "2022-08-18 14:08:17",
+      "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/0u50DEuHzfYNHFRMPaM2H9"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 217777,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/0Bc66CwO7NENnqW60RBDzG"
+    },
+    {
+      "added_at": "2022-08-18 14:08:17",
+      "album": {
+        "name": "The Money",
+        "url": "https://open.spotify.com/album/6fvuVCY2ORKjNdHdR1GOMU"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 221596,
+      "name": "The Money",
+      "url": "https://open.spotify.com/track/0nheubP8e9oOMWw1d6Bz85"
     }
   ],
   "unique_name": "This Is Davido",

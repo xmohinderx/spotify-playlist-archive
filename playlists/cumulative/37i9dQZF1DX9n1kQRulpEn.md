@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [63rd Street Theme](https://open.spotify.com/track/0kFEFWOd5bNB1PuHYaXooo) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Black Is the Color of My True Love's Hair](https://open.spotify.com/album/0Ldhw4V8gj0OKJAjfnYA2f) | 5:34 | 2022-03-04 | 2022-07-29 |
+| [63rd Street Theme](https://open.spotify.com/track/0kFEFWOd5bNB1PuHYaXooo) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Black Is the Color of My True Love's Hair](https://open.spotify.com/album/0Ldhw4V8gj0OKJAjfnYA2f) | 5:34 | 2022-03-04 |  |
 | [900](https://open.spotify.com/track/0KoDN3WUZdpYRGnaH4vXwm) | [Per Lindberg](https://open.spotify.com/artist/1d6qfNgSpuYns0S6smGMrw) | [Flyger](https://open.spotify.com/album/2cu6eKTA5JvJiE9wOroGhn) | 6:17 | 2021-12-16 | 2022-08-18 |
 | [A Go Go](https://open.spotify.com/track/4bcyZfaAWCN5SwJgYToxkN) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [A Go Go](https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3) | 6:35 | 2021-12-16 | 2022-04-28 |
 | [A Pademonium of Parrots](https://open.spotify.com/track/6WlDDKY5DMMHf5w0sJaUkt) | [Ralph Bowen](https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX) | [Ralph Bowen](https://open.spotify.com/album/6Y1nWQufs1kJQknyOV3sQu) | 6:56 | 2021-12-16 |  |
@@ -146,7 +146,7 @@
 | [Up A Step \- Remastered 2000 / Rudy Van Gelder Edition](https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [No Room For Squares \(Remastered 2000 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi) | 8:31 | 2021-12-16 |  |
 | [Watermelon Man \- Alternate Take / Remastered](https://open.spotify.com/track/1VfGDylBa6VHNi1pcxRx1Z) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:34 | 2021-12-16 |  |
 | [Watermelon Man \- Remastered](https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 7:09 | 2021-12-16 | 2022-04-27 |
-| [Wayne Wave](https://open.spotify.com/track/4Nh9SG27En67iOzE3vssBB) | [Simon Spang\-Hanssen](https://open.spotify.com/artist/6dZV0SKjmBTGEeqP15A7CI), [Epistrophy Septet](https://open.spotify.com/artist/2M53NSJyE0yJtEKfaRArTn) | [Plutonic Eclipse](https://open.spotify.com/album/5JTGa2Ycj1XA66W3C63yhC) | 4:09 | 2021-12-16 |  |
+| [Wayne Wave](https://open.spotify.com/track/4Nh9SG27En67iOzE3vssBB) | [Simon Spang\-Hanssen](https://open.spotify.com/artist/6dZV0SKjmBTGEeqP15A7CI), [Epistrophy Septet](https://open.spotify.com/artist/2M53NSJyE0yJtEKfaRArTn) | [Plutonic Eclipse](https://open.spotify.com/album/5JTGa2Ycj1XA66W3C63yhC) | 4:09 | 2021-12-16 | 2022-08-19 |
 | [Weirdo](https://open.spotify.com/track/6ZZTeKUYnl493X7myMxfeS) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Miles Davis \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 4:43 | 2021-12-16 | 2022-01-06 |
 | [Why Don't I \- Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering](https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Volume Two](https://open.spotify.com/album/7JJjXLVOKnpL94UVRIKksn) | 5:45 | 2021-12-16 |  |
 

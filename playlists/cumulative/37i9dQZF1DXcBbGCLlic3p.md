@@ -8,11 +8,11 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ) | 0:00 | 2021-12-23 | 2022-07-29 |
-| [](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 0:00 | 2021-12-23 | 2022-07-29 |
-| [](https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt) | 0:00 | 2021-12-23 | 2022-07-29 |
-| [](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 0:00 | 2021-12-23 | 2022-07-29 |
-| [](https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 0:00 | 2021-12-23 | 2022-07-29 |
+| [](https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ) | 0:00 | 2021-12-23 |  |
+| [](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 0:00 | 2021-12-23 |  |
+| [](https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt) | 0:00 | 2021-12-23 |  |
+| [](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 0:00 | 2021-12-23 |  |
+| [](https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 0:00 | 2021-12-23 |  |
 | [& Wishes](https://open.spotify.com/track/4hkCo5wgTmVLuVRUUgPDu7) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Bittersweet World](https://open.spotify.com/album/6S14GsEPWVumGwNoc4t0Zw) | 2:43 | 2021-12-23 | 2022-07-29 |
 | [& Wishes](https://open.spotify.com/track/73hY81aqUHZF1KHCY7P5Mk) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Bittersweet World](https://open.spotify.com/album/6btauNVZRPm75SILUUOLJY) | 2:44 | 2022-07-22 |  |
 | [A l'aube](https://open.spotify.com/track/4kyq9I3MUOK4UCt9KojulV) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [A l'aube](https://open.spotify.com/album/2PiAhpMBDjNqN85uHRf60G) | 3:24 | 2021-12-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A happy place.",
-  "num_followers": 47243,
+  "num_followers": 47327,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjU5OCwwMDAwMDAwMGQ0ZTM4ZDJiMDkyMTI0Njk4YjRjODUwNWUxMzJlM2Vm",
+  "snapshot_id": "MTY1OTcxNjU5OCwwMDAwMDAwMDExMmE0ZjdhMTFkMWRhNTI4YzVhNjNiODIwMjliOWYy",
   "tracks": [
     {
       "added_at": "2022-08-05 16:23:18",
@@ -403,42 +403,6 @@
     {
       "added_at": "2022-08-05 16:23:18",
       "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
-        }
-      ],
-      "duration_ms": 216770,
-      "name": "Dopamine (feat. Eyelar)",
-      "url": "https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN"
-    },
-    {
-      "added_at": "2022-08-05 16:23:18",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/6fK2iNnPSjak23iOthPngs"
-      },
-      "artists": [
-        {
-          "name": "SHEE",
-          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
-        }
-      ],
-      "duration_ms": 403000,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1pfhurHQnm3xRFYjiNUIWK"
-    },
-    {
-      "added_at": "2022-08-05 16:23:18",
-      "album": {
         "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
         "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
       },
@@ -459,6 +423,42 @@
       "duration_ms": 149760,
       "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
       "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
+    },
+    {
+      "added_at": "2022-08-05 16:23:18",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/6fK2iNnPSjak23iOthPngs"
+      },
+      "artists": [
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        }
+      ],
+      "duration_ms": 403000,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1pfhurHQnm3xRFYjiNUIWK"
+    },
+    {
+      "added_at": "2022-08-05 16:23:18",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "duration_ms": 216770,
+      "name": "Dopamine (feat. Eyelar)",
+      "url": "https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN"
     },
     {
       "added_at": "2022-08-05 16:23:18",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-08-05 16:23:18",
       "album": {
+        "name": "Let Me Love U",
+        "url": "https://open.spotify.com/album/2IvjJ52cELQb89dchfEG7p"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Let Me Love U",
+      "url": "https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb"
+    },
+    {
+      "added_at": "2022-08-05 16:23:18",
+      "album": {
         "name": "Thin Line",
         "url": "https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2022-08-05 16:23:18",
       "album": {
-        "name": "Let Me Love U",
-        "url": "https://open.spotify.com/album/2IvjJ52cELQb89dchfEG7p"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Let Me Love U",
-      "url": "https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb"
-    },
-    {
-      "added_at": "2022-08-05 16:23:18",
-      "album": {
         "name": "Way to Go (Club Soda Mix)",
         "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 224390,
       "name": "Way to Go - Club Soda Mix",
       "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
-    },
-    {
-      "added_at": "2022-08-05 16:23:18",
-      "album": {
-        "name": "Best Of Me",
-        "url": "https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c"
-      },
-      "artists": [
-        {
-          "name": "Picard Brothers",
-          "url": "https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt"
     },
     {
       "added_at": "2022-08-05 16:23:18",
@@ -607,6 +591,22 @@
       "duration_ms": 213387,
       "name": "Everything's Gonna Be Alright (feat. London Community Gospel Choir)",
       "url": "https://open.spotify.com/track/6e9zuRnA4Vsg3PO6I1CMte"
+    },
+    {
+      "added_at": "2022-08-05 16:23:18",
+      "album": {
+        "name": "Best Of Me",
+        "url": "https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c"
+      },
+      "artists": [
+        {
+          "name": "Picard Brothers",
+          "url": "https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt"
     },
     {
       "added_at": "2022-08-05 16:23:18",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-08-05 16:23:18",
       "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Je Vulesse",
+      "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
+    },
+    {
+      "added_at": "2022-08-05 16:23:18",
+      "album": {
         "name": "All 4 Love (feat. Tasty Lopez)",
         "url": "https://open.spotify.com/album/5nG14C8xNuwcroL5obo4dq"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 205645,
       "name": "All 4 Love (feat. Tasty Lopez)",
       "url": "https://open.spotify.com/track/0ib3Pdvgp2ZDk6nO1DC3sJ"
-    },
-    {
-      "added_at": "2022-08-05 16:23:18",
-      "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 288280,
-      "name": "Je Vulesse",
-      "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
     },
     {
       "added_at": "2022-08-05 16:23:18",
@@ -959,22 +959,22 @@
     {
       "added_at": "2022-08-05 16:23:18",
       "album": {
-        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
-        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
       "artists": [
         {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "Jo Wedin",
-          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
+          "name": "Pink Flamingo Rhythm Revue",
+          "url": "https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp"
         }
       ],
-      "duration_ms": 205592,
-      "name": "Tutto va bene quando facciamo l'amore",
-      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+      "duration_ms": 210820,
+      "name": "Money Money",
+      "url": "https://open.spotify.com/track/5Y1hXyy0XdX8R3sY3FAR3q"
     }
   ],
   "unique_name": "DISCOLAND",

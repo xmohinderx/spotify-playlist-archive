@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-424 songs - 1 day 10 hr 17 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+425 songs - 1 day 10 hr 22 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [FINALE=CALENDAR](https://open.spotify.com/track/3UVeASU3LJnY2PHCgHW3WK) | [YAS\-KAZ](https://open.spotify.com/artist/73PSRB59paCEuzf26Hs6jr) | [縄文頌 YASーKAZ](https://open.spotify.com/album/241Uv6kYG9L9xtR5C7R2yV) | 3:24 | 2022-03-31 | 2022-05-01 |
 | [Floating](https://open.spotify.com/track/4U8YAHXSNUHaqk7dzP6MJA) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Floating](https://open.spotify.com/album/5BdlwTChgmfLbryD73UXOp) | 2:16 | 2022-03-31 | 2022-07-27 |
 | [Floating People \(San Francisco\)](https://open.spotify.com/track/5h8l2tGCIzBPAGBV2eHHOs) | [UNKNOWN ME](https://open.spotify.com/artist/5tmYdSKm3f4o6oOFCuxgtR) | [Subtropics](https://open.spotify.com/album/3I0XvrPCUYXiCdEuVcSRH9) | 3:50 | 2022-03-31 | 2022-07-17 |
+| [Flowers](https://open.spotify.com/track/7f69rFN3ec1Qd6bqqgF2qo) | [Makoto Nagata](https://open.spotify.com/artist/5JV3x2QqxVu41zI33U6Bx0) | [Wrapped Death](https://open.spotify.com/album/73umIz3uf1q2OFFIsYm9iR) | 4:24 | 2022-08-18 |  |
 | [Flowing](https://open.spotify.com/track/3VSye7jZrMaYRpI3EA64Ru) | [evala](https://open.spotify.com/artist/6EewOOOCbXlmonZeSG5bbd) | [Acoustic Bend](https://open.spotify.com/album/5sUHb2FbgLxbpzpDHtgJZg) | 2:20 | 2022-04-07 | 2022-07-10 |
 | [Focus](https://open.spotify.com/track/0nYzTuQYAyHrjLGykDAOYv) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Towako's Diary \(「大豆田とわ子と三人の元夫」オリジナル・サウンドトラック\)](https://open.spotify.com/album/0X41ZR7MGRV5pJfHhdtbo4) | 2:44 | 2022-03-31 | 2022-07-29 |
 | [Forgotten River](https://open.spotify.com/track/1fXB8yow8kzrhjjwfypL7U) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [More Beautiful Than Silence](https://open.spotify.com/album/0wwDxX0rvd3PhjPzapZUFU) | 4:52 | 2022-03-31 | 2022-07-05 |
@@ -406,7 +407,7 @@
 | [スペース・ウォーク](https://open.spotify.com/track/28z3Z7d4CV7ZfIMPke4YDL) | [Fumitaka Anzai](https://open.spotify.com/artist/4OTYMWI4V9BSGzxWcGtri6) | [ミッション・アステロイド](https://open.spotify.com/album/5bdR7P4hUK0gSC0kh6qqEW) | 4:03 | 2022-03-31 | 2022-07-24 |
 | [ヌーベ](https://open.spotify.com/track/1uGaDzvMn9XrgHvr9EeYFu) | [Yoichiro Yoshikawa](https://open.spotify.com/artist/4Ef8qgSxvQrw5PLeuskQ9X) | [MUSIC FOR "THE MIRACLE PLANET" NHK特集「地球大紀行」オリジナル・サウンドトラックより](https://open.spotify.com/album/3jK2jOK7YGZ5Dv3mHWqGWf) | 2:02 | 2022-03-31 | 2022-07-11 |
 | [バイオ・フィロソフィー/Bio Philosophy](https://open.spotify.com/track/6tsoeI7fM4dBZwZv46NUDK) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [コインシデンタル・ミュージック/Coincidental Music](https://open.spotify.com/album/3yBrCTU5XXeOtAkFDjwryE) | 4:38 | 2022-03-30 | 2022-07-15 |
-| [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 | 2022-04-16 |  |
+| [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 | 2022-04-16 | 2022-08-19 |
 | [リメンバー](https://open.spotify.com/track/2O6YzqNprO5OasRGHkQwJX) | [Emerson Kitamura](https://open.spotify.com/artist/2oDfZI1woLIypoYM53lv72) | [ロックンロールのはじまりは](https://open.spotify.com/album/3izQRdFJTfJ0NkWhew7nP2) | 5:37 | 2022-04-16 | 2022-07-29 |
 | [ヴェニス風縞模様](https://open.spotify.com/track/4ov5ZrFBeUhXZ8mJ3lXpM6) | [柴野さつき](https://open.spotify.com/artist/3ZEZtytFUtMhTrjr5LK9qR) | [ランデ・ヴ](https://open.spotify.com/album/5NisOSPqxx4ApGyO2efQNb) | 3:24 | 2022-03-31 | 2022-07-21 |
 | [傷つきやすくて](https://open.spotify.com/track/4mIWz0pIJ9Svto6arLLfps) | [Shiho Yabuki](https://open.spotify.com/artist/7duimCZBx2z090JINWDE5V) | [Kanebo Sound Esthetique 1 「きっと、すなおになれる。」](https://open.spotify.com/album/3Ir5KdZhcpyFvHm8QeuzmU) | 3:52 | 2022-04-07 | 2022-07-21 |

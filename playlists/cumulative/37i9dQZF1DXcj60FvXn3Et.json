@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166533,
       "name": "Dark Souls 3",
       "url": "https://open.spotify.com/track/2xIRBmAuVk6s7ZoukykRqS"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188626,
       "name": "Flood",
       "url": "https://open.spotify.com/track/3GezVOAZIfruh5Tir1hNEU"
@@ -664,13 +664,17 @@
     },
     {
       "album": {
-        "name": "Assassin\u2019s Creed 3: Liberation (Original Game Soundtrack)",
+        "name": "Assassin's Creed 3: Liberation (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/5g5wn7B5Gy2OHm5VhDmqwq"
       },
       "artists": [
         {
           "name": "Winifred Phillips",
           "url": "https://open.spotify.com/artist/3WdyhLLusqZPFr1coSYNnA"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
         }
       ],
       "date_added": "2021-03-01",
@@ -729,7 +733,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Love Blossoms",
       "url": "https://open.spotify.com/track/1HfTQWEZl6Qynha7AJj3LT"

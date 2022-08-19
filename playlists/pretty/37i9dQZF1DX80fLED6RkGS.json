@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q?si=dHc9UkpbQz2jb-MNOXBWbw\">Boondocks Gang</a> ",
-  "num_followers": 12354,
+  "num_followers": 12370,
   "original_name": "Gengetone Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1MTU0MCwwMDAwMDAwMDNhMGY0MjlhZWJmYTRlNWZmNGUzMWJmNTNkNTY4OWJm",
+  "snapshot_id": "MTY2MDg1NjM0MCwwMDAwMDAwMGVmNGUzNGUyNzgwNDVmYWEzZDE5NDU2NDRiZDk4OTI1",
   "tracks": [
     {
       "added_at": "2022-06-30 20:59:00",
@@ -43,6 +43,34 @@
       "duration_ms": 154388,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu"
+    },
+    {
+      "added_at": "2022-08-18 20:59:00",
+      "album": {
+        "name": "Mahewa (Remix)",
+        "url": "https://open.spotify.com/album/6qayCvWNrxRwu7WUyO7v0M"
+      },
+      "artists": [
+        {
+          "name": "Gody Tennor",
+          "url": "https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB"
+        },
+        {
+          "name": "Kushman Pedi Wa Magenge",
+          "url": "https://open.spotify.com/artist/7jEJcY9wV2iQpXFVAu1lGF"
+        },
+        {
+          "name": "Parroty",
+          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
+        },
+        {
+          "name": "Wakanda",
+          "url": "https://open.spotify.com/artist/4eADGBViPg3rolrLAlGWTY"
+        }
+      ],
+      "duration_ms": 252244,
+      "name": "Mahewa - Remix",
+      "url": "https://open.spotify.com/track/3KLcOOjnMXyZFk5ZFekGgW"
     },
     {
       "added_at": "2022-08-11 20:59:00",
@@ -93,32 +121,40 @@
       "url": "https://open.spotify.com/track/3Dvxpka8fCFTidzANF4Xpm"
     },
     {
-      "added_at": "2022-08-11 20:59:00",
+      "added_at": "2022-07-07 20:59:00",
       "album": {
-        "name": "Freshi Barida (Remix)",
-        "url": "https://open.spotify.com/album/4eXnMIxfeI9uvVhwanHigy"
+        "name": "Nasikia Wah",
+        "url": "https://open.spotify.com/album/3UWUoIRvsWuCBGEU03xNoh"
       },
       "artists": [
         {
-          "name": "Stevo Simple Boy",
-          "url": "https://open.spotify.com/artist/4AWQoDrvQdiwSMZgphLTfI"
+          "name": "Boondocks Gang",
+          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
         },
         {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
-        },
-        {
-          "name": "Ntosh Ngazi",
-          "url": "https://open.spotify.com/artist/4QvwgtZXeVbmyeKTRqOczU"
-        },
-        {
-          "name": "Exray",
-          "url": "https://open.spotify.com/artist/4LuC7VnBIHO29vdcrMtk8l"
+          "name": "Ethic Entertainment",
+          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
         }
       ],
-      "duration_ms": 205360,
-      "name": "Freshi Barida - Remix",
-      "url": "https://open.spotify.com/track/5YGdJhOjYHJsJgE9PGlCMF"
+      "duration_ms": 219782,
+      "name": "Nasikia Wah",
+      "url": "https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm"
+    },
+    {
+      "added_at": "2022-08-18 20:59:00",
+      "album": {
+        "name": "Dakika Tano",
+        "url": "https://open.spotify.com/album/3dvnUAmlRM10DUgVyQmN58"
+      },
+      "artists": [
+        {
+          "name": "Rekles",
+          "url": "https://open.spotify.com/artist/4HJqolqPOEFhm9AmEKeQ83"
+        }
+      ],
+      "duration_ms": 188682,
+      "name": "Dakika Tano",
+      "url": "https://open.spotify.com/track/6rpo0AjGoDcks0A9YAUTqd"
     },
     {
       "added_at": "2022-05-19 20:59:00",
@@ -145,24 +181,32 @@
       "url": "https://open.spotify.com/track/0u34DWVuRf6hmWJDJx08gT"
     },
     {
-      "added_at": "2022-07-07 20:59:00",
+      "added_at": "2022-08-11 20:59:00",
       "album": {
-        "name": "Nasikia Wah",
-        "url": "https://open.spotify.com/album/3UWUoIRvsWuCBGEU03xNoh"
+        "name": "Freshi Barida (Remix)",
+        "url": "https://open.spotify.com/album/4eXnMIxfeI9uvVhwanHigy"
       },
       "artists": [
         {
-          "name": "Boondocks Gang",
-          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
+          "name": "Stevo Simple Boy",
+          "url": "https://open.spotify.com/artist/4AWQoDrvQdiwSMZgphLTfI"
         },
         {
-          "name": "Ethic Entertainment",
-          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Ntosh Ngazi",
+          "url": "https://open.spotify.com/artist/4QvwgtZXeVbmyeKTRqOczU"
+        },
+        {
+          "name": "Exray",
+          "url": "https://open.spotify.com/artist/4LuC7VnBIHO29vdcrMtk8l"
         }
       ],
-      "duration_ms": 219782,
-      "name": "Nasikia Wah",
-      "url": "https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm"
+      "duration_ms": 205360,
+      "name": "Freshi Barida - Remix",
+      "url": "https://open.spotify.com/track/5YGdJhOjYHJsJgE9PGlCMF"
     },
     {
       "added_at": "2022-07-14 20:59:00",
@@ -193,6 +237,26 @@
       "url": "https://open.spotify.com/track/2cy5jKcaRg831XEwEyxSR8"
     },
     {
+      "added_at": "2022-08-18 20:59:00",
+      "album": {
+        "name": "Zimenyilo",
+        "url": "https://open.spotify.com/album/4518jXSeHMv11oSsWYd8FN"
+      },
+      "artists": [
+        {
+          "name": "Parroty",
+          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
+        },
+        {
+          "name": "Naiboi",
+          "url": "https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6"
+        }
+      ],
+      "duration_ms": 203728,
+      "name": "Zimenyilo",
+      "url": "https://open.spotify.com/track/2GNMxLvOFuxBV1b9NGzscD"
+    },
+    {
       "added_at": "2022-08-11 20:59:00",
       "album": {
         "name": "Naskia Poa Remix",
@@ -215,6 +279,50 @@
       "duration_ms": 193280,
       "name": "Naskia Poa Remix",
       "url": "https://open.spotify.com/track/7CHCfjUFyQwUmFncAAmxwB"
+    },
+    {
+      "added_at": "2022-03-18 15:35:25",
+      "album": {
+        "name": "Gin ama Whiskey",
+        "url": "https://open.spotify.com/album/6F9EfYlmPZAosOTfVOCCx0"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "duration_ms": 246883,
+      "name": "Gin ama Whiskey",
+      "url": "https://open.spotify.com/track/4avsKo1gmFshYWbaom1ziJ"
+    },
+    {
+      "added_at": "2022-08-11 20:59:00",
+      "album": {
+        "name": "Ng'ang'o",
+        "url": "https://open.spotify.com/album/0cCmWkYJragCVVC2seT3fc"
+      },
+      "artists": [
+        {
+          "name": "VDJ Jones",
+          "url": "https://open.spotify.com/artist/5CoXG9KZC7qK1LsZ4FYtAm"
+        },
+        {
+          "name": "Bussa J",
+          "url": "https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd"
+        },
+        {
+          "name": "Iano Ranking",
+          "url": "https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "Ng'ang'o",
+      "url": "https://open.spotify.com/track/1WuBrDXMqotDpjPJxLR9VP"
     },
     {
       "added_at": "2022-07-01 03:54:45",
@@ -255,26 +363,6 @@
       "duration_ms": 160151,
       "name": "Usiniharibie Mood",
       "url": "https://open.spotify.com/track/5OflrN0O5MUtruSRH3KILR"
-    },
-    {
-      "added_at": "2022-03-18 15:35:25",
-      "album": {
-        "name": "Gin ama Whiskey",
-        "url": "https://open.spotify.com/album/6F9EfYlmPZAosOTfVOCCx0"
-      },
-      "artists": [
-        {
-          "name": "Breeder LW",
-          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
-        },
-        {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
-        }
-      ],
-      "duration_ms": 246883,
-      "name": "Gin ama Whiskey",
-      "url": "https://open.spotify.com/track/4avsKo1gmFshYWbaom1ziJ"
     },
     {
       "added_at": "2022-08-11 20:59:00",
@@ -375,30 +463,6 @@
       "duration_ms": 178662,
       "name": "Kwaito",
       "url": "https://open.spotify.com/track/0Ufi9fI168Dv2QJqeyxtH6"
-    },
-    {
-      "added_at": "2022-08-11 20:59:00",
-      "album": {
-        "name": "Ng'ang'o",
-        "url": "https://open.spotify.com/album/0cCmWkYJragCVVC2seT3fc"
-      },
-      "artists": [
-        {
-          "name": "VDJ Jones",
-          "url": "https://open.spotify.com/artist/5CoXG9KZC7qK1LsZ4FYtAm"
-        },
-        {
-          "name": "Bussa J",
-          "url": "https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd"
-        },
-        {
-          "name": "Iano Ranking",
-          "url": "https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "Ng'ang'o",
-      "url": "https://open.spotify.com/track/1WuBrDXMqotDpjPJxLR9VP"
     },
     {
       "added_at": "2022-07-07 20:59:00",
@@ -997,6 +1061,26 @@
       "url": "https://open.spotify.com/track/2yK919ZuJ54CQscoSVCPAQ"
     },
     {
+      "added_at": "2022-08-18 20:59:00",
+      "album": {
+        "name": "This Life",
+        "url": "https://open.spotify.com/album/7Jpo8hdYQsZWsjpMv8UXRx"
+      },
+      "artists": [
+        {
+          "name": "Imadh",
+          "url": "https://open.spotify.com/artist/0TOKFUBpQUqy5njsggfDUb"
+        },
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        }
+      ],
+      "duration_ms": 240041,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/7apKD9mYK4mD1qR0lHgxAF"
+    },
+    {
       "added_at": "2022-05-19 20:59:00",
       "album": {
         "name": "Balaa",
@@ -1139,6 +1223,22 @@
       "duration_ms": 252264,
       "name": "Mbona Depression",
       "url": "https://open.spotify.com/track/30dkiusOfYnXcuw0r7rJYS"
+    },
+    {
+      "added_at": "2022-08-18 20:59:00",
+      "album": {
+        "name": "DANCEHALLING",
+        "url": "https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc"
+      },
+      "artists": [
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "DANCEHALLING",
+      "url": "https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi"
     },
     {
       "added_at": "2022-03-03 20:59:00",
@@ -1547,38 +1647,6 @@
       "duration_ms": 224000,
       "name": "Sirudi Home - Refix",
       "url": "https://open.spotify.com/track/2At9zUR7cfWVrndDmvmAOv"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "Chingri",
-        "url": "https://open.spotify.com/album/1AiSsGlNTqmeUuSMAiMXCD"
-      },
-      "artists": [
-        {
-          "name": "Ongwen",
-          "url": "https://open.spotify.com/artist/684Qot9eoFeYpHUolypT6E"
-        },
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
-        },
-        {
-          "name": "Swat Matire",
-          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
-        },
-        {
-          "name": "Harry Craze",
-          "url": "https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp"
-        },
-        {
-          "name": "Zzero Sufuri",
-          "url": "https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7"
-        }
-      ],
-      "duration_ms": 240837,
-      "name": "Chingri",
-      "url": "https://open.spotify.com/track/695iTP0Wk2V9gBHRKiplZb"
     },
     {
       "added_at": "2021-09-02 20:59:00",

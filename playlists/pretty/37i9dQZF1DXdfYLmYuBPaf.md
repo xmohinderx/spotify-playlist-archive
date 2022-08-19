@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfYLmYuBPaf.md) - [plain]
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,066 likes - 59 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,074 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,16 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfYLmYuBPaf.md) - [plain]
 | 46 | [Tika Tika](https://open.spotify.com/track/7Ii3cWYMiQt18YiZbkYOJh) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Tchotcho](https://open.spotify.com/artist/3UG63kf0QuUZSTK15rJtkb) | [Tika Tika](https://open.spotify.com/album/2TxQgwTTSlAjmx6M5ln2oq) | 3:14 |
 | 47 | [Io Sono Tunisino \(feat\. Jamloun\)](https://open.spotify.com/track/6u2bdvyZOKbkO01mvcDwks) | [Neshez](https://open.spotify.com/artist/0QvqvkYDw8YXk6A6HBODpq), [Jamloun](https://open.spotify.com/artist/1frFDCoeQDBLGVbVYfP10g) | [Neshez \- Musique Originale Du Film "Vhs\-Kahloucha"](https://open.spotify.com/album/62PBLl9jsv9ILgclz1c2SW) | 3:14 |
 | 48 | [Bara Ghani](https://open.spotify.com/track/3VCObdLJBakzLgZPGRboI8) | [Haydar Hamdi](https://open.spotify.com/artist/20ZV4HCxM3dBlKTWIhZglN) | [Fikra](https://open.spotify.com/album/6m08yFBF4tijgdvwfJTVE3) | 4:40 |
-| 49 | [Ala Arabati Jaddi](https://open.spotify.com/track/03IuR9TW9GQEG8Z4e48yth) | [Stephane Husar](https://open.spotify.com/artist/4m6Gg5tLbuoiMNnEFOgtcK), [Qaïs Saadi](https://open.spotify.com/artist/6IDvorIo7wSVdLDIUUvQMR) | [Sing & Learn Arabic](https://open.spotify.com/album/1rCkwA10vL6FlxRbPANQqz) | 3:15 |
-| 50 | [ريلاشن شيب](https://open.spotify.com/track/2FKBMvCMaW64DvYTF5pDsD) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [انفصام](https://open.spotify.com/album/7he1Sqbz3Oi3sVBQZUZsHc) | 3:01 |
-| 51 | [Selem selem alikoum](https://open.spotify.com/track/4FrN0UeXDXMMjwdVWZKG8M) | [Jimmy Oihid](https://open.spotify.com/artist/1NCgkTTXC4rzdoh5xZPhAn) | [Oriental Roots](https://open.spotify.com/album/7EjIvFhQ0MFnDOneE274ZU) | 3:41 |
-| 52 | [مجنون ليلى](https://open.spotify.com/track/1SRRG1uvvZFI2rdW29jUZc) | [Elos Byuri](https://open.spotify.com/artist/2c0W9HOZvZnTALZrBhcuj6) | [مجنون ليلى](https://open.spotify.com/album/6agVMrWHlfvfdHjWVr9jAT) | 3:42 |
-| 53 | [General Suleiman](https://open.spotify.com/track/72M5udVFetsH9Ga6i25no7) | [Zeid and the Wings](https://open.spotify.com/artist/262WKWZkp6ZpLUyxOVyPZi) | [General Suleiman \- Single](https://open.spotify.com/album/3v9aU2QPhQOcDQYt06WGmX) | 3:10 |
-| 54 | [Fech Tchoufi](https://open.spotify.com/track/5LTuAtrv6O3ex7dvULOuA3) | [Haydar Hamdi](https://open.spotify.com/artist/20ZV4HCxM3dBlKTWIhZglN) | [Fikra](https://open.spotify.com/album/6m08yFBF4tijgdvwfJTVE3) | 4:21 |
-| 55 | [بيتي العتيق](https://open.spotify.com/track/7zHLx1NIvAvrwfs89hKNvf) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS) | 4:25 |
-| 56 | [Alladin Dub](https://open.spotify.com/track/2nx1z24jfU0GlxZRla9ZG9) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Arabadub](https://open.spotify.com/album/1SV6bIoG7MNh0RyQZESMBE) | 4:15 |
-| 57 | [Jeena](https://open.spotify.com/track/16RzfZHB5vfKfcXjY0brkN) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 4:24 |
-| 58 | [Ya laymi](https://open.spotify.com/track/6ikQHuDvuzgy9oReEn0liD) | [Gnawa Diffusion](https://open.spotify.com/artist/4s0srRj9YXjM8J0TK2QVzP) | [Audio\-Globine : 20 ans d'âge](https://open.spotify.com/album/5T6scDxONEFqRWIwz129WF) | 8:54 |
-| 59 | [Lashog Altareeg](https://open.spotify.com/track/4A6i6Z0GPCCeY7npuXiEIr) | [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas) | [Lashog Altareeg](https://open.spotify.com/album/6fVhr3f0XOtKdmMmjSauL7) | 3:40 |
+| 49 | [Another Planet](https://open.spotify.com/track/7Ep1e9ytrTJvHQBAH0FEl9) | [Loui$ XIV](https://open.spotify.com/artist/4GopqQBVl1DWvqKRZe28Rq) | [Darkness](https://open.spotify.com/album/0biEHbaYequPLvH9lW2vCz) | 3:26 |
+| 50 | [Ala Arabati Jaddi](https://open.spotify.com/track/03IuR9TW9GQEG8Z4e48yth) | [Stephane Husar](https://open.spotify.com/artist/4m6Gg5tLbuoiMNnEFOgtcK), [Qaïs Saadi](https://open.spotify.com/artist/6IDvorIo7wSVdLDIUUvQMR) | [Sing & Learn Arabic](https://open.spotify.com/album/1rCkwA10vL6FlxRbPANQqz) | 3:15 |
+| 51 | [ريلاشن شيب](https://open.spotify.com/track/2FKBMvCMaW64DvYTF5pDsD) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [انفصام](https://open.spotify.com/album/7he1Sqbz3Oi3sVBQZUZsHc) | 3:01 |
+| 52 | [Selem selem alikoum](https://open.spotify.com/track/4FrN0UeXDXMMjwdVWZKG8M) | [Jimmy Oihid](https://open.spotify.com/artist/1NCgkTTXC4rzdoh5xZPhAn) | [Oriental Roots](https://open.spotify.com/album/7EjIvFhQ0MFnDOneE274ZU) | 3:41 |
+| 53 | [مجنون ليلى](https://open.spotify.com/track/1SRRG1uvvZFI2rdW29jUZc) | [Elos Byuri](https://open.spotify.com/artist/2c0W9HOZvZnTALZrBhcuj6) | [مجنون ليلى](https://open.spotify.com/album/6agVMrWHlfvfdHjWVr9jAT) | 3:42 |
+| 54 | [General Suleiman](https://open.spotify.com/track/72M5udVFetsH9Ga6i25no7) | [Zeid and the Wings](https://open.spotify.com/artist/262WKWZkp6ZpLUyxOVyPZi) | [General Suleiman \- Single](https://open.spotify.com/album/3v9aU2QPhQOcDQYt06WGmX) | 3:10 |
+| 55 | [Fech Tchoufi](https://open.spotify.com/track/5LTuAtrv6O3ex7dvULOuA3) | [Haydar Hamdi](https://open.spotify.com/artist/20ZV4HCxM3dBlKTWIhZglN) | [Fikra](https://open.spotify.com/album/6m08yFBF4tijgdvwfJTVE3) | 4:21 |
+| 56 | [بيتي العتيق](https://open.spotify.com/track/7zHLx1NIvAvrwfs89hKNvf) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS) | 4:25 |
+| 57 | [Alladin Dub](https://open.spotify.com/track/2nx1z24jfU0GlxZRla9ZG9) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Arabadub](https://open.spotify.com/album/1SV6bIoG7MNh0RyQZESMBE) | 4:15 |
+| 58 | [Jeena](https://open.spotify.com/track/16RzfZHB5vfKfcXjY0brkN) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 4:24 |
+| 59 | [Ya laymi](https://open.spotify.com/track/6ikQHuDvuzgy9oReEn0liD) | [Gnawa Diffusion](https://open.spotify.com/artist/4s0srRj9YXjM8J0TK2QVzP) | [Audio\-Globine : 20 ans d'âge](https://open.spotify.com/album/5T6scDxONEFqRWIwz129WF) | 8:54 |
+| 60 | [Lashog Altareeg](https://open.spotify.com/track/4A6i6Z0GPCCeY7npuXiEIr) | [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas) | [Lashog Altareeg](https://open.spotify.com/album/6fVhr3f0XOtKdmMmjSauL7) | 3:40 |
 
-Snapshot ID: `MTYyODY0NjEyMSwwMDAwMDAwMDMzYzc5OWE2N2JkYTJlMzdjNDNkNmRmOTY1NDYwNWM0`
+Snapshot ID: `MTYyODY0NjEyMSwwMDAwMDAwMDNjMDk2NmIwODliNDdmZGZmYmQxMmIyOThlZDYyNDll`

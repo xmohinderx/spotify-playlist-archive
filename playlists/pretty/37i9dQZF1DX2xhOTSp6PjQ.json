@@ -1,12 +1,12 @@
 {
   "description": "Maskandi favourites for every day of the week. Cover: <a href=\"https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS-wXav9tJWA\">Phuzekhemisi</a>",
-  "num_followers": 14919,
+  "num_followers": 14935,
   "original_name": "Maskandi Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDAyMjI2MSwwMDAwMDAwMGVmNDMzYzUwOTRlNjljNjQ5YmU4ZjgwZDgxNzk1ZTc3",
+  "snapshot_id": "MTYzNDAyMjI2MSwwMDAwMDAwMDFiZTk0NzY2YTBhM2U0NDkzYmY5YWMxMThlNzgxMjdl",
   "tracks": [
     {
       "added_at": "2021-10-12 07:04:21",
@@ -95,6 +95,22 @@
     {
       "added_at": "2018-09-25 06:39:13",
       "album": {
+        "name": "The Best Of Traditional South African Music",
+        "url": "https://open.spotify.com/album/5r48JyMk448sZ5OGopjfcx"
+      },
+      "artists": [
+        {
+          "name": "IZINGANE ZOMA",
+          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Inzondo",
+      "url": "https://open.spotify.com/track/3jmv4dhLatPanmC4lX7JaE"
+    },
+    {
+      "added_at": "2018-09-25 06:39:13",
+      "album": {
         "name": "Greatest Moments Of",
         "url": "https://open.spotify.com/album/0nLOqOS3t7akMp44aTzqIj"
       },
@@ -123,6 +139,26 @@
       "duration_ms": 290346,
       "name": "Sivimbe Ngezansi",
       "url": "https://open.spotify.com/track/4bsPPar6qAk3a920nvHeT5"
+    },
+    {
+      "added_at": "2019-06-24 07:46:52",
+      "album": {
+        "name": "Emkhathini",
+        "url": "https://open.spotify.com/album/43GsmX58ZoBRLv1R4UZiCd"
+      },
+      "artists": [
+        {
+          "name": "Shwi noMtekhala",
+          "url": "https://open.spotify.com/artist/3u7RxCpLc0QpXX6wiVWKZ6"
+        },
+        {
+          "name": "Maphungula",
+          "url": "https://open.spotify.com/artist/7bbXvPy5gAzivkwv5oRJI8"
+        }
+      ],
+      "duration_ms": 347853,
+      "name": "Nqola Yompilo",
+      "url": "https://open.spotify.com/track/4EjSqywjAT6wszkZxXnPyj"
     },
     {
       "added_at": "2018-09-25 06:39:13",
@@ -155,6 +191,22 @@
       "duration_ms": 263066,
       "name": "Izulu",
       "url": "https://open.spotify.com/track/6IYiXBVJ6JieWediZllERf"
+    },
+    {
+      "added_at": "2019-05-13 08:20:12",
+      "album": {
+        "name": "I Magic",
+        "url": "https://open.spotify.com/album/4DR2LkB4JWkcT5ZBaqRgSN"
+      },
+      "artists": [
+        {
+          "name": "Umgqumeni",
+          "url": "https://open.spotify.com/artist/4nMTRK9u7Zt9lKCPnF06zB"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Sakhala Kamnandi",
+      "url": "https://open.spotify.com/track/10FGIW76glXqbxi6gSOxwJ"
     },
     {
       "added_at": "2018-09-25 06:39:13",
@@ -207,6 +259,26 @@
       "duration_ms": 239160,
       "name": "Wamuhle (feat. Shwi Nomtekhala)",
       "url": "https://open.spotify.com/track/3Mn0yb2hJuU3AcH66apMei"
+    },
+    {
+      "added_at": "2019-09-24 07:26:01",
+      "album": {
+        "name": "Emkhathini",
+        "url": "https://open.spotify.com/album/43GsmX58ZoBRLv1R4UZiCd"
+      },
+      "artists": [
+        {
+          "name": "Shwi noMtekhala",
+          "url": "https://open.spotify.com/artist/3u7RxCpLc0QpXX6wiVWKZ6"
+        },
+        {
+          "name": "Maphungula",
+          "url": "https://open.spotify.com/artist/7bbXvPy5gAzivkwv5oRJI8"
+        }
+      ],
+      "duration_ms": 334373,
+      "name": "Emkhathini",
+      "url": "https://open.spotify.com/track/0VaIf3loFYGRl9pVlnsYRL"
     },
     {
       "added_at": "2018-09-25 06:39:13",
@@ -511,6 +583,22 @@
     {
       "added_at": "2018-09-25 06:39:13",
       "album": {
+        "name": "Izihlwele",
+        "url": "https://open.spotify.com/album/5LAxoXLEgCyptZpryTXcSs"
+      },
+      "artists": [
+        {
+          "name": "Bahubhe",
+          "url": "https://open.spotify.com/artist/2pisTvrJlAr0NTxvXOuLOv"
+        }
+      ],
+      "duration_ms": 300973,
+      "name": "Izihlwele",
+      "url": "https://open.spotify.com/track/6iFCyBOk9UTRNgb7Oz2oKg"
+    },
+    {
+      "added_at": "2018-09-25 06:39:13",
+      "album": {
         "name": "Umaqondana",
         "url": "https://open.spotify.com/album/0vUQN638CtvfoPIopVIY8o"
       },
@@ -675,6 +763,22 @@
       "duration_ms": 257754,
       "name": "Sikhokha Njalo",
       "url": "https://open.spotify.com/track/4DtXsMWFsOxsWgldeXiavB"
+    },
+    {
+      "added_at": "2018-09-25 06:39:13",
+      "album": {
+        "name": "Izwe Lihle Ngabantu",
+        "url": "https://open.spotify.com/album/5RFD1wyMiFxwFTqxs9UX0i"
+      },
+      "artists": [
+        {
+          "name": "Mfiliseni Magubane",
+          "url": "https://open.spotify.com/artist/3b9PzSL6PxZRA6k4Dqmajs"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Thenjiwe",
+      "url": "https://open.spotify.com/track/75aBCMT86TKSlEgpIz1tT9"
     },
     {
       "added_at": "2019-05-02 06:33:33",

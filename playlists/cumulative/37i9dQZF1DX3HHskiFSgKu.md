@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/7jT2PnjzkziqfxhiMgGs5r) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/1EmaWIpdBQ1QBUf96EltGQ) | 3:50 | 2018-05-09 | 2022-07-29 |
+| [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/7jT2PnjzkziqfxhiMgGs5r) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/1EmaWIpdBQ1QBUf96EltGQ) | 3:50 | 2018-05-09 |  |
 | [24 Hours \(feat\. 2 Chainz\)](https://open.spotify.com/track/7LWtfSW68VAkHp3hpcFDCY) | [TeeFLii](https://open.spotify.com/artist/1pCVxwkdixCeBPTboRZIi2), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [24 Hours \(feat\. 2 Chainz\)](https://open.spotify.com/album/6cCaBZtQSFXUkXeENOuMP9) | 3:35 | 2018-05-09 |  |
 | [Be Real](https://open.spotify.com/track/2aYzt5nE3tBUMahasMUoOl) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Be Real](https://open.spotify.com/album/0tWUzJow4pNAyHWbubBiHw) | 3:26 | 2018-05-09 | 2022-07-29 |
 | [Be Real \(feat\. DeJ Loaf\)](https://open.spotify.com/track/4fUh9VvKW4shhWN5LfN1Ba) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Full Speed](https://open.spotify.com/album/0d8ZiQuUcHDzUkqz9PEn7j) | 3:26 | 2018-05-09 |  |

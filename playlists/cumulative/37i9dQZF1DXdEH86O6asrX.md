@@ -4,7 +4,7 @@
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-151 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/3aN5jpBdtu5i0Yw4idYp92)
+152 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/3aN5jpBdtu5i0Yw4idYp92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Garbage Truck](https://open.spotify.com/track/4YbslGpDoOgJgH8wqSdfaP) | [Sex Bob\-Omb](https://open.spotify.com/artist/0epidpyARaIPmKpFUwcgnJ) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 1:43 | 2022-01-27 |  |
 | [Goin' to Acapulco](https://open.spotify.com/track/1239baQ1b9cD0RRv5Jy9Sb) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [I'm Not There \(Music From The Motion Picture\)](https://open.spotify.com/album/6ZSp2CcRWdyTm50DbI9MAX) | 4:58 | 2022-01-27 | 2022-07-29 |
 | [Goodnight Moon](https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul) | [Shivaree](https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 4:03 | 2022-01-27 |  |
+| [Guarding The Gates \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/0vxTKTxKoTmljpT7gb4U1h) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Guarding The Gates \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/5dLSIo9cqbNiSRZNw4C6am) | 6:00 | 2022-01-27 |  |
 | [Guarding The Gates \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1SrXd884BCFBzWXiUSdJ6l) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM) | 6:00 | 2022-01-27 | 2022-07-07 |
 | [Harry's Wondrous World](https://open.spotify.com/track/5qWvQZewRB57giOKgvUE3F) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 5:01 | 2021-12-14 | 2022-06-01 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1BMmB1L5PbedWBAFl3xf27) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29vvOZZDLLZavty2hkZySE) | 2:37 | 2021-12-14 | 2022-07-28 |
@@ -124,7 +125,7 @@
 | [Star of Bethlehem \- Voice](https://open.spotify.com/track/5MNkMPDxNoQCILLPJw4XAB) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 2:59 | 2021-12-14 | 2022-06-27 |
 | [Stay Clean](https://open.spotify.com/track/4darFGRwNWh1OHFEjUs0hq) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Sing Street \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ubvuN0J0CPRUa2JUE2pxM) | 2:39 | 2022-01-27 | 2022-07-29 |
 | [Storytime](https://open.spotify.com/track/2k8gwTGsi3IwKp3xqaddbe) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/5K8mB1LGyBDQBKnj6k64Uq) | 2:35 | 2021-12-14 | 2022-07-29 |
-| [Strangers](https://open.spotify.com/track/7obb4s6A7gf0Lc2AGxodMy) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. One](https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi) | 3:18 | 2022-01-27 |  |
+| [Strangers](https://open.spotify.com/track/7obb4s6A7gf0Lc2AGxodMy) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. One](https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi) | 3:18 | 2022-01-27 | 2022-08-19 |
 | [Strangers](https://open.spotify.com/track/3L6bCxrwKe1qnsqFzssR4R) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Darjeeling Limited](https://open.spotify.com/album/5ZYgdnOWgfgruHFLt1J3Ss) | 3:20 | 2022-01-27 | 2022-07-29 |
 | [Suspirium](https://open.spotify.com/track/0rlfGg5Ym6J9AA97ah7voH) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Suspiria \(Music for the Luca Guadagnino Film\)](https://open.spotify.com/album/0nZg85VbGkPcr7zQ6EsJKa) | 3:21 | 2022-01-27 | 2022-07-29 |
 | [Suspirium](https://open.spotify.com/track/4Y1igB1GDncJvt7ezbV3cW) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Suspiria \(Music for the Luca Guadagnino Film\)](https://open.spotify.com/album/2UehMLybYgLuuNHRNJpbCB) | 3:21 | 2022-01-27 |  |

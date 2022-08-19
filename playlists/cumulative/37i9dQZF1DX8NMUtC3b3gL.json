@@ -62,6 +62,32 @@
     },
     {
       "album": {
+        "name": "A Love Note",
+        "url": "https://open.spotify.com/album/0kzIwPWumx68D5eshhDX4D"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jello",
+          "url": "https://open.spotify.com/artist/36L95dDAJG3EJ2tstIZpFj"
+        },
+        {
+          "name": "Whilst",
+          "url": "https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt"
+        },
+        {
+          "name": "Strong.AL&",
+          "url": "https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "A Love Note",
+      "url": "https://open.spotify.com/track/3esFgJFazYY26i5YwOekDi"
+    },
+    {
+      "album": {
         "name": "ode to summer",
         "url": "https://open.spotify.com/album/7gzLMwWkiNiaVVEeMxLcpM"
       },
@@ -475,6 +501,24 @@
       "duration_ms": 137134,
       "name": "Chazzed",
       "url": "https://open.spotify.com/track/2h8saMMTJWqD01ZKzkLqdi"
+    },
+    {
+      "album": {
+        "name": "Fly Footage",
+        "url": "https://open.spotify.com/album/7ENKoGVELyvs5Jndq3O9hT"
+      },
+      "artists": [
+        {
+          "name": "Alys Good",
+          "url": "https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "Check It",
+      "url": "https://open.spotify.com/track/6C94TkFvFvfzKfgUZeIW7R"
     },
     {
       "album": {
@@ -978,6 +1022,24 @@
     },
     {
       "album": {
+        "name": "Feelin' like a Bird",
+        "url": "https://open.spotify.com/album/2CknlfaLh3N4NFJeUkT99C"
+      },
+      "artists": [
+        {
+          "name": "Tatorita Sax",
+          "url": "https://open.spotify.com/artist/35LbEUbPm0DUwcnwGyIpEz"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Feelin' like a Bird",
+      "url": "https://open.spotify.com/track/1eSeuj09F8pjnOiyHJgmkP"
+    },
+    {
+      "album": {
         "name": "Feels Like Tomorrow",
         "url": "https://open.spotify.com/album/4GUG96DUeqyWLiVd7o7pxb"
       },
@@ -1037,6 +1099,28 @@
       "duration_ms": 161142,
       "name": "Florida Groove",
       "url": "https://open.spotify.com/track/3gYj3e09w9jinTujZojpxt"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/5p3eIyHnMd3YJJu1Z3Xr5M"
+      },
+      "artists": [
+        {
+          "name": "Lemonah",
+          "url": "https://open.spotify.com/artist/3pgiEPgtQzrkyAesekong6"
+        },
+        {
+          "name": "Bertram Kvist",
+          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130274,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/2RwHUXhUQOOjXc3pXYK7c6"
     },
     {
       "album": {
@@ -1333,7 +1417,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 181714,
       "name": "High Harbor",
       "url": "https://open.spotify.com/track/5W9nhHNbT23Qh0FHXjerp6"
@@ -1511,6 +1595,24 @@
       "duration_ms": 129882,
       "name": "kinda wonderful",
       "url": "https://open.spotify.com/track/2HYaWr21HZQrC8gDFSFsz8"
+    },
+    {
+      "album": {
+        "name": "Third and Forever",
+        "url": "https://open.spotify.com/album/07nMvYw3JrqK5832GuoFGD"
+      },
+      "artists": [
+        {
+          "name": "Third and Forever",
+          "url": "https://open.spotify.com/artist/61ZLysh2sp3zFa23osGqBg"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/5E3YYm8EmBn35w42VDj1fb"
     },
     {
       "album": {
@@ -2462,6 +2564,24 @@
     },
     {
       "album": {
+        "name": "recluse",
+        "url": "https://open.spotify.com/album/0lfdhjo0kKgY0wi5IAw7zh"
+      },
+      "artists": [
+        {
+          "name": "wide awake",
+          "url": "https://open.spotify.com/artist/5mFEU3OmlfXzQzSWqykm0a"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "recluse",
+      "url": "https://open.spotify.com/track/1ZlsdUtqOEdzfeDIh6a0Xe"
+    },
+    {
+      "album": {
         "name": "Reeds",
         "url": "https://open.spotify.com/album/3cOBBX5eqMBl6WCQh9rFm1"
       },
@@ -2607,6 +2727,28 @@
       "duration_ms": 241487,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/24XbI3GX0rEVr0r4UXW9Vg"
+    },
+    {
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/0NnC0JmIaFqGBqSqlUElka"
+      },
+      "artists": [
+        {
+          "name": "Stardog Lofi",
+          "url": "https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU"
+        },
+        {
+          "name": "Puzzle Neptune",
+          "url": "https://open.spotify.com/artist/4rEPqJcw9gMquv1NfH7FXm"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104903,
+      "name": "Running up that Hill",
+      "url": "https://open.spotify.com/track/5KpA4NJDUdkpwUtIBIxap9"
     },
     {
       "album": {
@@ -3182,6 +3324,24 @@
     },
     {
       "album": {
+        "name": "Catch Me Lofi",
+        "url": "https://open.spotify.com/album/7JdNOgdGS6ve2x7caUpeKO"
+      },
+      "artists": [
+        {
+          "name": "Nizmar Ola",
+          "url": "https://open.spotify.com/artist/7hoiEgMS78aEnIy44lmSwh"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106406,
+      "name": "Super Film",
+      "url": "https://open.spotify.com/track/7IQo63pHyV9TR9QS59TY4Q"
+    },
+    {
+      "album": {
         "name": "Take a Moment",
         "url": "https://open.spotify.com/album/13mYlRSP07v5q5OJiYhmT2"
       },
@@ -3223,6 +3383,24 @@
       "duration_ms": 170124,
       "name": "Technical Difficulties",
       "url": "https://open.spotify.com/track/6H74zmY905gEiWHNJ7Y60A"
+    },
+    {
+      "album": {
+        "name": "The Protagonist",
+        "url": "https://open.spotify.com/album/565aGEAex9BexExocJJMt4"
+      },
+      "artists": [
+        {
+          "name": "TheDewk",
+          "url": "https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97400,
+      "name": "The Protagonist",
+      "url": "https://open.spotify.com/track/3191qXOHGBMGKCoBIjUz3A"
     },
     {
       "album": {

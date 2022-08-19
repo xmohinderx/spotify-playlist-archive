@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Live at the Beverly Theater in Hollywood",
+        "url": "https://open.spotify.com/album/6Kv2aQ7yoFXeuByn2SVwr2"
+      },
+      "artists": [
+        {
+          "name": "P-Funk All Stars",
+          "url": "https://open.spotify.com/artist/4jbdFVscwgzbzxNFmCHjGY"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 774266,
+      "name": "(Not Just) Knee Deep",
+      "url": "https://open.spotify.com/track/4pCoAtxRfDhtx7jN8kyUKc"
+    },
+    {
+      "album": {
         "name": "One Nite Alone... Live!",
         "url": "https://open.spotify.com/album/4WaF42nHDVOOGnE8KIwQyJ"
       },
@@ -463,6 +481,24 @@
       "duration_ms": 525711,
       "name": "Lunchtime - Live in London",
       "url": "https://open.spotify.com/track/3TC0pFRCFN0u0dww174FVG"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1vqWWZGszfblEKQn8oIKwn"
+      },
+      "artists": [
+        {
+          "name": "Funkadelic",
+          "url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 841733,
+      "name": "Maggot Brain",
+      "url": "https://open.spotify.com/track/0M2LvFhRdPzPpnPxRkdtd4"
     },
     {
       "album": {

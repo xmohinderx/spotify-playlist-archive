@@ -4,7 +4,7 @@
 
 > Chitarre più o meno distorte \(e in cover gli Antartica\)
 
-142 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+145 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Buttami Giù](https://open.spotify.com/track/0vAe99uZ3avcFFlLFwM7ow) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Buttami Giù](https://open.spotify.com/album/3aVWnMXssTGsU9ZVm6wgBv) | 2:54 | 2022-05-09 | 2022-07-22 |
 | [C'ho tutto un sogno Ramones](https://open.spotify.com/track/4erZfn8ZjbC6Wxi42CED12) | [Bobby Joe Long's Friendship Party](https://open.spotify.com/artist/5IqtAyaxviHeO9LLZbNAWR) | [C'ho tutto un sogno Ramones](https://open.spotify.com/album/7uv4i53ioio39t8xXNhXw9) | 2:28 | 2022-05-09 | 2022-05-13 |
 | [Cadetto Lin non ferma su Marte](https://open.spotify.com/track/0OVQp2V9hxMzVVqWiQZLET) | [Lantern](https://open.spotify.com/artist/0oSXdle7wTokdA7ZrVlOXW) | [Cadetto Lin non ferma su Marte](https://open.spotify.com/album/0bVd0z9PYbgKEwh7jxQDyx) | 2:15 | 2022-05-09 | 2022-06-24 |
-| [Call](https://open.spotify.com/track/494ssgQ5aHdCMcLL6NxuVy) | [You, Nothing.](https://open.spotify.com/artist/2k0ktbWdeA7hJXDFb7eUAe) | [Call](https://open.spotify.com/album/64jSauMBY9bA0g42JIy49Z) | 3:57 | 2022-07-29 |  |
+| [Call](https://open.spotify.com/track/494ssgQ5aHdCMcLL6NxuVy) | [You, Nothing.](https://open.spotify.com/artist/2k0ktbWdeA7hJXDFb7eUAe) | [Call](https://open.spotify.com/album/64jSauMBY9bA0g42JIy49Z) | 3:57 | 2022-07-29 | 2022-08-19 |
 | [CALMI](https://open.spotify.com/track/11e830eTMrExk20UCGtLr2) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [SUPER SOFT RESET](https://open.spotify.com/album/5kaQXfAFOl3NQeQkyPHTsU) | 2:17 | 2022-05-09 | 2022-05-13 |
 | [canzo/paure](https://open.spotify.com/track/2ZUd2twmaOFOtLtzDtYDe2) | [nicedays](https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB) | [glicine](https://open.spotify.com/album/3pVyV0QheNbKvAei5uV8lX) | 3:18 | 2022-06-23 | 2022-07-08 |
 | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/track/6XNyqB9SGce6cWFlR8wMVP) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/album/4dBHrJUJ6tBAe8pzNWfDRW) | 11:54 | 2022-05-09 | 2022-05-13 |
@@ -44,10 +44,11 @@
 | [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 | 2022-05-12 | 2022-06-10 |
 | [Diverso/Uguale](https://open.spotify.com/track/0QnSjvX4FHMcmXRql6Jef5) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Diverso/Uguale](https://open.spotify.com/album/6zAvSlGmh5ppa8s9lupqjG) | 3:08 | 2022-05-09 | 2022-06-24 |
 | [Documentari](https://open.spotify.com/track/19b8lNcPaC9srKUjKc7Cbp) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Giuramenti](https://open.spotify.com/album/6IKfDFFZZNzNf0m5AiFRKe) | 3:16 | 2022-05-09 |  |
-| [Dolphins Touch](https://open.spotify.com/track/0wHE1ogEilT39UUbtlAmvV) | [Go Hawaii](https://open.spotify.com/artist/4dMyueIDZEOSvuCaXnqYli) | [Trespass](https://open.spotify.com/album/74PcwnV8Ytl63PVfvYVMsE) | 5:36 | 2022-05-12 |  |
+| [Dolphins Touch](https://open.spotify.com/track/0wHE1ogEilT39UUbtlAmvV) | [Go Hawaii](https://open.spotify.com/artist/4dMyueIDZEOSvuCaXnqYli) | [Trespass](https://open.spotify.com/album/74PcwnV8Ytl63PVfvYVMsE) | 5:36 | 2022-05-12 | 2022-08-19 |
 | [Dove sei?](https://open.spotify.com/track/2xrkFsPXjRicYa0NIBvqhW) | [TENUE](https://open.spotify.com/artist/7y8xVGZZK39g9eaPsjLJhk) | [Eccezione](https://open.spotify.com/album/4kf74n3kxNc4nwlkf3W2t6) | 3:20 | 2022-05-09 | 2022-07-01 |
 | [DPCM](https://open.spotify.com/track/5BOwhoRVHuZu2XwFoKeWbM) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [DPCM](https://open.spotify.com/album/62KifhpcdcHUfo2q58HSyX) | 2:24 | 2022-05-09 | 2022-05-13 |
 | [Dynamite](https://open.spotify.com/track/4rrTYw1uDqd3pMTUmuHEVF) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [Dynamite](https://open.spotify.com/album/4qq6sl99NWDbnySzlnUGiT) | 3:00 | 2022-05-09 | 2022-05-20 |
+| [E tu sei la volpe](https://open.spotify.com/track/4A3F2MYd1lh8h0WGJz5Jik) | [грань](https://open.spotify.com/artist/2BI4eLb2sa3t6l4BGfvoVE), [Paco Sangrado](https://open.spotify.com/artist/4k0Pzg0xfJfgKNJn9MJ4jE) | [E tu sei la volpe](https://open.spotify.com/album/2jcH6TSXSYkA0k7h7z7yAa) | 2:48 | 2022-08-18 |  |
 | [ELDORADO](https://open.spotify.com/track/5ED0vMBYJ4hQXxmyt3APxx) | [ULTIMA HAINE](https://open.spotify.com/artist/1MzzYW4rW9deiCRPS7Pjf9), [Pierpaolo Capovilla](https://open.spotify.com/artist/7fLhVDO3fSZI9M9HG803aq) | [ELDORADO](https://open.spotify.com/album/67fALE8nxySO3qF5B8MUh5) | 3:47 | 2022-06-23 | 2022-07-15 |
 | [Estate di Merda](https://open.spotify.com/track/2tKDMOvBIIP47ngRpHQsDl) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [Estate di Merda](https://open.spotify.com/album/77Lhio4DcfwZ8PRhNzquc5) | 2:51 | 2022-06-02 |  |
 | [EUFORIA](https://open.spotify.com/track/5ApsbsFX5SQhGF80DKSq9c) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [EUFORIA](https://open.spotify.com/album/6RtT9E1MvIfvR3d0hkkIqI) | 2:16 | 2022-07-14 |  |
@@ -56,6 +57,7 @@
 | [Fiji](https://open.spotify.com/track/71IMl8wVSkav5NPjqk9bxe) | [Testarossa](https://open.spotify.com/artist/7yVdD1RiPKmVmqjH32EUGS) | [Fiji](https://open.spotify.com/album/0ezUmnkksJ9BP768tqg1UI) | 3:31 | 2022-05-12 | 2022-06-10 |
 | [Follow the Money](https://open.spotify.com/track/7dngVIjn3nbUmOHqiJhTRg) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Follow the Money](https://open.spotify.com/album/5EmIHTygguJUWXPTACC10D) | 3:33 | 2022-05-09 | 2022-06-24 |
 | [Forever](https://open.spotify.com/track/0QCYEkX0MfJkvVEOr6Up08) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [Forever](https://open.spotify.com/album/0NHAE4I0u0YpbAlDj8KRl0) | 2:43 | 2022-05-09 | 2022-06-10 |
+| [Furore](https://open.spotify.com/track/6q3QpJO8HmJrWuF0zaBr62) | [Giant Gummy Bears](https://open.spotify.com/artist/5V2GfS5pUpv5Sbqy3Zf6lu) | [Furore](https://open.spotify.com/album/0gd8zQEysYahjiJ20rE79G) | 4:19 | 2022-08-18 |  |
 | [Gent](https://open.spotify.com/track/4X0DLF1x69H8ybF2M3tkjl) | [Selflore](https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP), [Tana Combinaguai](https://open.spotify.com/artist/7u6nsTUogydvsNlVUcF2HY) | [Gent](https://open.spotify.com/album/485ZUajT3OBSsa0ndRBJvA) | 4:01 | 2022-06-09 | 2022-07-01 |
 | [Go Fuck Yourself](https://open.spotify.com/track/6VT9pC5hzmIMRxuzpnkOzm) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Go Fuck Yourself](https://open.spotify.com/album/3B0Ijyl3qisEw6fYXmG2fT) | 2:21 | 2022-07-07 | 2022-08-05 |
 | [Graphiti :\)](https://open.spotify.com/track/5xx9ZowEw4pbbdvI9qnNNP) | [Monday Comes Twice](https://open.spotify.com/artist/1v7zsqw6ZnRbq8nVDUuDru) | [Graphiti :\)](https://open.spotify.com/album/2QLcmqN7nP9zJRFhdXE3QR) | 3:16 | 2022-05-09 | 2022-05-13 |
@@ -116,6 +118,7 @@
 | [Shirly](https://open.spotify.com/track/7elf321mzsREI27HuwWWGC) | [Fiasko Leitmotiv](https://open.spotify.com/artist/7mCEKbvh7Tt4JJUkZYbkR4) | [Humblekids](https://open.spotify.com/album/3r2ghMcD9kK9hd4l3IJKNk) | 4:41 | 2022-06-30 |  |
 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 | 2022-06-23 |  |
 | [Silos](https://open.spotify.com/track/6N3eJ5VbK7wNpfDZNNJFuE) | [GALASSIA CLUB](https://open.spotify.com/artist/2VzEF2YjUANGcI4R16XNll) | [Silos](https://open.spotify.com/album/6H7Dm09Q1rwlhkNqXpWGgt) | 2:19 | 2022-05-09 | 2022-06-03 |
+| [So Long](https://open.spotify.com/track/38Klg16zOlVdoCcVY17pVC) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [So Long](https://open.spotify.com/album/72DcA98uNwQxTP5ECaeFPu) | 2:31 | 2022-08-18 |  |
 | [Speak Loud](https://open.spotify.com/track/6irQlJurQFK1OqKun57XUq) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [Speak Loud](https://open.spotify.com/album/7IPQgTmojnOGuVESJbNwny) | 4:23 | 2022-05-09 | 2022-05-13 |
 | [Spiegami La Strada](https://open.spotify.com/track/5oZnLTJ9oX78dq21WTMa8G) | [Labissodeigiorniavenire](https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd) | [Spiegami La Strada](https://open.spotify.com/album/3iGU9NCxmQDQQsliddxRYm) | 2:35 | 2022-05-09 | 2022-05-27 |
 | [Spina Centrale](https://open.spotify.com/track/6KxPAdjK7n1Sp3czdnzkSc) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Kxrine](https://open.spotify.com/artist/6KeuOiKje8kElLvaLSYYR4) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 3:06 | 2022-07-16 |  |
@@ -147,7 +150,7 @@
 | [What a Heart Is For](https://open.spotify.com/track/18xVzYlFYM20dK5OP6E35n) | [Smile](https://open.spotify.com/artist/3eJqABrN5Xq65jILXl6wl9) | [What a Heart Is For](https://open.spotify.com/album/7wyItDSY7RXNIsbnoJhqyD) | 3:18 | 2022-05-09 | 2022-05-27 |
 | [What's In Your Mind?](https://open.spotify.com/track/19FavAnu4EeUTZ7awOvb7V) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [What's In Your Mind?](https://open.spotify.com/album/7fGYMPoPRGUsPZlCR9SuSG) | 3:33 | 2022-07-07 | 2022-07-29 |
 | [WHAT’S THE POINT](https://open.spotify.com/track/1vDZJzrFXuRzI0L2iYJr9A) | [Melancholia](https://open.spotify.com/artist/1y3Nbe31v5E2HV4stRgjPd) | [SLEEP MODE \(Side A\)](https://open.spotify.com/album/2qrh3fufNveJk6XWJlHOj2) | 3:36 | 2022-05-09 | 2022-07-29 |
-| [WØLF](https://open.spotify.com/track/2IFcT2vLnkFjfRAIeTIx3j) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Futurephobia](https://open.spotify.com/album/3WIcSy6wxoHa7CUztnrPlg) | 3:15 | 2022-07-28 |  |
+| [WØLF](https://open.spotify.com/track/2IFcT2vLnkFjfRAIeTIx3j) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Futurephobia](https://open.spotify.com/album/3WIcSy6wxoHa7CUztnrPlg) | 3:15 | 2022-07-28 | 2022-08-19 |
 | [Wølf](https://open.spotify.com/track/3ENZOdgMIZ5i3e2f9b9kM3) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Futurephobia](https://open.spotify.com/album/1FvZ4OAf10KWPstkToqte8) | 3:15 | 2022-06-23 | 2022-07-29 |
 | [ZERO](https://open.spotify.com/track/6hrRoEVft0SM5lsBUq3MMe) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [ZERO](https://open.spotify.com/album/53XmHlZRSLn5vBenhupHfq) | 3:26 | 2022-07-29 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "Relax to some gentle percussion from all corners of the globe.",
-  "num_followers": 112267,
+  "num_followers": 112355,
   "original_name": "Peaceful Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMxMzQzMywwMDAwMDAwMGE2MDliMDg4YWIyYjc3OGY5MTVjNjE0ZjJiMWUzZjBl",
+  "snapshot_id": "MTY2MDMxMzQzMywwMDAwMDAwMGQyZjBiNjhjNjBiZmM4MGEwNWQ2NTQ4ZTljZWM3NzVj",
   "tracks": [
     {
       "added_at": "2022-08-12 14:10:33",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-08-12 14:10:33",
       "album": {
+        "name": "balafon",
+        "url": "https://open.spotify.com/album/1zqb2G2MpRkCdrQc4PYFEH"
+      },
+      "artists": [
+        {
+          "name": "Raphael Hofmann",
+          "url": "https://open.spotify.com/artist/4wW9Lr1qEfAnQXHRKoXkrk"
+        }
+      ],
+      "duration_ms": 237122,
+      "name": "Matin",
+      "url": "https://open.spotify.com/track/6Pb1BFXQDLryvNw7KHSSxI"
+    },
+    {
+      "added_at": "2022-08-12 14:10:33",
+      "album": {
         "name": "Sun Sunil Beat",
         "url": "https://open.spotify.com/album/6lNqfMeQhyXbR15RBVqhvw"
       },
@@ -799,6 +815,26 @@
       "duration_ms": 188308,
       "name": "Slow Pace Papa",
       "url": "https://open.spotify.com/track/78ReLTBbzeqosiozbRwDkG"
+    },
+    {
+      "added_at": "2022-08-12 14:10:33",
+      "album": {
+        "name": "Keona the cousins' hang duet",
+        "url": "https://open.spotify.com/album/16d1nehPbUG1Y5TY6Nu9EU"
+      },
+      "artists": [
+        {
+          "name": "David Charrier",
+          "url": "https://open.spotify.com/artist/52qbMkeZq79cVYB6RqLQ98"
+        },
+        {
+          "name": "Sylvain Paslier",
+          "url": "https://open.spotify.com/artist/2q9bru2FtUf8MQlALS1GjC"
+        }
+      ],
+      "duration_ms": 271466,
+      "name": "Orientale",
+      "url": "https://open.spotify.com/track/2zjEkh1tCbRtARZZLkP5SI"
     },
     {
       "added_at": "2022-08-12 14:10:33",

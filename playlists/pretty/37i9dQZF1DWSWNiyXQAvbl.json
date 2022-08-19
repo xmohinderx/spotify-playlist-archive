@@ -1,12 +1,12 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 415348,
+  "num_followers": 415482,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzOTc4MiwwMDAwMDAwMDY2MWFkNzRhNmMzM2E4YTU4ZmU3ZDZkZDZiOGE2Y2I4",
+  "snapshot_id": "MTY1NzAzOTc4MiwwMDAwMDAwMDUwZTkyYmYwYTNlNGE3YjczYWQyYjIwNTliNzI4ZTJh",
   "tracks": [
     {
       "added_at": "2022-07-05 16:49:42",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-07-05 16:49:42",
       "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+    },
+    {
+      "added_at": "2022-07-05 16:49:42",
+      "album": {
         "name": "The Best Of The Detroit Emeralds",
         "url": "https://open.spotify.com/album/42LyGoiUfeE5WfwjjuKriU"
       },
@@ -1275,6 +1291,22 @@
       "duration_ms": 239333,
       "name": "Follow You Follow Me - 2007 Remaster",
       "url": "https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk"
+    },
+    {
+      "added_at": "2022-07-05 16:49:42",
+      "album": {
+        "name": "On the Rocks",
+        "url": "https://open.spotify.com/album/2AFiOvkMzT32Q0wL0UZW8i"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/6hFAaTvtzYDkng1T5K4XLB"
     }
   ],
   "unique_name": "Easy 70s",

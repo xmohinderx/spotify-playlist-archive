@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-115 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
+116 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2021-09-10 |  |
 | [Daddy \(feat\. Chillz\)](https://open.spotify.com/track/07mR89aGy6C9WzqShR3zfW) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Chillz](https://open.spotify.com/artist/1qtIAJW16IZzYa9qZKlBCw) | [Daddy \(feat\. Chillz\)](https://open.spotify.com/album/6vilHMILLgOYQ6akUYqLPo) | 3:06 | 2022-03-24 |  |
 | [Don't Call My Phone](https://open.spotify.com/track/2frdXuJDGCVQPwz3H8aq28) | [Eclipse Nkasi](https://open.spotify.com/artist/5W0ju8WxXttippwJWclXj4) | [Don't Call My Phone](https://open.spotify.com/album/64RbcLiK3CJmDNDoeDVhPE) | 2:49 | 2022-07-28 | 2022-08-06 |
+| [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-18 |  |
 | [Elephant Man](https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl) | [Elephant Man](https://open.spotify.com/album/2CG9eOhIFEh9SDraWK8Olm) | 2:46 | 2022-07-07 | 2022-07-23 |
 | [Elevate](https://open.spotify.com/track/0AkJunYbGHvd9YInx0AwxT) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Elevate](https://open.spotify.com/album/0hr75iNBfFGuVPYg8up4eU) | 2:25 | 2022-05-19 |  |
 | [Elevate \- Remix](https://open.spotify.com/track/1z7GarqBjaBc47v3PC1MZD) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Elevate \(Remix\)](https://open.spotify.com/album/4Wj9d3QveiYJdbeAhIKnRz) | 2:37 | 2022-06-16 |  |

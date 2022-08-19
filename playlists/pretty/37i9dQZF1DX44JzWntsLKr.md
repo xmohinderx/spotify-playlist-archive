@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 
 > Every Monbebe's HERO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,790 likes - 121 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,853 likes - 121 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 74 | [Play It Cool](https://open.spotify.com/track/0gxkqxGiLg1ylKzgToCcHY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:06 |
 | 75 | [SHINE FOREVER](https://open.spotify.com/track/63SRW26EEF9RF6GgeUgJqx) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHINE FOREVER](https://open.spotify.com/album/3rrZlvTQ6Bxvz7Kzxjkagj) | 3:28 |
 | 76 | [Wish on the same sky](https://open.spotify.com/track/1bGyEXjNXcsFMXjYw8oi3z) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Wish on the same sky](https://open.spotify.com/album/1aQ5RCzh7TMiLqyKPNZkOc) | 3:46 |
-| 77 | [All In](https://open.spotify.com/track/72gnMfNZSb5oCrYlXWvtyc) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Clan Pt\. 1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:10 |
+| 77 | [All in](https://open.spotify.com/track/72gnMfNZSb5oCrYlXWvtyc) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:10 |
 | 78 | [Trespass](https://open.spotify.com/track/0kRrmWLPSnOGQjoMEdW5RN) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [TRESPASS](https://open.spotify.com/album/2G4ZHQd4z2hbiNWdxLKrsq) | 3:25 |
 | 79 | [BESIDE U \(feat\. Pitbull\)](https://open.spotify.com/track/0sr5kxI49ITycq3NDelwjn) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 3:08 |
-| 80 | [Stuck](https://open.spotify.com/track/0BPLuVAnbqric4LMcBjGCc) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Clan Pt\. 1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:45 |
+| 80 | [Stuck](https://open.spotify.com/track/0BPLuVAnbqric4LMcBjGCc) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:45 |
 | 81 | [WHO DO U LOVE? \(feat\. French Montana\) \- will.i.am Remix](https://open.spotify.com/track/3B1YSEn8btOynx5yICvLkE) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 3:28 |
 | 82 | [Breathe For You](https://open.spotify.com/track/03XXbMFb0v4Yb4u26oJELG) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Breathe For You](https://open.spotify.com/album/2P8qHjgJpt3OQhr0hcHJcx) | 3:33 |
 | 83 | [Carry on](https://open.spotify.com/track/0QOLYRdOahFvQkWJkrm1eQ) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Phenomenon](https://open.spotify.com/album/6APn2IbS6uJSVauXAQlQXk) | 3:39 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 100 | [Oi](https://open.spotify.com/track/0zwI1aFLA85Ux0wM9vZjjY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:11 |
 | 101 | [Blind](https://open.spotify.com/track/26AqSoEgtHfqpWIwj7uuVk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2 <GUILTY>](https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl) | 3:31 |
 | 102 | [Need U](https://open.spotify.com/track/2sEKfvw0KsuclWNCwLx65d) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:17 |
-| 103 | [Unfair Love](https://open.spotify.com/track/4oNK3kcmrao31ScHYJRZui) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Clan Pt\. 1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:18 |
+| 103 | [Unfair Love](https://open.spotify.com/track/4oNK3kcmrao31ScHYJRZui) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:18 |
 | 104 | [No Reason](https://open.spotify.com/track/6zSXg2Ejji6GcwvjGTgK60) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:24 |
 | 105 | [All I Do](https://open.spotify.com/track/65qvZNR4wUWFJrNHHQBkTs) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:38 |
 | 106 | [악몽](https://open.spotify.com/track/4sp4wcAMElt3t7rQ1M9am6) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:28 |
@@ -119,12 +119,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 109 | [Calm Down](https://open.spotify.com/track/6rYoO4mP8czbTTyOz4BAzm) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHINE FOREVER](https://open.spotify.com/album/3rrZlvTQ6Bxvz7Kzxjkagj) | 3:06 |
 | 110 | [White Love](https://open.spotify.com/track/0OQasRxkPfUzBhkyu7q1xz) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2 <GUILTY>](https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl) | 3:50 |
 | 111 | [Perfect Girl](https://open.spotify.com/track/21ywLifMY5LlvVn1lbnLhT) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH DIGITAL REPACKAGE “HERO”](https://open.spotify.com/album/0rsnG5TJ9jv9XuLgri1E77) | 3:39 |
-| 112 | [Sweetheart](https://open.spotify.com/track/1PM3hV7cOPE3cbq34UXxbE) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Clan Pt\. 1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:15 |
+| 112 | [Sweetheart](https://open.spotify.com/track/1PM3hV7cOPE3cbq34UXxbE) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:15 |
 | 113 | [Now or Never](https://open.spotify.com/track/5trVbkxq7o5UtqHWVTu5ro) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CODE](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) | 3:11 |
 | 114 | [Miss You](https://open.spotify.com/track/3TYvJKmqwPmFvVONerbnlg) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:18 |
-| 115 | [Because of U](https://open.spotify.com/track/0KCKvKmHFoIbVqrETayBan) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Clan Pt\. 1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:03 |
+| 115 | [Because of U](https://open.spotify.com/track/0KCKvKmHFoIbVqrETayBan) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:03 |
 | 116 | [Steal Your Heart](https://open.spotify.com/track/1MJysUk6TYYFdGRdj61iug) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [TRESPASS](https://open.spotify.com/album/2G4ZHQd4z2hbiNWdxLKrsq) | 3:47 |
-| 117 | [Ex Girl](https://open.spotify.com/track/1Nuhlx9wTWUECCGZ3XpiVs) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [The Clan Pt\. 1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:23 |
+| 117 | [Ex Girl \(feat.Whee In Of MAMAMOO\)](https://open.spotify.com/track/1Nuhlx9wTWUECCGZ3XpiVs) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [THE CLAN pt.1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:23 |
 | 118 | [Gone Bad](https://open.spotify.com/track/5XaKlbCu1SK1M83wOccc3X) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH](https://open.spotify.com/album/0ESTAnvX2zjMBxzesNAiR7) | 3:42 |
 | 119 | [No Exit](https://open.spotify.com/track/1FPVD4nged0Vts6C3qnnX7) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [TRESPASS](https://open.spotify.com/album/2G4ZHQd4z2hbiNWdxLKrsq) | 3:28 |
 | 120 | [I'll Be There](https://open.spotify.com/track/3AhSHpQhUasqq1Ni8xRh3c) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:12 |

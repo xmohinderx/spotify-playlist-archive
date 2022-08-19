@@ -1,12 +1,12 @@
 {
   "description": "Big Freedia co-curates a list of the very best songs from LGBTQQIA+ artists and allies The Big Easy has to offer!",
-  "num_followers": 2303,
+  "num_followers": 2304,
   "original_name": "PRIDE: New Orleans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMjgzMTI0NSwwMDAwMDAwMDY3ODAwMWMzZTNmM2ZmZTJmYWJiNWFmYzc0ZGMyZjhi",
+  "snapshot_id": "MTYyMjgzMTI0NSwwMDAwMDAwMDFjNjE0NGI0MTljNDhkMzVmMjA0NGNhNGE5OTM2YzVh",
   "tracks": [
     {
       "added_at": "2021-06-01 06:00:00",
@@ -435,6 +435,22 @@
       "duration_ms": 194011,
       "name": "I See U (For New Orleans)",
       "url": "https://open.spotify.com/track/1IvjybsGywBjMj5StIByCS"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "The Voice of Bounce, Vol. 1",
+        "url": "https://open.spotify.com/album/0rGFcjkxtE3IKjvvAqH2Rh"
+      },
+      "artists": [
+        {
+          "name": "HaSizzle",
+          "url": "https://open.spotify.com/artist/22mB4zQKJDI9I7ZnYs80iX"
+        }
+      ],
+      "duration_ms": 198739,
+      "name": "Bounce It Biggity Bounce It",
+      "url": "https://open.spotify.com/track/0Gg4nUaxVAwGNjE1orNjlp"
     },
     {
       "added_at": "2021-06-01 06:00:00",

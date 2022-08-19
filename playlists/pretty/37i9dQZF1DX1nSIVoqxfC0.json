@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a>'s best songs, remixes and compilations.",
-  "num_followers": 341213,
+  "num_followers": 341356,
   "original_name": "This Is Ti\u00ebsto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMDZjNmRjYmUxMjUxZmZiYTNhNTUyMmE1ZWU5ODYzOWY5",
+  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMDk4NDQwZmNkMDJiYjBlZGM0NGMxNDI4ZWEwNWI3OTMx",
   "tracks": [
     {
       "added_at": "2022-07-28 22:01:00",
@@ -3320,6 +3320,42 @@
       },
       "artists": [
         {
+          "name": "Gotye Ft. Kimbra",
+          "url": "https://open.spotify.com/artist/71SdT8aqrWTSDt00z1VFPE"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Somebody That I Used to Know (feat. Kimbra) [Ti\u00ebsto Remix]",
+      "url": "https://open.spotify.com/track/6ibN3Ce0nxAvlCx9rfHDj6"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Club Life - Volume 2 Miami",
+        "url": "https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 255120,
+      "name": "Paradise (Ti\u00ebsto Remix)",
+      "url": "https://open.spotify.com/track/4lM7ZLoaasvHytXG1KpU5X"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Club Life - Volume 2 Miami",
+        "url": "https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc"
+      },
+      "artists": [
+        {
           "name": "Sultan + Shepard",
           "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
@@ -3335,6 +3371,22 @@
       "duration_ms": 366893,
       "name": "Walls (feat. Quilla) [Original Mix]",
       "url": "https://open.spotify.com/track/227i5FjbQe5jjXqcvQbYmY"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Club Life - Volume 2 Miami",
+        "url": "https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 303746,
+      "name": "Young Blood (Ti\u00ebsto & Hardwell Remix)",
+      "url": "https://open.spotify.com/track/6FTM7CGUOl8g3qZKHsYdQb"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -3371,6 +3423,30 @@
       "duration_ms": 315466,
       "name": "Long Time (feat. Andreas Moe) [Original Mix]",
       "url": "https://open.spotify.com/track/4i0ZmcGcU2xXjqCT33RwC2"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Club Life - Volume 2 Miami",
+        "url": "https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc"
+      },
+      "artists": [
+        {
+          "name": "Ivan Gough",
+          "url": "https://open.spotify.com/artist/5aBWZE8TOaaA9O50ENS3EM"
+        },
+        {
+          "name": "Feenixpawl",
+          "url": "https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        }
+      ],
+      "duration_ms": 348986,
+      "name": "In My Mind (feat. Georgi Kay) [Axwell Mix]",
+      "url": "https://open.spotify.com/track/2bRp91Zu5VdgVy9mSyCjqG"
     },
     {
       "added_at": "2022-07-28 22:01:00",

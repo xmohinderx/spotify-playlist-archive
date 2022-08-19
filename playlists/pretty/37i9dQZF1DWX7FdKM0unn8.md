@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,705 likes - 58 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,737 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,21 +50,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 40 | [세월이 가면](https://open.spotify.com/track/6khwEG0x8mkXNvTxt2lF00) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 3:21 |
 | 41 | [사랑이 지나가면](https://open.spotify.com/track/4XwtIHrmFuMNwu3c35kh5B) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX) | 4:13 |
 | 42 | [눈물나는 날에는](https://open.spotify.com/track/1Vi9rQtR5XlEAKvvz4PfID) | [푸른하늘](https://open.spotify.com/artist/4fjuWKOCAh3CT7I5xW6Hc1) | [푸른하늘 2집 \- 눈물나는 날에는](https://open.spotify.com/album/53wruAmv4gvA2uIoO2Xmfw) | 5:04 |
-| 43 | [The Street With The First Snow](https://open.spotify.com/track/1CaH7l3RuuCHd6k3VsWiMk) | [Lee Mi Ja](https://open.spotify.com/artist/3ZQ97tFlkn5moDjvgQ3kpZ) | [Lee Mi\-Ja's Setereo Hit Song Selection 12th Album](https://open.spotify.com/album/2VCClwONd2mvbtAYAz51iX) | 3:06 |
-| 44 | [언제나 그대 내곁에](https://open.spotify.com/track/44hldZaxIlzNDZ7VNhKKmC) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 4집 언제나 그대 내곁에](https://open.spotify.com/album/1YfgZy6iR55PEiFNJzUFgi) | 4:40 |
-| 45 | [산다는건 다 그런게 아니겠니](https://open.spotify.com/track/4A8fWr7kzy3h2c1XW9QeF9) | [여행스케치](https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6) | [처음타본 타임머신](https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC) | 4:35 |
-| 46 | [그것만이 내 세상](https://open.spotify.com/track/5uNi1Bq4218eVbntEgNhrn) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 1집 행진/사랑일 뿐야](https://open.spotify.com/album/5rfo4HOW4Pe01ipqjHL19K) | 5:26 |
-| 47 | [나 어떡해](https://open.spotify.com/track/0G15m2DrgQGBB6raFluurk) | [샌드페블즈](https://open.spotify.com/artist/0gpJgwuqFaMRC8BL14WVEZ) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 4:43 |
-| 48 | [늦기전에](https://open.spotify.com/track/6ubwzVoDeApVnsgVvjX3yx) | [KIM CHOO JA](https://open.spotify.com/artist/568Af2a3USDRQUXgYJnRKT) | [김추자 베스트 20](https://open.spotify.com/album/6c5ZjcTq5XQ0MDUKIvK4ko) | 3:57 |
-| 49 | [님 떠난 후](https://open.spotify.com/track/0CxEZ9d82YyZXbenJNlZsr) | [진미령](https://open.spotify.com/artist/72rPfSvwlkbec9TX46o25N) | [장덕 추모 앨범\(하얀날 하얗게 떠난 친구에게\)](https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh) | 3:04 |
-| 50 | [별이 진다네](https://open.spotify.com/track/0uGDaEPsUUYUtMFjr2QMrg) | [여행스케치](https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6) | [처음타본 타임머신](https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC) | 5:20 |
-| 51 | [그대와 단둘이서](https://open.spotify.com/track/2lveF3dx8NO8KNuZQ3u16l) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY) | 3:41 |
-| 52 | [잊어야 한다는 마음으로](https://open.spotify.com/track/67Yg0uYQB14o3gQ3RLwD7x) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 3번째 노래모음](https://open.spotify.com/album/2KFcEdwyadcW50UUSMPgKZ) | 4:17 |
-| 53 | [지금 그대로의 모습으로](https://open.spotify.com/track/3jrpzS3xpGAuohZSNjh4lR) | [Yoo Yeol](https://open.spotify.com/artist/1gyFAghLz2y5KIFA32vtwl) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 4:49 |
-| 54 | [기다린 날도 지워질 날도 Days Of Longing, Days To Be Forgotten](https://open.spotify.com/track/3ZCIaxNcu1rtqBJAckJkvs) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 |
-| 55 | [그 때 그 사람](https://open.spotify.com/track/2q2cITx9yh5HSxwiPpgHCl) | [Sim Soo Bong](https://open.spotify.com/artist/3MruauOzN01CjMYEM2TFjn) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 3:28 |
-| 56 | [날 찾지 말아요](https://open.spotify.com/track/47Y2w2OqMvqQ93nAA6DdcI) | [지예](https://open.spotify.com/artist/4EjKK0MdFQpp3lToa1m5c6) | [장덕 추모 앨범\(하얀날 하얗게 떠난 친구에게\)](https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh) | 3:46 |
-| 57 | [보고싶은 마음](https://open.spotify.com/track/320SvnJLfvCnIC5rx0hgZ9) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 4:06 |
-| 58 | [돌아와요 부산항에](https://open.spotify.com/track/3Tiadxop66peME6AQ1BaLW) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [돌아와요 부산항에 / 정](https://open.spotify.com/album/2ev1pKiYfeeFVpVVkcjeDE) | 2:44 |
+| 43 | [아름다운 강산](https://open.spotify.com/track/2A8dLLThu2LqfhD8SNuGbc) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [4집 사랑이 지는 이 자리](https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln) | 5:47 |
+| 44 | [The Street With The First Snow](https://open.spotify.com/track/1CaH7l3RuuCHd6k3VsWiMk) | [Lee Mi Ja](https://open.spotify.com/artist/3ZQ97tFlkn5moDjvgQ3kpZ) | [Lee Mi\-Ja's Setereo Hit Song Selection 12th Album](https://open.spotify.com/album/2VCClwONd2mvbtAYAz51iX) | 3:06 |
+| 45 | [언제나 그대 내곁에](https://open.spotify.com/track/44hldZaxIlzNDZ7VNhKKmC) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 4집 언제나 그대 내곁에](https://open.spotify.com/album/1YfgZy6iR55PEiFNJzUFgi) | 4:40 |
+| 46 | [산다는건 다 그런게 아니겠니](https://open.spotify.com/track/4A8fWr7kzy3h2c1XW9QeF9) | [여행스케치](https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6) | [처음타본 타임머신](https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC) | 4:35 |
+| 47 | [그것만이 내 세상](https://open.spotify.com/track/5uNi1Bq4218eVbntEgNhrn) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 1집 행진/사랑일 뿐야](https://open.spotify.com/album/5rfo4HOW4Pe01ipqjHL19K) | 5:26 |
+| 48 | [나 어떡해](https://open.spotify.com/track/0G15m2DrgQGBB6raFluurk) | [샌드페블즈](https://open.spotify.com/artist/0gpJgwuqFaMRC8BL14WVEZ) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 4:43 |
+| 49 | [늦기전에](https://open.spotify.com/track/6ubwzVoDeApVnsgVvjX3yx) | [KIM CHOO JA](https://open.spotify.com/artist/568Af2a3USDRQUXgYJnRKT) | [김추자 베스트 20](https://open.spotify.com/album/6c5ZjcTq5XQ0MDUKIvK4ko) | 3:57 |
+| 50 | [님 떠난 후](https://open.spotify.com/track/0CxEZ9d82YyZXbenJNlZsr) | [진미령](https://open.spotify.com/artist/72rPfSvwlkbec9TX46o25N) | [장덕 추모 앨범\(하얀날 하얗게 떠난 친구에게\)](https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh) | 3:04 |
+| 51 | [별이 진다네](https://open.spotify.com/track/0uGDaEPsUUYUtMFjr2QMrg) | [여행스케치](https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6) | [처음타본 타임머신](https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC) | 5:20 |
+| 52 | [그대와 단둘이서](https://open.spotify.com/track/2lveF3dx8NO8KNuZQ3u16l) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY) | 3:41 |
+| 53 | [잊어야 한다는 마음으로](https://open.spotify.com/track/67Yg0uYQB14o3gQ3RLwD7x) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 3번째 노래모음](https://open.spotify.com/album/2KFcEdwyadcW50UUSMPgKZ) | 4:17 |
+| 54 | [지금 그대로의 모습으로](https://open.spotify.com/track/3jrpzS3xpGAuohZSNjh4lR) | [Yoo Yeol](https://open.spotify.com/artist/1gyFAghLz2y5KIFA32vtwl) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 4:49 |
+| 55 | [기다린 날도 지워질 날도 Days Of Longing, Days To Be Forgotten](https://open.spotify.com/track/3ZCIaxNcu1rtqBJAckJkvs) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 |
+| 56 | [그 때 그 사람](https://open.spotify.com/track/2q2cITx9yh5HSxwiPpgHCl) | [Sim Soo Bong](https://open.spotify.com/artist/3MruauOzN01CjMYEM2TFjn) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 3:28 |
+| 57 | [날 찾지 말아요](https://open.spotify.com/track/47Y2w2OqMvqQ93nAA6DdcI) | [지예](https://open.spotify.com/artist/4EjKK0MdFQpp3lToa1m5c6) | [장덕 추모 앨범\(하얀날 하얗게 떠난 친구에게\)](https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh) | 3:46 |
+| 58 | [보고싶은 마음](https://open.spotify.com/track/320SvnJLfvCnIC5rx0hgZ9) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 4:06 |
+| 59 | [돌아와요 부산항에](https://open.spotify.com/track/3Tiadxop66peME6AQ1BaLW) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [돌아와요 부산항에 / 정](https://open.spotify.com/album/2ev1pKiYfeeFVpVVkcjeDE) | 2:44 |
 
-Snapshot ID: `MTYyODc0NTIyMCwwMDAwMDAwMGM1NDBlOTViMTJlNjgxYjRhOGI2NTJjMzQ5NDk3YmNm`
+Snapshot ID: `MTYyODc0NTIyMCwwMDAwMDAwMGE2M2U3ZGZhODA4NDkyMjUwN2IxMDU2YTkzODUwYTkz`

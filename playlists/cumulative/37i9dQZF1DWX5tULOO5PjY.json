@@ -704,6 +704,24 @@
     },
     {
       "album": {
+        "name": "One From The Heart",
+        "url": "https://open.spotify.com/album/7GRmkQvpjMOQU6zxD8Y1CC"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343333,
+      "name": "Love's Gonna Get You",
+      "url": "https://open.spotify.com/track/1MtCxt2N2aQCmhEBczUOzQ"
+    },
+    {
+      "album": {
         "name": "Welcome Back (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/5GaRFbzn8ElLjbrGfdq3ld"
       },

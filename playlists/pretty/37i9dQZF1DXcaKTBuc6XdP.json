@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 2230,
+  "num_followers": 2241,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDVmNzYzM2U5NTMzZjhiMDc3NWJmZjJlNDkwZmQzNGQw",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDA2NGZhNzVkZGFhYzZlMzJiMzJmYWYxNjFjOWIyNGY1",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
+        "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
+      },
+      "artists": [
+        {
+          "name": "Elevation",
+          "url": "https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY"
+        }
+      ],
+      "duration_ms": 252725,
+      "name": "Open the Eyes of My Heart Lord",
+      "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "The Worship Initiative, Vol. 2",
         "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 229487,
       "name": "You Are My All In All",
       "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
-        "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
-      },
-      "artists": [
-        {
-          "name": "Elevation",
-          "url": "https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY"
-        }
-      ],
-      "duration_ms": 252725,
-      "name": "Open the Eyes of My Heart Lord",
-      "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -811,18 +811,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "New Sound",
-        "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
       },
       "artists": [
         {
-          "name": "Copper Pointe Worship",
-          "url": "https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV"
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
         }
       ],
-      "duration_ms": 188520,
-      "name": "Lift You Higher",
-      "url": "https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714"
+      "duration_ms": 126333,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -843,18 +843,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Hymns",
-        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
+        "name": "New Sound",
+        "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
       },
       "artists": [
         {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+          "name": "Copper Pointe Worship",
+          "url": "https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV"
         }
       ],
-      "duration_ms": 126333,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
+      "duration_ms": 188520,
+      "name": "Lift You Higher",
+      "url": "https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714"
     },
     {
       "added_at": "2021-06-29 13:36:02",

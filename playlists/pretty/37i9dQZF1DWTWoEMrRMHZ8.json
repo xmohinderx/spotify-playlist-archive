@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Djavan",
-  "num_followers": 320900,
+  "num_followers": 320958,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzQ3NSwwMDAwMDAwMDBlZTdkMDQ2ZGIyNTA3ZjYyYjgzMGM1YzIyNTFiYzgw",
+  "snapshot_id": "MTY2MDI3MzQ3NSwwMDAwMDAwMDI3NTVkYmJhM2RiMzViYjgwZjJjMDUwODE0Y2E5OGY5",
   "tracks": [
     {
       "added_at": "2022-08-12 03:04:35",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Simples",
-        "url": "https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 215648,
-      "name": "Eu Te Amo - Voz E Viol\u00e3o",
-      "url": "https://open.spotify.com/track/4U9eZDj53JgPJxnEMZjd0h"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
@@ -251,18 +235,38 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+        "name": "Simples",
+        "url": "https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
+      "duration_ms": 215648,
+      "name": "Eu Te Amo - Voz E Viol\u00e3o",
+      "url": "https://open.spotify.com/track/4U9eZDj53JgPJxnEMZjd0h"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
+      },
+      "artists": [
+        {
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "Lisboa",
+      "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -323,22 +327,18 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
       },
       "artists": [
         {
-          "name": "Paulo Novaes",
-          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 222186,
-      "name": "Lisboa",
-      "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
+        "name": "Rivo III e a F\u00e9",
+        "url": "https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "Piquete",
+      "url": "https://open.spotify.com/track/35hMrqAbOVOahAHMH4Z4NH"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
         "name": "Beleza Destru\u00edda",
         "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 280271,
       "name": "Beleza Destru\u00edda",
       "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
-        "name": "Rivo III e a F\u00e9",
-        "url": "https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Piquete",
-      "url": "https://open.spotify.com/track/35hMrqAbOVOahAHMH4Z4NH"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Lovezinho",
-        "url": "https://open.spotify.com/album/45ZGYnkdwckTtdr8qmFxn0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 159202,
-      "name": "Lovezinho",
-      "url": "https://open.spotify.com/track/7iHXEw8MixfAK0PGTcihAN"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Num Mundo de Paz",
         "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 342514,
       "name": "Num Mundo de Paz",
       "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Lovezinho",
+        "url": "https://open.spotify.com/album/45ZGYnkdwckTtdr8qmFxn0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 159202,
+      "name": "Lovezinho",
+      "url": "https://open.spotify.com/track/7iHXEw8MixfAK0PGTcihAN"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Morena Bonita",
-        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
-      },
-      "artists": [
-        {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Morena Bonita",
-      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Preciso Me Encontrar",
         "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 168681,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Morena Bonita",
+        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
+      },
+      "artists": [
+        {
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+        }
+      ],
+      "duration_ms": 179517,
+      "name": "Morena Bonita",
+      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Esse Amor Chegou",
-        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 152801,
-      "name": "Esse Amor Chegou",
-      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Mil Coisas Invis\u00edveis",
         "url": "https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
+        "name": "Esse Amor Chegou",
+        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 152801,
+      "name": "Esse Amor Chegou",
+      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
         "name": "Festa de Magia",
         "url": "https://open.spotify.com/album/2ePHdcvNcavRLDMwUqRgGw"
       },
@@ -1095,30 +1095,6 @@
       "duration_ms": 208368,
       "name": "Festa de Magia",
       "url": "https://open.spotify.com/track/3C4JbtVECDyIV2z83cFyL9"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
-        "name": "Tocando Em Frente",
-        "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
-      },
-      "artists": [
-        {
-          "name": "Renato Teixeira",
-          "url": "https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI"
-        },
-        {
-          "name": "Raimundo Fagner",
-          "url": "https://open.spotify.com/artist/0Vj9wPtWQGXzTh9kVP0XR2"
-        },
-        {
-          "name": "Almir Sater",
-          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
-        }
-      ],
-      "duration_ms": 243764,
-      "name": "Tocando Em Frente",
-      "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1147,6 +1123,30 @@
       "duration_ms": 237301,
       "name": "Paisagem",
       "url": "https://open.spotify.com/track/0rGvp4ODxl78g6BYnU54sq"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Tocando Em Frente",
+        "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
+      },
+      "artists": [
+        {
+          "name": "Renato Teixeira",
+          "url": "https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI"
+        },
+        {
+          "name": "Raimundo Fagner",
+          "url": "https://open.spotify.com/artist/0Vj9wPtWQGXzTh9kVP0XR2"
+        },
+        {
+          "name": "Almir Sater",
+          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
+        }
+      ],
+      "duration_ms": 243764,
+      "name": "Tocando Em Frente",
+      "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
+        "name": "Teu Olhar Me Fisgou",
+        "url": "https://open.spotify.com/album/7MVqn3OAoOHsCBcGsI0av8"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 228150,
+      "name": "Teu Olhar Me Fisgou",
+      "url": "https://open.spotify.com/track/7sX43sJy6vkd0uBGoRlKzL"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
         "name": "Duetos 2",
         "url": "https://open.spotify.com/album/6JMpvYFnqxgR9uVyLZScOC"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 343743,
       "name": "Hy-Brasil Terra Sem Mal",
       "url": "https://open.spotify.com/track/1AfcJHMFq5pypv4MBfO9wb"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
-        "name": "Teu Olhar Me Fisgou",
-        "url": "https://open.spotify.com/album/7MVqn3OAoOHsCBcGsI0av8"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 228150,
-      "name": "Teu Olhar Me Fisgou",
-      "url": "https://open.spotify.com/track/7sX43sJy6vkd0uBGoRlKzL"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1435,22 +1435,22 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Nada Tropical",
-        "url": "https://open.spotify.com/album/1EboAICOrhUiIE9Vz1OfPn"
+        "name": "Vai Passar",
+        "url": "https://open.spotify.com/album/5oHnMyqvoI6wpgXs8bwIUk"
       },
       "artists": [
         {
-          "name": "Glue Trip",
-          "url": "https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY"
+          "name": "S\u00e9rgio Britto",
+          "url": "https://open.spotify.com/artist/1cyHhFmWDK80pd2IOK02QI"
         },
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 259906,
-      "name": "Bessa Beat",
-      "url": "https://open.spotify.com/track/1AaRwprNAgh6mB4SgSuBGH"
+      "duration_ms": 215000,
+      "name": "Vai Passar",
+      "url": "https://open.spotify.com/track/3PS54iE0GBvHoD4q059UPo"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
+        "name": "Nada Tropical",
+        "url": "https://open.spotify.com/album/1EboAICOrhUiIE9Vz1OfPn"
+      },
+      "artists": [
+        {
+          "name": "Glue Trip",
+          "url": "https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Bessa Beat",
+      "url": "https://open.spotify.com/track/1AaRwprNAgh6mB4SgSuBGH"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
         "name": "Chico Chico Ao Vivo na Macaco Gordo",
         "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 226949,
       "name": "Ribanceira - Ao Vivo",
       "url": "https://open.spotify.com/track/5K47N9oaaYfC3k5zDPc9X5"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
-        "name": "Vai Passar",
-        "url": "https://open.spotify.com/album/5oHnMyqvoI6wpgXs8bwIUk"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Britto",
-          "url": "https://open.spotify.com/artist/1cyHhFmWDK80pd2IOK02QI"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Vai Passar",
-      "url": "https://open.spotify.com/track/3PS54iE0GBvHoD4q059UPo"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Sem Pecado e Sem Ju\u00edzo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/25Lea4PaLVhwd2qh9ZPRVh"
-      },
-      "artists": [
-        {
-          "name": "Baby Do Brasil",
-          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
-        },
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Sem Pecado e Sem Ju\u00edzo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4urMYD4WHWZqnCD9YuUiOv"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Feiti\u00e7o",
         "url": "https://open.spotify.com/album/2U1ngEfcXGXQdAmaPcpnMD"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 178867,
       "name": "desculpe o au\u00ea",
       "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Sem Pecado e Sem Ju\u00edzo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/25Lea4PaLVhwd2qh9ZPRVh"
+      },
+      "artists": [
+        {
+          "name": "Baby Do Brasil",
+          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+        },
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Sem Pecado e Sem Ju\u00edzo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4urMYD4WHWZqnCD9YuUiOv"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Caso Perdido",
-        "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
-      },
-      "artists": [
-        {
-          "name": "Arthus Fochi",
-          "url": "https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj"
-        },
-        {
-          "name": "Qinhones",
-          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "T\u00f4",
         "url": "https://open.spotify.com/album/3gh1IMLtHXtImzao8srodC"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 247802,
       "name": "Coment\u00e1rios a Respeito de Belchior",
       "url": "https://open.spotify.com/track/7gT9a8ekaXrLVOtOaOTNu0"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Caso Perdido",
+        "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
+      },
+      "artists": [
+        {
+          "name": "Arthus Fochi",
+          "url": "https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj"
+        },
+        {
+          "name": "Qinhones",
+          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
     },
     {
       "added_at": "2022-08-12 03:04:35",

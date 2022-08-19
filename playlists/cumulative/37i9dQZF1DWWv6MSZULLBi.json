@@ -1928,6 +1928,24 @@
     },
     {
       "album": {
+        "name": "Safe Flight (Acoustic)",
+        "url": "https://open.spotify.com/album/5oIF7vKLlB1trWhyCKIeul"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239327,
+      "name": "Safe Flight - Acoustic",
+      "url": "https://open.spotify.com/track/2e8vuU33xtWNOPtPzCcDJa"
+    },
+    {
+      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },

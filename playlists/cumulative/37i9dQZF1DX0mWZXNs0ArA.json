@@ -1058,6 +1058,24 @@
     },
     {
       "album": {
+        "name": "Stolen Dance (Speed Version)",
+        "url": "https://open.spotify.com/album/5BlFBLahe9vzioXLZ9KY9F"
+      },
+      "artists": [
+        {
+          "name": "Sped-O",
+          "url": "https://open.spotify.com/artist/41Bwy7d6vdqhuKe0Rw5wes"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255428,
+      "name": "Stolen Dance - Speed Version",
+      "url": "https://open.spotify.com/track/58UDGnjRXZhHeeNxZYI6c5"
+    },
+    {
+      "album": {
         "name": "SugarCrash!",
         "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
       },

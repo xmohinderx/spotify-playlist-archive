@@ -92,6 +92,28 @@
     },
     {
       "album": {
+        "name": "Anatolia",
+        "url": "https://open.spotify.com/album/2U4NBuQ1SdwlBPrf6cdIkr"
+      },
+      "artists": [
+        {
+          "name": "Tunahan Turhan",
+          "url": "https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz"
+        },
+        {
+          "name": "\u015eevket \u00d6nda\u015f",
+          "url": "https://open.spotify.com/artist/5acooQjRlNtjcI4cHSOlki"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Anatolia",
+      "url": "https://open.spotify.com/track/5FBMsnJhlobFq0BAI47UuJ"
+    },
+    {
+      "album": {
         "name": "Ancestors",
         "url": "https://open.spotify.com/album/7nYkvFN9KH9avY79NHJ5AU"
       },
@@ -230,6 +252,32 @@
     },
     {
       "album": {
+        "name": "Bazooka",
+        "url": "https://open.spotify.com/album/3q8VKvzp3K94kUqGdDmDuK"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Chows",
+          "url": "https://open.spotify.com/artist/5aWQFWWhzp922qrrJIAwUY"
+        },
+        {
+          "name": "JKLN",
+          "url": "https://open.spotify.com/artist/78OSlmY7jGez7noNJe0VPD"
+        },
+        {
+          "name": "Antomage",
+          "url": "https://open.spotify.com/artist/6xqmiKO95KxwEiz8BQQauZ"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136969,
+      "name": "Bazooka",
+      "url": "https://open.spotify.com/track/3ufID66NGukmmp6mEOGq3I"
+    },
+    {
+      "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/1pdm2LpgVSsGSCBpoeXbZe"
       },
@@ -245,6 +293,24 @@
       "duration_ms": 179478,
       "name": "Big Bang",
       "url": "https://open.spotify.com/track/1DLAecTyNRrGd2QcTf33Tc"
+    },
+    {
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/5cybBYnot19iyh4CM7zcca"
+      },
+      "artists": [
+        {
+          "name": "Chamberlain",
+          "url": "https://open.spotify.com/artist/1EN0OGXAhh1z5k6Iq4E5H4"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/4QB5XCHPHHE6ZW57IRFAGD"
     },
     {
       "album": {
@@ -819,7 +885,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 200732,
       "name": "Hate",
       "url": "https://open.spotify.com/track/7LXY7z2jCdCeYENgkLNwEI"
@@ -1357,7 +1423,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 145719,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/3RZvy7noS5NHPlfkSm23qo"
@@ -1383,6 +1449,24 @@
       "duration_ms": 127200,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/3FcseYxP7eeE7ihwgz2U2c"
+    },
+    {
+      "album": {
+        "name": "Move Bitch",
+        "url": "https://open.spotify.com/album/0gSNhXgCIuClCFIzT3zGRd"
+      },
+      "artists": [
+        {
+          "name": "Gang Speed",
+          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129498,
+      "name": "Move Bitch",
+      "url": "https://open.spotify.com/track/2qDTJ3cSYwvjY6tN4uRvyb"
     },
     {
       "album": {
@@ -2461,7 +2545,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 139629,
       "name": "Woah",
       "url": "https://open.spotify.com/track/3jWkWcmESJG9fmhZOpZYsW"
@@ -2497,7 +2581,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 183783,
       "name": "\u0413\u041e\u0412\u041e\u0420\u0418\u0422\u042c \u041a\u0418\u0407\u0412",
       "url": "https://open.spotify.com/track/6gRhaka1XR8DEc6sQ0mXPa"

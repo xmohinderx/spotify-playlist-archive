@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-152 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/5m1bjYNR2pVMWBRWkLrWBe)
+153 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/5m1bjYNR2pVMWBRWkLrWBe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,13 +55,14 @@
 | [Futurism](https://open.spotify.com/track/0TzjN3TEKHd5Ewb2OLHpzQ) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk) | [Futurism](https://open.spotify.com/album/4TFqV5gUh7qoMhKa2FZBlM) | 5:13 | 2021-12-21 | 2022-06-17 |
 | [Get Serious](https://open.spotify.com/track/7y5TMfJqAvvAKfy6PYB5ma) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Beneath the Surface](https://open.spotify.com/album/05dtnn7yufEGZbfQ8loopK) | 4:13 | 2021-12-21 | 2022-07-29 |
 | [Ghost Notes](https://open.spotify.com/track/6i511YzpgGLgpMfIoAsmJ4) | [Dexcell](https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Ghost Notes](https://open.spotify.com/album/6h53ziQI8USy0s1YpsFCre) | 4:51 | 2021-12-21 | 2022-07-24 |
-| [Glitter](https://open.spotify.com/track/1AtifUJiEqzf1lHxxSKVEz) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Glitter](https://open.spotify.com/album/4xG9AXX6PJpzfVoqb5eqXh) | 2:59 | 2022-07-05 |  |
+| [Glitter](https://open.spotify.com/track/1AtifUJiEqzf1lHxxSKVEz) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Glitter](https://open.spotify.com/album/4xG9AXX6PJpzfVoqb5eqXh) | 2:59 | 2022-07-05 | 2022-08-19 |
 | [Gone Sleep](https://open.spotify.com/track/5T7OpBrCobyQSQQpcFF33j) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Gone Sleep](https://open.spotify.com/album/588Obmczl7A6h9SZnPjQ9a) | 3:24 | 2021-12-21 | 2022-07-15 |
 | [Good Life](https://open.spotify.com/track/515OfuSUlr2igB70C83M13) | [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [Good Life](https://open.spotify.com/album/6vBL5UAlbOy0jFnJk6Dnbc) | 3:07 | 2021-12-21 | 2022-07-20 |
 | [Good to Me](https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Good to Me](https://open.spotify.com/album/46yPP8LYBsQ399RMPl39Ws) | 3:01 | 2021-12-21 |  |
 | [Gravity](https://open.spotify.com/track/3DEOsCKFcseZtobrpOH2J7) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Gravity](https://open.spotify.com/album/59oNG70vYOhucgQvVV4EG7) | 4:30 | 2021-12-21 | 2022-07-27 |
 | [Hands, Lights, Flames, Phones](https://open.spotify.com/track/2sBCHHilijXQtJCZ9igvt4) | [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Smile & Wave](https://open.spotify.com/album/2RgBhzyPXj9n1ocwkO0UdF) | 3:21 | 2021-12-21 | 2022-07-28 |
 | [Harmony](https://open.spotify.com/track/5yZ0qWaaLroWRwM7f1YZ3W) | [Origin8a & Propa](https://open.spotify.com/artist/0LZYLSeAxzr71uR8WOf5UY), [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1) | [Harmony](https://open.spotify.com/album/2u43nsUaZpyORECJsKt5fm) | 2:38 | 2021-12-21 | 2022-06-22 |
+| [Heartbeat Loud](https://open.spotify.com/track/5PuJ00qKGWqbGeeWbt8WJb) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [Heartbeat Loud](https://open.spotify.com/album/2u3D0tqxUKya8El5VN5Is2) | 2:59 | 2022-07-05 |  |
 | [Heathen \(Give Me More\)](https://open.spotify.com/track/0smP8hay3KD1ikHQx9s0an) | [Edlan](https://open.spotify.com/artist/0kmYD4ijzuztxYkzJBbQQa), [Djah](https://open.spotify.com/artist/37amnMKp6Y0BPiGNeaIjQc), [Smote](https://open.spotify.com/artist/5FIcJ2ghmkpHZM8cXm17XP) | [Heathen EP](https://open.spotify.com/album/3K6G5TpYXxLNrXx3J9nsZQ) | 3:33 | 2022-06-20 | 2022-06-27 |
 | [Here For You](https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Cognition](https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0) | 3:46 | 2022-06-20 |  |
 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 | 2021-12-21 |  |

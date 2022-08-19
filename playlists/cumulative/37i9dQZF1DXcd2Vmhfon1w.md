@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-147 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
+148 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Me Piden Que Cante](https://open.spotify.com/track/07zHQ6Gg5f1sUeeN3PlsDv) | [Shoren](https://open.spotify.com/artist/6MRCWn4BaMCrfxzseImRuN) | [Me Piden Que Cante](https://open.spotify.com/album/4ZazTf8XfDWVyctUKqMfGQ) | 2:16 | 2022-01-21 | 2022-05-28 |
 | [Mercury](https://open.spotify.com/track/4ieZaJ1d5lmei3GOZqtfv3) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Selecta](https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ) | [Mercury](https://open.spotify.com/album/3X6RtqeOhtrUJKtfO84nMc) | 3:16 | 2022-03-16 |  |
 | [Mi Condena](https://open.spotify.com/track/0RSpDN3ywn433Ax7AEmciT) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx), [Luani](https://open.spotify.com/artist/5y7twJ6XIWnxkh9sArNf5M) | [Mi Condena](https://open.spotify.com/album/0DtcJk7CoznzFlCp5DFld3) | 2:44 | 2022-03-16 |  |
+| [Modo Abuso](https://open.spotify.com/track/5K5Pu8XivpLcXjrkvJhl0z) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [EL NIÑO DE LA PENA](https://open.spotify.com/artist/3ZpK1P7BobQwh3KF47HHoh), [Heiss](https://open.spotify.com/artist/0daOLoNu2PsJMuYnjkcBmB) | [Modo Abuso](https://open.spotify.com/album/43V9JJGZFP0eVV9IxEOQIG) | 3:15 | 2022-08-04 |  |
 | [Mortales](https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Siempre](https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo) | 2:55 | 2022-01-21 |  |
 | [Más Alcohol](https://open.spotify.com/track/0g1U66Dqir9TUBdRpgy0UB) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Más Alcohol](https://open.spotify.com/album/73aizn6KMyjpQM59JjpiBo) | 4:00 | 2022-01-21 | 2022-03-17 |
 | [Más X Menos](https://open.spotify.com/track/0xGUIUpbQlGUfZeYRDl5U3) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Más X Menos](https://open.spotify.com/album/0tqoxrOOgv2WJsZhz6ArfG) | 3:22 | 2022-01-21 | 2022-02-05 |

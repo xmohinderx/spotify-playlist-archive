@@ -1,12 +1,12 @@
 {
   "description": "Above the city of Los Angeles, here are a few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.",
-  "num_followers": 121493,
+  "num_followers": 121546,
   "original_name": "Legacy of Laurel Canyon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDExMDI1NSwwMDAwMDAwMDlmNzc1YjljYmI1YzU0MDJhOTYyNWM1OTc4Y2FhZDU2",
+  "snapshot_id": "MTU5MDExMDI1NSwwMDAwMDAwMGZmNzZhZWY1MDE5MTYxMzNmMjhkNTMzM2YyNjc5NzI1",
   "tracks": [
     {
       "added_at": "2019-12-05 16:49:41",
@@ -75,6 +75,22 @@
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+    },
+    {
+      "added_at": "2019-12-05 16:49:41",
+      "album": {
+        "name": "Harvest (2009 Remaster)",
+        "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Heart of Gold - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
     },
     {
       "added_at": "2019-12-05 16:49:41",
@@ -159,6 +175,22 @@
       "duration_ms": 169533,
       "name": "Love Street",
       "url": "https://open.spotify.com/track/5Q2Im8o4RthlAMkvUMYwGj"
+    },
+    {
+      "added_at": "2019-12-05 16:49:41",
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Ladies of the Canyon",
+      "url": "https://open.spotify.com/track/1Q8BMaKg8czMR2Y6wLlXJf"
     },
     {
       "added_at": "2019-12-05 16:49:41",
@@ -499,6 +531,22 @@
     {
       "added_at": "2019-12-05 16:49:41",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 230226,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
+    },
+    {
+      "added_at": "2019-12-05 16:49:41",
+      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -675,6 +723,42 @@
     {
       "added_at": "2019-12-05 16:49:41",
       "album": {
+        "name": "Everybody Knows This Is Nowhere",
+        "url": "https://open.spotify.com/album/70Yl2w1p00whfnC7fj94ox"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 558186,
+      "name": "Down by the River - 2009 Remaster",
+      "url": "https://open.spotify.com/track/2EFtUP7BmsjHzhQqI6A4rp"
+    },
+    {
+      "added_at": "2019-12-05 16:49:41",
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+    },
+    {
+      "added_at": "2019-12-05 16:49:41",
+      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -735,6 +819,22 @@
       "duration_ms": 242066,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/02UYBPv5ig1e7yZzEYP4G8"
+    },
+    {
+      "added_at": "2019-12-05 16:49:41",
+      "album": {
+        "name": "Harvest (2009 Remaster)",
+        "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 271933,
+      "name": "Out on the Weekend - 2009 Remaster",
+      "url": "https://open.spotify.com/track/7DqktFsRwJa0XDFPMjV1xJ"
     },
     {
       "added_at": "2019-12-05 16:49:41",
@@ -815,6 +915,22 @@
       "duration_ms": 177866,
       "name": "Questions",
       "url": "https://open.spotify.com/track/7w1OJlqxiRxnC4ct8yNN1n"
+    },
+    {
+      "added_at": "2019-12-05 16:49:41",
+      "album": {
+        "name": "Court and Spark",
+        "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/0tVzXGFyNPusa1VkHmYDLd"
     },
     {
       "added_at": "2019-12-05 16:49:41",

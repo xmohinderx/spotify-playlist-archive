@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/54MQc7UtIAogdoU5h0KNOP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5AsILdoHhA7WdqUtPDtnoX) | 0:00 | 2019-10-29 | 2022-07-29 |
+| [](https://open.spotify.com/track/54MQc7UtIAogdoU5h0KNOP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5AsILdoHhA7WdqUtPDtnoX) | 0:00 | 2019-10-29 |  |
 | [A Blanket of Snow Spotted from Under the Blankets](https://open.spotify.com/track/72zxrRRQwFmkpZWxaDaRzH) | [Lullatone](https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD) | [Thinking About Thursdays](https://open.spotify.com/album/3AWATaNWvlDlTOmlemNQDw) | 2:21 | 2019-10-29 |  |
 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 | 2019-10-29 |  |
 | [Adelita de Tarrega Large Reverb](https://open.spotify.com/track/2Db1pHzdBSdFIz8y7eAQwb) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 2](https://open.spotify.com/album/1FajCPj6rryb58KTupNivW) | 2:24 | 2019-10-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the brand new album 'Ignorance is Bliss' and all his biggest tracks, all in one place.",
-  "num_followers": 101966,
+  "num_followers": 101992,
   "original_name": "This Is: Skepta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1OTI1NzI2MCwwMDAwMDAwMGI1ZmNiNzhmNGE5ZTUwNmRjMTY5MTA1MzZhYzhhMDAy",
+  "snapshot_id": "MTU1OTI1NzI2MCwwMDAwMDAwMDQxNTdmMjE4YTA0YjM5ZDAxZDM4ZDc5YWQzODQ0MzAz",
   "tracks": [
     {
       "added_at": "2019-05-30 23:01:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2019-05-30 23:01:00",
       "album": {
+        "name": "50 Grand",
+        "url": "https://open.spotify.com/album/6S5BBD8U9xlDJxFSz8wCmI"
+      },
+      "artists": [
+        {
+          "name": "Devlin",
+          "url": "https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "50 Grand",
+      "url": "https://open.spotify.com/track/219BdFLFPCLshwKHcSDvB7"
+    },
+    {
+      "added_at": "2019-05-30 23:01:00",
+      "album": {
         "name": "German Whip (Remixes)",
         "url": "https://open.spotify.com/album/3om8exXyCxPkwyseZshAVB"
       },
@@ -815,6 +835,22 @@
       "duration_ms": 227586,
       "name": "The Man",
       "url": "https://open.spotify.com/track/7lCAeL6ROhHEt6UshKvqrR"
+    },
+    {
+      "added_at": "2019-05-30 23:01:00",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/49Sqd0ro3d06uCLY1gJHPn"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7FElCoaAW2N4EQsYe9okLe"
     },
     {
       "added_at": "2019-05-30 23:01:00",
@@ -1055,6 +1091,26 @@
     {
       "added_at": "2019-05-30 23:01:00",
       "album": {
+        "name": "Cross My Heart",
+        "url": "https://open.spotify.com/album/1YW5Tke18D5g4zOA3B46Pa"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Preeya Kalidas",
+          "url": "https://open.spotify.com/artist/7paXnMpu5BlEa5lAbYr3YF"
+        }
+      ],
+      "duration_ms": 173251,
+      "name": "Cross My Heart",
+      "url": "https://open.spotify.com/track/3Ly0Z5HdVlPGDFDHYkfSGU"
+    },
+    {
+      "added_at": "2019-05-30 23:01:00",
+      "album": {
         "name": "History:",
         "url": "https://open.spotify.com/album/74tH17Nt4hF80FKeLUlEoE"
       },
@@ -1075,6 +1131,58 @@
     {
       "added_at": "2019-05-30 23:01:00",
       "album": {
+        "name": "So Alive",
+        "url": "https://open.spotify.com/album/49VqnuAVLmCxv2XgiHPEgT"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "N-Dubz",
+          "url": "https://open.spotify.com/artist/52Syw7gkGRePCAYvEY2X9D"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "So Alive - Video Mix",
+      "url": "https://open.spotify.com/track/59WPf8jzDj5lNqPUJOmJzC"
+    },
+    {
+      "added_at": "2019-05-30 23:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4orWbU7Ayf4Mg6NojkLgtN"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 143693,
+      "name": "Hold On - UK Radio Edit",
+      "url": "https://open.spotify.com/track/6gMwwraQUcI00Juy8ebPSA"
+    },
+    {
+      "added_at": "2019-05-30 23:01:00",
+      "album": {
+        "name": "Prangin' Out (MC's Mix)",
+        "url": "https://open.spotify.com/album/777eFkFhp0k0WJOjIHE9sO"
+      },
+      "artists": [
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "duration_ms": 286160,
+      "name": "Prangin' Out - MC's Mix",
+      "url": "https://open.spotify.com/track/6MoA0Lvqd4y26ne2gDJxl9"
+    },
+    {
+      "added_at": "2019-05-30 23:01:00",
+      "album": {
         "name": "Coming Soon",
         "url": "https://open.spotify.com/album/5SRuNtAVE7SZ0GgUHvbIQC"
       },
@@ -1091,6 +1199,22 @@
       "duration_ms": 220734,
       "name": "Coming Soon",
       "url": "https://open.spotify.com/track/7F52tArntesgjZT9t8rp6L"
+    },
+    {
+      "added_at": "2019-05-30 23:01:00",
+      "album": {
+        "name": "Make Peace Not War",
+        "url": "https://open.spotify.com/album/1TMGC0h58KA11cE9yZfq9b"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 194247,
+      "name": "Make Peace Not War",
+      "url": "https://open.spotify.com/track/1YHC7vYpLhkUMftjYJFUat"
     }
   ],
   "unique_name": "This Is: Skepta",

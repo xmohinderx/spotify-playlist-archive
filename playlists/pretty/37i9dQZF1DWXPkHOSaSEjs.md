@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPkHOSaSEjs.md) - [plain]
 
 > La mejor energía con los éxitos de Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,330 likes - 49 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,360 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPkHOSaSEjs.md) - [plain]
 | 36 | [Bajo El Mismo Cielo](https://open.spotify.com/track/6hfvDIxS8Bs48zhNso3ni1) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Original Masters](https://open.spotify.com/album/5aGLZiyhur5ThPT5E5az9k) | 4:20 |
 | 37 | [El satánico Dr.Cadillac](https://open.spotify.com/track/1X3zDYO8bqE0eIQ3TdtQ6w) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Satánico Dr.Cadillac \(Lfc\)](https://open.spotify.com/album/0Q2jz2kiErvsDCuhcdCqRK) | 4:26 |
 | 38 | [Boulevard \- Live](https://open.spotify.com/track/0a7DgM90xUXYZCgArsEIuA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 4:13 |
-| 39 | [Más Cerca Del Cielo](https://open.spotify.com/track/0KR6PIy3kqzmXh8FnkRfn8) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 4:21 |
-| 40 | [El Gran Desfile](https://open.spotify.com/track/5OJq5JQ2D5HRjryqHzcdN2) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pura Vida](https://open.spotify.com/album/2uehSDVyhBGGHygslmy1ls) | 3:50 |
-| 41 | [Torito](https://open.spotify.com/track/6XZuWOLd3KQ17ZqbNp6aF2) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 3:27 |
-| 42 | [Hacé Lo Que Quieras](https://open.spotify.com/track/6OpPgur1kwNnAr8Y7tdaMo) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 2:14 |
-| 43 | [No Me Pares](https://open.spotify.com/track/3HVlLJUSxerXA1F6x9xtlJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Serie De Oro](https://open.spotify.com/album/1SdOnqeKXxOKAU6rVbS0z5) | 3:33 |
-| 44 | [Todos Lo Hacen](https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:54 |
-| 45 | [La Hora 25](https://open.spotify.com/track/0MsFSojKXUkCTOJzLldLnC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 4:19 |
-| 46 | [Voy Caminando Lento \- Live](https://open.spotify.com/track/7yEbY15xQmLCEstpmx6W5z) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 1:22 |
-| 47 | [Monkey Man](https://open.spotify.com/track/47kOyApVjpeMNWOeIaTnJw) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Mystic Love \(Reissue\)](https://open.spotify.com/album/3GYWqJzLFjyUemww6zeaW9) | 2:46 |
-| 48 | [Rata China \- Live](https://open.spotify.com/track/1gcvVJO6c9l8g5dExldA6j) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 1:55 |
-| 49 | [Palabras de Fuego \(feat\. Emanero\)](https://open.spotify.com/track/7LlLoe454Qj8R57mMa2Nc4) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:19 |
+| 39 | [Eu Vi Chegar](https://open.spotify.com/track/70Ked5bJ0LsDIurJD56Zsw) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Los Maxis De Los Pericos](https://open.spotify.com/album/0kmgtWaOe1dzJerZNxtoOm) | 4:02 |
+| 40 | [Más Cerca Del Cielo](https://open.spotify.com/track/0KR6PIy3kqzmXh8FnkRfn8) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 4:21 |
+| 41 | [El Gran Desfile](https://open.spotify.com/track/5OJq5JQ2D5HRjryqHzcdN2) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pura Vida](https://open.spotify.com/album/2uehSDVyhBGGHygslmy1ls) | 3:50 |
+| 42 | [Torito](https://open.spotify.com/track/6XZuWOLd3KQ17ZqbNp6aF2) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 3:27 |
+| 43 | [Hacé Lo Que Quieras](https://open.spotify.com/track/6OpPgur1kwNnAr8Y7tdaMo) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 2:14 |
+| 44 | [No Me Pares](https://open.spotify.com/track/3HVlLJUSxerXA1F6x9xtlJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Serie De Oro](https://open.spotify.com/album/1SdOnqeKXxOKAU6rVbS0z5) | 3:33 |
+| 45 | [Todos Lo Hacen](https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:54 |
+| 46 | [Ocho Ríos](https://open.spotify.com/track/5axeeFo6ETWDWrtegFmwQ1) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [King Kong](https://open.spotify.com/album/1f19N0IA8DvKQqjhLUbJpK) | 3:46 |
+| 47 | [La Hora 25](https://open.spotify.com/track/0MsFSojKXUkCTOJzLldLnC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 4:19 |
+| 48 | [Voy Caminando Lento \- Live](https://open.spotify.com/track/7yEbY15xQmLCEstpmx6W5z) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 1:22 |
+| 49 | [Monkey Man](https://open.spotify.com/track/47kOyApVjpeMNWOeIaTnJw) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Mystic Love \(Reissue\)](https://open.spotify.com/album/3GYWqJzLFjyUemww6zeaW9) | 2:46 |
+| 50 | [Rata China \- Live](https://open.spotify.com/track/1gcvVJO6c9l8g5dExldA6j) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 1:55 |
+| 51 | [Palabras de Fuego \(feat\. Emanero\)](https://open.spotify.com/track/7LlLoe454Qj8R57mMa2Nc4) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:19 |
 
-Snapshot ID: `MTYzNzg5NTYwMCwwMDAwMDAwMDI5NjVjMDIzNjNhNjg1N2I2MTVmYzMyMTQ1YWE5ZGUx`
+Snapshot ID: `MTYzNzg5NTYwMCwwMDAwMDAwMGEyYzJjM2YyYmE5MmY0NmE4YjkxYzQ1ZTJmZmU3M2Ey`

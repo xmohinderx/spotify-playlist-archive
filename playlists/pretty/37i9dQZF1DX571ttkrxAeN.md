@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,682 likes - 77 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,718 likes - 78 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,20 +70,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 60 | [Si jamais j'oublie \- Sur la route Live 2015](https://open.spotify.com/track/1KkPVmfNmNND1vm5PhUv5R) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sur la route](https://open.spotify.com/album/2XjgaeNxdUvGMwggCTSLXn) | 3:28 |
 | 61 | [Luna Llena](https://open.spotify.com/track/20A1JcPTZK3yaTNKXn08O9) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 3:07 |
 | 62 | [Ja må du leva \- Akustisk version](https://open.spotify.com/track/1Bh4HmorrjRSTAMgyHTkL5) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Ja må du leva \(Akustisk version\)](https://open.spotify.com/album/0frL0AdL5jK1RisL0nCObh) | 3:32 |
-| 63 | [Je t'emmènerai](https://open.spotify.com/track/0e1tpQ8A7L2BTRpXXs8znZ) | [Willows](https://open.spotify.com/artist/0UNhcjtUIMb5u5v6niKshW) | [Willows](https://open.spotify.com/album/276kwfvHvCeNJYHGhcx7jj) | 3:47 |
-| 64 | [Les ombres](https://open.spotify.com/track/7Dpg3EFj6JmLK0zym1n3ox) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Innocent](https://open.spotify.com/album/2pr0ED2cGHRLw4SuGemHt1) | 3:49 |
-| 65 | [Eden \- Acoustic](https://open.spotify.com/track/5YLIsfWdeV6Yado1tVAKZZ) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Vous & moi](https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ) | 4:09 |
-| 66 | [Babi'r Eirlys \- Live](https://open.spotify.com/track/4ErU8orOXurNZWpHjSs3Xn) | [9bach](https://open.spotify.com/artist/2NIcUSfuUPORqM5CaXZlIO) | [The Mark Radcliffe Folk Sessions: 9bach](https://open.spotify.com/album/3f4R2egQrunK3KCF9W1Gz4) | 3:02 |
-| 67 | [Voce piccolina](https://open.spotify.com/track/25Z9SXq4u07bbwzlUmOTlz) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0nRwkAQQdM7xmVDisTIHWY) | 1:43 |
-| 68 | [Paistin Fionn](https://open.spotify.com/track/7pFgfFCjCnUBaXxRDXNp9x) | [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv), [Cormac De Barra](https://open.spotify.com/artist/7CU8rPAwRweVDFew1KHl9L) | [Timeless](https://open.spotify.com/album/6OgHHzJmrZUtZ6I6wT43sR) | 3:28 |
-| 69 | [Lei, Lui, Firenze](https://open.spotify.com/track/7CW5af6NMMuPVuNcWY1a9v) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Vol\. 2 \- Poveri Cristi](https://open.spotify.com/album/6o0SQJf2diRJ02V4Vx1lyh) | 4:20 |
-| 70 | [Me Quiero Enamorar](https://open.spotify.com/track/6NLRl5GwqFQ4JorXChVSZS) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro? \(Deluxe\)](https://open.spotify.com/album/6BVBG97h9uAFn1eOwckiwH) | 3:58 |
-| 71 | [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 |
-| 72 | [Beni Vur \- Akustik](https://open.spotify.com/track/3oHKg5COeAxdGOU9TByS2X) | [Deniz Tekin](https://open.spotify.com/artist/4TdvNk4wmn5DgBFiLDeCj0) | [Kozakuluçka](https://open.spotify.com/album/7IyrFYIIJanXekwxhH2bmx) | 4:37 |
-| 73 | [Woyoyoye](https://open.spotify.com/track/2xHGMQ8hEQ0jD7jUaKQGSE) | [Daby Touré](https://open.spotify.com/artist/6rbNtMkifOcNCq5aBa6L2O) | [Amonafi](https://open.spotify.com/album/2gf9G7bVlOTZOXCbSwYETN) | 2:34 |
-| 74 | [Opa](https://open.spotify.com/track/3j58iXPuXKjKMqzkykgHli) | [Jona Bird](https://open.spotify.com/artist/2b6SFRAJT7aebTHmAEl9MW) | [Opa](https://open.spotify.com/album/5lGA0hsmixXDTcpbMigYlS) | 5:27 |
-| 75 | [Grand\-Maman](https://open.spotify.com/track/49Q77ydpqxHX4HkU7XFLyO) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Les Éclats](https://open.spotify.com/album/5rTQvNiLk6EIUB1B2diOZ6) | 3:53 |
-| 76 | [Hora Bruja](https://open.spotify.com/track/3KjUz9upExFV7dxsm9P45R) | [Cuchillo](https://open.spotify.com/artist/4HUoMCRLwJTGvuzcevaLVT) | [Encanto](https://open.spotify.com/album/7ghVkkWsjzTFna6lR0Axt1) | 3:53 |
-| 77 | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/track/6vOpTasDwu8gj7IRbFXNjE) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/album/2PjJMRedxiuCTtQgTkn2wR) | 3:41 |
+| 63 | [Vi lovar \(Besvärjelse\)](https://open.spotify.com/track/7o3FCfwainpUiPMF4wyGdP) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vi lovar \(Besvärjelse\)](https://open.spotify.com/album/51wjspTv8Bw7qy3AmgljWI) | 4:10 |
+| 64 | [Je t'emmènerai](https://open.spotify.com/track/0e1tpQ8A7L2BTRpXXs8znZ) | [Willows](https://open.spotify.com/artist/0UNhcjtUIMb5u5v6niKshW) | [Willows](https://open.spotify.com/album/276kwfvHvCeNJYHGhcx7jj) | 3:47 |
+| 65 | [Les ombres](https://open.spotify.com/track/7Dpg3EFj6JmLK0zym1n3ox) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Innocent](https://open.spotify.com/album/2pr0ED2cGHRLw4SuGemHt1) | 3:49 |
+| 66 | [Eden \- Acoustic](https://open.spotify.com/track/5YLIsfWdeV6Yado1tVAKZZ) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Vous & moi](https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ) | 4:09 |
+| 67 | [Babi'r Eirlys \- Live](https://open.spotify.com/track/4ErU8orOXurNZWpHjSs3Xn) | [9bach](https://open.spotify.com/artist/2NIcUSfuUPORqM5CaXZlIO) | [The Mark Radcliffe Folk Sessions: 9bach](https://open.spotify.com/album/3f4R2egQrunK3KCF9W1Gz4) | 3:02 |
+| 68 | [Voce piccolina](https://open.spotify.com/track/25Z9SXq4u07bbwzlUmOTlz) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0nRwkAQQdM7xmVDisTIHWY) | 1:43 |
+| 69 | [Paistin Fionn](https://open.spotify.com/track/7pFgfFCjCnUBaXxRDXNp9x) | [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv), [Cormac De Barra](https://open.spotify.com/artist/7CU8rPAwRweVDFew1KHl9L) | [Timeless](https://open.spotify.com/album/6OgHHzJmrZUtZ6I6wT43sR) | 3:28 |
+| 70 | [Lei, Lui, Firenze](https://open.spotify.com/track/7CW5af6NMMuPVuNcWY1a9v) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Vol\. 2 \- Poveri Cristi](https://open.spotify.com/album/6o0SQJf2diRJ02V4Vx1lyh) | 4:20 |
+| 71 | [Me Quiero Enamorar](https://open.spotify.com/track/6NLRl5GwqFQ4JorXChVSZS) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro? \(Deluxe\)](https://open.spotify.com/album/6BVBG97h9uAFn1eOwckiwH) | 3:58 |
+| 72 | [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 |
+| 73 | [Beni Vur \- Akustik](https://open.spotify.com/track/3oHKg5COeAxdGOU9TByS2X) | [Deniz Tekin](https://open.spotify.com/artist/4TdvNk4wmn5DgBFiLDeCj0) | [Kozakuluçka](https://open.spotify.com/album/7IyrFYIIJanXekwxhH2bmx) | 4:37 |
+| 74 | [Woyoyoye](https://open.spotify.com/track/2xHGMQ8hEQ0jD7jUaKQGSE) | [Daby Touré](https://open.spotify.com/artist/6rbNtMkifOcNCq5aBa6L2O) | [Amonafi](https://open.spotify.com/album/2gf9G7bVlOTZOXCbSwYETN) | 2:34 |
+| 75 | [Opa](https://open.spotify.com/track/3j58iXPuXKjKMqzkykgHli) | [Jona Bird](https://open.spotify.com/artist/2b6SFRAJT7aebTHmAEl9MW) | [Opa](https://open.spotify.com/album/5lGA0hsmixXDTcpbMigYlS) | 5:27 |
+| 76 | [Grand\-Maman](https://open.spotify.com/track/49Q77ydpqxHX4HkU7XFLyO) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Les Éclats](https://open.spotify.com/album/5rTQvNiLk6EIUB1B2diOZ6) | 3:53 |
+| 77 | [Hora Bruja](https://open.spotify.com/track/3KjUz9upExFV7dxsm9P45R) | [Cuchillo](https://open.spotify.com/artist/4HUoMCRLwJTGvuzcevaLVT) | [Encanto](https://open.spotify.com/album/7ghVkkWsjzTFna6lR0Axt1) | 3:53 |
+| 78 | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/track/6vOpTasDwu8gj7IRbFXNjE) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/album/2PjJMRedxiuCTtQgTkn2wR) | 3:41 |
 
-Snapshot ID: `MTU4ODQ3ODQ4OCwwMDAwMDAwMGRjMmM3NTA3MTNlODJhMGRlYzk2NTA0MDg3MzY3MTE0`
+Snapshot ID: `MTU4ODQ3ODQ4OCwwMDAwMDAwMDA5ZGI0YmQyNjhmYjg1ODMxZTVlM2YyMTgyYjFjY2Mz`

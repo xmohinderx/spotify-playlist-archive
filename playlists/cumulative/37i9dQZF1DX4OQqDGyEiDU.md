@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-416 songs - 1 day 0 hr 19 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
+417 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Black Out](https://open.spotify.com/track/1xoSc615wdQJiegfuJ8wPH) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA) | [PERSON](https://open.spotify.com/album/3TNRXnBvhF8ZzELhMuBo9m) | 4:29 | 2022-06-09 | 2022-07-27 |
 | [Black Out](https://open.spotify.com/track/0My5K0w80efxzM1wOTAheP) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Black Out](https://open.spotify.com/album/4cKFsbtDAMnopqSzC1GZm5) | 2:15 | 2022-06-14 | 2022-07-27 |
 | [Brand New Day](https://open.spotify.com/track/1rknPfhsPCqHYWEB99H5sZ) | [irucaice](https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX) | [iceQuarium \-Strawberry\-](https://open.spotify.com/album/2aGFMGGOl4we3BJZdEz9FZ) | 4:31 | 2022-06-14 | 2022-07-13 |
-| [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 | 2022-07-26 |  |
+| [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 | 2022-07-26 | 2022-08-19 |
 | [CH4NGE \- feat\. 可不](https://open.spotify.com/track/4qVHEZ8pbcI7EyliSL7AHJ) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/2c9Bn5UuRZj9YVykyjb0hc) | 2:12 | 2022-06-09 | 2022-07-29 |
 | [CHO \-DARI\-](https://open.spotify.com/track/6yKuRTRiaM1fUmxasPWCUu) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [LIME](https://open.spotify.com/album/17dYvFTZVCtDhz8LewtGGa) | 2:39 | 2022-06-30 | 2022-07-17 |
 | [Chubyou Gekihatsu Boy](https://open.spotify.com/track/6Lxu9Er4UWqLrYxqQSLJET) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Chubyou Gekihatsu Boy](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:26 | 2022-06-09 | 2022-07-16 |
@@ -39,7 +39,7 @@
 | [day by days](https://open.spotify.com/track/6SRkWroP8AXI5bqNfmI6Mn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [day by days](https://open.spotify.com/album/7Ir2ssbW6ov5OxbiQNcksm) | 2:09 | 2022-07-26 |  |
 | [Digital Girl](https://open.spotify.com/track/15h9C2CLOJyNNdfNVFcp7m) | [KIRA](https://open.spotify.com/artist/11T32AM3Tp0oYZ3PEWHGLZ), [Hatsune Miku](https://open.spotify.com/artist/2AynL2BUHgIk5ApzFVwDIL) | [Digital Girl](https://open.spotify.com/album/5LyEP5iDIqGJMKbRpsKDMq) | 3:02 | 2022-06-28 | 2022-07-13 |
 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 | 2022-07-26 |  |
-| [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 | 2022-07-26 | 2022-08-18 |
+| [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 | 2022-07-26 |  |
 | [Fire◎Flower \- Live](https://open.spotify.com/track/2em0N9s1HUwDa9qGQyxs6u) | [Len Kagamine](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [初音ミクシンフォニー〜Miku Symphony 2017〜 オーケストラ ライブ](https://open.spotify.com/album/71Xb3lHcKLgdwnMa7mYl3d) | 4:27 | 2022-06-09 | 2022-06-13 |
 | [flos](https://open.spotify.com/track/0qEvefkCUltXldv8EPOSDV) | [R Sound Design](https://open.spotify.com/artist/2KJvs9nIWfFTZ1lk7bBFlW) | [Quartia](https://open.spotify.com/album/4mNIRxw9vfv2XA1zrW0h5i) | 4:34 | 2022-06-09 | 2022-07-28 |
 | [GAME OVER](https://open.spotify.com/track/10v2a17K4NKw2kDA7BnZP5) | [そおだー](https://open.spotify.com/artist/2y8LsL92IyiID6jXKmltch) | [GAME OVER](https://open.spotify.com/album/6FVI5s0rC37l0sITHYzBv1) | 2:19 | 2022-07-14 | 2022-07-20 |
@@ -167,7 +167,7 @@
 | [イカサマライフゲイム](https://open.spotify.com/track/3eGoU7axuRs95XEg2bHgLJ) | [Kemu](https://open.spotify.com/artist/1XdtlhxEDsae1fePHTX4bn) | [イカサマライフゲイム](https://open.spotify.com/album/1FrxMJLctKQwGiXifCEqoz) | 4:06 | 2022-06-09 | 2022-06-21 |
 | [ウミユリ海底譚](https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 3:56 | 2022-06-09 | 2022-07-26 |
 | [エゴイスト](https://open.spotify.com/track/7jFve2PjhEsJgwkC5P56xK) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy) | 3:39 | 2022-07-26 |  |
-| [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 | 2022-07-19 |  |
+| [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 | 2022-07-19 | 2022-08-19 |
 | [エバ](https://open.spotify.com/track/6R84deEuce44rWKc7jHINJ) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2) | [ヘイトフル](https://open.spotify.com/album/6AK0ZWjL1tdCfYM2p8mRJM) | 3:49 | 2022-06-14 | 2022-07-19 |
 | [エリート](https://open.spotify.com/track/0QxUDD87uCY6G9hcWGVMMu) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [エリート](https://open.spotify.com/album/4EOxLSVoMcDeqiwUcoszwN) | 2:49 | 2022-06-09 | 2022-07-26 |
 | [エンヴィーベイビー](https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [エンヴィーベイビー](https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA) | 2:15 | 2022-06-09 | 2022-07-24 |
@@ -268,6 +268,7 @@
 | [プルメリア](https://open.spotify.com/track/7B9ChayKhfOOCUa22YOas8) | [にっけい](https://open.spotify.com/artist/1HYeWkut46GCdzJNklFiDH) | [プルメリア](https://open.spotify.com/album/2DG8Q797XWlJNM49aH3c4W) | 4:26 | 2022-06-23 | 2022-07-05 |
 | [プレデター](https://open.spotify.com/track/0E5rkxhDvozrBTNRNptqBP) | [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [プレデター](https://open.spotify.com/album/08JwMkdLLIUjZdWpqTRBO1) | 3:30 | 2022-06-30 | 2022-07-13 |
 | [ヘテロドキシー](https://open.spotify.com/track/0RBlT43Ku8a41w9MNc1kuu) | [椎乃味醂](https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk) | [ヘテロドキシー](https://open.spotify.com/album/07v9qU5FBLadVeRslbNANi) | 3:00 | 2022-06-09 | 2022-06-15 |
+| [ヘブンドープ](https://open.spotify.com/track/6IoP5FmMvNbEprdp4FBo4b) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [ヘブンドープ](https://open.spotify.com/album/0OrqRPEub1Jj4PgLDJbtgR) | 4:11 | 2022-08-18 |  |
 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 | 2022-07-26 |  |
 | [ベノム\(feat\. flower\)](https://open.spotify.com/track/1HZDkmuOxiUB4RgACPd6eB) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [ベノム\(feat\. flower\)](https://open.spotify.com/album/7AEioOJaaYF8Y1GmBGYBi8) | 3:23 | 2022-06-09 | 2022-07-29 |
 | [ペタペタ](https://open.spotify.com/track/0QfPdBYuquukh7i0cp7soC) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ペタペタ](https://open.spotify.com/album/5wHBtD5cW9FKGi2Z0Olrhm) | 3:19 | 2022-06-14 | 2022-07-24 |

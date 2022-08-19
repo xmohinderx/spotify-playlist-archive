@@ -4,11 +4,12 @@
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-51 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/2v0Q5hgZbBPeZBtRP6q1o6)
+53 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/2v0Q5hgZbBPeZBtRP6q1o6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Do The\) Push And Pull \- Pt\. 1 / Live At P.J.'s / 1970](https://open.spotify.com/track/1oOzKnZ3lRULFpVrRgEGP5) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Doing The Push And Pull At PJ's \(Live At P.J.'s / 1970\)](https://open.spotify.com/album/7DB6AHZps0sBoZv5nf3jSu) | 5:12 | 2021-11-12 |  |
+| [\(Not Just\) Knee Deep](https://open.spotify.com/track/4pCoAtxRfDhtx7jN8kyUKc) | [P\-Funk All Stars](https://open.spotify.com/artist/4jbdFVscwgzbzxNFmCHjGY) | [Live at the Beverly Theater in Hollywood](https://open.spotify.com/album/6Kv2aQ7yoFXeuByn2SVwr2) | 12:54 | 2021-11-12 |  |
 | [1+1+1 is 3 \- Live from One Nite Alone Tour 2002](https://open.spotify.com/track/7w0qo3yQoAuiBK4C0Aw7ir) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [One Nite Alone..\. Live!](https://open.spotify.com/album/4WaF42nHDVOOGnE8KIwQyJ) | 6:05 | 2021-11-12 |  |
 | [1999 \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/6ADP8ay0KMHR0A3ZYQOqdG) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince and The Revolution: Live \(2022 Remaster\)](https://open.spotify.com/album/4Y8oukfqpJupRcCsHucO7J) | 5:50 | 2022-04-29 |  |
 | [Boogie Nights \- Live](https://open.spotify.com/track/1dfPUjGLeyFjjbrNZcIsmo) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Very Best Of Heatwave](https://open.spotify.com/album/5iEIuTwHPvTFmaQcnjD7K0) | 5:17 | 2021-11-12 |  |
@@ -33,6 +34,7 @@
 | [Love Rollercoaster \- Live](https://open.spotify.com/track/612Kanf1PGX0GzHXTQwS9h) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Jam](https://open.spotify.com/album/2Als9EIYmoIpISmkXylbEm) | 5:57 | 2021-11-12 |  |
 | [Lovin' Is Really My Game \- Live](https://open.spotify.com/track/07AquLuknA60N7ZTGunC6a) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [Betty Wright Live](https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu) | 5:50 | 2021-11-12 |  |
 | [Lunchtime \- Live in London](https://open.spotify.com/track/3TC0pFRCFN0u0dww174FVG) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Live in the U.K.](https://open.spotify.com/album/5fZtMfM1XlAcjDzxTIOBa8) | 8:45 | 2021-11-12 |  |
+| [Maggot Brain](https://open.spotify.com/track/0M2LvFhRdPzPpnPxRkdtd4) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Live](https://open.spotify.com/album/1vqWWZGszfblEKQn8oIKwn) | 14:01 | 2021-11-12 |  |
 | [Manic Panic Epiphanic \- Live](https://open.spotify.com/track/1EOJiUpdqskM1kcZu1xwZi) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Manic Panic Epiphanic \(Live\)](https://open.spotify.com/album/0K2ivbkmwxapmIkFzMWkDA) | 8:50 | 2022-04-29 |  |
 | [Mary Jane \- 1981/Live In Long Beach, CA](https://open.spotify.com/track/3Mw083ecemcpSmkkSM5UKp) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 10:39 | 2021-11-12 |  |
 | [Midnight at the Oasis \- Live in London](https://open.spotify.com/track/263UMnttEZIhJiDMbaLJVz) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [Live In London](https://open.spotify.com/album/32AmcZxhGgvZObc1ZzZpjF) | 3:35 | 2021-11-12 |  |

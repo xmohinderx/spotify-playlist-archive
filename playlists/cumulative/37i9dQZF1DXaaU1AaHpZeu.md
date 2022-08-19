@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. En portada: Carlos Sadness y La Bien Querida.
 
-845 songs - 1 day 23 hr 55 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
+846 songs - 1 day 23 hr 59 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [EN EL AFTER](https://open.spotify.com/track/5gB9BNbUUCzomiMxbfgq9W) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [EN EL AFTER](https://open.spotify.com/album/4oEU6Ix1IGL4MCfssQmAqt) | 2:18 | 2022-03-25 | 2022-04-02 |
 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 | 2022-05-20 | 2022-06-04 |
 | [En el Túnel de Lavado](https://open.spotify.com/track/3BWzuRqg7c9pIP0YannCIm) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [En el Túnel de Lavado](https://open.spotify.com/album/5VScXeCIYm8HYJ0XuVEkKZ) | 2:53 | 2022-03-25 | 2022-04-09 |
-| [En Libertad](https://open.spotify.com/track/4CRdKP15xOYIKWgcPj9pvT) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Cenizas](https://open.spotify.com/album/1UqjdcUWYIruAA8ybNyXZ9) | 3:58 | 2022-08-05 |  |
+| [En Libertad](https://open.spotify.com/track/4CRdKP15xOYIKWgcPj9pvT) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Cenizas](https://open.spotify.com/album/1UqjdcUWYIruAA8ybNyXZ9) | 3:58 | 2022-08-05 | 2022-08-19 |
+| [En Libertad](https://open.spotify.com/track/5vY3PmA4rGhg2qXccdvxj0) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Cenizas](https://open.spotify.com/album/51oh8fDSvxLabyf8KTNeAD) | 3:59 | 2022-08-12 |  |
 | [En Mi Cajón](https://open.spotify.com/track/64FE0vvi4NuZRrWKmhhxM7) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/3l8c1HAldEVWFfudlrr64f) | 3:46 | 2022-04-29 | 2022-05-07 |
 | [En Tu Portal](https://open.spotify.com/track/3FoOFdEAhllblmxWGrQ8St) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [M\-42](https://open.spotify.com/album/37gwJKnGc6opjEkx6bJ8wx) | 3:26 | 2022-06-24 | 2022-07-02 |
 | [Encoñado](https://open.spotify.com/track/3ljGgLG6pZGbNjF5bYHAwO) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Encoñado](https://open.spotify.com/album/4GcfNpNemKxkGb0KElJ8EY) | 3:55 | 2022-05-20 | 2022-05-28 |

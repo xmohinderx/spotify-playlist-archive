@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  Elle Teresa
 
-464 songs - 1 day 3 hr 40 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
+465 songs - 1 day 3 hr 43 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [美しい顔](https://open.spotify.com/track/3u5Xxl0ZocjtXqCY70qmkA) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [PASSION BLUE](https://open.spotify.com/album/5Uw0bIdxo5S10PmE3jJ5Pk) | 3:37 | 2021-11-30 | 2022-01-05 |
 | [美人](https://open.spotify.com/track/3t7mVfDiaN6YvosOLQn5Vy) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 2:40 | 2022-04-05 | 2022-05-05 |
 | [美人 \- From THE FIRST TAKE](https://open.spotify.com/track/3eRc3AWjXOqcNujw8U01ep) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [美人 \(From THE FIRST TAKE\)](https://open.spotify.com/album/0FvGjwgTAprCSK3cWzIlfS) | 2:37 | 2022-05-31 | 2022-07-06 |
+| [花火](https://open.spotify.com/track/4rtJHOlUnGem3BQCVWfrjD) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 3:16 | 2022-08-02 |  |
 | [記憶の束](https://open.spotify.com/track/1ZfVE85GhThJKTzI1pGkSH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [僕と君の希求](https://open.spotify.com/album/41jk3O7vw4UUz0fMu0IWBp) | 4:23 | 2022-01-04 | 2022-02-02 |
 | [踊](https://open.spotify.com/track/0871AdnvzzSGr5XdTJaDHC) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:30 | 2022-02-01 | 2022-03-08 |
 | [鉄線](https://open.spotify.com/track/7bfHQu3qAiViVs2Obeb0pA) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [Calyx](https://open.spotify.com/album/30u7TBjP17nCKURG0tkmwl) | 3:27 | 2022-01-04 | 2022-02-02 |

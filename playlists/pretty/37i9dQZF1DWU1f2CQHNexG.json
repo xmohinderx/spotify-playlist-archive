@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Yazoo. ",
-  "num_followers": 30767,
+  "num_followers": 30929,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjkzNDI0NCwwMDAwMDAwMDY4ZWU2NzA5NzcwZDBhZWUxMjgxNTBjNTliN2EwODU5",
+  "snapshot_id": "MTY0NjkzNDI0NCwwMDAwMDAwMGIzYzliM2VhOGVhOGY2Y2NiODFjNDRlNzVkZjQ4MTkz",
   "tracks": [
     {
       "added_at": "2022-03-10 16:20:33",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-03-10 16:20:33",
       "album": {
+        "name": "Oh Canada!: Rock Hits",
+        "url": "https://open.spotify.com/album/04c15XwztwFaHZchwcHSFP"
+      },
+      "artists": [
+        {
+          "name": "Martha and the Muffins",
+          "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Echo Beach",
+      "url": "https://open.spotify.com/track/2uUHKPZF6W0ayxmdi6HRxa"
+    },
+    {
+      "added_at": "2022-03-10 16:20:33",
+      "album": {
         "name": "Dare!",
         "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2022-03-10 16:20:33",
       "album": {
-        "name": "Construction Time Again (2007 Remaster)",
-        "url": "https://open.spotify.com/album/6oFsq13ql71yK5Gaar7eIy"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 260880,
-      "name": "Everything Counts - 2007 Remaster",
-      "url": "https://open.spotify.com/track/68d2JDhqLtCuOsfX0W71Ct"
-    },
-    {
-      "added_at": "2022-03-10 16:20:33",
-      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/5ZYUz8XDkYqiSUWdglkhtZ"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 197760,
       "name": "Who Needs Love Like That",
       "url": "https://open.spotify.com/track/5hBQzpIVTuImm4uQCs84kB"
+    },
+    {
+      "added_at": "2022-03-10 16:20:33",
+      "album": {
+        "name": "Construction Time Again (2007 Remaster)",
+        "url": "https://open.spotify.com/album/6oFsq13ql71yK5Gaar7eIy"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 260880,
+      "name": "Everything Counts - 2007 Remaster",
+      "url": "https://open.spotify.com/track/68d2JDhqLtCuOsfX0W71Ct"
     },
     {
       "added_at": "2022-03-10 16:20:33",

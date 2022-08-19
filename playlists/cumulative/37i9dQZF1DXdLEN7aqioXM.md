@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-334 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+335 songs - 1 day 0 hr 16 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Failed Star](https://open.spotify.com/track/39wuQ4m4GBzrGfivIjjL22) | [PatternShift](https://open.spotify.com/artist/6MNFOvQOGj0BYmHJa6tVIV) | [Failed Star](https://open.spotify.com/album/7ofYca980GtIAs7OOe99GC) | 4:32 | 2021-10-15 | 2022-07-28 |
 | [Feel](https://open.spotify.com/track/1suJTW6qNyv8wrJrhl66GB) | [Mötel](https://open.spotify.com/artist/0t2BvVv6gU4bPa0OFvcTJN) | [Feel](https://open.spotify.com/album/10fs3d44oj8OzWWsAj9eCB) | 3:33 | 2022-04-01 | 2022-04-21 |
 | [Fever](https://open.spotify.com/track/0SoAEe3qrUmjh9YRX4FFbO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb), [BRESDEN](https://open.spotify.com/artist/0djds6pkICcQcfaxmK3cSj) | [Fever](https://open.spotify.com/album/0sTuNWvCX4Wn5zDiflJ7Qz) | 4:16 | 2022-02-04 | 2022-06-14 |
+| [Fire](https://open.spotify.com/track/3XPDYyo2I9dIa2uhgcZhgn) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/1MkCO0adu22r0yPTkhzwjM) | 2:10 | 2022-08-12 |  |
 | [Firebird](https://open.spotify.com/track/4HeTO68jodyeWHHIgdytwr) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Jukebox 80s](https://open.spotify.com/artist/2O6IhsrW35MUzqmq5UVVKl) | [Firebird](https://open.spotify.com/album/72ophLrmWPbHAt8j56YHdF) | 3:38 | 2022-04-01 | 2022-04-21 |
 | [Firefall](https://open.spotify.com/track/0T01wlTfTkUZNGEDBVUfaC) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Firefall](https://open.spotify.com/album/00Tng0eDtbtLgpoc2i3i8L) | 2:48 | 2022-07-22 |  |
 | [Flashing Sirens](https://open.spotify.com/track/2Qo0EdObfe4sCsiR7grstZ) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [Tima](https://open.spotify.com/artist/1rDy96MTvvmWDAbIg6B6o4), [YOUTH 83](https://open.spotify.com/artist/5Yn2L5pqTDEymWBHXfor7f) | [Flashing Sirens](https://open.spotify.com/album/4bNmE4x4vOL6oY32I33dvf) | 2:42 | 2021-10-15 |  |
@@ -232,7 +233,7 @@
 | [Part Time God](https://open.spotify.com/track/14juitXdt9JqvBQAQP3i5L) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Songs About People Including Myself \(Deluxe Edition\)](https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC) | 3:37 | 2021-10-15 | 2022-04-02 |
 | [Party at Kitty & Stud's](https://open.spotify.com/track/3THa36K3k5UzEQREL9w9Xx) | [80s Stallone](https://open.spotify.com/artist/1kbrY3DkdlVnrp4NCTPCpx) | [Party At Kitty & Stud's](https://open.spotify.com/album/2n4shhAODxZT9SxXWVtG0G) | 4:20 | 2022-04-01 |  |
 | [Past Present](https://open.spotify.com/track/6NWqbfviq3zwoGqIlSnzuR) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [Asutenki](https://open.spotify.com/artist/14BiKqKsX9hV5nvNNHA5Xo) | [Past Present](https://open.spotify.com/album/1fQWDkBdjgUsbYiuNDu9Ig) | 4:10 | 2021-10-15 | 2022-03-22 |
-| [Patission Street](https://open.spotify.com/track/6J7Q5juj1OHA7UdgHbxGht) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Horizon's Glow](https://open.spotify.com/album/0lrDYbaeW955aR9WzAGuqk) | 3:08 | 2022-04-01 |  |
+| [Patission Street](https://open.spotify.com/track/6J7Q5juj1OHA7UdgHbxGht) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Horizon's Glow](https://open.spotify.com/album/0lrDYbaeW955aR9WzAGuqk) | 3:08 | 2022-04-01 | 2022-08-19 |
 | [Pelée](https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Fundamentals, Vol\. III](https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh) | 5:16 | 2022-02-04 |  |
 | [Peripheral Vision](https://open.spotify.com/track/7JjpqTuimad5QSRyw2X4xT) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Peripheral Vision](https://open.spotify.com/album/6Ldmn3CqdXYp38q0thv2RO) | 4:10 | 2022-04-01 | 2022-04-20 |
 | [Power Light](https://open.spotify.com/track/2jyAfwmsqF6wynsf70zIUQ) | [Æ7](https://open.spotify.com/artist/68Rpj4TxoMVq6JRyH13UAO) | [Power Light](https://open.spotify.com/album/4rCh8RUK2Me7KY7y6zafQg) | 4:21 | 2022-06-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The legendary producer and songwriting duo: Kenneth Gamble and Leon A. Huff.  ",
-  "num_followers": 22173,
+  "num_followers": 22220,
   "original_name": "Gamble & Huff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4MzE4MSwwMDAwMDAwMDYwODdlYzY4YWQ0NjdlMWE0N2YyYjA3MjMxNmY3NDQ0",
+  "snapshot_id": "MTY1MTU4MzE4MSwwMDAwMDAwMDViOWMyYTNkMDhiMjMyNjMwZmU5OTViYjg0NDc0NjVm",
   "tracks": [
     {
       "added_at": "2021-07-01 17:31:04",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2021-07-01 17:31:04",
       "album": {
+        "name": "The Best Of The Stylistics",
+        "url": "https://open.spotify.com/album/61ggZPoh0cwNw3o2VvJFTI"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Betcha By Golly, Wow",
+      "url": "https://open.spotify.com/track/7L7KVlix5KnuTNcpnpiu5s"
+    },
+    {
+      "added_at": "2021-07-01 17:31:04",
+      "album": {
         "name": "What Color Is Love",
         "url": "https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF"
       },
@@ -1103,6 +1119,22 @@
       "duration_ms": 133133,
       "name": "(Gotta Find) A Brand New Lover, Pt. 1",
       "url": "https://open.spotify.com/track/0qsIW65fGlIQ507ApMyZB9"
+    },
+    {
+      "added_at": "2021-07-01 17:31:04",
+      "album": {
+        "name": "The Best Of The Stylistics",
+        "url": "https://open.spotify.com/album/61ggZPoh0cwNw3o2VvJFTI"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 328840,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/7kDlm2ZGtZj2ZlWJqxH1Qf"
     },
     {
       "added_at": "2021-07-01 17:31:04",

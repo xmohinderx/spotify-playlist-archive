@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Viagra Boys
 
-281 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+282 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Million Miles of Fun](https://open.spotify.com/track/7DSMyHPif7HO6qJCVGDw4n) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Million Miles of Fun](https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx) | 2:10 | 2021-12-03 | 2022-07-29 |
 | [MINE](https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [MINE](https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU) | 2:02 | 2022-08-16 |  |
 | [Misplaced](https://open.spotify.com/track/0fmbchkYzQHMQHRKJmX2uu) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Third Chain](https://open.spotify.com/album/1t5YBAvPGnaUBbRSmLaU2y) | 3:06 | 2021-10-07 | 2022-06-18 |
-| [Missile Command](https://open.spotify.com/track/3kXNzPTs1tmjAoCo5aov3t) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Missile Command](https://open.spotify.com/album/4uGaVxhX8MdhGgJmn2rAnC) | 3:24 | 2021-10-07 |  |
+| [Missile Command](https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:24 | 2022-08-16 |  |
+| [Missile Command](https://open.spotify.com/track/3kXNzPTs1tmjAoCo5aov3t) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Missile Command](https://open.spotify.com/album/4uGaVxhX8MdhGgJmn2rAnC) | 3:24 | 2021-10-07 | 2022-08-19 |
 | [MMMOOOAAAAAYAYA](https://open.spotify.com/track/5OEhwuwzSVnmeJdREOBqqk) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:04 | 2022-01-07 | 2022-03-12 |
 | [Model Village \(feat\. slowthai\)](https://open.spotify.com/track/0uETaKcRTISDXbaGBBxSNL) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Model Village \(feat\. slowthai\)](https://open.spotify.com/album/7bfzBwU5y5Js45fAbbWikS) | 3:55 | 2021-10-07 | 2022-01-08 |
 | [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 | 2021-10-07 |  |

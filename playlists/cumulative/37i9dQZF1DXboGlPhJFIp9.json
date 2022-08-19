@@ -902,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/3O8OlFYpzITLxAzi7hxtBV"
+      },
+      "artists": [
+        {
+          "name": "A Clear Path",
+          "url": "https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136628,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/4o53OVOjtOEkmh0UPDyuke"
+    },
+    {
+      "album": {
         "name": "Electric Hearts",
         "url": "https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs"
       },

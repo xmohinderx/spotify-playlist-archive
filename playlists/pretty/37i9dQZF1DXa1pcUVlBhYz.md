@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Austin Millz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,855 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,875 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 46 | [Sailors' Superstition \- Bmore Club Remix](https://open.spotify.com/track/2HkFQRcNbymYFNrhEIOJW8) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [SDOT MUSIC](https://open.spotify.com/artist/5ruvWpLs2aMVuibVXpsJwL) | [Sailors' Superstition \(Bmore Club Remix\)](https://open.spotify.com/album/23mwk7S0raIWPZoYIAAKRl) | 2:48 |
 | 47 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 |
 | 48 | [Waiting For The Day](https://open.spotify.com/track/19WKcEuuC6QVm6C2DdJmQA) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Waiting For The Day](https://open.spotify.com/album/1s7vhmyQbJxsmdGlZOeNyr) | 4:28 |
-| 49 | [Hold Up](https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Hold Up](https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio) | 2:04 |
+| 49 | [Hold Up](https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Hold Up](https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio) | 2:04 |
 | 50 | [Wild Side \(feat\. KAYTRANADA\) \- KAYTRANADA Remix](https://open.spotify.com/track/2smDPFcFsLTxDrckkOL2gR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Wild Side \(feat\. KAYTRANADA\) \[KAYTRANADA Remix\]](https://open.spotify.com/album/2VzKdDTQMJ8VReWnmEOiSN) | 4:24 |
 | 51 | [Thoughts \- Rebūke Remix](https://open.spotify.com/track/1g8ZYuTgbNJBvycYFyep0b) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Thoughts \(Rebūke Remix\)](https://open.spotify.com/album/53Lw6bLxSXxo36KsWQZJfq) | 3:29 |
 | 52 | [Finesse \(Jersey Club Remix\)](https://open.spotify.com/track/7eJVltzaJ8X9HS7I8XG5lg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Don't Say I Didn't Warn You \(Jersey Club Remixes\)](https://open.spotify.com/album/4mCjWDfNCRWBUpckc1Eu3a) | 2:11 |

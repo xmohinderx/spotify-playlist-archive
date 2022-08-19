@@ -4,7 +4,7 @@
 
 > Productores latinos underground para bailar con audífonos.
 
-115 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/17jqKs9HnwrpFMEyVzns1G)
+116 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/17jqKs9HnwrpFMEyVzns1G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,10 +88,11 @@
 | [Obkel](https://open.spotify.com/track/4kqT8pqmsLTZ7POody20qs) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ) | [Obkel](https://open.spotify.com/album/4vjivy0CIBvTfMfyYlX3um) | 3:51 | 2022-05-06 | 2022-07-29 |
 | [Ola \- Original mix](https://open.spotify.com/track/4sXbpF6SALaxvdNuTSVTnt) | [Machino](https://open.spotify.com/artist/4N29lBeeo4qzLugGMwSr1m) | [Ola](https://open.spotify.com/album/7yejZdrPTvp8Z2dvRX07DK) | 5:50 | 2022-05-06 | 2022-07-24 |
 | [Online Movies](https://open.spotify.com/track/38tTzbAeaJQ5lxDI5vlONe) | [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [The Lost Files](https://open.spotify.com/album/2GjO3zZo30j89iBleYzIXT) | 8:58 | 2022-05-06 | 2022-07-29 |
-| [Pebbles Mind Horrors](https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Mijo](https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl), [Rocco Desentis](https://open.spotify.com/artist/6VhNyPvKFaJAzTe5sqPz89) | [Pebbles Mind Horrors](https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl) | 6:10 | 2022-05-06 |  |
+| [Pebbles Mind Horrors](https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Mijo](https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl), [Rocco Desentis](https://open.spotify.com/artist/6VhNyPvKFaJAzTe5sqPz89) | [Pebbles Mind Horrors](https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl) | 6:10 | 2022-05-06 | 2022-08-19 |
 | [Pieles](https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5) | [Tyu](https://open.spotify.com/artist/5IToOsTYhrDB6BqOxpWTxM) | [Pieles](https://open.spotify.com/album/6wnljTM7txuqv9nCu2sRAu) | 8:20 | 2022-05-06 |  |
 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 | 2022-05-06 |  |
 | [Princesita Tinieblas](https://open.spotify.com/track/5h39nip944y8Uw5XuVHe4M) | [Impvlso](https://open.spotify.com/artist/7qBQPqudIUhD22gND98f69) | [Katharsis](https://open.spotify.com/album/4ipLqcU2MStHXBjDcaRfmE) | 2:39 | 2022-05-06 | 2022-07-27 |
+| [Puk](https://open.spotify.com/track/06nGBVYjH9ajxhrGQ2xfvV) | [Turning Torso](https://open.spotify.com/artist/6j5BxXSPPlGZIMeWjMoIPQ) | [Puk](https://open.spotify.com/album/4s2pQPbpvmtDTV2lecbqvi) | 3:24 | 2022-08-18 |  |
 | [Pussy Pamper](https://open.spotify.com/track/34R6WAjRjHxXgGe33S9wIu) | [Sonido Berzerk](https://open.spotify.com/artist/50nztpMMHYN1XE9RiuvQts) | [Club Jams, Vol\. 2](https://open.spotify.com/album/4SyZdMiBglZDnJ5go3lBod) | 2:31 | 2022-05-06 | 2022-07-29 |
 | [Qué Onda](https://open.spotify.com/track/0wp0HxSJj6LjCL9QsU6ZgN) | [Disque Dj](https://open.spotify.com/artist/30RUEHc6ynhvbuYpEtICis) | [Qué Onda](https://open.spotify.com/album/4HSFqLwfSmwG6G33ag0T14) | 3:40 | 2022-05-06 | 2022-07-28 |
 | [Rain \- Original Mix](https://open.spotify.com/track/77DXcBinLgOWahGUw2qMgC) | [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe), [Mujaji The Rain](https://open.spotify.com/artist/0mDmPagHSMHJ4aSX64vm6x) | [Rain](https://open.spotify.com/album/5lUFWpnjHEyrRi54kKLlyP) | 6:54 | 2022-05-06 | 2022-07-29 |

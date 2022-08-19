@@ -1,12 +1,12 @@
 {
   "description": "Replongez dans les plus grands tubes de la p\u00e9riode y\u00e9y\u00e9. Photo : Fran\u00e7oise Hardy",
-  "num_followers": 55289,
+  "num_followers": 55330,
   "original_name": "Salut les y\u00e9y\u00e9s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQwOTU0MywwMDAwMDAwMDNhMTdkYzNhNWE3Nzg3N2E0OWI0MzBmNGM4ZTQ2YzIz",
+  "snapshot_id": "MTY1NjQwOTU0MywwMDAwMDAwMDMxMTYwZjcyNDU4YTQ1N2ViODVhMDEzYWM3NDJmY2M2",
   "tracks": [
     {
       "added_at": "2022-06-28 08:21:24",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-06-28 08:21:24",
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/72O3ydJomCcEjETdt0UtIq"
+      },
+      "artists": [
+        {
+          "name": "Danyel Gerard",
+          "url": "https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/72rLswhYvQz9LRx3LogMIW"
+    },
+    {
+      "added_at": "2022-06-28 08:21:24",
+      "album": {
         "name": "Les Champs-\u00c8lys\u00e9es",
         "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
       },
@@ -607,6 +623,22 @@
       "duration_ms": 148506,
       "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
       "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
+    },
+    {
+      "added_at": "2022-06-28 08:21:24",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 127160,
+      "name": "Laisse tomber les filles",
+      "url": "https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ"
     },
     {
       "added_at": "2022-06-28 08:21:24",
@@ -723,6 +755,38 @@
     {
       "added_at": "2022-06-28 08:21:24",
       "album": {
+        "name": "Tendres Annees",
+        "url": "https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG"
+      },
+      "artists": [
+        {
+          "name": "Patricia Carli",
+          "url": "https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "Demain tu te maries",
+      "url": "https://open.spotify.com/track/3kTJxfzoOtGJEWI4PyVTBh"
+    },
+    {
+      "added_at": "2022-06-28 08:21:24",
+      "album": {
+        "name": "Les Gam's",
+        "url": "https://open.spotify.com/album/6ktDHC59EX6rpC3RFjFCIW"
+      },
+      "artists": [
+        {
+          "name": "Les Gam's",
+          "url": "https://open.spotify.com/artist/5yj1bCBGvwhFRgYuKZgHqa"
+        }
+      ],
+      "duration_ms": 148350,
+      "name": "Il a le Truc",
+      "url": "https://open.spotify.com/track/70fuO7PxNJXxtApu6Vki8e"
+    },
+    {
+      "added_at": "2022-06-28 08:21:24",
+      "album": {
         "name": "C'est Ma Chanson",
         "url": "https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1"
       },
@@ -735,6 +799,22 @@
       "duration_ms": 175693,
       "name": "La nuit n'en finit plus",
       "url": "https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb"
+    },
+    {
+      "added_at": "2022-06-28 08:21:24",
+      "album": {
+        "name": "Monty Tendres Ann\u00e9es 60",
+        "url": "https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP"
+      },
+      "artists": [
+        {
+          "name": "Monty",
+          "url": "https://open.spotify.com/artist/0G1ZWqdqoswVQhfZZEgl3I"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "Un verre de whisky",
+      "url": "https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt"
     }
   ],
   "unique_name": "Salut les y\u00e9y\u00e9s",

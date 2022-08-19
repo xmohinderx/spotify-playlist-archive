@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ナツノセ
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,993 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,091 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 35 | [不屈に花](https://open.spotify.com/track/1ucR4pKURFpkeGe8J0URD6) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [不屈に花](https://open.spotify.com/album/7bSRWocsRwvBx9tFHoiYQs) | 3:11 |
 | 36 | [Flower](https://open.spotify.com/track/1U1AZNYFBa3QmioDH9GZjd) | [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr), [m/sa](https://open.spotify.com/artist/6jZBHuiqciHdF2nXqThzlN) | [Flower](https://open.spotify.com/album/0ly0U0fDIMc4RsBDew9RUZ) | 4:19 |
 | 37 | [petrichor](https://open.spotify.com/track/3E4BeKjnyEWwHdYm7nbVdL) | [AZKi](https://open.spotify.com/artist/0HX3yJ7THlqC9drRqhOkgo) | [petrichor](https://open.spotify.com/album/3sjQoVk6hQR22gcgR8SLPl) | 2:57 |
-| 38 | [しるし](https://open.spotify.com/track/1kty63oMx5xI6RIhL8obwm) | [RYUTist](https://open.spotify.com/artist/4BSpF4yQWrGiYdxNsLRdX1), [パソコン音楽クラブ](https://open.spotify.com/artist/4DoS3utfe5Wm4jomgc1T7f) | [うらぎりもの/しるし](https://open.spotify.com/album/2nC1uWzDL0LT7oGvolVw7p) | 4:00 |
+| 38 | [しるし](https://open.spotify.com/track/1kty63oMx5xI6RIhL8obwm) | [RYUTist](https://open.spotify.com/artist/4BSpF4yQWrGiYdxNsLRdX1), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [うらぎりもの/しるし](https://open.spotify.com/album/2nC1uWzDL0LT7oGvolVw7p) | 4:00 |
 | 39 | [Kimito Jinkoshoku](https://open.spotify.com/track/4hz1cbm10VUEmRACJ8mRUA) | [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [Limre](https://open.spotify.com/album/5CK1FaKsSogYM6ufKrUcv3) | 2:25 |
 | 40 | [Change](https://open.spotify.com/track/2FM1aNnqVfUsBkyTcxQmVm) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Change](https://open.spotify.com/album/7ybRhDFyFV9bRXMIGW6wbl) | 3:24 |
 | 41 | [zettaizetsumei](https://open.spotify.com/track/6x0WG2IIzpXkldDE1E7jtP) | [NOMAD POP](https://open.spotify.com/artist/2sggfxkeQ5OFGNPZpadSFZ) | [zettaizetsumei](https://open.spotify.com/album/4GT3kyFUUC3h093sN4H9Mu) | 3:53 |

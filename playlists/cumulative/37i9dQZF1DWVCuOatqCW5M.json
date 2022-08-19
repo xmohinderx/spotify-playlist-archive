@@ -568,6 +568,32 @@
     },
     {
       "album": {
+        "name": "Barsaat Ho Jaaye",
+        "url": "https://open.spotify.com/album/6Us08Vq82uCHK5aROjNlmA"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250124,
+      "name": "Barsaat Ho Jaaye",
+      "url": "https://open.spotify.com/track/3nZr2Anx8AEkI3thetbBzP"
+    },
+    {
+      "album": {
         "name": "Behosh",
         "url": "https://open.spotify.com/album/5vm07tPLS9GneWP2TPO5YU"
       },

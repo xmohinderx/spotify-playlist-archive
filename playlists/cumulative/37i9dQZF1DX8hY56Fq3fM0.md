@@ -2,7 +2,7 @@
 
 ### [Energy Booster: Indie](https://open.spotify.com/playlist/37i9dQZF1DX8hY56Fq3fM0)
 
-> Need to get your energy level up? This will help!
+> Need to get your energy level up?
 
 236 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/6T6fNI28dK30V4yGA7f0oJ)
 

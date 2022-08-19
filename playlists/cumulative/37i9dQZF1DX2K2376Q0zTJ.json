@@ -8708,6 +8708,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30ec\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196163,
+      "name": "\u82b1\u706b",
+      "url": "https://open.spotify.com/track/4rtJHOlUnGem3BQCVWfrjD"
+    },
+    {
+      "album": {
         "name": "\u50d5\u3068\u541b\u306e\u5e0c\u6c42",
         "url": "https://open.spotify.com/album/41jk3O7vw4UUz0fMu0IWBp"
       },

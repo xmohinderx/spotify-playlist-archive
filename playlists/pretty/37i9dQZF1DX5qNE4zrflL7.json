@@ -1,12 +1,12 @@
 {
   "description": "The songs that influenced everything that has happened since. Cover: Jimi Hendrix",
-  "num_followers": 283763,
+  "num_followers": 283844,
   "original_name": "Alternative 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzQ5MTc5MiwwMDAwMDAwMDA3YjQyY2FhNGVmMmMzOGEwYTQ0ZThmMWFjMjI0YWU2",
+  "snapshot_id": "MTYzMzQ5MTc5MiwwMDAwMDAwMDIwMzJiZjlmMDFlN2Q2YzdjMWUzMGRiY2YxMGYwNzg4",
   "tracks": [
     {
       "added_at": "2021-10-06 03:43:12",
@@ -251,6 +251,22 @@
       "duration_ms": 160400,
       "name": "Have Love Will Travel",
       "url": "https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs"
+    },
+    {
+      "added_at": "2021-10-06 03:43:12",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 127160,
+      "name": "Laisse tomber les filles",
+      "url": "https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ"
     },
     {
       "added_at": "2021-10-06 03:43:12",
@@ -695,6 +711,22 @@
     {
       "added_at": "2021-10-06 03:43:12",
       "album": {
+        "name": "60s Garage Rock Nuggets",
+        "url": "https://open.spotify.com/album/0OAE97mnMWohfx5OTjO5Vo"
+      },
+      "artists": [
+        {
+          "name": "Positively 13 O'Clock",
+          "url": "https://open.spotify.com/artist/6Xvlz7u3wO75CxC0m4VOwf"
+        }
+      ],
+      "duration_ms": 121720,
+      "name": "Psychotic Reaction",
+      "url": "https://open.spotify.com/track/1Tf9p4yyFuSDZpmnniYgNv"
+    },
+    {
+      "added_at": "2021-10-06 03:43:12",
+      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -755,6 +787,22 @@
       "duration_ms": 196133,
       "name": "Can't Find My Way Home",
       "url": "https://open.spotify.com/track/3VyJGPYr2DF9gdBNosSao4"
+    },
+    {
+      "added_at": "2021-10-06 03:43:12",
+      "album": {
+        "name": "Get It On: The Collection",
+        "url": "https://open.spotify.com/album/3NvakF8DkALyWdzQabFo1S"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Debora",
+      "url": "https://open.spotify.com/track/5ADiy8c2ir9ewoKnsGWrYs"
     },
     {
       "added_at": "2021-10-06 03:43:12",

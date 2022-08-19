@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1JctQodQRj.md) - [plain](/playlists/plain/37i9dQZF1DWU1JctQodQRj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU1JctQodQRj)
 
-### [Bach Relax](https://open.spotify.com/playlist/37i9dQZF1DWU1JctQodQRj)
+### [Relaxing Bach](https://open.spotify.com/playlist/37i9dQZF1DWU1JctQodQRj)
 
 > Let the daily stresses of the world melt away with this peaceful playlist, filled with the warm, comforting melodies of JS Bach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,137 likes - 74 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,184 likes - 74 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1JctQodQRj.md) - [plain]
 | 73 | [Sonata A Major, BWV Anh\. 153: 4\. \(Adagio\)](https://open.spotify.com/track/1wFjbWf3UN0oNMFXkQB8EO) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Reinhard Goebel](https://open.spotify.com/artist/6aZcT9sJMlL0yUOrEWa74E), [Henk Bouman](https://open.spotify.com/artist/4qq8UPUI1HupTAFV2cwi6X), [Jaap Ter Linden](https://open.spotify.com/artist/2uAi952uAIXOOtChYMr7bA) | [Bach: Brandenburg Concertos; Orchestral Suites; Chamber Music](https://open.spotify.com/album/4q64HESBxeRHCLSuPRwsyr) | 3:42 |
 | 74 | [Partita For Violin Solo No\. 1 In B Minor, BWV 1002: Sarabande](https://open.spotify.com/track/285RX2xSWHVzpEwB362tFJ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Andrés Segovia](https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97) | [Bach, J.S.: Suites & Partitas](https://open.spotify.com/album/2oPblMOkqMFX2BepbZhApR) | 3:06 |
 
-Snapshot ID: `MTY0MTM5NTk4NSwwMDAwMDAwMDJmN2YzOTBiOWIxODlmNzJjYTA3NjhiZDRiMjVkNjgy`
+Snapshot ID: `MTY2MDgzNTIwNSwwMDAwMDAwMGViYTg4NDVjMWE0YTkxNzkzOTNmY2YxYWUyOTVkMmU4`

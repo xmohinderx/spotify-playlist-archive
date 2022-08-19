@@ -4,13 +4,14 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-485 songs - 1 day 2 hr 15 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+487 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 Phase](https://open.spotify.com/track/70lW1RWUMfDm5yCveoBx7l) | [Hapee Boparai](https://open.spotify.com/artist/2nDlRwnqU2G7R66rFpafGT) | [Seven](https://open.spotify.com/album/11aqRgdZhGIZ9VYJ2Cq4jZ) | 2:17 | 2022-07-15 | 2022-08-18 |
 | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw) | 1:55 | 2021-12-02 | 2022-02-05 |
 | [9\-9 Mashukan](https://open.spotify.com/track/6ep8K2GpBFTAGcIyJWOjFP) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [9\-9 Mashukan](https://open.spotify.com/album/3LpIPAR0UJfn6NbQrLJdtY) | 2:57 | 2022-08-05 |  |
+| [Aadatan](https://open.spotify.com/track/5mtr6svWP09Ww4WCtZCuJS) | [Princi](https://open.spotify.com/artist/3jFonDLEme8NYY8kcd2WJy) | [Aadatan](https://open.spotify.com/album/1u1UywNfCrOZKHvPzxV1O2) | 3:02 | 2022-08-18 |  |
 | [Aadi Ve](https://open.spotify.com/track/0aQCAqdET216JkGFOwZ0NL) | [Runbir](https://open.spotify.com/artist/5noqLj1lBL60sqwh4ydVch) | [Walking Alone](https://open.spotify.com/album/1n6rmODHCXkbTcHyg6HOXI) | 2:38 | 2022-02-04 | 2022-02-12 |
 | [Aakad](https://open.spotify.com/track/5LpaK0acRyI2s10rBQg7Gk) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi) | [Aakad](https://open.spotify.com/album/1vrZ966dlxBaZf3xC5tzzW) | 3:48 | 2022-02-04 | 2022-02-12 |
 | [Adore You](https://open.spotify.com/track/6O0tJTjpI99TQD8bvtM6HM) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Adore You](https://open.spotify.com/album/3XgsHoifkQL6F6K3kMwnYJ) | 2:59 | 2022-05-20 | 2022-07-06 |
@@ -479,7 +480,8 @@
 | [What's Going On](https://open.spotify.com/track/5QnNYkOELv5lOQDcIHQoNN) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws) | [What's Going On](https://open.spotify.com/album/3vKTKh8cexyD1kqbJdNwqg) | 2:06 | 2022-07-08 | 2022-08-18 |
 | [Whip](https://open.spotify.com/track/3xJwcFXAHXjlNQZOpAa2BQ) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj) | [Whip](https://open.spotify.com/album/5GU2aCSt5rdDWYdpEu1h0p) | 3:02 | 2022-06-22 | 2022-07-06 |
 | [Why Nachdi Na](https://open.spotify.com/track/3vAuT0b6jFNuS6yylkJWbG) | [Jasbir Jassi](https://open.spotify.com/artist/2wmT2Bx63mrFKMYGQieYi3) | [Why Nachdi Na](https://open.spotify.com/album/76rFVsaTmYQcSTKI3H5F83) | 2:27 | 2022-01-17 | 2022-02-01 |
-| [With You](https://open.spotify.com/track/6VOUQEmmoiL0UdLZobO3HT) | [Dev Gill](https://open.spotify.com/artist/3s4mWjKMhnjvqg6qH6iqkd) | [With You](https://open.spotify.com/album/2xsGSiN4JTiUlM66aheAt4) | 3:30 | 2022-08-12 |  |
+| [With You](https://open.spotify.com/track/6VOUQEmmoiL0UdLZobO3HT) | [Dev Gill](https://open.spotify.com/artist/3s4mWjKMhnjvqg6qH6iqkd) | [With You](https://open.spotify.com/album/2xsGSiN4JTiUlM66aheAt4) | 3:30 | 2022-08-12 | 2022-08-19 |
+| [WITH You](https://open.spotify.com/track/6f0bUz9NXrQ61Zj7mNutEN) | [DEV GILL](https://open.spotify.com/artist/6331JW7GefIgr9l5I5MTQa) | [WITH You](https://open.spotify.com/album/2HS0rhqXNMLejezBYGEKpR) | 3:30 | 2022-08-18 |  |
 | [With You](https://open.spotify.com/track/4yITU6ac7XXzgvKyLAYGUR) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [With You](https://open.spotify.com/album/5Oy6JCgYwrlj1mkZzRtWfA) | 2:36 | 2022-07-13 | 2022-08-18 |
 | [Yaad \- From The Album "ikigai"](https://open.spotify.com/track/24fcOo0Mif4IoYAMx3bFp4) | [Harman Mann](https://open.spotify.com/artist/1XcqQJdOdlJjwNVKRMHUWu), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u) | [Yaad](https://open.spotify.com/album/2BwQgV96oAfQv9o8IJeLp6) | 2:26 | 2022-02-04 | 2022-02-12 |
 | [Yaar Mera](https://open.spotify.com/track/6Fx5FyrlseqiL7L8ddY6iG) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Yaar Mera](https://open.spotify.com/album/2DVosjSDtVTKdyuJgoWloD) | 3:07 | 2022-02-11 | 2022-04-06 |

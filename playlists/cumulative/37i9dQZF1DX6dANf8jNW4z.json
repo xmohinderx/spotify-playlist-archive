@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/3VNg1aAkm7MtT9mTcVRs0e"
+      },
+      "artists": [
+        {
+          "name": "Quirkyoddgirl",
+          "url": "https://open.spotify.com/artist/4ATChaTwzMcY1FGJV2P7mo"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117564,
+      "name": "44",
+      "url": "https://open.spotify.com/track/4vxbUZKeklVstbRNnme2ge"
+    },
+    {
+      "album": {
         "name": "a ella la llevas a paris",
         "url": "https://open.spotify.com/album/1QXY1OgvYzG3yQvd78YXLP"
       },

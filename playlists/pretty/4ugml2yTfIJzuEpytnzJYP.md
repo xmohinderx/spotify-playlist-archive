@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain](/playlists/plain/4ugml2yTfIJzuEpytnzJYP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ugml2yTfIJzuEpytnzJYP)
 
-### [An\-Ten\-Nae \- Weekly Medicine \(DEEP BASS \- DUBSTEP \- VIBES\)](https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP)
+### [An\-Ten\-Nae \- Weekly Medicine \(DEEP BASS \- 140  / DUBSTEP \- VIBES\)](https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP)
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,358 likes - 48 songs - 3 hr 12 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,357 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,12 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 46 | [Bad Things \- 11th Hour Remix](https://open.spotify.com/track/0aGLQnuOBPHqpHW61xbrya) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8), [11th Hour](https://open.spotify.com/artist/2KizYftxFxLHLqsudT07bf) | [Bad Things \(11th Hour Remix\)](https://open.spotify.com/album/6mXh0aonbjxgzm9oXWPSEa) | 4:14 |
 | 47 | [Vacant](https://open.spotify.com/track/7HDu8teid1cFGtiAQlLG0a) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Ancient Tribes](https://open.spotify.com/album/5q5FRgtpjlzDvD9gOTZdTS) | 5:03 |
 | 48 | [Purification](https://open.spotify.com/track/2Hfz4yZFhHYHcptngSZ3Bn) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [The Gaslamp Killer](https://open.spotify.com/artist/5dVua2HdrY1VlbPh6OM9KZ) | [Purification](https://open.spotify.com/album/7tsmmO3HZXjqO9bu5q66J6) | 3:54 |
+| 49 | [Talkin' Mathematics](https://open.spotify.com/track/03NaCSvXBYFoIJgB52e5C4) | [Ome](https://open.spotify.com/artist/5c7ckpDdeGpifu0mYbJg96), [Yoofee](https://open.spotify.com/artist/0KoziTqE9AN9MrAWeTRGKI) | [Talkin' Mathematics](https://open.spotify.com/album/35wFWYLoqK75XPNrKq7nz3) | 4:19 |
+| 50 | [Cruise Control](https://open.spotify.com/track/1SAv0E7nYW6hnP13HRWIFF) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [The Power of Sound EP](https://open.spotify.com/album/5g3x8ghArJk8epL0R5NWj4) | 4:06 |
+| 51 | [Arachne](https://open.spotify.com/track/7A5jeuHXoI3ZGbIcZZ8Irm) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [From a Vein](https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu) | 3:30 |
+| 52 | [Balance](https://open.spotify.com/track/4EMwRAupQ2Sn3lTzc7dYXk) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Balance](https://open.spotify.com/album/5DOzIJtdvM8dfnS5LarNHk) | 4:10 |
+| 53 | [Skanka](https://open.spotify.com/track/0vIWAmpjLwCC4DVJxAjRZW) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Skanka](https://open.spotify.com/album/7g7I6vC52GJniD8UONMqCp) | 3:41 |
+| 54 | [High Life](https://open.spotify.com/track/3oqnSJu2wGgnR9JDQzUxP9) | [Morillo](https://open.spotify.com/artist/6gKen78XIn1mdjEp3Gs84U), [Amp Live](https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL) | [High Life](https://open.spotify.com/album/60QidlnMdsWDnKM2kQ2hxi) | 3:14 |
+| 55 | [Moonlight \- Congi Remix](https://open.spotify.com/track/09yOiU24ERWd6jcQyNXbsM) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7), [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Moonlight](https://open.spotify.com/album/2xzuZynBxp4wpl8KAj692l) | 4:27 |
 
-Snapshot ID: `MTkwMSwxYWYyNWQ5ZjgwYzZlNDNiY2I2YjMyNjk1NmQwZDA4NTg3YWI5ZDI1`
+Snapshot ID: `MTkwOSxlZDYzYjNmNzk0N2E2NmE4MzFiMmJjNGFjNTE3OGRlMGQzN2RhMjMw`

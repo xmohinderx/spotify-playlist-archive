@@ -1,12 +1,12 @@
 {
   "description": "Escucha a estas extraordinarias artistas a todo volumen. Foto: Zahara",
-  "num_followers": 45704,
+  "num_followers": 45721,
   "original_name": "EQUAL Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAyNzM0OCwwMDAwMDAwMDMyOGFkNGJiZmRjNmM4MGEzM2Y3YmUwZGMxN2MzZTg1",
+  "snapshot_id": "MTY2MDAyNzM0OCwwMDAwMDAwMGEzMzg4ODY2NTk0YTA0MGM4ZjE3ODM1ZTYzNzk1ZDU5",
   "tracks": [
     {
       "added_at": "2022-08-03 10:42:13",
@@ -275,6 +275,22 @@
       "duration_ms": 187500,
       "name": "Alice Et Moi",
       "url": "https://open.spotify.com/track/7hOUPkIU1qDG6RnqPrBrLB"
+    },
+    {
+      "added_at": "2022-08-03 10:42:13",
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/3VNg1aAkm7MtT9mTcVRs0e"
+      },
+      "artists": [
+        {
+          "name": "Quirkyoddgirl",
+          "url": "https://open.spotify.com/artist/4ATChaTwzMcY1FGJV2P7mo"
+        }
+      ],
+      "duration_ms": 117564,
+      "name": "44",
+      "url": "https://open.spotify.com/track/4vxbUZKeklVstbRNnme2ge"
     },
     {
       "added_at": "2022-08-03 10:42:13",

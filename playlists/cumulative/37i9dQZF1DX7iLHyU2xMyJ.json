@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 302044,
       "name": "Adi Aasa Machan-Duet",
       "url": "https://open.spotify.com/track/43aX3xvtP1EWRIqT2FDoOu"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266066,
       "name": "Ananda Ragam Ketkum Kaalam - From \"Paneer Pushpangal\"",
       "url": "https://open.spotify.com/track/3xPxkZ7clxaj3j08oAyVhN"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 329874,
       "name": "Azhagu Malaraada",
       "url": "https://open.spotify.com/track/4CUOvC2KsOLIU37SaoWyN2"
@@ -3330,6 +3330,28 @@
     },
     {
       "album": {
+        "name": "Ilaiyaraaja - The Passion Of The Early Years",
+        "url": "https://open.spotify.com/album/10II6Hon1OHByucBwadOVX"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264689,
+      "name": "Kanmaniyae Kadhal Enbathu",
+      "url": "https://open.spotify.com/track/7CzVz7LBKLM1CM4KU28E9d"
+    },
+    {
+      "album": {
         "name": "Aarilirunthu Arupathu Varai",
         "url": "https://open.spotify.com/album/1naEkCcJMtKq6f0DkIkjLc"
       },
@@ -3941,7 +3963,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 271124,
       "name": "Maanin Iru Kangal",
       "url": "https://open.spotify.com/track/4A7R2fsMwrVASTEg5m9mab"
@@ -4043,7 +4065,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 316535,
       "name": "Maharajanodu",
       "url": "https://open.spotify.com/track/5AeO1JzZbeRUmTsQTLjB5S"
@@ -4123,7 +4145,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 304400,
       "name": "Malligai Mottu",
       "url": "https://open.spotify.com/track/1NsfymKYTr0g5VFgyzGjqZ"
@@ -4257,7 +4279,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167575,
       "name": "Marudhanayagam Title Track - From \"Marudhanayagam\"",
       "url": "https://open.spotify.com/track/6ES2I4myj1E5RtpPMMZ9lQ"
@@ -4473,7 +4495,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 277610,
       "name": "Meendum Meendum Vaa",
       "url": "https://open.spotify.com/track/2pgUrZdeA1zGfdYiHw7U2n"
@@ -4699,7 +4721,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 263946,
       "name": "Naan Oru Sindhu",
       "url": "https://open.spotify.com/track/7j0OQZnHuZDRVhDoRE8sGX"
@@ -5093,7 +5115,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259426,
       "name": "Netru Indha Neram - From \"Tick Tick Tick\"",
       "url": "https://open.spotify.com/track/0Rx44khCijmY8IIbqp3G8Q"
@@ -5449,7 +5471,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 266532,
       "name": "Oho Megam Vandhadho",
       "url": "https://open.spotify.com/track/2CWZutVV5apfvjWmUs1Om6"
@@ -5685,7 +5707,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 291160,
       "name": "Oru Jeevan (Happy)",
       "url": "https://open.spotify.com/track/40XzBWu3p8t1tOAFgaftkW"
@@ -5879,7 +5901,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 313004,
       "name": "Oru Pattam Poochi",
       "url": "https://open.spotify.com/track/2Y0r28Onm7SCgtvSlQChtF"
@@ -6159,7 +6181,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 266146,
       "name": "Pachamala Poovu",
       "url": "https://open.spotify.com/track/3yOh5KqpTcKQr7tWiAMH6t"
@@ -6269,6 +6291,28 @@
       "duration_ms": 250915,
       "name": "Paruvame",
       "url": "https://open.spotify.com/track/3vwlF04JqSEQZX0DGR7raK"
+    },
+    {
+      "album": {
+        "name": "Ilaiyaraaja - The Passion Of The Early Years",
+        "url": "https://open.spotify.com/album/10II6Hon1OHByucBwadOVX"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257523,
+      "name": "Paruvame",
+      "url": "https://open.spotify.com/track/6EoUT6qMCrOJXT3e3Ll4sf"
     },
     {
       "album": {
@@ -6933,7 +6977,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 308568,
       "name": "Pottuvaitha Kaadhal",
       "url": "https://open.spotify.com/track/7hHNuReafGP61pMjtPqGub"
@@ -7013,7 +7057,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 154906,
       "name": "Punnagai Mannan - Theme Music",
       "url": "https://open.spotify.com/track/3jfNl6kcT8OvOFj3F5wbhL"
@@ -7773,7 +7817,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 143106,
       "name": "Thail Pongallum",
       "url": "https://open.spotify.com/track/6zTrJ8RRgViZZdfBEWRV1B"
@@ -7795,7 +7839,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 266853,
       "name": "Thalattudhe Vanam - From \"Kadal Meengal\"",
       "url": "https://open.spotify.com/track/6CZ3IGaz6WPVsXrzUP5kBJ"
@@ -8825,7 +8869,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 274860,
       "name": "Vaanile Thenila",
       "url": "https://open.spotify.com/track/2IwERpHo2lBgky2SBhQumO"
@@ -9375,7 +9419,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 299680,
       "name": "Yenge Yen Jeevane",
       "url": "https://open.spotify.com/track/0c7FsioJmeZhNOeeBxoApq"

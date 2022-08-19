@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "BAD BAD",
+        "url": "https://open.spotify.com/album/07wwlkBxsuhKsyxi4TcKBX"
+      },
+      "artists": [
+        {
+          "name": "Saint Kylo",
+          "url": "https://open.spotify.com/artist/2bxZxx4s1Nn6FbSvsE8jnA"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207578,
+      "name": "BAD BAD",
+      "url": "https://open.spotify.com/track/4lVrAXlQJZdATFVAqEIazO"
+    },
+    {
+      "album": {
         "name": "Bad Dream",
         "url": "https://open.spotify.com/album/3WUPRxenLBnvIuth0uIKwM"
       },
@@ -2328,6 +2346,24 @@
     },
     {
       "album": {
+        "name": "life is not boring",
+        "url": "https://open.spotify.com/album/4oLr0uGFdYWclBKla15Iwp"
+      },
+      "artists": [
+        {
+          "name": "Adriel",
+          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196733,
+      "name": "life is not boring",
+      "url": "https://open.spotify.com/track/2pmVkZoieBMlBgHhM5eHeT"
+    },
+    {
+      "album": {
         "name": "Like Nobody Else",
         "url": "https://open.spotify.com/album/3GSCRy72GzYxjIagTI6JMd"
       },
@@ -3628,6 +3664,24 @@
     },
     {
       "album": {
+        "name": "She A Rockstar",
+        "url": "https://open.spotify.com/album/6R9qkU8LcYoAKLN3LeE51H"
+      },
+      "artists": [
+        {
+          "name": "Jordan Queka",
+          "url": "https://open.spotify.com/artist/3HedGQ0i6CJuYVmbuDIx3J"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129936,
+      "name": "She A Rockstar",
+      "url": "https://open.spotify.com/track/0tctuDVTPw6WSzfuFnPU9w"
+    },
+    {
+      "album": {
         "name": "Sick Sad Love Song",
         "url": "https://open.spotify.com/album/5ZyGPSv12xrGf1tyFbk7n4"
       },
@@ -4479,7 +4533,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161559,
       "name": "WHAT YOU WANT",
       "url": "https://open.spotify.com/track/5o1eKj6je4mkFXU6nElgoJ"
@@ -4711,6 +4765,24 @@
       "duration_ms": 229000,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/5AIFWdHJbWYmTc81kSUwCn"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0sv9xXmXd58CxjEKa3dfPc"
+      },
+      "artists": [
+        {
+          "name": "TIGA SOUL",
+          "url": "https://open.spotify.com/artist/30WU7ziNv8q8EGZMSA82ks"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165746,
+      "name": "You",
+      "url": "https://open.spotify.com/track/7ld1fc0UPmTDi7KMkmUCdn"
     },
     {
       "album": {

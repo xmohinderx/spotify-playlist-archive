@@ -1,12 +1,12 @@
 {
   "description": "Querencia is here !",
-  "num_followers": 64300,
+  "num_followers": 64341,
   "original_name": "This Is CHUNG HA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzUzMDQ1OSwwMDAwMDAwMDg5YzQ0Njk3ZWQ5MDgzMGI3MDRmYjc4YjgyZDcwNzRj",
+  "snapshot_id": "MTY1NzUzMDQ1OSwwMDAwMDAwMDY2Y2U5MDc1YzI3ZGRkODM0ODAyYzQzMjJmYTAxMTZm",
   "tracks": [
     {
       "added_at": "2022-07-11 09:07:39",
@@ -935,6 +935,38 @@
     {
       "added_at": "2022-07-11 09:07:39",
       "album": {
+        "name": "[Vol.14] You Hee yul's Sketchbook 10th Anniversary Project : 6th Voice 'Sketchbook X CHUNG HA'",
+        "url": "https://open.spotify.com/album/7mVJtnGHJWeb5bCBPBx5Mx"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 259885,
+      "name": "NA YEOSS EU MYEON",
+      "url": "https://open.spotify.com/track/5VnJMPXdPc9p5arVZRHj8O"
+    },
+    {
+      "added_at": "2022-07-11 09:07:39",
+      "album": {
+        "name": "[Vol.13] You Hee yul's Sketchbook 10th Anniversary Project : 6th Voice 'Sketchbook X CHUNG HA'",
+        "url": "https://open.spotify.com/album/5ramYGPYBoUgDzQHUml7xa"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 205749,
+      "name": "A REUM DA UN I BYEOL",
+      "url": "https://open.spotify.com/track/5dcRsgrAojHRlS0BFpmbdj"
+    },
+    {
+      "added_at": "2022-07-11 09:07:39",
+      "album": {
         "name": "Whatcha Doin'",
         "url": "https://open.spotify.com/album/5ZqrNpvlfW0qeZ6bDCjmaU"
       },
@@ -1031,6 +1063,22 @@
       "duration_ms": 209002,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/3gNKQYq9kdTBWoqlGuDb6e"
+    },
+    {
+      "added_at": "2022-07-11 09:07:39",
+      "album": {
+        "name": "Luvpub OST Part.3",
+        "url": "https://open.spotify.com/album/0OsxPl82DJAyCJDKHzgTx7"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 199018,
+      "name": "How about you",
+      "url": "https://open.spotify.com/track/31vk0g0BrHazdDVN3IP76u"
     },
     {
       "added_at": "2022-07-11 09:07:39",

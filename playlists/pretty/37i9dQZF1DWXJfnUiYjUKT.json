@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world. Cover: Rex Orange County",
-  "num_followers": 317571,
+  "num_followers": 317741,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMDBmODFmNGI5NWRkZGRmZDA0YzNlNjU5YThjMDYwY2E3",
+  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMDIxMjJlNTZmMzhiOTllZmFkYTg5MTBmNzAyZDRlMGEz",
   "tracks": [
     {
       "added_at": "2022-08-12 00:00:00",
@@ -1015,6 +1015,26 @@
       "duration_ms": 163695,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/0JKg9Fk6tvcwiYTmRrEnTQ"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "DRILLMATIC Heart vs. Mind",
+        "url": "https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 203048,
+      "name": "O.P.P. (Feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/0MWi4vxTO3Plx6zAQeLd6H"
     },
     {
       "added_at": "2022-08-12 00:00:00",

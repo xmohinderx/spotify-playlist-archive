@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Rey Pila en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,110 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,126 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 9 | [Corazón](https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Corazón](https://open.spotify.com/album/2epcEzP3HRjeb9nVjWVpbw) | 3:45 |
 | 10 | [Crimen](https://open.spotify.com/track/4rl7tALHULBjGV7V5gdtaS) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Crimen](https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i) | 4:00 |
 | 11 | [Playa Privada](https://open.spotify.com/track/4kzbSYtHYI226TDbjqwRew) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Playa Privada](https://open.spotify.com/album/3MArnPhSwpOc6u3ig8D9cW) | 3:28 |
-| 12 | [Un@ Más](https://open.spotify.com/track/7sNAxuXnkpUakZ9hs2YGFB) | [La Regadera](https://open.spotify.com/artist/6qO2fx56JkdCirbByg3Gko), [Marcos de la Torre](https://open.spotify.com/artist/7jAM20GiL5hd6kMvDlzh6O), [mafalda](https://open.spotify.com/artist/7zyZ33s4LRFS3S0r7eKBZs) | [Un@ Más](https://open.spotify.com/album/68vyYcPKOgjQqKUWhuNWMP) | 3:52 |
+| 12 | [Un@ Más](https://open.spotify.com/track/7sNAxuXnkpUakZ9hs2YGFB) | [La Regadera](https://open.spotify.com/artist/6qO2fx56JkdCirbByg3Gko), [Marcos de la Torre](https://open.spotify.com/artist/7jAM20GiL5hd6kMvDlzh6O), [mafalda](https://open.spotify.com/artist/7zyZ33s4LRFS3S0r7eKBZs) | [un@ Más](https://open.spotify.com/album/68vyYcPKOgjQqKUWhuNWMP) | 3:52 |
 | 13 | [Radio de la mañana](https://open.spotify.com/track/1NgZYkt0KGPrkROQdRxDmo) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Parientes](https://open.spotify.com/album/0p22bJMkBBhstlPWua0iRI) | 3:16 |
 | 14 | [No bien abran las flores](https://open.spotify.com/track/7qWXSnQMeeGHkKgDjdOkXU) | [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01), [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [No bien abran las flores](https://open.spotify.com/album/2mN2xBT2hm7ml4ZwC2d7bH) | 4:47 |
 | 15 | [Nights and Days](https://open.spotify.com/track/53yecxPHJzKcqI80wUXVrC) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Nights and Days](https://open.spotify.com/album/2GYLSVI5JRtTywMfxNNcJu) | 4:04 |

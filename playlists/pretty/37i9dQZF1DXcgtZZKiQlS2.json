@@ -1,12 +1,12 @@
 {
   "description": "The best of Detroit Blues",
-  "num_followers": 2594,
+  "num_followers": 2597,
   "original_name": "Motor City Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMjYyMDAxOCwwMDAwMDAwMDFhZWU5Mzk5NjYxZDE5N2NmNTllZWIxODY0NWRmNGVm",
+  "snapshot_id": "MTYwMjYyMDAxOCwwMDAwMDAwMGJkNzYxY2JlNmY5Mjc1YzEwZWRkNDIyMTY1OTM5MmQ3",
   "tracks": [
     {
       "added_at": "2020-10-13 20:13:38",
@@ -123,6 +123,22 @@
     {
       "added_at": "2020-10-13 20:13:38",
       "album": {
+        "name": "Detroit Ghetto Blues 1948-1954",
+        "url": "https://open.spotify.com/album/59bT09aoxNKanCjNpVSIP2"
+      },
+      "artists": [
+        {
+          "name": "Baby Boy Warren",
+          "url": "https://open.spotify.com/artist/466ldsN2TDPubmDS42ApOv"
+        }
+      ],
+      "duration_ms": 161201,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/6EwAdnnbbm6gZqLEwiaHkI"
+    },
+    {
+      "added_at": "2020-10-13 20:13:38",
+      "album": {
         "name": "Honest Woman",
         "url": "https://open.spotify.com/album/4s0TMynFd7n5A6yd6QH789"
       },
@@ -167,6 +183,22 @@
       "duration_ms": 172000,
       "name": "The Monkey Speaks His Mind",
       "url": "https://open.spotify.com/track/4A0M7Bm0djFjM5f92if4fW"
+    },
+    {
+      "added_at": "2020-10-13 20:13:38",
+      "album": {
+        "name": "Detroit Ghetto Blues 1948-1954",
+        "url": "https://open.spotify.com/album/59bT09aoxNKanCjNpVSIP2"
+      },
+      "artists": [
+        {
+          "name": "Walter Mitchell",
+          "url": "https://open.spotify.com/artist/507sW15WsWw2otXS5Yk47k"
+        }
+      ],
+      "duration_ms": 196571,
+      "name": "Stop Messin' Around",
+      "url": "https://open.spotify.com/track/5ET9hXviEs1i1FXsUMaDwj"
     },
     {
       "added_at": "2020-10-13 20:13:38",
@@ -391,6 +423,22 @@
     {
       "added_at": "2020-10-13 20:13:38",
       "album": {
+        "name": "Rockin' Blues Essentials",
+        "url": "https://open.spotify.com/album/5TIc8idRzn4AQ2ivvIHYB0"
+      },
+      "artists": [
+        {
+          "name": "Doctor Ross",
+          "url": "https://open.spotify.com/artist/59gZhkxiZ8x4umU9ua2ZBn"
+        }
+      ],
+      "duration_ms": 157720,
+      "name": "Industrial Boogie",
+      "url": "https://open.spotify.com/track/58O4WeWqboLX7tZM7yRya9"
+    },
+    {
+      "added_at": "2020-10-13 20:13:38",
+      "album": {
         "name": "Rural Blues Vol. 1 1934-1956",
         "url": "https://open.spotify.com/album/6NYnUkUwSl4Hi5XIq6ZrVR"
       },
@@ -555,6 +603,22 @@
       "duration_ms": 298093,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1rPLUAUsHr60GU6vXT52je"
+    },
+    {
+      "added_at": "2020-10-13 20:13:38",
+      "album": {
+        "name": "Detroit Ghetto Blues 1948-1954",
+        "url": "https://open.spotify.com/album/59bT09aoxNKanCjNpVSIP2"
+      },
+      "artists": [
+        {
+          "name": "Robert Henry",
+          "url": "https://open.spotify.com/artist/5LSBkrLDZkkNF4wlXWLSOQ"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "Something's Wrong",
+      "url": "https://open.spotify.com/track/46zXxs0KWfZYEpKPtQeKZ8"
     },
     {
       "added_at": "2020-10-13 20:13:38",

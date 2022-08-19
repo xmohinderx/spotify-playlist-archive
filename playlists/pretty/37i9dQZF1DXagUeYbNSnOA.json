@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. musica gratis & Juana Rozas on cover.",
-  "num_followers": 166166,
+  "num_followers": 166163,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwNzYwMCwwMDAwMDAwMGU3ZmNhODA4Mjc4MzNmNzMxZjNlYmQzYjhjZGM3YmQz",
+  "snapshot_id": "MTY2MDEwNzYwMCwwMDAwMDAwMDliMjZjYzYyMjJlNGM2OWQ0MjdhYjk2NTA3ZDZiMDU3",
   "tracks": [
     {
       "added_at": "2022-08-10 05:00:00",
@@ -188,7 +188,7 @@
           "url": "https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC"
         }
       ],
-      "duration_ms": 239076,
+      "duration_ms": 240056,
       "name": "Nena",
       "url": "https://open.spotify.com/track/17YjrOFgczWPGaH7QyUNMF"
     },
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
+      },
+      "artists": [
+        {
+          "name": "Mayra C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
+        }
+      ],
+      "duration_ms": 245217,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
         "name": "Viernes 13",
         "url": "https://open.spotify.com/album/4jgvk03mDBT8TEnm72Rtgv"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 99515,
       "name": "Viernes 13",
       "url": "https://open.spotify.com/track/6FDpPn3yrzqGd1Ga15Ju4O"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
-      },
-      "artists": [
-        {
-          "name": "Mayra C\u00e1rdenas",
-          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
-        }
-      ],
-      "duration_ms": 245217,
-      "name": "Negro",
-      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "Humo",
-        "url": "https://open.spotify.com/album/7GXHP9ky24SraHw4kuCC2k"
-      },
-      "artists": [
-        {
-          "name": "Gletcher",
-          "url": "https://open.spotify.com/artist/1koh2JIk9Q42FNn0llOpdi"
-        }
-      ],
-      "duration_ms": 222783,
-      "name": "Humo",
-      "url": "https://open.spotify.com/track/6zMrs96ltfF9YrXDuaGbku"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
         "name": "El Modo",
         "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 135205,
       "name": "Espejos",
       "url": "https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/7GXHP9ky24SraHw4kuCC2k"
+      },
+      "artists": [
+        {
+          "name": "Gletcher",
+          "url": "https://open.spotify.com/artist/1koh2JIk9Q42FNn0llOpdi"
+        }
+      ],
+      "duration_ms": 222783,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/6zMrs96ltfF9YrXDuaGbku"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
+        "name": "Naufragio",
+        "url": "https://open.spotify.com/album/78adW0Bc0zg5E6PqYdc3Vk"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 145170,
+      "name": "Naufragio",
+      "url": "https://open.spotify.com/track/2DrfPQ6ONLQaWB7nSbrf8i"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
         "name": "Presi\u00f3n",
         "url": "https://open.spotify.com/album/1U8nk8BB1J5ZbPSt9L9hFy"
       },
@@ -723,38 +739,6 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "Naufragio",
-        "url": "https://open.spotify.com/album/78adW0Bc0zg5E6PqYdc3Vk"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 145170,
-      "name": "Naufragio",
-      "url": "https://open.spotify.com/track/2DrfPQ6ONLQaWB7nSbrf8i"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
-        "name": "Danza",
-        "url": "https://open.spotify.com/album/4zrP2XzPDDB4WuouYnTIee"
-      },
-      "artists": [
-        {
-          "name": "Keyo Catto",
-          "url": "https://open.spotify.com/artist/2LlKHzvYJMeJuwdk02KUec"
-        }
-      ],
-      "duration_ms": 225950,
-      "name": "Danza",
-      "url": "https://open.spotify.com/track/1FujFNI2naG0XkDCf0fdJz"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
         "name": "simeves",
         "url": "https://open.spotify.com/album/661S3vn7rgq7hscQdlRe5g"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 191211,
       "name": "simeves",
       "url": "https://open.spotify.com/track/6X4L2Kb4a3CelHXEwMZSsq"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/4zrP2XzPDDB4WuouYnTIee"
+      },
+      "artists": [
+        {
+          "name": "Keyo Catto",
+          "url": "https://open.spotify.com/artist/2LlKHzvYJMeJuwdk02KUec"
+        }
+      ],
+      "duration_ms": 225950,
+      "name": "Danza",
+      "url": "https://open.spotify.com/track/1FujFNI2naG0XkDCf0fdJz"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "Reporte de Noche",
-        "url": "https://open.spotify.com/album/37tTyLymHPCuxMJ0J433zv"
-      },
-      "artists": [
-        {
-          "name": "Aerobot",
-          "url": "https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ"
-        }
-      ],
-      "duration_ms": 206297,
-      "name": "Reporte de Noche",
-      "url": "https://open.spotify.com/track/0VfbwhLCU5RoURk2fx8z8F"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
         "name": "Habitar",
         "url": "https://open.spotify.com/album/3tpKaE9HTWamxY5njATfGB"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 291874,
       "name": "Ser (Cuna Nueva)",
       "url": "https://open.spotify.com/track/6hwuyhh0RjFL1UOLq6YEwn"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
+        "name": "Reporte de Noche",
+        "url": "https://open.spotify.com/album/37tTyLymHPCuxMJ0J433zv"
+      },
+      "artists": [
+        {
+          "name": "Aerobot",
+          "url": "https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ"
+        }
+      ],
+      "duration_ms": 206297,
+      "name": "Reporte de Noche",
+      "url": "https://open.spotify.com/track/0VfbwhLCU5RoURk2fx8z8F"
     }
   ],
   "unique_name": "Fresh Finds Latin",

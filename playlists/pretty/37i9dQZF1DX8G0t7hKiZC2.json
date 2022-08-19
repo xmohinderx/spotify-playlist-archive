@@ -1,12 +1,12 @@
 {
   "description": "Some of Barack Obama's favorite songs of the summer. A mix of genres & eras made with everyone in mind!\n",
-  "num_followers": 102591,
+  "num_followers": 102585,
   "original_name": "Barack Obama's 2021 Summer Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzM2NjIxNywwMDAwMDAwMDY1Y2RlMjFlMmMyNzkxNGZjMmU0MWM2ZDZkMTY3NDYw",
+  "snapshot_id": "MTY0NzM2NjIxNywwMDAwMDAwMDAyMTBhMmNjYzFhNWMwNDc2MGY5ODhhZjJmNGZkNzFh",
   "tracks": [
     {
       "added_at": "2021-07-10 12:55:00",
@@ -283,6 +283,22 @@
       "duration_ms": 202133,
       "name": "Does Anybody Really Know What Time It Is?",
       "url": "https://open.spotify.com/track/6Q6YqGj1Ku1CUGHWSFwSHY"
+    },
+    {
+      "added_at": "2021-07-10 12:55:00",
+      "album": {
+        "name": "Hejira",
+        "url": "https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ"
     },
     {
       "added_at": "2021-07-10 12:55:00",

@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with some upbeat party jazz.",
-  "num_followers": 10687,
+  "num_followers": 10733,
   "original_name": "Party Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDczMDMwOSwwMDAwMDAwMDhlYzBlY2VlYTkxZTA1YTE1Njc0ZmMzOThlNDY2MDNl",
+  "snapshot_id": "MTY2MDczMDMwOSwwMDAwMDAwMGRhNWQwZWQ1ZjY0ZWQ5YjVlMDFhYjA3YmQzMWI3NDVk",
   "tracks": [
     {
       "added_at": "2022-08-17 09:58:29",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Shirley / Let's Face the Music",
-        "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
-      },
-      "artists": [
-        {
-          "name": "Shirley Bassey",
-          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "If I Were a Bell - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Milestones",
         "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 310733,
       "name": "Two Bass Hit (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/0DtEf3aHfOgaCFJQO98x0c"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Shirley / Let's Face the Music",
+        "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
+      },
+      "artists": [
+        {
+          "name": "Shirley Bassey",
+          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "If I Were a Bell - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "'S Make It",
-        "url": "https://open.spotify.com/album/7tKo11GyBLe0Zbbi72pFFU"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey",
-          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/32MKpR61rfKGivn5K7V7wG"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 332266,
       "name": "If This Isn't Love",
       "url": "https://open.spotify.com/track/4WrFf0DMuq3LbpOf20wkVP"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "'S Make It",
+        "url": "https://open.spotify.com/album/7tKo11GyBLe0Zbbi72pFFU"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey",
+          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/32MKpR61rfKGivn5K7V7wG"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Cool Struttin\u2019",
-        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 617487,
-      "name": "Blue Minor - Remastered",
-      "url": "https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Caravan [Keepnews Collection]",
         "url": "https://open.spotify.com/album/35Ml0uRskKkYOFi8nBiGzq"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 331600,
       "name": "Sweet 'n' Sour",
       "url": "https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Cool Struttin\u2019",
+        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 617487,
+      "name": "Blue Minor - Remastered",
+      "url": "https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Clubhouse",
-        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
+        "name": "Soul Trombone",
+        "url": "https://open.spotify.com/album/5kiO8hm4uaD1mO9C8tyqar"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Curtis Fuller",
+          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
         }
       ],
-      "duration_ms": 425480,
-      "name": "Devilette",
-      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
+      "duration_ms": 240320,
+      "name": "The Breeze And I",
+      "url": "https://open.spotify.com/track/4agP6oBL9KTqmbPuu6YoRP"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Soul Trombone",
-        "url": "https://open.spotify.com/album/5kiO8hm4uaD1mO9C8tyqar"
+        "name": "Clubhouse",
+        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
       },
       "artists": [
         {
-          "name": "Curtis Fuller",
-          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 240320,
-      "name": "The Breeze And I",
-      "url": "https://open.spotify.com/track/4agP6oBL9KTqmbPuu6YoRP"
+      "duration_ms": 425480,
+      "name": "Devilette",
+      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
+        "name": "The Freedom Rider",
+        "url": "https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp"
       },
       "artists": [
         {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 487720,
-      "name": "Groovesville",
-      "url": "https://open.spotify.com/track/6lUzqx7U1Ll4ddwqFwL3lK"
+      "duration_ms": 376066,
+      "name": "Petty Larceny",
+      "url": "https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -951,18 +951,18 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "The Freedom Rider",
-        "url": "https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp"
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
         }
       ],
-      "duration_ms": 376066,
-      "name": "Petty Larceny",
-      "url": "https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV"
+      "duration_ms": 487720,
+      "name": "Groovesville",
+      "url": "https://open.spotify.com/track/6lUzqx7U1Ll4ddwqFwL3lK"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "The Magnificent Thad Jones (Remastered)",
-        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
-      },
-      "artists": [
-        {
-          "name": "Thad Jones",
-          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
-        }
-      ],
-      "duration_ms": 635586,
-      "name": "Thedia - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/447IqXYdDWyVP0eGdmv14A"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Pre-Bird",
         "url": "https://open.spotify.com/album/3oTtQ6wQHUZwvHObLuh8sq"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 219066,
       "name": "Take The \"A\" Train",
       "url": "https://open.spotify.com/track/72AW6z1g3zGKcCOjQzToV9"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Blues March",
+      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+        "name": "The Magnificent Thad Jones (Remastered)",
+        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
       "artists": [
         {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
         }
       ],
-      "duration_ms": 245146,
-      "name": "Blues March",
-      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
+      "duration_ms": 635586,
+      "name": "Thedia - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/447IqXYdDWyVP0eGdmv14A"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "The Capitol Vaults Jazz Series",
-        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 271866,
-      "name": "Avila And Tequila - 1998 - Remaster",
-      "url": "https://open.spotify.com/track/4Cflzw9ndZOpVWZq0JS3o1"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "The New Boss Guitar",
         "url": "https://open.spotify.com/album/2QXUodUhkZtTbIrN4FNmB5"
       },
@@ -1483,6 +1467,54 @@
       "duration_ms": 277173,
       "name": "The Sweet Alice Blues",
       "url": "https://open.spotify.com/track/5ln0JF17xZud7mxqoFOrY9"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Pepper Adams Plays The Compositions of Charlie Mingus",
+        "url": "https://open.spotify.com/album/0oqwEDzBuX7wKNcLxskKI4"
+      },
+      "artists": [
+        {
+          "name": "Pepper Adams",
+          "url": "https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR"
+        },
+        {
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
+        },
+        {
+          "name": "Zoot Sims",
+          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
+        },
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        }
+      ],
+      "duration_ms": 477880,
+      "name": "Haitian Fight Song",
+      "url": "https://open.spotify.com/track/4Red4KhaYnxkjo3osEbxl4"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "The Capitol Vaults Jazz Series",
+        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 271866,
+      "name": "Avila And Tequila - 1998 - Remaster",
+      "url": "https://open.spotify.com/track/4Cflzw9ndZOpVWZq0JS3o1"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1519,22 +1551,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Shades Of Redd (Remastered)",
-        "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
-      },
-      "artists": [
-        {
-          "name": "Freddie Redd",
-          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
-        }
-      ],
-      "duration_ms": 382453,
-      "name": "Ole - Digital Remaster/2007",
-      "url": "https://open.spotify.com/track/539lbCBUmpYrXRdEMX7e1q"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Hank Mobley With Donald Byrd And Lee Morgan",
         "url": "https://open.spotify.com/album/5GWLy8xqPwGP3VPZFNqNuT"
       },
@@ -1555,6 +1571,22 @@
       "duration_ms": 682866,
       "name": "Barrel Of Funk",
       "url": "https://open.spotify.com/track/6VNKBFvnIP1BJdXSGnYpKP"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Shades Of Redd (Remastered)",
+        "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
+      },
+      "artists": [
+        {
+          "name": "Freddie Redd",
+          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
+        }
+      ],
+      "duration_ms": 382453,
+      "name": "Ole - Digital Remaster/2007",
+      "url": "https://open.spotify.com/track/539lbCBUmpYrXRdEMX7e1q"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1607,22 +1639,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "The Hard Swing",
-        "url": "https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 275520,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/6DaExxnrF56oEF0qHR3Izl"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Sonic Boom",
         "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
       },
@@ -1635,6 +1651,22 @@
       "duration_ms": 347133,
       "name": "Sneaky Pete",
       "url": "https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "The Hard Swing",
+        "url": "https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 275520,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/6DaExxnrF56oEF0qHR3Izl"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1655,22 +1687,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "The Congregation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 387653,
-      "name": "Latin Quarter - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/7L83qErlLHeb6n1CR9lqXk"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "The Hardbop Grandpop",
         "url": "https://open.spotify.com/album/4yC3YQ7yrNEzLM9fVvrc6F"
       },
@@ -1687,18 +1703,22 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Jackie's Bag",
-        "url": "https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P"
+        "name": "Brass Bag",
+        "url": "https://open.spotify.com/album/6rn3FShZAjVH7HHMV49Tmk"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Tricky Lofton",
+          "url": "https://open.spotify.com/artist/59fsz4clSI6ScQHdzY12ev"
+        },
+        {
+          "name": "Carmell Jones",
+          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
         }
       ],
-      "duration_ms": 406240,
-      "name": "Medina - Remastered",
-      "url": "https://open.spotify.com/track/0ovtEcriEuV9CosA98U8tZ"
+      "duration_ms": 411733,
+      "name": "Ow!",
+      "url": "https://open.spotify.com/track/1Ju0Tsue7GTzlcx0y2kN2C"
     },
     {
       "added_at": "2022-08-17 09:58:29",

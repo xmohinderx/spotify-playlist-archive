@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 73,
+  "num_followers": 118,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1NDQ3MCwwMDAwMDAwMDNkY2YzNzljNWU2NjAzZGNiNjdiMDNjZmUzYzZhMzc2",
+  "snapshot_id": "MTY2MDc1NDQ3MCwwMDAwMDAwMDVmZTAwYzg3NWE1NzZhMTc5NWMzNjk5Y2ZmNGVmNDNl",
   "tracks": [
     {
       "added_at": "2022-08-17 16:41:10",
@@ -711,6 +711,26 @@
     {
       "added_at": "2022-08-17 16:41:10",
       "album": {
+        "name": "Inlandish",
+        "url": "https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        },
+        {
+          "name": "Tim Story",
+          "url": "https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc"
+        }
+      ],
+      "duration_ms": 187960,
+      "name": "The Orchardist",
+      "url": "https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ"
+    },
+    {
+      "added_at": "2022-08-17 16:41:10",
+      "album": {
         "name": "The Tired Sounds of Stars of the Lid",
         "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
@@ -823,6 +843,42 @@
       "duration_ms": 127000,
       "name": "In McDonalds",
       "url": "https://open.spotify.com/track/0WxZZUJuDXZlxfrWaqp1DG"
+    },
+    {
+      "added_at": "2022-08-17 16:41:10",
+      "album": {
+        "name": "Grinning Cat",
+        "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "I Imagine",
+      "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
+    },
+    {
+      "added_at": "2022-08-17 16:41:10",
+      "album": {
+        "name": "Inlandish",
+        "url": "https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        },
+        {
+          "name": "Tim Story",
+          "url": "https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Ripple and Fade",
+      "url": "https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu"
     },
     {
       "added_at": "2022-08-17 16:41:10",

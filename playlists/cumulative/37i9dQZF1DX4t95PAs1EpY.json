@@ -48,6 +48,28 @@
     },
     {
       "album": {
+        "name": "Lasting Memories",
+        "url": "https://open.spotify.com/album/75vXCfbM1TdyfXLgMC1hyS"
+      },
+      "artists": [
+        {
+          "name": "Paoz",
+          "url": "https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT"
+        },
+        {
+          "name": "Lost in Space",
+          "url": "https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Adventure Time",
+      "url": "https://open.spotify.com/track/49qgo51BRqysyr1FdfGCi7"
+    },
+    {
+      "album": {
         "name": "After the Storm",
         "url": "https://open.spotify.com/album/6DNQ6LG4GXuJy6Fi3qGwPA"
       },
@@ -157,6 +179,24 @@
       "duration_ms": 150379,
       "name": "Anemone",
       "url": "https://open.spotify.com/track/7eNGBTOkvmEJqh7ylI2Kfu"
+    },
+    {
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/0QSXl5b9n5A7WTCGQeI3qg"
+      },
+      "artists": [
+        {
+          "name": "lst drm",
+          "url": "https://open.spotify.com/artist/0qH83ejjkT1p7O0uycoATV"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108758,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/6LckjljdWPUNGfTOm9HCvs"
     },
     {
       "album": {
@@ -527,7 +567,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 140800,
       "name": "By The Window",
       "url": "https://open.spotify.com/track/5luRT0zNET58JyDhfS7ZJQ"
@@ -1629,7 +1669,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 165000,
       "name": "Hatsukoi",
       "url": "https://open.spotify.com/track/5hxqr1B0ZoHYXR2L4RCpUg"
@@ -1951,7 +1991,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 171711,
       "name": "Kronotype",
       "url": "https://open.spotify.com/track/7N1ZSuIsm3cbs1F3rVw0mA"
@@ -1969,7 +2009,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 111079,
       "name": "lake hylia",
       "url": "https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4"
@@ -2464,6 +2504,28 @@
     },
     {
       "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/3uw1fjhnFM0D7iwBdUgZ4R"
+      },
+      "artists": [
+        {
+          "name": "H U M A",
+          "url": "https://open.spotify.com/artist/5ZJJFdZwWeLYkv3P1GR1YL"
+        },
+        {
+          "name": "Calmas Records",
+          "url": "https://open.spotify.com/artist/3xHHNJkwyots8LoDMxGD9k"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115058,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/35JriQLtao7FdiHcXRYjFr"
+    },
+    {
+      "album": {
         "name": "miracle moments",
         "url": "https://open.spotify.com/album/6UkZPXSF0d6J2HU6zRH3E1"
       },
@@ -2493,7 +2555,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 128856,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/3eEjDLyhJMg7e3BApnzQff"
@@ -2992,6 +3054,24 @@
     },
     {
       "album": {
+        "name": "perspectives",
+        "url": "https://open.spotify.com/album/65DlzFrL661lJGLZT9A0hJ"
+      },
+      "artists": [
+        {
+          "name": "Jens Nirme",
+          "url": "https://open.spotify.com/artist/3illAmiJoox5u3D7qhkO6t"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "perspectives",
+      "url": "https://open.spotify.com/track/0LmvYj2kBwhthoRghRt1RK"
+    },
+    {
+      "album": {
         "name": "picnic blanket",
         "url": "https://open.spotify.com/album/5Lt3o5YQ5PfF6bqtwSV0Pw"
       },
@@ -3441,10 +3521,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 100517,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/1oOVp3mUoS6CSjdYsdjaAi"
+    },
+    {
+      "album": {
+        "name": "Safest Place On Earth",
+        "url": "https://open.spotify.com/album/6Ui1YWXoHUDcXbhaJ76rlE"
+      },
+      "artists": [
+        {
+          "name": "vimef",
+          "url": "https://open.spotify.com/artist/1xUOwpofiLq183kHa1Y8cb"
+        },
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "Safest Place On Earth",
+      "url": "https://open.spotify.com/track/0UbNd2SiCac2XutEQPc1zZ"
     },
     {
       "album": {
@@ -3690,6 +3792,24 @@
     },
     {
       "album": {
+        "name": "some day soon",
+        "url": "https://open.spotify.com/album/1FL0aUBLTkpFnABDM0460p"
+      },
+      "artists": [
+        {
+          "name": "Soulone Beats",
+          "url": "https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135384,
+      "name": "some day soon",
+      "url": "https://open.spotify.com/track/6kIM4Su7QfD7L737v6yhEo"
+    },
+    {
+      "album": {
         "name": "Some Say",
         "url": "https://open.spotify.com/album/1tHutlUmxF12xjp5sN81iN"
       },
@@ -3791,7 +3911,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 168857,
       "name": "stay - lofi",
       "url": "https://open.spotify.com/track/2ljxDp3RcVh3PG7DuRScCZ"
@@ -3903,6 +4023,24 @@
       "duration_ms": 136615,
       "name": "Tears Of The Forest",
       "url": "https://open.spotify.com/track/11lgzgiYDe6VJvA0bvKMwy"
+    },
+    {
+      "album": {
+        "name": "Terraforma",
+        "url": "https://open.spotify.com/album/2OjwyKz7hqO5EL9JLw3Al0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Cavalcanti",
+          "url": "https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98774,
+      "name": "Terraforma",
+      "url": "https://open.spotify.com/track/5O2obBZsd58cpx1GE0XECe"
     },
     {
       "album": {
@@ -4281,7 +4419,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 144917,
       "name": "Warm Breeze",
       "url": "https://open.spotify.com/track/6yqhvnDpwXKxITVp4U76QB"

@@ -4,7 +4,7 @@
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-99 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/21ZJXOfGM4gKgydddrz1Vq)
+100 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/21ZJXOfGM4gKgydddrz1Vq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Beat Dem Bad](https://open.spotify.com/track/16zJKw4xLkC6ssjawLYsQj) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Beat Dem Bad](https://open.spotify.com/album/1INQWVJOhCcOZHmLC7srG1) | 2:24 | 2020-09-25 |  |
 | [Behave Pun It](https://open.spotify.com/track/24zgCIu6PzdJD3hRl5LQzw) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Various Artists](https://open.spotify.com/album/2FcCwRLv72qMLjNoDzfauM) | 2:53 | 2020-09-25 | 2022-07-22 |
 | [Bend Yuh Back](https://open.spotify.com/track/4DZSF4iDjtUZa9ODwI8JhF) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK) | [Caribé Rosé Riddim](https://open.spotify.com/album/5g7vAyBYjKR59SHWDm4jgl) | 2:34 | 2020-09-25 | 2022-07-29 |
+| [Bend Yuh Back](https://open.spotify.com/track/6d9GMNNJpGEjrH8OFDGEXN) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK) | [Bend Yuh Back](https://open.spotify.com/album/46tZ8IWlrpYgB9EDCa3Rfb) | 2:34 | 2022-02-24 |  |
 | [Boom Bang](https://open.spotify.com/track/6gFQb0VIN3ucwjmOkyGYrH) | [Jus D](https://open.spotify.com/artist/6k1Y2g99ykUYvY6NnW9Rlh) | [Other Side](https://open.spotify.com/album/2LVRaPCxqMF64kET557Qqj) | 3:11 | 2020-09-25 | 2022-07-29 |
 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/4gVuFNokTonwVzCOS7BUk9) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/0fhlC4Bp0yWFry5VPZmM9o) | 2:13 | 2020-09-25 | 2022-07-29 |
 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 | 2022-02-24 |  |
@@ -88,7 +89,7 @@
 | [Tic It & Tac It](https://open.spotify.com/track/5X8aV69F0FrinCD9aiFSDI) | [Bobo](https://open.spotify.com/artist/4rOtaKOGHla5WoXOmfYasI) | [Tic It & Tac It](https://open.spotify.com/album/3lNBIr8Qz94mdNCfUoqGQG) | 2:04 | 2020-09-25 | 2022-07-29 |
 | [Tick Pon Cock](https://open.spotify.com/track/0hi53rAi8089F1DnwsRroK) | [SUPA NYTRO](https://open.spotify.com/artist/63UiEB8udvGCvXX1D7VSLF), [Natz B](https://open.spotify.com/artist/6g19CjWx79OK8qiL8aceQn) | [Tick Pon Cock](https://open.spotify.com/album/3uh9i9joEPOB15yQJWNZRf) | 3:12 | 2020-09-25 |  |
 | [Toat No Feelings](https://open.spotify.com/track/1wuEorTikzzwzsOZBPFpzT) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/7aBnHH25YAEGR3y2tuEfDv) | 1:56 | 2020-09-25 | 2022-07-29 |
-| [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 | 2022-02-24 |  |
+| [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 | 2022-02-24 | 2022-08-19 |
 | [Tombstone](https://open.spotify.com/track/5y3BRj2jk5ifjwRmPvrNk6) | [Mandella Linkz](https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm) | [Mandrakes Riddim](https://open.spotify.com/album/4JufEdzLQ2yJkXOlXknrLG) | 3:50 | 2020-09-25 |  |
 | [Up & Up](https://open.spotify.com/track/35Y7HJHsOaV1CQ8RisAqpd) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Caution Riddim](https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11) | 3:09 | 2020-09-25 |  |
 | [Up Top Boss](https://open.spotify.com/track/3plfljoZKGixRbQ2u6o2et) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Progress Riddim](https://open.spotify.com/album/4DInWuzCI8yOwhoV0uZwqn) | 3:30 | 2020-09-25 |  |

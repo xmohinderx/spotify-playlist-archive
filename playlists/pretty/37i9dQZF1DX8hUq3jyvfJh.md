@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mari Fernandez e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,992 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,270 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 29 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
 | 30 | [Prometo \- Ao Vivo Em Sete Lagoas, Brazil / 2019](https://open.spotify.com/track/3MYojEGnFql7awVqGlLWOS) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Origens \(Ao Vivo Em Sete Lagoas, Brazil / 2019\)](https://open.spotify.com/album/6icX4tuY88Hxubfzma8zu5) | 3:18 |
 | 31 | [Vem Cá](https://open.spotify.com/track/1fQen7vln4OFKCRshZvXoT) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Vem Cá](https://open.spotify.com/album/7nXQUOtTZjBw9o2sOScZVD) | 2:32 |
-| 32 | [Namorando Bloqueia](https://open.spotify.com/track/0DPm7fR4Nf7VzuIc6pGWt6) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Namorando Bloqueia](https://open.spotify.com/album/4FAZbodqDr9nAAw4QXkGsK) | 2:11 |
-| 33 | [Quero Que Você Se \- Ao vivo](https://open.spotify.com/track/5ECdJiYkcQz1VhpYzsGUhW) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Quero Que Você Se \(Ao vivo\)](https://open.spotify.com/album/5Xe6JNQNwRJhHkoJ2sSOqH) | 2:54 |
+| 32 | [Quero Que Você Se \- Ao vivo](https://open.spotify.com/track/5ECdJiYkcQz1VhpYzsGUhW) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Quero Que Você Se \(Ao vivo\)](https://open.spotify.com/album/5Xe6JNQNwRJhHkoJ2sSOqH) | 2:54 |
+| 33 | [Namorando Bloqueia](https://open.spotify.com/track/0DPm7fR4Nf7VzuIc6pGWt6) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Namorando Bloqueia](https://open.spotify.com/album/4FAZbodqDr9nAAw4QXkGsK) | 2:11 |
 | 34 | [O Choro é Livre](https://open.spotify.com/track/7mdclgEREBeEcIbGxIchcF) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [O Choro é Livre](https://open.spotify.com/album/1EyIA4KLuQVUuhzuYDwc8n) | 3:39 |
 | 35 | [Ponto de Partida](https://open.spotify.com/track/6laXU8ebTKAt4jJ75IybV0) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Retrô Românticas, Pt\. 1](https://open.spotify.com/album/3rlIX4rSRS2Lk4EEuk3zRa) | 2:42 |
 | 36 | [Descontar Não É Trair](https://open.spotify.com/track/7ynknBverBkoUg0XYzvw0Q) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/3l9ItXzowg5VRvrpCSbFgq) | 3:05 |
 | 37 | [Amor da Sua Vida \- Ao Vivo](https://open.spotify.com/track/5dvqzCn7FZjtmrrx4VYM3W) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ) | [Amando e Sofrendo, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0XRE7Err8k5v17JBekAomd) | 2:50 |
-| 38 | [Eu Ou Ela \- Ao Vivo](https://open.spotify.com/track/3XX8Zp2pOdQ2VmmzmzoGUK) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia \(Vol\. 2\)](https://open.spotify.com/album/3bc4ZZ7gWZukZvdM2qc6Rt) | 2:44 |
-| 39 | [Pra Mim Você é Tudo \(Rapariga\) \[Ao Vivo\]](https://open.spotify.com/track/4Vao4rCPqRNeGFG8IurbLN) | [Duda Bertelli](https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO) | [Pra Mim Você é Tudo \(Rapariga\) \[Ao Vivo\]](https://open.spotify.com/album/0l3BT8oObAlDYRysVX0t0m) | 2:54 |
+| 38 | [Pra Mim Você é Tudo \(Rapariga\) \[Ao Vivo\]](https://open.spotify.com/track/4Vao4rCPqRNeGFG8IurbLN) | [Duda Bertelli](https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO) | [Pra Mim Você é Tudo \(Rapariga\) \[Ao Vivo\]](https://open.spotify.com/album/0l3BT8oObAlDYRysVX0t0m) | 2:54 |
+| 39 | [Eu Ou Ela \- Ao Vivo](https://open.spotify.com/track/3XX8Zp2pOdQ2VmmzmzoGUK) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia \(Vol\. 2\)](https://open.spotify.com/album/3bc4ZZ7gWZukZvdM2qc6Rt) | 2:44 |
 | 40 | [Tantão assim \- Ao vivo](https://open.spotify.com/track/3BQcRwHRHc2iZEmW0IxQZ5) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Tantão assim \(Ao vivo\)](https://open.spotify.com/album/1qtB8uFoOXClCkAwI1jj7X) | 3:02 |
 | 41 | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/track/01O7f0N2slitGFBcuBuIZM) | [Suellen & Francielly](https://open.spotify.com/artist/52WZ6GkSnEZxJ5iZUGBVGm) | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/album/6Oi6FNT4RzOOjKFDBSrXuz) | 2:36 |
 | 42 | [Coração Mal Dividido](https://open.spotify.com/track/7iw0Ao9yZgeEWY5lSYvaq0) | [Natália & Laura](https://open.spotify.com/artist/3YrRhr09dqXwCCszvnwqLr) | [Coração Mal Dividido](https://open.spotify.com/album/1HrxOHLaUyKTBtKZvzrOAP) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Eu Não](https://open.spotify.com/track/4LoEqYbhvAsOihCKJBfEP0) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:30 |
 | 50 | [A de Casa Ou a da Rua \- Ao Vivo](https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 2:49 |
 
-Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMDI2NGM4MWNkMmZjY2U5MTE0ZDQwMmQxNzllMjNiN2Q3`
+Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMDI2M2RhNWMyNGUzMjY3NjAwNWI2YzA2YzAzZWEyMjVl`

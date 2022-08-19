@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-127 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
+128 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 | 2022-03-10 |  |
 | [Clap Clap](https://open.spotify.com/track/0HRh0oyCzL77523ZBDZHhV) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clap Clap](https://open.spotify.com/album/4ujzl78TKBfkTbmB5VtllJ) | 3:15 | 2022-07-21 |  |
 | [Clicli](https://open.spotify.com/track/4Ybp2JxZFhAAZSwrMTWuiG) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4) | [Clicli](https://open.spotify.com/album/3LpYLnk2KFLdJNw2A09TK4) | 2:54 | 2021-12-22 | 2022-02-18 |
+| [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/1agX5xuqpSUDQ55gkdQbZk) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 | 2022-08-18 |  |
 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 | 2021-12-22 | 2022-02-18 |
 | [Count Your Blessings](https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF) | [Count Your Blessings](https://open.spotify.com/album/5EJsDFoL9jqVOsCS2UnXil) | 2:12 | 2022-07-07 |  |
 | [Dancehall](https://open.spotify.com/track/2sCG5Iwv9GdYNViAs5b7Gy) | [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Wordle Riddim](https://open.spotify.com/album/5Qzyi64m3ak0GXtcd5bemz) | 2:26 | 2022-07-07 | 2022-08-12 |
@@ -97,7 +98,7 @@
 | [Pon Di Next One](https://open.spotify.com/track/2xQrG3u7cJgUs3ORrpcAA5) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [AV Allure](https://open.spotify.com/artist/7tjcbOzzgu3LU36xMW1Giy) | [Pon Di Next One](https://open.spotify.com/album/1Ho0Xhz61xCGLEG4cJsPVY) | 2:26 | 2022-07-28 |  |
 | [Porte pas plainte \- Edit](https://open.spotify.com/track/152o3xdgJbHp5IhNFGadvs) | [R2.0](https://open.spotify.com/artist/3XztGWCoVOMyAmXqM1TzKT), [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ) | [Porte pas plainte](https://open.spotify.com/album/4NEGgCHxeAIUYB8pSFGP87) | 3:14 | 2022-01-13 | 2022-05-21 |
 | [Pretty Girl](https://open.spotify.com/track/75vTqilpqZ6wi4JJ3hIthr) | [Beach Boii](https://open.spotify.com/artist/5epY4AGRq3ty95XFK3kbC8), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Pretty Girl](https://open.spotify.com/album/6XblstmcRBD1twvqIpM0zY) | 2:15 | 2022-05-26 | 2022-07-01 |
-| [PRETTY SUIT](https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [OUT:SIDE](https://open.spotify.com/album/3rPlEhJ2xkEM1zqrYczjzn) | 2:48 | 2022-07-21 |  |
+| [PRETTY SUIT](https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [OUT:SIDE](https://open.spotify.com/album/3rPlEhJ2xkEM1zqrYczjzn) | 2:48 | 2022-07-21 | 2022-08-19 |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-02-03 |  |
 | [PVDV](https://open.spotify.com/track/5Bnh17R2tIfcNCwQ0HR1RD) | [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1), [Reyel Ay](https://open.spotify.com/artist/7ArndI9V96Y7AXKQ4O54FH) | [PVDV](https://open.spotify.com/album/0Obzppmpm8XdZ2Um3lG90m) | 2:32 | 2022-02-03 | 2022-06-03 |
 | [Pwen Sansib](https://open.spotify.com/track/1fviAMexM8UoYeoLHCOubV) | [Riddla](https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw) | [Pwen Sansib](https://open.spotify.com/album/2pQBH39dnCeNKMRcOKs4mD) | 3:21 | 2022-08-11 |  |

@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-307 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+311 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Adelita](https://open.spotify.com/track/5qGYBd0wZHJ9Chu3YnvYvu) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Tres mazurcas](https://open.spotify.com/album/0gE3MUJGWkrAcnZtiQhzSD) | 1:38 | 2022-05-27 | 2022-07-29 |
 | [Airstream](https://open.spotify.com/track/4Dh7eyJf2nJgPfpQAOiL7z) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Airstream](https://open.spotify.com/album/4SBHi1gf4x4rlDr6DEHw16) | 3:44 | 2022-02-18 |  |
 | [Airy](https://open.spotify.com/track/0LzC1O0g6M2Z9uKmeqmynu) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Airy](https://open.spotify.com/album/7ewLxbG3aIUFDSXaagnsOd) | 2:38 | 2021-12-08 |  |
+| [Akturu](https://open.spotify.com/track/4DTnXXYGPuef1H8aa1R0nA) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Akturu](https://open.spotify.com/album/3zPx6U036ddROrp6lG0XKV) | 3:00 | 2022-08-19 |  |
 | [All Those Things](https://open.spotify.com/track/6crKfVVbULAcl1qmnZfr47) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [All Those Things](https://open.spotify.com/album/335oTYZv32szZG1aXCyg0o) | 2:42 | 2021-12-08 | 2022-06-10 |
 | [Alte Liebe](https://open.spotify.com/track/2HkYUQt0e5GUXvJSFfFTcX) | [Reinhold Simmel](https://open.spotify.com/artist/7DpQruqjtjA5gOVgYfYJZ0) | [Alte Liebe](https://open.spotify.com/album/78muUWjscrUbNX7GFo5W7O) | 3:05 | 2021-12-08 |  |
 | [am Rande des Waldes](https://open.spotify.com/track/7alIySW96sYHrTNzl1d9NS) | [Flavio Bottura](https://open.spotify.com/artist/24sxWrsqEwi0W7PPad6NeH) | [no man's land](https://open.spotify.com/album/3yUOrhecG3B9bbRWcb2ghB) | 2:57 | 2021-12-08 | 2022-02-02 |
@@ -115,7 +116,7 @@
 | [Heat Waves \- Guitar](https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS) | 4:08 | 2022-04-05 |  |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2021-12-08 |  |
 | [Hemma är vid havet](https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Hemma är vid havet](https://open.spotify.com/album/6J0FxxEmI1YFvtEKPfInUH) | 2:52 | 2022-04-22 |  |
-| [Hidden Moments](https://open.spotify.com/track/30CSchwlaiSQUb4R29Gczs) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Hidden Moments](https://open.spotify.com/album/53tKNkgHDBPfCsFxjVAE8C) | 4:08 | 2022-06-03 |  |
+| [Hidden Moments](https://open.spotify.com/track/30CSchwlaiSQUb4R29Gczs) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Hidden Moments](https://open.spotify.com/album/53tKNkgHDBPfCsFxjVAE8C) | 4:08 | 2022-06-03 | 2022-08-19 |
 | [Hidden Treasures](https://open.spotify.com/track/5QMPnfATvvolBDWSvM2hjm) | [Carsten Meyer](https://open.spotify.com/artist/6je5sFIVVOMLNUeTVnx3v6) | [A Town on a Hill](https://open.spotify.com/album/6IpmlOnnDB4ilaK8mMZtuV) | 3:17 | 2021-12-08 |  |
 | [Homage to Mr Rodriguez](https://open.spotify.com/track/2qhdCn9YpnLF6nILfEB56W) | [Brandon Marcelo](https://open.spotify.com/artist/2VtBXPLGJRY6dgNwHue5y4) | [Homage to Mr Rodriguez](https://open.spotify.com/album/6C7HFwnvU3vFI12Z6viGtp) | 4:04 | 2021-12-08 | 2022-02-02 |
 | [Homesick](https://open.spotify.com/track/5EO5Sx8n15p2f3SURF8Pcw) | [Celestial Conscience](https://open.spotify.com/artist/0UG5sCzTJoQXp7RvjoypkI), [Sykomori](https://open.spotify.com/artist/6mURhfwb2vKHmYD9aICMMC) | [Homesick](https://open.spotify.com/album/6rO8Jn9exEBWv9pUBC5wSc) | 2:25 | 2021-12-08 | 2022-06-10 |
@@ -135,6 +136,7 @@
 | [in the barrel](https://open.spotify.com/track/08t0y9ckkd4D3INWzucet3) | [Heitor de Lima](https://open.spotify.com/artist/5FNGrj7hvqzeskFQMeCZe5) | [seaflowers](https://open.spotify.com/album/2m79xabOBSNymQfPqWdIt0) | 3:00 | 2021-12-08 |  |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2021-12-08 | 2022-04-06 |
 | [Infatuation](https://open.spotify.com/track/1RKWZJKvFfuPDroaYPnaNA) | [Kay Meine](https://open.spotify.com/artist/1YCpuDhM5Ounw7IiCBypuB) | [Infatuation](https://open.spotify.com/album/7eyl64vJR6DiBHa8TAzgRL) | 2:14 | 2021-12-08 |  |
+| [Intimation](https://open.spotify.com/track/1pPsz87YEWRZKgCLSPKyoL) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Intimation](https://open.spotify.com/album/3zKYzylFhenfGuKNaNfOB6) | 1:24 | 2022-08-19 |  |
 | [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2021-12-08 | 2022-04-22 |
 | [It's Raining Again](https://open.spotify.com/track/4L57ip4LWoLDrQN14jLfgP) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [It's Raining Again](https://open.spotify.com/album/1GGuS0jjw5aWZIiCCNpOhg) | 4:36 | 2021-12-08 |  |
 | [Karwendel](https://open.spotify.com/track/4ri4tO76BS4U2Q2QsKCjJL) | [Dak Pietsch](https://open.spotify.com/artist/5pP8Whe87TtxEtv8zE2Lwj) | [Karwendel](https://open.spotify.com/album/3yYhCewxc24oSmkYmzVjIw) | 3:22 | 2021-12-08 | 2022-07-01 |
@@ -153,6 +155,7 @@
 | [Let Hope Be Your Anchor](https://open.spotify.com/track/2mfr6qiU7oYNge4Ar0P6XI) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Let Hope Be Your Anchor](https://open.spotify.com/album/0ec0mMBEPa6EAqDi0Wgh3g) | 3:23 | 2022-06-24 |  |
 | [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-08 |  |
 | [Levitating](https://open.spotify.com/track/49SUqwYACakEEvO20DcLlt) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Levitating](https://open.spotify.com/album/565nU3fGdYAnH8eH7gOuZc) | 4:18 | 2021-12-08 | 2022-05-27 |
+| [Light Touch](https://open.spotify.com/track/7DRiHX3VXNCkhDxtUsy6YX) | [Emanuel Nord](https://open.spotify.com/artist/2Gq8NLA4bUFNMCLKB1kx83) | [Light Touch](https://open.spotify.com/album/5cAJ8glKeq4tXSdlkjDAgj) | 1:42 | 2022-08-19 |  |
 | [Liljekonvalj](https://open.spotify.com/track/5dUF6RzDRQwW9vrLs2xZUY) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Liljekonvalj](https://open.spotify.com/album/2K8OrnJdDlArgiolPaAWnB) | 2:11 | 2021-12-08 | 2022-06-03 |
 | [Limpopo](https://open.spotify.com/track/51ZG36kK3KPEqYYH8a2Nna) | [ONEGUI](https://open.spotify.com/artist/5z0Vy8IS2ybQtKxzQ3IWfb) | [Ikun Vol\. 1](https://open.spotify.com/album/7tCXKwYlcTzESVAspYpDf6) | 2:19 | 2021-12-08 |  |
 | [Llamame e Insiste](https://open.spotify.com/track/7xWSsd19uqn3nuEhPz1uG3) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Llamame e Insiste](https://open.spotify.com/album/1VuqJvXizrcq4dyqYTgWE2) | 3:00 | 2021-12-08 | 2022-06-17 |
@@ -194,7 +197,7 @@
 | [Oklahoma](https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Oklahoma](https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E) | 2:18 | 2022-07-08 |  |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2021-12-08 |  |
 | [One More Midnight](https://open.spotify.com/track/3OxMslcb0NF0Calpo8GxHW) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [One More Midnight](https://open.spotify.com/album/2hsyVpCsOYeejMM1GSrorb) | 2:40 | 2021-12-08 |  |
-| [One Wish](https://open.spotify.com/track/2bF4PjkcCw5ciubd2xQk3Y) | [Lance Takamiya](https://open.spotify.com/artist/7FaPxwleV4FLc7PRiyUYmS) | [One Wish](https://open.spotify.com/album/7pX9TLAfPGYS0SwHON8Tzr) | 2:33 | 2022-05-27 |  |
+| [One Wish](https://open.spotify.com/track/2bF4PjkcCw5ciubd2xQk3Y) | [Lance Takamiya](https://open.spotify.com/artist/7FaPxwleV4FLc7PRiyUYmS) | [One Wish](https://open.spotify.com/album/7pX9TLAfPGYS0SwHON8Tzr) | 2:33 | 2022-05-27 | 2022-08-19 |
 | [Onschuldig](https://open.spotify.com/track/7hbyxj6HhOnSp8onGh75Se) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Onschuldig](https://open.spotify.com/album/4CO5kHoKQocEwUeEMt2Cue) | 2:23 | 2022-02-01 |  |
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2021-12-08 | 2022-07-01 |
 | [Our Corner Of The World](https://open.spotify.com/track/6fuQyoZURai0hV2js4AhHT) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Our Corner Of The World](https://open.spotify.com/album/6PlkLwoz58spqC90qxokN9) | 1:57 | 2021-12-08 | 2022-06-03 |
@@ -226,6 +229,7 @@
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2021-12-22 |  |
 | [Rosebuds](https://open.spotify.com/track/0GydsTxQwwzuyVbqpdSgD7) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Rosebuds](https://open.spotify.com/album/36pUo2ZfESoPVlGVRGrzIK) | 2:18 | 2021-12-08 | 2022-06-10 |
 | [Roses](https://open.spotify.com/track/29rFbzOew6wFUm29ZEtXIl) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 3:51 | 2021-12-08 | 2022-07-01 |
+| [Sail For Toumain](https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Sail For Toumain](https://open.spotify.com/album/4qEH9vdWvau9XxXhlBi3q1) | 2:26 | 2022-08-19 |  |
 | [San Juan](https://open.spotify.com/track/3LJc8MWjahc3VNp3JGKrwX) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [San Juan](https://open.spotify.com/album/5cDGufFIZdvK1n8piyum2Z) | 2:25 | 2021-12-08 |  |
 | [san luca](https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu) | [Valery Isabel](https://open.spotify.com/artist/4QYwsnE0bbhWxuyUbSFnZR) | [purple dreams](https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs) | 3:06 | 2021-12-08 |  |
 | [San Sebastien](https://open.spotify.com/track/6brr1dBt7PqEuuGckXew6A) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Into The Sunset](https://open.spotify.com/album/4cBzYpHUYX82WDoQuhYeRd) | 3:09 | 2021-12-08 | 2022-06-10 |

@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Anitta, Maluma.
 
-1,938 songs - 4 day 7 hr 6 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+1,939 songs - 4 day 7 hr 8 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,6 +765,7 @@
 | [I Love U](https://open.spotify.com/track/6veV38SFh4H9Uvso2lewOl) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [I Love U](https://open.spotify.com/album/6nJZsSOYEj3qKGzvv2lfiy) | 3:33 | 2022-01-28 | 2022-02-05 |
 | [I Only Have Eyes For You](https://open.spotify.com/track/0n3YFm5jvSFJ2v2Q6bfaQs) | [Agina](https://open.spotify.com/artist/110VVB3iCHBH7R8C9iEEhD) | [I Only Have Eyes For You](https://open.spotify.com/album/6JWhQi3DxvD2qpTMGwvyrO) | 3:10 | 2022-05-06 | 2022-05-14 |
 | [I See \(feat\. Jon Z, Preston Harris & Dawty Music\)](https://open.spotify.com/track/2wQO2LWHXvATy1JB7CpEBu) | [Richard Orlinski](https://open.spotify.com/artist/70c6SFCKALLqSARCPu0Afz), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Dawty Music](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [I See \(feat\. Jon Z, Preston Harris & Dawty Music\)](https://open.spotify.com/album/2HUCT4rfFh5w6HC4oallJ9) | 3:10 | 2022-07-08 | 2022-07-16 |
+| [I See \- Boris Way Remix](https://open.spotify.com/track/3WirxIoOY8cOqxgL9wTsmk) | [Richard Orlinski](https://open.spotify.com/artist/70c6SFCKALLqSARCPu0Afz), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8), [Dawty Music](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [I See \(Remixes\)](https://open.spotify.com/album/50jXJpbE9xtT1PBLBRV3GK) | 2:25 | 2022-08-12 |  |
 | [I Wanna Give My Heart \- Remix](https://open.spotify.com/track/1rxYixO6rm4FD2Plow1liH) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [I Wanna Give My Heart \(Remix\)](https://open.spotify.com/album/6aHY50nPJtv2y4Osgp9gFg) | 3:27 | 2021-12-31 | 2022-01-15 |
 | [i've been thinking lately](https://open.spotify.com/track/31Vk0Aqq53QqD0BXbdl33S) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [i've been thinking lately](https://open.spotify.com/album/23vQflCpxGtbyjQuNZ0zQ1) | 3:02 | 2022-06-10 | 2022-06-18 |
 | [Ibiza](https://open.spotify.com/track/2g6C2LvQTxrqq3ncYWG9nO) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Luciano](https://open.spotify.com/artist/7pb926owWkly4sZus8Esnk) | [Ibiza](https://open.spotify.com/album/7nnxK28W7MA5Pe6ptn8mQ3) | 3:08 | 2022-06-24 | 2022-07-02 |

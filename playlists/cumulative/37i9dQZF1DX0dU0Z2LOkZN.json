@@ -218,6 +218,24 @@
     },
     {
       "album": {
+        "name": "Azisa (Instrumental)",
+        "url": "https://open.spotify.com/album/2N50vIkJsXhrNXQuJx0KfC"
+      },
+      "artists": [
+        {
+          "name": "Figub Brazlevic",
+          "url": "https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Azisa - Instrumental",
+      "url": "https://open.spotify.com/track/0YxaVlAixd2nseGIdkoihf"
+    },
+    {
+      "album": {
         "name": "Backrest",
         "url": "https://open.spotify.com/album/6S3huq65cOIbaKwOWLLMjr"
       },
@@ -487,6 +505,24 @@
       "duration_ms": 157500,
       "name": "Classic",
       "url": "https://open.spotify.com/track/1oSACtYTXU47tpiYnPAgt5"
+    },
+    {
+      "album": {
+        "name": "Coleiro (Instrumental)",
+        "url": "https://open.spotify.com/album/2Pkmqg8S3AQInllyY1Cod4"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Coleiro",
+      "url": "https://open.spotify.com/track/4RXhpLWyXaR8sR8I8bognS"
     },
     {
       "album": {
@@ -981,7 +1017,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 195115,
       "name": "Flying Lanterns",
       "url": "https://open.spotify.com/track/4aFeBrPk46hNYhRZOImned"
@@ -1162,6 +1198,28 @@
     },
     {
       "album": {
+        "name": "Got It All Wrong",
+        "url": "https://open.spotify.com/album/2pYPq5DYD3ksV2RxQSKg3g"
+      },
+      "artists": [
+        {
+          "name": "Dualizm",
+          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
+        },
+        {
+          "name": "Schmiddunsk",
+          "url": "https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147804,
+      "name": "Got It All Wrong",
+      "url": "https://open.spotify.com/track/4XOOfZtGfTxhRQSRZj2kjn"
+    },
+    {
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC"
       },
@@ -1283,6 +1341,28 @@
       "duration_ms": 148085,
       "name": "HEAT HAZE",
       "url": "https://open.spotify.com/track/2HzBmH6HJMeHTWXAFcfm6T"
+    },
+    {
+      "album": {
+        "name": "Heavy Way",
+        "url": "https://open.spotify.com/album/0Fk0U799J7sG3DnmUODlAK"
+      },
+      "artists": [
+        {
+          "name": "Bloodmasta Cut",
+          "url": "https://open.spotify.com/artist/2rh01sSbOkGqeTUDKunM25"
+        },
+        {
+          "name": "Kick a Dope Verse!",
+          "url": "https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152792,
+      "name": "Heavy Way",
+      "url": "https://open.spotify.com/track/4OuJ94f34LlQWNHu1NN52O"
     },
     {
       "album": {
@@ -1513,7 +1593,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 84652,
       "name": "Ingleside",
       "url": "https://open.spotify.com/track/1KQ1qJeoAPzgpQbLTAiceE"
@@ -1986,6 +2066,24 @@
     },
     {
       "album": {
+        "name": "Summer Shades",
+        "url": "https://open.spotify.com/album/5Y3JaMIBKJvfYQarvyAZtH"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147731,
+      "name": "Mo Cuts Champagne '74",
+      "url": "https://open.spotify.com/track/19abpSGVLKszW0z7ZTVUkE"
+    },
+    {
+      "album": {
         "name": "Mobilize",
         "url": "https://open.spotify.com/album/1CBvh99afG08PolU6jVvyp"
       },
@@ -2001,6 +2099,24 @@
       "duration_ms": 176000,
       "name": "Mobilize",
       "url": "https://open.spotify.com/track/5NuVAK4UqklSQMOQ1E5CJe"
+    },
+    {
+      "album": {
+        "name": "money planet",
+        "url": "https://open.spotify.com/album/3e4RusRrCqv3MKM04pjBoO"
+      },
+      "artists": [
+        {
+          "name": "MF Eistee",
+          "url": "https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104096,
+      "name": "money planet",
+      "url": "https://open.spotify.com/track/4mItLdXP7LSyBrGDcyhdGi"
     },
     {
       "album": {
@@ -2440,6 +2556,24 @@
     },
     {
       "album": {
+        "name": "Queen's Flower",
+        "url": "https://open.spotify.com/album/5bzw7GhCjD3ewcq0Pgng2M"
+      },
+      "artists": [
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142110,
+      "name": "Queen's Flower",
+      "url": "https://open.spotify.com/track/6s1G9bpphtB9E4OijfWslZ"
+    },
+    {
+      "album": {
         "name": "Overnight Oats",
         "url": "https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f"
       },
@@ -2509,6 +2643,24 @@
       "duration_ms": 92368,
       "name": "Rites of Summer - All Love",
       "url": "https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160083,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq"
     },
     {
       "album": {
@@ -2653,7 +2805,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 144859,
       "name": "So Ready",
       "url": "https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp"
@@ -2943,7 +3095,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 143516,
       "name": "The All Good Important",
       "url": "https://open.spotify.com/track/5lYMGNXk3KnB53Pah8qDKp"
@@ -3019,7 +3171,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 167234,
       "name": "The S\u00e9ance - Instrumental",
       "url": "https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk"
@@ -3287,7 +3439,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 112173,
       "name": "Workitout",
       "url": "https://open.spotify.com/track/2qI1MNDL7NtvX5FMPhQh0A"

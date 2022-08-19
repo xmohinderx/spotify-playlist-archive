@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: Shin Sae Byeok(\uc2e0\uc0c8\ubcbd)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: Baek A Yeon(\ubc31\uc544\uc5f0)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "published_playlist_ids": [
     "50vXMaH1sm7s2jq2W5LswS"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 234998,
       "name": "A season of us",
       "url": "https://open.spotify.com/track/5GfQle9Jd24WI694vlyv42"
@@ -769,6 +769,24 @@
       "duration_ms": 221346,
       "name": "Beauty(2021)",
       "url": "https://open.spotify.com/track/2aY3oOlqP2IfFeyLL2Xjyu"
+    },
+    {
+      "album": {
+        "name": "Beauty(2022)",
+        "url": "https://open.spotify.com/album/1afUq7Xry5pM5ueGbcPCVg"
+      },
+      "artists": [
+        {
+          "name": "SONG YUVIN",
+          "url": "https://open.spotify.com/artist/5bO0Iy0ozHhSelVBOttCyT"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231466,
+      "name": "Beauty(2022)",
+      "url": "https://open.spotify.com/track/1gaE9GDp3ctETPzSPcjhZs"
     },
     {
       "album": {
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 279330,
       "name": "CAN WE LOVE AGAIN",
       "url": "https://open.spotify.com/track/1qU5ylij5Idis73iuhrVjU"
@@ -1880,6 +1898,24 @@
     },
     {
       "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/7ebWo35Ic7FMJpnzcrnYt1"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185293,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4RbFKG6CxfKaITwfQS2AaK"
+    },
+    {
+      "album": {
         "name": "Rewind : Blossom Side A",
         "url": "https://open.spotify.com/album/4YZ9E6yT1aAJguVIi8KBN8"
       },
@@ -2101,7 +2137,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 246491,
       "name": "Drunken confession at night (Prod. 2soo)",
       "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
@@ -2985,7 +3021,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 238071,
       "name": "haeyo (2022)",
       "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
@@ -3724,6 +3760,24 @@
     },
     {
       "album": {
+        "name": "Bravo, My Life (Original Soundtrack), Pt.34",
+        "url": "https://open.spotify.com/album/4C9xyKM41a9DLqCWqewSSJ"
+      },
+      "artists": [
+        {
+          "name": "KOYO",
+          "url": "https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256035,
+      "name": "I still can't believe it",
+      "url": "https://open.spotify.com/track/74GRNRNGzmV6v9PC7nCCDR"
+    },
+    {
+      "album": {
         "name": "I still love you a lot",
         "url": "https://open.spotify.com/album/01duGRcYzLUPGOh4NqDHhF"
       },
@@ -3793,6 +3847,28 @@
       "duration_ms": 219146,
       "name": "I will",
       "url": "https://open.spotify.com/track/1cwCsOMKxYrVmvTFT4Q7mY"
+    },
+    {
+      "album": {
+        "name": "I wish you'd listened",
+        "url": "https://open.spotify.com/album/5ndgTVQxyMTz1P1uFmBsP2"
+      },
+      "artists": [
+        {
+          "name": "Jung Chang Yong",
+          "url": "https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx"
+        },
+        {
+          "name": "E-RUDA",
+          "url": "https://open.spotify.com/artist/7FkKA3VUA7OwgZFMF4G8Cz"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "I wish you'd listened (feat. Lee Ru DA)",
+      "url": "https://open.spotify.com/track/3RL5PDEDxBxIGG9AKOc9Jy"
     },
     {
       "album": {
@@ -4125,6 +4201,24 @@
       "duration_ms": 229413,
       "name": "In Color",
       "url": "https://open.spotify.com/track/6c2z1AwD4exKBy69bvv5Pk"
+    },
+    {
+      "album": {
+        "name": "In my Room",
+        "url": "https://open.spotify.com/album/6Yom5swCi5Yk88GWjlGK6h"
+      },
+      "artists": [
+        {
+          "name": "YOONWON",
+          "url": "https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218597,
+      "name": "In my Room",
+      "url": "https://open.spotify.com/track/5UHQql79LIcoZytAEWdIOq"
     },
     {
       "album": {
@@ -4726,6 +4820,28 @@
     },
     {
       "album": {
+        "name": "Like that day it rained (Feat. Yoon Myoung)",
+        "url": "https://open.spotify.com/album/2PdCE7xAUZV6cqe51MvRGd"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        },
+        {
+          "name": "\uc724\uba85",
+          "url": "https://open.spotify.com/artist/2XX1oNkfRZ3R5MtEsGmtwJ"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "Like that day it rained (Feat. Yoon Myoung)",
+      "url": "https://open.spotify.com/track/2Ee2Aj1QwFrn1axyc50E08"
+    },
+    {
+      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -4975,7 +5091,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 222619,
       "name": "Love is",
       "url": "https://open.spotify.com/track/534SllIFQuSvXIvl3wpsRg"
@@ -5199,6 +5315,24 @@
       "duration_ms": 171720,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4brbKf89m6T7sul0VIV5cY"
+    },
+    {
+      "album": {
+        "name": "Memory of You",
+        "url": "https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV"
+      },
+      "artists": [
+        {
+          "name": "\uaddc\ub9ac",
+          "url": "https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216973,
+      "name": "Memory of You",
+      "url": "https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1"
     },
     {
       "album": {
@@ -6023,7 +6157,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 244505,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ"
@@ -6748,6 +6882,24 @@
     },
     {
       "album": {
+        "name": "Poong, the Joseon Psychiatrist OST Part.3",
+        "url": "https://open.spotify.com/album/3adcqwktUDEr9ApocKPQ6D"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225626,
+      "name": "She",
+      "url": "https://open.spotify.com/track/0BnIEkvcwpCH0UhPUqtUTg"
+    },
+    {
+      "album": {
         "name": "Shiny Star",
         "url": "https://open.spotify.com/album/1D4KH2g4zA7L5JDLPsBtYY"
       },
@@ -6889,7 +7041,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 249120,
       "name": "Some days",
       "url": "https://open.spotify.com/track/6slhQbJyE06M4zcswqaLB9"
@@ -7033,7 +7185,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 229053,
       "name": "Sorrowful memories from the past",
       "url": "https://open.spotify.com/track/24F5xq9iIzLmbBCs9hhSa1"
@@ -7221,7 +7373,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 243680,
       "name": "Starry road",
       "url": "https://open.spotify.com/track/6TtHvpmgStT8Stx6nndgQI"
@@ -7351,7 +7503,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 250385,
       "name": "summer rain",
       "url": "https://open.spotify.com/track/6t4gXrmMmZ0rPXvyaP7VC7"
@@ -7651,7 +7803,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 229914,
       "name": "The fact that we broke up (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/4PIJlapmFh8ZXCpKPvdLlU"
@@ -7771,6 +7923,24 @@
       "duration_ms": 217935,
       "name": "The name of the song we never knew",
       "url": "https://open.spotify.com/track/58xLgrmrBJIkttaf67KjgH"
+    },
+    {
+      "album": {
+        "name": "The night in silence",
+        "url": "https://open.spotify.com/album/4h9BrRMz2VyiPRoNAiSGeS"
+      },
+      "artists": [
+        {
+          "name": "Banni",
+          "url": "https://open.spotify.com/artist/6VkW1NgNpHTQF5mSfUz0RE"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242586,
+      "name": "The night in silence",
+      "url": "https://open.spotify.com/track/32LDCA5ph30ulI089AzC0y"
     },
     {
       "album": {
@@ -8438,6 +8608,24 @@
     },
     {
       "album": {
+        "name": "When I look at you",
+        "url": "https://open.spotify.com/album/1Lewh4YU2QMpV9dKtlnIys"
+      },
+      "artists": [
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "When I look at you",
+      "url": "https://open.spotify.com/track/5jQbDUv1BDClbgVaAW8T1U"
+    },
+    {
+      "album": {
         "name": "When I tell you goodbye",
         "url": "https://open.spotify.com/album/41n8vk0f6cMDIyqZrfJY21"
       },
@@ -9031,6 +9219,24 @@
       "duration_ms": 247640,
       "name": "You\u2019re the best of me",
       "url": "https://open.spotify.com/track/7uhDJuHhtfKwSM7TWNnZ8E"
+    },
+    {
+      "album": {
+        "name": "zero gravity",
+        "url": "https://open.spotify.com/album/5tXoOQpaHKgNRYobPq6w71"
+      },
+      "artists": [
+        {
+          "name": "The Stray",
+          "url": "https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265846,
+      "name": "zero gravity",
+      "url": "https://open.spotify.com/track/4tKkpWGoNZJXN7tAXV9aI6"
     },
     {
       "album": {

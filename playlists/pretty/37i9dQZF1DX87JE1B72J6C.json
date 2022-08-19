@@ -1,12 +1,12 @@
 {
   "description": "The essential deadmau5 originals and remixes.",
-  "num_followers": 178093,
+  "num_followers": 178140,
   "original_name": "This Is deadmau5",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzM1NDgyMSwwMDAwMDAwMDdmYzBiZjYwMDdiZTRiMDUwNTI1ZjZlOGU2ZmVlMDY1",
+  "snapshot_id": "MTY0NzM1NDgyMSwwMDAwMDAwMDExN2Q2OTU5NzBiYTkxZDFkZjY0OTg5ZDEyMjViY2Qy",
   "tracks": [
     {
       "added_at": "2022-03-15 14:33:41",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-03-15 14:33:41",
       "album": {
+        "name": "Ultra Trance 09",
+        "url": "https://open.spotify.com/album/19O4sEb2pNtkQtEhrVPo9r"
+      },
+      "artists": [
+        {
+          "name": "Energy 52",
+          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
+        }
+      ],
+      "duration_ms": 347560,
+      "name": "Cafe del Mar - deadmau5 Remix",
+      "url": "https://open.spotify.com/track/3rv889IqPyuugLUTVTsUOT"
+    },
+    {
+      "added_at": "2022-03-15 14:33:41",
+      "album": {
         "name": "W:/2016ALBUM/",
         "url": "https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x"
       },
@@ -1023,6 +1039,26 @@
       "duration_ms": 376721,
       "name": "The Rising - Deadmau5 Remix",
       "url": "https://open.spotify.com/track/4bSOuiLQn2TpFY1VdUipZh"
+    },
+    {
+      "added_at": "2022-03-15 14:33:41",
+      "album": {
+        "name": "deadmau5 - The Remixes (Deluxe Version)",
+        "url": "https://open.spotify.com/album/26WsAVZy35LJ9Sxz6LcjOz"
+      },
+      "artists": [
+        {
+          "name": "Nubreed",
+          "url": "https://open.spotify.com/artist/4wQZKDckV0rmORxc9j7Bvl"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 414374,
+      "name": "NuFunk - deadmau5 Remix-Cubrik Re-Edit",
+      "url": "https://open.spotify.com/track/7tFeppt7sZSeoraqZdgMOn"
     },
     {
       "added_at": "2022-03-15 14:33:41",

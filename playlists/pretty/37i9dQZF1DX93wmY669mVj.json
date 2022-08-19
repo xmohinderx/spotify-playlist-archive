@@ -1,12 +1,12 @@
 {
   "description": "Explore the music of Franz Liszt.",
-  "num_followers": 72921,
+  "num_followers": 72959,
   "original_name": "This Is Liszt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDRmYmY3Y2YxZmIxYzZkY2M0NDcxY2EyNWU3Y2RkMWRm",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGFjMTU5MDkyODk0ZmMzNTFhNmJiMmFjNGI5MmY5ZWUy",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -67,6 +67,34 @@
       "duration_ms": 662600,
       "name": "Mephisto Waltz No. 1, S. 514",
       "url": "https://open.spotify.com/track/1dFVnX4mJTnWubAPE8S3OR"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Liszt: Piano Concertos Nos 1, 2 & Totentanz",
+        "url": "https://open.spotify.com/album/5OzAdKyYTiBvxywntuM8aT"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Boris Berezovsky",
+          "url": "https://open.spotify.com/artist/36qooOkbokPscdOGWHPFk7"
+        },
+        {
+          "name": "Hugh Wolff",
+          "url": "https://open.spotify.com/artist/1sa3cLzMIDqNJgkNqHrhKt"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 97973,
+      "name": "Liszt: Piano Concerto No. 2 in A Major, S. 125: IV. Allegro animato",
+      "url": "https://open.spotify.com/track/3JAaETnjF592bbsgzUXAMp"
     },
     {
       "added_at": "2022-08-05 04:02:00",

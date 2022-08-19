@@ -1162,6 +1162,24 @@
     },
     {
       "album": {
+        "name": "Luna Piena",
+        "url": "https://open.spotify.com/album/7hIVbWQNhkvfOTk36Fvp6K"
+      },
+      "artists": [
+        {
+          "name": "ernvss",
+          "url": "https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166389,
+      "name": "Luna Piena",
+      "url": "https://open.spotify.com/track/1bhwIWJDeNgVnwmIi86Ihx"
+    },
+    {
+      "album": {
         "name": "Maggio",
         "url": "https://open.spotify.com/album/4rvdMC64itUXS5zy35ymnJ"
       },

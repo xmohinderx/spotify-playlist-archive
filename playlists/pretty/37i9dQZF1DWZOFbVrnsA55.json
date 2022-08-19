@@ -1,12 +1,12 @@
 {
   "description": "Slow down and embrace the immensity of time. This is just an ambient blip in the long now.",
-  "num_followers": 25933,
+  "num_followers": 25999,
   "original_name": "A Long Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1NDUzOSwwMDAwMDAwMGMxZGIzODIxODlkMmZhZWQyZTk1NDI3MWE1NWY1ZDkx",
+  "snapshot_id": "MTY2MDc1NDUzOSwwMDAwMDAwMGRiYmM3OGE5NWQ4ZjE1NjdhZGU5ZmM4MzRiZWFlYjY2",
   "tracks": [
     {
       "added_at": "2022-08-17 16:42:19",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2022-08-17 16:42:19",
       "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 1290160,
+      "name": "Charm (Over \"Burundi Cloud\")",
+      "url": "https://open.spotify.com/track/5V5NS2wWOiu9uOPDVOgwOT"
+    },
+    {
+      "added_at": "2022-08-17 16:42:19",
+      "album": {
         "name": "Three Worlds: Music From Woolf Works",
         "url": "https://open.spotify.com/album/4fo551Vy3KXbbRxRlVTD9D"
       },
@@ -1739,6 +1759,22 @@
       "duration_ms": 1107266,
       "name": "Bismillahi 'Rrahmani 'Rrahim",
       "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
+    },
+    {
+      "added_at": "2022-08-17 16:42:19",
+      "album": {
+        "name": "Forse 3",
+        "url": "https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 769843,
+      "name": "Senza Aria",
+      "url": "https://open.spotify.com/track/3GcUWe6Fq1ULIJHKlRTyki"
     },
     {
       "added_at": "2022-08-17 16:42:19",
@@ -2259,6 +2295,30 @@
       "duration_ms": 1583840,
       "name": "H\u00e9t\u00e9rozygote",
       "url": "https://open.spotify.com/track/1BCw4xFPg6fMJ3mOQyIgWW"
+    },
+    {
+      "added_at": "2022-08-17 16:42:19",
+      "album": {
+        "name": "Electronic Extension",
+        "url": "https://open.spotify.com/album/59bxmtqJYHUa1mmiXzakYh"
+      },
+      "artists": [
+        {
+          "name": "Aaron Dilloway",
+          "url": "https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm"
+        },
+        {
+          "name": "Robert Turman",
+          "url": "https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE"
+        },
+        {
+          "name": "John Wiese",
+          "url": "https://open.spotify.com/artist/2r9bwqUxLhc8ktBYtiyR6V"
+        }
+      ],
+      "duration_ms": 1536972,
+      "name": "Electronic Extension I",
+      "url": "https://open.spotify.com/track/1uIkWbgmIcQdM0FZUeQmuK"
     },
     {
       "added_at": "2022-08-17 16:42:19",
@@ -3007,6 +3067,22 @@
       "duration_ms": 936000,
       "name": "Mirador",
       "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
+    },
+    {
+      "added_at": "2022-08-17 16:42:19",
+      "album": {
+        "name": "Le Crabe Qui Jouait Avec La Mer",
+        "url": "https://open.spotify.com/album/0qsed81F0U5DL3eKp9jTqy"
+      },
+      "artists": [
+        {
+          "name": "Philippe Arthuys",
+          "url": "https://open.spotify.com/artist/3uStZD5U99AvkVXWntR2zJ"
+        }
+      ],
+      "duration_ms": 825546,
+      "name": "Le Crabe Qui Jouait Avec La Mer (Part 1)",
+      "url": "https://open.spotify.com/track/4XfjqzFtBEWSjiqtZcEajp"
     },
     {
       "added_at": "2022-08-17 16:42:19",
@@ -4723,6 +4799,26 @@
       "duration_ms": 1088969,
       "name": "Cascata di Malbacco",
       "url": "https://open.spotify.com/track/3sCaGhYUT0HytB06FG9M23"
+    },
+    {
+      "added_at": "2022-08-17 16:42:19",
+      "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/50MNzElaJpGcQNnxV6JC9c"
+      },
+      "artists": [
+        {
+          "name": "R. Turman",
+          "url": "https://open.spotify.com/artist/5fZZnv5EfMpAL3DiQHegFe"
+        },
+        {
+          "name": "Robert Turman",
+          "url": "https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE"
+        }
+      ],
+      "duration_ms": 640908,
+      "name": "Flux 2",
+      "url": "https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra"
     },
     {
       "added_at": "2022-08-17 16:42:19",

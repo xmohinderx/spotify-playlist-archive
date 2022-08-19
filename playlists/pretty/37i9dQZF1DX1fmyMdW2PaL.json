@@ -1,12 +1,12 @@
 {
   "description": "Heavy, intense and aggressive tracks. Chaotic in all the good ways. Cover: Underoath",
-  "num_followers": 5304,
+  "num_followers": 5490,
   "original_name": "Complete Chaos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMGZhYjEwZTIzZTIxZmY5YTBmN2JmYjdiZTlmMzE4NmNk",
+  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDZkMzg0NmQ2MzRhM2MzNmU4NzU3MjU2Nzk1N2VmMjY2",
   "tracks": [
     {
       "added_at": "2022-04-01 16:27:04",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Absolute",
-        "url": "https://open.spotify.com/album/6klYyVkzntFBjJch93UB6y"
-      },
-      "artists": [
-        {
-          "name": "Kublai Khan TX",
-          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "Boomslang",
-      "url": "https://open.spotify.com/track/6LD1DGfg1JCvQxL1sxgUWi"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "The Legacy of Shi",
         "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 251560,
       "name": "Here Comes The Boom",
       "url": "https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/6klYyVkzntFBjJch93UB6y"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "Boomslang",
+      "url": "https://open.spotify.com/track/6LD1DGfg1JCvQxL1sxgUWi"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Weight of the False Self",
-        "url": "https://open.spotify.com/album/2VU4wvsO2Uxwaehnvl3tko"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Instinctive (Slaughterlust)",
-      "url": "https://open.spotify.com/track/6XV2s0jov1VZqfOPySIIiA"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Yenta",
         "url": "https://open.spotify.com/album/75Mk7bCKer2jIafSsYHjGl"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 189998,
       "name": "Yenta",
       "url": "https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Weight of the False Self",
+        "url": "https://open.spotify.com/album/2VU4wvsO2Uxwaehnvl3tko"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Instinctive (Slaughterlust)",
+      "url": "https://open.spotify.com/track/6XV2s0jov1VZqfOPySIIiA"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -491,6 +491,26 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        },
+        {
+          "name": "Will King",
+          "url": "https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt"
+        }
+      ],
+      "duration_ms": 192919,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Wake Up Dead (feat. Dave Mustaine)",
         "url": "https://open.spotify.com/album/2Vh56LgTE6JXm5lo0GGAHL"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 223413,
       "name": "Wake Up Dead (feat. Dave Mustaine)",
       "url": "https://open.spotify.com/track/64rFzne9SQbMWmsVtSll0H"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        },
-        {
-          "name": "Will King",
-          "url": "https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt"
-        }
-      ],
-      "duration_ms": 192919,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Bankrupt",
-        "url": "https://open.spotify.com/album/0wAjbACLoPoKowOiQochJI"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Bankrupt",
-      "url": "https://open.spotify.com/track/0zaiMBgpRkzeskrgDKidDd"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Outsider",
         "url": "https://open.spotify.com/album/6A1CrvVsXBEkoVBM68mI9W"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 203132,
       "name": "Absolute",
       "url": "https://open.spotify.com/track/3r7hV17sx9MWJJKpnqeXmq"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Bankrupt",
+        "url": "https://open.spotify.com/album/0wAjbACLoPoKowOiQochJI"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Bankrupt",
+      "url": "https://open.spotify.com/track/0zaiMBgpRkzeskrgDKidDd"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9"
-      },
-      "artists": [
-        {
-          "name": "VRSTY",
-          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "fast forward",
         "url": "https://open.spotify.com/album/1emDcZj0GpkjOnJJRpgHXn"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 120022,
       "name": "fast forward",
       "url": "https://open.spotify.com/track/69ohjiZNbPd0SjJFV0FwgU"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9"
+      },
+      "artists": [
+        {
+          "name": "VRSTY",
+          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -983,38 +983,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "For the Cause",
-        "url": "https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk"
-      },
-      "artists": [
-        {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Smile Now Pay Later",
-      "url": "https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Fed Up",
-        "url": "https://open.spotify.com/album/00w2FrAMwLPaYSJe7Pqx4i"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 201812,
-      "name": "Fed Up",
-      "url": "https://open.spotify.com/track/4I5pSHolmUZVGEs0uKYQxg"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "grayout",
         "url": "https://open.spotify.com/album/00hXhNL6H4a1HJSQg9AmBS"
       },
@@ -1043,6 +1011,38 @@
       "duration_ms": 154172,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/2F0wsavvwt03Q7FQfZ3bPC"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "For the Cause",
+        "url": "https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Smile Now Pay Later",
+      "url": "https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Fed Up",
+        "url": "https://open.spotify.com/album/00w2FrAMwLPaYSJe7Pqx4i"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "Fed Up",
+      "url": "https://open.spotify.com/track/4I5pSHolmUZVGEs0uKYQxg"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "VirUS (feat. Marcus Bischoff of Heaven Shall Burn)",
-        "url": "https://open.spotify.com/album/0RE68CgZ2RGIzxvjSkcS18"
-      },
-      "artists": [
-        {
-          "name": "Caliban",
-          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
-        },
-        {
-          "name": "Heaven Shall Burn",
-          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
-        }
-      ],
-      "duration_ms": 235381,
-      "name": "VirUS (feat. Marcus Bischoff of Heaven Shall Burn)",
-      "url": "https://open.spotify.com/track/1eHQcUWeaxirrRU0FWiUM3"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Strength to Draw the Line",
         "url": "https://open.spotify.com/album/53js4P31lZMSZlINykloRH"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 168164,
       "name": "Strength to Draw the Line",
       "url": "https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "VirUS (feat. Marcus Bischoff of Heaven Shall Burn)",
+        "url": "https://open.spotify.com/album/0RE68CgZ2RGIzxvjSkcS18"
+      },
+      "artists": [
+        {
+          "name": "Caliban",
+          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
+        },
+        {
+          "name": "Heaven Shall Burn",
+          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
+        }
+      ],
+      "duration_ms": 235381,
+      "name": "VirUS (feat. Marcus Bischoff of Heaven Shall Burn)",
+      "url": "https://open.spotify.com/track/1eHQcUWeaxirrRU0FWiUM3"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1355,38 +1355,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Fall From Grace",
-        "url": "https://open.spotify.com/album/5hdLUzCRY0TJ9tEzVWtjuG"
-      },
-      "artists": [
-        {
-          "name": "Higher Power",
-          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
-        }
-      ],
-      "duration_ms": 228451,
-      "name": "Fall From Grace",
-      "url": "https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Gamechanger",
-        "url": "https://open.spotify.com/album/77KrgNntpYAq3DRYXgP3rT"
-      },
-      "artists": [
-        {
-          "name": "Sworn Enemy",
-          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
-        }
-      ],
-      "duration_ms": 228572,
-      "name": "Seeds of Hate",
-      "url": "https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Kickback",
         "url": "https://open.spotify.com/album/5ANP0y2xAOvpAfMkfkjOTv"
       },
@@ -1407,6 +1375,38 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Gamechanger",
+        "url": "https://open.spotify.com/album/77KrgNntpYAq3DRYXgP3rT"
+      },
+      "artists": [
+        {
+          "name": "Sworn Enemy",
+          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
+        }
+      ],
+      "duration_ms": 228572,
+      "name": "Seeds of Hate",
+      "url": "https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Fall From Grace",
+        "url": "https://open.spotify.com/album/5hdLUzCRY0TJ9tEzVWtjuG"
+      },
+      "artists": [
+        {
+          "name": "Higher Power",
+          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
+        }
+      ],
+      "duration_ms": 228451,
+      "name": "Fall From Grace",
+      "url": "https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 220773,
       "name": "The Hardest Drug",
       "url": "https://open.spotify.com/track/0eeIwHQA4SyJfgrOF2TKhg"
-    },
-    {
-      "added_at": "2022-05-20 09:54:52",
-      "album": {
-        "name": "IF THERE\u2019S NO SEAT IN THE SKY (WILL YOU FORGIVE ME???)",
-        "url": "https://open.spotify.com/album/6JkGbrmwNwHGaxae377iFv"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 206374,
-      "name": "IF THERE\u2019S NO SEAT IN THE SKY (WILL YOU FORGIVE ME???)",
-      "url": "https://open.spotify.com/track/4a3Uc0VzhyittIPDoVVzNv"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1469,20 +1453,20 @@
       "url": "https://open.spotify.com/track/1SZQIQ8UGT1uvKBweFeVf6"
     },
     {
-      "added_at": "2022-04-01 16:27:04",
+      "added_at": "2022-05-20 09:54:52",
       "album": {
-        "name": "Run with the Hunted",
-        "url": "https://open.spotify.com/album/4Iq4cNPvVSrrJvnjlSprRO"
+        "name": "IF THERE\u2019S NO SEAT IN THE SKY (WILL YOU FORGIVE ME???)",
+        "url": "https://open.spotify.com/album/6JkGbrmwNwHGaxae377iFv"
       },
       "artists": [
         {
-          "name": "Wolfbrigade",
-          "url": "https://open.spotify.com/artist/0ixn2a4hS73Linz5TQGxVx"
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
         }
       ],
-      "duration_ms": 152031,
-      "name": "Warsaw Speedwolf",
-      "url": "https://open.spotify.com/track/6M3DAZWL6ANSzHGUG9DowU"
+      "duration_ms": 206374,
+      "name": "IF THERE\u2019S NO SEAT IN THE SKY (WILL YOU FORGIVE ME???)",
+      "url": "https://open.spotify.com/track/4a3Uc0VzhyittIPDoVVzNv"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "A Colossal Wreck // Desperate Pleasures",
-        "url": "https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh"
+        "name": "Run with the Hunted",
+        "url": "https://open.spotify.com/album/4Iq4cNPvVSrrJvnjlSprRO"
       },
       "artists": [
         {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+          "name": "Wolfbrigade",
+          "url": "https://open.spotify.com/artist/0ixn2a4hS73Linz5TQGxVx"
         }
       ],
-      "duration_ms": 148226,
-      "name": "A Colossal Wreck",
-      "url": "https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4"
+      "duration_ms": 152031,
+      "name": "Warsaw Speedwolf",
+      "url": "https://open.spotify.com/track/6M3DAZWL6ANSzHGUG9DowU"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "A Colossal Wreck // Desperate Pleasures",
+        "url": "https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 148226,
+      "name": "A Colossal Wreck",
+      "url": "https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Jump!! (Or Get Jumped!!!)((by the future))",
         "url": "https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 206245,
       "name": "Jump!! (Or Get Jumped!!!)((by the future))",
       "url": "https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Purer Form of Pain",
-        "url": "https://open.spotify.com/album/3XOjyLgd2Kl1aMUXHokmXH"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 185216,
-      "name": "Purer Form of Pain",
-      "url": "https://open.spotify.com/track/7MnPWScnDukczlLP6s9mb2"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Purer Form of Pain",
+        "url": "https://open.spotify.com/album/3XOjyLgd2Kl1aMUXHokmXH"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 185216,
+      "name": "Purer Form of Pain",
+      "url": "https://open.spotify.com/track/7MnPWScnDukczlLP6s9mb2"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Rules",
         "url": "https://open.spotify.com/album/7FH1a9pkDnGALu3wUpURs3"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 222253,
       "name": "Rules of Conviction",
       "url": "https://open.spotify.com/track/4g78phWmF0XGoJvoDrt2pf"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Self-Destruct",
-        "url": "https://open.spotify.com/album/48ZtLRQkOxnTJ0o05QHCXi"
-      },
-      "artists": [
-        {
-          "name": "Kublai Khan TX",
-          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
-        }
-      ],
-      "duration_ms": 139202,
-      "name": "Self-Destruct",
-      "url": "https://open.spotify.com/track/3x8dXVhkdHZQ1LbcoHxDkS"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1635,6 +1619,22 @@
       "duration_ms": 223255,
       "name": "Apertures (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/7wqdCyWXeizsSwiGJnp8Pk"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Self-Destruct",
+        "url": "https://open.spotify.com/album/48ZtLRQkOxnTJ0o05QHCXi"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "duration_ms": 139202,
+      "name": "Self-Destruct",
+      "url": "https://open.spotify.com/track/3x8dXVhkdHZQ1LbcoHxDkS"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Go Ahead and Die",
-        "url": "https://open.spotify.com/album/44yTZ3cCjCDUsdYQgUasFV"
+        "name": "Bad To My World",
+        "url": "https://open.spotify.com/album/1cRPXFSkFU9mqmw5Nf9nkn"
       },
       "artists": [
         {
-          "name": "Go Ahead And Die",
-          "url": "https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113"
+          "name": "Backtrack",
+          "url": "https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl"
         }
       ],
-      "duration_ms": 205507,
-      "name": "Toxic Freedom",
-      "url": "https://open.spotify.com/track/48A4o6Jur5DODfkCBegHwb"
+      "duration_ms": 149160,
+      "name": "One With You",
+      "url": "https://open.spotify.com/track/0nkgw0vrvZvoVvybV9DZ9c"
     }
   ],
   "unique_name": "Complete Chaos",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 
 > Relax to the sounds of the kora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,138 likes - 110 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,195 likes - 111 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 106 | [Iban](https://open.spotify.com/track/38dyX5OkG38LSIsUXYhseL) | [Sillaba](https://open.spotify.com/artist/1RdauZCGtADc6pmitjjBzB), [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP), [Andreas Unge](https://open.spotify.com/artist/2w5M25lc7dSa15KGk7zncC) | [Kora Dream](https://open.spotify.com/album/06FvWG28lyQPv8DdAhLHgO) | 4:44 |
 | 107 | [Fantasy](https://open.spotify.com/track/10UumEsqkMv6fiihOM5Hg8) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 2:18 |
 | 108 | [Cheiknah Demba](https://open.spotify.com/track/5hE6tM4nogYUivqDzKuN2h) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 4:30 |
-| 109 | [Toutou Diarra](https://open.spotify.com/track/4uEmFWgfgnIJT3lLS3srZc) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG) | 4:18 |
-| 110 | [The Griot](https://open.spotify.com/track/4luLCxFLxKBmyCtHeOvgZO) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 4:32 |
+| 109 | [Kora Solo](https://open.spotify.com/track/6HTTBEPexAJGXAzzJEOr6i) | [Hélène Blazy](https://open.spotify.com/artist/33m7gT6eP9unPArdo8wfbr) | [Faces of Africa: An Inspirational Celebration of Africa Then and Now](https://open.spotify.com/album/59OpJHZvPKsU5SounjoUzq) | 1:51 |
+| 110 | [Toutou Diarra](https://open.spotify.com/track/4uEmFWgfgnIJT3lLS3srZc) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG) | 4:18 |
+| 111 | [The Griot](https://open.spotify.com/track/4luLCxFLxKBmyCtHeOvgZO) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 4:32 |
 
-Snapshot ID: `MTY1ODE1MzM0OCwwMDAwMDAwMDkxNmMzNGJiNmMyYzQzMDU2ZjQzMTcwYWYxNzY0OWZk`
+Snapshot ID: `MTY1ODE1MzM0OCwwMDAwMDAwMDgwMmU1ODAzMjYwOTI3NGFjYWNmNjM3YTFiNzMyYTMz`

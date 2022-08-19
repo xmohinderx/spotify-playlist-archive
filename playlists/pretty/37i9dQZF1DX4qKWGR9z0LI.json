@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Figueroa ",
-  "num_followers": 1778855,
+  "num_followers": 1779008,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDAwMDQ2ZmE4NGRmMmFmNGQ0MGQ1YmNkYTdiMmI5YjYwOGQ2",
+  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDAwMDI2M2NiZGEzMGNjOWExYTk0ZjlkMjgwZGM1YmU2Mzc5",
   "tracks": [
     {
       "added_at": "2022-05-20 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
+        "name": "De Costa a Costa",
+        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Civico",
+          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
+        }
+      ],
+      "duration_ms": 309760,
+      "name": "Te Voy a Hacer Feliz",
+      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "De Costa a Costa",
-        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Civico",
-          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Te Voy a Hacer Feliz",
-      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
-        "url": "https://open.spotify.com/album/3BbpvRzauAdImL7I2hkML7"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 245163,
-      "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
-      "url": "https://open.spotify.com/track/4Uu7gj5r0I082cm6QhcKxG"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 216626,
       "name": "Mira - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
+        "url": "https://open.spotify.com/album/3BbpvRzauAdImL7I2hkML7"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 245163,
+      "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
+      "url": "https://open.spotify.com/track/4Uu7gj5r0I082cm6QhcKxG"
     },
     {
       "added_at": "2022-05-20 04:00:00",

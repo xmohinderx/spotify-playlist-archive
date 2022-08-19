@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-308 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
+309 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Best for You](https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Oh Uncertainty! A Universe Despairs](https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX) | 3:33 | 2020-12-22 |  |
 | [Bibles](https://open.spotify.com/track/3OHpvUlcPZyBBPXrQLHUBi) | [Jaja Bu](https://open.spotify.com/artist/6iTFxnPZmX0HdWmL73irIa) | [Bibles](https://open.spotify.com/album/6xTikQVU7W7ePE5jMkukvl) | 4:33 | 2021-09-10 | 2022-07-29 |
 | [Blue Ceiling](https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw) | 2:46 | 2021-03-08 | 2022-07-29 |
+| [Blue Ceiling](https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/6C58bgXl2VzaM846UbvglD) | 2:46 | 2021-03-08 |  |
 | [Bodies](https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bodies](https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS) | 3:29 | 2020-12-22 |  |
 | [Can't Stop Cryin'](https://open.spotify.com/track/4jJs2ohRchPCc7VrYWpjbN) | [Austin Manuel](https://open.spotify.com/artist/0ih9NQR8CkKRwxfN9yXozi) | [Can't Stop Cryin'](https://open.spotify.com/album/0hL9VPzSao6NlX3aSEPkym) | 3:13 | 2020-12-22 | 2022-07-29 |
 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 | 2021-03-19 |  |
@@ -211,7 +212,7 @@
 | [pH](https://open.spotify.com/track/2seFcLiWwxHZ72EYFezJmJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy), [Nick Dorian](https://open.spotify.com/artist/60tZRF2LOOUONoZXo2ATtd) | [pH](https://open.spotify.com/album/62ncbg3U5IWrpf5SOqvwyj) | 2:50 | 2020-12-22 | 2022-07-29 |
 | [PHILOSOPHY! \- Crazy P Remix](https://open.spotify.com/track/1Ud1hy0OhFP8v9JoDNyCSL) | [Baio](https://open.spotify.com/artist/50lhyY7UVI9NyVHl79rVgk) | [Grooves Of The World](https://open.spotify.com/album/6jda6rG402uYNM5DBzTLYv) | 7:27 | 2020-12-22 | 2022-04-18 |
 | [Phoenix \- Little Dragon Remix](https://open.spotify.com/track/6pvaaT4yfmW6sEUBiSfmWD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Phoenix \(Little Dragon Remix\)](https://open.spotify.com/album/2y5peGciDbqnB7ujZ62QY6) | 4:43 | 2020-12-22 | 2022-04-21 |
-| [Pili Pili](https://open.spotify.com/track/74N9cnVOhruZpoZUt4Ky5z) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/10H4nbqjbmrGo4bG23dfWK) | 4:10 | 2020-12-22 |  |
+| [Pili Pili](https://open.spotify.com/track/74N9cnVOhruZpoZUt4Ky5z) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/10H4nbqjbmrGo4bG23dfWK) | 4:10 | 2020-12-22 | 2022-08-19 |
 | [Pink & Blue](https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Weather](https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis) | 4:19 | 2020-12-22 | 2022-04-19 |
 | [Pizza Guy](https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790) | 5:49 | 2020-12-22 |  |
 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2020-12-22 | 2022-05-11 |

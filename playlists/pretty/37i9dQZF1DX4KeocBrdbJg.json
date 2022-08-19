@@ -1,12 +1,12 @@
 {
   "description": "y esa fue la noche m\u00e1s linda del mundo \ud83c\udfb6",
-  "num_followers": 707934,
+  "num_followers": 708957,
   "original_name": "Hits de Internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY3NTI0NiwwMDAwMDAwMGU0M2Q3NzZiNzFkNTU3ODk4OTRhZWU2M2Y4MGI2ZWRm",
+  "snapshot_id": "MTY2MDgzMzE1MSwwMDAwMDAwMDRkNDE0MWY4M2MwOWZlODc3NGU2NTMxNGQ4Yjg4YzYw",
   "tracks": [
     {
       "added_at": "2022-07-26 17:55:54",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
     },
     {
+      "added_at": "2022-08-18 14:32:31",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
+    },
+    {
       "added_at": "2022-06-14 16:59:52",
       "album": {
         "name": "I'm Sure",
@@ -816,7 +832,7 @@
       "added_at": "2022-07-11 17:35:51",
       "album": {
         "name": "SNAP",
-        "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
       "artists": [
         {
@@ -826,7 +842,7 @@
       ],
       "duration_ms": 179551,
       "name": "SNAP",
-      "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2022-07-29 16:14:48",
@@ -1715,26 +1731,6 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
-    },
-    {
-      "added_at": "2022-06-14 16:59:52",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 178567,
-      "name": "Me Porto Bonito",
-      "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     }
   ],
   "unique_name": "Hits de Internet",

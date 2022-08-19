@@ -4,7 +4,7 @@
 
 > 80s electronic boogie and post\-disco
 
-59 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/21TAzjDYgnP1CJtfVSNB12)
+60 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/21TAzjDYgnP1CJtfVSNB12)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Let Me Show You \- Extended Version](https://open.spotify.com/track/2As1g97Jp5avf4ukhJsbX9) | [Larry Wu](https://open.spotify.com/artist/3ig4sRMsXxvSCt1hwVh9mg) | [Let Me Show You](https://open.spotify.com/album/0ubxSKqBPHlv2TEgm0Mm87) | 6:25 | 2021-07-14 |  |
 | [Let's Celebrate](https://open.spotify.com/track/3nf3xKlene4BpKqaCrdtwQ) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 5:33 | 2021-07-14 |  |
 | [Love's Comin' At Ya \- Remastered](https://open.spotify.com/track/2JXK3ELYkEcGTE4dsO4kYq) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [Other Side Of The Rainbow](https://open.spotify.com/album/2H8dX8DEFqG96KEkzCv3Jd) | 5:43 | 2021-07-14 |  |
+| [Love's Gonna Get You](https://open.spotify.com/track/1MtCxt2N2aQCmhEBczUOzQ) | [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [One From The Heart](https://open.spotify.com/album/7GRmkQvpjMOQU6zxD8Y1CC) | 5:43 | 2021-07-14 |  |
 | [Mighty Fine](https://open.spotify.com/track/6XlmmXJz03vZHCnBI531Qj) | [Peter Jacques Band](https://open.spotify.com/artist/3obOTYzd1x51MamVaLYVmm) | [Welcome Back \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5GaRFbzn8ElLjbrGfdq3ld) | 5:18 | 2021-07-14 |  |
 | [Must Be the Music](https://open.spotify.com/track/2qbOkjN8uaplIHWYxCDFDA) | [Secret Weapon](https://open.spotify.com/artist/1rQXJNH9uyoxnXp75Xml2K) | [Must Be the Music](https://open.spotify.com/album/1E4fRBNNyllpZE7cxD3vuy) | 7:26 | 2021-07-14 |  |
 | [Never Give You Up](https://open.spotify.com/track/2SJW2HmmOJBVAE3slly9UM) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Redd Hott](https://open.spotify.com/album/5QQcCN3epphmtJMAbx2IHw) | 7:33 | 2021-07-14 |  |

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 163933,
       "name": "Are You Gunna Bang Doe?",
       "url": "https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272827,
       "name": "BLU Magic",
       "url": "https://open.spotify.com/track/7jXF5MEo0MBRjdf5Uy7j1t"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 528973,
       "name": "Don't Panic",
       "url": "https://open.spotify.com/track/6Xcem9wf3z6U2HIFmsQgxH"
@@ -948,6 +948,28 @@
     },
     {
       "album": {
+        "name": "Best Of Bizzle",
+        "url": "https://open.spotify.com/album/6Kdsrh31egVDwdWFNKb6XW"
+      },
+      "artists": [
+        {
+          "name": "Lethal Bizzle",
+          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
+        },
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/4K9QL2YtsACZbgSePiGnvj"
+    },
+    {
+      "album": {
         "name": "Gone (Bklava Remix)",
         "url": "https://open.spotify.com/album/3pqO9UtBlcOd1ZKfmlHK99"
       },
@@ -1073,7 +1095,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 212800,
       "name": "Head, Shoulders, Kneez & Toez - Radio Edit",
       "url": "https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ"
@@ -1095,7 +1117,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 300848,
       "name": "Hear Me - Zomby Mix",
       "url": "https://open.spotify.com/track/1v80nVTvQNItY8JPmwecve"
@@ -1113,7 +1135,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190053,
       "name": "Hey Hey",
       "url": "https://open.spotify.com/track/6o4KTcGUoN8Xse2SNHorGU"
@@ -1157,7 +1179,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 338267,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/6lwSTvfBrn1esn11S8Z4we"
@@ -1175,7 +1197,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 248752,
       "name": "I'm Fly - DJ Version",
       "url": "https://open.spotify.com/track/0e5jqZDWMqo5u13SQ0WmXQ"
@@ -1387,7 +1409,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215706,
       "name": "Love Dub",
       "url": "https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf"
@@ -1413,7 +1435,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 284506,
       "name": "Lush - Fuzzy Logik Remix",
       "url": "https://open.spotify.com/track/70sPvzZcGOYK0CnxzYrGC7"
@@ -1563,7 +1585,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 186946,
       "name": "Migraine Skank - Main Mix",
       "url": "https://open.spotify.com/track/54KCXjzkieeuv6L0fzL0CG"
@@ -1753,7 +1775,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 201413,
       "name": "One More Dance (Crazy Cousinz Mix - Crazy Cousinz)",
       "url": "https://open.spotify.com/track/1ScCS3o6A1PnFMJuwAysdI"
@@ -2505,7 +2527,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 257538,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6NWZnftVAZPB8Rw7a5NWgT"

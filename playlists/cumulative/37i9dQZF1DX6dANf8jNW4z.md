@@ -4,12 +4,13 @@
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Zahara
 
-345 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
+346 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2008](https://open.spotify.com/track/7h84ixw04NweWAgE6xUEsg) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [2008](https://open.spotify.com/album/2bq678MGTwUPIq4Ef9uFFF) | 3:01 | 2022-04-06 | 2022-05-04 |
 | [27 Días](https://open.spotify.com/track/0TEVGFzpdEpIHYAc1dE4dY) | [Blanca Vergara](https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU) | [27 Días](https://open.spotify.com/album/7rOH7pB0Jk861G5WqlIb0H) | 3:03 | 2022-03-07 | 2022-04-07 |
+| [44](https://open.spotify.com/track/4vxbUZKeklVstbRNnme2ge) | [Quirkyoddgirl](https://open.spotify.com/artist/4ATChaTwzMcY1FGJV2P7mo) | [44](https://open.spotify.com/album/3VNg1aAkm7MtT9mTcVRs0e) | 1:57 | 2022-08-03 |  |
 | [a ella la llevas a paris](https://open.spotify.com/track/5zZP6IPAJPiVziwEgHGacL) | [Mafalda](https://open.spotify.com/artist/2YgYz3EyTUJ5h3n5XThtzt) | [a ella la llevas a paris](https://open.spotify.com/album/1QXY1OgvYzG3yQvd78YXLP) | 3:24 | 2022-02-01 | 2022-04-07 |
 | [A LO LEJOS](https://open.spotify.com/track/2KLgvX4K9FtvHUhQAA6f8W) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [A LO LEJOS](https://open.spotify.com/album/0fUap5r3AJykBDq5LTT23y) | 2:45 | 2022-03-07 | 2022-04-07 |
 | [A Media Voz](https://open.spotify.com/track/0YDgHAlCWeW4wcCJ6mgQ5n) | [Tamara Alegre](https://open.spotify.com/artist/4vIEm3E6rNZJODvuos9cYp) | [A Media Voz](https://open.spotify.com/album/5VfQbKYnGmJ1RHffNLwocd) | 3:49 | 2022-04-06 | 2022-05-11 |

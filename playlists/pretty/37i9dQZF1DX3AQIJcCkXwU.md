@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 
 > Sitar, flute, and sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,873 likes - 98 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,020 likes - 98 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 | 56 | [This Strange Isolation](https://open.spotify.com/track/5xQDDJPpZ5fmRujXZX9HMR) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV) | [Body.Mind.Soul](https://open.spotify.com/album/6tbT222rFV6qbso1ZqQ3ZY) | 1:11 |
 | 57 | [The Smile](https://open.spotify.com/track/5wKC89heaxElqcfbNUueay) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Peace and Quiet](https://open.spotify.com/album/7FppjfxFZLD1bO80GhAYqF) | 5:08 |
 | 58 | [Remote](https://open.spotify.com/track/5IrLLzBYXza3WcB89KjioW) | [Om Lighthouse](https://open.spotify.com/artist/5AzmHIExEw7ULbdoni3rif) | [Remote](https://open.spotify.com/album/2rGJ64xAX9hUmaapGFRCGD) | 5:15 |
-| 59 | [Doors of Perception](https://open.spotify.com/track/0BZaQ6SYMgGEz1lmgRB9uK) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Gunjan](https://open.spotify.com/artist/3p00mlIL7KcUqbdvNVGbzm) | [The Cosmic Game](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) | 3:16 |
+| 59 | [Doors Of Perception](https://open.spotify.com/track/3pME8wYnMF3CjFbTiubCzP) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Gunjan](https://open.spotify.com/artist/3p00mlIL7KcUqbdvNVGbzm) | [The Cosmic Game](https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO) | 3:16 |
 | 60 | [Bombay Sunrise](https://open.spotify.com/track/6Qnj1hZkw76PzZdvpH0DRH) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Bombay Sunrise](https://open.spotify.com/album/1IczgH7IBmw7pcgcGEb6B8) | 2:47 |
 | 61 | [Peaceful Being](https://open.spotify.com/track/6IKGWm6XdJMs8YxMh2wr8W) | [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Sadhana](https://open.spotify.com/album/1oZRS0AoopzdEbW623lcRZ) | 5:28 |
 | 62 | [Naked](https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Rise](https://open.spotify.com/album/5v2AgCxdfQlVcoXQ0QQEoP) | 4:16 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 | 97 | [Nani](https://open.spotify.com/track/3bqXrL2BwTK9sI2tjVF7FL) | [Kaatru](https://open.spotify.com/artist/5r5gWXcE1w7MgJjxSIcKRC) | [Nani](https://open.spotify.com/album/0wI1AG8bR82kMffk7jiuyU) | 3:27 |
 | 98 | [Raga Sundara](https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg) | [Yantra Mantra](https://open.spotify.com/artist/1eE1hRgkFrYyoFuCO3WSOZ) | [Buddah's Chill, Vol\. 7 \(Buddha Asian Bar Lounge\)](https://open.spotify.com/album/7yb68aQVIHJeNfbdSjBnMj) | 4:06 |
 
-Snapshot ID: `MTY2MDI5NTE5OSwwMDAwMDAwMGRhMzJlZDIyY2ZjMjg1OGJjOTdiYTgwNzE3NDJiMmNj`
+Snapshot ID: `MTY2MDI5NTE5OSwwMDAwMDAwMDI1MWZlZmMxMWRhOGI1Mjc1YjQzYzIwNzhlNGI3YmJm`

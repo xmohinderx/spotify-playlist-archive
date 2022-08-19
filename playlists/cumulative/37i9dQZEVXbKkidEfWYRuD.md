@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-802 songs - 1 day 13 hr 29 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+803 songs - 1 day 13 hr 31 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-08-22 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [Baby mama](https://open.spotify.com/track/5X33A2X2OuQXUOKhawWCMm) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [Райда](https://open.spotify.com/artist/06j0PdOWS31kMCmfxsCwg9) | [Baby mama](https://open.spotify.com/album/7o0T8sLI46zoWURcX0NFdT) | 3:51 | 2021-07-29 | 2022-02-26 |
+| [Back to Life \(Birthdae\)](https://open.spotify.com/track/4iGKPU8XBlsUoOoyvsFhLw) | [ScurtDae](https://open.spotify.com/artist/3asPo62n9VYDmN6FIkCcEk) | [Back to Life \(Birthdae\)](https://open.spotify.com/album/6caxt5SHHvkw9hfTMMgRgt) | 2:37 | 2022-08-18 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2021-11-02 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-16 |
 | [Bandana](https://open.spotify.com/track/16AzcbKli3UQsxj491hJLQ) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:31 | 2021-10-23 | 2022-07-11 |
@@ -88,7 +89,7 @@
 | [CSO](https://open.spotify.com/track/0iY7Xc7aT7yJPSCcHiJ1b7) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:12 | 2021-04-11 | 2021-04-13 |
 | [Cuba Libre](https://open.spotify.com/track/0ajH0xDpS2HD0nOjikHyfu) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Sense Of Human](https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm) | 2:54 | 2021-10-17 | 2021-10-18 |
 | [Cumback](https://open.spotify.com/track/0miDZPhTC5rLUc514v6Pck) | [Nekoglai](https://open.spotify.com/artist/2TaI860P5qyn702NYQy7AP) | [Cumback](https://open.spotify.com/album/7A5hO7cSTZ5dNhDzYFKzVb) | 1:50 | 2022-03-04 | 2022-03-18 |
-| [Daleko](https://open.spotify.com/track/7n8TQPcPNpmzfKpTBBzsMh) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [AA LANGUAGE](https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q) | 2:27 | 2022-08-13 |  |
+| [Daleko](https://open.spotify.com/track/7n8TQPcPNpmzfKpTBBzsMh) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [AA LANGUAGE](https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q) | 2:27 | 2022-08-13 | 2022-08-19 |
 | [DALEKO](https://open.spotify.com/track/17SiOJ50b7dQU1ZSFtAXVc) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [DALEKO](https://open.spotify.com/album/129hDAnA0r5LAsUOo1oPAa) | 2:28 | 2022-07-09 | 2022-08-08 |
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-05-25 | 2021-06-01 |
 | [DAVID BECKHAM](https://open.spotify.com/track/6i1wYW9aYzrPTbqYfjamS8) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:51 | 2021-03-27 | 2021-04-02 |

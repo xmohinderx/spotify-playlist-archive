@@ -1,12 +1,12 @@
 {
   "description": "Hit music from Ethiopia's finest.",
-  "num_followers": 12314,
+  "num_followers": 12323,
   "original_name": "Ethio-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NTMyNjkyMywwMDAwMDAwMDQ5MTE3ZWY2MDY5Zjk3NjkwZmNiNDE0YzFkMGYwNmIw",
+  "snapshot_id": "MTU5NTMyNjkyMywwMDAwMDAwMDRlZWRiZDBmMTMwZTMyZjA1YzlkZDhkY2QwYmE4OWU1",
   "tracks": [
     {
       "added_at": "2018-10-04 10:38:09",
@@ -87,6 +87,22 @@
       "duration_ms": 330489,
       "name": "Maalan Jira",
       "url": "https://open.spotify.com/track/3X7RnmGwyfOy2Qr5nn1u1i"
+    },
+    {
+      "added_at": "2020-07-21 10:22:03",
+      "album": {
+        "name": "Habesha",
+        "url": "https://open.spotify.com/album/7xeGTsVCULFt42tcgv85zK"
+      },
+      "artists": [
+        {
+          "name": "Amanuel Yemane",
+          "url": "https://open.spotify.com/artist/34vR4pOtaY9230Nmc1BKP8"
+        }
+      ],
+      "duration_ms": 297217,
+      "name": "Nigerewa",
+      "url": "https://open.spotify.com/track/3DvQz7jA79KweYLM4yRQJ8"
     },
     {
       "added_at": "2018-10-04 10:38:09",
@@ -283,6 +299,22 @@
       "duration_ms": 338364,
       "name": "Betam New Emewodish",
       "url": "https://open.spotify.com/track/0ETljDqCA6av5aVfQen31X"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Ethiopian Slow Romantic Collection - Vol.2",
+        "url": "https://open.spotify.com/album/2PPPjvJCXafChPiOItKfip"
+      },
+      "artists": [
+        {
+          "name": "Wondimu Jira",
+          "url": "https://open.spotify.com/artist/0xksnjOFGOdADTRV5cKcV4"
+        }
+      ],
+      "duration_ms": 270838,
+      "name": "Gudaye Nesh",
+      "url": "https://open.spotify.com/track/6QVMCGAzom2PygQBzcjlZs"
     },
     {
       "added_at": "2018-10-04 10:38:09",
@@ -855,6 +887,22 @@
       "duration_ms": 259369,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5hiih9ZGthFog3buukf7Ss"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Weni",
+        "url": "https://open.spotify.com/album/7vdf2o4j9g5Yq6U1yxTJ5c"
+      },
+      "artists": [
+        {
+          "name": "Timnit Welday",
+          "url": "https://open.spotify.com/artist/5zLVjV7HLXnaNAmR4ilnRm"
+        }
+      ],
+      "duration_ms": 261990,
+      "name": "Weni",
+      "url": "https://open.spotify.com/track/6p6EtFi1gebyBR0gkXYEbS"
     }
   ],
   "unique_name": "Ethio-Pop",

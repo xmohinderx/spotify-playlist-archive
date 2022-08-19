@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-294 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+298 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [4Am](https://open.spotify.com/track/011hncAUi2nvezLy3JtwAl) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [4Am](https://open.spotify.com/album/3sJ0GClQZ4gfk0naLp4wlD) | 2:14 | 2022-05-27 |  |
 | [7am in paris](https://open.spotify.com/track/2njhOp4J551KWvvCybsrnG) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:33 | 2022-05-20 | 2022-07-08 |
 | [A cup of tea at night](https://open.spotify.com/track/0KWpMH25yh1oYqYKaEILyi) | [My Companion](https://open.spotify.com/artist/4A9LJwmKMwv6PfGKU2CN1E) | [A cup of tea at night](https://open.spotify.com/album/0cFK0jhWA8QTxIQy3pwtnB) | 2:15 | 2022-07-27 | 2022-08-12 |
+| [A Place To Start](https://open.spotify.com/track/0QK6YzIcxKDXMmNwdsA6Tf) | [Fires In The Dark](https://open.spotify.com/artist/4gFdKcBLSzdrCQpp5XUbCY) | [A Place To Start](https://open.spotify.com/album/6pjmDVcyZDEmeF2SY1sVaa) | 2:15 | 2022-08-19 |  |
 | [A Quiet Night](https://open.spotify.com/track/6H0uVRJtvqOBbGwNabw519) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [Hush Child](https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa) | [A Quiet Night](https://open.spotify.com/album/0OSwH5NIfILHiyOue1qCQT) | 2:13 | 2022-05-20 |  |
 | [A Slight Return](https://open.spotify.com/track/4CeZdj5rYqg8hb5csZ6LhI) | [Partika](https://open.spotify.com/artist/3kKhFe1UhACeP31S9i1ZvS) | [A Slight Return](https://open.spotify.com/album/4GUj54llVxwgIksahB4z1G) | 3:09 | 2022-05-20 |  |
 | [Above and Beyond](https://open.spotify.com/track/0qJu4CH53vfwJcrfG3teZt) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Above and Beyond](https://open.spotify.com/album/5yYaNuuxG6grkT4TJl8NBO) | 2:54 | 2022-05-20 |  |
@@ -151,6 +152,7 @@
 | [Like A Tingel](https://open.spotify.com/track/0OLhrE2q3pKKH6VZUavoPV) | [Kiki\_Q](https://open.spotify.com/artist/3xcD6O97TEOXcX1TCYYhAj) | [Like A Tingel](https://open.spotify.com/album/7jirkidnz1LNN6ZmeGNRJZ) | 1:52 | 2022-06-17 |  |
 | [Lilac](https://open.spotify.com/track/0Ymu1QBwxsXpwsLdxWBRtA) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/4lqw1wICfF7tNfVjj3TPgX) | 2:40 | 2022-05-20 | 2022-05-27 |
 | [Lime Express](https://open.spotify.com/track/6W1jElE8QnsHXvH1umc4VG) | [PINANO](https://open.spotify.com/artist/2SJvTrEFHegW2SEVgMy6aT) | [Keep Track](https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv) | 1:40 | 2022-05-20 |  |
+| [Live Your Life](https://open.spotify.com/track/4I8dDC6DB0eX3V1Vv1sas0) | [prodjvstine](https://open.spotify.com/artist/65WDtkqOA5lEP80hteYew6), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Live Your Life](https://open.spotify.com/album/4YThnhxOUwgNrJb2CvZJk0) | 1:58 | 2022-08-19 |  |
 | [LMIRL](https://open.spotify.com/track/0j0gaTj0JB6vT3poiPwLd5) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [LMIRL](https://open.spotify.com/album/1XLYvhtvgjOhJcKpfikmo8) | 2:29 | 2022-05-20 |  |
 | [Lonely But I Like It](https://open.spotify.com/track/1T1VEnOmFJg6blKc3NphLh) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Lonely But I Like It](https://open.spotify.com/album/47sPJLTejvcVqheE9fuRpI) | 4:55 | 2022-05-20 | 2022-07-08 |
 | [Lost In Thought](https://open.spotify.com/track/1wWSpY4tjYbrVlpZAqcj7g) | [Mad Seedling](https://open.spotify.com/artist/7BZ7k3A6VWTeuE8i0y5hbu), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Lost In Thought](https://open.spotify.com/album/4X4FJFkQ2kd2FqDi3rjw5n) | 2:35 | 2022-05-20 |  |
@@ -163,6 +165,7 @@
 | [memories](https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:39 | 2022-05-20 |  |
 | [messy](https://open.spotify.com/track/5nvL2YxmnbQyuu7aGrI68K) | [luvuto](https://open.spotify.com/artist/5jjdhw89A0Q9drbfysftNm) | [messy](https://open.spotify.com/album/3630vAsANBxtui6vKFSigL) | 1:36 | 2022-05-20 |  |
 | [METAVERSE](https://open.spotify.com/track/1w2zpyoSEfy2AyY4DevJRM) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [METAVERSE](https://open.spotify.com/album/2NluYXYPbWKF3RsZ8Kn5XB) | 1:42 | 2022-05-20 |  |
+| [Midnight](https://open.spotify.com/track/2ot6dciYtrBq1agHgjwojD) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [Midnight](https://open.spotify.com/album/4gEyeinm1ECFzwKXYbI6SW) | 1:54 | 2022-08-19 |  |
 | [Midnight Moonlight](https://open.spotify.com/track/59uMk0XV0H5ZGbao7TkwKf) | [Rakuyou](https://open.spotify.com/artist/7tQNGIV5AjrU5htrzL0JSe) | [Midnight Moonlight](https://open.spotify.com/album/4bDOHHsPgh8VE8koFxKHuV) | 2:41 | 2022-08-05 |  |
 | [Midnight Oil](https://open.spotify.com/track/7MGZ6G0or7ihnQ0zY9MQ5z) | [Mad Seedling](https://open.spotify.com/artist/7BZ7k3A6VWTeuE8i0y5hbu), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Midnight Oil](https://open.spotify.com/album/0olsBDcHn95BV3dwI5KJ6w) | 3:01 | 2022-05-20 | 2022-07-28 |
 | [miletones](https://open.spotify.com/track/4vqrhPRaeoJ8pHL6dKTlfW) | [luvuto](https://open.spotify.com/artist/5jjdhw89A0Q9drbfysftNm) | [miletones](https://open.spotify.com/album/1JK0ujihjq1lSOBXrS38Mg) | 2:27 | 2022-05-20 |  |
@@ -261,6 +264,7 @@
 | [Stay On the Couch](https://open.spotify.com/track/4GbNa88PqcIrsAfKcxV2SF) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Get A Grip](https://open.spotify.com/album/0PJtdZKqdrQXJmhjZmrVk6) | 2:22 | 2022-06-10 |  |
 | [Stormy Weather](https://open.spotify.com/track/48RlLNUMdp0CLXxwvGvwYh) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Stormy Weather](https://open.spotify.com/album/5s0x6jVEZYJsZLqXBm4aoG) | 2:15 | 2022-08-12 |  |
 | [Subway Signs](https://open.spotify.com/track/0xchuOuU0MqjKaUrzIPrCv) | [Pepper and Po](https://open.spotify.com/artist/5lLoKN0MlrFNTK3feEZPkR) | [Breaking News](https://open.spotify.com/album/1tiSY3V1uZ4lCkdqArnV5N) | 3:03 | 2022-05-20 |  |
+| [Summer Nights](https://open.spotify.com/track/5QP2vmNGwMxqGMoY6A4uuu) | [prospr.](https://open.spotify.com/artist/5BAnm1BkaWpBtvfABJvSzf), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Summer Nights](https://open.spotify.com/album/3IwxEgFh15CmD8u6g4Omis) | 2:19 | 2022-08-19 |  |
 | [Summertime Sangria](https://open.spotify.com/track/65WmN0rRJJo5CXosLkZBuE) | [Trell Daniels](https://open.spotify.com/artist/1CEqyczKKYNhzgqCjH7G7Q), [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow) | [Summertime Sangria](https://open.spotify.com/album/02Kt384yF4OiY627RTnKQU) | 2:21 | 2022-07-01 |  |
 | [Sun\-Drenched](https://open.spotify.com/track/7siKUHMu8JmhDvZLInuDMd) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Sun\-Drenched](https://open.spotify.com/album/41DGf5KFsNow1BNG5CBjlb) | 2:16 | 2022-05-20 | 2022-06-10 |
 | [sunday afternoon tea](https://open.spotify.com/track/6dFt13csMtXDuLqjZdEqk7) | [moves like silk](https://open.spotify.com/artist/736t4hEChUnLa5ww5kpRWB) | [sunday afternoon tea](https://open.spotify.com/album/5F3u2s9zK0InbrDTAEmeIX) | 2:20 | 2022-05-20 |  |

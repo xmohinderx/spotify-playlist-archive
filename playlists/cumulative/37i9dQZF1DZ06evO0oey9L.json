@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Arriba De Una Moto",
+      "url": "https://open.spotify.com/track/4pNhqgKHVZ7DFRkgirEykX"
+    },
+    {
+      "album": {
         "name": "Barrio Xolo",
         "url": "https://open.spotify.com/album/2WdXJMn7Y4jlMM5tXPzt7j"
       },
@@ -163,7 +181,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 150875,
       "name": "Cheyenne Black",
       "url": "https://open.spotify.com/track/0rgn0SK9Xfi9fRY9YVeICI"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 157875,
       "name": "La Gente Nueva",
       "url": "https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 209624,
       "name": "La Moneda Vueltas Dio",
       "url": "https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ"

@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Hridoy Khan
 
-90 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
+91 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Babylon](https://open.spotify.com/track/5bo2zyA4ty7fuXSQiDV11R) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Babylon](https://open.spotify.com/album/6XQ47J5lY2VA4Gevkp0AOQ) | 6:49 | 2022-06-16 |  |
 | [Bachao](https://open.spotify.com/track/0ma2ngaL9dwqlNUKEe84FN) | [Munhamanna.](https://open.spotify.com/artist/48vUe0vzNlHzJz6dfdqtqX), [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls), [Samiul Haque](https://open.spotify.com/artist/7tstbXKlLF8TKs23HYyAhL) | [Bachao](https://open.spotify.com/album/44HcKaBI2tWqsSEmIK9WLJ) | 4:46 | 2022-06-16 |  |
 | [Better Call Salt & The Walking Bread](https://open.spotify.com/track/0S88D4HoXcUhx0KU8OOXDv) | [Bassbaba Sumon](https://open.spotify.com/artist/0dWXQH3oFfiWhCLcXCwKh0), [Felix Pastorius](https://open.spotify.com/artist/0pVMIumaNFtp1mCC7yJ8XM) | [Soul Food, Pt\. 1](https://open.spotify.com/album/0IiyxBvkuwv2xHaYZ4S0zD) | 4:46 | 2022-06-16 |  |
-| [Bhober Pagol](https://open.spotify.com/track/3IlpJeoqcBW3MU9lL2qf0L) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/3rwS1ScolLwpU7uuFDLb3t) | 5:22 | 2022-06-16 |  |
+| [Bhober Pagol](https://open.spotify.com/track/3IlpJeoqcBW3MU9lL2qf0L) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/3rwS1ScolLwpU7uuFDLb3t) | 5:22 | 2022-06-16 | 2022-08-19 |
+| [Bhober Pagol](https://open.spotify.com/track/7HUzW6Xv5cSWGbikS5MiAG) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/7wh9uFC8EvU6PuyYD4Webb) | 5:25 | 2022-07-29 |  |
 | [Bhoboghure 2022](https://open.spotify.com/track/61g0LfYhsMLvrz6DXlLIek) | [Cryptic Fate](https://open.spotify.com/artist/7tJID3D9UVKLpJSleVaM0b) | [Bhoboghure 2022](https://open.spotify.com/album/0u8JsU2k3GaMyJwsFQHUds) | 4:38 | 2022-07-15 |  |
 | [Bhondo](https://open.spotify.com/track/07qgJazJQyknsbmuJZDL6N) | [Oblique](https://open.spotify.com/artist/4UZiqcfIggY32IYR1j13fz) | [Aloron](https://open.spotify.com/album/3B7o0RIBaO8xsXFuEGOUzr) | 4:40 | 2022-06-16 |  |
 | [Bhrom](https://open.spotify.com/track/20tqANKua7Erq6u3yfT8tj) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 5:34 | 2022-06-16 |  |
@@ -76,7 +77,7 @@
 | [Oporanho](https://open.spotify.com/track/3PG0JQJExSRM4xGUpYvpEZ) | [Icons](https://open.spotify.com/artist/5dSpt5bMnQoSC0n16fpQUD) | [Ishshoronio](https://open.spotify.com/album/6GvalgWDABm1XEYvFfnGF1) | 4:09 | 2022-06-16 | 2022-07-29 |
 | [Oporanho](https://open.spotify.com/track/5pvcKpHBdbhIUuE3JDvfQE) | [Icons](https://open.spotify.com/artist/5dSpt5bMnQoSC0n16fpQUD) | [Icons](https://open.spotify.com/album/0KZiBnskH17AUkKhELLfve) | 4:09 | 2022-07-15 |  |
 | [Ore Nil Doriya](https://open.spotify.com/track/633EJpBKhPns6Z6Tp4K9a7) | [A\. I\. Razu](https://open.spotify.com/artist/67ShnJ9ENhvPwmWymi4zYB) | [Ore Nil Doriya](https://open.spotify.com/album/1BHqOSF6p6Qzn70vOkNtsv) | 5:43 | 2022-06-16 |  |
-| [Otithi Pakhi \- 2021 Remastered version](https://open.spotify.com/track/7cXofuwNTxOcIx89cYw4tD) | [Prince Sohan](https://open.spotify.com/artist/6zCxXv0GO8LaRSNLOSr0i0) | [Otithi Pakhi \(2021 Remastered Version\)](https://open.spotify.com/album/02JtyTUKhl9CJS1QbXS2kt) | 1:25 | 2022-06-16 | 2022-07-29 |
+| [Otithi Pakhi \- 2021 Remastered version](https://open.spotify.com/track/7cXofuwNTxOcIx89cYw4tD) | [Prince Sohan](https://open.spotify.com/artist/6zCxXv0GO8LaRSNLOSr0i0) | [Otithi Pakhi \(2021 Remastered Version\)](https://open.spotify.com/album/02JtyTUKhl9CJS1QbXS2kt) | 1:25 | 2022-06-16 |  |
 | [Pabona Tomay](https://open.spotify.com/track/3gLaGj5WlACwyjsFxjFDyL) | [Abir Mannan](https://open.spotify.com/artist/75tnGqluDnpfDILALcANFf) | [Pabona Tomay](https://open.spotify.com/album/4wIinxsyNNAWjXz1wMUilZ) | 6:20 | 2022-07-15 |  |
 | [Pichutaan](https://open.spotify.com/track/3kGrKLyNUdcVh27oqwEYdE) | [Sammam](https://open.spotify.com/artist/2lis2CHagnbMNlEUrhU0wu) | [Pichutaan](https://open.spotify.com/album/4LfHUgVOnuvznzkOGCTxwX) | 6:05 | 2022-06-16 |  |
 | [Protibimbo](https://open.spotify.com/track/5l2n874eQvJoq8qvEowNOJ) | [Angsho](https://open.spotify.com/artist/2NRt2eIZ7PmlsdvfghhhOp) | [Protibimbo](https://open.spotify.com/album/5EIRZsKGKu4HGbyT22FvYU) | 4:11 | 2022-06-16 |  |
@@ -97,6 +98,6 @@
 | [Tomay Mone Pore](https://open.spotify.com/track/5wW1wMvFAYkG0PIA1XSPkf) | [Shafayet Badhon](https://open.spotify.com/artist/6IkPa1RHI4966Tmbos22Px), [Bayzid Rony](https://open.spotify.com/artist/0d9xrOzUVP4VRw0zeVqiDh) | [Project North Star, Vol\. 1](https://open.spotify.com/album/0eg9Gl97LB6NoSL9C01eMO) | 2:45 | 2022-06-16 | 2022-07-16 |
 | [Tumi, Ami O Bhor](https://open.spotify.com/track/12KuRGdlIUoPOYUmMqFiPa) | [Nemesis](https://open.spotify.com/artist/694bRUlAdfIh4BpiMWI3FF) | [Tumi, Ami O Bhor](https://open.spotify.com/album/0nGeQAJDGQnl3pYUUPEwCy) | 4:50 | 2022-06-16 |  |
 | [Utshorgo](https://open.spotify.com/track/7tcHBMra1AZ3QWIHX3hX0r) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [JED](https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ) | 5:52 | 2022-06-16 |  |
-| [ও মুরুব্বি](https://open.spotify.com/track/1Cn5z87cpiD0uxMIzcFE4b) | [Ariyan Khan](https://open.spotify.com/artist/28y51UfdmY0xm7lHLrDd34) | [ও মুরুব্বি](https://open.spotify.com/album/2bkb02lSyVRDdbPVjkZcER) | 3:43 | 2022-06-16 | 2022-07-31 |
+| [ও মুরুব্বি](https://open.spotify.com/track/1Cn5z87cpiD0uxMIzcFE4b) | [Ariyan Khan](https://open.spotify.com/artist/28y51UfdmY0xm7lHLrDd34) | [ও মুরুব্বি](https://open.spotify.com/album/2bkb02lSyVRDdbPVjkZcER) | 3:43 | 2022-06-16 |  |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

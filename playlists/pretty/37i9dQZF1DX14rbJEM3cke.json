@@ -1,12 +1,12 @@
 {
   "description": "New Rock driving the current, every week. Black Punk Takeover by Rico Nasty",
-  "num_followers": 15484,
+  "num_followers": 15541,
   "original_name": "Rock Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUxNTc3MiwwMDAwMDAwMGQ3ODgyYmQyNjQ2NDcyYjgzMDEwZDhkZTA1Y2Q4MzBk",
+  "snapshot_id": "MTY1ODUxNTc3MiwwMDAwMDAwMDJiN2QxOTU2YjEyYTg3YTg2YzI3YTU4OGI4OGUxMzJh",
   "tracks": [
     {
       "added_at": "2022-07-22 18:49:32",
@@ -719,6 +719,26 @@
       "duration_ms": 206820,
       "name": "Feel A Thing",
       "url": "https://open.spotify.com/track/2KXudYjDXkUbbLzN5VXT7N"
+    },
+    {
+      "added_at": "2022-06-03 04:00:00",
+      "album": {
+        "name": "Nothing Feels The Same",
+        "url": "https://open.spotify.com/album/515rtQrzLwPpwdCTfJdefa"
+      },
+      "artists": [
+        {
+          "name": "Chris Miles",
+          "url": "https://open.spotify.com/artist/2m2kx6kzvl75SabOVfkL5i"
+        },
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "Nothing Feels The Same",
+      "url": "https://open.spotify.com/track/3zCnua0vS5z5znRZANOdPD"
     },
     {
       "added_at": "2022-06-03 04:00:00",

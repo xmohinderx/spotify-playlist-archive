@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 
 > 情人節有麗英@小薯茄為你揀選情歌單《擁抱單身的你》，單拖過節有我哋陪你呀！
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,835 likes - 24 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,836 likes - 25 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 | 17 | [ドライフラワー](https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ドライフラワー](https://open.spotify.com/album/69BzgmDXpLIPQI4tUGuLZM) | 4:45 |
 | 18 | [香水](https://open.spotify.com/track/2iOvMtA1u9s95NF6mJDOuT) | [Eito](https://open.spotify.com/artist/32QmJ5obSke8YKDbQvVPUx) | [香水](https://open.spotify.com/album/2j4rz2ZQnQZaZeVqGQGRdl) | 4:12 |
 | 19 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 |
-| 20 | [On my way](https://open.spotify.com/track/79letQC8rVM851Cz2ORR0z) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [On my way](https://open.spotify.com/album/2LBrOLQkQo3sisQP3v11ZT) | 5:15 |
-| 21 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
-| 22 | [優しい彗星](https://open.spotify.com/track/5MUb136to9lnJLfIy5FZKI) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 3:33 |
-| 23 | [我不是邱比特 \- 合唱版](https://open.spotify.com/track/2TPOTSNzJKfVRN39ALLZbw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7), [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [我不是邱比特 \(合唱版\)](https://open.spotify.com/album/2zEMj01nJpqJ5Ilsztc1QU) | 4:02 |
-| 24 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 |
+| 20 | [一人之境](https://open.spotify.com/track/3ilTQO14TAKKX5VUmBxqOb) | [林家谦](https://open.spotify.com/artist/37BuD8Qik8kee0EB7EI3sY) | [Major in Minor](https://open.spotify.com/album/344YIrU6qwfbdrhoSXHv6m) | 3:15 |
+| 21 | [On my way](https://open.spotify.com/track/79letQC8rVM851Cz2ORR0z) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [On my way](https://open.spotify.com/album/2LBrOLQkQo3sisQP3v11ZT) | 5:15 |
+| 22 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
+| 23 | [優しい彗星](https://open.spotify.com/track/5MUb136to9lnJLfIy5FZKI) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 3:33 |
+| 24 | [我不是邱比特 \- 合唱版](https://open.spotify.com/track/2TPOTSNzJKfVRN39ALLZbw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7), [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [我不是邱比特 \(合唱版\)](https://open.spotify.com/album/2zEMj01nJpqJ5Ilsztc1QU) | 4:02 |
+| 25 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 |
 
-Snapshot ID: `MTY0NDIyNDU2OCwwMDAwMDAwMGFkMjBhZTI4MWE0YjQ0NzA2Zjc4YzY5MTRhZDA0ODBi`
+Snapshot ID: `MTY0NDIyNDU2OCwwMDAwMDAwMDNhOTdhNWIzZDQzNjdkMWVkYjQ3ZGI0MzJjODJlOTE3`

@@ -1,12 +1,12 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 306288,
+  "num_followers": 306623,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMGU2NDMxY2M2ZWZhM2RmMjkzODhkMWQzYTBiOWE5ZTI3",
+  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDAyYjhhMDMzMjVhYTliMjNlNTMyOTI0NTkwZDdhMTQ0",
   "tracks": [
     {
       "added_at": "2021-06-25 10:16:08",
@@ -387,8 +387,8 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Maxinquaye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
+        "name": "Maxinquaye",
+        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
         }
       ],
-      "duration_ms": 270093,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou"
+      "duration_ms": 458666,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -515,8 +515,8 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Maxinquaye",
-        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
+        "name": "Maxinquaye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
         }
       ],
-      "duration_ms": 458666,
-      "name": "Aftermath",
-      "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
+      "duration_ms": 270093,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -611,6 +611,30 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Lifestyle2 - Chill Lounge Vol 1",
+        "url": "https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9"
+      },
+      "artists": [
+        {
+          "name": "Bomb The Bass",
+          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
+        },
+        {
+          "name": "Peter Kruder",
+          "url": "https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC"
+        },
+        {
+          "name": "Richard Dorfmeister",
+          "url": "https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h"
+        }
+      ],
+      "duration_ms": 374480,
+      "name": "Bug Powder Dust - Kruder & Dorfmeister Dub",
+      "url": "https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Opera",
         "url": "https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC"
       },
@@ -627,22 +651,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Who Can You Trust? / Beats & B-Sides",
-        "url": "https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr"
-      },
-      "artists": [
-        {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
-        }
-      ],
-      "duration_ms": 332759,
-      "name": "Trigger Hippie",
-      "url": "https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "King Size",
         "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
       },
@@ -655,6 +663,22 @@
       "duration_ms": 297426,
       "name": "King Size",
       "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Who Can You Trust? / Beats & B-Sides",
+        "url": "https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        }
+      ],
+      "duration_ms": 332759,
+      "name": "Trigger Hippie",
+      "url": "https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -723,22 +747,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 734333,
-      "name": "In / Flux",
-      "url": "https://open.spotify.com/track/54XieTFptuMH4PcjQMpqGn"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -751,6 +759,22 @@
       "duration_ms": 381240,
       "name": "Deep Shit, Pt. 1 & 2",
       "url": "https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 734333,
+      "name": "In / Flux",
+      "url": "https://open.spotify.com/track/54XieTFptuMH4PcjQMpqGn"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -819,6 +843,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en"
+      },
+      "artists": [
+        {
+          "name": "Skylab",
+          "url": "https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7"
+        }
+      ],
+      "duration_ms": 339626,
+      "name": "Seashell",
+      "url": "https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Pre Millennium Tension",
         "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
       },
@@ -835,18 +875,50 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en"
+        "name": "Hed Phone Sex",
+        "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
       },
       "artists": [
         {
-          "name": "Skylab",
-          "url": "https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7"
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
         }
       ],
-      "duration_ms": 339626,
-      "name": "Seashell",
-      "url": "https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc"
+      "duration_ms": 441866,
+      "name": "B Monkey",
+      "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Ninja Cuts - Flexistentialism",
+        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
+      },
+      "artists": [
+        {
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+        }
+      ],
+      "duration_ms": 285560,
+      "name": "London Mind State",
+      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 367493,
+      "name": "Original Bedroom Rockers",
+      "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -879,54 +951,6 @@
       "duration_ms": 831400,
       "name": "What Does Your Soul Look Like - Pt. 2",
       "url": "https://open.spotify.com/track/6qN2alQY36EbEjpBhDP9FE"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Hed Phone Sex",
-        "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
-      },
-      "artists": [
-        {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
-        }
-      ],
-      "duration_ms": 441866,
-      "name": "B Monkey",
-      "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 367493,
-      "name": "Original Bedroom Rockers",
-      "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Ninja Cuts - Flexistentialism",
-        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
-      },
-      "artists": [
-        {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
-        }
-      ],
-      "duration_ms": 285560,
-      "name": "London Mind State",
-      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1175,22 +1199,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
-      },
-      "artists": [
-        {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
-        }
-      ],
-      "duration_ms": 241760,
-      "name": "Long Road",
-      "url": "https://open.spotify.com/track/2b1E782QABZaTux77fwlbV"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Blow Your Headphones",
         "url": "https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh"
       },
@@ -1207,18 +1215,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "My Left Pussyfoot",
-        "url": "https://open.spotify.com/album/5yS6FBypn4GpZV8LymMbWd"
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
       "artists": [
         {
-          "name": "Howie B.",
-          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
         }
       ],
-      "duration_ms": 322200,
-      "name": "Five Days",
-      "url": "https://open.spotify.com/track/2J0udoywJrh32Mcp3VSiU9"
+      "duration_ms": 241760,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/2b1E782QABZaTux77fwlbV"
     }
   ],
   "unique_name": "Trip Hop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEOhBtBn64i.md) - [plain]
 
 > <a href="https://www.vitalvoices.org/">Women changing the world</a> \| Cover: MILCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 387 likes - 36 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 388 likes - 37 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEOhBtBn64i.md) - [plain]
 | 31 | [World on Fire](https://open.spotify.com/track/7Ipw32rwmsEhbf5IBQGmAI) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Afterglow](https://open.spotify.com/album/1M6GCPkg0T2yCcakSZO5Bk) | 4:22 |
 | 32 | [Feel Like](https://open.spotify.com/track/5aHFrIuOQE4bkUgf2CWH8q) | [Bikôkô](https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV) | [Aura Aura](https://open.spotify.com/album/0DkqHAM7eNXRdpDJBwnjtJ) | 3:01 |
 | 33 | [Stand With Each Other \[Feat\. Ms MAURICE, Cassie Kinoshi, & Richie Seivwright\]](https://open.spotify.com/track/5oAA1EN4dezQQuGzbBCWzP) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [SOURCE](https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6) | 3:38 |
-| 34 | [Switch](https://open.spotify.com/track/5jWwuZ3SaJniceWOdScwfu) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Switch](https://open.spotify.com/album/65zQs5mlLdDtcFurJ930bp) | 3:09 |
-| 35 | [Power Of Two](https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Swamp Ophelia](https://open.spotify.com/album/1X0bc0O18Dj5eqh0owcw21) | 5:22 |
-| 36 | [Talkin' Bout a Revolution](https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 2:41 |
+| 34 | [Moussoulou](https://open.spotify.com/track/3FjeIS0rgoi6NLQ7Yk96kF) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Afriques indépendantes: 50 Years of Musical Independence \(1960 \- 2010\)](https://open.spotify.com/album/6ICQ3oIV6rZavmwjGo5BLN) | 5:11 |
+| 35 | [Switch](https://open.spotify.com/track/5jWwuZ3SaJniceWOdScwfu) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Switch](https://open.spotify.com/album/65zQs5mlLdDtcFurJ930bp) | 3:09 |
+| 36 | [Power Of Two](https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Swamp Ophelia](https://open.spotify.com/album/1X0bc0O18Dj5eqh0owcw21) | 5:22 |
+| 37 | [Talkin' Bout a Revolution](https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 2:41 |
 
-Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDBhMDliMThjZDY4NDMwYzBiNjdhMTdlZDk1ZTI4MmIw`
+Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDdjNDBmODkwM2I0Y2M1OTFlYzIwMzY2NWQ0NWQxYzA3`

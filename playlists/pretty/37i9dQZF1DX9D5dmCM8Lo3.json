@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 72748,
+  "num_followers": 73084,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODgyNTAwNiwwMDAwMDAwMDJlYTBiNWUxZjcyY2ViNjAxYzE1MWFiNTQzMzhhOGYw",
+  "snapshot_id": "MTY0ODgyNTAwNiwwMDAwMDAwMDhiYjg0MGU1NjA0ZmUzZWQzZjZkMWJiMmJmMTllMWEw",
   "tracks": [
     {
       "added_at": "2022-03-02 23:11:11",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
+        "name": "Temple of Null",
+        "url": "https://open.spotify.com/album/3vmSi6NMDAxnYPVKB5EATU"
+      },
+      "artists": [
+        {
+          "name": "Acetantina",
+          "url": "https://open.spotify.com/artist/4pOU5L3kyzl3mOup7X0Xxp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Temple of Null",
+      "url": "https://open.spotify.com/track/6BN0SHZZkdksdMFXDhCvDT"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
         "name": "Minecraft - Volume Alpha",
         "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 215500,
       "name": "Sweden",
       "url": "https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
-        "name": "Worlds",
-        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "Goodbye To A World",
-      "url": "https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "Baby My Phone",
-        "url": "https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq"
+        "name": "Worlds",
+        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
       },
       "artists": [
         {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
         }
       ],
-      "duration_ms": 215771,
-      "name": "Baby My Phone",
-      "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
+      "duration_ms": 328506,
+      "name": "Goodbye To A World",
+      "url": "https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "\u304d\u304f\u304a\u30df\u30af6",
-        "url": "https://open.spotify.com/album/3DcOkGnGL9cZgq9G1R75HE"
+        "name": "Baby My Phone",
+        "url": "https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq"
       },
       "artists": [
         {
-          "name": "Kikuo",
-          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
         }
       ],
-      "duration_ms": 365235,
-      "name": "\u3042\u306a\u3050\u3089\u3050\u3089\u3057",
-      "url": "https://open.spotify.com/track/3FvzeaesPY35bhhj55u4zJ"
+      "duration_ms": 215771,
+      "name": "Baby My Phone",
+      "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -247,6 +247,38 @@
       "duration_ms": 350690,
       "name": "Sad Machine",
       "url": "https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "\u304d\u304f\u304a\u30df\u30af6",
+        "url": "https://open.spotify.com/album/3DcOkGnGL9cZgq9G1R75HE"
+      },
+      "artists": [
+        {
+          "name": "Kikuo",
+          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+        }
+      ],
+      "duration_ms": 365235,
+      "name": "\u3042\u306a\u3050\u3089\u3050\u3089\u3057",
+      "url": "https://open.spotify.com/track/3FvzeaesPY35bhhj55u4zJ"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "dreamcore",
+        "url": "https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE"
+      },
+      "artists": [
+        {
+          "name": "Yandere",
+          "url": "https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr"
+        }
+      ],
+      "duration_ms": 100310,
+      "name": "dreamcore",
+      "url": "https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt"
     },
     {
       "added_at": "2022-04-01 14:56:46",
@@ -267,18 +299,18 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "dreamcore",
-        "url": "https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE"
+        "name": "Everything I Own",
+        "url": "https://open.spotify.com/album/4Fh7c02zxgLTSw7FKidgeA"
       },
       "artists": [
         {
-          "name": "Yandere",
-          "url": "https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr"
+          "name": "Drive45",
+          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
         }
       ],
-      "duration_ms": 100310,
-      "name": "dreamcore",
-      "url": "https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt"
+      "duration_ms": 201454,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/53FufLl4OfGMzdJv73Hpgg"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -295,22 +327,6 @@
       "duration_ms": 58363,
       "name": "if god didnt want us to snort worms he wouldn't have made them cylindrical!",
       "url": "https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
-        "name": "Everything I Own",
-        "url": "https://open.spotify.com/album/4Fh7c02zxgLTSw7FKidgeA"
-      },
-      "artists": [
-        {
-          "name": "Drive45",
-          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
-        }
-      ],
-      "duration_ms": 201454,
-      "name": "Everything I Own",
-      "url": "https://open.spotify.com/track/53FufLl4OfGMzdJv73Hpgg"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -347,22 +363,6 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "Temptation Stairway (Waltz Variation)",
-        "url": "https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME"
-      },
-      "artists": [
-        {
-          "name": "Metaroom",
-          "url": "https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d"
-        }
-      ],
-      "duration_ms": 106909,
-      "name": "Temptation Stairway (Waltz Variation)",
-      "url": "https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
         "name": "RePorpoised Phantasies",
         "url": "https://open.spotify.com/album/40IjED8bEPBiyVMr936p6o"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 305502,
       "name": "Cyan Hardcore",
       "url": "https://open.spotify.com/track/5DbCXRs5PXXDgFrsdzjGDg"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Temptation Stairway (Waltz Variation)",
+        "url": "https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME"
+      },
+      "artists": [
+        {
+          "name": "Metaroom",
+          "url": "https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d"
+        }
+      ],
+      "duration_ms": 106909,
+      "name": "Temptation Stairway (Waltz Variation)",
+      "url": "https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR"
     },
     {
       "added_at": "2022-03-03 00:20:55",
@@ -443,6 +459,22 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
+        "name": "Sewer//slvt",
+        "url": "https://open.spotify.com/album/4H8zRNpiAfbdJxCgWMqosu"
+      },
+      "artists": [
+        {
+          "name": "Sewerslvt",
+          "url": "https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Pretty Cvnt",
+      "url": "https://open.spotify.com/track/0hz0bTQC2VVb4CEjLxmKiH"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
         "name": "Enchanted Instrumentals and Whispers",
         "url": "https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N"
       },
@@ -459,22 +491,6 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "carepackage",
-        "url": "https://open.spotify.com/album/2qDMzs2S9D56WE9NDOkHSE"
-      },
-      "artists": [
-        {
-          "name": "galen tipton",
-          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "tadpoles lullaby",
-      "url": "https://open.spotify.com/track/12BSoYtXIX1X31YGYacjTq"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
         "name": "morrigan",
         "url": "https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3"
       },
@@ -487,6 +503,22 @@
       "duration_ms": 142839,
       "name": "morrigan",
       "url": "https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "carepackage",
+        "url": "https://open.spotify.com/album/2qDMzs2S9D56WE9NDOkHSE"
+      },
+      "artists": [
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "tadpoles lullaby",
+      "url": "https://open.spotify.com/track/12BSoYtXIX1X31YGYacjTq"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -699,22 +731,6 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "Numbers",
-        "url": "https://open.spotify.com/album/3D2CAIf1A9XlcLUigjsypL"
-      },
-      "artists": [
-        {
-          "name": "TEMPOREX",
-          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
-        }
-      ],
-      "duration_ms": 127972,
-      "name": "Numbers",
-      "url": "https://open.spotify.com/track/4GuZMzKXJSoWhwHUqRa0fm"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
         "name": ".Temp",
         "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
       },
@@ -743,6 +759,22 @@
       "duration_ms": 124760,
       "name": "missing home",
       "url": "https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Numbers",
+        "url": "https://open.spotify.com/album/3D2CAIf1A9XlcLUigjsypL"
+      },
+      "artists": [
+        {
+          "name": "TEMPOREX",
+          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
+        }
+      ],
+      "duration_ms": 127972,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/4GuZMzKXJSoWhwHUqRa0fm"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -779,18 +811,18 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "Zapper",
-        "url": "https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7"
+        "name": "team edward",
+        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
       },
       "artists": [
         {
-          "name": "NANORAY",
-          "url": "https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1"
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
         }
       ],
-      "duration_ms": 241411,
-      "name": "NEKOMATA'97",
-      "url": "https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I"
+      "duration_ms": 87242,
+      "name": "team edward",
+      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -811,22 +843,6 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "team edward",
-        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 87242,
-      "name": "team edward",
-      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
         "name": ".Temp",
         "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
       },
@@ -839,6 +855,22 @@
       "duration_ms": 96883,
       "name": "Eternal.Temp",
       "url": "https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Zapper",
+        "url": "https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7"
+      },
+      "artists": [
+        {
+          "name": "NANORAY",
+          "url": "https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1"
+        }
+      ],
+      "duration_ms": 241411,
+      "name": "NEKOMATA'97",
+      "url": "https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -905,20 +937,20 @@
       "url": "https://open.spotify.com/track/40JKHWIqZ6Yhvi13Va054H"
     },
     {
-      "added_at": "2022-03-03 00:20:55",
+      "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
+        "name": "An Obsession With Kit",
+        "url": "https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4"
       },
       "artists": [
         {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+          "name": "Graham Kartna",
+          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
         }
       ],
-      "duration_ms": 89640,
-      "name": "The descent",
-      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
+      "duration_ms": 187059,
+      "name": "An Obsession With Kit",
+      "url": "https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -935,6 +967,22 @@
       "duration_ms": 175624,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx"
+    },
+    {
+      "added_at": "2022-03-03 00:20:55",
+      "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 89640,
+      "name": "The descent",
+      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -967,22 +1015,6 @@
       "duration_ms": 132802,
       "name": "Lovemall",
       "url": "https://open.spotify.com/track/4nLeOsqSVIVyF96ir7oD1u"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
-        "name": "An Obsession With Kit",
-        "url": "https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4"
-      },
-      "artists": [
-        {
-          "name": "Graham Kartna",
-          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
-        }
-      ],
-      "duration_ms": 187059,
-      "name": "An Obsession With Kit",
-      "url": "https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1117,6 +1149,22 @@
       "url": "https://open.spotify.com/track/3uexwXJFkOVHkmulr3IiLc"
     },
     {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Temple of Null",
+        "url": "https://open.spotify.com/album/3vmSi6NMDAxnYPVKB5EATU"
+      },
+      "artists": [
+        {
+          "name": "Acetantina",
+          "url": "https://open.spotify.com/artist/4pOU5L3kyzl3mOup7X0Xxp"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Puddle of Nitrogen",
+      "url": "https://open.spotify.com/track/69OVnCNC0SB8EsLsq51lQF"
+    },
+    {
       "added_at": "2022-03-07 16:31:54",
       "album": {
         "name": "TOXIC SHAWTY ANTHEM",
@@ -1171,58 +1219,6 @@
       "duration_ms": 185072,
       "name": "Ascending Red",
       "url": "https://open.spotify.com/track/2VEs61ZoJ6xfkk7LUHQ2XY"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR"
-      },
-      "artists": [
-        {
-          "name": "Kawai Sprite",
-          "url": "https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Load/Save Game",
-      "url": "https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "CANNON",
-        "url": "https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ"
-      },
-      "artists": [
-        {
-          "name": "DJ CAMGIRL",
-          "url": "https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc"
-        },
-        {
-          "name": "VAPERROR",
-          "url": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha"
-        }
-      ],
-      "duration_ms": 116363,
-      "name": "RED ALERT",
-      "url": "https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
-        "name": "Drop Five",
-        "url": "https://open.spotify.com/album/5KexTk8l0hilMkJrVKtp7L"
-      },
-      "artists": [
-        {
-          "name": "foster n!x",
-          "url": "https://open.spotify.com/artist/5enSh2TLNYisRbvFyT5EKl"
-        }
-      ],
-      "duration_ms": 98892,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/2IvnzqJv070rZ2I6u5ocuR"
     }
   ],
   "unique_name": "webcore",

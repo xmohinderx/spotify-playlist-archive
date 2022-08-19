@@ -7268,6 +7268,24 @@
     },
     {
       "album": {
+        "name": "Ocean Blue",
+        "url": "https://open.spotify.com/album/5ttNbjh8ZcFwRz5Sn7V4vv"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202360,
+      "name": "Ocean Blue",
+      "url": "https://open.spotify.com/track/6ydTM3R9A7uqGJkwkKTMp5"
+    },
+    {
+      "album": {
         "name": "Oceans & Engines",
         "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
       },

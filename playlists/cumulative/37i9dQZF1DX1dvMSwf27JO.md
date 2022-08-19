@@ -2,7 +2,7 @@
 
 ### ['fit check](https://open.spotify.com/playlist/37i9dQZF1DX1dvMSwf27JO)
 
-> and why aren't you in uniform? Cover: Bella Hadid
+> is "dressing well" in the room with us? Cover: Bella Hadid
 
 191 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 

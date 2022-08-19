@@ -1,12 +1,12 @@
 {
   "description": "Nothing but precious sounds from the 90s & 2000s. Cover: K-OS",
-  "num_followers": 1580,
+  "num_followers": 1588,
   "original_name": "Canadian Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NTk0MSwwMDAwMDAwMGQ2MGRkMWIyMzg2ZTkxMjc0YWUzMTY1MTZhZjZhYzFk",
+  "snapshot_id": "MTY2MDI0NTk0MSwwMDAwMDAwMGQ0NzBiZDgzZDQ5NGJmMmNlZGIzNzFmYWI0NGMzYmNj",
   "tracks": [
     {
       "added_at": "2022-08-11 19:25:41",
@@ -147,6 +147,26 @@
     {
       "added_at": "2022-08-11 19:25:41",
       "album": {
+        "name": "The Hood Is Here",
+        "url": "https://open.spotify.com/album/3EUVm9ZCOvhUU6mgrY2kH8"
+      },
+      "artists": [
+        {
+          "name": "Jelleestone",
+          "url": "https://open.spotify.com/artist/21EIv4m5gbtWQLA9Al9em4"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 236680,
+      "name": "Friendamine - Remix Featuring Nelly Furtado",
+      "url": "https://open.spotify.com/track/2uJH9wXUWtW4MvtYw66NNn"
+    },
+    {
+      "added_at": "2022-08-11 19:25:41",
+      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/3Qwn4i9QV2uXfPiBQNnT3z"
       },
@@ -175,6 +195,22 @@
       "duration_ms": 250266,
       "name": "Beautiful U R",
       "url": "https://open.spotify.com/track/2CqREodaZD7NRmm2kJr9eZ"
+    },
+    {
+      "added_at": "2022-08-11 19:25:41",
+      "album": {
+        "name": "Divine Brown",
+        "url": "https://open.spotify.com/album/3K24bok5VUzwODkd6MzqNC"
+      },
+      "artists": [
+        {
+          "name": "Divine Brown",
+          "url": "https://open.spotify.com/artist/0quKBMxFPX36JhyGmNOZKa"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Old Skool Love",
+      "url": "https://open.spotify.com/track/1SmRX4WcNrzqFrWIq7DjfQ"
     },
     {
       "added_at": "2022-08-11 19:25:41",
@@ -467,6 +503,26 @@
     {
       "added_at": "2022-08-11 19:25:41",
       "album": {
+        "name": "Everyday (Rudebwoy)",
+        "url": "https://open.spotify.com/album/2ZDasdZAS2qpAyqr3Vetk3"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Ray Robinson",
+          "url": "https://open.spotify.com/artist/4w0YXf91PUV9T1zlTK6yPr"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Everyday (Rudebwoy)",
+      "url": "https://open.spotify.com/track/3rIbZ1ElW0ZFF646ZQrYTj"
+    },
+    {
+      "added_at": "2022-08-11 19:25:41",
+      "album": {
         "name": "Still Too Much",
         "url": "https://open.spotify.com/album/5LZLZsykNszXzZlRLenTN2"
       },
@@ -679,6 +735,42 @@
     {
       "added_at": "2022-08-11 19:25:41",
       "album": {
+        "name": "Juno Awards 2008",
+        "url": "https://open.spotify.com/album/31mShyZYlhE6zTzVGWznPu"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 274866,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5s98t8Fgnios2RhGMIC0hi"
+    },
+    {
+      "added_at": "2022-08-11 19:25:41",
+      "album": {
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/1acqOvNGsG3S156d4pJ8OE"
+      },
+      "artists": [
+        {
+          "name": "Rochester AKA Juice",
+          "url": "https://open.spotify.com/artist/3X8MeRzhWy8d8upiMzuf7C"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/5PjUBCqb7RRIjyFFauVgdO"
+    },
+    {
+      "added_at": "2022-08-11 19:25:41",
+      "album": {
         "name": "Not 4 Sale",
         "url": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
       },
@@ -695,6 +787,22 @@
       "duration_ms": 223040,
       "name": "Numba 1 (Tide Is High)",
       "url": "https://open.spotify.com/track/18iSiFtrQ78wWLFJi4pCF7"
+    },
+    {
+      "added_at": "2022-08-11 19:25:41",
+      "album": {
+        "name": "Urban Landmarks 1989-2005 (Explicit Version)",
+        "url": "https://open.spotify.com/album/4AZ2GSuFmIqdlJDq5yGQp6"
+      },
+      "artists": [
+        {
+          "name": "Maestro",
+          "url": "https://open.spotify.com/artist/6XyhnscgzT0F0ZBvYuSXat"
+        }
+      ],
+      "duration_ms": 299786,
+      "name": "Let Your Backbone Slide",
+      "url": "https://open.spotify.com/track/6Vzm5bCCbFSajEn8pxgpPC"
     },
     {
       "added_at": "2022-08-11 19:25:41",

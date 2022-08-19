@@ -1,12 +1,12 @@
 {
   "description": "Bend the knee and give reverence to this playlist envisioned by Game Of Thrones co-creators David Benioff and D.B. Weiss.",
-  "num_followers": 202629,
+  "num_followers": 202613,
   "original_name": "Game of Thrones: The End is Coming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTAwNDc1MiwwMDAwMDAwMDdmNDM3ZTQ3Y2JiOTMzNDgzYjY0ZWRkYTBiMWM2ZDZh",
+  "snapshot_id": "MTU1NTAwNDc1MiwwMDAwMDAwMGEzYzkxYTQ2YTk1YmZmOWM0OTM3MmY4NGY1NjM5MTFi",
   "tracks": [
     {
       "added_at": "2019-04-11 17:45:52",
@@ -291,6 +291,22 @@
       "duration_ms": 292093,
       "name": "POWER",
       "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "added_at": "2019-04-11 17:45:52",
+      "album": {
+        "name": "The Fear Record",
+        "url": "https://open.spotify.com/album/7yXRUMXLWJ0KIBrAcYbDYd"
+      },
+      "artists": [
+        {
+          "name": "Fear",
+          "url": "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS"
+        }
+      ],
+      "duration_ms": 141586,
+      "name": "Let's Have A War",
+      "url": "https://open.spotify.com/track/6eHSYA1vChdEZ4pPRaGUtA"
     },
     {
       "added_at": "2019-04-11 17:45:52",
@@ -695,6 +711,22 @@
     {
       "added_at": "2019-04-11 17:45:52",
       "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/2mFcOZBh8JmZdwIiOVeTw7"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "Winterlong - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2SiN8njxfRDBEiXht5lV80"
+    },
+    {
+      "added_at": "2019-04-11 17:45:52",
+      "album": {
         "name": "Furr",
         "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
       },
@@ -707,6 +739,22 @@
       "duration_ms": 247515,
       "name": "Furr",
       "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
+    },
+    {
+      "added_at": "2019-04-11 17:45:52",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/3mTzxRrrUuEywAXKIfV2WB"
+      },
+      "artists": [
+        {
+          "name": "AJ Ghent [ j-ent ]",
+          "url": "https://open.spotify.com/artist/6gLGK4HewZQk0009RLQ3nx"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7LOzA341dmGGFwDyOvVDEC"
     },
     {
       "added_at": "2019-04-11 17:45:52",

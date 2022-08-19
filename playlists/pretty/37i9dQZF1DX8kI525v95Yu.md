@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kI525v95Yu.md) - [plain]
 
 > The greatest hits of U2, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,959 likes - 58 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,231 likes - 59 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,6 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kI525v95Yu.md) - [plain]
 | 55 | [Please](https://open.spotify.com/track/7DwqzWCSdLEYvzqU30Pd4L) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 5:02 |
 | 56 | [Book Of Your Heart](https://open.spotify.com/track/0SeZv0QBimtX1BUbzmmTyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:55 |
 | 57 | [If You Wear That Velvet Dress](https://open.spotify.com/track/1khfmZTlbEsCi0VXylEJSQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 5:14 |
-| 58 | [Until The End Of The World](https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:38 |
+| 58 | [Ordinary Love](https://open.spotify.com/track/7kCrYUDtWsPldohOKPTKPL) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Mandela – Long Walk To Freedom \(Original Motion Picture Soundtrack\) \[UK/International\]](https://open.spotify.com/album/7xEZ5aXtQaAAzN6uBweaC6) | 3:41 |
+| 59 | [Until The End Of The World](https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:38 |
 
-Snapshot ID: `MTY0MzE0MTkwMSwwMDAwMDAwMGNlNmQyNTViNGEyNTdhMzVmNmJiNDc3NTlhODI4ZjBj`
+Snapshot ID: `MTY0MzE0MTkwMSwwMDAwMDAwMGQwOGJmNDQwMjJkN2ZiOWU1NTZiNmE5ZTg1OGJhMTM1`

@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 223106,
       "name": "El Corrido De Monterrey",
       "url": "https://open.spotify.com/track/1CTIs7OmI0qaYjmX1c8DKU"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 173906,
       "name": "Nadie Como Ella",
       "url": "https://open.spotify.com/track/5x6ZJ3RkIKCcIFdQtgKq8J"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 196385,
       "name": "Se Vale Llorar",
       "url": "https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo"
@@ -1499,6 +1499,32 @@
       "duration_ms": 145249,
       "name": "Vearon Se Lia",
       "url": "https://open.spotify.com/track/1wy4ZOVpvmW3r8NHM8tV8x"
+    },
+    {
+      "album": {
+        "name": "Vinniys",
+        "url": "https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Veil",
+      "url": "https://open.spotify.com/track/5WaoGoZ9CFLdbpIqNfFAXz"
     },
     {
       "album": {

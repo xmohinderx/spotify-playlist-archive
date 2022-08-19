@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-71 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
+72 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Serenity](https://open.spotify.com/track/4PE18K21iBZ21BhAkMKuXx) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Serenity](https://open.spotify.com/album/54EJoYtWdVl2SJEwJgiLUc) | 3:52 | 2022-08-05 |  |
 | [Sol](https://open.spotify.com/track/6HeiO63dKxpOf7v3L8lS16) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 5:04 | 2022-08-05 |  |
 | [Stars \- Remastered 2005](https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 8:00 | 2022-08-05 |  |
-| [Stave Peak](https://open.spotify.com/track/1Y315hvTFn1VMon294Tn7y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7nBRRZImFPLUrd0XsjzOrX) | 6:40 | 2022-08-05 |  |
+| [Stave Peak](https://open.spotify.com/track/1Y315hvTFn1VMon294Tn7y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7nBRRZImFPLUrd0XsjzOrX) | 6:40 | 2022-08-05 | 2022-08-19 |
+| [Stave Peak](https://open.spotify.com/track/1zkg1Iy9lFRF5ZQHMEiR9y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7mPWzggbkjqPQM9tDQa64s) | 6:40 | 2022-08-11 |  |
 | [Sun](https://open.spotify.com/track/3FveIpZMWBnwKSGyOHAEAa) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [Space Station Earth](https://open.spotify.com/album/4Y5aaWrAo2QpEkYhDWZx2B) | 2:17 | 2022-08-05 |  |
 | [Sun, Moon, Stars](https://open.spotify.com/track/73se7XAwwdg3LXE9UIqqXh) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Sun, Moon, Stars](https://open.spotify.com/album/7dNZEitMscif4pihF92VLy) | 3:41 | 2022-08-05 |  |
 | [Terra della straniera](https://open.spotify.com/track/6EGfGeXcbqVib95Q7JTv1E) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Terra della straniera](https://open.spotify.com/album/7hxO8Wb6TL4Nuov5xOToJc) | 2:49 | 2022-08-05 |  |

@@ -2,7 +2,7 @@
 
 ### [Uplifting Soul Classics](https://open.spotify.com/playlist/37i9dQZF1DWTx0xog3gN3q)
 
-> Uplifting soul classics to energize you whenever you feel for a soulful boost.
+> Whenever you need a soulful boost.
 
 73 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/0JAZGZck9T73oZ5EqI2hOx)
 

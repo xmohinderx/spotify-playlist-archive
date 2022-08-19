@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 771,
+  "num_followers": 769,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI5ODU2NiwwMDAwMDAwMDlhOWE1YTIxNTIyNzI5MTUwYzVlMDMyODQ3ZjQ4NTFl",
+  "snapshot_id": "MTY2MDI5ODU2NiwwMDAwMDAwMDdhZjEwNThjMDdkMDhjMjhmNWIxMjY4NGUyNjFkNzI1",
   "tracks": [
     {
       "added_at": "2022-05-12 20:59:00",
@@ -243,6 +243,26 @@
       "duration_ms": 152571,
       "name": "Afiya",
       "url": "https://open.spotify.com/track/1YXHLlENONleioam1NP9Uu"
+    },
+    {
+      "added_at": "2022-08-12 10:02:46",
+      "album": {
+        "name": "Tukimala",
+        "url": "https://open.spotify.com/album/2Eb2bK1a8Bxq11Aw8rCU50"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        },
+        {
+          "name": "Pinky",
+          "url": "https://open.spotify.com/artist/7D0HNEvLVsb8ooQmC2MIbD"
+        }
+      ],
+      "duration_ms": 173479,
+      "name": "Tukimala",
+      "url": "https://open.spotify.com/track/3sil5Zxom8p6321FsDM2mn"
     },
     {
       "added_at": "2022-05-27 05:50:49",

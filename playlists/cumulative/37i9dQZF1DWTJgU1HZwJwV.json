@@ -2012,6 +2012,24 @@
     },
     {
       "album": {
+        "name": "Nada que perder",
+        "url": "https://open.spotify.com/album/3CCbia42CT36Na38sOwFsp"
+      },
+      "artists": [
+        {
+          "name": "Olle Linder",
+          "url": "https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "Nada que perder",
+      "url": "https://open.spotify.com/track/13T3yVvo9sireuPg3xnI4J"
+    },
+    {
+      "album": {
         "name": "Nessun Dorma (Guitar Solo)",
         "url": "https://open.spotify.com/album/5vvf8nmZAFJkv5giEpMm68"
       },

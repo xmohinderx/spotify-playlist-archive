@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,717 likes - 79 songs - 4 hr 13 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,714 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 8 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
 | 9 | [Pull Me Through](https://open.spotify.com/track/2T1aCo4H9ojFkUxDU758oZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Pull Me Through](https://open.spotify.com/album/4PwQiZ7eS8n5LcOuLDofYL) | 3:02 |
 | 10 | [Don't You Worry Child](https://open.spotify.com/track/043bfUkTydw0xJ5JjOT91w) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:43 |
-| 11 | [Falling For You](https://open.spotify.com/track/4PUbu73TaNrlRfoiPndPCg) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Eline Esmee](https://open.spotify.com/artist/34t231FBcrTXTbRFFnzker), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Falling For You](https://open.spotify.com/album/7BG4Z7k5d6LEYETBh55Ztz) | 2:50 |
+| 11 | [Falling For You](https://open.spotify.com/track/4PUbu73TaNrlRfoiPndPCg) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Eline Esmee](https://open.spotify.com/artist/34t231FBcrTXTbRFFnzker) | [Falling For You](https://open.spotify.com/album/7BG4Z7k5d6LEYETBh55Ztz) | 2:50 |
 | 12 | [Beautiful Disaster](https://open.spotify.com/track/2hqRbIBbF7rNqT9q5Zmqsq) | [Van Snyder](https://open.spotify.com/artist/3hxJ7exqIsY8CkbNh26b4P), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Beautiful Disaster](https://open.spotify.com/album/7xafuOSJw67DzfhM2KlPHE) | 3:07 |
 | 13 | [Neon Skies \(Forever\)](https://open.spotify.com/track/6HKiW0mzPPVsvwAEgaAbgK) | [Roy Orion](https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk), [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Neon Skies \(Forever\)](https://open.spotify.com/album/2FE1akqpewaVzs7gTAAH6s) | 3:28 |
 | 14 | [Bring It Home](https://open.spotify.com/track/1vKswlFSIoQFK9OYFxHXxG) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Bring It Home](https://open.spotify.com/album/0lT8OMOXN3Dkk2FzeuJhDF) | 2:42 |

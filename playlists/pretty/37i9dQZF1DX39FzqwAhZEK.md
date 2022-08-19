@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,779 likes - 231 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,843 likes - 232 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,17 +227,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 | 217 | [Awareness](https://open.spotify.com/track/0dLx19Zx9t4VaXoGTI5tZe) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 4:11 |
 | 218 | [Show Us Our Homes](https://open.spotify.com/track/3GDYs35MWvDB9G9EPRygag) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Talk Amongst the Trees](https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p) | 4:46 |
 | 219 | [Gentle Mindset](https://open.spotify.com/track/4aItgjNbNcSS2jtkgg1Ywm) | [Musica Para Estudiar Academy](https://open.spotify.com/artist/6aar96zCc3ms96eBkMkU6C) | [Tranquillity Calls](https://open.spotify.com/album/5v1QNkuDMf85YobiT4kCyj) | 3:14 |
-| 220 | [From Above](https://open.spotify.com/track/4686Ouag9G1NhsSQUDVTC8) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Integrating](https://open.spotify.com/album/2tPY3IAMnGDBKJevNL4iRi) | 3:54 |
-| 221 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
-| 222 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
-| 223 | [luna](https://open.spotify.com/track/5NOXtK6OWi7TDRU5TenMRX) | [Beau Deval](https://open.spotify.com/artist/3a31qhW1nKIv7BCkNlmdMQ) | [ambrosia](https://open.spotify.com/album/24a1ZFkju1iXEEQMYfNO1o) | 2:46 |
-| 224 | [Daydream In Silver](https://open.spotify.com/track/3YJ1eWImuJhcpDUEIatzy3) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Daydream In Silver](https://open.spotify.com/album/0W2X2Yarkdype9wknwGETD) | 2:36 |
-| 225 | [Monos \- Single from Monos Soundtrack](https://open.spotify.com/track/0mO7YRu3dWybGhW31QSsCU) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Monos \(Single from Monos Soundtrack\)](https://open.spotify.com/album/3zDWTnRds1CeLQdZEfCDRc) | 4:00 |
-| 226 | [Eyes Of Comfort](https://open.spotify.com/track/09X7pmwY5KeVBK8TMdfTkX) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Mirror Lake](https://open.spotify.com/album/7fpGIH48txAew5hqsPttL9) | 4:15 |
-| 227 | [Aspen](https://open.spotify.com/track/0Oezanicpi90NcUA7WYR0E) | [Sonant](https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY) | [Aspen](https://open.spotify.com/album/3BE4jo7hkkusNqvyclju6c) | 1:24 |
-| 228 | [Un rêve merveilleux](https://open.spotify.com/track/2P05XZMM1Yg3ENIzCEanAj) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Un rêve merveilleux](https://open.spotify.com/album/1h1LLYUz8DxesvVjzpm9jy) | 3:22 |
-| 229 | [Among The Clouds](https://open.spotify.com/track/1R4Z8BFmI4oLygCOjFj3kq) | [The Ambientalist](https://open.spotify.com/artist/5xBLaP5VZsRpSXhtHE8xlj) | [Among The Clouds](https://open.spotify.com/album/5rk8Iv0CB5ivtxeiRgUxVB) | 5:01 |
-| 230 | [Quiet Sun](https://open.spotify.com/track/6UmFPxEJ4b8R7ohfgUWosU) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Quiet Sun](https://open.spotify.com/album/0kwqAhKCk5l0nuO5VJ9fnL) | 3:28 |
-| 231 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 |
+| 220 | [](https://open.spotify.com/track/0inD1pyAgjkhFgB0RxnuDS) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 0:00 |
+| 221 | [From Above](https://open.spotify.com/track/4686Ouag9G1NhsSQUDVTC8) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Integrating](https://open.spotify.com/album/2tPY3IAMnGDBKJevNL4iRi) | 3:54 |
+| 222 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
+| 223 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
+| 224 | [luna](https://open.spotify.com/track/5NOXtK6OWi7TDRU5TenMRX) | [Beau Deval](https://open.spotify.com/artist/3a31qhW1nKIv7BCkNlmdMQ) | [ambrosia](https://open.spotify.com/album/24a1ZFkju1iXEEQMYfNO1o) | 2:46 |
+| 225 | [Daydream In Silver](https://open.spotify.com/track/3YJ1eWImuJhcpDUEIatzy3) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Daydream In Silver](https://open.spotify.com/album/0W2X2Yarkdype9wknwGETD) | 2:36 |
+| 226 | [Monos \- Single from Monos Soundtrack](https://open.spotify.com/track/0mO7YRu3dWybGhW31QSsCU) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Monos \(Single from Monos Soundtrack\)](https://open.spotify.com/album/3zDWTnRds1CeLQdZEfCDRc) | 4:00 |
+| 227 | [Eyes Of Comfort](https://open.spotify.com/track/09X7pmwY5KeVBK8TMdfTkX) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Mirror Lake](https://open.spotify.com/album/7fpGIH48txAew5hqsPttL9) | 4:15 |
+| 228 | [Aspen](https://open.spotify.com/track/0Oezanicpi90NcUA7WYR0E) | [Sonant](https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY) | [Aspen](https://open.spotify.com/album/3BE4jo7hkkusNqvyclju6c) | 1:24 |
+| 229 | [Un rêve merveilleux](https://open.spotify.com/track/2P05XZMM1Yg3ENIzCEanAj) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Un rêve merveilleux](https://open.spotify.com/album/1h1LLYUz8DxesvVjzpm9jy) | 3:22 |
+| 230 | [Among The Clouds](https://open.spotify.com/track/1R4Z8BFmI4oLygCOjFj3kq) | [The Ambientalist](https://open.spotify.com/artist/5xBLaP5VZsRpSXhtHE8xlj) | [Among The Clouds](https://open.spotify.com/album/5rk8Iv0CB5ivtxeiRgUxVB) | 5:01 |
+| 231 | [Quiet Sun](https://open.spotify.com/track/6UmFPxEJ4b8R7ohfgUWosU) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Quiet Sun](https://open.spotify.com/album/0kwqAhKCk5l0nuO5VJ9fnL) | 3:28 |
+| 232 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 |
 
-Snapshot ID: `MTY2MDU4NjYyMCwwMDAwMDAwMDhiNWFjMTIwYmI1ZjEwNzI3YmExYTg2YjJmYTUzZjQw`
+Snapshot ID: `MTY2MDU4NjYyMCwwMDAwMDAwMGYzM2M4N2M1YmRiZjQzY2FhMjA4Yjg2MTZhNzEwNDY5`

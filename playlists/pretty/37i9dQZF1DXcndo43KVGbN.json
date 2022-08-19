@@ -1,12 +1,12 @@
 {
   "description": "The harmony between beautiful Ambient and tape manipulation. ",
-  "num_followers": 19294,
+  "num_followers": 19318,
   "original_name": "Ambient Sonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNjY2MCwwMDAwMDAwMDQyOTlkN2E5YjU5MTQ3OGQ0N2IxNGY5MDJhNjc0MDIx",
+  "snapshot_id": "MTY2MDIzNjY2MCwwMDAwMDAwMGM2ZTk5ZmQ0YzJlZDk4ODJmNzdkOGQxZGQyYzdlYzdi",
   "tracks": [
     {
       "added_at": "2022-08-11 16:51:00",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2022-08-11 16:51:00",
       "album": {
+        "name": "total dope",
+        "url": "https://open.spotify.com/album/0QRUwCG7YpZMg5KmGEpZkx"
+      },
+      "artists": [
+        {
+          "name": "Brin",
+          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
+        },
+        {
+          "name": "Josiah Steinbrick",
+          "url": "https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "total dope",
+      "url": "https://open.spotify.com/track/66SGK3DOnUEA6e9OlSuKn6"
+    },
+    {
+      "added_at": "2022-08-11 16:51:00",
+      "album": {
         "name": "Earthbound Transmissions",
         "url": "https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h"
       },
@@ -1299,6 +1319,22 @@
       "duration_ms": 563200,
       "name": "The Conjuring Mirror",
       "url": "https://open.spotify.com/track/7unnhqIAYx1e8XZlOpVhuJ"
+    },
+    {
+      "added_at": "2022-08-11 16:51:00",
+      "album": {
+        "name": "Modern Jester",
+        "url": "https://open.spotify.com/album/32Ma3r8xwPQuhkLpMcAcAe"
+      },
+      "artists": [
+        {
+          "name": "Aaron Dilloway",
+          "url": "https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm"
+        }
+      ],
+      "duration_ms": 155320,
+      "name": "Labyrinths & Jokes",
+      "url": "https://open.spotify.com/track/2FKNr1Hstg1Hjohgxqcq28"
     },
     {
       "added_at": "2022-08-11 16:51:00",

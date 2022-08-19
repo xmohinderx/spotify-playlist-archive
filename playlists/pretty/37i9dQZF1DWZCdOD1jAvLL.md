@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Excision
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,078 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,219 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 31 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 |
 | 32 | [Rave \- Remix](https://open.spotify.com/track/1kMObCQiYe5opqybH7ZNPD) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Rave \(Remix\)](https://open.spotify.com/album/5zd1ybE8kkj5OEkfRdHJW6) | 3:59 |
 | 33 | [Alright](https://open.spotify.com/track/0erkfOrhEHd40xipSC8vqi) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Alright](https://open.spotify.com/album/30c5njwDLzLB83s407ZAkj) | 3:53 |
-| 34 | [Heat Rush](https://open.spotify.com/track/1c1bXK9Ez12AX3HRIc2CuM) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Dyer](https://open.spotify.com/artist/5lZsgwFPYEIgoZ6Kahe6VF) | [Heat Rush](https://open.spotify.com/album/11srcc3f4TvwQCnR0rql1J) | 2:52 |
+| 34 | [Heat Rush](https://open.spotify.com/track/1c1bXK9Ez12AX3HRIc2CuM) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Dyer](https://open.spotify.com/artist/2IIUOhW1MYd4yXbF3EdpDW) | [Heat Rush](https://open.spotify.com/album/11srcc3f4TvwQCnR0rql1J) | 2:52 |
 | 35 | [Lay It Down \(feat\. Bricc Baby\)](https://open.spotify.com/track/5brF58DyR90gbHuMJqD5of) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC), [Bricc Baby](https://open.spotify.com/artist/6WtTLIl6HLw0JI15Z3Ia8q) | [Lay It Down \(feat\. Bricc Baby\)](https://open.spotify.com/album/2YMkA9lt4ehtS8BeoZ6ClX) | 3:35 |
 | 36 | [Sunshine](https://open.spotify.com/track/1sFInK6pKCVa9Tx5Vc3TMo) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Sunshine](https://open.spotify.com/album/1tWIe3X9NYn4cfjc8PCujy) | 3:17 |
 | 37 | [Bass](https://open.spotify.com/track/112Yjd5oS9Z2IJtAYYuQwz) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Bass](https://open.spotify.com/album/43e1DojkQdaa1s3mr4pVal) | 3:18 |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1762772,
+  "num_followers": 1762837,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE0MDUyOTI3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE0MTQzMDQ5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Bafora o Lan\u00e7a (Remix)",
         "url": "https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Melodia Alucin\u00f3gena",
         "url": "https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs"
@@ -65,23 +65,39 @@
       "url": "https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
-        "name": "V16",
-        "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
+        "name": "Thallumaala",
+        "url": "https://open.spotify.com/album/09coDJ0hDNRUkN3qJnGfIy"
       },
       "artists": [
         {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+          "name": "Hrithik Jayakish",
+          "url": "https://open.spotify.com/artist/1uyEDo5vVeOUdz0xbLBKb4"
+        },
+        {
+          "name": "Neha Girish",
+          "url": "https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv"
+        },
+        {
+          "name": "Eshaan Sanil",
+          "url": "https://open.spotify.com/artist/1zdLDvuJcKyCtgrPAKwEIQ"
+        },
+        {
+          "name": "Thejas Krishna",
+          "url": "https://open.spotify.com/artist/485YsYvNnyDA6LZOq4BGA2"
+        },
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
         }
       ],
-      "duration_ms": 119106,
-      "name": "V16",
-      "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
+      "duration_ms": 183737,
+      "name": "Thallumaala Paattu - From \"Thallumaala\"",
+      "url": "https://open.spotify.com/track/3iH9MTX6mSGgSNlw9Q2T6t"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Demons Around",
         "url": "https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf"
@@ -97,23 +113,23 @@
       "url": "https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+        "name": "V16",
+        "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
         }
       ],
-      "duration_ms": 206384,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+      "duration_ms": 119106,
+      "name": "V16",
+      "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -133,23 +149,23 @@
       "url": "https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
-        "name": "you were there for me",
-        "url": "https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV"
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 195365,
-      "name": "you were there for me",
-      "url": "https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg"
+      "duration_ms": 206384,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
@@ -165,7 +181,23 @@
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
+      "album": {
+        "name": "you were there for me",
+        "url": "https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 195365,
+      "name": "you were there for me",
+      "url": "https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg"
+    },
+    {
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Nerdesin",
         "url": "https://open.spotify.com/album/56FIQvpIezTtGm1j8yjX9q"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/2SwQShWjZsxoGviEyaEMOX"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Purple Hearts (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
@@ -213,23 +245,7 @@
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
-      "album": {
-        "name": "Di\u011fer Yar\u0131m",
-        "url": "https://open.spotify.com/album/6BUUNt9guUeWxBEh8veuNj"
-      },
-      "artists": [
-        {
-          "name": "ATE",
-          "url": "https://open.spotify.com/artist/1gta8KxWev006kmzUCM0a5"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Di\u011fer Yar\u0131m",
-      "url": "https://open.spotify.com/track/38QSynLcDBfbETORhSsssH"
-    },
-    {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -249,7 +265,23 @@
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
+      "album": {
+        "name": "Di\u011fer Yar\u0131m",
+        "url": "https://open.spotify.com/album/6BUUNt9guUeWxBEh8veuNj"
+      },
+      "artists": [
+        {
+          "name": "ATE",
+          "url": "https://open.spotify.com/artist/1gta8KxWev006kmzUCM0a5"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Di\u011fer Yar\u0131m",
+      "url": "https://open.spotify.com/track/38QSynLcDBfbETORhSsssH"
+    },
+    {
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Kesariya (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
@@ -289,7 +321,7 @@
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -329,43 +361,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
-      "album": {
-        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
-        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "S.P.Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        }
-      ],
-      "duration_ms": 218808,
-      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
-      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
-    },
-    {
-      "added_at": "2022-08-17 12:02:07",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Megham Karukatha (From \"Thiruchitrambalam\")",
         "url": "https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y"
@@ -385,7 +381,43 @@
       "url": "https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "added_at": "2022-08-18 13:04:09",
+      "album": {
+        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
+        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "S.P.Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        }
+      ],
+      "duration_ms": 218808,
+      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
+      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
+    },
+    {
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Marisola",
         "url": "https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/2pR6bipXfJySBhje19SW02"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Victoria\u2019s Secret",
         "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Asmalibrasi",
         "url": "https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Neogazino",
         "url": "https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6"
@@ -457,7 +489,39 @@
       "url": "https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
+      "album": {
+        "name": "Deaf 2 Society",
+        "url": "https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby"
+      },
+      "artists": [
+        {
+          "name": "Luclover",
+          "url": "https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60"
+        }
+      ],
+      "duration_ms": 103440,
+      "name": "L$d",
+      "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
+    },
+    {
+      "added_at": "2022-08-18 13:04:09",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Shut Up and Listen",
         "url": "https://open.spotify.com/album/6ESObhLkBvTh4CXm9wMdwQ"
@@ -477,39 +541,7 @@
       "url": "https://open.spotify.com/track/3PNaaKLGYYn1ULNZXyMuWM"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
-      "album": {
-        "name": "Deaf 2 Society",
-        "url": "https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby"
-      },
-      "artists": [
-        {
-          "name": "Luclover",
-          "url": "https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60"
-        }
-      ],
-      "duration_ms": 103440,
-      "name": "L$d",
-      "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
-    },
-    {
-      "added_at": "2022-08-17 12:02:07",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
@@ -525,7 +557,7 @@
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Tem Cabar\u00e9 Essa Noite",
         "url": "https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "L3tra",
         "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Bi' Tek Ben Anlar\u0131m",
         "url": "https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Dil (From \"Ek Villain Returns\")",
         "url": "https://open.spotify.com/album/5RFQhO7dqTjNfZt1Ei710x"
@@ -601,39 +633,7 @@
       "url": "https://open.spotify.com/track/043SPVu75TXbs94ZfM9dfn"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
-      "album": {
-        "name": "Hometown Heartbreak",
-        "url": "https://open.spotify.com/album/3RCSp0KlOpBk2K0ZN9DHKR"
-      },
-      "artists": [
-        {
-          "name": "David Morris",
-          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
-        }
-      ],
-      "duration_ms": 155206,
-      "name": "Carrying Your Love",
-      "url": "https://open.spotify.com/track/4gZQPeoBzKNWKhIJuZYbwA"
-    },
-    {
-      "added_at": "2022-08-17 12:02:07",
-      "album": {
-        "name": "Tutur Batin",
-        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
-      },
-      "artists": [
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        }
-      ],
-      "duration_ms": 218735,
-      "name": "Dunia Tipu-Tipu",
-      "url": "https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF"
-    },
-    {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
@@ -649,7 +649,39 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
+      "album": {
+        "name": "Hometown Heartbreak",
+        "url": "https://open.spotify.com/album/3RCSp0KlOpBk2K0ZN9DHKR"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "duration_ms": 155206,
+      "name": "Carrying Your Love",
+      "url": "https://open.spotify.com/track/4gZQPeoBzKNWKhIJuZYbwA"
+    },
+    {
+      "added_at": "2022-08-18 13:04:09",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "Car's Outside",
+      "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
+    },
+    {
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Kaanunna Kalyanam [From \"Sita Ramam (Telugu)\"]",
         "url": "https://open.spotify.com/album/36D0e4dKu2Sf7M4CR61bI6"
@@ -673,23 +705,23 @@
       "url": "https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+        "name": "Tutur Batin",
+        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
         }
       ],
-      "duration_ms": 248373,
-      "name": "Car's Outside",
-      "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
+      "duration_ms": 218735,
+      "name": "Dunia Tipu-Tipu",
+      "url": "https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
@@ -705,27 +737,7 @@
       "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
-      "album": {
-        "name": "Har Har Shambhu Shiv Mahadeva",
-        "url": "https://open.spotify.com/album/5jDQa8LIOlxDnItJvdFcsL"
-      },
-      "artists": [
-        {
-          "name": "Jeetu Sharma",
-          "url": "https://open.spotify.com/artist/6UECKSYwQSyYDONQ84CiDW"
-        },
-        {
-          "name": "Abhilipsa Panda",
-          "url": "https://open.spotify.com/artist/5ZYhwVkbSCFobQudgGR6Xo"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Har Har Shambhu Shiv Mahadeva",
-      "url": "https://open.spotify.com/track/0aA3jlllhKSEiXTmGPGSWz"
-    },
-    {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Nachts wach",
         "url": "https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE"
@@ -745,7 +757,7 @@
       "url": "https://open.spotify.com/track/0g2leZuI3jD5pRsrRIDvYe"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Betty (Get Money)",
         "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
@@ -761,7 +773,43 @@
       "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
+      "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
+      },
+      "artists": [
+        {
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
+    },
+    {
+      "added_at": "2022-08-18 13:04:09",
+      "album": {
+        "name": "Har Har Shambhu Shiv Mahadeva",
+        "url": "https://open.spotify.com/album/5jDQa8LIOlxDnItJvdFcsL"
+      },
+      "artists": [
+        {
+          "name": "Jeetu Sharma",
+          "url": "https://open.spotify.com/artist/6UECKSYwQSyYDONQ84CiDW"
+        },
+        {
+          "name": "Abhilipsa Panda",
+          "url": "https://open.spotify.com/artist/5ZYhwVkbSCFobQudgGR6Xo"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Har Har Shambhu Shiv Mahadeva",
+      "url": "https://open.spotify.com/track/0aA3jlllhKSEiXTmGPGSWz"
+    },
+    {
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
@@ -777,23 +825,7 @@
       "url": "https://open.spotify.com/track/28MATCYDctW5EiBa2repxb"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
-      "album": {
-        "name": "Pergi Tak Meninggalkan",
-        "url": "https://open.spotify.com/album/4E33fF1QcTciS3SSy7noEn"
-      },
-      "artists": [
-        {
-          "name": "Ekhsan",
-          "url": "https://open.spotify.com/artist/6nfhbYSRrnkFkdVRZ080Lx"
-        }
-      ],
-      "duration_ms": 240298,
-      "name": "Pergi Tak Meninggalkan",
-      "url": "https://open.spotify.com/track/1ucByvZSTXc7Njrtm9pdzk"
-    },
-    {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Macherla Niyojakavargam",
         "url": "https://open.spotify.com/album/5MqxuxFsdtqIAorJSQ8goW"
@@ -813,27 +845,7 @@
       "url": "https://open.spotify.com/track/4gC6xOiJLHTpIARRdmYMaQ"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
-      "album": {
-        "name": "Vento Forte",
-        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Dj Tk",
-          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
-        }
-      ],
-      "duration_ms": 123711,
-      "name": "Vento Forte",
-      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
-    },
-    {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Shootout",
         "url": "https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5"
@@ -853,7 +865,7 @@
       "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
@@ -869,23 +881,27 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
-        "name": "Wannabe",
-        "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
+        "name": "Vento Forte",
+        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
       },
       "artists": [
         {
-          "name": "why mona",
-          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Dj Tk",
+          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
         }
       ],
-      "duration_ms": 217411,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
+      "duration_ms": 123711,
+      "name": "Vento Forte",
+      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
     },
     {
-      "added_at": "2022-08-17 12:02:07",
+      "added_at": "2022-08-18 13:04:09",
       "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"

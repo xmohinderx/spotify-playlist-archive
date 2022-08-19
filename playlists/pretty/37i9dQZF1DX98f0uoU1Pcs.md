@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,740 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,915 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 110 | [Jackie](https://open.spotify.com/track/3zXKeRjijKnBTJibrVY9kV) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 2:56 |
 | 111 | [Head Cheerleader](https://open.spotify.com/track/1qLWOCtiIYPJkLQxdqwYxk) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 3:08 |
 | 112 | [I Hate My Life](https://open.spotify.com/track/0BFn6Tx59l6tYDge5IZ9e1) | [Mr\. Max](https://open.spotify.com/artist/4laks2a8FFBHbLUcS5Eli5) | [I Hate My Life](https://open.spotify.com/album/1Dz1Mhh2Ch8ddZYAENV8Me) | 3:10 |
-| 113 | [Missile Command](https://open.spotify.com/track/3kXNzPTs1tmjAoCo5aov3t) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Missile Command](https://open.spotify.com/album/4uGaVxhX8MdhGgJmn2rAnC) | 3:24 |
+| 113 | [Missile Command](https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:24 |
 | 114 | [Gum](https://open.spotify.com/track/0lyVppVVoinZxa3a6HpYhR) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Gum](https://open.spotify.com/album/59vxZFROZPhQWwJGdJlLYH) | 3:18 |
 | 115 | [Earth To Mike](https://open.spotify.com/track/2xlJm0LeXyoB73DeoDGtDS) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Here Comes More Bad News](https://open.spotify.com/album/7bREBOOMt7YTRpkl5fDjIM) | 1:30 |
 | 116 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Sterilizer](https://open.spotify.com/track/4wPVMYTIDj0D3e0biuEq6M) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Around the Sun](https://open.spotify.com/album/1S2XYKUTq2jSCPX5nUnMEw) | 3:06 |
 | 125 | [That Sedative](https://open.spotify.com/track/3xctqctbVGsgX2nzkRQ3xC) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [That Sedative](https://open.spotify.com/album/0JM4lsF31jRVkpuG4Ekrlk) | 2:21 |
 
-Snapshot ID: `MTY2MDY2ODI3OCwwMDAwMDAwMDdkN2E4YjA0ZDAxMDk1NzFkODJjNTZhZDMyZmJkODVh`
+Snapshot ID: `MTY2MDY2ODI3OCwwMDAwMDAwMGZkZWQxYTMyYzQ3Y2E2ZWQ4OWRhMjk4NWIxY2FiZTk4`

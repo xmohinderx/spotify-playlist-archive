@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from DJ Khaled ft\. Drake & Lil Baby, Nicki Minaj and Rod Wave is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,646 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,712 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 73 | [Million Dollars Worth of Game \(feat\. 42 Dugg\)](https://open.spotify.com/track/3IZWCcD1FYpyeY3ki2VUmL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Million Dollars Worth of Game \(feat\. 42 Dugg\)](https://open.spotify.com/album/0eIUsIe0Bo1gH7gld8lFbg) | 2:39 |
 | 74 | [Rush Hour Freestyle](https://open.spotify.com/track/6qJzLnyBXtq4XMuX98chkI) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Rush Hour Freestyle](https://open.spotify.com/album/0jrhdIDcWAq9gFmYcGBeqw) | 2:27 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDkzNDM5NTRlZDljNWEyZThmZjc0ZmYxZjcwMGE1MDBl`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDA5OTI5MmY3NzA2MTc2YjZjYzRmZjAyODU0NTZiNzNh`

@@ -8,11 +8,11 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3) | 0:00 | 2019-01-04 | 2022-07-29 |
-| [](https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD) | 0:00 | 2019-01-04 | 2022-07-29 |
-| [](https://open.spotify.com/track/3gyqvXs7R01FWc959ZLYP8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2P0PQiflDD2PNoAhSRtd4I) | 0:00 | 2019-01-04 | 2022-07-29 |
-| [](https://open.spotify.com/track/3t8g35pJTDnfr8SyleZv6T) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/483XEnSUk7MkWXldnGqNXo) | 0:00 | 2019-01-04 | 2022-07-29 |
-| [](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 0:00 | 2019-01-04 | 2022-07-29 |
+| [](https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3) | 0:00 | 2019-01-04 |  |
+| [](https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD) | 0:00 | 2019-01-04 |  |
+| [](https://open.spotify.com/track/3gyqvXs7R01FWc959ZLYP8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2P0PQiflDD2PNoAhSRtd4I) | 0:00 | 2019-01-04 |  |
+| [](https://open.spotify.com/track/3t8g35pJTDnfr8SyleZv6T) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/483XEnSUk7MkWXldnGqNXo) | 0:00 | 2019-01-04 |  |
+| [](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 0:00 | 2019-01-04 |  |
 | [1440 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/track/7E22ZfsSa40dqrwy0sxxLD) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [1440 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/album/4xFBsXgqmYocQXGVZeMA9g) | 6:56 | 2019-01-04 | 2022-07-29 |
 | [1440 \- Remastered 10th Anniversary Edition](https://open.spotify.com/track/72pCATqZdEBOuL6EStKFRv) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Eulogy for Evolution 2017 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/album/0CCmRxJMfXmuJMksYEWK3j) | 6:56 | 2019-01-04 |  |
 | [Alexander](https://open.spotify.com/track/0XFWVvTcY1hntfA4Befeyz) | [Andreas Söderström](https://open.spotify.com/artist/5Z6TEAkzMC3QQj32jkdkAo), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [Hotell](https://open.spotify.com/album/5C1Ynh8hxPOUyy5iA0tZXh) | 2:54 | 2019-01-04 | 2022-07-29 |

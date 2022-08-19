@@ -620,6 +620,28 @@
     },
     {
       "album": {
+        "name": "Now's The Time [Live (Remastered)]",
+        "url": "https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL"
+      },
+      "artists": [
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        },
+        {
+          "name": "Sam Rivers",
+          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431826,
+      "name": "Giant Steps - Live (Remastered)",
+      "url": "https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW"
+    },
+    {
+      "album": {
         "name": "Heart Song (Live)",
         "url": "https://open.spotify.com/album/5abUJ9e8YQ1nuLvldIk96e"
       },

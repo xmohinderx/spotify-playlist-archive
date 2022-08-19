@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Happy Holidays! Cover: Gucci Mane",
-  "num_followers": 81520,
+  "num_followers": 81513,
   "original_name": "Hip Hop Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3ODA3MjQ5NSwwMDAwMDAwMDQ2OWQwOGEzZTU1NzMzOWUyNGE5NDk5ZjU2NjMxOTJl",
+  "snapshot_id": "MTU3ODA3MjQ5NSwwMDAwMDAwMDk5NGVkOTM1MDFjNTk1OGEyMTZlOTIzNmJmMTE1MGJi",
   "tracks": [
     {
       "added_at": "2019-12-20 05:01:00",
@@ -323,6 +323,26 @@
     {
       "added_at": "2019-12-20 05:01:00",
       "album": {
+        "name": "Christmas On Death Row",
+        "url": "https://open.spotify.com/album/2t6GxVRo0HhWuMFm0XWvL2"
+      },
+      "artists": [
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 350106,
+      "name": "Santa Claus Goes Straight To The Ghetto",
+      "url": "https://open.spotify.com/track/4cJannWi0zsarKSNQDMbqv"
+    },
+    {
+      "added_at": "2019-12-20 05:01:00",
+      "album": {
         "name": "GhostDeini The Great (Bonus Tracks)",
         "url": "https://open.spotify.com/album/0L1Qq8en6hODRCgaAfTBAq"
       },
@@ -427,6 +447,22 @@
       "duration_ms": 262400,
       "name": "Player's Ball",
       "url": "https://open.spotify.com/track/7LZDnTeLZK2OXnLsr8t8Tx"
+    },
+    {
+      "added_at": "2019-12-20 05:01:00",
+      "album": {
+        "name": "Christmas On Death Row",
+        "url": "https://open.spotify.com/album/2t6GxVRo0HhWuMFm0XWvL2"
+      },
+      "artists": [
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        }
+      ],
+      "duration_ms": 296106,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0xm4ONa9AnzwVRAO1gIu4v"
     },
     {
       "added_at": "2019-12-20 05:01:00",

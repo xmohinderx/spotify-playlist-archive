@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nuove scoperte della scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:1B52Dud7YBQYoGLt2QxckH\">Alice Pisano</a>",
+  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:5I5o3vDgR1eCtGcyW2IYZR\">I Coccodrilli</a>",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -633,6 +633,32 @@
       "duration_ms": 270000,
       "name": "Atriale",
       "url": "https://open.spotify.com/track/5QOorFHGga2xnhd6ZyYphG"
+    },
+    {
+      "album": {
+        "name": "POCOMALE",
+        "url": "https://open.spotify.com/album/3Zo5EsJGkSlbrxSRcQXFD6"
+      },
+      "artists": [
+        {
+          "name": "Ilypocomale",
+          "url": "https://open.spotify.com/artist/6Gxu96uCNDRK67SqWA7KIj"
+        },
+        {
+          "name": "coffi",
+          "url": "https://open.spotify.com/artist/6jLdUX0GBA4b413D9PVhnP"
+        },
+        {
+          "name": "PiccoloKappa!",
+          "url": "https://open.spotify.com/artist/5mhLgRTZcKZr29mC8aau2Q"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149405,
+      "name": "AU REVOIR",
+      "url": "https://open.spotify.com/track/5saimMS1xQ1K6pMKnwWAjp"
     },
     {
       "album": {
@@ -2127,7 +2153,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 154126,
       "name": "FuORI PoSTO",
       "url": "https://open.spotify.com/track/1UGyAHFjN7FbkM0Nf2bcV0"
@@ -2635,7 +2661,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 144628,
       "name": "KOrde",
       "url": "https://open.spotify.com/track/0PHRVnh4XRpAplZpNI5vKk"
@@ -3624,6 +3650,24 @@
     },
     {
       "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/5VGxRUq6bmn5wwTr4jIt7K"
+      },
+      "artists": [
+        {
+          "name": "Neo blu",
+          "url": "https://open.spotify.com/artist/6yC534o6ugobyNUPY00cOu"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/78NMcHvRHLhHKXFy4pZ8y7"
+    },
+    {
+      "album": {
         "name": "Niente da perdere",
         "url": "https://open.spotify.com/album/3401AVbriMGB3NlScDU6kw"
       },
@@ -4489,7 +4533,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 173479,
       "name": "Qualcosa di Speciale",
       "url": "https://open.spotify.com/track/4o0fBO8aUszRidx4QAbnsf"
@@ -5364,6 +5408,24 @@
     },
     {
       "album": {
+        "name": "Vacanza Tranquilla",
+        "url": "https://open.spotify.com/album/4Sh3OGcoT7T8ViG262Wgwf"
+      },
+      "artists": [
+        {
+          "name": "Arieti Rilassati",
+          "url": "https://open.spotify.com/artist/6TWgi8oIy1OFh9P7EglVUt"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298241,
+      "name": "Spirito della Domenica",
+      "url": "https://open.spotify.com/track/49BcVeFV0VuU9v73JxQFL1"
+    },
+    {
+      "album": {
         "name": "Spunta Blu",
         "url": "https://open.spotify.com/album/3YeeLx8JiL85Y9HyGxikVq"
       },
@@ -5451,7 +5513,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 174762,
       "name": "Stanze d'hotel",
       "url": "https://open.spotify.com/track/4VqYtNokFMIOO8gJRtM6fx"

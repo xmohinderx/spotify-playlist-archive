@@ -2,7 +2,7 @@
 
 ### [Energy Booster: Dance](https://open.spotify.com/playlist/37i9dQZF1DX35X4JNyBWtb)
 
-> Need to get your energy level up? This will help!
+> Need to get your energy level up?
 
 346 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/2vm7Zsmtx3aOQOSoSAckj2)
 

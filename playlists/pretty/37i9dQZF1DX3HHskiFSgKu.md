@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HHskiFSgKu.md) - [plain]
 
 > Want to power up your morning? Grab the beats to go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315 likes - 15 songs - 56 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 317 likes - 16 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HHskiFSgKu.md) - [plain]
 | 10 | [Feelin' Myself](https://open.spotify.com/track/26XUAwGZqQEyy8Ubhtj4kq) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [\#willpower](https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb) | 4:13 |
 | 11 | [Rack City](https://open.spotify.com/track/21nFIDqoD1L7ELsprVSzOR) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/65CquQgUA42ecr7n6bGtOI) | 3:23 |
 | 12 | [Who Do You Love?](https://open.spotify.com/track/7ngdkrVQPgP3AoIxUrTpHT) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:53 |
-| 13 | [Express Yourself \- DJ Mustard Remix](https://open.spotify.com/track/38sHBE3mTtRm6iLJBmVUWy) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Express Yourself \(Remixes\)](https://open.spotify.com/album/2epDBqFfD9806B77AlQTHi) | 2:31 |
-| 14 | [Sanctified](https://open.spotify.com/track/39RWgrQOBCLQH88wy0TBm9) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Mastermind \(Deluxe\)](https://open.spotify.com/album/6a4HHZe13SySfC50BGy8Hm) | 4:49 |
-| 15 | [HeadBand \(feat\. 2 Chainz\)](https://open.spotify.com/track/2LvRR121MWFmmEGkuV2vQP) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:40 |
+| 13 | [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/7jT2PnjzkziqfxhiMgGs5r) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/1EmaWIpdBQ1QBUf96EltGQ) | 3:50 |
+| 14 | [Express Yourself \- DJ Mustard Remix](https://open.spotify.com/track/38sHBE3mTtRm6iLJBmVUWy) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Express Yourself \(Remixes\)](https://open.spotify.com/album/2epDBqFfD9806B77AlQTHi) | 2:31 |
+| 15 | [Sanctified](https://open.spotify.com/track/39RWgrQOBCLQH88wy0TBm9) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Mastermind \(Deluxe\)](https://open.spotify.com/album/6a4HHZe13SySfC50BGy8Hm) | 4:49 |
+| 16 | [HeadBand \(feat\. 2 Chainz\)](https://open.spotify.com/track/2LvRR121MWFmmEGkuV2vQP) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:40 |
 
-Snapshot ID: `MTUyNTkwMTIzNCwwMDAwMDAwMGUyODFmYWMxMjQzMWFmZjY0M2M3YzkzZGM0ODEyYTdh`
+Snapshot ID: `MTUyNTkwMTIzNCwwMDAwMDAwMDk2MjM0OGQ2OTYwMmQ4ZGNhMmJiNThjN2UwMDUwMjk4`

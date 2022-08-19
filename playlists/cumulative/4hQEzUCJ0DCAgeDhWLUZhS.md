@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Foals
 
-313 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+314 songs - 18 hr 57 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/6ReF4Cn3aG4ehqC4NdrLrV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Crawling Kingsnake](https://open.spotify.com/album/2nK8Pcq0cWqWC0lPapfEcL) | 3:52 | 2021-04-16 | 2022-03-18 |
 | [Crest of the Wave](https://open.spotify.com/track/0B159JJbXHOUtUIChTYVHf) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:46 | 2022-06-17 |  |
 | [Critical Darling](https://open.spotify.com/track/3XFaGEb6daqdj39ThpJ2XI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 6:25 | 2020-10-10\* | 2021-02-25 |
+| [Crooked Tree \(feat\. Zooey Deschanel, Eric D\. Johnson\)](https://open.spotify.com/track/3oMUdutNq0vYvJdY5mkxOJ) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx) | [I’M FUN!](https://open.spotify.com/album/1PV7ACETLIemn6HpJwBpbS) | 3:54 | 2022-08-19 |  |
 | [Culture Head](https://open.spotify.com/track/4ojof8laCdzwYtQhHswbcR) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Culture Head/HWY 666/Black Eyes Blue/CMFT Must Be Stopped \(Featuring Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6VOTHy1g5S9dceKlzCQENd) | 3:59 | 2020-10-10\* | 2022-03-18 |
 | [CURLED IN](https://open.spotify.com/track/750yDjBGlUvxbzEAg5pJyG) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [CURLED IN](https://open.spotify.com/album/0pOi58vWGJ2H9d7ubJk9Ss) | 3:15 | 2021-02-26 | 2022-03-18 |
 | [Cut Dem](https://open.spotify.com/track/7068rW6H1qMYld5LLNuRv3) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/1dKfCyGJeO4WQBvD0X0YSX) | 3:51 | 2020-10-10\* | 2021-02-25 |

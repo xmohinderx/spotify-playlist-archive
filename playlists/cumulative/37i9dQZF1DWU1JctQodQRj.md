@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU1JctQodQRj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU1JctQodQRj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU1JctQodQRj)
 
-### [Bach Relax](https://open.spotify.com/playlist/37i9dQZF1DWU1JctQodQRj)
+### [Relaxing Bach](https://open.spotify.com/playlist/37i9dQZF1DWU1JctQodQRj)
 
 > Let the daily stresses of the world melt away with this peaceful playlist, filled with the warm, comforting melodies of JS Bach.
 

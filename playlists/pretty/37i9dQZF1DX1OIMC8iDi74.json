@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 864707,
+  "num_followers": 864773,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGUwZmVmOGQ5ZTdlYmI5MmFjYThiZDgwMWMwM2Y5YmY2",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDIwYjgwOGQwOGEwZWNjN2JlZjUyN2NkNzM0ZDZiMjMz",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 184273,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "BRAVE",
         "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 220839,
       "name": "DAMN - Bonus Track",
       "url": "https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 184273,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 224017,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Cartel II",
         "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 270000,
       "name": "Fatal Attraction (feat. Reese LAFLARE)",
       "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 224017,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "People I Know",
-        "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 216428,
-      "name": "People I Know",
-      "url": "https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "The One (The Remixes)",
         "url": "https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 160000,
       "name": "The One - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "People I Know",
+        "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 216428,
+      "name": "People I Know",
+      "url": "https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -915,22 +915,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Starman",
-        "url": "https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z"
+        "name": "Only Be Me",
+        "url": "https://open.spotify.com/album/7MVmFdMSkymurPiaOougvl"
       },
       "artists": [
         {
-          "name": "Champagne Drip",
-          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
-        },
-        {
-          "name": "Crystalline",
-          "url": "https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Kaleidoscope (Feat. Crystalline)",
-      "url": "https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI"
+      "duration_ms": 208285,
+      "name": "Only Be Me",
+      "url": "https://open.spotify.com/track/6WXZyYSwlXS5qXISwsKYXE"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -955,18 +951,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Only Be Me",
-        "url": "https://open.spotify.com/album/7MVmFdMSkymurPiaOougvl"
+        "name": "Starman",
+        "url": "https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z"
       },
       "artists": [
         {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          "name": "Champagne Drip",
+          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        {
+          "name": "Crystalline",
+          "url": "https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ"
         }
       ],
-      "duration_ms": 208285,
-      "name": "Only Be Me",
-      "url": "https://open.spotify.com/track/6WXZyYSwlXS5qXISwsKYXE"
+      "duration_ms": 211875,
+      "name": "Kaleidoscope (Feat. Crystalline)",
+      "url": "https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1039,22 +1039,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Red // Blue",
-        "url": "https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG"
+        "name": "Kid Calamity",
+        "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
       },
       "artists": [
         {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+          "name": "Oski",
+          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
         },
         {
-          "name": "DallasK",
-          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+          "name": "The Arcturians",
+          "url": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K"
         }
       ],
-      "duration_ms": 254879,
-      "name": "Crash 2.0",
-      "url": "https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l"
+      "duration_ms": 233600,
+      "name": "Go My Way",
+      "url": "https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1091,22 +1091,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Kid Calamity",
-        "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
+        "name": "Red // Blue",
+        "url": "https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG"
       },
       "artists": [
         {
-          "name": "Oski",
-          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
         },
         {
-          "name": "The Arcturians",
-          "url": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K"
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Go My Way",
-      "url": "https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv"
+      "duration_ms": 254879,
+      "name": "Crash 2.0",
+      "url": "https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        }
-      ],
-      "duration_ms": 150370,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "NO TOMORROW",
         "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Fresh Outta Japan",
-        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
+        "name": "Active",
+        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
       },
       "artists": [
         {
-          "name": "Yasko",
-          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
         }
       ],
-      "duration_ms": 116050,
-      "name": "Fresh Outta Japan",
-      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
+      "duration_ms": 150370,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1559,6 +1543,22 @@
       "duration_ms": 153600,
       "name": "It's Our Destiny",
       "url": "https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Fresh Outta Japan",
+        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
+      },
+      "artists": [
+        {
+          "name": "Yasko",
+          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+        }
+      ],
+      "duration_ms": 116050,
+      "name": "Fresh Outta Japan",
+      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Casper",
-        "url": "https://open.spotify.com/album/4G9owMlxWUofZIN4kwNMDq"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 161279,
-      "name": "Casper",
-      "url": "https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Sad B*tch (Tisoki Remix)",
         "url": "https://open.spotify.com/album/2aOduwWZEWYDJ8389eDUar"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 192000,
       "name": "Sad B*tch (Tisoki Remix)",
       "url": "https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/4G9owMlxWUofZIN4kwNMDq"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 161279,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8"
     },
     {
       "added_at": "2022-08-05 04:01:00",

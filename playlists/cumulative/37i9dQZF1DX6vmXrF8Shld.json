@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1uhMW8QosGPAtGV5RXG64u"
+      },
+      "artists": [
+        {
+          "name": "The Incredible Bongo Band",
+          "url": "https://open.spotify.com/artist/09d32fi1Y0qZDJQ9dj7kKa"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156520,
+      "name": "Bongo Rock",
+      "url": "https://open.spotify.com/track/1yAHShjpL6S7s57aBZjB2x"
+    },
+    {
+      "album": {
         "name": "Best of Loma Records-Rise and Fall of a 1960's Soul Label",
         "url": "https://open.spotify.com/album/5toBacjx2RVc7mVRZ5QHUZ"
       },
@@ -437,6 +455,24 @@
       "duration_ms": 176333,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "album": {
+        "name": "Sleep - The Singles As & Bs, 1955 - 1961",
+        "url": "https://open.spotify.com/album/66NkEqRkwTBmBAf6FlR0IZ"
+      },
+      "artists": [
+        {
+          "name": "Little Willie John",
+          "url": "https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148466,
+      "name": "I'm Shakin'",
+      "url": "https://open.spotify.com/track/0NFLJaA6Pwha8Yd2lGPKzw"
     },
     {
       "album": {

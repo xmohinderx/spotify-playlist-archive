@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 
 > Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived!/「攻殻機動隊」シリーズを彩る音楽をひとつのプレイリストに。©S,IG/K/2045
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,261 likes - 46 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,274 likes - 47 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 | 44 | [what can I say?](https://open.spotify.com/track/1lSQwM1nA9Z7hWPIxN9bLt) | [Sunny](https://open.spotify.com/artist/5t6BdVyILRkDCf14E6Ob1p) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 1:02 |
 | 45 | [the end of all you'll know](https://open.spotify.com/track/6C0wK49dMqpULLzUq5iSyq) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 2:19 |
 | 46 | [flashback memory plug](https://open.spotify.com/track/7qgQ7mACjleBHbsPchKBcU) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [benedict Delmaestro](https://open.spotify.com/artist/5wLsCJYZy1re3sai21VJZj) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 1:06 |
+| 47 | [A Floating Ghost](https://open.spotify.com/track/6YxbVTZ3d2O5vWYbIdPGuE) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [攻殻機動隊 新劇場版 O.S.T\. by Cornelius](https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri) | 1:05 |
 
-Snapshot ID: `MTY1NTgyNzQ4MiwwMDAwMDAwMGE3NjI5NjVlNzE1ZmE0Mzc5MTA5YjllZDI5YTNjMWY3`
+Snapshot ID: `MTY1NTgyNzQ4MiwwMDAwMDAwMDNjYWYwN2IxNTZmOThkYWQzNDEwOWRjNmVkNzgxZjkw`

@@ -1396,6 +1396,24 @@
     },
     {
       "album": {
+        "name": "Min Ant",
+        "url": "https://open.spotify.com/album/5G64uDVMeCjIrzUFRlMlVa"
+      },
+      "artists": [
+        {
+          "name": "Fouad Abdulwahed",
+          "url": "https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294086,
+      "name": "Min Ant",
+      "url": "https://open.spotify.com/track/26PF0qiTHTJtriWMqc5sht"
+    },
+    {
+      "album": {
         "name": "150",
         "url": "https://open.spotify.com/album/2x0sdVHs0nCq3Pr4Tm4Sr1"
       },
@@ -2155,7 +2173,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 247837,
       "name": "Yeshhad Allah",
       "url": "https://open.spotify.com/track/2VZLKUNFYFkGX3Jo0gMdrR"

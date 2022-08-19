@@ -670,6 +670,24 @@
     },
     {
       "album": {
+        "name": "Soul Hits of the 80s",
+        "url": "https://open.spotify.com/album/1t9cBcn6XLBwjdZGrqRa8y"
+      },
+      "artists": [
+        {
+          "name": "Midnight Star",
+          "url": "https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233973,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/4nadecqEmEIuLovLrOUF9A"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/6jEhtIGOpUgLG5EivDFxGS"
       },

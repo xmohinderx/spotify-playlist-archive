@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: Young Cister & Pailita.
 
-158 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/2FMJDC0qJwnjZnSiGHmfDy)
+159 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/2FMJDC0qJwnjZnSiGHmfDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Locura y Maldad](https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Locura y Maldad](https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j) | 3:20 | 2022-05-23 |  |
 | [Lokita](https://open.spotify.com/track/6v68kcCo2A9Oc0dep5aJ66) | [Alex Got](https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX), [Falsetto](https://open.spotify.com/artist/0D32yLpOpAgkcrGs4C14LO) | [Lokita](https://open.spotify.com/album/2tLtGNCPCET6mi2lz9A3BL) | 3:28 | 2022-06-24 | 2022-07-08 |
 | [Lokotron](https://open.spotify.com/track/7iiGybCvvxewpa62bPhNzB) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [Lokotron](https://open.spotify.com/album/2PIjuldxWvjGtpA9SiCYvM) | 3:33 | 2022-05-23 | 2022-07-05 |
-| [Los Malvekes](https://open.spotify.com/track/1AnJQd8TfkhK6M3VgZDVv1) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Los Malvekes](https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7) | 3:38 | 2022-05-23 |  |
+| [Los Malvekes](https://open.spotify.com/track/1AnJQd8TfkhK6M3VgZDVv1) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Los Malvekes](https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7) | 3:38 | 2022-05-23 | 2022-08-19 |
+| [Los Malvekes](https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Los Malvekes](https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71) | 3:38 | 2022-08-12 |  |
 | [MARIMBA GRINGA](https://open.spotify.com/track/7KI6CvvTqXCuENTM6xJ3dX) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [MARIMBA GRINGA](https://open.spotify.com/album/3nF9LhqFqL6EL1HnwTxWlS) | 3:05 | 2022-05-23 |  |
 | [Marisola](https://open.spotify.com/track/2pR6bipXfJySBhje19SW02) | [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Marisola](https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp) | 3:04 | 2022-07-22 |  |
 | [MBG](https://open.spotify.com/track/3OZJOxPjhoB01opaziStI4) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [MBG](https://open.spotify.com/album/3wmxGr5NfJsmU3wlWSyIAz) | 3:57 | 2022-05-23 | 2022-08-13 |

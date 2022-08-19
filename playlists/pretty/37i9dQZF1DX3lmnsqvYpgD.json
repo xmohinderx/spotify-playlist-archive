@@ -1,12 +1,12 @@
 {
   "description": "\u53ea\u6709\u6563\u6b65\uff0c\u6211\u5011\u624d\u662f\u771f\u6b63\u804a\u5929\u3002\u908a\u9996\u5ee3\u6771\u6b4c\uff0c\u4ee4\u4f60\u8ad7\u8d77\u540c\u4f60\u6563\u6b65\u5605\u4f62\uff1f",
-  "num_followers": 24716,
+  "num_followers": 24717,
   "original_name": "\u9999\u6e2f\u6563\u6b65",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA1MDk4MiwwMDAwMDAwMDYzYWNmM2M5YzAwNjNjMzc3MWVjYjE3NmRiMjQ3Yjlm",
+  "snapshot_id": "MTY1NjA1MDk4MiwwMDAwMDAwMGEwMWM4NzBjYzlhZmRkZjkzODYzYjJiYWFjNzY5NDcw",
   "tracks": [
     {
       "added_at": "2022-06-24 06:09:42",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-04-11 15:11:33",
       "album": {
+        "name": "Natural Shine",
+        "url": "https://open.spotify.com/album/21yHT6rQyk5LIPebcxd44V"
+      },
+      "artists": [
+        {
+          "name": "Shine",
+          "url": "https://open.spotify.com/artist/4NtDRhFDqdfyTiahAuBbCt"
+        }
+      ],
+      "duration_ms": 241653,
+      "name": "\u907f\u96e8",
+      "url": "https://open.spotify.com/track/0qHGHRda6vroJzRgQO702Y"
+    },
+    {
+      "added_at": "2022-04-11 15:11:33",
+      "album": {
         "name": "\u6797\u4e00\u5cf0\u7684\u5e8a\u982d\u6b4c",
         "url": "https://open.spotify.com/album/6kERODjoPQKk2KyRrbillA"
       },
@@ -683,6 +699,22 @@
     {
       "added_at": "2022-04-11 15:11:33",
       "album": {
+        "name": "The Best Of Shine",
+        "url": "https://open.spotify.com/album/342p3f9MbhdfZZa7OdnbMI"
+      },
+      "artists": [
+        {
+          "name": "Shine",
+          "url": "https://open.spotify.com/artist/4NtDRhFDqdfyTiahAuBbCt"
+        }
+      ],
+      "duration_ms": 228530,
+      "name": "\u71d5\u5c3e\u8776",
+      "url": "https://open.spotify.com/track/2SLwPaJTN6B6zwcIwsuQAK"
+    },
+    {
+      "added_at": "2022-04-11 15:11:33",
+      "album": {
         "name": "\u518d\u6b21\u5fc3\u8df3",
         "url": "https://open.spotify.com/album/1aU3bXT5CzYZzQcN9Fjxo5"
       },
@@ -743,6 +775,42 @@
       "duration_ms": 244306,
       "name": "Never Been Kissed (Acoustic Version)",
       "url": "https://open.spotify.com/track/6Peafc0Wzi087a0aiCdll7"
+    },
+    {
+      "added_at": "2022-04-11 15:11:33",
+      "album": {
+        "name": "Free Love",
+        "url": "https://open.spotify.com/album/31jMpL1axpfRsRpprYbJI5"
+      },
+      "artists": [
+        {
+          "name": "Denise Ho",
+          "url": "https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Shampoo",
+      "url": "https://open.spotify.com/track/0wQNgVsMZvtWrcFovZSCvI"
+    },
+    {
+      "added_at": "2022-04-11 15:11:33",
+      "album": {
+        "name": "\u534a\u719f\u7537\u5b69",
+        "url": "https://open.spotify.com/album/0ucTkWNWsGlkF8Md5CPfSf"
+      },
+      "artists": [
+        {
+          "name": "Shine",
+          "url": "https://open.spotify.com/artist/4NtDRhFDqdfyTiahAuBbCt"
+        },
+        {
+          "name": "Huang You Nan",
+          "url": "https://open.spotify.com/artist/64amLofwuftrbd1tPijvBP"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "\u96ea\u6ac3 (Feat.\u9ec3\u53c8\u5357)",
+      "url": "https://open.spotify.com/track/53BAk0hBoWTlsfbLe2GjD5"
     },
     {
       "added_at": "2022-04-11 15:11:33",
@@ -1051,6 +1119,22 @@
     {
       "added_at": "2022-04-11 15:11:33",
       "album": {
+        "name": "Hocc2",
+        "url": "https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7"
+      },
+      "artists": [
+        {
+          "name": "Denise Ho",
+          "url": "https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "\u672a\u4f86",
+      "url": "https://open.spotify.com/track/4vZQRFmvaVuZ5yXiN5inrd"
+    },
+    {
+      "added_at": "2022-04-11 15:11:33",
+      "album": {
         "name": "CURATIONS",
         "url": "https://open.spotify.com/album/0Hxhz3uR4niGUnu3Y1mhWs"
       },
@@ -1095,6 +1179,22 @@
       "duration_ms": 156706,
       "name": "\u5982\u4f55\u5f9e\u590f\u5929\u6d3b\u904e\u4f86",
       "url": "https://open.spotify.com/track/53eahOq9YNDuppsBiH2BZf"
+    },
+    {
+      "added_at": "2022-04-11 15:11:33",
+      "album": {
+        "name": "\u51fa\u8d70",
+        "url": "https://open.spotify.com/album/3zrNfBfkmLxrOgNktr70em"
+      },
+      "artists": [
+        {
+          "name": "Panther Chan",
+          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
+        }
+      ],
+      "duration_ms": 318913,
+      "name": "\u51fa\u8d70",
+      "url": "https://open.spotify.com/track/30ZDOmEwAfijYVCHiNXhxU"
     },
     {
       "added_at": "2022-04-11 15:11:33",

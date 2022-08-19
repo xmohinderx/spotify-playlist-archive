@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 50 years of the original artists, songs, and recordings from the iconic 1969 Woodstock Music Festival",
-  "num_followers": 149216,
+  "num_followers": 149301,
   "original_name": "Woodstock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2NTg4Nzg2MCwwMDAwMDAwMDliZTBlODhiMzEzNGFjMDdkYjE2M2UzMGU3NGVjYTg4",
+  "snapshot_id": "MTU2NTg4Nzg2MCwwMDAwMDAwMDY1OTFmMzk1ZTVlNDU1ODU2NGM1MjQ5ZjQwM2M2NDgz",
   "tracks": [
     {
       "added_at": "2019-08-15 16:51:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2019-08-15 16:51:00",
       "album": {
+        "name": "Neil Young Archives Vol. I (1963 - 1972)",
+        "url": "https://open.spotify.com/album/7KB2kvAO7bj7X6HRQmuZ4Q"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Sea of Madness - Live at Woodstock",
+      "url": "https://open.spotify.com/track/4Llc9Qm1Oag9Pl5TTF1jnq"
+    },
+    {
+      "added_at": "2019-08-15 16:51:00",
+      "album": {
         "name": "Crosby, Stills & Nash",
         "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
       },
@@ -1179,6 +1195,30 @@
     {
       "added_at": "2019-08-15 16:51:00",
       "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/4lzu0HmhbocnBCQQDHiL40"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Andy Macpherson",
+          "url": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+        },
+        {
+          "name": "Jon Astley",
+          "url": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+        }
+      ],
+      "duration_ms": 38600,
+      "name": "It's A Boy - Remixed Album Version",
+      "url": "https://open.spotify.com/track/7vdWwT6E020E9AupxB30eP"
+    },
+    {
+      "added_at": "2019-08-15 16:51:00",
+      "album": {
         "name": "The Who Hits 50 (Deluxe)",
         "url": "https://open.spotify.com/album/0FVnJBGOQD3Kx2x87Er2Az"
       },
@@ -1191,6 +1231,54 @@
       "duration_ms": 216596,
       "name": "See Me, Feel Me - Single Version",
       "url": "https://open.spotify.com/track/7HVLE4CWBQjQi3Vyiz0fbe"
+    },
+    {
+      "added_at": "2019-08-15 16:51:00",
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/4lzu0HmhbocnBCQQDHiL40"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Andy Macpherson",
+          "url": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+        },
+        {
+          "name": "Jon Astley",
+          "url": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "Amazing Journey - Remixed Album Version",
+      "url": "https://open.spotify.com/track/6hezLoA5gqsiaPY8TmIE30"
+    },
+    {
+      "added_at": "2019-08-15 16:51:00",
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/4lzu0HmhbocnBCQQDHiL40"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Andy Macpherson",
+          "url": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+        },
+        {
+          "name": "Jon Astley",
+          "url": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+        }
+      ],
+      "duration_ms": 428333,
+      "name": "We're Not Gonna Take It - Remixed Album Version",
+      "url": "https://open.spotify.com/track/34P7GzADn3f3SO54mI36bY"
     },
     {
       "added_at": "2019-08-15 16:51:00",

@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-308 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+314 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,10 +137,12 @@
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2021-11-10 | 2022-01-22 |
 | [In Her Mind](https://open.spotify.com/track/0TvJASLNEqBuPOpzsVNNMA) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [In Her Mind](https://open.spotify.com/album/0fgANIRVPHa8zDIGOCBXXK) | 1:42 | 2022-04-15 |  |
 | [in solitude](https://open.spotify.com/track/0AObwfIRlQauAl0GgRB0vk) | [réel vie](https://open.spotify.com/artist/6o4jkladkbsym75YLbCDB6) | [in solitude](https://open.spotify.com/album/5GXDZ4lnQfcxdvMQfGCRGx) | 3:23 | 2021-11-10 | 2022-05-20 |
+| [ineludibile](https://open.spotify.com/track/0HhbAv27JYas4KxW5V9EfQ) | [navigliairbnb](https://open.spotify.com/artist/2PqDOSLvgwyLNEb68hVP5z) | [ineludibile](https://open.spotify.com/album/5z0pUfdBheEtEXax6XSWNE) | 2:27 | 2022-08-19 |  |
 | [intheshadow](https://open.spotify.com/track/7uuuKH7gERcMn0DZzehIzi) | [Ai Bolako](https://open.spotify.com/artist/1uPqipOxJdAWqWaoVGywSV) | [intheshadow](https://open.spotify.com/album/6nvk51yGLV7Q54S3coE0Ue) | 2:06 | 2021-11-10 | 2022-06-03 |
 | [Isotropic](https://open.spotify.com/track/65akmuRiBnvX9qQoEwUT4f) | [Sonalis](https://open.spotify.com/artist/3n6RFRevPSBR62Ae3LgPlY) | [Isotropic](https://open.spotify.com/album/45Ou3IRgSS28SjPGvScIw0) | 2:52 | 2021-11-10 | 2022-07-08 |
 | [JEXX](https://open.spotify.com/track/6YpDv0MdrR39AQBy8qwn9g) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [JEXX](https://open.spotify.com/album/4DW0MR2Cas3wyZ7gXfzb5Y) | 2:12 | 2021-11-10 |  |
 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 | 2021-11-10 |  |
+| [kaisen trippa](https://open.spotify.com/track/2A5AnYAaPt9eLwRRUQGYhW) | [SpizyAnice](https://open.spotify.com/artist/2EfobqosVRmphWbrOEIn0Q) | [kaisen trippa](https://open.spotify.com/album/17WfMYFB7RGc1sNocQMqbu) | 2:08 | 2022-08-19 |  |
 | [Keep Keepin On](https://open.spotify.com/track/3n7zfj79mavt7QnjuTw2QQ) | [Calitto](https://open.spotify.com/artist/0sUKrTh4bykVgGFl67aau5) | [Keep Keepin On](https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q) | 3:27 | 2021-11-10 | 2022-01-22 |
 | [Keep on Keepin' On](https://open.spotify.com/track/6T6Uf0q0Jpe5t4LnFQU3tM) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Keep On Keepin' On](https://open.spotify.com/album/3kPWOAZcaf92yz139YLcbL) | 2:20 | 2021-11-10 | 2022-07-08 |
 | [Kids Orchestra](https://open.spotify.com/track/4WfaRjKZKgqfbc57XQszlN) | [Woodly Fields](https://open.spotify.com/artist/3ur5AmVKeInQ8lGOP4kvBF) | [Kids Orchestra](https://open.spotify.com/album/61HAYTMWpBzRpcyg36xaM2) | 1:52 | 2022-07-01 |  |
@@ -169,6 +171,7 @@
 | [Lumina Mov](https://open.spotify.com/track/6u1PJVc6R2HjO9VmArEqAC) | [Undeva Ploua](https://open.spotify.com/artist/2pTLeyGB0F7IAftkVc3nga) | [Lucid Moments](https://open.spotify.com/album/6RlE8VrwG6K3Bqs3NbuxwV) | 1:51 | 2022-02-10 |  |
 | [LV](https://open.spotify.com/track/6hsUEoIwD9Oq1wqwzdCr8J) | [Robot Robit](https://open.spotify.com/artist/3ZQr5RhizqlZaMgx0SY1jD) | [LV](https://open.spotify.com/album/3Rz2yFrvSzt6rO362bb30P) | 3:03 | 2022-01-21 |  |
 | [Mad Trippin’](https://open.spotify.com/track/7AE1n5dKg90RSCegKcfFf9) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Baptastic](https://open.spotify.com/album/4WMQeCtlpbZvBSFWoDcp83) | 1:47 | 2021-11-10 |  |
+| [Magic](https://open.spotify.com/track/6QLeR0bc0Iq3McZdan8Go3) | [Slowman](https://open.spotify.com/artist/26N8p8FkVBDkknf1icZGIl) | [Magic](https://open.spotify.com/album/1EYDbFXJjmhfBy4vNtZyvB) | 2:17 | 2022-08-19 |  |
 | [Magische Farben](https://open.spotify.com/track/4gvMBplqidY6XU4ZK5ITUQ) | [Karl Rosskopf](https://open.spotify.com/artist/4kpLFREUgmoCqpRrAjYhRw), [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [Magische Farben](https://open.spotify.com/album/1NRFEGZ63qdhitJWNIyALL) | 2:48 | 2021-11-10 | 2022-07-08 |
 | [Make It Count](https://open.spotify.com/track/70EPJbHlSO1Dkkmil1IP6b) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Make It Count](https://open.spotify.com/album/2cRKaFS1CgsSizxPQC6ca6) | 3:03 | 2021-11-10 |  |
 | [making mixtapes](https://open.spotify.com/track/3zFvlfTZuoM8yYpDGqBQWm) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF) | [making mixtapes](https://open.spotify.com/album/78d1kuIGISTSexice5zMFV) | 1:49 | 2022-05-10 |  |
@@ -190,6 +193,7 @@
 | [Molecular Force](https://open.spotify.com/track/15cnM6N7rgjv7mBAHLiG63) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Molecular Force](https://open.spotify.com/album/4av4XmjYKDALjdQKSTozLZ) | 1:42 | 2021-11-10 | 2022-07-08 |
 | [Montreux](https://open.spotify.com/track/5BCogYGUcjCVn7u6aYarva) | [Desoncote](https://open.spotify.com/artist/5aMtYcDTbmtmG2VeCDq0zi) | [Montreux](https://open.spotify.com/album/6DNfPtbVjz5s4qoOIttveN) | 2:15 | 2021-11-10 |  |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2021-11-10 |  |
+| [More of this, Please](https://open.spotify.com/track/1rpgqpnLdGtsYl4ySLoH58) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [More of this, Please](https://open.spotify.com/album/1Fho1AQFCUj9wQYi7RNt8A) | 4:25 | 2022-08-19 |  |
 | [My Guitar Gently Beeps](https://open.spotify.com/track/5cCU1vF7kwZDveCsSeEFSO) | [Leandi](https://open.spotify.com/artist/6s4kY85iUHP3nFjmuMbxUH) | [Paradise Sub](https://open.spotify.com/album/2KdzvnbDgx3hAfHpk2UJAn) | 1:36 | 2021-11-10 | 2022-07-08 |
 | [MYSA](https://open.spotify.com/track/69ylUPLusue7f4Q1fyiEdr) | [Anitek](https://open.spotify.com/artist/0Idi5CuVXznxRkxzdUtdcQ) | [MYSA](https://open.spotify.com/album/5JJ4qtCv1tbWT1cp6jWac6) | 2:30 | 2022-04-15 |  |
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2021-11-10 |  |
@@ -277,6 +281,7 @@
 | [Sunset Nights](https://open.spotify.com/track/0SUIQ3g1UZjEXaISeOu2DH) | [Dartn’Yang](https://open.spotify.com/artist/7cppvgRFy7EDAl9a1itQDT) | [Sunset Nights](https://open.spotify.com/album/3fYsE9sLnfUSGYu4Mr4h8S) | 2:29 | 2021-11-10 | 2022-02-11 |
 | [T T T](https://open.spotify.com/track/6ViihlNChcSkC2L4MoGEJ7) | [Flite Crew](https://open.spotify.com/artist/4VglloPs1MLbkV0TAyGZzP) | [Wiktoria](https://open.spotify.com/album/7hXi2g38I1GwsArIAy8iHE) | 2:18 | 2022-04-05 |  |
 | [The catch](https://open.spotify.com/track/2oDUcv2j140hzwPeZUKMWn) | [Naken.](https://open.spotify.com/artist/6MASa6n2anhamIe2oJnD4v) | [The catch](https://open.spotify.com/album/0SRmSvP5j5iRF4SMYwY2dC) | 1:51 | 2022-04-15 |  |
+| [The Ethereal](https://open.spotify.com/track/0SX89QeyR4Pvberfp2zA4z) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [The Ethereal](https://open.spotify.com/album/4mbpPhabxOkZt15ttkuIad) | 4:50 | 2022-08-19 |  |
 | [The Refined Man](https://open.spotify.com/track/5UuUrMvPPVfYMTG349zKfs) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Wanderlust](https://open.spotify.com/album/0K7VVnjrbKfCFHw2FnjIjs) | 2:16 | 2021-11-10 |  |
 | [The Root](https://open.spotify.com/track/3E2orGjD3CryCi8YJKBISZ) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/6q6llTQtc44REoCEtpuOQG) | 3:28 | 2022-04-15 |  |
 | [The Yellow Taxi](https://open.spotify.com/track/2t7CtXjvm9a4tVl8rj6O05) | [Tethered Ghosts](https://open.spotify.com/artist/4tMeBDw2jUzYYCxx4MqlVM) | [Left on Read](https://open.spotify.com/album/0p3KQ3yiMRA82ueeUAdcIq) | 2:44 | 2022-01-21 |  |
@@ -310,6 +315,7 @@
 | [Waves](https://open.spotify.com/track/1A2pH62d1USSUsxuoiRD8l) | [Navagio](https://open.spotify.com/artist/4IZVQx6ZkiGS5yIhLQvhf8) | [Waves](https://open.spotify.com/album/4bSGU58KwhgotZ3SETiZso) | 2:38 | 2021-11-10 |  |
 | [Weave](https://open.spotify.com/track/4iYFb2ChzBJ2CvgtePMpSM) | [Kyra Mora](https://open.spotify.com/artist/25XZKnvJlYGzMYE0qty5OM) | [Weave](https://open.spotify.com/album/1Pv9MqpZohiDQ8lKOWhLnP) | 2:33 | 2021-11-10 | 2022-07-08 |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2021-11-10 |  |
+| [When the lights are out](https://open.spotify.com/track/0dHjcYFbChsnfp1gD1leue) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Night Vibes](https://open.spotify.com/album/2MJHtNfn9mlrogJJ7seBJO) | 2:40 | 2022-08-19 |  |
 | [Why, Rose?](https://open.spotify.com/track/0gSirh7kcMYR6wkFkOyJ6y) | [d33p s3a discovery](https://open.spotify.com/artist/2FBIvMH247jNfSX50f9QSg) | [Why, Rose?](https://open.spotify.com/album/6i4SxcWjGiYJiuiWhFtd9u) | 1:47 | 2021-11-10 |  |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-11-10 | 2022-04-06 |
 | [Wonderland](https://open.spotify.com/track/7zo53YenWv2I2cSRxkM24D) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Wonderland](https://open.spotify.com/album/1IJODkkOhE5bBgcGoev3sZ) | 2:27 | 2022-05-27 |  |

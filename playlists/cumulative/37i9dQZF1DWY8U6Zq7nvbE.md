@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs right now.
 
-138 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
+139 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Ransom](https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Ransom](https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb) | 2:46 | 2021-03-11 |  |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2021-03-11 |  |
 | [Real Life \- Acoustic](https://open.spotify.com/track/2ytXqUZv6ArPUjoGXOCJKU) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Real Life \(Acoustic\)](https://open.spotify.com/album/1zAb5Kc43sgT9fBERtmQKO) | 3:14 | 2021-03-11 |  |
+| [Rumors \- Acoustic](https://open.spotify.com/track/60kWX5prDkebrWqXxWG0CZ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [The Wave EP \(Acoustic\)](https://open.spotify.com/album/3RO3XNk7yrP6Q6I4dnnRQ6) | 1:45 | 2021-03-11 |  |
 | [Rumors \- Acoustic](https://open.spotify.com/track/65Yuc4cz9ozKZKj40dfFcg) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Rumors \(Acoustic\)](https://open.spotify.com/album/5U0H4fUs3bSdNG4ALQJwMu) | 1:45 | 2021-03-11 | 2022-07-28 |
 | [Sad Tonight \- Acoustic](https://open.spotify.com/track/1aXIgw5xYdFSZhoK1f6VbI) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sad Tonight \(Original + Acoustic\)](https://open.spotify.com/album/3NkEzmCBqHZiLjoJsRpG5L) | 3:13 | 2021-03-11 |  |
 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 | 2021-03-11 |  |
@@ -143,7 +144,7 @@
 | [We Never Die \(Acoustic\)](https://open.spotify.com/track/4m2jS7f5DaeDyy7cJXndOA) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [We Never Die \(Acoustic\)](https://open.spotify.com/album/7GlnzgTYL2iBLAziFaTpyx) | 3:14 | 2021-03-11 |  |
 | [We Used To](https://open.spotify.com/track/5UNCOsLJ9I45AmOwrKjHPK) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV), [Kunis](https://open.spotify.com/artist/6S3DzPANfTWOacHiKfOsEX), [Richie Nuzz](https://open.spotify.com/artist/5oRdpu7dD17viMa3uhXMk2) | [We Used To](https://open.spotify.com/album/6dX82RtIYbiZBXHJmhlYM1) | 2:38 | 2021-03-11 |  |
 | [Wherever You Will Go](https://open.spotify.com/track/2JrSlOdxkzlJEAOPgIUhAj) | [Le Vitates](https://open.spotify.com/artist/5ao5cOf9lGP6pyIESuiaf1), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Wherever You Will Go](https://open.spotify.com/album/59MYGCo3YrAhdNkOomscha) | 3:43 | 2021-03-11 |  |
-| [Whiplash \- Acoustic](https://open.spotify.com/track/28dE98TER0FDRbPgXEvPAI) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw) | 2:25 | 2021-03-11 |  |
+| [Whiplash \- Acoustic](https://open.spotify.com/track/28dE98TER0FDRbPgXEvPAI) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw) | 2:25 | 2021-03-11 | 2022-08-19 |
 | [Whiplash \- Acoustic](https://open.spotify.com/track/1qW9MoSFuSRTh7iJ8nf6wV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Kaela Sinclair](https://open.spotify.com/artist/3gWrqVNUebQF7alIH0bzZ8) | [Whiplash \(Acoustic\)](https://open.spotify.com/album/2p9CwOdI1bCw4vZ9TIG1rx) | 2:25 | 2021-03-11 | 2022-07-29 |
 | [You \(with Marshmello & Vance Joy\) \- Acoustic](https://open.spotify.com/track/2wcseriGAqeodDazDXgmaq) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [You \(with Marshmello & Vance Joy\) \[Main + Acoustic\]](https://open.spotify.com/album/0XqS6EE0TuqdLrhJVo06jL) | 2:31 | 2021-03-11 |  |
 

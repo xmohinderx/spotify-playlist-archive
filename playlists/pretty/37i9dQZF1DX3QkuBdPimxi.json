@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODgwNjA2OCwwMDAwMDAwMGFmN2UwODAwNWU2Y2VhMWE2MTEwY2NkNjZmZWIxZGFm",
+  "snapshot_id": "MTYzODgwNjA2OCwwMDAwMDAwMGNjZDIwMDYxN2Q2MzkzN2U0NmRlYzNkZmY0NjlkYjk0",
   "tracks": [
     {
       "added_at": "2021-12-06 15:54:28",
@@ -23,6 +23,22 @@
       "duration_ms": 156826,
       "name": "Why Does the Sun Shine?",
       "url": "https://open.spotify.com/track/1wfa3vAiIAbSxHbzKoSPuS"
+    },
+    {
+      "added_at": "2021-12-06 15:54:28",
+      "album": {
+        "name": "For The Kids Three",
+        "url": "https://open.spotify.com/album/1Dr9Qai7RQUBTtqLrJDo2A"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "See You On The Moon",
+      "url": "https://open.spotify.com/track/1yr5hO90Bn3fZ8SL3dZnIq"
     },
     {
       "added_at": "2021-12-06 15:54:28",

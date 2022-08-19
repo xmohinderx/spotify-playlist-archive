@@ -788,6 +788,24 @@
     },
     {
       "album": {
+        "name": "Back to Life (Birthdae)",
+        "url": "https://open.spotify.com/album/6caxt5SHHvkw9hfTMMgRgt"
+      },
+      "artists": [
+        {
+          "name": "ScurtDae",
+          "url": "https://open.spotify.com/artist/3asPo62n9VYDmN6FIkCcEk"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157309,
+      "name": "Back to Life (Birthdae)",
+      "url": "https://open.spotify.com/track/4iGKPU8XBlsUoOoyvsFhLw"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 147851,
       "name": "Daleko",
       "url": "https://open.spotify.com/track/7n8TQPcPNpmzfKpTBBzsMh"

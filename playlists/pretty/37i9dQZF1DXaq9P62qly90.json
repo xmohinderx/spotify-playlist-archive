@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 11267,
+  "num_followers": 11272,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMDY5NjdkZDQ4NTZiM2JmY2VhNWI5YzljZDYwNTAxODI3",
+  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMDliOGE3YmFmOGJiMmUxMjRlZmQxNGJhN2NiOWY5NTBm",
   "tracks": [
     {
       "added_at": "2020-11-25 03:15:55",
@@ -227,22 +227,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "The Cornerstone",
-        "url": "https://open.spotify.com/album/27QcGr8iNyMvM2JvARlX47"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 240654,
-      "name": "Wind On My Back",
-      "url": "https://open.spotify.com/track/1aVYeyLNQSCvJgAIAR9xVb"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Campfire Anthems, Vol. I",
         "url": "https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 222850,
       "name": "All Ways Love",
       "url": "https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "The Cornerstone",
+        "url": "https://open.spotify.com/album/27QcGr8iNyMvM2JvARlX47"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 240654,
+      "name": "Wind On My Back",
+      "url": "https://open.spotify.com/track/1aVYeyLNQSCvJgAIAR9xVb"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -319,22 +319,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Leylines",
-        "url": "https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "Harmonize",
-      "url": "https://open.spotify.com/track/7m18pXVZiJFy3tCcloKyoo"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "HOKA",
         "url": "https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 321388,
       "name": "Tus Pies (Your Feet)",
       "url": "https://open.spotify.com/track/1K8fvoDctaQ9unJB40F5Qj"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "Leylines",
+        "url": "https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "Harmonize",
+      "url": "https://open.spotify.com/track/7m18pXVZiJFy3tCcloKyoo"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "You're It!",
-        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
-      },
-      "artists": [
-        {
-          "name": "Wookiefoot",
-          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Don't Hold Your Breath",
-      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Take Your Power Back",
         "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 236064,
       "name": "Garden",
       "url": "https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "You're It!",
+        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
+      },
+      "artists": [
+        {
+          "name": "Wookiefoot",
+          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Don't Hold Your Breath",
+      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "You Ain't Going Nowhere",
-        "url": "https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 145404,
-      "name": "You Ain't Going Nowhere",
-      "url": "https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "My Name Is Bear",
         "url": "https://open.spotify.com/album/4oocWIC3N2ZSmFPy2u1Zor"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 285480,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/5BVt0NrZm3FEEYqj0zrxGf"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "You Ain't Going Nowhere",
+        "url": "https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 145404,
+      "name": "You Ain't Going Nowhere",
+      "url": "https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Burn Right Through",
-        "url": "https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Keep Running",
-      "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Heroin and Helicopters",
         "url": "https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 169689,
       "name": "Just to Say I Love You",
       "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "Burn Right Through",
+        "url": "https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Keep Running",
+      "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -707,22 +707,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Angels Above Me",
-        "url": "https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 266746,
-      "name": "Angels Above Me",
-      "url": "https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "HOKA",
         "url": "https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 261006,
       "name": "Directions",
       "url": "https://open.spotify.com/track/2h5silGx7nHrQ6IWMw1huo"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "Angels Above Me",
+        "url": "https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "Angels Above Me",
+      "url": "https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -831,22 +831,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5"
-      },
-      "artists": [
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        }
-      ],
-      "duration_ms": 197983,
-      "name": "She Go",
-      "url": "https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Take Your Power Back",
         "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 207485,
       "name": "Lifeguard",
       "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5"
+      },
+      "artists": [
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        }
+      ],
+      "duration_ms": 197983,
+      "name": "She Go",
+      "url": "https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc"
     }
   ],
   "unique_name": "Peace Of Mind",

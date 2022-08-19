@@ -690,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Grinning Cat",
+        "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154493,
+      "name": "I Imagine",
+      "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
+    },
+    {
+      "album": {
         "name": "When the Detail Lost Its Freedom",
         "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
@@ -1152,6 +1170,28 @@
     },
     {
       "album": {
+        "name": "Inlandish",
+        "url": "https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        },
+        {
+          "name": "Tim Story",
+          "url": "https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197280,
+      "name": "Ripple and Fade",
+      "url": "https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu"
+    },
+    {
+      "album": {
         "name": "Venice",
         "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
       },
@@ -1449,6 +1489,28 @@
       "duration_ms": 231240,
       "name": "The Mist",
       "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
+    },
+    {
+      "album": {
+        "name": "Inlandish",
+        "url": "https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        },
+        {
+          "name": "Tim Story",
+          "url": "https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187960,
+      "name": "The Orchardist",
+      "url": "https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ"
     },
     {
       "album": {

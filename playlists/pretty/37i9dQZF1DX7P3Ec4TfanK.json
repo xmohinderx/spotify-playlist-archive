@@ -1,12 +1,12 @@
 {
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e carica musicale! ",
-  "num_followers": 303746,
+  "num_followers": 303767,
   "original_name": "Caff\u00e8 del Buongiorno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzc5NjEwMSwwMDAwMDAwMGRmZTI5NGNkY2M2NDc0ODVjYzdlMWUzNmY5MWJhMWY3",
+  "snapshot_id": "MTY1Nzc5NjEwMSwwMDAwMDAwMDExZTE1MWQwNzQ5NjhjZjFjMWVjZGEwOTU5YWMzMzY1",
   "tracks": [
     {
       "added_at": "2022-07-14 10:55:01",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-07-14 10:55:01",
       "album": {
-        "name": "Take You Dancing",
-        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Take You Dancing",
-      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
-    },
-    {
-      "added_at": "2022-07-14 10:55:01",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
+    },
+    {
+      "added_at": "2022-07-14 10:55:01",
+      "album": {
+        "name": "Take You Dancing",
+        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Take You Dancing",
+      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
     },
     {
       "added_at": "2022-07-14 10:55:01",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2022-07-14 10:55:01",
       "album": {
-        "name": "I love you baby",
-        "url": "https://open.spotify.com/album/0rVtGENSOaBniMuuxBLvi6"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        },
-        {
-          "name": "Sixpm",
-          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
-        }
-      ],
-      "duration_ms": 212985,
-      "name": "I love you baby",
-      "url": "https://open.spotify.com/track/1AbtrHeUDmWsYUsRApmICf"
-    },
-    {
-      "added_at": "2022-07-14 10:55:01",
-      "album": {
         "name": "Tick Tock (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
+    },
+    {
+      "added_at": "2022-07-14 10:55:01",
+      "album": {
+        "name": "I love you baby",
+        "url": "https://open.spotify.com/album/0rVtGENSOaBniMuuxBLvi6"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        },
+        {
+          "name": "Sixpm",
+          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
+        }
+      ],
+      "duration_ms": 212985,
+      "name": "I love you baby",
+      "url": "https://open.spotify.com/track/1AbtrHeUDmWsYUsRApmICf"
     },
     {
       "added_at": "2022-07-14 10:55:01",

@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Nate Husser
 
-491 songs - 22 hr 58 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
+492 songs - 23 hr 0 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Red Sky at Night \- Remix](https://open.spotify.com/track/0ZlZixN3jgIiqoMrVuxpM1) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Taabu](https://open.spotify.com/artist/0RXaY77Aco3OGTxAi4ZKWC), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Red Sky at Night \(Remix\)](https://open.spotify.com/album/3kfl7H5Jw38bCBQBfdzfLl) | 3:56 | 2022-04-01 |  |
 | [Reggie Noble](https://open.spotify.com/track/5VIWmbY5r73A7QOwbQvYKt) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Reggie Noble](https://open.spotify.com/album/3oWKw2ucMAlwLlB3zeHcdl) | 2:29 | 2022-02-25 | 2022-03-05 |
 | [Regret It](https://open.spotify.com/track/5qOgjsmDk4YY8it7D7MDLG) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Regret It](https://open.spotify.com/album/3xPVo6ihL0PDE0y80Y1KSa) | 2:49 | 2022-04-29 | 2022-05-28 |
+| [RELAX](https://open.spotify.com/track/2fpmqBueaWpNCm954YVjmi) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [RELAX](https://open.spotify.com/album/6jx34gifWgwRq725o9bDdL) | 2:53 | 2022-08-12 |  |
 | [Relax](https://open.spotify.com/track/0W2iW6JdwxbX3gq2nhEQMn) | [Keysha Freshh](https://open.spotify.com/artist/5dOPo7YOqsRrH0cqw8ol3u), [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Relax](https://open.spotify.com/album/5nYavIRu5TclVu5MopyDab) | 2:15 | 2022-07-08 |  |
 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 | 2022-04-29 | 2022-07-23 |
 | [Requiem \(ft NAV\)](https://open.spotify.com/track/68oeG9NrArNdCxofrRpFru) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [See You Next Wednesday](https://open.spotify.com/album/7jJsNB4u538DpyZckBEKsB) | 3:39 | 2022-01-07 | 2022-02-26 |

@@ -4,7 +4,7 @@
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Ffion
 
-392 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
+393 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Cinta](https://open.spotify.com/track/0jkJChuTxiVr05C2oUAlht) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/1gAC5jqOsnhlGjfucDDkWo) | 3:54 | 2022-03-18 | 2022-05-04 |
 | [Cinta](https://open.spotify.com/track/390rIF5dbH5QRIb7r3NxOF) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/2aPLN3NAn2iPab8GMY4pV5) | 3:54 | 2022-03-07 | 2022-03-18 |
 | [Cinta Tak Kesampaian](https://open.spotify.com/track/2Xn1LasTmVijKdlSXn5nCV) | [Suki Low](https://open.spotify.com/artist/5ZK1YCasWVI9DVQtxLRnYD) | [Cinta Tak Kesampaian](https://open.spotify.com/album/6vuGPyg7lThzLbrWmswkdG) | 4:19 | 2021-12-07 | 2022-01-05 |
+| [Cinta Tiada Akhirnya](https://open.spotify.com/track/1o0M6Eti0J36nkcZq5LXZn) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Inilah Jac\. \- Edisi Terhad](https://open.spotify.com/album/2HXENRheufZGiKQlKQCAe9) | 4:26 | 2022-08-02 |  |
 | [Cintaku Dalam Cawan](https://open.spotify.com/track/4LLqvSg8oNuznslDP7hhif) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Cintaku Dalam Cawan](https://open.spotify.com/album/1j29NLyRiSaU3j6sWuMEaY) | 3:42 | 2022-05-03 | 2022-07-08 |
 | [Clearly The Best You](https://open.spotify.com/track/2UoYQTkzZ1eOG1D4g5u1W3) | [梁嘉靖](https://open.spotify.com/artist/29XpDtSJTMMKR4BVKijsYz) | [Clearly The Best You](https://open.spotify.com/album/1P0QobLayBaIgIy18QyKps) | 3:12 | 2022-06-01 | 2022-07-08 |
 | [Closer](https://open.spotify.com/track/5GSBtTk0ixAo3cVz6D1oSr) | [SATINA](https://open.spotify.com/artist/2XyAeS3sKheHLul4sxHzt0) | [Closer](https://open.spotify.com/album/4uRcOcIaEvFEfNtr38tgY7) | 2:32 | 2022-02-02 | 2022-03-08 |

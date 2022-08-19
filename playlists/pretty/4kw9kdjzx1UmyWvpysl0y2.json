@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128551,
+  "num_followers": 128553,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU3OSxlNjdjMTM5NGEyMGYyYWIwNDM5OTdhNGI4MDU2OGVjY2IxZmY5M2Ex",
+  "snapshot_id": "MzU4MSxlZTY4OGQwZmZmNGQ0ZTZmYjdjMjY4Y2EzZDViNzUzYzMyZjMwYmE2",
   "tracks": [
+    {
+      "added_at": "2022-08-18 20:02:17",
+      "album": {
+        "name": "Bad Luck",
+        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Kiz Keyz",
+          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
+        }
+      ],
+      "duration_ms": 171243,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
+    },
     {
       "added_at": "2022-08-17 16:40:31",
       "album": {

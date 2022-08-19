@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-140 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+143 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Lisboa Antigua](https://open.spotify.com/track/59Ao0LOrkaAehxm4ytrXfp) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Lisboa Antigua](https://open.spotify.com/album/7jWJ4GwM1ELAuKzI8xHap2) | 2:34 | 2022-06-17 |  |
 | [Longe Alguém Caminha](https://open.spotify.com/track/6G0KuDlYopOifz6yeOwfri) | [Alexandre Guerra](https://open.spotify.com/artist/1aK1TyJBakc4zSAKAPfd8O), [Chrystian Dozza](https://open.spotify.com/artist/4MOQH0ouuh2i5mjfXOto0Z), [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Lugar ao Vento](https://open.spotify.com/album/3aZGaoMyVrUnYW1Cmjo0nn) | 2:11 | 2022-06-17 |  |
 | [Lozana](https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Lozana](https://open.spotify.com/album/4iHmLYrL4zab3KOyydNKNb) | 2:09 | 2022-06-17 |  |
+| [Manha De Carnaval](https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Manha De Carnaval](https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK) | 2:26 | 2022-08-17 |  |
 | [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 |  |
 | [Medianoche](https://open.spotify.com/track/1UAlByio9nRgNa1eIMvdtr) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Medianoche](https://open.spotify.com/album/16jVhTdkRtcfjnCWnOnmbL) | 2:19 | 2022-06-17 |  |
 | [Mediterranean Flavour Outro](https://open.spotify.com/track/7xrYy1Wp8drWIsUMVk8qhk) | [Matiacardia](https://open.spotify.com/artist/0yHitjtcKBLXaA8PYshhjj), [Stefan Postoronca](https://open.spotify.com/artist/3P1y51qedu9y9O8UVmRMxR), [John Wolfcub](https://open.spotify.com/artist/5V8x1ZKfWI0eqZ5ejRBD9G) | [World & Music](https://open.spotify.com/album/2j9sg3MHsfjfO3D7Qx0RDr) | 2:11 | 2022-06-17 | 2022-07-29 |
@@ -92,6 +93,7 @@
 | [Path To The Mind](https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Path To The Mind](https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF) | 3:23 | 2022-06-17 | 2022-07-15 |
 | [Poemas](https://open.spotify.com/track/5HAGuQKDFNwzBb9DrlhcZi) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Poemas](https://open.spotify.com/album/14LzDSYYy3zINHJ2MCh3Kh) | 2:07 | 2022-06-17 |  |
 | [Poems](https://open.spotify.com/track/2Q6S3qdjXAz6Gl83N7kVl8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Poems](https://open.spotify.com/album/46UpqsSr4A8LuQ2eTF1fWH) | 2:26 | 2022-06-17 |  |
+| [Poesia](https://open.spotify.com/track/0NynGB7s6MfjI3hPo5dG8Z) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Poesia](https://open.spotify.com/album/0NbGMkj7EFzNAPkvfzMPQ0) | 2:05 | 2022-08-17 |  |
 | [Pont\-Neuf](https://open.spotify.com/track/1aUihnmoI7VFaGnkyeuamf) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Pont\-Neuf](https://open.spotify.com/album/59efgTiQRg2BPHdD5fqdcV) | 3:04 | 2022-06-17 | 2022-08-18 |
 | [Preludio del valle](https://open.spotify.com/track/0zLFC5UEE8pHiFCk3VdJW3) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Preludio del valle](https://open.spotify.com/album/6fceBxIT2s9h539LNpb90Z) | 2:31 | 2022-06-17 | 2022-07-29 |
 | [Preludio del valle](https://open.spotify.com/track/4zvQKekRAM8gUYBmkCPuTP) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Trazos](https://open.spotify.com/album/6uuhDerUvpdUD4giKbSRjs) | 2:31 | 2022-07-29 |  |
@@ -131,6 +133,7 @@
 | [The End Of A Love Affair](https://open.spotify.com/track/7cSsTfPAectKHrHZD3zsn0) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [The End Of A Love Affair](https://open.spotify.com/album/28E3zfSiJxO1mjaaDiU8ih) | 2:41 | 2022-06-17 |  |
 | [The Gastruck](https://open.spotify.com/track/4IJnVCZll8ikwz0bKUbuvH) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [The Gastruck](https://open.spotify.com/album/25xzlHNAAhJSiZUQL9XkqK) | 2:28 | 2022-06-17 |  |
 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 | 2022-06-17 |  |
+| [Torrente Y Misterio](https://open.spotify.com/track/5Vwauzd2nMpOSlPUHA6J0S) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Torrente Y Misterio](https://open.spotify.com/album/2MZFcFAkelTCayRm5L8m8Z) | 2:06 | 2022-08-17 |  |
 | [Trafalgar](https://open.spotify.com/track/6Klz0YteuP0CQmHvqHNFkd) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Trafalgar](https://open.spotify.com/album/1bFDU1We8vz1qZTETrhGYk) | 3:23 | 2022-06-17 |  |
 | [tranquila](https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [tranquila](https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy) | 2:49 | 2022-06-24 |  |
 | [Tres Amores](https://open.spotify.com/track/7DpDb8R3OxTr3FaiKwhYKB) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Tres Amores](https://open.spotify.com/album/01HM86e0bYj6oqXdCJ03AN) | 2:25 | 2022-06-17 |  |

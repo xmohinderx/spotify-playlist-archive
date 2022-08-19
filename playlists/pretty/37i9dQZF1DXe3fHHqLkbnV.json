@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 179288,
+  "num_followers": 179587,
   "original_name": "90s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDcyMDc4NywwMDAwMDAwMDRkMmYzOTM1MzA2MDM0OTFiYmE4ODkzZDQxYTFkMjM4",
+  "snapshot_id": "MTY1NDcyMDc4NywwMDAwMDAwMGQ5ZjEyNDA4ODk4NTk1YTI0YjRiMDY5ZDNjZWI0ZWVj",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:37",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA"
     },
     {
-      "added_at": "2022-03-28 14:52:42",
-      "album": {
-        "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
-      },
-      "artists": [
-        {
-          "name": "Edwyn Collins",
-          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
-    },
-    {
       "added_at": "2021-10-12 12:34:37",
       "album": {
         "name": "The Best Of Joan Osborne 20th Century Masters The Millennium Collection",
@@ -747,6 +731,22 @@
       "duration_ms": 302786,
       "name": "One Of Us - Short Version",
       "url": "https://open.spotify.com/track/39aRmixB9qNtCU2t8BmsC1"
+    },
+    {
+      "added_at": "2022-03-28 14:52:42",
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
     },
     {
       "added_at": "2022-03-28 14:52:42",

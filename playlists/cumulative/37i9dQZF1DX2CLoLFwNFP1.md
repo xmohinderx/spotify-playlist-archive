@@ -4,7 +4,7 @@
 
 > The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
 
-228 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/4YJD3bXxV5zrnArjDWrFly)
+229 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/4YJD3bXxV5zrnArjDWrFly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Bestie](https://open.spotify.com/track/6rcVWyTpx3BfTLEnvZcpPG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Take a Deeper Look](https://open.spotify.com/album/1MEixH5hBRkF9Y5FQnqHWE) | 3:32 | 2022-04-20 | 2022-08-03 |
 | [Birthday \(Remix\) \[feat\. Ugly Duck, Woodie Gochild & Hoody\]](https://open.spotify.com/track/0KEZn8psU47nJdiawjsKCE) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt) | [Birthday Gamble](https://open.spotify.com/album/1upSeaBmzoLGq9G4iUDNJo) | 4:42 | 2022-04-20 | 2022-08-03 |
 | [Birthday \- Remix](https://open.spotify.com/track/0IZTHjoG91DWjbH1gkUAEG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Birthday Gamble](https://open.spotify.com/album/2oSy345wiVnqgSEqPcTiOK) | 4:42 | 2022-08-02 |  |
-| [BO$$](https://open.spotify.com/track/0yec4sLxW29JUAt84HMang) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:24 | 2022-08-02 |  |
+| [Bite](https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Bite](https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA) | 3:39 | 2022-08-18 |  |
+| [BO$$](https://open.spotify.com/track/0yec4sLxW29JUAt84HMang) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:24 | 2022-08-02 | 2022-08-19 |
 | [Bo$$ \(feat\. Yultron, 로꼬 Loco & Ugly Duck\)](https://open.spotify.com/track/4GRBOUg6b74ADqooAo9ddZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Worldwide](https://open.spotify.com/album/4k4OS1SotBwPAD9LeCPgaH) | 4:24 | 2022-04-20 | 2022-06-26 |
 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 | 2022-08-02 |  |
 | [Butterflies](https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Butterflies](https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H) | 3:11 | 2022-04-20 |  |

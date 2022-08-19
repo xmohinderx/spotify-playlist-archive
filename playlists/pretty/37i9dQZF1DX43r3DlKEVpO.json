@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 58837,
+  "num_followers": 58853,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDJiOWJiMzg1ZWJkNDZlZGRhMTEzZjg5OTg4MDljMGY3",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMGFlMDAwYmIxYTEzY2NmYWM1OWQwNWUzMmUyODAyMWQ5",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 105253,
+      "name": "Gostoso Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Chico 50 Anos - O Trovador",
         "url": "https://open.spotify.com/album/0D3mPnL97GSsO21X6BD7XV"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 141773,
       "name": "Jo\u00e3o E Maria",
       "url": "https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 105253,
-      "name": "Gostoso Demais - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1215,6 +1215,22 @@
       "duration_ms": 203226,
       "name": "Samba Do Aviao - Live",
       "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 412693,
+      "name": "Sereia / De Repente Calif\u00f3rnia / Como uma Onda (Zen Surfismo)",
+      "url": "https://open.spotify.com/track/6j6MnaZLmgz8pocyyM4NWy"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 97200,
-      "name": "O Sol Nascer\u00e1 (A Sorrir)",
-      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico 2",
         "url": "https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 178066,
       "name": "L\u00e1 vem o sol",
       "url": "https://open.spotify.com/track/74o1pFywinH2eEPxbbaLqc"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "O Sol Nascer\u00e1 (A Sorrir)",
+      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -1477,22 +1493,6 @@
       "url": "https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
-    },
-    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Nossa Hist\u00f3ria (Ao Vivo)",
@@ -1523,6 +1523,22 @@
       "duration_ms": 260133,
       "name": "Divino Maravilhoso",
       "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1607,50 +1623,6 @@
       "duration_ms": 256626,
       "name": "Aquarela",
       "url": "https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Jovem Guarda - O Pulo Do Negro Gato",
-        "url": "https://open.spotify.com/album/1qb6cq2hah9dAMraqTqGcF"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        },
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        },
-        {
-          "name": "Renato e Seus Blue Caps",
-          "url": "https://open.spotify.com/artist/27hFv7JqcDVyqgaCvLHpy7"
-        },
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        },
-        {
-          "name": "Leno",
-          "url": "https://open.spotify.com/artist/68xhplUZZ18723PccI3i1G"
-        },
-        {
-          "name": "Golden Boys",
-          "url": "https://open.spotify.com/artist/6e90eYChXG3b8PbkAPcPcn"
-        },
-        {
-          "name": "Jerry Adriani",
-          "url": "https://open.spotify.com/artist/5OBXrPtAgpRVJgua6rgbs6"
-        },
-        {
-          "name": "Almir",
-          "url": "https://open.spotify.com/artist/73Op2gKQknruMmIuzlJoc3"
-        }
-      ],
-      "duration_ms": 251546,
-      "name": "Negro Gato",
-      "url": "https://open.spotify.com/track/5xde0qUR1uUmH8ZVOqoPRo"
     },
     {
       "added_at": "2021-08-18 22:14:03",

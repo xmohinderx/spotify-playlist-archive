@@ -1618,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "The Essential",
+        "url": "https://open.spotify.com/album/3KxTqS1MTcfDPtVrMUox4r"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321866,
+      "name": "Worried Dream",
+      "url": "https://open.spotify.com/track/1zBaC0k70VeGQqrMZ1pukr"
+    },
+    {
+      "album": {
         "name": "The Natch'l Blues",
         "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },

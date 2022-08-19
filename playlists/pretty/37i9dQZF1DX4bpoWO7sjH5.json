@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos de Bel\u00e9n.",
-  "num_followers": 15360,
+  "num_followers": 15362,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjMwMCwwMDAwMDAwMGY3ZTAyNDJhZjUxZmYwOGZjZGQ0ZDVjMGI1NjU4Mzg1",
+  "snapshot_id": "MTY0MDMyMjMwMCwwMDAwMDAwMDFkNmI2Y2JmZTRlNTFhMDQ0MTE2ZmMwYTExZTA2NDM2",
   "tracks": [
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
+        "name": "Navidad Con V\u00e1stago Vol. 2",
+        "url": "https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Silva",
+          "url": "https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN"
+        }
+      ],
+      "duration_ms": 242806,
+      "name": "Lleg\u00f3 La Navidad",
+      "url": "https://open.spotify.com/track/1aT75kNTZEWVez8EbVSM18"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
         "name": "Esta Navidad",
         "url": "https://open.spotify.com/album/0THHB0bxRAaw33N6Q7pEEc"
       },
@@ -1623,6 +1639,22 @@
       "duration_ms": 258390,
       "name": "Santa la Noche",
       "url": "https://open.spotify.com/track/0UVctJP9Ts6HwuW5jtYqao"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "Santa la noche",
+        "url": "https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 253571,
+      "name": "Santa la noche",
+      "url": "https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc"
     }
   ],
   "unique_name": "Navidad Cristiana",

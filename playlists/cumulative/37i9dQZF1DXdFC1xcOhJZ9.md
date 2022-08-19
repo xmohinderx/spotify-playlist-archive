@@ -4,7 +4,7 @@
 
 > Ambient's most enduring tracks from the 90's chillout room scene\. Cover: 808 State
 
-59 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
+60 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [The Dawn of Birds \- Full Length Mix](https://open.spotify.com/track/3RHbUJi801L3T1MOyXMgAb) | [Space Farm](https://open.spotify.com/artist/3x4hguC2AMtQw5RKamRWrp) | [Egyptology 0.5](https://open.spotify.com/album/0TV1upVtkb3wMZgTZNnJyv) | 7:47 | 2021-11-12 | 2022-07-29 |
 | [The Lie\-In King](https://open.spotify.com/track/00yMhNhN8PmZ5qa2AOX1VV) | [The Irresistible Force](https://open.spotify.com/artist/1aBkI1XS3Qq7KgbYEIf4Ul) | [Its Tomorrow Already](https://open.spotify.com/album/7reNdSVZHFWwfonRfEQQk4) | 5:39 | 2021-11-12 |  |
 | [Tiny's First Journey](https://open.spotify.com/track/4dBqFIjv2lNcAvrxdwEOjn) | [Mark Goddard](https://open.spotify.com/artist/2SaZ1I3baQ9xwI3wxDedNa) | [The Sound Of Love International \#002 \- Beautiful Swimmers](https://open.spotify.com/album/2cxbgAp9U7ZubuZ2ygijXk) | 4:25 | 2021-11-12 |  |
+| [Undecided \(feat\. Neneh Cherry\) \- Deep Radio Mix](https://open.spotify.com/track/3rpH8Qx7vwnHAb0SZn2Ky5) | [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Eyes open / Joko from village to town / The guide](https://open.spotify.com/album/66K9kmrzDG9fRWIZHeaWm5) | 3:53 | 2022-08-12 |  |
 | [Understand](https://open.spotify.com/track/2qT8g8y0vahhIbFENODWg1) | [Prototype 909](https://open.spotify.com/artist/416thFSobYDOCarokXFluq) | [Modern Mantra](https://open.spotify.com/album/4EOMQi0exEn5o6M6uUEj0F) | 3:12 | 2021-11-12 |  |
 | [VLetrmx](https://open.spotify.com/track/7iupjrZvckPcvC4aeqeqcC) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/31nThm3LyQVvrndqxhvjWl) | 8:27 | 2021-11-12 |  |
 | [Water Drums](https://open.spotify.com/track/73yIws4bfOjywozSf3w2ds) | [Union Jack](https://open.spotify.com/artist/2MiaJc5Vbck2Bkkm19eUx0) | [There Will Be No Armageddon](https://open.spotify.com/album/4OgxrFxrO8DWMA4W7jDwnU) | 9:06 | 2021-11-12 |  |

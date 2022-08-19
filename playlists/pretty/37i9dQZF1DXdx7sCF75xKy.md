@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Ffion
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,596 likes - 49 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,595 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 39 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 |
 | 40 | [等到你](https://open.spotify.com/track/1LJVGN9kPtWMznJ48HoQBr) | [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [等到你](https://open.spotify.com/album/5VB3jw7XI7AEEaH1aPqUUU) | 4:49 |
 | 41 | [Be Your Sunshine](https://open.spotify.com/track/4Z0x5o2SW2hm2BbvAejbuy) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Reset](https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt) | 3:35 |
-| 42 | [If I Told You](https://open.spotify.com/track/4FQcQxmFQiIlzRC04x8gOd) | [Tiara Maimun](https://open.spotify.com/artist/0YLCRlUQxyVLAlIlqU56SB) | [If I Told You](https://open.spotify.com/album/5oFEP7JTL8qC7aHnBd9etf) | 3:36 |
-| 43 | [Your Loss](https://open.spotify.com/track/24IE7WIUYYs9gmhbgPLULC) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Your Loss](https://open.spotify.com/album/7zWIsfNXYMTqckSbp21PjE) | 3:35 |
-| 44 | [\#SUPERGIRLS](https://open.spotify.com/track/5149iybS4cHiakzZdplHkN) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [\#SUPERGIRLS](https://open.spotify.com/album/6tmQsYLkg7xPBQw3CDvi7W) | 4:14 |
-| 45 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 |
-| 46 | [All That Matters](https://open.spotify.com/track/4KehwAKQP0Sl31aOmDZ5Hg) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [All That Matters](https://open.spotify.com/album/7im1alWyGUV9lSXxPUFz7r) | 3:57 |
-| 47 | [安然自得](https://open.spotify.com/track/5F3YFaik4YTFZZ0GR1ho35) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [安然自得](https://open.spotify.com/album/7lUBebyPFacBwZ5ITj8XXa) | 3:47 |
-| 48 | [gray](https://open.spotify.com/track/3DSku3yyyILJ10UHFSKcS2) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [Maybe](https://open.spotify.com/album/7FM4ChgZ4rkqLrvUOV9PUe) | 4:00 |
-| 49 | [Ashes](https://open.spotify.com/track/2Jvfqdr5GXQjtzyMtPllpD) | [Khim Ng](https://open.spotify.com/artist/53RjFiYitkODVyiZchcgDT) | [Ashes](https://open.spotify.com/album/4bZrc6tojkEi0frb4cvmIb) | 3:56 |
+| 42 | [Cinta Tiada Akhirnya](https://open.spotify.com/track/1o0M6Eti0J36nkcZq5LXZn) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Inilah Jac\. \- Edisi Terhad](https://open.spotify.com/album/2HXENRheufZGiKQlKQCAe9) | 4:26 |
+| 43 | [If I Told You](https://open.spotify.com/track/4FQcQxmFQiIlzRC04x8gOd) | [Tiara Maimun](https://open.spotify.com/artist/0YLCRlUQxyVLAlIlqU56SB) | [If I Told You](https://open.spotify.com/album/5oFEP7JTL8qC7aHnBd9etf) | 3:36 |
+| 44 | [Your Loss](https://open.spotify.com/track/24IE7WIUYYs9gmhbgPLULC) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Your Loss](https://open.spotify.com/album/7zWIsfNXYMTqckSbp21PjE) | 3:35 |
+| 45 | [\#SUPERGIRLS](https://open.spotify.com/track/5149iybS4cHiakzZdplHkN) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [\#SUPERGIRLS](https://open.spotify.com/album/6tmQsYLkg7xPBQw3CDvi7W) | 4:14 |
+| 46 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 |
+| 47 | [All That Matters](https://open.spotify.com/track/4KehwAKQP0Sl31aOmDZ5Hg) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [All That Matters](https://open.spotify.com/album/7im1alWyGUV9lSXxPUFz7r) | 3:57 |
+| 48 | [安然自得](https://open.spotify.com/track/5F3YFaik4YTFZZ0GR1ho35) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [安然自得](https://open.spotify.com/album/7lUBebyPFacBwZ5ITj8XXa) | 3:47 |
+| 49 | [gray](https://open.spotify.com/track/3DSku3yyyILJ10UHFSKcS2) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [Maybe](https://open.spotify.com/album/7FM4ChgZ4rkqLrvUOV9PUe) | 4:00 |
+| 50 | [Ashes](https://open.spotify.com/track/2Jvfqdr5GXQjtzyMtPllpD) | [Khim Ng](https://open.spotify.com/artist/53RjFiYitkODVyiZchcgDT) | [Ashes](https://open.spotify.com/album/4bZrc6tojkEi0frb4cvmIb) | 3:56 |
 
-Snapshot ID: `MTY2MDIzMzYwMCwwMDAwMDAwMGNjMjY2MWY5OWRiODE3MGEyZWVjYzZkYjNlN2IwNjM0`
+Snapshot ID: `MTY2MDIzMzYwMCwwMDAwMDAwMDhlZjYzZmIwMDFlNTVmYjQ4YmZlODk3NzM3ZTQ5YjQ1`

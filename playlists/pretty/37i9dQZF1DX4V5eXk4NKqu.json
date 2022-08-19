@@ -1,12 +1,12 @@
 {
   "description": "Best Latin Indie tracks right now. Cover: Katz\u00fa Oso",
-  "num_followers": 137178,
+  "num_followers": 137182,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA1NDAzNiwwMDAwMDAwMDQwZWRiNDkxNGIwZDAxMTc0M2VmY2E0NTk1YWIwMWNl",
+  "snapshot_id": "MTY2MDA1NDAzNiwwMDAwMDAwMGUyYjZjNGRkZWFlY2Y0M2M4NjQxOWJhNDhjMGE1Y2Vk",
   "tracks": [
     {
       "added_at": "2022-08-09 14:07:16",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 206437,
-      "name": "Sweet Honey",
-      "url": "https://open.spotify.com/track/6o7rsXLvLgx2gmKLGDNe0g"
-    },
-    {
-      "added_at": "2022-08-09 14:07:16",
-      "album": {
         "name": "Lately EP",
         "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 127044,
       "name": "Ipanema",
       "url": "https://open.spotify.com/track/0phxK01nh2jkPnYe9wLfdO"
+    },
+    {
+      "added_at": "2022-08-09 14:07:16",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 206437,
+      "name": "Sweet Honey",
+      "url": "https://open.spotify.com/track/6o7rsXLvLgx2gmKLGDNe0g"
     },
     {
       "added_at": "2022-08-09 14:07:16",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
+        "name": "Solo T\u00fa",
+        "url": "https://open.spotify.com/album/2iOKZuLxu60BM5mMwyUFWn"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 281348,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/6YbMkGhGkadLWnt2lIuHSz"
+    },
+    {
+      "added_at": "2022-08-09 14:07:16",
+      "album": {
         "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
         "url": "https://open.spotify.com/album/0Jkc1qjF3OzXzUrO9QlcZX"
       },
@@ -423,26 +439,6 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "nadie me cae bien",
-        "url": "https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "nadie me cae bien",
-      "url": "https://open.spotify.com/track/35bu49h6EEYptKobXmBQma"
-    },
-    {
-      "added_at": "2022-08-09 14:07:16",
-      "album": {
         "name": "DUALITY",
         "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
       },
@@ -459,18 +455,22 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "Solo T\u00fa",
-        "url": "https://open.spotify.com/album/2iOKZuLxu60BM5mMwyUFWn"
+        "name": "nadie me cae bien",
+        "url": "https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea"
       },
       "artists": [
         {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 281348,
-      "name": "Solo T\u00fa",
-      "url": "https://open.spotify.com/track/6YbMkGhGkadLWnt2lIuHSz"
+      "duration_ms": 228400,
+      "name": "nadie me cae bien",
+      "url": "https://open.spotify.com/track/35bu49h6EEYptKobXmBQma"
     },
     {
       "added_at": "2022-08-09 14:07:16",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Ambar Bossa Nova - Spotify Singles",
-      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
-    },
-    {
-      "added_at": "2022-08-09 14:07:16",
-      "album": {
         "name": "Hasta Que",
         "url": "https://open.spotify.com/album/61cYa3yCAug08umgvtyv0J"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 193933,
       "name": "Hasta Que",
       "url": "https://open.spotify.com/track/0F2t2RRkSJVLETwtpfiJth"
+    },
+    {
+      "added_at": "2022-08-09 14:07:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Ambar Bossa Nova - Spotify Singles",
+      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
     },
     {
       "added_at": "2022-08-09 14:07:16",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "La Linda",
-        "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
-      },
-      "artists": [
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Alone in the Universe",
-      "url": "https://open.spotify.com/track/5fiIW6iNDuremm3HJTTAFE"
-    },
-    {
-      "added_at": "2022-08-09 14:07:16",
-      "album": {
         "name": "Qu\u00edtame",
         "url": "https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8"
       },
@@ -1047,18 +1031,34 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "\u00c1ngel",
-        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+        "name": "La Linda",
+        "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
         }
       ],
-      "duration_ms": 178000,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+      "duration_ms": 204933,
+      "name": "Alone in the Universe",
+      "url": "https://open.spotify.com/track/5fiIW6iNDuremm3HJTTAFE"
+    },
+    {
+      "added_at": "2022-08-09 14:07:16",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/67dB9LV4IAaWDqcRBHFmTw"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "duration_ms": 159049,
+      "name": "June",
+      "url": "https://open.spotify.com/track/2J1htdIomT0zFKTwgZqvje"
     },
     {
       "added_at": "2022-08-09 14:07:16",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/67dB9LV4IAaWDqcRBHFmTw"
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
       },
       "artists": [
         {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 159049,
-      "name": "June",
-      "url": "https://open.spotify.com/track/2J1htdIomT0zFKTwgZqvje"
+      "duration_ms": 178000,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
     },
     {
       "added_at": "2022-08-09 14:07:16",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "MIMO",
-        "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 151207,
-      "name": "FRESH",
-      "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
-    },
-    {
-      "added_at": "2022-08-09 14:07:16",
-      "album": {
         "name": "La Linda",
         "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "NTE",
-        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
+        "name": "MIMO",
+        "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
         }
       ],
-      "duration_ms": 171807,
-      "name": "NTE",
-      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
+      "duration_ms": 151207,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
     },
     {
       "added_at": "2022-08-09 14:07:16",
@@ -1219,6 +1203,22 @@
       "duration_ms": 192485,
       "name": "C\u00edrculos",
       "url": "https://open.spotify.com/track/4q1ngjb83YMWqCyBWwgssI"
+    },
+    {
+      "added_at": "2022-08-09 14:07:16",
+      "album": {
+        "name": "NTE",
+        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
     },
     {
       "added_at": "2022-08-09 14:07:16",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "QADIR",
-        "url": "https://open.spotify.com/album/5ZcRc43rvb2C63lCG54Ph5"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "QADIR - Single Version",
-      "url": "https://open.spotify.com/track/4SGV6Us8HHNY4d1ysiq2cZ"
-    },
-    {
-      "added_at": "2022-08-09 14:07:16",
-      "album": {
         "name": "Ag\u00fcita: Remixes",
         "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 189000,
       "name": "Flor",
       "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
+    },
+    {
+      "added_at": "2022-08-09 14:07:16",
+      "album": {
+        "name": "QADIR",
+        "url": "https://open.spotify.com/album/5ZcRc43rvb2C63lCG54Ph5"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "QADIR - Single Version",
+      "url": "https://open.spotify.com/track/4SGV6Us8HHNY4d1ysiq2cZ"
     },
     {
       "added_at": "2022-08-09 14:07:16",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "WILL THIS MAKE ME GOOD",
-        "url": "https://open.spotify.com/album/5wHIOaV0DXf73kL7i5blmM"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 249211,
-      "name": "ALL THESE INSTRUMENTS",
-      "url": "https://open.spotify.com/track/0KdWKPgZ0pleOpV2xOd8D0"
-    },
-    {
-      "added_at": "2022-08-09 14:07:16",
-      "album": {
         "name": "Rey",
         "url": "https://open.spotify.com/album/5jU98FSu18DrwrXBCkGJpN"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 231186,
       "name": "Rey",
       "url": "https://open.spotify.com/track/1D3FF8btq4bHzmDpU04fwH"
+    },
+    {
+      "added_at": "2022-08-09 14:07:16",
+      "album": {
+        "name": "WILL THIS MAKE ME GOOD",
+        "url": "https://open.spotify.com/album/5wHIOaV0DXf73kL7i5blmM"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 249211,
+      "name": "ALL THESE INSTRUMENTS",
+      "url": "https://open.spotify.com/track/0KdWKPgZ0pleOpV2xOd8D0"
     },
     {
       "added_at": "2022-08-09 14:07:16",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-08-09 14:07:16",
       "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/77e8Fef7cxAiWngOEq8enQ"
-      },
-      "artists": [
-        {
-          "name": "REYNA",
-          "url": "https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/2OmMwHDXy86Y9qPvRqiFMA"
-    },
-    {
-      "added_at": "2022-08-09 14:07:16",
-      "album": {
         "name": "Hear Me Out",
         "url": "https://open.spotify.com/album/0NNKUMVScFPOCdXiFIV2Ev"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 137961,
       "name": "Hear Me Out - Stripped",
       "url": "https://open.spotify.com/track/0EX3OCeGdjwz2P017sOEIk"
+    },
+    {
+      "added_at": "2022-08-09 14:07:16",
+      "album": {
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/77e8Fef7cxAiWngOEq8enQ"
+      },
+      "artists": [
+        {
+          "name": "REYNA",
+          "url": "https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/2OmMwHDXy86Y9qPvRqiFMA"
     },
     {
       "added_at": "2022-08-09 14:07:16",

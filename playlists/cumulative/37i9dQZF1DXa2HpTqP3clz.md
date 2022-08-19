@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Tray Wellington
 
-360 songs - 21 hr 47 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
+361 songs - 21 hr 51 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Creeping Round My Cabin](https://open.spotify.com/track/4aKozQLYvFFBQ4PfaBxacs) | [Missy Armstrong](https://open.spotify.com/artist/6ysW5iTGPo3hoq29T2BjJs) | [My Remedy](https://open.spotify.com/album/22sRGaHEabLIFZkcPHu3r0) | 2:18 | 2021-12-17 | 2022-07-21 |
 | [Crocodile Man](https://open.spotify.com/track/59Jutc9omKOR5lrlA4eScj) | [The High 48s](https://open.spotify.com/artist/2J7WvdhzleWvO1XRa5xBZK) | [Crocodile Man](https://open.spotify.com/album/0vBMq00TPJsHCFeXxlffPj) | 3:01 | 2022-03-25 | 2022-06-12 |
 | [Crooked Mind](https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 3:18 | 2022-05-13 |  |
-| [Crooked Tree](https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2) | 3:52 | 2022-01-21 |  |
+| [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 | 2022-08-11 |  |
+| [Crooked Tree](https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2) | 3:52 | 2022-01-21 | 2022-08-19 |
 | [Dancing in the Snow](https://open.spotify.com/track/36Qz1rKJepEWooyyhI42aN) | [Tammy Rogers](https://open.spotify.com/artist/3wbkQhbAgMFxkiEjyEmsdS), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Dancing in the Snow](https://open.spotify.com/album/3RMKDkTFPSpI1FZQuU20O3) | 2:25 | 2021-12-17 | 2022-04-21 |
 | [Dark Night, Bright Future](https://open.spotify.com/track/2QzacNYLUsovHldopNz2vc) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 2:37 | 2022-03-25 |  |
 | [Desert Flowers](https://open.spotify.com/track/5X6ZqGQ4unZmm9uEAEwcLY) | [Amanda Anne Platt & the Honeycutters](https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL) | [Desert Flowers](https://open.spotify.com/album/0kKvq0CejAOdMreoJSvsvV) | 5:09 | 2021-12-17 | 2022-07-27 |

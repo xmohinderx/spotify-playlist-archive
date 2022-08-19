@@ -1,12 +1,12 @@
 {
   "description": "A soft musical backdrop for your studies.",
-  "num_followers": 1663272,
+  "num_followers": 1663393,
   "original_name": "Instrumental Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAzNjMzNywwMDAwMDAwMGMyNmMyM2EzYjU3NmZiNmY2OWE5MmQ4NWYyYjViMTc0",
+  "snapshot_id": "MTY2MDAzNjMzNywwMDAwMDAwMDRiNWUzM2U4YzMwM2VhMmQ2NzMzMDFhNjg1ZjM2NTVm",
   "tracks": [
     {
       "added_at": "2022-08-09 09:12:15",
@@ -2295,6 +2295,22 @@
       "duration_ms": 133205,
       "name": "Beaux r\u00eaves",
       "url": "https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y"
+    },
+    {
+      "added_at": "2022-08-09 09:12:15",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON"
+      },
+      "artists": [
+        {
+          "name": "Eugene Goh",
+          "url": "https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI"
+        }
+      ],
+      "duration_ms": 175311,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5"
     },
     {
       "added_at": "2022-08-09 09:12:15",

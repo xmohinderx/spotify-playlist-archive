@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 
 ### [The Ultimate Hit Mix](https://open.spotify.com/playlist/37i9dQZF1DWUZMtnnlvJ9p)
 
-> Mixing the decades: 1990s, 2000s, 2010s and 2020s\. Updated weekly.
+> Mixing the decades: 1990s, 2000s, 2010s and 2020s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,029 likes - 146 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,639 likes - 146 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 | 145 | [Push The Button](https://open.spotify.com/track/2nCmCt4B5vkabS0zeOuc1Z) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Taller In More Ways](https://open.spotify.com/album/76WHlT1Nfa2dwrgn6bIROE) | 3:38 |
 | 146 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
 
-Snapshot ID: `MTY2MDczNzYwMCwwMDAwMDAwMDg0MDU0YzE2MWU3MDhkMjBhMzQzY2FiOTdhZmM4YWQ4`
+Snapshot ID: `MTY2MDgyMzk0NywwMDAwMDAwMGEzMzliNWQxZjlmNWMwM2NhZTFkZWQ5MGI5ZjdmYTkw`

@@ -2,7 +2,7 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> La casa dello street rap italiano\. Cover: Sfera Ebbasta
+> La casa dello street rap italiano\. Cover: Zefe
 
 118 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 

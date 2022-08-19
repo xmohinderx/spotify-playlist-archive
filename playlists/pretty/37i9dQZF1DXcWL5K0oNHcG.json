@@ -1,12 +1,12 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Knats Artwork: Joy Yamusangie",
-  "num_followers": 23019,
+  "num_followers": 23052,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDcwODgwMCwwMDAwMDAwMGY2YWE4MDI1ODU1Yzk3ZGQ3YTEyMWEyZDdiOWJiNTJi",
+  "snapshot_id": "MTY2MDcwODgwMCwwMDAwMDAwMDY4MmQ1MzMyODZmNmM0MTBjYjFiN2IzYjNkYTliNTM2",
   "tracks": [
     {
       "added_at": "2022-08-17 04:00:00",
@@ -1427,6 +1427,26 @@
       "duration_ms": 320983,
       "name": "LITTENHOUSE",
       "url": "https://open.spotify.com/track/2r9Uuq5GW60pklm4oqUsBW"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "No Cynicism",
+        "url": "https://open.spotify.com/album/69tWOxYo0m6Sx95SYEhiSm"
+      },
+      "artists": [
+        {
+          "name": "Clemens Kuratle",
+          "url": "https://open.spotify.com/artist/0f9ftSpEqnxr6fnkHc9869"
+        },
+        {
+          "name": "Ydivide",
+          "url": "https://open.spotify.com/artist/3Np5YMkfnPGcIbUQKcSrv7"
+        }
+      ],
+      "duration_ms": 341800,
+      "name": "No Cynicism",
+      "url": "https://open.spotify.com/track/0y3nDIVwtYpeZ0hFGHo5Rj"
     },
     {
       "added_at": "2022-08-03 16:00:00",

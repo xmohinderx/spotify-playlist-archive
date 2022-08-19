@@ -1,12 +1,12 @@
 {
   "description": "Go-Go Music from the heart of Washington, DC. Cover, New Impressionz by Jay Kyri",
-  "num_followers": 1280,
+  "num_followers": null,
   "original_name": "GO-GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0NjIyOCwwMDAwMDAwMDA2NzM3N2IxNTQ3NTBhMzVhZjEyYzQ4NGRiOWVhNTQ3",
+  "snapshot_id": "MTY1NjY0NjIyOCwwMDAwMDAwMGIxMGJhMzNiM2JjMDc2MGNiOWJmMzM4NzRlZjJhM2Q2",
   "tracks": [
     {
       "added_at": "2022-07-01 03:30:28",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-01-29 19:03:34",
       "album": {
+        "name": "DJ Flexx Presents...www.thatgogo.com",
+        "url": "https://open.spotify.com/album/1JTRloLJa8f3D66wVSoFk7"
+      },
+      "artists": [
+        {
+          "name": "DJ Flexx",
+          "url": "https://open.spotify.com/artist/1xGxKdeIVaVIbwOqSGsNOi"
+        }
+      ],
+      "duration_ms": 447733,
+      "name": "The Water Dance",
+      "url": "https://open.spotify.com/track/6DLjYEn27mIjNxJlrTq1ay"
+    },
+    {
+      "added_at": "2022-01-29 19:03:34",
+      "album": {
         "name": "Street Antidote",
         "url": "https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3"
       },
@@ -915,6 +931,26 @@
       "duration_ms": 287973,
       "name": "Let Me Clear My Throat - Live",
       "url": "https://open.spotify.com/track/7MutmAL7btZWW6S50zgoCQ"
+    },
+    {
+      "added_at": "2022-01-29 19:03:34",
+      "album": {
+        "name": "Go Go DC's Best!",
+        "url": "https://open.spotify.com/album/1ChmqzpQITXmigtRjZj53y"
+      },
+      "artists": [
+        {
+          "name": "All-N-1",
+          "url": "https://open.spotify.com/artist/5UGz0ov5npcv9RXsPqcWPJ"
+        },
+        {
+          "name": "AJ",
+          "url": "https://open.spotify.com/artist/1tcAwKSzlAQtR9V0vfSlHB"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Mandingo",
+      "url": "https://open.spotify.com/track/57tbmtTFmveMXCnlkG5OT3"
     },
     {
       "added_at": "2022-01-29 19:03:34",

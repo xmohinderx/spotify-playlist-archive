@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 300245,
+  "num_followers": 300427,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGM0OWY5ODExNTljNWE1ZDU0ZTRkZWZiMWFjZjRhODU2",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDNjMjA3YmY2ZGMxMzExYmU4ZGQ3Y2FmYjgzODAwNjdj",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "The Cat Came Back",
-        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
-      },
-      "artists": [
-        {
-          "name": "Luca Lento",
-          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
-        },
-        {
-          "name": "Bdd",
-          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "The Cat Came Back - Bdd Remix Edit",
-      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Say What (2019)",
         "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 193809,
       "name": "Say What - Pisk Electro Swing Remix",
       "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Cat Came Back",
+        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
+      },
+      "artists": [
+        {
+          "name": "Luca Lento",
+          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
+        },
+        {
+          "name": "Bdd",
+          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "The Cat Came Back - Bdd Remix Edit",
+      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
       "added_at": "2022-05-13 04:03:00",
@@ -841,24 +841,20 @@
       "url": "https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
+      "added_at": "2021-01-22 10:35:47",
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy"
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
       },
       "artists": [
         {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Sonia Elisheva",
-          "url": "https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7"
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
+      "duration_ms": 213120,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -877,20 +873,24 @@
       "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
     },
     {
-      "added_at": "2021-01-22 10:35:47",
+      "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy"
       },
       "artists": [
         {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Sonia Elisheva",
+          "url": "https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7"
         }
       ],
-      "duration_ms": 213120,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
+      "duration_ms": 176000,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
     },
     {
       "added_at": "2021-10-29 04:02:00",
@@ -915,6 +915,22 @@
       "duration_ms": 187838,
       "name": "New Ground",
       "url": "https://open.spotify.com/track/6BsAJNoNjKEkFqfvHsztIc"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Electro Carousel Club Night (Selected by Dr Cat)",
+        "url": "https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm"
+      },
+      "artists": [
+        {
+          "name": "Carola Jasmins",
+          "url": "https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo"
+        }
+      ],
+      "duration_ms": 200559,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -959,22 +975,6 @@
       "duration_ms": 180200,
       "name": "1941 (feat. Virian)",
       "url": "https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Electro Carousel Club Night (Selected by Dr Cat)",
-        "url": "https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm"
-      },
-      "artists": [
-        {
-          "name": "Carola Jasmins",
-          "url": "https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo"
-        }
-      ],
-      "duration_ms": 200559,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1065,26 +1065,6 @@
       "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "It Don't Mean A Thing (Electro Swing Mix)",
-        "url": "https://open.spotify.com/album/0BUY69FrFq6yFf933Vp6AL"
-      },
-      "artists": [
-        {
-          "name": "The Hebbe Sisters",
-          "url": "https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 173735,
-      "name": "It Don't Mean A Thing - Electro Swing Mix",
-      "url": "https://open.spotify.com/track/5tNZ1Wj6jXBuTKLeDX5w5S"
-    },
-    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "Shotgun Swing",
@@ -1111,6 +1091,26 @@
       "duration_ms": 277041,
       "name": "Shotgun Swing",
       "url": "https://open.spotify.com/track/4qitoWab2HSAZ9wFKkz1QZ"
+    },
+    {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "It Don't Mean A Thing (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/0BUY69FrFq6yFf933Vp6AL"
+      },
+      "artists": [
+        {
+          "name": "The Hebbe Sisters",
+          "url": "https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "duration_ms": 173735,
+      "name": "It Don't Mean A Thing - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/5tNZ1Wj6jXBuTKLeDX5w5S"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1303,6 +1303,42 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "The Nu Swing Experience",
+        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
+      },
+      "artists": [
+        {
+          "name": "Dj Farrapo",
+          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
+        },
+        {
+          "name": "Cristina Renzetti",
+          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
+        }
+      ],
+      "duration_ms": 164582,
+      "name": "Marcianito - Cristina Renzetti Vocal Version",
+      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Speed Dating An Arsonist",
+        "url": "https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9"
+      },
+      "artists": [
+        {
+          "name": "Diablo Swing Orchestra",
+          "url": "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "Speed Dating An Arsonist",
+      "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Never let you go",
         "url": "https://open.spotify.com/album/6ilFub0J7EMvDS4BHEH5yZ"
       },
@@ -1321,24 +1357,20 @@
       "url": "https://open.spotify.com/track/5IK9dSUSzioE9lilLi4AEi"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2021-05-28 04:00:00",
       "album": {
-        "name": "The Nu Swing Experience",
-        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
+        "name": "Taking You with Me",
+        "url": "https://open.spotify.com/album/4AUmtmKPvKPUjTe93Gy0oj"
       },
       "artists": [
         {
-          "name": "Dj Farrapo",
-          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
-        },
-        {
-          "name": "Cristina Renzetti",
-          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
         }
       ],
-      "duration_ms": 164582,
-      "name": "Marcianito - Cristina Renzetti Vocal Version",
-      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
+      "duration_ms": 199963,
+      "name": "Taking You with Me",
+      "url": "https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1363,38 +1395,6 @@
       "duration_ms": 209346,
       "name": "Allez Viens (Via Con Me) [feat. Pierre Santini & Lada Redstar]",
       "url": "https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4"
-    },
-    {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Taking You with Me",
-        "url": "https://open.spotify.com/album/4AUmtmKPvKPUjTe93Gy0oj"
-      },
-      "artists": [
-        {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
-        }
-      ],
-      "duration_ms": 199963,
-      "name": "Taking You with Me",
-      "url": "https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Speed Dating An Arsonist",
-        "url": "https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9"
-      },
-      "artists": [
-        {
-          "name": "Diablo Swing Orchestra",
-          "url": "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
-        }
-      ],
-      "duration_ms": 330893,
-      "name": "Speed Dating An Arsonist",
-      "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
     }
   ],
   "unique_name": "Electro Swing",

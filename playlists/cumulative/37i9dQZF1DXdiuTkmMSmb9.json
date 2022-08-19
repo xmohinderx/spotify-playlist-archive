@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tropical jams to catch a vibe and whine to. Cover: Fireboy DML",
+  "description": "Tropical jams to catch a vibe and whine to. Cover: Stefflon Don, Spice",
   "name": "Afro Fusion",
   "published_playlist_ids": [
     "1ArHPlQ8o3lzkRSvom6Xc2"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 180046,
       "name": "AMELA",
       "url": "https://open.spotify.com/track/2yj46P03UhlyepdGwOTPET"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 227100,
       "name": "Ameno Amapiano Remix (You Wanna Bamba)",
       "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 226019,
       "name": "Bad n Rude (feat. WSTRN)",
       "url": "https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf"
@@ -476,6 +476,28 @@
     },
     {
       "album": {
+        "name": "Clockwork (feat. Spice)",
+        "url": "https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/1agX5xuqpSUDQ55gkdQbZk"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152917,
+      "name": "Clockwork (feat. Spice)",
+      "url": "https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0tEY7BcakoO12tCsuYdgPA"
       },
@@ -499,6 +521,24 @@
       "duration_ms": 214067,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5qz7y3Mj8t1gOgDwQGMVRt"
+    },
+    {
+      "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189014,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
       "album": {
@@ -953,10 +993,32 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 158000,
       "name": "Insane",
       "url": "https://open.spotify.com/track/5xnt07eGrgbGWac3GOVKh9"
+    },
+    {
+      "album": {
+        "name": "ISoft Life",
+        "url": "https://open.spotify.com/album/2z6E4fBqrkgUSxECpYyx9T"
+      },
+      "artists": [
+        {
+          "name": "Kristelle",
+          "url": "https://open.spotify.com/artist/1mSLccW06KhvdQfhRj1gQu"
+        },
+        {
+          "name": "Temgazi",
+          "url": "https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348106,
+      "name": "ISoft Life",
+      "url": "https://open.spotify.com/track/1KMdsn40pcqhQcDmWW8rUg"
     },
     {
       "album": {
@@ -1265,7 +1327,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 164541,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/3EARFHx11AjzLGYuAAeB3W"
@@ -1571,7 +1633,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 205640,
       "name": "Play Play (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
@@ -1773,7 +1835,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 212706,
       "name": "Roberto C (feat. Unknown T)",
       "url": "https://open.spotify.com/track/35uEOfCn8GbfqzVwlrgwDI"
@@ -1857,7 +1919,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 171428,
       "name": "Sempe",
       "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
@@ -2068,6 +2130,24 @@
     },
     {
       "album": {
+        "name": "Sweet One (with Verbb)",
+        "url": "https://open.spotify.com/album/78y891HPIrNnSixK5sPQtD"
+      },
+      "artists": [
+        {
+          "name": "Elie G",
+          "url": "https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207725,
+      "name": "Sweet One (with Verbb)",
+      "url": "https://open.spotify.com/track/1IJr2iSVIayK6coEJRUPUO"
+    },
+    {
+      "album": {
         "name": "There She Go (Jack Sparrow) [feat. Mayorkun]",
         "url": "https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv"
       },
@@ -2245,7 +2325,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 230040,
       "name": "Typa Way",
       "url": "https://open.spotify.com/track/277OKlE8bKSaWghuEBz7U7"

@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast jazz. Cover: Gerry Mulligan",
-  "num_followers": 10308,
+  "num_followers": 10331,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk5MzMxMSwwMDAwMDAwMDU5Mzk2MzQzYmFiMTI3MWI1MGZjZTgzYmFhZTE2NDk2",
+  "snapshot_id": "MTY0Njk5MzMxMSwwMDAwMDAwMDMzYzM1ZmE1ZWJhYjZiYjVhMThkZjExNjQ3NmFmNWQ3",
   "tracks": [
     {
       "added_at": "2022-03-11 10:08:31",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-03-11 10:08:31",
       "album": {
+        "name": "Coolin'",
+        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 463346,
+      "name": "The Eagle Flies",
+      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2022-03-11 10:08:31",
       "album": {
-        "name": "The Latin Side Of Vince Guaraldi",
-        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Star Song",
-      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
-    },
-    {
-      "added_at": "2022-03-11 10:08:31",
-      "album": {
         "name": "Jazz At Oberlin (OJC Remaster)",
         "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 390400,
       "name": "Stardust - Live At Finney Chapel / 1953",
       "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
+        "name": "The Latin Side Of Vince Guaraldi",
+        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
     },
     {
       "added_at": "2022-03-11 10:08:31",
@@ -599,6 +615,22 @@
     {
       "added_at": "2022-03-11 10:08:31",
       "album": {
+        "name": "Chico Hamilton Quintet In Hi-Fi",
+        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
+      },
+      "artists": [
+        {
+          "name": "Chico Hamilton Quintet",
+          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
         "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
         "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
       },
@@ -615,22 +647,6 @@
       "duration_ms": 225906,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
-    },
-    {
-      "added_at": "2022-03-11 10:08:31",
-      "album": {
-        "name": "Chico Hamilton Quintet In Hi-Fi",
-        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton Quintet",
-          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "The Wind",
-      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
     },
     {
       "added_at": "2022-03-11 10:08:31",
@@ -723,6 +739,22 @@
     {
       "added_at": "2022-03-11 10:08:31",
       "album": {
+        "name": "Take Me Along",
+        "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
+      },
+      "artists": [
+        {
+          "name": "Marty Paich",
+          "url": "https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Sid, Ol' Kid",
+      "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
         "name": "Gongs East!",
         "url": "https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q"
       },
@@ -803,6 +835,102 @@
     {
       "added_at": "2022-03-11 10:08:31",
       "album": {
+        "name": "Jazz Loves Paris",
+        "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Collette",
+          "url": "https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR"
+        }
+      ],
+      "duration_ms": 146306,
+      "name": "Pigalle",
+      "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
+        "name": "The Quartet and the Quintet",
+        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
+      },
+      "artists": [
+        {
+          "name": "Jack Sheldon",
+          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "Ahmoore",
+      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
+        "name": "Shorty Rodgers Courts The Count",
+        "url": "https://open.spotify.com/album/79crFBHL0AC42MEgShce76"
+      },
+      "artists": [
+        {
+          "name": "Shorty Rogers",
+          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
+        }
+      ],
+      "duration_ms": 262967,
+      "name": "Swingin' The Blues",
+      "url": "https://open.spotify.com/track/316FxiYEDzyHI4OMBuXC8l"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/02O3WhAMDqv4kL7tvdzXQt"
+      },
+      "artists": [
+        {
+          "name": "The Chet Baker Sextet",
+          "url": "https://open.spotify.com/artist/1q1geiLRhQOQRtPijlG2wi"
+        }
+      ],
+      "duration_ms": 285620,
+      "name": "Little Man You've Had a Busy Day",
+      "url": "https://open.spotify.com/track/4nJNXNc3ylbmtqFkNXJ8HO"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
+        "name": "Playboys",
+        "url": "https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker and Art Pepper",
+          "url": "https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU"
+        }
+      ],
+      "duration_ms": 344239,
+      "name": "Resonant Emotions",
+      "url": "https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
+        "name": "Swingin' (Remastered)",
+        "url": "https://open.spotify.com/album/3BeRh2rV4kUxMwRFda9m2h"
+      },
+      "artists": [
+        {
+          "name": "Terry Gibbs",
+          "url": "https://open.spotify.com/artist/4vc7AQ05GYmIYTzly9xjbp"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "Happiness Is a Thing Called Joe",
+      "url": "https://open.spotify.com/track/0mOawytsrpaqfVMPkZopDA"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
         "name": "Monterey Concerts",
         "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
       },
@@ -835,6 +963,22 @@
     {
       "added_at": "2022-03-11 10:08:31",
       "album": {
+        "name": "Behind Brigitte Bardot",
+        "url": "https://open.spotify.com/album/2BWanM03qWRjI5qncEDw7B"
+      },
+      "artists": [
+        {
+          "name": "Pete Rugulo & His Orchestra",
+          "url": "https://open.spotify.com/artist/3koa70H5s3xMRMJG9ny0Ae"
+        }
+      ],
+      "duration_ms": 159546,
+      "name": "Tell Me Something Sweet",
+      "url": "https://open.spotify.com/track/10PLzciynHEbKOlRiDGdOt"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
         "name": "East Coast Jazz, Vol. 1 (Remastered 2013)",
         "url": "https://open.spotify.com/album/3Y8mMZZSCCC5S41t0URMnZ"
       },
@@ -863,6 +1007,26 @@
       "duration_ms": 311946,
       "name": "Nap's Dream",
       "url": "https://open.spotify.com/track/6ddIBDGs9jEu6uwtX195fu"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
+        "name": "In The Solo Spotlight!",
+        "url": "https://open.spotify.com/album/098M40XLXW3ZfumG6TjdrY"
+      },
+      "artists": [
+        {
+          "name": "Conte Candoli",
+          "url": "https://open.spotify.com/artist/3wM3S0CxD0Do7IWKvJ0WRG"
+        },
+        {
+          "name": "Howard Rumsey's Lighthouse All-Stars",
+          "url": "https://open.spotify.com/artist/7jlqf7cobqW3slCrn6mUDW"
+        }
+      ],
+      "duration_ms": 359960,
+      "name": "If You Are There",
+      "url": "https://open.spotify.com/track/5rp6EjgoYKp2tLKMIbm7ww"
     }
   ],
   "unique_name": "West Coast Jazz",

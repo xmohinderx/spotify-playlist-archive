@@ -2,7 +2,7 @@
 
 ### [Beer & Wings](https://open.spotify.com/playlist/37i9dQZF1DXauOWFg72pbl)
 
-> Cold beer\. Hot wings\. Great rock\. This is your game day soundtrack.
+> Cold beer\. Hot wings\. Great rock.
 
 143 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/3dZKmsHFqarBZK5PhR0m0r)
 

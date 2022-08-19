@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/0qzsmjWYgiSIRNFrTEEsdP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6uDC98RwRaAcFQzvmnteKU) | 0:00 | 2021-12-10 | 2022-07-29 |
-| [](https://open.spotify.com/track/3a6enSby0Rw9mrRPKDvqEL) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0uq7tFuxPm21pzggXlckgO) | 0:00 | 2021-12-10 | 2022-07-29 |
+| [](https://open.spotify.com/track/0qzsmjWYgiSIRNFrTEEsdP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6uDC98RwRaAcFQzvmnteKU) | 0:00 | 2021-12-10 |  |
+| [](https://open.spotify.com/track/3a6enSby0Rw9mrRPKDvqEL) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0uq7tFuxPm21pzggXlckgO) | 0:00 | 2021-12-10 |  |
 | [A Quiet Mood](https://open.spotify.com/track/1ffxltifZRL415rEVX0TAt) | [Freecastor](https://open.spotify.com/artist/3xs7b2VxntawH7PkicmyLR) | [A Quiet Mood](https://open.spotify.com/album/0qM1Gt6GwHsKWxHPKm1iq5) | 2:53 | 2021-12-10 |  |
 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 | 2021-12-10 |  |
 | [Across The Purple Expanse](https://open.spotify.com/track/1nh7NOJDfy3oewkGM6u08b) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Across The Purple Expanse](https://open.spotify.com/album/4Qc09SX2XC8YlP1Hggb3Jd) | 2:14 | 2022-01-07 |  |

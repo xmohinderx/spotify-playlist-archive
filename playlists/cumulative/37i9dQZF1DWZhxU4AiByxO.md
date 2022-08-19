@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-224 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+226 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-07-01 |  |
 | [Astronaut In The Ocean](https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:14 | 2021-10-22 |  |
 | [Baby Shark](https://open.spotify.com/track/571Jz87ytvwTv205mToeaG) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Presents: The Best of Baby Shark](https://open.spotify.com/album/3QzOkjbkCXewXdy8VuZQan) | 1:24 | 2021-10-22 |  |
+| [Bam Bam](https://open.spotify.com/track/3cMtpoNii0HiB0cRdzuim1) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Bam Bam](https://open.spotify.com/album/70gkOEOY85LsuTFB9UzHuN) | 3:15 | 2022-08-18 |  |
 | [Bang!](https://open.spotify.com/track/268uz3MBAXyGQNQGoFvqhL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Bang!](https://open.spotify.com/album/3asGV841gsVVgwCvwEUuQX) | 2:53 | 2021-10-22 |  |
 | [Beggin'](https://open.spotify.com/track/5YcI2aIbVYm7rVZAhI4I7v) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:18 | 2022-07-28 |  |
 | [Beggin'](https://open.spotify.com/track/6SYgBTp6KuQ2ZQ91bATYl0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Beggin'](https://open.spotify.com/album/2EClhJEKmxxPX9cMOfMXnq) | 3:18 | 2022-01-07 | 2022-07-29 |
@@ -228,6 +229,7 @@
 | [Worldwide Party](https://open.spotify.com/track/2XYRJ6PqDlje8IcoY6QXK8) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Celebrate](https://open.spotify.com/album/13UcUuzRs2Sd13I3zuWapX) | 2:58 | 2021-10-22 |  |
 | [You Need To Calm Down](https://open.spotify.com/track/16QfYCJ6g1RVi0OOHZ5Iut) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/0PlHp1bBQQFotUqHhgvB1t) | 2:47 | 2021-10-22 | 2022-07-29 |
 | [You Need To Calm Down](https://open.spotify.com/track/2KZ1CShivaQbwlZ1hiH0ze) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 2:48 | 2022-07-28 |  |
+| [You Never Know](https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 2\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd) | 3:16 | 2022-08-18 |  |
 | [You're Welcome](https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2021-10-22 |  |
 | [You've Got a Friend in Me](https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:04 | 2021-10-22 |  |
 | [Youngblood](https://open.spotify.com/track/0PVG6vvNCbKwifLXJ7zlBz) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9) | 3:23 | 2022-07-28 |  |

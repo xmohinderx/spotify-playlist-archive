@@ -1520,6 +1520,44 @@
     },
     {
       "album": {
+        "name": "help",
+        "url": "https://open.spotify.com/album/3s4yc0Gvz7a9Py5Qe04wt4"
+      },
+      "artists": [
+        {
+          "name": "Chilloud",
+          "url": "https://open.spotify.com/artist/7IInvecim7bgtuDf8yWP9S"
+        },
+        {
+          "name": "sane",
+          "url": "https://open.spotify.com/artist/5AXWOrizattZ8pIPbxfpUz"
+        },
+        {
+          "name": "yaon",
+          "url": "https://open.spotify.com/artist/0ybwk04kHgOgtrL8GVw9gy"
+        },
+        {
+          "name": "Lil Kintexx",
+          "url": "https://open.spotify.com/artist/05GiFsy2bdPTpl3oyJyZic"
+        },
+        {
+          "name": "GOLDBUUDA",
+          "url": "https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV"
+        },
+        {
+          "name": "Lil Kirby",
+          "url": "https://open.spotify.com/artist/0AyTTFMP8EFKZJ9VUNEBq1"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200245,
+      "name": "help",
+      "url": "https://open.spotify.com/track/0vxcf5Ust5Qm6T0LA1uAr4"
+    },
+    {
+      "album": {
         "name": "Help (IDIOTAPE Remix)",
         "url": "https://open.spotify.com/album/792mqyd7VyWfzP6GLaBhUN"
       },
@@ -2001,7 +2039,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 144666,
       "name": "KIRBY CLUB BABY (Feat. LuvAnge1, GOLDBUUDA)",
       "url": "https://open.spotify.com/track/6Y3pgqVje9iFrkCTEig30h"

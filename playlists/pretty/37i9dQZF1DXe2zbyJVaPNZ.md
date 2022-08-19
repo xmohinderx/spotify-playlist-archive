@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 
 > Ambient waves for ethereal days
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,308 likes - 71 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,374 likes - 71 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 28 | [The Contrarian](https://open.spotify.com/track/0QG72LD6gpxefMVt1aDV5X) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Godspeed](https://open.spotify.com/album/0su6VB6JvmK0X5NwuyT8Jf) | 4:04 |
 | 29 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 |
 | 30 | [Terra della straniera](https://open.spotify.com/track/6EGfGeXcbqVib95Q7JTv1E) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Terra della straniera](https://open.spotify.com/album/7hxO8Wb6TL4Nuov5xOToJc) | 2:49 |
-| 31 | [Stave Peak](https://open.spotify.com/track/1Y315hvTFn1VMon294Tn7y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7nBRRZImFPLUrd0XsjzOrX) | 6:40 |
+| 31 | [Stave Peak](https://open.spotify.com/track/1zkg1Iy9lFRF5ZQHMEiR9y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7mPWzggbkjqPQM9tDQa64s) | 6:40 |
 | 32 | [floodplain](https://open.spotify.com/track/2KzWApRFQisFvm31KVEQgJ) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [floodplain // wildflowers](https://open.spotify.com/album/3YRwUdirklDEUyBgaECIRg) | 7:03 |
 | 33 | [Novae](https://open.spotify.com/track/7sYaDAxaJiY7e0HALJOG2e) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Novae](https://open.spotify.com/album/2GjP1BHQaHhTz9mimNqiEf) | 3:37 |
 | 34 | [Reflections](https://open.spotify.com/track/1Qm7N6tQUcg7RubLr7o1nq) | [Dorian Gray](https://open.spotify.com/artist/27bwOnqrkHPk4sJtNpUn2r) | [Randomly Generated](https://open.spotify.com/album/2yjIsMdeY9TFeTGqqcZO9z) | 6:35 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 70 | [Cosmic Dust](https://open.spotify.com/track/0yuKkb9X0PxKU5WWhpPD2i) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 3:51 |
 | 71 | [Iridescent Path](https://open.spotify.com/track/4tHjZx4Z77XSC64Zhai6MG) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Somnolent](https://open.spotify.com/album/7mtYE21I5eKozv4spdgauR) | 5:51 |
 
-Snapshot ID: `MTY2MDIzNjY5NywwMDAwMDAwMDU0NDQ0MDFiMzBkNjgyZDc3NjVhNjQ4MTk2NjMxNzU0`
+Snapshot ID: `MTY2MDIzNjY5NywwMDAwMDAwMGVhZDJmMzNhODg2YmNmM2Y5ZGZmNjlkNWEwODg0YjU0`

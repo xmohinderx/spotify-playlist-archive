@@ -62,7 +62,7 @@
 | [Warriors](https://open.spotify.com/track/3dTVCb0537sxC1g9bhoFy1) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Warriors](https://open.spotify.com/album/59IUZfwB5cpxuYHQ9bz37b) | 3:50 | 2021-02-12 |  |
 | [Where I Belong](https://open.spotify.com/track/3DMhc9kOCKfSYLwOFmqVg8) | [Graveyards to Gardens](https://open.spotify.com/artist/1EM7XPBRpj2YuJcWbzs9XI) | [Home](https://open.spotify.com/album/1rWqw8qoWyNvykOiQeREo0) | 3:33 | 2021-02-12 |  |
 | [Where the Spirit Leads](https://open.spotify.com/track/3kYe2jifdv6bsGrKNluD2W) | [Upside Down Kingdom](https://open.spotify.com/artist/5P7E8In8jEzQJjUUn9LDfv) | [Upside Down Kingdom](https://open.spotify.com/album/72hcz24AOgiU2ayVfVTOuo) | 7:16 | 2021-02-12 |  |
-| [You](https://open.spotify.com/track/47lIVr8eSuHOQbduo1YvtA) | [Happi](https://open.spotify.com/artist/0YbBm6H6QlKoGl7igoxB34) | [You](https://open.spotify.com/album/4AuUKEWGgTIUQyTeUCDzud) | 3:26 | 2021-02-12 | 2022-07-29 |
+| [You](https://open.spotify.com/track/47lIVr8eSuHOQbduo1YvtA) | [Happi](https://open.spotify.com/artist/0YbBm6H6QlKoGl7igoxB34) | [You](https://open.spotify.com/album/4AuUKEWGgTIUQyTeUCDzud) | 3:26 | 2021-02-12 |  |
 | [You're over All](https://open.spotify.com/track/1iuHveiBEENHLLo9F7ueGH) | [Apostles Worship](https://open.spotify.com/artist/6eWLOvhK2atCNcwCbZsFdv) | [Forever Hallelujah](https://open.spotify.com/album/01ZQM1owkYnu54tGrUOHKJ) | 4:28 | 2021-02-12 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

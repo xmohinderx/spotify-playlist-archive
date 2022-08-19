@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-135 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
+136 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Rakkamaa Baby](https://open.spotify.com/track/464pAMlYYRoh8QBDovf3KE) | [Stylomannavan](https://open.spotify.com/artist/6o5yhCFKdMKNmQ8Qh804VG), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW) | [Rakkamaa Baby](https://open.spotify.com/album/6l9ZN3RrdmRdC7HhQpWaDT) | 4:33 | 2021-12-01 | 2022-07-28 |
 | [Rap Game \(feat\. Saf Weezy & MC Starboy\)](https://open.spotify.com/track/3z55rSilY03JI2nMELCpex) | [Kuruji](https://open.spotify.com/artist/3Kf5tlhWZLOBHe4BHtOX8k), [VJD Music](https://open.spotify.com/artist/6BDFDepQEFCxQB4rHaRK36), [Saf Weezy](https://open.spotify.com/artist/5HfIrd0W7zRxZqCJIEuNm8), [MC Starboy](https://open.spotify.com/artist/2P5yoUxrsSnU6m91fdlbWu) | [Rap Game \(feat\. Saf Weezy & MC Starboy\)](https://open.spotify.com/album/7kqJbJhikaKnu5if8CPEvS) | 2:32 | 2021-12-01 |  |
 | [Rasathi](https://open.spotify.com/track/2Id3FL7C45poCyqihTZt3y) | [Dopeadelicz](https://open.spotify.com/artist/4HqaCsAhhMF8t4ExOwugpK), [Stony Psyko](https://open.spotify.com/artist/39cUrSwXh9awPD0itfevhV) | [Rasathi](https://open.spotify.com/album/3ldb41aKZt64m8tFYq5Udq) | 3:10 | 2021-12-01 |  |
-| [Rebelution](https://open.spotify.com/track/4eZO9OZxqYtdA5wmvPPCzm) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9) | [Thula](https://open.spotify.com/album/2V8Q4wFKo9zci8eYggtfHs) | 3:39 | 2021-12-01 |  |
+| [Rebelution](https://open.spotify.com/track/4eZO9OZxqYtdA5wmvPPCzm) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9) | [Thula](https://open.spotify.com/album/2V8Q4wFKo9zci8eYggtfHs) | 3:39 | 2021-12-01 | 2022-08-19 |
+| [Rebelution](https://open.spotify.com/track/5Og3Y9UvWmdmGq9OQAARA3) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9) | [Thula](https://open.spotify.com/album/1ZiHy43t34l6WJ8oXpjZW4) | 3:39 | 2021-12-01 |  |
 | [Rebelution](https://open.spotify.com/track/1LcFq1jFKAJ10SqeJsqM7m) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9) | [Thula](https://open.spotify.com/album/0XCydXuBYxqLEbUcAV9Syj) | 3:44 | 2021-12-01 | 2022-07-29 |
 | [Rider Fighter](https://open.spotify.com/track/1wMJESbiqngTGJvDNhy4Xi) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | [Rider Fighter](https://open.spotify.com/album/5qikTzQxzJT79i2Ng3yhbI) | 3:53 | 2022-02-01 |  |
 | [Roar](https://open.spotify.com/track/7fUulYbeIsQIB9F308aVfw) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Roar](https://open.spotify.com/album/1AZx4pZY4SRsvduXx4boTw) | 2:43 | 2021-12-01 |  |

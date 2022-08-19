@@ -4,7 +4,7 @@
 
 > Kick back and relax to these chilled Blues classics.
 
-87 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/69IojyGEsmd2inrDrCpDQa)
+88 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/69IojyGEsmd2inrDrCpDQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Wayfaring Pilgrim](https://open.spotify.com/track/6yJ6VtC0IQ4BC47Aj6MkZ3) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [In The Beginning](https://open.spotify.com/album/4s8yNqAy1MyFXtLp8HlWUM) | 5:08 | 2022-07-29 |  |
 | [When She Dances](https://open.spotify.com/track/17VqQQo5RkdA7iukLr0okv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 4:53 | 2022-07-29 |  |
 | [Why Do We Have to Say Goodbye](https://open.spotify.com/track/3jMG5NuZWKr274xe3VcsrS) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [One More Bridge To Cross](https://open.spotify.com/album/0qWFC5ih69ix6D9nekvMv2) | 5:17 | 2022-07-29 |  |
+| [Worried Dream](https://open.spotify.com/track/1zBaC0k70VeGQqrMZ1pukr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Essential](https://open.spotify.com/album/3KxTqS1MTcfDPtVrMUox4r) | 5:21 | 2022-07-29 |  |
 | [You Don't Miss Your Water \('Til Your Well Runs Dry\)](https://open.spotify.com/track/3ahGQmzF1SGumepIEK51W1) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 4:25 | 2022-07-29 |  |
 | [Your Turn to Cry](https://open.spotify.com/track/2eSEk4XhxaWmz6R4dhem0m) | [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B) | [Slow Blues Chicago Style](https://open.spotify.com/album/3Ifpq6nG33ljv0dLZx3Gws) | 5:51 | 2022-07-29 |  |
 

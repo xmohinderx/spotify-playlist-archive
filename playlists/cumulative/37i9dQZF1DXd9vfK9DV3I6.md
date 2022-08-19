@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-203 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
+204 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,12 +42,13 @@
 | [Classic](https://open.spotify.com/track/3xIK6Dpgfq9w7NnRZx1LZG) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [Classic](https://open.spotify.com/album/4gc66YzvCYUOVAHtCxqLqF) | 3:37 | 2020-12-01 | 2020-12-13 |
 | [Closer](https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT) | [Monoir](https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz), [Loredvn](https://open.spotify.com/artist/5RR9UQkT1jH2GjKxjC4czY), [Geanina](https://open.spotify.com/artist/6v2E7HSjXWVK89bz9Y5OcW) | [Closer](https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb) | 2:32 | 2022-05-19 |  |
 | [Conmigo](https://open.spotify.com/track/7vdihCV62kwUQq56ogHK1Q) | [Max Oazo](https://open.spotify.com/artist/5uNCgXcFgj0OyipmIk8ZUi), [Bonzana](https://open.spotify.com/artist/5q3YP2wg8w3Oydv2uOAWLS) | [Conmigo](https://open.spotify.com/album/4uw61lolt65J501aWdt4Fr) | 3:21 | 2021-10-10 |  |
-| [Count on You \- Anthony Keyrouz Remix \- Radio Edit](https://open.spotify.com/track/7hoFU5qbPe3oruw1Px7JA0) | [Deepforever](https://open.spotify.com/artist/1JiQCV3XfG5ri2sH07QTdx), [Iarina](https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Count on You \(Anthony Keyrouz Remix\)](https://open.spotify.com/album/5R64opDkn7VheuaIpSF4t2) | 3:21 | 2020-12-13 |  |
+| [Count on You \- Anthony Keyrouz Remix \- Radio Edit](https://open.spotify.com/track/7hoFU5qbPe3oruw1Px7JA0) | [Deepforever](https://open.spotify.com/artist/1JiQCV3XfG5ri2sH07QTdx), [Iarina](https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Count on You \(Anthony Keyrouz Remix\)](https://open.spotify.com/album/5R64opDkn7VheuaIpSF4t2) | 3:21 | 2020-12-13 | 2022-08-19 |
 | [Cry](https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd), [Kristian Gusho](https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL) | [Cry](https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2) | 3:20 | 2020-12-18 |  |
 | [Cry](https://open.spotify.com/track/3unxpgWFIPcYAgr9Jmhz9p) | [Iarina](https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7) | [Cry](https://open.spotify.com/album/3fWzFPiEAXLSIlCgqNs1wS) | 2:39 | 2020-12-13 |  |
 | [Dahlia Girl](https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Dahlia Girl](https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv) | 3:17 | 2022-05-19 |  |
 | [Dar Gnawa \- Original Mix](https://open.spotify.com/track/3y5HE8dQl42d0fzyfrIdU5) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Dar Gnawa Ep](https://open.spotify.com/album/3ZwlXB4sw91PjNlsLSmBxJ) | 6:59 | 2020-10-18\* | 2022-07-29 |
 | [DayBreak Ft\. Behrooz Shiri \- Original mix](https://open.spotify.com/track/47ds21UWcwcRAb2grmY23u) | [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV), [Adeia](https://open.spotify.com/artist/2HXkY2E4L4r1U4Lz2zlf5Q) | [DayBreak Ft\. Behrooz Shiri](https://open.spotify.com/album/2RBZ8NbEoccZBVr2arOrU4) | 4:00 | 2021-01-08 |  |
+| [Deep Anatolia](https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ) | [Deep Anatolia](https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW) | 2:48 | 2022-06-27 |  |
 | [Deep Anatolia](https://open.spotify.com/track/2s61JUSrJVjtkZKxFSBsdH) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ) | [Deep Anatolia](https://open.spotify.com/album/23NVYYNs4HxDHfc0zKm4tX) | 2:48 | 2021-06-01 | 2022-08-12 |
 | [Delichones](https://open.spotify.com/track/6qiwOC5TeKXK4pDonIZxgR) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Delichones](https://open.spotify.com/album/7JDEXzgMecy0ut0xXIIcks) | 6:45 | 2020-10-18\* |  |
 | [Delina](https://open.spotify.com/track/7eJCU0qd9dvFVneR46G1os) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Bali](https://open.spotify.com/album/0MPF0EVygO60VuV99r3p68) | 5:44 | 2021-06-22 |  |

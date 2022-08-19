@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 > A collection of Hip Hop hits and viral trends featuring Lil Baby, Drake, Doechii &amp; more\. Updated weekly!  Cover: JID
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 12,041 likes - 55 songs - 3 hr 2 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 12,039 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

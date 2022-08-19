@@ -1,12 +1,12 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 3063,
+  "num_followers": 3070,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDEwNzQ5ZWNkMjI1NzczZGMwYmViYzExNTkyNWQ3NDY2",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGIxMmQ0YjE3YzljYzM0Zjg2NzNkOWY1OTUzNGM1Yzgx",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -31,6 +31,26 @@
       "duration_ms": 425746,
       "name": "Splendido Sundance - Live at Warfield Theater, San Francisco, CA - December 6, 1980",
       "url": "https://open.spotify.com/track/7evFX4LIgofxcz2MGnPaf5"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Now's The Time [Live (Remastered)]",
+        "url": "https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL"
+      },
+      "artists": [
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        },
+        {
+          "name": "Sam Rivers",
+          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
+        }
+      ],
+      "duration_ms": 431826,
+      "name": "Giant Steps - Live (Remastered)",
+      "url": "https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW"
     },
     {
       "added_at": "2022-07-08 04:02:00",

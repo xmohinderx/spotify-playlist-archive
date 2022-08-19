@@ -1,15 +1,39 @@
 {
   "description": "New music from popular Hindi artists. Cover- B Praak ",
-  "num_followers": 6534,
+  "num_followers": 6577,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4NzkxOCwwMDAwMDAwMGFjNTUxY2U1ZjExZTNhNzkxYThmZTNiOTE3ZWI2NzU2",
+  "snapshot_id": "MTY2MDg1NTM0MiwwMDAwMDAwMDkzOGVhMjE5MGQ1NDJmMTMwNDkxOTJiMzhiNDgwNDM5",
   "tracks": [
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
+      "album": {
+        "name": "Barsaat Ho Jaaye",
+        "url": "https://open.spotify.com/album/6Us08Vq82uCHK5aROjNlmA"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "duration_ms": 250124,
+      "name": "Barsaat Ho Jaaye",
+      "url": "https://open.spotify.com/track/3nZr2Anx8AEkI3thetbBzP"
+    },
+    {
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Duniya",
         "url": "https://open.spotify.com/album/0pY9e05RJ52zBkEI7kezYB"
@@ -33,7 +57,7 @@
       "url": "https://open.spotify.com/track/1oDwcIRY8GsNn7VZr8ladn"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "JAANIYA",
         "url": "https://open.spotify.com/album/5D0XVqRiZGBTqjoy3SF1xQ"
@@ -49,7 +73,7 @@
       "url": "https://open.spotify.com/track/171BpfIunw4saFc0pPJfDO"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Dariyaa (feat. Javed Ali)",
         "url": "https://open.spotify.com/album/1DhTfJQSFarNYHHdLsLYa5"
@@ -69,7 +93,7 @@
       "url": "https://open.spotify.com/track/4vByr0ivtfJq9HRTXzbpZ3"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Aankhon Wali Baatein",
         "url": "https://open.spotify.com/album/0G9A3yId2w5NBJcqwh31uv"
@@ -85,7 +109,7 @@
       "url": "https://open.spotify.com/track/21VVLmm60b0AEzmBNoV4Wr"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Tu Hi Hai Sanam",
         "url": "https://open.spotify.com/album/3fVtcKmQYceDSk8SbCctWS"
@@ -105,7 +129,7 @@
       "url": "https://open.spotify.com/track/3fmYGdO1LPyTltoi2JBjLX"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Dard Ishq Hai",
         "url": "https://open.spotify.com/album/4tEh0pteIKZat8YiUQGaib"
@@ -125,7 +149,7 @@
       "url": "https://open.spotify.com/track/4FxAGAvrO3OZVblVkYSkR4"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Ae Adaa",
         "url": "https://open.spotify.com/album/5ae2hs3YDhHgc5ItCpQb5D"
@@ -145,7 +169,7 @@
       "url": "https://open.spotify.com/track/6YXsutXu14CVluUquXYj3U"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Bekhabar",
         "url": "https://open.spotify.com/album/1NvOkJwsKFEzthlxDr9UnV"
@@ -169,7 +193,7 @@
       "url": "https://open.spotify.com/track/20H7gJ6egUmfOzQ00t5DEH"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Baalama",
         "url": "https://open.spotify.com/album/0iN1SJgo1d3xKc2vFPsv2O"
@@ -189,7 +213,7 @@
       "url": "https://open.spotify.com/track/4970eHla8KU6fnI6HwBG5T"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Kab",
         "url": "https://open.spotify.com/album/2xWfdhiuYzFhkQBA3lDW8x"
@@ -209,7 +233,7 @@
       "url": "https://open.spotify.com/track/51I4qI7REq8zPjpl65RntO"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Dastak",
         "url": "https://open.spotify.com/album/6BfyWnIBRo4XE5WlQvCLTe"
@@ -229,7 +253,7 @@
       "url": "https://open.spotify.com/track/6p2ZjkoroOPdcTlcM5MLwA"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Ek Din",
         "url": "https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1"
@@ -245,7 +269,7 @@
       "url": "https://open.spotify.com/track/6hFeEa1XPaw2bbHi8eFt4x"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Jaane De",
         "url": "https://open.spotify.com/album/4Exxf3P4vKBpbJsyZEBj6c"
@@ -265,7 +289,7 @@
       "url": "https://open.spotify.com/track/6BFBH6s2N4fMA4Huwq88mB"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Rangrez",
         "url": "https://open.spotify.com/album/1TqRxCaSNE08PZ5WzhrX31"
@@ -285,7 +309,7 @@
       "url": "https://open.spotify.com/track/0hpkrnDK1a21CX3uylUocb"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Mashooka (feat. Rakul Preet Singh)",
         "url": "https://open.spotify.com/album/1AzWjPYpCyqP7uqt04yFxv"
@@ -317,7 +341,7 @@
       "url": "https://open.spotify.com/track/6CVu3umk6baD6bwLVzmx3m"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Muskan",
         "url": "https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv"
@@ -333,7 +357,7 @@
       "url": "https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Ro Rahi Hu",
         "url": "https://open.spotify.com/album/3a2XFb82rtBH2KrUwGrOPw"
@@ -349,7 +373,7 @@
       "url": "https://open.spotify.com/track/2CnTYJ4VMeUzmB2y5977xb"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Waqt",
         "url": "https://open.spotify.com/album/4d0yolr12CuiiFpBYbgLIa"
@@ -365,7 +389,7 @@
       "url": "https://open.spotify.com/track/4d70bpXNyxPFchPzEQU5JW"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Rehna Yahan",
         "url": "https://open.spotify.com/album/12YpLiUbFEp8YWwMbzOAvJ"
@@ -385,7 +409,7 @@
       "url": "https://open.spotify.com/track/1VJL3frLxxd52d9CzkTmm5"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Pakki Wali Dosti",
         "url": "https://open.spotify.com/album/0kXGavJbmC8CAn6lMfaKNa"
@@ -401,7 +425,7 @@
       "url": "https://open.spotify.com/track/545Y4JClhPsET5b4EyY089"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Dil Patang",
         "url": "https://open.spotify.com/album/6IaWMrvJQLgudyIHa6r0dj"
@@ -417,7 +441,7 @@
       "url": "https://open.spotify.com/track/1RbTj7XTHJ8K4AHjUwcR2h"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Tu / You",
         "url": "https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn"
@@ -433,7 +457,7 @@
       "url": "https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Baarish Aayi Hai",
         "url": "https://open.spotify.com/album/2Zafg5M5XRCk6qQ0tYpzbi"
@@ -457,7 +481,7 @@
       "url": "https://open.spotify.com/track/6kO2iI3NvCJV35063NEWb4"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Saaye",
         "url": "https://open.spotify.com/album/1Gus69A2j11p8utuhDIc4O"
@@ -477,7 +501,7 @@
       "url": "https://open.spotify.com/track/0fdsAOeCtXHyjEra16h3An"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Suroor Sa",
         "url": "https://open.spotify.com/album/1hoYZSZxDUvAbZTjkccmM2"
@@ -497,7 +521,7 @@
       "url": "https://open.spotify.com/track/2xw0QDb1kMzeFjF6SSmRAv"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Tera Nishaan",
         "url": "https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I"
@@ -517,7 +541,7 @@
       "url": "https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Ho Gaya Hai Pyaar (Featuring. Arjun Bijlani, Surbhi Chandna)",
         "url": "https://open.spotify.com/album/7tfwkCk4Cm2gu8KQGvPDqT"
@@ -541,7 +565,7 @@
       "url": "https://open.spotify.com/track/0XCJTgKNn5gQ5McayMv86D"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Mann Laage",
         "url": "https://open.spotify.com/album/6E5B3iItUC7SjMjLMlhDq4"
@@ -557,7 +581,7 @@
       "url": "https://open.spotify.com/track/2SxMLWe8DsE2BCSDhRP9IH"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Dil Sambhalta Nahin",
         "url": "https://open.spotify.com/album/75X69O24r9xYhNMD8wBZNd"
@@ -577,7 +601,7 @@
       "url": "https://open.spotify.com/track/1dzj3do56CDTT1s4bFNnix"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Aakhir",
         "url": "https://open.spotify.com/album/12gT82y8lBN3SyrFctwVwH"
@@ -601,7 +625,7 @@
       "url": "https://open.spotify.com/track/6H3sAWLZRET9SblfxEvwRh"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Jhooti Si",
         "url": "https://open.spotify.com/album/4Ub1jx5nfoC9iZIPge9J09"
@@ -621,7 +645,7 @@
       "url": "https://open.spotify.com/track/622d1Z8ToHDwFLlcM03qSG"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Man Bawra Ye",
         "url": "https://open.spotify.com/album/1Xj6Vh4JDcphIgxk1pIWAE"
@@ -645,7 +669,7 @@
       "url": "https://open.spotify.com/track/6yugklWvWeAYhjKdbGP9ns"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Tere Bagair",
         "url": "https://open.spotify.com/album/4oupeSYxGhe4NCdZSn1Ej3"
@@ -661,7 +685,7 @@
       "url": "https://open.spotify.com/track/2Bh2zywl6ENksD9CPL4l8n"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/07fBrfYGCnJvwA5TN1DZt4"
@@ -681,7 +705,7 @@
       "url": "https://open.spotify.com/track/2D18NjMQ2uQ0lkiP0wI3iE"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Taash",
         "url": "https://open.spotify.com/album/7r3oHYEBioYtwd0nLlzw0l"
@@ -697,7 +721,7 @@
       "url": "https://open.spotify.com/track/51FYAb0H7mkOdTWTLkQc92"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "TU NA MERA",
         "url": "https://open.spotify.com/album/5R0a37vkkfVTbYTvaQNNfQ"
@@ -721,7 +745,7 @@
       "url": "https://open.spotify.com/track/3C2KL0Wxmrms8g93W66xzQ"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Baarish Ke Din",
         "url": "https://open.spotify.com/album/1AkZODpgGdGqZlvxLTss4Z"
@@ -741,7 +765,7 @@
       "url": "https://open.spotify.com/track/6aTVvubDMNBpKgQlJRclXr"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Baarishon Mein",
         "url": "https://open.spotify.com/album/0HsLFcmpM2dtnQ30RuiCjT"
@@ -757,7 +781,7 @@
       "url": "https://open.spotify.com/track/7doebiokA0utWXWcw7rD82"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Baahon Ke Takiye",
         "url": "https://open.spotify.com/album/0RsO0Fjl7Zz1651XYOTzuc"
@@ -773,7 +797,7 @@
       "url": "https://open.spotify.com/track/2gVOL1HzBFRzeVi5FXcch5"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Mahiya",
         "url": "https://open.spotify.com/album/0lStxANI2oxIRdOfwKcLHt"
@@ -797,7 +821,7 @@
       "url": "https://open.spotify.com/track/4KByEAMS0ykxhC11AsA0WD"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Aaya Mausam",
         "url": "https://open.spotify.com/album/2Jcb1B7oVEmgUUN4U1rPG5"
@@ -817,7 +841,7 @@
       "url": "https://open.spotify.com/track/4YZQWjQnuctiHfk5wgYAiu"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Gulaab",
         "url": "https://open.spotify.com/album/06emcAOErjaBVkKqChRTF2"
@@ -833,7 +857,7 @@
       "url": "https://open.spotify.com/track/7MGBVRDJQ6zxx18FhvqzSP"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Jhootha",
         "url": "https://open.spotify.com/album/6CfPxegjXJ540ABIQDT4Y5"
@@ -853,7 +877,7 @@
       "url": "https://open.spotify.com/track/1IOPDC8MVzSncKYyNaqEUS"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Asar",
         "url": "https://open.spotify.com/album/4NAqO60ilbYjOULTBgf9Mc"
@@ -873,7 +897,7 @@
       "url": "https://open.spotify.com/track/4Cl13lnGGhHmNpO4tTi3az"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Behosh",
         "url": "https://open.spotify.com/album/5vm07tPLS9GneWP2TPO5YU"
@@ -889,7 +913,7 @@
       "url": "https://open.spotify.com/track/5b4liCyMaLHS2qMUYsZTXp"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Khabar",
         "url": "https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq"
@@ -905,7 +929,7 @@
       "url": "https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Karwaan",
         "url": "https://open.spotify.com/album/4sXJC1aQtXFGeqSBfpIuTz"
@@ -921,7 +945,7 @@
       "url": "https://open.spotify.com/track/78APpAdpP2eZ5uvTrI6Awx"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Jaadugar",
         "url": "https://open.spotify.com/album/5bwc6AGW4DHTX16hCE9jAQ"
@@ -941,7 +965,7 @@
       "url": "https://open.spotify.com/track/702aSTeNYc27sU1JerBGYE"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Shaam",
         "url": "https://open.spotify.com/album/6vd9RQIYymxjF1GumO0LDh"
@@ -957,7 +981,7 @@
       "url": "https://open.spotify.com/track/4ktaJXIoCnhjODrOwSCPBg"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Tauba (feat. Badshah)",
         "url": "https://open.spotify.com/album/7xSdMyPr5KPL3A171ZbQ9M"
@@ -977,7 +1001,7 @@
       "url": "https://open.spotify.com/track/1GzgV0pRSUbenz25xWV2s8"
     },
     {
-      "added_at": "2022-08-12 07:05:18",
+      "added_at": "2022-08-18 20:42:22",
       "album": {
         "name": "Rangisari (From \"Jugjugg Jeeyo\")",
         "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"

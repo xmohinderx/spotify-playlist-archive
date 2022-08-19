@@ -1,12 +1,12 @@
 {
   "description": "Chill to the familiar classical pieces featured in award-winning films.",
-  "num_followers": 325943,
+  "num_followers": 326042,
   "original_name": "Classical Moments in Movies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcxNzc2NCwwMDAwMDAwMGU5N2I1ZmQ0OWZkMWNlNGY1MDQ5MjMxY2E2MTE3Y2Nj",
+  "snapshot_id": "MTY1NzcxNzc2NCwwMDAwMDAwMDk5M2Y4Mjc0Yzk1ODdjZGQzMDhjZmI3MTVhNGJkMjRj",
   "tracks": [
     {
       "added_at": "2022-07-13 13:09:24",
@@ -1507,6 +1507,34 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
+        "name": "A Room With A View",
+        "url": "https://open.spotify.com/album/3GwfIkK7xr0bhdhobtZQdq"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Sir John Pritchard",
+          "url": "https://open.spotify.com/artist/5Zkrloooz9qNDnHUf0q1UP"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "O Mio Babbino Caro",
+      "url": "https://open.spotify.com/track/1oi7QvpgDkBFTROce7LkB8"
+    },
+    {
+      "added_at": "2022-07-13 13:09:24",
+      "album": {
         "name": "Captain Corelli's Mandolin -Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/32gSHgSXx9oU5nwtgaGvcA"
       },
@@ -1543,6 +1571,26 @@
       "duration_ms": 462333,
       "name": "Concerto For Clarinet & String Orchestra",
       "url": "https://open.spotify.com/track/7jmaYAqOm1jV782F84HeDI"
+    },
+    {
+      "added_at": "2022-07-13 13:09:24",
+      "album": {
+        "name": "Master & Commander: Original Soundtrack",
+        "url": "https://open.spotify.com/album/508jmMfd6u661YGVAYhayT"
+      },
+      "artists": [
+        {
+          "name": "Arcangelo Corelli",
+          "url": "https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF"
+        },
+        {
+          "name": "Christopher Gordon",
+          "url": "https://open.spotify.com/artist/2ysZkdT4RS1FePKkpQ0rKC"
+        }
+      ],
+      "duration_ms": 115600,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/1ChvXhm9HA2bwtYuwTx2ZM"
     }
   ],
   "unique_name": "Classical Moments in Movies",

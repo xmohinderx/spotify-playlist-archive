@@ -1968,6 +1968,28 @@
     },
     {
       "album": {
+        "name": "The Wave EP (Acoustic)",
+        "url": "https://open.spotify.com/album/3RO3XNk7yrP6Q6I4dnnRQ6"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105547,
+      "name": "Rumors - Acoustic",
+      "url": "https://open.spotify.com/track/60kWX5prDkebrWqXxWG0CZ"
+    },
+    {
+      "album": {
         "name": "Rumors (Acoustic)",
         "url": "https://open.spotify.com/album/5U0H4fUs3bSdNG4ALQJwMu"
       },
@@ -2625,7 +2647,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 145217,
       "name": "Whiplash - Acoustic",
       "url": "https://open.spotify.com/track/28dE98TER0FDRbPgXEvPAI"

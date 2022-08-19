@@ -1681,7 +1681,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 234733,
       "name": "kireinamono",
       "url": "https://open.spotify.com/track/68eGqsBmUIkXbx12RWiVvg"
@@ -1775,6 +1775,24 @@
       "duration_ms": 181820,
       "name": "line",
       "url": "https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW"
+    },
+    {
+      "album": {
+        "name": "live for",
+        "url": "https://open.spotify.com/album/2Kd3QKMN5r9RIH7vS0ClHV"
+      },
+      "artists": [
+        {
+          "name": "RQNY",
+          "url": "https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191311,
+      "name": "live for",
+      "url": "https://open.spotify.com/track/2fCMmuCKN42oGQIsHUpPg4"
     },
     {
       "album": {
@@ -2622,6 +2640,24 @@
     },
     {
       "album": {
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/6PobaffeeUAAjz4KJUxsnt"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Gal",
+          "url": "https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141988,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/21HHgpVHb0ZSWn3lHtcErK"
+    },
+    {
+      "album": {
         "name": "ripple",
         "url": "https://open.spotify.com/album/5yN3BNFVlWJLD6x7xYFUYM"
       },
@@ -2817,7 +2853,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 206970,
       "name": "shame",
       "url": "https://open.spotify.com/track/36pWB023d8A7lcpM9vG4G9"

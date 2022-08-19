@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-65 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
+67 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [I'm So Lonely](https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY) | 4:40 | 2022-07-13 |  |
 | [If Heartaches Were Nickels](https://open.spotify.com/track/5ka8BG03xRY5FHYOQChRwz) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:27 | 2022-07-13 |  |
 | [It Takes A Lot To Laugh, It Takes A Train To Cry](https://open.spotify.com/track/3ofvDyH9vvVzgG60cpPWj6) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:47 | 2022-07-13 |  |
+| [Jelly Whippin' Blues](https://open.spotify.com/track/0Fp1ihxJ07wzXnUJ6eOcui) | [Tampa Red](https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg) | [Don’t Tampa With the Blues](https://open.spotify.com/album/2wN8IbaXBuRx7g6NpbryDs) | 3:51 | 2022-08-18 |  |
 | [Katie Mae](https://open.spotify.com/track/1in4BmFVbXmKCRs9IYbdD1) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:52 | 2022-07-13 |  |
 | [Little Wing](https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 6:48 | 2022-07-13 |  |
 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 | 2022-07-13 |  |
@@ -66,6 +67,7 @@
 | [Stack'o Lee Blues](https://open.spotify.com/track/2Zq0eKS6p2SfpbIX35SKd8) | [Steinar Albrigtsen](https://open.spotify.com/artist/2qRjrCuBQJqlU8Nwb92kao) | [Stripped](https://open.spotify.com/album/5kLdtZs98YIz2KPULtheEg) | 2:29 | 2022-07-13 |  |
 | [Still Blue](https://open.spotify.com/track/2ZoFDmNwXTSK3zgOayk63v) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/5coZhDRNQ6Tntf3EVbmCDk) | 7:02 | 2022-07-13 |  |
 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 | 2022-07-13 |  |
+| [The Natural Facts](https://open.spotify.com/track/6xDQ3GKPIfNDZ8QoZdQ2SX) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [We're Listening to Sister Rosetta Tharpe, Vol\. 2](https://open.spotify.com/album/3AahaKw3G98axWbYmf8Rmb) | 3:16 | 2022-08-18 |  |
 | [The Sky Is Crying](https://open.spotify.com/track/3sMAzJIN9ruG2Nhf07FJeU) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 4:00 | 2022-07-13 |  |
 | [The Thrill Is Gone](https://open.spotify.com/track/3cg0dJfrQB66Qf2YthPb6G) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 5:01 | 2022-07-13 |  |
 | [Too Old To Think \- Mono Version](https://open.spotify.com/track/4ZjO0jrpBUmiC7iqDg8x7Q) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:51 | 2022-07-13 |  |

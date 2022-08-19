@@ -1,12 +1,12 @@
 {
   "description": "Si te gustan por separado, \u00bfc\u00f3mo no te van a gustar juntos?",
-  "num_followers": 39688,
+  "num_followers": 39802,
   "original_name": "Dos Iconos: Rosal\u00eda y C. Tangana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk1NjQyNywwMDAwMDAwMGYwZDFkY2U3OWJkZjJkMzlmMTRmMTllNWFlZDc5Mzll",
+  "snapshot_id": "MTY1OTk1NjQyNywwMDAwMDAwMDA1YmY1NjdmMTczMmVhYTI0YzlmMzNkZjJlNWExMzcw",
   "tracks": [
     {
       "added_at": "2022-08-08 11:00:27",
@@ -1747,6 +1747,26 @@
       "duration_ms": 279627,
       "name": "Por Mi Puerta No Lo Pasen",
       "url": "https://open.spotify.com/track/2gp9YVRrqL5N9MgjTwunux"
+    },
+    {
+      "added_at": "2022-08-08 11:00:27",
+      "album": {
+        "name": "Bien:(",
+        "url": "https://open.spotify.com/album/5deRnNJSQ1Fa61ea3U1S8x"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 112440,
+      "name": "Bien:( (feat. Rusowsky)",
+      "url": "https://open.spotify.com/track/6HlWtggWotj9bUNcPGEeLS"
     }
   ],
   "unique_name": "Dos Iconos: Rosal\u00eda y C. Tangana",

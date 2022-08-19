@@ -8702,6 +8702,28 @@
     },
     {
       "album": {
+        "name": "No Cynicism",
+        "url": "https://open.spotify.com/album/69tWOxYo0m6Sx95SYEhiSm"
+      },
+      "artists": [
+        {
+          "name": "Clemens Kuratle",
+          "url": "https://open.spotify.com/artist/0f9ftSpEqnxr6fnkHc9869"
+        },
+        {
+          "name": "Ydivide",
+          "url": "https://open.spotify.com/artist/3Np5YMkfnPGcIbUQKcSrv7"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341800,
+      "name": "No Cynicism",
+      "url": "https://open.spotify.com/track/0y3nDIVwtYpeZ0hFGHo5Rj"
+    },
+    {
+      "album": {
         "name": "No Goodbyes",
         "url": "https://open.spotify.com/album/58YoLKTRFBsnLSUPljZQQR"
       },

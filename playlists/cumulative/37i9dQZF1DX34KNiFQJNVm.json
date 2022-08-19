@@ -10294,6 +10294,24 @@
     },
     {
       "album": {
+        "name": "Chora por mim",
+        "url": "https://open.spotify.com/album/53gxvwowd4RcpQbl319CaZ"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167910,
+      "name": "Chora por mim",
+      "url": "https://open.spotify.com/track/6AyopbI7kFXj5Ske9HL2nw"
+    },
+    {
+      "album": {
         "name": "Na Chalana 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1GM9bqpsU8DcHTNTpDaOx6"
       },

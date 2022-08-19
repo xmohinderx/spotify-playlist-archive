@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: David Unlayao, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,723 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106,623 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 15 | [Slow Down Girl](https://open.spotify.com/track/3hrOssSfpAfTbxirIO1MTG) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Slow Down Girl](https://open.spotify.com/album/0E8dFsXRT5Swv5RglX0sYq) | 3:06 |
 | 16 | [Lavender](https://open.spotify.com/track/4de2JSToOh98pnNxgDier8) | [Gemma Laurence](https://open.spotify.com/artist/2sNPTD3BelCCJaH18PmeKm) | [Lavender](https://open.spotify.com/album/7bhq8QWXhDkmRnP0WX5LK0) | 3:36 |
 | 17 | [Hate Club](https://open.spotify.com/track/2SuwxL2pgwxt3rqS5nrIC8) | [Clay J Gladstone](https://open.spotify.com/artist/5xHqj2YUaAmSq5FBWvCe73) | [Hate Club](https://open.spotify.com/album/282HMj1YjoO2dczQBhtd8J) | 2:01 |
-| 18 | [Horizons](https://open.spotify.com/track/5ky1N5AItID6Y1mOGlpL9x) | [Fairbrother](https://open.spotify.com/artist/7nCnDKl8A5fs3W0GwDhEIc) | [Horizons](https://open.spotify.com/album/3cQ5YF4ZK4E7lrhBLBAHc9) | 4:34 |
+| 18 | [Horizon](https://open.spotify.com/track/5ky1N5AItID6Y1mOGlpL9x) | [Fairbrother](https://open.spotify.com/artist/7nCnDKl8A5fs3W0GwDhEIc) | [Horizon](https://open.spotify.com/album/3cQ5YF4ZK4E7lrhBLBAHc9) | 4:34 |
 | 19 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 |
 | 20 | [Inori](https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 8:37 |
 | 21 | [Touché](https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Touché](https://open.spotify.com/album/07Ac7pyVYbY3dHCrAwxbFG) | 2:43 |

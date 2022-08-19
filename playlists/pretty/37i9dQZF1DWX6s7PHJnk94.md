@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 
 > Spellistan att ta fram när det är dags för dans runt midsommarstången.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,434 likes - 22 songs - 33 min 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,435 likes - 25 songs - 40 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 | 15 | [Gossen skulle aka](https://open.spotify.com/track/3KQ8Beh0QbZ28fJoWYocKa) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 1:43 |
 | 16 | [Kom fager ungersven](https://open.spotify.com/track/6aIM7svSC6hV3zrhSeSNis) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 1:56 |
 | 17 | [Känner du Lotta](https://open.spotify.com/track/2ShziL2WfIGm6HVa6JykMU) | [Barnens favoriter](https://open.spotify.com/artist/7uFKjNp91YjtXbNQTdNQlW) | [Barnens favoriter 7](https://open.spotify.com/album/77hch7Cxx55ZVlfcJR8sBW) | 1:59 |
-| 18 | [Små fåglarna i skogen](https://open.spotify.com/track/0SLD0Zb0sIWpVtDLE0sal8) | [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Bästa lekarna](https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1) | 1:34 |
-| 19 | [En riktigt bussig svärmor vill jag ha](https://open.spotify.com/track/7De8IQjqFHJbicUevrtkdK) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 1:30 |
-| 20 | [Inte kan vi hålla bröllop i ar](https://open.spotify.com/track/6z4eag9lqV1lEm4eTWwuYW) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 1:02 |
-| 21 | [Sju vackra flickor i en ring](https://open.spotify.com/track/1UljTZNjOmmVenXCaaPEwf) | [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Bästa lekarna](https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1) | 1:53 |
-| 22 | [Opp och hoppa, sitt ej och dra dig](https://open.spotify.com/track/3eh3zxibGqNiZE0EWOTxQt) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 0:46 |
+| 18 | [Dans på Brännö brygga](https://open.spotify.com/track/0i9Nnaj8y6geVsGu64jQCm) | [Lasse Dahlquist](https://open.spotify.com/artist/2QHYFZGCFIoIlU2GrAj664) | [Den svenska sommaren](https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX) | 3:38 |
+| 19 | [Små fåglarna i skogen](https://open.spotify.com/track/0SLD0Zb0sIWpVtDLE0sal8) | [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Bästa lekarna](https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1) | 1:34 |
+| 20 | [En riktigt bussig svärmor vill jag ha](https://open.spotify.com/track/7De8IQjqFHJbicUevrtkdK) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 1:30 |
+| 21 | [Inte kan vi hålla bröllop i ar](https://open.spotify.com/track/6z4eag9lqV1lEm4eTWwuYW) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 1:02 |
+| 22 | [Sju vackra flickor i en ring](https://open.spotify.com/track/1UljTZNjOmmVenXCaaPEwf) | [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Bästa lekarna](https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1) | 1:53 |
+| 23 | [Sommar, Sommar, Sommar](https://open.spotify.com/track/1YwMkRv4pQwJcDLNQ86p6g) | [Radions Underhallningsorkester](https://open.spotify.com/artist/7ekQSEOZHUS6bUkOqBTDwh) | [Sommar](https://open.spotify.com/album/7oc5uzYL2PcG9yXihY8fB6) | 0:44 |
+| 24 | [Opp och hoppa, sitt ej och dra dig](https://open.spotify.com/track/3eh3zxibGqNiZE0EWOTxQt) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 0:46 |
+| 25 | [Uppå källarbacken](https://open.spotify.com/track/68sx2L7W1EHJbWflGm3zcG) | [Lily Berglund](https://open.spotify.com/artist/4Nyl3xHIedqFlfgIoTfK4n) | [Musik vi minns](https://open.spotify.com/album/4WlO54WIrNqdNeS5TZnfBT) | 2:38 |
 
-Snapshot ID: `MTU2MDkzNzI2MSwwMDAwMDAwMGI2ZDllYTllNTEwNzFiMDUyODQwMzFkYmY1OGRjMzJh`
+Snapshot ID: `MTU2MDkzNzI2MSwwMDAwMDAwMDU5ZDYwYTc5ZjhmY2U5ZWJiOWIyYTNjNjJlY2U3ZGI3`

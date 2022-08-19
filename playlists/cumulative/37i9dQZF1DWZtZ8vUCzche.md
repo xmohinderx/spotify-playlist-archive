@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-259 songs - 21 hr 35 min - [published](https://open.spotify.com/playlist/4r1ATpiAdbXeZZswtLDI5A)
+260 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/4r1ATpiAdbXeZZswtLDI5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 | 2022-07-20 |  |
 | [Gosh](https://open.spotify.com/track/79Jl8KMvmnXedTjjW6pJan) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:51 | 2021-10-15 | 2022-07-29 |
 | [Happiness Is Easy \- 1997 Remaster](https://open.spotify.com/track/3wowK80ug94yqlI86A9Ej9) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Colour of Spring](https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE) | 6:30 | 2021-10-15 |  |
-| [Harvest Moon](https://open.spotify.com/track/2nekCvC9XRXQckWNnkIp2l) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Eat, Pray, Love](https://open.spotify.com/album/6AnpM7DFltgJLIjlToxYJ1) | 4:59 | 2022-07-20 | 2022-07-29 |
+| [Harvest Moon](https://open.spotify.com/track/2nekCvC9XRXQckWNnkIp2l) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Eat, Pray, Love](https://open.spotify.com/album/6AnpM7DFltgJLIjlToxYJ1) | 4:59 | 2022-07-20 |  |
 | [Headshots](https://open.spotify.com/track/3wScjEbCUk4hFUA18ky4Wm) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Nine Objects Of Desire](https://open.spotify.com/album/6yH1CnRs34R23OjFOdPlCI) | 3:07 | 2022-07-20 |  |
 | [Headshots](https://open.spotify.com/track/6AUXOp3K1CSLI21eFVrMTR) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Nine Objects Of Desire](https://open.spotify.com/album/7m0tB21jVd4x73Yofa6ajO) | 3:08 | 2021-10-15 | 2022-07-29 |
 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 | 2022-07-20 |  |
@@ -92,7 +92,7 @@
 | [Hyper\-ballad](https://open.spotify.com/track/3jIzAeh7fhe70umAJrY3Fk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:21 | 2021-10-15 | 2022-07-29 |
 | [Hyperballad](https://open.spotify.com/track/4z1fNs2B7KndCsvyPgrhq5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 5:21 | 2022-07-20 |  |
 | [I Love You..\. I'll Kill You](https://open.spotify.com/track/3E61ra5VUF6eu3tpfsXfou) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [The Cross Of Changes](https://open.spotify.com/album/1t4hf9yHMQBoTz2CxTBJKj) | 8:52 | 2021-10-15 |  |
-| [I Need Somebody To Love Tonight](https://open.spotify.com/track/6dC66ztLWiYp34KBd68E2b) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Stars](https://open.spotify.com/album/66w7Uu28k6PBgTieyN8aBY) | 6:51 | 2021-10-15 |  |
+| [I Need Somebody To Love Tonight](https://open.spotify.com/track/6dC66ztLWiYp34KBd68E2b) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Stars](https://open.spotify.com/album/66w7Uu28k6PBgTieyN8aBY) | 6:51 | 2021-10-15 | 2022-08-19 |
 | [I.G.Y.](https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 6:03 | 2021-10-15 |  |
 | [In My Room](https://open.spotify.com/track/5iNtk3MiBsLHDUNFxEmxUy) | [Susanne Abbuehl](https://open.spotify.com/artist/40kXcj50XANaJ5lWi4EPho) | [The Gift](https://open.spotify.com/album/6VUlov8WhQDSc5z8QsHmbh) | 4:53 | 2021-10-15 | 2022-07-29 |
 | [In My Secret Life](https://open.spotify.com/track/31TADh49q4s4jm6lGDeIrd) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Ten New Songs](https://open.spotify.com/album/0AMbk6F6ZJ57OqlpB214gV) | 4:53 | 2021-10-15 |  |
@@ -152,7 +152,7 @@
 | [Myth](https://open.spotify.com/track/2Zw3HNjaNV42LnQ2uY5JQs) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm) | 4:18 | 2021-10-15 | 2022-07-29 |
 | [Night School](https://open.spotify.com/track/64su665Jqvd4xRq2aMvAQi) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Jazz From Hell](https://open.spotify.com/album/3iqmNiJspQnpKDcHczwGvr) | 4:50 | 2021-10-15 | 2022-07-29 |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2022-07-20 |  |
-| [Nightclubbing](https://open.spotify.com/track/2z5H8hqgbNcFs8Wl2deUhy) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/6q8R2OCmCS9W6Y7kqnSd78) | 5:07 | 2022-07-20 |  |
+| [Nightclubbing](https://open.spotify.com/track/2z5H8hqgbNcFs8Wl2deUhy) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/6q8R2OCmCS9W6Y7kqnSd78) | 5:07 | 2022-07-20 | 2022-08-19 |
 | [Nightclubbing \- 2014 Remaster](https://open.spotify.com/track/59MIFI11sIERgUg3k1g84v) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing \(2014 Remaster / Deluxe\)](https://open.spotify.com/album/0Asrv0BRKSQcRPMcfFFXaK) | 5:07 | 2021-10-15 | 2022-07-29 |
 | [No Excuses \- Live at the Majestic Theatre, Brooklyn, NY \- April 1996](https://open.spotify.com/track/1DfOxEiYPhQlN2D1arscnN) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Unplugged](https://open.spotify.com/album/5PdgIAHzwDvTZRjIGSQGtN) | 4:57 | 2021-10-15 |  |
 | [No Ordinary Love](https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 7:20 | 2022-07-20 |  |
@@ -202,6 +202,7 @@
 | [Since I Left You](https://open.spotify.com/track/0Hyr2jPRwOQF8pf13n8eB1) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Since I Left You](https://open.spotify.com/album/7j4m8OUy87xQsuIVJQxF3J) | 4:20 | 2021-10-15 | 2022-07-29 |
 | [Since I Left You](https://open.spotify.com/track/1AAYbsAIgEJMbxgLgpjE9y) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Since I Left You \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO) | 4:22 | 2022-07-20 |  |
 | [Sisters of Arequipa](https://open.spotify.com/track/6ZWMGsb8F27asRgM6aAmH9) | [Nils Landgren Funk Unit](https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0) | [5000 Miles](https://open.spotify.com/album/3HsF8xFFpXCgSF2lE4zx0D) | 5:57 | 2021-10-15 | 2022-07-29 |
+| [Situation \- 2008 Remastered Version](https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [In Your Room](https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v) | 2:24 | 2022-07-20 |  |
 | [Six Underground \- Nellee Hooper Mix](https://open.spotify.com/track/5riz3aldYFYpWSsSRFZDw3) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Six Underground](https://open.spotify.com/album/3KZeRRiy54NOSwVibOUW83) | 3:54 | 2021-10-15 | 2022-07-29 |
 | [Slave Song](https://open.spotify.com/track/57Zm7XTk4f5A9I7f4N28Rv) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/2sLtjaUo7maVVpBAE4IyDk) | 4:12 | 2021-10-15 | 2022-07-29 |
 | [Slave Song](https://open.spotify.com/track/5iQ530xQUXmzA4RRC0qzu3) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:12 | 2022-07-20 |  |

@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-301 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/1KT9n5GpXTYiKVI60QKiPA)
+302 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/1KT9n5GpXTYiKVI60QKiPA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Dollar Dollar Bill](https://open.spotify.com/track/3NoMYCokmroxy6Vvgg6Bje) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [NO ONE ELSE LIKE ME](https://open.spotify.com/album/10dnagRmizwHIlV0METcCv) | 2:18 | 2022-01-24 | 2022-05-08 |
 | [DOMANGA](https://open.spotify.com/track/1Vnuk7zOfsTfIXiYAzw43x) | [GOTCHA !](https://open.spotify.com/artist/4EF3hQH5Jao0sf0ZpgRb9u) | [DOMANGA](https://open.spotify.com/album/6wNuhctWwOpqugMit2AFip) | 3:01 | 2022-01-11 | 2022-07-10 |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-12-06 | 2022-08-16 |
+| [Don't Wait](https://open.spotify.com/track/6Qiky2QbBGortgiF9NlR48) | [K\-NIGHTCORE](https://open.spotify.com/artist/6tWGwa0clzVoHorFsuEhY5) | [Don't Wait](https://open.spotify.com/album/1LxG8aBqe5hGVUbrmFClnP) | 2:29 | 2022-08-15 |  |
 | [Don't Wanna Go Home](https://open.spotify.com/track/6BbTQKegu1SUAc7FxdrNxh) | [Sof'boy Han](https://open.spotify.com/artist/1vxViNm5ccQtEdM7jIoo4x) | [Don't Wanna Go Home](https://open.spotify.com/album/7kCbsfGsidjkzm44FkpDKj) | 3:32 | 2022-05-30 | 2022-06-08 |
 | [DREAMER](https://open.spotify.com/track/5S69qVsbHudSKincIUbYSf) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [4U : OUTSIDE](https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA) | 3:33 | 2021-12-28 | 2022-07-16 |
 | [Dress \(Feat\. Gyungmin\)](https://open.spotify.com/track/6qqSrSA5dhh5LzfZNI0DaM) | [HyungBin](https://open.spotify.com/artist/78eKrXJX9IieggAbrqU8WA), [Gyungmin](https://open.spotify.com/artist/0wvn8397XZuRfR3COx53Gb) | [Dress \(Feat\. Gyungmin\)](https://open.spotify.com/album/0RJxMJwKKxafU1t0U7yB7M) | 3:26 | 2022-03-08 | 2022-06-17 |
@@ -276,7 +277,7 @@
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-28 | 2022-04-18 |
 | [UP & DOWN](https://open.spotify.com/track/4m4KLf6hatVwq2GYW8jmO8) | [BYUL,DAL](https://open.spotify.com/artist/3IvQmmllE1X45XF8XbUsXN) | [UP & DOWN](https://open.spotify.com/album/511rA18ahrHtgvLuKSaCDV) | 2:38 | 2022-03-23 | 2022-04-05 |
 | [UP NO MORE](https://open.spotify.com/track/0eeebX5IslzAMBs519PlO5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:34 | 2022-01-24 | 2022-07-14 |
-| [UP NO MORE](https://open.spotify.com/track/1LiNP5q2thWScdvCRkJ584) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:34 | 2022-07-04 |  |
+| [UP NO MORE](https://open.spotify.com/track/1LiNP5q2thWScdvCRkJ584) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:34 | 2022-07-04 | 2022-08-19 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-07-04 |  |
 | [Up!](https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje) | 3:12 | 2022-07-04 | 2022-07-29 |
 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-30 | 2022-07-27 |

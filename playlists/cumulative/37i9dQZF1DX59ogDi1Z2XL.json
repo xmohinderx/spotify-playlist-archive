@@ -7224,6 +7224,24 @@
     },
     {
       "album": {
+        "name": "RELAX",
+        "url": "https://open.spotify.com/album/6jx34gifWgwRq725o9bDdL"
+      },
+      "artists": [
+        {
+          "name": "EverythingOShauN",
+          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173143,
+      "name": "RELAX",
+      "url": "https://open.spotify.com/track/2fpmqBueaWpNCm954YVjmi"
+    },
+    {
+      "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/5nYavIRu5TclVu5MopyDab"
       },

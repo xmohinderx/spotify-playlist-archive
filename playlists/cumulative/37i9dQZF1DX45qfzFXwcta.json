@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Azisa (Instrumental)",
+        "url": "https://open.spotify.com/album/2N50vIkJsXhrNXQuJx0KfC"
+      },
+      "artists": [
+        {
+          "name": "Figub Brazlevic",
+          "url": "https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Azisa - Instrumental",
+      "url": "https://open.spotify.com/track/0YxaVlAixd2nseGIdkoihf"
+    },
+    {
+      "album": {
         "name": "Fatbike Ride",
         "url": "https://open.spotify.com/album/5R5IB0LdQ6XnXymZpoB2y3"
       },
@@ -685,6 +703,24 @@
       "duration_ms": 178604,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160083,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq"
     },
     {
       "album": {

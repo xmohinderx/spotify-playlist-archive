@@ -1,12 +1,12 @@
 {
   "description": "New music from Nicki Minaj, Megan Thee Stallion, Rod Wave, Rex Orange County, and more! ",
-  "num_followers": 3948323,
+  "num_followers": 3948442,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwOSwwMDAwMDAwMGJjMmM2OWU4MjdiNmJmZGJlYzBiNGFjNTU2ZWE2MDVj",
+  "snapshot_id": "MTY2MDI3NjgwOSwwMDAwMDAwMDAyZDBkNGY4ZGJhZTY2YjI4YzczYTViYzg1Y2NlOGIx",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:09",
@@ -663,6 +663,26 @@
       "duration_ms": 145245,
       "name": "Haitian Scarface",
       "url": "https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4"
+    },
+    {
+      "added_at": "2022-08-12 04:00:09",
+      "album": {
+        "name": "DRILLMATIC Heart vs. Mind",
+        "url": "https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 203048,
+      "name": "O.P.P. (Feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/5mFnwTaIJdVdGEonl4IS4R"
     },
     {
       "added_at": "2022-08-12 04:00:09",

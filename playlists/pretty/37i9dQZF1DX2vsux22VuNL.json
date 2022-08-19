@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Rico Dalasam",
-  "num_followers": 226012,
+  "num_followers": 226155,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Mzc1OCwwMDAwMDAwMDA3YjNlMzI1NWM5ZDg3NTE4NDhlYzI0OTBlZjNiNmMw",
+  "snapshot_id": "MTY2MDI3Mzc1OCwwMDAwMDAwMGY5YWI0MjBhMjQ0YmVmMzQ1YjkxNWJhZjYwNGM4NWI0",
   "tracks": [
     {
       "added_at": "2022-08-12 03:09:18",
@@ -822,6 +822,10 @@
         {
           "name": "Turma do Pagode",
           "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
         }
       ],
       "duration_ms": 139200,
@@ -875,8 +879,8 @@
     {
       "added_at": "2022-08-12 03:09:18",
       "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+        "name": "Te Decifrar",
+        "url": "https://open.spotify.com/album/5uJX90BeQPh4tqIW1rpBLe"
       },
       "artists": [
         {
@@ -884,13 +888,13 @@
           "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         },
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
+      "duration_ms": 163199,
+      "name": "Te Decifrar",
+      "url": "https://open.spotify.com/track/3GPPyDAh78UHavPVSGZSfe"
     },
     {
       "added_at": "2022-08-12 03:09:18",
@@ -1059,62 +1063,6 @@
     {
       "added_at": "2022-08-12 03:09:18",
       "album": {
-        "name": "Confiss\u00f5es de um Tralha Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/7qeOVwWc7R1BL5yKXkdccV"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        }
-      ],
-      "duration_ms": 182255,
-      "name": "Pirra\u00e7a",
-      "url": "https://open.spotify.com/track/2femAF0cqH063thWDTTB2B"
-    },
-    {
-      "added_at": "2022-08-12 03:09:18",
-      "album": {
-        "name": "Te Decifrar",
-        "url": "https://open.spotify.com/album/5uJX90BeQPh4tqIW1rpBLe"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 163199,
-      "name": "Te Decifrar",
-      "url": "https://open.spotify.com/track/3GPPyDAh78UHavPVSGZSfe"
-    },
-    {
-      "added_at": "2022-08-12 03:09:18",
-      "album": {
-        "name": "Um Pouco Mais",
-        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
-    },
-    {
-      "added_at": "2022-08-12 03:09:18",
-      "album": {
         "name": "Fora de contexto",
         "url": "https://open.spotify.com/album/2qWZTDrMZaYJOkYHssLIWN"
       },
@@ -1139,6 +1087,62 @@
       "duration_ms": 125969,
       "name": "Fora de contexto",
       "url": "https://open.spotify.com/track/6pyEoSCvWdCvl0EAkVdpDp"
+    },
+    {
+      "added_at": "2022-08-12 03:09:18",
+      "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
+    },
+    {
+      "added_at": "2022-08-12 03:09:18",
+      "album": {
+        "name": "Confiss\u00f5es de um Tralha Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/7qeOVwWc7R1BL5yKXkdccV"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        }
+      ],
+      "duration_ms": 182255,
+      "name": "Pirra\u00e7a",
+      "url": "https://open.spotify.com/track/2femAF0cqH063thWDTTB2B"
+    },
+    {
+      "added_at": "2022-08-12 03:09:18",
+      "album": {
+        "name": "Um Pouco Mais",
+        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
     },
     {
       "added_at": "2022-08-12 03:09:18",
@@ -1503,6 +1507,22 @@
     {
       "added_at": "2022-08-12 03:09:18",
       "album": {
+        "name": "Supersticiosa",
+        "url": "https://open.spotify.com/album/7LdWR84aE9JHRGgGzbngWH"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Supersticiosa",
+      "url": "https://open.spotify.com/track/45d9aDL1AAugpRDfniawIJ"
+    },
+    {
+      "added_at": "2022-08-12 03:09:18",
+      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1523,22 +1543,6 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
-    },
-    {
-      "added_at": "2022-08-12 03:09:18",
-      "album": {
-        "name": "Supersticiosa",
-        "url": "https://open.spotify.com/album/7LdWR84aE9JHRGgGzbngWH"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Supersticiosa",
-      "url": "https://open.spotify.com/track/45d9aDL1AAugpRDfniawIJ"
     },
     {
       "added_at": "2022-08-12 03:09:18",
@@ -1703,26 +1707,6 @@
     {
       "added_at": "2022-08-12 03:09:18",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        }
-      ],
-      "duration_ms": 170538,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
-    },
-    {
-      "added_at": "2022-08-12 03:09:18",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/4FTuhl7ay2UEaG0UZ0AVOU"
       },
@@ -1759,6 +1743,26 @@
       "duration_ms": 151794,
       "name": "Disk Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2K3uhe6KY6xik57oGQMYFQ"
+    },
+    {
+      "added_at": "2022-08-12 03:09:18",
+      "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        }
+      ],
+      "duration_ms": 170538,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
     },
     {
       "added_at": "2022-08-12 03:09:18",

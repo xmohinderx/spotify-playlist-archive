@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/181ybi6b0dYJBcQzETKv67) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6txt6BEwqboOhGfyZk5XkY) | 0:00 | 2021-12-10 | 2022-07-29 |
+| [](https://open.spotify.com/track/181ybi6b0dYJBcQzETKv67) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6txt6BEwqboOhGfyZk5XkY) | 0:00 | 2021-12-10 |  |
 | [01.15](https://open.spotify.com/track/20nnkLz609aY0afFTxwxHb) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Out to Sea](https://open.spotify.com/album/3sTo1HzdNGlaqBszP0bBQr) | 3:42 | 2021-12-10 |  |
 | [A Message of Hope](https://open.spotify.com/track/4B3sBWHD5rfWtkXCdYwrFq) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Little Things](https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY) | 3:26 | 2021-12-10 |  |
 | [A Moment of Reflection](https://open.spotify.com/track/15msDW5lW6xONIUtKAfaPC) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Ma Belle](https://open.spotify.com/album/6HYlPk0YVry6TQKA1pnp5n) | 3:04 | 2021-12-10 |  |

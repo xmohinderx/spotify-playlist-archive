@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2OeXDYwOkCD.md) - [plain]
 
 > Si te gustan por separado, ¿cómo no te van a gustar juntos?
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,688 likes - 93 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,802 likes - 94 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,5 +101,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2OeXDYwOkCD.md) - [plain]
 | 91 | [NANA \- Cap.9: Concepción](https://open.spotify.com/track/0r6AxesiTSiCyJIIOpVYrv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:17 |
 | 92 | [Traicionero \(feat\. Cromo X\)](https://open.spotify.com/track/4CrVQgYTd2D3uVEuOrQ3zP) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Cromo X](https://open.spotify.com/artist/3rDYAiKm3c9RgztxGEUfto) | [Traicionero \(feat\. Cromo X\)](https://open.spotify.com/album/0RPdl5w1OV3hh5WXQh7NVY) | 3:27 |
 | 93 | [Por Mi Puerta No Lo Pasen](https://open.spotify.com/track/2gp9YVRrqL5N9MgjTwunux) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 4:39 |
+| 94 | [Bien:\( \(feat\. Rusowsky\)](https://open.spotify.com/track/6HlWtggWotj9bUNcPGEeLS) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Bien:\(](https://open.spotify.com/album/5deRnNJSQ1Fa61ea3U1S8x) | 1:52 |
 
-Snapshot ID: `MTY1OTk1NjQyNywwMDAwMDAwMGYwZDFkY2U3OWJkZjJkMzlmMTRmMTllNWFlZDc5Mzll`
+Snapshot ID: `MTY1OTk1NjQyNywwMDAwMDAwMDA1YmY1NjdmMTczMmVhYTI0YzlmMzNkZjJlNWExMzcw`

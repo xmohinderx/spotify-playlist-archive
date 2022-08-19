@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Arrow Point Port",
+        "url": "https://open.spotify.com/album/69rrbdsxBJmEegJZLc63Zz"
+      },
+      "artists": [
+        {
+          "name": "Oma Holt",
+          "url": "https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113215,
+      "name": "Arrow Point Port",
+      "url": "https://open.spotify.com/track/06RkpwK6SqE0CWNM3lOvmZ"
+    },
+    {
+      "album": {
         "name": "Au revoir",
         "url": "https://open.spotify.com/album/3cMpbmbHDRFojvimdEOIlV"
       },
@@ -113,6 +131,24 @@
       "duration_ms": 204445,
       "name": "Ave Nocturne",
       "url": "https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD"
+    },
+    {
+      "album": {
+        "name": "Blue Sky Within",
+        "url": "https://open.spotify.com/album/7LqvVXIQHzAu5SrJsrDaWg"
+      },
+      "artists": [
+        {
+          "name": "Ryan Judd",
+          "url": "https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186783,
+      "name": "Blue Sky Within",
+      "url": "https://open.spotify.com/track/3J0KOnk8DvN6eWvNbsqp2w"
     },
     {
       "album": {
@@ -631,7 +667,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 186000,
       "name": "Golden Leaves",
       "url": "https://open.spotify.com/track/0O7DTjLQPnKlcKlClATRps"
@@ -721,7 +757,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 176855,
       "name": "guiding torch",
       "url": "https://open.spotify.com/track/498q55SF7VSIt5PCeagVGs"
@@ -1236,6 +1272,24 @@
     },
     {
       "album": {
+        "name": "Mond Stille",
+        "url": "https://open.spotify.com/album/3Uil3hqZzTEUHRVZ9aBE9Y"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171721,
+      "name": "Mond Stille",
+      "url": "https://open.spotify.com/track/4R5W9Oq91uYpal40VdTGTl"
+    },
+    {
+      "album": {
         "name": "Murmur",
         "url": "https://open.spotify.com/album/6vh2k6aGdFOJoCecp8qlhh"
       },
@@ -1560,6 +1614,24 @@
     },
     {
       "album": {
+        "name": "Seed of Perfection",
+        "url": "https://open.spotify.com/album/3zX0E0myYc2mtjWGVJzffI"
+      },
+      "artists": [
+        {
+          "name": "Lavelle Barber",
+          "url": "https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159968,
+      "name": "Seed of Perfection",
+      "url": "https://open.spotify.com/track/0kAHMCRN2lFkDnwhedKl1M"
+    },
+    {
+      "album": {
         "name": "Rain Forest",
         "url": "https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr"
       },
@@ -1625,7 +1697,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 98684,
       "name": "Sleepover",
       "url": "https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ"

@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 553970,
+  "num_followers": 554181,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMGE3MjYyZDVhZGZjZjg1ZDM3OTYzNjNkN2M3NTJiMWQ1",
+  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMGMwMTE4ZmEyM2E3ODQwNDM5MmUzNmJkNWVlNmRlODVi",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 240120,
-      "name": "The Universal",
-      "url": "https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "House Of Love",
         "url": "https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 240066,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "The Universal",
+      "url": "https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "Life Of Riley - The Lightning Seeds Collection",
+        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "The Life Of Riley",
+      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Give Out But Don't Give Up",
         "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Kollected - The Best Of Kula Shaker",
-        "url": "https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q"
-      },
-      "artists": [
-        {
-          "name": "Kula Shaker",
-          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Tattva",
-      "url": "https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "The Good Will Out",
         "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 250573,
       "name": "Come Back To What You Know",
       "url": "https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "Moseley Shoals",
-        "url": "https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W"
-      },
-      "artists": [
-        {
-          "name": "Ocean Colour Scene",
-          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "The Day We Caught The Train",
-      "url": "https://open.spotify.com/track/4oPF43XotiOin8UroIsE0t"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -939,6 +923,38 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "Kollected - The Best Of Kula Shaker",
+        "url": "https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Tattva",
+      "url": "https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Moseley Shoals",
+        "url": "https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W"
+      },
+      "artists": [
+        {
+          "name": "Ocean Colour Scene",
+          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "The Day We Caught The Train",
+      "url": "https://open.spotify.com/track/4oPF43XotiOin8UroIsE0t"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "This Is My Truth Tell Me Yours",
         "url": "https://open.spotify.com/album/7CCkQQvhSAUjuzLQAV8S5a"
       },
@@ -951,6 +967,22 @@
       "duration_ms": 260466,
       "name": "You Stole The Sun From My Heart",
       "url": "https://open.spotify.com/track/2couS7LmXsbTaTJWVzk1KS"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Coming up - 20th Anniversary Edition (Audio Version)",
+        "url": "https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41"
+      },
+      "artists": [
+        {
+          "name": "The London Suede",
+          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+        }
+      ],
+      "duration_ms": 245946,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -987,22 +1019,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Coming up - 20th Anniversary Edition (Audio Version)",
-        "url": "https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41"
-      },
-      "artists": [
-        {
-          "name": "The London Suede",
-          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
-        }
-      ],
-      "duration_ms": 245946,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Tellin' Stories",
         "url": "https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 269773,
       "name": "One To Another",
       "url": "https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "Moseley Shoals",
-        "url": "https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W"
-      },
-      "artists": [
-        {
-          "name": "Ocean Colour Scene",
-          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
-        }
-      ],
-      "duration_ms": 292850,
-      "name": "The Riverboat Song",
-      "url": "https://open.spotify.com/track/29cKAB63SRhL2GZdMHmQON"
     },
     {
       "added_at": "2022-05-04 17:11:49",

@@ -1,12 +1,12 @@
 {
   "description": "All the best new tracks this week, all in one place. Cover: Ali Gatie, Kehlani",
-  "num_followers": 329698,
+  "num_followers": 329715,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDIzYmRiMzAzZTM4ZDExNTcxOGY3Y2U5ZGJmNGFhMzg5",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDgwN2I2NjJkZDdjNzM0MmMyODljNzJlZGU2MmVhYWUy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -715,6 +715,26 @@
       "duration_ms": 314424,
       "name": "Make Me Say It Again, Girl",
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "DRILLMATIC Heart vs. Mind",
+        "url": "https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 203048,
+      "name": "O.P.P. (Feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/0MWi4vxTO3Plx6zAQeLd6H"
     },
     {
       "added_at": "2022-08-12 04:01:00",

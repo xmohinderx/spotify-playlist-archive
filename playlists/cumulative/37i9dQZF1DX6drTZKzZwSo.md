@@ -4,7 +4,7 @@
 
 > Classic funk.
 
-58 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
+59 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [I'll Be With You](https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Ugly Ego](https://open.spotify.com/album/57X12hXatNE1Ipla9SjJh8) | 4:23 | 2020-04-14 |  |
 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2020-04-14 |  |
 | [It's Too Funky In Here \- Single Version](https://open.spotify.com/track/3FSVxcdplNPNgNrZTYTxte) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Gold](https://open.spotify.com/album/6k3kDaRLxtRJ2Lo7DwwTxh) | 3:58 | 2020-04-14 |  |
+| [J.P\. Walk](https://open.spotify.com/track/2jZ95Ane7RQZpF9y6t04PT) | [Sound Experience](https://open.spotify.com/artist/0m5uiIlwecGOszBsSMNByB) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 7:05 | 2020-04-14 |  |
 | [Just Kissed My Baby](https://open.spotify.com/track/1TB0dZqFRQsnf4fLLLRKQV) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Rejuvenation](https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW) | 4:43 | 2020-04-14 |  |
 | [Keep On Truckin'](https://open.spotify.com/track/5CiOCxc3argOhj5qKNZGN0) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Eddie Kendricks](https://open.spotify.com/album/5StW1pmCyC1WOuEDC8aUQh) | 7:59 | 2020-04-14 |  |
 | [Man Funk](https://open.spotify.com/track/1QQxrrABKbx5w4LIphElwb) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Leron Thomas](https://open.spotify.com/artist/0lVzm0fYj4BredTD0LMdSY) | [Hip Hop After All](https://open.spotify.com/album/0w7sDS0APyRmH0HBPtiE8E) | 3:53 | 2020-04-14 |  |

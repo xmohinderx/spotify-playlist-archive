@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-740 songs - 1 day 15 hr 2 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+741 songs - 1 day 15 hr 5 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,6 +637,7 @@
 | [Sov Godt](https://open.spotify.com/track/0hZzAGc7nWaZsvSPhoiHTI) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Sov Godt](https://open.spotify.com/album/4Fa0cCqJ4G5z6CO8UDZQ5S) | 2:11 | 2022-01-08 | 2022-01-15 |
 | [Space Between](https://open.spotify.com/track/5owNO5tgoUtH8gETM9fjHi) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Richard Reynolds](https://open.spotify.com/artist/6tcOATPUS7AQqjhA4fhS1g) | [Back 2 Rave](https://open.spotify.com/album/6bE0jnPO1Nh5rbIvMZV76H) | 3:01 | 2022-08-02 | 2022-08-04 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 | 2022-05-29 |
+| [Spis din syvende sans](https://open.spotify.com/track/2wklUkI6nr4uurf5w0AyPz) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [Kors på halsen, ti kniver i hjertet, mor og far i døden](https://open.spotify.com/album/0c4ywEXoeJD05cfV1DwKY7) | 3:21 | 2022-08-18 |  |
 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 | 2021-11-02 | 2021-11-03 |
 | [Spring for livet](https://open.spotify.com/track/2gRJ9Odj7jbVAqafKyj1SY) | [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6), [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Luke Elliot](https://open.spotify.com/artist/7t6cXssTAtfc6F316tvLv7) | [Spring for livet](https://open.spotify.com/album/6V3YftCf62tRqowL7PouAk) | 3:02 | 2021-09-19 | 2021-09-20 |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-16 | 2022-04-11 |
@@ -682,7 +683,7 @@
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-12 | 2022-02-21 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-11-07 | 2022-05-15 |
 | [The Way Our Story Goes](https://open.spotify.com/track/7onSy9XJzdC4Xnkvu1MCA8) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Money For Nothing](https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY) | [The Way Our Story Goes](https://open.spotify.com/album/35IbXG3nKSmTO1M1Vo1PdN) | 3:08 | 2021-07-11 | 2021-11-14 |
-| [TheMostBeautifulShowInTheWorld\(RightNow\)\_v2\_020822.wav](https://open.spotify.com/track/5nG1GrKDzkOQ9pWw49uhgj) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [MIKE IT SPEKTRUM](https://open.spotify.com/album/6nfpKR7onKsfAS53VFk5vq) | 5:39 | 2022-08-06 |  |
+| [TheMostBeautifulShowInTheWorld\(RightNow\)\_v2\_020822.wav](https://open.spotify.com/track/5nG1GrKDzkOQ9pWw49uhgj) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [MIKE IT SPEKTRUM](https://open.spotify.com/album/6nfpKR7onKsfAS53VFk5vq) | 5:39 | 2022-08-06 | 2022-08-19 |
 | [This One's On Me](https://open.spotify.com/track/5qOkiYMrPtZspF4T3paKe2) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [This One's On Me](https://open.spotify.com/album/1OXyZ9apKUaNG386RmKcgL) | 2:44 | 2022-03-12 | 2022-03-27 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-23 | 2022-05-27 |
 | [Thriller](https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 5:57 | 2021-11-02 | 2021-11-03 |

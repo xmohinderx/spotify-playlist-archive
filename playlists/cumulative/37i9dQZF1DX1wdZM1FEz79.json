@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 194291,
       "name": "Be My Birthday",
       "url": "https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 195317,
       "name": "boyhood",
       "url": "https://open.spotify.com/track/6YpK7C7uz3LAjSDAW5pmga"
@@ -2497,7 +2497,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 209373,
       "name": "I Guess I Like You",
       "url": "https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG"
@@ -2681,6 +2681,24 @@
       "duration_ms": 223200,
       "name": "I want to be a pillow",
       "url": "https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk"
+    },
+    {
+      "album": {
+        "name": "I want to love",
+        "url": "https://open.spotify.com/album/5K5TZWuzj0p4LJwH7jTFug"
+      },
+      "artists": [
+        {
+          "name": "Park Jaewoo",
+          "url": "https://open.spotify.com/artist/2WIOofcSewAuVXBSMuQ2dD"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211379,
+      "name": "I want to love",
+      "url": "https://open.spotify.com/track/5D63fftBm3Haj5laapgWl2"
     },
     {
       "album": {
@@ -3384,6 +3402,24 @@
     },
     {
       "album": {
+        "name": "LEGO(Let's Go)",
+        "url": "https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8"
+      },
+      "artists": [
+        {
+          "name": "curv moon",
+          "url": "https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113346,
+      "name": "LEGO(Let's Go)",
+      "url": "https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM"
+    },
+    {
+      "album": {
         "name": "Sketch, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/12OnMHfBUbSNDwuRpO3MPe"
       },
@@ -3725,7 +3761,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 177261,
       "name": "maybe you can fix me",
       "url": "https://open.spotify.com/track/2X2TEJ3hJcN2QXqwXNtYQI"
@@ -4141,7 +4177,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 203590,
       "name": "Ocean (feat. Aden)",
       "url": "https://open.spotify.com/track/1RaY3cmtdqTJS1dOd3rTEV"
@@ -4817,7 +4853,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 226866,
       "name": "Room for You (Feat. 10CM)",
       "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
@@ -5537,6 +5573,24 @@
       "duration_ms": 192000,
       "name": "Stars appear",
       "url": "https://open.spotify.com/track/4SOp0pG2eVeW3aypcMacXl"
+    },
+    {
+      "album": {
+        "name": "Minamdang (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv"
+      },
+      "artists": [
+        {
+          "name": "SU A",
+          "url": "https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "Still with you",
+      "url": "https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic"
     },
     {
       "album": {
@@ -7463,6 +7517,24 @@
       "duration_ms": 182963,
       "name": "\uc5ec\ub984\ubc24\uc774 \uc88b\uc544",
       "url": "https://open.spotify.com/track/080VL8QproPYARQU7GIPIC"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub298\uc758 \uc6f9\ud230 (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/6dmQsUekAewFhnzEi3jjFk"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "\uc624\ub298\uc758 \ub108",
+      "url": "https://open.spotify.com/track/5lvvCgodu7FpPbtGB55vUi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,341 likes - 49 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,409 likes - 49 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 48 | [Moonlit Torture \(feat\. Dwid Hellion \- Integrity\)](https://open.spotify.com/track/0nyydGaHafNp44nIlMNwta) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE), [Integrity](https://open.spotify.com/artist/3L3FDQpQskFnHiISPYHmBo) | [Moonlit Torture \(feat\. Dwid Hellion \- Integrity\)](https://open.spotify.com/album/1gRyk7ckJ2MGol5tP2th1m) | 4:34 |
 | 49 | [Goodbyes](https://open.spotify.com/track/3kuM3vhs2S0nbsH8g9Kr2P) | [Hills Have Eyes](https://open.spotify.com/artist/3Fv2tsp92SxLAAjln6MfQf) | [Goodbyes](https://open.spotify.com/album/5t2jT2SbEcroY9lseecVp7) | 3:40 |
 
-Snapshot ID: `MTY2MDMwOTIwMCwwMDAwMDAwMDRlNTFhMzA2MTZiOWViZGZmZjc4Mjg5YWUxZGZiODY2`
+Snapshot ID: `MTY2MDMwOTIwMCwwMDAwMDAwMGVjN2JhM2Y1N2FmYzdmNDQzZjg0YWUwNDcxNWRjZGJk`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: MASS OF THE FERMENTING DREGS",
-  "num_followers": 238087,
+  "num_followers": 238147,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY2MjAwMCwwMDAwMDAwMGMwZmRjZDMwMjdhMDg3OGQ5ZDMzNTA1MjA0NTYzYjVm",
+  "snapshot_id": "MTY2MDY2MjAwMCwwMDAwMDAwMDI1NDQ2ODE1NzI1MzJmNTYyY2Y1MzkxZDJhY2FlMzc1",
   "tracks": [
     {
       "added_at": "2022-08-16 15:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-08-16 15:00:00",
       "album": {
+        "name": "early summer 2022",
+        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
+      },
+      "artists": [
+        {
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "\u30ca\u30ab\u30de",
+      "url": "https://open.spotify.com/track/38Xae6a4lqhRxVPhwpQdu8"
+    },
+    {
+      "added_at": "2022-08-16 15:00:00",
+      "album": {
         "name": "\u9583\u5149",
         "url": "https://open.spotify.com/album/4g7RyFbsJV7WSxBKvialqK"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2022-08-16 15:00:00",
       "album": {
-        "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
-        "url": "https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH"
-      },
-      "artists": [
-        {
-          "name": "Ling tosite sigure",
-          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
-        }
-      ],
-      "duration_ms": 224399,
-      "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
-      "url": "https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH"
-    },
-    {
-      "added_at": "2022-08-16 15:00:00",
-      "album": {
         "name": "You To You",
         "url": "https://open.spotify.com/album/0Uyi2JOBe0wmMPZbF16P2L"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 241535,
       "name": "You To You",
       "url": "https://open.spotify.com/track/66GEPhYAtcsWI7GThQcixQ"
-    },
-    {
-      "added_at": "2022-08-16 15:00:00",
-      "album": {
-        "name": "Break and Cross the Walls \u2161",
-        "url": "https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "Tonight, Tonight",
-      "url": "https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg"
     }
   ],
   "unique_name": "Big in Japan",

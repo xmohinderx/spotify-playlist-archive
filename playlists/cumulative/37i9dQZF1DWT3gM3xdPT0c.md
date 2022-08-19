@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-165 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+166 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Eternity](https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6) | [Anshul Karn](https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR) | [Eternity](https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1) | 2:16 | 2022-03-04 | 2022-07-01 |
 | [Evenings at Point Reyes](https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:54 | 2022-03-04 |  |
 | [Ever After](https://open.spotify.com/track/1Pcu09TxRuwvNzbUzCEYs7) | [Maver Lein](https://open.spotify.com/artist/2SDz69jJ0A53L45StqQ70J) | [Ever After](https://open.spotify.com/album/3Jdajqk2ela7MPVa21k1M3) | 2:18 | 2022-03-04 | 2022-04-22 |
+| [Evergreen](https://open.spotify.com/track/4HzivF3sC2UOqdwJrXJZfS) | [Eugenia Russo](https://open.spotify.com/artist/1ozt8bFZUS8nHkKQ5eMr4O) | [Evergreen](https://open.spotify.com/album/1oxn9yAdHV1mnebQ2kFxkj) | 2:49 | 2022-08-19 |  |
 | [Excelsior](https://open.spotify.com/track/4iFR7YK1CfJDoLlUde5WnP) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Happy Days Are Long Awaited](https://open.spotify.com/album/5wdIAlVfMZD8wk927tNQgf) | 3:26 | 2022-03-04 | 2022-04-06 |
 | [Fair Game](https://open.spotify.com/track/2FPEeTcNxk9qk8TxwwcxOL) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [Fair Game](https://open.spotify.com/album/7rSE3kCkuQwPHaIXyJU3L8) | 2:51 | 2022-03-04 | 2022-07-08 |
 | [Familiar Dedication](https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7) | [Judah Mays](https://open.spotify.com/artist/7aoDjyRnPnMgjlrmlJo4zb) | [Tumbleweed](https://open.spotify.com/album/3jKywll76lblb3pSBLmaya) | 2:45 | 2022-03-04 |  |

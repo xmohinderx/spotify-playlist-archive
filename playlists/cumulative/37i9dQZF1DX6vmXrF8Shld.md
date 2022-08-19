@@ -4,7 +4,7 @@
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-68 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
+70 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 | 2020-12-01 |  |
 | [Black Boy From the Ghetto](https://open.spotify.com/track/2FgQdU4HiNU78uKGK2sXhv) | [Dyke & The Blazers](https://open.spotify.com/artist/5dORjaew9A94A25xvTMiTg) | [Rarities Volume 1 \- Phoenix to Hollywood](https://open.spotify.com/album/1jbsowW3U3Wai3HJPpWJwa) | 2:19 | 2020-12-01 |  |
 | [Bold Soul Sister](https://open.spotify.com/track/6g2RtR71Qj12dKQIwPpFJc) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The Hunter](https://open.spotify.com/album/56W1pDZ5cNvbEX7EkPy2EN) | 2:38 | 2020-12-01 |  |
+| [Bongo Rock](https://open.spotify.com/track/1yAHShjpL6S7s57aBZjB2x) | [The Incredible Bongo Band](https://open.spotify.com/artist/09d32fi1Y0qZDJQ9dj7kKa) | [In the Midnight Hour](https://open.spotify.com/album/1uhMW8QosGPAtGV5RXG64u) | 2:36 | 2020-12-01 |  |
 | [But It's Alright](https://open.spotify.com/track/1ZUJZkV29qWIF4jst1brN3) | [J.J\. Jackson](https://open.spotify.com/artist/6FBBmwVjTdJ54I7j4BNkF5) | [Best of Loma Records\-Rise and Fall of a 1960's Soul Label](https://open.spotify.com/album/5toBacjx2RVc7mVRZ5QHUZ) | 2:52 | 2020-12-01 |  |
 | [Can I Change My Mind](https://open.spotify.com/track/0zyyaMpWRZNSx2GqAMFKX3) | [Tyrone Davis](https://open.spotify.com/artist/76agLI5oSCFbmZnBqKcBJd) | [Can I Change My Mind](https://open.spotify.com/album/3WcptYwEwFcxhnhci37i3L) | 2:57 | 2020-12-01 |  |
 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 | 2020-12-01 |  |
@@ -32,6 +33,7 @@
 | [I Can't Stand Myself \(When You Touch Me\)](https://open.spotify.com/track/2e8ydLYXuH7MEj9eGjqlaz) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [I Can't Stand Myself When You Touch Me](https://open.spotify.com/album/1degrSNPAklT7ypRV2Rc3D) | 3:22 | 2020-12-01 |  |
 | [I Can't Stop Dancing](https://open.spotify.com/track/3evKZi4dI9Nw7Hit26XFN9) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [I Can't Stop Dancing](https://open.spotify.com/album/6EOG2HlsfnM8YDoimOiCyS) | 2:21 | 2020-12-01 |  |
 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 | 2020-12-01 |  |
+| [I'm Shakin'](https://open.spotify.com/track/0NFLJaA6Pwha8Yd2lGPKzw) | [Little Willie John](https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ) | [Sleep \- The Singles As & Bs, 1955 \- 1961](https://open.spotify.com/album/66NkEqRkwTBmBAf6FlR0IZ) | 2:28 | 2020-12-01 |  |
 | [In The Middle \(Parts 1 And 2\)](https://open.spotify.com/track/2JjIeCdqjAlvUqA4FUmjuB) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Popcorn](https://open.spotify.com/album/5LjyPklmoEuSftxKZKV4LZ) | 6:50 | 2020-12-01 |  |
 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 | 2020-12-01 |  |
 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 | 2020-12-01 |  |

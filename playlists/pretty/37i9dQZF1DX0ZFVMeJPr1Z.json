@@ -1,12 +1,12 @@
 {
   "description": "Spellistan f\u00f6r den svenska sommaren.",
-  "num_followers": 79417,
+  "num_followers": 79428,
   "original_name": "Svenska sommarklassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NTUzMDMwMiwwMDAwMDAwMDdjNzY0YWUyODA2ZmIzMjhkODUwZDdlZGYzOWJiNWE3",
+  "snapshot_id": "MTU5NTUzMDMwMiwwMDAwMDAwMDFlOTlhZDA3MWMzYTEzOGJiMTYyNzg1OTg3NTA2MTY5",
   "tracks": [
     {
       "added_at": "2020-07-23 18:51:42",
@@ -39,6 +39,22 @@
       "duration_ms": 202200,
       "name": "Sommartider",
       "url": "https://open.spotify.com/track/1d1BeKPNgaQ36wcxGqnfU3"
+    },
+    {
+      "added_at": "2020-07-23 18:51:42",
+      "album": {
+        "name": "Sommar, sommar, sommar",
+        "url": "https://open.spotify.com/album/0l537xeeUQXZAkArjKmb2H"
+      },
+      "artists": [
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/7FjElQ2FxgAbDGSrcE7K6O"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Sommaren i City",
+      "url": "https://open.spotify.com/track/1Y38A5HAP7SYJAzE48M3GW"
     },
     {
       "added_at": "2020-07-23 18:51:42",
@@ -87,6 +103,22 @@
       "duration_ms": 183826,
       "name": "Sommaren \u00e4r kort",
       "url": "https://open.spotify.com/track/2W7tzqjAPXG97RthXx6pNR"
+    },
+    {
+      "added_at": "2020-07-23 18:51:42",
+      "album": {
+        "name": "Hisingen och hem igen",
+        "url": "https://open.spotify.com/album/3jBdOBQUdU4Z0GPBYahCWD"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 186085,
+      "name": "Ett sista glas",
+      "url": "https://open.spotify.com/track/1SZDQMXX1FrA97YY7Lt3Fj"
     },
     {
       "added_at": "2020-07-23 18:51:42",
@@ -251,6 +283,22 @@
     {
       "added_at": "2020-07-23 18:51:42",
       "album": {
+        "name": "Idde Schultz (Swedish version)",
+        "url": "https://open.spotify.com/album/6odzoWtZ8WTRPOS3Hsuvqd"
+      },
+      "artists": [
+        {
+          "name": "Idde Schultz",
+          "url": "https://open.spotify.com/artist/3WktPSTNlu4rZAr3k9ojLt"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Fiskarna i haven",
+      "url": "https://open.spotify.com/track/74k8Lrh6PG6aA3pRIF4GWm"
+    },
+    {
+      "added_at": "2020-07-23 18:51:42",
+      "album": {
         "name": "Tid f\u00f6r tystnad - Marie Fredrikssons ballader",
         "url": "https://open.spotify.com/album/1xEIu43pPZ8UFP5JWhixtk"
       },
@@ -299,6 +347,22 @@
     {
       "added_at": "2020-07-23 18:51:42",
       "album": {
+        "name": "Den svenska sommaren",
+        "url": "https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX"
+      },
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "url": "https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "En kv\u00e4ll i juni",
+      "url": "https://open.spotify.com/track/5KDPjHfLAkouVsL8mclnaX"
+    },
+    {
+      "added_at": "2020-07-23 18:51:42",
+      "album": {
         "name": "Midsommarklassiker 2021",
         "url": "https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV"
       },
@@ -331,6 +395,38 @@
       "duration_ms": 254133,
       "name": "Om\u00e5omigen",
       "url": "https://open.spotify.com/track/4fwOeFfLQoTjEsldLpDngl"
+    },
+    {
+      "added_at": "2020-07-23 18:51:42",
+      "album": {
+        "name": "\"Samlad - 1981 - 1994\"",
+        "url": "https://open.spotify.com/album/4Zcn8uXBKXRjv9AdgoVh8j"
+      },
+      "artists": [
+        {
+          "name": "Peter Lundblad",
+          "url": "https://open.spotify.com/artist/5yuHwiLMl8Mz5onBhn5HII"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "Ta mig till havet",
+      "url": "https://open.spotify.com/track/1ykDKuKIU9pNFoOeR2VvN4"
+    },
+    {
+      "added_at": "2020-07-23 18:51:42",
+      "album": {
+        "name": "Det blir vad du g\u00f6r det till",
+        "url": "https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs"
+      },
+      "artists": [
+        {
+          "name": "Panetoz",
+          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Dansa Pausa",
+      "url": "https://open.spotify.com/track/6Z5Yf9rOFd28vXsjxN3HSM"
     },
     {
       "added_at": "2020-07-23 18:51:42",
@@ -723,6 +819,22 @@
     {
       "added_at": "2020-07-23 18:51:42",
       "album": {
+        "name": "F\u00f6r k\u00e4rlekens skull - Svenska artister hyllar Ted G\u00e4rdestad",
+        "url": "https://open.spotify.com/album/69e81Jxyt3gRroMMzzhRL2"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        }
+      ],
+      "duration_ms": 285400,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/35Pcc7EcDAydmzJdM8XonO"
+    },
+    {
+      "added_at": "2020-07-23 18:51:42",
+      "album": {
         "name": "N\u00e4r Du Tar Mig I Din Famn",
         "url": "https://open.spotify.com/album/1GNAvoOn02BaSMhDg2mCiD"
       },
@@ -735,6 +847,22 @@
       "duration_ms": 181560,
       "name": "Fyra bugg & en Coca-Cola",
       "url": "https://open.spotify.com/track/2YlsW8lr8iILbxmPd3Is9z"
+    },
+    {
+      "added_at": "2020-07-23 18:51:42",
+      "album": {
+        "name": "Sommarens Sista S\u00e5ng",
+        "url": "https://open.spotify.com/album/1lBi8Dn9kdJH4dY89AlbCd"
+      },
+      "artists": [
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        }
+      ],
+      "duration_ms": 242080,
+      "name": "Sommarens sista s\u00e5ng - Radio Edit",
+      "url": "https://open.spotify.com/track/6739dAlhNEWU1xUtE3DOa1"
     },
     {
       "added_at": "2020-07-23 18:51:42",
@@ -911,6 +1039,22 @@
       "duration_ms": 278573,
       "name": "Till Stockholms sk\u00e4rg\u00e5rd",
       "url": "https://open.spotify.com/track/3O2FOUxhhmq8dCxceTNG9k"
+    },
+    {
+      "added_at": "2020-07-23 18:51:42",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre - s\u00e4song 3",
+        "url": "https://open.spotify.com/album/1w9KVuHbmVhrtHBcPp6gnO"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "duration_ms": 242586,
+      "name": "Sommartid",
+      "url": "https://open.spotify.com/track/0aKmin3xzPUYtiwCPSJomL"
     }
   ],
   "unique_name": "Svenska sommarklassiker",

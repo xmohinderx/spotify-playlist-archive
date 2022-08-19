@@ -4,7 +4,7 @@
 
 > Colored noise to help you sleep.
 
-319 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/0bRP8XzvCxukMLWefooE0H)
+321 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/0bRP8XzvCxukMLWefooE0H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Brown Noise Dreamer](https://open.spotify.com/track/0rTwvDQfxosnWtcnav82MB) | [The Brownian Sleepers](https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN) | [Brown Noise Lullaby](https://open.spotify.com/album/4EGAs1QyIqB7tsSiHRZIbu) | 3:43 | 2022-04-29 |  |
 | [Brown Noise for a Focused Mind](https://open.spotify.com/track/13gIXjOdxY7T2zr8LB4tTy) | [Sweet Sol](https://open.spotify.com/artist/0nJCGnCYFNKjjgHnEaDyUu) | [Brown Noise Focus](https://open.spotify.com/album/6YwdavdsK0jwik4woVUKL3) | 3:42 | 2022-06-03 |  |
 | [Brown Noise For Babies](https://open.spotify.com/track/5ULSUZcCyrX4onOAKOzRh3) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Brown Noise Vol\. 1](https://open.spotify.com/album/3FSMS7qL9co2BMmqrlw4tA) | 2:48 | 2021-12-01 | 2022-04-29 |
+| [Brown Noise for Better Sleep](https://open.spotify.com/track/4fnyF3j4XSBUJAAlmCjM2F) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Brown Noise Schlafhilfe](https://open.spotify.com/album/4mYmS6LT3kzgaZmFyU8lRz) | 3:40 | 2022-08-15 |  |
 | [Brown Noise for Better Sleep](https://open.spotify.com/track/0zRljXSN8JP6KgeSWQnrk6) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Better Sleep](https://open.spotify.com/album/1aUqotTrYhLBmYmAAZ54DB) | 3:40 | 2022-08-02 |  |
 | [Brown Noise for Better Sleep](https://open.spotify.com/track/7t1OC4s2KiUD3Ule38GRO1) | [The Water Sleepers](https://open.spotify.com/artist/4bD8jRVnnQGuOMVyraMdh4) | [Brown Noise for Better Sleep](https://open.spotify.com/album/2F7mlg1XSUs8YgRYXkPm1B) | 3:45 | 2022-04-29 |  |
 | [Brown Noise for Focus](https://open.spotify.com/track/4xlTUcei9W5yrmUqYcZccO) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Brown Noise for Focus](https://open.spotify.com/album/6mWJo4K18ceBw2sQ77sykB) | 3:33 | 2022-06-03 |  |
@@ -97,6 +98,7 @@
 | [Cabin Relaxation](https://open.spotify.com/track/5P4wNyzMgGAgg51SiexQ7Q) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Relaxing Brown Noise](https://open.spotify.com/album/1ikuBfHFOVZWK1ac6q1kxJ) | 2:30 | 2021-12-01 |  |
 | [Calm Pink Noise Sounds](https://open.spotify.com/track/23rundIEzbMmUQ3cHguU66) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [Calm Pink Noise Sounds](https://open.spotify.com/album/75hERX2Aa0TCfJBv2jWuaQ) | 3:27 | 2022-06-03 |  |
 | [Calm Pink Noise Therapy](https://open.spotify.com/track/7rU64OWg3RZZUck0M199jU) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Pool of Pink Noise](https://open.spotify.com/album/753Pp9yVc0DpU9sqFR9TqW) | 3:28 | 2022-06-03 |  |
+| [Calming Brown Noise Stream](https://open.spotify.com/track/4L7NIjyM8DJSUff3vMgFid) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Brown Noise Schlafhilfe](https://open.spotify.com/album/4mYmS6LT3kzgaZmFyU8lRz) | 3:38 | 2022-08-15 |  |
 | [Calming Pink Noise River](https://open.spotify.com/track/4eGNv9b7JBePQH8cuvDIrz) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Sleeping Pink Noise](https://open.spotify.com/album/7AhCbYSNUyhuiabC198GP5) | 3:36 | 2022-08-02 |  |
 | [Candy Sky \(Pink Noise\)](https://open.spotify.com/track/4ZyEceyE8ra9qwM3B8wzEn) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 | 2022-08-02 |  |
 | [Cascade Of Brown Noise](https://open.spotify.com/track/2VaHMPawW2htn56CQtkmmb) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Cascade Of Brown Noise](https://open.spotify.com/album/04s9DHxlosVcW00n187ziW) | 3:49 | 2022-06-03 |  |

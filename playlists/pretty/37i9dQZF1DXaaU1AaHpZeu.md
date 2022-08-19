@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Carlos Sadness y La Bien Querida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,709 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,752 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 33 | [Frío Blues](https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Frío Blues](https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB) | 2:45 |
 | 34 | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/track/60uCZaPtkdQ5XXLYSLjLon) | [ADRIANAH](https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn) | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/album/5f8tUSpNqjENnKf3oKIGMU) | 3:29 |
 | 35 | [Pinky](https://open.spotify.com/track/5wuiYSW949mfA4azJ32mx2) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Pinky](https://open.spotify.com/album/2c4TTzqtBc7EIeNBSZgWlF) | 2:46 |
-| 36 | [En Libertad](https://open.spotify.com/track/4CRdKP15xOYIKWgcPj9pvT) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Cenizas](https://open.spotify.com/album/1UqjdcUWYIruAA8ybNyXZ9) | 3:58 |
+| 36 | [En Libertad](https://open.spotify.com/track/5vY3PmA4rGhg2qXccdvxj0) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Cenizas](https://open.spotify.com/album/51oh8fDSvxLabyf8KTNeAD) | 3:59 |
 | 37 | [Robot Pantera](https://open.spotify.com/track/4lsX6SQxkVgAvQQMQYMYhL) | [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4), [Fat Tony](https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26) | [Robot Pantera](https://open.spotify.com/album/6aF3UYpFxCM5IZ855AFT1I) | 2:44 |
 | 38 | [SANTO ÂNGEL](https://open.spotify.com/track/1BD5NV73nKIPvZTPwkME5X) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [SANTO ÂNGEL](https://open.spotify.com/album/3Y2KZSeRNdSJUdFO1g1RFw) | 2:32 |
 | 39 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Caigo](https://open.spotify.com/track/1dkulpkzcc9KYArBlPBKdH) | [Surcos](https://open.spotify.com/artist/2IW0xn9rXParsnatyDv2B7), [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Caigo](https://open.spotify.com/album/3M7xAooakXgoROB1zB87RF) | 4:10 |
 | 50 | [Esta Ciudad](https://open.spotify.com/track/7sx9XGVN3wgWNCsxVieehC) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Ciudad](https://open.spotify.com/album/3Dj3YwxzzRUg2rva4RtvdA) | 3:04 |
 
-Snapshot ID: `MTY2MDI5MTYyOSwwMDAwMDAwMDRlZTVhMTI4NDk2NmQ1Y2Q3MzQ5NGE3Y2Q4MjJlOGM2`
+Snapshot ID: `MTY2MDI5MTYyOSwwMDAwMDAwMGExNWJiYmI3YmQ1YmIwOWUxMzI3Zjg1MTljYjRhMDQ1`

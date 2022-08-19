@@ -2,7 +2,7 @@
 
 ### [The Ultimate Hit Mix](https://open.spotify.com/playlist/37i9dQZF1DWUZMtnnlvJ9p)
 
-> Mixing the decades: 1990s, 2000s, 2010s and 2020s\. Updated weekly.
+> Mixing the decades: 1990s, 2000s, 2010s and 2020s.
 
 706 songs - 1 day 19 hr 44 min - [published](https://open.spotify.com/playlist/0cMkRSoeWRIiSvfgE4l5Mo)
 

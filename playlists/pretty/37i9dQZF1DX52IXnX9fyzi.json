@@ -1,12 +1,12 @@
 {
   "description": "Piano music to accompany and inspire your writing.",
-  "num_followers": 77825,
+  "num_followers": 77934,
   "original_name": "Music for Writing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUyMzkwOSwwMDAwMDAwMGQ4MmQ4MGJkYTFiYjY0Y2FhNzYyM2M4ZmVjYWZjYjBi",
+  "snapshot_id": "MTY1OTUyMzkwOSwwMDAwMDAwMDYyNjFlN2Y3ODUyODg5MTAyMzhmY2ZlMTQ1ZDJmMzQ2",
   "tracks": [
     {
       "added_at": "2022-08-03 10:51:48",
@@ -975,6 +975,22 @@
       "duration_ms": 161750,
       "name": "Eftertanke",
       "url": "https://open.spotify.com/track/0yn3WfTE8MmH3IsYlpMPCs"
+    },
+    {
+      "added_at": "2022-08-03 10:51:48",
+      "album": {
+        "name": "Van Gogh",
+        "url": "https://open.spotify.com/album/5q7aRBlunda6oUEoq5fqQ3"
+      },
+      "artists": [
+        {
+          "name": "Sophie Wendel",
+          "url": "https://open.spotify.com/artist/0H6L0sikl86jo2Rpq6kVMZ"
+        }
+      ],
+      "duration_ms": 186980,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/7x8jYPX2xdHnm3m8Qke81u"
     },
     {
       "added_at": "2022-08-03 10:51:48",

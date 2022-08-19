@@ -1,13 +1,33 @@
 {
   "description": "The hottest Japanese anime song playlist curated by<a href=\"https://www.lisani.jp/\"> LisAni</a>\uff01 \u30a2\u30cb\u30e1\u97f3\u697d\u30e1\u30c7\u30a3\u30a2\u300c<a href=\"https://www.lisani.jp/\">\u30ea\u30b9\u30a2\u30cb\uff01</a>\u300d\u304c\u8d08\u308b\u6700\u5f37\u306e\u30a2\u30cb\u30bd\u30f3\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3059\u3002\u65b0\u65e7\u306e\u540d\u66f2\u3092\u968f\u6642\u66f4\u65b0\uff01",
-  "num_followers": 3646,
+  "num_followers": 3670,
   "original_name": "\u30ea\u30b9\u30a2\u30cb\uff01\u6700\u5f37\u30a2\u30cb\u30bd\u30f3\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY0MTY5NiwwMDAwMDAwMGRmYWNkYjkyMjUyNDlkZmFiY2E4ZWJkZTJlMTdjZTFj",
+  "snapshot_id": "MTY2MDY0MTY5NiwwMDAwMDAwMDM5Y2JmODA5MmZjZTJiYzhlZTA5NGVmYTk3OGY3ZDgz",
   "tracks": [
+    {
+      "added_at": "2022-08-16 09:21:36",
+      "album": {
+        "name": "\u30c6\u30ec\u30d3\u30a2\u30cb\u30e1\u653e\u900140\u5468\u5e74\u8a18\u5ff5\u30c9\u30e9\u3048\u3082\u3093 \u3046\u305f\u306e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u5c71\u306e\u3076\u4ee3 (\u30c9\u30e9\u3048\u3082\u3093)",
+          "url": "https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj"
+        },
+        {
+          "name": "\u3053\u304a\u308d\u304e'73",
+          "url": "https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw"
+        }
+      ],
+      "duration_ms": 165893,
+      "name": "\u30c9\u30e9\u3048\u3082\u3093\u97f3\u982d",
+      "url": "https://open.spotify.com/track/2aPQabTyAkXawhIdjbSVSu"
+    },
     {
       "added_at": "2022-08-16 09:21:36",
       "album": {
@@ -319,6 +339,22 @@
     {
       "added_at": "2022-08-16 09:21:36",
       "album": {
+        "name": "\u3072\u3050\u3089\u3057\u306e\u306a\u304f\u9803\u306b",
+        "url": "https://open.spotify.com/album/0Q21mQlJvbtd2IUQN9tNpQ"
+      },
+      "artists": [
+        {
+          "name": "Eiko Shimamiya",
+          "url": "https://open.spotify.com/artist/6kfYlGEez4g2EsdjKu9YpJ"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "\u3072\u3050\u3089\u3057\u306e\u306a\u304f\u9803\u306b",
+      "url": "https://open.spotify.com/track/1VXr3GvEjW4lF2q65ooQcf"
+    },
+    {
+      "added_at": "2022-08-16 09:21:36",
+      "album": {
         "name": "\u82b1 -20\u5468\u5e74\u8a18\u5ff5\u96c6-",
         "url": "https://open.spotify.com/album/4S8634K4gH49wljTxptykO"
       },
@@ -439,6 +475,38 @@
     {
       "added_at": "2022-08-16 09:21:36",
       "album": {
+        "name": "Violation of the rules",
+        "url": "https://open.spotify.com/album/6FwmrqwKgLgVTOBEkjg3Xt"
+      },
+      "artists": [
+        {
+          "name": "H\u039bLNA",
+          "url": "https://open.spotify.com/artist/75SWMujuj2rpVlCON25ZX6"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "\u2606the starry sky\u2606",
+      "url": "https://open.spotify.com/track/0bwE5l0MFsOCbFZou8E1t4"
+    },
+    {
+      "added_at": "2022-08-16 09:21:36",
+      "album": {
+        "name": "Dolce",
+        "url": "https://open.spotify.com/album/37lbgVNgBv1PUvnoa3G4jL"
+      },
+      "artists": [
+        {
+          "name": "Aiko Kayo",
+          "url": "https://open.spotify.com/artist/57YdRQAPyUIWPhIWpJ6rr5"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "\u77b3\u306e\u4e2d\u306e\u8ff7\u5bae",
+      "url": "https://open.spotify.com/track/58BJ4kbmgXKHNv3PYtvxpu"
+    },
+    {
+      "added_at": "2022-08-16 09:21:36",
+      "album": {
         "name": "Make Progress",
         "url": "https://open.spotify.com/album/2MxDcdAxU2FkEJoHNEmPw9"
       },
@@ -467,6 +535,22 @@
       "duration_ms": 281000,
       "name": "EVERYBODY! EVERYBODY!",
       "url": "https://open.spotify.com/track/019VApLcYSTlzDTVlUvtDA"
+    },
+    {
+      "added_at": "2022-08-16 09:21:36",
+      "album": {
+        "name": "m.c.A\u30fbT Best Singles+",
+        "url": "https://open.spotify.com/album/3UFWewzTxmw6eGmA0a250n"
+      },
+      "artists": [
+        {
+          "name": "m.c.A\u30fbT",
+          "url": "https://open.spotify.com/artist/63Y91rXxT9bh4sLc0SGq41"
+        }
+      ],
+      "duration_ms": 248213,
+      "name": "Bomb A Head!V",
+      "url": "https://open.spotify.com/track/56A2HquYMTBQjx1XBCCO7E"
     },
     {
       "added_at": "2022-08-16 09:21:36",
@@ -671,6 +755,22 @@
       "duration_ms": 300990,
       "name": "EXHALE AND INHALE",
       "url": "https://open.spotify.com/track/6qyVKGUHx2LPHmYK5ledMc"
+    },
+    {
+      "added_at": "2022-08-16 09:21:36",
+      "album": {
+        "name": "Theory of evolution",
+        "url": "https://open.spotify.com/album/52h7qsPBTRrpNkmFEbHY7y"
+      },
+      "artists": [
+        {
+          "name": "Earphones",
+          "url": "https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p"
+        }
+      ],
+      "duration_ms": 392706,
+      "name": "\u8a18\u61b6",
+      "url": "https://open.spotify.com/track/3oSchkfPihmNyKwM5fGXFE"
     },
     {
       "added_at": "2022-08-16 09:21:36",
@@ -883,6 +983,38 @@
     {
       "added_at": "2022-08-16 09:21:36",
       "album": {
+        "name": "Re-sublimity",
+        "url": "https://open.spotify.com/album/2kLMoZ0wM01Xwn7tToW4JR"
+      },
+      "artists": [
+        {
+          "name": "KOTOKO",
+          "url": "https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9"
+        }
+      ],
+      "duration_ms": 319293,
+      "name": "Re-sublimity",
+      "url": "https://open.spotify.com/track/5ZBVGPIBgqjfJmzsd0IyP7"
+    },
+    {
+      "added_at": "2022-08-16 09:21:36",
+      "album": {
+        "name": "\u899a\u3048\u3066\u3066\u3044\u3044\u3088/DuDi DuWa*lalala",
+        "url": "https://open.spotify.com/album/0rvvFZpsVFQls7ydPZyN9C"
+      },
+      "artists": [
+        {
+          "name": "KOTOKO",
+          "url": "https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9"
+        }
+      ],
+      "duration_ms": 317800,
+      "name": "DuDi DuWa * lalala",
+      "url": "https://open.spotify.com/track/2kQA3NvTdYakZDF0Ev2UIN"
+    },
+    {
+      "added_at": "2022-08-16 09:21:36",
+      "album": {
         "name": "STONE OCEAN",
         "url": "https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x"
       },
@@ -1007,6 +1139,38 @@
       "duration_ms": 240682,
       "name": "THEME SONG OF KUMOKO",
       "url": "https://open.spotify.com/track/1uc0mhifmcwgxVdPamhmkp"
+    },
+    {
+      "added_at": "2022-08-16 09:21:36",
+      "album": {
+        "name": "Os-\u5b87\u5b99\u4eba",
+        "url": "https://open.spotify.com/album/53YWZArR1MqUYd4OXLkujy"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30ea\u30aa\u3092\u304b\u307e\u3063\u3066\u3061\u3083\u3093",
+          "url": "https://open.spotify.com/artist/5JOZVjE1rtPOcz1pBrKk11"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Os-\u5b87\u5b99\u4eba",
+      "url": "https://open.spotify.com/track/7HsV5OfoVNXrGuut2ajhl7"
+    },
+    {
+      "added_at": "2022-08-16 09:21:36",
+      "album": {
+        "name": "\u30e1\u30cb\u30e1\u30cb\u30de\u30cb\u30de\u30cb",
+        "url": "https://open.spotify.com/album/0OflLmwcweeJ90j3qShjth"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5bae\u306a\u3059\u306e(CV:\u9cf4\u6d77\u674f\u5b50)",
+          "url": "https://open.spotify.com/artist/4YUQrz8swYxgcc9dWV0nIG"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "\u30e1\u30cb\u30e1\u30cb\u30de\u30cb\u30de\u30cb",
+      "url": "https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN"
     }
   ],
   "unique_name": "\u30ea\u30b9\u30a2\u30cb\uff01\u6700\u5f37\u30a2\u30cb\u30bd\u30f3\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",

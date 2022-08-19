@@ -1,12 +1,12 @@
 {
   "description": "Songs of empowerment and pride. Photography: <a href=\"https://www.instagram.com/waheedpix/\">Adreinne Waheed</a>",
-  "num_followers": 670562,
+  "num_followers": 670479,
   "original_name": "Black Lives Matter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzM2NjM4MCwwMDAwMDAwMGE4Yjk0OGQ2YTQwNDk2ZDI0NDJlMWNkYTI4NDc3OTY3",
+  "snapshot_id": "MTY0NzM2NjM4MCwwMDAwMDAwMGU2OWRlZmQ5ZmQ5ZDQ2YjViNjA1ZTI1NjA3ZWI0Mjgz",
   "tracks": [
     {
       "added_at": "2022-02-14 17:17:29",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-02-14 17:17:29",
       "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/0GB2QWABy8Uij9UIS1E10Z"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 303226,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/4OXVBbmqS1YoLTHrYYimuw"
-    },
-    {
-      "added_at": "2022-02-14 17:17:29",
-      "album": {
         "name": "A Change Is Gonna Come",
         "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 191320,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
+    },
+    {
+      "added_at": "2022-02-14 17:17:29",
+      "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/0GB2QWABy8Uij9UIS1E10Z"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 303226,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/4OXVBbmqS1YoLTHrYYimuw"
     },
     {
       "added_at": "2022-02-14 17:17:29",

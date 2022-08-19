@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Anitta com Maluma, Luan Santana, Thiaguinho e mais!
 
-2,815 songs - 6 day 1 hr 0 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
+2,816 songs - 6 day 1 hr 3 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Child at Heart](https://open.spotify.com/track/3wv3jGJvlDGVn6hlHX11o1) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Child at Heart](https://open.spotify.com/album/1zWY3RykEUCm8ZYRoc1G3H) | 4:07 | 2022-02-11 | 2022-02-19 |
 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-03-25 | 2022-04-02 |
 | [Chocolate Com Pimenta \- Ao Vivo](https://open.spotify.com/track/52QOFsypZiHjic7qZLm3aO) | [Sambalove](https://open.spotify.com/artist/2ALvqcc7WQLi15M4ikf8PU), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Ao Vivo Em São Paulo \(Vol\. 2\)](https://open.spotify.com/album/00P9rh3ozoeSVxZjnQ4qAH) | 2:50 | 2022-06-24 | 2022-07-02 |
+| [Chora por mim](https://open.spotify.com/track/6AyopbI7kFXj5Ske9HL2nw) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Chora por mim](https://open.spotify.com/album/53gxvwowd4RcpQbl319CaZ) | 2:47 | 2022-08-12 |  |
 | [Chora Que Passa \- Ao Vivo](https://open.spotify.com/track/4SoKUAayQC0s7J4cKXqJb0) | [Trio Parada Dura](https://open.spotify.com/artist/41fjoh5NjJhlDHYIUb9Hsk), [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ) | [Na Chalana 2 \(Ao Vivo\)](https://open.spotify.com/album/1GM9bqpsU8DcHTNTpDaOx6) | 2:56 | 2022-06-17 | 2022-06-25 |
 | [Chorei na Ligação \- Ao Vivo](https://open.spotify.com/track/3Q7rsGqFYv0LrMiu7UKBNT) | [Vini e Bisioli](https://open.spotify.com/artist/0EYnDQZZCBCkCmNbOnGeuX), [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Dois Sonhos, Uma Realidade \(Ao Vivo\)](https://open.spotify.com/album/6ELjerLNOR4uDigtaEyPRi) | 2:57 | 2022-07-15 | 2022-07-23 |
 | [Choro Sim](https://open.spotify.com/track/7c9dHMvFEGcAy8293IsYp5) | [Matheus VK](https://open.spotify.com/artist/4agPByDLehnJiSLBWK1Csl), [Caio Prado](https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt), [João Cavalcanti](https://open.spotify.com/artist/746fEpKVwkqLnRi6g7qubK) | [Choro Sim](https://open.spotify.com/album/0SSYpwr8nf4ZWFNbNaW31P) | 3:24 | 2022-07-15 | 2022-07-23 |

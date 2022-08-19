@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Zero
 
-134 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/4SEWCFMiD2v6uvHXh5cmid)
+135 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/4SEWCFMiD2v6uvHXh5cmid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Act Up](https://open.spotify.com/track/0TMt3fDt2x3ZKuhb20eggr) | [Skue\-K](https://open.spotify.com/artist/1F9vHrFp3sp83hkYanwgMq) | [Act Up](https://open.spotify.com/album/6PVQw4MNkCF5nSO4aJ76Vk) | 3:52 | 2022-04-15 | 2022-07-20 |
 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 | 2022-04-15 |  |
 | [Again](https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Again](https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd) | 3:51 | 2022-04-15 |  |
+| [All My Love](https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98) | 2:49 | 2022-08-12 |  |
 | [All My Love](https://open.spotify.com/track/3RAgAdJt10E68RQj6NcG7p) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/2p3AHorjKMnURWK4apzAYt) | 2:49 | 2022-04-15 | 2022-08-05 |
 | [All Night](https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [All Night](https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8) | 3:48 | 2022-04-15 | 2022-07-26 |
 | [Amazon Prime](https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9) | 2:40 | 2022-04-15 |  |
@@ -31,7 +32,7 @@
 | [Can't Escape](https://open.spotify.com/track/5oqQuROoAAc3FEQ2D8svfR) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Can't Escape](https://open.spotify.com/album/5EJSTSrxAHGlZS1Ar1Bhwp) | 3:38 | 2022-04-15 |  |
 | [Casual](https://open.spotify.com/track/1fg8X5xFJIkICvQ3rgIP3L) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Devilman](https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Casual](https://open.spotify.com/album/5HCAc747bZfTVFOxqzHAvI) | 3:32 | 2022-04-15 | 2022-07-29 |
 | [Chances](https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP) | 5:10 | 2022-04-15 |  |
-| [Come Back](https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Night Bass Freshmen Vol 4](https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2) | 4:27 | 2022-04-15 |  |
+| [Come Back](https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Night Bass Freshmen Vol 4](https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2) | 4:27 | 2022-04-15 | 2022-08-19 |
 | [Da Bomb](https://open.spotify.com/track/2H1R8OwkWuOkwNIDkA9Vcp) | [Guau](https://open.spotify.com/artist/3B09YsVwUYEmbxDAHqJhvs) | [Da Bomb](https://open.spotify.com/album/5C0WDCdIgFf0irvBdtwyUI) | 4:24 | 2022-05-13 |  |
 | [Dance \- Tengu remix](https://open.spotify.com/track/5wVsRQKP6xt4Z82QQDJA2f) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Dance \(The Remixes\)](https://open.spotify.com/album/21Gn31tVzHqLQwQBrDbKGW) | 4:23 | 2022-05-13 |  |
 | [Dead To Me](https://open.spotify.com/track/6rFCbfnOPMjICtT8523Ayg) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx) | [Overthink](https://open.spotify.com/album/4E7rDgxZhROpAqyyJlPCtP) | 4:06 | 2022-04-15 | 2022-07-26 |

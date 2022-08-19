@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 197333,
       "name": "As Long As You Know",
       "url": "https://open.spotify.com/track/7r5Qp6eZKc4xzLQAgVF9C2"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 293846,
       "name": "Beer Tam",
       "url": "https://open.spotify.com/track/2YVBBDQoMn8oHrSysWWhla"
@@ -309,6 +309,28 @@
       "duration_ms": 211408,
       "name": "Chochea",
       "url": "https://open.spotify.com/track/2oHY0E1ew4snvK6ys5to63"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0w6C76lbJGFdiKQlwfYNPm"
+      },
+      "artists": [
+        {
+          "name": "Abigail Chams",
+          "url": "https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4tcINUMLwOk74IJqeoTv8W"
     },
     {
       "album": {
@@ -464,6 +486,28 @@
     },
     {
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/6BnPu8dEH5XY5DJY1B0xef"
+      },
+      "artists": [
+        {
+          "name": "Platform Tz",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213103,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6JZemVPI8dX5M6is4gayPK"
+    },
+    {
+      "album": {
         "name": "Final",
         "url": "https://open.spotify.com/album/1tIams5EiCYLSlutOW04rU"
       },
@@ -505,6 +549,28 @@
       "duration_ms": 155892,
       "name": "Finesse (East African Mix) - feat. Rayvanny & Theecember",
       "url": "https://open.spotify.com/track/1mKt6MgYyZv6h8aTxX4ng8"
+    },
+    {
+      "album": {
+        "name": "Fofofo (feat. Young Lunya)",
+        "url": "https://open.spotify.com/album/2T9whvgRUn0rG84dz9h5CU"
+      },
+      "artists": [
+        {
+          "name": "Aslay",
+          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+        },
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230530,
+      "name": "Fofofo (feat. Young Lunya)",
+      "url": "https://open.spotify.com/track/4kvGwxShHMb2sslstdMcau"
     },
     {
       "album": {
@@ -763,7 +829,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 247857,
       "name": "Inatosha",
       "url": "https://open.spotify.com/track/5j5hhTlvg38VVgdvhu56n4"
@@ -985,7 +1051,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 275487,
       "name": "Katerina",
       "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
@@ -1843,7 +1909,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 163713,
       "name": "Nimekuzoea",
       "url": "https://open.spotify.com/track/6UpuTAuQF82c95Hg7lCBUe"
@@ -2755,6 +2821,50 @@
       "duration_ms": 148800,
       "name": "Upendo (feat. Zuchu)",
       "url": "https://open.spotify.com/track/4rET38eDNmdCHOgIoH4RzP"
+    },
+    {
+      "album": {
+        "name": "Usijichukulie Star",
+        "url": "https://open.spotify.com/album/0Bp8t9wTlO14CgYfmXJsZY"
+      },
+      "artists": [
+        {
+          "name": "B Gway",
+          "url": "https://open.spotify.com/artist/2McpxRWbFB0yp0zsh38XOZ"
+        },
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187297,
+      "name": "Usijichukulie Star",
+      "url": "https://open.spotify.com/track/6hisHwCinS4fPRNAzYmrVk"
+    },
+    {
+      "album": {
+        "name": "Utaonaje",
+        "url": "https://open.spotify.com/album/10vwqg8nJonBXhv0jF9zZv"
+      },
+      "artists": [
+        {
+          "name": "Billnass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Utaonaje",
+      "url": "https://open.spotify.com/track/7imIaiILBsQDjBjs9RB9rb"
     },
     {
       "album": {

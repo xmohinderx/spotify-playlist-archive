@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 87808,
+  "num_followers": 87913,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDBlMzcwYTVmNzQ0MGFhMDdkZDUxM2ZiYjNkMWRiZmY2",
+  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDNlZDUzNjcyMGQ2NDEwYTQ5Y2RhMGUyNTkxZTMzYmM2",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 284130,
       "name": "The Only Thing",
       "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Dust to Dust",
-      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "If You Wait",
         "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 204213,
       "name": "Wasting My Young Years",
       "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Dust to Dust",
+      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3Pc41S8rrkBpKAV6PrbDuo"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 189337,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/5bbGG2Ts8j4KKSFZjVhjVG"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 163960,
       "name": "I Don't Wanna Love Somebody Else",
       "url": "https://open.spotify.com/track/5XY2CyLE68jlt7nNj5ygVh"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3Pc41S8rrkBpKAV6PrbDuo"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 189337,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5bbGG2Ts8j4KKSFZjVhjVG"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 195240,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/1xVF9wZZ87uAz0bw6jT4sH"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Quiver",
         "url": "https://open.spotify.com/album/3iJqPoSepf0oHwIWd7K83f"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 251872,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/0yPm9Wg6qcTwLZIXweNGpA"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 195240,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/1xVF9wZZ87uAz0bw6jT4sH"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+        "name": "My Mistake (Piano Version)",
+        "url": "https://open.spotify.com/album/08igQqnY2HwbN9rCgu81Ij"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
         }
       ],
-      "duration_ms": 378186,
-      "name": "Your Love is Killing Me",
-      "url": "https://open.spotify.com/track/4H8o2Xd10sJSgAUugTGrWw"
+      "duration_ms": 292453,
+      "name": "My Mistake - Piano Version",
+      "url": "https://open.spotify.com/track/34KZBn42h1icn5V2w0YWEN"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1351,34 +1351,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "My Mistake (Piano Version)",
-        "url": "https://open.spotify.com/album/08igQqnY2HwbN9rCgu81Ij"
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
       "artists": [
         {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 292453,
-      "name": "My Mistake - Piano Version",
-      "url": "https://open.spotify.com/track/34KZBn42h1icn5V2w0YWEN"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Enough Thunder",
-        "url": "https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "A Case Of You",
-      "url": "https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr"
+      "duration_ms": 378186,
+      "name": "Your Love is Killing Me",
+      "url": "https://open.spotify.com/track/4H8o2Xd10sJSgAUugTGrWw"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1395,6 +1379,22 @@
       "duration_ms": 184320,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Enough Thunder",
+        "url": "https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "A Case Of You",
+      "url": "https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr"
     },
     {
       "added_at": "2021-04-30 17:29:47",

@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 245306,
       "name": "Cloud in Places",
       "url": "https://open.spotify.com/track/0diPy4X3fZ253nxtUXXitO"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 274999,
       "name": "Disordered Minds",
       "url": "https://open.spotify.com/track/4vI3Dngn2KjBZmEVzfHVDb"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 174874,
       "name": "Followed the ocean",
       "url": "https://open.spotify.com/track/7nDGJYN5fltv5bUk9spwnD"
@@ -725,6 +725,24 @@
       "duration_ms": 684360,
       "name": "Made of Air",
       "url": "https://open.spotify.com/track/6PI2CNvpsv3k2ofK6cq42N"
+    },
+    {
+      "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119733,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
     },
     {
       "album": {
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 254040,
       "name": "Vital",
       "url": "https://open.spotify.com/track/4BzmSQYR6wYkjG894IMfdd"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 355813,
       "name": "Wind Return",
       "url": "https://open.spotify.com/track/5zGdE2LqYQia3ZOO6DVJ9j"

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 108804,
+  "num_followers": 108820,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDY1Yjk4ODliNDlmNzA1ZmM1OGYxYWQwZjg0MmI0NWJl",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDQ1ZmMzZDI0ZmEzMGQ0YjFmNTVmN2UzMjBlZjkzOGEz",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
+        "name": "Acoustic Sessions EP",
+        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 170953,
+      "name": "Last Cigarette - Acoustic",
+      "url": "https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
         "name": "Six Strings",
         "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 201653,
       "name": "Heart Shut (feat. Tenille Townes)",
       "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
-      },
-      "artists": [
-        {
-          "name": "Logan Mize",
-          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
-        }
-      ],
-      "duration_ms": 204004,
-      "name": "Better Off Gone (Acoustic Sessions)",
-      "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Acoustic Sessions EP",
-        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
       },
       "artists": [
         {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+          "name": "Logan Mize",
+          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
         }
       ],
-      "duration_ms": 170953,
-      "name": "Last Cigarette - Acoustic",
-      "url": "https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6"
+      "duration_ms": 204004,
+      "name": "Better Off Gone (Acoustic Sessions)",
+      "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "At the End of a Bar (Acoustic)",
-        "url": "https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        },
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 182327,
-      "name": "At the End of a Bar - Acoustic",
-      "url": "https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Two Story House",
         "url": "https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 220637,
       "name": "Bluebird - Acoustic",
       "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "At the End of a Bar (Acoustic)",
+        "url": "https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 182327,
+      "name": "At the End of a Bar - Acoustic",
+      "url": "https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Take My Name (Wedding Version)",
-        "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Take My Name - Wedding Version",
-      "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Between You & Me",
         "url": "https://open.spotify.com/album/6irV36nzdfWQSorcCFpYPl"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 169017,
       "name": "Between You & Me",
       "url": "https://open.spotify.com/track/4FEGLKYIfTEatQtfGLGxlu"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Take My Name (Wedding Version)",
+        "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Take My Name - Wedding Version",
+      "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "What A Song Can Do (Stripped Down)",
-        "url": "https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "What A Song Can Do - Stripped Down",
-      "url": "https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Gone Too Soon (Acoustic)",
         "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 167469,
       "name": "Gone Too Soon - Acoustic",
       "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "What A Song Can Do (Stripped Down)",
+        "url": "https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "What A Song Can Do - Stripped Down",
+      "url": "https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Growing Up (Acoustic)",
-        "url": "https://open.spotify.com/album/1WYMSj0rZC9flgjqreuf7M"
+        "name": "What If I Never Get Over You (Piano Version)",
+        "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
       },
       "artists": [
         {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 151828,
-      "name": "Growing Up (Are You Happy) - Acoustic",
-      "url": "https://open.spotify.com/track/0Lt8VWHBGhXj0DlqjDwvVC"
+      "duration_ms": 204639,
+      "name": "What If I Never Get Over You - Piano Version",
+      "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "What If I Never Get Over You (Piano Version)",
-        "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
+        "name": "Growing Up (Acoustic)",
+        "url": "https://open.spotify.com/album/1WYMSj0rZC9flgjqreuf7M"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
         }
       ],
-      "duration_ms": 204639,
-      "name": "What If I Never Get Over You - Piano Version",
-      "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
+      "duration_ms": 151828,
+      "name": "Growing Up (Are You Happy) - Acoustic",
+      "url": "https://open.spotify.com/track/0Lt8VWHBGhXj0DlqjDwvVC"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1315,6 +1315,22 @@
       "duration_ms": 206334,
       "name": "I Wanna Remember (feat. Carrie Underwood) - Acoustic",
       "url": "https://open.spotify.com/track/34eeqKzBs5jWOPRoLaagrz"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Magic (Acoustic Live In Studio)",
+        "url": "https://open.spotify.com/album/7jxeRus7q2xwuLCaDEWUAf"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "duration_ms": 180410,
+      "name": "Magic - Acoustic Live In Studio",
+      "url": "https://open.spotify.com/track/0otRit89LPUUlSOzlxVYyZ"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Wildfire (Acoustic)",
-        "url": "https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 173790,
-      "name": "Wildfire - Acoustic",
-      "url": "https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "While You're Gone (Acoustic)",
         "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
       },
@@ -1399,34 +1399,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Magic (Acoustic Live In Studio)",
-        "url": "https://open.spotify.com/album/7jxeRus7q2xwuLCaDEWUAf"
+        "name": "Wildfire (Acoustic)",
+        "url": "https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW"
       },
       "artists": [
         {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 180410,
-      "name": "Magic - Acoustic Live In Studio",
-      "url": "https://open.spotify.com/track/0otRit89LPUUlSOzlxVYyZ"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Hope It's Hot Out (Acoustic)",
-        "url": "https://open.spotify.com/album/6PIh55HBPHm7iFyODh5ZLk"
-      },
-      "artists": [
-        {
-          "name": "Kyle Clark",
-          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
-        }
-      ],
-      "duration_ms": 167833,
-      "name": "Hope It's Hot Out - Acoustic",
-      "url": "https://open.spotify.com/track/2JrieR1DBfhGK2G4zTyeXj"
+      "duration_ms": 173790,
+      "name": "Wildfire - Acoustic",
+      "url": "https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 222352,
       "name": "Loved Me That Way (stripped)",
       "url": "https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Hope It's Hot Out (Acoustic)",
+        "url": "https://open.spotify.com/album/6PIh55HBPHm7iFyODh5ZLk"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Hope It's Hot Out - Acoustic",
+      "url": "https://open.spotify.com/track/2JrieR1DBfhGK2G4zTyeXj"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Break My Heart Again (Live Acoustic)",
-        "url": "https://open.spotify.com/album/6rZaUXqZcFlR9IiYP80bby"
+        "name": "Not Supposed To Know Each Other (Sad Version)",
+        "url": "https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr"
       },
       "artists": [
         {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
         }
       ],
-      "duration_ms": 200757,
-      "name": "Break My Heart Again - Live Acoustic",
-      "url": "https://open.spotify.com/track/6oYagjihsxITllcT5VS6DY"
+      "duration_ms": 164234,
+      "name": "Not Supposed To Know Each Other (Sad Version)",
+      "url": "https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1579,34 +1579,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Not Supposed To Know Each Other (Sad Version)",
-        "url": "https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr"
+        "name": "Break My Heart Again (Live Acoustic)",
+        "url": "https://open.spotify.com/album/6rZaUXqZcFlR9IiYP80bby"
       },
       "artists": [
         {
-          "name": "Taylor Edwards",
-          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
         }
       ],
-      "duration_ms": 164234,
-      "name": "Not Supposed To Know Each Other (Sad Version)",
-      "url": "https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Best Shot - Spotify Singles",
-      "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
+      "duration_ms": 200757,
+      "name": "Break My Heart Again - Live Acoustic",
+      "url": "https://open.spotify.com/track/6oYagjihsxITllcT5VS6DY"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1623,6 +1607,22 @@
       "duration_ms": 191973,
       "name": "Lessons (Acoustic)",
       "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Best Shot - Spotify Singles",
+      "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
     },
     {
       "added_at": "2022-08-12 04:02:00",

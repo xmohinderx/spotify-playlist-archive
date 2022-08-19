@@ -1,12 +1,12 @@
 {
   "description": "Spread some cheer with this list of new and old seasonal favorites.",
-  "num_followers": 255241,
+  "num_followers": 255223,
   "original_name": "Happy Holidays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTk1ODk5OCwwMDAwMDAwMDQwMDg1MzE3YWE3NDI3MWVmZTk3MjcwOGQ0M2Y3YzY2",
+  "snapshot_id": "MTYzOTk1ODk5OCwwMDAwMDAwMGFkNWJhZWVkMTFkMDZmMmQ2MDIzZGRiY2VjZTU2NGRi",
   "tracks": [
     {
       "added_at": "2021-12-20 00:09:58",
@@ -175,6 +175,22 @@
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - 2011 Remaster",
       "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
+    },
+    {
+      "added_at": "2021-12-20 00:09:58",
+      "album": {
+        "name": "Phil Spector Definitive Collection",
+        "url": "https://open.spotify.com/album/5raKUBsZf9x31UuRmJ5c9Z"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/7MnLsyO1JvYwgvEJrBPybg"
     },
     {
       "added_at": "2021-12-20 00:09:58",

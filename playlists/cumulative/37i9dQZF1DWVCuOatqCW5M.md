@@ -4,7 +4,7 @@
 
 > New music from popular Hindi artists\. Cover\- B Praak
 
-188 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
+189 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Badariya](https://open.spotify.com/track/5IwDxCbs651v8M1cjlWaWO) | [Reewa Rathod](https://open.spotify.com/artist/0mzRkdWgrhQkFXs2ptJAch), [Swaransh Mishra](https://open.spotify.com/artist/6k8KVEJqdcGiVni3c6WmhY) | [Badariya](https://open.spotify.com/album/1QZeDxNotV0dAOe7KjUSZm) | 4:07 | 2022-06-03 | 2022-06-18 |
 | [Badle Badle \(From "Vikram Hitlist \(Hindi\)"\)](https://open.spotify.com/track/0drQZvE3y9ReqPtarGiuQp) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Badle Badle \[From "Vikram Hitlist \(Hindi\)"\]](https://open.spotify.com/album/21eyeUuI1KpCZdFmZ1oS57) | 3:31 | 2022-06-10 | 2022-06-18 |
 | [BANK CHOR](https://open.spotify.com/track/7vibXuLnzVz7JPokR92JFx) | [Smile Radiator](https://open.spotify.com/artist/49UYVWNrrla5dFECIuauKs) | [BANK CHOR](https://open.spotify.com/album/38PzMpE8iD5usGHyC5c0Rj) | 1:50 | 2022-07-15 | 2022-07-23 |
+| [Barsaat Ho Jaaye](https://open.spotify.com/track/3nZr2Anx8AEkI3thetbBzP) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Barsaat Ho Jaaye](https://open.spotify.com/album/6Us08Vq82uCHK5aROjNlmA) | 4:10 | 2022-08-18 |  |
 | [Behosh](https://open.spotify.com/track/5b4liCyMaLHS2qMUYsZTXp) | [Shivai Vyas](https://open.spotify.com/artist/37q4Yd87zFhJmXx5Xn7v35) | [Behosh](https://open.spotify.com/album/5vm07tPLS9GneWP2TPO5YU) | 3:40 | 2022-07-01 |  |
 | [Bekal](https://open.spotify.com/track/14K54JjzB6hPczfOoekvpz) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Bekal](https://open.spotify.com/album/3a6uB1GWxknOfS5HaR96tb) | 3:42 | 2022-05-27 | 2022-07-09 |
 | [Bekhabar](https://open.spotify.com/track/20H7gJ6egUmfOzQ00t5DEH) | [Deepanshi Nagar](https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Bekhabar](https://open.spotify.com/album/1NvOkJwsKFEzthlxDr9UnV) | 2:50 | 2022-08-05 |  |

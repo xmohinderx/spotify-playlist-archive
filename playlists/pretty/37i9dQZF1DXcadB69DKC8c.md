@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,883 likes - 49 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,926 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 39 | [Qelemewa](https://open.spotify.com/track/4BNNLeunrfNyeRGyuJ8tLw) | [Badume's Band](https://open.spotify.com/artist/6wTwIiZckwj2EQ3g43pPH3) | [Qelemewa](https://open.spotify.com/album/4UDeVOsaWESg690fXrsMq0) | 4:07 |
 | 40 | [Nèy\-nèy wèlèba](https://open.spotify.com/track/3waKYLA5cSivbsdGogvN2F) | [Eténèsh](https://open.spotify.com/artist/1oTyvjrnoid70Yalhl19Sk), [Le Tigre \(des platanes\)](https://open.spotify.com/artist/65H345Tkhe6SuD5FMGtGdE) | [Zèraf!](https://open.spotify.com/album/6p1qdQHjgigdHe3ikHmWbC) | 4:27 |
 | 41 | [Yemewded Neger](https://open.spotify.com/track/3BJYgF9HqosnP6CgP6kn2s) | [Badume's Band](https://open.spotify.com/artist/6wTwIiZckwj2EQ3g43pPH3) | [Qelemewa](https://open.spotify.com/album/4UDeVOsaWESg690fXrsMq0) | 4:40 |
-| 42 | [Alteleyeshegnem](https://open.spotify.com/track/547fHlns6D8pUibw6C1sJd) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Alteleyeshegnem](https://open.spotify.com/album/144ZxBBOzKl0mq8d2mVrFW) | 4:54 |
-| 43 | [Muziqa muziqa](https://open.spotify.com/track/7uqrZRQZg69UROk3q7rLkU) | [Seyoum Gèbrèyès](https://open.spotify.com/artist/2kTLGigWSwK55FFokkFD5Y), [Wallias Band](https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui) | [Ethiopiques, Vol\. 13: The Golden Seventies \(Ethiopian Groove\)](https://open.spotify.com/album/0rLSJW9TMqqxTHRulbkL82) | 3:43 |
-| 44 | [Stuzzicadenti](https://open.spotify.com/track/2v2bSUXNQpR0JjTBZltLO7) | [Cosmic Analog Ensemble](https://open.spotify.com/artist/477PPCXcCS9mi3lRRnudCq) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 2:23 |
-| 45 | [Alteleyeshegnem](https://open.spotify.com/track/4h3M34tZp05SMq0yZEATMg) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Ethiopiques, Vol\. 10: Ethiopian Blues & Ballads](https://open.spotify.com/album/143e6k2Og8RrTE7kQUFyUV) | 4:57 |
-| 46 | [Muziqawi silt \- instrumental](https://open.spotify.com/track/4nQm99PPXFjr67oMLO7B1H) | [Wallias Band](https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui) | [Ethiopiques, Vol\. 13: The Golden Seventies \(Ethiopian Groove\)](https://open.spotify.com/album/0rLSJW9TMqqxTHRulbkL82) | 3:46 |
-| 47 | [Mèla ùèla](https://open.spotify.com/track/1qg8rGaSG8vnX6WNDMRtq6) | [Sèyfu Yohannès](https://open.spotify.com/artist/7G8w8HKoaqt0mbXOkvFHSr) | [Ethiopiques, Vol\. 1: Golden Years of Modern Ethiopian Music 1969\-1975](https://open.spotify.com/album/3WkDWD8ycVO7kHfQPXWDSJ) | 3:26 |
-| 48 | [Suur Tõll](https://open.spotify.com/track/7CrA3Zt9he26Dea8pFCYeD) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [The Sorcerers](https://open.spotify.com/album/5qpYtUeBDnzSttzGNgg1Je) | 4:45 |
-| 49 | [Addis Abèba bété](https://open.spotify.com/track/4G9tOUZe3bAg7IMm810hEb) | [Ukandanz](https://open.spotify.com/artist/6eid2mbg2XPVDyqdRmNIqb) | [Yetchalal \(EthioSonic\)](https://open.spotify.com/album/08isD5fKxI0WcEklKMni4k) | 5:21 |
+| 42 | [Archaic Morning](https://open.spotify.com/track/12i9yx9s52wEWNljJgk8zJ) | [Collocutor](https://open.spotify.com/artist/774RJ2sZQOoEuM7189qD8X) | [Instead](https://open.spotify.com/album/21UUkmXSfNi9upiAkGd0Df) | 7:51 |
+| 43 | [Alteleyeshegnem](https://open.spotify.com/track/547fHlns6D8pUibw6C1sJd) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Alteleyeshegnem](https://open.spotify.com/album/144ZxBBOzKl0mq8d2mVrFW) | 4:54 |
+| 44 | [Muziqa muziqa](https://open.spotify.com/track/7uqrZRQZg69UROk3q7rLkU) | [Seyoum Gèbrèyès](https://open.spotify.com/artist/2kTLGigWSwK55FFokkFD5Y), [Wallias Band](https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui) | [Ethiopiques, Vol\. 13: The Golden Seventies \(Ethiopian Groove\)](https://open.spotify.com/album/0rLSJW9TMqqxTHRulbkL82) | 3:43 |
+| 45 | [Stuzzicadenti](https://open.spotify.com/track/2v2bSUXNQpR0JjTBZltLO7) | [Cosmic Analog Ensemble](https://open.spotify.com/artist/477PPCXcCS9mi3lRRnudCq) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 2:23 |
+| 46 | [Alteleyeshegnem](https://open.spotify.com/track/4h3M34tZp05SMq0yZEATMg) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Ethiopiques, Vol\. 10: Ethiopian Blues & Ballads](https://open.spotify.com/album/143e6k2Og8RrTE7kQUFyUV) | 4:57 |
+| 47 | [Muziqawi silt \- instrumental](https://open.spotify.com/track/4nQm99PPXFjr67oMLO7B1H) | [Wallias Band](https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui) | [Ethiopiques, Vol\. 13: The Golden Seventies \(Ethiopian Groove\)](https://open.spotify.com/album/0rLSJW9TMqqxTHRulbkL82) | 3:46 |
+| 48 | [Mèla ùèla](https://open.spotify.com/track/1qg8rGaSG8vnX6WNDMRtq6) | [Sèyfu Yohannès](https://open.spotify.com/artist/7G8w8HKoaqt0mbXOkvFHSr) | [Ethiopiques, Vol\. 1: Golden Years of Modern Ethiopian Music 1969\-1975](https://open.spotify.com/album/3WkDWD8ycVO7kHfQPXWDSJ) | 3:26 |
+| 49 | [Suur Tõll](https://open.spotify.com/track/7CrA3Zt9he26Dea8pFCYeD) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [The Sorcerers](https://open.spotify.com/album/5qpYtUeBDnzSttzGNgg1Je) | 4:45 |
+| 50 | [Addis Abèba bété](https://open.spotify.com/track/4G9tOUZe3bAg7IMm810hEb) | [Ukandanz](https://open.spotify.com/artist/6eid2mbg2XPVDyqdRmNIqb) | [Yetchalal \(EthioSonic\)](https://open.spotify.com/album/08isD5fKxI0WcEklKMni4k) | 5:21 |
 
-Snapshot ID: `MTUzODcwMTQyNiwwMDAwMDAwMGVjMjNhM2ZmNmI3ZWJmNWU5MjE4NzU5NTU1OWQzYmRl`
+Snapshot ID: `MTUzODcwMTQyNiwwMDAwMDAwMDRkNjhkYzAyOThhOGM2MzQ3YTc1MmEwNWQ5MjA5NzY3`

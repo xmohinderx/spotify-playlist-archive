@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Aadatan",
+        "url": "https://open.spotify.com/album/1u1UywNfCrOZKHvPzxV1O2"
+      },
+      "artists": [
+        {
+          "name": "Princi",
+          "url": "https://open.spotify.com/artist/3jFonDLEme8NYY8kcd2WJy"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182112,
+      "name": "Aadatan",
+      "url": "https://open.spotify.com/track/5mtr6svWP09Ww4WCtZCuJS"
+    },
+    {
+      "album": {
         "name": "Walking Alone",
         "url": "https://open.spotify.com/album/1n6rmODHCXkbTcHyg6HOXI"
       },
@@ -9593,10 +9611,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 210000,
       "name": "With You",
       "url": "https://open.spotify.com/track/6VOUQEmmoiL0UdLZobO3HT"
+    },
+    {
+      "album": {
+        "name": "WITH You",
+        "url": "https://open.spotify.com/album/2HS0rhqXNMLejezBYGEKpR"
+      },
+      "artists": [
+        {
+          "name": "DEV GILL",
+          "url": "https://open.spotify.com/artist/6331JW7GefIgr9l5I5MTQa"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "WITH You",
+      "url": "https://open.spotify.com/track/6f0bUz9NXrQ61Zj7mNutEN"
     },
     {
       "album": {

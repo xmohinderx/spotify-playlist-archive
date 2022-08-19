@@ -4,7 +4,7 @@
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-45 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/27QhNl1YK5nbZQm0osNBIH)
+47 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/27QhNl1YK5nbZQm0osNBIH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,8 @@
 | [今はここに](https://open.spotify.com/track/6y0aFx8yruYbEZf8wk8Wkz) | [相坂優歌](https://open.spotify.com/artist/3s96N2VlNLmsyVyDoG8vyS) | [屋上の真ん中 で君の心は青く香るまま](https://open.spotify.com/album/2IYqL8Oei8sUMUFhHAuULL) | 5:11 | 2022-08-04 |  |
 | [勇侠青春謳](https://open.spotify.com/track/7tbS1FAMmd8fNXQVzvDsWl) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [25周年記念ベストアルバム「愛と誠\~YAMATO & LOVE×××」](https://open.spotify.com/album/1C8RqCYhu5i4Mr827fe0R5) | 4:23 | 2022-08-04 |  |
 | [無色透明](https://open.spotify.com/track/77aCXRxRhlcMod8dJLPIAB) | [山下優太郎](https://open.spotify.com/artist/2jxEVw1ciKVmQzo1EK0KUO) | [無色透明](https://open.spotify.com/album/3m41noXBvwKfjJCDbeNUve) | 3:59 | 2022-08-04 |  |
+| [瞳ノ翼](https://open.spotify.com/track/1WsJa8gcDaN98fKWjkzACu) | [access](https://open.spotify.com/artist/3lm6JsSicTww5h33Yvee1H) | [瞳ノ翼](https://open.spotify.com/album/3VZC8ZQhXC0ssXkXG3SjmR) | 3:32 | 2022-08-04 |  |
+| [解読不能](https://open.spotify.com/track/7qmHiAnigN9lTQK4KhwSkF) | [Jinn](https://open.spotify.com/artist/1ve6qu9hbhEB8BMQwBUzYf) | [レミングス](https://open.spotify.com/album/3cUiVzXIOabDLPvZQpIwrx) | 3:02 | 2022-08-04 |  |
 | [赤だけが足りない](https://open.spotify.com/track/374bDeFT5PC3fU85QWTCKm) | [Iris Woo](https://open.spotify.com/artist/7x2hNYu3nbbyMnete3M0fD) | [赤だけが足りない](https://open.spotify.com/album/1wYav487ZMFUiun6Yorv0n) | 4:27 | 2022-08-04 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

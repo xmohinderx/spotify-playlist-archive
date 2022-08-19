@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 370539,
+  "num_followers": 370557,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMGIwMjgwMjgxZDEzZmVhYjk5NGRlMDZkMTk0YmNhZDM3",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMGQ0MmUxYWU3NGJlNjQwZWNkMDk3MDY1OGYxMDU2MmZm",
   "tracks": [
     {
       "added_at": "2022-07-22 04:02:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Big Band Classics",
-        "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 149986,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
+      "duration_ms": 131426,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -251,18 +251,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Sinatra 80th: All The Best",
-        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
+        "name": "Big Band Classics",
+        "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 131426,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
+      "duration_ms": 149986,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -479,26 +479,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 404880,
-      "name": "Take The \"A\" Train",
-      "url": "https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Djangologie Vol.4 / 1937",
         "url": "https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 166826,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 404880,
+      "name": "Take The \"A\" Train",
+      "url": "https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -837,26 +837,6 @@
       "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Eleven O' Seven",
-        "url": "https://open.spotify.com/album/22QxiGLLD9fnMWupEw9x4v"
-      },
-      "artists": [
-        {
-          "name": "Grace Fox",
-          "url": "https://open.spotify.com/artist/4KElbiDxExy2tMzRY4Za4h"
-        },
-        {
-          "name": "Jade Elliott",
-          "url": "https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s"
-        }
-      ],
-      "duration_ms": 565293,
-      "name": "Echelon",
-      "url": "https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC"
-    },
-    {
       "added_at": "2020-03-06 16:28:56",
       "album": {
         "name": "Present Perfect",
@@ -875,6 +855,26 @@
       "duration_ms": 582509,
       "name": "The Waltz I Blew for You",
       "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Eleven O' Seven",
+        "url": "https://open.spotify.com/album/22QxiGLLD9fnMWupEw9x4v"
+      },
+      "artists": [
+        {
+          "name": "Grace Fox",
+          "url": "https://open.spotify.com/artist/4KElbiDxExy2tMzRY4Za4h"
+        },
+        {
+          "name": "Jade Elliott",
+          "url": "https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s"
+        }
+      ],
+      "duration_ms": 565293,
+      "name": "Echelon",
+      "url": "https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC"
     },
     {
       "added_at": "2020-03-06 16:28:56",

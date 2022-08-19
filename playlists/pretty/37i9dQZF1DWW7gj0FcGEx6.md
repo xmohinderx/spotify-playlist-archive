@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,033 likes - 105 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,126 likes - 105 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 8 | [Vengeance](https://open.spotify.com/track/2hj1c8CjQZVhz2xXp2FQ1a) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance](https://open.spotify.com/album/5VG8Za7HUfIlafQMYIDYf4) | 3:19 |
 | 9 | [Mama's Got a Brand New Hammer \- From "Thor: Love and Thunder"](https://open.spotify.com/track/4SIfcQHmeKQ7F3K6Tbz5gK) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Mama's Got a Brand New Hammer \(From "Thor: Love and Thunder"\)](https://open.spotify.com/album/5aO8YZeagny83StfnND4jG) | 6:08 |
 | 10 | [Moon Knight](https://open.spotify.com/track/65ICJM6KqFWou1ntTAv0Qk) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(Original Soundtrack\)](https://open.spotify.com/album/3z9OjeKSTG1OtElUq3OGv8) | 2:10 |
-| 11 | [Video Games \- from "Westworld: Season 4"](https://open.spotify.com/track/3ptbZSHZmj5CdcnPxcubBV) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 4, Episodes 1\-5 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/3NhQoYlPygH468YbYon6BC) | 3:52 |
+| 11 | [Video Games \- from "Westworld: Season 4"](https://open.spotify.com/track/4WbSUuY31KdjUOmnmANNUi) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 4 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/3EfF0Ull4AIq98w5Em5XMa) | 3:52 |
 | 12 | [Clothes From Miss Mabel \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/0rfaeL0QdlX5xMUjlPVTeD) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Where The Crawdads Sing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lQ5wsZNHhqbj3yZJ9wzD0) | 1:38 |
 | 13 | [The Book of Boba Fett](https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 2:55 |
 | 14 | [Ms\. Marvel Suite \- From "Ms\. Marvel"](https://open.spotify.com/track/75yRQ1RE96bpNPhQvcOveR) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Ms\. Marvel Suite \(From "Ms\. Marvel"\)](https://open.spotify.com/album/1f6HDHbyMsSLFqomt40gmV) | 4:29 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 104 | [Daggers](https://open.spotify.com/track/7Hkm8hp3AhX4bEokfsvGhd) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Four \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/3kuoaGXmBaGgkqTCDqMcZd) | 2:33 |
 | 105 | [The Rise of Skywalker](https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Rise of Skywalker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26pelVOow8ODvBktJbDiua) | 4:18 |
 
-Snapshot ID: `MTY1OTM0MzAzMywwMDAwMDAwMDM4MWRkZDU1NjRiNjE5Yjc2MjI4OThjZjYxMjY2MTU2`
+Snapshot ID: `MTY1OTM0MzAzMywwMDAwMDAwMDk4OTc2NWM3Njc1MTRlMTg3Y2RjZWE5NTIwZjg2NTE3`

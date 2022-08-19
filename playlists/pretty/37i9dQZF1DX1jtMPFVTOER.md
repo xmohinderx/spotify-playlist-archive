@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: love\-sadKID
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,300 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,434 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 98 | [More Than A Hustler](https://open.spotify.com/track/0KECJERVEYL0I72yErbHWm) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [More Than A Hustler](https://open.spotify.com/album/2KBqzJ2kZj9hFylfEO9QVH) | 2:37 |
 | 99 | [Gold](https://open.spotify.com/track/77iN3Uq6zU5kEjh2G0YfhB) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Gold](https://open.spotify.com/album/0P4qvH6MQuwagaXkPqoHST) | 3:05 |
 
-Snapshot ID: `MTY2MDMxMDE5MSwwMDAwMDAwMDE2NGVkMzZlNmQ5YTcyM2IyZmNlZmQ5OTk3ZGY4YjUz`
+Snapshot ID: `MTY2MDMxMDE5MSwwMDAwMDAwMDdlMjRkYjc4YmE3ZTlkMTJhNzFiODYxYTJhOTRhYWI0`

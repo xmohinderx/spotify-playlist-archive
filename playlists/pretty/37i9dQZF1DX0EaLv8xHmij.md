@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Yung Nobre
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,521 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,549 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 17 | [0800](https://open.spotify.com/track/14A0Tyim8iHhpnWesBnVST) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [0800](https://open.spotify.com/album/3VYwzW67GM00vR6z2vhNUf) | 2:17 |
 | 18 | [Rico no Rio](https://open.spotify.com/track/6NXMEsY4Ivqm722zmI5kgG) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Dj DM](https://open.spotify.com/artist/686Cz1vrD1XO5CPJC0ZiAt), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Rico no Rio](https://open.spotify.com/album/7mXrQh7smoIFCbHfUMJGa0) | 3:07 |
 | 19 | [Muito Querido](https://open.spotify.com/track/0qDA0XgVhM1fp14h5CpH0A) | [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Muito Querido](https://open.spotify.com/album/2tnj2zG6VJGYtmCGP6sFN4) | 1:56 |
-| 20 | [Carnadrill](https://open.spotify.com/track/6ZmYwR6Z4UajJ5LiPnN4n1) | [Nauta](https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Cita OQ](https://open.spotify.com/artist/2oJc2xV0N5Po2NFbWE3zXh) | [Carnadrill](https://open.spotify.com/album/7m8NH7IW9rIvyrdbMqym7s) | 1:55 |
+| 20 | [Carnadrill](https://open.spotify.com/track/6ZmYwR6Z4UajJ5LiPnN4n1) | [Nauta](https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Cita OQ](https://open.spotify.com/artist/2oJc2xV0N5Po2NFbWE3zXh) | [Carnadrill](https://open.spotify.com/album/7m8NH7IW9rIvyrdbMqym7s) | 1:55 |
 | 21 | [Armamento do Irã](https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [D r o p e](https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Olympio](https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72) | [Armamento do Irã](https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3) | 4:19 |
 | 22 | [7 Velas](https://open.spotify.com/track/3O0Psgcf7AQXoYfgqp9c7K) | [PoetaNoBeat](https://open.spotify.com/artist/3mFb9oHAuhW1RmrR7St4vP), [monog](https://open.spotify.com/artist/6w2v8qBcnzlbxgspiEvHPA), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [7 Velas](https://open.spotify.com/album/1Z17IlMM1tKTqlKM8qQL2V) | 2:09 |
 | 23 | [Caro](https://open.spotify.com/track/3D0SvoPAta7wZkRkFbOFT3) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Caro](https://open.spotify.com/album/0sPxkDg3IdEvXWQtlaDVF3) | 2:58 |

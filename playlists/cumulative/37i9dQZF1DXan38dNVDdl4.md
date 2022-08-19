@@ -2,7 +2,7 @@
 
 ### [Dancehall Official](https://open.spotify.com/playlist/37i9dQZF1DXan38dNVDdl4)
 
-> Timeless Dancehall music Curated by the 876 GUD Popcaan for Carnival Sounds 2022
+> Timeless Dancehall music Curated by Popcaan for Notting Hill Carnival 2022
 
 161 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
 

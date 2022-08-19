@@ -1,12 +1,12 @@
 {
   "description": "Songs to help your kids learn in English and Spanish!",
-  "num_followers": 634,
+  "num_followers": 636,
   "original_name": "\u00a1Let's Aprender!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDAyMTE4NywwMDAwMDAwMDM2NDVlMjUyMGE5ODFmNzZiNzI2ZDc0YmU3ZGFmODlm",
+  "snapshot_id": "MTYxNDAyMTE4NywwMDAwMDAwMDA5MTE3MDg0ZDRiOGNkZTU1Mzg0ODA4N2JhN2ZhMzlh",
   "tracks": [
     {
       "added_at": "2020-06-26 16:45:35",
@@ -439,6 +439,22 @@
     {
       "added_at": "2020-04-22 18:50:55",
       "album": {
+        "name": "Loose Tooth",
+        "url": "https://open.spotify.com/album/7f8UTUkpTGEZmlYOZLUGk7"
+      },
+      "artists": [
+        {
+          "name": "Juice Box Heroes",
+          "url": "https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Sound Like an Elephant",
+      "url": "https://open.spotify.com/track/390cQIHKe5Ufro9sM3TTQ3"
+    },
+    {
+      "added_at": "2020-04-22 18:50:55",
+      "album": {
         "name": "Junior Express - Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
@@ -487,6 +503,22 @@
       "duration_ms": 122895,
       "name": "La Canci\u00f3n del Tren de Formas",
       "url": "https://open.spotify.com/track/6owNfXnjfSzSKfeKEL8Ebo"
+    },
+    {
+      "added_at": "2020-04-22 18:50:55",
+      "album": {
+        "name": "Planets of Our Solar System",
+        "url": "https://open.spotify.com/album/6IDvLE2zmw0d6mgFHBBLg8"
+      },
+      "artists": [
+        {
+          "name": "Kids Learning Tube",
+          "url": "https://open.spotify.com/artist/3RvQsrlQFlGXHeLl1Vl9e0"
+        }
+      ],
+      "duration_ms": 208561,
+      "name": "Solar System",
+      "url": "https://open.spotify.com/track/5zc9lVtIyznZOSEyQaOwqe"
     },
     {
       "added_at": "2020-04-22 18:50:55",

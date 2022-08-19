@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Back to the golden age of emo\. Cover: Thursday
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,138 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,236 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,17 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 35 | [Woolworm](https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp) | [Indian Summer](https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf) | [Giving Birth to Thunder](https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7) | 7:25 |
 | 36 | [For Want Of](https://open.spotify.com/track/0Ca6zALpIkO7nwSHpT5hSg) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg) | 3:10 |
 | 37 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 |
-| 38 | [The Great Depression](https://open.spotify.com/track/1xNDXKQPbd49Ik9MxlwJ94) | [Cross My Heart](https://open.spotify.com/artist/5Lp6cRiaJy2ryj66SfTKYQ) | [Temporary Contemporary](https://open.spotify.com/album/3YNTAfolDugX8teETYvrCx) | 4:01 |
-| 39 | [Eleven to Your Seven](https://open.spotify.com/track/1hxLx1gmWfsCSpDp8cJOl0) | [Hey Mercedes](https://open.spotify.com/artist/0R8uN7rVUuKGfTXQHjvB5U) | [Everynight Fire Works](https://open.spotify.com/album/7yBqFEyyKAzCJYoEmyuyTl) | 3:54 |
-| 40 | [Radio](https://open.spotify.com/track/7GgXkT1jlg4MN9KYo3ULwK) | [Christie Front Drive](https://open.spotify.com/artist/0XsPWpim5jSh6iKDsD1Vqc) | [Stereo](https://open.spotify.com/album/16j7lqTblxGoqXXREFCEwT) | 3:49 |
-| 41 | [Golf Hill Drive](https://open.spotify.com/track/3qAkXCzLSEHiypXxoLhl8K) | [Boys Life](https://open.spotify.com/artist/6pkUxQmEvLkvQRa75wf7Ta) | [Boys Life](https://open.spotify.com/album/6IiDM5sfirROcIXPRXxaUl) | 2:30 |
-| 42 | [M](https://open.spotify.com/track/53sk4XbQHveSGDXq0k8asW) | [Penfold](https://open.spotify.com/artist/6DNcBVkeL2ucCkkTDJGcYn) | [Amateurs & Professionals](https://open.spotify.com/album/34MllYh3dtTSVGnE3m7mbg) | 4:23 |
-| 43 | [Red & Blue Jeans](https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 2:55 |
-| 44 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 |
-| 45 | [See You In Hell](https://open.spotify.com/track/5OsAjzmcyT7lIdHQwicSSf) | [Small Brown Bike](https://open.spotify.com/artist/1zXtQWuMTmOYQUiP5a1c0j) | [Dead Reckoning](https://open.spotify.com/album/41cGtsemjXxvGiBenwg8p3) | 3:15 |
-| 46 | [A Lull In Traffic](https://open.spotify.com/track/2HmdQtNJDraTM9JNQCXC0K) | [The Gloria Record](https://open.spotify.com/artist/0gYSiuHXa3SjZA45d6AU0U) | [A Lull In Traffic](https://open.spotify.com/album/3WqgB3H5z4HaHWz9Fs3wo9) | 4:05 |
-| 47 | [Dreams](https://open.spotify.com/track/4EutGBgzvoJ1MXN1LNfMOD) | [Sense Field](https://open.spotify.com/artist/5LzLPIRLOQVl1Gs3b4CRBT) | [Sense Field](https://open.spotify.com/album/4tx4qeSe8wTjMwznIHnvUa) | 4:22 |
-| 48 | [This Afternoons Malady](https://open.spotify.com/track/0wHxHYnNvnhjX4f399sjMz) | [Jejune](https://open.spotify.com/artist/0dH7IS6J0rfzfMCyxG8b4V) | [Extreme Music Sampler](https://open.spotify.com/album/4m0GhiaLelgQ44HRnG14ow) | 4:21 |
-| 49 | [Earthquakes and Sharks](https://open.spotify.com/track/7jATtiR7Sjfke3qKdA5HEd) | [Brandtson](https://open.spotify.com/artist/4wlNIqMnqGY8g2lcFTkzsY) | [Hello, Control.](https://open.spotify.com/album/6vfntMjrhjePcDe48vXOwz) | 2:57 |
+| 38 | [Factory](https://open.spotify.com/track/5hns2g1le2bQDkQaUJPRvB) | [Samiam](https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo) | [You're Freaking Me Out](https://open.spotify.com/album/06KigeTnRtnm7YS0hjIVl8) | 3:30 |
+| 39 | [The Great Depression](https://open.spotify.com/track/1xNDXKQPbd49Ik9MxlwJ94) | [Cross My Heart](https://open.spotify.com/artist/5Lp6cRiaJy2ryj66SfTKYQ) | [Temporary Contemporary](https://open.spotify.com/album/3YNTAfolDugX8teETYvrCx) | 4:01 |
+| 40 | [Eleven to Your Seven](https://open.spotify.com/track/1hxLx1gmWfsCSpDp8cJOl0) | [Hey Mercedes](https://open.spotify.com/artist/0R8uN7rVUuKGfTXQHjvB5U) | [Everynight Fire Works](https://open.spotify.com/album/7yBqFEyyKAzCJYoEmyuyTl) | 3:54 |
+| 41 | [Radio](https://open.spotify.com/track/7GgXkT1jlg4MN9KYo3ULwK) | [Christie Front Drive](https://open.spotify.com/artist/0XsPWpim5jSh6iKDsD1Vqc) | [Stereo](https://open.spotify.com/album/16j7lqTblxGoqXXREFCEwT) | 3:49 |
+| 42 | [Golf Hill Drive](https://open.spotify.com/track/3qAkXCzLSEHiypXxoLhl8K) | [Boys Life](https://open.spotify.com/artist/6pkUxQmEvLkvQRa75wf7Ta) | [Boys Life](https://open.spotify.com/album/6IiDM5sfirROcIXPRXxaUl) | 2:30 |
+| 43 | [M](https://open.spotify.com/track/53sk4XbQHveSGDXq0k8asW) | [Penfold](https://open.spotify.com/artist/6DNcBVkeL2ucCkkTDJGcYn) | [Amateurs & Professionals](https://open.spotify.com/album/34MllYh3dtTSVGnE3m7mbg) | 4:23 |
+| 44 | [Red & Blue Jeans](https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 2:55 |
+| 45 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 |
+| 46 | [See You In Hell](https://open.spotify.com/track/5OsAjzmcyT7lIdHQwicSSf) | [Small Brown Bike](https://open.spotify.com/artist/1zXtQWuMTmOYQUiP5a1c0j) | [Dead Reckoning](https://open.spotify.com/album/41cGtsemjXxvGiBenwg8p3) | 3:15 |
+| 47 | [A Lull In Traffic](https://open.spotify.com/track/2HmdQtNJDraTM9JNQCXC0K) | [The Gloria Record](https://open.spotify.com/artist/0gYSiuHXa3SjZA45d6AU0U) | [A Lull In Traffic](https://open.spotify.com/album/3WqgB3H5z4HaHWz9Fs3wo9) | 4:05 |
+| 48 | [Dreams](https://open.spotify.com/track/4EutGBgzvoJ1MXN1LNfMOD) | [Sense Field](https://open.spotify.com/artist/5LzLPIRLOQVl1Gs3b4CRBT) | [Sense Field](https://open.spotify.com/album/4tx4qeSe8wTjMwznIHnvUa) | 4:22 |
+| 49 | [This Afternoons Malady](https://open.spotify.com/track/0wHxHYnNvnhjX4f399sjMz) | [Jejune](https://open.spotify.com/artist/0dH7IS6J0rfzfMCyxG8b4V) | [Extreme Music Sampler](https://open.spotify.com/album/4m0GhiaLelgQ44HRnG14ow) | 4:21 |
+| 50 | [Earthquakes and Sharks](https://open.spotify.com/track/7jATtiR7Sjfke3qKdA5HEd) | [Brandtson](https://open.spotify.com/artist/4wlNIqMnqGY8g2lcFTkzsY) | [Hello, Control.](https://open.spotify.com/album/6vfntMjrhjePcDe48vXOwz) | 2:57 |
 
-Snapshot ID: `MTY1NDc4MjM2MSwwMDAwMDAwMGFhYzNmYjkxYWMyMDM4ZjhkZDE1NjE1YjdjZTVkZDc4`
+Snapshot ID: `MTY1NDc4MjM2MSwwMDAwMDAwMGQ5OWNiOTUyMmNhMTU2YTI0NjdjY2E3ZWU5NmE2OWJl`

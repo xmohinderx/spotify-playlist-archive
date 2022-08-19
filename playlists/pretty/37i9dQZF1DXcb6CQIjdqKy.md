@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover: Matthew West
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455,902 likes - 99 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,456,134 likes - 99 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 98 | [Teach Me to Dance \(Acoustic Version\)](https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW), [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Teach Me to Dance \(Acoustic Version\)](https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx) | 3:38 |
 | 99 | [God, Turn It Around](https://open.spotify.com/track/3zt6T5xcqLJRYnQq0yqQaR) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [God, Turn It Around](https://open.spotify.com/album/7ut7XWszYs3hgaOwlsdlDN) | 4:15 |
 
-Snapshot ID: `MTY2MDI4NzgzNSwwMDAwMDAwMGEzM2Y1ZmY4NDc4ZmJkYzM0ZWY0YTdlMWRhZGVkZjUz`
+Snapshot ID: `MTY2MDI4NzgzNSwwMDAwMDAwMDE3Y2NiNTI2NThiNzBhODRiMzVhYmFhNTk2NWEyNzZm`

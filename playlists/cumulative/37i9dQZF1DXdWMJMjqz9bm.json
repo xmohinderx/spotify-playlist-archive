@@ -904,6 +904,24 @@
     },
     {
       "album": {
+        "name": "C'est la vie",
+        "url": "https://open.spotify.com/album/5h4deWk0g9b3wC5YCSqx8I"
+      },
+      "artists": [
+        {
+          "name": "Ethan Surman",
+          "url": "https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171844,
+      "name": "C'est la vie",
+      "url": "https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r"
+    },
+    {
+      "album": {
         "name": "Cape Cod",
         "url": "https://open.spotify.com/album/50IWjX5dsIcNq2qqf7Tg3h"
       },

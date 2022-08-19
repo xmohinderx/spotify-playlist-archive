@@ -4,7 +4,7 @@
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-131 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/1qRROkHI9x5BXVWcCEXpLA)
+132 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/1qRROkHI9x5BXVWcCEXpLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Old MacDonald had a Band](https://open.spotify.com/track/1AySRjZeiPeJpf487K2lwK) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 2:11 | 2021-12-16 |  |
 | [Over The Rainbow/What A Wonderful World](https://open.spotify.com/track/0Cll7d8lmNn05ZOVm5l5va) | [Israel "IZ" Kamakawiwoole](https://open.spotify.com/artist/0brWzWBfn8DhPWwdf3SWwn) | [Music From The Motion Picture Fred Claus](https://open.spotify.com/album/7cJnLV1fOwW0aX1hLekFPX) | 5:04 | 2021-12-16 |  |
 | [Polly\-Wolly\-Doodle](https://open.spotify.com/track/5hZ7N5EWJWmvDJyDPMmWU5) | [Shirley Temple](https://open.spotify.com/artist/325LVWNjKZv6UwNq5xuPHt) | [The Very Best Of](https://open.spotify.com/album/4HYYb4rzvra5MbY59bRCXt) | 1:53 | 2021-12-16 |  |
-| [Pop! Goes the Weasle](https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [45 Nursery Rhymes](https://open.spotify.com/album/37LRo39cJ69EjKNKG0peTO) | 0:49 | 2021-12-16 |  |
+| [Pop! Goes the Weasle](https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [45 Nursery Rhymes](https://open.spotify.com/album/37LRo39cJ69EjKNKG0peTO) | 0:49 | 2021-12-16 | 2022-08-19 |
 | [Puff, the Magic Dragon \- 2004 Remaster](https://open.spotify.com/track/7raciFPVU5VuHmqVbw2c1h) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 3:28 | 2021-12-16 |  |
 | [Round Robin](https://open.spotify.com/track/2rdQhu26wrbICsrxjNRwvY) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Round Robin](https://open.spotify.com/album/0AiAVo38OkPWYMZDtaoGPO) | 1:33 | 2021-12-16 |  |
 | [Sally Ann](https://open.spotify.com/track/7uI5zcdJKh6sWgXsTsUNzw) | [Dean Jones](https://open.spotify.com/artist/7dVDu3AsG0Sq0PQtIPWimI) | [Napper's Delight](https://open.spotify.com/album/35Php5PIJOPAsdJHK8A15J) | 2:39 | 2021-12-16 | 2022-07-25 |
@@ -121,6 +121,7 @@
 | [The Farmer Is The One](https://open.spotify.com/track/1lD0KqDiIgyVaVC7FXa9tt) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL) | [Little Nut Tree](https://open.spotify.com/album/0W2eDCYklT4jJShYaoL0AT) | 2:25 | 2022-04-15 |  |
 | [The Farmer Is The One](https://open.spotify.com/track/2RSMt7gFKGY6aL7K0JNM3N) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL) | [Little Nut Tree](https://open.spotify.com/album/3vvbwip5T97USLTwoMabGw) | 2:25 | 2021-12-16 | 2022-07-29 |
 | [The Riddle Song](https://open.spotify.com/track/7MjYIqk3plWn2CHz9SFozd) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:41 | 2021-12-16 |  |
+| [The Tailor and the Mouse](https://open.spotify.com/track/2GROeDv4VmlGbM80k3KHX4) | [Glenn Yarbrough](https://open.spotify.com/artist/4GxVmha4ELBwUE4bPyChzS) | [Come and Sit by My Side](https://open.spotify.com/album/11ES2isDgMh7BpZTlKFU6a) | 1:34 | 2022-04-15 |  |
 | [The Tailor and The Mouse](https://open.spotify.com/track/7Bj9hysNfSkpr0bfR1UJ0N) | [Glenn Yarbrough](https://open.spotify.com/artist/4GxVmha4ELBwUE4bPyChzS) | [Folk Songs For Kids](https://open.spotify.com/album/2ZWjJ7VI5aU7fxLbeV73TB) | 1:35 | 2021-12-16 | 2022-07-29 |
 | [The Wagon](https://open.spotify.com/track/3NEna3nCmD8tHklC7njS9a) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Wild and Free](https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI) | 3:15 | 2022-02-10 | 2022-07-29 |
 | [The Wild and Wonderful Cedars](https://open.spotify.com/track/0mUD9kHTbWeRMux42d8emg) | [Ginalina](https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP) | [The Wild and Wonderful Cedars](https://open.spotify.com/album/4neNOWSt6koD8b0Ia2f1CD) | 2:56 | 2021-12-16 | 2022-07-22 |

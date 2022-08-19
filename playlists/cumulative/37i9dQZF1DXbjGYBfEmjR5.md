@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-426 songs - 1 day 0 hr 3 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
+427 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,8 +198,9 @@
 | [Just a Little](https://open.spotify.com/track/4CqwRPsNgnrs05KGY2MXks) | [Amherst](https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU) | [Kudatah, Vol\. 1](https://open.spotify.com/album/0j21NLeNyi3QtU1Y8XJE7l) | 3:13 | 2022-03-11 | 2022-06-16 |
 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 | 2022-04-12 | 2022-07-28 |
 | [Knights](https://open.spotify.com/track/0QzY4pMzEuJhql5eTHjUW7) | [Bazz](https://open.spotify.com/artist/7L2KG4aO0ik742ux5CFgVp) | [Montaime, Vol\. 1](https://open.spotify.com/album/0Ijy3uJnjyyyahnUgykdDY) | 6:09 | 2021-12-08 | 2022-07-27 |
+| [Knights](https://open.spotify.com/track/5aRFAxPWHQRYMNVDFciuP2) | [Bazz](https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr) | [Montaime, Vol\. 1](https://open.spotify.com/album/4GicNIw4wPNv9rxqf9cvHN) | 6:09 | 2022-08-12 |  |
 | [Kokubu](https://open.spotify.com/track/6DtwXIO6J9eqtrZeFdMyLN) | [Setka](https://open.spotify.com/artist/6zWSsWEezov5znjRLPM3qf), [M A R Iマリくん](https://open.spotify.com/artist/0NZMuRJ9tC39RKj6DtqsjF) | [Pink Sea](https://open.spotify.com/album/1xgG8BgbfQvDG1nCjtFrY3) | 2:30 | 2022-06-08 | 2022-08-09 |
-| [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 | 2021-12-08 |  |
+| [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 | 2021-12-08 | 2022-08-19 |
 | [Kusunoki](https://open.spotify.com/track/7wpCCglXrFoiGPIgQp0SRV) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [Kusunoki](https://open.spotify.com/album/4nvMY6IcVhbzB8yKG22sob) | 2:28 | 2022-01-25 | 2022-06-08 |
 | [Kuudere Crush](https://open.spotify.com/track/2POY4U4R7lxUM61ryNHRmL) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Kuudere Crush](https://open.spotify.com/album/30yExUgU7Q1AItAXaSKBaf) | 3:03 | 2021-12-08 | 2022-07-16 |
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ) | 2:49 | 2022-03-04 | 2022-03-12 |
@@ -275,7 +276,7 @@
 | [On My Mind](https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2) | [BAD4ALL](https://open.spotify.com/artist/01VXtkjZQGs49YAKEJLgJp) | [On My Mind](https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C) | 2:25 | 2021-12-08 |  |
 | [Onam Wave](https://open.spotify.com/track/0z3T9iuOQBLMKGYmTHy7hn) | [Joan Jose](https://open.spotify.com/artist/6uql75Amu5Sb5DuowvloMP), [Time Lapse 1987](https://open.spotify.com/artist/4yuM28EUHBFRVwixccj21p) | [Onam Wave](https://open.spotify.com/album/3ZgBRUcnOB08vpsW93jB75) | 3:27 | 2022-06-08 | 2022-07-16 |
 | [One World Style](https://open.spotify.com/track/3E39kROovCgOemHDjs2h2v) | [Kue](https://open.spotify.com/artist/6x64y9drMAf6ymZCJa7fao) | [One World Style EP](https://open.spotify.com/album/0Q6aR0j8FPj7Gt2mClam6a) | 3:42 | 2021-12-08 | 2022-07-27 |
-| [Orca Adventure DX](https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Orca Adventure DX](https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7) | 2:51 | 2021-12-08 | 2022-07-29 |
+| [Orca Adventure DX](https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Orca Adventure DX](https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7) | 2:51 | 2021-12-08 |  |
 | [Overcome](https://open.spotify.com/track/3yrvogw8AcVfhJ8O7A75ss) | [Superflat](https://open.spotify.com/artist/5b4stUHH8NXrg63fgtzbT0), [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Overcome](https://open.spotify.com/album/49iluvAYd868SaSuxRCBdM) | 2:40 | 2021-12-08 | 2022-06-27 |
 | [Overdrive](https://open.spotify.com/track/4m9ZzYHWql3RcK2OHTorcb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [BreezyDev](https://open.spotify.com/artist/1I105QAHQoo2rfUqeFMZUj) | [Overdrive](https://open.spotify.com/album/3VeUAgTYDb4v1ZjVHE9Fdq) | 2:37 | 2022-06-08 |  |
 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 | 2022-04-12 |  |
@@ -288,7 +289,7 @@
 | [Positive](https://open.spotify.com/track/0E2A3EhNsvWYWVqSaqisep) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Positive](https://open.spotify.com/album/7gKWbapL9jZogKY9aRcVTU) | 3:37 | 2021-12-08 | 2022-07-26 |
 | [Power Make Up](https://open.spotify.com/track/33sdJcyi2leaVCFGwshDTX) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [J\-Funk City : Vantage's Edits Collection](https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf) | 3:58 | 2022-06-01 | 2022-06-08 |
 | [Prague](https://open.spotify.com/track/2Q7yRdk1M9dqyYjWeX7iud) | [Turntboi95](https://open.spotify.com/artist/06ZPB8JpelYv0onT68OB71) | [Hard Future Funk](https://open.spotify.com/album/3OCrBxPwgRgKl5RITgDUoy) | 2:41 | 2022-01-25 | 2022-07-23 |
-| [Prophecy](https://open.spotify.com/track/6ZtBwt3SJIMLTyHRb6c9MG) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Prophecy](https://open.spotify.com/album/5tRUJC0mUm5hect2JyynN3) | 4:13 | 2022-07-15 |  |
+| [Prophecy](https://open.spotify.com/track/6ZtBwt3SJIMLTyHRb6c9MG) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Prophecy](https://open.spotify.com/album/5tRUJC0mUm5hect2JyynN3) | 4:13 | 2022-07-15 | 2022-08-19 |
 | [Prysm](https://open.spotify.com/track/5hS0NoR2jtln7HEUzgQxqd) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Textures](https://open.spotify.com/album/25xCGzP8gWJ70RLCvxVCva) | 4:10 | 2022-01-25 | 2022-04-21 |
 | [Querelle](https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:51 | 2021-12-08 | 2022-08-13 |
 | [Radiant Memories](https://open.spotify.com/track/4F6gMvhls0kVKt4tV6egkZ) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:19 | 2021-12-08 |  |

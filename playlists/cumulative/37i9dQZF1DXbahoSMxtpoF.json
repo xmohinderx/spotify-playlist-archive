@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "The 1950-1951 Modern Recordings",
+        "url": "https://open.spotify.com/album/0kGAzQy52goC3pUxKJtmc1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192640,
+      "name": "B. B. Boogie - Take 1",
+      "url": "https://open.spotify.com/track/1A3dOZb859JmEKvPCe4boT"
+    },
+    {
+      "album": {
         "name": "Take It Home",
         "url": "https://open.spotify.com/album/0Mzk6JoxPV6hE9sge7VMGS"
       },

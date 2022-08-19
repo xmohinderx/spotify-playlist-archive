@@ -4,11 +4,12 @@
 
 > Honoring the life and music of the <a href="spotify:artist:5xLSa7l4IV1gsQfhAMvl0U">blues giant</a>, 1925–2015.
 
-24 songs - 1 hr 49 min - [published](https://open.spotify.com/playlist/4hs8YNDpUeBYmSOihp2h0N)
+25 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/4hs8YNDpUeBYmSOihp2h0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't Nobody Home](https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 4:59 | 2017-06-05 |  |
+| [B\. B\. Boogie \- Take 1](https://open.spotify.com/track/1A3dOZb859JmEKvPCe4boT) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The 1950\-1951 Modern Recordings](https://open.spotify.com/album/0kGAzQy52goC3pUxKJtmc1) | 3:12 | 2017-06-05 |  |
 | [Better Not Look Down](https://open.spotify.com/track/20VyHR0s9CdmSLM06I4Y48) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Take It Home](https://open.spotify.com/album/0Mzk6JoxPV6hE9sge7VMGS) | 3:22 | 2017-06-05 |  |
 | [Caldonia](https://open.spotify.com/track/24HcuZHAH017C5wp9Z4ziQ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 3:58 | 2017-06-05 |  |
 | [Chains And Things](https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:53 | 2017-06-05 |  |

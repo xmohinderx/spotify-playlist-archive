@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-183 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/1WAyEUZtOSwZyUwFQKR52M)
+185 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/1WAyEUZtOSwZyUwFQKR52M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Brown Noise Dreamer](https://open.spotify.com/track/0rTwvDQfxosnWtcnav82MB) | [The Brownian Sleepers](https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN) | [Brown Noise Lullaby](https://open.spotify.com/album/4EGAs1QyIqB7tsSiHRZIbu) | 3:43 | 2022-05-05 |  |
 | [Brown Noise Focus](https://open.spotify.com/track/53ao8qZRILIaYrCEb5uItT) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Brown Noise Focus](https://open.spotify.com/album/6dbUVNFmB5AtXdYtyfkggZ) | 3:43 | 2022-03-18 |  |
 | [Brown Noise for a Focused Mind](https://open.spotify.com/track/13gIXjOdxY7T2zr8LB4tTy) | [Sweet Sol](https://open.spotify.com/artist/0nJCGnCYFNKjjgHnEaDyUu) | [Brown Noise Focus](https://open.spotify.com/album/6YwdavdsK0jwik4woVUKL3) | 3:42 | 2022-05-20 |  |
+| [Brown Noise for Better Sleep](https://open.spotify.com/track/4fnyF3j4XSBUJAAlmCjM2F) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Brown Noise Schlafhilfe](https://open.spotify.com/album/4mYmS6LT3kzgaZmFyU8lRz) | 3:40 | 2022-08-12 |  |
 | [Brown Noise for Better Sleep](https://open.spotify.com/track/0zRljXSN8JP6KgeSWQnrk6) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Better Sleep](https://open.spotify.com/album/1aUqotTrYhLBmYmAAZ54DB) | 3:40 | 2022-07-29 |  |
 | [Brown Noise for Relaxing](https://open.spotify.com/track/0bohmotsrCFyZ4Wfouo7CV) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Sleeping Brown Noise](https://open.spotify.com/album/7umltGSpruiFHUJUxQJLlf) | 3:43 | 2022-06-14 |  |
 | [Brown Noise for Sleepy Eyes](https://open.spotify.com/track/0wLaPda0ARSiifV6YWrKzk) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Sleepy Eyes](https://open.spotify.com/album/5MrGxKyGm5EbXn9APxh7u2) | 3:12 | 2022-01-07 |  |
@@ -94,6 +95,7 @@
 | [Brown Sleep Noise](https://open.spotify.com/track/5UBonaClAZVfzxJNn8nnhh) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Brown Sleep Noise](https://open.spotify.com/album/2NEpp4wrvFoeL3isMKpyXr) | 4:08 | 2022-01-07 |  |
 | [Brown Wave Noise](https://open.spotify.com/track/0jLkaTUZXxDOSsFV1MdsHe) | [Wavelength Minds](https://open.spotify.com/artist/1XqT7nMi7H4WDGdzurdh0r) | [White Wave Noise](https://open.spotify.com/album/5wQmjZe4pXY44196xqidMV) | 2:28 | 2022-01-07 |  |
 | [Calming Brown Noise Flow](https://open.spotify.com/track/7huPpwlgmAraLo2Cgp2OVJ) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Relaxing Brown Noise Frequencies](https://open.spotify.com/album/0qk5cjVlzTT0edDWeJwI6P) | 3:35 | 2022-06-14 |  |
+| [Calming Brown Noise Stream](https://open.spotify.com/track/4L7NIjyM8DJSUff3vMgFid) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Brown Noise Schlafhilfe](https://open.spotify.com/album/4mYmS6LT3kzgaZmFyU8lRz) | 3:38 | 2022-08-12 |  |
 | [Children Sleep Brown Noise](https://open.spotify.com/track/4etZ4h4qNeYRFJrYqaSQqw) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Sleep Ambient Brown Noise](https://open.spotify.com/album/5rzrTfIsPGRKhbABABV9kT) | 2:44 | 2022-07-29 |  |
 | [Children's Brown Noise](https://open.spotify.com/track/6wffjjTQR9b6d2OFGlMPkS) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Chill with Brown Noise](https://open.spotify.com/album/6RjPRT1OYgQzXRJxbljbS9) | 3:39 | 2022-06-27 |  |
 | [City Sleep](https://open.spotify.com/track/4JM6SPP4klfw5guc4U78Bp) | [Sleepy Parents](https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj) | [Time for Bed](https://open.spotify.com/album/1v34jK6eEwiQIR9P590O0V) | 3:44 | 2022-01-07 |  |

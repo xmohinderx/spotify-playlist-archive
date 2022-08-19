@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 229025,
       "name": "Garden Party",
       "url": "https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC"
@@ -2570,6 +2570,24 @@
     },
     {
       "album": {
+        "name": "Room Thirteen",
+        "url": "https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC"
+      },
+      "artists": [
+        {
+          "name": "Thin Blue Collective",
+          "url": "https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375385,
+      "name": "LMKWYGH",
+      "url": "https://open.spotify.com/track/2wiIWQzSZ06GbgkABk4pT6"
+    },
+    {
+      "album": {
         "name": "Secret Night Gang",
         "url": "https://open.spotify.com/album/7uepmRsBVVSXRvIxSPTtlX"
       },
@@ -3334,6 +3352,32 @@
     },
     {
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5uNrGZI72mYSGfkZezMOJ4"
+      },
+      "artists": [
+        {
+          "name": "Joel Baker",
+          "url": "https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY"
+        },
+        {
+          "name": "Flores",
+          "url": "https://open.spotify.com/artist/7gjUyv57FGMKDu9agyqW1Z"
+        },
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205451,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/44VAnzcCk8Lwd8eUM0ac4W"
+    },
+    {
+      "album": {
         "name": "STRANDED",
         "url": "https://open.spotify.com/album/0kIXakNYZLaMNrPx5VsXOp"
       },
@@ -3465,7 +3509,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 226160,
       "name": "Panic Attacks",
       "url": "https://open.spotify.com/track/0bdqJCVf0hsMTMtwDCOTpZ"
@@ -4025,7 +4069,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 159280,
       "name": "Solar",
       "url": "https://open.spotify.com/track/3oLuxFWxjCYggpX5MfLXCD"
@@ -4721,7 +4765,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 137546,
       "name": "The Room",
       "url": "https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa"
@@ -5257,7 +5301,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 197557,
       "name": "What We Doing And Where Are We Going? (WWDAWAWG)",
       "url": "https://open.spotify.com/track/6I48rUzAuYyzyosj5y6heT"
@@ -5491,6 +5535,32 @@
       "duration_ms": 224459,
       "name": "Woof - Kan Sano Remix",
       "url": "https://open.spotify.com/track/1Lx9LCHfi0UZ9faIyjCGa2"
+    },
+    {
+      "album": {
+        "name": "World's End",
+        "url": "https://open.spotify.com/album/4TdMgCC9A81JzD2BTfsczk"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "5lack",
+          "url": "https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306907,
+      "name": "World's End",
+      "url": "https://open.spotify.com/track/30n0Z8l9uTkKCQemxDzTnJ"
     },
     {
       "album": {

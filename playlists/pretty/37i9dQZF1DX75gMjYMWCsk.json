@@ -1,12 +1,12 @@
 {
   "description": "Explore the unforgettable melodies of the greatest LGBTQ+ composers. Cover: <a href=\"spotify:artist:2vObsQCPsbVfkqHlQOu2zc\">Nico Muhly</a>",
-  "num_followers": 27852,
+  "num_followers": 27867,
   "original_name": "Queer Composers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNjM1NTAyNSwwMDAwMDAwMDA1ZjJmOGNmYjY2ZjkyMzY5YzRiZDU3OTIzODE2YWE3",
+  "snapshot_id": "MTYyNjM1NTAyNSwwMDAwMDAwMDc5YTBjNmIxYTBlMWJiNWZhMThlNWU2OGU4ZDRkMTkw",
   "tracks": [
     {
       "added_at": "2021-06-01 06:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-06-01 06:00:00",
       "album": {
+        "name": "Master and Commander: The Far Side of the World (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/5fLuOsktnBxI1VpMaFR4B6"
+      },
+      "artists": [
+        {
+          "name": "Christopher Gordon",
+          "url": "https://open.spotify.com/artist/2ysZkdT4RS1FePKkpQ0rKC"
+        }
+      ],
+      "duration_ms": 115600,
+      "name": "Concerto Grosso in G Minor, Op. 6, No. 8, \"Christmas Concerto\" - Arr. Iva Davies, Christopher Gordon & Richard Tognetti: Adagio",
+      "url": "https://open.spotify.com/track/22uTdMUy6Q8bLcyHxM82RX"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
         "name": "The Essential Handel",
         "url": "https://open.spotify.com/album/1MwHHEnhgkb07HA5Av42m6"
       },
@@ -403,6 +419,34 @@
       "duration_ms": 543000,
       "name": "Concerto for Piano and Orchestra: II. Molto lente e tranquillo",
       "url": "https://open.spotify.com/track/0xcQfKQUO94garOiuAMtkz"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Britten: Partsongs; Hymn To The Virgin; Missa Brevis",
+        "url": "https://open.spotify.com/album/5i78Iu127djkz94ATCDbtm"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "The Elizabethan Singers",
+          "url": "https://open.spotify.com/artist/14mtDotEOmAK0UEZb97YLr"
+        },
+        {
+          "name": "Wilfrid Parry",
+          "url": "https://open.spotify.com/artist/5KB7bLX2UkSmR6JTPen3u1"
+        },
+        {
+          "name": "Louis Halsey",
+          "url": "https://open.spotify.com/artist/3BkrqG63V22qXidbqHLXAq"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "The Salley Gardens",
+      "url": "https://open.spotify.com/track/5YqG5AAPuvWbr13ySUgH9C"
     },
     {
       "added_at": "2021-06-01 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,993 likes - 49 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,021 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 45 | [If You Only Knew](https://open.spotify.com/track/1xfqHOTSdVSwzlty8qcdgc) | [André K Barrow](https://open.spotify.com/artist/4Ldcu5W8LWs5jUYbI0ZGiZ), [Niki Carless](https://open.spotify.com/artist/2sEB8jCfYOGYh5IeNwiNJk) | [If You Only Knew](https://open.spotify.com/album/1EDDMhz2KDeBiqGWw2c05x) | 3:38 |
 | 46 | [How Deep the Father's Love for Us](https://open.spotify.com/track/5X1ty3YswK6QwHYzg58pKO) | [Jeremy Moore](https://open.spotify.com/artist/6ENcD6rUAiliA2XXi0PY4d) | [How Deep the Father's Love for Us](https://open.spotify.com/album/3d4R9BzQa1qklEvw4elM0Z) | 3:11 |
 | 47 | [I feel you](https://open.spotify.com/track/3VhgxVfFdhN9acDTwaxf5D) | [Trigo](https://open.spotify.com/artist/27C9nRPcL8knUGGww20rW1), [Black Dillinger](https://open.spotify.com/artist/6MPyzSI31XLs2GWVXD5sr7) | [I feel you](https://open.spotify.com/album/48sBFXGpXfS9di0zhB0tc8) | 3:33 |
-| 48 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3O6HQpzeISpCmZ476CbEz5) | [Natalie Forteza](https://open.spotify.com/artist/79TkkUwYexkd0sUjSpfV2l) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/3RBcORvG8ZbTDOGCpaG2G4) | 3:51 |
-| 49 | [Let Me Find Thee](https://open.spotify.com/track/0UodTBf4fjeCEnbTlxLomd) | [Matthew Smith](https://open.spotify.com/artist/5KIdsYHVdOsekNYNValNzK) | [Let Me Find Thee](https://open.spotify.com/album/1GbrKGOpocbsdvzckBqHDe) | 4:01 |
+| 48 | [You](https://open.spotify.com/track/47lIVr8eSuHOQbduo1YvtA) | [Happi](https://open.spotify.com/artist/0YbBm6H6QlKoGl7igoxB34) | [You](https://open.spotify.com/album/4AuUKEWGgTIUQyTeUCDzud) | 3:26 |
+| 49 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3O6HQpzeISpCmZ476CbEz5) | [Natalie Forteza](https://open.spotify.com/artist/79TkkUwYexkd0sUjSpfV2l) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/3RBcORvG8ZbTDOGCpaG2G4) | 3:51 |
+| 50 | [Let Me Find Thee](https://open.spotify.com/track/0UodTBf4fjeCEnbTlxLomd) | [Matthew Smith](https://open.spotify.com/artist/5KIdsYHVdOsekNYNValNzK) | [Let Me Find Thee](https://open.spotify.com/album/1GbrKGOpocbsdvzckBqHDe) | 4:01 |
 
-Snapshot ID: `MTYxMzExODkyOSwwMDAwMDAwMGVmZDc1YWVmZWUwZDEyMGI5NWJhMjA4MzI5NDFkNTQ2`
+Snapshot ID: `MTYxMzExODkyOSwwMDAwMDAwMGRmMjNiNzM1MzhkMzNhZmFmMjhjNmY2ZmY0ZWQ4ZTQ1`

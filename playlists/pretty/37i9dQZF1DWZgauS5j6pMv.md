@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Dabeull
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,910 likes - 99 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,126 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 98 | [Funk Olympics](https://open.spotify.com/track/7v1WsgCocJ5tLwDXqllQ8n) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Funk Olympics](https://open.spotify.com/album/3agMx8gTl9bBWasc3sbSo9) | 3:18 |
 | 99 | [Mélange](https://open.spotify.com/track/3KSJHjEiC5G0xcYEGr9oLU) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Mélange](https://open.spotify.com/album/70ayx5Ku8J56Hw12VhrQ34) | 2:54 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMGM2OTEzZmQxNjM5NzFhMTJhM2YzOGM5YTg3MmU3NzA1`
+Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMGI0YmE0ZGI4YzA5NDgwMGVhN2YxYWUxZmU0NmNjMzdl`

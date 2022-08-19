@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: The Weeknd",
-  "num_followers": 162430,
+  "num_followers": 162496,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDE5MzIwMCwwMDAwMDAwMDQ3MWZkYzVlZWNhNzViNmFmMjE2OWM0N2E4NmYyN2E0",
+  "snapshot_id": "MTY2MDE5MzIwMCwwMDAwMDAwMDJlNGE5ZTNjM2ExNTAwZjJhMzlhZjEyNTcyOTZmODk0",
   "tracks": [
     {
       "added_at": "2022-08-11 04:46:40",
@@ -1855,6 +1855,26 @@
     {
       "added_at": "2022-08-11 04:46:40",
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd"
+    },
+    {
+      "added_at": "2022-08-11 04:46:40",
+      "album": {
         "name": "Chixtape 5",
         "url": "https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f"
       },
@@ -1871,22 +1891,6 @@
       "duration_ms": 233546,
       "name": "Jerry Sprunger (with T-Pain)",
       "url": "https://open.spotify.com/track/6JsHgIkMYHcbNtKfsal2Mg"
-    },
-    {
-      "added_at": "2022-08-11 04:46:40",
-      "album": {
-        "name": "WE (Warm Embrace)",
-        "url": "https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 234966,
-      "name": "WE (Warm Embrace)",
-      "url": "https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7"
     },
     {
       "added_at": "2022-08-11 04:46:40",

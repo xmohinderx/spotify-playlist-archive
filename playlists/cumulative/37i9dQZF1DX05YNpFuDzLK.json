@@ -808,6 +808,42 @@
     },
     {
       "album": {
+        "name": "\u77b3\u30ce\u7ffc",
+        "url": "https://open.spotify.com/album/3VZC8ZQhXC0ssXkXG3SjmR"
+      },
+      "artists": [
+        {
+          "name": "access",
+          "url": "https://open.spotify.com/artist/3lm6JsSicTww5h33Yvee1H"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212760,
+      "name": "\u77b3\u30ce\u7ffc",
+      "url": "https://open.spotify.com/track/1WsJa8gcDaN98fKWjkzACu"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30df\u30f3\u30b0\u30b9",
+        "url": "https://open.spotify.com/album/3cUiVzXIOabDLPvZQpIwrx"
+      },
+      "artists": [
+        {
+          "name": "Jinn",
+          "url": "https://open.spotify.com/artist/1ve6qu9hbhEB8BMQwBUzYf"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182986,
+      "name": "\u89e3\u8aad\u4e0d\u80fd",
+      "url": "https://open.spotify.com/track/7qmHiAnigN9lTQK4KhwSkF"
+    },
+    {
+      "album": {
         "name": "\u8d64\u3060\u3051\u304c\u8db3\u308a\u306a\u3044",
         "url": "https://open.spotify.com/album/1wYav487ZMFUiun6Yorv0n"
       },

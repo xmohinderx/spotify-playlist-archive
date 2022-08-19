@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the career of one of the most influential <a href=\"spotify:artist:1mFX1QlezK1lNPKQJkhwWb\">R&B groups</a> of all time.",
-  "num_followers": 117713,
+  "num_followers": 117751,
   "original_name": "This Is New Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTUzNjA3NzU2NSwwMDAwMDAwMDM4YzYzYTMzYzcxMDBhMGI5YTQ2ZjUzY2RiOWFlYTll",
+  "snapshot_id": "MTUzNjA3NzU2NSwwMDAwMDAwMDk3ODU1MWQ1N2UxOTQ5YzZiOTI5YTg2Y2MwOWI0MWY4",
   "tracks": [
     {
       "added_at": "2018-09-04 16:12:45",
@@ -155,6 +155,26 @@
     {
       "added_at": "2018-09-04 16:12:45",
       "album": {
+        "name": "Home Again (Expanded)",
+        "url": "https://open.spotify.com/album/47UpM3ohwbbKXUTNYJiFXG"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "You Don't Have To Worry - Vocal Version",
+      "url": "https://open.spotify.com/track/2DWlTA5EAJbUUrAk49bL1B"
+    },
+    {
+      "added_at": "2018-09-04 16:12:45",
+      "album": {
         "name": "Greatest Hits-Volume One",
         "url": "https://open.spotify.com/album/2e3HFWHDOJxTni9FmLQuiw"
       },
@@ -263,6 +283,22 @@
       "duration_ms": 264440,
       "name": "Let's Be Friends",
       "url": "https://open.spotify.com/track/2qbsGKUcvUsEUzC7vgReEj"
+    },
+    {
+      "added_at": "2018-09-04 16:12:45",
+      "album": {
+        "name": "Under The Blue Moon",
+        "url": "https://open.spotify.com/album/0bywQIdZTfpmA0oH8eeGox"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "Earth Angel",
+      "url": "https://open.spotify.com/track/3I15aAUDMqQ617oQTcvxMD"
     },
     {
       "added_at": "2018-09-04 16:12:45",
@@ -655,6 +691,22 @@
     {
       "added_at": "2018-09-04 16:12:45",
       "album": {
+        "name": "Ultimate Collection: Johnny Gill",
+        "url": "https://open.spotify.com/album/3uhHV5Q8vnQiaSc7TqpEDM"
+      },
+      "artists": [
+        {
+          "name": "Johnny Gill",
+          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
+        }
+      ],
+      "duration_ms": 255933,
+      "name": "Half Crazy",
+      "url": "https://open.spotify.com/track/0NIpujQwZJP4iRFQZ8UhHx"
+    },
+    {
+      "added_at": "2018-09-04 16:12:45",
+      "album": {
         "name": "Johnny Gill",
         "url": "https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC"
       },
@@ -683,6 +735,22 @@
       "duration_ms": 321906,
       "name": "My, My, My",
       "url": "https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI"
+    },
+    {
+      "added_at": "2018-09-04 16:12:45",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/5tUxUjoNFAocBJMJjYc7EO"
+      },
+      "artists": [
+        {
+          "name": "Johnny Gill",
+          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
+        }
+      ],
+      "duration_ms": 315226,
+      "name": "There U Go",
+      "url": "https://open.spotify.com/track/2ktjSreVH3T7598zGwBC56"
     }
   ],
   "unique_name": "This Is New Edition",

@@ -1,12 +1,12 @@
 {
   "description": "Listen to Indian women, at full volume. Cover: Neeti Mohan",
-  "num_followers": 19024,
+  "num_followers": 19088,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUwNzYxNCwwMDAwMDAwMDQ1MzhiMGUzYTFiYzQ3YWRlOTIzOGQ5YmM0ZGUxMTcx",
+  "snapshot_id": "MTY1OTUwNzYxNCwwMDAwMDAwMGZjYTk1OTAxYTc4ZjA4ODhiYTU2YWEyODkyZDVjNmJh",
   "tracks": [
     {
       "added_at": "2022-08-03 06:20:14",
@@ -811,6 +811,42 @@
     {
       "added_at": "2022-08-03 06:20:14",
       "album": {
+        "name": "Bajirao Mastani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1fkasXpHNnNfgs3iByPoQc"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Ganesh Chandanshive",
+          "url": "https://open.spotify.com/artist/59fYphinaqBfGBtrQ4p9Hv"
+        },
+        {
+          "name": "Mujtaba Aziz Naza",
+          "url": "https://open.spotify.com/artist/2yxX2XZyWVBpVX3pNaG0UF"
+        },
+        {
+          "name": "Shadab Faridi",
+          "url": "https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        },
+        {
+          "name": "Farhan Sabri",
+          "url": "https://open.spotify.com/artist/2S7i3wOcMLQHH6DwcMHrG9"
+        }
+      ],
+      "duration_ms": 340232,
+      "name": "Deewani Mastani (From \"Bajirao Mastani\")",
+      "url": "https://open.spotify.com/track/7IP72Pw6reOTDZrpLVtOFT"
+    },
+    {
+      "added_at": "2022-08-03 06:20:14",
+      "album": {
         "name": "Atrangi Re",
         "url": "https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm"
       },
@@ -875,6 +911,26 @@
       "duration_ms": 256678,
       "name": "Yaad Piya Ki Aane Lagi",
       "url": "https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF"
+    },
+    {
+      "added_at": "2022-08-03 06:20:14",
+      "album": {
+        "name": "Pinga (From \"Bajirao Mastani\")",
+        "url": "https://open.spotify.com/album/7tuED48YasDaTCKYBc1KUy"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Vaishali Made",
+          "url": "https://open.spotify.com/artist/3eD8Whpe2NYdslFWQfKnQl"
+        }
+      ],
+      "duration_ms": 255169,
+      "name": "Pinga (From \"Bajirao Mastani\")",
+      "url": "https://open.spotify.com/track/0zEc0X8eKTfoiIqW77ugyB"
     },
     {
       "added_at": "2022-08-03 06:20:14",

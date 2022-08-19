@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30bd\u30f3\u754c\u3092\u4ee3\u8868\u3059\u308b\u4f5c\u8a5e\u5bb6\u3068\u3057\u3066\u3001\u69d8\u3005\u306a\u4f5c\u54c1\u306e\u30d5\u30a1\u30f3\u3092\u9b45\u4e86\u3057\u3066\u304d\u305f\u7551 \u4e9c\u8cb4\u3002\u591a\u5f69\u306a\u4f5c\u98a8\u3067\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3001\u4f5c\u66f2\u5bb6\u3001\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9\u30c1\u30fc\u30e0\u300cQ-MHz\u300d\u30e1\u30f3\u30d0\u30fc\u3068\u3057\u3066\u3082\u6d3b\u8e8d\u4e2d\u3002",
-  "num_followers": 1465,
+  "num_followers": 1477,
   "original_name": "\u7551 \u4e9c\u8cb4 Works",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM4NjE2MSwwMDAwMDAwMDE0MzliN2Q2NDFlODU3OTc2MWNkNDk1Yjc3OWEwZWVh",
+  "snapshot_id": "MTY0OTM4NjE2MSwwMDAwMDAwMDBhN2EzYmVkNDg1MmY5NjIxMTM4YjRlY2NkNGQyMjNk",
   "tracks": [
     {
       "added_at": "2022-04-08 02:49:21",
@@ -159,6 +159,22 @@
       "duration_ms": 242426,
       "name": "\u6b63\u89e3\u306f\u3072\u3068\u3064!\u3058\u3083\u306a\u3044!!",
       "url": "https://open.spotify.com/track/3slLs4vWwt1aWW8PkFdSmO"
+    },
+    {
+      "added_at": "2022-04-08 02:49:21",
+      "album": {
+        "name": "\u82b1\u30cf\u8e0a\u30ec\u30e4\u3044\u308d\u306f\u306b\u307b",
+        "url": "https://open.spotify.com/album/6KqK4ORYe2KvTXbIoTlvoj"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30fc\u30e0\u201c\u30cf\u30ca\u30e4\u30de\u30bf\u201d",
+          "url": "https://open.spotify.com/artist/099PpAOXjE1xbE6gN7214P"
+        }
+      ],
+      "duration_ms": 250333,
+      "name": "\u82b1\u30cf\u8e0a\u30ec\u30e4\u3044\u308d\u306f\u306b\u307b",
+      "url": "https://open.spotify.com/track/7DGlPJwVQY3INApfDS0l8P"
     },
     {
       "added_at": "2022-04-08 02:49:21",
@@ -431,6 +447,22 @@
       "duration_ms": 370293,
       "name": "\u3075\u305f\u308a\u30cf\u30d4\u30cd\u30b9",
       "url": "https://open.spotify.com/track/1bREyD3RVvhVzx87miKQH2"
+    },
+    {
+      "added_at": "2022-04-08 02:49:21",
+      "album": {
+        "name": "\u84bc\u3044\u751f\u547d",
+        "url": "https://open.spotify.com/album/3NHgyxIWN5N5xA42fxTG2F"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Moriguchi",
+          "url": "https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "\u661f\u3088\u308a\u5148\u306b\u898b\u3064\u3051\u3066\u3042\u3052\u308b",
+      "url": "https://open.spotify.com/track/4JfFC0KteCysB94ooYSbli"
     },
     {
       "added_at": "2022-04-08 02:49:21",

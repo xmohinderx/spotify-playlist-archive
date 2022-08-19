@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Ozuna, Tokischa
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,424 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,559 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 42 | [diablo](https://open.spotify.com/track/0lU75AvCnRHRFvmby7UrYf) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [diablo](https://open.spotify.com/album/7D8EJStZyNPOVdjExSuf5H) | 3:29 |
 | 43 | [2:00 AM](https://open.spotify.com/track/1Ggq4JgcpwkPG0dV7bR04y) | [Medicensanto](https://open.spotify.com/artist/1bggGBhvZxsRUVLK6Gdbax) | [2:00 AM](https://open.spotify.com/album/4aYnmdAABxYzxaQL2lqDPT) | 2:15 |
 | 44 | [Nena De Casa](https://open.spotify.com/track/05MDFoOYSTe7IUIg4JZJeq) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg) | [La Dulce y Ruda Melodía](https://open.spotify.com/album/2cdK1Vrxe6zO9ZOsrmFhnB) | 2:41 |
-| 45 | [Confundida](https://open.spotify.com/track/6bTzVDkquLTnPhaBHL89pf) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Confundida](https://open.spotify.com/album/3qh2ZmXjrgtuPrEnyGkdqp) | 2:32 |
-| 46 | [Vamos pa' la Calle](https://open.spotify.com/track/6wYg8famUEPTy5T0GW88Ss) | [TGO](https://open.spotify.com/artist/60Qd4MNKoo1o3LwysjFVPV), [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei) | [Vamos pa' la Calle](https://open.spotify.com/album/78ve7Z6x8WDVxoR6oUetPZ) | 2:27 |
+| 45 | [Vamos pa' la Calle](https://open.spotify.com/track/6wYg8famUEPTy5T0GW88Ss) | [TGO](https://open.spotify.com/artist/60Qd4MNKoo1o3LwysjFVPV), [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei) | [Vamos pa' la Calle](https://open.spotify.com/album/78ve7Z6x8WDVxoR6oUetPZ) | 2:27 |
+| 46 | [Confundida](https://open.spotify.com/track/6bTzVDkquLTnPhaBHL89pf) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Confundida](https://open.spotify.com/album/3qh2ZmXjrgtuPrEnyGkdqp) | 2:32 |
 | 47 | [Mata](https://open.spotify.com/track/0T4MMlCKhE4vUPAWGdIEF0) | [Rafa](https://open.spotify.com/artist/1lR1G0ROsMGhaJ9wBQqwsh) | [Mata](https://open.spotify.com/album/3o0IVVfIDCT6QjayNaEPRB) | 2:21 |
 | 48 | [ME SIENTO FELIZ](https://open.spotify.com/track/3ejGPL3ZvGPjl2QutLRdae) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [ME SIENTO FELIZ](https://open.spotify.com/album/4IyZFTHWLcw8Sng47OMRR1) | 2:01 |
 | 49 | [Sin Pena](https://open.spotify.com/track/1zyM7lBUZgGwZ4umEB5Pzk) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Sin Pena](https://open.spotify.com/album/4E8m3FYdXGNVB4mofcKtji) | 3:03 |
 | 50 | [PERREO SAZÓN](https://open.spotify.com/track/78gfw117ev5RVa8QqWLQxy) | [Keesed](https://open.spotify.com/artist/60p7d9VaIYdxN5XoYJshER) | [PERREO SAZÓN](https://open.spotify.com/album/4OEFpYzzGfzaZwGDDYH7n9) | 3:09 |
 
-Snapshot ID: `MTY2MDIzNDUwOCwwMDAwMDAwMGFiMTRiNDg1NWJlM2NhOWE3NThlZDQ0MWI5Y2IxNTEz`
+Snapshot ID: `MTY2MDIzNDUwOCwwMDAwMDAwMDNmMDMxNzUyNGFkNmY4YTc4NDI5YTM4YjZhODM5YTQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwPz6HmZIAM.md) - [plain]
 
 > スリーピースバンドの枠から自らを意識的に解き放ち、激しくも繊細な音世界を表現し続けるTK from 凛として時雨の軌跡がここに。Immerse yourself in the kaleidoscope world of TK from Ling tosite sigure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,492 likes - 47 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,527 likes - 52 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,18 +42,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwPz6HmZIAM.md) - [plain]
 | 32 | [memento](https://open.spotify.com/track/29rJJAMbK5cBor6pHDrKnm) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [katharsis](https://open.spotify.com/album/3Tpt5tvJSeZt48A3YGCCWG) | 6:32 |
 | 33 | [unravel \- From THE FIRST TAKE](https://open.spotify.com/track/53nxxs5TExYLs9KNg9GjtZ) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [yesworld](https://open.spotify.com/album/4A2NrqV5j1K4oeNjRswRFo) | 4:15 |
 | 34 | [copy light](https://open.spotify.com/track/2vY4AiPu6F9BtYvrZle8oi) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [彩脳](https://open.spotify.com/album/0h6STiVild97zVGC7h2TZ4) | 5:01 |
-| 35 | [an artist](https://open.spotify.com/track/4qyrJzQF0YecpeRzXMWrfW) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:01 |
-| 36 | [Spiral Parade](https://open.spotify.com/track/0PN2WHavM70GW8dnPoddfV) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:14 |
-| 37 | [ear+f](https://open.spotify.com/track/0dZh2pmSVi0UsxApSRbFJb) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Secret Sensation](https://open.spotify.com/album/2wfOpJknCbVVyCvA7KBDZI) | 4:39 |
-| 38 | [12th laser](https://open.spotify.com/track/6Pjpo31BQGAy9EhudIodGl) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 2:38 |
-| 39 | [copy light \- From THE FIRST TAKE](https://open.spotify.com/track/4G1N54yYTsW7VlWFkh5Gb1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [yesworld](https://open.spotify.com/album/4A2NrqV5j1K4oeNjRswRFo) | 5:06 |
-| 40 | [tokio](https://open.spotify.com/track/5KD9F02pDxIZVm1RGSXMNT) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:42 |
-| 41 | [インフィクション](https://open.spotify.com/track/5gZHJL1ldiCKTMN79yIsjN) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [彩脳](https://open.spotify.com/album/0h6STiVild97zVGC7h2TZ4) | 5:01 |
-| 42 | [subliminal](https://open.spotify.com/track/2LGdi0PoqK8GaHXZcJnWoe) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Secret Sensation](https://open.spotify.com/album/2wfOpJknCbVVyCvA7KBDZI) | 4:20 |
-| 43 | [Abnormal trick](https://open.spotify.com/track/1f6WPbCKnYzRwrovABDz2Z) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 4:01 |
-| 44 | [reframe](https://open.spotify.com/track/3hLcBOoYcl0G8guzhgBOQ5) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [彩脳](https://open.spotify.com/album/0h6STiVild97zVGC7h2TZ4) | 4:10 |
-| 45 | [fragile](https://open.spotify.com/track/3Zp85gotRBHjqkEfJ0sQ0q) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:08 |
-| 46 | [fourth](https://open.spotify.com/track/1pnQ4KFFScTV4HalmIleIv) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 4:28 |
-| 47 | [daylily](https://open.spotify.com/track/5gfJrXcpdoLUJvzU4wb2rS) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 2:35 |
+| 35 | [Wonder Palette](https://open.spotify.com/track/46MoTAe1CTaKcSMrc7b9W5) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [white noise](https://open.spotify.com/album/34labGdVwn1R0nDxYfuenC) | 5:03 |
+| 36 | [an artist](https://open.spotify.com/track/4qyrJzQF0YecpeRzXMWrfW) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:01 |
+| 37 | [white out](https://open.spotify.com/track/7yO02QOLDKrHepnYhc0vzB) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [white noise](https://open.spotify.com/album/34labGdVwn1R0nDxYfuenC) | 5:05 |
+| 38 | [Spiral Parade](https://open.spotify.com/track/0PN2WHavM70GW8dnPoddfV) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:14 |
+| 39 | [ear+f](https://open.spotify.com/track/0dZh2pmSVi0UsxApSRbFJb) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Secret Sensation](https://open.spotify.com/album/2wfOpJknCbVVyCvA7KBDZI) | 4:39 |
+| 40 | [Addictive Dancer](https://open.spotify.com/track/3aXtpvBkQIFyuXnjXFBDqV) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [white noise](https://open.spotify.com/album/34labGdVwn1R0nDxYfuenC) | 4:55 |
+| 41 | [12th laser](https://open.spotify.com/track/6Pjpo31BQGAy9EhudIodGl) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 2:38 |
+| 42 | [invalid phrase](https://open.spotify.com/track/5bVCBkCGVW8YJMzpdqCEhm) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [white noise](https://open.spotify.com/album/34labGdVwn1R0nDxYfuenC) | 5:36 |
+| 43 | [copy light \- From THE FIRST TAKE](https://open.spotify.com/track/4G1N54yYTsW7VlWFkh5Gb1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [yesworld](https://open.spotify.com/album/4A2NrqV5j1K4oeNjRswRFo) | 5:06 |
+| 44 | [tokio](https://open.spotify.com/track/5KD9F02pDxIZVm1RGSXMNT) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:42 |
+| 45 | [インフィクション](https://open.spotify.com/track/5gZHJL1ldiCKTMN79yIsjN) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [彩脳](https://open.spotify.com/album/0h6STiVild97zVGC7h2TZ4) | 5:01 |
+| 46 | [subliminal](https://open.spotify.com/track/2LGdi0PoqK8GaHXZcJnWoe) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Secret Sensation](https://open.spotify.com/album/2wfOpJknCbVVyCvA7KBDZI) | 4:20 |
+| 47 | [Abnormal trick](https://open.spotify.com/track/1f6WPbCKnYzRwrovABDz2Z) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 4:01 |
+| 48 | [dead end complex](https://open.spotify.com/track/6aEOcDNb0PIXo21Rq0HlH9) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [white noise](https://open.spotify.com/album/34labGdVwn1R0nDxYfuenC) | 4:32 |
+| 49 | [reframe](https://open.spotify.com/track/3hLcBOoYcl0G8guzhgBOQ5) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [彩脳](https://open.spotify.com/album/0h6STiVild97zVGC7h2TZ4) | 4:10 |
+| 50 | [fragile](https://open.spotify.com/track/3Zp85gotRBHjqkEfJ0sQ0q) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:08 |
+| 51 | [fourth](https://open.spotify.com/track/1pnQ4KFFScTV4HalmIleIv) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 4:28 |
+| 52 | [daylily](https://open.spotify.com/track/5gfJrXcpdoLUJvzU4wb2rS) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 2:35 |
 
-Snapshot ID: `MTY0NzM1NjQwMCwwMDAwMDAwMGNjMDhiNjhjMmJhMGE5YjM2MTE2OWQ4Nzg5M2Q4NWY1`
+Snapshot ID: `MTY0NzM1NjQwMCwwMDAwMDAwMDY2YzhmNzI5ZTQ0YjU3MjFkYzVjMmQ2ZGVjM2I5MTA4`

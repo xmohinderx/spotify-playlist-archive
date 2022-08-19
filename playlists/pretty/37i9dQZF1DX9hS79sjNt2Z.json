@@ -1,12 +1,12 @@
 {
   "description": "Easter songs for the whole family.",
-  "num_followers": 650,
+  "num_followers": 651,
   "original_name": "Family Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNzk3OTE3OCwwMDAwMDAwMGU1ZDQxZWU1OTFhMTVkNTAyYzRjNDU4ZTM2N2UyMmIy",
+  "snapshot_id": "MTYxNzk3OTE3OCwwMDAwMDAwMDI5OTcxZTVjMWZlODNhYmQzODE5NTMwZjRjM2QyNWMy",
   "tracks": [
     {
       "added_at": "2021-03-24 21:32:54",
@@ -739,6 +739,22 @@
       "duration_ms": 264152,
       "name": "Amazing Grace (I've Got a Reason to Sing) [Kids Sing Version]",
       "url": "https://open.spotify.com/track/4g3rBwicdavvBNUzkes8BE"
+    },
+    {
+      "added_at": "2021-04-01 19:29:02",
+      "album": {
+        "name": "Who's Got Their Armor on?",
+        "url": "https://open.spotify.com/album/1RPZlI4oDUD0Z19l5Yygu4"
+      },
+      "artists": [
+        {
+          "name": "Bear Hug Band",
+          "url": "https://open.spotify.com/artist/1kQzG7wyzhyJeK8gF16ev5"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "Big Big Love",
+      "url": "https://open.spotify.com/track/1qv87sym5fmPyZ4Ndj7jPd"
     },
     {
       "added_at": "2021-04-01 19:29:02",

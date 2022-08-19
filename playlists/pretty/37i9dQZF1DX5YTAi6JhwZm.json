@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz to get you in a good mood.",
-  "num_followers": 117218,
+  "num_followers": 117262,
   "original_name": "Happy Jazz!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0MDAzMCwwMDAwMDAwMDk2MzVkOTY4Y2Q2MmJmZGQ1MzJiOWE1Nzc0Y2Q3MTY4",
+  "snapshot_id": "MTY2MDc0MDAzMCwwMDAwMDAwMDc5MGUzODgyYWM2ZjZkZjkzNmIzMDQxYTJkZmQ2NDU3",
   "tracks": [
     {
       "added_at": "2022-08-17 12:40:30",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-08-17 12:40:30",
       "album": {
+        "name": "The Spoiler",
+        "url": "https://open.spotify.com/album/63rHQl9dk72tduD5SXRjdS"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 364626,
+      "name": "The Magilla",
+      "url": "https://open.spotify.com/track/1kWrVpHACTz4Cy4OS7BaAi"
+    },
+    {
+      "added_at": "2022-08-17 12:40:30",
+      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -1415,6 +1431,26 @@
     {
       "added_at": "2022-08-17 12:40:30",
       "album": {
+        "name": "BD Music & Cabu Present Art Blakey",
+        "url": "https://open.spotify.com/album/7d7kA2hUa51ZzAwiKfZJbc"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey",
+          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+        },
+        {
+          "name": "The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/4oMI5jKhAOEg3T8HIY3HxI"
+        }
+      ],
+      "duration_ms": 258186,
+      "name": "The Preacher",
+      "url": "https://open.spotify.com/track/2ezZJ2KVatSh0m0ioXwtcv"
+    },
+    {
+      "added_at": "2022-08-17 12:40:30",
+      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
       },
@@ -1619,6 +1655,22 @@
       "duration_ms": 206440,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/4QWh5rzYlmp30SUZrw7Czk"
+    },
+    {
+      "added_at": "2022-08-17 12:40:30",
+      "album": {
+        "name": "Live in Paris",
+        "url": "https://open.spotify.com/album/1rNkK7VLotjAHOQJ08nQe1"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 542533,
+      "name": "The Chant (Live 1960)",
+      "url": "https://open.spotify.com/track/1mtO7k5FGRjlJmrM9nf5GH"
     },
     {
       "added_at": "2022-08-17 12:40:30",

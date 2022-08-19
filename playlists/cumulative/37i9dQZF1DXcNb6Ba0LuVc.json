@@ -786,6 +786,28 @@
     },
     {
       "album": {
+        "name": "Catch These Hands",
+        "url": "https://open.spotify.com/album/2zEBJxBoKNla0H1x1d8Foj"
+      },
+      "artists": [
+        {
+          "name": "Howden",
+          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
+        },
+        {
+          "name": "Clifford",
+          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Catch These Hands",
+      "url": "https://open.spotify.com/track/35NeUSMtoTziAlbdoq6bt0"
+    },
+    {
+      "album": {
         "name": "Celebrate You",
         "url": "https://open.spotify.com/album/6mur5z1CltJszyCwJFjLJx"
       },
@@ -1732,6 +1754,28 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/2FqmKUkGYBuudgPtF1X1eL"
+      },
+      "artists": [
+        {
+          "name": "Lucid Keys",
+          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
+        },
+        {
+          "name": "Fred Paci",
+          "url": "https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133050,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4wNhZBHX5nljSBTCbf4Z0x"
+    },
+    {
+      "album": {
         "name": "Golden Cat",
         "url": "https://open.spotify.com/album/7MT7vYU81W8E2Gff9muvfR"
       },
@@ -2471,7 +2515,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 105205,
       "name": "la donna e la chitarra",
       "url": "https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb"
@@ -2703,7 +2747,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 213936,
       "name": "Limited Time Only",
       "url": "https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA"
@@ -3082,6 +3126,24 @@
     },
     {
       "album": {
+        "name": "Mendihuaca",
+        "url": "https://open.spotify.com/album/6KzCs9xgIPVHBOp74MQwYm"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112215,
+      "name": "Mendihuaca",
+      "url": "https://open.spotify.com/track/5q4ftydiLHarJNRZ4AtHOO"
+    },
+    {
+      "album": {
         "name": "Midnight Set",
         "url": "https://open.spotify.com/album/1RX90FoRauEfhOjlmXSgZ0"
       },
@@ -3327,7 +3389,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 151714,
       "name": "New Home",
       "url": "https://open.spotify.com/track/60Yiz8GUOwA69ZpxJUBZIG"
@@ -3869,7 +3931,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 147529,
       "name": "Rain On Me",
       "url": "https://open.spotify.com/track/0XjBGhw51yUMQMZ8ftgJdr"
@@ -5065,7 +5127,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 163013,
       "name": "this wedding",
       "url": "https://open.spotify.com/track/26i9wgPx6AVjD2s4AgsJ5M"

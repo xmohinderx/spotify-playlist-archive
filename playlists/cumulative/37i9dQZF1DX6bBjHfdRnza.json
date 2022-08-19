@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 246511,
       "name": "Aint Useless",
       "url": "https://open.spotify.com/track/2CBS9f6LiatmHtN7S8Lgrw"
@@ -5374,6 +5374,24 @@
     },
     {
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/3cQ5YF4ZK4E7lrhBLBAHc9"
+      },
+      "artists": [
+        {
+          "name": "Fairbrother",
+          "url": "https://open.spotify.com/artist/7nCnDKl8A5fs3W0GwDhEIc"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274887,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5ky1N5AItID6Y1mOGlpL9x"
+    },
+    {
+      "album": {
         "name": "HEADSBASS VOLUME 9 - PART 3",
         "url": "https://open.spotify.com/album/16diJ3vx3ydssr1nsDDor7"
       },
@@ -5389,24 +5407,6 @@
       "duration_ms": 271217,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/4lMnXCUdpsjAhpBOEXktkI"
-    },
-    {
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/3cQ5YF4ZK4E7lrhBLBAHc9"
-      },
-      "artists": [
-        {
-          "name": "Fairbrother",
-          "url": "https://open.spotify.com/artist/7nCnDKl8A5fs3W0GwDhEIc"
-        }
-      ],
-      "date_added": "2022-08-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 274887,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/5ky1N5AItID6Y1mOGlpL9x"
     },
     {
       "album": {
@@ -9087,7 +9087,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"

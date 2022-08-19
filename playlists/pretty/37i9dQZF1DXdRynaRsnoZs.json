@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE3NDIzNiwwMDAwMDAwMGMyYjJhN2RmODlhN2ZiNDhhNTU1ZDRkMDJlYWMxMTVi",
+  "snapshot_id": "MTY0MDE3NDIzNiwwMDAwMDAwMGQwMGFhNzI2YTRmODM1MGZlM2Q5YmE4ZWQ4NzkxOWJk",
   "tracks": [
+    {
+      "added_at": "2021-12-22 11:57:16",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0yHBhRyRiqllCI9rRjGMfx"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3lykOhcfTlJmrlnVcXNpu0"
+    },
     {
       "added_at": "2021-12-22 11:57:16",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 204907,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/3sPnX1oNBvVfxf8NzhsZQf"
+    },
+    {
+      "added_at": "2021-12-22 11:57:16",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0pCLie2ziptu5IJwLPJzhI"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5RH7e8dotrJNLdfbDgXkxG"
     },
     {
       "added_at": "2021-12-22 11:57:16",
@@ -55,6 +87,22 @@
       "duration_ms": 155045,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5yP4hR7u50mtconpLCYNNe"
+    },
+    {
+      "added_at": "2021-12-22 11:57:16",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ"
     },
     {
       "added_at": "2021-12-22 11:57:16",
@@ -455,6 +503,38 @@
       "duration_ms": 148633,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/4VhASbTfw1zBh7kzMFtFAC"
+    },
+    {
+      "added_at": "2021-12-22 11:57:16",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0pUvAtUzuXKBAFTzuvxLcL"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1gGlPQjBUdJ7mTtcumuFjC"
+    },
+    {
+      "added_at": "2021-12-22 11:57:16",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7CrpddnQnNkNBQEAJ0ci6a"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa"
     },
     {
       "added_at": "2021-12-22 11:57:16",

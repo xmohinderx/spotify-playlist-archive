@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Halloween at home with these fun tracks",
-  "num_followers": 54437,
+  "num_followers": 54434,
   "original_name": "Trick or Treat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDA0OTA3MywwMDAwMDAwMGU3ZGU0NjgyZGE1NTk5YWU5ZmE5ODI2MGQ0YjJjNmZj",
+  "snapshot_id": "MTYzNDA0OTA3MywwMDAwMDAwMGMyN2Q1Nzk5YWE0MDcwYmRjZjc0MjU4NDU1NWQxYTVk",
   "tracks": [
     {
       "added_at": "2021-08-30 16:10:02",
@@ -939,6 +939,22 @@
       "duration_ms": 208173,
       "name": "Werewolves of London",
       "url": "https://open.spotify.com/track/2nmaEzFZrSm2aMLtfJDzyG"
+    },
+    {
+      "added_at": "2021-10-04 20:08:52",
+      "album": {
+        "name": "Everyday Is Halloween",
+        "url": "https://open.spotify.com/album/7J38JSeloioAyrcZtVV3Jm"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 116389,
+      "name": "Eeny Meeny Miny Monster",
+      "url": "https://open.spotify.com/track/0hYADFwp87tvEGJGsPPy7T"
     },
     {
       "added_at": "2021-09-10 16:47:26",

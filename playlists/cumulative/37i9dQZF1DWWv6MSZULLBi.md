@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-164 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+165 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Rivers Underground](https://open.spotify.com/track/3LYMan3y4v8iZLUqvwOXdJ) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Rivers Underground](https://open.spotify.com/album/1EeLU0ZjBdR8RdwsSxWTrM) | 6:34 | 2022-05-13 | 2022-06-25 |
 | [Robin](https://open.spotify.com/track/5Ma2vRYotanVRTZuhOguZM) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [Robin](https://open.spotify.com/album/68LVD0utr1na8Y0NOyH2h0) | 3:22 | 2022-05-13 |  |
 | [Rolling Stone](https://open.spotify.com/track/44QpElmFBK9jewAfK5osmc) | [Gert Taberner](https://open.spotify.com/artist/3Jy7XwrGPgOEq4OxRODWbf) | [Rolling Stone / New York](https://open.spotify.com/album/3FX5u4NRsdqBzG4D19yn4L) | 3:47 | 2022-05-13 | 2022-06-11 |
+| [Safe Flight \- Acoustic](https://open.spotify.com/track/2e8vuU33xtWNOPtPzCcDJa) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Safe Flight \(Acoustic\)](https://open.spotify.com/album/5oIF7vKLlB1trWhyCKIeul) | 3:59 | 2022-08-12 |  |
 | [Sailors](https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Sailors](https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7) | 4:01 | 2022-05-13 |  |
 | [Sapling](https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 4:17 | 2022-05-13 |  |
 | [Say You Will](https://open.spotify.com/track/01vJRC33O3RZS1dU5dUUJ6) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Say You Will](https://open.spotify.com/album/0QTvXpfQhqsCOTnC80oWgk) | 4:51 | 2022-05-13 | 2022-07-09 |

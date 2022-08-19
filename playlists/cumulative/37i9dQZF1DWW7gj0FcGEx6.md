@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-165 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+166 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Vengeance](https://open.spotify.com/track/2hj1c8CjQZVhz2xXp2FQ1a) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance](https://open.spotify.com/album/5VG8Za7HUfIlafQMYIDYf4) | 3:19 | 2022-07-29 |  |
 | [Video Games \- from "Westworld: Season 4"](https://open.spotify.com/track/18BWdMn9ZcOaXuepgpmQg9) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 4, Episodes 1\-3 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/7DQjEbNiFCXAZ9mEirk4bm) | 3:52 | 2022-07-22 | 2022-07-30 |
 | [Video Games \- from "Westworld: Season 4"](https://open.spotify.com/track/2zFhqeicX665k6vGPeTeDW) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Video Games \(from "Westworld: Season 4"\)](https://open.spotify.com/album/6Cv0IrQKQ7DQdl7PuykFdk) | 3:52 | 2022-07-01 | 2022-07-29 |
-| [Video Games \- from "Westworld: Season 4"](https://open.spotify.com/track/3ptbZSHZmj5CdcnPxcubBV) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 4, Episodes 1\-5 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/3NhQoYlPygH468YbYon6BC) | 3:52 | 2022-07-29 |  |
+| [Video Games \- from "Westworld: Season 4"](https://open.spotify.com/track/3ptbZSHZmj5CdcnPxcubBV) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 4, Episodes 1\-5 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/3NhQoYlPygH468YbYon6BC) | 3:52 | 2022-07-29 | 2022-08-19 |
+| [Video Games \- from "Westworld: Season 4"](https://open.spotify.com/track/4WbSUuY31KdjUOmnmANNUi) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 4 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/3EfF0Ull4AIq98w5Em5XMa) | 3:52 | 2022-07-29 |  |
 | [Waltz In F Major](https://open.spotify.com/track/28WUfHlQ8KRdcsKVufwa3Z) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Wolfgang Köhler](https://open.spotify.com/artist/1trugwgFZZlth3e6joLLNa), [Bene Aperdannier](https://open.spotify.com/artist/4Fng7TS6u0rz389XQciiQY) | [Pieces Of A Woman \(Music From The Netflix Film\)](https://open.spotify.com/album/4J7BlA688EifZvL91Dl5zs) | 2:11 | 2021-12-20 | 2022-07-09 |
 | [We Have a Voice Now](https://open.spotify.com/track/5Pw9LANvY864RneyP8uBUj) | [Jeff Beal](https://open.spotify.com/artist/4J71DltC2dxSTBO9kq14zS) | [Athlete A \(Music from the Netflix Documentary\)](https://open.spotify.com/album/6E1Of02DeUErt3qhGikmK1) | 3:05 | 2021-12-20 | 2022-07-09 |
 | [We Will Heal](https://open.spotify.com/track/0602EuPn3xAfSaX0Mz2IAE) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [She Will \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42OuXan0cgtOZsYZlFSXD5) | 3:27 | 2022-07-15 |  |

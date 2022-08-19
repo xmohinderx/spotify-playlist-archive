@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 
 > Querencia is here !
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,300 likes - 71 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,341 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,23 +61,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 | 51 | [Young In Love](https://open.spotify.com/track/4dIObSazv75psS0AX9z6ro) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 3:18 |
 | 52 | [Call It Love](https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 4:01 |
 | 53 | [Flourishing](https://open.spotify.com/track/5kbYgt4pAhKsmoQJGCj33x) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 3:15 |
-| 54 | [Whatcha Doin'](https://open.spotify.com/track/1kfEJ0w6qRZR9dIOWJGe0J) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Whatcha Doin'](https://open.spotify.com/album/5ZqrNpvlfW0qeZ6bDCjmaU) | 3:29 |
-| 55 | [It’s You](https://open.spotify.com/track/4V0I40WRUwS3by62lZdsfM) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Where Stars Land, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2IHpMfAjV0W0eCYT1rHHFQ) | 3:22 |
-| 56 | [BB](https://open.spotify.com/track/6rKSqNmZad9VPfCQGHPojb) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 1:17 |
-| 57 | [Cherry Kisses](https://open.spotify.com/track/0y4QB8wG2x2cNhyjajh7X0) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:14 |
-| 58 | [Drive](https://open.spotify.com/track/75h5JEOLUJzYH5836V3BQE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:16 |
-| 59 | [From Now On](https://open.spotify.com/track/3gNKQYq9kdTBWoqlGuDb6e) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:29 |
-| 60 | [Offset](https://open.spotify.com/track/1oAeGMfEUvJI2cdiG5vURo) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 1:09 |
-| 61 | [Do It](https://open.spotify.com/track/5CBL6eFkYZEr5MshEN3MmL) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:33 |
-| 62 | [Bad Boy](https://open.spotify.com/track/2lEmjaR8rQqsQqe6CLXtdz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:07 |
-| 63 | [Remind of You](https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 4:03 |
-| 64 | [Hands on Me](https://open.spotify.com/track/067hR2ouOr91wKoMKh1K9E) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 1:08 |
-| 65 | [Make a Wish](https://open.spotify.com/track/7sN4v0ElVmdvdTkjT23y16) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:05 |
-| 66 | [Cosmic Dust](https://open.spotify.com/track/5QxRlfnjp8ELreyz36iS5g) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:43 |
-| 67 | [Week](https://open.spotify.com/track/4banEKlbDsBOIvBDTssAf1) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Week](https://open.spotify.com/album/0i3GmrB7DW4keoTd53g3AP) | 3:22 |
-| 68 | [Week](https://open.spotify.com/track/4banEKlbDsBOIvBDTssAf1) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Week](https://open.spotify.com/album/0i3GmrB7DW4keoTd53g3AP) | 3:22 |
-| 69 | [Pit\-A\-Pat](https://open.spotify.com/track/2VI3BhUQPGgwFdkbnnZyEy) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Strong Woman Do Bong Soon, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7EL2MtMonriK4Tb2rh0IL5) | 3:30 |
-| 70 | [REMEDY](https://open.spotify.com/track/3BcVxAJ4Ok0zbQ6nsu1No4) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:21 |
-| 71 | [LALALA](https://open.spotify.com/track/1mW3V0DtbrEaUHgApt9Uql) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [LA VIDA LOCA](https://open.spotify.com/album/6rEdWTwLAfTNzSHSH7WHBi) | 3:34 |
+| 54 | [NA YEOSS EU MYEON](https://open.spotify.com/track/5VnJMPXdPc9p5arVZRHj8O) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [\[Vol.14\] You Hee yul's Sketchbook 10th Anniversary Project : 6th Voice 'Sketchbook X CHUNG HA'](https://open.spotify.com/album/7mVJtnGHJWeb5bCBPBx5Mx) | 4:19 |
+| 55 | [A REUM DA UN I BYEOL](https://open.spotify.com/track/5dcRsgrAojHRlS0BFpmbdj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [\[Vol.13\] You Hee yul's Sketchbook 10th Anniversary Project : 6th Voice 'Sketchbook X CHUNG HA'](https://open.spotify.com/album/5ramYGPYBoUgDzQHUml7xa) | 3:25 |
+| 56 | [Whatcha Doin'](https://open.spotify.com/track/1kfEJ0w6qRZR9dIOWJGe0J) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Whatcha Doin'](https://open.spotify.com/album/5ZqrNpvlfW0qeZ6bDCjmaU) | 3:29 |
+| 57 | [It’s You](https://open.spotify.com/track/4V0I40WRUwS3by62lZdsfM) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Where Stars Land, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2IHpMfAjV0W0eCYT1rHHFQ) | 3:22 |
+| 58 | [BB](https://open.spotify.com/track/6rKSqNmZad9VPfCQGHPojb) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 1:17 |
+| 59 | [Cherry Kisses](https://open.spotify.com/track/0y4QB8wG2x2cNhyjajh7X0) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:14 |
+| 60 | [Drive](https://open.spotify.com/track/75h5JEOLUJzYH5836V3BQE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:16 |
+| 61 | [From Now On](https://open.spotify.com/track/3gNKQYq9kdTBWoqlGuDb6e) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:29 |
+| 62 | [How about you](https://open.spotify.com/track/31vk0g0BrHazdDVN3IP76u) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Luvpub OST Part.3](https://open.spotify.com/album/0OsxPl82DJAyCJDKHzgTx7) | 3:19 |
+| 63 | [Offset](https://open.spotify.com/track/1oAeGMfEUvJI2cdiG5vURo) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 1:09 |
+| 64 | [Do It](https://open.spotify.com/track/5CBL6eFkYZEr5MshEN3MmL) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:33 |
+| 65 | [Bad Boy](https://open.spotify.com/track/2lEmjaR8rQqsQqe6CLXtdz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:07 |
+| 66 | [Remind of You](https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 4:03 |
+| 67 | [Hands on Me](https://open.spotify.com/track/067hR2ouOr91wKoMKh1K9E) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 1:08 |
+| 68 | [Make a Wish](https://open.spotify.com/track/7sN4v0ElVmdvdTkjT23y16) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:05 |
+| 69 | [Cosmic Dust](https://open.spotify.com/track/5QxRlfnjp8ELreyz36iS5g) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:43 |
+| 70 | [Week](https://open.spotify.com/track/4banEKlbDsBOIvBDTssAf1) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Week](https://open.spotify.com/album/0i3GmrB7DW4keoTd53g3AP) | 3:22 |
+| 71 | [Week](https://open.spotify.com/track/4banEKlbDsBOIvBDTssAf1) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Week](https://open.spotify.com/album/0i3GmrB7DW4keoTd53g3AP) | 3:22 |
+| 72 | [Pit\-A\-Pat](https://open.spotify.com/track/2VI3BhUQPGgwFdkbnnZyEy) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Strong Woman Do Bong Soon, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7EL2MtMonriK4Tb2rh0IL5) | 3:30 |
+| 73 | [REMEDY](https://open.spotify.com/track/3BcVxAJ4Ok0zbQ6nsu1No4) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:21 |
+| 74 | [LALALA](https://open.spotify.com/track/1mW3V0DtbrEaUHgApt9Uql) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [LA VIDA LOCA](https://open.spotify.com/album/6rEdWTwLAfTNzSHSH7WHBi) | 3:34 |
 
-Snapshot ID: `MTY1NzUzMDQ1OSwwMDAwMDAwMDg5YzQ0Njk3ZWQ5MDgzMGI3MDRmYjc4YjgyZDcwNzRj`
+Snapshot ID: `MTY1NzUzMDQ1OSwwMDAwMDAwMDY2Y2U5MDc1YzI3ZGRkODM0ODAyYzQzMjJmYTAxMTZm`
