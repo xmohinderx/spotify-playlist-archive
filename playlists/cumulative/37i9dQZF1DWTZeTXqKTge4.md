@@ -2,13 +2,13 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Tronel
+> Le meilleur du hip\-hop québécois\. Photo: MikeZup
 
-241 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
+242 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 TEXTES](https://open.spotify.com/track/3Ilctjzh4gGsYHB8XxxT8w) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [100 TEXTES](https://open.spotify.com/album/72AFm90JXqrGZtNnXwCb3z) | 2:57 | 2022-05-13 |  |
+| [100 TEXTES](https://open.spotify.com/track/3Ilctjzh4gGsYHB8XxxT8w) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [100 TEXTES](https://open.spotify.com/album/72AFm90JXqrGZtNnXwCb3z) | 2:57 | 2022-05-13 | 2022-08-20 |
 | [10:30](https://open.spotify.com/track/0VrEi1rJsYahnzwnJPOwcN) | [E.Santana](https://open.spotify.com/artist/4xuP5XVUJPwlw7iP7eY0gQ) | [10:30](https://open.spotify.com/album/6X1UnEG0K5Pr9kK2Gd4H9k) | 3:15 | 2022-01-07 | 2022-03-18 |
 | [24 Gang](https://open.spotify.com/track/3E8mWggRxk58HIVV7XmjiX) | [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay), [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [BangBangCashout](https://open.spotify.com/artist/6ejrJ9lIzqZ7sATdJaC9Uc) | [24 Gang](https://open.spotify.com/album/4Y9U6MyvAVyG4o00p90ap7) | 3:25 | 2022-02-25 | 2022-03-12 |
 | [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 | 2022-02-18 |  |
@@ -237,6 +237,7 @@
 | [Tudo Bem](https://open.spotify.com/track/0XJlv1XivNfzllwGK5MksT) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Tudo Bem](https://open.spotify.com/album/2XeTDIRMPxKUTscqoNZG93) | 3:33 | 2022-06-24 | 2022-08-06 |
 | [Turf](https://open.spotify.com/track/2t60WSbTDTX6wwKzWL1NYO) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Turf](https://open.spotify.com/album/0rSIH2lvmSOqFrfmd1KwYW) | 2:24 | 2022-01-07 | 2022-05-14 |
 | [Uber Eats Freestyle](https://open.spotify.com/track/0Of0wSZPDgQcYccKuQtptU) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Uber Eats Freestyle](https://open.spotify.com/album/0OOPR6c1oSw0FMS3CVhwl0) | 3:03 | 2022-04-22 | 2022-05-20 |
+| [Up & Down](https://open.spotify.com/track/6Ra9iNq2FoSgHV7T9HaUD2) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Up & Down](https://open.spotify.com/album/37lRoPrv7Iom0ZzdQPKkrd) | 2:40 | 2022-08-19 |  |
 | [V12](https://open.spotify.com/track/634JCPeIeQqZk33b87A7Wf) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [V12](https://open.spotify.com/album/7z7ix2ykbpxubSPqBBg0sM) | 2:14 | 2022-04-22 | 2022-07-09 |
 | [Vertige](https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Vertige](https://open.spotify.com/album/2yoSmS2boP6CbLhUlZPciN) | 3:45 | 2022-07-01 |  |
 | [VISA](https://open.spotify.com/track/17KVmrxWh2gvFSrrC1yRBW) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [VISA](https://open.spotify.com/album/4d0dFmQM5ZYSQx0R7cUdxy) | 2:52 | 2022-08-12 |  |

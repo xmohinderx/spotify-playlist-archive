@@ -912,6 +912,32 @@
     },
     {
       "album": {
+        "name": "bloody!",
+        "url": "https://open.spotify.com/album/3yAw6PBvcHJo3nVyHKEOp8"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113156,
+      "name": "bloody!",
+      "url": "https://open.spotify.com/track/4ZBEfyphqFsSkjWP7y2L6E"
+    },
+    {
+      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
       },
@@ -1065,6 +1091,28 @@
       "duration_ms": 119092,
       "name": "BRRRAP",
       "url": "https://open.spotify.com/track/5VDvgkiNr3nORfWh3kKm4C"
+    },
+    {
+      "album": {
+        "name": "BULLET",
+        "url": "https://open.spotify.com/album/6iPQNv6SDZb8it4BvecDqI"
+      },
+      "artists": [
+        {
+          "name": "NORTMIRAGE",
+          "url": "https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp"
+        },
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113293,
+      "name": "BULLET",
+      "url": "https://open.spotify.com/track/1LUblxczgUUs7nzCQ9sY9i"
     },
     {
       "album": {
@@ -5265,6 +5313,24 @@
       "duration_ms": 156666,
       "name": "Virtualisis",
       "url": "https://open.spotify.com/track/289lLz63YXI4R3N4xB74G3"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/7gYw0aHBDQ3il1QzOKpanx"
+      },
+      "artists": [
+        {
+          "name": "Sidewalks and Skeletons",
+          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172048,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/3FsvEEbnIbJzNdpFndf5iM"
     },
     {
       "album": {

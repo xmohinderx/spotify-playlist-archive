@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> rex :\)
+> is grandma's EP in the room with us right now
 
-1,802 songs - 4 day 0 hr 19 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,805 songs - 4 day 0 hr 29 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-02-24 | 2022-03-11 |
 | [25X](https://open.spotify.com/track/4eoS4VxtZHeBvGIY3oB5Sx) | [shmavana shmantos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [25X](https://open.spotify.com/album/7xy3lPOkLQeQgj4wodcxN1) | 2:22 | 2022-02-11 | 2022-04-09 |
 | [29 Palms](https://open.spotify.com/track/0UR1lesYoawHMS3GMOTcG5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [29 Palms](https://open.spotify.com/album/5Q4wjlWCX95OYwVv8uUkqT) | 3:21 | 2022-05-12 | 2022-05-28 |
+| [3 HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [3 HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 |  |
 | [35.31](https://open.spotify.com/track/4vS4FB3HXgOSmICeqEY0Gh) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 3:56 | 2020-03-25 | 2021-01-12 |
 | [405 \- Metronomy x Biig Piig](https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [405 \- Metronomy x Biig Piig](https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi) | 4:25 | 2022-05-31 | 2022-06-24 |
 | [4am](https://open.spotify.com/track/3DLhIFONTMbC70Pim6wFX7) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [4am](https://open.spotify.com/album/6gg9pFAiI2Ddo0RmVvMwbT) | 3:13 | 2022-02-25 | 2022-04-09 |
@@ -373,6 +374,7 @@
 | [Crimson + Clover](https://open.spotify.com/track/0hx8qIYrvdxigI0gMnTdXu) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 2:03 | 2022-02-23 | 2022-03-11 |
 | [Crossed Out](https://open.spotify.com/track/0UmjMgq7MEBPx1pPMEqNU8) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo), [Daniel Lin](https://open.spotify.com/artist/5JunRwYHa8kpYtiWEu8DsE) | [Crossed Out](https://open.spotify.com/album/395RRLmxtfaSdGzYZTk4pd) | 2:45 | 2021-01-15 | 2021-02-09 |
 | [Crowd](https://open.spotify.com/track/3aR3QcB1B0bD6YJEEkSdTS) | [Fabianossa](https://open.spotify.com/artist/5xpWQhc6jnWmc9unFQ017H) | [Crowd](https://open.spotify.com/album/4jv6ZTRoXUq1Z13cjHdLJC) | 3:24 | 2021-05-15 | 2021-07-31 |
+| [Crown](https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L) | 3:44 | 2022-08-19 |  |
 | [Crucify](https://open.spotify.com/track/1dTS33FJotvy7LaJNQclqS) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE), [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [Crucify](https://open.spotify.com/album/0gsM7pGfqDB6VZtaO1G8JI) | 3:39 | 2021-06-26 | 2021-07-20 |
 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 | 2022-06-21 | 2022-08-04 |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-05-08 | 2022-01-08 |
@@ -1195,7 +1197,7 @@
 | [Paper Cup](https://open.spotify.com/track/4lBztfjw0N2wc9dnVpXZ4S) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Paper Cup](https://open.spotify.com/album/5LZTxhttQ5VoCwlSd5wpwQ) | 2:37 | 2021-10-26 | 2021-11-13 |
 | [Paperbag Princess](https://open.spotify.com/track/4RIj2OJw9NR78glrn8J6x7) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Paperbag Princess](https://open.spotify.com/album/54pTwmPD4RVPZipnxCk2VT) | 2:16 | 2021-12-10 | 2022-01-08 |
 | [Part of Me](https://open.spotify.com/track/2yRlcQn3yUqseUYHw2XzNZ) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:21 | 2021-01-13 | 2022-03-11 |
-| [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 | 2022-07-07 |  |
+| [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 | 2022-07-07 | 2022-08-20 |
 | [Party](https://open.spotify.com/track/2lqs2A1sE84bJN9VAZ1F8u) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [P.U.K.E Tapes, Vol\. 2](https://open.spotify.com/album/1WJPqK5rKyN46lU1CahbsU) | 2:12 | 2020-08-30 | 2020-09-12 |
 | [party favor](https://open.spotify.com/track/5JqpiYu1HWojAWs2pxOV5W) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/07WV4Vf6503k6K1yGNWG8X) | 3:24 | 2020-05-12 | 2020-08-20 |
 | [Pastel Pink](https://open.spotify.com/track/3c6r6nNtFafOwLMuR2AyB5) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Pastel Pink](https://open.spotify.com/album/6wfGYKmQCCXUZpJXeoCVN6) | 3:18 | 2020-03-18 | 2020-05-07 |
@@ -1277,7 +1279,7 @@
 | [Prom Night](https://open.spotify.com/track/77OOBEhQnWEum2pokUnoMU) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/4igkg9FFor8cs1FWNhCNXR) | 2:25 | 2021-03-30 | 2022-03-05 |
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2019-09-20 | 2020-07-01 |
 | [Provider](https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Provider](https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9) | 4:03 | 2021-01-15 | 2021-01-27 |
-| [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-15 |  |
+| [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-15 | 2022-08-20 |
 | [Pumped Up Kicks \- Gus Dapperton Version](https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Pumped Up Kicks \(Gus Dapperton Version\)](https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS) | 3:52 | 2021-11-13 | 2021-12-02 |
 | [Punching Bag](https://open.spotify.com/track/5yi3oFTGTVGcM9LORYom7y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5jOC8xCQy3vr0j9lMTzHtc) | 2:33 | 2020-10-30 | 2021-05-12 |
 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2019-12-12 | 2021-06-05 |
@@ -1429,6 +1431,7 @@
 | [Soft Spot](https://open.spotify.com/track/6kyxHSJZBPSihkK3YwbVXg) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Soft Spot](https://open.spotify.com/album/7mf5SwQGjqFoxg02oHryFh) | 3:08 | 2020-12-03 | 2021-04-02 |
 | [Soft Spot](https://open.spotify.com/track/7G47Ba9JiHkzl3JLYD0zJ4) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 3:08 | 2021-07-31 | 2021-12-02 |
 | [soft spot](https://open.spotify.com/track/1mtLhZXbQqeU3qugQkuwhk) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/2Z7lZGztugb0rCv7QveDIc) | 3:39 | 2021-08-05 | 2022-02-26 |
+| [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 | 2022-08-19 |  |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2021-11-13 | 2022-04-09 |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-02 | 2022-04-09 |
 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2019-08-02 | 2022-03-11 |
@@ -1743,7 +1746,7 @@
 | [who hurt you](https://open.spotify.com/track/6sBAlJ2mhfHHxf8XLURHSO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:28 | 2022-04-15 | 2022-06-10 |
 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 | 2020-08-04 | 2022-03-18 |
 | [Why Can't I?](https://open.spotify.com/track/4z4PB23xYTg1oANmyZovsw) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Liz Phair](https://open.spotify.com/album/0rbgxvTKe3Y4VRar4sIYzT) | 3:28 | 2021-03-06 | 2021-03-14 |
-| [why do i do that](https://open.spotify.com/track/74ghwSkVzbegV8Iv2Y2BqM) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc), [Chaos Canine](https://open.spotify.com/artist/2tZK5LSQQ3wuyWcHnI93NR) | [why do i do that](https://open.spotify.com/album/7DUt8tkbMVz0fBBLDqHWXf) | 2:24 | 2022-06-15 |  |
+| [why do i do that](https://open.spotify.com/track/74ghwSkVzbegV8Iv2Y2BqM) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc), [Chaos Canine](https://open.spotify.com/artist/2tZK5LSQQ3wuyWcHnI93NR) | [why do i do that](https://open.spotify.com/album/7DUt8tkbMVz0fBBLDqHWXf) | 2:24 | 2022-06-15 | 2022-08-20 |
 | [Why Do People Grow \(Long for the Day When I Had That Flip Phone\)](https://open.spotify.com/track/5S4AhOB0NSbP8lwq8tH752) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow, Vol\. 2](https://open.spotify.com/album/4gPGEC5zbMQb2DbUdtREmB) | 3:00 | 2020-04-03 | 2020-04-22 |
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2021-01-29 | 2021-02-06 |
 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 | 2021-05-15 | 2021-11-13 |

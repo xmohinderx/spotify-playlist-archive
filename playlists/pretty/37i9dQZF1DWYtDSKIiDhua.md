@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Alicia Keys
+> The R&B and good vibe tracks for your current mood\. Cover: 88rising, MILLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,447 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,591 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 74 | [Fine With Me](https://open.spotify.com/track/4gh7H3A9DUImxhzeDjk7fu) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 4:32 |
 | 75 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 |
 
-Snapshot ID: `MTY2MDg1MTkwOCwwMDAwMDAwMGVjNmU2MGVkNjFhMDQ3NDQ5MDYzYThkN2M4ZTJiYTY4`
+Snapshot ID: `MTY2MDg4NTE0NSwwMDAwMDAwMGY1NDAyOGUwMmQzZWJjYmY3YzM3YTJmZWE4NGZhYjc4`

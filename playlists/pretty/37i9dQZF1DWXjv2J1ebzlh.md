@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,107 likes - 1,195 songs - 3 day 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,182 likes - 1,195 songs - 3 day 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 98 | [Chicha Nola \- Alternative Version](https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37) | 3:34 |
 | 99 | [Badala Zamana](https://open.spotify.com/track/0C2eSToZdCu2bNSh1UXP5R) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 3:10 |
 | 100 | [Afro Hustle](https://open.spotify.com/track/3GJCaShvmvEi6DNyiIkker) | [Lou Perez](https://open.spotify.com/artist/1eWBN1x0bUITVTfoByjnZo) | [De Todo Un Poco](https://open.spotify.com/album/7LLCyClv435QeK59IPMZCV) | 3:23 |
-| 101 | [Put Yourself in My Place](https://open.spotify.com/track/3h1wJrzXpvoCcaP051XhQ4) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson Story, Vol\. 2](https://open.spotify.com/album/1VkhpJ88iuuz9fSpFbYj2G) | 2:37 |
+| 101 | [Put Yourself in My Place](https://open.spotify.com/track/0IxYQuPU4gqR4mBgGMjrEN) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:37 |
 | 102 | [A Kem Gegh A Tamurt](https://open.spotify.com/track/4QaKR9adAb4beDpPVgTtjG) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/6wR1PTOSJRYZeo7zdWWWgD) | 3:51 |
 | 103 | [Sài Gòn](https://open.spotify.com/track/5zB7iS5OGvMEvLPTcbkaAe) | [Carol Kim](https://open.spotify.com/artist/4INNa8d1QXO7g46ZTODpR2), [Saigon Supersound](https://open.spotify.com/artist/69CibdsClVHBslcyq1hc89) | [Saigon Supersound, Vol\. 2](https://open.spotify.com/album/5TlcqsArD0ChQvNgbsE8Uv) | 3:08 |
 | 104 | [Asef Gedan](https://open.spotify.com/track/3iVDNaS9dEjoYTz5Vlbmt6) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 4:05 |
@@ -1204,4 +1204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1194 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1195 | [Quem Não Faz Filhos](https://open.spotify.com/track/3GEYdZGGJthGoLjPk9E7Kd) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Angola Anos d'Ouro: Reviver Os Kiezos](https://open.spotify.com/album/4yMv047txxleA3j7dtOBBb) | 4:11 |
 
-Snapshot ID: `MTY1ODkxNzgwMCwwMDAwMDAwMGYxOTFmZTIxYmZhNDY0ZTkzYjBhMTk2NmU3ZTU1ZDMy`
+Snapshot ID: `MTY1ODkxNzgwMCwwMDAwMDAwMDc2NTkzYzRiMjY0ZWIyMDM3ODFiZTQwYzg0N2E4ZjU5`

@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Zayvo\(제이보\)\)
 
-213 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
+214 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [DISCONNECT](https://open.spotify.com/track/1MRWxMH4ZuqgZAxJxAGbOo) | [hansen](https://open.spotify.com/artist/3oNWpNbYDxI3cTjfr3iTGF), [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [DISCONNECT](https://open.spotify.com/album/7DXVhaYMZVB1gaIMq1m5vp) | 4:08 | 2022-05-27 | 2022-07-09 |
 | [Don’t Know Why](https://open.spotify.com/track/4aAOktVosCaWRKB293rSLG) | [jayvito](https://open.spotify.com/artist/2yZNiGKZ1tmcUgWdMKcFzI) | [Country Man Episode \#1](https://open.spotify.com/album/4bktSOHI1Ckp55B53SgZv8) | 3:28 | 2022-05-27 | 2022-07-27 |
 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 | 2022-05-27 |  |
-| [ELEVATOR FLOW](https://open.spotify.com/track/0OlADwDq7CuXr4vBRSe9Ii) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 2:40 | 2022-05-27 |  |
+| [ELEVATOR FLOW](https://open.spotify.com/track/0OlADwDq7CuXr4vBRSe9Ii) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 2:40 | 2022-05-27 | 2022-08-20 |
 | [Espresso Build](https://open.spotify.com/track/3yfHXif4GgssiGkUTy8OIA) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7) | [Olive](https://open.spotify.com/album/6zFG2xmMmnDLr1MroJ3ue3) | 1:47 | 2022-05-27 | 2022-07-25 |
 | [Evergray](https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 4:05 | 2022-08-12 |  |
 | [Explorer](https://open.spotify.com/track/2DmFaaJHF7uSVKooNQGfWI) | [besisi](https://open.spotify.com/artist/1ceX86LLepT24qw3CaXUJg), [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [IDEAL TYPE](https://open.spotify.com/album/69q6kLGOS6lZALtT0JPlet) | 4:05 | 2022-05-27 | 2022-06-20 |
@@ -121,6 +121,7 @@
 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 | 2022-05-27 |  |
 | [maldivian night](https://open.spotify.com/track/75kuXEhMGPeiv8fhiU4z2h) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [maldivian night](https://open.spotify.com/album/184u2TOIGw3XN21212Wp1j) | 3:11 | 2022-05-27 | 2022-07-23 |
 | [Matrix<3](https://open.spotify.com/track/1fVA0U2ed6LhGC9ADynsJ7) | [Noizeegu](https://open.spotify.com/artist/6eLjOr4BzLerxxVuzLClOe) | [Matrix<3](https://open.spotify.com/album/1KEfk7HWYLhkJcItcgpVNf) | 3:06 | 2022-06-09 | 2022-07-27 |
+| [Melting Point \(Feat\. Samuel Seo\)](https://open.spotify.com/track/0RaxRKVWQTnZ31L4LfUGXt) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Summer Soundcloud](https://open.spotify.com/album/03aZUdnQGIb9bnp2kY7d7X) | 4:36 | 2022-08-19 |  |
 | [mold](https://open.spotify.com/track/1eZdfEUGt6fxXbdoeR6YdE) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [mold](https://open.spotify.com/album/2k02z19MyPXeDTm3yYBIoh) | 3:46 | 2022-06-13 | 2022-07-28 |
 | [MONEY](https://open.spotify.com/track/2DBrLFkUqtCGmjgTFFM0fE) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 3:15 | 2022-06-18 | 2022-07-27 |
 | [Money like \(feat\. meenoi\)](https://open.spotify.com/track/5U5QitagofLaXFkoVO1oLF) | [HOSIN](https://open.spotify.com/artist/3XOcDV9I5btpQqBqkEQWuU), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Money like](https://open.spotify.com/album/67YuFY9QZKY3loKA6634Sv) | 4:02 | 2022-07-04 |  |

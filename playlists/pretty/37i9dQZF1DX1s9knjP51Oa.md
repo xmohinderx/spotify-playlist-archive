@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Slow down with some calming keys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,908 likes - 347 songs - 15 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,359 likes - 347 songs - 15 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Collecting Memories](https://open.spotify.com/track/6aFHghBSzxP3QPxS30qqp0) | [Aija Alsina](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [Collecting Memories](https://open.spotify.com/album/6VSobr1DUTShD75358fUps) | 2:47 |
+| 1 | [Nyári séta](https://open.spotify.com/track/7CgSotbNO8YesINbIWsmaV) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Gyere velem](https://open.spotify.com/album/7zzn1Mlpv7S8SY8t80qR9H) | 2:13 |
 | 2 | [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 |
 | 3 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 |
-| 4 | [Nyári séta](https://open.spotify.com/track/7CgSotbNO8YesINbIWsmaV) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Gyere velem](https://open.spotify.com/album/7zzn1Mlpv7S8SY8t80qR9H) | 2:13 |
-| 5 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
-| 6 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 |
-| 7 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 |
-| 8 | [Blåregn](https://open.spotify.com/track/3a2fZ1oqZMDnjFI5ANACiz) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blåregn](https://open.spotify.com/album/3d2SCTUaH6LJLEz1uXmDKT) | 2:40 |
-| 9 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 |
-| 10 | [Det skal nok gå](https://open.spotify.com/track/6i17OjR0ZQYh5RkHexzDMR) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Det skal nok gå](https://open.spotify.com/album/4rM836vPb1QHflp8qWRwxs) | 2:03 |
-| 11 | [Crystal moon](https://open.spotify.com/track/3pTP6JJ5im89P2rICAfj3P) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Rose garden](https://open.spotify.com/album/6jpeXcKQxgoIDD249Np3xn) | 3:06 |
-| 12 | [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 |
-| 13 | [marzo 3](https://open.spotify.com/track/6DqQMsdAlPbPiVXiAyxpVC) | [Sebastián Voyage](https://open.spotify.com/artist/6W70NZ4bj5yPSfEXH99JYN) | [marzo 3](https://open.spotify.com/album/5HYtpWvwBgp4dGtvCgnPrB) | 2:26 |
+| 4 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
+| 5 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 |
+| 6 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 |
+| 7 | [Blåregn](https://open.spotify.com/track/3a2fZ1oqZMDnjFI5ANACiz) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blåregn](https://open.spotify.com/album/3d2SCTUaH6LJLEz1uXmDKT) | 2:40 |
+| 8 | [Det skal nok gå](https://open.spotify.com/track/6i17OjR0ZQYh5RkHexzDMR) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Det skal nok gå](https://open.spotify.com/album/4rM836vPb1QHflp8qWRwxs) | 2:03 |
+| 9 | [Crystal moon](https://open.spotify.com/track/3pTP6JJ5im89P2rICAfj3P) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Rose garden](https://open.spotify.com/album/6jpeXcKQxgoIDD249Np3xn) | 3:06 |
+| 10 | [Collecting Memories](https://open.spotify.com/track/6aFHghBSzxP3QPxS30qqp0) | [Aija Alsina](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [Collecting Memories](https://open.spotify.com/album/6VSobr1DUTShD75358fUps) | 2:47 |
+| 11 | [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 |
+| 12 | [marzo 3](https://open.spotify.com/track/6DqQMsdAlPbPiVXiAyxpVC) | [Sebastián Voyage](https://open.spotify.com/artist/6W70NZ4bj5yPSfEXH99JYN) | [marzo 3](https://open.spotify.com/album/5HYtpWvwBgp4dGtvCgnPrB) | 2:26 |
+| 13 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 |
 | 14 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 |
 | 15 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
 | 16 | [Box of Memories](https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Box of Memories](https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ) | 2:42 |
@@ -356,4 +356,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 346 | [Song for Marianne](https://open.spotify.com/track/2xlSPP16a3SSOLBPOvTDru) | [Shane Dillard](https://open.spotify.com/artist/4I3uP0iJu6cGL8H3HRJ6vq) | [Song for Marianne](https://open.spotify.com/album/26tnVVQif13uMyUux1Nsvc) | 2:13 |
 | 347 | [Sprites Of The Moor](https://open.spotify.com/track/6uSAPAnkFuSaL4f74KtBmD) | [Emile Franck](https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn) | [Sprites Of The Moor](https://open.spotify.com/album/6zmbjPAkyO1RM7Iy82vjNE) | 3:00 |
 
-Snapshot ID: `MTY2MDAzNTk1NCwwMDAwMDAwMGRiZjRlODU0NTNhNjk0MzMxNmEzNGIyNGZiMzYwOTky`
+Snapshot ID: `MTY2MDkxNDI4NSwwMDAwMDAwMDM4MTE0YWY2NDU2OWMxZTE1NDUwMzQzYjhjZmRlOTVk`

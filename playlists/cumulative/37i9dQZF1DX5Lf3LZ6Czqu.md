@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Eric Johnson
 
-90 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+91 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Five Fourths Will Get You Six](https://open.spotify.com/track/59Arv6QbBfhA5RenhE9kpT) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Still](https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw) | 6:30 | 2021-05-04 |  |
 | [Four Day Weekend](https://open.spotify.com/track/2Lv1k8ZSaC8XbjRvLPXqgM) | [Moray Pringle](https://open.spotify.com/artist/2XxpV0Zg0H0BZWCxgZQZKW) | [Four Day Weekend](https://open.spotify.com/album/4BJ2bEGlgs2EMv6GoDLLLt) | 4:25 | 2021-05-04 |  |
 | [Funk Force Five](https://open.spotify.com/track/4717gUSZNJkUiClBF0HS6z) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Unrepentant](https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1) | 3:09 | 2021-05-04 |  |
+| [Ghostfish \- Masterlink Sessions](https://open.spotify.com/track/3x2MCE4ayd3DUhBxVHBaIq) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ), [Tony Remy](https://open.spotify.com/artist/4ZPe9yodynCxVDpH4uExp0) | [Ghostfish \(Masterlink Sessions\)](https://open.spotify.com/album/4yxkHvAV6Uh86YLNlh81r1) | 2:53 | 2022-08-19 |  |
 | [Gimme 5](https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ) | [Gabriel Santiago](https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4) | [Gimme 5](https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU) | 3:55 | 2021-05-04 |  |
 | [Gravity Man Stage \(From "Mega Man 5\)](https://open.spotify.com/track/1lb7wWArg9Gq1HyzM85P2F) | [Abreu Project](https://open.spotify.com/artist/1gW0iddMEyFpMTgQ526AcT) | [Gravity Man Stage \(From "Mega Man 5\)](https://open.spotify.com/album/4YsjpaftzW2UGnBNkaMmWF) | 4:17 | 2022-07-01 |  |
 | [Groovin'](https://open.spotify.com/track/33GBgBRjxFyrAsnLIPySol) | [Johnny Hiland](https://open.spotify.com/artist/16sDnRxivwZln0QWa7LNjm) | [Loud and Proud](https://open.spotify.com/album/3jgR2VmuMnmYKlJQISKtqm) | 5:28 | 2021-05-04 |  |

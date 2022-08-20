@@ -2,9 +2,9 @@
 
 ### [Epic & Melodic](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f)
 
-> Epic and melodic metal, for the dragonslayer in you! Cover: Wind Rose
+> Epic and melodic metal, for the dragonslayer in you! Cover: Sabaton
 
-488 songs - 1 day 13 hr 43 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+490 songs - 1 day 13 hr 51 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Stella](https://open.spotify.com/track/0DQGUWXp8KxxbONNsXPrHN) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Stella](https://open.spotify.com/album/6H7RPwA2D0XRSgQwjgK1Ai) | 5:27 | 2022-07-13 | 2022-07-29 |
 | [Stomp the Haunted Crown](https://open.spotify.com/track/4YUAcUPZzIZPO47NA3P5ZJ) | [Pomegranate Tiger](https://open.spotify.com/artist/30T39voTL4EiHKGNE0mQxO) | [Boundless](https://open.spotify.com/album/0PPEx5fIfCQesfyebojcvH) | 5:56 | 2022-07-13 | 2022-07-30 |
 | [Storm](https://open.spotify.com/track/7j5qDqtGGMZ8aFNsOX43A8) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Renaissance](https://open.spotify.com/album/1Ki56K82avE7nTkZEyVIE7) | 3:29 | 2022-07-13 | 2022-07-30 |
+| [Stormtroopers](https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War to End All Wars](https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da) | 3:56 | 2022-08-19 |  |
 | [String Theory](https://open.spotify.com/track/6KKw70o8ZTy8LVltAyUwGw) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [String Theory](https://open.spotify.com/album/2VbMfWccghg85IgMXkaPiv) | 4:56 | 2022-07-13 | 2022-07-30 |
 | [Strong](https://open.spotify.com/track/5fIjngwWngFucpYJdRHhQZ) | [Anette Olzon](https://open.spotify.com/artist/37561fPR6pVMtyLd3eOFys) | [Strong](https://open.spotify.com/album/0xIa7oSXgzJAERXQqa1r6f) | 4:27 | 2021-09-11 | 2022-05-07 |
 | [Strut](https://open.spotify.com/track/6uHpr84ATepPm1NeJ7HXq0) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Story I](https://open.spotify.com/album/3a0BquAREUzoKbXH51pl3x) | 4:32 | 2022-07-13 | 2022-07-30 |
@@ -435,6 +436,7 @@
 | [Then To Hell With You](https://open.spotify.com/track/1rrh2Aqj7390GGeGIcDuel) | [Liquorworks](https://open.spotify.com/artist/5N0HHSj9VyFK76Q22rU3FJ) | [Psycho Soundwaves](https://open.spotify.com/album/264qJqO8tNxzqU473ghu6O) | 7:22 | 2022-07-13 | 2022-07-30 |
 | [This God is Dead](https://open.spotify.com/track/458kbmGS0DVDs1OMb7V0WC) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o), [Roy Khan](https://open.spotify.com/artist/4hEwWtHVjJSCHpsimklGoe) | [This God is Dead](https://open.spotify.com/album/3X9qoDSRongWIaNG8pN60y) | 10:37 | 2021-06-04 | 2021-08-14 |
 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc) | 7:06 | 2021-12-11 |  |
+| [To Hell and Back](https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:26 | 2022-08-19 |  |
 | [To the Moon](https://open.spotify.com/track/4gmH73AYOhokTH7YmZAZvM) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [To the Moon](https://open.spotify.com/album/6GNLsuuFan7tHJxHPqW2V2) | 4:12 | 2022-07-13 | 2022-07-30 |
 | [Together We Rise](https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Together We Rise](https://open.spotify.com/album/2DAqWZXEeZkdWkfgOCek8V) | 5:02 | 2022-04-22 | 2022-06-24 |
 | [Touch and Go](https://open.spotify.com/track/3nDOvQvA8iPamdULGubIQE) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Way Forward](https://open.spotify.com/album/731aQEGKlJ8RveY3ncSekU) | 4:21 | 2022-07-13 | 2022-07-30 |

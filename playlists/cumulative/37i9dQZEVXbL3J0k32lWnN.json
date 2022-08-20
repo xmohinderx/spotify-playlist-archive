@@ -2756,6 +2756,24 @@
     },
     {
       "album": {
+        "name": "Danser Med Piger",
+        "url": "https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5"
+      },
+      "artists": [
+        {
+          "name": "Danser Med Piger",
+          "url": "https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168849,
+      "name": "Danser Med Piger",
+      "url": "https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU"
       },
@@ -5929,7 +5947,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 173333,
       "name": "Hensigt",
       "url": "https://open.spotify.com/track/4b5qKstcv1JIha4xuq89iD"

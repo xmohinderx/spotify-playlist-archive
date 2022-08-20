@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: IF
 
-443 songs - 1 day 0 hr 13 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+445 songs - 1 day 0 hr 20 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [BLESS](https://open.spotify.com/track/7gi73b1NfTb3K23qzXTkGY) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [NETH](https://open.spotify.com/album/3bX09wKzqYqEGEKSEaoS2J) | 2:35 | 2022-05-17 | 2022-07-27 |
 | [Blue Ink](https://open.spotify.com/track/1LuCnD3kMp1KVT9AffvzDK) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sweet](https://open.spotify.com/album/3Ku32ojOASDbazhWQs2vr5) | 3:02 | 2022-06-07 | 2022-06-26 |
 | [Bored Rigid](https://open.spotify.com/track/6zXsdp7du4Y2tQ8fGYPuyk) | [Comeback My Daughters](https://open.spotify.com/artist/7wM7iIMQX2HrJCjASApbWW) | [EXPerience](https://open.spotify.com/album/20BflIUzszY4lTwqsI7dRj) | 4:53 | 2022-05-12 | 2022-07-16 |
-| [BOYZ DON'T CRY](https://open.spotify.com/track/3nDBPRhYEIxQNMyydQiX2k) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [BOYZ DON'T CRY](https://open.spotify.com/album/1BgMkzGUGBiMfweuPLtEd4) | 3:46 | 2022-08-18 |  |
+| [BOYZ DON'T CRY](https://open.spotify.com/track/3nDBPRhYEIxQNMyydQiX2k) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [BOYZ DON'T CRY](https://open.spotify.com/album/1BgMkzGUGBiMfweuPLtEd4) | 3:46 | 2022-08-18 | 2022-08-20 |
+| [BOYZ DON'T CRY](https://open.spotify.com/track/5LBuLQqHOkQwWOaB51hnFM) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [BOYZ DON'T CRY](https://open.spotify.com/album/0jj4wVi533xDTcI0FMOklf) | 3:46 | 2022-08-19 |  |
 | [Brand New Day](https://open.spotify.com/track/0b2j6FUGUgMgrdMEDmu0RC) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Fresh Cheese Delivery](https://open.spotify.com/album/04dxT90eA6LOzUjMOxej12) | 1:48 | 2022-05-12 |  |
 | [Brave Heart for Glory](https://open.spotify.com/track/13pPOPHf1ZLVV7wqCEUgHZ) | [Fumio Ito](https://open.spotify.com/artist/6Mq5I5MWmCdCwurNlujtUj) | [FRIENDSHIP](https://open.spotify.com/album/6hKJSSjBRleFPY7AlyBQqX) | 3:40 | 2022-05-19 | 2022-07-29 |
 | [BRAVE NEW WORLD](https://open.spotify.com/track/2dXuRJ5S1BP46QpLUqRvsD) | [THE PRISONER](https://open.spotify.com/artist/6RIZMUD0AKedtQUIpQyOUK) | [BRAVE NEW WORLD](https://open.spotify.com/album/6EzXsIrLFIGABIZlGOrfBJ) | 4:59 | 2022-07-06 | 2022-07-29 |
@@ -87,7 +88,7 @@
 | [Farley](https://open.spotify.com/track/0dB07HuKQLWljnWFXkGAyM) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [The Awakening](https://open.spotify.com/album/48i9AxpSUaDGw2OJQTXmjR) | 2:58 | 2022-07-21 | 2022-08-19 |
 | [Feelin'](https://open.spotify.com/track/6YoicaJPVCpHvMmOZWksON) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Feelin'](https://open.spotify.com/album/3vBc37jVJlgaHKhcavhDg3) | 2:36 | 2022-05-12 | 2022-07-29 |
 | [FELLOWS](https://open.spotify.com/track/3JMibBDmgWFfaovh0c0hPm) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [証](https://open.spotify.com/album/5ytodu6cQWyhNzotNTWuzo) | 3:48 | 2022-05-19 | 2022-07-29 |
-| [fidget](https://open.spotify.com/track/5IBxylEZWVQ0dnPeqVkTmK) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/24NqXrbilncITglWtThf9l) | 3:08 | 2022-08-18 |  |
+| [fidget](https://open.spotify.com/track/5IBxylEZWVQ0dnPeqVkTmK) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/24NqXrbilncITglWtThf9l) | 3:08 | 2022-08-18 | 2022-08-20 |
 | [Find us if you can](https://open.spotify.com/track/0cLqyioxeUmOuzsp5UbMSp) | [MINAMIS](https://open.spotify.com/artist/1cb518s8hpdR2Dba0WkrtZ) | [BRIGHT PUNK E.P.](https://open.spotify.com/album/39MGoo2PZWWN4PX0AuoRVQ) | 0:56 | 2022-05-17 | 2022-07-23 |
 | [Find You](https://open.spotify.com/track/0CLc9IYuyOoMkZK8lmS9yG) | [Your Last Diary](https://open.spotify.com/artist/3naxNIZotcqCdf2Q50oxgV) | [Zero Division Vol.02 \- Single](https://open.spotify.com/album/79a338u2eyram2On4ALARx) | 3:34 | 2022-05-12 | 2022-07-25 |
 | [Find Your Toy](https://open.spotify.com/track/5iOCpYeaWZmJCJk3UgLja2) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [Find Your Toy](https://open.spotify.com/album/4qXhMjhi2IYsLvSKQ2rfII) | 4:26 | 2022-06-14 | 2022-07-26 |
@@ -227,6 +228,7 @@
 | [Sapphire](https://open.spotify.com/track/3b2zbCDgqGcddzZpE7wJ1E) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sapphire / Back in Action](https://open.spotify.com/album/4ukPyiibVLHwTY7oMTeliC) | 2:51 | 2022-05-12 | 2022-07-20 |
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
+| [set it off](https://open.spotify.com/track/2l3aBqXOsmgqEZN1DB0x9P) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:23 | 2022-08-19 |  |
 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 | 2022-06-07 |  |
 | [SHOOTING STAR](https://open.spotify.com/track/0cRhcha9tHeClPWA4Gpf4y) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [SUPER DELICIOUS](https://open.spotify.com/album/6l4tkHQQ6pwyAcG57BTXL8) | 2:22 | 2022-05-19 | 2022-07-27 |
 | [Silent spear](https://open.spotify.com/track/3smaYm50Ivw3v7TVIFtAEo) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/0kO8GOTSHLSriErXdLQhus) | 3:55 | 2022-05-12 | 2022-07-29 |

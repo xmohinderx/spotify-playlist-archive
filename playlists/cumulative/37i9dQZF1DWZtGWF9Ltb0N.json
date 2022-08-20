@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 336000,
       "name": "Down Town Dub",
       "url": "https://open.spotify.com/track/4bC6kRiriuqVWM4D2UgIUW"
@@ -4856,6 +4856,24 @@
     },
     {
       "album": {
+        "name": "Resonate / Shaman",
+        "url": "https://open.spotify.com/album/3ogPWAWqjoQZ4OJSzWp4Em"
+      },
+      "artists": [
+        {
+          "name": "Kumarion",
+          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183542,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/4BslxfPzl3zzoSxf5JS57R"
+    },
+    {
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/36yJ0HBPXOBOv1HEjyLE0b"
       },
@@ -4933,6 +4951,28 @@
       "duration_ms": 285151,
       "name": "Righteous",
       "url": "https://open.spotify.com/track/6vLVc8UKfHm5HFbprTee4T"
+    },
+    {
+      "album": {
+        "name": "Ripper",
+        "url": "https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
+        },
+        {
+          "name": "Shanghai Doom",
+          "url": "https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Ripper",
+      "url": "https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n"
     },
     {
       "album": {
@@ -5307,7 +5347,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 252815,
       "name": "Sick Fing",
       "url": "https://open.spotify.com/track/2YWWbTRdDpwympJPudyZlM"

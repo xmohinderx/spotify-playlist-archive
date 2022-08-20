@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Delfina Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,848 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,863 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 79 | [No quería venir](https://open.spotify.com/track/6FsVhGbphT7UNIylFhgbwt) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [No quería venir](https://open.spotify.com/album/3qHx3Gmu3Yez34wkzKCwSb) | 3:33 |
 | 80 | [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 |
 
-Snapshot ID: `MTY1OTEwNjUwNSwwMDAwMDAwMDFjODhhNzJjYjIxNzlmNjMyNDIwZWRmMTA3ZmQzNjNi`
+Snapshot ID: `MTY2MDg3ODAwMCwwMDAwMDAwMGZlMDA2MmM5OWU0ZTVkOWZlNzVjMWM2MDMxMzY3ZmIx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Singer-songwriters who colour outside the lines. Cover: Mariel Buckley",
+  "description": "Singer-songwriters who colour outside the lines. Cover: Allison Russell, Brandi Carlile",
   "name": "Renegade Folk",
   "published_playlist_ids": [
     "5h0SoEEkn4gAx7xRIlcPhO"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 222133,
       "name": "Make This Better",
       "url": "https://open.spotify.com/track/5LLA7OrEC2ouVUt6419VeN"
@@ -1830,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "Nomads",
+        "url": "https://open.spotify.com/album/217CxMC2a2u6pJNohNq2zk"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243293,
+      "name": "Nomads",
+      "url": "https://open.spotify.com/track/332Fsvy1zczhCgcI5dZGB4"
+    },
+    {
+      "album": {
         "name": "North of the Border",
         "url": "https://open.spotify.com/album/7q3LN4jWho4NMiBXa4EPoi"
       },
@@ -2043,6 +2061,28 @@
       "duration_ms": 259591,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm"
+    },
+    {
+      "album": {
+        "name": "Remember Me For Me",
+        "url": "https://open.spotify.com/album/0iMAEuqBVOORBmW4CVSeF6"
+      },
+      "artists": [
+        {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        },
+        {
+          "name": "Lily Moore",
+          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221062,
+      "name": "Remember Me For Me",
+      "url": "https://open.spotify.com/track/144sfZcukffgbgyIWvSnV8"
     },
     {
       "album": {
@@ -2399,7 +2439,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 240060,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/29nN7NsUSHJyz3tyZDESED"
@@ -2493,7 +2533,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 250640,
       "name": "Thief",
       "url": "https://open.spotify.com/track/4UPr9s5lDjjQHbA32uekzX"
@@ -2825,6 +2865,28 @@
       "duration_ms": 159693,
       "name": "You Think You're Like the Rain",
       "url": "https://open.spotify.com/track/1qSh9gR4epn8vgu5GPeGP3"
+    },
+    {
+      "album": {
+        "name": "You're Not Alone [Feat. Brandi Carlile]",
+        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309746,
+      "name": "You're Not Alone [Feat. Brandi Carlile]",
+      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
     },
     {
       "album": {

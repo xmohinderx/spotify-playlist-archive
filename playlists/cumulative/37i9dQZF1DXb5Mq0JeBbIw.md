@@ -4,13 +4,13 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-179 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
+180 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 | 2022-05-30 |  |
 | [Alien \- Acoustic](https://open.spotify.com/track/6VDRCKWp49mhQhrvAeI5QT) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien \(Acoustic\)](https://open.spotify.com/album/6lA3p7IHcwFXjdy08QkGWS) | 3:24 | 2022-05-30 | 2022-07-29 |
-| [Alone \- Acoustic](https://open.spotify.com/track/0vDnzajlY189JIRlQ0cOUs) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:46 | 2022-06-24 |  |
+| [Alone \- Acoustic](https://open.spotify.com/track/0vDnzajlY189JIRlQ0cOUs) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:46 | 2022-06-24 | 2022-08-20 |
 | [Alone \- Acoustic](https://open.spotify.com/track/2tCtgel3uat9YPL5givf5C) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw) | 3:46 | 2022-05-30 | 2022-07-29 |
 | [Babies](https://open.spotify.com/track/6ixPqy7A6dHuVcYDPlpno7) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer](https://open.spotify.com/album/4sUjZTEhcxSgilbaFohZKJ) | 3:16 | 2022-05-30 | 2022-07-23 |
 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 | 2022-05-30 |  |
@@ -171,6 +171,7 @@
 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 | 2022-05-30 |  |
 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 | 2022-05-30 |  |
 | [Us \- Acoustic](https://open.spotify.com/track/6vkGJCsMQc4HVZ1H8Yh2PH) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Sorry For Writing All The Songs About You \(Acoustic\)](https://open.spotify.com/album/4jnlpvJbPBkI5MVPpTkuf8) | 3:12 | 2022-05-30 | 2022-07-29 |
+| [Used To Be Friends](https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Used To Be Friends](https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix) | 5:35 | 2022-08-19 |  |
 | [Voices](https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Voices](https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu) | 3:06 | 2022-05-30 |  |
 | [Wait & See](https://open.spotify.com/track/1gMtAgRAmwzA4TVbynaN79) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/6bxgeOzdunifvN7foTYXK2) | 2:54 | 2022-05-30 | 2022-07-29 |
 | [Wait & See](https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 2:54 | 2022-06-24 |  |

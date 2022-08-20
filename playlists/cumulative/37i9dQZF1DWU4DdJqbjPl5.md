@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=rf\-tDmCLTlWlZ5uU9GZA9g" > Nikita Kering </a>
 
-129 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
+130 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [D O D O](https://open.spotify.com/track/4DhGbk8afMpvkU1f9Cqwyf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:59 | 2022-06-08 |  |
 | [D O D O](https://open.spotify.com/track/7fWotHT92my4vLN713vFTa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon) | 2:59 | 2021-12-09 | 2022-07-29 |
 | [Dangerous](https://open.spotify.com/track/7nx5roePDWEAzJwGajxFmF) | [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Playing With Fire](https://open.spotify.com/album/5lCzLkyHar40yPR2mIHEZC) | 3:46 | 2022-05-05 | 2022-08-19 |
+| [Did Enough](https://open.spotify.com/track/2LW0utR6fTwfjPhnz1XbOW) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Did Enough](https://open.spotify.com/album/2UoPpnuwA2vT59iIau6NCw) | 3:23 | 2022-08-19 |  |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-05-26 |  |
 | [Dis moi comment.](https://open.spotify.com/track/7ozOMyVXBH6OU7MCxljGnT) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis moi comment.](https://open.spotify.com/album/4VVmCuhuyfWg1wxSgbUzXc) | 3:31 | 2021-07-09 |  |
 | [Do Not Disturb](https://open.spotify.com/track/6pvxoVnP8Ep3AtjGCV9AMd) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 3:13 | 2022-07-22 |  |

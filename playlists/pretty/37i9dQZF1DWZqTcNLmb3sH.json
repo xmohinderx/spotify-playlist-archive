@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vikrant Rona",
-  "num_followers": 37333,
+  "num_followers": 37434,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDcyMjIxMSwwMDAwMDAwMDJhY2Q5YjlmMGFiMjEyMzhkYmRjNTZlMDk0OWJjMWIz",
+  "snapshot_id": "MTY2MDkyNzc0NSwwMDAwMDAwMDNjMjQzYTRhMzY3YjU1MTM2Njk4NTFhMTEzNDkyYzU4",
   "tracks": [
     {
       "added_at": "2022-07-18 06:13:34",
@@ -69,32 +69,48 @@
       "url": "https://open.spotify.com/track/0ce8GZqOCoIjBjnHx2jI5p"
     },
     {
-      "added_at": "2022-08-10 18:46:25",
+      "added_at": "2022-08-19 16:46:59",
       "album": {
-        "name": "Deva Deva [From \"Brahmastra (Kannada)\"]",
-        "url": "https://open.spotify.com/album/78j4M4PZMtQWaZlwGLhbn2"
+        "name": "Chola Chola [From \u201cPS-1 (Kannada)\u201d] [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/3lWIu0dYSeQe6Q5ckqF7Iy"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
         }
       ],
-      "duration_ms": 276964,
-      "name": "Deva Deva (From \"Brahmastra (Kannada)\")",
-      "url": "https://open.spotify.com/track/0wKiyi7AlxyLo3fiVPX454"
+      "duration_ms": 219600,
+      "name": "Chola Chola [From \u201cPS-1 (Kannada)\u201d]",
+      "url": "https://open.spotify.com/track/1QrMPrJy0ZZbCtxoyhA4Nh"
+    },
+    {
+      "added_at": "2022-08-19 16:49:05",
+      "album": {
+        "name": "Vaikuntake Savaari (From \"Nodi Swamy Ivanu Irode Heege\")",
+        "url": "https://open.spotify.com/album/375XWgTjTvp9K7KW9xHBqZ"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Sivaraman",
+          "url": "https://open.spotify.com/artist/3VsrVjGesZwWFS9bFO44I9"
+        },
+        {
+          "name": "Mahesh Raghunandan",
+          "url": "https://open.spotify.com/artist/1xWSLDgDFjuwInm5nMIdba"
+        }
+      ],
+      "duration_ms": 205381,
+      "name": "Vaikuntake Savaari (From \"Nodi Swamy Ivanu Irode Heege\")",
+      "url": "https://open.spotify.com/track/40ofFwEAvzwx9jaMtPnVD4"
     },
     {
       "added_at": "2022-08-16 05:56:32",
@@ -161,30 +177,6 @@
       "url": "https://open.spotify.com/track/1i3kdgZ2KQXol3o4uPQMTA"
     },
     {
-      "added_at": "2022-08-10 11:23:48",
-      "album": {
-        "name": "Manasella Neene (From \"Lucky Man\")",
-        "url": "https://open.spotify.com/album/6rMzebX4AnY4oooXmIVCzh"
-      },
-      "artists": [
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "V2 Vijay Vicky",
-          "url": "https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF"
-        },
-        {
-          "name": "Dhananjay Rajan",
-          "url": "https://open.spotify.com/artist/2iJ67BcXWSOW7dPJzeyjXc"
-        }
-      ],
-      "duration_ms": 272359,
-      "name": "Manasella Neene - From \"Lucky Man\"",
-      "url": "https://open.spotify.com/track/2HVlG7DELDQ3tcSITvLEV7"
-    },
-    {
       "added_at": "2022-08-16 12:21:25",
       "album": {
         "name": "Sambhrama",
@@ -227,6 +219,34 @@
     {
       "added_at": "2022-07-18 06:13:34",
       "album": {
+        "name": "Hey Fakira (From \"Vikrant Rona\")",
+        "url": "https://open.spotify.com/album/64YmpCXj6doaZa7EW15zPZ"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Anup Bhandari",
+          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
+        }
+      ],
+      "duration_ms": 172206,
+      "name": "Hey Fakira (From \"Vikrant Rona\")",
+      "url": "https://open.spotify.com/track/71HXynGmLcg9br5GfS2Z8V"
+    },
+    {
+      "added_at": "2022-07-18 06:13:34",
+      "album": {
         "name": "Kesariya Rangu [From \"Brahmastra (Kannada)\"]",
         "url": "https://open.spotify.com/album/0St5fP672OHd31twjogATZ"
       },
@@ -247,6 +267,34 @@
       "duration_ms": 278377,
       "name": "Kesariya Rangu (From \"Brahmastra (Kannada)\")",
       "url": "https://open.spotify.com/track/1F0i0Ynrv28aAvycSLsugZ"
+    },
+    {
+      "added_at": "2022-08-10 18:46:25",
+      "album": {
+        "name": "Deva Deva [From \"Brahmastra (Kannada)\"]",
+        "url": "https://open.spotify.com/album/78j4M4PZMtQWaZlwGLhbn2"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "duration_ms": 276964,
+      "name": "Deva Deva (From \"Brahmastra (Kannada)\")",
+      "url": "https://open.spotify.com/track/0wKiyi7AlxyLo3fiVPX454"
     },
     {
       "added_at": "2022-08-12 12:41:43",
@@ -297,10 +345,10 @@
       "url": "https://open.spotify.com/track/7GYrsaZviUU4egHeVzXBS6"
     },
     {
-      "added_at": "2022-07-18 06:13:34",
+      "added_at": "2022-08-10 11:23:48",
       "album": {
-        "name": "Hey Fakira (From \"Vikrant Rona\")",
-        "url": "https://open.spotify.com/album/64YmpCXj6doaZa7EW15zPZ"
+        "name": "Manasella Neene (From \"Lucky Man\")",
+        "url": "https://open.spotify.com/album/6rMzebX4AnY4oooXmIVCzh"
       },
       "artists": [
         {
@@ -308,21 +356,17 @@
           "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
         },
         {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+          "name": "V2 Vijay Vicky",
+          "url": "https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF"
         },
         {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Anup Bhandari",
-          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
+          "name": "Dhananjay Rajan",
+          "url": "https://open.spotify.com/artist/2iJ67BcXWSOW7dPJzeyjXc"
         }
       ],
-      "duration_ms": 172206,
-      "name": "Hey Fakira (From \"Vikrant Rona\")",
-      "url": "https://open.spotify.com/track/71HXynGmLcg9br5GfS2Z8V"
+      "duration_ms": 272359,
+      "name": "Manasella Neene - From \"Lucky Man\"",
+      "url": "https://open.spotify.com/track/2HVlG7DELDQ3tcSITvLEV7"
     },
     {
       "added_at": "2022-08-06 18:28:58",

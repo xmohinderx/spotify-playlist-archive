@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-203 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+204 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Fear Of Dying](https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fear Of Dying](https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q) | 3:07 | 2022-01-07 |  |
 | [First Place](https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [First Place](https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ) | 3:13 | 2022-04-22 |  |
 | [Float](https://open.spotify.com/track/6UDwGDAfyHhHq2JTFbGfpv) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Stryer](https://open.spotify.com/artist/0bF1Nk4mVQlhDlvXq5P0ac), [Meg & Dia](https://open.spotify.com/artist/77YbJ4a9IlKX18ck6qoot1) | [Float](https://open.spotify.com/album/4OKUYgRrUpvkapVWNlqph3) | 2:54 | 2022-01-14 |  |
-| [FOREVER](https://open.spotify.com/track/7GqrUxuTqiup3RGffuQ0y8) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER](https://open.spotify.com/album/7LHWYD3ctxRIdao3ulv66S) | 3:48 | 2022-07-15 |  |
+| [FOREVER](https://open.spotify.com/track/6JJ1URTERzj7LcqKpRsvMT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:48 | 2022-07-15 |  |
+| [FOREVER](https://open.spotify.com/track/7GqrUxuTqiup3RGffuQ0y8) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER](https://open.spotify.com/album/7LHWYD3ctxRIdao3ulv66S) | 3:48 | 2022-07-15 | 2022-08-20 |
 | [FOREVER \(feat\. BROODS\)](https://open.spotify.com/track/1Oi354OePPmpvCsfZayQrC) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER \(feat\. BROODS\)](https://open.spotify.com/album/2OYPLFa8fn8oR4KoaasV69) | 3:48 | 2021-12-03 | 2022-07-29 |
 | [Forget You](https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Aura](https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS) | 4:48 | 2021-12-03 |  |
 | [Getting Late \(feat\. Danni Carra\)](https://open.spotify.com/track/2wG7MgpfXMCzQcTPCt78Tb) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Getting Late \(feat\. Danni Carra\)](https://open.spotify.com/album/1U1KPw61pnyjLktp0nCiPj) | 3:51 | 2022-01-07 |  |

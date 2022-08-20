@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Los temas m\u00e1s prendidos del trap desde Venezuela, Colombia, Per\u00fa y Ecuador. Foto: Micro TDH",
+  "description": "Los temas m\u00e1s prendidos del trap desde Venezuela, Colombia, Per\u00fa y Ecuador. Foto: Maluma",
   "name": "Trapperz Andinos",
   "published_playlist_ids": [
     "6opAfCvVy9IGx107v1jCvA"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "The Love & Sex Tape (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200269,
+      "name": "28",
+      "url": "https://open.spotify.com/track/3CNAh2F7pfyUu7KAEYHtMl"
+    },
     {
       "album": {
         "name": "A Prueba de Balas",
@@ -93,7 +111,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 165500,
       "name": "Bolero 808",
       "url": "https://open.spotify.com/track/4LFRvZF78H1R5adZZ8gYGL"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 195139,
       "name": "Corazonada",
       "url": "https://open.spotify.com/track/4O6FjdzvQBJvY0sI1ybm2a"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 215454,
       "name": "Coraz\u00f3n Partido",
       "url": "https://open.spotify.com/track/0j78SyCsDsLnEW7YwXEImo"
@@ -517,6 +535,24 @@
       "duration_ms": 243706,
       "name": "Flight Away",
       "url": "https://open.spotify.com/track/5nggToLBtfPFNjIRQjHc58"
+    },
+    {
+      "album": {
+        "name": "Flor de Loto",
+        "url": "https://open.spotify.com/album/1zdtga77ItleW98WqnrX0m"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126548,
+      "name": "Flor de Loto",
+      "url": "https://open.spotify.com/track/4lS5OOqQzyQDDR0g1EmcdK"
     },
     {
       "album": {
@@ -848,6 +884,28 @@
     },
     {
       "album": {
+        "name": "Llanogrande",
+        "url": "https://open.spotify.com/album/4erHmgwHrYipv67oz7EEhz"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "HIT$ MUSIC",
+          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Llanogrande",
+      "url": "https://open.spotify.com/track/19j1aiX1XtvV1rjQiB0xnI"
+    },
+    {
+      "album": {
         "name": "Ma' G",
         "url": "https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe"
       },
@@ -881,7 +939,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 168000,
       "name": "Macaroni",
       "url": "https://open.spotify.com/track/1fvectJae9RagHJqiOHNrl"
@@ -1226,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "Que Fue",
+        "url": "https://open.spotify.com/album/1XzNceSB41vVsinihbYfpz"
+      },
+      "artists": [
+        {
+          "name": "Nero Lvigi",
+          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232941,
+      "name": "Que Fue",
+      "url": "https://open.spotify.com/track/7FXuCVl6Wf5LuqkagnafUQ"
+    },
+    {
+      "album": {
         "name": "Rockstars",
         "url": "https://open.spotify.com/album/5gxGWqgqGj0NIz4ssk5ftv"
       },
@@ -1245,6 +1321,24 @@
       "duration_ms": 184389,
       "name": "Rockstars",
       "url": "https://open.spotify.com/track/3FSlnw2ULKtzZmKRsCePM9"
+    },
+    {
+      "album": {
+        "name": "Si Caigo",
+        "url": "https://open.spotify.com/album/0rUlFV3JJNaOt7AyEd3NUy"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203427,
+      "name": "Si Caigo",
+      "url": "https://open.spotify.com/track/5fcmgOkht9NNEj4xrwcDem"
     },
     {
       "album": {
@@ -1431,7 +1525,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 219481,
       "name": "Track 11",
       "url": "https://open.spotify.com/track/58Z2aR6MVBuQumxBru8Y40"

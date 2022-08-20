@@ -1584,6 +1584,24 @@
     },
     {
       "album": {
+        "name": "Nuestras Flores",
+        "url": "https://open.spotify.com/album/6DE4XqVKpCNKf59JvyIcRE"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269472,
+      "name": "Nuestras Flores",
+      "url": "https://open.spotify.com/track/6wk1i2Wi2eYX4YjPoGnljA"
+    },
+    {
+      "album": {
         "name": "Otra Vez en el Camino",
         "url": "https://open.spotify.com/album/0oQTK9F6643YJRCNlPWc4C"
       },

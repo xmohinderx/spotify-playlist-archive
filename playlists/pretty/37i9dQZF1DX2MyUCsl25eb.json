@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 968877,
+  "num_followers": 968915,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDdjZDFjYzY3OTAxMzlmMzAwMzdiMTFiNmY3MjA2OWQ3",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGQ3MDIwOGMwNTdmMjA0MWQzZmQyYmM2NjFjYmYzOTA3",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -25,20 +25,36 @@
       "url": "https://open.spotify.com/track/6q0RXGkwh6qH9aeAezNA68"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-08-19 04:02:00",
       "album": {
-        "name": "Rooftops",
-        "url": "https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc"
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk"
       },
       "artists": [
         {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 180248,
-      "name": "Rooftops",
-      "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
+      "duration_ms": 221377,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Flake",
+        "url": "https://open.spotify.com/album/4nAy8xZCkPn9WswSlsm933"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Flake",
+      "url": "https://open.spotify.com/track/6uqRFrcyYKVdcxwSJtHOUI"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -57,148 +73,20 @@
       "url": "https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-08-19 04:02:00",
       "album": {
-        "name": "Boy In My Head",
-        "url": "https://open.spotify.com/album/3735SIva27EuXcwKiyugRb"
+        "name": "Watching TV",
+        "url": "https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD"
       },
       "artists": [
         {
-          "name": "Cozi Zuehlsdorff",
-          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 149234,
-      "name": "Boy In My Head",
-      "url": "https://open.spotify.com/track/78hDYhsksee92GDqlZumdJ"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Downtown EP",
-        "url": "https://open.spotify.com/album/1xOBVAMeKnnMjPUga4n0eH"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 268092,
-      "name": "Better's on the Way",
-      "url": "https://open.spotify.com/track/5JDN1OhtRYLQ9IQMROclyg"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Seasick",
-        "url": "https://open.spotify.com/album/15XrXaGXDcZGigz55jwEe4"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 308513,
-      "name": "Minivan",
-      "url": "https://open.spotify.com/track/0GcOOoiOKcG8TM6G5enISN"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Imposter Syndrome",
-        "url": "https://open.spotify.com/album/2t9G4JSr0tgjiudH6KWyGl"
-      },
-      "artists": [
-        {
-          "name": "Abe Parker",
-          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
-        }
-      ],
-      "duration_ms": 193158,
-      "name": "Imposter Syndrome",
-      "url": "https://open.spotify.com/track/7HY0wLHPhWer6uSUYxsL3k"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "What a Convincing Illusion",
-      "url": "https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Leap",
-        "url": "https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Save Your Love",
-      "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Love is a Liar",
-        "url": "https://open.spotify.com/album/7c0crwrrBQxu6Y7hCvPhs0"
-      },
-      "artists": [
-        {
-          "name": "Scott Quinn",
-          "url": "https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Love is a Liar",
-      "url": "https://open.spotify.com/track/1uMX5OUtpvy8eBALNQpw5x"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "You Might Not Like Her (Clean)",
-        "url": "https://open.spotify.com/album/1qZD8GiN2m2wxydGdXHpYT"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/16aUfGKznCQHHi00xCFy6v"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "getting into",
-        "url": "https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3"
-      },
-      "artists": [
-        {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
-        }
-      ],
-      "duration_ms": 169629,
-      "name": "getting into",
-      "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
+      "duration_ms": 160677,
+      "name": "Watching TV",
+      "url": "https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -217,6 +105,38 @@
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/2t9G4JSr0tgjiudH6KWyGl"
+      },
+      "artists": [
+        {
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+        }
+      ],
+      "duration_ms": 193158,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/7HY0wLHPhWer6uSUYxsL3k"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Rooftops",
+        "url": "https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 180248,
+      "name": "Rooftops",
+      "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
+    },
+    {
       "added_at": "2021-10-22 04:01:00",
       "album": {
         "name": "Easy On Me",
@@ -231,6 +151,22 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Downtown EP",
+        "url": "https://open.spotify.com/album/1xOBVAMeKnnMjPUga4n0eH"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 268092,
+      "name": "Better's on the Way",
+      "url": "https://open.spotify.com/track/5JDN1OhtRYLQ9IQMROclyg"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -297,22 +233,6 @@
       "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U"
-      },
-      "artists": [
-        {
-          "name": "Abe Parker",
-          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
-        }
-      ],
-      "duration_ms": 183937,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Hurtless",
@@ -327,6 +247,22 @@
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U"
+      },
+      "artists": [
+        {
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+        }
+      ],
+      "duration_ms": 183937,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -365,22 +301,6 @@
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "You Might Not Like Her",
@@ -411,6 +331,22 @@
       "duration_ms": 208599,
       "name": "dancing in the kitchen",
       "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -793,22 +729,6 @@
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
-      },
-      "artists": [
-        {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Mr. Percocet",
@@ -823,6 +743,22 @@
       "duration_ms": 193973,
       "name": "Mr. Percocet",
       "url": "https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
+      },
+      "artists": [
+        {
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+        }
+      ],
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -903,6 +839,22 @@
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Leap",
+        "url": "https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Save Your Love",
+      "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1239,6 +1191,54 @@
       "duration_ms": 181040,
       "name": "BIG SHOT",
       "url": "https://open.spotify.com/track/3UHNRo52Jrra0NfaIlYbk4"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Meet The Moonlight",
+        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 305607,
+      "name": "Meet The Moonlight",
+      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+    },
+    {
+      "added_at": "2021-08-04 17:54:39",
+      "album": {
+        "name": "Gold-Diggers Sound",
+        "url": "https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 203091,
+      "name": "Steam",
+      "url": "https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "State of the Heart",
+        "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "When The Lights Go Out",
+      "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
     }
   ],
   "unique_name": "Morning Commute",

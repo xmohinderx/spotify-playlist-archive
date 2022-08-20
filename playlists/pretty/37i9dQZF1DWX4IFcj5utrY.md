@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K?si=l71J8PpWRua6TAi1qSWMaA">DJ Kabila</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,898 likes - 70 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,920 likes - 70 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 36 | [Phakeme](https://open.spotify.com/track/4ylIEbjjtCtDr05FCXhk53) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Ndoni](https://open.spotify.com/artist/5CIefATUW9oUwXL9FaOIIZ) | [Phakeme](https://open.spotify.com/album/4iT60HD8yLQSSNymVtRI8N) | 6:22 |
 | 37 | [Falling](https://open.spotify.com/track/02EcHipDbDyuGkbbJGDy95) | [Griffith Malo](https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ), [Sololo](https://open.spotify.com/artist/6vqIBWzTVWQP57RWIAlLRd) | [Falling](https://open.spotify.com/album/08DznWlfpaShgPFylowwgH) | 6:59 |
 | 38 | [Stingy](https://open.spotify.com/track/5jVDjYaYHP0silwrtOM0Rh) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Road Trip](https://open.spotify.com/album/5AzXeukxvO8Wb1vMMY4v58) | 5:22 |
-| 39 | [Emergency \- Radio Edit](https://open.spotify.com/track/77S8SmK0gNGNRWjpkbdBId) | [Dario D'Attis](https://open.spotify.com/artist/7mjsEVJwyjy0aMXc0A1SYl), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp) | [Emergency](https://open.spotify.com/album/0knYXe2AfWcjSpuhI6Ob3s) | 3:13 |
+| 39 | [Emergency \- Radio Edit](https://open.spotify.com/track/77S8SmK0gNGNRWjpkbdBId) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp) | [Emergency](https://open.spotify.com/album/0knYXe2AfWcjSpuhI6Ob3s) | 3:13 |
 | 40 | [Afro Brotherz \(Santorini\)](https://open.spotify.com/track/3yGeEoZRkROSHk3nwm32or) | [Afro Brotherz](https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN) | [Santorini](https://open.spotify.com/album/3OdQh8jCAcKS608jwFBrOC) | 7:37 |
 | 41 | [One Step At A Time](https://open.spotify.com/track/2h0zFi9cGquo12haOIMp3N) | [ADO](https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4) | [One Step At A Time](https://open.spotify.com/album/4Q1Lbn9JSHWnvuyVbAONfk) | 3:58 |
 | 42 | [Issues](https://open.spotify.com/track/10IWxGZvMEXZRietINatt2) | [Mark Stent](https://open.spotify.com/artist/2whiBQzZUS6fMkfOCqzXWS), [Alek Jenssen](https://open.spotify.com/artist/2d5uZpsDxp7MVB1yIOM7jH) | [Season](https://open.spotify.com/album/1ovyRWyho3RzkrqixgP664) | 3:28 |

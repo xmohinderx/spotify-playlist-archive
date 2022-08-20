@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!!  <br/>Cover: Whiskey Myers
 
-176 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+177 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,12 +16,13 @@
 | [All I Can Think About Lately](https://open.spotify.com/track/5pkNN8QrCbPAvgh0QAfupx) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [All I Can Think About Lately](https://open.spotify.com/album/3JrC0f2pdNHKs2Fx8xK0AW) | 3:46 | 2022-03-25 | 2022-07-09 |
 | [All It Cost Me Was Everything](https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [All It Cost Me Was Everything](https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC) | 3:50 | 2021-11-01 |  |
 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 | 2021-11-01 |  |
-| [Amen](https://open.spotify.com/track/6jSebdcbIlp0GaBwpsYSRl) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Amen](https://open.spotify.com/album/7uWlZ5GhRBdSOzZuCrc37u) | 3:52 | 2021-11-01 |  |
+| [Amen](https://open.spotify.com/track/6jSebdcbIlp0GaBwpsYSRl) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Amen](https://open.spotify.com/album/7uWlZ5GhRBdSOzZuCrc37u) | 3:52 | 2021-11-01 | 2022-08-20 |
 | [American Dream](https://open.spotify.com/track/3VnFk87TXGjpfuStmK3mhu) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Reno](https://open.spotify.com/album/5iiEBI9SRW5JtljCEBR9pM) | 3:26 | 2022-05-06 | 2022-08-07 |
 | [American Thread](https://open.spotify.com/track/0d0wIqxnYcavcm5AQjvBlB) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [American Thread](https://open.spotify.com/album/7vpWpFDu2k7eEWNrstjPwO) | 3:17 | 2021-11-01 | 2022-05-07 |
 | [Another Mile](https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Another Mile](https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz) | 3:36 | 2022-08-05 |  |
 | [Antioch](https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Antioch](https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn) | 4:05 | 2022-03-25 |  |
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 |  |
+| [Are We On Fire](https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM) | 3:37 | 2022-08-19 |  |
 | [Babies](https://open.spotify.com/track/045vMbY2pAsHzjFLqHcadn) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies](https://open.spotify.com/album/5NGiKgJuCfMAvKvEwgOnTn) | 2:59 | 2022-06-17 | 2022-07-09 |
 | [Bat Out Of Birmingham](https://open.spotify.com/track/0aK4mDwdfQGVH8YI3QOKpj) | [Jobe Fortner](https://open.spotify.com/artist/6RU95qiRMzolGkQZc6FIY4) | [Bat Out Of Birmingham](https://open.spotify.com/album/4rkv7ffmhDwzpPtVnw5BcO) | 3:37 | 2021-11-19 | 2022-07-17 |
 | [Better Off](https://open.spotify.com/track/05UnWmN0WVz8zYHBUtAeVz) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Nashville Mornings](https://open.spotify.com/album/6pq48mL5ol1L7RaH9T0ctR) | 3:17 | 2021-11-01 | 2022-07-10 |

@@ -4,7 +4,7 @@
 
 > The Corridos of yesterday and today all in one place!
 
-96 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/2TYEWDoYUvKWe0GHIXYiPN)
+98 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/2TYEWDoYUvKWe0GHIXYiPN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [El Karma](https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:15 | 2022-01-01 |  |
 | [El Moreño](https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [14 Exitos](https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp) | 2:54 | 2022-01-01 |  |
 | [El Niño De La Tuna](https://open.spotify.com/track/6FooQEHlzu2d38aZ9SjJvV) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [El Nino De La Tuna](https://open.spotify.com/album/2pga97tsZosoiHW5y9Mtco) | 3:36 | 2022-01-01 |  |
-| [El Penal De La Loma](https://open.spotify.com/track/2NRQRAPq2BF5UIZitIMZGJ) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Los Amos Del Corrido](https://open.spotify.com/album/1B2DVd1xN1wC5QGmnBvla5) | 2:55 | 2022-01-01 |  |
+| [El Penal De La Loma](https://open.spotify.com/track/2NRQRAPq2BF5UIZitIMZGJ) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Los Amos Del Corrido](https://open.spotify.com/album/1B2DVd1xN1wC5QGmnBvla5) | 2:55 | 2022-01-01 | 2022-08-20 |
 | [El Penal De La Loma](https://open.spotify.com/track/4EylbrBoqejHLkzJGS3WhU) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Los Amos Del Corrido](https://open.spotify.com/album/3ladHEsIM6AEiXyRTzZ9qI) | 2:55 | 2022-01-01 | 2022-07-29 |
+| [El Penal De La Loma](https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [A Las Damas También Les Gustan Los Corridos](https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv) | 2:55 | 2022-01-01 |  |
 | [El Roto](https://open.spotify.com/track/2GrHWsu8r3N8WEQAiiTSlg) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Roto](https://open.spotify.com/album/5LpVTeRA0lLxEVwE4juBFx) | 3:03 | 2022-01-01 | 2022-07-29 |
 | [El Ultimo Cartucho](https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:21 | 2022-01-01 |  |
 | [El Valor De Un Varón](https://open.spotify.com/track/5gLD1OoBB5fLNlDWY3mrlP) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/4eWWlUpqJlgTbsb36yTQZj) | 3:31 | 2022-01-01 | 2022-07-29 |
@@ -64,7 +65,8 @@
 | [La Camioneta Gris](https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 3:15 | 2022-01-01 |  |
 | [La Captura III](https://open.spotify.com/track/1y1zGvNOVkURLr8TzqWjXA) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Captura III](https://open.spotify.com/album/2Dx9DX0zG74oF0x4vqyAOx) | 3:08 | 2022-01-01 |  |
 | [La Carretera Hacia Juarez](https://open.spotify.com/track/6drRLQB9x11UXmV0cNTffo) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos Perros Vol.1](https://open.spotify.com/album/6gi63Tzp521cz82jS7ItHA) | 2:30 | 2022-01-01 |  |
-| [La Cheyene del Año](https://open.spotify.com/track/74c22PUka78qXVFudVnLJT) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los 20 Mejores Corridos y Rancheras](https://open.spotify.com/album/6fNcLl4TR9uUUj6ZkoVHiD) | 3:01 | 2022-01-01 |  |
+| [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 | 2022-01-01 |  |
+| [La Cheyene del Año](https://open.spotify.com/track/74c22PUka78qXVFudVnLJT) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los 20 Mejores Corridos y Rancheras](https://open.spotify.com/album/6fNcLl4TR9uUUj6ZkoVHiD) | 3:01 | 2022-01-01 | 2022-08-20 |
 | [La Cheyene del Año](https://open.spotify.com/track/1Befsq8QTEAJNKnxKlPPUM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [¡pa Puros Compas! Vol\. Ii](https://open.spotify.com/album/5NdplNnKYPN84dicsTocv4) | 3:03 | 2022-01-01 | 2022-07-29 |
 | [La Escuela No Me Gustó](https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Javier Rosas](https://open.spotify.com/artist/1JKku43pXGs9GM80XoWDzi) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:56 | 2022-01-01 |  |
 | [La Hummer Y El Camaro](https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl), [Jorge Santacruz](https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx) | [Los Mejores Corridos De](https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x) | 3:31 | 2022-01-01 |  |

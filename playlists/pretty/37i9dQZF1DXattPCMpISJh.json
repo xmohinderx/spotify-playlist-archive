@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: The Knocks",
-  "num_followers": 53558,
+  "num_followers": 53758,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGYyZDRjMTM4ZmQyOGMwYTg4ZjdiMDM2OWNhMzdhYmJm",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGY5NzE5NzY5ZGQ1OTZjYzBjZWNjYzZjNzU5MTJiMzNj",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -67,6 +67,26 @@
       "duration_ms": 173148,
       "name": "All My Love (feat. Olivera)",
       "url": "https://open.spotify.com/track/4axALpFKrIPxwQRnYJ1Zmc"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Mystery of Love (Le Flex \"Summer Mystery\" Remix)",
+        "url": "https://open.spotify.com/album/6LozhAvGkGm2TlWnXsng7w"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        },
+        {
+          "name": "Le Flex",
+          "url": "https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF"
+        }
+      ],
+      "duration_ms": 253097,
+      "name": "Mystery of Love - Le Flex \"Summer Mystery\" Remix",
+      "url": "https://open.spotify.com/track/2nDXRRl54WDUU8iDzDRm4f"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1647,34 +1667,6 @@
       "duration_ms": 191637,
       "name": "We Hold the Future",
       "url": "https://open.spotify.com/track/0PAugWAYPor3vV3cB8euA3"
-    },
-    {
-      "added_at": "2021-09-17 04:02:00",
-      "album": {
-        "name": "The Disco Song",
-        "url": "https://open.spotify.com/album/68Oj7EjlT1YShQUFOgBQMm"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        },
-        {
-          "name": "The California Jet Club",
-          "url": "https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022"
-        },
-        {
-          "name": "Jhonni Blaze",
-          "url": "https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23"
-        },
-        {
-          "name": "Maiya Sykes",
-          "url": "https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "The Disco Song",
-      "url": "https://open.spotify.com/track/1k5uC3EcnsIEbOMB680Afb"
     },
     {
       "added_at": "2021-10-15 04:01:00",

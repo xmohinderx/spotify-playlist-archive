@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-233 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
+234 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Dark Thoughts About A Pretty Flower](https://open.spotify.com/track/3Xeu9u21qYeI0vlqzdHLSV) | [The Lovelines](https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2) | [Dark Thoughts About A Pretty Flower](https://open.spotify.com/album/6g0IHMPMy2e0VENropaA4b) | 3:07 | 2022-03-25 | 2022-04-21 |
 | [Do It](https://open.spotify.com/track/05PwdsH3uVKwunbP3L0QZR) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Do It](https://open.spotify.com/album/3hJMCwzbffy8E1TqVtsZWb) | 3:01 | 2021-12-03 | 2022-07-29 |
 | [Do Re Mi](https://open.spotify.com/track/2EvyQsmsVGfDh2sEG8Myhy) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Do Re Mi](https://open.spotify.com/album/6H8u5r6t7U24FN1qFnPTfq) | 2:41 | 2022-01-28 | 2022-07-29 |
-| [Do That for You](https://open.spotify.com/track/6nxRxeYjAKJfwtWGO1CtjO) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Life In Colour](https://open.spotify.com/album/36zNWjjmLyBcqEGGmKuO5O) | 3:23 | 2021-12-03 |  |
+| [Do That for You](https://open.spotify.com/track/6nxRxeYjAKJfwtWGO1CtjO) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Life In Colour](https://open.spotify.com/album/36zNWjjmLyBcqEGGmKuO5O) | 3:23 | 2021-12-03 | 2022-08-20 |
 | [Does Anybody Know](https://open.spotify.com/track/5VFStg36hHvBLBs1Bk52Sb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Does Anybody Know](https://open.spotify.com/album/6RUMsYj6QVzmiQ2LPa5LLk) | 3:28 | 2021-12-03 | 2022-07-29 |
 | [Domino](https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:03 | 2021-12-03 |  |
 | [Don't Ask Why](https://open.spotify.com/track/6uBng5HDOCh0Y9fufxmVyN) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Don't Ask Why](https://open.spotify.com/album/2dV6Cph8TmEvU7qApCq5Ze) | 3:15 | 2022-03-04 | 2022-07-22 |
@@ -195,6 +195,7 @@
 | [Smile](https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Smile](https://open.spotify.com/album/5yQX2nTKX3Fkk4M1N9YJbu) | 2:50 | 2022-02-04 | 2022-07-29 |
 | [Smooth Sailin'](https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:03 | 2021-12-03 | 2022-05-08 |
 | [Smooth Sailin'](https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:03 | 2021-12-03 |  |
+| [Somebody](https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Somebody](https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8) | 3:19 | 2022-08-19 |  |
 | [Something Special](https://open.spotify.com/track/2217ssMvgWOyaZmvTWP9IA) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu), [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Something Special](https://open.spotify.com/album/1jZ8YbczykhDOgMH8MTzT9) | 2:30 | 2021-12-03 | 2022-07-29 |
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2022-04-22 |  |
 | [Steady Love](https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA) | 3:44 | 2022-02-11 | 2022-07-31 |

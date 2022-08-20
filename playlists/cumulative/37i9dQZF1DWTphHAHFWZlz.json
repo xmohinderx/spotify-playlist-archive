@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "La nueva ola del rock argentino. Foto: Mi Amigo Invencible",
+  "description": "La nueva ola del rock argentino. Foto: El Mat\u00f3 a un Polic\u00eda Motorizado",
   "name": "Rockola",
   "published_playlist_ids": [
     "0MtUXUcZ7oflfCxYvMhlyV"
@@ -1484,6 +1484,46 @@
     },
     {
       "album": {
+        "name": "La Ciudad Nos Ilumina las Caras",
+        "url": "https://open.spotify.com/album/5FVZFjAVNaOm7X9erzp905"
+      },
+      "artists": [
+        {
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262789,
+      "name": "La Ciudad Nos Ilumina las Caras",
+      "url": "https://open.spotify.com/track/0AcUxNrUimUbnZjfU1d1Eo"
+    },
+    {
+      "album": {
+        "name": "La Foto",
+        "url": "https://open.spotify.com/album/5ks9k8UqomuzIKdhSuDaPP"
+      },
+      "artists": [
+        {
+          "name": "Tob\u00edas Arribillaga",
+          "url": "https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ"
+        },
+        {
+          "name": "Parientes",
+          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213001,
+      "name": "La Foto",
+      "url": "https://open.spotify.com/track/6ubfIxvIdkcICVNzsdvdFc"
+    },
+    {
+      "album": {
         "name": "La Nieve",
         "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
       },
@@ -1709,6 +1749,32 @@
       "duration_ms": 254284,
       "name": "Los Fantasmas",
       "url": "https://open.spotify.com/track/0aGYVf5anL1ZHeXR9ZBMKe"
+    },
+    {
+      "album": {
+        "name": "Isla de Oro",
+        "url": "https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        },
+        {
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        },
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Manto Negro",
+      "url": "https://open.spotify.com/track/52jWtWtmqVyjB6AEBcV5BT"
     },
     {
       "album": {

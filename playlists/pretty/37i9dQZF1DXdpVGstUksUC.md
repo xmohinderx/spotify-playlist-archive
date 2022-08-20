@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Clutch
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,186 likes - 100 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,396 likes - 100 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

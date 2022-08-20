@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 26829,
+  "num_followers": 26828,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzExMyw3Mzg2OGE5ODMyNTU4MDE1M2UzNmIyM2NhZmVjNTM3ZjY5NDllNzRm",
+  "snapshot_id": "MzExOCxlOWU1YTQ2MmU2ZDczMTE3YjQzOGRlMzMwZWFmNzhkMjkzZjQ4YmUy",
   "tracks": [
     {
       "added_at": "2022-08-03 16:11:16",
@@ -31,26 +31,6 @@
       "duration_ms": 251796,
       "name": "AZD SURF",
       "url": "https://open.spotify.com/track/15RXHgm7esKYvPcHGTelUI"
-    },
-    {
-      "added_at": "2022-08-16 10:10:34",
-      "album": {
-        "name": "You Need Me",
-        "url": "https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        },
-        {
-          "name": "Frazer Ray",
-          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
-        }
-      ],
-      "duration_ms": 364165,
-      "name": "You Need Me",
-      "url": "https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB"
     },
     {
       "added_at": "2022-08-17 15:50:31",
@@ -83,6 +63,42 @@
       "duration_ms": 222911,
       "name": "Frisco",
       "url": "https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP"
+    },
+    {
+      "added_at": "2022-08-16 10:10:34",
+      "album": {
+        "name": "You Need Me",
+        "url": "https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        },
+        {
+          "name": "Frazer Ray",
+          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
+        }
+      ],
+      "duration_ms": 364165,
+      "name": "You Need Me",
+      "url": "https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB"
+    },
+    {
+      "added_at": "2022-08-19 21:10:16",
+      "album": {
+        "name": "Ressaca",
+        "url": "https://open.spotify.com/album/6XDY3vEmW4Y2FDrIEnaht5"
+      },
+      "artists": [
+        {
+          "name": "LYZZA",
+          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "Ressaca",
+      "url": "https://open.spotify.com/track/32Gt9yyt4yDKD8sVyGS1ig"
     },
     {
       "added_at": "2022-07-22 15:12:17",
@@ -243,26 +259,6 @@
       "duration_ms": 236500,
       "name": "1994",
       "url": "https://open.spotify.com/track/5CW8hkWUdJLVw8mbavDh1h"
-    },
-    {
-      "added_at": "2022-07-13 19:55:30",
-      "album": {
-        "name": "Deserve It",
-        "url": "https://open.spotify.com/album/0YVo6K9Uw6oR3cvk55d2Pr"
-      },
-      "artists": [
-        {
-          "name": "LYZZA",
-          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
-        },
-        {
-          "name": "La Zowi",
-          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Deserve It",
-      "url": "https://open.spotify.com/track/4I30X0g4MxH2BAW4RaHaxK"
     },
     {
       "added_at": "2022-07-05 14:58:18",

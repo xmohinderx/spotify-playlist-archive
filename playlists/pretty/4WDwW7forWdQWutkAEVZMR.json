@@ -1,13 +1,173 @@
 {
   "description": "Your go-to playlist for this week's hottest music featuring Beyonc\u00e9, Harry Styles &amp; more!",
-  "num_followers": 8307,
+  "num_followers": 8309,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTQ1MSwyOTYwY2FkZjIxOTNjOGZmZmQ0ODk4NzZlOGNkMzc5MDA3YTEyYjBh",
+  "snapshot_id": "NTQ2Niw4NmQ3NWZhMTVkMGQ0ODgzMDRjOWM0YzcyY2FmMDhhMjhlNjE0M2M4",
   "tracks": [
+    {
+      "added_at": "2022-08-19 15:01:37",
+      "album": {
+        "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+        "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+    },
+    {
+      "added_at": "2022-08-19 15:02:49",
+      "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/7DllxBuh4dcjrORcKNkyQf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 166273,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/7KuSHOqPEgLzE8UwSoaKX1"
+    },
+    {
+      "added_at": "2022-08-19 15:03:04",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6TfS8L0UKhEgw2G9aqj0bI"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/03aXoiwsFCXxgYuoStgwJj"
+    },
+    {
+      "added_at": "2022-08-19 15:03:44",
+      "album": {
+        "name": "VIRALITY",
+        "url": "https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        },
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "duration_ms": 161107,
+      "name": "QuikkSkope (feat. DC The Don)",
+      "url": "https://open.spotify.com/track/5Kvs2iitHuGu1PCaJESZJS"
+    },
+    {
+      "added_at": "2022-08-19 15:03:17",
+      "album": {
+        "name": "washing off the blood",
+        "url": "https://open.spotify.com/album/4uksOCpMp8CM6UMA6B8AQf"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "washing off the blood",
+      "url": "https://open.spotify.com/track/13L7MYNjVLkLqq1YnMn0IL"
+    },
+    {
+      "added_at": "2022-08-19 15:03:31",
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/1jnZuo1cL5ICy4uKci9aHb"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 156142,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/7gbB9Wy6GkDr0dOZvw6ihK"
+    },
+    {
+      "added_at": "2022-08-19 15:02:34",
+      "album": {
+        "name": "Middle of the Trenches (feat. Fredo Bang)",
+        "url": "https://open.spotify.com/album/2LzZ7oRj95yo70huqp4CaH"
+      },
+      "artists": [
+        {
+          "name": "Hunckho Bookie",
+          "url": "https://open.spotify.com/artist/7tF1gR3pKTFaPUnHlXTwPq"
+        },
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Middle of the Trenches (feat. Fredo Bang)",
+      "url": "https://open.spotify.com/track/5pGpRJbaawWFwx7B6FfnRE"
+    },
+    {
+      "added_at": "2022-08-19 15:01:51",
+      "album": {
+        "name": "Why Yo Face So Ugly",
+        "url": "https://open.spotify.com/album/3w9CBT8F4uMHA5Bvc1LBcI"
+      },
+      "artists": [
+        {
+          "name": "BeatKing",
+          "url": "https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4"
+        }
+      ],
+      "duration_ms": 135918,
+      "name": "Why Yo Face So Ugly",
+      "url": "https://open.spotify.com/track/1pmdSzE3yRNcagg7H59Z7X"
+    },
+    {
+      "added_at": "2022-08-19 15:02:06",
+      "album": {
+        "name": "FUN (yun\u00e8 pinku Remix)",
+        "url": "https://open.spotify.com/album/69fs5PB0bHIQ8UTUzUWpWo"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 171477,
+      "name": "FUN - yun\u00e8 pinku Remix",
+      "url": "https://open.spotify.com/track/7dUL7g3m05OdcGLcs3V0uS"
+    },
     {
       "added_at": "2022-08-12 14:53:49",
       "album": {

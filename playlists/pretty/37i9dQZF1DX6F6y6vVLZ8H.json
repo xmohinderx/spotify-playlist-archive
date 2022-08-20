@@ -1,6 +1,6 @@
 {
   "description": "A collection of songs from Tony Hawk's Pro Skater 1 + 2.",
-  "num_followers": 165867,
+  "num_followers": 166054,
   "original_name": "Tony Hawk's Pro Skater 1 + 2",
   "owner": {
     "name": "Spotify",
@@ -652,8 +652,12 @@
       },
       "artists": [
         {
-          "name": "Spilt Milk & Relaye",
-          "url": "https://open.spotify.com/artist/4LgNF21iq1IICSw9zdobNC"
+          "name": "Spilt Milk",
+          "url": "https://open.spotify.com/artist/5a4YbQRezrArmu3VxdMGao"
+        },
+        {
+          "name": "Relaye",
+          "url": "https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya"
         }
       ],
       "duration_ms": 154434,

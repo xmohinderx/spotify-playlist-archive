@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 392333,
       "name": "Adieu c'est fini",
       "url": "https://open.spotify.com/track/0dKRDmt9mpBhmhWsp1dpxU"
@@ -554,6 +554,28 @@
     },
     {
       "album": {
+        "name": "GHAZALI",
+        "url": "https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l"
+      },
+      "artists": [
+        {
+          "name": "MOUHAMED GRINE",
+          "url": "https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh"
+        },
+        {
+          "name": "Mouh Milano",
+          "url": "https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "GHAZALI",
+      "url": "https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA"
+    },
+    {
+      "album": {
         "name": "Ghouyoum",
         "url": "https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB"
       },
@@ -944,6 +966,24 @@
     },
     {
       "album": {
+        "name": "Cheb Khaled",
+        "url": "https://open.spotify.com/album/07qAVChyoX0i1O5L5dv7GJ"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/7xE1TaILTJl91YvQdVB54i"
+    },
+    {
+      "album": {
         "name": "Nad El Borkan",
         "url": "https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU"
       },
@@ -973,7 +1013,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 206314,
       "name": "Nar El Hob",
       "url": "https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b"

@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Ezra Collective",
-  "num_followers": 203890,
+  "num_followers": 204101,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGQzNjM4NjY0ZWY3MTRhMWIwN2Q5MzRjZjAxNTkzZTJi",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGJhZDRiMTk0NTljOWQ3OGQ0ZDJjNjU4Nzc3YmQxZDNm",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Influencias Latinas",
-        "url": "https://open.spotify.com/album/21OBXWjYU6CPzncXXHjCKk"
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
       },
       "artists": [
         {
-          "name": "Lo Greco Bros",
-          "url": "https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY"
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
         }
       ],
-      "duration_ms": 316998,
-      "name": "Miami Dream",
-      "url": "https://open.spotify.com/track/1aIANWtddXVxegatVZWDBv"
+      "duration_ms": 187346,
+      "name": "The Revolution Will Not Be Televised",
+      "url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -121,44 +121,20 @@
       "url": "https://open.spotify.com/track/5AJQebZSTWvdcMlHCmMNhg"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2022-08-19 04:02:00",
       "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
+        "name": "You Feel Me",
+        "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
       },
       "artists": [
         {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
         }
       ],
-      "duration_ms": 187346,
-      "name": "The Revolution Will Not Be Televised",
-      "url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Sky View",
-        "url": "https://open.spotify.com/album/3APv0egvjU4DiD1k77I4R4"
-      },
-      "artists": [
-        {
-          "name": "Duochrome",
-          "url": "https://open.spotify.com/artist/7oEPPw9oIE9daEBxJ4qRlB"
-        },
-        {
-          "name": "Brian Thomas",
-          "url": "https://open.spotify.com/artist/5J2bWNW9crLgcvyNNjPtdz"
-        },
-        {
-          "name": "Jared Sims",
-          "url": "https://open.spotify.com/artist/7vO0dxaCLvGlRAqCl47d7X"
-        }
-      ],
-      "duration_ms": 385000,
-      "name": "Sky View",
-      "url": "https://open.spotify.com/track/58IGukkmCJqIlTrrb4g4xO"
+      "duration_ms": 191443,
+      "name": "You Feel Me",
+      "url": "https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1507,6 +1483,30 @@
       "duration_ms": 287349,
       "name": "The Positive and the Negative",
       "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
+    },
+    {
+      "added_at": "2021-04-16 04:00:00",
+      "album": {
+        "name": "Deep: The Baritone Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu"
+      },
+      "artists": [
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        },
+        {
+          "name": "Bobby Sparks II",
+          "url": "https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        }
+      ],
+      "duration_ms": 353546,
+      "name": "Voyager One (feat. Nate Smith & Bobby Sparks II)",
+      "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
     }
   ],
   "unique_name": "Jazz-Funk",

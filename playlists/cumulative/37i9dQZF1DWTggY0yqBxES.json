@@ -1548,6 +1548,24 @@
     },
     {
       "album": {
+        "name": "FACES",
+        "url": "https://open.spotify.com/album/2ud0Zdgl2DkKXFbdMN2Eef"
+      },
+      "artists": [
+        {
+          "name": "Swavay",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117013,
+      "name": "FACES - but like the one the label made me do",
+      "url": "https://open.spotify.com/track/1vYAk7ZUKTI009021PGhQg"
+    },
+    {
+      "album": {
         "name": "Falling In Love",
         "url": "https://open.spotify.com/album/7jhAfMDtgng4vUODMKVyxT"
       },
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 152275,
       "name": "Gwapanese (Just Stop It) (feat. BabyTron)",
       "url": "https://open.spotify.com/track/3pYzJhcDPdQv2GoidBBlVv"

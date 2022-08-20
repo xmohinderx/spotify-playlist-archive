@@ -194,6 +194,28 @@
     },
     {
       "album": {
+        "name": "Journey to Golden",
+        "url": "https://open.spotify.com/album/6rW9csriPeZWsegHMOhpAh"
+      },
+      "artists": [
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        },
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299012,
+      "name": "Free Your Dreams",
+      "url": "https://open.spotify.com/track/5PnU3hbaqWlZDRib6iXcH2"
+    },
+    {
+      "album": {
         "name": "Journey To Golden",
         "url": "https://open.spotify.com/album/2FzgU4cRVqYl6yrsj9Ya5z"
       },
@@ -209,7 +231,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 299012,
       "name": "Free Your Dreams",
       "url": "https://open.spotify.com/track/7zTnlgGkXV0RucjuPmbn44"

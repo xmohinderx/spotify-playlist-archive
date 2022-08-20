@@ -1,13 +1,33 @@
 {
-  "description": "New England music breaking waves. Cover, KHARY",
-  "num_followers": 1038,
+  "description": "New England music breaking waves. Cover, Lily Rayne",
+  "num_followers": 1039,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyNDMxNCwwMDAwMDAwMDNhOTkyYmFmZTAxYjA4NWI4NGViYmIyOThhZWRjMDZl",
+  "snapshot_id": "MTY2MDkzODkwNSwwMDAwMDAwMDg2MmVjYmE5NTFhMWZmN2RiZjcwYTIxODVmOTJiYWM1",
   "tracks": [
+    {
+      "added_at": "2022-08-19 19:55:05",
+      "album": {
+        "name": "Stuck In The Past (with HENNESSY)",
+        "url": "https://open.spotify.com/album/4eO9KVW2NxZzcpY7gd9Ypd"
+      },
+      "artists": [
+        {
+          "name": "Jae Lynx",
+          "url": "https://open.spotify.com/artist/03lamRtaO7ZuCSn2qFfmMN"
+        },
+        {
+          "name": "HENNESSY",
+          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
+        }
+      ],
+      "duration_ms": 206442,
+      "name": "Stuck In The Past (with HENNESSY)",
+      "url": "https://open.spotify.com/track/3XfTIH7kTUFGT82HChugsO"
+    },
     {
       "added_at": "2022-08-12 17:11:54",
       "album": {
@@ -493,6 +513,26 @@
       "url": "https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx"
     },
     {
+      "added_at": "2022-08-19 19:55:05",
+      "album": {
+        "name": "TAKE U THERE",
+        "url": "https://open.spotify.com/album/0618vY8S4ueScXPUorSBQh"
+      },
+      "artists": [
+        {
+          "name": "Sliccbae",
+          "url": "https://open.spotify.com/artist/1dInXVk6DmvkFHJb6FD9lV"
+        },
+        {
+          "name": "Donald Grunge",
+          "url": "https://open.spotify.com/artist/0OYdOAg5NBuS47KdnJF4lH"
+        }
+      ],
+      "duration_ms": 205518,
+      "name": "TAKE U THERE",
+      "url": "https://open.spotify.com/track/3NO2rYXKOnuRHjsCu2vQpq"
+    },
+    {
       "added_at": "2022-05-13 20:20:24",
       "album": {
         "name": "Trendsetter",
@@ -601,6 +641,22 @@
       "url": "https://open.spotify.com/track/5y3o0v46j0zbOhFpXiTl19"
     },
     {
+      "added_at": "2022-08-19 19:55:05",
+      "album": {
+        "name": "ZIP (7OUNZE EDIT)",
+        "url": "https://open.spotify.com/album/0Pa8YqrdmG6zzSrBwaZrkH"
+      },
+      "artists": [
+        {
+          "name": "Krew$",
+          "url": "https://open.spotify.com/artist/2Q2bnfCHdRZfz6jktiJODz"
+        }
+      ],
+      "duration_ms": 166043,
+      "name": "ZIP (7OUNZE EDIT)",
+      "url": "https://open.spotify.com/track/1JTiPvL5b3Ug0SXIqJU7Rn"
+    },
+    {
       "added_at": "2022-08-05 19:58:13",
       "album": {
         "name": "BREAK IT DOWN",
@@ -615,6 +671,38 @@
       "duration_ms": 126551,
       "name": "BREAK IT DOWN",
       "url": "https://open.spotify.com/track/7aHzEZTz87BY3HGQ9ce27C"
+    },
+    {
+      "added_at": "2022-08-19 19:55:05",
+      "album": {
+        "name": "MESSY",
+        "url": "https://open.spotify.com/album/6mmejp5KOlSsgVDW3XzGLe"
+      },
+      "artists": [
+        {
+          "name": "Empty Hour",
+          "url": "https://open.spotify.com/artist/3UtbA9ZTRXFGKWbt1gPz4J"
+        }
+      ],
+      "duration_ms": 70514,
+      "name": "MESSY",
+      "url": "https://open.spotify.com/track/2WiXNTMuuQMCDYnkzODlHF"
+    },
+    {
+      "added_at": "2022-08-19 19:55:05",
+      "album": {
+        "name": "God Speed",
+        "url": "https://open.spotify.com/album/0tDnqaNl2NmK2Cvhcqwo3R"
+      },
+      "artists": [
+        {
+          "name": "$ean Wire",
+          "url": "https://open.spotify.com/artist/6wmTMxyKDHCbnoxy4n66rb"
+        }
+      ],
+      "duration_ms": 205766,
+      "name": "God Speed",
+      "url": "https://open.spotify.com/track/3mj4fkUK39rD8kpYa0ND2p"
     },
     {
       "added_at": "2022-05-13 20:20:24",
@@ -717,46 +805,6 @@
       "url": "https://open.spotify.com/track/4K37F24DgSi4dKfIKowHQw"
     },
     {
-      "added_at": "2022-07-22 20:03:23",
-      "album": {
-        "name": "Fine WIne",
-        "url": "https://open.spotify.com/album/7KjcU74UcOmuNN5CY9VPZ6"
-      },
-      "artists": [
-        {
-          "name": "CruufromtheNorth",
-          "url": "https://open.spotify.com/artist/6QJV7l4lt63Ay0zw5MC9Ic"
-        },
-        {
-          "name": "Toru",
-          "url": "https://open.spotify.com/artist/0KFS4WsXcKfPfD15Jvors4"
-        },
-        {
-          "name": "DTheFlyest",
-          "url": "https://open.spotify.com/artist/5k3KbrfdrZTfasGvrebyzr"
-        }
-      ],
-      "duration_ms": 195983,
-      "name": "Fine WIne",
-      "url": "https://open.spotify.com/track/1ESm9L9uKA0y36Uw33fvOJ"
-    },
-    {
-      "added_at": "2022-06-07 21:56:35",
-      "album": {
-        "name": "R U KIDDING ME ?",
-        "url": "https://open.spotify.com/album/1RKtCtRZzZFIT0XM8fWXVb"
-      },
-      "artists": [
-        {
-          "name": "Craigy F.",
-          "url": "https://open.spotify.com/artist/74gjXz4Kg3qHBlkdAuqtM7"
-        }
-      ],
-      "duration_ms": 138840,
-      "name": "R U KIDDING ME ?",
-      "url": "https://open.spotify.com/track/0bnK1EmCYfcUSRKP13pvGs"
-    },
-    {
       "added_at": "2022-01-29 00:15:56",
       "album": {
         "name": "baby steps",
@@ -771,22 +819,6 @@
       "duration_ms": 149070,
       "name": "pressed",
       "url": "https://open.spotify.com/track/2F1iYQpSIqSkpUKOGmPNXj"
-    },
-    {
-      "added_at": "2022-07-22 20:03:23",
-      "album": {
-        "name": "RUBBER MEETS ROAD",
-        "url": "https://open.spotify.com/album/4CsCWrSyLAaRUTPd87EXy0"
-      },
-      "artists": [
-        {
-          "name": "Kadeem",
-          "url": "https://open.spotify.com/artist/6tvhrOPkBOrTrzpfOB5n4R"
-        }
-      ],
-      "duration_ms": 208555,
-      "name": "BREATHE IT SLOW",
-      "url": "https://open.spotify.com/track/7b9qOSrXgFlT6f16zyRdn3"
     },
     {
       "added_at": "2022-01-29 00:15:56",
@@ -827,26 +859,6 @@
       "duration_ms": 183902,
       "name": "Major Fact (Bonus)",
       "url": "https://open.spotify.com/track/5qigctoNr6xPS4M418rvCp"
-    },
-    {
-      "added_at": "2022-07-18 21:17:51",
-      "album": {
-        "name": "PYREX VISIONARY",
-        "url": "https://open.spotify.com/album/4RDBwofDIq2sgCFulyZ7Fw"
-      },
-      "artists": [
-        {
-          "name": "Shaykh Hanif",
-          "url": "https://open.spotify.com/artist/6EqAIMZx0lEotAZ7tDQvTg"
-        },
-        {
-          "name": "OT the Real",
-          "url": "https://open.spotify.com/artist/5Nlk61jJwuFL7IO53cJJp4"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "STEEL SHARPEN STEEL",
-      "url": "https://open.spotify.com/track/6H3HAy1evQjryn4sax2hYs"
     },
     {
       "added_at": "2022-08-05 19:58:13",
@@ -895,22 +907,6 @@
       "duration_ms": 194538,
       "name": "CONVERSATIONS WITH THE PLUG",
       "url": "https://open.spotify.com/track/7EyDWblggvlq72t9uegWtt"
-    },
-    {
-      "added_at": "2022-08-05 19:58:13",
-      "album": {
-        "name": "Comprehend",
-        "url": "https://open.spotify.com/album/0AHwvcdt7MwJOyBMbKQimQ"
-      },
-      "artists": [
-        {
-          "name": "Anoyd",
-          "url": "https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "Comprehend",
-      "url": "https://open.spotify.com/track/6fVf1iCB8ci3kRVrsatRli"
     }
   ],
   "unique_name": "Ripple Effect: New England",

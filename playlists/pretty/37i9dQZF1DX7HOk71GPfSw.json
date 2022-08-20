@@ -1,12 +1,12 @@
 {
   "description": "new skaiwater",
-  "num_followers": 342194,
+  "num_followers": 342320,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4MTU0MCwwMDAwMDAwMDMyYWY3MWQ4OWQwMjVjYjY3MDY5YzRlNjkwNmI4MjUw",
+  "snapshot_id": "MTY2MDkyNDQ2OCwwMDAwMDAwMGI2NGYxZjdmZTY0NTgyOTgxYmM0YmEwM2QyNzdjZDYz",
   "tracks": [
     {
       "added_at": "2022-08-11 16:31:32",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-08-12 05:19:00",
       "album": {
+        "name": "boythots",
+        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 137844,
+      "name": "boythots",
+      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
+    },
+    {
+      "added_at": "2022-08-12 05:19:00",
+      "album": {
         "name": "LOVEU/LOVESICK",
         "url": "https://open.spotify.com/album/6rEBprf7aCll2zqEGJSp7q"
       },
@@ -71,6 +87,26 @@
       "duration_ms": 201000,
       "name": "LOVEU/LOVESICK",
       "url": "https://open.spotify.com/track/3ZSjiVsGwPqhUV9ZmZ14kl"
+    },
+    {
+      "added_at": "2022-08-19 15:54:28",
+      "album": {
+        "name": "Tambaleo (Machine Girl Remix)",
+        "url": "https://open.spotify.com/album/3bXr4Mu7MSHbUCzEHzn226"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        },
+        {
+          "name": "Machine Girl",
+          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+        }
+      ],
+      "duration_ms": 282173,
+      "name": "Tambaleo - Machine Girl Remix",
+      "url": "https://open.spotify.com/track/3nWpmZtPeb6qqi03YcuDE6"
     },
     {
       "added_at": "2022-08-12 05:19:00",
@@ -93,36 +129,52 @@
       "url": "https://open.spotify.com/track/4ggnthekytPDW8k0APUPVY"
     },
     {
-      "added_at": "2022-08-12 05:19:00",
+      "added_at": "2022-01-14 18:09:29",
       "album": {
-        "name": "boythots",
-        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
       },
       "artists": [
         {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
         }
       ],
-      "duration_ms": 137844,
-      "name": "boythots",
-      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
-      "added_at": "2022-08-05 07:49:00",
+      "added_at": "2022-08-19 15:54:28",
       "album": {
-        "name": "REM (No Sleep)",
-        "url": "https://open.spotify.com/album/6MbADSPFpmV3pSkkGQHBmL"
+        "name": "veins",
+        "url": "https://open.spotify.com/album/2RMupCS5u3dxfhV1OaxCI9"
       },
       "artists": [
         {
-          "name": "HYRA",
-          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
         }
       ],
-      "duration_ms": 151578,
-      "name": "REM (No Sleep)",
-      "url": "https://open.spotify.com/track/0ByIm1EVc6JvOYwoe67EqQ"
+      "duration_ms": 226285,
+      "name": "veins",
+      "url": "https://open.spotify.com/track/4VpfWYX22H2B27glBf4t19"
+    },
+    {
+      "added_at": "2022-07-09 18:06:03",
+      "album": {
+        "name": "safety",
+        "url": "https://open.spotify.com/album/16LIWGd3m65DQfwtKRpvn6"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 148285,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/03kK8LS0pKlOpfaqJA5PsQ"
     },
     {
       "added_at": "2022-08-02 17:18:09",
@@ -139,6 +191,30 @@
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
+    },
+    {
+      "added_at": "2022-08-19 15:54:28",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/3erC6rFoVPWp4LyLCDNPwY"
+      },
+      "artists": [
+        {
+          "name": "Bloom OS",
+          "url": "https://open.spotify.com/artist/0Sy0UUyMYRceOp9LhvgtNo"
+        },
+        {
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        },
+        {
+          "name": "Himera",
+          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
+        }
+      ],
+      "duration_ms": 127999,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/0NVdg0miEVWRALvwWaH9MD"
     },
     {
       "added_at": "2022-06-28 14:12:15",
@@ -173,52 +249,20 @@
       "url": "https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud"
     },
     {
-      "added_at": "2022-07-29 13:25:15",
+      "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV"
+        "name": "REM (No Sleep)",
+        "url": "https://open.spotify.com/album/6MbADSPFpmV3pSkkGQHBmL"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
         }
       ],
-      "duration_ms": 169819,
-      "name": "ALL UP IN YOUR MIND",
-      "url": "https://open.spotify.com/track/6hYgmQ27dGia58kKJWBLci"
-    },
-    {
-      "added_at": "2022-01-14 18:09:29",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
-    },
-    {
-      "added_at": "2022-07-09 18:06:03",
-      "album": {
-        "name": "safety",
-        "url": "https://open.spotify.com/album/16LIWGd3m65DQfwtKRpvn6"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 148285,
-      "name": "safety",
-      "url": "https://open.spotify.com/track/03kK8LS0pKlOpfaqJA5PsQ"
+      "duration_ms": 151578,
+      "name": "REM (No Sleep)",
+      "url": "https://open.spotify.com/track/0ByIm1EVc6JvOYwoe67EqQ"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -251,6 +295,22 @@
       "duration_ms": 153624,
       "name": "i will follow you into the dark - Spotify Singles",
       "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
+    },
+    {
+      "added_at": "2022-07-29 13:25:15",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 169819,
+      "name": "ALL UP IN YOUR MIND",
+      "url": "https://open.spotify.com/track/6hYgmQ27dGia58kKJWBLci"
     },
     {
       "added_at": "2022-08-12 05:19:00",
@@ -336,7 +396,7 @@
       "added_at": "2022-08-05 07:49:00",
       "album": {
         "name": "comfort noise (Music Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/5ZdcZ4yguTGQ3ffVbPHCey"
+        "url": "https://open.spotify.com/album/4vRT4ZeETtW8SrTLVdrYuj"
       },
       "artists": [
         {
@@ -362,7 +422,7 @@
       ],
       "duration_ms": 227950,
       "name": "check1 (Cali Cartier & william crooks Remix)",
-      "url": "https://open.spotify.com/track/6uc9AVe62FWjkG3JIZFhCs"
+      "url": "https://open.spotify.com/track/3e8mpmDiQi8VLpx04p8xN5"
     },
     {
       "added_at": "2022-07-24 19:30:12",
@@ -463,6 +523,22 @@
       "duration_ms": 200724,
       "name": "GOSSIP",
       "url": "https://open.spotify.com/track/1tjJoYTGWaITkvlD37L4QY"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Miss U",
+        "url": "https://open.spotify.com/album/4x0XH60BafgPP0VscoT5EE"
+      },
+      "artists": [
+        {
+          "name": "Bad Smith",
+          "url": "https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw"
+        }
+      ],
+      "duration_ms": 212415,
+      "name": "miss u",
+      "url": "https://open.spotify.com/track/6Yxg0dq94Q4ZIE4ncHrufi"
     },
     {
       "added_at": "2022-07-29 13:25:15",
@@ -653,6 +729,22 @@
       "url": "https://open.spotify.com/track/0uhlBqmzwDxkPMdmFc4mE5"
     },
     {
+      "added_at": "2022-07-08 04:45:00",
+      "album": {
+        "name": "axiom",
+        "url": "https://open.spotify.com/album/1kPhhhADwd130X8Jcpwhdy"
+      },
+      "artists": [
+        {
+          "name": "Summet",
+          "url": "https://open.spotify.com/artist/5OpU9iKnpYToRqptji8FO4"
+        }
+      ],
+      "duration_ms": 147696,
+      "name": "rationality // faith",
+      "url": "https://open.spotify.com/track/570bc0qKrDtyQ6TEawJUG4"
+    },
+    {
       "added_at": "2022-07-29 13:25:15",
       "album": {
         "name": "Up All Night",
@@ -703,22 +795,6 @@
       "duration_ms": 142237,
       "name": "punk rock",
       "url": "https://open.spotify.com/track/0nog7rb95VYzC1WDliuhKZ"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
-        "name": "Miss U",
-        "url": "https://open.spotify.com/album/4x0XH60BafgPP0VscoT5EE"
-      },
-      "artists": [
-        {
-          "name": "Bad Smith",
-          "url": "https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw"
-        }
-      ],
-      "duration_ms": 212415,
-      "name": "miss u",
-      "url": "https://open.spotify.com/track/6Yxg0dq94Q4ZIE4ncHrufi"
     },
     {
       "added_at": "2022-07-17 17:16:39",
@@ -883,22 +959,6 @@
       "duration_ms": 140869,
       "name": "dopamine",
       "url": "https://open.spotify.com/track/5C3uNuSKnkDwV2xUqFIiZp"
-    },
-    {
-      "added_at": "2022-07-08 04:45:00",
-      "album": {
-        "name": "axiom",
-        "url": "https://open.spotify.com/album/1kPhhhADwd130X8Jcpwhdy"
-      },
-      "artists": [
-        {
-          "name": "Summet",
-          "url": "https://open.spotify.com/artist/5OpU9iKnpYToRqptji8FO4"
-        }
-      ],
-      "duration_ms": 147696,
-      "name": "rationality // faith",
-      "url": "https://open.spotify.com/track/570bc0qKrDtyQ6TEawJUG4"
     },
     {
       "added_at": "2022-08-02 17:18:09",
@@ -1573,22 +1633,6 @@
       "url": "https://open.spotify.com/track/1vPRVC9OhWpLUFmHwUCziG"
     },
     {
-      "added_at": "2022-07-08 04:45:00",
-      "album": {
-        "name": "META",
-        "url": "https://open.spotify.com/album/2HGBn0RTVefCuQAkCX4zb3"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "GREEN SPORE VALLEY",
-      "url": "https://open.spotify.com/track/496TD3rnHUlD3hJiTU2vmp"
-    },
-    {
       "added_at": "2022-07-15 17:24:45",
       "album": {
         "name": "All of My Role Models",
@@ -1625,22 +1669,6 @@
       "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
     },
     {
-      "added_at": "2022-06-10 15:02:05",
-      "album": {
-        "name": "selective altruism",
-        "url": "https://open.spotify.com/album/794UU4K5mVMCdraXNCSnvB"
-      },
-      "artists": [
-        {
-          "name": "wishlane",
-          "url": "https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "selective altruism",
-      "url": "https://open.spotify.com/track/5t1L2Es0faTlZsAkfLTHVA"
-    },
-    {
       "added_at": "2022-05-06 06:31:00",
       "album": {
         "name": "the loved ones",
@@ -1659,26 +1687,6 @@
       "duration_ms": 136346,
       "name": "downhill",
       "url": "https://open.spotify.com/track/2Q8qXAOdHLe1qSrKI3c1Bg"
-    },
-    {
-      "added_at": "2022-05-13 04:17:00",
-      "album": {
-        "name": "search result",
-        "url": "https://open.spotify.com/album/1wmIqJmiY5i7frir68g8JP"
-      },
-      "artists": [
-        {
-          "name": "umru",
-          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 213770,
-      "name": "popular",
-      "url": "https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj"
     },
     {
       "added_at": "2022-07-08 04:45:00",

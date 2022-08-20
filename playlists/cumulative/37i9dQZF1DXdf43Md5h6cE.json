@@ -428,6 +428,24 @@
     },
     {
       "album": {
+        "name": "Dream Silhouette",
+        "url": "https://open.spotify.com/album/5LMPQs6RWNNMjX9m8CC6NN"
+      },
+      "artists": [
+        {
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188799,
+      "name": "Dream Silhouette",
+      "url": "https://open.spotify.com/track/52aAiAhyUCzo8OrHSgPqHn"
+    },
+    {
+      "album": {
         "name": "That Summer When We Met",
         "url": "https://open.spotify.com/album/4P5p2R8KInwS7VrVtBV1o2"
       },
@@ -1179,6 +1197,24 @@
       "duration_ms": 399230,
       "name": "Reversing Existence",
       "url": "https://open.spotify.com/track/6BZjUJmyn7wu3NeYvDZrBI"
+    },
+    {
+      "album": {
+        "name": "Skymning",
+        "url": "https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70"
+      },
+      "artists": [
+        {
+          "name": "Signe Golin",
+          "url": "https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154550,
+      "name": "Skymning",
+      "url": "https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Kelsea Ballerini
 
-278 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
+279 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/track/6W8ip4419k9qTlOAkAU4uN) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/album/2dA4e6yg8TumkbOWZJYunN) | 3:07 | 2021-12-01 | 2022-07-29 |
 | [Cool](https://open.spotify.com/track/44USwYuZ2eckQTYqkoeJEC) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0IuKHnuroKmBnaPqIRuxnh) | 3:48 | 2022-03-25 | 2022-04-21 |
 | [Cool About It](https://open.spotify.com/track/6PGNiIVGzWYTOaGXPoL9pV) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Heart On My Glass](https://open.spotify.com/album/0x5tWCQaw2ZGitlV8EdVN1) | 3:29 | 2022-03-04 | 2022-07-27 |
+| [Country Can](https://open.spotify.com/track/23h3c9x2ApofnkxHteQJDU) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Country Can](https://open.spotify.com/album/1gDtUrRMMsnPoBNHygmep7) | 2:53 | 2022-08-19 |  |
 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 | 2021-12-01 |  |
 | [Crown and Coke](https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [Crown and Coke](https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK) | 2:47 | 2022-03-25 | 2022-04-19 |
 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 | 2022-06-01 |  |
@@ -100,7 +101,7 @@
 | [Heart Like A Truck](https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Heart Like A Truck](https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo) | 3:19 | 2022-06-01 |  |
 | [Heart's In Your Head](https://open.spotify.com/track/712aP3QwYnSpuCYHScgbGn) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Heart's In Your Head](https://open.spotify.com/album/5ymEWtBYleaSuToTcWmasf) | 3:07 | 2021-12-01 | 2022-07-29 |
 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 | 2022-04-08 |  |
-| [Heavenly](https://open.spotify.com/track/0fx1Oyto2wN6gLenluWyYJ) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Heavenly](https://open.spotify.com/album/2M5Y6YoELhOhQcgY1nGL9X) | 3:12 | 2022-02-04 |  |
+| [Heavenly](https://open.spotify.com/track/0fx1Oyto2wN6gLenluWyYJ) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Heavenly](https://open.spotify.com/album/2M5Y6YoELhOhQcgY1nGL9X) | 3:12 | 2022-02-04 | 2022-08-20 |
 | [Heavyweight](https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Heavyweight](https://open.spotify.com/album/1llat1Rc2C5UKq6G6bSU51) | 3:37 | 2021-12-01 | 2022-06-30 |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-03-02 | 2022-07-29 |
 | [Holding Out For A Cowboy](https://open.spotify.com/track/1q9RqY2hjH5e8U3NrrjWpN) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Holding Out For A Cowboy](https://open.spotify.com/album/4UQ2Y5t92FjXIjeIY9PKzR) | 3:30 | 2021-12-01 | 2022-07-27 |

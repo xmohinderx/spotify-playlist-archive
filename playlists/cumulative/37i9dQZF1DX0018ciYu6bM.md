@@ -4,7 +4,7 @@
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: NAYEON
 
-203 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/2ZS5sBUg2D7ThTAofFyjhj)
+204 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/2ZS5sBUg2D7ThTAofFyjhj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Once Again](https://open.spotify.com/track/1qsjEmjRzXVsmC0oLitHzN) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Descendants Of The Sun Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/17TnRTTqr5EkE1omGCTXQg) | 3:55 | 2022-04-20 | 2022-07-29 |
 | [Pantomime](https://open.spotify.com/track/0mqHEMJdDzes00D9IToXPX) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:08 | 2022-05-26 | 2022-06-04 |
 | [PING PONG](https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 2:38 | 2022-04-05 |  |
+| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 |  |
 | [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 | 2022-04-05 | 2022-05-27 |
 | [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 | 2022-04-05 | 2022-04-21 |
 | [PLAY DUMB](https://open.spotify.com/track/3GJSLbB36rXHI2WmXxW91m) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Story Written in Music](https://open.spotify.com/album/6ZpvLJfgF2S4NlUbrh0TIo) | 3:25 | 2022-06-17 | 2022-07-29 |

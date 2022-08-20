@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Deep Slope",
+        "url": "https://open.spotify.com/album/6Odd0pQof21z3lkmu1ncZz"
+      },
+      "artists": [
+        {
+          "name": "Shinji Wakasa",
+          "url": "https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403000,
+      "name": "Deep Slope",
+      "url": "https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6"
+    },
+    {
+      "album": {
         "name": "REFLECTION",
         "url": "https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2"
       },

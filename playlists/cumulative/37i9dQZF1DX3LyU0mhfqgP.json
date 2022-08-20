@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Claim your space with the newest songs from LGBTQIA+ artists. Cover: Demi Lovato",
+  "description": "Claim your space with the newest songs from LGBTQIA+ artists. Cover: Tsatsamis",
   "name": "Out Now",
   "published_playlist_ids": [
     "6zK7hnGvgZc1PZ34TAWzzK"
@@ -85,6 +85,24 @@
       "duration_ms": 225920,
       "name": "22",
       "url": "https://open.spotify.com/track/2pauY34xHvz0W3asl70y3D"
+    },
+    {
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "album": {
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 87037,
       "name": "Bitch I'm Nice",
       "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 179326,
       "name": "Blow Out My Candle",
       "url": "https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 158600,
       "name": "coming of age",
       "url": "https://open.spotify.com/track/5S3Yt7uP3Fp3vcxf1v9B1Z"
@@ -1417,6 +1435,28 @@
       "duration_ms": 286093,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/3T7lv6LiJSfOsZS9t6kcPp"
+    },
+    {
+      "album": {
+        "name": "Country Boy Two-Step",
+        "url": "https://open.spotify.com/album/51gvtUEEAsATuVNmd6hfZL"
+      },
+      "artists": [
+        {
+          "name": "Cameron Hawthorn",
+          "url": "https://open.spotify.com/artist/4pffLuF7STrHB1qQl6N1MQ"
+        },
+        {
+          "name": "Bright Light Bright Light",
+          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Country Boy Two-Step",
+      "url": "https://open.spotify.com/track/3eOYEtWoSfj6x8xlbosIEn"
     },
     {
       "album": {
@@ -1821,7 +1861,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 139712,
       "name": "Everything Beautiful",
       "url": "https://open.spotify.com/track/3JnIF3q9h27Ig30GGJwnXB"
@@ -2101,6 +2141,24 @@
       "duration_ms": 157685,
       "name": "for the girls",
       "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
+    },
+    {
+      "album": {
+        "name": "Forever Drunk",
+        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190107,
+      "name": "Forever Drunk",
+      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
     },
     {
       "album": {
@@ -2592,6 +2650,24 @@
     },
     {
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/2MMXRYeLPtmnPNPAYc8C4o"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190009,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/6DrIPRR1T24XUqmsW64cUF"
+    },
+    {
+      "album": {
         "name": "Got No Choice",
         "url": "https://open.spotify.com/album/1529CgDLI704QwWw5A5OFS"
       },
@@ -2892,6 +2968,24 @@
     },
     {
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219373,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
+    },
+    {
+      "album": {
         "name": "Her Body Is Bible",
         "url": "https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D"
       },
@@ -3009,7 +3103,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 245808,
       "name": "Hold The Girl",
       "url": "https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1"
@@ -3742,6 +3836,24 @@
     },
     {
       "album": {
+        "name": "kaleidoscope",
+        "url": "https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "kaleidoscope",
+      "url": "https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6"
+    },
+    {
+      "album": {
         "name": "Keeping The Light On",
         "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
       },
@@ -3984,6 +4096,28 @@
     },
     {
       "album": {
+        "name": "LFG",
+        "url": "https://open.spotify.com/album/4aFNq03qsBdelhkZcfqaxB"
+      },
+      "artists": [
+        {
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        },
+        {
+          "name": "Chloe Angelides",
+          "url": "https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151599,
+      "name": "LFG",
+      "url": "https://open.spotify.com/track/23H41ma11LFslXeE2SPoZI"
+    },
+    {
+      "album": {
         "name": "Little Bother (feat. Foushe\u00e9)",
         "url": "https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2"
       },
@@ -4161,7 +4295,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 184166,
       "name": "Love You When You\u2019re Gone",
       "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
@@ -4587,7 +4721,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 224519,
       "name": "Nobody But Me (feat. Cold War Kids)",
       "url": "https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9"
@@ -4934,6 +5068,28 @@
     },
     {
       "album": {
+        "name": "Persuasive (with SZA)",
+        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "Persuasive (with SZA)",
+      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
+    },
+    {
+      "album": {
         "name": "Ugly Season",
         "url": "https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L"
       },
@@ -5107,7 +5263,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 200488,
       "name": "Puppy Pound",
       "url": "https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8"
@@ -5939,7 +6095,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192124,
       "name": "stupid games",
       "url": "https://open.spotify.com/track/3wHX2s10YcSPt6ftT9qKwv"
@@ -5975,7 +6131,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 185995,
       "name": "sugar at the bottom",
       "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
@@ -6681,7 +6837,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 127312,
       "name": "Want Not A Need (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/5nq6Soe2LU65H9D4Tnw8WN"
@@ -7017,7 +7173,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 202693,
       "name": "You Might Not Like Her",
       "url": "https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf"

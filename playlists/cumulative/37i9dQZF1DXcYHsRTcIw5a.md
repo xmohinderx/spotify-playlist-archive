@@ -4,7 +4,7 @@
 
 > Get ready, to do, do rocksteady
 
-74 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/5E2s1kfen5rRaZahEjSJBP)
+76 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/5E2s1kfen5rRaZahEjSJBP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [OK Fred](https://open.spotify.com/track/2uFwTMJkdPPjIzXWsNbG2a) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [O.K Fred](https://open.spotify.com/album/176NRa0L5If0XRPAUWznDx) | 3:45 | 2014-12-10 |  |
 | [Old Fashioned Way](https://open.spotify.com/track/531hkX8V30OYiB4zfjypy5) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own \- The Definitive Collection](https://open.spotify.com/album/0fkvv6IpX8t20FO0dlIHY3) | 2:33 | 2022-03-28 |  |
 | [Only a Smile](https://open.spotify.com/track/5bwGUv9VP1m4qmvkRNSqIQ) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:55 | 2022-03-28 |  |
-| [People Get Ready](https://open.spotify.com/track/3KdUOpPFiJ3FuIclPtEZ2P) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Legend Platinum Edition](https://open.spotify.com/album/5Y9KBlTlXLCviXp1HIrjZu) | 2:37 | 2022-03-28 |  |
+| [People Get Ready](https://open.spotify.com/track/3KdUOpPFiJ3FuIclPtEZ2P) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Legend Platinum Edition](https://open.spotify.com/album/5Y9KBlTlXLCviXp1HIrjZu) | 2:37 | 2022-03-28 | 2022-08-20 |
+| [People Get Ready](https://open.spotify.com/track/5g99otFnQZ541aIfHBJWq9) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Out Of Love / People Get Ready](https://open.spotify.com/album/2m3g4OamUO3OUGH26mrnVn) | 2:37 | 2022-03-28 |  |
 | [People Get Ready](https://open.spotify.com/track/2iTCSbVD34S00OVlQDqU5j) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41), [The Uniques](https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb) | [Attack Collection Volume 1](https://open.spotify.com/album/0vLxE4Gvj0kddD1sm4Gb7S) | 2:37 | 2014-12-10 | 2022-07-29 |
 | [Queen Majesty](https://open.spotify.com/track/7mavHEgkrNLqIzlA5wxd5n) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [The Ultimate Collection, Vol\. 1](https://open.spotify.com/album/3OzRkr3Hra8KdXKWcXe2o5) | 3:31 | 2014-12-10 |  |
 | [Raindrops](https://open.spotify.com/track/39RGl1mXtFTjwcyHnbDRUr) | [The Silvertones](https://open.spotify.com/artist/2i7lcqmkXenSMNTeXdAsPZ) | [Essential Ska Masters](https://open.spotify.com/album/4rThjBhFQlgVBhYyky2gTz) | 2:49 | 2022-03-28 |  |
@@ -78,7 +79,8 @@
 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 | 2018-04-23 |  |
 | [To Sir with Love](https://open.spotify.com/track/0g2ommIQUwilxSkTNrEmMZ) | [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Rock Steady Greatest Hits](https://open.spotify.com/album/1wFh18B1EcUfc6CHFZ1cta) | 2:40 | 2022-03-28 |  |
 | [To Sir With Love](https://open.spotify.com/track/3z2MqPZ6G0HodVUV5uQgit) | [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Rock Steady Greatest Hits](https://open.spotify.com/album/1uclMYfjo5gowsgDgjMxTS) | 2:40 | 2014-12-10 | 2022-07-29 |
-| [True True True](https://open.spotify.com/track/308obIx1tvqzAU4zaug0Ok) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Sound Box Essentials Platinum Edition](https://open.spotify.com/album/4KIvEfnzVKA52aeoL7vyPJ) | 2:15 | 2022-03-28 |  |
+| [True True True](https://open.spotify.com/track/308obIx1tvqzAU4zaug0Ok) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Sound Box Essentials Platinum Edition](https://open.spotify.com/album/4KIvEfnzVKA52aeoL7vyPJ) | 2:15 | 2022-03-28 | 2022-08-20 |
+| [True True True](https://open.spotify.com/track/5lhweqIsmtQFNkCkj23nbs) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Sound Box Essentials \(Platinum Edition\)](https://open.spotify.com/album/1y0DtuLTm22u30LBrgQfmh) | 2:15 | 2022-03-28 |  |
 | [True True True](https://open.spotify.com/track/6CucZ6tVBv8720etCZ1sOn) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Treasure Isle Collection Vol\. 1](https://open.spotify.com/album/3s9tIqQhWLFgits980L0Sj) | 2:15 | 2014-12-10 | 2022-07-29 |
 | [Weather Report](https://open.spotify.com/track/2PqKhhwvTagEwlueJYwXa1) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Cultural Things](https://open.spotify.com/album/0oAZsRHJCvTBgfIIKPQmDO) | 2:25 | 2022-03-28 |  |
 | [Weather Report](https://open.spotify.com/track/6eLgESGhZxeCMyA939t1RF) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Moods](https://open.spotify.com/album/3lGDcKvwVc7hJqvnS6TZEj) | 2:28 | 2014-12-10 | 2022-07-29 |

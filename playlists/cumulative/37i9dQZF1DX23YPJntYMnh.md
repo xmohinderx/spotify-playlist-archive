@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: King's X
 
-101 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
+102 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Please Excuse This Funk Up](https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Mas Borracho](https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH) | 4:37 | 2020-01-08 |  |
 | [Pleasure](https://open.spotify.com/track/2eveNWx7SOWY5CW4kLAuqI) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Pleasure](https://open.spotify.com/album/0uHID8mbrWV2qnAHdiyNpF) | 3:24 | 2022-04-08 | 2022-07-16 |
 | [Politicalamity](https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [III Sides To Every Story](https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd) | 5:04 | 2020-01-08 |  |
-| [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 | 2022-03-04 |  |
+| [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 | 2022-03-04 | 2022-08-20 |
 | [Preacher](https://open.spotify.com/track/7LX79SGY8tO1iJz2S0xUMJ) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Preacher](https://open.spotify.com/album/4SyVePkSezv4jAwvV4HBxQ) | 3:43 | 2022-02-04 | 2022-04-20 |
 | [Promenade](https://open.spotify.com/track/4KQlPYIchV2VWo8SaWOs9C) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 2:31 | 2020-01-08 |  |
 | [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 | 2020-01-08 | 2022-08-11 |
@@ -94,6 +94,7 @@
 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 | 2022-07-01 |  |
 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 | 2020-01-08 |  |
 | [Thumb](https://open.spotify.com/track/7pt7AcxYHyVLOpthh9IxHZ) | [TM Stevens](https://open.spotify.com/artist/1JQSaRDeBgD9qxqotg6n6y) | [Shocka Zooloo](https://open.spotify.com/album/4Ykpxtr1YHvEIPQwJDXNyu) | 4:20 | 2020-01-08 | 2022-06-04 |
+| [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 |  |
 | [Tobacco Road](https://open.spotify.com/track/5qE0ehKYj0Mp0XH5BsOKqZ) | [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Hits & More](https://open.spotify.com/album/4sDlPp3lFxvY3HgKQTOBMG) | 3:57 | 2020-01-08 | 2022-07-29 |
 | [Tobacco Road](https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab) | [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Best of Eric Burdon & War](https://open.spotify.com/album/0Pm5PksODNsUnZjy9ia4Nc) | 3:57 | 2022-02-04 |  |
 | [Tommy The Cat](https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 4:14 | 2020-01-08 |  |

@@ -1028,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "FACES",
+        "url": "https://open.spotify.com/album/2ud0Zdgl2DkKXFbdMN2Eef"
+      },
+      "artists": [
+        {
+          "name": "Swavay",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211973,
+      "name": "FACES",
+      "url": "https://open.spotify.com/track/3gG3DVG8vhaCRvJrdl802N"
+    },
+    {
+      "album": {
         "name": "FaceTime (feat. Rick Ross)",
         "url": "https://open.spotify.com/album/5LjWzvQsOvo63cTFCln5EX"
       },
@@ -2777,6 +2795,28 @@
       "duration_ms": 165772,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6"
+    },
+    {
+      "album": {
+        "name": "Vultures Don't Kry",
+        "url": "https://open.spotify.com/album/1ZD7JYrhxigRGhjzpPzEJ3"
+      },
+      "artists": [
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        },
+        {
+          "name": "Lil Perco",
+          "url": "https://open.spotify.com/artist/1zBajAbkG72h752UzxeUAB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172725,
+      "name": "Self Worth (feat. Lil Perco)",
+      "url": "https://open.spotify.com/track/6IhYveUZOkd1dVuE1mdX5N"
     },
     {
       "album": {

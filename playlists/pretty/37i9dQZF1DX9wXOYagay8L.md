@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=fzYSGg0qR3OZpf06fSNyQQ">Nomfundo Moh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,043 likes - 70 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,151 likes - 70 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 39 | [Falling Down](https://open.spotify.com/track/0bcBHB3JTd529JBubx2ZLr) | [LAE](https://open.spotify.com/artist/5tEuaS1APkI90VOicB8UR6) | [Falling Down](https://open.spotify.com/album/2IkncK5hJ3uwUEjEnkwS3b) | 4:19 |
 | 40 | [Adventure](https://open.spotify.com/track/6avNkwMgoh3eZ61sgdT0YH) | [DJ Catzico](https://open.spotify.com/artist/3ZpL7nb7gMxYkxULtkr7sM), [Vista](https://open.spotify.com/artist/6tEP3lV5Jk2HhFqVr9jmbT), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [DJ Magic Flowz](https://open.spotify.com/artist/74GSaT35V6KBOupswXvvhn) | [Adventure](https://open.spotify.com/album/1YPeNURVXYx2D0h0zjJeJn) | 5:00 |
 | 41 | [Amanxeba Othando \(feat\. Mduduzi Ncube\)](https://open.spotify.com/track/0NH6wxjDcflP9Ymw8UQu4b) | [Bekezela](https://open.spotify.com/artist/4iZu4DzXizc1qAOSpa3qCX), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Asiwine](https://open.spotify.com/album/0Ug7YS6FRnN7QVH4HbAxKr) | 3:20 |
-| 42 | [Tshwana Le Wena](https://open.spotify.com/track/1FiMnihg5K9UyMZ49ukJop) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [John Tshenoli](https://open.spotify.com/artist/5hju7PdSZQl3oYsM5TVD5I), [Alie Keys](https://open.spotify.com/artist/1GXwvsKGbhtxZ6nBjV2liL) | [Tshwana Le Wena](https://open.spotify.com/album/3Lw0gCRs8qMJvjqlX35IF8) | 4:47 |
+| 42 | [Tshwana Le Wena](https://open.spotify.com/track/1FiMnihg5K9UyMZ49ukJop) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [John Tsenoli](https://open.spotify.com/artist/2vHUUDVcWZ5idtGUqBbvZF), [Alie Keys](https://open.spotify.com/artist/1GXwvsKGbhtxZ6nBjV2liL) | [Tshwana Le Wena](https://open.spotify.com/album/3Lw0gCRs8qMJvjqlX35IF8) | 4:47 |
 | 43 | [Tell Me Your Politik \(feat\. Moonchild Sanelly & Nile Rodgers\)](https://open.spotify.com/track/6gCH4wAIrV7YHUGTSLQmC3) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Tell Me Your Politik \(feat\. Moonchild Sanelly & Nile Rodgers\)](https://open.spotify.com/album/583uUk11hoNS3Y4T5r5cdg) | 3:24 |
 | 44 | [Wamuhle](https://open.spotify.com/track/1Hfi5ASQy39dZJRnRsE6ws) | [DJ So Nice](https://open.spotify.com/artist/5AZBqGvfbhzmsARDuBW9te), [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k), [BonafideBilli](https://open.spotify.com/artist/2J4kgQeg22uB6DhVYZXnUn) | [Wamuhle](https://open.spotify.com/album/3yM2OA0HaTVOoytKipIADw) | 3:45 |
 | 45 | [Wampona Naah](https://open.spotify.com/track/5YsqtTeCZNyRDwzzQO7Bva) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [Wampona Naah](https://open.spotify.com/album/0dwg3rQ1M7Ir5KvkgBfKps) | 5:11 |

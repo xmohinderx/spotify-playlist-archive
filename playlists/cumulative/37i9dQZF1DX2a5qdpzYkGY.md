@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-165 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
+166 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Boreal Forest](https://open.spotify.com/track/6rihywZn0l3Gc3ggHrmNis) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Shadow Work](https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc) | 5:07 | 2021-10-06 |  |
 | [Brooklyn Sundown](https://open.spotify.com/track/5eDzN5CD1AtmcAppuMWrAS) | [Psycobossa](https://open.spotify.com/artist/2M9WfpBHTqPoiW84s1n33f) | [Brooklyn Sundown](https://open.spotify.com/album/3w4zTZPjIuRoSOHT8ZD8RM) | 4:07 | 2021-12-08 | 2022-07-29 |
 | [Bucolic Architecture \- Flug 8 Remix](https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi) | [Yoann Pisterman](https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A), [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Bucolic Architecture \(Flug 8 Remix\)](https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW) | 6:26 | 2022-02-18 | 2022-08-06 |
+| [But What If We're Wrong \- Live](https://open.spotify.com/track/6Y3dPA3e6jiLBMvwumgdSN) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr), [Aver](https://open.spotify.com/artist/0lBiVIJxGVqGyNkfjGuZKi) | [Human Reactions \(Live\)](https://open.spotify.com/album/4RSjP9O32hmpAM7HR2vSse) | 4:37 | 2022-08-19 |  |
 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 | 2022-05-18 |  |
 | [Chameleon](https://open.spotify.com/track/6WX84e2SacFICy3HoWjYaH) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe) | 4:59 | 2021-10-06 |  |
 | [Charlier](https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [INWANE](https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF) | 3:51 | 2021-10-06 |  |
@@ -109,7 +110,7 @@
 | [Mute \- Jan Wagner Remix](https://open.spotify.com/track/5XyKeJ3QkPsffeTxmdmoFx) | [We Will Kaleid](https://open.spotify.com/artist/78OWdfuMGjDVa6Zc63crhR), [Jan Wagner](https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX) | [Mute \(Jan Wagner Remix\)](https://open.spotify.com/album/1eToRFeyF5mrTo205VYDAp) | 3:45 | 2021-10-06 | 2022-07-29 |
 | [Mysteries](https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Mysteries](https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P) | 3:03 | 2022-02-18 |  |
 | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP) | [Alister Fawnwoda](https://open.spotify.com/artist/16Vq22oDSB5NDYczsnJ89o), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR) | 6:53 | 2021-10-06 |  |
-| [Now \- Lisa Morgenstern Rework](https://open.spotify.com/track/3INz8huCXxy8IFHMDnnh1S) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [Now \(Lisa Morgenstern Rework\)](https://open.spotify.com/album/1apge78pR0WkGrzF4wAN59) | 4:31 | 2022-02-18 |  |
+| [Now \- Lisa Morgenstern Rework](https://open.spotify.com/track/3INz8huCXxy8IFHMDnnh1S) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [Now \(Lisa Morgenstern Rework\)](https://open.spotify.com/album/1apge78pR0WkGrzF4wAN59) | 4:31 | 2022-02-18 | 2022-08-20 |
 | [Nowhere](https://open.spotify.com/track/6JoZvUoYPSmqJ0CegHXpoG) | [Bruno Sanfilippo](https://open.spotify.com/artist/5F2LyonwBskQycxLnIMz94) | [Nowhere](https://open.spotify.com/album/6uUwz4it5yrKVms5SqGtxw) | 6:10 | 2022-01-07 | 2022-07-29 |
 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 | 2021-10-06 |  |
 | [One to Six](https://open.spotify.com/track/6dJnizBMzHGxpuBwEPfSRC) | [Uncivilized](https://open.spotify.com/artist/2ZqdWXLuVuGMVWfVeRX0gw) | [Garden](https://open.spotify.com/album/3hmdSJCfqDEzHUhStUWUBN) | 1:16 | 2021-10-06 | 2022-07-29 |

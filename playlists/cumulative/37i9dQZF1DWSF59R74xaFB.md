@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-347 songs - 21 hr 17 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
+349 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Corazón descalzo](https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Corazón descalzo](https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj) | 4:14 | 2021-10-21 | 2022-04-19 |
 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 | 2021-10-21 |  |
 | [Creo en Ti](https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Peligro](https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF) | 2:43 | 2021-10-21 |  |
-| [Cristina](https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Cristina](https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6) | 3:22 | 2021-10-21 |  |
+| [Cristina](https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Cristina](https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6) | 3:22 | 2021-10-21 | 2022-08-20 |
 | [Cuando Es Amor](https://open.spotify.com/track/4F6lDDi3q1Xdum015op2NS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Cuando Es Amor](https://open.spotify.com/album/4eCVJzH5bl4F8JEcKeZ5rQ) | 3:09 | 2021-10-21 | 2022-07-07 |
 | [Cuando estés aquí](https://open.spotify.com/track/1yO5KgygGOA8FsZOhmyrUb) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Cuando estés aquí](https://open.spotify.com/album/34gcIlhIwf5ErP6Hg6wpGv) | 3:10 | 2021-10-21 | 2022-04-18 |
 | [Cuando Me Enamoro](https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 3:20 | 2021-10-21 |  |
@@ -153,7 +153,8 @@
 | [Hay Una Luz Dentro De Ti](https://open.spotify.com/track/4nM3e7Ignsc1HgUCqnNwNb) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Hay Una Luz Dentro De Ti](https://open.spotify.com/album/4QqpcOcxeFf61xYcKyiaaI) | 3:05 | 2021-10-21 | 2022-06-20 |
 | [Haz Lo Que Quieras](https://open.spotify.com/track/6VxuSFyAV3AjGsmI4GQq8d) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Haz Lo Que Quieras](https://open.spotify.com/album/0DAzZb56XTRFZYgQQIBwP8) | 3:51 | 2021-10-21 | 2022-04-21 |
 | [he preparao café](https://open.spotify.com/track/5bERNOugyQW16S5o5Js5Em) | [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I) | [he preparao café](https://open.spotify.com/album/4cXG2m0hKVIjpN7fDrxZFf) | 4:33 | 2022-02-25 | 2022-04-20 |
-| [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 | 2021-10-21 |  |
+| [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 | 2021-10-21 | 2022-08-20 |
+| [Hoy Te Quiero Ver](https://open.spotify.com/track/6hAXI7z8UtMDEL4B7OHIaA) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Hoy Te Quiero Ver](https://open.spotify.com/album/7dw571unUolJcPGlAvGAlA) | 3:46 | 2022-08-19 |  |
 | [Háblame de Ti](https://open.spotify.com/track/0IyiKR4HMc4NMq2TgAXgQl) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Háblame de Ti](https://open.spotify.com/album/1w77qD5A199FETNc5k7UBZ) | 4:18 | 2021-10-21 | 2022-07-13 |
 | [Imagina](https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:44 | 2022-05-18 | 2022-07-01 |
 | [Imposible Amor](https://open.spotify.com/track/0fehAJVm4Yk9a1jlKi1B0q) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Imposible Amor](https://open.spotify.com/album/4RScGVrfhjGu0X0A2AbwhP) | 3:08 | 2021-10-21 | 2022-04-20 |
@@ -292,6 +293,7 @@
 | [Tanto](https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:39 | 2021-10-21 |  |
 | [Tanto](https://open.spotify.com/track/3bCuNSiaBHqxdevMYEnGpe) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Tanto](https://open.spotify.com/album/3mBRgkagJKALFDxm5ptevT) | 3:39 | 2021-10-21 | 2022-07-29 |
 | [Tauro Con Leo](https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Tauro Con Leo](https://open.spotify.com/album/6Ad8wsibWtAhqaTwxBJFib) | 3:02 | 2022-03-11 | 2022-04-18 |
+| [Tauro Con Leo \- En Vivo Desde El Lunario](https://open.spotify.com/track/4uaUXp8CFU4XMIBgKCzYDk) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [En Vivo Desde El Lunario](https://open.spotify.com/album/246jrgfPP0a1I8yqsZL1SB) | 3:07 | 2022-08-19 |  |
 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 | 2021-10-21 |  |
 | [Te Confieso](https://open.spotify.com/track/7AIy2SEjip6FKhlSNMoMac) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Te Confieso](https://open.spotify.com/album/7vzVWhQCU8ZMc8H4tVV9vy) | 3:15 | 2021-10-21 | 2022-07-28 |
 | [Te Doy la Vida](https://open.spotify.com/track/0QoIobc4b5ZZxD2taPV9uK) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Te Doy la Vida](https://open.spotify.com/album/5kfUlusVqzTyiM14TwpOlz) | 4:01 | 2021-10-21 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,664 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,701 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 99 | [Silicon Jungle \- Sofie Birch Remix](https://open.spotify.com/track/3zpbuCezsYzGBtaNI2whRN) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Silicon Jungle \(Sofie Birch Remix\)](https://open.spotify.com/album/0G7LEsMsmaZX2f9w8u4hrP) | 5:21 |
 | 100 | [Gold](https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 2:13 |
 
-Snapshot ID: `MTY1OTcxNzY0OSwwMDAwMDAwMDM4ZGIzZDZhN2Q0MWI3YzlhOWY4ZTM2OWQzY2I1YmUy`
+Snapshot ID: `MTY2MDkyOTkzNiwwMDAwMDAwMDk4MzlkMmVlNDI4MTJmM2RlOGIxZDZkNmYzOTNkNjFi`

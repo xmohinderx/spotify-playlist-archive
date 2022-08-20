@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Alma (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0WTosvMJLB7LhIWZ6sea1l"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177520,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/60W0NU4SBa2I2yC7b44Kja"
+    },
+    {
+      "album": {
         "name": "Joker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
       },
@@ -363,7 +381,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 153320,
       "name": "Daggers",
       "url": "https://open.spotify.com/track/7Hkm8hp3AhX4bEokfsvGhd"
@@ -399,7 +417,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 94453,
       "name": "Dark Materials: Between the Worlds",
       "url": "https://open.spotify.com/track/0DILURInd7ZOO8KhR4NCSA"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 113600,
       "name": "Doug",
       "url": "https://open.spotify.com/track/4n4q1FZ84xHhZRdexhFz0X"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 244403,
       "name": "Mando Is Back",
       "url": "https://open.spotify.com/track/7utTE8XHVCpQXC8PdtBjIL"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 231242,
       "name": "My Life is Out There",
       "url": "https://open.spotify.com/track/3RcfALEStAw8Mfvv8ttdke"
@@ -2134,6 +2152,28 @@
     },
     {
       "album": {
+        "name": "She-Hulk: Attorney at Law",
+        "url": "https://open.spotify.com/album/5JEi65NMKgJYr0To6e2Qq9"
+      },
+      "artists": [
+        {
+          "name": "Amie Doherty",
+          "url": "https://open.spotify.com/artist/093nXwEUtY8TBTtZb9IVrf"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145360,
+      "name": "She-Hulk: Attorney at Law - From \"She-Hulk: Attorney at Law\"",
+      "url": "https://open.spotify.com/track/2k2qC3o7QLhVzJXi8DxJ2t"
+    },
+    {
+      "album": {
         "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
       },
@@ -2163,7 +2203,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 284586,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/0THP4cEeW6UVKD6qwEvM8a"
@@ -2500,6 +2540,24 @@
     },
     {
       "album": {
+        "name": "The Sandman: Season 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4wHeGUGaQcDQLKcNxuVyDu"
+      },
+      "artists": [
+        {
+          "name": "David Buckley",
+          "url": "https://open.spotify.com/artist/4XPIcwAIeDGi8lNDSbnGaT"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "The Kingdom of Dreams (Main Title Theme)",
+      "url": "https://open.spotify.com/track/7z5VsNMFFsAufyFUhC0UDo"
+    },
+    {
+      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
@@ -2555,7 +2613,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 228613,
       "name": "The Mole",
       "url": "https://open.spotify.com/track/0Vfaws2IcXWZ7AMtAyvNO1"
@@ -2667,7 +2725,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 258373,
       "name": "The Rise of Skywalker",
       "url": "https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu"
@@ -2757,7 +2815,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 231186,
       "name": "Themyscira",
       "url": "https://open.spotify.com/track/4C7lKHNYzm9c8ywpGNlAc9"
@@ -2837,7 +2895,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 173776,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/2hnA4tmaBMisNvz4TOl1Rk"

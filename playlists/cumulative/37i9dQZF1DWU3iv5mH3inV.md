@@ -2,9 +2,9 @@
 
 ### [República Dembow](https://open.spotify.com/playlist/37i9dQZF1DWU3iv5mH3inV)
 
-> Prendete con tu lista favorita de Dembow\. Foto: Tokischa
+> Prendete con tu lista favorita de Dembow\. Foto: Aleesha
 
-256 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/0M7kUlhLiJGAPIrDjqZTS6)
+257 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/0M7kUlhLiJGAPIrDjqZTS6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Me Hace Falta](https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Hace Falta](https://open.spotify.com/album/6iJEthERxJCwolggfRnGMO) | 3:01 | 2022-05-28 |  |
 | [Me Subo Arriba](https://open.spotify.com/track/0rmJCeOoTH673NPxw4CiqM) | [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu) | [Me Subo Arriba](https://open.spotify.com/album/2xUAOCkgUjzbLF98XTC2lT) | 3:28 | 2021-12-10 | 2022-07-24 |
 | [Me Tienen Dema \(Golo Golo\)](https://open.spotify.com/track/6y9VN5ngWahRxk7xv7sQru) | [Pablo Piddy](https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc) | [Exitos](https://open.spotify.com/album/7p9lBLA0o9JnxOgosUZlLJ) | 3:19 | 2021-12-10 | 2022-07-29 |
+| [melacomo](https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [melacomo](https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK) | 3:48 | 2022-08-19 |  |
 | [Menea Tu Chapa](https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W) | [Wilo D New](https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF) | [KlK Llego El Tipo the Album](https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0) | 2:55 | 2021-12-10 |  |
 | [Menor \- Official Remix](https://open.spotify.com/track/72I3Gk6PAetI8jzvOvDLkV) | [Lil Geremi](https://open.spotify.com/artist/3nHsN7Leho58wo1RveLfzZ), [BlackRoy](https://open.spotify.com/artist/7dHiLDmaaoJ7XwEqWCcIah), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Menor \(Official Remix\)](https://open.spotify.com/album/3C4hsNgfBR3AVuOKlWwX2e) | 4:54 | 2022-01-04 | 2022-06-30 |
 | [Mensaje Directo \(DM\)](https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF) | [Mensaje Directo \(DM\)](https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9) | 3:40 | 2021-12-10 |  |
@@ -255,7 +256,7 @@
 | [Tumbala](https://open.spotify.com/track/48HoWzu1Fe4QHUSilVHJGy) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Tumbala](https://open.spotify.com/album/7EAR33CSxep3Fxrv4Wf0MM) | 3:06 | 2021-12-10 | 2022-07-27 |
 | [Tumbala](https://open.spotify.com/track/7oieFIG0uypkJeI1akfkQ5) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Tumbala](https://open.spotify.com/album/09oK38U1xFy88t6Iho7ojt) | 3:06 | 2022-05-28 |  |
 | [Tusi Quiere Vol 2](https://open.spotify.com/track/6PFcqAASJqKW8RumgjtsPN) | [Jay Flow Music](https://open.spotify.com/artist/64NcK3T6wfdOI9yQp7UiKq), [Amara Ignacia](https://open.spotify.com/artist/7MYzfaerN2x9e6UGRkUQLM), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Shelo](https://open.spotify.com/artist/3yVK2HqNKKReejFoMLfXYw), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Carlitos Klein](https://open.spotify.com/artist/4GTtu4oc6mDQWN9QhBSWhQ), [Gabo El Chamaquito](https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU) | [Tusi Quiere Vol 2](https://open.spotify.com/album/6VIBheP2VlG1SnHNsioLRa) | 8:21 | 2021-12-10 | 2022-07-23 |
-| [Una Movie](https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA) | [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ), [JoeyTheGawd](https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv) | [Una Movie](https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4) | 2:30 | 2022-08-05 |  |
+| [Una Movie](https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA) | [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ), [JoeyTheGawd](https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv) | [Una Movie](https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4) | 2:30 | 2022-08-05 | 2022-08-20 |
 | [Vaina Bakana](https://open.spotify.com/track/7M93tQMCcFKmmxp9S6kMNa) | [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq) | [Vaina Bakana](https://open.spotify.com/album/5qEp3A94vVaurVbqAFVxWl) | 3:17 | 2022-01-04 | 2022-07-07 |
 | [Ven](https://open.spotify.com/track/0OsAYEI28tSsqrjXVEO4eg) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Ven \(Remix\)](https://open.spotify.com/album/4actwcUR95D4zwhLQtEuJu) | 3:04 | 2022-05-28 | 2022-08-17 |
 | [Ven \- Remix](https://open.spotify.com/track/34DEq4NjmD2V5OOfUhVbwf) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Ven Remix](https://open.spotify.com/album/19Usnz2jNExKILQofHvj9a) | 3:04 | 2021-12-10 | 2022-07-28 |

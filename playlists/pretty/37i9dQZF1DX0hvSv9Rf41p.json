@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Ace Aura.",
-  "num_followers": 957011,
+  "num_followers": 957065,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwMTkxMCwwMDAwMDAwMDg0OTIyOGNkMjc3NGNiZGE1Yzc3NWI0OWM3ZDNjOWU1",
+  "snapshot_id": "MTY2MDkxNjkyNCwwMDAwMDAwMDI1M2RiYWFjMGEzOGY0YTIwNmM0MGZjOTdiZGEwOTg5",
   "tracks": [
     {
       "added_at": "2022-08-12 10:58:30",
@@ -99,26 +99,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Captive",
-        "url": "https://open.spotify.com/album/6Lqrl0jg68hcV4GhGTYT4H"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        },
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
-        }
-      ],
-      "duration_ms": 199875,
-      "name": "Captive",
-      "url": "https://open.spotify.com/track/6ZvgvFGY2Pv5iL8u0ptduc"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Off The Ground",
         "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 242750,
       "name": "Off The Ground",
       "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+    },
+    {
+      "added_at": "2022-08-19 13:48:44",
+      "album": {
+        "name": "Run It Up EP",
+        "url": "https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "Sam King",
+          "url": "https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -195,22 +195,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Like Before",
-        "url": "https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88"
+        "name": "Royalty",
+        "url": "https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
         },
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "Maestro Chives",
+          "url": "https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs"
+        },
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
         }
       ],
-      "duration_ms": 209523,
-      "name": "Like Before",
-      "url": "https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR"
+      "duration_ms": 223520,
+      "name": "Royalty",
+      "url": "https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -271,30 +275,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Royalty",
-        "url": "https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x"
-      },
-      "artists": [
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "Maestro Chives",
-          "url": "https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs"
-        },
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Royalty",
-      "url": "https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
         "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
       },
@@ -323,6 +303,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Shivering (feat. Spiritbox)",
+        "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 300916,
+      "name": "Shivering (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Waiting For The Day (feat. Kyle Reynolds)",
         "url": "https://open.spotify.com/album/1yKCAwWiURqdUyA7yi7yHu"
       },
@@ -343,26 +343,6 @@
       "duration_ms": 222962,
       "name": "Waiting For The Day (feat. Kyle Reynolds)",
       "url": "https://open.spotify.com/track/6VGqFX2ZOLbdhtOZXNXY2k"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Shivering (feat. Spiritbox)",
-        "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 300916,
-      "name": "Shivering (feat. Spiritbox)",
-      "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -509,6 +489,46 @@
       "url": "https://open.spotify.com/track/3RgEkU0pFALv7sQhPlaFLd"
     },
     {
+      "added_at": "2022-08-19 13:48:44",
+      "album": {
+        "name": "Trials (feat. IDK)",
+        "url": "https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 133274,
+      "name": "Trials (feat. IDK)",
+      "url": "https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Like Before",
+        "url": "https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Like Before",
+      "url": "https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR"
+    },
+    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "PEW PEW",
@@ -527,30 +547,6 @@
       "duration_ms": 199111,
       "name": "PEW PEW",
       "url": "https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Shady Intentions (feat. Tori Levett)",
-        "url": "https://open.spotify.com/album/38FIOf6dJnWYBsFomLHgHU"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Tori Levett",
-          "url": "https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL"
-        }
-      ],
-      "duration_ms": 185316,
-      "name": "Shady Intentions (feat. Tori Levett)",
-      "url": "https://open.spotify.com/track/7zN7l6yep9kPdBJeevfPvY"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -591,6 +587,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Griztronics II (Another Level)",
+        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Griztronics II (Another Level)",
+      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Think Of You",
         "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
       },
@@ -627,6 +643,30 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Shady Intentions (feat. Tori Levett)",
+        "url": "https://open.spotify.com/album/38FIOf6dJnWYBsFomLHgHU"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Tori Levett",
+          "url": "https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL"
+        }
+      ],
+      "duration_ms": 185316,
+      "name": "Shady Intentions (feat. Tori Levett)",
+      "url": "https://open.spotify.com/track/7zN7l6yep9kPdBJeevfPvY"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Deja Reve",
         "url": "https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu"
       },
@@ -643,22 +683,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Griztronics II (Another Level)",
-        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
+        "name": "Feel No Pain",
+        "url": "https://open.spotify.com/album/3y7BcgeKhEpG9OAk4PZeCO"
       },
       "artists": [
         {
           "name": "GRiZ",
           "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Griztronics II (Another Level)",
-      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
+      "duration_ms": 169600,
+      "name": "Feel No Pain",
+      "url": "https://open.spotify.com/track/5d8FKzupYxokVUB1fZEamz"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -675,26 +711,6 @@
       "duration_ms": 159162,
       "name": "Dimension",
       "url": "https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -719,6 +735,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Back To The Top",
         "url": "https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw"
       },
@@ -739,22 +775,6 @@
       "duration_ms": 198139,
       "name": "Back To The Top",
       "url": "https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Feel No Pain",
-        "url": "https://open.spotify.com/album/3y7BcgeKhEpG9OAk4PZeCO"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Feel No Pain",
-      "url": "https://open.spotify.com/track/5d8FKzupYxokVUB1fZEamz"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1111,22 +1131,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 233046,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/5S0RxgMhMxzza0aOQt8d70"
       },
@@ -1159,6 +1163,22 @@
       "duration_ms": 172245,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 233046,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1631,6 +1651,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Captive",
+        "url": "https://open.spotify.com/album/6Lqrl0jg68hcV4GhGTYT4H"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "duration_ms": 199875,
+      "name": "Captive",
+      "url": "https://open.spotify.com/track/6ZvgvFGY2Pv5iL8u0ptduc"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae"
       },
@@ -1799,6 +1839,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Think Of Me (feat. SOUNDR)",
+        "url": "https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "SOUNDR",
+          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Think Of Me (feat. SOUNDR)",
+      "url": "https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Once Upon A Time In Cyberworld",
         "url": "https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS"
       },
@@ -1851,26 +1911,6 @@
       "duration_ms": 247500,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Think Of Me (feat. SOUNDR)",
-        "url": "https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "SOUNDR",
-          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Think Of Me (feat. SOUNDR)",
-      "url": "https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2015,26 +2055,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "EMBRACE",
-        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
-      },
-      "artists": [
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Mija",
-          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Within The Boundaries",
-      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/0wO2pnmmKaL4gsyGpTMqCY"
       },
@@ -2083,6 +2103,26 @@
       "duration_ms": 215716,
       "name": "AWOL",
       "url": "https://open.spotify.com/track/5IrorJJdoV7SBTJIQdVkmT"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "EMBRACE",
+        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Within The Boundaries",
+      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
     },
     {
       "added_at": "2022-08-12 10:58:30",

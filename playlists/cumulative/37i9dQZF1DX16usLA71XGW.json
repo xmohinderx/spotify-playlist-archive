@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Bitimba",
+        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147590,
+      "name": "Bitimba",
+      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
+    },
+    {
+      "album": {
         "name": "Blue Print (Official Audio)",
         "url": "https://open.spotify.com/album/5HcuKyDldkZjAnOOUe4s4l"
       },
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 210000,
       "name": "For Sheezy",
       "url": "https://open.spotify.com/track/4Kr0xtd8gpJPrSuQaQ9LSL"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 184889,
       "name": "Siwezi",
       "url": "https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs"
@@ -1093,6 +1111,28 @@
       "duration_ms": 182569,
       "name": "Unanikosha",
       "url": "https://open.spotify.com/track/6gHk7bjniGrFzZeIWuut7t"
+    },
+    {
+      "album": {
+        "name": "Maturity EP",
+        "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Lody Music",
+          "url": "https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175327,
+      "name": "Unanimaliza",
+      "url": "https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg"
     },
     {
       "album": {

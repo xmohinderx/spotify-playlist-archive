@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Ashley McBryde
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,922 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,965 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [The Cowboy Rides Away](https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:24 |
 | 100 | [Rocket Man](https://open.spotify.com/track/2SKSUxtD60P62m9sG6QUhL) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Restoration: The Songs Of Elton John And Bernie Taupin](https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP) | 4:47 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGUwYzBjYjAyOTJlMjdjYTdkM2M0OWRjZjg5MzkxMGRi`
+Snapshot ID: `MTY2MDg4NjgzOSwwMDAwMDAwMDhlNjIwZWQzYzRkODdmMjY0OTdlNWYwNjNjYzBkZWUy`

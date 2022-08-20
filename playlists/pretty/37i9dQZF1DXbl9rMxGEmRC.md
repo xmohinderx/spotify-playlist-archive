@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,708 likes - 100 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,816 likes - 100 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 89 | [Satan Divine](https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Kiss The Goat](https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v) | 3:59 |
 | 90 | [The howling](https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The howling](https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi) | 4:08 |
 | 91 | [Nosferatu](https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [We Are The Apocalypse](https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs) | 4:41 |
-| 92 | [Frozen](https://open.spotify.com/track/3iRC1B4yp9fGXMrpCEsWc6) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [The Past is Alive \(The Early Misschief\)](https://open.spotify.com/album/0tDQkjDWcKYpuMPpCOSyYV) | 3:28 |
-| 93 | [God Is Wasted](https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX) | 4:18 |
-| 94 | [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 |
-| 95 | [I](https://open.spotify.com/track/20Ixhug1ZV3n3XXeB71kDF) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Nattens Madrigal](https://open.spotify.com/album/1Hod8O8aRjCE5RG6aI1GKl) | 6:16 |
-| 96 | [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 |
-| 97 | [Bathed in Clouds of Blood](https://open.spotify.com/track/0Ms5AudGd4Umj3nOyXlzYk) | [Judas Iscariot](https://open.spotify.com/artist/5G1MlYyOsiG56mjlsZHsLC) | [To Embrace the Corpses Bleeding](https://open.spotify.com/album/5aJR9XznroTV3CpKyhO8EQ) | 3:21 |
-| 98 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves And Titan Woods](https://open.spotify.com/album/6wW5MkAhpOr0QRtznvqqPH) | 2:55 |
-| 99 | [Loke](https://open.spotify.com/track/27vcwfCcgCaso2A0hifBT9) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Frost](https://open.spotify.com/album/788vAauAwMdVMkdlgiyzMx) | 4:21 |
-| 100 | [The Fifth Illusion](https://open.spotify.com/track/7AYkjUqjPI3kDLLwKTQlYP) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Non Serviam](https://open.spotify.com/album/3o5Gb5maaKt6DZQQwk3Dal) | 5:34 |
+| 92 | [God Is Wasted](https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX) | 4:18 |
+| 93 | [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 |
+| 94 | [I](https://open.spotify.com/track/20Ixhug1ZV3n3XXeB71kDF) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Nattens Madrigal](https://open.spotify.com/album/1Hod8O8aRjCE5RG6aI1GKl) | 6:16 |
+| 95 | [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 |
+| 96 | [Bathed in Clouds of Blood](https://open.spotify.com/track/0Ms5AudGd4Umj3nOyXlzYk) | [Judas Iscariot](https://open.spotify.com/artist/5G1MlYyOsiG56mjlsZHsLC) | [To Embrace the Corpses Bleeding](https://open.spotify.com/album/5aJR9XznroTV3CpKyhO8EQ) | 3:21 |
+| 97 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves And Titan Woods](https://open.spotify.com/album/6wW5MkAhpOr0QRtznvqqPH) | 2:55 |
+| 98 | [Loke](https://open.spotify.com/track/27vcwfCcgCaso2A0hifBT9) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Frost](https://open.spotify.com/album/788vAauAwMdVMkdlgiyzMx) | 4:21 |
+| 99 | [The Fifth Illusion](https://open.spotify.com/track/7AYkjUqjPI3kDLLwKTQlYP) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Non Serviam](https://open.spotify.com/album/3o5Gb5maaKt6DZQQwk3Dal) | 5:34 |
+| 100 | [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 |
 
-Snapshot ID: `MTY2MDMzNDA4NiwwMDAwMDAwMGRjZWRiN2RkNDY3NWI1M2NlYjYzZjNiMzJiMmM0YjQw`
+Snapshot ID: `MTY2MDMzNDA4NiwwMDAwMDAwMDAzZjU4NTI1MmViNjQ3YTY1N2VjNzcxOTI3Y2IwNzU1`

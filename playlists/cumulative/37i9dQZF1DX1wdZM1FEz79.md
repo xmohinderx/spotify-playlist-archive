@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover:  Sojeong\(소정\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-408 songs - 1 day 0 hr 22 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
+409 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Baby I told you](https://open.spotify.com/track/27PvuEGJGW91wrP5q3khDD) | [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G) | [Baby I told you](https://open.spotify.com/album/4RfQ0urMKBfgd7XF8iQNxc) | 2:44 | 2022-04-12 | 2022-04-19 |
 | [babyblue](https://open.spotify.com/track/3G11VWK4YHumpMmJhs11pY) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2) | 3:48 | 2021-12-10 | 2022-07-29 |
 | [Be Love](https://open.spotify.com/track/1Bpk1E0XMCkA30pu1GQLNB) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Be Love](https://open.spotify.com/album/6pc6IdDxGdtDQqYUtI3Oer) | 4:33 | 2022-03-31 | 2022-04-13 |
-| [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 | 2022-05-13 |  |
+| [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 | 2022-05-13 | 2022-08-20 |
 | [Be the Light](https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Hometown Cha\-Cha\-Cha, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/52fvqDulBcB8L2D4MXbtXB) | 3:54 | 2022-03-31 | 2022-04-20 |
 | [Be with me \- Acoustic Mix](https://open.spotify.com/track/39OvFhBrhWmYne1x6YtBjx) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Beloved \(Acoustic Mix\)](https://open.spotify.com/album/12AITMfwXY2uvJClZKJcf5) | 4:31 | 2021-12-10 | 2022-04-18 |
 | [Beach Again \(Acoustic Ver.\)](https://open.spotify.com/track/2XenAqDhO1owVxsYeRET65) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 4:21 | 2021-12-10 | 2022-07-24 |
@@ -311,6 +311,7 @@
 | [Story](https://open.spotify.com/track/10xIDPlfoOPojv15gs4v5U) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [RADIO ROMANCE OST Part.5](https://open.spotify.com/album/39E5NxDaelO34UD2PuGcZh) | 3:45 | 2022-03-31 | 2022-04-17 |
 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 | 2021-12-10 | 2022-07-29 |
 | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/track/6XYNKhfq3bucZVrP8kp0DO) | [1014](https://open.spotify.com/artist/6DrNvtiDIKjnRsb7S67iKx), [Mori](https://open.spotify.com/artist/1BNvKAHE63KEhzYHDarlpT) | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/album/4jW8sXbG23vSJe1qxgh5vx) | 3:27 | 2022-03-31 | 2022-04-11 |
+| [Summer night](https://open.spotify.com/track/5jAmRmTCrSueBF2O7mqI1I) | [for\_the\_poet](https://open.spotify.com/artist/4LzAduZVy0eNJxbe4fwbuX) | [Summer night](https://open.spotify.com/album/0J25ZbYJdZOIa1nDoYCJTP) | 3:19 | 2022-08-19 |  |
 | [Summer Night](https://open.spotify.com/track/4SPSIlALa6SJMay3SQi7Mp) | [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp) | [Summer Night](https://open.spotify.com/album/66r2jNtBUScalDYJOtbDG8) | 3:34 | 2022-03-31 | 2022-04-05 |
 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 | 2021-12-10 |  |
 | [SUPERCAR](https://open.spotify.com/track/49OWLslwYgeMZlTflhmgzR) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:42 | 2022-07-04 | 2022-08-10 |

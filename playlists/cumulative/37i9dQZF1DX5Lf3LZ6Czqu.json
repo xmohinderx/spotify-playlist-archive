@@ -628,6 +628,32 @@
     },
     {
       "album": {
+        "name": "Ghostfish (Masterlink Sessions)",
+        "url": "https://open.spotify.com/album/4yxkHvAV6Uh86YLNlh81r1"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Mike Outram",
+          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
+        },
+        {
+          "name": "Tony Remy",
+          "url": "https://open.spotify.com/artist/4ZPe9yodynCxVDpH4uExp0"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173379,
+      "name": "Ghostfish - Masterlink Sessions",
+      "url": "https://open.spotify.com/track/3x2MCE4ayd3DUhBxVHBaIq"
+    },
+    {
+      "album": {
         "name": "Gimme 5",
         "url": "https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU"
       },

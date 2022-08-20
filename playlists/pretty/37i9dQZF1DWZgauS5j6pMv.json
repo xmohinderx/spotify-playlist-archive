@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Dabeull",
-  "num_followers": 268126,
+  "num_followers": 268294,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGI0YmE0ZGI4YzA5NDgwMGVhN2YxYWUxZmU0NmNjMzdl",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDhiNmRkNDliZTQ2OGQ4YTBlMzYzZDM0M2U0YmM3NDZj",
   "tracks": [
     {
       "added_at": "2022-06-24 04:02:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
     },
     {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Olive",
+        "url": "https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV"
+      },
+      "artists": [
+        {
+          "name": "Brian Robert Jones",
+          "url": "https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm"
+        }
+      ],
+      "duration_ms": 231757,
+      "name": "Olive",
+      "url": "https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Major Love",
@@ -59,6 +75,22 @@
       "duration_ms": 136773,
       "name": "Major Love",
       "url": "https://open.spotify.com/track/5YwslI1NOE5ZIs99KYtO0z"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "This Vibe",
+        "url": "https://open.spotify.com/album/46gXRt1zGMf89qJPSI9cje"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burgos",
+          "url": "https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "This Vibe",
+      "url": "https://open.spotify.com/track/1Y9z7IqlSnet2A5raxs22e"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1755,22 +1787,6 @@
       "duration_ms": 222901,
       "name": "Witchoo",
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
-    },
-    {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
-        "name": "You Not Me",
-        "url": "https://open.spotify.com/album/0jANe1ZB6ZUafYRMK0vCLt"
-      },
-      "artists": [
-        {
-          "name": "Baegod",
-          "url": "https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "You Not Me",
-      "url": "https://open.spotify.com/track/6FyM8JWZ1gffsvIbFWQ5JP"
     },
     {
       "added_at": "2021-07-30 04:09:00",

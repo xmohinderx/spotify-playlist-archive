@@ -1,13 +1,45 @@
 {
   "description": "Have a quiet morning with this mix of something familiar and something new.",
-  "num_followers": 484906,
+  "num_followers": 484942,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDBhNzhmMGY0MzcxYjAxZTc5ODc0ZTY0Yjk1YTcwMThl",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDU2NWQxNDJiZmRkZTIyZTYzYTQ3MDk5YmUzOGQ3N2Vm",
   "tracks": [
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "got you",
+        "url": "https://open.spotify.com/album/4LyOxAiCtqlroaqVRFugB5"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lauren Callihan",
+          "url": "https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2"
+        }
+      ],
+      "duration_ms": 227504,
+      "name": "got you",
+      "url": "https://open.spotify.com/track/5JIUkZ1YiJXZXg4Se2fE3R"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
@@ -27,6 +59,26 @@
       "duration_ms": 219292,
       "name": "Hardware Store",
       "url": "https://open.spotify.com/track/7L8kWzZYrlXkSNwHgLjYo8"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -91,42 +143,6 @@
       "duration_ms": 234986,
       "name": "Mending",
       "url": "https://open.spotify.com/track/6zbMkHR8vbJbEtuBytboaE"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Until I Found You (Em Beihold Version)",
-        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -665,26 +681,6 @@
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Summer Moon (feat. Kevin Kaarl)",
-        "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 177673,
-      "name": "Summer Moon (feat. Kevin Kaarl)",
-      "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "The Way That Lovers Do",
@@ -715,6 +711,26 @@
       "duration_ms": 251161,
       "name": "High Hope",
       "url": "https://open.spotify.com/track/51hx5VSyIkTzwRrs5DJjQ3"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Summer Moon (feat. Kevin Kaarl)",
+        "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 177673,
+      "name": "Summer Moon (feat. Kevin Kaarl)",
+      "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -1207,22 +1223,6 @@
       "duration_ms": 240026,
       "name": "For Me, It's You",
       "url": "https://open.spotify.com/track/2odYUJ9LhwDVVPxXL3NxuB"
-    },
-    {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 217718,
-      "name": "I Might Be In Love With You",
-      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
     }
   ],
   "unique_name": "Mellow Morning",

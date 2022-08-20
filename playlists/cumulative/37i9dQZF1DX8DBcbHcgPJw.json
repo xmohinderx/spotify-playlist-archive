@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Marama.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Migrantes.",
   "name": "Dame M\u00e1s Cumbia",
   "published_playlist_ids": [
     "7vDusSvVBxYbBiawprvkqw"
@@ -1028,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Vieja",
+        "url": "https://open.spotify.com/album/0M0ITbLB8ipsQOjw7Qkz3o"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165661,
+      "name": "Cumbia Vieja",
+      "url": "https://open.spotify.com/track/2rzFgjG5cRCTsQ83cKdmJK"
+    },
+    {
+      "album": {
         "name": "Cuentale",
         "url": "https://open.spotify.com/album/1kf8oWvNE0SeDWowrkmVtC"
       },
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 143529,
       "name": "El Trato - Remix",
       "url": "https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 180035,
       "name": "Enganchado #TocoParaVos - Cumbia Mix",
       "url": "https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo"
@@ -2617,7 +2635,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 167038,
       "name": "Lado Triste - Remix",
       "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
@@ -4552,6 +4570,24 @@
     },
     {
       "album": {
+        "name": "Session 3: Cae el Sol / Lo Intentamos / Amor a Medias No",
+        "url": "https://open.spotify.com/album/2M4rnBQ1adBw295sjz9XsP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453867,
+      "name": "Session 3: Cae el Sol / Lo Intentamos / Amor a Medias No",
+      "url": "https://open.spotify.com/track/0F5DN26zVuQCYwQ0555eCD"
+    },
+    {
+      "album": {
         "name": "Si la Ves / Perdoname / Igual Que Ayer / Voy a Olvidarte",
         "url": "https://open.spotify.com/album/4Gymqw2kwVsnZIrJA4B8O3"
       },
@@ -5799,6 +5835,24 @@
       "duration_ms": 193636,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/4cOtPoRkhDVxmr1gaB0hDi"
+    },
+    {
+      "album": {
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/7MDpxFAQsap0rcim87rxFg"
+      },
+      "artists": [
+        {
+          "name": "KEP\u00c1",
+          "url": "https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126423,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/5KcHM0MeRD80BSrsv7Ofas"
     },
     {
       "album": {

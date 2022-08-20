@@ -920,6 +920,24 @@
     },
     {
       "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+    },
+    {
+      "album": {
         "name": "All My Hits: Todos Mis Exitos",
         "url": "https://open.spotify.com/album/6ofanZuft02DovBm84Slkk"
       },
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 151586,
       "name": "La Leona y el Mandil\u00f3n",
       "url": "https://open.spotify.com/track/72YKqem3dQrjdoMEH28AVH"

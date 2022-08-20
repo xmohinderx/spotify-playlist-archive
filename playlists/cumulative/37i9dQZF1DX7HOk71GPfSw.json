@@ -1494,6 +1494,32 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/3erC6rFoVPWp4LyLCDNPwY"
+      },
+      "artists": [
+        {
+          "name": "Bloom OS",
+          "url": "https://open.spotify.com/artist/0Sy0UUyMYRceOp9LhvgtNo"
+        },
+        {
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        },
+        {
+          "name": "Himera",
+          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127999,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/0NVdg0miEVWRALvwWaH9MD"
+    },
+    {
+      "album": {
         "name": "AmiciXS",
         "url": "https://open.spotify.com/album/1JwHaHkUGVH5TR14jkwil0"
       },
@@ -4389,7 +4415,7 @@
     {
       "album": {
         "name": "comfort noise (Music Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/5ZdcZ4yguTGQ3ffVbPHCey"
+        "url": "https://open.spotify.com/album/4vRT4ZeETtW8SrTLVdrYuj"
       },
       "artists": [
         {
@@ -4416,6 +4442,40 @@
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 227950,
+      "name": "check1 (Cali Cartier & william crooks Remix)",
+      "url": "https://open.spotify.com/track/3e8mpmDiQi8VLpx04p8xN5"
+    },
+    {
+      "album": {
+        "name": "comfort noise (Music Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/5ZdcZ4yguTGQ3ffVbPHCey"
+      },
+      "artists": [
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        },
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        },
+        {
+          "name": "645AR",
+          "url": "https://open.spotify.com/artist/3Iv3mOsjFV8vZkXphpQ8hz"
+        },
+        {
+          "name": "Cali Cartier",
+          "url": "https://open.spotify.com/artist/2kg5UE6FjFJbfgmJbnpNqp"
+        },
+        {
+          "name": "William Crooks",
+          "url": "https://open.spotify.com/artist/6RQSaarEM4qarzwuWvKvPw"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
       "duration_ms": 227950,
       "name": "check1 (Cali Cartier & william crooks Remix)",
       "url": "https://open.spotify.com/track/6uc9AVe62FWjkG3JIZFhCs"
@@ -10029,7 +10089,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 221250,
       "name": "GREEN SPORE VALLEY",
       "url": "https://open.spotify.com/track/496TD3rnHUlD3hJiTU2vmp"
@@ -18751,7 +18811,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 213770,
       "name": "popular",
       "url": "https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj"
@@ -21101,7 +21161,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 203265,
       "name": "selective altruism",
       "url": "https://open.spotify.com/track/5t1L2Es0faTlZsAkfLTHVA"
@@ -23838,6 +23898,28 @@
     },
     {
       "album": {
+        "name": "Tambaleo (Machine Girl Remix)",
+        "url": "https://open.spotify.com/album/3bXr4Mu7MSHbUCzEHzn226"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        },
+        {
+          "name": "Machine Girl",
+          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282173,
+      "name": "Tambaleo - Machine Girl Remix",
+      "url": "https://open.spotify.com/track/3nWpmZtPeb6qqi03YcuDE6"
+    },
+    {
+      "album": {
         "name": "ALIAS",
         "url": "https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb"
       },
@@ -25959,6 +26041,24 @@
       "duration_ms": 420750,
       "name": "Vandalize Music",
       "url": "https://open.spotify.com/track/4pkUyTuJRUptO0FcmJwJEu"
+    },
+    {
+      "album": {
+        "name": "veins",
+        "url": "https://open.spotify.com/album/2RMupCS5u3dxfhV1OaxCI9"
+      },
+      "artists": [
+        {
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "veins",
+      "url": "https://open.spotify.com/track/4VpfWYX22H2B27glBf4t19"
     },
     {
       "album": {

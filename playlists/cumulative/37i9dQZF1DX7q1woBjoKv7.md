@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
-> California music breaking waves\. Cover: LaRussell
+> California music breaking waves\. Cover: Larry June
 
 439 songs - 22 hr 1 min - [published](https://open.spotify.com/playlist/7aCz9WTkVveWry6ECm9qAk)
 

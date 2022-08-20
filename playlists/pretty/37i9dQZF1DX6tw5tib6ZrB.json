@@ -1,29 +1,13 @@
 {
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Megan Thee Stallion, Central Cee, Joey Bada$$ and more",
-  "num_followers": 17816,
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Cassper Nyovest, Megan Thee Stallion, Central Cee and more",
+  "num_followers": 17934,
   "original_name": "JumpOff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4NDk2MCwwMDAwMDAwMDJmMDUzY2MwNTU2OTMzNTcwNmY4ZTVmYWI4YTJlOTY3",
+  "snapshot_id": "MTY2MDkwNTExNCwwMDAwMDAwMDliOTM0MmI3ZWIxZjJlY2E2OTFmYjY5OTdlMzBlOGFl",
   "tracks": [
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "NEW MAGIC WAND",
-      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
-    },
     {
       "added_at": "2022-07-14 20:59:00",
       "album": {
@@ -45,20 +29,20 @@
       "url": "https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s"
     },
     {
-      "added_at": "2022-08-12 06:16:00",
+      "added_at": "2022-06-16 10:18:18",
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 137107,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -79,6 +63,22 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+    },
+    {
+      "added_at": "2022-08-12 06:16:00",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -115,6 +115,26 @@
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "added_at": "2022-08-19 10:31:54",
+      "album": {
+        "name": "Put Your Hands Up",
+        "url": "https://open.spotify.com/album/4H43FO9JQCliwYJZnuIvFc"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        }
+      ],
+      "duration_ms": 209543,
+      "name": "Put Your Hands Up",
+      "url": "https://open.spotify.com/track/6od2XO9Tr80jHwNwXSNLR6"
     },
     {
       "added_at": "2022-06-23 20:59:00",
@@ -169,6 +189,22 @@
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
     {
+      "added_at": "2022-08-19 10:31:54",
+      "album": {
+        "name": "5 4 3 2 1",
+        "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "5 4 3 2 1",
+      "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
+    },
+    {
       "added_at": "2022-06-16 10:18:18",
       "album": {
         "name": "Flower Boy",
@@ -187,6 +223,30 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2022-08-19 10:31:54",
+      "album": {
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -213,6 +273,22 @@
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
     },
     {
+      "added_at": "2022-08-19 10:31:54",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/0cx2C5WRAQc54psme3DlLV"
+      },
+      "artists": [
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "duration_ms": 185990,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/6acxplUSIxGvE7GlOkuteI"
+    },
+    {
       "added_at": "2022-07-22 09:09:58",
       "album": {
         "name": "2000",
@@ -227,6 +303,26 @@
       "duration_ms": 206626,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/53NLq6SSyKSkLBdWkoYrE7"
+    },
+    {
+      "added_at": "2022-08-19 10:31:54",
+      "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "Space Cadet (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
     },
     {
       "added_at": "2022-07-07 20:59:00",
@@ -355,6 +451,30 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "added_at": "2022-08-19 10:31:54",
+      "album": {
+        "name": "LOCATION 58",
+        "url": "https://open.spotify.com/album/4j09XYUk4AEyG5DJrGok9h"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        },
+        {
+          "name": "AJAY",
+          "url": "https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0"
+        },
+        {
+          "name": "Mr right",
+          "url": "https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG"
+        }
+      ],
+      "duration_ms": 187056,
+      "name": "LOCATION 58",
+      "url": "https://open.spotify.com/track/1bAmibDN20SFZWrAaHmDPJ"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -775,42 +895,6 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
-        "name": "Kalesa na Leather",
-        "url": "https://open.spotify.com/album/2BmdCBVfeopAna7jznaQOM"
-      },
-      "artists": [
-        {
-          "name": "Steph Kapela",
-          "url": "https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl"
-        }
-      ],
-      "duration_ms": 162063,
-      "name": "Kalesa na Leather",
-      "url": "https://open.spotify.com/track/0YETEpBObtWQAAlrEBL5VK"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "7220",
-        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 181393,
-      "name": "What Happened To Virgil (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -851,6 +935,22 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/3ioJs8DQw527GmqJIp5gZG"
+    },
+    {
+      "added_at": "2022-06-16 10:18:18",
+      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -865,20 +965,40 @@
       "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
     },
     {
-      "added_at": "2022-07-29 12:16:05",
+      "added_at": "2022-06-16 10:18:18",
       "album": {
-        "name": "BIGGS",
-        "url": "https://open.spotify.com/album/4pxNzFrgUzRCJupYUXjs8y"
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
       "artists": [
         {
-          "name": "Big yasa",
-          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 200254,
-      "name": "Wasp",
-      "url": "https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP"
+      "duration_ms": 181393,
+      "name": "What Happened To Virgil (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
+    },
+    {
+      "added_at": "2022-06-16 10:18:18",
+      "album": {
+        "name": "Kalesa na Leather",
+        "url": "https://open.spotify.com/album/2BmdCBVfeopAna7jznaQOM"
+      },
+      "artists": [
+        {
+          "name": "Steph Kapela",
+          "url": "https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl"
+        }
+      ],
+      "duration_ms": 162063,
+      "name": "Kalesa na Leather",
+      "url": "https://open.spotify.com/track/0YETEpBObtWQAAlrEBL5VK"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -937,36 +1057,20 @@
       "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
     },
     {
-      "added_at": "2022-06-16 10:18:18",
+      "added_at": "2022-07-29 12:16:05",
       "album": {
-        "name": "D.R.U.G.S (Dear.Romance.U.Got.Sweet)",
-        "url": "https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8"
+        "name": "BIGGS",
+        "url": "https://open.spotify.com/album/4pxNzFrgUzRCJupYUXjs8y"
       },
       "artists": [
         {
-          "name": "NJERI",
-          "url": "https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR"
+          "name": "Big yasa",
+          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
         }
       ],
-      "duration_ms": 115973,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/0wj0rGLu2CnpGEZBiXcZZi"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/3ioJs8DQw527GmqJIp5gZG"
+      "duration_ms": 200254,
+      "name": "Wasp",
+      "url": "https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP"
     }
   ],
   "unique_name": "JumpOff",

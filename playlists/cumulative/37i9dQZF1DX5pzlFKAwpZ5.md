@@ -4,7 +4,7 @@
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-114 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
+115 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Constellation](https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Silent Rain \(Original Soundtrack\)](https://open.spotify.com/album/4STn2qItzwcUPQpl7IYf9B) | 4:08 | 2022-01-07 |  |
 | [Daikai](https://open.spotify.com/track/2bHwzoWqNUR18TgPJM8877) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Hyogo](https://open.spotify.com/album/3QKWWbpKINycE4QcCpgoDr) | 7:48 | 2022-01-07 |  |
 | [dama](https://open.spotify.com/track/4Xri8RbDoyznZ2HZeQaSlh) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Midori](https://open.spotify.com/album/1dSDUX6GkjFVeQtNjWYVKt) | 3:08 | 2022-01-07 | 2022-02-23 |
+| [Deep Slope](https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/6Odd0pQof21z3lkmu1ncZz) | 6:43 | 2022-08-19 |  |
 | [Early Morning](https://open.spotify.com/track/4QMTjiyxQZyHkJkd5kOVjo) | [Yuki Ishii](https://open.spotify.com/artist/7uNHU1YLG5NsxBgwkx60SR) | [REFLECTION](https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2) | 1:32 | 2022-01-07 |  |
 | [EAST](https://open.spotify.com/track/6Ygtiz9F4HhhJaO7EHwiMj) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/70FS8K29lXeAiX6ovQaHwo) | 6:14 | 2022-01-07 |  |
 | [Endless Winter](https://open.spotify.com/track/6iWq0mbEZN5d7h4yMGCtqz) | [Airda](https://open.spotify.com/artist/4D02Ag61s1bHSVfWu51lLO) | [Endless Winter](https://open.spotify.com/album/5GcNSMT6S9yR1eFegzWVsR) | 4:48 | 2022-01-07 | 2022-07-29 |

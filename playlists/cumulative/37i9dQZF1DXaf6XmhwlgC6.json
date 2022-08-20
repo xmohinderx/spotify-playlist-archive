@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/4ecx91bGlsoXRz7P66I04O"
+      },
+      "artists": [
+        {
+          "name": "ARCADIA",
+          "url": "https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131071,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/065wPKi9Ldumw5BqGSqWA0"
+    },
+    {
+      "album": {
         "name": "Falling Deeply",
         "url": "https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ"
       },

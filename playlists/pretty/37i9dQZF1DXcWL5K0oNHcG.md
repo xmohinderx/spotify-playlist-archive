@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Knats Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,052 likes - 85 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,101 likes - 85 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 77 | [Moksha](https://open.spotify.com/track/51jimvaaAvAdRxGbgZNvtS) | [Teemu Kekkonen](https://open.spotify.com/artist/5nGAsGGaDI9n3ScTPLABWW) | [Moksha](https://open.spotify.com/album/7sbLf0LWsk0qmZjQVXtBMD) | 6:27 |
 | 78 | [Stratus](https://open.spotify.com/track/6GwtYzv1vXn45VbGIFIs4x) | [Niyamas](https://open.spotify.com/artist/5vZsXFAiaQz04gn9bxJGJ4) | [Stratus](https://open.spotify.com/album/3xQzVCGXtDmRf5mRbbng4x) | 4:45 |
 | 79 | [LITTENHOUSE](https://open.spotify.com/track/2r9Uuq5GW60pklm4oqUsBW) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr) | [SOUNDS FROM THE STREET: LIVE](https://open.spotify.com/album/7pV9eJkOmSHIeUp2531JCk) | 5:20 |
-| 80 | [No Cynicism](https://open.spotify.com/track/0y3nDIVwtYpeZ0hFGHo5Rj) | [Clemens Kuratle](https://open.spotify.com/artist/0f9ftSpEqnxr6fnkHc9869), [Ydivide](https://open.spotify.com/artist/3Np5YMkfnPGcIbUQKcSrv7) | [No Cynicism](https://open.spotify.com/album/69tWOxYo0m6Sx95SYEhiSm) | 5:41 |
+| 80 | [No Cynicism](https://open.spotify.com/track/4CSvQVPH0QcuaxFaRfv1mP) | [Clemens Kuratle](https://open.spotify.com/artist/0f9ftSpEqnxr6fnkHc9869), [Ydivide](https://open.spotify.com/artist/3Qg38hRM2K8xAilNB4ajvM) | [Lumumba](https://open.spotify.com/album/6HzUSNZG2mz2CpwB7Nccog) | 5:41 |
 | 81 | [Roulette](https://open.spotify.com/track/4dqH5N2vU9q7z2UDum903X) | [RELWEN](https://open.spotify.com/artist/1BSRphBVYG5WIqibtFbIg8), [Yuki Relwen](https://open.spotify.com/artist/5mE0RHL0lNCs3XKbJWgvbu) | [Roulette](https://open.spotify.com/album/3ssAEFAdESGSBX7ufKO9ZF) | 6:36 |
 | 82 | [Pigeons](https://open.spotify.com/track/5feVFAGv8aOhz7zFUczpUr) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Pigeons](https://open.spotify.com/album/5O1WgrvNp2LPu9LWHL6XPD) | 4:38 |
 | 83 | [F.S.A.](https://open.spotify.com/track/00lmXvlszo2R8Wv4pNUh2x) | [Filippo Deorsola](https://open.spotify.com/artist/66kHxyTIUOs93YAmcjDIve), [Jonathan Ho\-Chin Kiat](https://open.spotify.com/artist/5M8DBQcZPQmnanPt67wZHt), [Ap Verhoeven](https://open.spotify.com/artist/2F3U0YXatIFF6IaFsF9pZB) | [Anaphora \| Lexicon I](https://open.spotify.com/album/1ap3yA9c6HSrqvx0XeNulH) | 5:54 |
 | 84 | [About Time](https://open.spotify.com/track/3dkpb7KcnuQtRb5RvALROA) | [Veronika Harcsa](https://open.spotify.com/artist/5nN4R7oxXwUsVpHfqUryfM), [Bálint Gyémánt](https://open.spotify.com/artist/0mCibLE17OGnRjWVLcWWO2) | [About Time](https://open.spotify.com/album/7DVu6ayiZhHKQudrW114A5) | 2:53 |
 | 85 | [Mallscape](https://open.spotify.com/track/62SyFkYuSbRwhaJbtJESrd) | [Russell Favret](https://open.spotify.com/artist/0P8IOpX9JI9jXTRIMzmK0s) | [Mallscape](https://open.spotify.com/album/7MCDcBv9hxGFb4ebdDKxQx) | 2:29 |
 
-Snapshot ID: `MTY2MDcwODgwMCwwMDAwMDAwMDY4MmQ1MzMyODZmNmM0MTBjYjFiN2IzYjNkYTliNTM2`
+Snapshot ID: `MTY2MDcwODgwMCwwMDAwMDAwMGVlN2JlNGY2MTlmZjY0MjMwMmZmYzIzMTcxNjAwYTQx`

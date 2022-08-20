@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Photo : Melody Gardot
 
-114 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
+115 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Renaissance](https://open.spotify.com/track/4NqCSvS7Pj0uIaYIbl9xH4) | [Louis Matute](https://open.spotify.com/artist/29W139vCxg27ll23aYZ9u7), [Amine M'Raihi](https://open.spotify.com/artist/5Wqr5RO1sBFvG11Cmyhmsf), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Zacharie Ksyk](https://open.spotify.com/artist/0EMYpT7zqnEaoB1838AFuI), [Andrew Audiger](https://open.spotify.com/artist/47CvZyBIDcuRZJLVw5m3kB), [Virgile Rosselet](https://open.spotify.com/artist/6aWaB1VrlnFln4ZGy5OBir), [Nathan Vandenbulcke](https://open.spotify.com/artist/22Ng3xcFT2TAugPfDQkofW) | [Renaissance \(Radio Edit\)](https://open.spotify.com/album/5d8D5Cn7N4BdjjAVBSrKR9) | 6:34 | 2022-04-14 | 2022-06-24 |
 | [Reste un oiseau](https://open.spotify.com/track/4miACj3Pi7Pox3ylFNFZ9s) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [Reste un oiseau](https://open.spotify.com/album/6803wHGAlnx5ABcWhjgmJy) | 3:15 | 2022-04-14 | 2022-04-29 |
 | [Seine de la vie parisienne](https://open.spotify.com/track/4xc9dTPrGEvoHmvdiCYCdT) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Seine de la vie parisienne](https://open.spotify.com/album/1Bf3ZebTvMnGNspxaKVBCP) | 3:52 | 2022-04-21 |  |
-| [Sentimental Mode](https://open.spotify.com/track/5Q4WjIzpn7RrZWh8v9IDuF) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Sentimental Mode](https://open.spotify.com/album/4Ltele1CIV0OV0RDlJmhP8) | 6:26 | 2022-08-18 |  |
+| [Sentimental Mode](https://open.spotify.com/track/5Q4WjIzpn7RrZWh8v9IDuF) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Sentimental Mode](https://open.spotify.com/album/4Ltele1CIV0OV0RDlJmhP8) | 6:26 | 2022-08-18 | 2022-08-20 |
+| [Sentimental Mode](https://open.spotify.com/track/5nxBcToLYc4iUPAbi7tQDS) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Sentimental Mode](https://open.spotify.com/album/16jnTCEIibPTNfBTRnbGrz) | 6:26 | 2022-08-18 |  |
 | [Shadow Love](https://open.spotify.com/track/7hZks381Vo5vIhzZCn08sC) | [David Enhco](https://open.spotify.com/artist/1mTJejEfbKCnYMhdLrxDx4), [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK), [Quatuor Voce](https://open.spotify.com/artist/1waIgKiLjI9W0C2gcKjSPG), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Family Tree](https://open.spotify.com/album/0goB3CgedNIzdgkvLIbOL4) | 3:37 | 2022-04-14 | 2022-04-29 |
 | [Short Shore](https://open.spotify.com/track/0ZixlJXjuXbo1cEYAGqnGu) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Short Shore](https://open.spotify.com/album/63J2Uw0fVVLRKwvlvWMwJc) | 8:59 | 2022-04-14 | 2022-04-29 |
 | [Sin Tu Cariño](https://open.spotify.com/track/1qiTCtOzIeNByF4qBk8rKT) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Boca Livre](https://open.spotify.com/artist/360FjbxByY4XLqXrZ6cWGF) | [Pasieros](https://open.spotify.com/album/1fIKEGcN78crVvuSWjquHA) | 3:59 | 2022-05-19 | 2022-08-19 |

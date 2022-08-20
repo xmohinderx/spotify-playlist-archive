@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-240 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+241 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [lazos](https://open.spotify.com/track/7mxsGL3TUaMvhwvRSBn7ne) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9) | [lazos](https://open.spotify.com/album/1eQowgre1jsz7vxsEhunt0) | 2:03 | 2022-07-22 |  |
 | [Le Hippie](https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Le Hippie](https://open.spotify.com/album/3y9zpas3INXBk6lUVnrIVF) | 2:22 | 2021-12-07 |  |
 | [Lime Express](https://open.spotify.com/track/6W1jElE8QnsHXvH1umc4VG) | [PINANO](https://open.spotify.com/artist/2SJvTrEFHegW2SEVgMy6aT) | [Keep Track](https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv) | 1:40 | 2021-12-07 | 2022-05-20 |
+| [little birds](https://open.spotify.com/track/6qMSOAQMtABP9GALEsR1ZB) | [tawnbei](https://open.spotify.com/artist/2Np0o8All4XesC4ZMGufqI) | [Odyssey](https://open.spotify.com/album/2EnpRqNGTj9GYD76Z1AHjH) | 1:29 | 2022-08-19 |  |
 | [Little Talks](https://open.spotify.com/track/0H71QVwrAWvUJZLvF1oDFX) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Little Talks](https://open.spotify.com/album/7fPL7gS9hiirN9U7u8Z8EN) | 2:20 | 2022-07-08 |  |
 | [Lo\-Fi Disco](https://open.spotify.com/track/2julBmkb51MrSa4jjW5ghK) | [Fuchsia Farro](https://open.spotify.com/artist/7b4QcBY9Rb12Lp8hse7Jtr) | [Color Of My Dreams](https://open.spotify.com/album/4Fx26dD3bFwmTXQbXJE9Ij) | 1:46 | 2022-06-17 |  |
 | [lofi jam](https://open.spotify.com/track/7HQmkAioOUG8ZxPkfcEw5p) | [dave.](https://open.spotify.com/artist/17R10v2unr1DGfF0cDg7OE) | [lofi jam](https://open.spotify.com/album/6dsQvoFTSMBp7e3rwyzWf6) | 2:19 | 2021-12-07 |  |

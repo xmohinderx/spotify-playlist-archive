@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-96 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+97 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Hoodie \(feat\. Ollie Joseph\) \- Spanglish](https://open.spotify.com/track/5Yw4ZbzNPr7WINRb9HQvFD) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Hoodie \(Spanglish\)](https://open.spotify.com/album/7IkJnMk5dyQ36OAaogWf0F) | 3:03 | 2021-12-10 |  |
 | [How Many Times \(Spanish Version\)](https://open.spotify.com/track/1xIedqGs6MXWZTCTSybZvx) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/02F4XjVwPTIRulJ6VvQR3p) | 3:25 | 2021-12-10 | 2022-07-29 |
 | [How Many Times \- Spanish Version](https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG) | 3:25 | 2022-07-08 |  |
+| [Hoy Te Quiero Ver](https://open.spotify.com/track/6hAXI7z8UtMDEL4B7OHIaA) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Hoy Te Quiero Ver](https://open.spotify.com/album/7dw571unUolJcPGlAvGAlA) | 3:46 | 2022-08-19 |  |
 | [Humble and Kind \(Nunca Te Olvides de Amar\)](https://open.spotify.com/track/5N7sdQWdISg5JmbIynMxGb) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble and Kind \(Nunca Te Olvides de Amar\)](https://open.spotify.com/album/4nPrv6mX6qT2pSofIpoXY5) | 4:16 | 2021-12-10 |  |
 | [I Am a Mexican](https://open.spotify.com/track/5v3JieJAHIspWkXNVy5rHq) | [Rick Trevino](https://open.spotify.com/artist/28yWs7I4FXiDyBuHoZqkY8), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M) | [I Am a Mexican](https://open.spotify.com/album/1Qij0nelotbxl3wu3h0rx8) | 3:24 | 2021-12-10 |  |
 | [I Can't Even Drink Straight](https://open.spotify.com/track/07hSFiKCVTEOxjRn5agBkS) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [I Can't Even Drink Straight](https://open.spotify.com/album/3HAnMO7pzNRKMuTU2U99VD) | 3:26 | 2022-05-27 |  |

@@ -4,7 +4,7 @@
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: K\-OS
 
-93 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
+94 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Seven Day Fool](https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 3:25 | 2022-07-01 | 2022-07-29 |
 | [Seven Day Fool](https://open.spotify.com/track/2PL3PBj9UUJzU3O3M85nIj) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/7fjR0khZYoo95oW4RtHOkg) | 3:25 | 2022-07-01 |  |
 | [Smile For Me](https://open.spotify.com/track/6Wr6zw5Njbmez9ADv1R68N) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Massari](https://open.spotify.com/album/52O0aB268Q9aMJfMCmBOdE) | 4:22 | 2022-07-01 | 2022-07-29 |
-| [Smile For Me](https://open.spotify.com/track/4g3pq8WKIeXJF3ogSxjPt3) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/6SAaxSKtAf5ZQUEEs73l36) | 4:22 | 2022-07-01 |  |
+| [Smile for Me](https://open.spotify.com/track/4LyDqOK3iH791vvfiCOoEP) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/2CpA2pY3wtEp4VBRW15Zvz) | 4:22 | 2022-08-19 |  |
+| [Smile For Me](https://open.spotify.com/track/4g3pq8WKIeXJF3ogSxjPt3) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/6SAaxSKtAf5ZQUEEs73l36) | 4:22 | 2022-07-01 | 2022-08-20 |
 | [Steppin Thru \(feat\. Moka Only\)](https://open.spotify.com/track/2HeuwaGl0RTrdhZzsIOL5d) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM) | [Monsters in the Closet](https://open.spotify.com/album/2zaHwAWL8g21luLKss2qXr) | 3:25 | 2022-07-01 |  |
 | [Still Believe in Love](https://open.spotify.com/track/5GcRGfXAsjnzDqRB3Qz0un) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Resurrected](https://open.spotify.com/album/5MQcm3NqGGIxHPpqwupuXy) | 3:36 | 2022-07-01 | 2022-07-29 |
 | [Still Believe in Love \- Remastered](https://open.spotify.com/track/4a0PDBAWdsoJZyHKXfEr1X) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Greatest Hits](https://open.spotify.com/album/4VNVEhCQmoi0TD13SZ5D4D) | 3:35 | 2022-07-01 |  |

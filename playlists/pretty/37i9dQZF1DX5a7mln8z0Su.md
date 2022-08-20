@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,622 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,638 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 49 | [Eunha Store \(feat\. KIM YUNA\)](https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kim Yuna](https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI) | [New Edition 42](https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM) | 2:44 |
 | 50 | [happen](https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F) | [more](https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM) | [Island Island!](https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD) | 2:55 |
 
-Snapshot ID: `MTY2MDgzMjg2NCwwMDAwMDAwMDFmYmNkZWVlNGUwOTMzY2JlMDEzMzk2NWM4NjdjYjg5`
+Snapshot ID: `MTY2MDg5NDgzMCwwMDAwMDAwMGY3MzZkYzBlNTM2NDQ5OGNhYjdiNjMyZTRmZTNkYzg4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,268 likes - 150 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,474 likes - 150 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [Something Like This](https://open.spotify.com/track/71RHfbbUVoYNKNFtRomycM) | [Carley Bearden](https://open.spotify.com/artist/3c8xof9mx6WTi7UHyJ2WhZ), [Taka$](https://open.spotify.com/artist/3nkQI11P6Ukhe3LClNZxNs) | [Something Like This](https://open.spotify.com/album/4NXuzbjVQkBzDXMrbb2rfv) | 3:14 |
 | 150 | [Don't Judge Me](https://open.spotify.com/track/4CdrEw76dPI0QyurNUjklR) | [Kish](https://open.spotify.com/artist/4Vo0o5cMw8x1cIdbMCzE9L) | [Don't Judge Me](https://open.spotify.com/album/6Ny9NQi1tvteQHFcXkJX9T) | 3:20 |
 
-Snapshot ID: `MTY2MDY1NzUzNSwwMDAwMDAwMGMyZDc1OGEwMjY5YzljMDQxZWVkYmM4MGI5NDIxZDI0`
+Snapshot ID: `MTY2MDkxMDQwMCwwMDAwMDAwMGRjMjYxODk5OWRiZmZiOThjMTQ4ZDc4ODg3YmI4MjM0`

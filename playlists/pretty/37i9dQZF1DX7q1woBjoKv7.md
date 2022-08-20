@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
-> California music breaking waves\. Cover: LaRussell
+> California music breaking waves\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,797 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,802 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 50 | [Faded](https://open.spotify.com/track/0S9daaQdXj5b1p9h59Iold) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Letters 2 U](https://open.spotify.com/album/29g1LnngoNk0WyQyAWVQZj) | 2:31 |
 | 51 | [Reflections](https://open.spotify.com/track/5QYFf3CS7HFHOCoSjo7DRF) | [Likybo](https://open.spotify.com/artist/16Nc36xAtNyQ7BMBcDsaLv) | [Reflections](https://open.spotify.com/album/6Xz94tRbeGpv5mzYa8X5TT) | 2:14 |
 
-Snapshot ID: `MTY2MDc3NjkyOCwwMDAwMDAwMGYzYTY3MzBiYWY5OTEzZDU3ZWEzZjQwNzM4OTgzZDc4`
+Snapshot ID: `MTY2MDkyNjMyNCwwMDAwMDAwMDBkMThjOWFhNmIyMWJiYjI2YjUxMzZlNTc0ODVmODll`

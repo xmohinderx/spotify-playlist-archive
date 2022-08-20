@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-152 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+153 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Al Revés \- feat\. Petite Amie](https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4) | [Charles Spearin](https://open.spotify.com/artist/3PEieAx7awxOPIdseRJuFb), [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Al Revés \(feat\. Petite Amie\)](https://open.spotify.com/album/4VP9sto7vsed9Qi6wjmklj) | 3:15 | 2022-04-09 | 2022-08-13 |
 | [Al Sur](https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Al Sur](https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy) | 3:18 | 2021-10-06 |  |
 | [Aplomb](https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR) | [Mt\. Mountain](https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4) | [Centre](https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7) | 4:40 | 2021-10-06 |  |
+| [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/2t3xkD6kiwF0w0dqChNS2P), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 | 2022-08-19 |  |
 | [Atemporal](https://open.spotify.com/track/40eoo3wMz09lX6kuEBoqeo) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:07 | 2022-07-19 |  |
 | [Ba Sing Se](https://open.spotify.com/track/48cnlcfe8AjLDYfUj5w41R) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Ba Sing Se](https://open.spotify.com/album/5ipx9NCdjrY02yzzqkjQaK) | 4:06 | 2022-04-26 | 2022-08-13 |
 | [BabyBack](https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd) | [Cousin Kula](https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd) | [Double Dinners](https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ) | 5:09 | 2022-01-13 |  |
@@ -35,7 +36,7 @@
 | [Dirt on the Bed](https://open.spotify.com/track/1mhVCuP7ebwpmfCc2zE64U) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 4:28 | 2022-02-08 |  |
 | [Dirt on the Bed](https://open.spotify.com/track/731ZLJPbdc9iXmoHxafgDO) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/7ljPxYHtc8GrLdFuXGJw1X) | 4:28 | 2022-02-08 | 2022-07-29 |
 | [Dogma](https://open.spotify.com/track/2ldqnO15Wz4U6JJQrb8kMy) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Dogma](https://open.spotify.com/album/1ZLybGNOMGNF4spedn49Om) | 3:24 | 2021-10-06 |  |
-| [Don't Forget You're Precious](https://open.spotify.com/track/7r7lKry2CvHc6wK6c1ZgtO) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Don't Forget You're Precious](https://open.spotify.com/album/4lw500xSQLvXVnIvUmMWe7) | 3:41 | 2022-02-12 |  |
+| [Don't Forget You're Precious](https://open.spotify.com/track/7r7lKry2CvHc6wK6c1ZgtO) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Don't Forget You're Precious](https://open.spotify.com/album/4lw500xSQLvXVnIvUmMWe7) | 3:41 | 2022-02-12 | 2022-08-20 |
 | [Dream St.](https://open.spotify.com/track/2qhEcFaRkgkY6EhN7TAm4A) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/5Z4dyfxEbnvJ9mYRG8ryP7) | 5:24 | 2021-10-06 |  |
 | [Dry Fantasy](https://open.spotify.com/track/02AKn1Y1nrsgpQmCBBgQMq) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Dry Fantasy](https://open.spotify.com/album/1De6CaWgx9LZNm6RjV2gB8) | 5:10 | 2021-10-06 | 2022-07-29 |
 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 | 2021-10-06 |  |

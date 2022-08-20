@@ -4,7 +4,7 @@
 
 > The songs you just keep coming back to\. Cover: Nicki Minaj
 
-587 songs - 1 day 5 hr 57 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
+588 songs - 1 day 6 hr 1 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Coupe](https://open.spotify.com/track/4wNKxMbE3n1gRm4F6OaCP1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:03 | 2022-01-28 | 2022-07-05 |
 | [Couped Out \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0Zc86nmtzsx3Tlzv7sC8Pc) | [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Couped Out \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6y2TytDPiS9bSvHkw3YtSw) | 2:08 | 2022-01-07 | 2022-03-17 |
 | [Crypto \(feat\. Rich The Kid\)](https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Crypto \(feat\. Rich The Kid\)](https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O) | 2:40 | 2022-05-20 | 2022-06-14 |
+| [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 | 2022-08-19 |  |
 | [Da'Shade](https://open.spotify.com/track/5o29jHw9cFDU4HWgqNphEK) | [BAINS.](https://open.spotify.com/artist/1k1UhxIjS2zMahE8gK3a0g) | [Da'Shade](https://open.spotify.com/album/4mcKJ1B6DKLFygAMj5xsNB) | 2:25 | 2022-04-01 | 2022-04-12 |
 | [Daddy \(feat\. Rich The Kid\)](https://open.spotify.com/track/4hanO6Du5J7QEguNHYZHmw) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Dirt Bag](https://open.spotify.com/album/4eAiHYd3nih3os2BqHm0vt) | 2:31 | 2022-04-01 | 2022-04-19 |
 | [DEAD FACES \(feat\. AJ Tracey\)](https://open.spotify.com/track/6q5QDDOa2SuC5i2YqDwYJs) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [KILLSTREAK 2 \(Deluxe\)](https://open.spotify.com/album/573urfbTu89gWeBXMr3kH7) | 3:09 | 2022-01-07 | 2022-06-17 |
@@ -263,7 +264,7 @@
 | [Keanu Reeves](https://open.spotify.com/track/25F6MWrnFBCXVnpN4n76EK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Keanu Reeves](https://open.spotify.com/album/0Tirid9OpXh04sbjrNq57w) | 3:45 | 2022-04-01 | 2022-04-12 |
 | [Keep Runnin'](https://open.spotify.com/track/0VXleiGtaAwqjf9dqflq1r) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Keep Runnin'](https://open.spotify.com/album/7hxKQmVA0wX1KGqWtJ1Wqz) | 2:21 | 2022-01-07 | 2022-04-24 |
 | [KIKA](https://open.spotify.com/track/6Gy7rXB6Ku5vIWC7WGWsl3) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [DUMMY BOY](https://open.spotify.com/album/03KcW1ZhaSnj8pIk1LUNQs) | 2:16 | 2022-01-21 | 2022-01-27 |
-| [Killer \(feat\. Jack Harlow & Cordae\) \- Remix](https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Killer \(feat\. Jack Harlow & Cordae\) \[Remix\]](https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar) | 3:56 | 2022-01-07 |  |
+| [Killer \(feat\. Jack Harlow & Cordae\) \- Remix](https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Killer \(feat\. Jack Harlow & Cordae\) \[Remix\]](https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar) | 3:56 | 2022-01-07 | 2022-08-20 |
 | [Killshot](https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Killshot](https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0) | 4:13 | 2022-04-01 | 2022-04-21 |
 | [KING OF THE TOWN](https://open.spotify.com/track/1HGf4BXTUc5nsNdYUV7jGJ) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6Tcj3DEv2HetLPgFa50Gal) | 2:31 | 2022-01-14 | 2022-04-18 |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2022-01-07 |  |

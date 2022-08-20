@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,576 likes - 647 songs - 1 day 19 hr 31 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,576 likes - 648 songs - 1 day 19 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -655,5 +655,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 645 | [Seven Days](https://open.spotify.com/track/2Wmm4aEFUISjdmVuy7VGL0) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:38 |
 | 646 | [Hey Now! \- Remastered](https://open.spotify.com/track/4FDEDR99kqoGZOV88Wpnpg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 5:41 |
 | 647 | [Near Wild Heaven](https://open.spotify.com/track/378HOooPNo6LRIfVHb15nW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:19 |
+| 648 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 |
 
-Snapshot ID: `MTY3MCwzYjBhYTZmMzUzNjMwMGMyN2JmMjlkZjIzNmE2MTdlOGMyMDk2NTQ1`
+Snapshot ID: `MTY3MSxlODIxNzM0OWRkOTRlYzQ3NGYxYTVmZDU3ODU5MGM4OWIyMTA2MjQ4`

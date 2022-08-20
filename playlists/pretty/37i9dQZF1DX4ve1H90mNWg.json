@@ -1,13 +1,29 @@
 {
   "description": "Texas music breaking waves. Cover, Beyonce",
-  "num_followers": 3623,
+  "num_followers": 3626,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyNDQxNSwwMDAwMDAwMGYwZDE0MDgwMWJkNDE5OWNjN2ZiZTJkYjkxYWExNmY1",
+  "snapshot_id": "MTY2MDkzODc2MywwMDAwMDAwMDAyNDM2ODdhNmU3MjM5NTEzMjJjMTNkOWU5MTAzMzcy",
   "tracks": [
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "Why Yo Face So Ugly",
+        "url": "https://open.spotify.com/album/3w9CBT8F4uMHA5Bvc1LBcI"
+      },
+      "artists": [
+        {
+          "name": "BeatKing",
+          "url": "https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4"
+        }
+      ],
+      "duration_ms": 135918,
+      "name": "Why Yo Face So Ugly",
+      "url": "https://open.spotify.com/track/1pmdSzE3yRNcagg7H59Z7X"
+    },
     {
       "added_at": "2022-08-12 17:13:35",
       "album": {
@@ -35,6 +51,178 @@
       "duration_ms": 243062,
       "name": "Southside Royalty Freestyle (feat. Sauce Walka, Big Pokey & Lil Keke)",
       "url": "https://open.spotify.com/track/27Wwwbdh9pKL9n23FOJH9z"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "Give U Some (feat. Rob49)",
+        "url": "https://open.spotify.com/album/4ZCRbkgSa3MmQ8LX3Nf3k0"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 142895,
+      "name": "Give U Some (feat. Rob49)",
+      "url": "https://open.spotify.com/track/4zM1EkVk8jfs969NYYSZ9x"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        }
+      ],
+      "duration_ms": 201056,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "Are U Ready ?",
+        "url": "https://open.spotify.com/album/5Vf5OO5iMrNB8uSvys8s54"
+      },
+      "artists": [
+        {
+          "name": "Marqus Clae",
+          "url": "https://open.spotify.com/artist/6CMbYeF5Lb3RZjnig0rSBT"
+        }
+      ],
+      "duration_ms": 150185,
+      "name": "Are U Ready ?",
+      "url": "https://open.spotify.com/track/6w9O8wwV8lbCKO9ZWX1qfH"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "God Forgives, I Don\u2019t",
+        "url": "https://open.spotify.com/album/2K7dBRPcV69J1iTyLbwtA2"
+      },
+      "artists": [
+        {
+          "name": "Hotboy Wes",
+          "url": "https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "God Forgives, I Don\u2019t",
+      "url": "https://open.spotify.com/track/6i0CQdrSlz0KnCtuqk17JS"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/0gwN64t5aeuOQwj2o5juHM"
+      },
+      "artists": [
+        {
+          "name": "Lil Jairmy",
+          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
+        }
+      ],
+      "duration_ms": 165383,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6JayjDlHxTSdVj9g85LA1s"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "Pigeons & Planes presents: See You Next Year",
+        "url": "https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm"
+      },
+      "artists": [
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 174906,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/56pP9BFwLTcC54G9SgaV27"
+    },
+    {
+      "added_at": "2022-08-12 17:13:35",
+      "album": {
+        "name": "Spread The Opps",
+        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 181795,
+      "name": "Spread The Opps",
+      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "Sewed Up, Pt. 2 (Back Again)",
+        "url": "https://open.spotify.com/album/3XfsN461GbxSrSNNrbK0gu"
+      },
+      "artists": [
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        },
+        {
+          "name": "Lil 2z",
+          "url": "https://open.spotify.com/artist/3XQ81u1a60R7egDWLKzV88"
+        }
+      ],
+      "duration_ms": 222115,
+      "name": "Sewed Up, Pt. 2 (Back Again)",
+      "url": "https://open.spotify.com/track/3B8zvpIlRK7QOuUyqslFkg"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "The Best (TUA Remix)",
+        "url": "https://open.spotify.com/album/4LG5TJhbbfCI5udgX5U8ja"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "duration_ms": 137375,
+      "name": "The Best - TUA Remix",
+      "url": "https://open.spotify.com/track/7J6xJkvWNoJR1yKTNq14RK"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "Momentum Freestyle",
+        "url": "https://open.spotify.com/album/49KfVOqAMuweVkdlEYlfes"
+      },
+      "artists": [
+        {
+          "name": "Kayykilo",
+          "url": "https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG"
+        }
+      ],
+      "duration_ms": 163128,
+      "name": "Momentum Freestyle",
+      "url": "https://open.spotify.com/track/16wPds4D66tJtRnitYguZg"
     },
     {
       "added_at": "2022-08-12 17:13:35",
@@ -145,30 +333,6 @@
       "url": "https://open.spotify.com/track/7l5Fq0rRW2typ68pMfA5cp"
     },
     {
-      "added_at": "2022-08-05 15:35:24",
-      "album": {
-        "name": "MORE BLACK SUPERHEROES",
-        "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
-      },
-      "artists": [
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 196294,
-      "name": "CAN'T GET OVER YOU (feat. Smino & Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/0u0Wg5JO7Aza12fQJMIZ6Q"
-    },
-    {
       "added_at": "2022-07-22 19:49:57",
       "album": {
         "name": "THE VISION (feat. Anderson .Paak)",
@@ -227,22 +391,6 @@
       "duration_ms": 121112,
       "name": "Grrrls",
       "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
-    },
-    {
-      "added_at": "2022-08-12 17:13:35",
-      "album": {
-        "name": "Spread The Opps",
-        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 181795,
-      "name": "Spread The Opps",
-      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
     },
     {
       "added_at": "2022-07-29 19:38:06",
@@ -519,26 +667,6 @@
     {
       "added_at": "2022-07-22 19:49:57",
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/0kts7snY7OpgQBOPHHYhro"
-      },
-      "artists": [
-        {
-          "name": "Dreeestone",
-          "url": "https://open.spotify.com/artist/1Cjr3PdJJajCDcJJuY2AsD"
-        },
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
-        }
-      ],
-      "duration_ms": 160656,
-      "name": "STUNNA",
-      "url": "https://open.spotify.com/track/6LkoJXy2RpHds0LEuVR5of"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
         "name": "Mission",
         "url": "https://open.spotify.com/album/06qqhGybXN1GvmmqzxcBvv"
       },
@@ -587,26 +715,6 @@
       "duration_ms": 176692,
       "name": "STEP BACK (FEAT. MIKE DIMES)",
       "url": "https://open.spotify.com/track/1OwD4SeTFdUYZaJkbGcPuv"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "Worst Way",
-        "url": "https://open.spotify.com/album/6Yw2VynHh38QYMKUKo7ZBi"
-      },
-      "artists": [
-        {
-          "name": "MoneyMarr",
-          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
-        },
-        {
-          "name": "Quin Nfn",
-          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
-        }
-      ],
-      "duration_ms": 196649,
-      "name": "Worst Way",
-      "url": "https://open.spotify.com/track/2J5OXVUkl6cIqFi40NX4PY"
     },
     {
       "added_at": "2022-07-01 03:55:04",
@@ -675,66 +783,6 @@
     {
       "added_at": "2022-07-22 19:49:57",
       "album": {
-        "name": "Glockiana",
-        "url": "https://open.spotify.com/album/0dPn2ZaQaXik03DHvnLqld"
-      },
-      "artists": [
-        {
-          "name": "512 Yair",
-          "url": "https://open.spotify.com/artist/0pLmunaO8iuJ6MI2r3YKec"
-        },
-        {
-          "name": "Quin Nfn",
-          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
-        },
-        {
-          "name": "Wacotron",
-          "url": "https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Glockiana",
-      "url": "https://open.spotify.com/track/4RykNLbxmFFhjdYBTYczGN"
-    },
-    {
-      "added_at": "2022-07-01 03:55:04",
-      "album": {
-        "name": "Shiesty Way (feat. Gucci Mane)",
-        "url": "https://open.spotify.com/album/6LlbChSyDIcMBCA7ZtMuZL"
-      },
-      "artists": [
-        {
-          "name": "Hotboy Wes",
-          "url": "https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 213264,
-      "name": "Shiesty Way (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/0IiTMYj2Tys0xQmRnwHGNG"
-    },
-    {
-      "added_at": "2022-07-01 03:55:04",
-      "album": {
-        "name": "OVO",
-        "url": "https://open.spotify.com/album/7s2fJIv8kZhQFslVG5PEgW"
-      },
-      "artists": [
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "OVO",
-      "url": "https://open.spotify.com/track/3kuZ5jxufyEfu2FmTPPYBw"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/6tPnIgr0GrmGCzjIHmgS9E"
       },
@@ -763,22 +811,6 @@
       "duration_ms": 140373,
       "name": "TALK2ME",
       "url": "https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz"
-    },
-    {
-      "added_at": "2022-07-01 03:55:04",
-      "album": {
-        "name": "Al Rage Walka",
-        "url": "https://open.spotify.com/album/5eXVjZxcQr9ltUYOoqc1An"
-      },
-      "artists": [
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "WHAT IT DO",
-      "url": "https://open.spotify.com/track/4zC6mFyMk5bVSBpES75gtV"
     },
     {
       "added_at": "2022-06-07 21:50:40",
@@ -811,62 +843,6 @@
       "duration_ms": 138911,
       "name": "Go",
       "url": "https://open.spotify.com/track/6RO5atAIBTNXtRNY9IY3vi"
-    },
-    {
-      "added_at": "2022-06-10 17:31:43",
-      "album": {
-        "name": "Pesos (feat. Peso Peso)",
-        "url": "https://open.spotify.com/album/3MhO1OnqbkMyXascwTDKs5"
-      },
-      "artists": [
-        {
-          "name": "Big Jade",
-          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
-        },
-        {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
-        }
-      ],
-      "duration_ms": 122181,
-      "name": "Pesos (feat. Peso Peso)",
-      "url": "https://open.spotify.com/track/3c7G8oF298vWlCsOKK2P5B"
-    },
-    {
-      "added_at": "2022-06-10 17:31:43",
-      "album": {
-        "name": "Spring, Summer",
-        "url": "https://open.spotify.com/album/3VTT7AaeGYTnCiHaujNGe6"
-      },
-      "artists": [
-        {
-          "name": "Lebra Jolie",
-          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
-        }
-      ],
-      "duration_ms": 166365,
-      "name": "Spring, Summer",
-      "url": "https://open.spotify.com/track/6GG8bh7uVbDsR9ZIEjaqbR"
-    },
-    {
-      "added_at": "2022-05-20 08:16:31",
-      "album": {
-        "name": "24 Hrs",
-        "url": "https://open.spotify.com/album/5hFQFFREMK36OtrifdmTCO"
-      },
-      "artists": [
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 167945,
-      "name": "24 Hrs (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/1LZtjIkC9X3Ji8XylhCEa1"
     },
     {
       "added_at": "2022-06-07 21:50:40",

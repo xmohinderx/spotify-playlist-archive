@@ -4,11 +4,12 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Alfredo Olivas en portada.
 
-140 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+141 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#HASHTAG](https://open.spotify.com/track/4JnxfY3GQaU60zZVSm2qvD) | [Siggno](https://open.spotify.com/artist/6RTlv2UCWtRggV0rIo5TrN) | [\#Hashtag](https://open.spotify.com/album/3czqr5BWGHOE9SP9xkSl5V) | 3:51 | 2022-07-01 | 2022-07-29 |
+| [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-08-19 |  |
 | [Algo Transitorio](https://open.spotify.com/track/6TCUTF64M04hp0SiPuGU0o) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Algo Transitorio](https://open.spotify.com/album/61FFtKEaelyA7BxOWg40yQ) | 3:55 | 2022-07-15 |  |
 | [Amandote](https://open.spotify.com/track/1YloxcHYgx9UHpJGSY5dPx) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Amandote](https://open.spotify.com/album/1WPvIsp1abq1FA6uMZR0M1) | 2:47 | 2022-08-05 |  |
 | [Amores Van Y Vienen](https://open.spotify.com/track/2W4RJv2eybzhaWbLSuRUun) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Amores Van Y Vienen](https://open.spotify.com/album/3weBqrWdVBAhh1BS0plpXK) | 3:36 | 2022-07-01 | 2022-07-29 |
@@ -57,7 +58,7 @@
 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 | 2022-01-14 |  |
 | [El Seven](https://open.spotify.com/track/07y97kTaxDblALAqQyubsP) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [El Seven](https://open.spotify.com/album/0kis2ZiuLEWN1ow98TR0f1) | 2:34 | 2022-07-01 | 2022-08-01 |
 | [El Señor de la A](https://open.spotify.com/track/3qOTqVRKVp9wriaPh9H9qU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Señor de la A](https://open.spotify.com/album/2A8zSlVaebsKFUFntTkgcE) | 3:04 | 2022-06-24 |  |
-| [El Taliban](https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Taliban](https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r) | 3:04 | 2022-07-01 |  |
+| [El Taliban](https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Taliban](https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r) | 3:04 | 2022-07-01 | 2022-08-20 |
 | [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 | 2022-07-01 |  |
 | [Enamorado](https://open.spotify.com/track/2lQ907kdNk2IL7WRQZHlZy) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Enamorado](https://open.spotify.com/album/1JNPLcUJAcPHnkB6cgxU39) | 3:09 | 2022-07-15 |  |
 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 | 2021-12-17 |  |

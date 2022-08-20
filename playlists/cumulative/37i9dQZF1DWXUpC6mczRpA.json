@@ -1656,6 +1656,32 @@
     },
     {
       "album": {
+        "name": "Mozart: Music for 2 Pianos; Piano Duets",
+        "url": "https://open.spotify.com/album/0Y1Cjnw3el8DbYnpwFMANe"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ingrid Haebler",
+          "url": "https://open.spotify.com/artist/7GH65UbP1uRY9HtNvq4R9Y"
+        },
+        {
+          "name": "Ludwig Hoffmann",
+          "url": "https://open.spotify.com/artist/5pMdgZxvIoV1XsvkM0ISGN"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503000,
+      "name": "Sonata for 2 Pianos in D Major, K. 448/375a: I. Allegro con spirito",
+      "url": "https://open.spotify.com/track/6qbs8UqvEdYEedxTXGHtTF"
+    },
+    {
+      "album": {
         "name": "Mozart: Music for 2 Pianos; Piano Duets (2 CDs)",
         "url": "https://open.spotify.com/album/5hcJbeRjftkDRVymXV1Ht1"
       },
@@ -1679,32 +1705,6 @@
       "duration_ms": 500500,
       "name": "Sonata for 2 pianos in D, K.448: 1. Allegro con spirito",
       "url": "https://open.spotify.com/track/5i7bLnNE0R3m1MNUY7UsqT"
-    },
-    {
-      "album": {
-        "name": "Mozart: Music for 2 Pianos; Piano Duets",
-        "url": "https://open.spotify.com/album/0Y1Cjnw3el8DbYnpwFMANe"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Ingrid Haebler",
-          "url": "https://open.spotify.com/artist/7GH65UbP1uRY9HtNvq4R9Y"
-        },
-        {
-          "name": "Ludwig Hoffmann",
-          "url": "https://open.spotify.com/artist/5pMdgZxvIoV1XsvkM0ISGN"
-        }
-      ],
-      "date_added": "2021-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 503000,
-      "name": "Sonata for 2 pianos in D, K.448: 1. Allegro con spirito",
-      "url": "https://open.spotify.com/track/6qbs8UqvEdYEedxTXGHtTF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > all the hottest indie tunes in the world rn feat\. DMA's, Spacey Jane & PinkPantheress
 
-501 songs - 1 day 4 hr 42 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+503 songs - 1 day 4 hr 49 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Friendly Fire](https://open.spotify.com/track/1u71gNzUwTjgfYmArCUD0m) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:42 | 2021-12-28 | 2021-12-31 |
 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 | 2022-01-13 | 2022-02-25 |
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2021-12-28 | 2022-01-21 |
-| [fun out of it](https://open.spotify.com/track/2G7jwClVBqTVg945ceXdqJ) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [fun out of it](https://open.spotify.com/album/3WP7yTejCc8P0W7edTsSoq) | 2:51 | 2022-08-18 |  |
+| [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 | 2022-08-18 |  |
+| [fun out of it](https://open.spotify.com/track/2G7jwClVBqTVg945ceXdqJ) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [fun out of it](https://open.spotify.com/album/3WP7yTejCc8P0W7edTsSoq) | 2:51 | 2022-08-18 | 2022-08-20 |
 | [FUNERAL](https://open.spotify.com/track/37UUsGW1KK3Cindm8Rqlu9) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [FUNERAL](https://open.spotify.com/album/7gI0fMPJM42rMt5TWZwEyA) | 3:53 | 2022-02-03 | 2022-03-11 |
 | [Fuzz Jam](https://open.spotify.com/track/1HCryhiL05CN22G3YgWWlA) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Fuzz Jam](https://open.spotify.com/album/2HCsaRqXdUTlqOIt0MZs2j) | 4:26 | 2021-12-28 | 2021-12-31 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-10 | 2022-03-11 |
@@ -353,7 +354,8 @@
 | [Pool](https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pool](https://open.spotify.com/album/3rDZy3Mdl38XtftACWXL5c) | 3:43 | 2022-03-17 | 2022-06-03 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-28 | 2022-02-22 |
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-01 | 2022-06-17 |
-| [Potential](https://open.spotify.com/track/6zKGs6aoGpWx3vzA6k6zPF) | [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Potential](https://open.spotify.com/album/0ay7VXFcMKqC35mO7EonqU) | 3:46 | 2022-08-18 |  |
+| [Potential](https://open.spotify.com/track/3qHtB52JP6U4nCRQWZmRI9) | [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Potential](https://open.spotify.com/album/6wHALvUCNQKWuRJsvHUdUb) | 3:46 | 2022-08-18 |  |
+| [Potential](https://open.spotify.com/track/6zKGs6aoGpWx3vzA6k6zPF) | [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Potential](https://open.spotify.com/album/0ay7VXFcMKqC35mO7EonqU) | 3:46 | 2022-08-18 | 2022-08-20 |
 | [Preview](https://open.spotify.com/track/4XwgwuC4nFaq602YAebfZP) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Preview](https://open.spotify.com/album/082t32AlaNDWXw3uxBMTlV) | 3:18 | 2021-12-28 | 2022-01-14 |
 | [Promises](https://open.spotify.com/track/3utMhdPyABjuo1mXoY2Fn2) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Andie](https://open.spotify.com/artist/1Uxt9rwMK1taBTGLS2SZkr) | [Promises](https://open.spotify.com/album/7c2P9D7n2ve73GhVHeOHVb) | 3:56 | 2022-01-27 | 2022-03-24 |
 | [Proof](https://open.spotify.com/track/4t9y553ZCwQBrp3ZzV9IRl) | [Methyl Ethel](https://open.spotify.com/artist/3I3Fz1DeUY0icXFvOjbXm7), [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Proof](https://open.spotify.com/album/0YO2AdPUojNY422lWMsu2d) | 4:24 | 2022-01-17 | 2022-03-30 |

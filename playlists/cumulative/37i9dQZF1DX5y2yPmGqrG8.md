@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-393 songs - 1 day 13 hr 9 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+394 songs - 1 day 13 hr 13 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Getting Out](https://open.spotify.com/track/7K7fHCGFgeX1ipUbvf7gwj) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 2:53 | 2021-10-06 | 2022-07-21 |
 | [Golden Times 1](https://open.spotify.com/track/1PNAf8Ab2wH6iURHmVLpho) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Spells](https://open.spotify.com/album/2VT721v3oyoK0Axq2IZXj0) | 8:37 | 2021-10-06 | 2022-04-08 |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2021-10-06 | 2022-07-29 |
+| [Grauer Sand](https://open.spotify.com/track/66IbIrMufglj4589q8126r) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Grauer Sand](https://open.spotify.com/album/1MZLj3NxYCPy13TO5s5hj1) | 4:06 | 2022-08-19 |  |
 | [Green Phase, Part One](https://open.spotify.com/track/1hQ6qPmHgJhjGkAhhvBQvg) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible \(Green Phase\)](https://open.spotify.com/album/7pmG0FBAsV9T1SBQHkWZKS) | 3:27 | 2021-10-06 | 2022-07-27 |
 | [Green To You](https://open.spotify.com/track/6hruEdIYNluogyuAlMhsgs) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Green To You](https://open.spotify.com/album/3G8FQojxRMEiiNhO2WNVcX) | 3:25 | 2022-04-23 | 2022-07-25 |
 | [Greeting To Saud \(Brother McCoy Tyner\)](https://open.spotify.com/track/1qqIjiurhqrgacNG9uWCuG) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Elevation \(Live\)](https://open.spotify.com/album/2YNA5fGD8cE3HqNBCfYzTL) | 4:07 | 2021-10-06 | 2022-04-12 |
@@ -385,7 +386,7 @@
 | [Wake](https://open.spotify.com/track/771mBxFYjfjwWLEheT6pwn) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Wake](https://open.spotify.com/album/6OW21ogEx6FTnMbQpQbz7R) | 2:18 | 2022-03-30 | 2022-07-26 |
 | [We Lay Down in a Field of Orange Flowers and We Listened to the Birds](https://open.spotify.com/track/25np9YI8L2IWtcxDoTFgoG) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [Flues of Forgotten Sands](https://open.spotify.com/album/7mXP8hv5XTR0PkY7J4gbOp) | 19:33 | 2022-07-15 | 2022-08-14 |
 | [Wetlands](https://open.spotify.com/track/7G5UnjAsSp8HOHgDbgJ1wa) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Wetlands](https://open.spotify.com/album/1mdE6AqyKbNKD6egcAI7wZ) | 3:10 | 2021-10-06 | 2022-07-29 |
-| [What's A Girl To Do](https://open.spotify.com/track/4U5e1DoKCDNvAlx0WnUv9h) | [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [What's A Girl To Do](https://open.spotify.com/album/29QjYtpUdBZvn4r1dlQOiv) | 7:14 | 2021-10-06 |  |
+| [What's A Girl To Do](https://open.spotify.com/track/4U5e1DoKCDNvAlx0WnUv9h) | [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [What's A Girl To Do](https://open.spotify.com/album/29QjYtpUdBZvn4r1dlQOiv) | 7:14 | 2021-10-06 | 2022-08-20 |
 | [Whatcomesup96 \- Mixed](https://open.spotify.com/track/2XnbmppKbtdRDNojRPyjM5) | [Zebrablood](https://open.spotify.com/artist/6YzavuXwWlGoDfXEZ7qnsb) | [fabric presents Leon Vynehall \(Mixed\)](https://open.spotify.com/album/491w2IyyumxBPJf06RZZJD) | 0:58 | 2022-04-06 | 2022-07-17 |
 | [Wheel](https://open.spotify.com/track/0G7BKy7yai0MUFnoQbcWaB) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Lex](https://open.spotify.com/album/5ZSDngKmEH1mF1l74n46H3) | 3:35 | 2021-10-06 | 2022-04-20 |
 | [Wind](https://open.spotify.com/track/50yQMGQpCmXGEkCXxBnkrM) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Wind](https://open.spotify.com/album/7FVqiezzQQqF34WQHbePIo) | 5:27 | 2021-10-06 | 2022-05-31 |

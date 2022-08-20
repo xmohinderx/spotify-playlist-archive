@@ -2304,6 +2304,24 @@
     },
     {
       "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223199,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL"
+    },
+    {
+      "album": {
         "name": "Battles",
         "url": "https://open.spotify.com/album/65sRfjCFFqSrVYY7YjYe6y"
       },

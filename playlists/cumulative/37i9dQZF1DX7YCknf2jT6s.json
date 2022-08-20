@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Takuya Kuroda",
+  "description": "New jazz for open minds. Cover: Yussef Dayes",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -85,6 +85,24 @@
       "duration_ms": 321600,
       "name": "713",
       "url": "https://open.spotify.com/track/3EhH15zLHO0IEmEEbG5fCc"
+    },
+    {
+      "album": {
+        "name": "A Brand New Silver Dollar",
+        "url": "https://open.spotify.com/album/5PenfsMGMK0o9L7kNHqW8G"
+      },
+      "artists": [
+        {
+          "name": "Peter Nordahl Trio",
+          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235728,
+      "name": "A Brand New Silver Dollar",
+      "url": "https://open.spotify.com/track/59ipz3fopLjhwH3tMK1qsX"
     },
     {
       "album": {
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 412668,
       "name": "Blood Diamond",
       "url": "https://open.spotify.com/track/2nYINWjMcy78mubSgJHsT0"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 311674,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2I5SgAkJqpHCEaqjUTZ2mo"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 298440,
       "name": "Bokeh",
       "url": "https://open.spotify.com/track/5h83KOuHLKWdNNSw6p9Byi"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 264986,
       "name": "Circus Music",
       "url": "https://open.spotify.com/track/1tuo8ma3uzlxaIamUwPG39"
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 211426,
       "name": "Epistrophy",
       "url": "https://open.spotify.com/track/3W5Wg12biSkttF8NTUzlET"
@@ -2401,6 +2419,24 @@
       "duration_ms": 158143,
       "name": "Existential Being",
       "url": "https://open.spotify.com/track/0GSc04FDZiOY7DVJ3Ya1z8"
+    },
+    {
+      "album": {
+        "name": "Face in the Crowd",
+        "url": "https://open.spotify.com/album/6PeCd0KNESOpKAucTdNbtQ"
+      },
+      "artists": [
+        {
+          "name": "Kansas Smitty's",
+          "url": "https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268788,
+      "name": "Face in the Crowd",
+      "url": "https://open.spotify.com/track/3CfnJJNuXXjBZvV6GTp0bv"
     },
     {
       "album": {
@@ -3632,6 +3668,36 @@
     },
     {
       "album": {
+        "name": "European Quartet: Diamonds and Other Jewels",
+        "url": "https://open.spotify.com/album/1dWMdUU4sEl2T5hb4umAZp"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Andreas Lang",
+          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303719,
+      "name": "Incantation",
+      "url": "https://open.spotify.com/track/1WahURQKRJs4ZNzvxOUahp"
+    },
+    {
+      "album": {
         "name": "Inquietude",
         "url": "https://open.spotify.com/album/6CgRJaGfWerZSaVVf0jCZI"
       },
@@ -3871,7 +3937,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 233066,
       "name": "Joy Road",
       "url": "https://open.spotify.com/track/0Bh4RCRlTcWUDNCu3CPgW6"
@@ -4387,7 +4453,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 274877,
       "name": "Long Ago and Far Away",
       "url": "https://open.spotify.com/track/0g89FCfllCaAw18VSOxtEw"
@@ -4884,6 +4950,24 @@
     },
     {
       "album": {
+        "name": "Miss Kane",
+        "url": "https://open.spotify.com/album/5HzRLKWt1K2eCNP1RMwOoX"
+      },
+      "artists": [
+        {
+          "name": "Swindle",
+          "url": "https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255573,
+      "name": "Miss Kane",
+      "url": "https://open.spotify.com/track/3b5bgnDoFfVv4tbg8gbQlO"
+    },
+    {
+      "album": {
         "name": "NOT TiGHT",
         "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
       },
@@ -5087,6 +5171,28 @@
       "duration_ms": 368000,
       "name": "My Way",
       "url": "https://open.spotify.com/track/7LXX1hufu9ltR2L8pP3dOX"
+    },
+    {
+      "album": {
+        "name": "The Yussef Dayes Experience Live at Joshua Tree (Presented by Soulection)",
+        "url": "https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227435,
+      "name": "Mystics - Live",
+      "url": "https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9"
     },
     {
       "album": {
@@ -5605,7 +5711,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 669946,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/70XGK1ncu8KtlTp6J58Cq2"
@@ -5789,7 +5895,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 312920,
       "name": "Prima Materia",
       "url": "https://open.spotify.com/track/0KR1fIsVTVSh0lv88KWzX6"
@@ -6358,6 +6464,28 @@
     },
     {
       "album": {
+        "name": "Sentimental Mode",
+        "url": "https://open.spotify.com/album/16jnTCEIibPTNfBTRnbGrz"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386346,
+      "name": "Sentimental Mode",
+      "url": "https://open.spotify.com/track/5nxBcToLYc4iUPAbi7tQDS"
+    },
+    {
+      "album": {
         "name": "Seventh String",
         "url": "https://open.spotify.com/album/3hPRa2htWPnkW3SsmCox70"
       },
@@ -6439,7 +6567,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 241640,
       "name": "Shaw 'Nuff",
       "url": "https://open.spotify.com/track/5mIoHM9AzfOoI93GuC792c"
@@ -6878,6 +7006,36 @@
     },
     {
       "album": {
+        "name": "Still Walking",
+        "url": "https://open.spotify.com/album/3caHJ0e1544rSIUoG2MojO"
+      },
+      "artists": [
+        {
+          "name": "Niels Vincentz",
+          "url": "https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF"
+        },
+        {
+          "name": "Billy Hart",
+          "url": "https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I"
+        },
+        {
+          "name": "Jacob Artved",
+          "url": "https://open.spotify.com/artist/5d3accwB8PpQbK9ajwv1Re"
+        },
+        {
+          "name": "David Wong",
+          "url": "https://open.spotify.com/artist/2uvK3qQRe94yfxfJ4qsCCr"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463298,
+      "name": "Still Walking",
+      "url": "https://open.spotify.com/track/3MYS61YI0zerqa7kSmUBAR"
+    },
+    {
+      "album": {
         "name": "Story Untold",
         "url": "https://open.spotify.com/album/1HC0YtWVIFdKMBmYNEMGuK"
       },
@@ -6967,6 +7125,28 @@
       "duration_ms": 119053,
       "name": "String Feelings",
       "url": "https://open.spotify.com/track/1HFutJnyYvkl8vOlcu1pP0"
+    },
+    {
+      "album": {
+        "name": "Sun Flares",
+        "url": "https://open.spotify.com/album/09rGj3rpQqqVoHHu4oaKGD"
+      },
+      "artists": [
+        {
+          "name": "yuhei miura",
+          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131370,
+      "name": "Sun Flares",
+      "url": "https://open.spotify.com/track/0E1LTlnkrBcQ9PFvmuJg7S"
     },
     {
       "album": {
@@ -7599,6 +7779,24 @@
       "duration_ms": 386720,
       "name": "The Far Away Ones",
       "url": "https://open.spotify.com/track/6Y9Vk3Zhrxr43gQoixoODn"
+    },
+    {
+      "album": {
+        "name": "The Gall\u00fb Pursuit",
+        "url": "https://open.spotify.com/album/63ijxyk2OSOxj9Tis2HnYi"
+      },
+      "artists": [
+        {
+          "name": "Connie Han",
+          "url": "https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206346,
+      "name": "The Gall\u00fb Pursuit",
+      "url": "https://open.spotify.com/track/3Woy6B7Zd9CqymQ7cY7RTE"
     },
     {
       "album": {
@@ -9019,6 +9217,32 @@
       "duration_ms": 251278,
       "name": "Yoshi Orange",
       "url": "https://open.spotify.com/track/6DAXWnejJNzLIt6ShyUgdh"
+    },
+    {
+      "album": {
+        "name": "You Don't Know What Love Is",
+        "url": "https://open.spotify.com/album/17VJHTFQY6dxhagk6saKdO"
+      },
+      "artists": [
+        {
+          "name": "Jean-Pierre Como",
+          "url": "https://open.spotify.com/artist/2Ljlfck4EICwQziKkapzlO"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Niclas Campagnol",
+          "url": "https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243280,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/5SFnRVYCZCCWqp9XAZTz79"
     },
     {
       "album": {

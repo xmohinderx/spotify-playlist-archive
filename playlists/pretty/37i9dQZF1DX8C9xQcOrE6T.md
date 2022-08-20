@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All of your favorite Disney hits, including songs from Moana\. Stream Moana on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,508,095 likes - 112 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,510,292 likes - 112 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

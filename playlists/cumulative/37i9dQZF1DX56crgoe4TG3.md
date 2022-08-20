@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-163 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+164 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Will the Circle Be Unbroken](https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:55 | 2022-05-27 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/2VTUz4vnpsKwR9wluFNP59) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:20 | 2022-05-27 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/3gg5FHI5j0FjXrEk6jO71Y) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [You Are My Sunshine](https://open.spotify.com/album/7hyMzALTKSgT2XN2qc9lvD) | 3:20 | 2022-01-07 | 2022-07-29 |
+| [You Can Close Your Eyes](https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:04 | 2022-08-19 |  |
 | [You're Not Sorry](https://open.spotify.com/track/61XUS0rxs5k6H0mtgAWKnm) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin on Taylor Swift's You're Not Sorry](https://open.spotify.com/album/0yEX6GYCqi5Kfc6zxJbKLY) | 3:42 | 2021-08-20 |  |
 | [Young Folks](https://open.spotify.com/track/2Og7xHU8mVnIJqxQ5CFoyN) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Under The Covers](https://open.spotify.com/album/3H457QTSRwzamTOKMpazOn) | 3:25 | 2021-08-20 | 2022-07-29 |
 | [Young Folks](https://open.spotify.com/track/4G7Q7lJaJjm6YciwXuQs4H) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Straight Lines](https://open.spotify.com/album/3Md863ZEY2EpHU7q1vrjTT) | 3:26 | 2022-05-27 |  |

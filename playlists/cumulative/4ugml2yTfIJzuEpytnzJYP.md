@@ -4,7 +4,7 @@
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-127 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+129 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Balance](https://open.spotify.com/track/4EMwRAupQ2Sn3lTzc7dYXk) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Balance](https://open.spotify.com/album/5DOzIJtdvM8dfnS5LarNHk) | 4:10 | 2022-08-18 |  |
 | [Bat Yam](https://open.spotify.com/track/6UGvCwXeeCjQBqRRMHkag3) | [Mat the Alien](https://open.spotify.com/artist/6zQuKPa4iV1QD7pLYlLv21) | [Bat Yam](https://open.spotify.com/album/6xyZNSnPXJYOefPLbsDf3o) | 4:54 | 2022-07-15 | 2022-08-06 |
 | [Blur \(feat\. Dacy\)](https://open.spotify.com/track/0ZttcfFpXraHVv00visCOK) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Dacy](https://open.spotify.com/artist/7fgYuoYmdlHrGWM3mRZJMp) | [Blur \(feat\. Dacy\)](https://open.spotify.com/album/1v68aSVcFu6CvRz7P8dhnk) | 4:15 | 2022-01-22 | 2022-02-28 |
+| [Book of Vizhanti](https://open.spotify.com/track/0LF3Ij102kXw5o4DbrPhq2) | [Austeria](https://open.spotify.com/artist/15VvV8dnWKZBNufin6LzzS), [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [Book of Vizhanti](https://open.spotify.com/album/6vsQTvgx7q1ZAwAJelr5oa) | 2:06 | 2022-08-19 |  |
 | [Break Away](https://open.spotify.com/track/63dPSCJ26JPNmbFf62bZcH) | [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF), [Marvel Years](https://open.spotify.com/artist/6X2cD6Y4zRNwn8ZkYPHKe6) | [Break Away](https://open.spotify.com/album/51c29JC1iFF8aLvuVX3QTh) | 3:53 | 2022-04-15 |  |
 | [Bubble Skunker](https://open.spotify.com/track/4pzNR41ncCKYu211lIGGex) | [kLL Bill](https://open.spotify.com/artist/55yeFqdWLSKgOdF6QEOhOr), [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [kLL sMTH](https://open.spotify.com/artist/5vKYp6eOOHPKfb8UX5nUXK) | [kLL Bill](https://open.spotify.com/album/5ZqhrzXrsU8U8INCUihJZq) | 3:15 | 2022-04-15 | 2022-08-06 |
 | [C L O U D 7 7 7](https://open.spotify.com/track/58SIAW30UAUQUgBC9X374H) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Gaijin 3000](https://open.spotify.com/album/4kECrTbpyg9xMrWqiuEtvV) | 3:02 | 2022-02-15 | 2022-02-28 |
@@ -99,6 +100,7 @@
 | [Purification](https://open.spotify.com/track/2Hfz4yZFhHYHcptngSZ3Bn) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [The Gaslamp Killer](https://open.spotify.com/artist/5dVua2HdrY1VlbPh6OM9KZ) | [Purification](https://open.spotify.com/album/7tsmmO3HZXjqO9bu5q66J6) | 3:54 | 2022-07-15 |  |
 | [Qualify](https://open.spotify.com/track/5kAj8k3iB7qo5mAAerdor4) | [Supertask](https://open.spotify.com/artist/47qa2xx9Xlw1oGkKbMq8Zt) | [Captcha](https://open.spotify.com/album/0LzozfJOt9UMSmklMDsvgM) | 3:12 | 2021-09-25 | 2022-04-16 |
 | [Raptor](https://open.spotify.com/track/7wqoXaaYeYV6zR4jegMgF4) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [Raptor](https://open.spotify.com/album/023fZD6uYgvFdGOqG2HTli) | 3:17 | 2021-12-08 | 2021-12-12 |
+| [Replicants \- J:Kenzo Remix](https://open.spotify.com/track/6oOSSVjIuD05mzC5fIDTlc) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Replicants \(J:Kenzo Remix\)](https://open.spotify.com/album/0bX0KGunfUX7hriWuf0Fe1) | 5:18 | 2022-08-19 |  |
 | [Revel](https://open.spotify.com/track/31OzkljjiMk2xJzZBg23F8) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Cycles In Flux](https://open.spotify.com/album/3UXTCoH6FHAefHY03xApls) | 4:44 | 2022-01-21 | 2022-02-28 |
 | [See You](https://open.spotify.com/track/2OQ0lsnpgmwmaIuSfVFIDx) | [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [See You](https://open.spotify.com/album/1Q6A1gHBqhS3uq5nQpzv30) | 4:38 | 2022-02-25 |  |
 | [Shaggy Mullet](https://open.spotify.com/track/53exglsd8umduSuQsxnkNJ) | [Bukez Finezt](https://open.spotify.com/artist/7lpT19TLWJN0pPEmUF9FTH) | [Shaggy Mullet](https://open.spotify.com/album/265FApjVuPAYEQYpcbBLUU) | 5:31 | 2022-04-25 |  |

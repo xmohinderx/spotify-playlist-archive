@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-524 songs - 1 day 5 hr 50 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+525 songs - 1 day 5 hr 53 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Cuarentena](https://open.spotify.com/track/3NzO25bvpU4lUf8kYvcrd1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Cuarentena](https://open.spotify.com/album/6gNn20ucl04E91XvLdMc1Z) | 2:11 | 2021-10-31 | 2021-11-14 |
 | [Cuarentena](https://open.spotify.com/track/7zNGzcGEnfVld7PdlXSeSa) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:11 | 2021-12-05 | 2021-12-19 |
 | [CUENTA](https://open.spotify.com/track/2J19dDdM6nmKDbN4AVJ1R4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:36 | 2021-04-26 | 2021-04-26 |
-| [Culito](https://open.spotify.com/track/4FiHQz4KFtK0m5zzhI4gZL) | [El Bird](https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q) | [Culito](https://open.spotify.com/album/4dhH3Nhj7vy79pHdvCp0EB) | 3:36 | 2022-08-16 |  |
+| [Culito](https://open.spotify.com/track/4FiHQz4KFtK0m5zzhI4gZL) | [El Bird](https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q) | [Culito](https://open.spotify.com/album/4dhH3Nhj7vy79pHdvCp0EB) | 3:36 | 2022-08-16 | 2022-08-20 |
 | [Curazao](https://open.spotify.com/track/2gMau9LsRZtWOrq5cBGywB) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Curazao](https://open.spotify.com/album/6uzezSBR2loiWEjeRFu8VM) | 3:59 | 2021-09-09 | 2022-07-24 |
 | [Currents](https://open.spotify.com/track/7IaeavdRzXYQWfu2Wt5GlU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 2:37 | 2022-06-18 | 2022-06-20 |
 | [CÓMO SE SIENTE \- Remix](https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [CÓMO SE SIENTE \(Remix\)](https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI) | 3:47 | 2021-03-27\* | 2022-08-19 |
@@ -443,6 +443,7 @@
 | [Si Es Trucho Es Trucho](https://open.spotify.com/track/6wQufshN8RwGazPyDQ0WXM) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [Verbo Flow](https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ) | [Si Es Trucho Es Trucho](https://open.spotify.com/album/0fudaOv4OlQqIUH3uQ6IM7) | 5:37 | 2021-03-27\* | 2021-05-19 |
 | [Si Es Trucho Es Trucho](https://open.spotify.com/track/27aoNGpRiq722amHUMzBpJ) | [Verbo Flow](https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ), [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB) | [Si Es Trucho Es Trucho](https://open.spotify.com/album/5wh6qhU1E9x8v5itRCAKeV) | 5:37 | 2021-05-23 | 2021-05-29 |
 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 | 2022-01-26 | 2022-05-08 |
+| [Si Lo Puedes Soñar](https://open.spotify.com/track/529JIZZBymNcDRijYcjTkF) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Si Lo Puedes Soñar](https://open.spotify.com/album/5TXyBngsscsxdTWhGuNxT1) | 3:15 | 2022-08-19 |  |
 | [Si Te Veo](https://open.spotify.com/track/2TmT3wSwRf0CYJFGGaIXNB) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Si Te Veo](https://open.spotify.com/album/1g0enqdoT94Aw5vCJvubzd) | 4:15 | 2021-06-04 | 2021-08-28 |
 | [Si Te Veo](https://open.spotify.com/track/661BAtQVPGlDZ097DzN1hJ) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los Favoritos 2.5](https://open.spotify.com/album/1VkgKNe63Fqsyc7gRPQ1qC) | 4:15 | 2021-09-19 | 2021-09-29 |
 | [Si Tu Me Busca](https://open.spotify.com/track/7krngwvy6pL3EVgOhDe7zE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Si Tu Me Busca](https://open.spotify.com/album/6SAO7sX4PVuHgFC0nV3FPu) | 4:32 | 2022-04-02 | 2022-04-10 |

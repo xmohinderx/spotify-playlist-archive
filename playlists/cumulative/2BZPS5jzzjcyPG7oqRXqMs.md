@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-143 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+145 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 | 2022-03-25 |  |
 | [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 | 2022-05-13 |  |
 | [Coming Out Fighting](https://open.spotify.com/track/4BhIdUwXCuraOleWckiAL5) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Coming Out Fighting](https://open.spotify.com/album/7v4kN2sY4pDsP6MpafYEbk) | 3:43 | 2022-02-17 |  |
+| [Cornerstone \(feat\. Zach Williams\)](https://open.spotify.com/track/6wCVcqWX20n8kAtIK9PoeG) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Life After Death](https://open.spotify.com/album/0r9SK42XWsd4BOu4IGi1c3) | 3:39 | 2022-08-19 |  |
 | [Costly](https://open.spotify.com/track/1AkL3phJ8v1QR4N6B5zYYh) | [Royal Company](https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t) | [Costly](https://open.spotify.com/album/0lzHvfDNrL3RWArarLmsxJ) | 4:09 | 2022-07-22 |  |
 | [Count On](https://open.spotify.com/track/5xyJYRFB6Mm9hn7eR2c4dK) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Count On](https://open.spotify.com/album/6R91ORPOY75HqPuoAYHQXE) | 4:17 | 2022-02-17 |  |
 | [Delightful \(The Sower Never Wastes A Tear\)](https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Are We There Yet?](https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq) | 5:07 | 2022-04-29 |  |
@@ -97,6 +98,7 @@
 | [New Creation](https://open.spotify.com/track/66CqLV4jBPFGoN8kx78J15) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation](https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX) | 3:02 | 2022-02-17 |  |
 | [No Greater Love](https://open.spotify.com/track/4hpSwMHqY5dz3e1oThENAH) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [No Greater Love](https://open.spotify.com/album/5tvt7Irua4SaXnTDh7nIgA) | 3:20 | 2022-02-17 | 2022-07-02 |
 | [No Hopeless Soul](https://open.spotify.com/track/7fovCglnkftOlJmrIidq8r) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [No Hopeless Soul](https://open.spotify.com/album/5gZ1OG8XcJpv69F2BqBUoW) | 3:03 | 2022-02-17 |  |
+| [Nobody Leaves The Same](https://open.spotify.com/track/5AkG5qu7FyslQ3svT9RdrF) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Before The Breakthrough](https://open.spotify.com/album/3Tg4oCrveWBzTLwrj9Bbxv) | 4:08 | 2022-08-19 |  |
 | [Note To Self](https://open.spotify.com/track/03jxYc3qHguRZ6FEwWJ7Oq) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Note To Self](https://open.spotify.com/album/0a1mn8XN8wdYDRqMpJ13Jh) | 3:06 | 2022-03-25 |  |
 | [Nothing Else](https://open.spotify.com/track/5KXVeVXTMuCJnkK8YSC3FC) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 6:33 | 2022-07-01 |  |
 | [Oasis](https://open.spotify.com/track/4v46PjKcRvS5UIzyOxwomh) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Stephen Stanley](https://open.spotify.com/album/52PGrNeJX0ICMI05KfAK7L) | 3:37 | 2022-02-17 |  |

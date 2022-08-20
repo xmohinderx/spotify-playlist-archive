@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La crème de la crème of Montréal's music scene\. Photo: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,195 likes - 101 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,249 likes - 101 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

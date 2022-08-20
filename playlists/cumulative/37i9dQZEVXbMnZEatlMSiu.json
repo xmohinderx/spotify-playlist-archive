@@ -5148,6 +5148,28 @@
     },
     {
       "album": {
+        "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7",
+        "url": "https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        },
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186014,
+      "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7 feat. \u97cb\u79ae\u5b89",
+      "url": "https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin"
+    },
+    {
+      "album": {
         "name": "\u4ece\u524d\u8bf4",
         "url": "https://open.spotify.com/album/0abB0JEwzX23OwKnv97VBb"
       },
@@ -8553,7 +8575,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 219354,
       "name": "\u9686\u88e1\u96fb\u7d72",
       "url": "https://open.spotify.com/track/6XrnEjYDnm9JUeoDE4efvA"

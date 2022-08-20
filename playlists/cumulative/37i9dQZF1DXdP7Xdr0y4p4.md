@@ -4,7 +4,7 @@
 
 > An essential list of recent hits of SoGo\.  Cover: 11th Hour
 
-94 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/0cTu18H5FuoqEK3v4T9BcB)
+95 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/0cTu18H5FuoqEK3v4T9BcB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Peace in Trusting](https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Songs for the Times](https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U) | 3:44 | 2021-10-29 |  |
 | [Pray Now](https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3) | 4:27 | 2021-10-29 |  |
 | [Pray Now](https://open.spotify.com/track/6ouBqhPAnUTybW52iWIynl) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/2qdDTQkPE63hAK3NpDMK3b) | 4:27 | 2021-10-29 | 2022-07-29 |
-| [Return to Me](https://open.spotify.com/track/1PTSNsuDlyRzHeYQV1hkSt) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Return to Me](https://open.spotify.com/album/6tagHeuKrx8MSlkhaJ06Nt) | 7:12 | 2021-10-29 |  |
+| [Return to Me](https://open.spotify.com/track/1PTSNsuDlyRzHeYQV1hkSt) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Return to Me](https://open.spotify.com/album/6tagHeuKrx8MSlkhaJ06Nt) | 7:12 | 2021-10-29 | 2022-08-20 |
+| [Return to Me](https://open.spotify.com/track/2x6iRQV8qZ1LbsNS9FkScu) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Return to Me](https://open.spotify.com/album/7FGTnpBmSg2O4D0PWj5YBT) | 7:12 | 2021-10-29 |  |
 | [Reunion In Heaven \(Live\)](https://open.spotify.com/track/6Uxn3QxcZGsTsY0bsMiUfr) | [The Inspirations](https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3) | [What A Wonderful Time \(Live\)](https://open.spotify.com/album/017dDngI2UkE14N4MS5DCK) | 2:17 | 2021-10-29 |  |
 | [Rock My Soul](https://open.spotify.com/track/6ZqGAT5dZXT3wV0pc5NPRo) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/4Qn9PcrJMAOpnA1KPAm1Uw) | 1:48 | 2021-10-29 | 2022-07-29 |
 | [Rock My Soul](https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY) | 1:48 | 2021-10-29 |  |

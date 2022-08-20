@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Josh Kerr
 
-204 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+205 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-05-06 |  |
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/5CQ1BKIfD8cpMsxn3rdEXm) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Even If It Breaks Your Barefoot Friday Night, Pt\. 1](https://open.spotify.com/album/2TDTiLd5HpKDkX5WxZmBJ3) | 2:56 | 2022-04-15 |  |
 | [Better Boat](https://open.spotify.com/track/0AP1oqhd2cAs0q4X3hBtNk) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [First Cigarette](https://open.spotify.com/album/0LjnNjuO0XLc239qIRXj8F) | 4:53 | 2022-01-01 |  |
+| [Bird Dog](https://open.spotify.com/track/27W4Reg4xwQIlQkDffGqc2) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Bird Dog](https://open.spotify.com/album/6kjkKqlGi96MSKcdP8Ayv8) | 3:34 | 2022-08-19 |  |
 | [Blue Ain't Your Color](https://open.spotify.com/track/2Ynzb3b6Ddpi1EtovAuvVE) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:38 | 2022-01-01 |  |
 | [Blue Clear Sky](https://open.spotify.com/track/297oP9NrGDfiin3oG5yjdJ) | [Bob DiPiero](https://open.spotify.com/artist/3zqhEeEHP3dgmWuWUyJgRP) | [American Made](https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m) | 3:00 | 2022-01-01 |  |
 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 | 2022-08-01 |  |

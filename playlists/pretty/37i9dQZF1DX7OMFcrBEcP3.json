@@ -1,12 +1,12 @@
 {
   "description": "The Corridos of yesterday and today all in one place!",
-  "num_followers": 20994,
+  "num_followers": 21019,
   "original_name": "Now & Then Corridos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDExZWE3MDRlMDQ1Zjg0ZTExNDY5YjUzNTAwZmY3ZTlk",
+  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMGY5ZDBmZjdlNDE4NmRjYzQ2MmNiYTBiNGRlYjM2MTg1",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Los 20 Mejores Corridos y Rancheras",
-        "url": "https://open.spotify.com/album/6fNcLl4TR9uUUj6ZkoVHiD"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "La Cheyene del A\u00f1o",
-      "url": "https://open.spotify.com/track/74c22PUka78qXVFudVnLJT"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "14 Exitos",
         "url": "https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp"
       },
@@ -1139,22 +1123,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Los Amos Del Corrido",
-        "url": "https://open.spotify.com/album/1B2DVd1xN1wC5QGmnBvla5"
-      },
-      "artists": [
-        {
-          "name": "Luis y Julian",
-          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "El Penal De La Loma",
-      "url": "https://open.spotify.com/track/2NRQRAPq2BF5UIZitIMZGJ"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "En Que Trabaja El Muchacho",
         "url": "https://open.spotify.com/album/78sB90ztB36qs1CQuAerxB"
       },
@@ -1171,18 +1139,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Con La Nueva Federaci\u00f3n",
-        "url": "https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa"
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
       "artists": [
         {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 139493,
-      "name": "Comandos Del M.P (500 Balazos)",
-      "url": "https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu"
+      "duration_ms": 180426,
+      "name": "La Cheyene del A\u00f1o",
+      "url": "https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1203,18 +1171,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "La Captura III",
-        "url": "https://open.spotify.com/album/2Dx9DX0zG74oF0x4vqyAOx"
+        "name": "Con La Nueva Federaci\u00f3n",
+        "url": "https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
         }
       ],
-      "duration_ms": 188928,
-      "name": "La Captura III",
-      "url": "https://open.spotify.com/track/1y1zGvNOVkURLr8TzqWjXA"
+      "duration_ms": 139493,
+      "name": "Comandos Del M.P (500 Balazos)",
+      "url": "https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1231,6 +1199,38 @@
       "duration_ms": 201066,
       "name": "El Ultimo Cartucho",
       "url": "https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "La Captura III",
+        "url": "https://open.spotify.com/album/2Dx9DX0zG74oF0x4vqyAOx"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 188928,
+      "name": "La Captura III",
+      "url": "https://open.spotify.com/track/1y1zGvNOVkURLr8TzqWjXA"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Corridos Perros Vol.1",
+        "url": "https://open.spotify.com/album/6gi63Tzp521cz82jS7ItHA"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 150163,
+      "name": "La Carretera Hacia Juarez",
+      "url": "https://open.spotify.com/track/6drRLQB9x11UXmV0cNTffo"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "A Las Damas Tambi\u00e9n Les Gustan Los Corridos",
+        "url": "https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv"
+      },
+      "artists": [
+        {
+          "name": "Luis y Julian",
+          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
+        }
+      ],
+      "duration_ms": 175908,
+      "name": "El Penal De La Loma",
+      "url": "https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "El de Arriba",
         "url": "https://open.spotify.com/album/1qkc0PBgU4sntxcDinzY9y"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 183280,
       "name": "Gente De Arranque",
       "url": "https://open.spotify.com/track/1MUmseE7ctXeUgu6D0q5Jn"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Corridos Perros Vol.1",
-        "url": "https://open.spotify.com/album/6gi63Tzp521cz82jS7ItHA"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 150163,
-      "name": "La Carretera Hacia Juarez",
-      "url": "https://open.spotify.com/track/6drRLQB9x11UXmV0cNTffo"
     },
     {
       "added_at": "2022-01-01 08:00:00",

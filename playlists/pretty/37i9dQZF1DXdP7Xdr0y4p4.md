@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover: 11th Hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,181 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,182 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 3 | [Welcome to Your Life](https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Something New](https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24) | 3:19 |
 | 4 | [Something's Happening](https://open.spotify.com/track/1loca6ugoRDXMlZxLRYLJw) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Something's Happening](https://open.spotify.com/album/6GZrCDfDuhx6fa6eBvLNRK) | 4:44 |
 | 5 | [Reunion In Heaven \(Live\)](https://open.spotify.com/track/6Uxn3QxcZGsTsY0bsMiUfr) | [The Inspirations](https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3) | [What A Wonderful Time \(Live\)](https://open.spotify.com/album/017dDngI2UkE14N4MS5DCK) | 2:17 |
-| 6 | [Return to Me](https://open.spotify.com/track/1PTSNsuDlyRzHeYQV1hkSt) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Return to Me](https://open.spotify.com/album/6tagHeuKrx8MSlkhaJ06Nt) | 7:12 |
+| 6 | [Return to Me](https://open.spotify.com/track/2x6iRQV8qZ1LbsNS9FkScu) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Return to Me](https://open.spotify.com/album/7FGTnpBmSg2O4D0PWj5YBT) | 7:12 |
 | 7 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
 | 8 | [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 |
 | 9 | [Bring That Giant Down](https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Bring That Giant Down](https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE) | 3:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 69 | [If You Knew Him](https://open.spotify.com/track/4lWaLcpZhP7GgTqFgjc5t7) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Almost Morning](https://open.spotify.com/album/5iCQcKosR5DEcERoVT8Euu) | 4:49 |
 | 70 | [I'll Pray for You](https://open.spotify.com/track/1MzGa0yXkZhjUGDO7oxamj) | [The Whisnants](https://open.spotify.com/artist/4c7zlvrqio2WjtIIGTx1pm) | [Life Worth Living](https://open.spotify.com/album/6elC8eo9nVpB1mfxMHAoF2) | 2:49 |
 
-Snapshot ID: `MTYzNTUwNDI3NywwMDAwMDAwMGY3NDFmYzNkYzBlYWQxODAxYTMzMjU5NmI4ZGMyZGQw`
+Snapshot ID: `MTYzNTUwNDI3NywwMDAwMDAwMDhmOWFmMWJlZmIxY2U2ZmYxYTU0ODA3MDBmYzU5YzBh`

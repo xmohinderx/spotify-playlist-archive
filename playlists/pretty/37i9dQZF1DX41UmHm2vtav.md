@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,476 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,569 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Todo Homem \- Bhaskar, Mojjo Remix](https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Todo Homem \(Bhaskar, Mojjo Remix\)](https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN) | 4:29 |
 | 70 | [Dias Melhores \- Remix](https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Dias Melhores \- Remix](https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7) | 2:54 |
 
-Snapshot ID: `MTY2MDc1NDIwOCwwMDAwMDAwMGU1ZDE3NmE0ZmNlMDVmMzNkZTg2YjQ0YzJjMmU1ZjFj`
+Snapshot ID: `MTY2MDg3ODA2MCwwMDAwMDAwMDYyYmU4ZTc4NDEyZmRjYzcwMmRmYTI5Nzc4MTNkZjMw`

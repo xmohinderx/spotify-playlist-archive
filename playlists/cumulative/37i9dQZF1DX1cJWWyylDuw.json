@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Upon A Burning Body",
+  "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Suicide Silence",
   "name": "Deathcore",
   "published_playlist_ids": [
     "4ZBLxm54bu7G3RGxe9bh9B"
@@ -23,6 +23,24 @@
       "duration_ms": 163200,
       "name": "(\u2022REC)",
       "url": "https://open.spotify.com/track/4fvR2GgkKNA3fF6sJkEWrF"
+    },
+    {
+      "album": {
+        "name": "1984",
+        "url": "https://open.spotify.com/album/5RYY90zPEcG3XxZhueE6Y3"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "1984",
+      "url": "https://open.spotify.com/track/7LG0FEpKoKvHCv1S6FUrBY"
     },
     {
       "album": {
@@ -683,7 +701,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 240000,
       "name": "Bathe in the Flame",
       "url": "https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib"
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 227872,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/1Qdz2l8hr4mNwGj43AyVIR"
@@ -2367,7 +2385,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 212480,
       "name": "Exit Signs",
       "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"

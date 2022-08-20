@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-119 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
+121 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Assassin's Creed IV Black Flag Main Theme](https://open.spotify.com/track/6enLk2V2s0M6D6PGLjHxYv) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Original Game Soundtrack\)](https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz) | 2:13 | 2021-12-15 |  |
 | [Assassin's Creed Valhalla Main Theme \(feat\. Einar Selvik\)](https://open.spotify.com/track/2hQIeYuMXRrvCASE6kB37E) | [Sarah Schachner](https://open.spotify.com/artist/692KvxElsJHIJQCS6Eoc32), [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH), [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 3:15 | 2021-12-15 |  |
 | [Aurora](https://open.spotify.com/track/2jd20t5nkaFrEbTPJNXDzi) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 7:21 | 2021-12-15 |  |
+| [Bloodhunt Main Theme](https://open.spotify.com/track/1r4MUA5cT9eGCI9drPV74m) | [Atanas Valkov](https://open.spotify.com/artist/4cAAN7SGwKPLlveflKR9z5) | [Vampire: The Masquerade \- Bloodhunt \(Original Soundtrack\)](https://open.spotify.com/album/1n9ixNMkvMMHukntiOfIZf) | 2:57 | 2022-08-19 |  |
 | [Bonding Winds \- Monster Hunter Stories 2 Version](https://open.spotify.com/track/77AG1cu6yIcvSHV9Ct8q6o) | [Marika Suzuki](https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6) | [MONSTER HUNTER STORIES 2: WINGS OF RUIN ORIGINAL SOUND TRACK](https://open.spotify.com/album/4m9EYywTRX2I2eimoPaaN8) | 3:49 | 2022-02-18 |  |
 | [Castle in the Mist](https://open.spotify.com/track/3NqHQ4V2U4wQuWlByWfa1r) | [ICO](https://open.spotify.com/artist/6vuQJMjP5BC4Wyrq6mpVlb) | [ICO〜霧の中の旋律〜](https://open.spotify.com/album/7Gp7M4UtFXPJ6qc5oILizv) | 3:05 | 2021-12-15 |  |
 | [Castlevania](https://open.spotify.com/track/664qR3uQQOlRVIr2bTzJQz) | [Michiru Yamane](https://open.spotify.com/artist/6yHzqH70UbRHmoTOcEBmRz), [Jun Irie](https://open.spotify.com/artist/5JqskDaiPYXK7suG5avAiC), [Play! Orchestra](https://open.spotify.com/artist/0GYcXLXJH56tMNErPW6Wfg) | [Castlevania](https://open.spotify.com/album/4RSVZeOGgBwv3z0l7lHpIT) | 6:50 | 2021-12-15 |  |
@@ -111,6 +112,7 @@
 | [The Light We Cast](https://open.spotify.com/track/2pdGvz2IWaw0ST2mAafKno) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 3:10 | 2021-12-15 | 2022-05-28 |
 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2021-12-15 | 2022-03-15 |
 | [The Rebel Path](https://open.spotify.com/track/3m8UfZwPMMbiWfGR8Lg2cR) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Cyberpunk 2077 \- Original Score](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp) | 4:10 | 2021-12-15 |  |
+| [The Streets of Whiterun](https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 4:04 | 2022-08-19 |  |
 | [The Way of the Ghost](https://open.spotify.com/track/0AnsIh2o4sa9p8pHJOi9oI) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [Ghost of Tsushima \(Music from the Video Game\)](https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq) | 4:14 | 2021-12-15 |  |
 | [Timber Hearth](https://open.spotify.com/track/3BIf974vl0lIEo3EY1XvD1) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Outer Wilds \(Original Soundtrack\)](https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o) | 3:24 | 2021-12-15 |  |
 | [Title Theme](https://open.spotify.com/track/7xiqFMenX3KY3kINA88d8Q) | [Russell Shaw](https://open.spotify.com/artist/5wuYDMU4DPsiqWaB8QBZU5) | [Fable Legends:The Rosewood](https://open.spotify.com/album/1FdHeXxHiE06U5anAfv4H2) | 4:15 | 2021-12-15 |  |

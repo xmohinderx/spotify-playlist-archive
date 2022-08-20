@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover:  Offset\)
 
-647 songs - 1 day 9 hr 4 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+648 songs - 1 day 9 hr 7 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [30 Point Nights 2](https://open.spotify.com/track/0cyfuVijCR6brMbiiBGjco) | [Beals L.E.S](https://open.spotify.com/artist/0KBVhlxrvPosdCZsqqEjXz) | [30 Point Nights 2](https://open.spotify.com/album/2R6ODA7EgcOwuQ49D14vXK) | 1:56 | 2022-01-20 | 2022-01-28 |
 | [3G \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:50 | 2022-04-07 | 2022-04-29 |
 | [3GP BABY \- REMIX](https://open.spotify.com/track/2vs5ukmQcB06u7Mx02aHIy) | [Young Benar](https://open.spotify.com/artist/606cmcEzehSH9WlGll29jO), [PFTD](https://open.spotify.com/artist/4xZatoZbYuRbqR08h7eZnj), [arthvmist](https://open.spotify.com/artist/2rMCEmROsqUHiv5zozuEXV), [A\-Kid](https://open.spotify.com/artist/68fP4CsMFrDoUz6wdBzTwT), [Guccimith](https://open.spotify.com/artist/7HD9LqZEcayqh3S6F9F3uy), [Nakalness](https://open.spotify.com/artist/1loI0RIE3tosoU6YePYuUI) | [DAMAGE CONTROL: THE LOST TAPES](https://open.spotify.com/album/5ikM6G36d4IQoPsk3cP2iR) | 4:31 | 2022-03-24 | 2022-04-08 |
+| [5 4 3 2 1](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [5 4 3 2 1](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-18 |  |
 | [5FT FREESTYLE](https://open.spotify.com/track/6xYlZdAvzzkl5UAoySwc3Y) | [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [5FT FREESTYLE](https://open.spotify.com/album/3lSf2OiUqvh5VQUHo27fxv) | 2:50 | 2022-01-20 | 2022-02-25 |
 | [6 Months \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/15MObTsMBIdr35hEa4Fgz4) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 2:55 | 2022-06-17 | 2022-07-15 |
 | [@rollsroycecars \(Prod\. imeanseoul, Wylo\)](https://open.spotify.com/track/7G5yu6BmXx85xogvsE9Y7i) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [www.instagram.com/rollingloud/viceversartist](https://open.spotify.com/album/65iSrqbqW6EmtC9FeqdEfr) | 2:50 | 2022-06-02 | 2022-06-24 |

@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: ITZY\(있지\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-390 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/1QV1rd0Jl2Uv3EQB0qMIsR)
+391 songs - 21 hr 40 min - [published](https://open.spotify.com/playlist/1QV1rd0Jl2Uv3EQB0qMIsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [BAD LOVE](https://open.spotify.com/track/7B8JKfqm63AO8MCHFO3pIb) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [BAD LOVE \- The 1st Mini Album](https://open.spotify.com/album/3GYaEvJ62wVs6NSYNOmKKH) | 3:25 | 2022-03-22 | 2022-04-15 |
 | [BAE](https://open.spotify.com/track/0cyhVn02BnsPQvYcJTsaUO) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [BAE](https://open.spotify.com/album/0Hax4uZF0pMOgFSTvb8AHm) | 3:26 | 2022-03-22 | 2022-04-13 |
 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 | 2022-03-22 |  |
-| [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 | 2021-12-20 |  |
+| [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 | 2021-12-20 | 2022-08-20 |
 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-05-30 |  |
 | [Beautiful Beautiful](https://open.spotify.com/track/1JZiSKaF6RRgwxv4IijBUm) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:10 | 2021-12-20 | 2022-06-21 |
 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 | 2021-12-20 | 2022-07-26 |
@@ -259,6 +259,7 @@
 | [Party](https://open.spotify.com/track/7Khhog3hnGN34oSnrtw0ui) | [SLO](https://open.spotify.com/artist/1gBhWJ9rui0vPntlMKZj1E), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Party](https://open.spotify.com/album/6VlMAwdsfCEFHBLhUuxEPD) | 3:15 | 2022-03-22 | 2022-04-16 |
 | [Pass me through](https://open.spotify.com/track/4sRHML9bBuDqNG0ws0Dthu) | [ClaD](https://open.spotify.com/artist/1wcpuACr4nnlIO4EXptG6t) | [Pass me through](https://open.spotify.com/album/0y3vTHgjW5DXY6S4GD3Wui) | 3:23 | 2021-12-20 | 2022-07-16 |
 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 | 2022-06-10 | 2022-08-19 |
+| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 |  |
 | [Pirate](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Return of The Girl](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) | 3:30 | 2021-12-20 |  |
 | [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 | 2022-03-22 | 2022-04-16 |
 | [PLAY](https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [PLAY](https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr) | 3:19 | 2021-12-20 | 2022-05-03 |

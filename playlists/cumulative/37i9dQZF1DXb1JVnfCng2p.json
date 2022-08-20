@@ -763,7 +763,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 560655,
       "name": "Cool Struttin' - Remastered",
       "url": "https://open.spotify.com/track/0X7rCA8YKz31S3uzJ2qsF9"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 203506,
       "name": "Days I Never Knew",
       "url": "https://open.spotify.com/track/08bLvpTeYcplATgW28XFu4"
@@ -1681,6 +1681,28 @@
       "duration_ms": 224266,
       "name": "Lou's Blues",
       "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
+    },
+    {
+      "album": {
+        "name": "The Song Is You: Best Of The Verve Songbooks",
+        "url": "https://open.spotify.com/album/2wreYny3REO7NDgQBNQ0ns"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/1LjvXnEvVhlYXlY1UgLmky"
     },
     {
       "album": {
@@ -2589,6 +2611,32 @@
       "duration_ms": 433000,
       "name": "The One Before This",
       "url": "https://open.spotify.com/track/7g5GPIbDp40slf9MZ8p4bA"
+    },
+    {
+      "album": {
+        "name": "Organ Grinder Swing",
+        "url": "https://open.spotify.com/album/1JMyIWefciQ3GbOli40USJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        },
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "Grady Tate",
+          "url": "https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136933,
+      "name": "The Organ Grinder's Swing",
+      "url": "https://open.spotify.com/track/21wH8Pxh2KQkUEeJZcpyEX"
     },
     {
       "album": {

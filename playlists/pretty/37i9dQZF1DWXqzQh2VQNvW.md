@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,164 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,209 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 11 | [Loved You Since I Was Young](https://open.spotify.com/track/0JTEcPbg192uSL2j7UJasI) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/6MyeUwv1VQJgxiIJBdWJoH) | 3:03 |
 | 12 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 |
 | 13 | [Waste My Time](https://open.spotify.com/track/3iWv5jxk4Qq2339O29I5lJ) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Waste My Time](https://open.spotify.com/album/3Rkmx4eNk0BrJmBeViDM2W) | 3:36 |
-| 14 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
-| 15 | [Come Back Home \- From "Purple Hearts"](https://open.spotify.com/track/2mPXui72mlIYR5sQUPZXwP) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Come Back Home \(From "Purple Hearts"\)](https://open.spotify.com/album/2O6Q9yickLm8XJfvy1SPdx) | 2:56 |
-| 16 | [She Can Dance](https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [She Can Dance](https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR) | 3:04 |
+| 14 | [Secrets](https://open.spotify.com/track/1wILQICSoczb6nktX8jAD8) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/3lsVuRFJgpcomfPtZheSHB) | 2:37 |
+| 15 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
+| 16 | [Come Back Home \- From "Purple Hearts"](https://open.spotify.com/track/2mPXui72mlIYR5sQUPZXwP) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Come Back Home \(From "Purple Hearts"\)](https://open.spotify.com/album/2O6Q9yickLm8XJfvy1SPdx) | 2:56 |
 | 17 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
 | 18 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
 | 19 | [Heart on Fire](https://open.spotify.com/track/0NzgX6oHNy0Wy0VCLX1u90) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Heart on Fire](https://open.spotify.com/album/4gyrk2gUPVY88ODmiPcBRH) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 99 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 |
 | 100 | [What They Want](https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [There's Really A Wolf](https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC) | 2:45 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDY0ODVjYmQ3YmVhMjVhODYyMmVhNmY4MWIzZDIyMGVj`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMGQxZjc4NDc4OWUyMmE5NjFjN2VhNDViY2NjZTNlNGVi`

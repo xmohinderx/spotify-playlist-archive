@@ -3460,6 +3460,32 @@
     },
     {
       "album": {
+        "name": "To The Top (JJL Remix)",
+        "url": "https://open.spotify.com/album/2iXwrkpbLaSpUBpTYwnc5p"
+      },
+      "artists": [
+        {
+          "name": "Jay Eskar",
+          "url": "https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh"
+        },
+        {
+          "name": "Srikar",
+          "url": "https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv"
+        },
+        {
+          "name": "JJL",
+          "url": "https://open.spotify.com/artist/5LroXuJrtGub3hrJvhGAMo"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182093,
+      "name": "To The Top - JJL Remix",
+      "url": "https://open.spotify.com/track/57yxSNXHLMb3gREIFyEDqV"
+    },
+    {
+      "album": {
         "name": "Too Hot To Handle",
         "url": "https://open.spotify.com/album/3v2XdXdv9v8KZsaaa8Ed5l"
       },

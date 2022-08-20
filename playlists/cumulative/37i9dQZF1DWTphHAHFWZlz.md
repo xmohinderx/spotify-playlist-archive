@@ -2,9 +2,9 @@
 
 ### [Rockola](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> La nueva ola del rock argentino\. Foto: Mi Amigo Invencible
+> La nueva ola del rock argentino\. Foto: El Mató a un Policía Motorizado
 
-152 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
+155 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,8 @@
 | [LA ARAÑA](https://open.spotify.com/track/1HU9uePnzE4RdomNtxICSC) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3itKjyJB7SPbkyhhlB9YJX) | 3:28 | 2022-07-19 | 2022-07-29 |
 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-22 |  |
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-06-29 | 2022-07-20 |
+| [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/track/0AcUxNrUimUbnZjfU1d1Eo) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/album/5FVZFjAVNaOm7X9erzp905) | 4:22 | 2022-08-19 |  |
+| [La Foto](https://open.spotify.com/track/6ubfIxvIdkcICVNzsdvdFc) | [Tobías Arribillaga](https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ), [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [La Foto](https://open.spotify.com/album/5ks9k8UqomuzIKdhSuDaPP) | 3:33 | 2022-08-19 |  |
 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 | 2022-07-19 |  |
 | [La Noche](https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Fin del Mundo](https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu) | 3:33 | 2022-07-19 |  |
 | [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 | 2022-07-22 |  |
@@ -98,6 +100,7 @@
 | [Lo Quiero Mucho a Ese Muchacho](https://open.spotify.com/track/0kH9rVfxHWkDoBMJxAL5Sw) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Bestia Bebé](https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb) | 3:59 | 2022-07-19 |  |
 | [Los Chicos No Entienden](https://open.spotify.com/track/4qCfrEVTxcqvgWQucSUqyB) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [A los Amigos](https://open.spotify.com/album/7GyrUntLwyy6TPN0ytvP2Y) | 3:16 | 2022-07-19 |  |
 | [Los Fantasmas](https://open.spotify.com/track/0aGYVf5anL1ZHeXR9ZBMKe) | [Gimena Alvarez Cela](https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5) | [Los Fantasmas](https://open.spotify.com/album/29yX1nvE4qPlHePfgn0AOY) | 4:14 | 2022-06-29 |  |
+| [Manto Negro](https://open.spotify.com/track/52jWtWtmqVyjB6AEBcV5BT) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:44 | 2022-08-19 |  |
 | [Marta \(corte\)](https://open.spotify.com/track/3KZ0n5l5WSlLrfezbhVGXN) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O) | [Océano Rojo](https://open.spotify.com/album/0Xykch8g0Ss0nGkrktL3td) | 4:05 | 2022-08-12 |  |
 | [Me Dijiste Tu Nombre](https://open.spotify.com/track/6V2WUdjJeJ6rBEFLLKy3Mc) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Me Dijiste Tu Nombre](https://open.spotify.com/album/4WUxXkSkjKAViAxa4aS1a9) | 3:03 | 2022-06-29 |  |
 | [Mesita del Miravalles](https://open.spotify.com/track/2fGBwLK0jYRGQnYXpJlKJC) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [Mesita del Miravalles](https://open.spotify.com/album/0lqqP3rnQAWX4gRx4h3dtc) | 3:14 | 2022-06-29 | 2022-07-20 |

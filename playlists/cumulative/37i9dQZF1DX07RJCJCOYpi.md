@@ -2,9 +2,9 @@
 
 ### [mint Latin](https://open.spotify.com/playlist/37i9dQZF1DX07RJCJCOYpi)
 
-> The leading wave of Latin Electronic music\. Cover: Samantha Sánchez
+> The leading wave of Latin Electronic music\. Cover: Manuel Turizo, Fuego & Blessd.
 
-124 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
+126 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2022-07-01 |  |
 | [Beso De Tres](https://open.spotify.com/track/7o31QdyRw3QvnnMjudXRxl) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY) | [Beso De Tres](https://open.spotify.com/album/7emW1NQUpXMuFCcLcr9sNd) | 2:37 | 2022-03-22 | 2022-04-29 |
 | [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2022-03-22 | 2022-04-29 |
+| [Bonita](https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Bonita](https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS) | 4:10 | 2022-08-19 |  |
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-04-29 |  |
 | [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 | 2022-07-13 |  |
 | [Campeona \(feat\. Nicky Jam\)](https://open.spotify.com/track/32igAB8n9KMEQkz6jEs5yq) | [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Iwaro](https://open.spotify.com/artist/1LUtdGHtTM1H84bU2wQg7H), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Campeona \(feat\. Nicky Jam\)](https://open.spotify.com/album/0Somt7nMoN8nsNXz0i3Xts) | 3:37 | 2022-06-06 |  |
@@ -113,6 +114,7 @@
 | [Sonata \(Sonata No.8 in C Minor\) \- Beethoven Remixed](https://open.spotify.com/track/5PbJnRxQQ5GbrjkUUVtLev) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Sonata \(Sonata No.8 in C Minor\) \[Beethoven Remixed\]](https://open.spotify.com/album/0anpBzHs3Eqy1er0xyG4ZV) | 2:40 | 2022-03-22 | 2022-04-29 |
 | [Soy Así \(Summer Mix\)](https://open.spotify.com/track/6kuUlT2BNvjvmlOlQIJ14U) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Soy Así \(Summer Mix\)](https://open.spotify.com/album/2canxUfytOjMJVfmSbFCRp) | 2:58 | 2022-03-22 | 2022-04-29 |
 | [Stay With Me](https://open.spotify.com/track/6Xdpx96oFxS35VeGSbOjxO) | [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Stay With Me](https://open.spotify.com/album/5EtTgPcghle0Nna7MKRwBl) | 3:04 | 2022-06-23 |  |
+| [Sweet Potato](https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV) | 2:46 | 2022-08-19 |  |
 | [Switch It \- Tom & Collins Remix](https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Switch It \- Tom & Collins Remix](https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk) | 3:14 | 2022-03-22 |  |
 | [Tacones Rojos \- Tiësto Remix](https://open.spotify.com/track/5h5q82KQiiO92tiaGgb2xF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma +](https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX) | 3:22 | 2022-08-08 |  |
 | [Tengo Ganas De Ti \(feat\. Jeferson Miranda\)](https://open.spotify.com/track/4ZIeiVDTTYvbZE4BhehQv5) | [Antonio Sagrero](https://open.spotify.com/artist/5DAKth4Evz4tQcA6Lc1sVv), [Abbsolut](https://open.spotify.com/artist/6kb3XQy1RIqL58U53r46Bf), [Jose Blanco](https://open.spotify.com/artist/7L7ur1XM3DRiorgEQGto9k), [Jeferson Miranda](https://open.spotify.com/artist/4iwxOwHQxgKj6CdEMCz079) | [Tengo Ganas De Ti \(feat\. Jeferson Miranda\)](https://open.spotify.com/album/1NYZLGlVu2gisqlDamXJKK) | 5:01 | 2022-03-22 | 2022-04-29 |

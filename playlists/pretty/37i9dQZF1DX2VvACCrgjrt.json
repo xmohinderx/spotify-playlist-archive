@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Knock2",
-  "num_followers": 391321,
+  "num_followers": 391398,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDNhOTYxZjg1YjFiNjZjNTVmMjI3NjIyYTJhYWY5Yjg4",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGQ4YjZiNDgxNDI2YjA1YzQxYWI0ZjcwZDMyODA3YjQ0",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/0zXiTthYKCfvfwixJdn92o"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
         }
       ],
-      "duration_ms": 190498,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -79,38 +79,34 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Like Before",
-        "url": "https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88"
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         }
       ],
-      "duration_ms": 209523,
-      "name": "Like Before",
-      "url": "https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR"
+      "duration_ms": 190498,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9"
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/4CjGRwcpGLP95cEmCkDHFE"
       },
       "artists": [
         {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         }
       ],
-      "duration_ms": 207096,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN"
+      "duration_ms": 253333,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/4P3WY1qYtJ0JcMHHm0bpvB"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -191,6 +187,42 @@
       "duration_ms": 170040,
       "name": "Push It",
       "url": "https://open.spotify.com/track/0QUVjsIqKTRkV76T59rCMM"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9"
+      },
+      "artists": [
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        }
+      ],
+      "duration_ms": 207096,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Like Before",
+        "url": "https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Like Before",
+      "url": "https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -353,6 +385,22 @@
       "url": "https://open.spotify.com/track/1Zw0EkCEoEtHTzmZV3UlIf"
     },
     {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Bump Bump Bump (Bom Bom)",
+        "url": "https://open.spotify.com/album/72UksATBqIoaadFYwn0Dqh"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bump Bump Bump (Bom Bom)",
+      "url": "https://open.spotify.com/track/0Kh1JKeJMAvFxv91HZ8uYU"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Something's about to go down",
@@ -387,26 +435,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Crave The Bassline",
-        "url": "https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 166962,
-      "name": "Crave The Bassline",
-      "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
       },
@@ -423,22 +451,6 @@
       "duration_ms": 172245,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Bump Bump Bump (Bom Bom)",
-        "url": "https://open.spotify.com/album/72UksATBqIoaadFYwn0Dqh"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Bump Bump Bump (Bom Bom)",
-      "url": "https://open.spotify.com/track/0Kh1JKeJMAvFxv91HZ8uYU"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -499,6 +511,26 @@
       "duration_ms": 174545,
       "name": "Snakes On My Chest",
       "url": "https://open.spotify.com/track/5OdiCCcYYGP0vrwkT6ONz7"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Crave The Bassline",
+        "url": "https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 166962,
+      "name": "Crave The Bassline",
+      "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1223,22 +1255,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Joker",
-        "url": "https://open.spotify.com/album/30Z0hlDjEtGGxI6zKvdB2t"
-      },
-      "artists": [
-        {
-          "name": "Kitone",
-          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
-        }
-      ],
-      "duration_ms": 127797,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/2VvFtT6YXgtwcBjD8VMD24"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Pray For It",
         "url": "https://open.spotify.com/album/5zKl0R2rtLDERSJOQz4hWR"
       },
@@ -1251,6 +1267,22 @@
       "duration_ms": 166611,
       "name": "Pray For It",
       "url": "https://open.spotify.com/track/32SL0NKS1QiR7XUKzlqufJ"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/30Z0hlDjEtGGxI6zKvdB2t"
+      },
+      "artists": [
+        {
+          "name": "Kitone",
+          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
+        }
+      ],
+      "duration_ms": 127797,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/2VvFtT6YXgtwcBjD8VMD24"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2031,22 +2063,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/5hUSbbJj0G26FMHIzsnNTU"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3lP4T0m8KHEiHP4DnbL8My"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "TIME",
         "url": "https://open.spotify.com/album/7oKCEhzbHgertrWKkkKgxp"
       },
@@ -2115,6 +2131,22 @@
       "duration_ms": 228571,
       "name": "Yup",
       "url": "https://open.spotify.com/track/0QDdJKjpf2vRQjihJeZvU1"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/5hUSbbJj0G26FMHIzsnNTU"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3lP4T0m8KHEiHP4DnbL8My"
     },
     {
       "added_at": "2022-07-22 04:01:00",

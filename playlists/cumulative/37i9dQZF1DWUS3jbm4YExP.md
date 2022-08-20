@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-429 songs - 1 day 7 hr 50 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+430 songs - 1 day 7 hr 54 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Fulan](https://open.spotify.com/track/6hKQ0iwjNplwAYSBtVPaag) | [Electric Jalaba](https://open.spotify.com/artist/2SVMaZH6NEo8Xr4LCDbPoA) | [Fulan](https://open.spotify.com/album/2KqKhjzHzrYRcrMwNAL1mS) | 4:50 | 2021-10-06 | 2022-07-07 |
 | [Futurista](https://open.spotify.com/track/1qAtVevO8XshdRHFt9dND2) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2kk7QC1wMowvV1AvEhANcg) | 2:59 | 2022-02-15 | 2022-07-29 |
 | [Giants](https://open.spotify.com/track/4SJUjn3TBetSRCbc7dvUNU) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w), [Marie Lister](https://open.spotify.com/artist/34z60znzjfkP95N7ijlBkl) | [Giants](https://open.spotify.com/album/2pTwOjonL43m8VlxlX74KO) | 5:55 | 2021-10-06 | 2022-07-29 |
-| [Giants](https://open.spotify.com/track/32B5eGIOm9qifV9hwpx0Kv) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w), [Marie Lister](https://open.spotify.com/artist/34z60znzjfkP95N7ijlBkl) | [I Rise with the Birds](https://open.spotify.com/album/7sb2iT9xN7M3D01rN1pQwm) | 5:56 | 2021-10-06 |  |
+| [Giants](https://open.spotify.com/track/32B5eGIOm9qifV9hwpx0Kv) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w), [Marie Lister](https://open.spotify.com/artist/34z60znzjfkP95N7ijlBkl) | [I Rise with the Birds](https://open.spotify.com/album/7sb2iT9xN7M3D01rN1pQwm) | 5:56 | 2021-10-06 | 2022-08-20 |
 | [Ginga](https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:01 | 2021-10-06 |  |
 | [Glorieta](https://open.spotify.com/track/0dARdGOhNNCNf8y4fubUwV) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/3W9U1PYHL85h599ZUMBBQR) | 2:28 | 2022-01-11 | 2022-04-19 |
 | [Gnawa \(feat\. The Atlas Collective\)](https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv) | [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [The Atlas Collective](https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828) | [Gnawa EP](https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG) | 3:39 | 2022-04-17 | 2022-07-28 |
@@ -395,6 +395,7 @@
 | [Totem \- David Walters Remix](https://open.spotify.com/track/2sMtCMxY9ocTQybHW7KxLg) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9), [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Totem \(David Walters Remix\)](https://open.spotify.com/album/3uPQR7dKbS3SsAbqqumoqz) | 6:32 | 2022-01-14 | 2022-07-29 |
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2022-07-28 |
 | [Tripping Up](https://open.spotify.com/track/6yTgIPx8OsFOQnwr1Baj9o) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8) | [Indigo \- EP](https://open.spotify.com/album/2IgjsbxHF0dC4jjT5Cl5Jd) | 4:47 | 2021-10-06 | 2022-07-24 |
+| [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 | 2022-08-19 |  |
 | [Tucheza \- Esa Extended Mix](https://open.spotify.com/track/3NFRY3bt1rsgyVmM15fJve) | [Ze Spirits Band](https://open.spotify.com/artist/07NE1hzpDhvTw4vriH5Ec5), [Esa Williams](https://open.spotify.com/artist/7aYAOm7Y43oWIXMYILSlPH) | [Tucheza \(Esa Extended Mix\)](https://open.spotify.com/album/6CLvBUW4Y6m0Nt3KZNqsm9) | 4:57 | 2021-10-06 | 2022-04-13 |
 | [Tukumtak](https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tukumtak](https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7) | 3:02 | 2022-08-09 |  |
 | [Tune Rider](https://open.spotify.com/track/4HBz7gmSjQ143OiMoFFKJu) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [German I](https://open.spotify.com/artist/0cGJK3i9jWhsjvY7svZas3) | [Tune Rider](https://open.spotify.com/album/1AOe1eOT8UamKJwpkHV110) | 3:50 | 2021-12-08 | 2022-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: UNIIQU3.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,204 likes - 100 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,256 likes - 100 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

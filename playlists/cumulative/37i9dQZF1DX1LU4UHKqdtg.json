@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: TWICE",
+  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: BLACKPINK",
   "name": "K-Pop Fresh",
   "published_playlist_ids": [
     "7M2UzkWe0rrHEXaOnPr3Xw"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 205133,
       "name": "Beatbox",
       "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 269000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/482cI88g68VDxoSnnvetMA"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 201346,
       "name": "Blue & Black",
       "url": "https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 201080,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/3jATBjBJAWLVkAB2gCjrqE"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 212866,
       "name": "BUT YOU - JP Ver",
       "url": "https://open.spotify.com/track/3dqK2y5U0v2FzYgFpbNWIO"
@@ -1454,6 +1454,24 @@
     },
     {
       "album": {
+        "name": "Don't hesitate",
+        "url": "https://open.spotify.com/album/05g8jnH2x9k8Lj25jFznyC"
+      },
+      "artists": [
+        {
+          "name": "WONHO",
+          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203013,
+      "name": "Don't hesitate",
+      "url": "https://open.spotify.com/track/0bh2STGfDf1LuZBHL2eRGU"
+    },
+    {
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/3YxouNqtb28l4XYOehopZF"
       },
@@ -1739,6 +1757,24 @@
       "duration_ms": 167213,
       "name": "Feelin' Like",
       "url": "https://open.spotify.com/track/1GdahB0MwZ6MnwU51zkVhF"
+    },
+    {
+      "album": {
+        "name": "Feelin' Like (Japanese Version)",
+        "url": "https://open.spotify.com/album/0JDdWjlJ1wgJPHsRfNw1e9"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166706,
+      "name": "Feelin' Like - Japanese Version",
+      "url": "https://open.spotify.com/track/5a4AFIpyhzLCom8IgDH6mU"
     },
     {
       "album": {
@@ -2453,7 +2489,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 147786,
       "name": "imysm",
       "url": "https://open.spotify.com/track/1fnzWwpiHUxppDQ8EQccvW"
@@ -2493,6 +2529,28 @@
       "duration_ms": 243247,
       "name": "Ito",
       "url": "https://open.spotify.com/track/0Fb1M7rbOnydw6SrXXSlHr"
+    },
+    {
+      "album": {
+        "name": "I\u2019m not myself when I\u2019m around you",
+        "url": "https://open.spotify.com/album/3lb7CQlyZU5YN9Ni9jbdx3"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "I\u2019m not myself when I\u2019m around you (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/56kfw7CKOCgcYqaoDU5o0B"
     },
     {
       "album": {
@@ -3524,6 +3582,24 @@
     },
     {
       "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "album": {
         "name": "Pinky Swear",
         "url": "https://open.spotify.com/album/15clHTvylBD5Eg8sOVrjRZ"
       },
@@ -4235,7 +4311,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 206733,
       "name": "SHUT DOWN - JP Ver.",
       "url": "https://open.spotify.com/track/5PvVq0PXbiRXzveh3xXeJr"
@@ -4463,7 +4539,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 210566,
       "name": "Stand up!",
       "url": "https://open.spotify.com/track/2ClyPFwO5yo28GMXLR3Hlg"
@@ -5721,7 +5797,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 196386,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t"

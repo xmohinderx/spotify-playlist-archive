@@ -676,6 +676,24 @@
     },
     {
       "album": {
+        "name": "Hoy Te Quiero Ver",
+        "url": "https://open.spotify.com/album/7dw571unUolJcPGlAvGAlA"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226306,
+      "name": "Hoy Te Quiero Ver",
+      "url": "https://open.spotify.com/track/6hAXI7z8UtMDEL4B7OHIaA"
+    },
+    {
+      "album": {
         "name": "Humble and Kind (Nunca Te Olvides de Amar)",
         "url": "https://open.spotify.com/album/4nPrv6mX6qT2pSofIpoXY5"
       },

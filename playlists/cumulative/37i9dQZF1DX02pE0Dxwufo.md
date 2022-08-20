@@ -4,7 +4,7 @@
 
 > Take a Louisville slugger to both headlights.
 
-40 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/6V1kO6Kj9Uv5KcZt8rXg2x)
+41 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/6V1kO6Kj9Uv5KcZt8rXg2x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Picture To Burn](https://open.spotify.com/track/32mVHdy0bi1XKgr0ajsBlG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 2:53 | 2022-08-12 |  |
 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 | 2022-08-12 |  |
 | [Should've Said No](https://open.spotify.com/track/16MVSD0mGI4RMQT83Qzm69) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 4:02 | 2022-08-12 |  |
+| [Spring Cleaning](https://open.spotify.com/track/5k4wuPtknk9Eea6Lc8zq85) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Spring Cleaning](https://open.spotify.com/album/6PlNsNribLuTRMqzsD2l7h) | 2:32 | 2022-08-19 |  |
 | [Stripes](https://open.spotify.com/track/0MJ49ZXdzIb7yw6WjwpSf5) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [12 Stories](https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz) | 3:16 | 2022-08-12 |  |
 | [The Otherside](https://open.spotify.com/track/2UtfhpTxMrAfyCoiRyZIVi) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 | 2022-08-12 |  |
 | [Two Black Cadillacs](https://open.spotify.com/track/5mFYtqhN4T2D9IPSaZnVDw) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:57 | 2022-08-12 |  |

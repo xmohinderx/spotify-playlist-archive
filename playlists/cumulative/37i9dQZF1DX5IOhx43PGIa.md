@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: NIKI.
 
-258 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+260 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/album/1SOyPMNJgR1RtmSJwJtT0b) | 3:36 | 2022-06-24 |  |
 | [Cougar](https://open.spotify.com/track/6vpbR7ppnFZ0OQ3QF3c6Jf) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [Cougar](https://open.spotify.com/album/3Muji1llzu5xew9ONMfsQD) | 2:50 | 2022-07-22 |  |
 | [Could I Be Somebody](https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Could I Be Somebody](https://open.spotify.com/album/3BER8UXEGBHmP9RFXKsugn) | 3:51 | 2022-05-27 |  |
+| [CTM \(The Conversation\)](https://open.spotify.com/track/4VWQSKCPDyyr5YEFWc2m5Z) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [CTM \(The Conversation\)](https://open.spotify.com/album/03bYP4Du4i6U2ZiJ3QKhF0) | 4:15 | 2022-08-19 |  |
 | [David](https://open.spotify.com/track/6NmPTgi8MsQL38JslZJEqV) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [David](https://open.spotify.com/album/6nKphWfsj3KEOJo6wkjPb5) | 3:17 | 2022-06-03 | 2022-07-01 |
 | [Daylight](https://open.spotify.com/track/4uiv2t9iLd5nSdtB7GS7dN) | [Hairuo](https://open.spotify.com/artist/6Fvx2mF6BxSJy4IzISzZOI) | [Daylight](https://open.spotify.com/album/6vsNYqMvrHtdr9Eb7AxPfE) | 4:14 | 2022-05-27 | 2022-07-29 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-07-22 |  |
@@ -183,10 +184,11 @@
 | [OOP! \- Dipha Barus Remix](https://open.spotify.com/track/10w72K7l0yeR6gqyUX3mj8) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [OOP! \(Dipha Barus Remix\)](https://open.spotify.com/album/7wPnQIhSTsmUMquBZ5sdXG) | 3:48 | 2022-05-27 | 2022-07-26 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-05-27 |  |
 | [PARTY W OUT ME](https://open.spotify.com/track/1y5pHb1686VfUAjaypoYG4) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [PARTY W OUT ME](https://open.spotify.com/album/3QjPIxdyzpOXHbuE0RE8BO) | 2:29 | 2022-07-01 | 2022-07-29 |
-| [PARTY W OUT ME](https://open.spotify.com/track/61fqBmhT61WSBuubgppM2N) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [PARTY W OUT ME](https://open.spotify.com/album/4EGdv4lT6qgnEEDL7FZSu7) | 2:29 | 2022-08-05 |  |
+| [PARTY W OUT ME](https://open.spotify.com/track/61fqBmhT61WSBuubgppM2N) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [PARTY W OUT ME](https://open.spotify.com/album/4EGdv4lT6qgnEEDL7FZSu7) | 2:29 | 2022-08-05 | 2022-08-20 |
 | [people i love \(hurt me\)](https://open.spotify.com/track/2GqbmGCGPEpkM0x2QAwhsh) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [people i love \(hurt me\)](https://open.spotify.com/album/02UqfJY6ZbmmSzoSdHRRRq) | 2:44 | 2022-05-27 | 2022-07-29 |
 | [Picture Myself](https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Picture Myself](https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT) | 3:31 | 2022-05-27 |  |
 | [pieces](https://open.spotify.com/track/1EJLqTbCBWrXIZsWoJ9XPy) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [pieces](https://open.spotify.com/album/00wsSw2OSFR2jpJLQEiQPr) | 2:24 | 2022-05-27 |  |
+| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 |  |
 | [Please Baby Please](https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Please Baby Please](https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx) | 3:31 | 2022-05-27 | 2022-08-13 |
 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-07-22 |  |
 | [prologue](https://open.spotify.com/track/2CIe5Uv5DAXdozg8zj8VMn) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [okhissa](https://open.spotify.com/artist/3i1USTaXHzTXXET7iT7KeQ) | [prologue](https://open.spotify.com/album/6TtNPXL5qZCzMlamYm4fmU) | 3:20 | 2022-05-27 | 2022-07-29 |
@@ -259,7 +261,7 @@
 | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0) | 2:44 | 2022-05-27 |  |
 | [worth it](https://open.spotify.com/track/6cBcNlf0IXnS1TXnwRtBsO) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY) | [BLUE.](https://open.spotify.com/album/2rmN4DkOxAUWcOzsb6pbaf) | 3:08 | 2022-05-27 | 2022-07-28 |
 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 | 2022-05-27 |  |
-| [You](https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [You](https://open.spotify.com/album/6RAGRnaFCd8sAA7XIBmXP5) | 3:33 | 2022-07-22 |  |
+| [You](https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [You](https://open.spotify.com/album/6RAGRnaFCd8sAA7XIBmXP5) | 3:33 | 2022-07-22 | 2022-08-20 |
 | [You Are \(feat\. Corinne Bailey Rae & UMI\)](https://open.spotify.com/track/3f0SgNOjVjUW7BTv79WgX3) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [You Are \(feat\. Corinne Bailey Rae & UMI\)](https://open.spotify.com/album/75evbAxtFFu951JESaYEyM) | 3:57 | 2022-05-27 |  |
 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-05-27 |  |
 | [Yours](https://open.spotify.com/track/2t4olQUck1cDjsVQetHRRq) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Yours](https://open.spotify.com/album/1gIBYdEod4n4Z499kQTc2o) | 2:22 | 2022-05-27 |  |

@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: فؤاد عبدالواحد
 
-139 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+140 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dag El Galb](https://open.spotify.com/track/1YZwEiO1KyH9IFHwrMSl6u) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dag El Galb](https://open.spotify.com/album/69Ezh1ncGl5mV9C6Yj7NE3) | 3:10 | 2021-12-23 | 2022-03-12 |
 | [Dammit 3Eni](https://open.spotify.com/track/3qRN0sUxQpc7aZeygHfEwM) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Dammit 3Eni](https://open.spotify.com/album/6p1qe7JdxijyO3meOg3X78) | 3:37 | 2022-01-01 | 2022-06-10 |
 | [Dawlat Ghram](https://open.spotify.com/track/4f5dUf1tjB2M8XYGvZzJtA) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dawlat Ghram](https://open.spotify.com/album/2eNvzuRYgHRdT8DtwlsCIQ) | 5:01 | 2022-02-11 | 2022-06-03 |
+| [El Hob Modha](https://open.spotify.com/track/6onG89rY6ZqA66oDyx7K3X) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [El Hob Modha](https://open.spotify.com/album/56HkKM6b8t16LONjNopORW) | 4:13 | 2022-08-19 |  |
 | [Elhubb Ja](https://open.spotify.com/track/6dNsnqDf8c5aBUZW7V2Oqh) | [Salah Alzadjali](https://open.spotify.com/artist/5B14NO9B5J7hKVfyttzrpH) | [Elhubb Ja](https://open.spotify.com/album/42tevSQ1DPLBGr8BgQfh3e) | 4:36 | 2022-02-17 | 2022-08-13 |
 | [Enty A3yadi](https://open.spotify.com/track/7HoiSL5qcW8SI58bEDT38w) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Enty A3yadi](https://open.spotify.com/album/7aoPdzhkfqVQRceYvvxV9S) | 3:08 | 2022-02-17 |  |
 | [Erjaee Li](https://open.spotify.com/track/0vaWHfSlJswU2OiTeOL3jj) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Erjaee Li](https://open.spotify.com/album/5skxkm6hM5xILUw4cVGZpc) | 6:48 | 2022-07-26 |  |

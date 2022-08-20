@@ -2,9 +2,9 @@
 
 ### [Música Mexicana Rising](https://open.spotify.com/playlist/37i9dQZF1DX10A9MXc7csF)
 
-> The new school of Música Mexicana\. Cover: Estevan Plazola, Tony Loya.
+> The new school of Música Mexicana\. Cover: Porte Diferente.
 
-170 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
+171 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Pata](https://open.spotify.com/track/0nLK5ol9VxY6OzYhjNwyvy) | [Inoboiz](https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ) | [Trailer Park Boiz Vol\. 2](https://open.spotify.com/album/5lS9isCntFJm1oHRIn1rES) | 2:23 | 2022-05-14 | 2022-08-06 |
 | [Ahora Todo Es Diferente](https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ahora Todo Es Diferente](https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP) | 3:45 | 2022-05-14 |  |
 | [Airplanes](https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Proximo Nivel](https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk) | 3:10 | 2022-06-03 |  |
-| [Algo Bien](https://open.spotify.com/track/315eNKS2P0FPjd4TlmnoFO) | [Angel Yerena](https://open.spotify.com/artist/4maqFMlGcJ3IkEGhcD4tMb), [Grupo Nueva Sensacion](https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb) | [Algo Bien](https://open.spotify.com/album/1wHn57myq1O3YA2X5E4xnN) | 3:30 | 2022-08-12 |  |
+| [Algo Bien](https://open.spotify.com/track/315eNKS2P0FPjd4TlmnoFO) | [Angel Yerena](https://open.spotify.com/artist/4maqFMlGcJ3IkEGhcD4tMb), [Grupo Nueva Sensacion](https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb) | [Algo Bien](https://open.spotify.com/album/1wHn57myq1O3YA2X5E4xnN) | 3:30 | 2022-08-12 | 2022-08-20 |
 | [Algo Bien](https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Algo Bien](https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy) | 2:46 | 2022-05-14 |  |
 | [Amor De Cuentos](https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Proximo Paso](https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc) | 2:43 | 2022-05-14 | 2022-06-04 |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-05-14 | 2022-07-23 |
@@ -57,6 +57,7 @@
 | [El Muchacho Criticado](https://open.spotify.com/track/1Sy1tRL4ZahrECTitUFPXJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Los de La Lira](https://open.spotify.com/artist/3LfNPEkj2YjpkmAbY5CKhW) | [El Muchacho Criticado](https://open.spotify.com/album/0kQG1vhXQXehzRil28L26b) | 3:16 | 2022-07-22 |  |
 | [El P1 Mentado](https://open.spotify.com/track/5eFUfgbfDQQl4n9Yc71lsQ) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [El P1 Mentado](https://open.spotify.com/album/12OHLObb5MgwucTWF6igSd) | 3:03 | 2022-05-14 | 2022-07-23 |
 | [El Piyi](https://open.spotify.com/track/5KjBaGZIszO9tpGTRB1mm2) | [Alta Autoridad](https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB) | [El Piyi](https://open.spotify.com/album/2ivT6bwCAYwa61GlEqTiuq) | 2:42 | 2022-05-27 |  |
+| [El Pochito](https://open.spotify.com/track/6HI6iABWQLnYiqdYFFe1F2) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [El Pochito](https://open.spotify.com/album/7ziQeB1l4NSn0dWw08yunZ) | 3:41 | 2022-08-19 |  |
 | [El Señoron](https://open.spotify.com/track/1EPZpEO3bZTUbfiAyiknDC) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron](https://open.spotify.com/album/1dfYE3Fpz112Ae3a9RYxVo) | 3:24 | 2022-07-22 |  |
 | [El Señoron \(En Vivo\)](https://open.spotify.com/track/3LemZBFc7yP7fhyJrrRnO4) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron \(En Vivo\)](https://open.spotify.com/album/0Du2I75UKIDWzT3zQdUBwg) | 3:24 | 2022-06-03 | 2022-07-29 |
 | [El Tirabalas](https://open.spotify.com/track/6oLRVlSHXfxPIJDsZivxaG) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Tirabalas](https://open.spotify.com/album/0wDrkVCojZJgw3t4h61PIt) | 2:46 | 2022-05-27 |  |
@@ -64,7 +65,7 @@
 | [En Las Nubes](https://open.spotify.com/track/7w33jezcbBOsxHDYlDIFpm) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [En Las Nubes](https://open.spotify.com/album/6qP4PaGwmTvXxY11bjueHq) | 2:50 | 2022-05-14 |  |
 | [En Mi Copa](https://open.spotify.com/track/5yNNVEefB9IsAAqo3f0BPc) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF), [Guapo Mafioso](https://open.spotify.com/artist/6qtQo5MNDq83A1EFwV9c7a) | [En Mi Copa](https://open.spotify.com/album/5tDK7VykqM3GdONG50l8dl) | 3:30 | 2022-07-01 | 2022-08-06 |
 | [En Un Deportivo Voy](https://open.spotify.com/track/5tjAFuUzHkOlTfL7eX8T6B) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Renacido](https://open.spotify.com/album/69smyPeNaxRkiBahOoKNLo) | 3:21 | 2022-05-27 |  |
-| [Enfocado](https://open.spotify.com/track/1UiJpPR0eiUDVuqVorR92j) | [Pecado Fino](https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj) | [Enfocado](https://open.spotify.com/album/2V3kJFrjyFBF9ihFxE4IyY) | 2:32 | 2022-05-14 | 2022-08-06 |
+| [Enfocado](https://open.spotify.com/track/1UiJpPR0eiUDVuqVorR92j) | [Pecado Fino](https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj) | [Enfocado](https://open.spotify.com/album/2V3kJFrjyFBF9ihFxE4IyY) | 2:32 | 2022-05-14 |  |
 | [Enseñandoles Maldad](https://open.spotify.com/track/6L9FXIEPTKiiqlaJi2iW8T) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Enseñandoles Maldad](https://open.spotify.com/album/3jmNVF5yujzQ7hFQN4xdv9) | 3:36 | 2022-05-14 |  |
 | [Era El Único](https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Era El Único](https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I) | 2:10 | 2022-05-14 |  |
 | [Esperame](https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Esperame](https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg) | 3:00 | 2022-05-14 |  |
@@ -123,7 +124,7 @@
 | [Niña del Destino](https://open.spotify.com/track/42XgWTmnVapQUUhk2RiOQK) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Reflejo Nuevo, Vol\. 2](https://open.spotify.com/album/281j39YlQK9FqIwWihq82o) | 2:23 | 2022-05-14 | 2022-07-23 |
 | [No Falta Mas Tiempo](https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [No Falta Mas Tiempo](https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY) | 2:46 | 2022-05-14 | 2022-06-04 |
 | [No Me Vas a Convencer](https://open.spotify.com/track/7IvGeDoYKcrom8ebfev28U) | [Itzel Vida](https://open.spotify.com/artist/60PTHScdfpSSM2RcN0CpUC), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [No Me Vas a Convencer](https://open.spotify.com/album/4Y2nV2o9h5x7UidmFfUNRf) | 3:11 | 2022-05-14 |  |
-| [No Pienso Perdonarte](https://open.spotify.com/track/05GnkIRQEoOzODaGfPj8dO) | [Plan Exclusivo](https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8) | [No Pienso Perdonarte](https://open.spotify.com/album/0mC4DYeXiXfhw0w4M5UbYE) | 2:30 | 2022-08-12 |  |
+| [No Pienso Perdonarte](https://open.spotify.com/track/05GnkIRQEoOzODaGfPj8dO) | [Plan Exclusivo](https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8) | [No Pienso Perdonarte](https://open.spotify.com/album/0mC4DYeXiXfhw0w4M5UbYE) | 2:30 | 2022-08-12 | 2022-08-20 |
 | [No Te Quiero](https://open.spotify.com/track/2QfltGe7dLyxbX0WaIC1iu) | [Doble J](https://open.spotify.com/artist/1LDX5jGGNPuegrnecFikow) | [No Te Quiero](https://open.spotify.com/album/7MOOGT46ED3uzZdCDbhggc) | 3:05 | 2022-05-14 | 2022-06-04 |
 | [Noches Sin Ti \(En Vivo\)](https://open.spotify.com/track/71uooiX4Jcq9j9u1lYoReq) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Lluvia Y Sol \(En Vivo\)](https://open.spotify.com/album/5a9QaQ88rAoJixZB8nzwec) | 4:48 | 2022-05-14 | 2022-06-04 |
 | [Nodal Y Belinda](https://open.spotify.com/track/4XOtOECT33nHfAchActNPb) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Nodal Y Belinda](https://open.spotify.com/album/48lQ4UjborGpBXUalmYkdR) | 2:39 | 2022-05-14 | 2022-06-04 |

@@ -1,29 +1,13 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Nicki Minaj",
-  "num_followers": 2285791,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Megan Thee Stallion",
+  "num_followers": 2288851,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NzY2NiwwMDAwMDAwMGM2NjMxNDVhMTA4MGI5ZWE0MWE1MWRhNjhiZmM1MWEw",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDcxYjFiYmIxMGJiY2I5MjA2MjE1NTM0ZWExOGU1OWYy",
   "tracks": [
-    {
-      "added_at": "2022-08-12 04:14:26",
-      "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
-    },
     {
       "added_at": "2022-08-12 04:14:26",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 201979,
       "name": "Budget (feat. Latto)",
       "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+    },
+    {
+      "added_at": "2022-08-12 04:14:26",
+      "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
       "added_at": "2022-08-12 04:14:26",
@@ -67,6 +67,22 @@
       "duration_ms": 159820,
       "name": "Snatched (with Flo Milli & Saucy Santana) - Remix",
       "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 136980,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
     },
     {
       "added_at": "2022-08-12 04:14:26",
@@ -431,6 +447,30 @@
     {
       "added_at": "2022-08-12 04:14:26",
       "album": {
+        "name": "My Type (feat. Yung Mal)",
+        "url": "https://open.spotify.com/album/5PG4zTnIiE6y1A6vetNidI"
+      },
+      "artists": [
+        {
+          "name": "Karlae",
+          "url": "https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp"
+        },
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Yung Mal",
+          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
+        }
+      ],
+      "duration_ms": 182669,
+      "name": "My Type (feat. Yung Mal)",
+      "url": "https://open.spotify.com/track/2av43bJ4Bsegzca84SS3QO"
+    },
+    {
+      "added_at": "2022-08-12 04:14:26",
+      "album": {
         "name": "ABOW",
         "url": "https://open.spotify.com/album/6ZfGwuyfS3jUQpZ2L0sx7b"
       },
@@ -511,22 +551,6 @@
     {
       "added_at": "2022-08-12 04:14:26",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
-    },
-    {
-      "added_at": "2022-08-12 04:14:26",
-      "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/0ul94TyUxPe3jpBcZ1VUkS"
       },
@@ -559,30 +583,6 @@
       "duration_ms": 170270,
       "name": "Wheelie (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/5lrAnzvRBQSgAkpo0WkMjB"
-    },
-    {
-      "added_at": "2022-08-12 04:14:26",
-      "album": {
-        "name": "My Type (feat. Yung Mal)",
-        "url": "https://open.spotify.com/album/5PG4zTnIiE6y1A6vetNidI"
-      },
-      "artists": [
-        {
-          "name": "Karlae",
-          "url": "https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp"
-        },
-        {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Yung Mal",
-          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
-        }
-      ],
-      "duration_ms": 182669,
-      "name": "My Type (feat. Yung Mal)",
-      "url": "https://open.spotify.com/track/2av43bJ4Bsegzca84SS3QO"
     },
     {
       "added_at": "2022-08-12 04:14:26",
@@ -691,6 +691,42 @@
     {
       "added_at": "2022-08-12 04:14:26",
       "album": {
+        "name": "Goofy",
+        "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 201592,
+      "name": "Goofy",
+      "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
+    },
+    {
+      "added_at": "2022-08-12 04:14:26",
+      "album": {
+        "name": "Baby Boo",
+        "url": "https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 152241,
+      "name": "Baby Boo (with Saweetie)",
+      "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
+    },
+    {
+      "added_at": "2022-08-12 04:14:26",
+      "album": {
         "name": "Dancing Queen / Yasss Queen",
         "url": "https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff"
       },
@@ -719,26 +755,6 @@
       "duration_ms": 166365,
       "name": "Spring, Summer",
       "url": "https://open.spotify.com/track/0vF3fuZGdOS2pBd17GbtMc"
-    },
-    {
-      "added_at": "2022-08-12 04:14:26",
-      "album": {
-        "name": "Baby Boo",
-        "url": "https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152241,
-      "name": "Baby Boo (with Saweetie)",
-      "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
     },
     {
       "added_at": "2022-08-12 04:14:26",
@@ -827,22 +843,6 @@
       "duration_ms": 181890,
       "name": "Gloss Up Broke Boy",
       "url": "https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3"
-    },
-    {
-      "added_at": "2022-08-12 04:14:26",
-      "album": {
-        "name": "Goofy",
-        "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 201592,
-      "name": "Goofy",
-      "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
     },
     {
       "added_at": "2022-08-12 04:14:26",

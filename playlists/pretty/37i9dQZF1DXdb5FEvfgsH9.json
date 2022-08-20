@@ -1,13 +1,33 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 7367,
+  "num_followers": 7422,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGY3OTNjNmFkYzE4MTVhZTQzM2MxNGM1N2VlZDhhNzA1",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGQ4NTA5NzY0MTQ4YzNkMzMyZGIzN2M3NTMzMGRjYmZk",
   "tracks": [
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Get It Together",
+        "url": "https://open.spotify.com/album/76koL38pnB1jvkcszC6ITI"
+      },
+      "artists": [
+        {
+          "name": "Moniquea",
+          "url": "https://open.spotify.com/artist/755CaPd9SRvZdhHKBzBY28"
+        },
+        {
+          "name": "XL Middleton",
+          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/6VR6zbx4S7eFDRGYGlGqd4"
+    },
     {
       "added_at": "2022-07-22 04:02:00",
       "album": {
@@ -103,6 +123,22 @@
       "duration_ms": 199426,
       "name": "Good Fever",
       "url": "https://open.spotify.com/track/64dBx9RrZFa2abQePFWxUv"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Day Like This",
+        "url": "https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8"
+      },
+      "artists": [
+        {
+          "name": "kristina alcordo",
+          "url": "https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs"
+        }
+      ],
+      "duration_ms": 148205,
+      "name": "Day Like This",
+      "url": "https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu"
     },
     {
       "added_at": "2022-08-12 04:02:00",

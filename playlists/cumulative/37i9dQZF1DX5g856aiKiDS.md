@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-225 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/3lwK9QgbybtcQdnp8W1GCQ)
+226 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/3lwK9QgbybtcQdnp8W1GCQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [If you like this song](https://open.spotify.com/track/7E3EiLDgVAqMpZiNQO6aTX) | [Shin minjung](https://open.spotify.com/artist/6l5p38S3mEFw9T0AEQGzUy) | [If you like this song](https://open.spotify.com/album/5p6LsK3QDKbPyjF4KHkLk4) | 3:17 | 2022-04-12 | 2022-04-21 |
 | [In December](https://open.spotify.com/track/796UQ9iCOw6kzuXY7ioeGg) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [In December](https://open.spotify.com/album/4hhLGC6BiYks70hePtzJQs) | 2:56 | 2022-07-04 | 2022-07-23 |
 | [Ing..](https://open.spotify.com/track/7DDHo1xE4G8WZlHepTCwje) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH), [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/0l2EK3FdDY9MVRD3tckhDC) | 4:00 | 2022-04-12 | 2022-07-29 |
-| [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 | 2022-08-12 |  |
+| [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 | 2022-08-12 | 2022-08-20 |
 | [It's Raining](https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [It's Raining](https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE) | 3:34 | 2022-04-12 |  |
 | [It's You](https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:17 | 2022-04-12 |  |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2022-04-21 | 2022-07-29 |
@@ -104,6 +104,7 @@
 | [Jenga \(feat\. Gaeko\)](https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:30 | 2022-07-22 | 2022-08-02 |
 | [Just like this](https://open.spotify.com/track/6M8EbmqXsyWjMvcDozcLQ6) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Pink!](https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP) | 4:03 | 2022-05-03 | 2022-07-21 |
 | [Knight](https://open.spotify.com/track/3pA9XDBXDbcuXXn8CfqZcx) | [Maddox](https://open.spotify.com/artist/7KieZTca53gfdVzwdODV2L) | [Knight](https://open.spotify.com/album/3FpyOvhv7HSbljctC5bfiy) | 3:07 | 2022-04-12 | 2022-07-28 |
+| [LEMONADE \(feat\. San E\)](https://open.spotify.com/track/2Og7E5ztp24WVv5ualvxKV) | [LIMZY](https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [LEMONADE \(feat\. San E\)](https://open.spotify.com/album/2LAPE4OzqN0J87tuLbWAlK) | 2:51 | 2022-08-19 |  |
 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 | 2022-04-12 |  |
 | [Let's Get Lost](https://open.spotify.com/track/5hYYEUnGVFlAf9F95tZsrT) | [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Let's Get Lost](https://open.spotify.com/album/5a3LEIPIytgwlO4IKEROLX) | 3:27 | 2022-04-12 | 2022-04-21 |
 | [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 | 2022-04-12 | 2022-04-21 |

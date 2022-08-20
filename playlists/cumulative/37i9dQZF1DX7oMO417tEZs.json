@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Proudly marching to the beat of their own drum. Cover: DACEY",
+  "description": "Proudly marching to the beat of their own drum. Cover: Aitch, Ed Sheeran",
   "name": "Outliers",
   "published_playlist_ids": [
     "2eZDT7fvyZw5HsAm74ImXE"
@@ -430,6 +430,32 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/3erC6rFoVPWp4LyLCDNPwY"
+      },
+      "artists": [
+        {
+          "name": "Bloom OS",
+          "url": "https://open.spotify.com/artist/0Sy0UUyMYRceOp9LhvgtNo"
+        },
+        {
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        },
+        {
+          "name": "Himera",
+          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127999,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/0NVdg0miEVWRALvwWaH9MD"
+    },
+    {
+      "album": {
         "name": "Always Been",
         "url": "https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs"
       },
@@ -655,7 +681,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 125407,
       "name": "Bad Day Ballad",
       "url": "https://open.spotify.com/track/2Hg4sWqpJu6gaDNFBwNkwW"
@@ -1531,7 +1557,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 213441,
       "name": "Clavicle",
       "url": "https://open.spotify.com/track/6x7Dpmy13LxD0scMJlo7y0"
@@ -1829,6 +1855,24 @@
       "duration_ms": 302000,
       "name": "Darling",
       "url": "https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz"
+    },
+    {
+      "album": {
+        "name": "Day Like This",
+        "url": "https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8"
+      },
+      "artists": [
+        {
+          "name": "kristina alcordo",
+          "url": "https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148205,
+      "name": "Day Like This",
+      "url": "https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu"
     },
     {
       "album": {
@@ -3059,7 +3103,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 203751,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
@@ -3103,6 +3147,46 @@
       "duration_ms": 187988,
       "name": "God Is The Space Between Us",
       "url": "https://open.spotify.com/track/5I73WkfhuOvavHVYk3TGrm"
+    },
+    {
+      "album": {
+        "name": "yaRR",
+        "url": "https://open.spotify.com/album/4x5Vxzh7FSrDtFnFIC3Wq5"
+      },
+      "artists": [
+        {
+          "name": "CHEEYA",
+          "url": "https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215583,
+      "name": "goingthroughit",
+      "url": "https://open.spotify.com/track/3reIoS4AAK10cSpdxazxx9"
+    },
+    {
+      "album": {
+        "name": "Got Em (Sango Remix)",
+        "url": "https://open.spotify.com/album/5OukqaLZOrocuTI29rBiuO"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221733,
+      "name": "Got Em (Sango Remix)",
+      "url": "https://open.spotify.com/track/52b5Bl2zPRRfZi7uinhGZR"
     },
     {
       "album": {
@@ -3193,7 +3277,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 135397,
       "name": "Happy Lonely Boy",
       "url": "https://open.spotify.com/track/5pEsbKaHJ0IrCiaGulBFBp"
@@ -3799,7 +3883,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 158219,
       "name": "In Disguise (feat. Bakar)",
       "url": "https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc"
@@ -3958,6 +4042,24 @@
     },
     {
       "album": {
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/7njPhgERKzyMdkrl111Rbi"
+      },
+      "artists": [
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163710,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/27oVHfIMUIJHEtMopSDx8r"
+    },
+    {
+      "album": {
         "name": "Jesus Was An Alien",
         "url": "https://open.spotify.com/album/0sC7FiXQOBLC798muFftRU"
       },
@@ -4017,6 +4119,24 @@
       "duration_ms": 116324,
       "name": "JUICE",
       "url": "https://open.spotify.com/track/75sl0pvqANavsWCFEZeSBv"
+    },
+    {
+      "album": {
+        "name": "just a little bit",
+        "url": "https://open.spotify.com/album/10veoGyFSjYVgUnnxv8Pwe"
+      },
+      "artists": [
+        {
+          "name": "notfortheo",
+          "url": "https://open.spotify.com/artist/3uZRoQLu2SWR0Yh71tWajj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193520,
+      "name": "just a little bit",
+      "url": "https://open.spotify.com/track/0VbBy4ZfrcuZDT9iBIwFUQ"
     },
     {
       "album": {
@@ -4700,6 +4820,24 @@
     },
     {
       "album": {
+        "name": "Mania",
+        "url": "https://open.spotify.com/album/5lcd0PnZRFh2LExp7ppZbr"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216614,
+      "name": "Mania",
+      "url": "https://open.spotify.com/track/47pdvuFM95WHsL14TnvTTc"
+    },
+    {
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -5192,6 +5330,28 @@
     },
     {
       "album": {
+        "name": "Close To Home",
+        "url": "https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198056,
+      "name": "My G (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/6Iqz3QB6zSdn1N61acinau"
+    },
+    {
+      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/3QysGsRLV0fS0hb9uuRdyS"
       },
@@ -5331,7 +5491,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 177898,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/2wAWKxixWvQfKuXDKP6Q3l"
@@ -6991,7 +7151,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 167042,
       "name": "Ski Goggles",
       "url": "https://open.spotify.com/track/5zvIkkzyThJniF4xoJhkAJ"
@@ -7125,7 +7285,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 267384,
       "name": "Something (Byron The Aquarius Remix)",
       "url": "https://open.spotify.com/track/6fufMi1AWJEFVKlGGTZqxY"

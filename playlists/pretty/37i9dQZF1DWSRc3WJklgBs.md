@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,488 likes - 151 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,831 likes - 153 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,5 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 149 | [Ringtone](https://open.spotify.com/track/5HL1Kr58jrionQOMotcLem) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Ringtone](https://open.spotify.com/album/2WLLkrJ4XytaWM62QSEOe7) | 2:43 |
 | 150 | [Way That I Do](https://open.spotify.com/track/1SlbKGl5Evbifvn0omh6r7) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Way That I Do](https://open.spotify.com/album/0R4yvFZBJgGskBvJUtf7hv) | 3:05 |
 | 151 | [Somebody Like You](https://open.spotify.com/track/28nXyID0HPs6t1H8113aJw) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Frogmonster](https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Somebody Like You](https://open.spotify.com/album/5TBgT7OE7RGLFjkILG729A) | 3:26 |
+| 152 | [Forever And A Day](https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Forever And A Day](https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj) | 2:46 |
+| 153 | [Chemical High](https://open.spotify.com/track/01mt0RLXC0DQ4VPQpV6WWy) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Chemical High](https://open.spotify.com/album/6NPgAZh5MU5W7P4EjyLRZ7) | 2:38 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMGM4Y2NiNzk5NjVlYWI3MGFkNjdhOGVlYWU1OTQ2NDli`
+Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMGI0ZmUwODI0MmVlOTIxODFmN2Y2YTI3ZWIxZGFiNGQ5`

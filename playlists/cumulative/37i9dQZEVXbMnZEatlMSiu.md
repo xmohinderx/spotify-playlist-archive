@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-458 songs - 1 day 4 hr 12 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+459 songs - 1 day 4 hr 15 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [不期而遇的夏天 \- 電影《不期而遇的夏天》主題曲](https://open.spotify.com/track/5QRgqxZ4XQadnaOBjt2dN1) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [不期而遇的夏天 \(電影《不期而遇的夏天》主題曲\)](https://open.spotify.com/album/2nLHmTomlBgsZP7OWxpEjC) | 3:30 | 2021-09-25 | 2021-09-26 |
 | [与我无关](https://open.spotify.com/track/4BYVQGBJUKSDkfRrCd9M2e) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [与我无关](https://open.spotify.com/album/5yPinjqLoVyKhcc4QNTYUg) | 4:00 | 2022-07-01 | 2022-07-04 |
 | [什麼都不必說 \- 2022 Remix](https://open.spotify.com/track/1Sfb8BFB0eZyzvBRz31GpT) | [比莉](https://open.spotify.com/artist/50PlAIy0jv3INiwksQtCeh), [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [什麼都不必說 \(2022 Remix\)](https://open.spotify.com/album/7oIc0LSFU9ZRJr9Eip8Wxq) | 3:30 | 2022-07-20 | 2022-08-18 |
+| [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 | 2022-08-19 |  |
 | [从前说](https://open.spotify.com/track/1GpbSYjurHKlxhcxCZ1Bqa) | [小阿七](https://open.spotify.com/artist/7tDLiRbNQalA5uvTpX2bKh) | [从前说](https://open.spotify.com/album/0abB0JEwzX23OwKnv97VBb) | 4:11 | 2022-02-21 |  |
 | [他們說我是沒有用的年輕人](https://open.spotify.com/track/2h5j6lshsRkShTQ527SOlj) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [他們說我是沒有用的年輕人](https://open.spotify.com/album/52wbyXpG9wiklOacpLGrig) | 5:23 | 2021-03-27\* | 2021-06-28 |
 | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR) | 4:31 | 2022-01-05 | 2022-01-21 |
@@ -455,7 +456,7 @@
 | [閉上眼睛會想起的人 \(電影《一杯熱奶茶的等待》主題曲\)](https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [閉上眼睛會想起的人](https://open.spotify.com/album/4m8zX2aF2ggXlAqLsSj8Vb) | 4:45 | 2021-12-16 | 2021-12-30 |
 | [閣愛妳一擺](https://open.spotify.com/track/07plVccQ0N6FTTTonk3c2M) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [閣愛妳一擺](https://open.spotify.com/album/3qpPxu0v6G5fNYe8OfslFt) | 4:38 | 2021-12-12 |  |
 | [间距](https://open.spotify.com/track/4U0bL1ouvksMgvXU2aKq4O) | [en](https://open.spotify.com/artist/1Gv7r0FAYOhJF8Dzi6MebN) | [间距](https://open.spotify.com/album/1wccrWdon60UC49GbPvCyO) | 4:43 | 2021-10-14 |  |
-| [隆裡電絲](https://open.spotify.com/track/6XrnEjYDnm9JUeoDE4efvA) | [盛宇DamnShine](https://open.spotify.com/artist/6aHqXgbCmijW9Tthh1yidE), [KEY.L刘聪](https://open.spotify.com/artist/4vvCGXDAaBukbf2dI2slRT), [ICE](https://open.spotify.com/artist/6ChvTm3RiOLbx8apza83c7) | [中國說唱巔峰對決 第四期](https://open.spotify.com/album/49zgQLPXHka2uFR62BOzsq) | 3:39 | 2022-07-30 |  |
+| [隆裡電絲](https://open.spotify.com/track/6XrnEjYDnm9JUeoDE4efvA) | [盛宇DamnShine](https://open.spotify.com/artist/6aHqXgbCmijW9Tthh1yidE), [KEY.L刘聪](https://open.spotify.com/artist/4vvCGXDAaBukbf2dI2slRT), [ICE](https://open.spotify.com/artist/6ChvTm3RiOLbx8apza83c7) | [中國說唱巔峰對決 第四期](https://open.spotify.com/album/49zgQLPXHka2uFR62BOzsq) | 3:39 | 2022-07-30 | 2022-08-20 |
 | [雛形](https://open.spotify.com/track/3mrkmWt803vSvGxTlW27YI) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [雛形](https://open.spotify.com/album/6sP1HwzA0iqkGjoroBgog4) | 3:59 | 2021-09-12 | 2021-10-02 |
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2021-05-30 | 2022-01-08 |
 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 | 2021-11-04 | 2021-11-21 |

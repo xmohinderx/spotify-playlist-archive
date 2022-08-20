@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-210 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/1ldJRNHV4cXibxutBhNe0N)
+212 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/1ldJRNHV4cXibxutBhNe0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 |  |
 | [Chicken Wings](https://open.spotify.com/track/42F8JMc5pSlGShBkhR0uPQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Chicken Wings](https://open.spotify.com/album/0q22c9Zv8OZ7owt8o0jj4X) | 2:48 | 2022-01-19 | 2022-07-24 |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2022-04-08 |  |
+| [coastline](https://open.spotify.com/track/06J6MvuHOCOI5HerZaKKy2) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [coastline](https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy) | 2:38 | 2022-08-19 |  |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2022-06-24 |  |
 | [Dance Around It](https://open.spotify.com/track/3ds7PIuFylIZm05cWKzq8o) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Dance Around It](https://open.spotify.com/album/3Ee65K1Z40p7NYMdZnH2bh) | 3:26 | 2022-03-18 | 2022-07-29 |
 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 | 2022-01-19 | 2022-07-29 |
@@ -96,7 +97,7 @@
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2021-08-05 | 2022-01-20 |
 | [Honest](https://open.spotify.com/track/0dRNcDDeWJlbKfSzaA1KDf) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Honest](https://open.spotify.com/album/3kiJ8i6P5iYcBnL2bobWfW) | 3:18 | 2022-03-18 | 2022-07-29 |
 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 | 2022-01-21 | 2022-07-16 |
-| [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 |  |
+| [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 | 2022-08-20 |
 | [Hurting Me](https://open.spotify.com/track/6ALXif8NHKiuF3R8y6G3Ol) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Hurting Me](https://open.spotify.com/album/4I7zCvns4CQ7r3MxCLKqVC) | 2:20 | 2022-08-05 | 2022-08-10 |
 | [Hurts \(But It Goes Away\)](https://open.spotify.com/track/0ZjKlvWb93Ey2OyQki02nT) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Hurts \(But It Goes Away\)](https://open.spotify.com/album/6KwEKCAiphHNsXw4PAZ4yC) | 3:14 | 2022-04-22 | 2022-07-29 |
 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 | 2022-01-19 |  |
@@ -124,7 +125,7 @@
 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2021-08-05 | 2022-01-20 |
 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2022-01-19 |  |
 | [Love for a Minute](https://open.spotify.com/track/3GKIhntQhBqD6PRWscMLs1) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 3:11 | 2022-01-21 | 2022-07-29 |
-| [Love Like That](https://open.spotify.com/track/12Rypn2Hw7UchkFL0FCa8Y) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Love Like That](https://open.spotify.com/album/44hBex1hvysza12ZjXBk8s) | 3:34 | 2022-02-18 |  |
+| [Love Like That](https://open.spotify.com/track/12Rypn2Hw7UchkFL0FCa8Y) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Love Like That](https://open.spotify.com/album/44hBex1hvysza12ZjXBk8s) | 3:34 | 2022-02-18 | 2022-08-20 |
 | [Love Like That](https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Love Like That](https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi) | 3:14 | 2022-04-15 |  |
 | [Love Myself](https://open.spotify.com/track/4o4MwnE4OK3JNG4lCYFnwm) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Love Myself](https://open.spotify.com/album/3dWKxlG74AkudyddirBxuF) | 3:07 | 2022-01-19 | 2022-07-29 |
 | [Love on the Side](https://open.spotify.com/track/442gGJvRUQaUzl36zTNWEU) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Love on the Side](https://open.spotify.com/album/2FiykGkODZ3zt7tDckKA8o) | 2:33 | 2022-03-25 | 2022-07-28 |
@@ -215,6 +216,7 @@
 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 | 2022-01-19 |  |
 | [Wonderful Life \- Edit](https://open.spotify.com/track/1UW4ovo5jTxYnmbTw89BpJ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/22fUT9dL0jQhBB5c05h4pj) | 3:05 | 2022-06-17 | 2022-06-21 |
 | [Would You Still Want Me?](https://open.spotify.com/track/3EkdlLU5KrTTZKRA8fwWGX) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Would You Still Want Me?](https://open.spotify.com/album/7rrhgnY7LYTsILg1ryDubb) | 3:15 | 2021-10-26 | 2022-01-20 |
+| [YOU AGAINST YOURSELF](https://open.spotify.com/track/3Cozx0ZC9RjHOPhW8VOdXC) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [YOU AGAINST YOURSELF](https://open.spotify.com/album/4ICdRtrHEOUftxkU4inMc5) | 2:26 | 2022-08-19 |  |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2021-10-26 | 2021-12-30 |
 | [You Better Run](https://open.spotify.com/track/7BX7n5ZRHCM8Ao4dN70qnC) | [Delta Maid](https://open.spotify.com/artist/3U3DcUha9m8BQGBhe338S9) | [Katie](https://open.spotify.com/album/59Tge7eWAxLOCr5cqPvDHg) | 3:14 | 2022-01-19 | 2022-07-29 |
 | [You're Already Gone](https://open.spotify.com/track/4DuquLkwkYPUJEgWRmq7dT) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:26 | 2021-08-05 | 2022-01-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Tasha Cobbs Leonard",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Travis Greene and Forward City ",
   "name": "Fresh Gospel",
   "published_playlist_ids": [
     "6tbQcvssGqLrTKMvWwo62Y"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 206911,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/1mlTr78SaCtSJlw4jcIBrI"
@@ -1357,6 +1357,36 @@
       "duration_ms": 278108,
       "name": "Hold Us Together - Hope Mix",
       "url": "https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl"
+    },
+    {
+      "album": {
+        "name": "TENT REVIVAL",
+        "url": "https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "Tony Fresh",
+          "url": "https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I"
+        },
+        {
+          "name": "Chaquanna Iman",
+          "url": "https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339733,
+      "name": "HOLY ONLY (feat. Tony Fresh & Chaquanna Iman)",
+      "url": "https://open.spotify.com/track/63wxAGw6zp0Y2EcXQNUrJj"
     },
     {
       "album": {
@@ -2378,6 +2408,24 @@
     },
     {
       "album": {
+        "name": "Never Would Have Made It",
+        "url": "https://open.spotify.com/album/5Ql1gaV8qoM6RIcD44Ty9N"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268466,
+      "name": "Never Would Have Made It - Movie Soundtrack Single",
+      "url": "https://open.spotify.com/track/5J2yBdJdyZdg1FaQgrCAWm"
+    },
+    {
+      "album": {
         "name": "New",
         "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
       },
@@ -2713,7 +2761,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 297200,
       "name": "Relax",
       "url": "https://open.spotify.com/track/6QxCukBNDLBW8sAVkt4Qri"
@@ -3175,7 +3223,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 480000,
       "name": "TENT REVIVAL (feat. D'Nar)",
       "url": "https://open.spotify.com/track/6JYxR5RRCfFovvn0nArCbq"
@@ -3489,6 +3537,24 @@
       "duration_ms": 364693,
       "name": "Victory Remix",
       "url": "https://open.spotify.com/track/33725qjUklLUs5uZhN7Vtt"
+    },
+    {
+      "album": {
+        "name": "Victory, No Defeat",
+        "url": "https://open.spotify.com/album/0hgRD7gDAthCw8QZoLc917"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Moore",
+          "url": "https://open.spotify.com/artist/36NpWbQn9NARm2hy9oP58x"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334681,
+      "name": "Victory, No Defeat",
+      "url": "https://open.spotify.com/track/7xzuUKuFt40bl1gpCGdgHZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Whale song from the depths of the oceans
 
-49 songs - 2 hr 12 min - not published yet
+49 songs - 2 hr 12 min - [published](https://open.spotify.com/playlist/4AbiNCG8vNqMb6zdrvqyyy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

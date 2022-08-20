@@ -1,13 +1,29 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 59059,
+  "description": "The best newly released songs of the week. Cover: BLACKPINK",
+  "num_followers": 59092,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzODQwMCwwMDAwMDAwMDcwZDFjOGY4NDRmODhiN2VmNjVmODk5NzNmNjMzYzUx",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDJhYjkwOGFkOTMwM2JjYzNhYzUyZGRiMDZlMGVhNjcx",
   "tracks": [
+    {
+      "added_at": "2022-08-18 16:00:00",
+      "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
     {
       "added_at": "2022-08-18 16:00:00",
       "album": {
@@ -467,8 +483,8 @@
     {
       "added_at": "2022-08-18 16:00:00",
       "album": {
-        "name": "fun out of it",
-        "url": "https://open.spotify.com/album/3WP7yTejCc8P0W7edTsSoq"
+        "name": "all the things that could go wrong",
+        "url": "https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H"
       },
       "artists": [
         {
@@ -482,7 +498,7 @@
       ],
       "duration_ms": 171706,
       "name": "fun out of it",
-      "url": "https://open.spotify.com/track/2G7jwClVBqTVg945ceXdqJ"
+      "url": "https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK"
     },
     {
       "added_at": "2022-08-18 16:00:00",
@@ -644,8 +660,8 @@
           "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
         },
         {
-          "name": "YOUNGJAE",
-          "url": "https://open.spotify.com/artist/6yxXsPXcgTJjBRelX9NCiF"
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
         },
         {
           "name": "THE TOYS",
@@ -835,6 +851,22 @@
     {
       "added_at": "2022-08-18 16:00:00",
       "album": {
+        "name": "The Love & Sex Tape (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200269,
+      "name": "28",
+      "url": "https://open.spotify.com/track/3CNAh2F7pfyUu7KAEYHtMl"
+    },
+    {
+      "added_at": "2022-08-18 16:00:00",
+      "album": {
         "name": "Before You Leave",
         "url": "https://open.spotify.com/album/3EIUD2xlUkFkL0KMSWCStB"
       },
@@ -908,12 +940,12 @@
           "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
         },
         {
-          "name": "5lack",
-          "url": "https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI"
-        },
-        {
           "name": "Julia Wu",
           "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        },
+        {
+          "name": "5lack",
+          "url": "https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI"
         }
       ],
       "duration_ms": 306907,
@@ -1035,6 +1067,26 @@
       "duration_ms": 189293,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/2wBWnLzt1RKMwEFjraNXXK"
+    },
+    {
+      "added_at": "2022-08-18 16:00:00",
+      "album": {
+        "name": "Super Happy",
+        "url": "https://open.spotify.com/album/25fMfhirVYqXXnIIhxkTaF"
+      },
+      "artists": [
+        {
+          "name": "Su Lee",
+          "url": "https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Super Happy (feat. Ariza)",
+      "url": "https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu"
     },
     {
       "added_at": "2022-08-18 16:00:00",
@@ -1319,6 +1371,22 @@
       "duration_ms": 135572,
       "name": "Falsetto (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU"
+    },
+    {
+      "added_at": "2022-08-18 16:00:00",
+      "album": {
+        "name": "Stunna Anthem",
+        "url": "https://open.spotify.com/album/3mi1vlnBD5ABh7daDEnKmY"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "Stunna Anthem",
+      "url": "https://open.spotify.com/track/1xvn2E0dr7K5eD4DO6vmz9"
     },
     {
       "added_at": "2022-08-18 16:00:00",

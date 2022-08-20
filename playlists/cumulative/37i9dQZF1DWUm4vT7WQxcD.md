@@ -4,7 +4,7 @@
 
 > Relax and unwind to the soothing hum of the electric fan.
 
-59 songs - 3 hr 1 min - not published yet
+59 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/4GEj3v6pmG0SDKzDAfp6Wj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

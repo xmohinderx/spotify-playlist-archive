@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 318421,
       "name": "Poster Child",
       "url": "https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE"
@@ -1641,6 +1641,24 @@
       "duration_ms": 260893,
       "name": "Thumb",
       "url": "https://open.spotify.com/track/7pt7AcxYHyVLOpthh9IxHZ"
+    },
+    {
+      "album": {
+        "name": "Tippa My Tongue",
+        "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260808,
+      "name": "Tippa My Tongue",
+      "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
     },
     {
       "album": {

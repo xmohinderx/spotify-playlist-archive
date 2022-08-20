@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Blon y las mejores batallas. Descubre m\u00fasica original de los participantes, solo aqu\u00ed.",
+  "description": "Carpediem y las mejores batallas. Assista los clips y descubre m\u00fasica original de los participantes, solo aqu\u00ed.",
   "name": "Red Bull Batalla",
   "published_playlist_ids": [
     "0czRm1bZ5YA9YxDSXYTnLg"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2019-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 132033,
       "name": "Alborotar el Lenguaje",
       "url": "https://open.spotify.com/track/3DP0rk8ud10QDErvcfGJJN"
@@ -576,6 +576,32 @@
     },
     {
       "album": {
+        "name": "Final Nacional Colombia 2022",
+        "url": "https://open.spotify.com/album/1g3Rn4mrCaEsbekVYv0grI"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Carpediem",
+          "url": "https://open.spotify.com/artist/3vMZv0xDuOlwWRBrHaKpwP"
+        },
+        {
+          "name": "Valles T",
+          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 602960,
+      "name": "Carpediem vs. Valles T - Final - Live",
+      "url": "https://open.spotify.com/track/63WwuP2dxzCVb6XrjKlLoh"
+    },
+    {
+      "album": {
         "name": "Posdata",
         "url": "https://open.spotify.com/album/3yGEa6FTD70beP7mGvci6Q"
       },
@@ -591,6 +617,32 @@
       "duration_ms": 183066,
       "name": "Catarsis",
       "url": "https://open.spotify.com/track/07uJAl2ebqeVBI9pdIzZc1"
+    },
+    {
+      "album": {
+        "name": "Final Nacional Colombia 2022",
+        "url": "https://open.spotify.com/album/1g3Rn4mrCaEsbekVYv0grI"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Valles T",
+          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
+        },
+        {
+          "name": "Chang",
+          "url": "https://open.spotify.com/artist/7IojYxwEWwmo8GFtx0UnEN"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 850018,
+      "name": "Chang vs Valles T - Semifinal - Live",
+      "url": "https://open.spotify.com/track/0Wvze5zrlK66pIpDOXGr36"
     },
     {
       "album": {
@@ -1329,7 +1381,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 201892,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/6kCKK3vLW1QfWJQ1SwfpJ6"
@@ -1363,7 +1415,7 @@
       ],
       "date_added": "2019-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 594992,
       "name": "Husky Vs Tuni - Cuartos de Final (Live)",
       "url": "https://open.spotify.com/track/2VyRo7RZS8VXzkO8JS6n9I"
@@ -1960,6 +2012,58 @@
     },
     {
       "album": {
+        "name": "Final Nacional Colombia 2022",
+        "url": "https://open.spotify.com/album/1g3Rn4mrCaEsbekVYv0grI"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Mega Mc",
+          "url": "https://open.spotify.com/artist/2m0fj5n3LjR1WhdxRtdBbE"
+        },
+        {
+          "name": "Carpediem",
+          "url": "https://open.spotify.com/artist/3vMZv0xDuOlwWRBrHaKpwP"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571291,
+      "name": "Mega vs. Carpediem - Semifinal - Live",
+      "url": "https://open.spotify.com/track/65FqoA2T1pKriGaqFynzJJ"
+    },
+    {
+      "album": {
+        "name": "Final Nacional Colombia 2022",
+        "url": "https://open.spotify.com/album/1g3Rn4mrCaEsbekVYv0grI"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Mega Mc",
+          "url": "https://open.spotify.com/artist/2m0fj5n3LjR1WhdxRtdBbE"
+        },
+        {
+          "name": "Chang",
+          "url": "https://open.spotify.com/artist/7IojYxwEWwmo8GFtx0UnEN"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332292,
+      "name": "Mega vs. Chang - 3er Lugar - Live",
+      "url": "https://open.spotify.com/track/0GGEaAdaZnYdMnwi3oHFZL"
+    },
+    {
+      "album": {
         "name": "CARAVANA",
         "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
       },
@@ -2375,7 +2479,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 132515,
       "name": "Raper Rsd vs MC Jeral - 3er y 4to Puesto - Live",
       "url": "https://open.spotify.com/track/2hDKB3jfQfS870qoZrlaHM"

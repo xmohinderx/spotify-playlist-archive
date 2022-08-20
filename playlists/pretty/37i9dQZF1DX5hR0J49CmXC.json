@@ -1,13 +1,33 @@
 {
   "description": "The Real hip-hop. Cover: Joey Bada$$",
-  "num_followers": 1089505,
+  "num_followers": 1089584,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NzY4NiwwMDAwMDAwMGNkNjkzMDlmYmRiODNhMjA5NDA3NzZlZGYxY2I5ZTQ4",
+  "snapshot_id": "MTY2MDkzMzI0MSwwMDAwMDAwMDI5NjA3NGIzMjliZGI3ZTdlM2I4YmZiYzI5ZTZiZjhl",
   "tracks": [
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Spaceships on the Blade",
+        "url": "https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 190795,
+      "name": "Breakfast in Monaco",
+      "url": "https://open.spotify.com/track/2VR44vzNFHsDvQFZB2YMWj"
+    },
     {
       "added_at": "2022-08-12 04:14:46",
       "album": {
@@ -20,41 +40,45 @@
           "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
         },
         {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 249458,
-      "name": "No Man Falls (Feat. Pusha T & 2 Chainz)",
-      "url": "https://open.spotify.com/track/4BWbRimlDfSTUQkqMrkCem"
+      "duration_ms": 230625,
+      "name": "Save The Best For Last (Feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/4mmg0ZJlcATIM6pJQrdKVS"
     },
     {
-      "added_at": "2022-08-12 04:14:46",
+      "added_at": "2022-08-19 18:20:19",
       "album": {
-        "name": "Cheat Codes",
-        "url": "https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy"
+        "name": "Times Is Rough",
+        "url": "https://open.spotify.com/album/0p4zzRMfASMefel2C3BM92"
       },
       "artists": [
         {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
         },
         {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
         },
         {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Heem B$F",
+          "url": "https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D"
+        },
+        {
+          "name": "Rick Hyde",
+          "url": "https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1"
         }
       ],
-      "duration_ms": 234333,
-      "name": "Belize (feat. MF DOOM)",
-      "url": "https://open.spotify.com/track/5Mi3Qt2bXMqXRG2vnmp4a0"
+      "duration_ms": 201128,
+      "name": "Times Is Rough",
+      "url": "https://open.spotify.com/track/1EzmTNUSKb0J5eXGgrP6wy"
     },
     {
       "added_at": "2022-08-12 04:14:46",
@@ -83,6 +107,46 @@
     {
       "added_at": "2022-08-12 04:14:46",
       "album": {
+        "name": "Cheat Codes",
+        "url": "https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Belize (feat. MF DOOM)",
+      "url": "https://open.spotify.com/track/5Mi3Qt2bXMqXRG2vnmp4a0"
+    },
+    {
+      "added_at": "2022-08-12 04:14:46",
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"
+    },
+    {
+      "added_at": "2022-08-12 04:14:46",
+      "album": {
         "name": "Never End Up Broke Pt. 2 (feat. Pusha T)",
         "url": "https://open.spotify.com/album/6gVgQxn4oG3WXmcLhK4sBX"
       },
@@ -101,6 +165,54 @@
       "url": "https://open.spotify.com/track/3pPpHxBDoEqEcP4NyPp1iT"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "3 Pts (Remix)",
+        "url": "https://open.spotify.com/album/3AfKLp6IwCqeYgBD55VKQF"
+      },
+      "artists": [
+        {
+          "name": "Mike & Keys",
+          "url": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
+        },
+        {
+          "name": "Casey Veggies",
+          "url": "https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy"
+        },
+        {
+          "name": "Nilly",
+          "url": "https://open.spotify.com/artist/7Mdi8JdPRnFEjWUtp0yCDv"
+        }
+      ],
+      "duration_ms": 160401,
+      "name": "3 Pts - Remix",
+      "url": "https://open.spotify.com/track/6KwdUuCuyHhHKOxd4XO7o7"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Cry Again",
+        "url": "https://open.spotify.com/album/6lVhxzFBUgzQwnH2BRxShh"
+      },
+      "artists": [
+        {
+          "name": "Chyde",
+          "url": "https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA"
+        },
+        {
+          "name": "Dtrue",
+          "url": "https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Cry Again",
+      "url": "https://open.spotify.com/track/3XBCTNCoEHqC1maXEHOD6a"
+    },
+    {
       "added_at": "2022-08-12 04:14:46",
       "album": {
         "name": "DRILLMATIC Heart vs. Mind",
@@ -112,13 +224,17 @@
           "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
         },
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 230625,
-      "name": "Save The Best For Last (Feat. Rick Ross)",
-      "url": "https://open.spotify.com/track/4mmg0ZJlcATIM6pJQrdKVS"
+      "duration_ms": 249458,
+      "name": "No Man Falls (Feat. Pusha T & 2 Chainz)",
+      "url": "https://open.spotify.com/track/4BWbRimlDfSTUQkqMrkCem"
     },
     {
       "added_at": "2022-08-12 04:14:46",
@@ -169,20 +285,28 @@
       "url": "https://open.spotify.com/track/5miJWaIbJqBnoybPj4B5ys"
     },
     {
-      "added_at": "2022-08-12 04:14:46",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Where I Belong",
-        "url": "https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0"
+        "name": "Hunnit Dolla Hiccup",
+        "url": "https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB"
       },
       "artists": [
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Armani Caesar",
+          "url": "https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
         }
       ],
-      "duration_ms": 188386,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"
+      "duration_ms": 217872,
+      "name": "Hunnit Dolla Hiccup",
+      "url": "https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK"
     },
     {
       "added_at": "2022-08-12 04:14:46",
@@ -731,26 +855,6 @@
     {
       "added_at": "2022-08-12 04:14:46",
       "album": {
-        "name": "It's Almost Dry",
-        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 173633,
-      "name": "Dreamin Of The Past (feat. Kanye West)",
-      "url": "https://open.spotify.com/track/3Wx98ijEDnsxyMYePCuFNI"
-    },
-    {
-      "added_at": "2022-08-12 04:14:46",
-      "album": {
         "name": "Bleed It",
         "url": "https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb"
       },
@@ -827,22 +931,6 @@
     {
       "added_at": "2022-08-12 04:14:46",
       "album": {
-        "name": "While We're Here",
-        "url": "https://open.spotify.com/album/5wlqekVOKMlrcpMrlUfwW5"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 170629,
-      "name": "Questions Are Forever",
-      "url": "https://open.spotify.com/track/6wimAzKwNkAn92PJTlfkXA"
-    },
-    {
-      "added_at": "2022-08-12 04:14:46",
-      "album": {
         "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
         "url": "https://open.spotify.com/album/1L87V0tvYy44z5A0F8dyUr"
       },
@@ -907,26 +995,6 @@
     {
       "added_at": "2022-08-12 04:14:46",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Taylour Paige",
-          "url": "https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo"
-        }
-      ],
-      "duration_ms": 341307,
-      "name": "We Cry Together",
-      "url": "https://open.spotify.com/track/67XC51nlZncNpHmZ8rOU9a"
-    },
-    {
-      "added_at": "2022-08-12 04:14:46",
-      "album": {
         "name": "EGOT the EP",
         "url": "https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ"
       },
@@ -939,42 +1007,6 @@
       "duration_ms": 312653,
       "name": "Help Me God",
       "url": "https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV"
-    },
-    {
-      "added_at": "2022-08-12 04:14:46",
-      "album": {
-        "name": "Breath Control",
-        "url": "https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 147187,
-      "name": "Breath Control (feat. Wiz Khalifa)",
-      "url": "https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq"
-    },
-    {
-      "added_at": "2022-08-12 04:14:46",
-      "album": {
-        "name": "Prolific",
-        "url": "https://open.spotify.com/album/726R4axcxJ0wR5lMEC0iwa"
-      },
-      "artists": [
-        {
-          "name": "Corey Lee",
-          "url": "https://open.spotify.com/artist/3dxk8qxVs3og7n9WEi7KAQ"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Prolific",
-      "url": "https://open.spotify.com/track/4p487z5wMzPPKBDtAydW24"
     }
   ],
   "unique_name": "Mind Right",

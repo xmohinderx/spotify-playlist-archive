@@ -1,28 +1,44 @@
 {
-  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: GAYLE",
-  "num_followers": 294233,
+  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Demi Lovato",
+  "num_followers": 294436,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDdjMjU2ZTc0OTFiOGEyYWU0MWM1YzE2MzNlNWMzMWJk",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDgwMzcxNmYxZDRlNTE4ODM3NWQ5YzVlMWQwYzdkOTY1",
   "tracks": [
     {
-      "added_at": "2022-08-12 04:00:00",
+      "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "indieedgycool",
-        "url": "https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ"
+        "name": "29",
+        "url": "https://open.spotify.com/album/2xMel5JwlO9RiqCANKjCaQ"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 146769,
-      "name": "indieedgycool",
-      "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/35GQVy9TgNSRFQRTlr0e7m"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Bad Game Of Telephone",
+        "url": "https://open.spotify.com/album/20Wa4xEz4oj4tG8n2CNN1s"
+      },
+      "artists": [
+        {
+          "name": "AJA",
+          "url": "https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj"
+        }
+      ],
+      "duration_ms": 185112,
+      "name": "Bad Game Of Telephone",
+      "url": "https://open.spotify.com/track/1XlzvHH3NU2csyowpJcr6C"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
     },
     {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/45yZQnazJjAbDlJyIkGEQ9"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 140880,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi"
+    },
+    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Naked",
@@ -57,20 +89,68 @@
       "url": "https://open.spotify.com/track/7bI5GpjLRkil6k42fuFfAH"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/43C2nwKBVQEe5Eo2SZbi1i"
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 140426,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/0bMuCogMMHhNSq4fd3z1gA"
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 148470,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "STRUT",
+        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 117727,
+      "name": "STRUT",
+      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "indieedgycool",
+        "url": "https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "indieedgycool",
+      "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -105,20 +185,20 @@
       "url": "https://open.spotify.com/track/0zPQx8X0MqfilG0dZIRXkN"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
+      "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "It's Not That Deep: Chapter 1",
-        "url": "https://open.spotify.com/album/62DB8pQf35nmgO8Cq1HZH6"
+        "name": "Life Sux",
+        "url": "https://open.spotify.com/album/0PLBxxxm3JBEGoUCkTUVBJ"
       },
       "artists": [
         {
-          "name": "ari hicks",
-          "url": "https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z"
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
         }
       ],
-      "duration_ms": 145904,
-      "name": "Two Sides",
-      "url": "https://open.spotify.com/track/5FnspVG6iriNNFuBKKoQbB"
+      "duration_ms": 174814,
+      "name": "Life Sux",
+      "url": "https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -173,6 +253,22 @@
       "url": "https://open.spotify.com/track/1W3ufvaiblglNP1ohlDTob"
     },
     {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "It's Not That Deep: Chapter 1",
+        "url": "https://open.spotify.com/album/62DB8pQf35nmgO8Cq1HZH6"
+      },
+      "artists": [
+        {
+          "name": "ari hicks",
+          "url": "https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z"
+        }
+      ],
+      "duration_ms": 145904,
+      "name": "Two Sides",
+      "url": "https://open.spotify.com/track/5FnspVG6iriNNFuBKKoQbB"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Maybe All the Rumours Are True",
@@ -189,36 +285,20 @@
       "url": "https://open.spotify.com/track/5TOypkLxV6SDEIePb7lvox"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/43C2nwKBVQEe5Eo2SZbi1i"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 148470,
-      "name": "Breakfast",
-      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Life Sux",
-        "url": "https://open.spotify.com/album/0PLBxxxm3JBEGoUCkTUVBJ"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 174814,
-      "name": "Life Sux",
-      "url": "https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU"
+      "duration_ms": 140426,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/0bMuCogMMHhNSq4fd3z1gA"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -315,6 +395,22 @@
       "duration_ms": 180186,
       "name": "engravings",
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "what would you do?",
+        "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 166948,
+      "name": "what would you do?",
+      "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -417,22 +513,6 @@
       "url": "https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "SUBSTANCE",
-        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "SUBSTANCE",
-      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
-    },
-    {
       "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Could've Just Left Me Alone",
@@ -463,22 +543,6 @@
       "duration_ms": 163927,
       "name": "Girl Of Your Dreams",
       "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Competition",
-        "url": "https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK"
-      },
-      "artists": [
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        }
-      ],
-      "duration_ms": 186462,
-      "name": "Competition",
-      "url": "https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -705,22 +769,6 @@
       "url": "https://open.spotify.com/track/110y35XBBoCyzv1jClu3Kv"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "one bad day",
-        "url": "https://open.spotify.com/album/13ekNhK41kYkbmbzOzu8G5"
-      },
-      "artists": [
-        {
-          "name": "marg\u00f8",
-          "url": "https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU"
-        }
-      ],
-      "duration_ms": 178367,
-      "name": "one bad day",
-      "url": "https://open.spotify.com/track/1Qz3mHiMABwI3wBK3PQgsr"
-    },
-    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "YES MOM",
@@ -735,22 +783,6 @@
       "duration_ms": 162360,
       "name": "YES MOM",
       "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
-    },
-    {
-      "added_at": "2022-05-13 04:01:00",
-      "album": {
-        "name": "what would you do?",
-        "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 166948,
-      "name": "what would you do?",
-      "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
     },
     {
       "added_at": "2022-05-20 05:04:53",
@@ -1049,22 +1081,6 @@
       "url": "https://open.spotify.com/track/38RJVU2LTPjW7xiXqCUlDn"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ"
-      },
-      "artists": [
-        {
-          "name": "TAELA",
-          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Trophy",
-      "url": "https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm"
-    },
-    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "dying on the inside",
@@ -1095,22 +1111,6 @@
       "duration_ms": 212969,
       "name": "Women Don't Owe You Sh*t",
       "url": "https://open.spotify.com/track/6HoZUmprRfFWO1CaqkiBUP"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "ASHS",
-        "url": "https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Reid",
-          "url": "https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc"
-        }
-      ],
-      "duration_ms": 125135,
-      "name": "Mean",
-      "url": "https://open.spotify.com/track/2SniviLus5g8LNMCpObLx4"
     },
     {
       "added_at": "2021-11-05 04:00:00",

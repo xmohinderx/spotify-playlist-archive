@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,376 songs - 2 day 13 hr 52 min - [published](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
+1,381 songs - 2 day 14 hr 4 min - [published](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [La Storia](https://open.spotify.com/track/3U5RTSxDKkhA6rtHEXpI6H) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [La Storia](https://open.spotify.com/album/0c7N8i0rJZjFJmNn1dkMOe) | 2:44 | 2020-06-16 | 2022-07-16 |
 | [La tendresse](https://open.spotify.com/track/0JfP05rBqkrXgvGApClApn) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [La tendresse](https://open.spotify.com/album/158zPqWVxiPNSIZJvW8oPF) | 2:24 | 2019-11-19 | 2020-09-30 |
 | [La Tour](https://open.spotify.com/track/0NOzMlTrPHMQ68snNK891G) | [Samuel Lindon](https://open.spotify.com/artist/5nJRL0Qfseg7ZJGbT2eVrA) | [La tour](https://open.spotify.com/album/3TbbCgQsuVZwLNDB5YoUnt) | 2:14 | 2019-05-26\* | 2020-08-04 |
+| [La Vie](https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [La Vie](https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o) | 1:49 | 2022-08-19 |  |
 | [Lacrimosa](https://open.spotify.com/track/5NI4ztzijs8sqoxlhqNleo) | [Lucas Vendrai](https://open.spotify.com/artist/5mo25h1sQIVjZ4gIgIK2Lm) | [Lacrimosa](https://open.spotify.com/album/46QupwR45OEVm0U7ZpyxxF) | 1:58 | 2020-08-04 | 2022-05-21 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-09-16 |  |
 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 | 2022-01-19 | 2022-04-01 |
@@ -770,6 +771,7 @@
 | [N'abandonne pas](https://open.spotify.com/track/0Nx1SR4VfOGtnelHw6xFsV) | [Libor Kolman](https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT) | [N'abandonne pas](https://open.spotify.com/album/5ejRY2g6Jo415CSc7hmftK) | 2:34 | 2020-05-19 | 2021-08-05 |
 | [Naive Spin](https://open.spotify.com/track/1JoAjYaI3zvhXVx41HH7Fc) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Naive Spin](https://open.spotify.com/album/1meLNOeKZ3KGV7vuOshRk3) | 2:38 | 2019-05-26\* | 2021-02-17 |
 | [Natural Light](https://open.spotify.com/track/2zM7Ato6xDOi8ten4qn7Cm) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Natural Light](https://open.spotify.com/album/43wcKhgYUpeh2cwvBtqDYc) | 5:35 | 2021-11-11 | 2022-07-29 |
+| [Nature undisclosed](https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Nature undisclosed](https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6) | 2:27 | 2022-08-19 |  |
 | [Nederlag](https://open.spotify.com/track/2Or57lFpdUW3dtjg82VrBt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/39AL4A5Eq7QEDW0TU36UzT) | 2:17 | 2021-03-31 | 2021-09-16 |
 | [Needle and Thread](https://open.spotify.com/track/2jUd0hF3zy4FNsO2ODt3hq) | [Aisha Edwards](https://open.spotify.com/artist/3YZeY8Jt05JPzWSY6VNnYZ) | [Needle and Thread](https://open.spotify.com/album/1MglpBPFAoUNAoPPtp4Tz0) | 2:46 | 2022-02-09 |  |
 | [Nefes](https://open.spotify.com/track/4NYJPTf1InZQ1n5yOiHwYI) | [Çağrı Sertel](https://open.spotify.com/artist/76Ldoh2j78nY2ThwAuFkBT) | [Kuytu](https://open.spotify.com/album/45wSUNEr084nMYhV7Xv85J) | 1:56 | 2021-02-24 | 2021-03-24 |
@@ -911,6 +913,7 @@
 | [Purple Distant](https://open.spotify.com/track/4QVIk4rz60fXiOy5LBNedb) | [Once Proven](https://open.spotify.com/artist/3t46Q3kFpBlN8nD75ypsMj) | [Closing In On Reality](https://open.spotify.com/album/2fAg8MypA3l9c3G1I3QXeB) | 2:26 | 2019-05-26\* | 2020-03-31 |
 | [Qi](https://open.spotify.com/track/2PgVEaqgmMh1hdhcnuqDEd) | [PHILDEL](https://open.spotify.com/artist/7B0uXJvJUTwwbeSToeZeJ4) | [Qi](https://open.spotify.com/album/39fZOxjNH13Aj7Mzgpy9co) | 5:26 | 2019-05-26\* | 2019-09-12 |
 | [Quand on a pas ce que l’on aime, il faut aimer ce que l’on a](https://open.spotify.com/track/7lbUs0MUjVGeLLCBYFi2sj) | [Florence Bellefeuille](https://open.spotify.com/artist/5OWIxOvmoJqdXYAjlPGBlr) | [Quand on a pas ce que l’on aime, il faut aimer ce que l’on a](https://open.spotify.com/album/3cnYFrOHaXD4TPidTfgmoM) | 2:50 | 2020-04-07 | 2021-04-22 |
+| [Quand vous souriez](https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95) | [Libor Kolman](https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT) | [Quand vous souriez](https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv) | 1:58 | 2022-08-19 |  |
 | [Qui n’avance pas, recule](https://open.spotify.com/track/1YaEv0xPN2bAKWKZiNuDb8) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Qui n’avance pas, recule](https://open.spotify.com/album/5vpl1HMLV5c5bYhy4sbIhU) | 2:20 | 2020-05-12 | 2022-04-15 |
 | [Qui vivra verra](https://open.spotify.com/track/6gfs2xM6OXGyzTsRxB2RNL) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Qui vivra verra](https://open.spotify.com/album/0dEru0h9WMY0vuMSxtjaSn) | 2:13 | 2019-10-22 | 2021-03-24 |
 | [Quiet](https://open.spotify.com/track/0mdIhRa6uUwlHmEuUuvuKA) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Quiet](https://open.spotify.com/album/6KxIV0vIVkC90QUs1BFNs3) | 3:13 | 2021-10-13 | 2022-04-29 |
@@ -952,6 +955,7 @@
 | [Revenons à nos moutons](https://open.spotify.com/track/6M97uxgvb8dEPDIetC7OgD) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Revenons à nos moutons](https://open.spotify.com/album/3XHKfh5KIesbw1eps3fLmt) | 2:35 | 2021-01-12 |  |
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-01-12 |  |
 | [Reveries](https://open.spotify.com/track/2Wq70oxNy3i4KOW175fUs2) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Reveries](https://open.spotify.com/album/7Jl54jIBzvZjzED55yLj23) | 3:35 | 2020-10-06 | 2021-05-06 |
+| [Rhetila](https://open.spotify.com/track/63gb8AihdONhOalTRVfo3o) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Rhetila](https://open.spotify.com/album/53390gyS26GUQVLL1nVIec) | 2:14 | 2022-08-19 |  |
 | [Riego de Agua](https://open.spotify.com/track/2JpahlAlHmqVCMTtUN0aZI) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Riego de Agua](https://open.spotify.com/album/1ETvvYYE6bHOxh3u6l6Nms) | 2:24 | 2020-12-08 | 2021-02-24 |
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2020-10-13 | 2022-05-27 |
 | [Rise](https://open.spotify.com/track/0P9iHoMjt1UlJfdcijOBHZ) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Rise](https://open.spotify.com/album/3e00tFNHFroqXpk2PbBitE) | 3:10 | 2020-06-24 | 2021-05-27 |
@@ -984,6 +988,7 @@
 | [Sand](https://open.spotify.com/track/78qaTDD6WW9NnnaFJfP6wa) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Sand](https://open.spotify.com/album/4FxlL6SpqPQDTlBd867kuj) | 2:23 | 2022-07-28 |  |
 | [Sand Between Our Fingers](https://open.spotify.com/track/55S0Xumnc0oNtM3fzh2Oex) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Between Our Fingers](https://open.spotify.com/album/6YF5cIpHznEz9HTrLAOLwf) | 2:48 | 2020-06-02 | 2020-11-10 |
 | [Sand Castle](https://open.spotify.com/track/3ExgkwTDs4mymqj09BzIsD) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Moonlight](https://open.spotify.com/album/7KvfRrJ0eVVqLZ2W9CThwK) | 3:11 | 2019-08-23 | 2019-10-04 |
+| [Sand Time](https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Sand Time](https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B) | 2:58 | 2022-08-19 |  |
 | [Sands Of Time](https://open.spotify.com/track/3j3puYxZ3zB9PQ7acE9mal) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Sands Of Time](https://open.spotify.com/album/08ikUeZQ3YVWJ0p121ecE0) | 2:20 | 2021-03-09 | 2022-03-11 |
 | [Santolea](https://open.spotify.com/track/6X4fTprmm1elJ6LPGXJEsP) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Santolea](https://open.spotify.com/album/0IJ1We2li4qqibNwRwR2nR) | 2:31 | 2022-02-09 |  |
 | [Sarah](https://open.spotify.com/track/6ICtpZePn3FKPcJJr8p9Cy) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Sarah](https://open.spotify.com/album/0qy16TSPCILCkirsddNLAX) | 3:32 | 2021-01-05 | 2021-04-22 |

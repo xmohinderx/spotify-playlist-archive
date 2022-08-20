@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Fall in Love with the Beauties of Tollywood!<br/>Cover : Sai Pallavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,375 likes - 57 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,397 likes - 57 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 16 | [Ay Pilla \- Telugu](https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK) | [Love Story](https://open.spotify.com/album/2qPF34ldSTpFg8SEywoQ8E) | 4:13 |
 | 17 | [He’S Soo Cute](https://open.spotify.com/track/4Ijq9U4ZvXuLord5plNeKR) | [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Sarileru Neekevvaru](https://open.spotify.com/album/6vi0HnekV5nuzXB96NOAEL) | 3:29 |
 | 18 | [Undiporaadhey](https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Hushaaru](https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5) | 2:53 |
-| 19 | [Pillaa Raa](https://open.spotify.com/track/3MXTLAouHSztOxoOSOnbb9) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Top Singer'S Playlist](https://open.spotify.com/album/10pn3qTksy0ii0qXogOm0s) | 3:57 |
+| 19 | [Pillaa Raa](https://open.spotify.com/track/6vhvtHO8e57meVNp8yKzdV) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Rx 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl) | 3:55 |
 | 20 | [Kallumoosi](https://open.spotify.com/track/55uVx1s7InHUFdyw3iDJny) | [Suchit Suresan](https://open.spotify.com/artist/086LQYImDS05jNyttLA3V2) | [Majnu](https://open.spotify.com/album/3vHxGFNrNmkIwneqTFqnj1) | 3:37 |
 | 21 | [Ninnu Chuse Anandamlo \(From "Gang Leader"\)](https://open.spotify.com/track/7FMvOZMzbhKWBvwNCOByvc) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ninnu Chuse Anandamlo \(From "Gang Leader"\)](https://open.spotify.com/album/6LsiFF3CU5YKaHmNg60pWB) | 4:53 |
 | 22 | [Maate Vinadhuga](https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Taxiwaala](https://open.spotify.com/album/287bcBsBqqod9rNEsITpJN) | 4:56 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 56 | [Mahanati](https://open.spotify.com/track/1rid0wlGGXbRndkcRvH0LZ) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Mahanati](https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1) | 4:44 |
 | 57 | [Prema O Premaa](https://open.spotify.com/track/2oMVPX0asvUfRfap0iEmXv) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Hemambika](https://open.spotify.com/artist/6LsBNQohLraTbmkYY80G2p) | [NGK \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/67KkBoft7iHVV4hKbKCZ24) | 4:30 |
 
-Snapshot ID: `MTY0MzY4MjI2NywwMDAwMDAwMDhhYWY4MDdlNTJmNDcwYzQ3MWZmODI2OTM3MjMwZjEy`
+Snapshot ID: `MTY0MzY4MjI2NywwMDAwMDAwMDZiNDM0MzFlZGM4NDYzNjkxOGJlOTBiZThhZmI5YmFk`

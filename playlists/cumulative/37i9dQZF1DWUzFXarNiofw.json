@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The newest, freshest R&B tunes.  Cover: Kehlani & Babyface",
+  "description": "The newest, freshest R&B tunes.  Cover: Tank",
   "name": "New Jams",
   "published_playlist_ids": [
     "2y3HQxunEcE7pPAyHu4buJ"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 158889,
       "name": "all of that",
       "url": "https://open.spotify.com/track/13rhDmlqwOZAtQiaIE40m0"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 195715,
       "name": "All She Wanna Do (with Saweetie)",
       "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
@@ -965,6 +965,24 @@
       "duration_ms": 193960,
       "name": "Brag (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/6FsVDZWQk6QBBrmZKvFxvW"
+    },
+    {
+      "album": {
+        "name": "12 Am in La",
+        "url": "https://open.spotify.com/album/33TF1MqjC6tb1TTEhifQAS"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120153,
+      "name": "Brandy Sippin'",
+      "url": "https://open.spotify.com/track/09seTi24a1oMQzfZSpSUPV"
     },
     {
       "album": {
@@ -3260,6 +3278,28 @@
     },
     {
       "album": {
+        "name": "I Wanna Know (Acoustic)",
+        "url": "https://open.spotify.com/album/6RfCAam44Ah2SpoAU0d5bj"
+      },
+      "artists": [
+        {
+          "name": "Will Gittens",
+          "url": "https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1"
+        },
+        {
+          "name": "Rome Flynn",
+          "url": "https://open.spotify.com/artist/0NVZSlGEwLGVXItNzyAXmZ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237623,
+      "name": "I Wanna Know - Acoustic",
+      "url": "https://open.spotify.com/track/2wQusm1xPyFfduOzej331l"
+    },
+    {
+      "album": {
         "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
         "url": "https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD"
       },
@@ -3304,6 +3344,24 @@
     },
     {
       "album": {
+        "name": "I'm Pressed",
+        "url": "https://open.spotify.com/album/6YrhUIZvO1zL3MN7d2tFZl"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181009,
+      "name": "I'm Pressed",
+      "url": "https://open.spotify.com/track/4I2v5ENMvhNL51rmFx4t6o"
+    },
+    {
+      "album": {
         "name": "I.O.U.",
         "url": "https://open.spotify.com/album/6IiJEA5jKiufcTeqIJ9Irn"
       },
@@ -3345,7 +3403,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 160280,
       "name": "ICED OUT SUMMER",
       "url": "https://open.spotify.com/track/1PpsJPjSge3JHkNYJImD08"
@@ -3403,7 +3461,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 186114,
       "name": "If I Get Caught",
       "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
@@ -3421,7 +3479,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 222281,
       "name": "If You Want My Love",
       "url": "https://open.spotify.com/track/6muk6XM856ryXVRyv1m8yj"
@@ -3958,6 +4016,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/1jnZuo1cL5ICy4uKci9aHb"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156142,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/7gbB9Wy6GkDr0dOZvw6ihK"
+    },
+    {
+      "album": {
         "name": "Leave You Alone",
         "url": "https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY"
       },
@@ -4153,7 +4229,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
@@ -4726,6 +4802,24 @@
     },
     {
       "album": {
+        "name": "Most Girlz",
+        "url": "https://open.spotify.com/album/6fm8dGkZ9EH9euZQnm4Qbb"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166859,
+      "name": "Most Girlz",
+      "url": "https://open.spotify.com/track/5w5ztCy71lCOoIWCo7dJss"
+    },
+    {
+      "album": {
         "name": "Most Men - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
       },
@@ -4829,7 +4923,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 302952,
       "name": "New To You (with Normani, Tinashe, & Offset)",
       "url": "https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp"
@@ -4957,7 +5051,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
@@ -5266,6 +5360,24 @@
     },
     {
       "album": {
+        "name": "Pillow Talk",
+        "url": "https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170943,
+      "name": "Opposite",
+      "url": "https://open.spotify.com/track/1hjQHLXevphvGIZUfRC239"
+    },
+    {
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -5364,6 +5476,28 @@
     },
     {
       "album": {
+        "name": "Pata Pata (Remix)",
+        "url": "https://open.spotify.com/album/7jhzt3S0DnHb6E4uSqCOe0"
+      },
+      "artists": [
+        {
+          "name": "Stainless",
+          "url": "https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184058,
+      "name": "Pata Pata (Remix)",
+      "url": "https://open.spotify.com/track/0UeFuD5wYxDx5hXuLxKcwp"
+    },
+    {
+      "album": {
         "name": "Personal Baby",
         "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
       },
@@ -5459,6 +5593,24 @@
       "duration_ms": 176621,
       "name": "PLANS FOR US",
       "url": "https://open.spotify.com/track/2FWJ4Jp8T55Lr31NKCfd6m"
+    },
+    {
+      "album": {
+        "name": "playing tricks",
+        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184257,
+      "name": "playing tricks",
+      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
     },
     {
       "album": {
@@ -5910,6 +6062,28 @@
     },
     {
       "album": {
+        "name": "R&B MONEY",
+        "url": "https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230453,
+      "name": "See Through Love (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH"
+    },
+    {
+      "album": {
         "name": "Shame On You",
         "url": "https://open.spotify.com/album/3htnYj3YlMe1IfnjlTs8bn"
       },
@@ -6009,6 +6183,24 @@
       "duration_ms": 227001,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs"
+    },
+    {
+      "album": {
+        "name": "Sweet Heat",
+        "url": "https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd"
+      },
+      "artists": [
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub"
     },
     {
       "album": {
@@ -6151,7 +6343,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 129666,
       "name": "Spoon & Bang",
       "url": "https://open.spotify.com/track/2RkvnSmAzC49zlXmzKfisn"
@@ -6497,7 +6689,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 154368,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/23ms6zeO6s63b7pLum9s87"

@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 113252,
+  "num_followers": 113339,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDM1NDg1OCwwMDAwMDAwMGJiOGQ5NjA0YmFkOTAzMWY4MTNjODY1ZWUzMWIwOWM1",
+  "snapshot_id": "MTY2MDg3NDAyOCwwMDAwMDAwMDJmY2I1NzIyZDVjMGNmNDRhZWIwMTZiNzE5NWE1MmM1",
   "tracks": [
     {
       "added_at": "2022-08-13 00:36:29",
@@ -145,6 +145,26 @@
       "url": "https://open.spotify.com/track/2YqA1ZZ62XKJry0BoQwNSx"
     },
     {
+      "added_at": "2022-08-19 01:53:48",
+      "album": {
+        "name": "artclubdiscotheque",
+        "url": "https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/2t3xkD6kiwF0w0dqChNS2P"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+        }
+      ],
+      "duration_ms": 335433,
+      "name": "artclubdiscotheque",
+      "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
       "added_at": "2022-01-14 00:51:04",
       "album": {
         "name": "Warm Chris",
@@ -159,22 +179,6 @@
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
-    },
-    {
-      "added_at": "2022-07-14 12:42:06",
-      "album": {
-        "name": "Mapa",
-        "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
-      },
-      "artists": [
-        {
-          "name": "Sundarbans",
-          "url": "https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82"
-        }
-      ],
-      "duration_ms": 175849,
-      "name": "Mapa",
-      "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
     },
     {
       "added_at": "2022-04-22 19:21:51",
@@ -233,54 +237,6 @@
       "url": "https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr"
     },
     {
-      "added_at": "2022-08-03 02:31:18",
-      "album": {
-        "name": "Todos Mis Labios",
-        "url": "https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB"
-      },
-      "artists": [
-        {
-          "name": "Fenna Frei",
-          "url": "https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Todos Mis Labios",
-      "url": "https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97"
-    },
-    {
-      "added_at": "2022-07-15 05:46:40",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
-    },
-    {
-      "added_at": "2022-08-11 16:00:37",
-      "album": {
-        "name": "Metal",
-        "url": "https://open.spotify.com/album/42NIAoehQ6eU03hGM4oTLN"
-      },
-      "artists": [
-        {
-          "name": "Zouj",
-          "url": "https://open.spotify.com/artist/2YsUJXkWJgXeuma5IB9lmo"
-        }
-      ],
-      "duration_ms": 192565,
-      "name": "Metal",
-      "url": "https://open.spotify.com/track/55IuMUUnz2pohyH3fmLRwn"
-    },
-    {
       "added_at": "2022-07-15 05:42:57",
       "album": {
         "name": "Robot Riot",
@@ -313,38 +269,6 @@
       "url": "https://open.spotify.com/track/4JXicRysL3kGWGRV1UFFmC"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 317453,
-      "name": "Zoo Eyes",
-      "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
-    },
-    {
-      "added_at": "2022-08-03 03:08:55",
-      "album": {
-        "name": "Have You Felt Lately?",
-        "url": "https://open.spotify.com/album/2xJpkYv3kleK0HDFznrpn9"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "Have You Felt Lately?",
-      "url": "https://open.spotify.com/track/6UQAuCPxNBIbVcKG2cgAsX"
-    },
-    {
       "added_at": "2022-01-13 02:46:42",
       "album": {
         "name": "Double Dinners",
@@ -359,6 +283,22 @@
       "duration_ms": 309240,
       "name": "BabyBack",
       "url": "https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 317453,
+      "name": "Zoo Eyes",
+      "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -417,22 +357,6 @@
       "url": "https://open.spotify.com/track/2rlBLY6Iy6dRy3X0Epkt3W"
     },
     {
-      "added_at": "2022-08-13 01:20:51",
-      "album": {
-        "name": "fuck yeah no please",
-        "url": "https://open.spotify.com/album/6T2VZu5eICkMEu0QUD9abc"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Weisz",
-          "url": "https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "fuck yeah no please",
-      "url": "https://open.spotify.com/track/34fxnzTP7z45xsn8AF7vQz"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Second Spring OST",
@@ -449,22 +373,6 @@
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
-      "added_at": "2022-08-13 01:25:00",
-      "album": {
-        "name": "THE 55",
-        "url": "https://open.spotify.com/album/3VRckeo4W4pLalver76sg1"
-      },
-      "artists": [
-        {
-          "name": "GUSPY",
-          "url": "https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "THE 55",
-      "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Age Of Immunology",
@@ -479,22 +387,6 @@
       "duration_ms": 451855,
       "name": "You Are Not An Island",
       "url": "https://open.spotify.com/track/4dZoE86OgZ0LrFWAsrAXNP"
-    },
-    {
-      "added_at": "2022-08-13 01:26:08",
-      "album": {
-        "name": "Escultura Misterio",
-        "url": "https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc"
-      },
-      "artists": [
-        {
-          "name": "Tarik Rahim",
-          "url": "https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN"
-        }
-      ],
-      "duration_ms": 173862,
-      "name": "Escultura Misterio",
-      "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
     },
     {
       "added_at": "2022-02-04 15:20:01",
@@ -531,6 +423,22 @@
       "duration_ms": 236000,
       "name": "Time Bazaar",
       "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
+    },
+    {
+      "added_at": "2022-07-15 05:46:40",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
       "added_at": "2022-03-16 16:59:09",
@@ -729,22 +637,6 @@
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 280181,
-      "name": "Homing",
-      "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
-    },
-    {
       "added_at": "2022-02-08 17:25:13",
       "album": {
         "name": "Pompeii",
@@ -759,6 +651,38 @@
       "duration_ms": 268128,
       "name": "Dirt on the Bed",
       "url": "https://open.spotify.com/track/1mhVCuP7ebwpmfCc2zE64U"
+    },
+    {
+      "added_at": "2022-08-03 03:08:55",
+      "album": {
+        "name": "Have You Felt Lately?",
+        "url": "https://open.spotify.com/album/2xJpkYv3kleK0HDFznrpn9"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Have You Felt Lately?",
+      "url": "https://open.spotify.com/track/6UQAuCPxNBIbVcKG2cgAsX"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 280181,
+      "name": "Homing",
+      "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -919,6 +843,22 @@
       "duration_ms": 405773,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
+    },
+    {
+      "added_at": "2022-07-14 12:42:06",
+      "album": {
+        "name": "Mapa",
+        "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
+      },
+      "artists": [
+        {
+          "name": "Sundarbans",
+          "url": "https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82"
+        }
+      ],
+      "duration_ms": 175849,
+      "name": "Mapa",
+      "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1161,6 +1101,22 @@
       "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
     },
     {
+      "added_at": "2022-08-13 01:26:08",
+      "album": {
+        "name": "Escultura Misterio",
+        "url": "https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc"
+      },
+      "artists": [
+        {
+          "name": "Tarik Rahim",
+          "url": "https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN"
+        }
+      ],
+      "duration_ms": 173862,
+      "name": "Escultura Misterio",
+      "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Robber",
@@ -1241,6 +1197,22 @@
       "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Revolution Of Super Visions",
+        "url": "https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 301153,
+      "name": "The Revolution Of Super Visions",
+      "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
+    },
+    {
       "added_at": "2021-12-01 01:36:10",
       "album": {
         "name": "SEIM",
@@ -1275,22 +1247,6 @@
       "duration_ms": 241560,
       "name": "Mouth",
       "url": "https://open.spotify.com/track/05cL1sVT4MNyBqBw3ef5vb"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Revolution Of Super Visions",
-        "url": "https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "The Revolution Of Super Visions",
-      "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
     },
     {
       "added_at": "2022-01-11 00:08:03",
@@ -1351,6 +1307,22 @@
       "duration_ms": 157588,
       "name": "Lothl\u00f3rien",
       "url": "https://open.spotify.com/track/1qXJzwa3DJxVJT5Ql4T3mE"
+    },
+    {
+      "added_at": "2022-08-13 01:25:00",
+      "album": {
+        "name": "THE 55",
+        "url": "https://open.spotify.com/album/3VRckeo4W4pLalver76sg1"
+      },
+      "artists": [
+        {
+          "name": "GUSPY",
+          "url": "https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "THE 55",
+      "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
     },
     {
       "added_at": "2022-03-11 04:34:08",
@@ -1517,22 +1489,6 @@
       "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
     },
     {
-      "added_at": "2022-02-12 00:39:56",
-      "album": {
-        "name": "Don't Forget You're Precious",
-        "url": "https://open.spotify.com/album/4lw500xSQLvXVnIvUmMWe7"
-      },
-      "artists": [
-        {
-          "name": "Alabaster DePlume",
-          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Don't Forget You're Precious",
-      "url": "https://open.spotify.com/track/7r7lKry2CvHc6wK6c1ZgtO"
-    },
-    {
       "added_at": "2022-01-21 20:15:30",
       "album": {
         "name": "Feedback Loop",
@@ -1547,6 +1503,22 @@
       "duration_ms": 188873,
       "name": "Feedback Loop",
       "url": "https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC"
+    },
+    {
+      "added_at": "2022-08-11 16:00:37",
+      "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/42NIAoehQ6eU03hGM4oTLN"
+      },
+      "artists": [
+        {
+          "name": "Zouj",
+          "url": "https://open.spotify.com/artist/2YsUJXkWJgXeuma5IB9lmo"
+        }
+      ],
+      "duration_ms": 192565,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/55IuMUUnz2pohyH3fmLRwn"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1649,6 +1621,22 @@
       "url": "https://open.spotify.com/track/5Ey7Xxphn3ecDo8eYgjouM"
     },
     {
+      "added_at": "2022-08-13 01:20:51",
+      "album": {
+        "name": "fuck yeah no please",
+        "url": "https://open.spotify.com/album/6T2VZu5eICkMEu0QUD9abc"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Weisz",
+          "url": "https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "fuck yeah no please",
+      "url": "https://open.spotify.com/track/34fxnzTP7z45xsn8AF7vQz"
+    },
+    {
       "added_at": "2022-03-11 06:40:47",
       "album": {
         "name": "SEIM",
@@ -1671,6 +1659,22 @@
       "duration_ms": 311533,
       "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
       "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
+    },
+    {
+      "added_at": "2022-08-03 02:31:18",
+      "album": {
+        "name": "Todos Mis Labios",
+        "url": "https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB"
+      },
+      "artists": [
+        {
+          "name": "Fenna Frei",
+          "url": "https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Todos Mis Labios",
+      "url": "https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97"
     },
     {
       "added_at": "2022-01-18 23:25:22",

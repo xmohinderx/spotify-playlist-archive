@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Ambient 4: On Land (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247946,
+      "name": "A Clearing - Remastered 2004",
+      "url": "https://open.spotify.com/track/4y5qZUZU5sojHT033PFP26"
+    },
+    {
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -291,7 +309,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 236760,
       "name": "Becalmed - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/3qq8XPwF2DoBhENRgLQ7ET"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 239306,
       "name": "Everything Merges With The Night - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/5pAR56gg3tYThEeH0VM3iB"
@@ -565,7 +583,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 254000,
       "name": "Failing Light - Remastered 2004",
       "url": "https://open.spotify.com/track/6AlMwXm6QSGErCZU2rhtoi"
@@ -609,7 +627,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 232440,
       "name": "Foreshadowed - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 151573,
       "name": "In Dark Trees - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/41RiTUEXw8uoCtLd8pcHVy"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 274306,
       "name": "Lizard Point - Remastered 2004",
       "url": "https://open.spotify.com/track/3an5DoMqoNpJEQwfA48A4c"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 89813,
       "name": "Steal Away - Remastered 2004",
       "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 252346,
       "name": "Still Return - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 326866,
       "name": "Unfamiliar Wind (Leeks Hills) - Remastered 2004",
       "url": "https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A"

@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-148 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
+149 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Consciousness](https://open.spotify.com/track/5k7FW9EOM1Xaxr1qdRCQzj) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Origin of I](https://open.spotify.com/album/34WplMhHu29z1djNneameH) | 3:32 | 2022-07-15 |  |
 | [Constellation](https://open.spotify.com/track/4nxiVXO8GJcHZMIb0UJMxv) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Chapter One](https://open.spotify.com/album/165sSNwDCf4EhbZ9fuSxWJ) | 3:42 | 2022-07-15 |  |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-07-15 |  |
-| [Crown Chakra \- Asian Flute for Centering](https://open.spotify.com/track/0BK6O7XWuSGQTZPe2nJ4EW) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Chakra Healing \- Massage & Meditation: Tibetan Singing Bowls & Native Flute](https://open.spotify.com/album/7FWWljVBhFUQsc9pF8nkNa) | 5:12 | 2022-07-15 |  |
+| [Crown Chakra \- Asian Flute for Centering](https://open.spotify.com/track/0BK6O7XWuSGQTZPe2nJ4EW) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Chakra Healing \- Massage & Meditation: Tibetan Singing Bowls & Native Flute](https://open.spotify.com/album/7FWWljVBhFUQsc9pF8nkNa) | 5:12 | 2022-07-15 | 2022-08-20 |
 | [Crystal Waterbed](https://open.spotify.com/track/5pXm5P4OUFUTk9oz5kd9ur) | [El Shavindar](https://open.spotify.com/artist/18XCxniHvAlJnqAcYfNW1Q) | [Crystal Waterbed](https://open.spotify.com/album/1NIbtSRPGYub3JnL9lO47z) | 3:42 | 2022-07-15 |  |
 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 | 2022-07-15 |  |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2022-07-15 |  |
@@ -116,6 +116,7 @@
 | [Quite A Ways](https://open.spotify.com/track/2ASqUS3DbDDBxbnoFrYp1Q) | [Inez Wolde](https://open.spotify.com/artist/433Ic9GNVFmaxAQz46hIlu) | [Quite A Ways](https://open.spotify.com/album/5rCg7By2k4dFUxYXYVqX1b) | 2:28 | 2022-07-15 |  |
 | [Rainfall](https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw) | [Vabali](https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8) | [Rainfall](https://open.spotify.com/album/3ndp2H6qEh8lb8XAVJvgUe) | 3:50 | 2022-07-15 |  |
 | [Reflect](https://open.spotify.com/track/5L3CbldRc36fjCzTb9ttuj) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Reflect](https://open.spotify.com/album/4lBD9dWLYfzmdAA3rkltQn) | 3:17 | 2022-07-15 |  |
+| [Reflection \(417 Hz Meditation\)](https://open.spotify.com/track/04UjzBg49TiQmhabGit1tv) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Reflection](https://open.spotify.com/album/28Ah77GJBIGinUJOABPMqq) | 3:29 | 2022-08-19 |  |
 | [Reflections](https://open.spotify.com/track/3Y0a2d0xewXPTmziRlvBwm) | [Bonart](https://open.spotify.com/artist/3ZGw2U265tZNbX3AWnFKzp) | [Reflections](https://open.spotify.com/album/0Usdcja5hpHi1t64sUPeJc) | 4:37 | 2022-07-15 |  |
 | [Renewal](https://open.spotify.com/track/7kgNuTgyO9T26DGV6aXptE) | [Liquid Mind](https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF) | [Liquid Mind XI: Deep Sleep](https://open.spotify.com/album/71br0Ijnm48UVUoLBHaZZ8) | 8:11 | 2022-07-15 |  |
 | [Restfulness](https://open.spotify.com/track/1eWEJ1JVoyt0nozyAoUPZW) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:55 | 2022-07-15 |  |

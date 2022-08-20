@@ -4,7 +4,7 @@
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-150 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
+151 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [CITY BREEZE](https://open.spotify.com/track/4j1ZGjvjtomCdb1zuRAW3I) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc) | [CITY BREEZE](https://open.spotify.com/album/67xr4lIX2lPIFiWaQ2YEBg) | 3:21 | 2022-07-04 |  |
 | [City girl](https://open.spotify.com/track/2kRm4IYFPvg5knhriMdTEJ) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [Homemade Love Story \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6gLrXf0gEMIKqHRk7xEht1) | 3:27 | 2021-12-07 |  |
 | [Cloud \(Feat\. CHOA\)](https://open.spotify.com/track/04VgNw25TChhONXFvgmU2g) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [ChoA](https://open.spotify.com/artist/4Nw7hgyeIEP5w5ehrMNKpq) | [Boxtape](https://open.spotify.com/album/2YGfI3w6hh0FnjLVd62XAj) | 4:01 | 2021-12-07 |  |
+| [CRAZY HAZY](https://open.spotify.com/track/1sPmQ0sCoM0jUOKX1qkIl0) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [CRAZY HAZY](https://open.spotify.com/album/4xbzcf5etib5p4B6vdJs9G) | 3:28 | 2022-08-19 |  |
 | [Crazy like feather](https://open.spotify.com/track/4ORTthTsQPhRAUFv5AyS0w) | [LAZZI](https://open.spotify.com/artist/0XvN5CmgsUcJFEcKPr1dro) | [Crazy like feather](https://open.spotify.com/album/6LVmGqpEpyliyUqoE1QryK) | 3:25 | 2022-08-09 |  |
 | [Day By Day](https://open.spotify.com/track/4bQZGykn0AYH8DlJGGuSIV) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:57 | 2021-12-07 |  |
 | [Delete](https://open.spotify.com/track/57cb34V8SkdHvKZuwOtQ2W) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR), [LINDA.G](https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh) | [KOYOTE X Linda G](https://open.spotify.com/album/4c7R5QQbHXU9YKBJs88KAb) | 3:21 | 2021-12-07 | 2022-07-29 |

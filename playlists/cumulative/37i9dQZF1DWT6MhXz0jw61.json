@@ -1372,6 +1372,24 @@
     },
     {
       "album": {
+        "name": "Spaceships on the Blade",
+        "url": "https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Don't Check Me",
+      "url": "https://open.spotify.com/track/3rG6VPI8QPN64ER0QOUqUL"
+    },
+    {
+      "album": {
         "name": "Don't Wait Up",
         "url": "https://open.spotify.com/album/6qrxPKzWSaT9OtFHIGp7AL"
       },
@@ -1581,6 +1599,24 @@
       "duration_ms": 233116,
       "name": "Face It",
       "url": "https://open.spotify.com/track/3k2siE5234rEIV52ltcIYY"
+    },
+    {
+      "album": {
+        "name": "FACES",
+        "url": "https://open.spotify.com/album/2ud0Zdgl2DkKXFbdMN2Eef"
+      },
+      "artists": [
+        {
+          "name": "Swavay",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117013,
+      "name": "FACES - but like the one the label made me do",
+      "url": "https://open.spotify.com/track/1vYAk7ZUKTI009021PGhQg"
     },
     {
       "album": {
@@ -2123,6 +2159,32 @@
       "duration_ms": 188238,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/4pUSuVCxVBKVAsoSzWlXJz"
+    },
+    {
+      "album": {
+        "name": "Hunnit Dolla Hiccup",
+        "url": "https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB"
+      },
+      "artists": [
+        {
+          "name": "Armani Caesar",
+          "url": "https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217872,
+      "name": "Hunnit Dolla Hiccup",
+      "url": "https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK"
     },
     {
       "album": {
@@ -2951,7 +3013,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 152000,
       "name": "Maslow's Hammer",
       "url": "https://open.spotify.com/track/15gPvZFGYcznrSDxyv7zjC"
@@ -2969,7 +3031,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 178266,
       "name": "Meagan Good",
       "url": "https://open.spotify.com/track/59LmAQrsS5O64n90EaTQUf"
@@ -3111,7 +3173,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 232053,
       "name": "My Favorite Song",
       "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"

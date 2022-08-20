@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-205 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
+207 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Chamber Of Reflection](https://open.spotify.com/track/1MJ5f5EYBC92ADD6xcz7nb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/1l9d1Zj9Iv2eOcdObVhdMy) | 3:51 | 2022-05-06 | 2022-07-20 |
 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2022-07-22 |  |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-05-06 | 2022-07-26 |
-| [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-07-22 |  |
+| [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-07-22 | 2022-08-20 |
 | [Chiquetere \(feat\. Rafa Villalba\)](https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [Chiquetere](https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6) | 2:43 | 2022-06-13 | 2022-07-28 |
 | [CICERENELLA](https://open.spotify.com/track/5YPPaiETBWl0uh22INkt56) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO II](https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ) | 5:22 | 2022-06-10 | 2022-07-29 |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2022-05-06 |  |
@@ -142,6 +142,7 @@
 | [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 | 2022-07-22 |  |
 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 | 2022-05-06 | 2022-07-29 |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-27 | 2022-07-19 |
+| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 |  |
 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 | 2022-05-06 |  |
 | [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 | 2022-06-24 | 2022-07-21 |
 | [POLKA](https://open.spotify.com/track/20jG7WodtS52iOnWyGE1l4) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A) | [POLKA](https://open.spotify.com/album/4TZVKcYNqGT4Yz4oKWU1I2) | 2:50 | 2022-05-06 | 2022-07-29 |
@@ -173,7 +174,8 @@
 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 | 2022-05-06 | 2022-07-29 |
 | [Silly Boy](https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Silly Boy](https://open.spotify.com/album/48X1aV5CY95zpcnHiE6WGf) | 3:18 | 2022-05-20 | 2022-06-26 |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2022-07-01 |  |
-| [SNAP \- High and Fast](https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:15 | 2022-07-21 |  |
+| [SNAP \- High and Fast](https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:15 | 2022-07-21 | 2022-08-20 |
+| [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 | 2022-08-19 |  |
 | [soft spot](https://open.spotify.com/track/1mtLhZXbQqeU3qugQkuwhk) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/2Z7lZGztugb0rCv7QveDIc) | 3:39 | 2022-05-06 | 2022-07-04 |
 | [Sono una truzza \- Original](https://open.spotify.com/track/7vjYAmgBSVp5MrcFizVyQa) | [Truzza](https://open.spotify.com/artist/3Ds8h4rQwAtnmhgsN6Nky6) | [Sono una truzza \(Tunz tunz tunz parapara tunz\)](https://open.spotify.com/album/2vOiTwWFIUL36tGWyrJJWp) | 3:46 | 2022-06-03 | 2022-06-27 |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2022-05-06 |  |

@@ -11048,6 +11048,32 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/1SYD9U5ySpahn116MFUxby"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Jhn McFly",
+          "url": "https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c"
+        },
+        {
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/6HsP8AwuSVliAtYXr93br0"
+    },
+    {
+      "album": {
         "name": "Strangers Again",
         "url": "https://open.spotify.com/album/3NRWnIuanobC7JBHyyOaKN"
       },
@@ -11777,7 +11803,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 169776,
       "name": "TOSCANA",
       "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"

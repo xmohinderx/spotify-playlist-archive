@@ -4,7 +4,7 @@
 
 > Tap your feet to the K\-Pop beats on your way through the driving moments\. \(시원한 국내음악들과 드라이빙을 즐겨보세요!\)
 
-566 songs - 1 day 7 hr 36 min - [published](https://open.spotify.com/playlist/0nUjsH768x0umnQTjqeac9)
+567 songs - 1 day 7 hr 39 min - [published](https://open.spotify.com/playlist/0nUjsH768x0umnQTjqeac9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Love Yourself](https://open.spotify.com/track/5EcmSX3iRyxM1yFzdwPmse) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [It’s okay to be sensitive 2 OST Part.1](https://open.spotify.com/album/6SUOe1xLoxcshNbsknLnxL) | 2:55 | 2022-03-24 | 2022-04-20 |
 | [LOVE% \(feat\. DAWN\)](https://open.spotify.com/track/2bR7KFQESL278uZAc1vb4U) | [DEMIAN](https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [A Blue not Blues](https://open.spotify.com/album/1sonSzv8w0K8IMdasvLxKp) | 3:33 | 2021-12-29 | 2022-07-18 |
 | [Lover Like Me](https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Lover Like Me](https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC) | 2:57 | 2022-02-03 | 2022-07-29 |
-| [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2021-12-07 |  |
+| [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2021-12-07 | 2022-08-20 |
 | [Lucid Dream](https://open.spotify.com/track/1QTHzaYXb3V89OFQpGu9R2) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Even if get lost, it can flow anyway](https://open.spotify.com/album/0HRFHhuvLEfG77flcrbCI9) | 3:43 | 2022-03-24 | 2022-04-21 |
 | [Lucky](https://open.spotify.com/track/7C6XUqAlRDGQHbTCei0hIZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:18 | 2022-03-24 | 2022-04-21 |
 | [Madonna](https://open.spotify.com/track/4EhsQ3MCiCbdvHIcOZ4YKk) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Madonna](https://open.spotify.com/album/7vKfoQdDR2rj2S8jkVJf0s) | 2:51 | 2022-01-03 | 2022-07-01 |
@@ -397,6 +397,7 @@
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-12-07 | 2022-07-29 |
 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2022-07-08 |  |
 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 | 2022-06-03 |  |
+| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 |  |
 | [Pirate](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Return of The Girl](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) | 3:30 | 2021-12-07 |  |
 | [PLACE TO BE \(feat\. BRIAN MCKNIGHT & ELAINE\)](https://open.spotify.com/track/2JEYGt0Iq2mp8nCqIuIQtN) | [RAINSTONE](https://open.spotify.com/artist/079RrrP1BEc2Dgdx5CWJk5), [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9), [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [PLACE TO BE](https://open.spotify.com/album/4Ynzadmww36jczc6CsuH2T) | 3:46 | 2022-03-24 | 2022-04-13 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-02-03 |  |

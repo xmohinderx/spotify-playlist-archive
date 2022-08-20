@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: インナージャーニー \(Innerjourney\)
 
-537 songs - 1 day 10 hr 41 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+538 songs - 1 day 10 hr 44 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [NO SWEAT](https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [NO SWEAT](https://open.spotify.com/album/7mukzXWGZe0qrnwQ0QK4WE) | 2:18 | 2022-07-28 | 2022-08-18 |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-31 |  |
 | [No, Thank U](https://open.spotify.com/track/5gOkgP1Bdg6AdZFYagNdZS) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [No, Thank U](https://open.spotify.com/album/5sEKAAsvOt4LRS60O3JvgS) | 3:33 | 2022-05-26 | 2022-07-01 |
-| [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-07 | 2022-08-19 |
+| [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-07 |  |
 | [ONE DAY](https://open.spotify.com/track/0sLwEZUUbfIunlbpP6Iigu) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [HELL\-BENT](https://open.spotify.com/album/4p3rkFMsVAgRbJkUPH12G6) | 4:09 | 2022-06-07 | 2022-07-20 |
 | [one more time](https://open.spotify.com/track/7Jxei7V1uUUIai2uPnMg7Z) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [one more time](https://open.spotify.com/album/47KQgzJbmDW0v8Frn3kEvy) | 4:05 | 2022-06-02 | 2022-07-29 |
 | [onemoretime](https://open.spotify.com/track/2rR9NbS9hj98MuPuoRJtaT) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [onemoretime](https://open.spotify.com/album/0be93Q3jSr5gEJ31tRflUX) | 3:20 | 2022-05-26 | 2022-07-28 |
@@ -215,6 +215,7 @@
 | [yodachi](https://open.spotify.com/track/6cfK69bgpl1GoYC2GDEyDE) | [simsiis](https://open.spotify.com/artist/4hU2ZgZUCCp8Bns1OP6JkA) | [white hot](https://open.spotify.com/album/7yGTNyOd5FilSoWqcx8Yp1) | 4:15 | 2022-07-14 | 2022-07-18 |
 | [YOI](https://open.spotify.com/track/2ig5chiTMTTt9HzA5a01rm) | [DADARAY](https://open.spotify.com/artist/5YVpCleE4Ysa6YRa66nzIN) | [ガーラ](https://open.spotify.com/album/4L2ja4EOd1yJjkoqqXJC7k) | 3:15 | 2022-06-02 | 2022-06-24 |
 | [Yoru wo koete](https://open.spotify.com/track/4RzumZk7VjD1nHczvJnhGL) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Yoru wo koete](https://open.spotify.com/album/41KGfrpRPfhT7SxUC7fSnS) | 5:09 | 2022-05-26 | 2022-07-18 |
+| [Your Heart](https://open.spotify.com/track/6iid9qtOzzDSp35j8WFNoh) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:13 | 2022-08-18 |  |
 | [your trip](https://open.spotify.com/track/1C9jTemz6FYLSINGxrt1QA) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [your trip](https://open.spotify.com/album/6BXTp2e23oBdNESFFpTc7l) | 4:04 | 2022-05-26 | 2022-07-29 |
 | [yours](https://open.spotify.com/track/5aUGn26DPGI2ZhpeYYcKJP) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [yours](https://open.spotify.com/album/3Bongu2IlWvd9QIOGLrPOM) | 4:11 | 2022-05-26 | 2022-07-27 |
 | [yumegiwa](https://open.spotify.com/track/6lv8b7SfJHzSermT8j3tS5) | [最果テルーティン](https://open.spotify.com/artist/2yAThkujbnqrhoqPMdoxpX) | [yumegiwa](https://open.spotify.com/album/1eZ3yndN14O5hLPlzNGS2f) | 3:42 | 2022-06-07 | 2022-06-23 |
@@ -409,10 +410,10 @@
 | [南十字星](https://open.spotify.com/track/6ZWi5E5W8urTlxqz1pP64F) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [南十字星](https://open.spotify.com/album/5j6ThRIunJZ5hGlibYj8y2) | 4:58 | 2022-06-02 | 2022-06-05 |
 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 | 2022-05-31 | 2022-07-29 |
 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 | 2022-06-23 |  |
-| [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 | 2022-07-19 |  |
+| [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 | 2022-07-19 | 2022-08-20 |
 | [君が好き](https://open.spotify.com/track/5ayV49fExKlGllY8oyebHI) | [Easycome](https://open.spotify.com/artist/6sXjklgdrq2fcMVZ9gh6do) | [君が好き](https://open.spotify.com/album/1ilZXqYgWvF23c13eWO39D) | 3:37 | 2022-06-23 | 2022-07-03 |
 | [君と夏フェス](https://open.spotify.com/track/0mVtmQomDom72Y7UDm1ODi) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO BEST](https://open.spotify.com/album/6q8CiqzaJZIfYmoBAnkXxx) | 3:44 | 2022-07-28 |  |
-| [君のこゝろ](https://open.spotify.com/track/4z9eQafGoStgUATU9b7KNO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:13 | 2022-08-18 |  |
+| [君のこゝろ](https://open.spotify.com/track/4z9eQafGoStgUATU9b7KNO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:13 | 2022-08-18 | 2022-08-20 |
 | [君はいなせなガール](https://open.spotify.com/track/3QFzoUHBlSLAA7RMR4umgU) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws), [日本松 ひとみ](https://open.spotify.com/artist/2HewoxIYwiA5DoOk4rFgNc) | [君はいなせなガール](https://open.spotify.com/album/0a8wJacfTpSenRSb4TCrNC) | 4:22 | 2022-06-07 | 2022-07-24 |
 | [吸って、吐いて](https://open.spotify.com/track/1jDkBxbUhmgQ0MJ8N2Sjcy) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [後日改めて伺います](https://open.spotify.com/album/5j9v6cG9gytC1hmNj0Zmmb) | 3:44 | 2022-06-16 | 2022-07-16 |
 | [嘘つきパンダ](https://open.spotify.com/track/5lAMp0Hi8sWr1uLsBaYWXO) | [Grape Record](https://open.spotify.com/artist/0LYnBypni53fNQwSqkMfll) | [嘘つきパンダ](https://open.spotify.com/album/1r0KOMCGbyPcMNOATw7UT5) | 3:53 | 2022-06-07 | 2022-07-12 |

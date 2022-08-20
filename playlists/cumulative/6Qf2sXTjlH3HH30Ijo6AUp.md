@@ -4,7 +4,7 @@
 
 > 100 uplifting and happy songs to get you smiling, put a spring in your step &amp; lift your mood
 
-155 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/1kdYqyrvSgLGyOvVSgusQG)
+156 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/1kdYqyrvSgLGyOvVSgusQG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Never Gonna Give You Up](https://open.spotify.com/track/6VPOVkex1tTqsMlMyH8Ebf) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [The Best of Me](https://open.spotify.com/album/09A5ujQAQP0zKYqxvrb1Wn) | 3:34 | 2022-06-07 | 2022-06-18 |
 | [New Rules](https://open.spotify.com/track/43oK4OAWUsRZUDVeHtKI4U) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) | 3:29 | 2022-07-18 |  |
 | [New Shoes](https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:23 | 2022-06-07 |  |
-| [One Call Away](https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:14 | 2022-06-07 |  |
+| [One Call Away](https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:14 | 2022-06-07 | 2022-08-20 |
 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 | 2022-06-07 | 2022-06-28 |
 | [One Touch](https://open.spotify.com/track/3eS1VMcEmq2IUgpaeDysCb) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Always in Between \(Deluxe\)](https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN) | 3:17 | 2022-06-07 |  |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2022-06-07 |  |
@@ -130,6 +130,7 @@
 | [Smile](https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:16 | 2022-06-07 |  |
 | [So Sick](https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [So Sick](https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y) | 2:57 | 2022-06-07 | 2022-07-19 |
 | [So Young](https://open.spotify.com/track/1vpFjf7k2b6TOfeuVrp4vG) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 3:52 | 2022-06-07 | 2022-07-09 |
+| [Somebody](https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Somebody](https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8) | 3:19 | 2022-08-19 |  |
 | [Something Got Me Started \- 2008 Remaster](https://open.spotify.com/track/7EVSRJ9eH21ri2lIHkKkoP) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Expanded Version\)](https://open.spotify.com/album/5IF8lK2MyVeLHxo0UNWMO7) | 4:00 | 2022-06-07 | 2022-07-19 |
 | [Somewhere in My Heart](https://open.spotify.com/track/0pBqW7bLA3soohExT1bU8g) | [Aztec Camera](https://open.spotify.com/artist/7sbwBqdkynNUDgiWU3TQ5J) | [Love](https://open.spotify.com/album/1SUPpY4sx4B8c0rLyMhZc7) | 4:02 | 2022-06-07 | 2022-07-19 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-06-07 |  |

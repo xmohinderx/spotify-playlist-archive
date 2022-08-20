@@ -4,7 +4,7 @@
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-168 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/7G6kgkeeKc0MSS1Yr6hAro)
+169 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/7G6kgkeeKc0MSS1Yr6hAro)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Be Mine \- INFINITE EFFECT ADVANCE LIVE Version](https://open.spotify.com/track/2oC8t1BIDJzArMjeEipSGc) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITE EFFECT ADVANCE LIVE](https://open.spotify.com/album/6HusDYvd7uYff7hgEB2omN) | 3:31 | 2021-09-09 | 2022-07-29 |
 | [Be My Baby](https://open.spotify.com/track/4H3nLd4sDY2OBsugvJc0ql) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Wonder World](https://open.spotify.com/album/1vEiOIYInN3Y2LpvXTcEyK) | 3:31 | 2021-09-09 |  |
 | [Be Natural](https://open.spotify.com/track/33dU6vAuJLgSIDXcOPFKqf) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [A letter from Greenland \- The 4th Album](https://open.spotify.com/album/3AGttGRtaYPhhm4IowdgYY) | 4:42 | 2021-09-09 |  |
-| [Because of you](https://open.spotify.com/track/53PNN2kVM1eFU8C9KRs1jT) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Because of You](https://open.spotify.com/album/5gYRiAIuyb6yFdrG5sXfLG) | 3:58 | 2021-09-09 |  |
+| [Because of you](https://open.spotify.com/track/53PNN2kVM1eFU8C9KRs1jT) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Because of You](https://open.spotify.com/album/5gYRiAIuyb6yFdrG5sXfLG) | 3:58 | 2021-09-09 | 2022-08-20 |
+| [Because of you](https://open.spotify.com/track/5liz7gUkM2OPy8TIDqVa1F) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Because of You](https://open.spotify.com/album/6RvFZkZDXEJjhniVyGADwI) | 4:00 | 2021-09-09 |  |
 | [Better Together](https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Digital Bounce](https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6) | 3:38 | 2021-09-09 |  |
 | [Better Together](https://open.spotify.com/track/6r2RWys84mPOYBMHXbrPZN) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Digital Bounce](https://open.spotify.com/album/5WdFwkGiwtXM4DiXxl02CM) | 3:38 | 2021-09-09 | 2022-07-29 |
 | [Blue Rain](https://open.spotify.com/track/6NZUXr27vdx8gyWxVRrkLS) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 4:20 | 2021-09-09 |  |

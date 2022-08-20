@@ -1,13 +1,53 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Larry June",
-  "num_followers": 1111079,
+  "num_followers": 1111338,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDYwMDk1MiwwMDAwMDAwMDdmZmQ1MjBkYjdlYzY1NjE3ODBjMTZiYjAxOWJiOGNh",
+  "snapshot_id": "MTY2MDkzNTI2MCwwMDAwMDAwMDVjMmFmYjI5OWIzNmI1MGVmM2ZjYjcyYjM0Y2JiZDZh",
   "tracks": [
+    {
+      "added_at": "2022-08-19 04:01:32",
+      "album": {
+        "name": "Spaceships on the Blade",
+        "url": "https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Don't Check Me",
+      "url": "https://open.spotify.com/track/3rG6VPI8QPN64ER0QOUqUL"
+    },
+    {
+      "added_at": "2022-06-29 20:41:54",
+      "album": {
+        "name": "Montega",
+        "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 177788,
+      "name": "Kind of Girl",
+      "url": "https://open.spotify.com/track/39HH3TTdJOxcklLvocgemQ"
+    },
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
@@ -79,30 +119,6 @@
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
-    },
-    {
-      "added_at": "2022-06-29 20:41:54",
-      "album": {
-        "name": "Montega",
-        "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 177788,
-      "name": "Kind of Girl",
-      "url": "https://open.spotify.com/track/39HH3TTdJOxcklLvocgemQ"
     },
     {
       "added_at": "2022-07-22 19:09:04",
@@ -241,6 +257,30 @@
       "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
     },
     {
+      "added_at": "2022-08-19 04:01:32",
+      "album": {
+        "name": "Hunnit Dolla Hiccup",
+        "url": "https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB"
+      },
+      "artists": [
+        {
+          "name": "Armani Caesar",
+          "url": "https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 217872,
+      "name": "Hunnit Dolla Hiccup",
+      "url": "https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK"
+    },
+    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "DRILLMATIC Heart vs. Mind",
@@ -307,6 +347,22 @@
       "duration_ms": 159130,
       "name": "In My Pockets",
       "url": "https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb"
+    },
+    {
+      "added_at": "2022-08-19 18:54:20",
+      "album": {
+        "name": "FACES",
+        "url": "https://open.spotify.com/album/2ud0Zdgl2DkKXFbdMN2Eef"
+      },
+      "artists": [
+        {
+          "name": "Swavay",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        }
+      ],
+      "duration_ms": 117013,
+      "name": "FACES - but like the one the label made me do",
+      "url": "https://open.spotify.com/track/1vYAk7ZUKTI009021PGhQg"
     },
     {
       "added_at": "2022-04-29 04:30:50",
@@ -1749,22 +1805,6 @@
       "url": "https://open.spotify.com/track/4RDBqutpLfd5wgkTCVc0Pd"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Dollar Menu",
-        "url": "https://open.spotify.com/album/3aQjgylGN3kd7rTPsi6gaK"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Maslow's Hammer",
-      "url": "https://open.spotify.com/track/15gPvZFGYcznrSDxyv7zjC"
-    },
-    {
       "added_at": "2022-02-11 05:06:00",
       "album": {
         "name": "14GRAMS",
@@ -1835,42 +1875,6 @@
       "duration_ms": 286503,
       "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
       "url": "https://open.spotify.com/track/2Ri3R5tB1FlZhYgLMqTjSn"
-    },
-    {
-      "added_at": "2022-04-22 04:22:12",
-      "album": {
-        "name": "Taylor Allderdice",
-        "url": "https://open.spotify.com/album/5cpYhM2NdVjJXMy9uZhD2J"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "My Favorite Song",
-      "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"
-    },
-    {
-      "added_at": "2022-02-04 22:46:33",
-      "album": {
-        "name": "Rap?",
-        "url": "https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm"
-      },
-      "artists": [
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Meagan Good",
-      "url": "https://open.spotify.com/track/59LmAQrsS5O64n90EaTQUf"
     },
     {
       "added_at": "2021-12-10 05:00:00",

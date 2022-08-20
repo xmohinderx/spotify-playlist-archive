@@ -2,13 +2,14 @@
 
 ### [Deathcore](https://open.spotify.com/playlist/37i9dQZF1DX1cJWWyylDuw)
 
-> A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Upon A Burning Body
+> A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-392 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
+393 songs - 1 day 1 hr 38 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(•REC\)](https://open.spotify.com/track/4fvR2GgkKNA3fF6sJkEWrF) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [\(•REC\)](https://open.spotify.com/album/42BvL4j3lOANgw96Xr0h5X) | 2:43 | 2021-12-17 | 2022-07-24 |
+| [1984](https://open.spotify.com/track/7LG0FEpKoKvHCv1S6FUrBY) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [1984](https://open.spotify.com/album/5RYY90zPEcG3XxZhueE6Y3) | 3:35 | 2022-08-19 |  |
 | [A Bloodsoaked Symphony](https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [A Bloodsoaked Symphony](https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X) | 4:28 | 2021-12-17 |  |
 | [A Cross to Bear](https://open.spotify.com/track/2qqPqcbTiAtpITQswoN3Nv) | [Medeia](https://open.spotify.com/artist/5KNeODkE372TZMRiUB78YN), [Mike Pilat](https://open.spotify.com/artist/0IXMeMkxxTD3eMRMmSCnXg) | [A Cross to Bear](https://open.spotify.com/album/258gwGp8DFqlqwkNm6ehvP) | 4:01 | 2022-01-28 | 2022-07-24 |
 | [A Falsehood Defined](https://open.spotify.com/track/1BzMGPxp3mOQDuW6nVIihW) | [The Dialectic](https://open.spotify.com/artist/14XLmlJANyh7F0RCOnvM31) | [A Falsehood Defined](https://open.spotify.com/album/2qKMcVZp4DOWiAaVka5Aay) | 3:13 | 2022-04-01 | 2022-07-09 |
@@ -44,7 +45,7 @@
 | [Banquet of Enigmatic Horrors, Pt\. 2: Agony](https://open.spotify.com/track/4RxrwJYJ3gRnxrUBpyKkzz) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Oliver Rae Aleron](https://open.spotify.com/artist/2IHcesdgSqwFOxH6n7GOXQ) | [Banquet of Enigmatic Horrors, Pt\. 2: Agony](https://open.spotify.com/album/2zwDvKAqalRZTDl4luS9bW) | 4:45 | 2021-12-17 | 2022-07-29 |
 | [Banshee](https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm) | [Seeing Things](https://open.spotify.com/artist/0PQdHOK4NlRByaOMPQeWEH) | [Banshee](https://open.spotify.com/album/2gPp8IUtPPOkTWaIGSxcxj) | 3:10 | 2022-05-27 | 2022-07-24 |
 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Barren and Breathless Macrocosm](https://open.spotify.com/album/5yOlm4DL4IfxA1EJotKHZz) | 4:56 | 2021-12-17 | 2022-07-29 |
-| [Bathe in the Flame](https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Bathe in the Flame](https://open.spotify.com/album/1hHaXapKFTDXsnDhlZbmN6) | 4:00 | 2021-12-17 |  |
+| [Bathe in the Flame](https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Bathe in the Flame](https://open.spotify.com/album/1hHaXapKFTDXsnDhlZbmN6) | 4:00 | 2021-12-17 | 2022-08-20 |
 | [Battles Are Won Within](https://open.spotify.com/track/1x3h4Gt8q5lr3lCr9DwW40) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Battles Are Won Within](https://open.spotify.com/album/2SxBnU5KV2nnjndfDlQgqZ) | 3:56 | 2021-12-17 | 2022-07-23 |
 | [Behind the Crowd](https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Behind The Crowd](https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM) | 3:14 | 2022-04-15 |  |
 | [Behind the Hand of God](https://open.spotify.com/track/3c34ZTRGIuBX6MfRJmmqOW) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Behind the Hand of God](https://open.spotify.com/album/7kLGqxeAyPv2PYRk8dUYBp) | 3:20 | 2021-12-17 |  |
@@ -101,7 +102,7 @@
 | [Deathbed](https://open.spotify.com/track/2Z1GInPPpxZkc2B2ZHPA68) | [Engrossed](https://open.spotify.com/artist/1hv2s5LpM3wCsYTNHLuHdP) | [Deathbed](https://open.spotify.com/album/3vdzyOymFCOC2C4k4PbNtC) | 3:37 | 2022-01-07 | 2022-07-26 |
 | [Deathtouch](https://open.spotify.com/track/4ihxHSh37giw8ANfu8PqlP) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Deathtouch](https://open.spotify.com/album/4lK1lZBV3S2o8XhMvSbvHH) | 3:45 | 2022-03-11 |  |
 | [Deathtouch](https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt) | [Paleface](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Deathtouch](https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ) | 3:21 | 2021-12-17 |  |
-| [Deathwish](https://open.spotify.com/track/1Qdz2l8hr4mNwGj43AyVIR) | [In Dying Arms](https://open.spotify.com/artist/5m3RbDfOQ3RHxrebIytwSW) | [Deathwish](https://open.spotify.com/album/4HJfPe3SlTU1qoT2qHGLCh) | 3:47 | 2021-12-17 |  |
+| [Deathwish](https://open.spotify.com/track/1Qdz2l8hr4mNwGj43AyVIR) | [In Dying Arms](https://open.spotify.com/artist/5m3RbDfOQ3RHxrebIytwSW) | [Deathwish](https://open.spotify.com/album/4HJfPe3SlTU1qoT2qHGLCh) | 3:47 | 2021-12-17 | 2022-08-20 |
 | [Defiled](https://open.spotify.com/track/7lJREQdTv5g2PdTtWMUBSA) | [Hive](https://open.spotify.com/artist/5DA5dDq3y1s10tuBK4HVn6) | [Hive](https://open.spotify.com/album/4pIygQy4Bn15AtMgXh4a0y) | 3:49 | 2021-12-17 | 2022-01-01 |
 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 | 2021-12-17 |  |
 | [Demon King](https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Demon King](https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn) | 3:57 | 2022-05-27 |  |
@@ -134,7 +135,7 @@
 | [Eternal Kingdoms, Pt\. 1](https://open.spotify.com/track/0ieUAXNchbeeMZMMxM2Slu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Call of the Void](https://open.spotify.com/album/1wmQtsU7BQxYk9xKSicyFM) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Everything Has Been Read](https://open.spotify.com/track/6gReyVGau1E5dK06bppV8f) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Sulphur Cvlt](https://open.spotify.com/album/2xBOvDwOXI5I3zviRQzb92) | 4:19 | 2021-12-17 | 2022-07-28 |
 | [Exiled](https://open.spotify.com/track/3nf8onNmC1LSOWISZIusa6) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Exiled](https://open.spotify.com/album/4KPBLz4aGh3g8edhS1gVBq) | 4:22 | 2021-12-31 | 2022-07-24 |
-| [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2021-12-17 | 2022-08-18 |
+| [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2021-12-17 |  |
 | [Exit, Exist](https://open.spotify.com/track/3Ks0l9pRwBoobHURPrTNPs) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Evergreen](https://open.spotify.com/album/5TYkzohGue5TQbhIk2T8xH) | 3:54 | 2022-07-08 |  |
 | [Exit, Exist](https://open.spotify.com/track/4qHgKQGInYni9Ml3l3RO0u) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Exit, Exist](https://open.spotify.com/album/0ZW4okAGcfZ6fKOBE5Fp6T) | 3:54 | 2021-12-17 | 2022-07-29 |
 | [Exsanguination](https://open.spotify.com/track/5jeWsgseKRQDC4FfK0SZ07) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Exsanguination](https://open.spotify.com/album/7Ms7mUx32uRNso6HyA87y0) | 3:20 | 2022-06-24 |  |

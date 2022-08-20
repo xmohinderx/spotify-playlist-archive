@@ -1096,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Outside My Window",
+        "url": "https://open.spotify.com/album/4LbymBMUIVzLVYePiouiVh"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268124,
+      "name": "I Wish We Had More Time",
+      "url": "https://open.spotify.com/track/71F5R77kgxulxZTtgzli7j"
+    },
+    {
+      "album": {
         "name": "I've Got The Feeling",
         "url": "https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1"
       },
@@ -1363,6 +1381,28 @@
       "duration_ms": 159403,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/0mMHRtKs72ns7zPDNaZzPY"
+    },
+    {
+      "album": {
+        "name": "Mirror Of Erised",
+        "url": "https://open.spotify.com/album/4Z59SWLNVf31yAhuhzQ7FH"
+      },
+      "artists": [
+        {
+          "name": "Heard Right",
+          "url": "https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl"
+        },
+        {
+          "name": "Meeting Molly",
+          "url": "https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Mirror Of Erised",
+      "url": "https://open.spotify.com/track/3o9Er7gZnrvh6wHRiv7xac"
     },
     {
       "album": {
@@ -1975,6 +2015,24 @@
       "duration_ms": 232582,
       "name": "Storm Trap",
       "url": "https://open.spotify.com/track/5R6je2hMSX75YAKP5t4CvE"
+    },
+    {
+      "album": {
+        "name": "Sumatra",
+        "url": "https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2"
+      },
+      "artists": [
+        {
+          "name": "Bonsaye",
+          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197047,
+      "name": "Sumatra",
+      "url": "https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3"
     },
     {
       "album": {

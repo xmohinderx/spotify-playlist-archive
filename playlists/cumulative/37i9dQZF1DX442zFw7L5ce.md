@@ -4,7 +4,7 @@
 
 > Fall in Love with the Beauties of Tollywood!<br/>Cover : Sai Pallavi
 
-70 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
+71 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Paala Pitta](https://open.spotify.com/track/1mLqCXaXWkg4fp6JaShT80) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Maharshi](https://open.spotify.com/album/5mUhBq2nLyU7B9KjpRI3hC) | 3:19 | 2021-10-21 |  |
 | [Pacha Bottasi](https://open.spotify.com/track/1PSek4pY6S0yX8h6d8C8Bw) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Damini](https://open.spotify.com/artist/6oBZJ45MuaFpnY6UffCD73) | [Baahubali \- The Beginning](https://open.spotify.com/album/62FLwY6ofjIoyfTB4aY8Qo) | 4:16 | 2021-10-21 |  |
 | [Pilla Picture Perfect](https://open.spotify.com/track/3na6VGHw5UrfEUHeHdAN6m) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ranarangam](https://open.spotify.com/album/2QTbh3cSBuKbw821yvcPRg) | 3:34 | 2021-10-21 |  |
-| [Pillaa Raa](https://open.spotify.com/track/3MXTLAouHSztOxoOSOnbb9) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Top Singer'S Playlist](https://open.spotify.com/album/10pn3qTksy0ii0qXogOm0s) | 3:57 | 2021-10-21 |  |
+| [Pillaa Raa](https://open.spotify.com/track/6vhvtHO8e57meVNp8yKzdV) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Rx 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl) | 3:55 | 2021-10-21 |  |
+| [Pillaa Raa](https://open.spotify.com/track/3MXTLAouHSztOxoOSOnbb9) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Top Singer'S Playlist](https://open.spotify.com/album/10pn3qTksy0ii0qXogOm0s) | 3:57 | 2021-10-21 | 2022-08-20 |
 | [Pillaa Raa](https://open.spotify.com/track/47hP2BJPCOMyYKT5WQ9evZ) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [RX 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vzddHOuT5R28vKakxD0qJ) | 3:57 | 2021-10-21 | 2022-07-29 |
 | [Prema O Premaa](https://open.spotify.com/track/2oMVPX0asvUfRfap0iEmXv) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Hemambika](https://open.spotify.com/artist/6LsBNQohLraTbmkYY80G2p) | [NGK \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/67KkBoft7iHVV4hKbKCZ24) | 4:30 | 2021-10-21 |  |
 | [Prema Vennela \(From "Chitralahari"\)](https://open.spotify.com/track/60U549v4aGcURN9p3jdMdE) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Prema Vennela \(From "Chitralahari"\)](https://open.spotify.com/album/2LOU9zmSxEfjDD0LaGrtxZ) | 3:37 | 2021-10-21 |  |

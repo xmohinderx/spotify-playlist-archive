@@ -1300,6 +1300,28 @@
     },
     {
       "album": {
+        "name": "Mystery of Love (Le Flex \"Summer Mystery\" Remix)",
+        "url": "https://open.spotify.com/album/6LozhAvGkGm2TlWnXsng7w"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        },
+        {
+          "name": "Le Flex",
+          "url": "https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253097,
+      "name": "Mystery of Love - Le Flex \"Summer Mystery\" Remix",
+      "url": "https://open.spotify.com/track/2nDXRRl54WDUU8iDzDRm4f"
+    },
+    {
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/5LcrQlu6U8Y55Sv7NWXJOo"
       },
@@ -1789,7 +1811,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 237013,
       "name": "The Disco Song",
       "url": "https://open.spotify.com/track/1k5uC3EcnsIEbOMB680Afb"

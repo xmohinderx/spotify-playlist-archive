@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 215651,
       "name": "Drum Circle",
       "url": "https://open.spotify.com/track/37moVY9Iahrhbli5evfsmH"
@@ -1236,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "No One Is Alone (From \"Good Trouble\")",
+        "url": "https://open.spotify.com/album/15FrGIi7i0fefNUiUHAPeW"
+      },
+      "artists": [
+        {
+          "name": "Emma Hunton",
+          "url": "https://open.spotify.com/artist/2AaAHKo5kfPhzIrSFFZhVs"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151191,
+      "name": "No One Is Alone - From \"Good Trouble\"",
+      "url": "https://open.spotify.com/track/5kxNp4IRdENMSh9HfzgZZl"
+    },
+    {
+      "album": {
         "name": "Nose to Nose",
         "url": "https://open.spotify.com/album/3dSzXQev0iDG85clMukCok"
       },
@@ -1704,6 +1722,28 @@
     },
     {
       "album": {
+        "name": "The Night-Time Sky's Got Nothing on You (from \"Almost Famous - The Musical\")",
+        "url": "https://open.spotify.com/album/48ybZa5Klu3naTjFcZMxC3"
+      },
+      "artists": [
+        {
+          "name": "Chris Wood",
+          "url": "https://open.spotify.com/artist/5yM1DQUmKUfdc4FRpgp4Cx"
+        },
+        {
+          "name": "Solea Pfeiffer",
+          "url": "https://open.spotify.com/artist/2crTNLaQdRWk74CNuccUOs"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "The Night-Time Sky's Got Nothing on You - from \"Almost Famous - The Musical\"",
+      "url": "https://open.spotify.com/track/6NLdEVaTnMouAcIOM2hlnE"
+    },
+    {
+      "album": {
         "name": "The Phantom Of The Opera Symphonic Suite (Pt.1)",
         "url": "https://open.spotify.com/album/0HNGzcTvkjeJu7IonaF8Z9"
       },
@@ -1785,7 +1825,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 296440,
       "name": "This Must Be the Place (Na\u00efve Melody) - Live",
       "url": "https://open.spotify.com/track/36tSwFpEeUd5xY3dcyZMjz"

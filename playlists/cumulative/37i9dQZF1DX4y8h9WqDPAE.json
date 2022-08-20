@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 218266,
       "name": "Addicted (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/3Mr7AWHQj2ZUfMwNWq59MK"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 224000,
       "name": "Gettin' Hot",
       "url": "https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 198005,
       "name": "GHETTO GATSBY (FEAT. ALICIA KEYS)",
       "url": "https://open.spotify.com/track/2krESug6AyfOL07tlaGwts"
@@ -1874,6 +1874,24 @@
     },
     {
       "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188906,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
+    },
+    {
+      "album": {
         "name": "Kenkele",
         "url": "https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m"
       },
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 204437,
       "name": "NONCHALANT (feat. Mamii)",
       "url": "https://open.spotify.com/track/2mz9mssxUxuUdBBiMWXdIF"
@@ -2343,6 +2361,28 @@
       "duration_ms": 144665,
       "name": "One Night Ting (feat. Saweetie)",
       "url": "https://open.spotify.com/track/0v3WvQ010FCs5IT1VvvHCr"
+    },
+    {
+      "album": {
+        "name": "Pillow Talk",
+        "url": "https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149304,
+      "name": "Oooh Triflin (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/3g3TnWFkqfkMaQHSPrQNsM"
     },
     {
       "album": {
@@ -3329,6 +3369,24 @@
       "duration_ms": 187922,
       "name": "Twisted Fantasy",
       "url": "https://open.spotify.com/track/23tZbR3A6G52shxX4CQg92"
+    },
+    {
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "album": {

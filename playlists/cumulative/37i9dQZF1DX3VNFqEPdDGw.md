@@ -4,7 +4,7 @@
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-76 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
+77 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Khabbi Khaan](https://open.spotify.com/track/0TaW40lV72mpo3TJCsTiCJ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Khabbi Khaan](https://open.spotify.com/album/5Cash5ILWkSnb0vybmcktT) | 2:33 | 2022-02-08 |  |
 | [Khad Tainu Main Dassa](https://open.spotify.com/track/38SHGnYLRMQJ7MzaU6fkCl) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [Khad Tainu Main Dassa](https://open.spotify.com/album/2bN1Z69PB8VSh7K9Omt6By) | 3:24 | 2021-12-18 | 2022-01-11 |
 | [Lahore](https://open.spotify.com/track/0Fv8C5OjucKsasQtb7WlIn) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Deep Sidhu](https://open.spotify.com/artist/1c52W7HepD1XDSapOn2UiY) | [Lahore](https://open.spotify.com/album/3NloRIpQK823s5V46bhtpL) | 3:37 | 2022-02-28 |  |
+| [Lahore \(from the movie 'Laung Laachi 2'\)](https://open.spotify.com/track/3sV0p3cH2qVJGarX99lHo4) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Lahore \(from the movie 'Laung Laachi 2'\)](https://open.spotify.com/album/2XO7ROc8zWM1akNJ7elyYX) | 2:02 | 2022-08-19 |  |
 | [Let 'em Play](https://open.spotify.com/track/5Cup5xIrEjpqxRbHASY9K7) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Let 'em Play](https://open.spotify.com/album/2gIppPmL10lO7CVK1NBNfW) | 3:12 | 2021-12-18 | 2022-07-29 |
 | [Let 'em Play](https://open.spotify.com/track/6S6HSSk9HzWe3pqvUJn6Vq) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Let 'em Play](https://open.spotify.com/album/3eo5DzbsNmG1KYZgwEUeLX) | 3:15 | 2022-07-05 |  |
 | [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 | 2021-12-18 |  |

@@ -2,9 +2,9 @@
 
 ### [New Music Friday Hindi ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
 
-> New music from popular Hindi artists\. Cover\- B Praak
+> New music from popular Hindi artists\. Cover\- Yashraj
 
-189 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
+190 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Mika Di Vohti](https://open.spotify.com/track/6oHddbMspiGFongC5uDL9Q) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Mika Di Vohti](https://open.spotify.com/album/0uUVVHyzzxi615RTb16PoU) | 3:28 | 2022-05-27 | 2022-06-11 |
 | [Minnatein](https://open.spotify.com/track/4vhHf2XdBhj2CtqqP4wBc5) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY) | [Minnatein](https://open.spotify.com/album/69hsxJ8iGjmehV0BfCczdj) | 3:27 | 2022-05-27 | 2022-06-11 |
 | [Mora Piya](https://open.spotify.com/track/6qwGMEQRHghZYXCBKgH7li) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Shubhashish Upadhyay](https://open.spotify.com/artist/3FMZ4EYLC6d2M2I0UZgSsA) | [Mora Piya](https://open.spotify.com/album/6URdEpwGJrcH0befSKc5oE) | 4:37 | 2022-06-17 | 2022-06-25 |
+| [Musafir](https://open.spotify.com/track/0qrhhIGpOkghVtiIjTi6yV) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Akash Shravan](https://open.spotify.com/artist/4jFzbVrYw3ARhalxPjFfU0) | [Takiya Kalaam](https://open.spotify.com/album/1sUkDpeG4mPaQSJh9mTzzw) | 2:58 | 2022-08-19 |  |
 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 | 2022-07-29 |  |
 | [Nadan Dil](https://open.spotify.com/track/6qiGZ8xRmjFdNEAp29XC5Z) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Nadan Dil](https://open.spotify.com/album/2MsiXR3WWV6FuAGYyWMm4v) | 2:38 | 2022-06-17 | 2022-06-25 |
 | [Naina: Chaap Tilak](https://open.spotify.com/track/1fvDAEo1LbRS3AGZx6Zr2i) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Naina: Chaap Tilak](https://open.spotify.com/album/5v8I2HFEzxbUWH3YJH2T0C) | 3:42 | 2022-06-24 | 2022-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > The latest hits from your favourite festival legends\. Peace, love, unity, respect\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,215 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,383 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 49 | [Gotta Be You](https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Gotta Be You](https://open.spotify.com/album/2zzcyknjN9v95n0OYg8paf) | 2:29 |
 | 50 | [Ready To Love](https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Ready To Love](https://open.spotify.com/album/2DZEdOT8Y9knkZAUjpG7mT) | 3:08 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDA3NDk4MjRkOGI2YTgwNWFmOWRhMmRiYWUxOGFmOGZh`
+Snapshot ID: `MTY2MDkyNTQ0MSwwMDAwMDAwMGRlOTc0YTk1MTBlYjQzZDk4YmRlNGJmMzIzNzMwZTVi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New and trending tracks from Texas Country icons and rising stars.",
+  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Wade Bowen",
   "name": "Texas Country Now",
   "published_playlist_ids": [
     "4X9VlF1gslCvOG5f1Uvt9a"
@@ -3202,6 +3202,24 @@
     },
     {
       "album": {
+        "name": "What Else Can She Do",
+        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234360,
+      "name": "jackson",
+      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
+    },
+    {
+      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/0Dxsw5DUGrP4qb1cQE0bV2"
       },
@@ -3545,7 +3563,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 203580,
       "name": "Love Goes",
       "url": "https://open.spotify.com/track/6AlLssdGnCKgXtJTCmdZB5"
@@ -3675,6 +3693,28 @@
       "duration_ms": 222400,
       "name": "Marfa Lights",
       "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
+    },
+    {
+      "album": {
+        "name": "Married Alone (feat. Vince Gill)",
+        "url": "https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254033,
+      "name": "Married Alone (feat. Vince Gill)",
+      "url": "https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD"
     },
     {
       "album": {
@@ -5204,6 +5244,24 @@
     },
     {
       "album": {
+        "name": "Unwanted Man",
+        "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219529,
+      "name": "The Old Man Said",
+      "url": "https://open.spotify.com/track/11YK2L3U5Yr4SepKwX1yiE"
+    },
+    {
+      "album": {
         "name": "The One You Know",
         "url": "https://open.spotify.com/album/2Ghe25vEXBDc17A5YlOaaB"
       },
@@ -5759,7 +5817,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 310173,
       "name": "what else can she do",
       "url": "https://open.spotify.com/track/77fOA740BCuAkclGxQUuEP"
@@ -6185,7 +6243,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 266783,
       "name": "With You",
       "url": "https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC"

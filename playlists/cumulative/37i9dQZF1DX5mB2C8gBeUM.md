@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Abby Anderson
 
-254 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+258 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [As You Leave](https://open.spotify.com/track/218NK60dJvyf7mIsowogA3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave](https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt) | 2:06 | 2022-02-18 |  |
 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 | 2021-12-10 |  |
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-02-11 | 2022-06-11 |
-| [Backroad Flyin'](https://open.spotify.com/track/73VO2Gy5FMTpmeQl0jFeZl) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf) | [Backroad Flyin'](https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y) | 3:12 | 2021-12-10 |  |
+| [Backroad Flyin'](https://open.spotify.com/track/73VO2Gy5FMTpmeQl0jFeZl) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf) | [Backroad Flyin'](https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y) | 3:12 | 2021-12-10 | 2022-08-20 |
+| [Backroad Flyin' \- Matthew Parker Remix](https://open.spotify.com/track/4c1sQ9WPt5PAvPjNhbijVp) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Backroad Flyin' \(Matthew Parker Remix\)](https://open.spotify.com/album/1ebsAD2Bbn0YgbLzOnczBL) | 3:02 | 2022-08-19 |  |
 | [Backwoods](https://open.spotify.com/track/64QS3eikdCpcoCXD3cukfr) | [firekid](https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3) | [Backwoods](https://open.spotify.com/album/0idBcdq0YwwCPty04TUCuZ) | 2:34 | 2021-12-10 | 2022-06-11 |
 | [Bad Posture](https://open.spotify.com/track/1s7jZkEqW1T84f3VyIT29g) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Bad Posture](https://open.spotify.com/album/2uA638e2EeOviOr7ZZ15Zi) | 3:12 | 2021-12-10 | 2022-07-16 |
 | [Bar In Belize](https://open.spotify.com/track/7qoP8UanlYhL4OjQLyIPVm) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Bar In Belize](https://open.spotify.com/album/1Ch61lessoISQYShQ1gBwf) | 3:05 | 2022-05-06 |  |
@@ -59,6 +60,7 @@
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-07 | 2022-02-26 |
 | [Closer To Over You](https://open.spotify.com/track/00N5SEfWH4b3aQhVDGVv7M) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Closer To Over You](https://open.spotify.com/album/4fwr9LJHJXugyFeFVxzwVB) | 3:23 | 2021-12-10 |  |
 | [COLD HEART](https://open.spotify.com/track/2w4Z0WNlMwhrccnAhy4dFg) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw) | [COLD HEART](https://open.spotify.com/album/5ZHuvg6Hz5VVEFhUMa3oAT) | 3:00 | 2022-02-11 | 2022-06-11 |
+| [Cold Hearted](https://open.spotify.com/track/4CqCfVF7Zvr3HIt8nr1P98) | [Sunset West](https://open.spotify.com/artist/6OFn7TgXCd9qdn2lMUX7T6) | [Cold Hearted](https://open.spotify.com/album/2ZHErtnhlEJrgfDlyQZH8w) | 3:42 | 2022-08-19 |  |
 | [Colorado Boulder](https://open.spotify.com/track/415cidxCKnjZg9l7dAnVJp) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Colorado Boulder](https://open.spotify.com/album/5hF6qsppuOKFRmgeCKwj2T) | 2:43 | 2022-02-25 |  |
 | [Cool](https://open.spotify.com/track/44USwYuZ2eckQTYqkoeJEC) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0IuKHnuroKmBnaPqIRuxnh) | 3:48 | 2021-12-10 | 2022-02-26 |
 | [country anywhere](https://open.spotify.com/track/4TVlDWrY5vLvOT0uJgKDZ4) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [country anywhere](https://open.spotify.com/album/0jJOkR5QbETozlBC1Xbdt8) | 2:50 | 2022-07-01 |  |
@@ -70,6 +72,7 @@
 | [Cowboy Boots \- Taylor's Version](https://open.spotify.com/track/6OyTAVRwMs6T7z6SCfYE3J) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Cowboy Boots \(Taylor's Version\)](https://open.spotify.com/album/55PU8YqSIWhvnWoy3cAKMs) | 3:00 | 2021-12-10 | 2022-01-08 |
 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 | 2022-02-25 |  |
 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 | 2022-04-22 |  |
+| [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2022-08-19 |  |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4EncjICVJk0gK2icnG0b1Q) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:37 | 2022-07-22 |  |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 | 2022-03-04 | 2022-07-29 |
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-02-04 |  |
@@ -184,6 +187,7 @@
 | [Paying For It](https://open.spotify.com/track/4um0dlscaZs2xkSbH72pP2) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Paying For It](https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX) | 3:11 | 2021-12-10 | 2022-05-20 |
 | [Plain Jane](https://open.spotify.com/track/6aoT8a5ra1r6vCsbrdHfsW) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 3:00 | 2021-12-10 |  |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-08 |  |
+| [Ragdoll](https://open.spotify.com/track/5n0uCraD4EIMmRWz2Yr9TA) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Ragdoll](https://open.spotify.com/album/6WjJUeJmOsU4BnkYGRGBSi) | 3:12 | 2022-08-19 |  |
 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 | 2021-12-10 |  |
 | [Rather Be Broke](https://open.spotify.com/track/3u5VNiGarGDcBYuM26XXaC) | [Jordan Fletcher](https://open.spotify.com/artist/43U27Vp3DiU94H7FJx804a) | [Rather Be Broke](https://open.spotify.com/album/3HNKlvVe8NwP4hd2WK25QQ) | 2:37 | 2021-12-10 |  |
 | [Red Flags](https://open.spotify.com/track/5yJ0jhZV0YXAzQ6ylZgj6i) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Red Flags](https://open.spotify.com/album/53wuYCjfggJsrAKAHFDdCx) | 2:34 | 2022-03-18 |  |

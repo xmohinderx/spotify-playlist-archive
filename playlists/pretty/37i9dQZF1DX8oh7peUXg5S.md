@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joan Manuel Serrat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,858 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,973 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Contigo](https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Contigo](https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ) | 4:54 |
 | 100 | [Tierra](https://open.spotify.com/track/6mR0ZA4DxvAHBihaXgI3oD) | [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx) | [Atlántico](https://open.spotify.com/album/0gROV7KbeA7uF7XAgHtDpX) | 3:58 |
 
-Snapshot ID: `MTY2MDIxNzE2MiwwMDAwMDAwMGFiZjk3N2U3NDkyMDdhZmQ1NDg4YTZjZjljMzRkNmQx`
+Snapshot ID: `MTY2MDkwNTE4MiwwMDAwMDAwMDBhNDI4MGMyMTYwNzc1NDYyZTgwNTY3ZTlmYjhlOWQ2`

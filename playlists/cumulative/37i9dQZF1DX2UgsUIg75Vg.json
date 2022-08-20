@@ -590,6 +590,24 @@
     },
     {
       "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
+      },
+      "artists": [
+        {
+          "name": "KWAYE",
+          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
+    },
+    {
+      "album": {
         "name": "MANTIC",
         "url": "https://open.spotify.com/album/79XZHjSZloC8UIUMT1g5JM"
       },
@@ -1048,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "Can I Call You Rose?",
+        "url": "https://open.spotify.com/album/2VFqugtU9c8GQwvhYgm7FX"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188512,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/6tXuf3jm5wxrMPtvXREYoE"
+    },
+    {
+      "album": {
         "name": "Pacific Time - EP",
         "url": "https://open.spotify.com/album/4JInVfKuLTpdDNdPZ3qAyK"
       },
@@ -1237,6 +1273,28 @@
       "duration_ms": 160398,
       "name": "Church",
       "url": "https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia"
+    },
+    {
+      "album": {
+        "name": "Coastin'",
+        "url": "https://open.spotify.com/album/5yoCMolsZFuzsrWK8LAKin"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220680,
+      "name": "Coastin' [Feat. Lalah Hathaway]",
+      "url": "https://open.spotify.com/track/5vsi5OWrEj1J3MFzKD5GTJ"
     },
     {
       "album": {
@@ -1767,6 +1825,28 @@
       "duration_ms": 225773,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2YMXS10cLLTiJ8BLn9nasA"
+    },
+    {
+      "album": {
+        "name": "DNA (Live)",
+        "url": "https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN"
+      },
+      "artists": [
+        {
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
+        },
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228292,
+      "name": "DNA - Live",
+      "url": "https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P"
     },
     {
       "album": {
@@ -3092,6 +3172,24 @@
     },
     {
       "album": {
+        "name": "Torn Tapestries",
+        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Heartburn (Sooibrand)",
+      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
+    },
+    {
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/7vRcickwa6GCfY1qKKe4lK"
       },
@@ -3353,6 +3451,24 @@
       "duration_ms": 205384,
       "name": "Iced Tea",
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
+    },
+    {
+      "album": {
+        "name": "If I Died",
+        "url": "https://open.spotify.com/album/74vj8o08T2hZRTCr16WBla"
+      },
+      "artists": [
+        {
+          "name": "Eddy Luna",
+          "url": "https://open.spotify.com/artist/7gnObZHxWlF5E82KGlKHMM"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218432,
+      "name": "If I Died",
+      "url": "https://open.spotify.com/track/5RnBLK6r3sUBZlSCokuoVE"
     },
     {
       "album": {
@@ -4761,7 +4877,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 180401,
       "name": "Naked",
       "url": "https://open.spotify.com/track/0I6PjTwqXQlsJYwwBMP1sQ"
@@ -4903,6 +5019,28 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "album": {
+        "name": "R&B MONEY",
+        "url": "https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206868,
+      "name": "No Limit (feat. Alex Isley)",
+      "url": "https://open.spotify.com/track/70Jf2erjhNmTSjgw1b0qrY"
     },
     {
       "album": {
@@ -6002,6 +6140,28 @@
     },
     {
       "album": {
+        "name": "R&B MONEY",
+        "url": "https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230453,
+      "name": "See Through Love (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH"
+    },
+    {
+      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -6196,6 +6356,24 @@
     },
     {
       "album": {
+        "name": "Sweet Heat",
+        "url": "https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd"
+      },
+      "artists": [
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub"
+    },
+    {
+      "album": {
         "name": "Smokin Out The Window",
         "url": "https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8"
       },
@@ -6219,6 +6397,24 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl"
+    },
+    {
+      "album": {
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq"
+      },
+      "artists": [
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213381,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg"
     },
     {
       "album": {

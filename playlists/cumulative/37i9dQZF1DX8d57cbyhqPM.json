@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 222680,
       "name": "Butu Ya Lelo",
       "url": "https://open.spotify.com/track/6ybcrc3Ekrcy65TG0ASgsQ"
@@ -1020,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "Matete",
+        "url": "https://open.spotify.com/album/2AIFNlOYysG3HqYjHnxaMd"
+      },
+      "artists": [
+        {
+          "name": "Pesa Bazz",
+          "url": "https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233314,
+      "name": "Matete",
+      "url": "https://open.spotify.com/track/5wp41PrAJyoA6PYfraw98Z"
+    },
+    {
+      "album": {
         "name": "Mbapp\u00e9",
         "url": "https://open.spotify.com/album/4TdC4zH22pUkAkW2eVQm2A"
       },
@@ -1158,6 +1176,24 @@
     },
     {
       "album": {
+        "name": "Mutu EBEBA",
+        "url": "https://open.spotify.com/album/6ePKPQSOmiFxZYb9qyFemo"
+      },
+      "artists": [
+        {
+          "name": "SHARABIA",
+          "url": "https://open.spotify.com/artist/5TcxIt337AdejHrxFa5KTN"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271858,
+      "name": "Mutu Ebeba",
+      "url": "https://open.spotify.com/track/2GAA7jWcNgb0mMIZ4Zb3r1"
+    },
+    {
+      "album": {
         "name": "Na Boyi",
         "url": "https://open.spotify.com/album/10CDU3zOIH1caB8E1MZa2y"
       },
@@ -1187,7 +1223,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 196499,
       "name": "Na P\u00e8t\u00e8",
       "url": "https://open.spotify.com/track/15A4yOkL1eudjFq8F7gOk7"

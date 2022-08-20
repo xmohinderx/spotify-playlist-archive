@@ -2277,7 +2277,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 316998,
       "name": "Miami Dream",
       "url": "https://open.spotify.com/track/1aIANWtddXVxegatVZWDBv"
@@ -3245,7 +3245,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 385000,
       "name": "Sky View",
       "url": "https://open.spotify.com/track/58IGukkmCJqIlTrrb4g4xO"
@@ -4317,7 +4317,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 353546,
       "name": "Voyager One (feat. Nate Smith & Bobby Sparks II)",
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
@@ -4579,6 +4579,24 @@
       "duration_ms": 145499,
       "name": "Wouldn't You",
       "url": "https://open.spotify.com/track/7i9Xk5r7RUNFq4oSNPwGJe"
+    },
+    {
+      "album": {
+        "name": "You Feel Me",
+        "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191443,
+      "name": "You Feel Me",
+      "url": "https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA"
     },
     {
       "album": {

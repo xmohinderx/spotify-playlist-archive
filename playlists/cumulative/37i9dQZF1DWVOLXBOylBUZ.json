@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Ozuna y Tokischa tienen el ritmo que mueve Latinoam\u00e9rica.",
+  "description": "Ptazeta y Villano Antillano tienen el ritmo que mueve Latinoam\u00e9rica.",
   "name": "El Ritmo",
   "published_playlist_ids": [
     "3K8lWo1A5PGXtJdAZf1WiQ"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
@@ -490,6 +490,36 @@
     },
     {
       "album": {
+        "name": "Aloha Remix",
+        "url": "https://open.spotify.com/album/7JhKgf5sKbIPFZA0vYiEJr"
+      },
+      "artists": [
+        {
+          "name": "Flavor Colectivo",
+          "url": "https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+        },
+        {
+          "name": "Dejota2021",
+          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+        },
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247346,
+      "name": "Aloha Remix",
+      "url": "https://open.spotify.com/track/4hpOYMQsjZtYAt7T2KPJ0b"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
       },
@@ -531,6 +561,28 @@
       "duration_ms": 195652,
       "name": "Amor Bipolar",
       "url": "https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2"
+    },
+    {
+      "album": {
+        "name": "Ande Con Quien Ande",
+        "url": "https://open.spotify.com/album/1HUkl1Q80b9VhGWBfY37RW"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208734,
+      "name": "Ande Con Quien Ande",
+      "url": "https://open.spotify.com/track/6AizmGCrFRQHru1Qf8WKoJ"
     },
     {
       "album": {
@@ -802,6 +854,32 @@
     },
     {
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250082,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
+    },
+    {
+      "album": {
         "name": "BORRACHA",
         "url": "https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex"
       },
@@ -821,6 +899,32 @@
       "duration_ms": 204981,
       "name": "BORRACHA",
       "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
+    },
+    {
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191212,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/36YVCCPC3oagSaOJSgUCEC"
     },
     {
       "album": {
@@ -1105,6 +1209,40 @@
       "duration_ms": 199591,
       "name": "Cazame",
       "url": "https://open.spotify.com/track/2LtTHIXTaFwvY9oLOThElU"
+    },
+    {
+      "album": {
+        "name": "La Liga",
+        "url": "https://open.spotify.com/album/5ygbezvff10PqHn4BU9qYQ"
+      },
+      "artists": [
+        {
+          "name": "Symon Dice",
+          "url": "https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v"
+        },
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Thyago",
+          "url": "https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Chamaquita",
+      "url": "https://open.spotify.com/track/25Ga9guxLibg4kn5OuXuQF"
     },
     {
       "album": {
@@ -1486,6 +1624,28 @@
     },
     {
       "album": {
+        "name": "Daytona",
+        "url": "https://open.spotify.com/album/6sPM0YCsp2gwVVhTHUqgq8"
+      },
+      "artists": [
+        {
+          "name": "Gotay \"El Autentiko\"",
+          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225453,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/5rzFAdLDzGoj338yESHhwh"
+    },
+    {
+      "album": {
         "name": "De Vacaciones",
         "url": "https://open.spotify.com/album/3hGXppZGM4VXr1v3m6DVX3"
       },
@@ -1515,7 +1675,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 184134,
       "name": "De X Vida",
       "url": "https://open.spotify.com/track/7KdlLGCuAA25rzatYxDNHM"
@@ -2185,7 +2345,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 260000,
       "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
       "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
@@ -2259,7 +2419,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 172352,
       "name": "Esto Reci\u00e9n Empieza",
       "url": "https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB"
@@ -2355,7 +2515,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 158080,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
@@ -3461,7 +3621,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 180705,
       "name": "Mereces Menos",
       "url": "https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq"
@@ -3684,6 +3844,28 @@
     },
     {
       "album": {
+        "name": "Mujer\u00f3n",
+        "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Mujer\u00f3n",
+      "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
+    },
+    {
+      "album": {
         "name": "Muy Feliz",
         "url": "https://open.spotify.com/album/3VSXYMgkFMEVABTBmR0h8R"
       },
@@ -3797,6 +3979,28 @@
       "duration_ms": 162421,
       "name": "Ni\u00f1a de Mis Ojos",
       "url": "https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF"
+    },
+    {
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "No Confi\u00f3",
+      "url": "https://open.spotify.com/track/2UieOcTk0Kl4bzLVBW4oVj"
     },
     {
       "album": {
@@ -4599,7 +4803,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 211464,
       "name": "Que Vamo\u2019 Hacer?",
       "url": "https://open.spotify.com/track/3Lnfbc1ZlIzIU5KmAeQNj4"
@@ -5267,7 +5471,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 158718,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/3TqRlg6yVni12jgORANsV4"

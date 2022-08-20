@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,097 likes - 62 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,228 likes - 62 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 8 | [Yellow](https://open.spotify.com/track/3v64j3vihZ9IhEewaUfIqK) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Covers, Vol\. 1](https://open.spotify.com/album/0yFuG8TdMSfrTE5repnCWN) | 4:23 |
 | 9 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
 | 10 | [Iris \(arr\. piano\)](https://open.spotify.com/track/4Z1xN1J50aIn1kqDmy0RNG) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Iris \(arr\. piano\)](https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9) | 2:36 |
-| 11 | [In My Room](https://open.spotify.com/track/4cOUlfphQg9EvowvpwABvg) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [At My Piano](https://open.spotify.com/album/2wA42FpaNT9PKJn1RLdWwO) | 3:07 |
-| 12 | [Something Good \- From "The Sound Of Music"](https://open.spotify.com/track/0KiUE3zdD3M8IRLcNDbjfv) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Van\-Anh Nguyen](https://open.spotify.com/artist/4yWz7f8lbTWD2qgsqk6dsF) | [Something Good \(From "The Sound Of Music"\)](https://open.spotify.com/album/57EQzSK2OELXEBeNNyWHj6) | 3:30 |
-| 13 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 |
-| 14 | [Fix You](https://open.spotify.com/track/2ZzqC4NSi374IufPYvGMP6) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Music Lab Collective](https://open.spotify.com/album/1hJMoMK9kIQFlF6mbqG9nU) | 5:32 |
-| 15 | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/track/5lZKq1z5jpVu7ha6zklvXS) | [Sean Redmond](https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA) | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/album/6fsnME3JizGwIc7MgPwxNO) | 2:40 |
-| 16 | [Earned It \- Solo Piano](https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Earned It \(Solo Piano\)](https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz) | 4:06 |
-| 17 | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/track/1wBkkzmmI89hiSAvEhKsFO) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/album/5OZmuatP2xhw1bqr2mdsw8) | 2:43 |
+| 11 | [Something Good \- From "The Sound Of Music"](https://open.spotify.com/track/0KiUE3zdD3M8IRLcNDbjfv) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Van\-Anh Nguyen](https://open.spotify.com/artist/4yWz7f8lbTWD2qgsqk6dsF) | [Something Good \(From "The Sound Of Music"\)](https://open.spotify.com/album/57EQzSK2OELXEBeNNyWHj6) | 3:30 |
+| 12 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 |
+| 13 | [Fix You](https://open.spotify.com/track/2ZzqC4NSi374IufPYvGMP6) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Music Lab Collective](https://open.spotify.com/album/1hJMoMK9kIQFlF6mbqG9nU) | 5:32 |
+| 14 | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/track/5lZKq1z5jpVu7ha6zklvXS) | [Sean Redmond](https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA) | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/album/6fsnME3JizGwIc7MgPwxNO) | 2:40 |
+| 15 | [Earned It \- Solo Piano](https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Earned It \(Solo Piano\)](https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz) | 4:06 |
+| 16 | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/track/1wBkkzmmI89hiSAvEhKsFO) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/album/5OZmuatP2xhw1bqr2mdsw8) | 2:43 |
+| 17 | [In My Room](https://open.spotify.com/track/4cOUlfphQg9EvowvpwABvg) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [At My Piano](https://open.spotify.com/album/2wA42FpaNT9PKJn1RLdWwO) | 3:07 |
 | 18 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 |
 | 19 | [The Scientist](https://open.spotify.com/track/025vpSSyndhVZezl8rUF6L) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 8](https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq) | 4:55 |
 | 20 | [I'm Yours \- Piano Version](https://open.spotify.com/track/4NqDMiBF4yLwdfJ6BDDdx2) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:02 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 61 | [A Thousand Years](https://open.spotify.com/track/0E0xI4AgMNU7UkwBt3FCVN) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:35 |
 | 62 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 |
 
-Snapshot ID: `MTY2MDU1ODI5MCwwMDAwMDAwMDc1MWU4N2Y3MzZmYjFmZWQ1M2FjMjA2MmU4OTQ2MzE2`
+Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMDYyZGM4MjExNmMzZjRhNTBjYmE1NmFiYzM0MTMwOWRm`

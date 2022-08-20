@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 201625,
       "name": "Corazon Vacio (En Vivo)",
       "url": "https://open.spotify.com/track/3TQ6UHQeFMzSbE7NRPAZ6d"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 158710,
       "name": "L\u00edbrame Dios",
       "url": "https://open.spotify.com/track/6Cx5zhrSpv6GZTxGVrFagD"
@@ -719,6 +719,24 @@
       "duration_ms": 171066,
       "name": "Me Va Y Me Viene",
       "url": "https://open.spotify.com/track/03AwEUNvTXg0f0fwyCgr1I"
+    },
+    {
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140826,
+      "name": "Mudo Por Tu Amor",
+      "url": "https://open.spotify.com/track/0zItQwc6k71g0smaBjrng1"
     },
     {
       "album": {
@@ -931,7 +949,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 166773,
       "name": "Se Burlaron Mis Amigos",
       "url": "https://open.spotify.com/track/4U3s9W6mUbWHSZqYrXdEUv"

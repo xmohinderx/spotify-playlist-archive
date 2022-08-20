@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-85 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
+86 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Million Miles](https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 6:32 | 2022-06-24 |  |
 | [Mustang Sally \(feat\. Jeff Beck\)](https://open.spotify.com/track/22W96oGvTk4kvL9oHnIxok) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Can't Quit The Blues](https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst) | 4:39 | 2022-06-24 |  |
 | [Need Your Love So Bad](https://open.spotify.com/track/7hTT6Wfwni319nUkp5fmO7) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 3:27 | 2022-06-24 |  |
+| [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Let The Good Times Roll: The Music Of Louis Jordan](https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u) | 4:34 | 2022-08-19 |  |
 | [On The Road Again](https://open.spotify.com/track/6IWxHgVbdKyUMydhVGXRaT) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Best Of Canned Heat](https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi) | 3:26 | 2022-06-24 |  |
 | [Purple Rain](https://open.spotify.com/track/5WqBaZ1VIieP63wl7l18cY) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Move](https://open.spotify.com/album/67G22I1pYApKc9kr3Y5zyq) | 4:18 | 2022-06-24 |  |
 | [Ramblin' On My Mind \- Mono](https://open.spotify.com/track/5ah6Etv38v3ZsE0iyZMdTq) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:06 | 2022-06-24 |  |

@@ -296,6 +296,28 @@
     },
     {
       "album": {
+        "name": "Alive with you",
+        "url": "https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT"
+      },
+      "artists": [
+        {
+          "name": "Yel",
+          "url": "https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15"
+        },
+        {
+          "name": "SFC.JGR",
+          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Alive with you (feat. SFC.JGR)",
+      "url": "https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4"
+    },
+    {
+      "album": {
         "name": "CR\u00c8ME",
         "url": "https://open.spotify.com/album/2rwFQMzjIl55c4uTnxuJ6D"
       },
@@ -3399,7 +3421,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 132727,
       "name": "i got you",
       "url": "https://open.spotify.com/track/20gAOYKYQ7aFRVRg6LvrLW"
@@ -3843,6 +3865,28 @@
       "duration_ms": 113346,
       "name": "LEGO(Let's Go)",
       "url": "https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM"
+    },
+    {
+      "album": {
+        "name": "LEMONADE (feat. San E)",
+        "url": "https://open.spotify.com/album/2LAPE4OzqN0J87tuLbWAlK"
+      },
+      "artists": [
+        {
+          "name": "LIMZY",
+          "url": "https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS"
+        },
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "LEMONADE (feat. San E)",
+      "url": "https://open.spotify.com/track/2Og7E5ztp24WVv5ualvxKV"
     },
     {
       "album": {
@@ -5653,7 +5697,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 216156,
       "name": "Permission to Dance - R&B Remix",
       "url": "https://open.spotify.com/track/3IGM6ph0w2fERLlyQtBoQt"

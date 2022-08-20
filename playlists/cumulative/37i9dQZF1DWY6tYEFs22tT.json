@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New music from DJ Khaled ft. Drake & Lil Baby, Nicki Minaj and Rod Wave is here!",
+  "description": "New music from Offset, Internet Money ft. Lil Tecca and Pressa is here!",
   "name": "Hip-Hop Central",
   "published_playlist_ids": [
     "524c90ob7nnH5efTtaRnrW"
@@ -139,6 +139,24 @@
       "duration_ms": 170640,
       "name": "3G (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ"
+    },
+    {
+      "album": {
+        "name": "5 4 3 2 1",
+        "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "5 4 3 2 1",
+      "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
     },
     {
       "album": {
@@ -941,6 +959,24 @@
       "duration_ms": 229333,
       "name": "Black Illuminati (feat. Jadakiss)",
       "url": "https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ"
+    },
+    {
+      "album": {
+        "name": "Blame Me",
+        "url": "https://open.spotify.com/album/3mRoh87HR5ixABjz2OWbZe"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212502,
+      "name": "Blame Me",
+      "url": "https://open.spotify.com/track/3cxLYJ38ReOdnWNMGsR2WR"
     },
     {
       "album": {
@@ -1751,7 +1787,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 121653,
       "name": "Diapers",
       "url": "https://open.spotify.com/track/3zXZcKgkvMcQpRZclhprxS"
@@ -2406,6 +2442,28 @@
     },
     {
       "album": {
+        "name": "We All We Got",
+        "url": "https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135572,
+      "name": "Falsetto (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU"
+    },
+    {
+      "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
@@ -2495,6 +2553,24 @@
       "duration_ms": 176151,
       "name": "Find That Girl",
       "url": "https://open.spotify.com/track/130HryWoyeI6Y7JxkWoLkN"
+    },
+    {
+      "album": {
+        "name": "Fire Proof",
+        "url": "https://open.spotify.com/album/1lkXpwEqvshMPhGFLm8gJI"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122733,
+      "name": "Fire Proof",
+      "url": "https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY"
     },
     {
       "album": {
@@ -2645,6 +2721,24 @@
       "duration_ms": 192000,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/4IBhWkipPxDhSRhMaA83FA"
+    },
+    {
+      "album": {
+        "name": "FLYLIKEDIS",
+        "url": "https://open.spotify.com/album/1IiIm2TgBtdkUuuJrmu8Z4"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174421,
+      "name": "FLYLIKEDIS",
+      "url": "https://open.spotify.com/track/2u73qt5DYi05CuJfZDsB4A"
     },
     {
       "album": {
@@ -2935,7 +3029,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 172155,
       "name": "Gift & A Curse",
       "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
@@ -4473,7 +4567,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 137156,
       "name": "Make A Movie (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/6fDlAcex9PxMcvw4eiZjLq"
@@ -5817,7 +5911,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 141176,
       "name": "PUSSY",
       "url": "https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO"

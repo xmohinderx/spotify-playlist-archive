@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 279080,
       "name": "dear brightness",
       "url": "https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 276253,
       "name": "UNLIMITED",
       "url": "https://open.spotify.com/track/0z6zShdYIiAJdT3I6FOl7q"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 265906,
       "name": "\u30b5\u30c6\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6JVhxrEMzT2mWSNHWMhwFZ"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 279866,
       "name": "\u30d2\u30c8\u30ea\u30c8\u30d2\u30c8\u30ea",
       "url": "https://open.spotify.com/track/26YNGudhBMxEGkB8RluCHC"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 241600,
       "name": "\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea -RE BLUE LIVE ver.-",
       "url": "https://open.spotify.com/track/6hqv2LYDrTLZD7CJyex547"
@@ -1067,6 +1067,24 @@
       "duration_ms": 270733,
       "name": "\u8fd1\u672a\u6765\u4ea4\u97ff\u66f2",
       "url": "https://open.spotify.com/track/4hMcTL6kTCzIgmOxQJlqoz"
+    },
+    {
+      "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311293,
+      "name": "\u9583\u5149\u524d\u591c",
+      "url": "https://open.spotify.com/track/7AQCebDj1ewxC6NUuW4Mbe"
     },
     {
       "album": {

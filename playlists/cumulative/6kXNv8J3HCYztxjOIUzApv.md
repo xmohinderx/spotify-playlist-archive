@@ -4,7 +4,7 @@
 
 > Cover Artist: Nothing More &amp; Primal Darkness                                                  Rock out while you work out! Follow for updates!
 
-156 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/4aA1F6VQ4ECBvdhFded4Yt)
+157 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/4aA1F6VQ4ECBvdhFded4Yt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Stupify](https://open.spotify.com/track/54cWVWqgyFukgDKQYmaKM3) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:34 | 2021-08-20 |  |
 | [The American Nightmare](https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Silver Scream](https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz) | 4:09 | 2022-01-24 |  |
 | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/track/6IFN3NtLjOHFpTmgZfGz2N) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/album/2Rwy7b6mf4bstYZ7eUe2Hq) | 4:15 | 2021-08-20 |  |
+| [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 | 2022-08-19 |  |
 | [The End](https://open.spotify.com/track/30ixK9SJmGcMcSAP4Ksf8G) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Battles](https://open.spotify.com/album/65sRfjCFFqSrVYY7YjYe6y) | 3:58 | 2021-08-20 |  |
 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 | 2022-01-24 |  |
 | [The Heaviest Matter of the Universe](https://open.spotify.com/track/4ahFbXso4kfpQcqTixdJWJ) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/48oP5ver3MEQ68DvJ22CvY) | 3:57 | 2022-03-08 |  |

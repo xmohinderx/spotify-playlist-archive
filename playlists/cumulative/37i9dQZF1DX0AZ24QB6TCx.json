@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 368000,
       "name": "Agua A\u00ed",
       "url": "https://open.spotify.com/track/3r5DaDExfV6cgC0yZuCNNs"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 547824,
       "name": "Air",
       "url": "https://open.spotify.com/track/4dbftegZLAdj8BZYxz0Jf8"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 208000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3o1zrW0DOGDIM7Inw28TyR"
@@ -1450,6 +1450,24 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "album": {
         "name": "Rebellion der Tr\u00e4umer X - Heimat (TSHA Remix)",
         "url": "https://open.spotify.com/album/23au6oIWv2Kf2gUNQMR4sp"
       },
@@ -1611,6 +1629,32 @@
       "duration_ms": 264827,
       "name": "I Am Still Here",
       "url": "https://open.spotify.com/track/3Ccmq7nxS8y44m8HKf3deW"
+    },
+    {
+      "album": {
+        "name": "I Want To Be A Tree",
+        "url": "https://open.spotify.com/album/0LxG0GMJGD9qLFQz3BLe00"
+      },
+      "artists": [
+        {
+          "name": "Kuriose Naturale",
+          "url": "https://open.spotify.com/artist/3MMmLH0WVlNkJG84bMT5Bq"
+        },
+        {
+          "name": "Moogli",
+          "url": "https://open.spotify.com/artist/6ftRDyQphACQ9Jm7DF9DdV"
+        },
+        {
+          "name": "Franca",
+          "url": "https://open.spotify.com/artist/0T9mocL0H8qcDBnmJVc1gC"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455714,
+      "name": "I Want To Be A Tree - Franca Remix",
+      "url": "https://open.spotify.com/track/1sEl6Uga1CfJbkoYd3Dwy2"
     },
     {
       "album": {
@@ -2977,7 +3021,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 231250,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3kKhaaIjqGMcOVhl5r36Ap"

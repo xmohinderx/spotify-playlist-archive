@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 162127,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/7rtJduTQw1qM4YlYBN9EMq"
@@ -995,6 +995,24 @@
       "duration_ms": 140112,
       "name": "Bacalar",
       "url": "https://open.spotify.com/track/6iuWnWeVqJw9lHZfd19wGR"
+    },
+    {
+      "album": {
+        "name": "Bah\u00eda Escondida",
+        "url": "https://open.spotify.com/album/6Bx0GbFzisIhH30MluX4cb"
+      },
+      "artists": [
+        {
+          "name": "Juniors del Gueto",
+          "url": "https://open.spotify.com/artist/4zaZ2uhAnklLYP9IupJ8hN"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225218,
+      "name": "Bah\u00eda Escondida",
+      "url": "https://open.spotify.com/track/2yJcCMLCwIWZzwqZ6EuAsy"
     },
     {
       "album": {
@@ -4982,6 +5000,28 @@
     },
     {
       "album": {
+        "name": "Navegarte",
+        "url": "https://open.spotify.com/album/3EnDEoq5RsCTDpI9mkUrwc"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        },
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234038,
+      "name": "Navegarte",
+      "url": "https://open.spotify.com/track/6MCZ45zKWI2bDJiXyA4D89"
+    },
+    {
+      "album": {
         "name": "ELCANO",
         "url": "https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw"
       },
@@ -6113,7 +6153,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 233333,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ"

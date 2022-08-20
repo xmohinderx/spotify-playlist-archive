@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. LØLØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,956 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,992 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 35 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/5JKnYZOhSP7rOK0jPYcCjV) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:48 |
 | 36 | [F U Energy](https://open.spotify.com/track/01L4VsVDGb2IZcBg46MQG5) | [Milky Sad](https://open.spotify.com/artist/4k6PM95PG6LCnlWF79mjir) | [F U Energy](https://open.spotify.com/album/403JyTE9encL7TytDXtHSW) | 2:06 |
 | 37 | [Happier in Hell](https://open.spotify.com/track/10f37GwVRBjLor95DnQuwo) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happier in Hell](https://open.spotify.com/album/4eVkcMh1PhQIbLYrkjoBvn) | 2:53 |
-| 38 | [Hot Boys](https://open.spotify.com/track/3WpfdMUVeY7vyp8t60JtGo) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [Viji](https://open.spotify.com/artist/66P9hUJ1uuCmNou3rdORHR) | [Hot Boys](https://open.spotify.com/album/5dNjDAcHssb25WBjvo0ks2) | 3:15 |
+| 38 | [Hot Boys](https://open.spotify.com/track/3WpfdMUVeY7vyp8t60JtGo) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Hot Boys](https://open.spotify.com/album/5dNjDAcHssb25WBjvo0ks2) | 3:15 |
 | 39 | [Paranoid](https://open.spotify.com/track/1ZLaWZGs81unqMVQZIasEa) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Paranoid](https://open.spotify.com/album/0lePSvQnli7PXVgVLGAXK3) | 4:17 |
 | 40 | [hair out](https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:40 |
 | 41 | [BURNOUT](https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Derek DiScanio](https://open.spotify.com/artist/4gO25bbcu1eFNi8uDCvJFS) | [BURNOUT](https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla) | 2:52 |

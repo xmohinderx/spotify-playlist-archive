@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Avril Lavigne
 
-311 songs - 17 hr 49 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+314 songs - 17 hr 59 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [It's A Sin](https://open.spotify.com/track/1CBD8aOExhsuPedP2P0wVi) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [It's A Sin](https://open.spotify.com/album/06cRfTBdo0rxi7Xs9Toslg) | 3:12 | 2021-12-17 |  |
 | [It's Gonna Be Me](https://open.spotify.com/track/0BiuccnShiPP1MIccIu6m5) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [It's Gonna Be Me](https://open.spotify.com/album/43mqswumv5wL0UseBpGeMV) | 2:54 | 2021-12-17 |  |
 | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/track/07eCZf9u22LsQH8wpFfjpj) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/album/32qgaOkiBYJqmFvRStyWtU) | 2:56 | 2021-12-17 | 2022-05-02 |
+| [I’m With You](https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [I’m With You](https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07) | 3:55 | 2022-08-19 |  |
 | [July \- Bedroom Session](https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [July \(Bedroom Session\)](https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7) | 3:30 | 2021-12-17 |  |
 | [Jumper \- Acoustic](https://open.spotify.com/track/6rkrbJ7Ltdl7QnJFpSTw4F) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Jumper \(Acoustic\)](https://open.spotify.com/album/3KGecYEYv5uOMSaPU8hbvQ) | 3:04 | 2021-12-17 | 2022-05-02 |
 | [just the two of us](https://open.spotify.com/track/505CNjW6Y9GwvW5sVgvdK9) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [the quarantine covers](https://open.spotify.com/album/1UqChrYC7NGNDmf9nJx9xO) | 2:02 | 2021-12-17 |  |
@@ -193,6 +194,7 @@
 | [Lucky](https://open.spotify.com/track/3ThAExlMNs4A86hime1qNG) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Basement Covers](https://open.spotify.com/album/6eO7oW6th87o1WBH9uNzPS) | 3:31 | 2021-12-17 | 2022-01-10 |
 | [Magic](https://open.spotify.com/track/1ryKtGzdk4zMPLhEC6F95t) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Magic](https://open.spotify.com/album/7JqZcRZTsuvLO228vbGiwK) | 3:04 | 2021-12-17 |  |
 | [Manchild](https://open.spotify.com/track/1v8bDsrquS2MbPcY0rXnCl) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Manchild](https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I) | 3:17 | 2022-05-01 |  |
+| [Meet Me At Our Spot](https://open.spotify.com/track/5soh0KBoNInC6rSQ57vCvl) | [Groovie Gang](https://open.spotify.com/artist/3PcuPOF2Ev7AF4Fj4pLFLf), [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Meet Me At Our Spot](https://open.spotify.com/album/3THXn3TUoFfSSinL7c8NKu) | 2:42 | 2022-08-19 |  |
 | [Mercy](https://open.spotify.com/track/0s5qyDeL5KqWoBP4xRnse7) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:12 | 2021-12-17 | 2022-05-02 |
 | [Million Reasons \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 3:14 | 2021-12-17 |  |
 | [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-12-17 | 2022-07-29 |
@@ -267,6 +269,7 @@
 | [Take On Me](https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Take On Me](https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw) | 2:26 | 2021-12-17 |  |
 | [Taylor Swift 1989 Medley](https://open.spotify.com/track/4Pt2aOG6KETMQp5mukYhD3) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Taylor Swift 1989 Medley](https://open.spotify.com/album/6db7iWQUXALMDTVzRcOGpy) | 2:59 | 2021-12-17 | 2022-05-02 |
 | [Teenage Dirtbag \(feat\. chloe moriondo\)](https://open.spotify.com/track/5goZCkRmpk5tWTX3Af6XRL) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Teenage Dirtbag \(feat\. chloe moriondo\)](https://open.spotify.com/album/0MKG6I8hXwzKlW2ww5OclV) | 3:19 | 2021-12-17 | 2022-04-16 |
+| [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 | 2022-08-19 |  |
 | [Teenage Dream](https://open.spotify.com/track/01I5I4ykvMQwplZIkO4SxX) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Teenage Dream](https://open.spotify.com/album/4sZ5bTIQJec8eqKBMEPPEL) | 4:35 | 2021-12-17 |  |
 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 | 2022-03-18 |  |
 | [That's Just The Way It Is \(Changes\)](https://open.spotify.com/track/7b2ZGVLH01Cw4MU9LuSGDq) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [That's Just The Way It Is \(Changes\)](https://open.spotify.com/album/1SCIK63b2bCbC5yhcyKmV6) | 2:46 | 2021-12-17 | 2022-05-02 |

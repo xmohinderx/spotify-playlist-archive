@@ -4,7 +4,7 @@
 
 > what are they doing up there?
 
-65 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
+66 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Me and Wayne Rogers](https://open.spotify.com/track/4hv71vgTltTUMqlaaTr3Lz) | [Azusa Plane](https://open.spotify.com/artist/1exN8SH7Aw6NLkjgFGAncB) | [Where the Sands Turn to Gold](https://open.spotify.com/album/4v867iqLmmDXh3gvmhwmeA) | 1:31 | 2022-08-11 |  |
 | [Musicbox](https://open.spotify.com/track/1yONlvObY8e2iqm86Dmtuo) | [Julien Neto](https://open.spotify.com/artist/4JVbuk3i6Z5WGR3ar8Wro2) | [Le Fumeur De Ciel](https://open.spotify.com/album/1SwfAtm5Rom8gcgEK8H5Qs) | 2:59 | 2022-07-08 |  |
 | [ode to houseplant](https://open.spotify.com/track/5M819M38P2Z85ntS1iEVCG) | [Glass Rivers](https://open.spotify.com/artist/5qQvSeMMwzvjZlw1pqmAC6) | [songs to live your life to](https://open.spotify.com/album/2v0p9MioK7YT1jIwQivVe1) | 2:48 | 2022-07-08 |  |
+| [Optical Fingerprint Correlation](https://open.spotify.com/track/4zzI44kiZ39QgSM3ZZHJe8) | [Der Zyklus](https://open.spotify.com/artist/3oMzxer7m75NN19ckIWSn8) | [Biometry](https://open.spotify.com/album/2uO6KUfzsYkPungJkiB1Ij) | 2:20 | 2022-08-19 |  |
 | [Oxygen Waltz](https://open.spotify.com/track/1HQxnecMK8hRxIZ5MjlXJh) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/2b2NKMGXqjTtRkHQVXjkBS) | 4:09 | 2022-07-08 |  |
 | [Oxygen Waltz](https://open.spotify.com/track/1V5exmHKBu3jmBrhchf8hC) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/5lb8k3A7i5h38XOLRJDWk1) | 4:09 | 2022-07-08 | 2022-07-29 |
 | [permafrost](https://open.spotify.com/track/7uJRKFsuCrurLTDbEgTf2y) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [there is no such thing as a jellyfish](https://open.spotify.com/album/0mRUcNL02378si53jjOeUV) | 1:45 | 2022-07-08 |  |

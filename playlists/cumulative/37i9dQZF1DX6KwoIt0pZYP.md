@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-329 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+331 songs - 18 hr 31 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bing Bong Love Song](https://open.spotify.com/track/2QaYMOWsraUKljpfSOVJAf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Bing Bong Love Song](https://open.spotify.com/album/4MuTKimimHG4JUMaI3S1LW) | 2:18 | 2022-07-22 | 2022-08-13 |
 | [Binibini \(Last Day On Earth\) \(feat\. James TW\)](https://open.spotify.com/track/6j9kSGlYLZdZ9sZkY9DjzY) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Binibini \(Last Day On Earth\)](https://open.spotify.com/album/0MsGCH9D7oBrAO9QrwZGXs) | 3:39 | 2022-01-28 |  |
 | [Birdy](https://open.spotify.com/track/5hBpxb5JtyfqLWOlIaZ9YY) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/77yXxEndm5eQyRQUQweAsY) | 4:33 | 2022-01-28 | 2022-07-25 |
-| [Black & Blue](https://open.spotify.com/track/0nG9UdOvcxq16buOenF8a0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Black & Blue](https://open.spotify.com/album/0GU8nszlbBQiyt1GLmKCQZ) | 3:17 | 2022-08-12 |  |
+| [Black & Blue](https://open.spotify.com/track/0nG9UdOvcxq16buOenF8a0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Black & Blue](https://open.spotify.com/album/0GU8nszlbBQiyt1GLmKCQZ) | 3:17 | 2022-08-12 | 2022-08-20 |
 | [blame on you](https://open.spotify.com/track/5dGUfQBSrgMA5SQ2H4Bx1Y) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.5](https://open.spotify.com/album/2OGD6TvczAOm8AJk0V21cU) | 2:44 | 2022-03-29 | 2022-04-17 |
 | [blink](https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [blink](https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ) | 3:48 | 2022-01-28 | 2022-07-29 |
 | [Blossom](https://open.spotify.com/track/0nPpDVxWDSWdSIrd26Taja) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:46 | 2022-01-28 | 2022-08-15 |
@@ -236,7 +236,7 @@
 | [Poison](https://open.spotify.com/track/6YB6L559W9IoLNm2JhRGTd) | [Nilo Blues](https://open.spotify.com/artist/3Bv6qMTmj7g5FDK9gwjDkj) | [Poison](https://open.spotify.com/album/0WqDNkfGgDxNuYiSg2kqtr) | 2:47 | 2022-03-29 | 2022-04-20 |
 | [Precious](https://open.spotify.com/track/12UXsRRYiWscqQWp4oV53F) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Precious](https://open.spotify.com/album/4sguN40UxE3s6hCUhYaL23) | 2:25 | 2022-03-11 | 2022-07-22 |
 | [Precious](https://open.spotify.com/track/6ikaNm8tnqvSB8XxRV4nog) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Precious](https://open.spotify.com/album/0blGPLYWpPAIViPMRfuQnT) | 2:40 | 2022-01-28 | 2022-07-27 |
-| [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 | 2022-01-28 |  |
+| [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 | 2022-01-28 | 2022-08-20 |
 | [Rainy Day](https://open.spotify.com/track/27cecf1BlHEPC0jiZVc3jz) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [Rainy Day](https://open.spotify.com/album/62iCE5KN68leOFMj9D6YTY) | 4:02 | 2022-03-29 | 2022-04-21 |
 | [Reality](https://open.spotify.com/track/6aYcwXnv9pKkc75yKnlUSv) | [Yayyoung](https://open.spotify.com/artist/1mefU9eSDsjTwOJK0gn7xZ) | [Reality](https://open.spotify.com/album/58Br5rnemtY96Z7s5f0VYW) | 2:25 | 2022-01-28 | 2022-07-29 |
 | [Restless Love](https://open.spotify.com/track/6upgCPd0Z70zA0PNdfoHOc) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Restless Love](https://open.spotify.com/album/1KEGwBbnXAnbBjPWkeC1Pl) | 3:50 | 2022-05-27 |  |
@@ -317,6 +317,7 @@
 | [Whiskey Bottle](https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Whiskey Bottle](https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8) | 2:30 | 2022-01-28 |  |
 | [White Lies \(feat\. Kvsh\)](https://open.spotify.com/track/6Y91iJavfXfioUk4uTtuC0) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [November](https://open.spotify.com/album/6HTCFrvyDgMFnFQPVtB6Hz) | 3:33 | 2022-03-29 | 2022-07-05 |
 | [Who Do You Love](https://open.spotify.com/track/0ZOPiQDN9XoSXUjcink66H) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4apvOjR5ybt6G5IlHBBGmA) | 4:33 | 2022-01-28 | 2022-04-21 |
+| [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 | 2022-08-19 |  |
 | [Wine](https://open.spotify.com/track/1sp745hELNnYUHowtyvAvn) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Wine](https://open.spotify.com/album/2VlVUCmoqWKd15SOiSeJAS) | 5:50 | 2022-01-28 | 2022-07-26 |
 | [Wintertime Is Over](https://open.spotify.com/track/6hAWz1CnpMd8a7JmkJiigT) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [ANT](https://open.spotify.com/artist/64ZqV2zqmap4c0HqxzAoYv) | [Wintertime Is Over](https://open.spotify.com/album/0MzjNHWmx9BwvnK0WOVOiY) | 3:09 | 2022-06-17 | 2022-08-13 |
 | [Wishful Thinking](https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie) | 3:06 | 2022-05-09 |  |
@@ -335,6 +336,7 @@
 | [You Should Know](https://open.spotify.com/track/5my3W0CKAb8kb6Z2Z7NjGx) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [You Should Know](https://open.spotify.com/album/47k8LFRZGbI3TKNSzuHAjq) | 3:03 | 2022-08-12 |  |
 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-01-28 |  |
 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 | 2022-01-28 |  |
+| [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-08-19 |  |
 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 | 2022-03-29 |  |
 | [그리움 \(Rindu\)](https://open.spotify.com/track/32owsT82fuFexAND08A5sS) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [그리움 \(Rindu\)](https://open.spotify.com/album/6vWZt1ZL6HRLWsNzbZlhCg) | 2:51 | 2022-01-28 | 2022-07-28 |
 

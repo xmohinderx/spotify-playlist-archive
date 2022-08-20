@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Meenoi, WOO\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Woo, meenoi\(우원재, 미노이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,411 likes - 53 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,598 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 48 | [You, Who?](https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i) | 3:39 |
 | 49 | [Like You](https://open.spotify.com/track/2HrzH60nFePfGF5RqFK5YW) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic), [Kim So\-hee](https://open.spotify.com/artist/3Tu9nOmJPyDU0iMigimme3) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/3nl0nBHYgB06JpPrcsAYXd) | 3:25 |
 | 50 | [Love Virus](https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS), [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Whats wrong with secretary kim OST Part.1](https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR) | 3:27 |
-| 51 | [Beyond the Stars \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7H1KWuGKdKkOFSIGTtZTr1) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Beyond the Stars](https://open.spotify.com/album/5mhp9NqSX2vksUTTFG2O1o) | 3:17 |
-| 52 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
-| 53 | [1, 2](https://open.spotify.com/track/2U4292s8Vs8p7rDP8LYr8c) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [최현석](https://open.spotify.com/artist/7ywGEr53ogVxLibBcb82JV) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:22 |
 
-Snapshot ID: `MTY2MDgzNDM1MiwwMDAwMDAwMDhkYWMyY2I2Mjg2YmJlYmZiMTZhODY0YmIwYjM2NzI4`
+Snapshot ID: `MTY2MDg5NzQ5OCwwMDAwMDAwMDJiN2Y5MmVhNzNhZDZjZTFhY2M1ZWFjMjk2ZTg4MmI5`

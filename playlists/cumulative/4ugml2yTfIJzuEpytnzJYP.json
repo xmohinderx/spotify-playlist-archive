@@ -270,6 +270,28 @@
     },
     {
       "album": {
+        "name": "Book of Vizhanti",
+        "url": "https://open.spotify.com/album/6vsQTvgx7q1ZAwAJelr5oa"
+      },
+      "artists": [
+        {
+          "name": "Austeria",
+          "url": "https://open.spotify.com/artist/15VvV8dnWKZBNufin6LzzS"
+        },
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Book of Vizhanti",
+      "url": "https://open.spotify.com/track/0LF3Ij102kXw5o4DbrPhq2"
+    },
+    {
+      "album": {
         "name": "Break Away",
         "url": "https://open.spotify.com/album/51c29JC1iFF8aLvuVX3QTh"
       },
@@ -1823,6 +1845,28 @@
       "duration_ms": 197317,
       "name": "Raptor",
       "url": "https://open.spotify.com/track/7wqoXaaYeYV6zR4jegMgF4"
+    },
+    {
+      "album": {
+        "name": "Replicants (J:Kenzo Remix)",
+        "url": "https://open.spotify.com/album/0bX0KGunfUX7hriWuf0Fe1"
+      },
+      "artists": [
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        },
+        {
+          "name": "J:Kenzo",
+          "url": "https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318428,
+      "name": "Replicants - J:Kenzo Remix",
+      "url": "https://open.spotify.com/track/6oOSSVjIuD05mzC5fIDTlc"
     },
     {
       "album": {

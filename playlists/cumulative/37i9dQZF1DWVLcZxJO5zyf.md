@@ -2,7 +2,7 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça os hits do momento do pop BR! Foto: Carol Biazin
+> Ouça os hits do momento do pop BR! Foto: Luísa Sonza
 
 122 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
 

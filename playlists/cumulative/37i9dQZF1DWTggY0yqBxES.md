@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ben Reilly
 
-239 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
+240 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [DRILL MUSIC IN ZION](https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV) | 4:31 | 2022-06-17 | 2022-07-30 |
 | [Emo Stick](https://open.spotify.com/track/1skLCDR1M1zPulz3lgiZJt) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Emo Stick](https://open.spotify.com/album/0cJWXPxQz9hx7eSQv5JIAC) | 2:52 | 2022-06-10 | 2022-06-12 |
 | [Everybody Ain’t Shit \(with EARTHGANG\)](https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 3:23 | 2022-04-01 | 2022-07-17 |
+| [FACES \- but like the one the label made me do](https://open.spotify.com/track/1vYAk7ZUKTI009021PGhQg) | [Swavay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [FACES](https://open.spotify.com/album/2ud0Zdgl2DkKXFbdMN2Eef) | 1:57 | 2022-08-19 |  |
 | [Falling In Love](https://open.spotify.com/track/3KJAsfXdW9BgPS4gan0pKJ) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Falling In Love](https://open.spotify.com/album/7jhAfMDtgng4vUODMKVyxT) | 2:24 | 2022-03-25 | 2022-04-21 |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2021-09-03 | 2022-02-26 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 | 2022-07-15 |  |
@@ -98,7 +99,7 @@
 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 | 2021-09-24 | 2022-02-25 |
 | [Globetrottin](https://open.spotify.com/track/3cklr0OJrtIC6h8vGlEXZD) | [J.PERIOD](https://open.spotify.com/artist/1MGyQRNDBHqVYkW1nNKRBv), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Shad](https://open.spotify.com/artist/3hiAXoLxYNAQi0Zv04GKDB), [Rozwell](https://open.spotify.com/artist/2cpbwPiqgvzIDDrxVkjQsq) | [J.PERIOD Presents… Story To Tell \(Chapter One\)](https://open.spotify.com/album/5OiEXYcs5n96W4cz0x7Mio) | 3:52 | 2022-03-25 | 2022-04-08 |
 | [Good Friday](https://open.spotify.com/track/06sZ51gSjEQXBa0UXAp8F5) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Good Friday](https://open.spotify.com/album/6gFhfBgwuQrsHqp0qGbXj1) | 3:41 | 2022-04-15 | 2022-07-29 |
-| [Gwapanese \(Just Stop It\) \(feat\. BabyTron\)](https://open.spotify.com/track/3pYzJhcDPdQv2GoidBBlVv) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [All Time High](https://open.spotify.com/album/7t47lS4m3CZi7DMWF8r9JN) | 2:32 | 2022-08-12 |  |
+| [Gwapanese \(Just Stop It\) \(feat\. BabyTron\)](https://open.spotify.com/track/3pYzJhcDPdQv2GoidBBlVv) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [All Time High](https://open.spotify.com/album/7t47lS4m3CZi7DMWF8r9JN) | 2:32 | 2022-08-12 | 2022-08-20 |
 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Headshots \(4r Da Locals\)](https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1) | 3:13 | 2021-09-03 |  |
 | [Herringbone](https://open.spotify.com/track/0ekkYaWO7OR9RBWtOcGPKM) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Herringbone](https://open.spotify.com/album/3y8sZLquAIwSOVz9g2mQnI) | 2:44 | 2021-09-03 | 2022-07-23 |
 | [Hold you up \(feat\. Annahstasia & Steven Bamidele\)](https://open.spotify.com/track/0VofOfBQCt2kZkNqMawsqb) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE), [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Get Used To It](https://open.spotify.com/album/3mNfeGxCFJ3fRZotZ7UhSO) | 3:56 | 2022-06-03 | 2022-08-13 |

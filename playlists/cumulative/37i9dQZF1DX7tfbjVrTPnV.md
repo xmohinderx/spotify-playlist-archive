@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-233 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
+234 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Heartaches & Highways: The Very Best of Emmylou Harris](https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf) | 3:33 | 2021-11-11 |  |
 | [Brand New Me](https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [High Life](https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ) | 4:15 | 2021-11-11 | 2022-07-10 |
 | [Bring It On](https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Band of Brothers](https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C) | 2:53 | 2021-11-11 | 2022-07-27 |
+| [Broken Radio '22](https://open.spotify.com/track/5xk4DuC1A2dvIfnxY1ymrm) | [Jesse Malin](https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Broken Radio '22](https://open.spotify.com/album/1oW9ApWVjn2ezXeLBUK4Ak) | 3:41 | 2022-08-19 |  |
 | [Brothers](https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 2:50 | 2021-11-11 |  |
 | [Brushy Mountain Conjugal Trailer](https://open.spotify.com/track/6gUe3WktlOlBDb2gV4HHow) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Brushy Mountain Conjugal Trailer](https://open.spotify.com/album/6Kt3zvySqwhbfa6cjyLSAr) | 3:50 | 2021-11-11 | 2022-07-29 |
 | [Brushy Mountain Conjugal Trailer](https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Remedy](https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0) | 3:50 | 2022-04-22 |  |
@@ -100,7 +101,7 @@
 | [I Ain't Lookin' For No Trouble](https://open.spotify.com/track/1GTEEvwTjh7xah3BgulsBA) | [Ray Benson](https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M) | [A Little Piece](https://open.spotify.com/album/5CntyXoAEn6ubp3LXaL95I) | 4:02 | 2021-11-11 | 2022-07-29 |
 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 | 2021-11-11 | 2022-07-24 |
 | [I Contain Multitudes](https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Contain Multitudes](https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV) | 4:36 | 2021-11-11 |  |
-| [I Could Have Told You](https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Could Have Told You](https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh) | 3:36 | 2021-11-11 |  |
+| [I Could Have Told You](https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Could Have Told You](https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh) | 3:36 | 2021-11-11 | 2022-08-20 |
 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 | 2022-04-22 |  |
 | [I Feel the Earth Move](https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 2:58 | 2021-11-11 | 2022-07-29 |
 | [I Have Met My Love Today \- Recorded at RCA Studio a, Nashville](https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Spotify Singles](https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr) | 2:29 | 2021-11-11 |  |

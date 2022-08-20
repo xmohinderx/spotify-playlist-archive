@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-207 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
+208 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 | 2022-04-08 |  |
 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 | 2022-04-08 |  |
 | [Al Estilo Potosí: El Pistolero / Ordeñando la Vaca / Cuando los Frijoles Bailan](https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 4:24 | 2022-04-08 |  |
+| [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-08-19 |  |
 | [Amanda Baila Con La Banda](https://open.spotify.com/track/5Yjn82Y8uI6qsq0jRGVBD6) | [Los Pepe's NorteÑo](https://open.spotify.com/artist/1WvzH7P4Tb1xHZamsLxOF2) | [Popurrí De Cumbias..\. A Bailar Con Los Pepe's](https://open.spotify.com/album/0Wz5x8cNgXZAo5sLsIEw4E) | 3:53 | 2022-04-08 |  |
 | [Amanda Cierrale \- Live Session](https://open.spotify.com/track/1JrP6eV81Lm9X3JzRw9PNy) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Studio Session, Vol\. 1 \(Live Session\)](https://open.spotify.com/album/5zweVE3EKIBSwqSq7yaF8r) | 4:00 | 2022-04-08 |  |
 | [Arreando la Mula \(En Vivo\)](https://open.spotify.com/track/2EkP0U9x1onGPj26aeIdvb) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 6:07 | 2022-04-08 | 2022-07-29 |
@@ -194,7 +195,7 @@
 | [Sal con Limón](https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:01 | 2022-04-08 |  |
 | [Sangoloteadito](https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Frente A Frente](https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6) | 3:00 | 2022-04-08 |  |
 | [Sangoloteadito](https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR) | 3:00 | 2022-04-08 | 2022-07-29 |
-| [Se Tambalea](https://open.spotify.com/track/1sCGkAwPbDtKK1BYeiuhGD) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Se Tambalea](https://open.spotify.com/album/6wxJ0pltSHnGNihMe56ioU) | 2:43 | 2022-04-08 |  |
+| [Se Tambalea](https://open.spotify.com/track/1sCGkAwPbDtKK1BYeiuhGD) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Se Tambalea](https://open.spotify.com/album/6wxJ0pltSHnGNihMe56ioU) | 2:43 | 2022-04-08 | 2022-08-20 |
 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 | 2022-04-08 |  |
 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 | 2022-04-08 |  |
 | [Tan Bella y Tan Presumida](https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida](https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici) | 3:01 | 2022-04-08 |  |

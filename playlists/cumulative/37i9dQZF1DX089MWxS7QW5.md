@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Grass\(그래쓰\)\)
 
-104 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
+105 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [About Us \(Feat\. Filipe Santos\)](https://open.spotify.com/track/45E8aSa1AI4Yyd0XClOGpu) | [vvav](https://open.spotify.com/artist/7yphCtMHUx2eL5hHrpQnGx), [Filipe Santos](https://open.spotify.com/artist/6ZiJkBamnBr4DjuJ79thgP) | [About Us](https://open.spotify.com/album/0LhNmfYsvEH53AnyyUVCE4) | 3:16 | 2022-05-28 | 2022-07-08 |
 | [After you’ve gone](https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [After you’ve gone](https://open.spotify.com/album/0CDAPlOOdZ8kf5zfyNOWey) | 3:50 | 2022-08-02 |  |
 | [AhChoo!](https://open.spotify.com/track/6wIZ0Yct9aMra5kHMDk5mG) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [AhChoo!](https://open.spotify.com/album/07X66xfc5A1CWDzgHRs2gU) | 2:55 | 2022-05-28 | 2022-08-19 |
+| [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 | 2022-08-19 |  |
 | [All of Me \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/4X4W051XN4gViiCy6rlIy1) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Dawn](https://open.spotify.com/album/08TpxyrRBMTmC3NT9TVwY8) | 3:02 | 2022-05-28 | 2022-07-08 |
 | [Alone \(Feat\. GSoul\)](https://open.spotify.com/track/0TXGMVMHbmV8oHgayKayHs) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [look](https://open.spotify.com/album/0i1vQkPkubyuGSdSGH3zdV) | 4:14 | 2022-05-28 | 2022-06-10 |
 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 |  |
@@ -94,7 +95,7 @@
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-05-28 | 2022-06-21 |
 | [The One I Love](https://open.spotify.com/track/6C1e3Fl3BHzlRNZk6ubm6C) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU) | [The One I Love](https://open.spotify.com/album/7IWphRN26CJeRDB6BjnYBl) | 2:56 | 2022-08-18 |  |
 | [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Sujin Park](https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-07 |  |
-| [Time](https://open.spotify.com/track/44FuYikbGrbue8BqiVbYks) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Why](https://open.spotify.com/album/3NPRwip3fCgqzn6UCspufx) | 3:28 | 2022-06-01 |  |
+| [Time](https://open.spotify.com/track/44FuYikbGrbue8BqiVbYks) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Why](https://open.spotify.com/album/3NPRwip3fCgqzn6UCspufx) | 3:28 | 2022-06-01 | 2022-08-20 |
 | [Today](https://open.spotify.com/track/4X45vj2AcrqfXWfvmVQQF2) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Ocean like me \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM) | 3:39 | 2022-05-28 | 2022-08-19 |
 | [Tonight](https://open.spotify.com/track/6z3MFmth66YuneBbyzVFGJ) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Tonight \(Single Edition 4\)](https://open.spotify.com/album/4NfZyYetKI0lgIDXTCs6mL) | 3:50 | 2022-05-28 | 2022-06-21 |
 | [Umbrella \(feat\. Ashley Alisha, Julian Rose\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Julian Rose](https://open.spotify.com/artist/328e3lxjZnC2YueEVt503o) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 | 2022-07-04 |  |

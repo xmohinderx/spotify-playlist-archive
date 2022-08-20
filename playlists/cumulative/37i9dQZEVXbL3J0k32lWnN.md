@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-757 songs - 1 day 15 hr 47 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+758 songs - 1 day 15 hr 49 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [DANS \(BURHAN G X TOBIAS RAHIM X CARL KNAST\)](https://open.spotify.com/track/6mvSmSL2bPSbwb1L094sp4) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Carl Knast](https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [DANS \(BURHAN G X TOBIAS RAHIM X CARL KNAST\)](https://open.spotify.com/album/2rQubaORj2wlU5gyE3Ul9o) | 2:48 | 2021-10-23 | 2021-10-31 |
 | [Danser](https://open.spotify.com/track/5uPv6fOsHPC8ZqxRKElxMP) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Danser](https://open.spotify.com/album/5aIMBNbI3Qyno8HCRWP6iv) | 2:39 | 2022-04-23 |  |
 | [Danser Med Diablo](https://open.spotify.com/track/3Y7DrSY1cnn7AyTakPIzsW) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Danser Med Diablo](https://open.spotify.com/album/5X4FnXVZQ0JJjdCQU1s52Q) | 2:45 | 2021-08-22 | 2021-09-13 |
+| [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2022-08-19 |  |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Dawn FM](https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-10 | 2022-01-12 |
 | [Daydreaming](https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:07 | 2022-05-21 | 2022-05-30 |
@@ -303,7 +304,7 @@
 | [Hele Tiden](https://open.spotify.com/track/3WPemO6hvX7c2c0RPaxA21) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [L.O.C.](https://open.spotify.com/artist/0VUVvNFIyMeIWguwhhImIc) | [Hele Tiden](https://open.spotify.com/album/3Qu1ho5d0lJrppdgbw0TGq) | 2:28 | 2022-07-02 | 2022-07-17 |
 | [Helt Ny TN \(feat\. KIDD, TopGunn, Klumben & ELOQ\)](https://open.spotify.com/track/3bPL7S5klFmqJTZIckJyAV) | [Cheff Records](https://open.spotify.com/artist/0i7DYzkG8u0ScquFnDUuvT), [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw), [Klumben](https://open.spotify.com/artist/6l2TcYHKMr6XQn5hxfD48E) | [Helt Ny TN \(feat\. KIDD, TopGunn, Klumben & ELOQ\)](https://open.spotify.com/album/7pSuebs76pzjSMvWSAIQZf) | 1:59 | 2022-05-07 | 2022-05-11 |
 | [Helt Sikker](https://open.spotify.com/track/7G7Vg7wlhAH15VHQD29ZgI) | [Gulddreng](https://open.spotify.com/artist/1twDsBPbUYeljharVfF6Lf) | [Helt Sikker](https://open.spotify.com/album/58nS82jPHOVSDKaM4iMdqL) | 3:30 | 2021-06-08 | 2021-08-01 |
-| [Hensigt](https://open.spotify.com/track/4b5qKstcv1JIha4xuq89iD) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Hensigt](https://open.spotify.com/album/0sBhlKHwZwJ1X7kcCP8Pqv) | 2:53 | 2022-02-12 |  |
+| [Hensigt](https://open.spotify.com/track/4b5qKstcv1JIha4xuq89iD) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Hensigt](https://open.spotify.com/album/0sBhlKHwZwJ1X7kcCP8Pqv) | 2:53 | 2022-02-12 | 2022-08-20 |
 | [HERE \(For Christmas\)](https://open.spotify.com/track/13S94fbOuw2M66UchaCz2k) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [HERE \(For Christmas\)](https://open.spotify.com/album/0i2Nwoa1gnjMmD6s6TLPiT) | 4:00 | 2021-12-09 | 2021-12-27 |
 | [HERE \(For Christmas\)](https://open.spotify.com/track/1Cth2nNUYYfCiSoIei6rCi) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [HERE \(For Christmas\)](https://open.spotify.com/album/1a8Dr6FUUhI7Z6dqSxS8hA) | 4:00 | 2021-11-28 | 2021-12-09 |
 | [Here We Go… Again \(feat\. Tyler, the Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-14 |

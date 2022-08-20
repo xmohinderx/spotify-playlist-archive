@@ -1,13 +1,81 @@
 {
-  "description": "For the Hard Rock and full volume lovers. Cover: Alter Bridge",
-  "num_followers": 265313,
+  "description": "For the Hard Rock and full volume lovers. Cover: Papa Roach",
+  "num_followers": 265513,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMDlkZGNlZjViZmMyNjJkNzYwNTM0YWI3NzdlMWYwNmQ5",
+  "snapshot_id": "MTY2MDkxNDAwMCwwMDAwMDAwMDQzMjQ5ZDAwMWNkNTY1NjBjZGNiZTNiMWQwMTc5NWYy",
   "tracks": [
+    {
+      "added_at": "2022-07-22 13:00:00",
+      "album": {
+        "name": "Ego Trip",
+        "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "Kill The Noise",
+      "url": "https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9"
+    },
+    {
+      "added_at": "2022-08-19 13:00:00",
+      "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/6nUaOQGLU8xIAI5MQqHvup"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB"
+    },
+    {
+      "added_at": "2022-08-19 13:00:00",
+      "album": {
+        "name": "Degradation Rules (feat. Tony Iommi)",
+        "url": "https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "duration_ms": 250274,
+      "name": "Degradation Rules (feat. Tony Iommi)",
+      "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
+    },
+    {
+      "added_at": "2022-07-22 13:00:00",
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "AfterLife",
+      "url": "https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv"
+    },
     {
       "added_at": "2022-08-12 13:00:00",
       "album": {
@@ -27,18 +95,50 @@
     {
       "added_at": "2022-08-05 13:00:00",
       "album": {
-        "name": "Kill Or Be Killed",
-        "url": "https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX"
+        "name": "The Foundations of Decay",
+        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 299060,
-      "name": "Kill Or Be Killed",
-      "url": "https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd"
+      "duration_ms": 360760,
+      "name": "The Foundations of Decay",
+      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
+    },
+    {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "The Dying Song (Time To Sing)",
+        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+    },
+    {
+      "added_at": "2022-08-19 13:00:00",
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
       "added_at": "2022-08-12 13:00:00",
@@ -59,110 +159,6 @@
     {
       "added_at": "2022-07-15 13:00:00",
       "album": {
-        "name": "IMPERA",
-        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 284266,
-      "name": "Call Me Little Sunshine",
-      "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
-    },
-    {
-      "added_at": "2022-07-22 13:00:00",
-      "album": {
-        "name": "AfterLife",
-        "url": "https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "AfterLife",
-      "url": "https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv"
-    },
-    {
-      "added_at": "2022-07-29 13:00:00",
-      "album": {
-        "name": "Native Intelligence (Ghostemane Natural Selection Remix)",
-        "url": "https://open.spotify.com/album/4PAEIe0V7cLDUuxaZ3RKDK"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        },
-        {
-          "name": "Trent Reznor",
-          "url": "https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma"
-        },
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Native Intellligence - Ghostemane Natural Selection Remix",
-      "url": "https://open.spotify.com/track/1qHlqRNBhg5dQ6JKI4ajZM"
-    },
-    {
-      "added_at": "2022-08-12 13:00:00",
-      "album": {
-        "name": "Reckoning",
-        "url": "https://open.spotify.com/album/4gWScx9oKTfu3VNz0KBZMI"
-      },
-      "artists": [
-        {
-          "name": "Hell Fire",
-          "url": "https://open.spotify.com/artist/6hwtkhYiDooPPfKqzumCkb"
-        }
-      ],
-      "duration_ms": 285962,
-      "name": "It Ends Tonight",
-      "url": "https://open.spotify.com/track/1V1QWXnUZZlfcjqmdkylP9"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "The Dying Song (Time To Sing)",
-        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "The Dying Song (Time To Sing)",
-      "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
-    },
-    {
-      "added_at": "2022-07-22 13:00:00",
-      "album": {
-        "name": "Ego Trip",
-        "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "Kill The Noise",
-      "url": "https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9"
-    },
-    {
-      "added_at": "2022-07-15 13:00:00",
-      "album": {
         "name": "Hey You",
         "url": "https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM"
       },
@@ -175,6 +171,38 @@
       "duration_ms": 268481,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0"
+    },
+    {
+      "added_at": "2022-08-19 13:00:00",
+      "album": {
+        "name": "The Retaliators Theme Song (21 Bullets) [feat. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New]",
+        "url": "https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k"
+      },
+      "artists": [
+        {
+          "name": "The Retaliators",
+          "url": "https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5"
+        },
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        },
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 242336,
+      "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Asking Alexandria, Ice Nine Kills, From Ashes To New)",
+      "url": "https://open.spotify.com/track/3iEmgajStVBooooNaltdOv"
     },
     {
       "added_at": "2022-07-22 13:00:00",
@@ -241,22 +269,6 @@
       "url": "https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc"
     },
     {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "The Foundations of Decay",
-        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 360760,
-      "name": "The Foundations of Decay",
-      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
-    },
-    {
       "added_at": "2022-07-29 13:00:00",
       "album": {
         "name": "No More Tears To Cry",
@@ -273,6 +285,22 @@
       "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
     },
     {
+      "added_at": "2022-08-19 13:00:00",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/5V9EPlNksqsh3zYGtFJe4t"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/36VzVdJWZgpfyjxqS91JeS"
+    },
+    {
       "added_at": "2022-07-22 13:00:00",
       "album": {
         "name": "Back From the Dead",
@@ -287,6 +315,22 @@
       "duration_ms": 210304,
       "name": "Back From The Dead",
       "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
+    },
+    {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "Kill Or Be Killed",
+        "url": "https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 299060,
+      "name": "Kill Or Be Killed",
+      "url": "https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd"
     },
     {
       "added_at": "2022-07-29 13:00:00",
@@ -325,6 +369,22 @@
       "url": "https://open.spotify.com/track/0WVSpqEmsVyVs64i8Mkn3a"
     },
     {
+      "added_at": "2022-08-19 13:00:00",
+      "album": {
+        "name": "Soldier On! / Night Stalkers / We\u2019ll Be Back",
+        "url": "https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 294426,
+      "name": "Soldier On!",
+      "url": "https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt"
+    },
+    {
       "added_at": "2022-08-05 13:00:00",
       "album": {
         "name": "The Rumbling",
@@ -339,6 +399,22 @@
       "duration_ms": 220799,
       "name": "The Rumbling",
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/4gWScx9oKTfu3VNz0KBZMI"
+      },
+      "artists": [
+        {
+          "name": "Hell Fire",
+          "url": "https://open.spotify.com/artist/6hwtkhYiDooPPfKqzumCkb"
+        }
+      ],
+      "duration_ms": 285962,
+      "name": "It Ends Tonight",
+      "url": "https://open.spotify.com/track/1V1QWXnUZZlfcjqmdkylP9"
     },
     {
       "added_at": "2022-07-22 13:00:00",
@@ -371,6 +447,22 @@
       "duration_ms": 211440,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/3YLbIF9J9jtbmIeuBvzN4j"
+    },
+    {
+      "added_at": "2022-08-19 13:00:00",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2022-07-29 13:00:00",
@@ -407,6 +499,30 @@
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
+    },
+    {
+      "added_at": "2022-07-29 13:00:00",
+      "album": {
+        "name": "Native Intelligence (Ghostemane Natural Selection Remix)",
+        "url": "https://open.spotify.com/album/4PAEIe0V7cLDUuxaZ3RKDK"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Trent Reznor",
+          "url": "https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma"
+        },
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Native Intellligence - Ghostemane Natural Selection Remix",
+      "url": "https://open.spotify.com/track/1qHlqRNBhg5dQ6JKI4ajZM"
     },
     {
       "added_at": "2022-07-22 13:00:00",
@@ -447,22 +563,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Not Alone",
-        "url": "https://open.spotify.com/album/0nqLpJcFTpIlN4pLlNBRo6"
-      },
-      "artists": [
-        {
-          "name": "Black Paisley",
-          "url": "https://open.spotify.com/artist/6mGp1hXgz27GRQOkHD8d5m"
-        }
-      ],
-      "duration_ms": 213569,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/4kfIlXDqubi7Pf23TTh7MC"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Shine On",
         "url": "https://open.spotify.com/album/6UqHgUnm9v6EoaJhduSkmt"
       },
@@ -475,6 +575,22 @@
       "duration_ms": 178873,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/6vcHKWopK07LS88BRO7qzQ"
+    },
+    {
+      "added_at": "2022-07-15 13:00:00",
+      "album": {
+        "name": "sTraNgeRs",
+        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 195747,
+      "name": "sTraNgeRs",
+      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
     },
     {
       "added_at": "2022-07-29 13:00:00",
@@ -509,20 +625,20 @@
       "url": "https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J"
     },
     {
-      "added_at": "2022-07-22 13:00:00",
+      "added_at": "2022-08-19 13:00:00",
       "album": {
-        "name": "Dream Widow",
-        "url": "https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP"
+        "name": "Tear It Down",
+        "url": "https://open.spotify.com/album/2kjVaDRFJ0mqk9egRonDfI"
       },
       "artists": [
         {
-          "name": "Dream Widow",
-          "url": "https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 313373,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70"
+      "duration_ms": 237291,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/7heofhlS2Al1h56tb7Hoo8"
     },
     {
       "added_at": "2022-07-29 13:00:00",
@@ -571,22 +687,6 @@
       "duration_ms": 191414,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Call Me Snake",
-        "url": "https://open.spotify.com/album/1bOLrSXcoiGyP9BLQHF2gv"
-      },
-      "artists": [
-        {
-          "name": "The 69 Eyes",
-          "url": "https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b"
-        }
-      ],
-      "duration_ms": 219039,
-      "name": "Call Me Snake",
-      "url": "https://open.spotify.com/track/07a1Zu7zlJ5U0mxxIM2to5"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -669,26 +769,6 @@
       "url": "https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv"
     },
     {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Patient Number 9 (feat. Jeff Beck)",
-        "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 441402,
-      "name": "Patient Number 9 (feat. Jeff Beck)",
-      "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
-    },
-    {
       "added_at": "2022-07-22 13:00:00",
       "album": {
         "name": "Requiem",
@@ -703,6 +783,22 @@
       "duration_ms": 208053,
       "name": "Start The Healing",
       "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/0nqLpJcFTpIlN4pLlNBRo6"
+      },
+      "artists": [
+        {
+          "name": "Black Paisley",
+          "url": "https://open.spotify.com/artist/6mGp1hXgz27GRQOkHD8d5m"
+        }
+      ],
+      "duration_ms": 213569,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/4kfIlXDqubi7Pf23TTh7MC"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -755,22 +851,6 @@
     {
       "added_at": "2022-07-22 13:00:00",
       "album": {
-        "name": "Fu30, Pt. 2",
-        "url": "https://open.spotify.com/album/6Vnaiw0ZDBo8ZkFLEwV81R"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Strange Plan",
-      "url": "https://open.spotify.com/track/1rbeJWLIn7yfo7bupq36RN"
-    },
-    {
-      "added_at": "2022-07-22 13:00:00",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ"
       },
@@ -783,54 +863,6 @@
       "duration_ms": 186173,
       "name": "Antagonist",
       "url": "https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Here Comes the Revolution",
-        "url": "https://open.spotify.com/album/31wESA1p2Yn26BuiesP2wF"
-      },
-      "artists": [
-        {
-          "name": "Santa Cruz",
-          "url": "https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri"
-        }
-      ],
-      "duration_ms": 194881,
-      "name": "Here Comes the Revolution",
-      "url": "https://open.spotify.com/track/0KX65nsb1sH143B4SlZv4V"
-    },
-    {
-      "added_at": "2022-07-15 13:00:00",
-      "album": {
-        "name": "sTraNgeRs",
-        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 195747,
-      "name": "sTraNgeRs",
-      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Voices of Silence",
-        "url": "https://open.spotify.com/album/4E0vmRDkCDScK4LMk7iFfv"
-      },
-      "artists": [
-        {
-          "name": "John Norum",
-          "url": "https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh"
-        }
-      ],
-      "duration_ms": 285893,
-      "name": "Voices of Silence",
-      "url": "https://open.spotify.com/track/3JYPeSLAgKw5zb2x3GtMxl"
     }
   ],
   "unique_name": "Hard Rock",

@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Vory
 
-174 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
+176 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [everything you need](https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:27 | 2021-12-17 | 2022-06-04 |
 | [EX](https://open.spotify.com/track/7DMkMmhJYtyyWX7JaPKrEM) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [EX](https://open.spotify.com/album/3f8TNHuwmLpB84tgpH0RmB) | 3:56 | 2021-10-07\* | 2021-10-23 |
 | [F Yah Job](https://open.spotify.com/track/0Zrn0AIZ8zNCtStA1YrRfZ) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [F Yah Job](https://open.spotify.com/album/7smZwprQmyFU3VHOz4nfjg) | 1:57 | 2021-07-09 | 2022-02-19 |
+| [FACES](https://open.spotify.com/track/3gG3DVG8vhaCRvJrdl802N) | [Swavay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [FACES](https://open.spotify.com/album/2ud0Zdgl2DkKXFbdMN2Eef) | 3:31 | 2022-08-19 |  |
 | [FaceTime \(feat\. Rick Ross\)](https://open.spotify.com/track/1n2ZrvQyFFL7eE0xidaJ9N) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [FaceTime \(feat\. Rick Ross\)](https://open.spotify.com/album/5LjWzvQsOvo63cTFCln5EX) | 3:42 | 2021-10-14 | 2021-11-06 |
 | [Feelin In Love](https://open.spotify.com/track/6IT91mLNfih39B6W2YmjMe) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Feelin In Love](https://open.spotify.com/album/1zAX0e1mf3k3qrTXJE8XPt) | 1:53 | 2022-08-12 |  |
 | [Find A Way \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/4yIH4PcUVivcxNTy1ETMZ3) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Find A Way \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/album/2DKCodaPZGRpDuDFSIctBN) | 3:32 | 2021-09-17 | 2022-05-20 |
@@ -140,6 +141,7 @@
 | [Relapse](https://open.spotify.com/track/1rqK157myRkURNm2M4mGOH) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Young & Restless Vol\. 1 Baby Don](https://open.spotify.com/album/5Vsv12liWYcEYcX0ryvAaa) | 2:36 | 2022-06-24 |  |
 | [Ride For You \(feat\. Kehlani\)](https://open.spotify.com/track/4YFPUYwA9Jmk9xQYCbz3zb) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:02 | 2021-10-01 | 2022-04-09 |
 | [Scorpio](https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3) | 2:45 | 2021-10-22 | 2022-06-11 |
+| [Self Worth \(feat\. Lil Perco\)](https://open.spotify.com/track/6IhYveUZOkd1dVuE1mdX5N) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [Lil Perco](https://open.spotify.com/artist/1zBajAbkG72h752UzxeUAB) | [Vultures Don't Kry](https://open.spotify.com/album/1ZD7JYrhxigRGhjzpPzEJ3) | 2:52 | 2022-08-19 |  |
 | [Settled \(feat\. Russ\)](https://open.spotify.com/track/46cBzfiGyZetFFC9P9LATk) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [The Blue Hour](https://open.spotify.com/album/4DTVVsFW3Jhi4Jw8flTAGR) | 3:41 | 2022-07-15 |  |
 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 | 2022-06-24 |  |
 | [Side Piece](https://open.spotify.com/track/0203aGEIzVVlmvQ8lX4fmV) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:54 | 2022-05-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electro tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,122 likes - 125 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,154 likes - 125 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [Lune](https://open.spotify.com/track/09d3JszICFYeOsU6mjXxa7) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Lune](https://open.spotify.com/album/2dliQpKdUMkgEp5NUMdgfL) | 4:50 |
 | 125 | [A Cyber's World](https://open.spotify.com/track/2p2E7hPrV1k3pGESHHP75E) | [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [A Cyber's World](https://open.spotify.com/album/4Skl8xv9LILiUM5CS4yk8T) | 2:52 |
 
-Snapshot ID: `MTY2MDMwMjA4MiwwMDAwMDAwMDQyNzI1NWU2NjgyM2U1ODRmNGRkY2NlYmIxNTg1OGZk`
+Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMDZiOGE1YzA3MDY2YmNjMjIwMzc5ZTRkZTIxOTFhNmQ1`

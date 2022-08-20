@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-141 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+142 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Calling Out To You](https://open.spotify.com/track/4NbmBhEdThmGYpiVakws47) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 3:46 | 2020-08-11 |  |
 | [Castle](https://open.spotify.com/track/2QIbD38FhRqXHOeQC3SiYu) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:28 | 2020-08-11 |  |
 | [Coffee Blues](https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:47 | 2020-08-11 |  |
-| [Cross Creek Road](https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 3:01 | 2020-08-11 |  |
+| [Cross Creek Road](https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 3:01 | 2020-08-11 | 2022-08-20 |
 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 | 2020-08-11 |  |
 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 | 2021-06-04 |  |
 | [Death Letter](https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Forever On My Mind](https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9) | 5:51 | 2022-03-18 |  |
@@ -131,6 +131,7 @@
 | [Take Me to the Country](https://open.spotify.com/track/3zq0O9elfqNSrIWM9S5eV2) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Spectacular Class](https://open.spotify.com/album/3VnetMqM2L9pmXcdgixAq8) | 2:56 | 2020-08-11 |  |
 | [Talkin' To Jehova](https://open.spotify.com/track/2htN0gyb1WiJliAq9LtDza) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Brother Sinner & The Whale](https://open.spotify.com/album/7BsEu3aR82GbSKxMhbGnUS) | 4:36 | 2020-08-11 |  |
 | [Talkin' To Jehova](https://open.spotify.com/track/69gubiWawGe46tKg6DpIyG) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Brother Sinner & The Whale](https://open.spotify.com/album/49SYH9sbBqVVLhFP1XJW8O) | 4:36 | 2020-08-11 | 2022-07-29 |
+| [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 | 2022-08-19 |  |
 | [The World Can Be So Cold](https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 3:26 | 2021-05-21 |  |
 | [The World Can Be So Cold](https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/7kE0bDyvEtUN1HLK6aHRwC) | 3:26 | 2021-05-21 | 2022-07-29 |
 | [Thumb A Ride](https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb A Ride](https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof) | 2:53 | 2020-08-11 |  |

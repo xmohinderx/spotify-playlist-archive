@@ -1044,6 +1044,24 @@
     },
     {
       "album": {
+        "name": "5 4 3 2 1",
+        "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "5 4 3 2 1",
+      "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
+    },
+    {
+      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/0e1XqaBMWRpnrHGsNlBx0o"
       },
@@ -8808,6 +8826,24 @@
     },
     {
       "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/3wh2oQMi6XahXjqO9ERILp"
+      },
+      "artists": [
+        {
+          "name": "JEWELS",
+          "url": "https://open.spotify.com/artist/2puIo7Zz69PUcZbbQ5axLb"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204125,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/13LBez2L5eGKLuoWHyx8V2"
+    },
+    {
+      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
       },
@@ -12670,7 +12706,7 @@
         },
         {
           "name": "Spice",
-          "url": "https://open.spotify.com/artist/1agX5xuqpSUDQ55gkdQbZk"
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
         }
       ],
       "date_added": "2022-08-18",
@@ -18713,7 +18749,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 166000,
       "name": "Edgeware Rd - Mixed",
       "url": "https://open.spotify.com/track/4EadSFF1sAsukhLQYlJkbW"
@@ -23598,6 +23634,28 @@
     },
     {
       "album": {
+        "name": "all the things that could go wrong",
+        "url": "https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171706,
+      "name": "fun out of it",
+      "url": "https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK"
+    },
+    {
+      "album": {
         "name": "fun out of it",
         "url": "https://open.spotify.com/album/3WP7yTejCc8P0W7edTsSoq"
       },
@@ -23613,7 +23671,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 171706,
       "name": "fun out of it",
       "url": "https://open.spotify.com/track/2G7jwClVBqTVg945ceXdqJ"
@@ -31395,10 +31453,28 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 201042,
       "name": "I Never Told You",
       "url": "https://open.spotify.com/track/66SuQziRR6xTklz0sFEk4U"
+    },
+    {
+      "album": {
+        "name": "I Never Told You",
+        "url": "https://open.spotify.com/album/0efdWlUU8EZHpziJO39ymK"
+      },
+      "artists": [
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201042,
+      "name": "I Never Told You",
+      "url": "https://open.spotify.com/track/7kJ9zwpfMAuGbXjI5cEbvi"
     },
     {
       "album": {
@@ -36373,6 +36449,24 @@
       "duration_ms": 180666,
       "name": "Late To Da Party (feat. Youngboy Never Broke Again)",
       "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
+    },
+    {
+      "album": {
+        "name": "lavender blossom",
+        "url": "https://open.spotify.com/album/6PIOx12CeW8YKx4cKWz7t0"
+      },
+      "artists": [
+        {
+          "name": "Salty Licorice",
+          "url": "https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "lavender blossom",
+      "url": "https://open.spotify.com/track/5504ozM505NGOFiLPSvijC"
     },
     {
       "album": {
@@ -46182,6 +46276,28 @@
     },
     {
       "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/5BiqZqNoE5PtNpxDpIyIEf"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs"
+        },
+        {
+          "name": "Manny Flaco",
+          "url": "https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160506,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/5ukf2b3SjLBDpSLlddBegy"
+    },
+    {
+      "album": {
         "name": "No Time (For My Life To Suck)",
         "url": "https://open.spotify.com/album/69gZ4DnvFsvQ8z9yk4QdYG"
       },
@@ -50387,6 +50503,24 @@
       "duration_ms": 187983,
       "name": "Pink Rocket",
       "url": "https://open.spotify.com/track/2OVqjfoBdVRrI12wyJOgHq"
+    },
+    {
+      "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "album": {

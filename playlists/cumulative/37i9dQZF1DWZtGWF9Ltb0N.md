@@ -4,7 +4,7 @@
 
 > A mix of floor shattering bass, dub plates & purple vibes\. Back to the roots and the original sounds of Dubstep.
 
-374 songs - 1 day 4 hr 53 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+376 songs - 1 day 5 hr 0 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Dissonance](https://open.spotify.com/track/5MmEgl5zr8lTmu30HO00Fw) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [Dissonance](https://open.spotify.com/album/1YI0DOkY7g3M4fsMYuMycJ) | 5:32 | 2022-07-08 | 2022-07-30 |
 | [Distant Light](https://open.spotify.com/track/0dpN2BrkuBkpayGK55o70X) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Universal](https://open.spotify.com/album/2u24rPh4PG59tEqJy2qEaH) | 4:13 | 2022-02-17 | 2022-07-30 |
 | [Disturbed](https://open.spotify.com/track/5JexpLUHY3HriFPMzbO0aQ) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Disturbed](https://open.spotify.com/album/0dhYot6jIkDIPw5nMJIHWl) | 4:41 | 2022-02-17 |  |
-| [Down Town Dub](https://open.spotify.com/track/4bC6kRiriuqVWM4D2UgIUW) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [Down Town Dub / Tumble](https://open.spotify.com/album/42jIA73ix0bgwNw8slzbOx) | 5:36 | 2022-02-17 |  |
+| [Down Town Dub](https://open.spotify.com/track/4bC6kRiriuqVWM4D2UgIUW) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [Down Town Dub / Tumble](https://open.spotify.com/album/42jIA73ix0bgwNw8slzbOx) | 5:36 | 2022-02-17 | 2022-08-20 |
 | [Dread & Buried \- Congi Remix](https://open.spotify.com/track/2AuzAvDq4piWEeSsfkZxqp) | [Origin One](https://open.spotify.com/artist/1EKZ8G8paqscrKD9uZMOor), [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Deeply Remixed, Vol\. 2](https://open.spotify.com/album/1rD87trISV6lwx6QJ5TRpp) | 3:54 | 2022-02-17 |  |
 | [Dreamer](https://open.spotify.com/track/1fuLBcbyY3mYcKAjzb6jLD) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Dreamer](https://open.spotify.com/album/0Zvw2kNrsvYmsPIo8ouBbA) | 4:37 | 2022-02-17 |  |
 | [Drip](https://open.spotify.com/track/5CjauCwaAozrIZDP6DRkXC) | [Makak](https://open.spotify.com/artist/1thCvEKG6fmH3GBcTtBRbD) | [Drip EP](https://open.spotify.com/album/10sfM135naBDcbfOLulWyx) | 3:05 | 2022-02-17 | 2022-07-30 |
@@ -262,10 +262,12 @@
 | [Red Handed](https://open.spotify.com/track/0KwJGWguMPAmuVrctH6n3t) | [Mr.K](https://open.spotify.com/artist/5ouKVWUPDLS5gCQfvMHZ3T) | [Red Handed](https://open.spotify.com/album/3WvLuQdHBW3M8OlemgTO1p) | 4:12 | 2022-02-17 | 2022-07-30 |
 | [Reflection](https://open.spotify.com/track/6ZR6ZDHBsCOcLdshPANYTl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:58 | 2022-02-17 |  |
 | [Remembrance](https://open.spotify.com/track/5fAhlkmF77TsVx3gUntbnB) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [View from the Edge EP](https://open.spotify.com/album/3AeRvuPNsF7YDLZ2eXhRxl) | 5:35 | 2022-02-17 | 2022-07-29 |
+| [Resonate](https://open.spotify.com/track/4BslxfPzl3zzoSxf5JS57R) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Resonate / Shaman](https://open.spotify.com/album/3ogPWAWqjoQZ4OJSzWp4Em) | 3:03 | 2022-08-19 |  |
 | [Revival](https://open.spotify.com/track/0B71eleP2fI8erz2AccjRx) | [Cimm](https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6) | [Revival](https://open.spotify.com/album/36yJ0HBPXOBOv1HEjyLE0b) | 4:50 | 2022-04-08 |  |
 | [Rhubarb Crumble](https://open.spotify.com/track/1Cm7THvhhuBMZVuP08nkpb) | [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7) | [Rhubarb Crumble EP](https://open.spotify.com/album/4ByklHL90cfvBGLBbbyel1) | 5:33 | 2022-02-17 | 2022-07-27 |
 | [Ride Out](https://open.spotify.com/track/5NjFTKQe08qkzfYIYg2hMf) | [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Ride Out](https://open.spotify.com/album/0g6JAuSxiBOAYvCsjTEG0m) | 4:20 | 2022-02-17 |  |
 | [Righteous](https://open.spotify.com/track/6vLVc8UKfHm5HFbprTee4T) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Righteous](https://open.spotify.com/album/3hZqvmxuYCPFnm7dz0uDIM) | 4:45 | 2022-02-17 |  |
+| [Ripper](https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Ripper](https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3) | 3:30 | 2022-08-19 |  |
 | [Roots Dub](https://open.spotify.com/track/0yrcb1cwkgheJ7jEcTMwsh) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Roots \- EP](https://open.spotify.com/album/1wLirC220sMgkHxPrwN3M2) | 4:20 | 2022-02-17 |  |
 | [Roots Music](https://open.spotify.com/track/47Q2U9ao1PdM1VAYz0eVUl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:37 | 2022-02-17 |  |
 | [Ruthless Dub](https://open.spotify.com/track/16YrHFV7dyCP1HAFVY9Nvt) | [Khonsu](https://open.spotify.com/artist/1zXVVvYeOwcy9hFDwNGU4C) | [Khonsu \- EP](https://open.spotify.com/album/3tjGIFYCEm3gjqHP8ZJKov) | 4:38 | 2022-02-17 | 2022-07-25 |
@@ -284,7 +286,7 @@
 | [Shaolin](https://open.spotify.com/track/2lFtQc1PhJw5w8az7tvWA7) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Shaolin](https://open.spotify.com/album/4LVR6xfH1HRQAn1jOZflxi) | 4:36 | 2022-04-08 |  |
 | [Shegry](https://open.spotify.com/track/65QWiFvyFsLgfbG2ZXozNX) | [Regents](https://open.spotify.com/artist/4BmXLF6dxW3qdkKPL8zthd), [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Shegry](https://open.spotify.com/album/52FuZ7LCpIb0ASm79pa51Z) | 2:51 | 2022-02-17 |  |
 | [Shifter VIP](https://open.spotify.com/track/0zD8Z5tdwFQrwSXOZdUEPO) | [Kloudmen](https://open.spotify.com/artist/2yH2SOYAsueJEvrdTXyiRs) | [Shifter VIP](https://open.spotify.com/album/4a2sKvraE5XS38zKSfQ1gm) | 3:46 | 2022-02-17 |  |
-| [Sick Fing](https://open.spotify.com/track/2YWWbTRdDpwympJPudyZlM) | [Stillhead](https://open.spotify.com/artist/6kAJ3c9QA35wGowhDQeaya) | [Sick Fing](https://open.spotify.com/album/3DWjqUtrpV32qaHWwyrhkd) | 4:12 | 2022-07-01 |  |
+| [Sick Fing](https://open.spotify.com/track/2YWWbTRdDpwympJPudyZlM) | [Stillhead](https://open.spotify.com/artist/6kAJ3c9QA35wGowhDQeaya) | [Sick Fing](https://open.spotify.com/album/3DWjqUtrpV32qaHWwyrhkd) | 4:12 | 2022-07-01 | 2022-08-20 |
 | [Single Entity](https://open.spotify.com/track/6boVvpFAMZgqdoFOPnHaGx) | [Killawatt](https://open.spotify.com/artist/0WaR9ydw7sZikp1dfHV8Xc) | [This Is Dubstep 2013](https://open.spotify.com/album/3662bNO8Ynjc0kMXvo1BXW) | 5:36 | 2022-02-17 | 2022-07-24 |
 | [Sinker](https://open.spotify.com/track/0FnaZWJgBpObO0SsIiy3Cb) | [Goth\-Trad](https://open.spotify.com/artist/133pV477MVSsj1MHgsrIc9) | [Sinker / Sunbeam VIP](https://open.spotify.com/album/1NWNgQdgp03DVaMtEguJ6c) | 5:15 | 2022-02-17 | 2022-04-08 |
 | [Skanka](https://open.spotify.com/track/3M2l5Rh3qLjHzgVEWbyAbZ) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Skanka](https://open.spotify.com/album/6VdZkGxkcdhZebv9u7solf) | 3:41 | 2022-02-17 |  |

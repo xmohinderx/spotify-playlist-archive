@@ -2,9 +2,9 @@
 
 ### [Dance For Days](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more! Cover: Gioli &amp; Assia
+> Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more! Cover: Benny Benassi &amp; David Guetta
 
-184 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
+185 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Catch My Love](https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq) | [Catch My Love](https://open.spotify.com/album/3cRcAAVLPSyu1cEt95aDHs) | 2:28 | 2022-06-03 |  |
 | [Catching A Dream \(Sam Feldt Remix\)](https://open.spotify.com/track/3qBqh2AVvAJCoY3IR3k1jF) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Catching A Dream \(Sam Feldt Remix\)](https://open.spotify.com/album/1VBJpDBrzGUyUmONeP0sDO) | 2:53 | 2022-06-03 |  |
 | [Chemical Embrace](https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Chemical Embrace](https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS) | 3:12 | 2022-07-22 |  |
+| [Chemical High](https://open.spotify.com/track/01mt0RLXC0DQ4VPQpV6WWy) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Chemical High](https://open.spotify.com/album/6NPgAZh5MU5W7P4EjyLRZ7) | 2:38 | 2022-08-19 |  |
 | [Close To Me](https://open.spotify.com/track/21JoPemyXNty2lwPaDJxgA) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [Myge](https://open.spotify.com/artist/3Yw7xZaBk5eAvwskaBScZA) | [Close To Me](https://open.spotify.com/album/4gGy3RGpKiegHYrbVlnOog) | 3:20 | 2022-06-03 |  |
 | [Come Clean \(feat\. Justin Jesso\)](https://open.spotify.com/track/4PyEdtiTEPNvsNSXPDQDDL) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Prince Fox](https://open.spotify.com/artist/1nf5yEVCfMbqm1OCYpntBT), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 2:57 | 2022-06-03 |  |
 | [Confidence \(feat\. Jon Waltz\) \- Slow Magic Remix](https://open.spotify.com/track/1Rvd0fDecFF3UToXYp8oE9) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Confidence \(feat\. Jon Waltz\) \[Slow Magic Remix\]](https://open.spotify.com/album/2PIshbxgCmpan3Q36Q3DFd) | 3:35 | 2022-06-03 |  |

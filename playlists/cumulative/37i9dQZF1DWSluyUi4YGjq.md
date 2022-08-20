@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Trementina on cover!
 
-186 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+187 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Gloss](https://open.spotify.com/track/2G7lT3oddwsV7tLX07IHvL) | [Rilev](https://open.spotify.com/artist/4dr041b5YGK6DrnD8VpHeW) | [Gloss](https://open.spotify.com/album/3gZNvLJPaHzUUpYxdFFo3p) | 4:41 | 2021-10-19 | 2022-07-23 |
 | [Glow](https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:02 | 2021-10-19 |  |
 | [Go and Come Back](https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 4:30 | 2021-10-19 |  |
-| [Goodtimes](https://open.spotify.com/track/3Pt8kGU9mlpwMsrLA8JmVO) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Fantasy Country](https://open.spotify.com/album/1wG63pgwLf0S5qWlKrDJuP) | 4:03 | 2021-10-19 |  |
+| [Goodtimes](https://open.spotify.com/track/3Pt8kGU9mlpwMsrLA8JmVO) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Fantasy Country](https://open.spotify.com/album/1wG63pgwLf0S5qWlKrDJuP) | 4:03 | 2021-10-19 | 2022-08-20 |
 | [Handsome Man](https://open.spotify.com/track/69AmXsTIzhpL1PzKzq4FRP) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Handsome Man](https://open.spotify.com/album/6NKe1FLpu6vd6XlccHhRYw) | 2:28 | 2021-10-19 | 2022-07-29 |
 | [Handsome Man](https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 2:28 | 2021-10-19 |  |
 | [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2021-10-19 |  |
@@ -155,6 +155,7 @@
 | [Runner](https://open.spotify.com/track/1fItLBpR6V1T1DY1gtx9ph) | [Young Prisms](https://open.spotify.com/artist/62Xs9S1gahH6vGEJ24qdkK) | [In Between](https://open.spotify.com/album/3pMstoTsGwr3br5VWi30GD) | 4:33 | 2021-10-19 | 2022-07-29 |
 | [S.W.I.M.](https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Forever](https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ) | 6:45 | 2021-10-19 |  |
 | [Sapphire](https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Spiritual Instinct](https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh) | 5:00 | 2021-10-19 |  |
+| [Saved For Summer](https://open.spotify.com/track/1vdGnzQYnZniAsJngfkIFP) | [SRSQ](https://open.spotify.com/artist/7oTWrSAsrqQnBE1LRUBZPE) | [Saved For Summer](https://open.spotify.com/album/0vzA5mPgaRnHycfywhbTNS) | 5:19 | 2022-08-19 |  |
 | [Seven of Cups](https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7) | 3:53 | 2022-08-03 |  |
 | [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 | 2022-05-06 | 2022-07-29 |
 | [Sharron Apple](https://open.spotify.com/track/7yuX2OzkFAm6eKOj2AnL1R) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:17 | 2021-10-19 |  |

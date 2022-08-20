@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,544 likes - 60 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,550 likes - 60 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 19 | [Treasure / My Time](https://open.spotify.com/track/5wIiyKlqYBsQrjX0RqavRY) | [Freddie Fardon](https://open.spotify.com/artist/47MKNB3zJLyXyFKsT5fSFm) | [Treasure / My Time](https://open.spotify.com/album/7nlDINiq8DFG1wVG7h2XUE) | 4:28 |
 | 20 | [All About You](https://open.spotify.com/track/0qLqLMBQS5y3ZAbkc3MIGy) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Esther McLaren](https://open.spotify.com/artist/60J1UuxiGazhPIzIgwKULA) | [The Journey: A Collection](https://open.spotify.com/album/5E2ontsrR45lgUeC7cqen3) | 4:26 |
 | 21 | [Unending Grace](https://open.spotify.com/track/3Bi99eLHgL2tSZWLTsX2YA) | [Heart Youth](https://open.spotify.com/artist/6jbkO5Hjow7xAqHUkGDSRB) | [Unending Grace](https://open.spotify.com/album/05qJIMapoGbfR24QLJy7V5) | 4:31 |
-| 22 | [Ashes](https://open.spotify.com/track/53z7x50cMMv2ClqUSdH6TZ) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Son of My Father \- EP](https://open.spotify.com/album/05DNmljF4983MWyjlkcXzS) | 4:18 |
+| 22 | [Ashes](https://open.spotify.com/track/7g9BylLROwXbWmP0xdkp8O) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Son of My Father](https://open.spotify.com/album/4gCHt9tejb6XrEBgoEq3bE) | 4:18 |
 | 23 | [Alive with Worship](https://open.spotify.com/track/4AGEum8L2SEclpv676IU4C) | [Simon Brading](https://open.spotify.com/artist/5lXrZdj3SEDih1rxPeuSIZ) | [Alive with Worship](https://open.spotify.com/album/1juE8NS5CgqshKNeJ6Bac7) | 3:24 |
 | 24 | [Spirit and Truth](https://open.spotify.com/track/4wzlJOsP5hnCaAcVlEcMFo) | [Chris Sayburn](https://open.spotify.com/artist/3YCIiIHJppDleYo4vq4AN9) | [Saved By Grace](https://open.spotify.com/album/5Rzg6slcH2u7Ipl0VqYUY1) | 4:53 |
 | 25 | [Obey \- Acoustic](https://open.spotify.com/track/4K4bFzadyAYVm4UqSQR0dM) | [Tom Smith](https://open.spotify.com/artist/4y7Cnogmk0fX6UXhGznDQk) | [Everyday](https://open.spotify.com/album/4PRcGJ2cZjHTXjEpcraPu7) | 4:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 59 | [Fix MY Eyes On You](https://open.spotify.com/track/5Gvsgw6zvvcK73L8mrN9NY) | [InSalvation](https://open.spotify.com/artist/254N4bAbejA5vO4sJGAUdX) | [NEON](https://open.spotify.com/album/1OahG76uAlkwkaKR4OmxK4) | 5:57 |
 | 60 | [Simple Pursuit](https://open.spotify.com/track/7mrbfKEIvwf8rWXBxEtp89) | [Ben Cantelon](https://open.spotify.com/artist/0hG95VUGURuOHoxgts6Br3) | [The Ascent, Vol\. 1](https://open.spotify.com/album/2GvamlBYznzImkPF1ue7E2) | 5:18 |
 
-Snapshot ID: `MTU0MzMzNDc0OCwwMDAwMDAwMGUyNzQzZWJiMjg1M2ZkYjE2ZTJjZTM3MWQ4ZDBmYjdh`
+Snapshot ID: `MTU0MzMzNDc0OCwwMDAwMDAwMDdjNWFmODE0NzA4ODNlODgyYzlhNTg1OGE0ZmNhOGJi`

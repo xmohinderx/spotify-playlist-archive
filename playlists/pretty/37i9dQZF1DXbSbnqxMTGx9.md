@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate Reggae classics provided by the ultimate artist Tarrus Riley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,684,029 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,684,515 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 59 | [World A Reggae Music](https://open.spotify.com/track/3Gym3Rtm6FHpTrLlJTcz3j) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Black Star](https://open.spotify.com/album/4vwPhmk9UeW85CnLXexdrB) | 3:44 |
 | 60 | [Big Ship](https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 3:17 |
 
-Snapshot ID: `MTY2MDg2NjQ2OSwwMDAwMDAwMDdkYzc0NDk1YjQyMjAyYTI4YzBhMmFhZmU2ZWY0NDY4`
+Snapshot ID: `MTY2MDkyNTU4NiwwMDAwMDAwMDc5ZDQwMTExM2M5NTg2NmVhMWI4NWJjY2M5ZTI2YTU0`

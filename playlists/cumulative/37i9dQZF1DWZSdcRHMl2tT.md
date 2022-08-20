@@ -4,10 +4,11 @@
 
 > Chill house beats for hanging out in the sun.
 
-260 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+269 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Moment Away](https://open.spotify.com/track/1aPsjaKgsrnkI5sFhAWOQ1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Moment Away](https://open.spotify.com/album/0QqAuhswFbp65DIjREV98p) | 2:56 | 2022-08-19 |  |
 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 | 2022-04-05 | 2022-07-29 |
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-04-05 |  |
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2022-04-05 |  |
@@ -22,6 +23,7 @@
 | [beach sins](https://open.spotify.com/track/6AbbZin6hevFSL1kurmBbA) | [ftono](https://open.spotify.com/artist/161AbwCisiojaqrwqJf9Uu) | [beach sins](https://open.spotify.com/album/3NMdYsVz9daSXKyUu4aKnX) | 2:41 | 2022-08-12 |  |
 | [beach smiles](https://open.spotify.com/track/7lncP7Wc3qmCtAGI5dQnVi) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [beach smiles](https://open.spotify.com/album/795CcUtAx66kawYnIlXqeA) | 3:12 | 2022-07-29 |  |
 | [Beach Vacay](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Beach Vacay](https://open.spotify.com/album/3GCaSyRf0LPvVGj4s7n3mW) | 2:41 | 2022-04-05 |  |
+| [Beaches](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Beaches](https://open.spotify.com/album/2AnNWa5IA3rkx8tJKkePfY) | 3:01 | 2022-08-19 |  |
 | [Beatin' Hearts](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [Beatin' Hearts](https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw) | 2:28 | 2022-04-05 |  |
 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2022-04-05 |  |
 | [Beautiful Mistakes](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z) | [Maurice Mills](https://open.spotify.com/artist/0ZcVnAa1FuqddOKuw0Ok6Q) | [Beautiful Mistakes](https://open.spotify.com/album/54b551w06UPS9Bt1a4yl6E) | 2:03 | 2022-04-05 |  |
@@ -146,6 +148,7 @@
 | [Midsommar](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Midsommar](https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w) | 2:36 | 2022-06-24 | 2022-07-29 |
 | [milanaze](https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [milanaze](https://open.spotify.com/album/1ahaxm7I0wNWesi6fwvaS3) | 2:56 | 2022-04-05 | 2022-07-29 |
 | [Missing You \- Edit](https://open.spotify.com/track/3kz48YBXaevUhbPmVOIIeR) | [Traumen](https://open.spotify.com/artist/4HBtYshoPlAco0bw0tbFPq) | [Missing You \(Edit\)](https://open.spotify.com/album/19rs2mF1OBzZVSqFIm4kz6) | 4:02 | 2022-04-05 | 2022-05-11 |
+| [misty mind](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [misty mind](https://open.spotify.com/album/0s05LnnEMwRsijxcg3nClv) | 2:23 | 2022-08-19 |  |
 | [Moon](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Moon](https://open.spotify.com/album/3M46ScNsRcUadJs8j5qajr) | 2:56 | 2022-04-05 |  |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2022-04-05 |  |
 | [mountain](https://open.spotify.com/track/3uZy1y9JuMAGTtBwCqKMt1) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/1WsIywiW8a84ekqfvcsMot) | 1:54 | 2022-07-29 |  |
@@ -169,9 +172,11 @@
 | [Oya](https://open.spotify.com/track/780oYps6HX9dd2Ri3owzs6) | [Dusty Kiko](https://open.spotify.com/artist/4i18oS8S6KAynyZ16L6TO1) | [Oya](https://open.spotify.com/album/3Mxth3OuHNMUePF10mE6sp) | 3:13 | 2022-04-05 |  |
 | [Palm Beach](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh) | [Blissmo](https://open.spotify.com/artist/5Yfb88eP2CrvvhWpKEeFdg) | [Palm Beach](https://open.spotify.com/album/2kNlHYQYErsgYW8UbGWQrE) | 2:45 | 2022-04-05 |  |
 | [Palm Tree](https://open.spotify.com/track/6nalAQtGzYV2PGBdHLrz9p) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Palm Tree](https://open.spotify.com/album/1iQXVdRUs2eJ0wDwpvStIl) | 5:48 | 2022-04-05 | 2022-04-15 |
+| [paloma beach](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [paloma beach](https://open.spotify.com/album/3ZtcDAqw3gck5JsDq8gkNv) | 4:02 | 2022-08-19 |  |
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2022-04-05 |  |
 | [Passing By](https://open.spotify.com/track/28lMyaJBMmgvw4Cn4OvoeH) | [Monday Motive](https://open.spotify.com/artist/4bCmFKZPJZBIZeQ5qVzIyN) | [Passing By](https://open.spotify.com/album/7tj4fpjyhDvNyPgp76Zhlb) | 3:05 | 2022-04-05 | 2022-07-29 |
 | [Peaceful Nature](https://open.spotify.com/track/1gDslzncbGkKzv5P6NZ8Ql) | [Qeeo](https://open.spotify.com/artist/6E5CtHXk5zbfF6bmi6oVAE) | [Sunny Girl](https://open.spotify.com/album/7kjXdIPtoAKaKnfNkLRgs8) | 2:41 | 2022-04-05 | 2022-06-10 |
+| [Peachess](https://open.spotify.com/track/4IGRNWjPIK2diFXhAIP7hT) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Peachess](https://open.spotify.com/album/0nSvJfCCj7OTvGGhjGysyw) | 2:51 | 2022-08-19 |  |
 | [Pictures](https://open.spotify.com/track/1rjsmzE5H51NhkH4W9Iwie) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Pictures](https://open.spotify.com/album/4xgDVe0RqOtwegdGP21AFR) | 2:55 | 2022-07-22 |  |
 | [Pinkland](https://open.spotify.com/track/3NrEA3JQTvVFfy6BMPy8EH) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Pinkland](https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat) | 5:29 | 2022-04-15 | 2022-07-22 |
 | [Play Day](https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw) | [Oskarr Starr](https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9) | [Play Day](https://open.spotify.com/album/0UKqrWV652dKSlLiF641a9) | 4:02 | 2022-04-05 | 2022-07-29 |
@@ -199,6 +204,7 @@
 | [Saints & Tropez](https://open.spotify.com/track/08SKC2H1MDH2WmTjLIoLcs) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Saints & Tropez](https://open.spotify.com/album/4L9IvFRId2lprKiP84acjy) | 3:48 | 2022-04-05 | 2022-05-27 |
 | [Salty Tales](https://open.spotify.com/track/5Gy3t7t0vEsxFEMux3dX3X) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Salty Tales](https://open.spotify.com/album/52JSePvlPgJ8YN9sPZK0D5) | 4:50 | 2022-04-05 | 2022-05-11 |
 | [Sand Clock](https://open.spotify.com/track/6IwHwlClGKuBK7AicClQps) | [Baan Sabai](https://open.spotify.com/artist/35XxjWLe2q44WiwdVpfiQe), [Tropical Fairytale](https://open.spotify.com/artist/0viQiu9whoGSMkX0fF0kob), [Neon Zebra](https://open.spotify.com/artist/6wql856Fi2nCHEqpdCGiUq) | [Sand Clock](https://open.spotify.com/album/046yIr7qerLKIDqaAKopNf) | 2:09 | 2022-08-12 |  |
+| [Sashimi](https://open.spotify.com/track/4XYmRagdOyH4mwTmgizaUh) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Sashimi / Foolish Things](https://open.spotify.com/album/0Z0wwa26bikvwzCCd7AgEc) | 2:47 | 2022-08-19 |  |
 | [Sea To Sky \- Parra For Cuva Remix](https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sea To Sky \(Parra For Cuva Remix\)](https://open.spotify.com/album/7JImJ5SHOXJawrhfmB7COU) | 3:46 | 2022-05-13 | 2022-07-22 |
 | [Sea Ya](https://open.spotify.com/track/4eftVZJINpVQjJPF2cEBaL) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Sea Ya](https://open.spotify.com/album/7j0QI0It6JlIO7JUqGYMj8) | 3:56 | 2022-04-05 |  |
 | [Seaside](https://open.spotify.com/track/1juh9T8vZLJcW7NRfRnFyH) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Seaside](https://open.spotify.com/album/5WbSdILow0l6UxYWtvYtjw) | 3:21 | 2022-04-05 |  |
@@ -227,8 +233,10 @@
 | [Summersome](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Summersome](https://open.spotify.com/album/4QO93jpdiy9nkHMk5KCuSy) | 2:30 | 2022-06-10 |  |
 | [Sun Glitches](https://open.spotify.com/track/4J9HHafhgC42Dm18pJUIQo) | [Dream Lanterns](https://open.spotify.com/artist/4gpy3xS2i5lM4Yopidaimg) | [Sun Glitches](https://open.spotify.com/album/2MkOSCMXM1BVOVKZQUrR6h) | 4:01 | 2022-04-05 |  |
 | [Sun King](https://open.spotify.com/track/2EezpKbfw5GdDaYZiUEAhH) | [Lemon Pi](https://open.spotify.com/artist/4iXm09MxBWzOQBhZVUGw12) | [Sun King](https://open.spotify.com/album/5RVLPgfGR3OMktOr3BHCXP) | 2:37 | 2022-04-05 | 2022-07-01 |
+| [Sun Soaked](https://open.spotify.com/track/4CFOO0ALDRXw6eVkFBVQXs) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Sun Soaked](https://open.spotify.com/album/7oa0OP3sKJEL0q4pmDbvbg) | 2:20 | 2022-08-19 |  |
 | [Sun Time](https://open.spotify.com/track/6bo1me9qHBypbaYu7BBQjF) | [Yelloo Hill](https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke) | [Sun Time](https://open.spotify.com/album/2GFprs0AQbp3DBsnRDsaad) | 2:09 | 2022-04-05 | 2022-05-11 |
 | [sunique](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [sunique](https://open.spotify.com/album/60t2NsIUvRFZ6kMTMIg7SH) | 3:08 | 2022-04-05 |  |
+| [Sunset In Miami](https://open.spotify.com/track/3P1f3w1gl4K88om3T9WwOi) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Sunset In Miami](https://open.spotify.com/album/7zYANoblZ4Qvoupmc69vgJ) | 2:45 | 2022-08-19 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-04-05 | 2022-07-29 |
 | [Sunspray](https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Sunspray](https://open.spotify.com/album/3Ce6BDYrT48XYj5qX8bIdo) | 3:10 | 2022-04-05 | 2022-07-29 |
 | [Sur Mer](https://open.spotify.com/track/3hyBObu11mMYg6XLJELC5J) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Calm Down Rewind](https://open.spotify.com/album/5DY4s62iEtBsEfwA7PKRqQ) | 4:33 | 2022-04-05 | 2022-05-11 |
@@ -257,6 +265,7 @@
 | [Vista Del Mar](https://open.spotify.com/track/30WPOz4hvOElMMayVMnPyo) | [Mano Manana](https://open.spotify.com/artist/3g70CxwtUMFpp9T8GdhNTG) | [Vista Del Mar](https://open.spotify.com/album/2uXLOxgkD7kJq4gBnHt8nX) | 3:18 | 2022-04-05 |  |
 | [Voces](https://open.spotify.com/track/5xaSDlte9dCRLpIo93ZmbK) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Voces](https://open.spotify.com/album/1dATlWw7ivm6TXdKAqPd4q) | 2:58 | 2022-05-10 | 2022-07-08 |
 | [Walk me home](https://open.spotify.com/track/1BuqwQuyQKhvxa5X3iDkec) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Walk me home](https://open.spotify.com/album/1nn4r3h755kRkcKSrWvw4X) | 2:45 | 2022-05-20 |  |
+| [Wanderlust](https://open.spotify.com/track/59eV8EcCcz6TcTxhPKqfUb) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Wanderlust](https://open.spotify.com/album/4K9NFfOF2AfatXDGTmF56W) | 2:27 | 2022-08-19 |  |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2022-04-05 |  |
 | [Waves](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb), [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Waves](https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z) | 2:31 | 2022-04-05 |  |
 | [Waves](https://open.spotify.com/track/1A2pH62d1USSUsxuoiRD8l) | [Navagio](https://open.spotify.com/artist/4IZVQx6ZkiGS5yIhLQvhf8) | [Waves](https://open.spotify.com/album/4bSGU58KwhgotZ3SETiZso) | 2:38 | 2022-04-05 |  |

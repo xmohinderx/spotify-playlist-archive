@@ -742,6 +742,24 @@
     },
     {
       "album": {
+        "name": "Dry Run",
+        "url": "https://open.spotify.com/album/5612RXP6x13O9iP94Sx0YH"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196939,
+      "name": "Dry Run",
+      "url": "https://open.spotify.com/track/419eddgUScgFJRyqwUV8mZ"
+    },
+    {
+      "album": {
         "name": "Easy On The Eyes",
         "url": "https://open.spotify.com/album/3kd1vDgfeU3UsFtDvIUcts"
       },
@@ -753,10 +771,32 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 211819,
       "name": "Easy On The Eyes",
       "url": "https://open.spotify.com/track/1NkI05k92FlfdiCL5BKol6"
+    },
+    {
+      "album": {
+        "name": "End Of The Line [Feat. Aaron Neville]",
+        "url": "https://open.spotify.com/album/6Jej60SOD8fojT5s4HHsGS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        },
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252533,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/2IwhGWbdmfMZMZ9JE4GiDN"
     },
     {
       "album": {
@@ -1179,6 +1219,24 @@
       "duration_ms": 443160,
       "name": "Hiding Place",
       "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
+    },
+    {
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259306,
+      "name": "High Is Low",
+      "url": "https://open.spotify.com/track/3yrV9iFHJYULuE8jogoPec"
     },
     {
       "album": {
@@ -2425,6 +2483,24 @@
       "duration_ms": 182826,
       "name": "Pick a Bale of Cotton",
       "url": "https://open.spotify.com/track/1ykJT3sdoMmPzGpy9MjpR4"
+    },
+    {
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208415,
+      "name": "Pink Turns To Red",
+      "url": "https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3"
     },
     {
       "album": {
@@ -3719,7 +3795,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"

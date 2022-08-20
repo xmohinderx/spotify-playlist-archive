@@ -4,7 +4,7 @@
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0?si=yzhWyjrpQR2jiKd4ChFi4Q">Lolli Native</a>
 
-315 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
+316 songs - 16 hr 44 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Call Me Up](https://open.spotify.com/track/7cSlFpcnrIDsmwVw3QFoJA) | [DJ Capital](https://open.spotify.com/artist/1Z2lV83lH6bNPLr0c0ofsL), [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Thabiso Lavish](https://open.spotify.com/artist/31gaX166pm8kfjpM9yujDA) | [Call Me Up](https://open.spotify.com/album/0Dsh8VOYvRMQPe3hco5TpI) | 3:28 | 2022-03-24 | 2022-04-15 |
 | [Calls On Me](https://open.spotify.com/track/3HsdEh6AiLR4OM8fuTBdZ9) | [Sgi\_Magalela](https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE) | [Calls On Me](https://open.spotify.com/album/5OSzG9Pfyrj4AcBVYz9bo5) | 2:38 | 2022-03-24 | 2022-07-29 |
 | [Can't Wait](https://open.spotify.com/track/4ARfnWxjN6vb1QLDl1yuKA) | [Mo$hpit Cindy](https://open.spotify.com/artist/7mlXK93aYpGSbRPaEqdLYU) | [Can't Wait](https://open.spotify.com/album/7IiykOHeyG8Mhx6Bo033N1) | 2:42 | 2022-02-17 | 2022-03-04 |
+| [CARD GAME](https://open.spotify.com/track/3YKo7QTJ3wTM8411bE7qXT) | [$wish](https://open.spotify.com/artist/73JusrUm8Gs0Gy2AZu7G9f) | [CARD GAME](https://open.spotify.com/album/6VcdnEDpc3OM2ENUcwJenM) | 2:05 | 2022-08-18 |  |
 | [CARS & KINNAS, Pt\. 2](https://open.spotify.com/track/7GuAf3giE0r34Yen9fcShh) | [Chad Da Don](https://open.spotify.com/artist/1RB5sQBUeyxeWQefDmdW3k), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [CARS & KINNAS, Pt\. 2](https://open.spotify.com/album/1mWy3DW2vC1UH4qyJXck7Y) | 2:47 | 2022-01-27 | 2022-02-18 |
 | [Cava The Action](https://open.spotify.com/track/79ERAQP6BwL7qcSDcqR1RC) | [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Debra Nist](https://open.spotify.com/artist/1vsudt2lY3JLZQ540M2ffW) | [uShukela eTiyeni](https://open.spotify.com/album/0KhIspDpJ86o85vMvoMwfT) | 2:26 | 2022-04-30 |  |
 | [Changed](https://open.spotify.com/track/2xZxcQ9wAqiaBvjNCXlnk9) | [Ray Chillz](https://open.spotify.com/artist/6MlAyF1Wf3wdr7LICB0qj2), [Naardie](https://open.spotify.com/artist/48jZBoeSEG2obtqG5wAO61) | [Changed](https://open.spotify.com/album/32oGJP8KwLlbyPYp06ZEa9) | 3:06 | 2022-02-03 |  |

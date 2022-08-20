@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-457 songs - 1 day 3 hr 28 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
+458 songs - 1 day 3 hr 31 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All Too Well \(Taylor's Version\)](https://open.spotify.com/track/1IBhYEvvi02tDVByxIiTh4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 5:29 | 2021-11-14 | 2021-11-14 |
 | [All Too Well \(Taylor's Version\)](https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 5:29 | 2021-11-14 | 2021-12-04 |
 | [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 | 2022-02-23 | 2022-02-25 |
+| [AMAZING](https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:29 | 2022-08-19 |  |
 | [Ang Presidente Bise Presidente](https://open.spotify.com/track/74cB0AlVMZEqN7h7MY6bK9) | [Gabriel Valenciano](https://open.spotify.com/artist/33rSKWwmnBGNLBipO7E7oM) | [Ang Presidente Bise Presidente](https://open.spotify.com/album/0cRkbvgGAGSs6CzHpVwQUc) | 1:21 | 2022-05-08 | 2022-05-12 |
 | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n) | 5:04 | 2022-04-27 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-04-10 |  |
@@ -67,7 +68,7 @@
 | [Better Man \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4OmFmE0fzcMG6g0Y8p4eSD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:57 | 2021-11-14 | 2021-11-19 |
 | [Binhi](https://open.spotify.com/track/0sNZsYY8LSCCM4tC2y0zR1) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/3H8htbv4nP3HIjpOCbxm67) | 3:36 | 2021-10-02 | 2022-01-12 |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2021-04-09 | 2021-10-17 |
-| [Binibini](https://open.spotify.com/track/55RMhrPQYA6vLu5YMgXxFD) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 3:41 | 2021-10-17 |  |
+| [Binibini](https://open.spotify.com/track/55RMhrPQYA6vLu5YMgXxFD) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 3:41 | 2021-10-17 | 2022-08-20 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-11 | 2022-01-15 |
 | [Blockbuster feat\. YEONJUN of TOMORROW X TOGETHER](https://open.spotify.com/track/08XshFxOo9rcQagObgcoK6) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:47 | 2021-10-14 | 2021-10-16 |
 | [BMW](https://open.spotify.com/track/62aa4ZnQGgF8gXzzvWRJhG) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Leslie](https://open.spotify.com/artist/7e9E8xCNHDoWE4B730wEHt) | [Heartbreak SZN 2](https://open.spotify.com/album/7gdfCp5dpCCQMb5HUkXJwQ) | 2:48 | 2021-10-26 | 2022-03-10 |

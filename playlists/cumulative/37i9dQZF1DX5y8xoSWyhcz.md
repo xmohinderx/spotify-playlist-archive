@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. beabadoobee on the cover.
 
-921 songs - 1 day 23 hr 4 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+927 songs - 1 day 23 hr 24 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [25](https://open.spotify.com/track/1osKpP5b18Xi1VmjXyF7Ig) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS) | [Just Existing](https://open.spotify.com/album/0HguTMRMvOvE7eSxM24tiC) | 2:42 | 2021-10-09 | 2022-02-05 |
 | [2725](https://open.spotify.com/track/5qYP2Jpli9QkYdgqAy5DEV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:21 | 2020-10-29\* | 2021-02-20 |
 | [2b happy](https://open.spotify.com/track/0RXWN2VmORaPRzklOjz3B9) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [2b happy](https://open.spotify.com/album/2QHx8NdsnaTnczm9F51TQh) | 1:40 | 2020-10-29\* | 2020-11-03 |
+| [3am in nyc](https://open.spotify.com/track/6gyTRWKIQ9XFjZrxrslFsg) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [3am in nyc](https://open.spotify.com/album/24eFlf4LVYWjP2ytw8CC8M) | 3:09 | 2022-08-19 |  |
 | [6ft Under](https://open.spotify.com/track/147u4a8zNQWTAGm1w44GD3) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [6ft Under](https://open.spotify.com/album/2ZnRdb6K2wAOqSuT6gMVzw) | 2:55 | 2021-07-10 | 2021-08-14 |
 | [A Piece Of Your Mind](https://open.spotify.com/track/5c8bM603hqoHJzJFxmUkZ1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 2:50 | 2021-07-31 | 2021-10-16 |
 | [A word becomes a sound](https://open.spotify.com/track/3vX6s2VxoxIHsCFJr71BkG) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/37Jw1EIuIYJodOeb7PZj5N) | 3:38 | 2020-10-29\* | 2021-01-15 |
@@ -124,6 +125,7 @@
 | [Calling U Back](https://open.spotify.com/track/5WVWQQpBJqljbZtxo19CxS) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:19 | 2021-06-27 | 2021-10-16 |
 | [Calls](https://open.spotify.com/track/5RzEyrxL09e1D80CXHmFAx) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Calls](https://open.spotify.com/album/2LNjaaGyhhMomXZOzqGgTw) | 2:51 | 2021-01-16 | 2021-03-27 |
 | [camellia](https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [camellia](https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8) | 2:31 | 2020-11-21 | 2021-03-14 |
+| [Camp Anonymous](https://open.spotify.com/track/0BVNjqMhsxCioq76mhDUez) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Camp Anonymous](https://open.spotify.com/album/4YScZstfkp3TeCPnNOVhlg) | 2:49 | 2022-08-19 |  |
 | [Catch Me](https://open.spotify.com/track/6AdgfvJ4y3BzOVvUYX6xkb) | [LilSaku](https://open.spotify.com/artist/1ArRwk2d2zyiu9MKfFkUie), [wethher](https://open.spotify.com/artist/4U3s5eKRWiJYp9S9G0B1To) | [Catch Me](https://open.spotify.com/album/7nXGtcBDdEwWiSV4MwCCMJ) | 2:09 | 2021-01-23 | 2021-02-06 |
 | [Cereal](https://open.spotify.com/track/5iHj8CCVD7xRTSMnOamWme) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Cereal](https://open.spotify.com/album/1jNLVtINHcTDpV68Qc0BM9) | 2:59 | 2020-11-03 | 2021-01-30 |
 | [Certified Fool](https://open.spotify.com/track/3TSSJEpfQo6AbtvxlmUyVe) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [Certified Fool](https://open.spotify.com/album/0NbqJMh9LSvt3dmqwiotYK) | 4:06 | 2021-11-06 | 2022-04-02 |
@@ -189,6 +191,7 @@
 | [Dear First Love,](https://open.spotify.com/track/6PowfeWOvFBlueUpvct3HI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Dear First Love,](https://open.spotify.com/album/1YANDmdijaWWHMzhZVD5rX) | 3:16 | 2020-10-29\* | 2020-11-04 |
 | [death wish](https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/17QnupwzhTXpi5H00qtPvE) | 3:17 | 2021-04-10 | 2021-05-08 |
 | [death wish](https://open.spotify.com/track/68kc71kxyfuWFLTheYyZlO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [death wish](https://open.spotify.com/album/3JflsWk7Mj8FVcwvGGkiPf) | 2:40 | 2021-09-25 | 2021-10-09 |
+| [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 |  |
 | [Deep end](https://open.spotify.com/track/1hmcogF6Lz6QqiibEZqXjQ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 2:03 | 2021-10-02 | 2022-02-12 |
 | [Deer Island](https://open.spotify.com/track/7IQhSyhmcQvGAjL9G7FpwS) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Deer Island](https://open.spotify.com/album/5DUmX6Jvvr0OulQMgZhj6k) | 3:10 | 2021-12-17 | 2022-01-15 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-03 | 2021-05-22 |
@@ -284,7 +287,7 @@
 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 | 2021-05-08 | 2021-09-04 |
 | [Forget You](https://open.spotify.com/track/54xA4D0ZXwHUNwqxNUa5MW) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Forget You](https://open.spotify.com/album/0zWaiBUml8QNLZrblzmscs) | 2:55 | 2022-02-25 | 2022-04-16 |
 | [forgot to forgive](https://open.spotify.com/track/65L1NnsTeR1K8iVudv84J1) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [bad at breakups](https://open.spotify.com/album/11Dp555Nxhuawzz8efXgk4) | 2:44 | 2020-10-29\* | 2021-02-13 |
-| [Forgotten](https://open.spotify.com/track/3F5Yo1uPPsVwd7uuvIJC2z) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Forgotten](https://open.spotify.com/album/3IFtTMf9jIzFrgy71tYPxG) | 2:49 | 2022-02-11 |  |
+| [Forgotten](https://open.spotify.com/track/3F5Yo1uPPsVwd7uuvIJC2z) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Forgotten](https://open.spotify.com/album/3IFtTMf9jIzFrgy71tYPxG) | 2:49 | 2022-02-11 | 2022-08-20 |
 | [Fourteen](https://open.spotify.com/track/5f8MSlctwFCIHenQDtccpO) | [Keeper E.](https://open.spotify.com/artist/2s2Js75uJJyCly2gIvb2Mo) | [Fourteen](https://open.spotify.com/album/1ACDDsKUnbBwA9p7KcISlJ) | 3:24 | 2021-09-18 | 2021-10-23 |
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-05-15 | 2021-07-04 |
 | [Freaking Me Out](https://open.spotify.com/track/4cpWTG2POPJwThRlF4j6d8) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Freaking Me Out](https://open.spotify.com/album/1bvlP8d9FjEn2XxjDI5YBm) | 3:10 | 2021-08-14 | 2021-10-30 |
@@ -498,6 +501,7 @@
 | [LUV U A LIL BIT](https://open.spotify.com/track/4rEc2f0jkObR0F45hmmgVM) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [LUV U A LIL BIT](https://open.spotify.com/album/1UcugzrGj09mNMxFurq7fc) | 2:25 | 2021-09-11 | 2021-10-09 |
 | [MADONNA](https://open.spotify.com/track/3CMyRTk91XlLcab29q41M5) | [Sandman](https://open.spotify.com/artist/2UytYzhVi9dPgPi9FIFGI4) | [MADONNA](https://open.spotify.com/album/6kTzzlgENOlrpxSnYbpwAD) | 3:06 | 2021-06-05 | 2021-06-19 |
 | [Magazines](https://open.spotify.com/track/3jqkxkAoFA9T3ohkLmaeJs) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Magazines](https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2) | 2:43 | 2022-02-25 |  |
+| [Make Believe](https://open.spotify.com/track/1Pfk03tf9z8b5MPeK9uNVR) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Make Believe](https://open.spotify.com/album/4VwrrAYg9D88tV0cGKZg0B) | 3:28 | 2022-08-19 |  |
 | [Make My Bed](https://open.spotify.com/track/2xN8wluJkPng1dpUd6h9hW) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Make My Bed](https://open.spotify.com/album/0viAFE6FcjxVPF7EL0yTlA) | 2:56 | 2021-05-22 | 2021-08-14 |
 | [Make Up Your Mind](https://open.spotify.com/track/4R08fSLXE7LFNJAuNh1avy) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Pink Noise](https://open.spotify.com/album/4Y18OAJV6GwtTlQ6E5vcoc) | 2:04 | 2021-02-27 | 2021-05-03 |
 | [Makes Me Sick](https://open.spotify.com/track/2gCIv3pJkzfX4kRj6wnIAS) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Makes Me Sick](https://open.spotify.com/album/2eS6hfchrO12pXPSvH5YDy) | 2:24 | 2022-03-04 | 2022-07-16 |
@@ -609,6 +613,7 @@
 | [Patience](https://open.spotify.com/track/5TJrF2sUP2s0jzvrhZ3DEs) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [Patience](https://open.spotify.com/album/5erUcYQJJq29KYHaXpde8l) | 3:25 | 2022-03-11 | 2022-03-26 |
 | [Patterns](https://open.spotify.com/track/4xE387zm0EBPQy9NWBk6Sg) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Build A Fire & Patterns](https://open.spotify.com/album/3ZNrDTp3n78Gxs9cgYA6mV) | 3:52 | 2022-03-25 | 2022-06-04 |
 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 | 2021-02-27 | 2021-05-15 |
+| [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 | 2022-08-19 |  |
 | [Peachi](https://open.spotify.com/track/4ZyxpYxjhjl3Eh0EQ2ssv1) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Peachi](https://open.spotify.com/album/0QKRu2MTcmHm3Kkq0WH9MG) | 2:55 | 2021-09-25 | 2021-10-09 |
 | [Pears](https://open.spotify.com/track/06nKF46jG8p1zwyP4ziAyG) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Pears](https://open.spotify.com/album/4XedVnZRFfk9n7uX601gvb) | 2:21 | 2021-04-24 | 2021-06-19 |
 | [people don't change](https://open.spotify.com/track/4rjxIt48qyNnfrx9jc2q6r) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [people don't change](https://open.spotify.com/album/28SL67Dptmy8eOZGurIxRt) | 2:47 | 2022-01-07 | 2022-04-29 |
@@ -778,6 +783,7 @@
 | [Survivor](https://open.spotify.com/track/2eeOF8wsCKNPmbCqg855TH) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [Survivor](https://open.spotify.com/album/3oFne2pyrJPuUNXYFISuXs) | 2:58 | 2021-04-10 | 2021-06-12 |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-14 | 2021-11-20 |
 | [sweet taste](https://open.spotify.com/track/5qBkWkzOGMAyqfboaaaNAi) | [sol williams](https://open.spotify.com/artist/2MTS6xN7Q1Bgu93YCL2AsH) | [sweet taste](https://open.spotify.com/album/0g0q7BHDLMZRCVlCmFa7Xf) | 2:24 | 2021-04-24 | 2021-08-14 |
+| [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-08-19 |  |
 | [Sweet Tooth](https://open.spotify.com/track/5dtgtmWdO4pOASLQdOfWSr) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Sweet Tooth](https://open.spotify.com/album/7zSMZnX4BvUQNYQLMN54Yo) | 2:13 | 2021-02-06 | 2021-02-20 |
 | [swim](https://open.spotify.com/track/4g8r81G1g4Jn3gPu1iyYoC) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT) | [swim](https://open.spotify.com/album/0tt5kCEi9w38IAHnyN44fj) | 3:32 | 2021-07-17 | 2021-08-21 |
 | [Swing of Things](https://open.spotify.com/track/57crzxYpDCaPcXx3cBSARW) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Swing of Things](https://open.spotify.com/album/7xUFaD8ssuDYgx0IycGSdO) | 2:58 | 2021-05-22 | 2021-07-31 |

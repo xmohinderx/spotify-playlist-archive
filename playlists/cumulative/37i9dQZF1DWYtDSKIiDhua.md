@@ -2,7 +2,7 @@
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Alicia Keys
+> The R&B and good vibe tracks for your current mood\. Cover: 88rising, MILLI
 
 143 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
 

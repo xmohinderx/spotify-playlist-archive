@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Foals
 
-314 songs - 18 hr 57 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+316 songs - 19 hr 5 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Dinosaur](https://open.spotify.com/track/5oGACsJ9GXJlWVdyC7vvI0) | [Merpire](https://open.spotify.com/artist/4oTaPrNvNtZW1MwNmmhxuY) | [Dinosaur](https://open.spotify.com/album/6GbEynYvLcantK7mmVAynD) | 3:38 | 2021-03-16 | 2022-03-18 |
 | [Do U Connect?](https://open.spotify.com/track/74gGE4jJOIBdTZTDdn57KN) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [I Just Do What God Tells Me To Do](https://open.spotify.com/album/0op8vjTkaatdmpqIjm46Ix) | 2:27 | 2020-10-10\* | 2021-05-13 |
 | [Don't Let the Devil Take Another Day](https://open.spotify.com/track/50mvz2sHxx13JZ2qwy8W71) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Kind \(Deluxe\)](https://open.spotify.com/album/5eKfSbsVTRHvUI7r7DdyYR) | 3:04 | 2020-10-10\* | 2021-02-25 |
+| [Don't Let The Light Go Out](https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:49 | 2022-08-19 |  |
 | [Dreaming](https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dreaming](https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty) | 3:07 | 2020-10-10\* | 2021-05-13 |
 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 | 2021-01-21 | 2022-03-18 |
 | [Dying To Believe](https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Dying To Believe](https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx) | 3:01 | 2021-10-29 |  |
@@ -281,6 +282,7 @@
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-04-01 |  |
 | [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2021-06-04 |  |
 | [Tiny Indoor Fireworks](https://open.spotify.com/track/5SvlfB8HuBSYpAIpCkRC3L) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Tiny Indoor Fireworks](https://open.spotify.com/album/15JQPwn3EouyzXeZ8gMQF5) | 3:15 | 2020-10-10\* | 2021-02-25 |
+| [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 |  |
 | [To the Ground](https://open.spotify.com/track/6MdbEX55Ks1oqGVwRb3nyX) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [To the Ground](https://open.spotify.com/album/5e1Bnbm0LjuYmKTyabOJEw) | 5:15 | 2020-10-10\* | 2021-02-25 |
 | [Too Tough Terry](https://open.spotify.com/track/3eDfcMpk8VSgI0H2fbiXIB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Too Tough Terry](https://open.spotify.com/album/35YWDA6AiwqHktNQiy9v3L) | 2:37 | 2020-11-13 | 2022-03-18 |
 | [Toy Soldiers](https://open.spotify.com/track/5enzcCSYU3xOlyKstAST11) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Toy Soldiers](https://open.spotify.com/album/3QE86fUVUDyyWGzzRaV9gc) | 4:03 | 2020-10-10\* | 2022-03-18 |

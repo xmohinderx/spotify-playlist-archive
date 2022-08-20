@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,642 likes - 161 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,679 likes - 161 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [dromerige](https://open.spotify.com/track/3BttrU266BxO53iZMADsAg) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [dromerige](https://open.spotify.com/album/0z2rDe6ypnhIiD8I6yf5Hg) | 2:35 |
+| 1 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 |
 | 2 | [Vale of Tears](https://open.spotify.com/track/64u8GamjVXCuKtjbPl0oIG) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Vale Of Tears](https://open.spotify.com/album/1t1VwebAkrX58MEDCi6ZLf) | 2:22 |
 | 3 | [All Numbers End](https://open.spotify.com/track/1QGlEQJkixOXsbijKqNTDB) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 1:35 |
 | 4 | [Running Up That Hill \- Piano](https://open.spotify.com/track/6sY25clRpzWFR7rEj2BT1H) | [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [Running Up That Hill \(Piano\)](https://open.spotify.com/album/2c0FqFik91HL4LyHr4xIea) | 1:14 |
 | 5 | [Remembering](https://open.spotify.com/track/1W8N95zUTtQNllHu8Ki0sP) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Remembering](https://open.spotify.com/album/3JMZ7hTq1NBXWp9C9OZUMa) | 2:19 |
-| 6 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 |
-| 7 | [Petrichor](https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr) | [Petrichor](https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz) | 2:27 |
-| 8 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 |
-| 9 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 |
+| 6 | [dromerige](https://open.spotify.com/track/3BttrU266BxO53iZMADsAg) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [dromerige](https://open.spotify.com/album/0z2rDe6ypnhIiD8I6yf5Hg) | 2:35 |
+| 7 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 |
+| 8 | [Petrichor](https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr) | [Petrichor](https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz) | 2:27 |
+| 9 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 |
 | 10 | [Luna piena](https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Luna piena](https://open.spotify.com/album/2cP8f6LAElBMVU8epr2t5V) | 2:50 |
 | 11 | [Morpho](https://open.spotify.com/track/090GAAwLiSybtUpvq50r6T) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Morpho](https://open.spotify.com/album/73BOlPGDgMu2sw8XvmiO9V) | 2:00 |
 | 12 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 160 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 |
 | 161 | [Forever Changed](https://open.spotify.com/track/6u20TgouBczWOOlnR6703e) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Forever Changed](https://open.spotify.com/album/5r8Z1CKRpkrqF8IqcHnEY7) | 1:59 |
 
-Snapshot ID: `MTY2MDAzNzcyNCwwMDAwMDAwMGFiNTE1ZjAxNGFkNDJjZjBmODIxZWI2NWJhZDNlMmFh`
+Snapshot ID: `MTY2MDkxNDczMiwwMDAwMDAwMDdhY2E1Y2VkZDAwOGE3ZGQzOGY0MjFlYTk5NjMxMjI0`

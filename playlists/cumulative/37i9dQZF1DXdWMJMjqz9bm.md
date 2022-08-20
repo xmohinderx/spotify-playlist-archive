@@ -4,7 +4,7 @@
 
 > A little bit of pop and a little bit of rap\. Cover: Nicky Youre
 
-344 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+347 songs - 16 hr 15 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [BAND$](https://open.spotify.com/track/2sWoPLbQ4qCZ56D5yCX5W3) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [BAND$](https://open.spotify.com/album/42ToFwAOyBEIE9dtll54d1) | 1:48 | 2022-02-04 | 2022-03-26 |
 | [be alright](https://open.spotify.com/track/7HaPFrLUDAzTJuIo0M1i8X) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [be alright](https://open.spotify.com/album/5kNJB5OX6LnFVMNKBLnM6E) | 2:27 | 2022-06-17 | 2022-07-09 |
 | [bedroom floor](https://open.spotify.com/track/2Xbvn1LoF0FpsW66SWieyZ) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 5](https://open.spotify.com/album/3FmZtgNMtXeaDlPOlgwB84) | 2:01 | 2022-06-03 |  |
+| [Best Friend](https://open.spotify.com/track/4m2Fep3UwjUkUTJ4KPnJZ0) | [Sammy Wilk](https://open.spotify.com/artist/36TGx7BxtQA4uz6irWnX3T) | [Best Friend](https://open.spotify.com/album/3DSVVQaWs48NaxWv0AaP6L) | 1:57 | 2022-08-19 |  |
 | [best friends](https://open.spotify.com/track/2ZQLEuaDw9rxJ5u5YR0KEw) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [best friends](https://open.spotify.com/album/2moiRsCEdQveKnCLL3EtYG) | 2:22 | 2021-12-17 | 2022-02-26 |
 | [Better Days \(feat\. EARTHGANG\)](https://open.spotify.com/track/4SF7B5YO80iewARxhdBW5t) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Better Days \(feat\. EARTHGANG\)](https://open.spotify.com/album/7bodl1LiY4085jq4L2Dfxx) | 3:37 | 2022-01-28 | 2022-03-26 |
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2021-12-03 | 2022-05-20 |
@@ -94,6 +95,7 @@
 | [Doses](https://open.spotify.com/track/7BuzrXNz1be3Ko6r77fGJK) | [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [Doses](https://open.spotify.com/album/0g8Vpwny9zWPCbZehp2OJn) | 3:12 | 2021-11-16 | 2022-02-19 |
 | [Drowsy](https://open.spotify.com/track/3u6DVaD9jGvI6HNm1ODrMa) | [OHNO](https://open.spotify.com/artist/6h3EDETuCnGDrUk9hwvbGp) | [Sunshine In A Bag](https://open.spotify.com/album/60OGodPKisTJO0HLhT2nZy) | 2:47 | 2022-06-10 | 2022-07-13 |
 | [DRUGS](https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34) | 2:39 | 2022-04-08 |  |
+| [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3) | [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/album/7KgNMvzNbOs0LtO0dduZlt) | 3:28 | 2022-08-19 |  |
 | [eighty\-five](https://open.spotify.com/track/6f8J5ZqWB5E8oKosn4h7c5) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [eighty\-five](https://open.spotify.com/album/3gb0W6DnHhwkJq0ZSFqnAe) | 3:15 | 2022-04-22 |  |
 | [either way](https://open.spotify.com/track/7wHRNRxqJcCO9hzE025Iyf) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [either way](https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr) | 3:00 | 2021-11-16 | 2022-02-19 |
 | [Endorphins](https://open.spotify.com/track/55uz6CCy6OT60yq5jf8ZfY) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Endorphins](https://open.spotify.com/album/33wlGDEtGjglQGTxAvozPZ) | 3:25 | 2021-12-03 | 2022-02-26 |
@@ -210,6 +212,7 @@
 | [mistakes](https://open.spotify.com/track/15dJLTji58BsvcTDZ2QxQG) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [mistakes](https://open.spotify.com/album/069zTIsdWb6aEsBb5Hmxp0) | 2:53 | 2022-04-06 | 2022-04-09 |
 | [Mood](https://open.spotify.com/track/2QKte1nUSkLiPkNN8EPudu) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV), [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5) | [Mood](https://open.spotify.com/album/3GWHaNyeflGNqohoxQqxFo) | 2:16 | 2022-04-22 | 2022-05-20 |
 | [Mood ring](https://open.spotify.com/track/4oFaezaYjR4di8zxlJjmv9) | [Kid Quill](https://open.spotify.com/artist/5vGXVYudNgm9E7jhXMM0Ro), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Mood ring](https://open.spotify.com/album/1QIo05QpWnn1q3PQ7Vxuzb) | 3:27 | 2021-11-16 | 2022-02-26 |
+| [Moonrock](https://open.spotify.com/track/79dt40lQLm46E1WPVYLvTO) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Moonrock](https://open.spotify.com/album/49J53goWppUwvbTn8Gcej5) | 3:00 | 2022-08-19 |  |
 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2021-12-17 | 2022-03-05 |
 | [morning](https://open.spotify.com/track/0MWeEap0R36Qauy3G7vd7y) | [Aizayah Hills](https://open.spotify.com/artist/5BLTxShcXYTib23V0lRdDt) | [morning](https://open.spotify.com/album/4pJTYvnrV8guZmGlioUtgd) | 2:42 | 2022-06-10 | 2022-07-23 |
 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 | 2022-04-04 |  |

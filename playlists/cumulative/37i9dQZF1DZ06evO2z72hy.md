@@ -4,7 +4,7 @@
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/2Makl5HN0UTGk06qqIJvLk)
+65 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/2Makl5HN0UTGk06qqIJvLk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,10 @@
 | [K\-In](https://open.spotify.com/track/33ZodQe3KOlVo1RCTznvVd) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 4:18 | 2022-07-02 |  |
 | [K\-In](https://open.spotify.com/track/46MPomoOJPWxItWUTOk4Fz) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9) | 4:18 | 2022-05-25 | 2022-07-03 |
 | [Keep The Faith](https://open.spotify.com/track/2Qq4l3G6w6WdfM1rKrEqBe) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 3:08 | 2022-05-25 |  |
-| [La Barca](https://open.spotify.com/track/7LTXQnitAcwSdZdl2t7E13) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:30 | 2022-05-25 | 2022-08-19 |
+| [La Barca](https://open.spotify.com/track/7LTXQnitAcwSdZdl2t7E13) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:30 | 2022-05-25 |  |
 | [La Puerta Sigue Abierta](https://open.spotify.com/track/59dzgc60efoAOFx0bywbi2) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9) | 3:43 | 2022-06-02 | 2022-06-07 |
-| [Libertad](https://open.spotify.com/track/2wod4OhxL86a2qLBiTumLH) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:00 | 2022-05-28 |  |
+| [La puerta sigue abierta](https://open.spotify.com/track/6crknC6n2C2wQ8zyy8pNcp) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:43 | 2022-08-19 |  |
+| [Libertad](https://open.spotify.com/track/2wod4OhxL86a2qLBiTumLH) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:00 | 2022-05-28 | 2022-08-20 |
 | [Me Verás](https://open.spotify.com/track/4tnguLiUs6l0QtfcocbSdF) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:06 | 2022-05-25 |  |
 | [Mejor que intentes otra vez](https://open.spotify.com/track/3HCpsDMzAL3ksrPTP02KL8) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 3:53 | 2022-05-25 |  |
 | [Mi Princesa](https://open.spotify.com/track/6qwIv4W6tUPxt2jLz84tlo) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:23 | 2022-05-25 |  |
@@ -52,7 +53,7 @@
 | [Pequeña dama](https://open.spotify.com/track/5m5vk2GSAwfKCI4FNFiUsc) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 4:45 | 2022-07-02 |  |
 | [Piensame](https://open.spotify.com/track/649bIUP229t1UR3KBAZdaF) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:46 | 2022-05-25 |  |
 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 | 2022-05-25 |  |
-| [Reflejos de Luz](https://open.spotify.com/track/44iYQwUFs6s8rIk4H1TAi4) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 2:46 | 2022-05-25 |  |
+| [Reflejos de Luz](https://open.spotify.com/track/44iYQwUFs6s8rIk4H1TAi4) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 2:46 | 2022-05-25 | 2022-08-20 |
 | [Reggae Is Coming](https://open.spotify.com/track/1yYq0GX9AKLb6yiN5pmyEw) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:12 | 2022-05-25 |  |
 | [Regreso](https://open.spotify.com/track/4O5rHAUKMGT47CiZCN3wd2) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:16 | 2022-05-25 |  |
 | [Sentimiento Original](https://open.spotify.com/track/2dz5G8cubIlwFN6SJtj0rg) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:52 | 2022-05-25 |  |
@@ -63,8 +64,8 @@
 | [Smile Souling](https://open.spotify.com/track/3asfbDhnzUpEvMuhPxWaXI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:33 | 2022-05-25 |  |
 | [Suave Pero Intenso](https://open.spotify.com/track/2aIUhZGLfRpG1AYCy4oX9d) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:36 | 2022-05-25 |  |
 | [Susurro](https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:14 | 2022-05-25 |  |
-| [Sólo Es Verdadero \(El Amor De Jah\)](https://open.spotify.com/track/5rbiiKLMsgT2m2pz57Hxaf) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:58 | 2022-05-25 | 2022-08-16 |
-| [Te Recuerdo Amanda](https://open.spotify.com/track/337eg34bKb97zZce5PUXQs) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 5:29 | 2022-06-04 |  |
+| [Sólo Es Verdadero \(El Amor De Jah\)](https://open.spotify.com/track/5rbiiKLMsgT2m2pz57Hxaf) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:58 | 2022-05-25 |  |
+| [Te Recuerdo Amanda](https://open.spotify.com/track/337eg34bKb97zZce5PUXQs) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 5:29 | 2022-06-04 | 2022-08-20 |
 | [Traficantes De Fe](https://open.spotify.com/track/10vTdkkK4noQfgt0oexX06) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza Por La Fuerza De La Razón](https://open.spotify.com/album/7mzgCNDT0IVvixRnHKcGmj) | 3:41 | 2022-05-25 |  |
 | [Tu Amor](https://open.spotify.com/track/7bWoTRcz0lZoXbI5dtJ5dM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9) | 3:50 | 2022-05-26 | 2022-06-27 |
 | [Tu amor](https://open.spotify.com/track/7iUpn6Xyw552Anqgegla33) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:50 | 2022-08-10 | 2022-08-18 |

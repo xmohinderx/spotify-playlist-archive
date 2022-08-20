@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-174 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+175 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [The Revolution \- Arc North Remix](https://open.spotify.com/track/4tjxa3WaYdgVVfVGzkMWAN) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH) | [The Revolution \(Remixed\)](https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g) | 3:10 | 2022-02-03 |  |
 | [There's Nobody Else](https://open.spotify.com/track/3VssPt5F9RG40fyiz56bqo) | [Chris Later](https://open.spotify.com/artist/7kOhsEdKbT5rsDVAShrpmq), [Dany Yeager](https://open.spotify.com/artist/6eNcrRzNwtMcyuW0cfYe5u) | [There's Nobody Else](https://open.spotify.com/album/5cm7dJUDOmP6OfAeQxAGbL) | 2:41 | 2022-02-15 |  |
 | [Throne](https://open.spotify.com/track/6SOswqkbO1IztYXJFWkKry) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Throne](https://open.spotify.com/album/7isSdYhzT41o4n6HTaLc8H) | 3:31 | 2022-02-03 |  |
+| [To The Top \- JJL Remix](https://open.spotify.com/track/57yxSNXHLMb3gREIFyEDqV) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [JJL](https://open.spotify.com/artist/5LroXuJrtGub3hrJvhGAMo) | [To The Top \(JJL Remix\)](https://open.spotify.com/album/2iXwrkpbLaSpUBpTYwnc5p) | 3:02 | 2022-08-19 |  |
 | [Too Hot To Handle](https://open.spotify.com/track/5k768a973EOTJtVjc7PPWg) | [Fiko](https://open.spotify.com/artist/1eYLZ92uIQTOyaFn43A0iq), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Too Hot To Handle](https://open.spotify.com/album/3v2XdXdv9v8KZsaaa8Ed5l) | 2:15 | 2022-07-28 |  |
 | [Touchdown](https://open.spotify.com/track/3TvGArtqljOkqFpfUz2I3d) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [Touchdown](https://open.spotify.com/album/2pnH7DX0Mtj88WMkBAcLnK) | 2:55 | 2022-02-03 |  |
 | [Trust Me](https://open.spotify.com/track/23I571urZADCLmcZTvfV4s) | [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Trust Me](https://open.spotify.com/album/6BATKnPjwMsbs1czWpNQNW) | 2:52 | 2022-02-03 |  |

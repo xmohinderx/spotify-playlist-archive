@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-410 songs - 23 hr 33 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+411 songs - 23 hr 37 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [ivy \- 案山子 Remix](https://open.spotify.com/track/054igXu6lULCOituDaKYtw) | [心悠](https://open.spotify.com/artist/3w2emKs367tVZRrVZzgqRZ), [案山子](https://open.spotify.com/artist/13kzWMPtOOXvXujXHbpjVj) | [ivy \(Remixes\)](https://open.spotify.com/album/6wjbKxlxsTSaHnRxweDQUf) | 3:35 | 2022-06-14 | 2022-06-22 |
 | [kitto kawaranai iro](https://open.spotify.com/track/2BWG6OHVB0zuky2mN3SOfn) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [kitto kawaranai iro](https://open.spotify.com/album/5A6H1IuZkDPdEl2bed6nDL) | 3:43 | 2022-06-23 | 2022-07-18 |
 | [Knickknack Kingdom](https://open.spotify.com/track/0ODFEhCNOo6XmAjpJrALAw) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Knickknack Kingdom](https://open.spotify.com/album/5hOcnt10bv1Qmy8sG7YzFn) | 3:00 | 2022-07-07 | 2022-07-27 |
+| [Koe Todoita Hikara](https://open.spotify.com/track/3q6G4DEStAQWFsEnwzNdw9) | [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [Koe Todoita Hikara](https://open.spotify.com/album/5ZNzXtCuL3OxwisiApGPWt) | 4:32 | 2022-08-18 |  |
 | [LAG](https://open.spotify.com/track/3mNm8AXQ72Btp0ZsI2XwKl) | [パン野実々美](https://open.spotify.com/artist/7zDlO5ZUWerNCeIDy0tYVt) | [LAG](https://open.spotify.com/album/2C7KWtdWlRSoFfyINGHi0a) | 3:42 | 2022-07-26 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Lost](https://open.spotify.com/album/3pkvUedqMjZPjbUgYrbsiq) | 4:05 | 2022-08-16 |  |
 | [MERA MERA](https://open.spotify.com/track/3Y5q0JDCRzjNlMRRrLK0RF) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [MERA MERA](https://open.spotify.com/album/2kgTd0HIj4SUtlmTD6kuzo) | 3:03 | 2022-07-28 |  |
@@ -281,7 +282,7 @@
 | [四阿語り](https://open.spotify.com/track/0WABONN2R1L0Sq2BGfqMNn) | [悒うつぼ](https://open.spotify.com/artist/46JcLfNgVQ8zNtSZU3vXB1) | [四阿語り](https://open.spotify.com/album/5vOKeH2jw0g17nq5VbDmca) | 1:57 | 2022-07-07 | 2022-07-11 |
 | [回る空うさぎ](https://open.spotify.com/track/5NITYjCmkHJEm03GUor1R1) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Remindful.One](https://open.spotify.com/album/0aYunc3nelpAKlZbf8MYDB) | 2:52 | 2022-07-28 |  |
 | [声の在り処](https://open.spotify.com/track/2ycBMKpi8gmIbbIEBUfDht) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [声の在り処](https://open.spotify.com/album/6P2hoyHDCKtoiaZDEIEglb) | 4:23 | 2022-06-09 | 2022-07-23 |
-| [声届いた日から](https://open.spotify.com/track/6jpg3h3AUob8zNZJtECAku) | [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [声届いた日から](https://open.spotify.com/album/6lsgCIR0ASTH8pyL8Vhpg5) | 4:32 | 2022-08-18 |  |
+| [声届いた日から](https://open.spotify.com/track/6jpg3h3AUob8zNZJtECAku) | [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [声届いた日から](https://open.spotify.com/album/6lsgCIR0ASTH8pyL8Vhpg5) | 4:32 | 2022-08-18 | 2022-08-20 |
 | [売らん哉](https://open.spotify.com/track/2SLHjk0pPgwifmTml3bzWG) | [悒うつぼ](https://open.spotify.com/artist/46JcLfNgVQ8zNtSZU3vXB1) | [売らん哉](https://open.spotify.com/album/3i1S2wSQAUkB5eGcsVVl7w) | 2:15 | 2022-07-21 | 2022-07-23 |
 | [夏の予感](https://open.spotify.com/track/0pRVc4vIlWX0zHK1VTOAfm) | [kareru](https://open.spotify.com/artist/1hlJzANJbrdrCOdjWTD13f) | [夏めく](https://open.spotify.com/album/6NNfhAhK2TNHPhWGHDvJB5) | 2:40 | 2022-06-21 | 2022-07-01 |
 | [夜撫でるメノウ](https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 4:22 | 2022-06-14 |  |

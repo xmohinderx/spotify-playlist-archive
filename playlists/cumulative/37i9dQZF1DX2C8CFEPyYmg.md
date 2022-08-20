@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-255 songs - 7 hr 42 min - not published yet
+255 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/4WjEE9CImJA9YZct5yhhtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

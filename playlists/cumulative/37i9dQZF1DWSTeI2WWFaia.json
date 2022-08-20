@@ -1804,6 +1804,24 @@
     },
     {
       "album": {
+        "name": "Fire Proof",
+        "url": "https://open.spotify.com/album/1lkXpwEqvshMPhGFLm8gJI"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122733,
+      "name": "Fire Proof",
+      "url": "https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY"
+    },
+    {
+      "album": {
         "name": "Pyrex Picasso",
         "url": "https://open.spotify.com/album/4SHWCpbJJU2npNxrjrsj8e"
       },
@@ -2945,7 +2963,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 167160,
       "name": "JUGG",
       "url": "https://open.spotify.com/track/6gIRDURg5rYturCXSdDlAH"
@@ -3007,7 +3025,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 178620,
       "name": "Just So You Remember",
       "url": "https://open.spotify.com/track/6XC3zX8dEiFTpd2hPpOA9y"
@@ -4733,7 +4751,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 242149,
       "name": "Right Hand Man (feat. Black Thought)",
       "url": "https://open.spotify.com/track/1SL4bKAM4vkH0BqKdrZjH3"

@@ -1,13 +1,29 @@
 {
-  "description": "Midwest music breaking waves. Doe Boy",
-  "num_followers": 2228,
+  "description": "Midwest music breaking waves. Tink",
+  "num_followers": 2230,
   "original_name": "Ripple Effect:  Midwest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyNDU4NiwwMDAwMDAwMGM3M2E0NDU0YjliM2U4NzA1NTRkZWNhN2VjN2IyYjU2",
+  "snapshot_id": "MTY2MDkzOTAzOCwwMDAwMDAwMDUxODFjZDE5OWJlM2RkNThjMjNhZGRjNGVmZTMzZjI3",
   "tracks": [
+    {
+      "added_at": "2022-08-19 19:57:18",
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 138673,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY"
+    },
     {
       "added_at": "2022-08-12 17:16:26",
       "album": {
@@ -145,46 +161,6 @@
       "url": "https://open.spotify.com/track/6y9fIg54gDgqgldH4EMJhf"
     },
     {
-      "added_at": "2022-07-18 21:46:49",
-      "album": {
-        "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
-        "url": "https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19"
-      },
-      "artists": [
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "Blac Youngsta",
-          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 231085,
-      "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
-      "url": "https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx"
-    },
-    {
       "added_at": "2022-07-01 03:55:56",
       "album": {
         "name": "U-Digg (feat. 42 Dugg & Veeze)",
@@ -287,6 +263,26 @@
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": "2022-08-19 19:57:18",
+      "album": {
+        "name": "Back 2 Back (feat. CEO Trayle)",
+        "url": "https://open.spotify.com/album/77QuhYQbJy5g4OAZv7Ebsc"
+      },
+      "artists": [
+        {
+          "name": "Sonny Digital",
+          "url": "https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL"
+        },
+        {
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+        }
+      ],
+      "duration_ms": 175716,
+      "name": "Back 2 Back (feat. CEO Trayle)",
+      "url": "https://open.spotify.com/track/3Lr9J0UuPrnTVlmA5wosqi"
     },
     {
       "added_at": "2022-08-01 14:28:10",
@@ -397,6 +393,26 @@
       "url": "https://open.spotify.com/track/3GrHP2CwUNecBc1SdVMTJ8"
     },
     {
+      "added_at": "2022-08-19 19:57:18",
+      "album": {
+        "name": "Pillow Talk",
+        "url": "https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 174175,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/7opxatMp7hibegdRc3Vnid"
+    },
+    {
       "added_at": "2022-07-01 03:55:56",
       "album": {
         "name": "MORE BLACK SUPERHEROES",
@@ -467,6 +483,22 @@
       "duration_ms": 136469,
       "name": "Five Guys",
       "url": "https://open.spotify.com/track/6PCvjSXZSULzzlFoohAc9l"
+    },
+    {
+      "added_at": "2022-08-19 19:57:18",
+      "album": {
+        "name": "No Cap",
+        "url": "https://open.spotify.com/album/2SZxhThifkET4uVVYqGvUU"
+      },
+      "artists": [
+        {
+          "name": "Shoebox Baby",
+          "url": "https://open.spotify.com/artist/3GXyMzBhozW9CaHPg54y9f"
+        }
+      ],
+      "duration_ms": 136258,
+      "name": "No Cap",
+      "url": "https://open.spotify.com/track/4wLWQs5JlZ8NvPzrRepgER"
     },
     {
       "added_at": "2022-08-12 17:16:26",
@@ -729,22 +761,6 @@
       "url": "https://open.spotify.com/track/6FQrsqNNyWbRAn4pIpcjPG"
     },
     {
-      "added_at": "2022-08-01 14:28:10",
-      "album": {
-        "name": "Vier",
-        "url": "https://open.spotify.com/album/4ygFnoFAaK7itvJnopevQO"
-      },
-      "artists": [
-        {
-          "name": "CEO Trayle",
-          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
-        }
-      ],
-      "duration_ms": 163137,
-      "name": "Private Matter",
-      "url": "https://open.spotify.com/track/2mLXfDjh2F75PyfmZc0ZRc"
-    },
-    {
       "added_at": "2022-06-07 21:57:42",
       "album": {
         "name": "War Cries",
@@ -949,26 +965,6 @@
       "url": "https://open.spotify.com/track/2PKeOgJhTy7ryQWtd58iXa"
     },
     {
-      "added_at": "2022-07-18 21:46:49",
-      "album": {
-        "name": "Sober (With Jeremih)",
-        "url": "https://open.spotify.com/album/4wvtawFRk8OIskbS8TcWkq"
-      },
-      "artists": [
-        {
-          "name": "Nakkia Gold",
-          "url": "https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 253340,
-      "name": "Sober (With Jeremih)",
-      "url": "https://open.spotify.com/track/3dZJ85uBHJpE2blaL9E1LE"
-    },
-    {
       "added_at": "2022-04-02 00:01:21",
       "album": {
         "name": "BABY OIL STAIRCASE / CHILLOUT",
@@ -1031,26 +1027,6 @@
       "duration_ms": 169858,
       "name": "Not Scared",
       "url": "https://open.spotify.com/track/2kxJsMWm69RBY4oJXeXblb"
-    },
-    {
-      "added_at": "2022-07-01 03:55:56",
-      "album": {
-        "name": "Oscar",
-        "url": "https://open.spotify.com/album/6qaxXiRbkx8oRQ4lpKZKaJ"
-      },
-      "artists": [
-        {
-          "name": "MVW",
-          "url": "https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq"
-        },
-        {
-          "name": "Valee",
-          "url": "https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI"
-        }
-      ],
-      "duration_ms": 150813,
-      "name": "Oscar",
-      "url": "https://open.spotify.com/track/25twZqXp5ivXuuhcoTsoRj"
     },
     {
       "added_at": "2022-06-07 21:57:42",

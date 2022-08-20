@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-78 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+80 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Convergence](https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Convergence](https://open.spotify.com/album/1095m41z6UPcurOL35ybPa) | 3:14 | 2022-08-11 |  |
 | [Dandelions](https://open.spotify.com/track/6IFQFMp1sazAG1ZA6bIA57) | [Amanita Phalloides](https://open.spotify.com/artist/7dipuZgipLo3oDsGhl6dQL), [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Hope Never Dies](https://open.spotify.com/album/7o9JDarAd1qKHN5mTVI6P4) | 3:44 | 2022-05-19 |  |
 | [Day 1](https://open.spotify.com/track/4IqM95Bxy0Ki0xbSIrNYKN) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Morning Loops](https://open.spotify.com/album/518ACaHelXkskhf4AtBEvA) | 11:52 | 2022-05-19 |  |
+| [Dream Silhouette](https://open.spotify.com/track/52aAiAhyUCzo8OrHSgPqHn) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Dream Silhouette](https://open.spotify.com/album/5LMPQs6RWNNMjX9m8CC6NN) | 3:08 | 2022-08-19 |  |
 | [Eclipse](https://open.spotify.com/track/7BnfMue7oWPC0PO7zfPQAE) | [iamrw](https://open.spotify.com/artist/6Oo1b13eDooVjwNQHiFd5c) | [That Summer When We Met](https://open.spotify.com/album/4P5p2R8KInwS7VrVtBV1o2) | 2:12 | 2022-07-08 |  |
 | [Ends](https://open.spotify.com/track/0m5yyFEck8AjOjBnik2sn0) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Coast](https://open.spotify.com/album/2cV90JgRQmnI8eAm5mGwr0) | 5:55 | 2022-05-19 |  |
 | [Erase](https://open.spotify.com/track/6f4cBWeUGOtO7WFxxt35j3) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Scarr](https://open.spotify.com/album/1JKjLE5sVSxSIevJoF926D) | 4:19 | 2022-05-19 |  |
@@ -71,6 +72,7 @@
 | [remembering grasshoppers](https://open.spotify.com/track/4cW3NRXreChDL9MYh2LHKL) | [Byelti](https://open.spotify.com/artist/6bdFkBtj91aLGfeMzRzXOQ), [demo sphere](https://open.spotify.com/artist/4austkFDBkQqxEUpnYnveI) | [Cirrus](https://open.spotify.com/album/6BDNBMYOVxBQVb3mgx18DT) | 5:46 | 2022-06-17 |  |
 | [Resonance Necklace](https://open.spotify.com/track/3BeKvMlTb7A3J2RV7WIjX9) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 5:55 | 2022-05-19 |  |
 | [Reversing Existence](https://open.spotify.com/track/6BZjUJmyn7wu3NeYvDZrBI) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Apperception](https://open.spotify.com/album/5fMca3DSzcJFKY24ttQfFO) | 6:39 | 2022-05-19 |  |
+| [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-19 |  |
 | [Sleet](https://open.spotify.com/track/1e3ZjpUwm6yRzVaqIIHWdc) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 8:28 | 2022-07-22 |  |
 | [Sleet](https://open.spotify.com/track/6pfrUVPhrk2qe9BtVOeXwq) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 8:28 | 2022-05-19 | 2022-07-29 |
 | [Stepping Into Awareness \(Instrumental\)](https://open.spotify.com/track/1tj6iPD0KyAKSQJNebSe6W) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Presence \(Instrumentals\)](https://open.spotify.com/album/3VGeGqWVDT6QUFHBQkEdpA) | 8:06 | 2022-05-19 |  |

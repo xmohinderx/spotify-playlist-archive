@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,867 likes - 53 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,054 likes - 53 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 37 | [Deathwire](https://open.spotify.com/track/68XsbWfxcvmlAVukxPVy9d) | [Rough Francis](https://open.spotify.com/artist/60uXjIudDRbL8LIWwYk2sQ) | [Deathwire](https://open.spotify.com/album/3MYhb46f5Vusrzt58E6uot) | 3:09 |
 | 38 | [Let Me In](https://open.spotify.com/track/5U2djvPDRMcW4JjKuETuWa) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Let Me In](https://open.spotify.com/album/2whX6MD0PMqPW5De20AaU6) | 2:38 |
 | 39 | [Shutdown](https://open.spotify.com/track/22okfZRLfP6hxuplYUGef6) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Shutdown](https://open.spotify.com/album/0xCAtTLLKHVXXRG3QszG7Y) | 3:08 |
-| 40 | [Run It up Pt\. II](https://open.spotify.com/track/16oNPQ2sVbzZyAscp4SFHD) | [Spilt Milk & Relaye](https://open.spotify.com/artist/4LgNF21iq1IICSw9zdobNC) | [Run It up Pt\. II](https://open.spotify.com/album/723LwYSgRF5wC9niD819eF) | 2:34 |
+| 40 | [Run It up Pt\. II](https://open.spotify.com/track/16oNPQ2sVbzZyAscp4SFHD) | [Spilt Milk](https://open.spotify.com/artist/5a4YbQRezrArmu3VxdMGao), [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya) | [Run It up Pt\. II](https://open.spotify.com/album/723LwYSgRF5wC9niD819eF) | 2:34 |
 | 41 | [Firecracker](https://open.spotify.com/track/7cJvf5ZrfXDTcYHq1iXuRW) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Suburban Teenage Wasteland Blues \(Reissue\)](https://open.spotify.com/album/76f9KTJVuMIpYRv2hsW8R0) | 2:54 |
 | 42 | [Subculture](https://open.spotify.com/track/2C4GLr8jLEpHun7tIrBtaS) | [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX), [DJ Cheapshot](https://open.spotify.com/artist/55sQ5EIwjKLQx4WKJT2Xia), [Ryu](https://open.spotify.com/artist/7DdVoBdO8siOFROHpk56s3), [Leon Rockmore](https://open.spotify.com/artist/0cFOfuSKwo5BuElfJfp147) | [Subculture B/W Windows](https://open.spotify.com/album/6TSIzPIcgwHnjHAz4H48W9) | 3:47 |
 | 43 | [Same In The End](https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:36 |

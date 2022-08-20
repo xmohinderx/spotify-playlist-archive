@@ -2261,7 +2261,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 210163,
       "name": "K\u00fdm St\u00fapa Dym",
       "url": "https://open.spotify.com/track/1QxoFtjpKWbC6PyR8TNAfH"
@@ -2493,7 +2493,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 212976,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/7fCQLyt1wQ94W7VzXTaEb5"
@@ -2811,7 +2811,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 206384,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
@@ -2863,7 +2863,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 192362,
       "name": "Mockingbird - Remix",
       "url": "https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw"
@@ -4106,6 +4106,24 @@
     },
     {
       "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/7j00MK8XaLHZ1nyyuCauQN"
+      },
+      "artists": [
+        {
+          "name": "Xantesha",
+          "url": "https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110052,
+      "name": "SUNRISE",
+      "url": "https://open.spotify.com/track/6Rky4H51h4E35meaMTfJQF"
+    },
+    {
+      "album": {
         "name": "SUNRISE (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM"
       },
@@ -4485,7 +4503,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 132133,
       "name": "W.I.T.C.H.",
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"

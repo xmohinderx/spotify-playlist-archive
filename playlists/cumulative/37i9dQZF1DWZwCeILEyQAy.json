@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 186920,
       "name": "Choosey",
       "url": "https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 162481,
       "name": "Gloss Up Ms Bitch",
       "url": "https://open.spotify.com/track/4nrTlaJHJWyoiuSkAS0cA3"
@@ -1411,6 +1411,32 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+    },
+    {
+      "album": {
+        "name": "Hunnit Dolla Hiccup",
+        "url": "https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB"
+      },
+      "artists": [
+        {
+          "name": "Armani Caesar",
+          "url": "https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217872,
+      "name": "Hunnit Dolla Hiccup",
+      "url": "https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK"
     },
     {
       "album": {
@@ -2525,7 +2551,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 110769,
       "name": "Soufside",
       "url": "https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e"
@@ -3051,6 +3077,24 @@
       "duration_ms": 109766,
       "name": "Westside Baby (Gutta)",
       "url": "https://open.spotify.com/track/3djbJUX2x2ZVqeoH22tOyN"
+    },
+    {
+      "album": {
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136980,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
     },
     {
       "album": {

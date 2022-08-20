@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,023 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,073 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 49 | [You Been Sweet To Me](https://open.spotify.com/track/4evgHdHMdofFQ9YbpdWq3G) | [Raful Neal](https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0) | [Old Friends](https://open.spotify.com/album/4eg05LO0iG3uN248Bj8Gvj) | 4:50 |
 | 50 | [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 |
 
-Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMDY1YjA0MjIxYjYyZjQ2NGMzZjlkYTc4OTQ3MGNjNDk0`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMGM1Y2UxZjZhMWI2ZDU1YjkxZDAyMGExNGE3ZTVkMzhm`

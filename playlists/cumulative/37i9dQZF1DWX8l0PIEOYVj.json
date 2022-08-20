@@ -1160,6 +1160,28 @@
     },
     {
       "album": {
+        "name": "Eternity (feat. Dayce Williams)",
+        "url": "https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Dayce Williams",
+          "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229694,
+      "name": "Eternity (feat. Dayce Williams)",
+      "url": "https://open.spotify.com/track/2OYgoG7jqfMXsUaQfgROtw"
+    },
+    {
+      "album": {
         "name": "Everybody Feels (feat. Zack Gray)",
         "url": "https://open.spotify.com/album/7M946h8d4VNNcQ0715dWsJ"
       },
@@ -3257,7 +3279,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 184897,
       "name": "Pseudo Love",
       "url": "https://open.spotify.com/track/4KUIJ07yRdDJ10yIZitoHs"
@@ -4033,7 +4055,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Stepping Stone",
       "url": "https://open.spotify.com/track/1hiNxftJnpiiOgHEi1hMRu"
@@ -4223,7 +4245,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 167225,
       "name": "TELL U",
       "url": "https://open.spotify.com/track/6RN7j3mFcBvuiJIin5EpcR"

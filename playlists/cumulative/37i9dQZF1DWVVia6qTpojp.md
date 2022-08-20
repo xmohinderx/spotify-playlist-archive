@@ -4,7 +4,7 @@
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-65 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
+66 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [All About You](https://open.spotify.com/track/0qLqLMBQS5y3ZAbkc3MIGy) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Esther McLaren](https://open.spotify.com/artist/60J1UuxiGazhPIzIgwKULA) | [The Journey: A Collection](https://open.spotify.com/album/5E2ontsrR45lgUeC7cqen3) | 4:26 | 2018-11-27 |  |
 | [All For Love \(Gethsemane\) \- Live](https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt), [Anna Hellebronth](https://open.spotify.com/artist/2wcIL6FNIm7VRtM2LBMDPz), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I), [Luke + Anna Hellebronth](https://open.spotify.com/artist/4WUF78qaUIBG0uH1JiDztL) | [All For Love \(Gethsemane\) \[Live\]](https://open.spotify.com/album/64tv60oZXF3ldHggaW48vn) | 5:14 | 2018-11-27 |  |
 | [All Things New \(Live\)](https://open.spotify.com/track/7tCQhqtldkBnag6wvOnKil) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO) | [All Things New \(Live\)](https://open.spotify.com/album/6YxQ6G7ltjqaRliili7o8Q) | 5:31 | 2018-11-27 |  |
-| [Ashes](https://open.spotify.com/track/53z7x50cMMv2ClqUSdH6TZ) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Son of My Father \- EP](https://open.spotify.com/album/05DNmljF4983MWyjlkcXzS) | 4:18 | 2018-11-27 |  |
+| [Ashes](https://open.spotify.com/track/53z7x50cMMv2ClqUSdH6TZ) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Son of My Father \- EP](https://open.spotify.com/album/05DNmljF4983MWyjlkcXzS) | 4:18 | 2018-11-27 | 2022-08-20 |
+| [Ashes](https://open.spotify.com/track/7g9BylLROwXbWmP0xdkp8O) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Son of My Father](https://open.spotify.com/album/4gCHt9tejb6XrEBgoEq3bE) | 4:18 | 2018-11-27 |  |
 | [Be Lifted Up \(Live\)](https://open.spotify.com/track/36UNdXolsIyWQEYh00ODAa) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Karen Gillespie](https://open.spotify.com/artist/3H7zMUDYkq5RAwjVpoh2dX) | [All Things New \(Live\)](https://open.spotify.com/album/6dyY0EjV3fwxl3JqK69VM3) | 4:15 | 2018-11-27 |  |
 | [Cathedral \- Single Version](https://open.spotify.com/track/1f58yLGx0V9LO1SUCXRHTM) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Cathedral](https://open.spotify.com/album/4ei8RLoVH7O6nrdWXENMu9) | 4:29 | 2018-11-27 |  |
 | [Come to the Water \- Live](https://open.spotify.com/track/6k8nSBE7GoGhuzA22WIKR0) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Lauren Harris](https://open.spotify.com/artist/1PK9PSLsDrIo0ZoxdQLqob) | [Wildfire \(Live Worship From New Wine 2015\)](https://open.spotify.com/album/7p1R5IAIHlBPQWbJj1ljTP) | 5:36 | 2018-11-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,439,135 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,439,589 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J) | 2:40 |
 | 75 | [RELOAD](https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [RELOAD](https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC) | 2:56 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDUwNjIyNzE2MzJlOWVkYzZkOTkyMDA3ZmUwNzQwMjk5`
+Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMDc5ZTg1NGE5N2YzMzFhMTEyN2ZjZmRhMzQ1MDkzZmM4`

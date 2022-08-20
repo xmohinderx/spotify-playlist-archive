@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,944 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,005 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 7 | [Age Of Ascent](https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 4:58 |
 | 8 | [Intertwined](https://open.spotify.com/track/4iEcGcD063MCmTuCOt1oXq) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Shifting Sands](https://open.spotify.com/album/4P3X3u2Rmp685DIao3s5Qt) | 5:40 |
 | 9 | [Comes Love](https://open.spotify.com/track/3vYbPjjemMP62On3l9bgwp) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Comes Love](https://open.spotify.com/album/4bTV5R6pKEHPRu6JQnHejU) | 3:42 |
-| 10 | [Sentimental Mode](https://open.spotify.com/track/5Q4WjIzpn7RrZWh8v9IDuF) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Sentimental Mode](https://open.spotify.com/album/4Ltele1CIV0OV0RDlJmhP8) | 6:26 |
+| 10 | [Sentimental Mode](https://open.spotify.com/track/5nxBcToLYc4iUPAbi7tQDS) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Sentimental Mode](https://open.spotify.com/album/16jnTCEIibPTNfBTRnbGrz) | 6:26 |
 | 11 | [Sing as One](https://open.spotify.com/track/5GIfm1C24I2fHYpVxM7yAG) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Maya Fadeeva](https://open.spotify.com/artist/3gIcFcSyNnXAmdsl5YrtYb) | [Sing as One](https://open.spotify.com/album/1gQvCVTBmZLXebIXBsueDU) | 3:31 |
 | 12 | [First Shot](https://open.spotify.com/track/0vnArNTn5aLJmqrnZnK4Li) | [Pierre Manetti](https://open.spotify.com/artist/4MN4pIzuUjcY7enfxPEzva), [Christophe Cravero](https://open.spotify.com/artist/1c2wYQGmM8aipjqZQm2wzZ), [Laurent Locuratolo](https://open.spotify.com/artist/5ZKgs9QELqj8p7rMCKHxBy), [Henri Dorina](https://open.spotify.com/artist/3zxBY3Jc6y5vRfeFE3USbk) | [First Shot](https://open.spotify.com/album/4r919vmWnr9CeRv3FpROhI) | 3:45 |
 | 13 | [Family](https://open.spotify.com/track/1QrcomVagx1mGbtibRpiGt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Family](https://open.spotify.com/album/0wfWEejlAeco0LVkpjt4fR) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Hallelujah, I Love Him So \- First Sessions Outtake](https://open.spotify.com/track/1QLBKel4BFnZIk6VTQiiqY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:05 |
 | 50 | [Cheek To Cheek \- Live](https://open.spotify.com/track/2La0saPUOcHbSuiF8ubrkx) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Cheek To Cheek \(Live\)](https://open.spotify.com/album/4mSrOP60dblgo0HJlDgr9b) | 3:26 |
 
-Snapshot ID: `MTY2MDg2MDA2MCwwMDAwMDAwMGNmZWQ5MWI2Y2MzMTBlMzYxNWVmZTFiODM5MTJjMGU1`
+Snapshot ID: `MTY2MDg2MDA2MCwwMDAwMDAwMGU2Nzc1MjJjZjlhM2U4NjdiYjFjNTIzNDFjZDJkYTk4`

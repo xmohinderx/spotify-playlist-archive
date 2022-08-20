@@ -4,7 +4,7 @@
 
 > From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Fally Ipupa
 
-98 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+100 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bloqué](https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Bloqué](https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8) | 3:18 | 2022-08-05 |  |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2022-06-30 |  |
 | [Burning Desire](https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z) | [Burning Desire](https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b) | 2:52 | 2022-06-30 |  |
-| [Butu Ya Lelo](https://open.spotify.com/track/6ybcrc3Ekrcy65TG0ASgsQ) | [Tcherly N](https://open.spotify.com/artist/5QhZSGrBxIQyLE7Ntl2VEi) | [Butu Ya Lelo](https://open.spotify.com/album/7brNGIzXrN2I5CUbsNmPTW) | 3:42 | 2022-06-30 |  |
+| [Butu Ya Lelo](https://open.spotify.com/track/6ybcrc3Ekrcy65TG0ASgsQ) | [Tcherly N](https://open.spotify.com/artist/5QhZSGrBxIQyLE7Ntl2VEi) | [Butu Ya Lelo](https://open.spotify.com/album/7brNGIzXrN2I5CUbsNmPTW) | 3:42 | 2022-06-30 | 2022-08-20 |
 | [Bébé](https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 4:05 | 2022-06-30 |  |
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-06-30 |  |
 | [CDQ](https://open.spotify.com/track/0CjGQyX0YHYibChVyStSnj) | [Arnaud Ndongala](https://open.spotify.com/artist/4MxUaA8AFEgDdjLIQKP3j8) | [CDQ](https://open.spotify.com/album/7e50CSpqBejmMVBRhMDIKy) | 2:52 | 2022-06-30 | 2022-07-16 |
@@ -58,6 +58,7 @@
 | [Loi](https://open.spotify.com/track/3ERMjh3EfOWWoLJjcxtpvt) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Loi](https://open.spotify.com/album/3GTtST9Tk2rcDNxV5YFIBy) | 5:35 | 2022-06-30 |  |
 | [Loketu](https://open.spotify.com/track/1z1QfpUCH0tp9T5aAVLStB) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Loketu](https://open.spotify.com/album/7iAhhT4SscGaSNhsNEUFH6) | 2:35 | 2022-06-30 |  |
 | [LÉLÉ](https://open.spotify.com/track/0GXrYFdjPgVYxxnERdqGj5) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [LÉLÉ](https://open.spotify.com/album/4aHWhpQsSAa9NAgg8ldI4D) | 3:09 | 2022-06-30 |  |
+| [Matete](https://open.spotify.com/track/5wp41PrAJyoA6PYfraw98Z) | [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp) | [Matete](https://open.spotify.com/album/2AIFNlOYysG3HqYjHnxaMd) | 3:53 | 2022-08-19 |  |
 | [Mbappé](https://open.spotify.com/track/4x8jFY4oAcBsAt67pjonSS) | [Ibn Itaka](https://open.spotify.com/artist/3ZyajuEhPOcKzQTObbskL2), [Julien Makarabianko](https://open.spotify.com/artist/6AgeuJ3W2MHEvlqc9fCzPw) | [Mbappé](https://open.spotify.com/album/4TdC4zH22pUkAkW2eVQm2A) | 4:08 | 2022-07-08 | 2022-08-06 |
 | [Mbila \- João Selva Remix](https://open.spotify.com/track/1gW5zzEe41Hdbd3l1CYllP) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY), [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG) | [Mbila \(João Selva Remix\)](https://open.spotify.com/album/4CexHLC4PDH9rCz9l33xpo) | 4:02 | 2022-06-30 |  |
 | [Mbongo](https://open.spotify.com/track/7MNpmYELfvKKdLHAEUbCet) | [Juvelly](https://open.spotify.com/artist/76JitTMfMxdrHfWZzyqJMh) | [Mbongo](https://open.spotify.com/album/5Jg5DLWuVnf08USPjI1cBs) | 3:56 | 2022-06-30 |  |
@@ -65,8 +66,9 @@
 | [Mon doudou](https://open.spotify.com/track/4LQhEWxaUSigESJetoNx2E) | [Ewing sima](https://open.spotify.com/artist/4Nc9sa3ZUT4b8Cp4YQKkjj) | [Mon doudou](https://open.spotify.com/album/4jokcX7kQNiaUmr09KH6nH) | 3:09 | 2022-06-30 | 2022-08-06 |
 | [Motema](https://open.spotify.com/track/6VWkqhuIWghoye62r47cpn) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Erratum \(Deluxe Edition\)](https://open.spotify.com/album/12bDmtxnWnTnZxNF8kpvac) | 2:55 | 2022-06-30 |  |
 | [Mukila](https://open.spotify.com/track/76Z253AF0PcCEOFbBy3TeS) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Mukila](https://open.spotify.com/album/77JAOcjSdDRaB5PW1j0zDM) | 3:02 | 2022-06-30 | 2022-07-09 |
+| [Mutu Ebeba](https://open.spotify.com/track/2GAA7jWcNgb0mMIZ4Zb3r1) | [SHARABIA](https://open.spotify.com/artist/5TcxIt337AdejHrxFa5KTN) | [Mutu EBEBA](https://open.spotify.com/album/6ePKPQSOmiFxZYb9qyFemo) | 4:31 | 2022-08-19 |  |
 | [Na Boyi](https://open.spotify.com/track/6T8xtq9KAapHyYAij2iRu6) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Na Boyi](https://open.spotify.com/album/10CDU3zOIH1caB8E1MZa2y) | 2:50 | 2022-06-30 |  |
-| [Na Pètè](https://open.spotify.com/track/15A4yOkL1eudjFq8F7gOk7) | [L\. Cam's](https://open.spotify.com/artist/3y0KvFOUhys9mOPLfqGnj3) | [Na Pètè](https://open.spotify.com/album/4QuTp9qmtG5ZSc5npGfVPy) | 3:16 | 2022-06-30 |  |
+| [Na Pètè](https://open.spotify.com/track/15A4yOkL1eudjFq8F7gOk7) | [L\. Cam's](https://open.spotify.com/artist/3y0KvFOUhys9mOPLfqGnj3) | [Na Pètè](https://open.spotify.com/album/4QuTp9qmtG5ZSc5npGfVPy) | 3:16 | 2022-06-30 | 2022-08-20 |
 | [Napesi](https://open.spotify.com/track/5YHN0JC9DIJW3UtNOlVJJz) | [Makoma](https://open.spotify.com/artist/4b05CA03ut3sJbMVXeEKMD) | [History](https://open.spotify.com/album/3FUIw0addqmbvRuM00QECL) | 4:44 | 2022-06-30 |  |
 | [Nawe](https://open.spotify.com/track/1eP4rDdU5UohUBzfksBzOX) | [Percy](https://open.spotify.com/artist/49Jl2qfrGf6cNyZknXuMXJ), [Badi](https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr), [Alesh](https://open.spotify.com/artist/1eoHFjFKLn2lr7FpLNSWdT) | [Nawe](https://open.spotify.com/album/6WgcT5ZDMaV10p0NdVwfKt) | 3:21 | 2022-06-30 |  |
 | [Ndombolo](https://open.spotify.com/track/2DzhQ5UXu8fDQaQ0WaMYHK) | [J.B\. Mpiana](https://open.spotify.com/artist/6ZZMaIylugRJgjP7CAg7DX), [Wenge Musica](https://open.spotify.com/artist/196Mh2yrd4xaNupimhUmpP), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Feux de l'amour](https://open.spotify.com/album/2R1EfXW4P5627Q6qZqxPtF) | 3:22 | 2022-06-30 |  |

@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Nicki Minaj
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Megan Thee Stallion
 
-175 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
+176 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-03-18 | 2022-07-23 |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-22 |  |
 | [Pesos \(feat\. Peso Peso\)](https://open.spotify.com/track/3c7G8oF298vWlCsOKK2P5B) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Pesos \(feat\. Peso Peso\)](https://open.spotify.com/album/3MhO1OnqbkMyXascwTDKs5) | 2:02 | 2022-06-10 |  |
-| [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 | 2022-04-22 |  |
+| [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 | 2022-04-22 | 2022-08-20 |
 | [Play Me](https://open.spotify.com/track/4GH6iowVcqBysygV2hbcH5) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Play Me](https://open.spotify.com/album/300dMnEjqffViFhMqTTAm7) | 2:54 | 2022-02-25 | 2022-06-18 |
 | [Pop Out](https://open.spotify.com/track/0ng1fmKrKCorqjmFtNneFm) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Pop Out](https://open.spotify.com/album/3IzNDkXpDYxSzoDVNXBSbs) | 2:19 | 2022-04-22 | 2022-06-04 |
 | [Pop Sh\*t Queen](https://open.spotify.com/track/68EFrsoC3TbilZBQe7XRHP) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Pop Sh\*t Queen](https://open.spotify.com/album/6c546bspygDHi7quOrZ2Du) | 2:27 | 2022-02-04 | 2022-03-26 |
@@ -176,6 +176,7 @@
 | [We Go Up \(feat\. Fivio Foreign\)](https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [We Go Up](https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI) | 4:15 | 2022-03-25 | 2022-07-23 |
 | [We Not Humping](https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We Not Humping](https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B) | 2:24 | 2021-12-03 | 2022-02-05 |
 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 | 2022-04-22 |  |
+| [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 | 2022-08-19 |  |
 | [What Ya Came For](https://open.spotify.com/track/2smo1WyDkIgDtPQc7CYiWn) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Break The Bank](https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv) | 2:57 | 2021-10-15 | 2022-02-05 |
 | [What's Ur Sign?](https://open.spotify.com/track/6OlADPWdxKkg7kKUnjO2bS) | [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i) | [What's Ur Sign?](https://open.spotify.com/album/0KHO9smSml3IBnGKzpXRcD) | 2:41 | 2021-09-17 | 2022-01-22 |
 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 | 2022-03-11 | 2022-07-23 |

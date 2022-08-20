@@ -2,7 +2,7 @@
 
 ### [Arsenico](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
 
-> Certi amori bruciano più di altri\. Cover: Gemitaiz
+> Certi amori bruciano di più\. Cover: Luchè
 
 80 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
 

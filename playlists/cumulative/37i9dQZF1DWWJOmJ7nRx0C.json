@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Hollywood Undead",
+  "description": "The hardest songs, loud. Very loud. Cover: Five Finger Death Punch",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -59,6 +59,24 @@
       "duration_ms": 159832,
       "name": "<maybe> it's my fault",
       "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
+    },
+    {
+      "album": {
+        "name": "Vaxis II: A Window of the Waking Mind",
+        "url": "https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209596,
+      "name": "A Disappearing Act",
+      "url": "https://open.spotify.com/track/04flu1A6UXP4Stissk3G1l"
     },
     {
       "album": {
@@ -373,7 +391,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 267426,
       "name": "Awaken Love",
       "url": "https://open.spotify.com/track/3lUljv8dQ66rCPw8Z5G5Ms"
@@ -434,6 +452,24 @@
     },
     {
       "album": {
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228260,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM"
+    },
+    {
+      "album": {
         "name": "Bad Things",
         "url": "https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR"
       },
@@ -445,7 +481,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 228260,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw"
@@ -967,6 +1003,24 @@
       "duration_ms": 194238,
       "name": "Burn With You",
       "url": "https://open.spotify.com/track/59HNDyS0NSPoPU1BjvVebk"
+    },
+    {
+      "album": {
+        "name": "Cage",
+        "url": "https://open.spotify.com/album/7uRq2XCxf2m2tVEexsSCyJ"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168669,
+      "name": "Cage",
+      "url": "https://open.spotify.com/track/5PRqhBkoni3TrJSUqpnyKa"
     },
     {
       "album": {
@@ -2597,7 +2651,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 199520,
       "name": "Fire It Up",
       "url": "https://open.spotify.com/track/1iFbbuxwxIKdXVaTU1737K"
@@ -3019,7 +3073,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 176587,
       "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
       "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
@@ -3515,7 +3569,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 189499,
       "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO"
@@ -4207,7 +4261,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 206247,
       "name": "Loose Talk",
       "url": "https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo"
@@ -5692,6 +5746,24 @@
     },
     {
       "album": {
+        "name": "Dear Monsters",
+        "url": "https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244395,
+      "name": "Sacred Kiss",
+      "url": "https://open.spotify.com/track/3zRZjDl3t6kwKzK9lKdo5N"
+    },
+    {
+      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0"
       },
@@ -6097,6 +6169,24 @@
       "duration_ms": 198927,
       "name": "Skin",
       "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
+    },
+    {
+      "album": {
+        "name": "Slaughter Beach",
+        "url": "https://open.spotify.com/album/1ktlp4ovJQGkGCep35GaQq"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221033,
+      "name": "Slaughter Beach",
+      "url": "https://open.spotify.com/track/234GDlel7bc4Cl7e5jiwNa"
     },
     {
       "album": {
@@ -6779,7 +6869,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 231666,
       "name": "The Body",
       "url": "https://open.spotify.com/track/0YbvjDVsEYEASJI8gS9UJ3"
@@ -7005,7 +7095,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 220799,
       "name": "The Rumbling",
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
@@ -7160,6 +7250,24 @@
     },
     {
       "album": {
+        "name": "This Is Your Darkness",
+        "url": "https://open.spotify.com/album/6iuJ0Df2y2dXlD9TFCNYlo"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "This Is Your Darkness",
+      "url": "https://open.spotify.com/track/21hiD4dpFgLEHuRAu9YzD3"
+    },
+    {
+      "album": {
         "name": "Three Chords",
         "url": "https://open.spotify.com/album/4ksvsvLoQ7DwjMwDS3Uyvt"
       },
@@ -7196,6 +7304,24 @@
     },
     {
       "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209976,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E"
+    },
+    {
+      "album": {
         "name": "Times Like These",
         "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
       },
@@ -7207,7 +7333,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 209976,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r"
@@ -7522,6 +7648,32 @@
     },
     {
       "album": {
+        "name": "Waiting On The Sky To Change",
+        "url": "https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        },
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244135,
+      "name": "Waiting On The Sky To Change",
+      "url": "https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0"
+    },
+    {
+      "album": {
         "name": "Waiting On You",
         "url": "https://open.spotify.com/album/6I10Qzb2BTNRs6pftG2q54"
       },
@@ -7799,6 +7951,24 @@
       "duration_ms": 214842,
       "name": "What's the Trick?",
       "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
+    },
+    {
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/780lYXAlLWOJgqul0JiKw5"
+      },
+      "artists": [
+        {
+          "name": "AVOID",
+          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/3NLKLf0B5L6DLwKCylF5jC"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill and trap from Australia and NZ\. Cover: Day1
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,174 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,193 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Roll Like That \(feat\. HP ONIT & Hp Boyz\)](https://open.spotify.com/track/0Euv783XiK456k18nqtsan) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp) | [Roll Like That \(feat\. HP ONIT & Hp Boyz\)](https://open.spotify.com/album/6riUfmF6kbbhJlrzFupyYP) | 3:29 |
+| 1 | [Roll Like That](https://open.spotify.com/track/0Euv783XiK456k18nqtsan) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp) | [Roll Like That](https://open.spotify.com/album/6riUfmF6kbbhJlrzFupyYP) | 3:29 |
 | 2 | [Handle It](https://open.spotify.com/track/6fwQkSQnIuM6ihR1CH6rm7) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Handle It](https://open.spotify.com/album/2dF5XfyWIxHltWizNawVdL) | 3:02 |
 | 3 | [TRUE](https://open.spotify.com/track/5IqvWuThZk3OZHeo7FJfnw) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [TRUE](https://open.spotify.com/album/3dHPLhmxVB5H2OdDtnKQgE) | 2:45 |
 | 4 | [RIDING](https://open.spotify.com/track/46Z99a3wscL05PsmZM4aiD) | [Tmk](https://open.spotify.com/artist/2oFK3R5iz6M9zfKz0YQppP), [YXAN](https://open.spotify.com/artist/1vFU3dBPfEHrZOx9GAm3z9) | [RIDING](https://open.spotify.com/album/4ankxDU4aJ5S4wUgiBXQsF) | 3:14 |

@@ -4862,6 +4862,28 @@
     },
     {
       "album": {
+        "name": "Super Happy",
+        "url": "https://open.spotify.com/album/25fMfhirVYqXXnIIhxkTaF"
+      },
+      "artists": [
+        {
+          "name": "Su Lee",
+          "url": "https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Super Happy (feat. Ariza)",
+      "url": "https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu"
+    },
+    {
+      "album": {
         "name": "Surga",
         "url": "https://open.spotify.com/album/0j1SrrUhHbtBvoWWKiNfGr"
       },

@@ -4,7 +4,7 @@
 
 > East Africa Queens in their musical element.
 
-62 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
+64 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Back4th](https://open.spotify.com/track/3B1ULzAnh4OsrxSeSonN5d) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Back4th](https://open.spotify.com/album/1GfzwGWp0yd53AGZX98zrt) | 3:12 | 2022-07-18 |  |
 | [Bayi](https://open.spotify.com/track/1CkRUUq109CKIB96vSXFwR) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Choore](https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH) | 3:19 | 2022-07-18 |  |
 | [Bella Ciao](https://open.spotify.com/track/7z9Aqb5WrAf8v2UyWXKzle) | [Izabell](https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al), [Kriminell Kunst](https://open.spotify.com/artist/7EJNCcEc74APLevQVDgINC) | [Bella Ciao](https://open.spotify.com/album/3UgIdYdg7kFsBv8RGV5llw) | 3:28 | 2022-07-18 |  |
+| [Bitimba](https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Bitimba](https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5) | 2:27 | 2022-08-19 |  |
 | [Blue Print \- Official Audio](https://open.spotify.com/track/5LMs2FmgS1W7l3C5Wx824v) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Blue Print \(Official Audio\)](https://open.spotify.com/album/5HcuKyDldkZjAnOOUe4s4l) | 3:19 | 2022-07-18 |  |
 | [Boom Party](https://open.spotify.com/track/71qpPBgoPTecBX5Shqnv0F) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Boom Party](https://open.spotify.com/album/2raBDiITs682lZEHzVaPiP) | 3:25 | 2022-07-18 | 2022-07-30 |
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-07-18 |  |
@@ -20,7 +21,7 @@
 | [Dark Skin](https://open.spotify.com/track/5AjVctG4cZUAlGFWpuIxLe) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4) | [Dark Skin](https://open.spotify.com/album/08kjRiczlt4ykqCXPBoASh) | 3:22 | 2022-07-18 |  |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2022-07-18 |  |
 | [Fire](https://open.spotify.com/track/1LFM0KBmoe13qfMQZucsPk) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Fire](https://open.spotify.com/album/77exuH6Dzo7RMFxtFxNLhQ) | 3:37 | 2022-07-18 |  |
-| [For Sheezy](https://open.spotify.com/track/4Kr0xtd8gpJPrSuQaQ9LSL) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [For Sheezy](https://open.spotify.com/album/3ZbA4aFb3okLLV3BIAeexK) | 3:30 | 2022-07-18 |  |
+| [For Sheezy](https://open.spotify.com/track/4Kr0xtd8gpJPrSuQaQ9LSL) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [For Sheezy](https://open.spotify.com/album/3ZbA4aFb3okLLV3BIAeexK) | 3:30 | 2022-07-18 | 2022-08-20 |
 | [Galaxy](https://open.spotify.com/track/5ajyC8vUNQj1bDJqMIyjC4) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 3:24 | 2022-07-18 |  |
 | [Go Keisha](https://open.spotify.com/track/4gCMyd5vONpDt48LJdG7pO) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [Go Keisha](https://open.spotify.com/album/6fIHQ3ORBuT2Avw7saxLPL) | 1:36 | 2022-07-18 |  |
 | [Halichachi](https://open.spotify.com/track/6SWpURhRKx8IN6IXzCSV2S) | [Amber Lulu](https://open.spotify.com/artist/7eaEAJe6zgz9QVfEEP3dUg), [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Halichachi](https://open.spotify.com/album/5Uz3x5jAmxJuUQBDEFLhvb) | 3:25 | 2022-07-18 |  |
@@ -60,12 +61,13 @@
 | [Sitachelewa](https://open.spotify.com/track/2V8JCAL5fAYIuetBGKfj7X) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/0q80Hj7RGzccRcHTZcb0HY) | 3:54 | 2022-07-18 |  |
 | [Sitachelewa](https://open.spotify.com/track/2pEKF6WOg0Z4IalfGDwYp1) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/5gYoLbLpGgLziilCmpMV0w) | 3:54 | 2022-07-18 | 2022-07-29 |
 | [Sitaki Mazoea](https://open.spotify.com/track/2dmwsNaaASKGnkZZJq7LAD) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Sitaki Mazoea](https://open.spotify.com/album/7q5AQ6op2G8ETzjoykpK45) | 2:24 | 2022-07-18 |  |
-| [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-07-18 |  |
+| [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-07-18 | 2022-08-20 |
 | [Skia](https://open.spotify.com/track/5UpnIhGL7UfPcgnLmsmbZU) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Skia](https://open.spotify.com/album/1lZCh8wawVRNTa5scsx3JY) | 2:58 | 2022-07-18 |  |
 | [SLOW DANCING](https://open.spotify.com/track/6Qyi7tjYfQf3jSc2DjgVMC) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 3:22 | 2022-07-18 |  |
 | [Te Quiero](https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef) | 2:58 | 2022-07-18 |  |
 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-07-18 |  |
 | [Unanikosha](https://open.spotify.com/track/6gHk7bjniGrFzZeIWuut7t) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH) | [Unanikosha](https://open.spotify.com/album/3O0zOnmqZcMapWxGooBzVu) | 3:02 | 2022-07-18 |  |
+| [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 | 2022-08-19 |  |
 | [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 | 2022-07-18 |  |
 | [WANO](https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv) | [NTAATE](https://open.spotify.com/artist/2pjlyuBujBWpkiqpoZTOB9) | [WANO](https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t) | 3:31 | 2022-07-18 |  |
 | [Where \(Has the Time Gone\)](https://open.spotify.com/track/4CD3Mw4RUa5Igh70CWadbo) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Where \(Has the Time Gone\)](https://open.spotify.com/album/6JwEB4ctGyzJis0UAZwQFC) | 2:22 | 2022-07-18 |  |

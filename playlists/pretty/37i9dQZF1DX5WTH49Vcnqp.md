@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > all the hottest indie tunes in the world rn feat\. DMA's, Spacey Jane & PinkPantheress
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,440 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,469 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 8 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
 | 9 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 |
 | 10 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 |
-| 11 | [Potential](https://open.spotify.com/track/6zKGs6aoGpWx3vzA6k6zPF) | [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Potential](https://open.spotify.com/album/0ay7VXFcMKqC35mO7EonqU) | 3:46 |
-| 12 | [fun out of it](https://open.spotify.com/track/2G7jwClVBqTVg945ceXdqJ) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [fun out of it](https://open.spotify.com/album/3WP7yTejCc8P0W7edTsSoq) | 2:51 |
+| 11 | [Potential](https://open.spotify.com/track/3qHtB52JP6U4nCRQWZmRI9) | [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Potential](https://open.spotify.com/album/6wHALvUCNQKWuRJsvHUdUb) | 3:46 |
+| 12 | [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 |
 | 13 | [Honeycomb](https://open.spotify.com/track/272HBefSWeVs1Yi6vqL0Dw) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot) | [Deja](https://open.spotify.com/album/5uBw6DLLVJPk86NL8G3Xde) | 2:37 |
 | 14 | [Ocean Blue](https://open.spotify.com/track/6ydTM3R9A7uqGJkwkKTMp5) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Ocean Blue](https://open.spotify.com/album/5ttNbjh8ZcFwRz5Sn7V4vv) | 3:22 |
 | 15 | [Heaven](https://open.spotify.com/track/1NZLDZsqmvMVcZ02VT7ocP) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Heaven](https://open.spotify.com/album/6EuPz5zzV6JLMZKrb7LIsu) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 99 | [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 |
 | 100 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 |
 
-Snapshot ID: `MTY2MDgzMTIwMCwwMDAwMDAwMDk4M2Y1NGE5ZTA3NTI5Y2Q3NDMwMTE1ODBhMzZmMTFj`
+Snapshot ID: `MTY2MDgzMTIwMCwwMDAwMDAwMDEwYTgyMjZlZWYwMmViNGYzYzRkY2EwMDk5YTU1ZTRj`

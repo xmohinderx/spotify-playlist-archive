@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,369 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,434 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 49 | [Roxy's Sweat \- Original Mix](https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Roxy's Sweat EP](https://open.spotify.com/album/3s740hEDYRuSEjwnuw385t) | 5:07 |
 | 50 | [Sativa Jazz \- Detlef Remix](https://open.spotify.com/track/1EZcxkIogFFysvmyxSOZDI) | [Abana](https://open.spotify.com/artist/50IriuukwhBFpJS9WOk2a1), [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Sativa Jazz \(Detlef Remix\)](https://open.spotify.com/album/1qfo60yjGAwfXQ9CUK1uz2) | 6:02 |
 
-Snapshot ID: `MTY2MDU3NDk4NywwMDAwMDAwMDMxYjkyZWU3ZmQ1YjI3M2M3Mzc1M2Q1M2Q1OGU5MjI3`
+Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDY2Mjk5YjEwYWRkZWZmMTRlZTMxOWZmZjU4MTM1ODE4`

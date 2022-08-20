@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록음악을 만나보세요!\)
 
-381 songs - 23 hr 29 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
+382 songs - 23 hr 33 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Break Through](https://open.spotify.com/track/7A45JvsGzoiGPZBFmPIxGp) | [Soulights](https://open.spotify.com/artist/35ducZNsJuhyWmHnhHAADz) | [Break Through](https://open.spotify.com/album/0NELqOfC7kZ4uXrgo5DDUT) | 4:06 | 2022-07-22 | 2022-08-02 |
 | [break up](https://open.spotify.com/track/1vvnAjGNySweI5iBb1xuOh) | [Deepshower](https://open.spotify.com/artist/117Rg4kISlVXLtYDzYL7gS), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [break up](https://open.spotify.com/album/1HX8lBHyJisMzf5YLyMoKF) | 3:09 | 2022-04-12 | 2022-07-28 |
 | [Butterfly Effect](https://open.spotify.com/track/7aWZ76OniT1DUi5L9gjRkY) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 3:26 | 2022-04-12 | 2022-07-29 |
+| [Bye My Dear](https://open.spotify.com/track/2DMXlmSEvKC6kzDkYJdSkK) | [TILDE](https://open.spotify.com/artist/4dkrSmtmfRErNiFaQx0IAq) | [Bye My Dear](https://open.spotify.com/album/1nLojqad99fsjcDmiywiqn) | 4:26 | 2022-08-19 |  |
 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 | 2022-05-03 |  |
 | [Caffeine](https://open.spotify.com/track/1iPyLLD8wEtuQAUrsZ6srD) | [Kim Bada](https://open.spotify.com/artist/5OBvrcugjadLmcYy3ecTXW), [Lanalogue](https://open.spotify.com/artist/0MwiBH4jzg2Ls1cX9LQQzQ) | [BXXL](https://open.spotify.com/album/34UeGS3N096dSc9s3opkVM) | 2:45 | 2022-05-03 | 2022-05-12 |
 | [Chance](https://open.spotify.com/track/2DfoKySsCsAABuPSgEbzcb) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lord of Heroes OST Part 1](https://open.spotify.com/album/75ZMTjX52zVKPRXnHbwNve) | 3:43 | 2022-04-22 | 2022-06-18 |
@@ -176,7 +177,7 @@
 | [LET'S DO](https://open.spotify.com/track/4Qw55P1sgRoSP1hx8pH9bv) | [Neul](https://open.spotify.com/artist/5rtRatj0wvn1xhL7WuFUJA) | [LET'S DO](https://open.spotify.com/album/46Q2Smvsfn2kUZ99muta0E) | 3:46 | 2022-04-22 | 2022-04-24 |
 | [Let's go home](https://open.spotify.com/track/7J00hW1bd6Zp3wykjQCP8M) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:45 | 2022-04-12 | 2022-07-21 |
 | [Letter](https://open.spotify.com/track/5eQpbcCvsnvmp58ph8mOa1) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [Letter](https://open.spotify.com/album/3JnckYCOtlr4EmxYoXA7um) | 3:51 | 2022-06-09 | 2022-06-14 |
-| [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2022-04-22 |  |
+| [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2022-04-22 | 2022-08-20 |
 | [Let′s Get it](https://open.spotify.com/track/2w1jsbgkgR6aeg56H2AHSW) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [Royal Secret Inspector and Joy, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4UXcY00wGw2ZHMHHXzmyRN) | 3:14 | 2022-04-21 | 2022-04-23 |
 | [Life](https://open.spotify.com/track/2oxxGEfr7uciElfiDo135t) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA \(Complete Edition\)](https://open.spotify.com/album/2itIZTzeIXjJn7sqReMvQE) | 3:53 | 2022-04-22 | 2022-05-13 |
 | [Life Dancing](https://open.spotify.com/track/1Na51A7s9Fm1ullr4aVG5l) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Life Dancing](https://open.spotify.com/album/5Hw3PFHxV4GGfMJHZfnVyA) | 3:15 | 2022-04-22 | 2022-07-01 |

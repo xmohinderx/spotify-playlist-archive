@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 92013,
       "name": "Be All End All",
       "url": "https://open.spotify.com/track/7mqV05V4yRar4VbCGHZpLr"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 173601,
       "name": "Bleeding",
       "url": "https://open.spotify.com/track/2lpyWzEnw1eb3lz2J2oGEN"
@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Profound Morality",
+        "url": "https://open.spotify.com/album/5LDm7EQU04NgEHiLF2beaB"
+      },
+      "artists": [
+        {
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "Coalescence",
+      "url": "https://open.spotify.com/track/56s2fd2wlu2jt5hP1kopEl"
+    },
+    {
+      "album": {
         "name": "Counterfeit",
         "url": "https://open.spotify.com/album/5dkKMssRd8njxBgTQZkYRp"
       },
@@ -199,10 +217,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 216011,
       "name": "Dead Man",
       "url": "https://open.spotify.com/track/49HNyY6mvpN3tk76BRgbFa"
+    },
+    {
+      "album": {
+        "name": "Ded to Me",
+        "url": "https://open.spotify.com/album/1XyQDiFCupKpn5E9yAtlRL"
+      },
+      "artists": [
+        {
+          "name": "Vended",
+          "url": "https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224350,
+      "name": "Ded to Me",
+      "url": "https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7"
     },
     {
       "album": {
@@ -217,7 +253,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 292963,
       "name": "Dimorphous Display",
       "url": "https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM"
@@ -307,10 +343,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 181720,
       "name": "Flock",
       "url": "https://open.spotify.com/track/3kOCCO9FS1u4fGn7Khcmmt"
+    },
+    {
+      "album": {
+        "name": "Temple Corrupted",
+        "url": "https://open.spotify.com/album/1H7XITXYXGXytAUlXolo2P"
+      },
+      "artists": [
+        {
+          "name": "El Moono",
+          "url": "https://open.spotify.com/artist/6JnVIkM76FVcDo5RXEwXTS"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238332,
+      "name": "Forced to Smile",
+      "url": "https://open.spotify.com/track/6ugI9vdvlPnYqlDu6uhTdT"
     },
     {
       "album": {
@@ -332,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Rakshak",
+        "url": "https://open.spotify.com/album/24gOuJnIeGxz0eBrmgid2Q"
+      },
+      "artists": [
+        {
+          "name": "Bloodywood",
+          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284571,
+      "name": "Gaddaar",
+      "url": "https://open.spotify.com/track/3Kj2M9gRU1Lwf5eiNjBtBp"
+    },
+    {
+      "album": {
         "name": "Glory Pictures",
         "url": "https://open.spotify.com/album/3Iii4mUoKSuYIus9iEq1j3"
       },
@@ -343,10 +415,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 170066,
       "name": "Glory Pictures",
       "url": "https://open.spotify.com/track/0gGjemuhjOgxVfizp0RhCD"
+    },
+    {
+      "album": {
+        "name": "Diaspora Problems",
+        "url": "https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW"
+      },
+      "artists": [
+        {
+          "name": "Soul Glo",
+          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Gold Chain Punk (whogonbeatmyass?)",
+      "url": "https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR"
     },
     {
       "album": {
@@ -404,6 +494,24 @@
     },
     {
       "album": {
+        "name": "A Vision Of The End",
+        "url": "https://open.spotify.com/album/1jRJTS1dobAT283CzlHHjh"
+      },
+      "artists": [
+        {
+          "name": "Burner",
+          "url": "https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "Ingsoc",
+      "url": "https://open.spotify.com/track/3wXtzHfLRfz3fFkveuboPf"
+    },
+    {
+      "album": {
         "name": "It's Art",
         "url": "https://open.spotify.com/album/3HB1H5mkWhIVBA4E5PBGgV"
       },
@@ -433,7 +541,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 195306,
       "name": "K.M.B.",
       "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
@@ -523,7 +631,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 395131,
       "name": "Message in Memories",
       "url": "https://open.spotify.com/track/5id2U2YgvAsJOkt421D2sC"
@@ -559,7 +667,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 238760,
       "name": "Misery Made Its Home in Me",
       "url": "https://open.spotify.com/track/6M5iR5gvxhkMvs4wpBpZQ1"
@@ -577,7 +685,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 181111,
       "name": "My Demon",
       "url": "https://open.spotify.com/track/7tWHAHMCxxyoxEWafamf3F"
@@ -594,7 +702,7 @@
         },
         {
           "name": "screwyounick",
-          "url": "https://open.spotify.com/artist/5lDCPxWrmmxRuTpHdHT25a"
+          "url": "https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK"
         },
         {
           "name": "JOLLY WRLD",
@@ -643,7 +751,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 242782,
       "name": "Pessimist",
       "url": "https://open.spotify.com/track/4kCzHLVfTdeATOAxCNN2ia"
@@ -661,7 +769,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 118863,
       "name": "Pink Rover",
       "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
@@ -679,7 +787,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 161560,
       "name": "Puzzles",
       "url": "https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7"
@@ -697,7 +805,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 191517,
       "name": "Red Wing",
       "url": "https://open.spotify.com/track/5bZMw4BXuxEgjXH1anAMUA"
@@ -773,7 +881,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 215780,
       "name": "Separation Souvenir",
       "url": "https://open.spotify.com/track/3TPX2opdVfRSWCnqslFECX"
@@ -874,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Born of Obsidian",
+        "url": "https://open.spotify.com/album/1SC6DXzW8fov9cVYfPrVhx"
+      },
+      "artists": [
+        {
+          "name": "Kurokuma",
+          "url": "https://open.spotify.com/artist/6XtVoVBGIKGHCyfA95QoUQ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504806,
+      "name": "Smoking Mirror",
+      "url": "https://open.spotify.com/track/1w2Fs2kq0BY96Ql2jrGumv"
+    },
+    {
+      "album": {
         "name": "The Bones That Grew from Pain",
         "url": "https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe"
       },
@@ -889,6 +1015,24 @@
       "duration_ms": 227731,
       "name": "Static Abyss",
       "url": "https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ"
+    },
+    {
+      "album": {
+        "name": "Still Waiting",
+        "url": "https://open.spotify.com/album/7MnKb71wfwCK6QNVQdefI9"
+      },
+      "artists": [
+        {
+          "name": "We're Wolves",
+          "url": "https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/5L6GZ6mFm4q0ZM4hhE8JJt"
     },
     {
       "album": {
@@ -979,7 +1123,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 152146,
       "name": "The Killing Womb",
       "url": "https://open.spotify.com/track/7m33lSfrWtRfQDG6QmKP0L"
@@ -997,10 +1141,46 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 214413,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/3o9soRptwDhjVZ5IW0c2OG"
+    },
+    {
+      "album": {
+        "name": "3.6.2.4",
+        "url": "https://open.spotify.com/album/5O6RXs6VeaXphvvrRi7hHH"
+      },
+      "artists": [
+        {
+          "name": "Ghosts Of Atlantis",
+          "url": "https://open.spotify.com/artist/7vQmrGUUZlbNkjecfGuo61"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "The Third Pillar",
+      "url": "https://open.spotify.com/track/0hLMMjNkhEPUTelmWDtqLg"
+    },
+    {
+      "album": {
+        "name": "There's a Glitch in Human Consciousness",
+        "url": "https://open.spotify.com/album/1I0Z5NYHR4AYENHiQPJATM"
+      },
+      "artists": [
+        {
+          "name": "Netherlands",
+          "url": "https://open.spotify.com/artist/1WUAsFAAm9aQttDw4M7seC"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224137,
+      "name": "There's a Glitch in Human Consciousness",
+      "url": "https://open.spotify.com/track/11dR6vXFCoZsTXD2uH6YlG"
     },
     {
       "album": {
@@ -1033,7 +1213,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 213181,
       "name": "UGLY",
       "url": "https://open.spotify.com/track/1OeUAnQzyziBEwnZEg7pet"
@@ -1051,7 +1231,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 169324,
       "name": "Uncoil",
       "url": "https://open.spotify.com/track/092FbNQy7oYEtBbDA60xO3"
@@ -1069,7 +1249,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 376200,
       "name": "Water",
       "url": "https://open.spotify.com/track/48QXTuezcfADYjiAfSWtod"
@@ -1087,10 +1267,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 280826,
       "name": "Wavery",
       "url": "https://open.spotify.com/track/3gDn9Om6fPNJ11NILNA4gF"
+    },
+    {
+      "album": {
+        "name": "We Can Never Go Back to Arizona",
+        "url": "https://open.spotify.com/album/0ES4Wdnw4p3ceYFDDCYpBE"
+      },
+      "artists": [
+        {
+          "name": "To Bloom",
+          "url": "https://open.spotify.com/artist/2rNqQ0mRpXnJGqwRHh12DL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320647,
+      "name": "We Can Never Go Back to Arizona",
+      "url": "https://open.spotify.com/track/5dr7QhlY2wPGYvVCcKN58K"
     },
     {
       "album": {

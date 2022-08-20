@@ -4,13 +4,14 @@
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-96 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/2zCUYqbonj5e3RrsBlMytG)
+97 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/2zCUYqbonj5e3RrsBlMytG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ba Khía Giao Duyên](https://open.spotify.com/track/2qWTWy3lECQbh2YtOn8RQj) | [Đình Văn](https://open.spotify.com/artist/1gmlQgEQyq1beDMA8I4uNJ), [Mai Yen Chi](https://open.spotify.com/artist/6lpRi8Gi9xLSI9YpeMbe6V) | [Ba Khía Giao Duyên](https://open.spotify.com/album/34t52YJOVInSRYRLmDLfCb) | 3:10 | 2022-05-12 |  |
-| [Bang Long Di Em](https://open.spotify.com/track/537X1rYAOJdz06khkwzg5e) | [Quoc Dai](https://open.spotify.com/artist/2nfy0nJ70ftD2p3WeEVrw9) | [Khuc Nhac Mung Xuan](https://open.spotify.com/album/7MC5EKc8315m203dFwEhOX) | 4:27 | 2022-05-12 |  |
+| [Bang Long Di Em](https://open.spotify.com/track/537X1rYAOJdz06khkwzg5e) | [Quoc Dai](https://open.spotify.com/artist/2nfy0nJ70ftD2p3WeEVrw9) | [Khuc Nhac Mung Xuan](https://open.spotify.com/album/7MC5EKc8315m203dFwEhOX) | 4:27 | 2022-05-12 | 2022-08-20 |
 | [Bậu Về Nơi Đâu](https://open.spotify.com/track/6KOF37EGduM2G3QUJzpqNf) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Bậu Về Nơi Đâu](https://open.spotify.com/album/3p1MHBItPmL2RTOzw2NB1q) | 5:26 | 2022-05-12 |  |
+| [Bằng Lòng Đi Em](https://open.spotify.com/track/2J8kDQ6h2MK161CqDN3X8r) | [Quoc Dai](https://open.spotify.com/artist/2nfy0nJ70ftD2p3WeEVrw9) | [Bằng Lòng Đi Em](https://open.spotify.com/album/6so9Ru7VnYXoCAdkVPQd3x) | 4:25 | 2022-07-15 |  |
 | [Bến Sông Chiều](https://open.spotify.com/track/3PVWp9WJgbJiZzRfTXKfkT) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Bến Sông Chiều](https://open.spotify.com/album/5q8d4rWRhhUUWf4AJZykjy) | 5:12 | 2022-05-12 |  |
 | [Chim sáo ngày xưa](https://open.spotify.com/track/5bWqMXjLukN5Y6Cb3yIrVC) | [Quang Linh](https://open.spotify.com/artist/3JwyehW3Ls8vt8GSons5eA) | [Yêu nhau ghét nhau 1](https://open.spotify.com/album/4z6v1PQ0jpIWQqprhroBYN) | 5:56 | 2022-05-12 |  |
 | [Chiếc Xuồng](https://open.spotify.com/track/63eOuMVbPmonUiBcUvS4rK) | [Hương Thủy](https://open.spotify.com/artist/62fblWo293n6H96ETSYmxR), [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Chuyện Người Con Gái](https://open.spotify.com/album/4SWMrSAUEIj06uJUyzGHa7) | 5:14 | 2022-05-12 |  |

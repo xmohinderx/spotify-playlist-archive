@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,610 songs - 3 day 21 hr 54 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,614 songs - 3 day 22 hr 8 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Butterflies](https://open.spotify.com/track/1ZOoPJGZjvKS5AtireyzuO) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj) | [Butterflies](https://open.spotify.com/album/3MQqNa9cLXanvTCRUcv1oU) | 3:39 | 2021-08-31 | 2021-09-16 |
 | [Buy Yourself a Dream](https://open.spotify.com/track/5lmkwCsjIAqlgbPn8RJ3aG) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Buy Yourself a Dream](https://open.spotify.com/album/4VTvz0ONIdFCdnYpw81SVk) | 4:08 | 2020-09-26 | 2022-04-24 |
 | [Buzzcut](https://open.spotify.com/track/7IWPJElIZaHh7eyvg6D46d) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Buzzcut](https://open.spotify.com/album/4Ku9F96AbFCtQBVYzVvB9z) | 3:16 | 2022-03-25 | 2022-04-23 |
+| [By My Side](https://open.spotify.com/track/6khj212BR2QQdxOOdwz69D) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [By My Side](https://open.spotify.com/album/7j7LIfgwQdMWMpdSeLfoEX) | 3:33 | 2022-08-19 |  |
 | [By The Fire \(George Katsos EP1 S2\)](https://open.spotify.com/track/5n0r5mzi3kUaeYqioUj3gP) | [George Katsos](https://open.spotify.com/artist/4HkeDlKr5I2lsUdFDL0pyl) | [By The Fire \(George Katsos EP1 S2\)](https://open.spotify.com/album/6XYdfY9qDTPhfhsAAS48KV) | 3:46 | 2021-10-02 | 2021-10-17 |
 | [By The Pound](https://open.spotify.com/track/6zalpw83D6bzSueNY7NmIR) | [UglyFace](https://open.spotify.com/artist/6cVTa42IphmDksBQ8O0Zsv), [Aric Jones](https://open.spotify.com/artist/5FUkRQfTydFwoJiFnLT4QT), [Andre Mosley](https://open.spotify.com/artist/4m4dt4oiQoiY1E7qcvOjCS) | [By The Pound](https://open.spotify.com/album/67J4eI6MuROHfgh2DVZsrz) | 3:43 | 2021-05-22 | 2021-06-10 |
 | [By The Way](https://open.spotify.com/track/0EU7sKieoK2lI9LJC3VH7n) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [By The Way](https://open.spotify.com/album/1Ase5h8AqY2Yjqvkx4PDn4) | 2:50 | 2021-12-04 | 2022-02-13 |
@@ -459,6 +460,7 @@
 | [Fall For You](https://open.spotify.com/track/3koa4RpZbZetFdZZW7WAVl) | [Sophie Ann](https://open.spotify.com/artist/6Jjr2156zVfKimFYobk7Q2) | [Fall For You](https://open.spotify.com/album/60q4mkofIgQ04HCRN9slc6) | 2:58 | 2021-06-26 | 2021-07-11 |
 | [Fall, Fall, Fall](https://open.spotify.com/track/1X5cqLYl0eBrcNaLY8y9J0) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Fall, Fall, Fall](https://open.spotify.com/album/2UP2OjmTEVOQKQ5zOqXejr) | 4:52 | 2021-12-04 | 2021-12-20 |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-07-05 | 2022-07-27 |
+| [Falling by the Wayside](https://open.spotify.com/track/16q1Vnv42GoabfjYbYTaoL) | [Paul Mac Innes](https://open.spotify.com/artist/5TSiuFOzFcUE3caItvpilz) | [Falling by the Wayside](https://open.spotify.com/album/0OySeBvf7gQ9nmVB35Hc9j) | 3:51 | 2022-08-19 |  |
 | [Falling Out Of Orbit](https://open.spotify.com/track/7exGS5SzRgPlNxNTCFS0r9) | [Katt Padden](https://open.spotify.com/artist/1g4QR5mInNRfA71W8YRfuU), [zions.camp](https://open.spotify.com/artist/0h5D9wagd5zMNuVVBnUtng) | [Falling Out Of Orbit](https://open.spotify.com/album/5DUBE3VsRHo8CeH3cXpAgg) | 4:11 | 2022-04-15 | 2022-04-30 |
 | [Familiar](https://open.spotify.com/track/6RSC376d0Tbe2eSnE2Ehaq) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Familiar](https://open.spotify.com/album/1zLutAMELuYmAmlLM49D4n) | 3:29 | 2021-07-02 | 2021-07-18 |
 | [Familiar Friend](https://open.spotify.com/track/7kMThpIu48L8aXjTmGfpzb) | [Alex Togashii](https://open.spotify.com/artist/0HVbw8ntLBVDL9fpJYMljZ) | [Familiar Friend](https://open.spotify.com/album/79xAQ8u00zRdmvLIp1q7cr) | 3:50 | 2022-03-28 | 2022-04-14 |
@@ -481,6 +483,7 @@
 | [Feel This Once](https://open.spotify.com/track/6lu4a3efYrHm6om4lqwTIq) | [Nadia Kamrath](https://open.spotify.com/artist/61GgMthExetzzfmrqTBuHq) | [Feel This Once](https://open.spotify.com/album/3fl8JDRyw2uT0rLscashik) | 2:55 | 2022-06-10 | 2022-07-07 |
 | [Feel Us Elevate](https://open.spotify.com/track/3V3QVqaomXslGdZOhSPRrC) | [Kira Rizavi](https://open.spotify.com/artist/5nZkybKpjeomEBzD2p5MP4) | [Feel Us Elevate](https://open.spotify.com/album/1r9RzIgh0Xcj25IUDvaSv1) | 3:13 | 2021-08-21 | 2021-09-05 |
 | [Feelin' Alright](https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 4:10 | 2022-07-26 |  |
+| [Feelin' So Good](https://open.spotify.com/track/44vlKv8desgTiPucb9Tbfe) | [Tano Brock](https://open.spotify.com/artist/13a1mnzdwDpltArYIVsQHX) | [Feelin' So Good](https://open.spotify.com/album/285RHVuOYRBfZRAPMSgrD7) | 3:42 | 2022-08-19 |  |
 | [Feeling](https://open.spotify.com/track/6ze3rTbidkkYIzdgBA8i0l) | [Frankie Bottz](https://open.spotify.com/artist/4WobtMkGG2OmzjIxjQ0RxW) | [Feeling](https://open.spotify.com/album/4TVBpFk9lI9wvUUp9NXeeL) | 4:16 | 2022-01-28 | 2022-02-13 |
 | [Feeling Good](https://open.spotify.com/track/3A7yE3igxCotMUgzQzMXwK) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 2:16 | 2020-08-20 |  |
 | [Feeling Good](https://open.spotify.com/track/59E5YUrahFAqcJB0jsabEe) | [Paul Farrin](https://open.spotify.com/artist/7sX9bmpNhukkmNHeG3pXPP) | [Feeling Good](https://open.spotify.com/album/5pJuES5URUV7ox2RN1LaOI) | 3:11 | 2021-01-23 | 2021-02-06 |
@@ -1001,6 +1004,7 @@
 | [Never Forget](https://open.spotify.com/track/649UGlGggCOPwvAIT7FKf1) | [Charlotte Lansman](https://open.spotify.com/artist/6Pd9ZD8S1T1wJ2xa1lko8X) | [Never Forget](https://open.spotify.com/album/7nI0GXKzOdxXvTNU2Srkrs) | 3:21 | 2020-10-10 | 2020-11-06 |
 | [Never Give Up \(Better Late Than Never\)](https://open.spotify.com/track/0fY5aWqQomBx7ZY4HQdQ14) | [Brian McKnight Jr.](https://open.spotify.com/artist/3kMMoBYpbDgdN3zvQedA8U), [DJ Pleez](https://open.spotify.com/artist/711Uw5ILEMtAN0NsX6oAtF) | [SoulShine](https://open.spotify.com/album/0uOt7mpS3ewXGYzFNNj9sd) | 3:07 | 2019-12-03 | 2019-12-11 |
 | [Never Gonna Love](https://open.spotify.com/track/7pjGWtoHt2sVDdN52zdy01) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [Never Gonna Love](https://open.spotify.com/album/352Si1WvvIVXiYMCSU3j6b) | 2:51 | 2021-04-10 | 2021-04-26 |
+| [Never on My Own](https://open.spotify.com/track/3cWtFXAoPegQNqWmprQIdC) | [Tnola](https://open.spotify.com/artist/3qsiuJcX1xermvwbJ6mg6O) | [Never on My Own](https://open.spotify.com/album/72QsHJfe1wlfbMPV6F3euM) | 2:34 | 2022-08-19 |  |
 | [Never Wanna Leave](https://open.spotify.com/track/5XBgLpobYbg7odqJz2bmvl) | [Max M](https://open.spotify.com/artist/7eEKw9JAXKdWzbWtyus10c) | [Never Wanna Leave](https://open.spotify.com/album/6n0bHrgR0cQUfTdzCMecBP) | 3:16 | 2019-12-24 | 2019-12-31 |
 | [Nevergreen](https://open.spotify.com/track/1TLGjhz6bvO4fGUBxJOM8M) | [Micayl](https://open.spotify.com/artist/7FZQDkxBpXjb2M0phDknLQ) | [Nevergreen](https://open.spotify.com/album/7rD4GU96PUFJybyuHBHVWZ) | 3:39 | 2022-07-04 | 2022-07-27 |
 | [Neverland](https://open.spotify.com/track/089DwZTzdQ1hp6olvyyJgK) | [chae](https://open.spotify.com/artist/04bDQYNj7Aos39p2b1Vm31) | [Neverland](https://open.spotify.com/album/0OgzEEb0rmkd43y284nozB) | 4:17 | 2022-07-01 | 2022-07-22 |

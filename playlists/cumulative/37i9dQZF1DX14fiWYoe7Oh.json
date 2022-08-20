@@ -325,10 +325,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 238759,
       "name": "Because of you",
       "url": "https://open.spotify.com/track/53PNN2kVM1eFU8C9KRs1jT"
+    },
+    {
+      "album": {
+        "name": "Because of You",
+        "url": "https://open.spotify.com/album/6RvFZkZDXEJjhniVyGADwI"
+      },
+      "artists": [
+        {
+          "name": "After School",
+          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240693,
+      "name": "Because of you",
+      "url": "https://open.spotify.com/track/5liz7gUkM2OPy8TIDqVa1F"
     },
     {
       "album": {

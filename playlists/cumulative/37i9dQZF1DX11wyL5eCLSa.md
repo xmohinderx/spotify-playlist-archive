@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Siddhartha en portada.
 
-147 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/1V1OHh2gBqHE70WTxIG68y)
+150 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/1V1OHh2gBqHE70WTxIG68y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [4 del 20](https://open.spotify.com/track/6mVKbQnY3peMr8PovVEtF3) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [4 del 20](https://open.spotify.com/album/0iugtNNvaIcTPzV7C7ASqK) | 5:00 | 2022-04-23 | 2022-05-28 |
 | [Acto de Fe](https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Sigilos y Decretos](https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11) | 3:50 | 2022-08-05 |  |
 | [Agua Bendita](https://open.spotify.com/track/1ypw0w1I3jJNlQfcg6CP0y) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Agua Bendita](https://open.spotify.com/album/1uoSSfoTMTOr3TrsrPQXZV) | 4:23 | 2022-04-23 | 2022-07-05 |
-| [Agua Santa](https://open.spotify.com/track/0arH8qrtmayVDnxuySM798) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Agua Santa](https://open.spotify.com/album/0ZPPC5qJzigZ6X7k3dyZ4d) | 4:07 | 2022-04-20 |  |
+| [Agua Santa](https://open.spotify.com/track/0arH8qrtmayVDnxuySM798) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Agua Santa](https://open.spotify.com/album/0ZPPC5qJzigZ6X7k3dyZ4d) | 4:07 | 2022-04-20 | 2022-08-20 |
 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 | 2021-12-17 |  |
 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 | 2022-08-13 |  |
 | [Aprendiendo A Amar](https://open.spotify.com/track/4UMqfxC6oXIC5V4OSZZhlX) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Aprendiendo A Amar](https://open.spotify.com/album/0d1q9kYWLh4GzB97LqZC9d) | 3:04 | 2022-06-02 | 2022-06-25 |
@@ -83,9 +83,11 @@
 | [Los Imanes](https://open.spotify.com/track/1GuQa6m4AQZbGRK38iOC4D) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/7qo7uFnFwmf6otdyn4irRn) | 3:38 | 2021-12-17 | 2022-07-29 |
 | [Los Imanes](https://open.spotify.com/track/4CoJ7RN7myJHXYIx1pB8IF) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU) | 3:38 | 2022-07-22 |  |
 | [Luces](https://open.spotify.com/track/3wNcTAYdBGJgUtJ6HtBB5p) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:26 | 2022-07-11 |  |
+| [Luces y Colores](https://open.spotify.com/track/19ghWfVSY6IYt6Q1vXnm2L) | [Viajeros Äcidos](https://open.spotify.com/artist/1QTEjmsa763gkfiieZyunB) | [Luces y Colores](https://open.spotify.com/album/4N5Js5cEfwV2l4Xk3ebQN2) | 4:03 | 2022-08-19 |  |
 | [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 | 2021-12-17 | 2022-04-23 |
 | [Mapa](https://open.spotify.com/track/0fRjGR7xRLVF2KmjZv4k2U) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mapa](https://open.spotify.com/album/6di6thiPTa8zxXTHTJRv6m) | 4:28 | 2021-12-17 | 2022-07-14 |
 | [Mapa](https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg) | [Sundarbans](https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82) | [Mapa](https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF) | 2:55 | 2022-07-14 | 2022-07-23 |
+| [Maremoto Shake](https://open.spotify.com/track/0mcyq6bCHGF08smeC1B72k) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Maremoto Shake](https://open.spotify.com/album/0bPZLplqluqn69ynqcyye9) | 3:03 | 2022-08-19 |  |
 | [María Juana](https://open.spotify.com/track/1bNuGB94RuKFS2fQiSCGuy) | [La Era de Acuario](https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh) | [María Juana](https://open.spotify.com/album/5Zszup3W2EXikXLldmLNRM) | 4:54 | 2022-08-09 | 2022-08-19 |
 | [Me Sobra la Plata](https://open.spotify.com/track/3igxC0qw663Ip91fIwrU8q) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Me Sobra la Plata](https://open.spotify.com/album/3QeJmMXRGITqC7dARLP7Xy) | 3:44 | 2021-12-17 | 2022-04-30 |
 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 | 2022-04-20 |  |
@@ -124,6 +126,7 @@
 | [Sabor Cayena](https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Sabor Cayena](https://open.spotify.com/album/5LiWn17rIUI0oqxfOyxVaP) | 4:16 | 2022-02-09 | 2022-05-04 |
 | [SATURADOS.](https://open.spotify.com/track/1xD2qhHRZ8OoWX0W5WhoDb) | [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [SATURADOS.](https://open.spotify.com/album/1awu6bROUZk9NE63huOT9e) | 2:27 | 2022-07-01 | 2022-07-15 |
 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 | 2022-02-24 | 2022-08-01 |
+| [Señales](https://open.spotify.com/track/4CgNNWpvkkMsMkJfSHOOll) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Señales](https://open.spotify.com/album/7LHA2aY4SXeDTSiA5foAFa) | 3:05 | 2022-08-19 |  |
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2021-12-17 | 2022-07-25 |
 | [SKR](https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 5:11 | 2022-04-20 |  |
 | [Sol@](https://open.spotify.com/track/6VtARaI3I2MMINgcP7wuxJ) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 2:57 | 2022-04-20 |  |

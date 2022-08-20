@@ -2478,6 +2478,24 @@
     },
     {
       "album": {
+        "name": "If You Wish Upon Me OST Part.3",
+        "url": "https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218546,
+      "name": "I can't forget you",
+      "url": "https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM"
+    },
+    {
+      "album": {
         "name": "Bravo, My Life OST Part.21",
         "url": "https://open.spotify.com/album/5q7yMgmZjNe3bRHaYli9JA"
       },
@@ -5441,7 +5459,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 222666,
       "name": "Sunday to Monday",
       "url": "https://open.spotify.com/track/4GlfPmVBquQ8uNV60FVE4B"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZxAQJCANsW.md) - [plain]
 
 > The perfect blend of songs, old and new, for around\-the\-clock listening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,123 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,156 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

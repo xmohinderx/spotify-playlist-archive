@@ -4,7 +4,7 @@
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-299 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
+300 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Closer](https://open.spotify.com/track/4HGi3uJg4OTWHQs6TkYAFb) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Closer](https://open.spotify.com/album/0e3tF60tqO2Niimn9HZIde) | 4:40 | 2021-05-07 | 2022-08-13 |
 | [Come Alive \- Edit](https://open.spotify.com/track/63BwSqgsSj8yh7pJqO6XPv) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Sarah Appel](https://open.spotify.com/artist/6P8X8yokMKJJH9jHaYztzk) | [Come Alive / Pattern Recognition](https://open.spotify.com/album/7lK9KoceMP2r9D845Ti1gC) | 4:01 | 2022-07-01 | 2022-07-29 |
 | [Consciousness](https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Consciousness](https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP) | 4:34 | 2022-05-20 |  |
+| [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-08-19 |  |
 | [Contact](https://open.spotify.com/track/1RqGzcZsvXio631qND3748) | [RUE](https://open.spotify.com/artist/44hIOYeh1KGq6G4q0ppoxK), [Alastor](https://open.spotify.com/artist/0qLQkmES1i8yc5SYefKgAH) | [Contact](https://open.spotify.com/album/7zhrul9qGrJkofhXoQC9eu) | 4:07 | 2021-05-07 | 2022-04-18 |
 | [Corallo \- SUMII Remix](https://open.spotify.com/track/5XuLE35QhQhWjdS94REAMb) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [SUMII](https://open.spotify.com/artist/2vEwdOqCXpJywpl642Ebc2) | [Corallo \(SUMII Remix\)](https://open.spotify.com/album/2uiQwMjHqzQFEY4zATBwuQ) | 3:42 | 2021-05-07 | 2022-07-29 |
 | [Cronus](https://open.spotify.com/track/2SDuPSd6KCcyy1lHK2rlKV) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Cronus](https://open.spotify.com/album/6oG4Ho6fD8lXRsMC2K0LEn) | 4:53 | 2021-11-12 | 2022-07-21 |
@@ -155,7 +156,7 @@
 | [Lightning](https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Lightning](https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz) | 3:54 | 2022-06-03 |  |
 | [LINE IN THE SAND](https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO) | [KILL SCRIPT](https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [LINE IN THE SAND](https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk) | 5:05 | 2022-06-03 | 2022-07-29 |
 | [Lose Control](https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Deep State](https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo) | 5:37 | 2021-05-07 |  |
-| [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2021-05-07 |  |
+| [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2021-05-07 | 2022-08-20 |
 | [Lost at Sea](https://open.spotify.com/track/6DUiSnyXWYiNXSsRe6FJPc) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul / Lost at Sea](https://open.spotify.com/album/39S4MhNoCznHiI7csqfu7j) | 4:42 | 2022-06-10 | 2022-07-23 |
 | [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 | 2021-05-18 |  |
 | [Lucid](https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Lucid](https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR) | 3:04 | 2022-06-03 | 2022-08-04 |

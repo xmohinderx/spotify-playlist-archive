@@ -846,6 +846,24 @@
     },
     {
       "album": {
+        "name": "CTM (The Conversation)",
+        "url": "https://open.spotify.com/album/03bYP4Du4i6U2ZiJ3QKhF0"
+      },
+      "artists": [
+        {
+          "name": "Hotel Garuda",
+          "url": "https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255468,
+      "name": "CTM (The Conversation)",
+      "url": "https://open.spotify.com/track/4VWQSKCPDyyr5YEFWc2m5Z"
+    },
+    {
+      "album": {
         "name": "David",
         "url": "https://open.spotify.com/album/6nKphWfsj3KEOJo6wkjPb5"
       },
@@ -3517,7 +3535,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 149626,
       "name": "PARTY W OUT ME",
       "url": "https://open.spotify.com/track/61fqBmhT61WSBuubgppM2N"
@@ -3575,6 +3593,24 @@
       "duration_ms": 144616,
       "name": "pieces",
       "url": "https://open.spotify.com/track/1EJLqTbCBWrXIZsWoJ9XPy"
+    },
+    {
+      "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "album": {
@@ -5021,7 +5057,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 213000,
       "name": "You",
       "url": "https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94"

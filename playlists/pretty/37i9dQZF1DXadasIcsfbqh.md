@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Ingrid Andress
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,763 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,884 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 |
 | 100 | [Can't Miss You Anymore](https://open.spotify.com/track/5LkRgwjOaBydaGxc5rztPd) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Can't Miss You Anymore](https://open.spotify.com/album/79u5jX0oVkQGBoDBNqo9hk) | 2:52 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGRmNzljYTkxNmIyNDY0YzE5ZDgzYzc2N2I4OGY0MGEz`
+Snapshot ID: `MTY2MDg4NTYyMCwwMDAwMDAwMGRmNTNiNjk2MzBlMTA5YzE3ODIyYjYxOTk2ZjExYmU0`

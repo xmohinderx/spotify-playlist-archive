@@ -4,7 +4,7 @@
 
 > Relax to the roaring sound of crashing waves.
 
-213 songs - 10 hr 15 min - not published yet
+213 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/594hR0ebiHjW4zJrk4dgQL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

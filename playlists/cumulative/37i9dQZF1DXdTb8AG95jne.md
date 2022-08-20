@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Kwon so jeong\(권소정\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-500 songs - 1 day 6 hr 39 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
+501 songs - 1 day 6 hr 42 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [deep water](https://open.spotify.com/track/3ToLIuUHoaedt4cagzX41J) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [?!](https://open.spotify.com/album/1uhyHd8foilSr6qLYjzEwc) | 3:16 | 2022-03-31 | 2022-04-14 |
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-16 | 2022-07-27 |
 | [Dive into love](https://open.spotify.com/track/6apTn1k3YjfjkoMUTS1av2) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Dive into love](https://open.spotify.com/album/1wrWUQmvi9dqyxPPQHTg6H) | 3:22 | 2021-12-21 | 2022-04-30 |
-| [Do You Think Of Me?](https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? \(4.4\)](https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V) | 3:16 | 2022-08-04 |  |
+| [Do You Think Of Me?](https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? \(4.4\)](https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V) | 3:16 | 2022-08-04 | 2022-08-20 |
 | [Do You Think Of Me? 방에 모기가 있어](https://open.spotify.com/track/0GveX1FMRVjfXQtPJAvQJJ) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? 방에 모기가 있어](https://open.spotify.com/album/6i8NTK3zdu3TJxo1TR8uzG) | 3:16 | 2022-05-11 | 2022-05-24 |
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-31 | 2022-04-19 |
 | [Don't be Disappointed](https://open.spotify.com/track/5NFUz1lKuetUhaRBPYuC6b) | [from all to human](https://open.spotify.com/artist/70ZE1v0UgSiInAfo8Xqjhj) | [Lief](https://open.spotify.com/album/39bo9FjkRsfe8kT63dAFez) | 3:07 | 2022-01-27 | 2022-06-07 |
@@ -250,6 +250,7 @@
 | [lost](https://open.spotify.com/track/53zgUNqd4DCRSRQUn4J4aJ) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [lost](https://open.spotify.com/album/3IAAhPOt3Ui36lJQ93Y7x8) | 3:50 | 2022-03-31 | 2022-07-27 |
 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 | 2022-06-08 |  |
 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 | 2022-08-13 |
+| [Love like a bouquet,](https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK) | [CHOMINWOO](https://open.spotify.com/artist/1mISG0BUcXpI7kJKtRqthM), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Beautiful struggle](https://open.spotify.com/album/17X67myikY9mktuS1UHAyx) | 3:18 | 2022-08-19 |  |
 | [Love Story](https://open.spotify.com/track/7GxrwmjHuHr7F5wjp8O5Ti) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [Love Story](https://open.spotify.com/album/3k9RocwRCD9q5HS1Io53s3) | 4:02 | 2022-06-18 | 2022-06-30 |
 | [Love Wave](https://open.spotify.com/track/1Z5XuXbFW6dl8wlLnqxu6l) | [Lovewave](https://open.spotify.com/artist/54On25RhdQIrqHwWj3JO3T) | [Love Wave](https://open.spotify.com/album/7dFGuAqh6O68Q5xof0qAXm) | 4:09 | 2021-12-21 | 2022-07-28 |
 | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/track/4SWki9wQIvFyyzoEu9ye3T) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/album/0o5tn8fdskeD9nrx0eYJ5A) | 3:41 | 2022-03-31 | 2022-04-06 |

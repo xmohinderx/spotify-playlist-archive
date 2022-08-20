@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,089 likes - 60 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,378 likes - 60 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

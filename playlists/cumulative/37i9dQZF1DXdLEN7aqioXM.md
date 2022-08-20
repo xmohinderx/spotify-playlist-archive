@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-335 songs - 1 day 0 hr 16 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+336 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Horizons](https://open.spotify.com/track/6gaAyZGygUy6ncEq6XrPbY) | [Diamond Lounge](https://open.spotify.com/artist/3GoqvGUih77Q03m7CkusNb) | [Horizons](https://open.spotify.com/album/7KwFBLm5s5yIFo9nrkZIoP) | 3:08 | 2022-04-08 | 2022-06-30 |
 | [Hotline Miami II](https://open.spotify.com/track/2qzbJyY0c4vzhXFlnRNCji) | [Das Mörtal](https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp) | [Hotline Miami II](https://open.spotify.com/album/6ASlNNjHy6yL8lNTMuNvPn) | 3:47 | 2022-04-01 | 2022-04-21 |
 | [Hotline Miami II](https://open.spotify.com/track/7qEIlg3a8Yrci7GhkmZR2V) | [Das Mörtal](https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp) | [Hotline Miami II](https://open.spotify.com/album/6v2alUvXCExu0CH7n4v9Ql) | 3:47 | 2022-07-22 |  |
+| [Hounds of Hell](https://open.spotify.com/track/1DcB747sZ7wM71YkaEYpLC) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Teamworks EP \(Pt\. 2/2\)](https://open.spotify.com/album/3MWbClmnqoShaxN4onZh5V) | 7:20 | 2022-08-19 |  |
 | [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/4Vd53EHIw4lEfe7rqHSctN) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/3DUcJ8bqyo4cZNt97VkmKi) | 5:49 | 2022-02-04 |  |
 | [Hypnic](https://open.spotify.com/track/2H55QFDo3vexV4gu85WUTl) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Dreamrider](https://open.spotify.com/album/5sE8JtVAJH23pYT4ZRAVwh) | 4:07 | 2021-10-15 | 2022-07-29 |
 | [Hypnic](https://open.spotify.com/track/2iGcN8KNk58rsXLo1yubR7) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Dreamrider](https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V) | 4:07 | 2022-07-22 |  |
@@ -180,7 +181,7 @@
 | [Lumen \- Sightlok Remix](https://open.spotify.com/track/2xDq5LHlqyrTAyo377caDv) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [kanata.t](https://open.spotify.com/artist/7HBn3Pajo9HU2Y3Smm5kmK), [Sightlok](https://open.spotify.com/artist/0d6BAubyJC8SktPEPmhogB) | [Lumen \(Sightlok Remix\)](https://open.spotify.com/album/2EISRLtAKdDq6HwGdDcdx5) | 4:21 | 2022-07-15 | 2022-07-28 |
 | [Luminance](https://open.spotify.com/track/0BxJspnDFiFfaOgOf0mSlw) | [Miroir](https://open.spotify.com/artist/4bFpWwKSDiCDBUbYwX59aX) | [So Fewer Particles Scatter](https://open.spotify.com/album/49VWM8s5jKyfJdBcwJ4tDH) | 5:27 | 2021-10-15 |  |
 | [Lunar](https://open.spotify.com/track/0bsmxR1mIR9k6jvZMWfAK0) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Lunar](https://open.spotify.com/album/7t5QcSntmnSv8wSI8KgJ9U) | 4:35 | 2021-10-15 |  |
-| [Maximum Performance](https://open.spotify.com/track/0VpFKLQP6Deh6sHETGCzrp) | [Highway Superstar](https://open.spotify.com/artist/1wENROD8aHpAJitK7xZ6Di) | [Maximum Performance](https://open.spotify.com/album/6OALhgjsbsGiPzeCIZLZeK) | 3:51 | 2021-10-15 |  |
+| [Maximum Performance](https://open.spotify.com/track/0VpFKLQP6Deh6sHETGCzrp) | [Highway Superstar](https://open.spotify.com/artist/1wENROD8aHpAJitK7xZ6Di) | [Maximum Performance](https://open.spotify.com/album/6OALhgjsbsGiPzeCIZLZeK) | 3:51 | 2021-10-15 | 2022-08-20 |
 | [Meet Me at the Dance](https://open.spotify.com/track/5NDoe2gbMEfwSD2gKsQlEI) | [September 87](https://open.spotify.com/artist/67cjZDUWm5goNObfOPrZIY) | [Act 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5uidamglBVuHzVEg1exns5) | 5:03 | 2022-04-01 |  |
 | [Memories](https://open.spotify.com/track/2kKouT2RpsWU2nJez1JQ7U) | [Rain Sword](https://open.spotify.com/artist/3ONPRz71whi0nDvqIEY9th) | [Memories](https://open.spotify.com/album/0IMmHpz0okIk7fUhczDzXE) | 5:06 | 2022-04-01 | 2022-04-21 |
 | [Metrocenter 84](https://open.spotify.com/track/3rxnmxTEqApa2ad9TWWDBx) | [Sunset Neon](https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s) | [Metrocenter 84](https://open.spotify.com/album/27FPwOv08GRvTHdzHFqfio) | 2:50 | 2021-10-15 |  |

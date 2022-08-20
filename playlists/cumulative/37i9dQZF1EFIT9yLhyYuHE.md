@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-55 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
+56 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [De Helft Van Wat Je Doet](https://open.spotify.com/track/7f2rMSEF8WLqcbd6tvwlH1) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:23 | 2022-05-29 |  |
 | [Deeper \(feat\. Cara Melín\)](https://open.spotify.com/track/4lvG9yuPy6yOoDqtvonzPK) | [Rowen Reecks](https://open.spotify.com/artist/7MW3lTs9G10C55or1KZrwQ), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Deeper \(feat\. Cara Melín\)](https://open.spotify.com/album/4N6hEqbRIBGl8sZbYF8QTB) | 2:59 | 2022-05-29 |  |
 | [Destiny's Child](https://open.spotify.com/track/1ZSSboAHLZZUPhXgAfHA8J) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Irreversible](https://open.spotify.com/album/4qmfxCE5ggeqEMx85yj2jG) | 2:42 | 2022-05-29 |  |
-| [Driver Seat](https://open.spotify.com/track/4suOHUdKByW9TMWodgwBKo) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Driver Seat](https://open.spotify.com/album/2jhH69NOhQ7yZEtBgxANsj) | 2:24 | 2022-05-29 |  |
+| [Driver Seat](https://open.spotify.com/track/1fz2v249urtwg6MNZs4zok) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Driver Seat](https://open.spotify.com/album/47k5ofEOAaGTkQvgrONMYL) | 2:24 | 2022-08-19 |  |
+| [Driver Seat](https://open.spotify.com/track/4suOHUdKByW9TMWodgwBKo) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Driver Seat](https://open.spotify.com/album/2jhH69NOhQ7yZEtBgxANsj) | 2:24 | 2022-05-29 | 2022-08-20 |
 | [Emotional](https://open.spotify.com/track/09a4XeVIPNsXSM91WkvOFe) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [Emotional](https://open.spotify.com/album/7m7RlX0aZW7TIjLH24Pv1N) | 2:50 | 2022-05-29 |  |
 | [Esta Noche](https://open.spotify.com/track/67v9RxHvSKpuKAMiayfXYP) | [Denise Faro](https://open.spotify.com/artist/2FtfhftN2XCuRFblobGGDX) | [Esta Noche](https://open.spotify.com/album/1wO5BYi995trUEdWvfSk61) | 3:21 | 2022-05-29 |  |
 | [Falling Fast](https://open.spotify.com/track/0VsMUwqiV7vQpTBcyQFJiN) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [Falling Fast](https://open.spotify.com/album/6SrZvzG41xmPawJTZSxfiQ) | 3:03 | 2022-07-25 |  |

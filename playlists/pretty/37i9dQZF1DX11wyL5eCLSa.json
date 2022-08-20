@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Siddhartha en portada.",
-  "num_followers": 127450,
+  "num_followers": 127602,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3MTYyNSwwMDAwMDAwMDUyNzBhYTdhN2E2YzJjZTA1ZDRjMmZjNzAwMDIzMmMz",
+  "snapshot_id": "MTY2MDg3NzM4MSwwMDAwMDAwMDY3M2I5Zjc3NmM5ZThkOTgyNzEzZDY3OTNjMTdjZDg3",
   "tracks": [
     {
       "added_at": "2022-07-22 17:47:39",
@@ -135,6 +135,22 @@
       "duration_ms": 177600,
       "name": "Locos",
       "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
+    },
+    {
+      "added_at": "2022-08-19 01:13:45",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/7LHA2aY4SXeDTSiA5foAFa"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/4CgNNWpvkkMsMkJfSHOOll"
     },
     {
       "added_at": "2022-08-05 19:18:55",
@@ -393,6 +409,22 @@
       "url": "https://open.spotify.com/track/2YiqBesMJpszYU6raDOG0R"
     },
     {
+      "added_at": "2022-08-19 01:13:45",
+      "album": {
+        "name": "Maremoto Shake",
+        "url": "https://open.spotify.com/album/0bPZLplqluqn69ynqcyye9"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 183164,
+      "name": "Maremoto Shake",
+      "url": "https://open.spotify.com/track/0mcyq6bCHGF08smeC1B72k"
+    },
+    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "Br\u00fajula",
@@ -407,6 +439,22 @@
       "duration_ms": 252661,
       "name": "Br\u00fajula",
       "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
+    },
+    {
+      "added_at": "2022-08-19 02:49:41",
+      "album": {
+        "name": "Luces y Colores",
+        "url": "https://open.spotify.com/album/4N5Js5cEfwV2l4Xk3ebQN2"
+      },
+      "artists": [
+        {
+          "name": "Viajeros \u00c4cidos",
+          "url": "https://open.spotify.com/artist/1QTEjmsa763gkfiieZyunB"
+        }
+      ],
+      "duration_ms": 243895,
+      "name": "Luces y Colores",
+      "url": "https://open.spotify.com/track/19ghWfVSY6IYt6Q1vXnm2L"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -463,22 +511,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Cambio Estacional",
-        "url": "https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 218175,
-      "name": "Los Imanes",
-      "url": "https://open.spotify.com/track/4CoJ7RN7myJHXYIx1pB8IF"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "Enjambre Y Los Hu\u00e9spedes Del Orbe",
         "url": "https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP"
       },
@@ -511,6 +543,22 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
+        "name": "Cambio Estacional",
+        "url": "https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 218175,
+      "name": "Los Imanes",
+      "url": "https://open.spotify.com/track/4CoJ7RN7myJHXYIx1pB8IF"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
         "name": "La Historia Sin Fin",
         "url": "https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3"
       },
@@ -527,22 +575,6 @@
       "duration_ms": 297053,
       "name": "Cachito De Galaxia",
       "url": "https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "ECOS",
-        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -567,18 +599,18 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "D\u00edas De Fuego",
-        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
+        "name": "ECOS",
+        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
         }
       ],
-      "duration_ms": 185640,
-      "name": "D\u00edas De Fuego",
-      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
+      "duration_ms": 193103,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -615,18 +647,18 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
+        "name": "D\u00edas De Fuego",
+        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
       },
       "artists": [
         {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+      "duration_ms": 185640,
+      "name": "D\u00edas De Fuego",
+      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -679,22 +711,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Giallo",
-        "url": "https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Documentales",
-      "url": "https://open.spotify.com/track/3Thy24e4jX5thZRcr9pt0u"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "Inevitable",
         "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
       },
@@ -707,6 +723,38 @@
       "duration_ms": 204963,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Giallo",
+        "url": "https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 223053,
+      "name": "Documentales",
+      "url": "https://open.spotify.com/track/3Thy24e4jX5thZRcr9pt0u"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -759,22 +807,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Aroma A Nostalgia",
-        "url": "https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        }
-      ],
-      "duration_ms": 278106,
-      "name": "Aroma A Nostalgia",
-      "url": "https://open.spotify.com/track/1IpEM8ttceXEWqQ83ay9Da"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "N\u00e1ufrago",
         "url": "https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK"
       },
@@ -787,6 +819,22 @@
       "duration_ms": 250636,
       "name": "N\u00e1ufrago",
       "url": "https://open.spotify.com/track/2tDP8CLX7r9DhSYwGhVkRs"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Aroma A Nostalgia",
+        "url": "https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "duration_ms": 278106,
+      "name": "Aroma A Nostalgia",
+      "url": "https://open.spotify.com/track/1IpEM8ttceXEWqQ83ay9Da"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -923,22 +971,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "El Duelo",
-        "url": "https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "Soy El Diluvio",
         "url": "https://open.spotify.com/album/108rJ8HooRDGGsiPNMwQ3M"
       },
@@ -971,22 +1003,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Mejor Que Nadie",
-        "url": "https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 280263,
-      "name": "Mejor Que Nadie",
-      "url": "https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "Contracorriente",
         "url": "https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg"
       },
@@ -1003,6 +1019,38 @@
       "duration_ms": 190500,
       "name": "Contracorriente",
       "url": "https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "El Duelo",
+        "url": "https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 257466,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Mejor Que Nadie",
+        "url": "https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 280263,
+      "name": "Mejor Que Nadie",
+      "url": "https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1219,22 +1267,6 @@
       "duration_ms": 270114,
       "name": "Empezar de Cero",
       "url": "https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "Agua Santa",
-        "url": "https://open.spotify.com/album/0ZPPC5qJzigZ6X7k3dyZ4d"
-      },
-      "artists": [
-        {
-          "name": "Bobui",
-          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
-        }
-      ],
-      "duration_ms": 247431,
-      "name": "Agua Santa",
-      "url": "https://open.spotify.com/track/0arH8qrtmayVDnxuySM798"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

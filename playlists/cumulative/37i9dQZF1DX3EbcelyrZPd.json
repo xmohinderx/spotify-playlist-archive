@@ -672,6 +672,28 @@
     },
     {
       "album": {
+        "name": "Love Sounds Different",
+        "url": "https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/6Ln31lD7imGAPW0HV00IiT"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Hadithi (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn"
+    },
+    {
+      "album": {
         "name": "Halichachi",
         "url": "https://open.spotify.com/album/5Uz3x5jAmxJuUQBDEFLhvb"
       },
@@ -2503,7 +2525,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 180645,
       "name": "Sweet (feat. Guchi)",
       "url": "https://open.spotify.com/track/0Gh9xbOUSSxN9ufKazx4JZ"

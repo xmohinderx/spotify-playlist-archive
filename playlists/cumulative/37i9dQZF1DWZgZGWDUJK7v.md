@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: After School Lessons for Unripe Apples\(세기말 풋사과 보습학원\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-82 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+83 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [The day, you left](https://open.spotify.com/track/6XwYhpviRrXo0gcxE9whmC) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [The day, you left](https://open.spotify.com/album/7lvmg9mp90fdnTOSHQ0Bmi) | 3:35 | 2022-05-09 |  |
 | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG) | 2:55 | 2022-05-09 |  |
 | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/track/6DRQvyJXF7st78fCAn9bT7) | [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/album/0JzL8yKGTU8CxBmZRFFOmR) | 3:56 | 2022-05-09 |  |
+| [The invention of romance \(WEBTOON 'Discovery of Love' X BIG Naughty\)](https://open.spotify.com/track/3VwwxnQlYfAIIIWwgvdAWR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The invention of romance \(WEBTOON 'Discovery of Love' X BIG Naughty\)](https://open.spotify.com/album/3aoVOedTKPTcLJBa7F5ofg) | 2:59 | 2022-08-19 |  |
 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 | 2022-05-09 |  |
 | [The two of us](https://open.spotify.com/track/211qUU0CXl8NqovMvW3LSc) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [The Crush Of Spring OST Part.9](https://open.spotify.com/album/7uA5KDUQnGaPpE1Ccs8gwf) | 3:51 | 2022-06-15 |  |
 | [To be honest I still love you](https://open.spotify.com/track/5IJxeM3hnKqyTMVqGiiYSq) | [Suki](https://open.spotify.com/artist/2moEpVrvwnQKjR9ZaDgbVk) | [The Crush Of Spring OST Part.6](https://open.spotify.com/album/7l0RjwUfOMMCAABHWX33qI) | 3:36 | 2022-06-13 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4MzM1NiwwMDAwMDAwMDE4NzhmZGNlZmJhMzcxNjQ0MWM2Y2NmODQ1ODVkMmI4",
+  "snapshot_id": "MTY2MDg4Mzg5OSwwMDAwMDAwMGYyYTk2NDA5OTEwNzEzMzdiYWU0MDlkMGU5MjZmMzVl",
   "tracks": [
     {
       "added_at": "2022-07-25 06:09:23",
@@ -267,6 +267,22 @@
       "duration_ms": 156000,
       "name": "Do For Me (feat. YKB & Alana Maria)",
       "url": "https://open.spotify.com/track/25NrAXAOBj1KOuTpJYs11g"
+    },
+    {
+      "added_at": "2022-08-19 04:38:19",
+      "album": {
+        "name": "Santi",
+        "url": "https://open.spotify.com/album/45qYrEUMR65J6PDoh6G8fQ"
+      },
+      "artists": [
+        {
+          "name": "Oiza x Meyi",
+          "url": "https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ"
+        }
+      ],
+      "duration_ms": 230498,
+      "name": "Santi",
+      "url": "https://open.spotify.com/track/2UfaE5AvQQHL2CkHeyM74O"
     },
     {
       "added_at": "2022-07-14 23:00:00",

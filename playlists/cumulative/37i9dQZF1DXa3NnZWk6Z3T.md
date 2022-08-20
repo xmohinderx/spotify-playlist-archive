@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-280 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+281 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 | 2021-12-09 |  |
 | [Junto al Mar](https://open.spotify.com/track/64ZOhhQARScqXYjdGsiBuV) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Junto al Mar](https://open.spotify.com/album/20Ar89pZc5ITtvq4WyIDJB) | 4:38 | 2021-12-09 | 2022-07-29 |
 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 | 2022-08-05 |  |
-| [La Costura De Dios](https://open.spotify.com/track/41Ez6Qx8cqV6eE1MFhYJeb) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [+ Bien](https://open.spotify.com/album/6Hfm9k5H74TN25V2cYLFiu) | 2:40 | 2022-04-07 |  |
+| [La Costura De Dios](https://open.spotify.com/track/41Ez6Qx8cqV6eE1MFhYJeb) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [+ Bien](https://open.spotify.com/album/6Hfm9k5H74TN25V2cYLFiu) | 2:40 | 2022-04-07 | 2022-08-20 |
 | [La Creatividad](https://open.spotify.com/track/3oVO96C3ao4UwSK1hMNws8) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [La Creatividad](https://open.spotify.com/album/3Id0GaC7qtQlVsBcWoXdBN) | 2:04 | 2021-12-09 | 2022-07-28 |
 | [La Fortuna \(feat\. Tommy Torres\)](https://open.spotify.com/track/6TKdsVl3GeAJrcuTGbvUzq) | [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Libre](https://open.spotify.com/album/6j0sCAm0cmrq0sPpcjttjn) | 3:28 | 2022-08-05 |  |
 | [La Sanadora](https://open.spotify.com/track/0GxzmQ5sE5Uq50LkQB3DO4) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [La Sanadora](https://open.spotify.com/album/4OvtUIqRsuqKFKRWABUTCy) | 4:27 | 2022-04-07 | 2022-04-19 |
@@ -253,6 +253,7 @@
 | [Te Quiero y Nada Más](https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Te Quiero y Nada Más](https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA) | 3:12 | 2021-12-09 |  |
 | [Te Tengo Que Meter En Mi Vida \(Versión Acústica\)](https://open.spotify.com/track/4SIo06ibYgeT2BYcgld91I) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Canapecito](https://open.spotify.com/album/75TluJ3aGAelm57vQ3Hdo6) | 3:40 | 2022-05-14 |  |
 | [Te Tengo Que Meter En Mi Vida \- Versión Acústica](https://open.spotify.com/track/1uVCCp3y3kdwmM41r3fsw7) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Noche Entera](https://open.spotify.com/album/3j49ZqSAOxShjCTvuVhtib) | 3:40 | 2021-12-09 | 2022-07-29 |
+| [Tierra Querida](https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tierra Querida](https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM) | 2:48 | 2022-08-19 |  |
 | [Tigres](https://open.spotify.com/track/6IRylJFrx3UGGmOLxQ6Sh7) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Tigres](https://open.spotify.com/album/7HdE8nLN359mWjPkb65xZd) | 3:20 | 2021-12-09 | 2022-07-25 |
 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 | 2021-12-09 |  |
 | [Todas Juntas \(feat\. Vicente García\)](https://open.spotify.com/track/2I5BjOL9xpobbem28XWQxD) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Amor Presente](https://open.spotify.com/album/6qPyFeApmk6187F7yoQvcd) | 3:53 | 2021-12-09 |  |

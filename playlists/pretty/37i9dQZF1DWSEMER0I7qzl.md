@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEMER0I7qzl.md) - [plain]
 
 > These songs will make you feel better\. Or maybe worse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,412,764 likes - 25 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,412,649 likes - 25 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEMER0I7qzl.md) - [plain]
 | 24 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
 | 25 | [Shut Up](https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:56 |
 
-Snapshot ID: `MTY2MDEyMzkyOSwwMDAwMDAwMDg3OWNhNThmYjAxY2Q4YTY3NDdhMjliZmI5OTk3NDA0`
+Snapshot ID: `MTY2MDkxMzQ2NywwMDAwMDAwMDZhNmUwN2YxMTJiYjZmNDU3ODRmZjEwZTgxYTdkZGFl`

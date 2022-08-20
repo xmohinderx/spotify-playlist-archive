@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-227 songs - 18 hr 26 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+228 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 | 2022-04-12 |  |
 | [Ejefjallajökull](https://open.spotify.com/track/4gE0qgEcL3lxiiCnnenhC4) | [Flowers Must Die](https://open.spotify.com/artist/27P1oHX79UqesBdT17z28I) | [Där blommor dör](https://open.spotify.com/album/7jVX2uZskYhrvViAPqEQVq) | 8:49 | 2021-11-12 | 2022-07-23 |
 | [El Valle](https://open.spotify.com/track/20mxHuTlg65fP3sFB2zqBr) | [Derby Motoreta’s Burrito Kachimba](https://open.spotify.com/artist/1nRVWZrJJCFAfkRWtFFPj4) | [El Valle](https://open.spotify.com/album/7gN1tO9yniNjUwdJC3HBSa) | 3:05 | 2021-11-12 | 2022-07-29 |
+| [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 | 2022-08-19 |  |
 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 | 2022-04-12 |  |
 | [End of the Night](https://open.spotify.com/track/1KHQli7MSz6ZdmR2M7uNxk) | [A Place To Bury Strangers](https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR) | [End of the Night](https://open.spotify.com/album/3dmTLrm4e636PHdYIJHT0N) | 5:26 | 2021-11-12 | 2022-07-29 |
 | [Escultura Misterio](https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD) | [Tarik Rahim](https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN) | [Escultura Misterio](https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc) | 2:53 | 2022-08-13 |  |
@@ -81,7 +82,7 @@
 | [Golden Dawn](https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:50 | 2021-11-12 |  |
 | [Golden Dawn](https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i) | 2:50 | 2021-11-12 | 2022-07-29 |
 | [Greven](https://open.spotify.com/track/54URuxbHDl2XnK5lSWJNNC) | [Fontän](https://open.spotify.com/artist/6EXurtehkPBoE9zRRHW9sO) | [Fontän](https://open.spotify.com/album/4wooYSPNjboju7eYkIn5Kq) | 6:05 | 2021-11-12 | 2022-07-17 |
-| [Greven](https://open.spotify.com/track/5QbDGQdwnrfxWuBDhNMVMN) | [Fontän](https://open.spotify.com/artist/6EXurtehkPBoE9zRRHW9sO) | [Fontän](https://open.spotify.com/album/0kyJHCH5zr45XB4ZXnl9cg) | 6:05 | 2021-11-12 |  |
+| [Greven](https://open.spotify.com/track/5QbDGQdwnrfxWuBDhNMVMN) | [Fontän](https://open.spotify.com/artist/6EXurtehkPBoE9zRRHW9sO) | [Fontän](https://open.spotify.com/album/0kyJHCH5zr45XB4ZXnl9cg) | 6:05 | 2021-11-12 | 2022-08-20 |
 | [Hiisi, Pt\. 1](https://open.spotify.com/track/2gXyYqSL0g17iNfUZVQryO) | [Kiki Pau](https://open.spotify.com/artist/2U4JtZdPoHPqEBofPg0CjC) | [Hiisi, Pt\. 1](https://open.spotify.com/album/1vmhF0O98KUC5m9pH3jzf6) | 6:48 | 2021-11-12 | 2022-07-28 |
 | [Hit](https://open.spotify.com/track/4x12MWeIxxxkpZNPaX3Erd) | [Flowers Must Die](https://open.spotify.com/artist/27P1oHX79UqesBdT17z28I) | [Kompost](https://open.spotify.com/album/7svO470IGQ7iHSRlCV1ggO) | 5:07 | 2021-11-12 | 2022-07-11 |
 | [Hit It and Quit It](https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Fudge Sandwich](https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw) | 4:00 | 2021-11-12 | 2022-07-24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Norma Jean",
-  "num_followers": 868200,
+  "num_followers": 868177,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMGM5MWQ2ZDIyZDg5ZmE0MTU2Y2E5MmIwOTAxNTk0ZGE4",
+  "snapshot_id": "MTY2MDkxNDAwMCwwMDAwMDAwMGIyZmVlOTViZmI5YmJjMjg3MTBmNTlkMjdkYjE2NmI4",
   "tracks": [
     {
       "added_at": "2022-08-12 13:00:00",
@@ -57,6 +57,38 @@
       "url": "https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL"
     },
     {
+      "added_at": "2022-08-19 13:00:00",
+      "album": {
+        "name": "Dedication To Flesh",
+        "url": "https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67"
+      },
+      "artists": [
+        {
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        }
+      ],
+      "duration_ms": 206346,
+      "name": "Dedication To Flesh",
+      "url": "https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM"
+    },
+    {
+      "added_at": "2022-08-19 13:00:00",
+      "album": {
+        "name": "Mass Produced",
+        "url": "https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w"
+      },
+      "artists": [
+        {
+          "name": "Oceano",
+          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Mass Produced",
+      "url": "https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX"
+    },
+    {
       "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Fuckboi (feat. Conquer Divide)",
@@ -95,6 +127,22 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "Rain Down",
+        "url": "https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 247391,
+      "name": "Rain Down",
+      "url": "https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "Faded Out (feat. Within Temptation)",
         "url": "https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW"
       },
@@ -127,22 +175,6 @@
       "duration_ms": 207400,
       "name": "Salt",
       "url": "https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Rain Down",
-        "url": "https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc"
-      },
-      "artists": [
-        {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
-        }
-      ],
-      "duration_ms": 247391,
-      "name": "Rain Down",
-      "url": "https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -599,38 +631,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Jabberwocky",
-        "url": "https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 192290,
-      "name": "Jabberwocky",
-      "url": "https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "I Run With Wolves",
-        "url": "https://open.spotify.com/album/68FghP1QWbbmmmVcIKYKNM"
-      },
-      "artists": [
-        {
-          "name": "Manafest",
-          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
-        }
-      ],
-      "duration_ms": 181949,
-      "name": "Break The Habit",
-      "url": "https://open.spotify.com/track/5jl8iC4QC8GFFUR0Uae1tN"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0"
       },
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv"
     },
     {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Breaking Point",
-        "url": "https://open.spotify.com/album/0W8BIHCskTZcmkrvVEgjfK"
-      },
-      "artists": [
-        {
-          "name": "Lockjaw",
-          "url": "https://open.spotify.com/artist/1CFA76fcB5Ieqc0vUWWab4"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Breaking Point",
-      "url": "https://open.spotify.com/track/4Us3BHNRNRVlJFtDd1e5xA"
-    },
-    {
       "added_at": "2022-07-22 13:00:00",
       "album": {
         "name": "Eden Will Drown",
@@ -1071,22 +1055,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Fuckin' Up",
-        "url": "https://open.spotify.com/album/0Z8QwHGTJRzNvIaiVnsmLe"
-      },
-      "artists": [
-        {
-          "name": "Jynx",
-          "url": "https://open.spotify.com/artist/3nthcaxiFmmeqZun308NSM"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Fuckin' Up",
-      "url": "https://open.spotify.com/track/774PuvXYcdfGrw9mFrl27q"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "NWWM",
         "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
       },
@@ -1151,38 +1119,6 @@
       "duration_ms": 196602,
       "name": "What Is Delicious? Who Swarms?",
       "url": "https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Heavy Pendulum",
-        "url": "https://open.spotify.com/album/7tsD5NnZCCk1RxnIIYwY7t"
-      },
-      "artists": [
-        {
-          "name": "Cave In",
-          "url": "https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi"
-        }
-      ],
-      "duration_ms": 295690,
-      "name": "Careless Offering",
-      "url": "https://open.spotify.com/track/1Z9hcTK8kolIJz2387Qi48"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/4tgzmgqcGcWyIwJra8EXNE"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Nighthawk",
-      "url": "https://open.spotify.com/track/1t1Hn5Zo6PwuIHCYxa4Agl"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -1259,6 +1195,70 @@
       "duration_ms": 221668,
       "name": "CHAOS CORP",
       "url": "https://open.spotify.com/track/5LqIY3LZUgdvOqfGb9H1gx"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci"
+      },
+      "artists": [
+        {
+          "name": "Saving Vice",
+          "url": "https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b"
+        }
+      ],
+      "duration_ms": 230068,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/48gotqEngeagErLW3C1FUs"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "A King To Rise",
+        "url": "https://open.spotify.com/album/4T9qyGOab2jMhedAUMMdJG"
+      },
+      "artists": [
+        {
+          "name": "Points of Conception",
+          "url": "https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "A King To Rise",
+      "url": "https://open.spotify.com/track/4bc7Ag4yPuuUlLRmew6HjW"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Fault Line",
+        "url": "https://open.spotify.com/album/1uOILLHZaV1sjCVHVyS4JA"
+      },
+      "artists": [
+        {
+          "name": "Patient Sixty-Seven",
+          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Fault Line",
+      "url": "https://open.spotify.com/track/3dbLhhWTAh1JcezKuttLFo"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "IMAGO",
+        "url": "https://open.spotify.com/album/08u01qs66Th1vASwCuuJxP"
+      },
+      "artists": [
+        {
+          "name": "Space Of Variations",
+          "url": "https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6"
+        }
+      ],
+      "duration_ms": 197230,
+      "name": "IMAGO",
+      "url": "https://open.spotify.com/track/2VyENkTDQPz6hXE1hkCbkk"
     }
   ],
   "unique_name": "The Core",

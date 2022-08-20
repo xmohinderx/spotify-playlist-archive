@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-256 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+257 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Good In Me](https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Good In Me](https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX) | 2:28 | 2022-06-10 |  |
 | [Goodbye](https://open.spotify.com/track/5dDyyHZaFm5yZiBeG6LZ9I) | [Her Songs](https://open.spotify.com/artist/7cehRwLzdNrpS7mS8a4JZO), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Dani Murcia](https://open.spotify.com/artist/0sZBq7kUYfWPbyGrXwOdvO), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [The Naked Eye](https://open.spotify.com/artist/44haLO0b3bH4Gpj1upF36o) | [Goodbye](https://open.spotify.com/album/5TZac3S7GqvsBdxxiulFnt) | 3:23 | 2020-10-17 | 2022-04-16 |
 | [Goodbye To Yesterday](https://open.spotify.com/track/3dWTDAzjbghk0Jmd9XbFjS) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [Goodbye To Yesterday](https://open.spotify.com/album/5SK4VfE7kAZMMeWmNCw3un) | 3:32 | 2021-10-15 | 2022-07-29 |
+| [got you](https://open.spotify.com/track/5JIUkZ1YiJXZXg4Se2fE3R) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2) | [got you](https://open.spotify.com/album/4LyOxAiCtqlroaqVRFugB5) | 3:47 | 2022-08-19 |  |
 | [Happy?](https://open.spotify.com/track/49jnjQA2w2gP7KTj9HzLaN) | [JJ](https://open.spotify.com/artist/2314UpIMdS8DMZyKiZ00Fs) | [Happy?](https://open.spotify.com/album/6il2yNDklvhFWzy2qBDhEA) | 2:34 | 2020-10-17 | 2022-04-21 |
 | [Hardware Store](https://open.spotify.com/track/7L8kWzZYrlXkSNwHgLjYo8) | [Victoria Victoria](https://open.spotify.com/artist/7HCC7kE2A7UW1IGOzajebg), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Hardware Store](https://open.spotify.com/album/2JqETGqzMgqVLHwFjhW29P) | 3:39 | 2022-08-12 |  |
 | [Have It Your Way](https://open.spotify.com/track/7hGJ3EmVvVOrFciDx0P8vm) | [Nina Soro](https://open.spotify.com/artist/3uzkKm1uj1EWWY0uxkEqZA) | [Have It Your Way](https://open.spotify.com/album/46YLWCQYjiqZ3M1lC40fym) | 4:25 | 2020-10-17 | 2022-07-29 |
@@ -110,7 +111,7 @@
 | [I Found A Love](https://open.spotify.com/track/4X1pp61d0eFrOx07WHrRmx) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Taali](https://open.spotify.com/artist/5SkhihNXZNPmooUcbSVZho) | [No Beginning No End 2](https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4) | 3:44 | 2020-10-17 | 2022-07-28 |
 | [I Got It Wrong](https://open.spotify.com/track/1DCLgBzRovhPwDwVkUMlKd) | [Joe Marson](https://open.spotify.com/artist/4nFQ7IhLVK3MsKRjhq9LKi) | [I Got It Wrong](https://open.spotify.com/album/4BpdErKFd69ApESmzPjHFi) | 4:11 | 2020-10-17 | 2022-04-21 |
 | [I Love You More](https://open.spotify.com/track/37kIyAeNHhcDoLaNiGvmDO) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [I Love You More](https://open.spotify.com/album/0EviMK1a9IrssnruybawEt) | 3:18 | 2020-10-17 | 2022-04-16 |
-| [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 | 2022-01-07 |  |
+| [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 | 2022-01-07 | 2022-08-20 |
 | [I Still Believe](https://open.spotify.com/track/47aAH3c3HRieyzGgNYKwbD) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [The Truth Band](https://open.spotify.com/artist/4GbHPjVShDQOc5EaFPOoiw) | [Are You Ready](https://open.spotify.com/album/4hmFq4PqAHHO5I9kGQz6cK) | 4:24 | 2020-10-17 | 2022-04-21 |
 | [I Think It’s You](https://open.spotify.com/track/1gHum0iZPs3EIftsWA1fey) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Daylight](https://open.spotify.com/album/54gsb9kVm2J8i2M7raLNph) | 3:37 | 2022-06-24 | 2022-07-02 |
 | [I Tried](https://open.spotify.com/track/5TODWaaMr4UqqcMkd6z2GX) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [I Tried](https://open.spotify.com/album/5ynHtHk3iepL4frUdcKGG9) | 3:15 | 2020-10-17 | 2022-04-21 |

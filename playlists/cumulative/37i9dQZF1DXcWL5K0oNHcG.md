@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Knats Artwork: Joy Yamusangie
 
-726 songs - 2 day 10 hr 49 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
+727 songs - 2 day 10 hr 55 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,8 @@
 | [New Possibilites \- Live](https://open.spotify.com/track/0AhMl0dutlYqpNKGS0ZezO) | [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [New Possibilities \(Live\)](https://open.spotify.com/album/7jqW4veLuzeFVDOxv5ES3F) | 8:56 | 2022-08-10 |  |
 | [Njt](https://open.spotify.com/track/0GLRrIiy9okpNPNOGtlPMW) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC), [Ilya Dynov](https://open.spotify.com/artist/5kyy6jzDQlqyCmSHCEO3gj), [The Woodsiders Collective](https://open.spotify.com/artist/3GWsbX6rA41kjhrhCP0Wqx), [Luis Sigüenza](https://open.spotify.com/artist/3xDs547f3Xg4cNGt1eT1ql), [Justus Heher](https://open.spotify.com/artist/0yMJoO3Z1jIxZdk6nZd0P8), [Andrew McGowan](https://open.spotify.com/artist/0pf9I7PKAv7OZzNYcF300Y), [Leonardo Catricala](https://open.spotify.com/artist/0uiuA9l78oEUdbda2Debls) | [Njt](https://open.spotify.com/album/5YOM7RDAd98X7bg8ICWDcY) | 5:08 | 2022-03-30 | 2022-04-27 |
 | [No Bees](https://open.spotify.com/track/2T3kNhepvaTmIBVnWRPl4E) | [Terence Thompson](https://open.spotify.com/artist/3wiyXYB9d1Od2Mg90F5UFv) | [No Bees](https://open.spotify.com/album/4fxCKeoByRN3g8OZINdyU8) | 3:04 | 2022-06-15 | 2022-07-14 |
-| [No Cynicism](https://open.spotify.com/track/0y3nDIVwtYpeZ0hFGHo5Rj) | [Clemens Kuratle](https://open.spotify.com/artist/0f9ftSpEqnxr6fnkHc9869), [Ydivide](https://open.spotify.com/artist/3Np5YMkfnPGcIbUQKcSrv7) | [No Cynicism](https://open.spotify.com/album/69tWOxYo0m6Sx95SYEhiSm) | 5:41 | 2022-08-03 |  |
+| [No Cynicism](https://open.spotify.com/track/0y3nDIVwtYpeZ0hFGHo5Rj) | [Clemens Kuratle](https://open.spotify.com/artist/0f9ftSpEqnxr6fnkHc9869), [Ydivide](https://open.spotify.com/artist/3Np5YMkfnPGcIbUQKcSrv7) | [No Cynicism](https://open.spotify.com/album/69tWOxYo0m6Sx95SYEhiSm) | 5:41 | 2022-08-03 | 2022-08-20 |
+| [No Cynicism](https://open.spotify.com/track/4CSvQVPH0QcuaxFaRfv1mP) | [Clemens Kuratle](https://open.spotify.com/artist/0f9ftSpEqnxr6fnkHc9869), [Ydivide](https://open.spotify.com/artist/3Qg38hRM2K8xAilNB4ajvM) | [Lumumba](https://open.spotify.com/album/6HzUSNZG2mz2CpwB7Nccog) | 5:41 | 2022-08-03 |  |
 | [No Goodbyes](https://open.spotify.com/track/60YQOHFo9twHyRTgqn30Xh) | [Doc City](https://open.spotify.com/artist/4wbtShauxgid3cgHpvL5aW) | [No Goodbyes](https://open.spotify.com/album/58YoLKTRFBsnLSUPljZQQR) | 4:50 | 2022-07-06 | 2022-08-04 |
 | [No Shade](https://open.spotify.com/track/03M5Iz8gx0YMCjm3iD90i9) | [Russell Favret](https://open.spotify.com/artist/0P8IOpX9JI9jXTRIMzmK0s) | [Inducer](https://open.spotify.com/album/1Q4z8rScBllE8dQlxbDnxQ) | 3:11 | 2022-08-17 |  |
 | [Nocturne III](https://open.spotify.com/track/4zqcY8Wn75x9a2CSTYhZ3q) | [Aakash Mittal](https://open.spotify.com/artist/3EHWbZqXsH6VtELzfG8Y7v), [Rajna Swaminathan](https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA), [Miles Okazaki](https://open.spotify.com/artist/4cLJzYoRo6frNabrvM9qGB) | [Nocturne](https://open.spotify.com/album/3qne6fqHYnKVRfYIyjXL9Y) | 7:43 | 2022-01-19 | 2022-02-17 |

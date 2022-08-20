@@ -2,9 +2,9 @@
 
 ### [Progressive Metal](https://open.spotify.com/playlist/37i9dQZF1DX5wgKYQVRARv)
 
-> Fresh and recent tracks from the world of Prog Metal\. Cover: Northlane
+> Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
 
-541 songs - 1 day 23 hr 11 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+542 songs - 1 day 23 hr 14 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Reclaim](https://open.spotify.com/track/4CYXS6XxPaqPdTOu7RApQ4) | [From Sorrow To Serenity](https://open.spotify.com/artist/2s4zBLzqaGlaBYzGG5G3Q5) | [Reclaim](https://open.spotify.com/album/3P8HJRzE1Awh92lXIZqsU0) | 3:16 | 2022-07-13 | 2022-07-29 |
 | [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 | 2022-01-28 |  |
 | [Remanence](https://open.spotify.com/track/71OQ9gOH6NUMLSBq2i1mfx) | [Dukkha](https://open.spotify.com/artist/7nyn1GFcq9woxZSQIYkNLi) | [Remanence](https://open.spotify.com/album/7mxcGyauyqgMX4YHzFP8nn) | 4:12 | 2021-12-17 | 2022-07-25 |
-| [Reprogram \- Single Version](https://open.spotify.com/track/5R8IEz7wqrbgTW2u8c52gU) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7) | [Reprogram](https://open.spotify.com/album/6VNdkapfDgOF42ZkB3kcRQ) | 4:26 | 2022-07-13 |  |
+| [Reprogram \- Single Version](https://open.spotify.com/track/5R8IEz7wqrbgTW2u8c52gU) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7) | [Reprogram](https://open.spotify.com/album/6VNdkapfDgOF42ZkB3kcRQ) | 4:26 | 2022-07-13 | 2022-08-20 |
 | [Reptile](https://open.spotify.com/track/6hWHGG68ZARHuuNTUvW8vg) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Reptile](https://open.spotify.com/album/1rqFnKswVUvYL5EjjME4Z4) | 3:44 | 2022-07-13 |  |
 | [Rest](https://open.spotify.com/track/4PKGtdh5xf04gf1b5OlXR2) | [Curses](https://open.spotify.com/artist/5Waz4LdRTkbyqfgladPHHk) | [Rest](https://open.spotify.com/album/5J1F9sJQetwCcdMU6VfEHM) | 4:03 | 2022-07-13 |  |
 | [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 | 2022-07-13 |  |
@@ -536,6 +536,7 @@
 | [What I Leave Behind](https://open.spotify.com/track/2jwKrSVn8L9FZmxwomwFNB) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Raging River](https://open.spotify.com/album/4AyosRz27DscmVHTLPpCM0) | 5:57 | 2021-12-17 | 2022-07-29 |
 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 | 2022-07-08 |  |
 | [Wheel](https://open.spotify.com/track/3AKdPJni2bJAdUDcfW3EGg) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Moving Backwards](https://open.spotify.com/album/3ljdaYc9YueusEqCmMv6yM) | 10:10 | 2021-12-17 | 2022-07-01 |
+| [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 | 2022-08-19 |  |
 | [Where August Mourns](https://open.spotify.com/track/4j1gGmXFQFoQ6duER3N6gg) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Where August Mourns](https://open.spotify.com/album/1Qsw63G6iAWD1pWEOOc3ou) | 5:31 | 2021-12-17 | 2022-07-29 |
 | [Where I Belong](https://open.spotify.com/track/3rJD4jqjvYUgM6F0LVSMWG) | [Anup Sastry](https://open.spotify.com/artist/0sCAofrHFyDFPxXA0B7a86), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta) | [Illuminate](https://open.spotify.com/album/5ZQOrK16Mv53eEE7LjGALS) | 5:04 | 2022-07-13 |  |
 | [Where the Pieces Lie](https://open.spotify.com/track/2CQEK2pBfdw3VRdyrIkh9S) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Where the Pieces Lie](https://open.spotify.com/album/08VNewqwl2RS99o4SVy2PX) | 3:59 | 2021-12-17 | 2022-07-01 |

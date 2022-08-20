@@ -4,7 +4,7 @@
 
 > 
 
-69 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
+70 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/1JkiUUejePFuSJkbCxiOta) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Close Your Eyes](https://open.spotify.com/album/3Em33jXolcIXpBUskbbSiQ) | 6:30 | 2022-02-16 | 2022-07-14 |
 | [Dear Gina](https://open.spotify.com/track/3GoL5HaRpCMpVrJhP1akfh) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Dear Gina](https://open.spotify.com/album/5eCcHgXBq66ckMzetu0VfJ) | 3:12 | 2022-03-31 |  |
 | [Defection](https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW) | 4:05 | 2022-03-04 |  |
-| [Deserve It](https://open.spotify.com/track/4I30X0g4MxH2BAW4RaHaxK) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [Deserve It](https://open.spotify.com/album/0YVo6K9Uw6oR3cvk55d2Pr) | 3:22 | 2022-07-13 |  |
+| [Deserve It](https://open.spotify.com/track/4I30X0g4MxH2BAW4RaHaxK) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [Deserve It](https://open.spotify.com/album/0YVo6K9Uw6oR3cvk55d2Pr) | 3:22 | 2022-07-13 | 2022-08-20 |
 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2022-01-18 | 2022-08-04 |
 | [Faint of Hearts](https://open.spotify.com/track/0CaOlIGjs5oZH8V7zzTEIb) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Human and Kind](https://open.spotify.com/album/6NVZcL5hrDcO3QlEC6Wy40) | 3:29 | 2022-03-25 | 2022-07-29 |
 | [Frisco](https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Frisco](https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4) | 3:42 | 2022-08-10 |  |
@@ -56,6 +56,7 @@
 | [Philip](https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Blind](https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26) | 4:21 | 2022-03-11 | 2022-07-21 |
 | [pour up](https://open.spotify.com/track/2nFiKmoQFJGGYCZBYw18aY) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [pour up](https://open.spotify.com/album/31E1hs0ugtNJTxgcnEhAx9) | 2:05 | 2022-06-02 | 2022-06-21 |
 | [Power \- Floorplan Remix \- Extended](https://open.spotify.com/track/4r4cj7swbafcn17Qhu5eb2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Power \(Floorplan Remix\)](https://open.spotify.com/album/7GcdVFM0oEkvAQqrP2LTHQ) | 6:05 | 2021-10-04 | 2022-06-15 |
+| [Ressaca](https://open.spotify.com/track/32Gt9yyt4yDKD8sVyGS1ig) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Ressaca](https://open.spotify.com/album/6XDY3vEmW4Y2FDrIEnaht5) | 3:25 | 2022-08-19 |  |
 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 | 2022-07-14 | 2022-08-17 |
 | [Shadow Dance](https://open.spotify.com/track/38XjbDDpMxZTzmA7eCbgaM) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Shadow Dance](https://open.spotify.com/album/6WOWUHCLX8C2tQYJwpc0p4) | 3:59 | 2022-07-21 | 2022-08-02 |
 | [Sliding Through Our Fingers](https://open.spotify.com/track/3LokxWAip3rF7vtclR5Ij4) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Sliding Through Our Fingers](https://open.spotify.com/album/5q6pItkhxFsXX5GZZU9QX2) | 3:28 | 2022-06-09 | 2022-06-30 |

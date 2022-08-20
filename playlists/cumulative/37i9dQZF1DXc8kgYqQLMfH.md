@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-572 songs - 21 hr 36 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+573 songs - 21 hr 38 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Palm Beach](https://open.spotify.com/track/7HSwYc1zmjCeQjmzgp6YtB) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 1:52 | 2021-11-10 |  |
 | [Paper Plane](https://open.spotify.com/track/7C3jWjgrThp6qP0KS6zZwy) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE) | [Paper Plane](https://open.spotify.com/album/4MAjQfYWQYYzkFaVrt7jGD) | 2:08 | 2021-11-10 |  |
 | [Pass It On](https://open.spotify.com/track/6W14nPKn5Xro5bg98uTM33) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Pass It On](https://open.spotify.com/album/50qapmoJ4j60haCzDTp9hX) | 2:15 | 2021-11-10 | 2022-07-22 |
+| [Pathways](https://open.spotify.com/track/7Bha2btgoPHzSwWwyzcTI8) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Pathways](https://open.spotify.com/album/7rmvsiZrRELGCaCIyestXt) | 1:58 | 2022-08-19 |  |
 | [Peace and Stone](https://open.spotify.com/track/4P3flpTrYtN1VcVuK4BhPf) | [Skyplanter](https://open.spotify.com/artist/7iaPZbKQSJ5Sw9ThZNfJw7) | [Equivalence](https://open.spotify.com/album/63yQb9VeujB0rdz1m4g5jb) | 2:43 | 2021-11-10 |  |
 | [Peace of Mind](https://open.spotify.com/track/6HlU3FOBkfvp0ZHjb3wtyk) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Peace of Mind](https://open.spotify.com/album/2NFy87ep1fU7anUIswd6c3) | 2:49 | 2022-04-15 |  |
 | [Pearl Dust](https://open.spotify.com/track/4HhZZZAtRufBXnJyPtf7uB) | [florentine](https://open.spotify.com/artist/7FLMLV8T9qJOkzGZArUAns) | [Pearl Dust](https://open.spotify.com/album/6CEev0dBhWl5ed27yrBEOL) | 2:28 | 2021-11-10 |  |

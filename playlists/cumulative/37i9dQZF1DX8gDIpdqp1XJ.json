@@ -448,6 +448,32 @@
     },
     {
       "album": {
+        "name": "ANTIGRAVITY",
+        "url": "https://open.spotify.com/album/5MvHUtsrb6kYAQGP6deljn"
+      },
+      "artists": [
+        {
+          "name": "KUNZITE",
+          "url": "https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO"
+        },
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Ratatat",
+          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113073,
+      "name": "ANTIGRAVITY",
+      "url": "https://open.spotify.com/track/1lSG3Ge7N03xw9HPaYOjSR"
+    },
+    {
+      "album": {
         "name": "Any Hour",
         "url": "https://open.spotify.com/album/5JlQub3PCeoNb1hiUxx5Qi"
       },
@@ -1030,6 +1056,24 @@
     },
     {
       "album": {
+        "name": "Freakout/Release",
+        "url": "https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2"
+    },
+    {
+      "album": {
         "name": "Broken Boy (feat. Iggy Pop)",
         "url": "https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt"
       },
@@ -1139,7 +1183,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 276386,
       "name": "California",
       "url": "https://open.spotify.com/track/2JquuHosB2mPp8wuUSc6Yl"
@@ -3772,6 +3816,28 @@
     },
     {
       "album": {
+        "name": "VISUALS",
+        "url": "https://open.spotify.com/album/0zoanXJYpaFO0jND1HzAti"
+      },
+      "artists": [
+        {
+          "name": "KUNZITE",
+          "url": "https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO"
+        },
+        {
+          "name": "Ratatat",
+          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "HALOHEAD",
+      "url": "https://open.spotify.com/track/5ExI57hQ9irAstrGiyOnY6"
+    },
+    {
+      "album": {
         "name": "Anemoia",
         "url": "https://open.spotify.com/album/0P65IoBOZZ36tbKMfUwILD"
       },
@@ -4075,7 +4141,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 259146,
       "name": "Howl With Me",
       "url": "https://open.spotify.com/track/2m9x2CsVhMXQZW0LtBKeZk"
@@ -9513,7 +9579,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 180931,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/1zydSwU6v1IHHYeb58c3YB"

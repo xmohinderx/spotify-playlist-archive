@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 739494,
       "name": "bladelores",
       "url": "https://open.spotify.com/track/0z5NOndJF0DHq6GizOZjUT"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 279266,
       "name": "C/Pach",
       "url": "https://open.spotify.com/track/2GpAHcnQig6GvqDa9IPmgD"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 299000,
       "name": "Ccec",
       "url": "https://open.spotify.com/track/1ePOfkd5LewY9vzuh5dBOs"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 612683,
       "name": "cloudline",
       "url": "https://open.spotify.com/track/3Q0IL8QISH9jsChlpj81Yp"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 196600,
       "name": "Dropp",
       "url": "https://open.spotify.com/track/2dr40Mh5nBfFj3U2qKrs1e"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 542106,
       "name": "Eggshell",
       "url": "https://open.spotify.com/track/2YS5BqGuQwXbDvCn5U8I0e"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 372423,
       "name": "Eidetic Casein",
       "url": "https://open.spotify.com/track/3lEObWPuJFtiNMwOW5EYTo"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 295976,
       "name": "esc desc",
       "url": "https://open.spotify.com/track/4WOwxNRtErpf5sWuvWvGVu"
@@ -689,6 +689,24 @@
       "duration_ms": 356813,
       "name": "F7",
       "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
+    },
+    {
+      "album": {
+        "name": "Exai",
+        "url": "https://open.spotify.com/album/0vczEfoTXdjFAERCLMrc0Z"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291394,
+      "name": "Fleure",
+      "url": "https://open.spotify.com/track/2Y0LL2wjpdLxomPVfVMQ3w"
     },
     {
       "album": {
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 583493,
       "name": "Goz Quarter",
       "url": "https://open.spotify.com/track/46JTyfTCo1RY0JCRqGj1zD"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 597240,
       "name": "Ipacial Section",
       "url": "https://open.spotify.com/track/6CWoiavul0eaq8zxxM5yx5"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 290760,
       "name": "IV VV IV VV VIII",
       "url": "https://open.spotify.com/track/76sIBl70yLrhg15WskuACE"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 282560,
       "name": "known(1)",
       "url": "https://open.spotify.com/track/3D4MFqv1yjHj2YTZ8ViktH"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 425173,
       "name": "Laughing Quarter",
       "url": "https://open.spotify.com/track/5n0itD2BWyKbh1dUlRq0PJ"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 428106,
       "name": "Leterel",
       "url": "https://open.spotify.com/track/0yLJpvsw4LWBvUcyAb7hBt"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 392933,
       "name": "Maetl",
       "url": "https://open.spotify.com/track/4eR5H2yPKHqiYNkkyNaB2c"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 220200,
       "name": "Nine",
       "url": "https://open.spotify.com/track/7FR8DdPrRieZexZQaGDRWU"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 453466,
       "name": "Overand",
       "url": "https://open.spotify.com/track/0PmrE6p9m2cQJNb0IITqke"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 480533,
       "name": "Piezo",
       "url": "https://open.spotify.com/track/3CfCnydtVUfmXgogGIDzGc"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 211906,
       "name": "Pir",
       "url": "https://open.spotify.com/track/6Y1rwwVQz7dGfZxU9AFp9l"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 465493,
       "name": "Second Scout",
       "url": "https://open.spotify.com/track/7kGpCKuJUUkNLGJ8uIKXHG"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 434553,
       "name": "Sim Gishel",
       "url": "https://open.spotify.com/track/5iliZ1RSIVXvdg9xxMdvG4"
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 580866,
       "name": "Stud",
       "url": "https://open.spotify.com/track/6AqxYCmYLvFZdIdUL6igOY"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 515331,
       "name": "Uviol",
       "url": "https://open.spotify.com/track/6mHyJgsF4kRUqr9f4Kuab2"

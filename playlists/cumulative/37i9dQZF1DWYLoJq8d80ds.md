@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: AHYRE.
 
-120 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+121 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Navidad y Año Nuevo](https://open.spotify.com/track/60SbkLG67htrmPIUDWv68D) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Navidad y Año Nuevo](https://open.spotify.com/album/1HRNGUWQDfazHryTekdgpN) | 2:24 | 2021-12-31 | 2022-07-02 |
 | [No Te Vayas Carnaval](https://open.spotify.com/track/4P1iwTp5ZqynYoV4X1GQx4) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Jorge Rojas](https://open.spotify.com/album/4Zu0dRK3MZLBOdKr5cM70J) | 4:00 | 2021-12-31 |  |
 | [Noctilucado](https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Noctilucado](https://open.spotify.com/album/7crNDxDK2sO3bp9hs1JTxw) | 2:45 | 2021-12-31 | 2022-05-14 |
+| [Nuestras Flores](https://open.spotify.com/track/6wk1i2Wi2eYX4YjPoGnljA) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Nuestras Flores](https://open.spotify.com/album/6DE4XqVKpCNKf59JvyIcRE) | 4:29 | 2022-08-19 |  |
 | [Otra Vez en el Camino](https://open.spotify.com/track/7gnHVe6Juc2SFsc8UHvu7g) | [Pachi Herrera](https://open.spotify.com/artist/6dwTZmpwSlHawmTFTe5fRV) | [Otra Vez en el Camino](https://open.spotify.com/album/0oQTK9F6643YJRCNlPWc4C) | 2:53 | 2021-12-31 |  |
 | [Peregrinos](https://open.spotify.com/track/2w1rq3ysjtTcdavtECYLxE) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:02 | 2022-07-01 |  |
 | [Peregrinos](https://open.spotify.com/track/6zkFyFTX1jVxrd8s1cpa9A) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO) | 3:02 | 2021-12-31 | 2022-07-29 |

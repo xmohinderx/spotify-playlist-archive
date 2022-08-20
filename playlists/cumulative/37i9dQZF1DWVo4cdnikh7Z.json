@@ -880,6 +880,36 @@
     },
     {
       "album": {
+        "name": "Chola Chola (From \"Ponniyin Selvan Part -1\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5uCYqYEE1chVUqhmYhwUhP"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "VM Mahalingam",
+          "url": "https://open.spotify.com/artist/3qjzGkAGKsCkJOieWWRz8k"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219638,
+      "name": "Chola Chola (From \"Ponniyin Selvan Part -1\")",
+      "url": "https://open.spotify.com/track/57IXQJZFawJUwC2PCKn56Y"
+    },
+    {
+      "album": {
         "name": "Coka 2.0 [From \"Liger (Tamil)\"]",
         "url": "https://open.spotify.com/album/6WoGzYPpVj1NpPcBrc8O1R"
       },
@@ -1717,7 +1747,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 260333,
       "name": "Jallikattu Kale Mama - From \"Gethule\"",
       "url": "https://open.spotify.com/track/0Kj67iwAkyzaedkiX1pmDM"

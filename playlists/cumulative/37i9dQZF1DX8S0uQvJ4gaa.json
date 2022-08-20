@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Maddie & Tae",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Kolby Cooper",
   "name": "New Boots",
   "published_playlist_ids": [
     "4GYziq6IZSItn9f84k0CzJ"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 174721,
       "name": "35\u2019s",
       "url": "https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO"
@@ -4679,6 +4679,24 @@
       "duration_ms": 199000,
       "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ"
+    },
+    {
+      "album": {
+        "name": "Dancin' In The Country",
+        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179645,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
     },
     {
       "album": {
@@ -14484,6 +14502,24 @@
     },
     {
       "album": {
+        "name": "Marry That Girl",
+        "url": "https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp"
+      },
+      "artists": [
+        {
+          "name": "Easton Corbin",
+          "url": "https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Marry That Girl",
+      "url": "https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB"
       },
@@ -14495,7 +14531,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 247446,
       "name": "Maybe In Another Life",
       "url": "https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS"
@@ -16213,6 +16249,24 @@
       "duration_ms": 220892,
       "name": "Nightfalls",
       "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
+    },
+    {
+      "album": {
+        "name": "No Body",
+        "url": "https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx"
     },
     {
       "album": {

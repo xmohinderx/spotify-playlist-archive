@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,952 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,977 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [LÅTSAS SOM ATT ALLT ÄR BRA](https://open.spotify.com/track/3jUz8mlxuxFe8sZPbg0jrK) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [LÅTSAS SOM ATT ALLT ÄR BRA](https://open.spotify.com/album/3L9f425mm6DIzpIC1LIC8B) | 2:42 |
 | 100 | [Vad har du gjort](https://open.spotify.com/track/222DxaxvpiumRDT0xVM6Vj) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Vad har du gjort](https://open.spotify.com/album/6IIPIjFlZXZGJ4tMLSdGmz) | 3:11 |
 
-Snapshot ID: `MTY2MDI1NTI2MCwwMDAwMDAwMDVkZWVkMjk3M2ZkZTliZDNhNDAxYWQ1MmIyYWQyMDll`
+Snapshot ID: `MTY2MDkwOTcyOCwwMDAwMDAwMDJhNWM1ZDU5MWZmZDhmNjM4Y2RhMTJjNTczNzg1Y2Mz`

@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 160453,
       "name": "ELEVATOR FLOW",
       "url": "https://open.spotify.com/track/0OlADwDq7CuXr4vBRSe9Ii"
@@ -2319,6 +2319,28 @@
       "duration_ms": 186785,
       "name": "Matrix<3",
       "url": "https://open.spotify.com/track/1fVA0U2ed6LhGC9ADynsJ7"
+    },
+    {
+      "album": {
+        "name": "Summer Soundcloud",
+        "url": "https://open.spotify.com/album/03aZUdnQGIb9bnp2kY7d7X"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "Samuel Seo",
+          "url": "https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276250,
+      "name": "Melting Point (Feat. Samuel Seo)",
+      "url": "https://open.spotify.com/track/0RaxRKVWQTnZ31L4LfUGXt"
     },
     {
       "album": {

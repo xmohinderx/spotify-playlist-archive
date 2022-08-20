@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-218 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/3DsOFDYX7Pe6GJzMeJ9QUl)
+219 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/3DsOFDYX7Pe6GJzMeJ9QUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 | 2022-03-11 |  |
 | [96 Lagrimas](https://open.spotify.com/track/00KMOWuq9s94Nbv3PXKRUB) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:27 | 2021-09-03 | 2022-07-29 |
 | [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A Go\-Go](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 | 2021-09-03 | 2022-08-17 |
-| [Acapulco Golden](https://open.spotify.com/track/0GipqaZSPznaEikzGgygwb) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 2:27 | 2021-09-03 |  |
+| [Acapulco Golden](https://open.spotify.com/track/0GipqaZSPznaEikzGgygwb) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 2:27 | 2021-09-03 | 2022-08-20 |
 | [Acapulco Golden](https://open.spotify.com/track/27ytIflM3JBuOEO8cz16XK) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua) | 2:27 | 2021-09-03 | 2022-07-29 |
 | [Agente Naranja](https://open.spotify.com/track/5OuGBKgNoJKbAuCVf8QoJM) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [The Return of the Champiñons](https://open.spotify.com/album/5GWNXyFe76ENUIcpXhSHcp) | 2:12 | 2021-09-03 | 2022-07-22 |
 | [Agua de Coyote](https://open.spotify.com/track/2xW1jk47KCg0VNjCSAODW5) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Agua de Coyote](https://open.spotify.com/album/68Ibb9pQbFCpJyHpkxEVBK) | 2:40 | 2021-09-03 | 2022-07-25 |
@@ -129,6 +129,7 @@
 | [Magneto](https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [The Incredible Crocotiger](https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P) | 2:50 | 2021-09-03 |  |
 | [Mala Influencia](https://open.spotify.com/track/1yzoFk7CkO01YSC3GWi5Z1) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx), [Mario Cobo](https://open.spotify.com/artist/4Wq5nHO913AYYjcuHr59ML), [Dani Nel\-lo](https://open.spotify.com/artist/4pYQYbMal0JjX4kwmGgGdd) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:27 | 2021-09-03 |  |
 | [Mar de Caca](https://open.spotify.com/track/5WxA2mR2wBnPXOvpRFkOXk) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes o No Puedes!](https://open.spotify.com/album/2Sdc8wuXkFxcNyZ9jjdqNL) | 3:34 | 2021-09-03 |  |
+| [Maremoto Shake](https://open.spotify.com/track/0mcyq6bCHGF08smeC1B72k) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Maremoto Shake](https://open.spotify.com/album/0bPZLplqluqn69ynqcyye9) | 3:03 | 2022-08-19 |  |
 | [Mavericks](https://open.spotify.com/track/0d2nwq8bTVzvHzx60A0IP7) | [Los Kahunas](https://open.spotify.com/artist/7BaYvs3P41031o3edkXrce) | [El Fantastico Sonido Surf & Hot Rod de los Kahunas](https://open.spotify.com/album/4AR2Ig1ZjyMxfyske9Ohak) | 2:22 | 2021-09-03 | 2022-07-22 |
 | [Metralleta](https://open.spotify.com/track/3L7RYCRoKOnqsgDL9cXdUD) | [Acuario Cosmico](https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY) | [Metralleta](https://open.spotify.com/album/5nY5psozTUXskeoczm947N) | 2:35 | 2021-09-03 | 2022-07-06 |
 | [Miradas de Amor](https://open.spotify.com/track/4V69bmJHHOcWctu9BroqW0) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/0eyG4OGP4qQdEAI7jchSgv) | 2:58 | 2021-09-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW?si=GvVFSOdGRW63e9q6\_EcfKg">Jux</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,441 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,450 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 33 | [Oga](https://open.spotify.com/track/08VqaGj8UrSeO6QeYAwdY2) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u) | [Oga](https://open.spotify.com/album/4ikCqtLjgppUAO0b5mpCN5) | 3:19 |
 | 34 | [AMAPIANO](https://open.spotify.com/track/2M1wKgqxbloFNr8WjVi9OM) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [AMAPIANO](https://open.spotify.com/album/2B4Y7IGYppG4Z6jovbuZK8) | 2:29 |
 | 35 | [OCEAN \- GuiltyBeatz Remix](https://open.spotify.com/track/0R1LtMkJJxzE1cwKjwemkG) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [OCEAN \(GuiltyBeatz Remix\)](https://open.spotify.com/album/1jlNrH2DpKVDFGKUWtjoQz) | 4:06 |
-| 36 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 |
+| 36 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 |
 | 37 | [Tembisa](https://open.spotify.com/track/1OdNCZD8SfPpXcDfwg0OMk) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Tembisa](https://open.spotify.com/album/0Rt6K8G2SbuCmjncX7B5lw) | 5:25 |
 | 38 | [Nobody \(Amapiano\)](https://open.spotify.com/track/7bwMgt5a2vGunZbqfQGYSN) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Nobody \(Amapiano\)](https://open.spotify.com/album/4p6H3XZEwl7qObMSQwhioa) | 3:50 |
 | 39 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 |

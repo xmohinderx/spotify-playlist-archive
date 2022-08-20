@@ -1078,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "CARD GAME",
+        "url": "https://open.spotify.com/album/6VcdnEDpc3OM2ENUcwJenM"
+      },
+      "artists": [
+        {
+          "name": "$wish",
+          "url": "https://open.spotify.com/artist/73JusrUm8Gs0Gy2AZu7G9f"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125705,
+      "name": "CARD GAME",
+      "url": "https://open.spotify.com/track/3YKo7QTJ3wTM8411bE7qXT"
+    },
+    {
+      "album": {
         "name": "CARS & KINNAS, Pt. 2",
         "url": "https://open.spotify.com/album/1mWy3DW2vC1UH4qyJXck7Y"
       },

@@ -1,13 +1,53 @@
 {
   "description": "Chilled R&B jams for your most relaxed moods.",
-  "num_followers": 2261668,
+  "num_followers": 2261940,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzgzNCwwMDAwMDAwMDMxYjM5ZDhjNjVhMmVkNmI2M2VjMmNjYTVmN2VhZTI2",
+  "snapshot_id": "MTY2MDg4MjU1MywwMDAwMDAwMGIyN2FmNDFhMGVjNTBjNGE1NjVmMGY2MmExMWE5MGI5",
   "tracks": [
+    {
+      "added_at": "2022-08-19 04:15:53",
+      "album": {
+        "name": "R&B MONEY",
+        "url": "https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "See Through Love (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH"
+    },
+    {
+      "added_at": "2022-07-08 20:50:37",
+      "album": {
+        "name": "Good Morning Gorgeous",
+        "url": "https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 139630,
+      "name": "Here With Me (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/43VYKBAP5U88u4dkCxvTqV"
+    },
     {
       "added_at": "2022-07-29 04:10:34",
       "album": {
@@ -23,6 +63,26 @@
       "duration_ms": 254319,
       "name": "PLASTIC OFF THE SOFA",
       "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
+    },
+    {
+      "added_at": "2022-07-22 04:02:14",
+      "album": {
+        "name": "BEFORE WE GO (DEEPER)",
+        "url": "https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT"
+      },
+      "artists": [
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 210379,
+      "name": "CALI LOVE (feat. Ambr\u00e9)",
+      "url": "https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3"
     },
     {
       "added_at": "2022-05-19 23:49:06",
@@ -47,26 +107,6 @@
     {
       "added_at": "2022-07-08 20:50:37",
       "album": {
-        "name": "Good Morning Gorgeous",
-        "url": "https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 139630,
-      "name": "Here With Me (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/43VYKBAP5U88u4dkCxvTqV"
-    },
-    {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
         "name": "Body (EP)",
         "url": "https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p"
       },
@@ -81,24 +121,56 @@
       "url": "https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec"
     },
     {
-      "added_at": "2022-07-22 04:02:14",
+      "added_at": "2022-08-19 04:15:53",
       "album": {
-        "name": "BEFORE WE GO (DEEPER)",
-        "url": "https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT"
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
       },
       "artists": [
         {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+          "name": "KWAYE",
+          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
         }
       ],
-      "duration_ms": 210379,
-      "name": "CALI LOVE (feat. Ambr\u00e9)",
-      "url": "https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3"
+      "duration_ms": 182026,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
+    },
+    {
+      "added_at": "2022-08-19 04:15:53",
+      "album": {
+        "name": "Torn Tapestries",
+        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Heartburn (Sooibrand)",
+      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
+    },
+    {
+      "added_at": "2022-07-29 04:10:34",
+      "album": {
+        "name": "TAKE A CHANCE (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 264412,
+      "name": "TAKE A CHANCE (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
     },
     {
       "added_at": "2022-07-08 20:50:37",
@@ -133,26 +205,6 @@
       "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
     },
     {
-      "added_at": "2022-07-29 04:10:34",
-      "album": {
-        "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
-      },
-      "artists": [
-        {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 264412,
-      "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
-    },
-    {
       "added_at": "2022-07-08 20:50:37",
       "album": {
         "name": "Hello Poison",
@@ -171,6 +223,54 @@
       "duration_ms": 255053,
       "name": "The Mood (feat. D Smoke)",
       "url": "https://open.spotify.com/track/6qrKGpH3OFoob1JbCibDn0"
+    },
+    {
+      "added_at": "2022-08-19 04:15:53",
+      "album": {
+        "name": "Sweet Heat",
+        "url": "https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd"
+      },
+      "artists": [
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub"
+    },
+    {
+      "added_at": "2022-08-19 04:15:53",
+      "album": {
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq"
+      },
+      "artists": [
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 213381,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg"
+    },
+    {
+      "added_at": "2022-08-19 04:15:53",
+      "album": {
+        "name": "If I Died",
+        "url": "https://open.spotify.com/album/74vj8o08T2hZRTCr16WBla"
+      },
+      "artists": [
+        {
+          "name": "Eddy Luna",
+          "url": "https://open.spotify.com/artist/7gnObZHxWlF5E82KGlKHMM"
+        }
+      ],
+      "duration_ms": 218432,
+      "name": "If I Died",
+      "url": "https://open.spotify.com/track/5RnBLK6r3sUBZlSCokuoVE"
     },
     {
       "added_at": "2022-07-15 04:03:55",
@@ -209,40 +309,24 @@
       "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
     },
     {
-      "added_at": "2022-07-08 20:50:37",
+      "added_at": "2022-08-19 04:15:53",
       "album": {
-        "name": "Life Is Good (feat. Scribz Riley)",
-        "url": "https://open.spotify.com/album/6rdfmpRVrUn1B7Q8rSCHZj"
+        "name": "Coastin'",
+        "url": "https://open.spotify.com/album/5yoCMolsZFuzsrWK8LAKin"
       },
       "artists": [
         {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         },
         {
-          "name": "Scribz Riley",
-          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
         }
       ],
-      "duration_ms": 197260,
-      "name": "Life Is Good (feat. Scribz Riley)",
-      "url": "https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir"
-    },
-    {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 226011,
-      "name": "LOOSE CHANGE",
-      "url": "https://open.spotify.com/track/00imgaPlYRrMGn9o83hfmk"
+      "duration_ms": 220680,
+      "name": "Coastin' [Feat. Lalah Hathaway]",
+      "url": "https://open.spotify.com/track/5vsi5OWrEj1J3MFzKD5GTJ"
     },
     {
       "added_at": "2022-07-22 04:02:14",
@@ -281,20 +365,60 @@
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
-      "added_at": "2022-07-15 04:03:55",
+      "added_at": "2022-08-19 04:15:53",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+        "name": "R&B MONEY",
+        "url": "https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 180401,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/0I6PjTwqXQlsJYwwBMP1sQ"
+      "duration_ms": 206868,
+      "name": "No Limit (feat. Alex Isley)",
+      "url": "https://open.spotify.com/track/70Jf2erjhNmTSjgw1b0qrY"
+    },
+    {
+      "added_at": "2022-07-08 20:50:37",
+      "album": {
+        "name": "Life Is Good (feat. Scribz Riley)",
+        "url": "https://open.spotify.com/album/6rdfmpRVrUn1B7Q8rSCHZj"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+        }
+      ],
+      "duration_ms": 197260,
+      "name": "Life Is Good (feat. Scribz Riley)",
+      "url": "https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir"
+    },
+    {
+      "added_at": "2022-07-08 20:50:37",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "LOOSE CHANGE",
+      "url": "https://open.spotify.com/track/00imgaPlYRrMGn9o83hfmk"
     },
     {
       "added_at": "2022-05-19 23:49:06",
@@ -311,6 +435,38 @@
       "duration_ms": 258500,
       "name": "Marvin Gaye",
       "url": "https://open.spotify.com/track/4aZPzveVY9PjYAbifcal0v"
+    },
+    {
+      "added_at": "2022-07-15 04:03:55",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 273786,
+      "name": "Give You the World",
+      "url": "https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN"
+    },
+    {
+      "added_at": "2022-08-19 04:15:53",
+      "album": {
+        "name": "Can I Call You Rose?",
+        "url": "https://open.spotify.com/album/2VFqugtU9c8GQwvhYgm7FX"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 188512,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/6tXuf3jm5wxrMPtvXREYoE"
     },
     {
       "added_at": "2022-07-22 04:02:14",
@@ -393,6 +549,26 @@
       "url": "https://open.spotify.com/track/5cyQOgAlJrY2idaIoC4Dzp"
     },
     {
+      "added_at": "2022-08-19 04:15:53",
+      "album": {
+        "name": "DNA (Live)",
+        "url": "https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN"
+      },
+      "artists": [
+        {
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
+        },
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "DNA - Live",
+      "url": "https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P"
+    },
+    {
       "added_at": "2022-07-22 14:11:02",
       "album": {
         "name": "b l u r r",
@@ -423,22 +599,6 @@
       "duration_ms": 164163,
       "name": "pieces",
       "url": "https://open.spotify.com/track/5tnpSQClW40rHRfMvCqijS"
-    },
-    {
-      "added_at": "2022-07-15 04:03:55",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 273786,
-      "name": "Give You the World",
-      "url": "https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN"
     },
     {
       "added_at": "2022-07-08 20:50:37",

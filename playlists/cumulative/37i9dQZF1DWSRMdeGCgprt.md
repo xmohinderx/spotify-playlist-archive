@@ -4,7 +4,7 @@
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-32 songs - 1 hr 53 min - [published](https://open.spotify.com/playlist/5rW6Jls37bSKk3xmMYdx8M)
+33 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/5rW6Jls37bSKk3xmMYdx8M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Flexin](https://open.spotify.com/track/2XW0n3POGQ9D2no2dBZgRO) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Last Daze Of Summer](https://open.spotify.com/album/43s6lCKf5fKnM9xPNQQzeI) | 3:16 | 2022-07-29 |  |
 | [Flexin](https://open.spotify.com/track/4ZzVCjVBqXPpHF4rmTCgUZ) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Last Daze Of Summer](https://open.spotify.com/album/4SVyTuwC7UYjXK46AAkr1t) | 3:16 | 2017-02-27 | 2022-07-29 |
 | [Free Your Dreams](https://open.spotify.com/track/178AbRn6r8VfoXkQoM7Fxd) | [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Journey To Golden](https://open.spotify.com/album/4dsm6YwxGrVD0Gncxm5o2c) | 4:59 | 2017-02-27 | 2022-07-29 |
-| [Free Your Dreams](https://open.spotify.com/track/7zTnlgGkXV0RucjuPmbn44) | [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR), [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Journey To Golden](https://open.spotify.com/album/2FzgU4cRVqYl6yrsj9Ya5z) | 4:59 | 2022-07-29 |  |
+| [Free Your Dreams](https://open.spotify.com/track/5PnU3hbaqWlZDRib6iXcH2) | [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR), [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Journey to Golden](https://open.spotify.com/album/6rW9csriPeZWsegHMOhpAh) | 4:59 | 2022-08-20 |  |
+| [Free Your Dreams](https://open.spotify.com/track/7zTnlgGkXV0RucjuPmbn44) | [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR), [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Journey To Golden](https://open.spotify.com/album/2FzgU4cRVqYl6yrsj9Ya5z) | 4:59 | 2022-07-29 | 2022-08-20 |
 | [Frustrated](https://open.spotify.com/track/1N5j9dRZ3foNWwU4Zp0pbq) | [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Frustrated](https://open.spotify.com/album/22I1D0zjOvt3oz5xmot6Ab) | 3:21 | 2017-02-27 | 2022-07-29 |
 | [Frustrated](https://open.spotify.com/track/5Ny3wPkBqfpmDxuifn4s8s) | [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Frustrated](https://open.spotify.com/album/0ewxQHdl5Jc5VVsBbyh3nZ) | 3:21 | 2022-07-29 |  |
 | [Good As Hell](https://open.spotify.com/track/6uAm7pG66O1XesXS9bpHSF) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Good As Hell](https://open.spotify.com/album/5PMpdvn38HScK6IuLniRep) | 2:39 | 2017-02-27 | 2022-07-29 |

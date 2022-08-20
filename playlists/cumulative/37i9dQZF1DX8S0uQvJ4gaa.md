@@ -2,9 +2,9 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about\. Try it on for size\. Cover: Maddie & Tae
+> New Music Discovery is what we're about\. Try it on for size\. Cover: Kolby Cooper
 
-1,437 songs - 3 day 5 hr 53 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
+1,440 songs - 3 day 6 hr 2 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2021-09-11 | 2021-10-16 |
 | [24](https://open.spotify.com/track/520NKSFkKbELWUV5XQfIG9) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [24](https://open.spotify.com/album/5T9VoZ9HYeDUhlr7NTjHfH) | 3:03 | 2021-11-06 | 2022-03-05 |
 | [29](https://open.spotify.com/track/3VGGcNF0O9loBSuLveZEUU) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:42 | 2021-02-20 | 2021-03-14 |
-| [35’s](https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [35's](https://open.spotify.com/album/0aQPvZHQLSNQhDhYvfnw0a) | 2:54 | 2022-06-24 |  |
+| [35’s](https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [35's](https://open.spotify.com/album/0aQPvZHQLSNQhDhYvfnw0a) | 2:54 | 2022-06-24 | 2022-08-20 |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-05-20 | 2022-06-18 |
 | [7 Summers](https://open.spotify.com/track/0Z0kNthq0sS4lvGz9SSlBF) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [7 Summers](https://open.spotify.com/album/35zHXkjCkrJFy7x2C2zUvn) | 3:30 | 2020-08-15 | 2020-09-12 |
 | [7500 OBO](https://open.spotify.com/track/2zn64NprLPz53lPcHSO06Q) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth \(Ultimate Edition\)](https://open.spotify.com/album/5kNJYMb1mTyoqKx1tBTt53) | 3:41 | 2021-09-04 | 2021-11-20 |
@@ -259,6 +259,7 @@
 | [DANCE WITH ME](https://open.spotify.com/track/6Zr5csmEC3PQMRnWlF76y2) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [DANCE WITH ME](https://open.spotify.com/album/17aWANdxglWQC89jWDDugC) | 3:38 | 2020-10-10 | 2020-12-06 |
 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6AoHQqGnuwFk9ygWhzLRws) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:50 | 2020-06-14 | 2020-07-04 |
 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 | 2022-06-10 | 2022-07-30 |
+| [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2022-08-19 |  |
 | [Dangerous](https://open.spotify.com/track/1MX19fnaW1OUQoglWTYaOo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:27 | 2021-01-16 | 2021-02-04 |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 | 2022-03-18 | 2022-04-23 |
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-02-04 | 2022-06-25 |
@@ -788,7 +789,8 @@
 | [Man Enough Now \- Radio Edit](https://open.spotify.com/track/5ZcGhTRoqRvN5RoWW1MRg3) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Man Enough Now](https://open.spotify.com/album/0NfZ6OpnTi7tOi97Jw2rPx) | 3:04 | 2019-10-21 | 2020-02-18 |
 | [Man Made](https://open.spotify.com/track/78W8I06nYAyZtjrlZcPptU) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Man Made](https://open.spotify.com/album/6DIfNNLkwspcD82lM2yaU8) | 3:05 | 2022-04-29 |  |
 | [Man That Hung The Moon](https://open.spotify.com/track/6l4sjMjVl9tOjFqLDK5nvl) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Man That Hung The Moon](https://open.spotify.com/album/6eKcrMO3unD4AWfDv8U9Wk) | 3:30 | 2019-06-15 | 2019-06-23 |
-| [Maybe In Another Life](https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB) | 4:07 | 2022-04-08 |  |
+| [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-08-19 |  |
+| [Maybe In Another Life](https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB) | 4:07 | 2022-04-08 | 2022-08-20 |
 | [Me About Me](https://open.spotify.com/track/7F0fPQWt7E2jjreRSZOdna) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Me About Me](https://open.spotify.com/album/7c4rtMfqOp3DV8wvEhPRRT) | 2:46 | 2020-07-04 | 2020-09-28 |
 | [Me Again](https://open.spotify.com/track/6AlFJsBaTBBJhl1GeMK6E9) | [Karen Waldrup](https://open.spotify.com/artist/6N6LriP68QWmbAw1LEsKXa), [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Me Again](https://open.spotify.com/album/1DQdF8TmtkUHk4dRmNeS4O) | 3:25 | 2019-11-09 | 2019-12-14 |
 | [Me And Jack](https://open.spotify.com/track/2WihsFolsDdCQuzTULN3Yc) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Me And Jack](https://open.spotify.com/album/7r8cDmr9uO22qvpR8IaWhS) | 4:51 | 2019-07-21 | 2019-07-28 |
@@ -882,6 +884,7 @@
 | [Nice Guy](https://open.spotify.com/track/1sDVtnHgFH8wo6eTkiiuWk) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Nice Guy](https://open.spotify.com/album/46e43yMKebujshCJdBW3wF) | 2:50 | 2020-08-08 | 2020-08-30 |
 | [Night Lights](https://open.spotify.com/track/1jgD0qqYoZJX6ajbejN9sg) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Night Lights](https://open.spotify.com/album/0dKYIBiFsEftQiLahvzDkh) | 2:43 | 2019-05-26\* | 2019-07-06 |
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2022-04-01 | 2022-06-25 |
+| [No Body](https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [No Body](https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ) | 3:07 | 2022-08-19 |  |
 | [No Brakes](https://open.spotify.com/track/1GEJquCFZs3Wu9g3WdqJMa) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [No Brakes](https://open.spotify.com/album/0K9jNTlUhNZqI8Z03hMoQT) | 2:37 | 2020-06-14 | 2020-07-25 |
 | [No Hard Feelings](https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 3:11 | 2021-11-20 | 2022-02-12 |
 | [No I in Beer](https://open.spotify.com/track/5UMjPT47GpOwkUo6e99R3s) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [No I in Beer](https://open.spotify.com/album/2qTiPM68z9kbAcDPVqNyoG) | 3:36 | 2020-04-18 | 2020-06-29 |

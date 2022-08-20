@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Nothing but the best modern country music\. Cover: Steven Lee Olsen
+> Nothing but the best modern country music\. Cover: Tyler Hubbard
 
-278 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
+280 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | ['Til You Can't](https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:44 | 2021-12-31 |  |
 | [11 Beers \(feat\. Jake Owen\)](https://open.spotify.com/track/6R7nxAdrHuQXHGRrDc9Rit) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [11 Beers \(feat\. Jake Owen\)](https://open.spotify.com/album/0NMpxcd0QLTrDqJ9bb58Qw) | 3:24 | 2022-03-11 |  |
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2021-12-31 | 2022-06-25 |
-| [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-05-20 |  |
+| [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-05-20 | 2022-08-20 |
 | [7500 OBO](https://open.spotify.com/track/7A4WmJcWx6KrVRfQ2CP8e7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 3:41 | 2021-12-31 |  |
 | [AA](https://open.spotify.com/track/6aIrXGmaFqPafbYgxbMUsj) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 3:09 | 2022-01-21 | 2022-01-29 |
 | [Ain't Enough Cowboy](https://open.spotify.com/track/5nv48Y830DcU2KoreKAXoL) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 2:36 | 2022-04-22 |  |
@@ -51,7 +51,7 @@
 | [Closest Ocean](https://open.spotify.com/track/3ghKywq6om9mIdXxGAiME4) | [Bobby Wills](https://open.spotify.com/artist/32vz5yfClDLomeIAH6LF5Q) | [Closest Ocean](https://open.spotify.com/album/3fwUwgnzb2TwjNBw4H3D25) | 3:58 | 2022-02-18 | 2022-03-05 |
 | [Cold Beer Calling My Name](https://open.spotify.com/track/67wUHsoXdZ8UOLt6rodpQ9) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Bet You're from a Small Town](https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo) | 3:30 | 2021-12-31 |  |
 | [Cold Beer Truth](https://open.spotify.com/track/1Aham4eyVWUkYoxyvoxaj0) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Cold Beer Truth](https://open.spotify.com/album/6MlvMbQu3E7bmEIjYfDowJ) | 2:54 | 2022-02-11 | 2022-03-05 |
-| [Come Back As A Country Boy](https://open.spotify.com/track/5XAlARWvlqd79Wp835MFlS) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:41 | 2021-12-31 |  |
+| [Come Back As A Country Boy](https://open.spotify.com/track/5XAlARWvlqd79Wp835MFlS) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:41 | 2021-12-31 | 2022-08-20 |
 | [Come On With It](https://open.spotify.com/track/670avKEDoIrvyoLOgNJF7m) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Come On With It](https://open.spotify.com/album/5xPnmT5CGuQp1E0vxPXveO) | 2:37 | 2022-06-17 |  |
 | [Convertible](https://open.spotify.com/track/1p6JfMl25HOsGhdAGGaLHo) | [Kelly Prescott](https://open.spotify.com/artist/70skqWNNxbe1l0oVHVQB6O) | [Convertible](https://open.spotify.com/album/04CmrAsBTjx5n0PM3PBw7w) | 3:05 | 2022-06-03 | 2022-06-18 |
 | [Cool About It](https://open.spotify.com/track/6PGNiIVGzWYTOaGXPoL9pV) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Heart On My Glass](https://open.spotify.com/album/0x5tWCQaw2ZGitlV8EdVN1) | 3:29 | 2021-12-31 | 2022-05-20 |
@@ -61,6 +61,7 @@
 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 | 2022-07-01 |  |
 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 | 2022-04-22 | 2022-05-20 |
 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 | 2022-06-10 |  |
+| [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2022-08-19 |  |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4EncjICVJk0gK2icnG0b1Q) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:37 | 2022-07-22 |  |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 | 2022-03-04 | 2022-07-29 |
 | [Date a Friend](https://open.spotify.com/track/4E5SAE7v1HwDFUVC9Jf5Ly) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [Date a Friend](https://open.spotify.com/album/53xmPUICYWyBcNibRkqZ7c) | 2:58 | 2021-12-31 | 2022-04-09 |
@@ -173,6 +174,7 @@
 | [New Old Trucks \(feat\. Dierks Bentley\)](https://open.spotify.com/track/6HSCKjyGjvpOdDdZ7vEtsl) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [New Old Trucks \(feat\. Dierks Bentley\)](https://open.spotify.com/album/0W0hWx78UcbHEe3MlmSjv9) | 3:11 | 2021-12-31 | 2022-03-26 |
 | [Night in the Life](https://open.spotify.com/track/1TRVBG7jNCxBlLL6b0xyuj) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [What Is Life?](https://open.spotify.com/album/1MvO3cHS9u4ryMntc55LqY) | 3:26 | 2021-12-31 | 2022-04-23 |
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2022-04-01 |  |
+| [No Body](https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [No Body](https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ) | 3:07 | 2022-08-19 |  |
 | [Nobody Knows You](https://open.spotify.com/track/4w2LAqLhIoWzophDSbT3G3) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [Diamonds in the Desert](https://open.spotify.com/album/3GwsN7jQgsANKT8bRaKDuy) | 5:28 | 2022-02-25 | 2022-04-23 |
 | [Nobody's More Country](https://open.spotify.com/track/5ebwYSZVFG6VJOE0mWs71o) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/2Jogodfbu37ikyUK11yGAf) | 2:52 | 2021-12-31 | 2022-01-15 |
 | [Nothin' I Don't Love About You](https://open.spotify.com/track/3bpUoxpGoJkEQIHmMaUYPl) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [The Demos](https://open.spotify.com/album/0u5178s4Tdo1FboVzXSQUl) | 2:46 | 2021-12-31 | 2022-07-09 |

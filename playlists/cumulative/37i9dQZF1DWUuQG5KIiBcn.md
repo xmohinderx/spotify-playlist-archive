@@ -4,7 +4,7 @@
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-105 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/6t9dYU0lb5Dzk8M8t6oooM)
+107 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/6t9dYU0lb5Dzk8M8t6oooM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 | 2022-01-28 |  |
 | [El Odio De Dos Hermanos](https://open.spotify.com/track/5MhJKLhRlFTvSzSNCXRrxt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Corridos Originales](https://open.spotify.com/album/4zvdkkzLRpxofrlbviTXmf) | 2:58 | 2022-01-28 | 2022-07-29 |
 | [El Odio De Dos Hermanos](https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:01 | 2022-01-28 |  |
-| [El Penal De La Loma](https://open.spotify.com/track/2NRQRAPq2BF5UIZitIMZGJ) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Los Amos Del Corrido](https://open.spotify.com/album/1B2DVd1xN1wC5QGmnBvla5) | 2:55 | 2022-01-28 |  |
+| [El Penal De La Loma](https://open.spotify.com/track/2NRQRAPq2BF5UIZitIMZGJ) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Los Amos Del Corrido](https://open.spotify.com/album/1B2DVd1xN1wC5QGmnBvla5) | 2:55 | 2022-01-28 | 2022-08-20 |
 | [El Penal De La Loma](https://open.spotify.com/track/4EylbrBoqejHLkzJGS3WhU) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Los Amos Del Corrido](https://open.spotify.com/album/3ladHEsIM6AEiXyRTzZ9qI) | 2:55 | 2022-01-28 | 2022-07-29 |
+| [El Penal De La Loma](https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [A Las Damas También Les Gustan Los Corridos](https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv) | 2:55 | 2022-01-28 |  |
 | [El Regio Traficante](https://open.spotify.com/track/4wSpJcI3K9NKgX7G6LiFbU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Senor de los Cielos](https://open.spotify.com/album/0FlQ67awnVMDfZNFsMSqbI) | 3:20 | 2022-01-28 | 2022-07-29 |
 | [El Regio Traficante](https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pueblito](https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh) | 3:21 | 2022-01-28 |  |
 | [El Ultimo Cartucho](https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:21 | 2022-01-28 |  |
@@ -64,7 +65,8 @@
 | [la carga blanca](https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [CORRIDOS DE CONTRABANDO \(Remastered\)](https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s) | 3:18 | 2022-01-28 |  |
 | [la carga blanca](https://open.spotify.com/track/0lCd57B1wdHMQHdGgJvOOr) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [CORRIDOS DE CONTRABANDO \(Remastered\)](https://open.spotify.com/album/6ASl45JLw5nqBYMxYKgDrp) | 3:18 | 2022-01-28 | 2022-07-29 |
 | [La Carga Ladeada](https://open.spotify.com/track/2vFnXzihAFSKEMpnalM5WS) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [15 Éxitos Originales Lo Mejor de los Broncos de Reynosa](https://open.spotify.com/album/4vqSHUgGUdXVEbMOywYiQA) | 3:55 | 2022-01-28 |  |
-| [La Cheyene del Año](https://open.spotify.com/track/74c22PUka78qXVFudVnLJT) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los 20 Mejores Corridos y Rancheras](https://open.spotify.com/album/6fNcLl4TR9uUUj6ZkoVHiD) | 3:01 | 2022-01-28 |  |
+| [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 | 2022-01-28 |  |
+| [La Cheyene del Año](https://open.spotify.com/track/74c22PUka78qXVFudVnLJT) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los 20 Mejores Corridos y Rancheras](https://open.spotify.com/album/6fNcLl4TR9uUUj6ZkoVHiD) | 3:01 | 2022-01-28 | 2022-08-20 |
 | [La Cheyene del Año](https://open.spotify.com/track/1Befsq8QTEAJNKnxKlPPUM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [¡pa Puros Compas! Vol\. Ii](https://open.spotify.com/album/5NdplNnKYPN84dicsTocv4) | 3:03 | 2022-01-28 | 2022-07-29 |
 | [La Chiva Colgada](https://open.spotify.com/track/5FNHvNI40a4W9iSxTp2zDg) | [Los Tremendos Gavilanes](https://open.spotify.com/artist/61Wbko5X4nwMtHOWOcvWiw) | [Cielo Azul, Cielo Nublado](https://open.spotify.com/album/6N6zMYcJO4fIKeqMqRvuAL) | 3:15 | 2022-01-28 |  |
 | [La Cárcel De Cananea](https://open.spotify.com/track/5ZuBhTD8ZyV4ucBg9TKW8U) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:52 | 2022-05-03 |  |

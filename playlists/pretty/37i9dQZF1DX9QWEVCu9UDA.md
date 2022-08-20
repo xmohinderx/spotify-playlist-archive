@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QWEVCu9UDA.md) - [plain]
 
 > Discover new music while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,483 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,506 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QWEVCu9UDA.md) - [plain]
 | 16 | [Bonita](https://open.spotify.com/track/5chWJTznLQVlRCVbwxaB5N) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT) | [Bonita](https://open.spotify.com/album/4H4txT4dMDknveR0RjAw83) | 1:52 |
 | 17 | [Fresh Water](https://open.spotify.com/track/2UbdtdpOW3URCTqKsPATJg) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Young Fel 2](https://open.spotify.com/album/265rgx93RpuQmpok31gynl) | 2:49 |
 | 18 | [Clicquot Shower](https://open.spotify.com/track/48OIJmuB6THQWHdV4GMn2k) | [Caleborate](https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et) | [Light Hit My Skin](https://open.spotify.com/album/01BxrbltN1S5kJO2LmXZIF) | 2:41 |
-| 19 | [Bag on a Bag](https://open.spotify.com/track/7BN37yVlX2XQYCPTbtGeGD) | [Spence](https://open.spotify.com/artist/4nM5rOJ5r2XC1LQBjBVKSg), [Kakuyon](https://open.spotify.com/artist/256Ali73Vwxggm4o4yq78F) | [Bag on a Bag](https://open.spotify.com/album/3TibjtwgLoAqPw515d6jRA) | 2:52 |
+| 19 | [Bag on a Bag](https://open.spotify.com/track/7BN37yVlX2XQYCPTbtGeGD) | [Spence Lee](https://open.spotify.com/artist/7KLuYzzewU8BRPP1TKSffl), [Kakuyon](https://open.spotify.com/artist/256Ali73Vwxggm4o4yq78F) | [Bag on a Bag](https://open.spotify.com/album/3TibjtwgLoAqPw515d6jRA) | 2:52 |
 | 20 | [Save My Grave](https://open.spotify.com/track/3SmytDq4CeZ3nKE9777qEx) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [We Are Deadbeats \(Vol\. 4\)](https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ) | 3:42 |
 | 21 | [Magic Marker](https://open.spotify.com/track/5BIrgIwVrpIQd25BsG1ssv) | [Jimmy the Human](https://open.spotify.com/artist/7FNq7KypqSHxVpheIT3meB), [DMN Benji](https://open.spotify.com/artist/17IbTmbGSNpfwMeaUVJfzC) | [Melancholy Blue](https://open.spotify.com/album/0Qgyz9jEkFB72s4G4QPtfO) | 3:51 |
 | 22 | [Popeye](https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/3xrOFa0RU14V1b9gIH1NQN) | 2:54 |

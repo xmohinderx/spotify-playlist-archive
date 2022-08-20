@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Knock2
 
-324 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+326 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Breathe](https://open.spotify.com/track/2dyuozqGz5qOaC7xB11DGE) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Breathe](https://open.spotify.com/album/0CAduLTnz4dhJUgindKLwh) | 3:39 | 2021-10-29 | 2022-05-28 |
 | [Breathing](https://open.spotify.com/track/1sykacKdaCW4KE0AtRglRu) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Gorillowz](https://open.spotify.com/artist/45oMgBI6YCpxhr29PnmRE9) | [Breathing](https://open.spotify.com/album/2c7aOuhOLox1uJn2SLh9T9) | 3:13 | 2021-10-29 | 2022-03-03 |
 | [Bright Lights \(feat\. Lil Debbie\)](https://open.spotify.com/track/5om2GqwzkfrvkzMmMPvmHD) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC), [Lil Debbie](https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN) | [Bright Lights \(feat\. Lil Debbie\)](https://open.spotify.com/album/6jKv7AYAuLxqV2oEX6KtBc) | 4:03 | 2021-10-29 | 2022-05-28 |
+| [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 | 2022-08-19 |  |
 | [Bump Bump Bump \(Bom Bom\)](https://open.spotify.com/track/0Kh1JKeJMAvFxv91HZ8uYU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Bump Bump Bump \(Bom Bom\)](https://open.spotify.com/album/72UksATBqIoaadFYwn0Dqh) | 3:00 | 2022-08-12 |  |
 | [Burn the House](https://open.spotify.com/track/0Qv962GVef5ssQboETsqvF) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Burn the House](https://open.spotify.com/album/65lSyFP9MeZJ9LBiPQWvMo) | 2:41 | 2021-10-29 | 2022-03-26 |
 | [Burned](https://open.spotify.com/track/1lCSVEqFldH6cTMnm28M8k) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Coka Cobra](https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC) | [Burned](https://open.spotify.com/album/4fHVjE9mafXWU5Ptbi9OnH) | 3:04 | 2022-06-24 |  |
@@ -156,6 +157,7 @@
 | [Hustle](https://open.spotify.com/track/6YMSywt3HpzVLoxDN6tzqo) | [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Hustle](https://open.spotify.com/album/4FHhnmZpT898mjTBrcujXv) | 2:50 | 2021-10-29 | 2022-04-02 |
 | [Hype Beast](https://open.spotify.com/track/0AAtVQhBnuqduOZp7GsepG) | [Rich DietZ](https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8) | [Hype Beast](https://open.spotify.com/album/5s8FxM1lTlGR4kmbbvmoEq) | 3:21 | 2022-01-21 | 2022-07-29 |
 | [Hypnosis](https://open.spotify.com/track/218C3xKWaTkNwEmDLW6oD4) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [Hypnosis](https://open.spotify.com/album/1GSiJhz5OGVnWvxCqhHKSi) | 2:53 | 2021-10-29 | 2022-01-02 |
+| [Hypnotic](https://open.spotify.com/track/4P3WY1qYtJ0JcMHHm0bpvB) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Hypnotic](https://open.spotify.com/album/4CjGRwcpGLP95cEmCkDHFE) | 4:13 | 2022-08-19 |  |
 | [Hypnotized](https://open.spotify.com/track/3JvXqt7jhVbIDInIURichK) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Hypnotized](https://open.spotify.com/album/4jijt3cmZikji3Ld3101db) | 3:38 | 2021-10-29 | 2022-08-13 |
 | [I Am Ready](https://open.spotify.com/track/0ufeCauchfjHvwhCz0XiQL) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [I Am Ready](https://open.spotify.com/album/4GYWCwCY79SXdxM0X42TDg) | 3:00 | 2021-10-29 | 2022-01-15 |
 | [I Don't Care](https://open.spotify.com/track/7BXqCv3Y940NFSFJv19ywn) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [I Don't Care](https://open.spotify.com/album/6zoxovlr2YLSPz6wFYQixI) | 2:59 | 2022-03-18 | 2022-04-21 |

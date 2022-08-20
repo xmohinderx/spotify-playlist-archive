@@ -922,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2rGNHADUSv8bTiRa13dB0j"
+      },
+      "artists": [
+        {
+          "name": "Ash Radford",
+          "url": "https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239933,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4mGkVCstt9CC4mIU8iHOZ5"
+    },
+    {
+      "album": {
         "name": "Hard to Kill",
         "url": "https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P"
       },
@@ -1120,6 +1138,24 @@
     },
     {
       "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215969,
+      "name": "Gullah Geechee",
+      "url": "https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A"
+    },
+    {
+      "album": {
         "name": "Hard to Stay Cool",
         "url": "https://open.spotify.com/album/3fpTOEGSvGIhVtLMZ44w8t"
       },
@@ -1149,7 +1185,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 334360,
       "name": "Hard To Stay Cool",
       "url": "https://open.spotify.com/track/5mkwcdqarspFI0bbMfzAum"
@@ -1239,7 +1275,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 184826,
       "name": "History Repeats",
       "url": "https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7"
@@ -1375,7 +1411,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 316360,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
@@ -1455,7 +1491,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 219293,
       "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
@@ -1579,6 +1615,24 @@
       "duration_ms": 172240,
       "name": "Ice Cream & Cigarettes",
       "url": "https://open.spotify.com/track/4MF13EQrQftevIUwXcLQHS"
+    },
+    {
+      "album": {
+        "name": "Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188520,
+      "name": "If Heaven Is A Hotel",
+      "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
     },
     {
       "album": {
@@ -3465,7 +3519,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 232600,
       "name": "What Did I Do",
       "url": "https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym"

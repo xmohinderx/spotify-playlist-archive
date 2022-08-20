@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,357 likes - 55 songs - 3 hr 39 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,364 likes - 57 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 53 | [Skanka](https://open.spotify.com/track/0vIWAmpjLwCC4DVJxAjRZW) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Skanka](https://open.spotify.com/album/7g7I6vC52GJniD8UONMqCp) | 3:41 |
 | 54 | [High Life](https://open.spotify.com/track/3oqnSJu2wGgnR9JDQzUxP9) | [Morillo](https://open.spotify.com/artist/6gKen78XIn1mdjEp3Gs84U), [Amp Live](https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL) | [High Life](https://open.spotify.com/album/60QidlnMdsWDnKM2kQ2hxi) | 3:14 |
 | 55 | [Moonlight \- Congi Remix](https://open.spotify.com/track/09yOiU24ERWd6jcQyNXbsM) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7), [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Moonlight](https://open.spotify.com/album/2xzuZynBxp4wpl8KAj692l) | 4:27 |
+| 56 | [Replicants \- J:Kenzo Remix](https://open.spotify.com/track/6oOSSVjIuD05mzC5fIDTlc) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Replicants \(J:Kenzo Remix\)](https://open.spotify.com/album/0bX0KGunfUX7hriWuf0Fe1) | 5:18 |
+| 57 | [Book of Vizhanti](https://open.spotify.com/track/0LF3Ij102kXw5o4DbrPhq2) | [Austeria](https://open.spotify.com/artist/15VvV8dnWKZBNufin6LzzS), [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [Book of Vizhanti](https://open.spotify.com/album/6vsQTvgx7q1ZAwAJelr5oa) | 2:06 |
 
-Snapshot ID: `MTkwOSxlZDYzYjNmNzk0N2E2NmE4MzFiMmJjNGFjNTE3OGRlMGQzN2RhMjMw`
+Snapshot ID: `MTkxMSw1NzE5ZTljNzJmYzE1YTA1NmZlNWI4MzNkYWFkMTNkMjJjNTZlMzgz`

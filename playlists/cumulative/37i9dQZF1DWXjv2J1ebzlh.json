@@ -22222,6 +22222,24 @@
     },
     {
       "album": {
+        "name": "Delroy Wilson's Big Hits",
+        "url": "https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM"
+      },
+      "artists": [
+        {
+          "name": "Delroy Wilson",
+          "url": "https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157640,
+      "name": "Put Yourself in My Place",
+      "url": "https://open.spotify.com/track/0IxYQuPU4gqR4mBgGMjrEN"
+    },
+    {
+      "album": {
         "name": "Delroy Wilson Story, Vol. 2",
         "url": "https://open.spotify.com/album/1VkhpJ88iuuz9fSpFbYj2G"
       },
@@ -22233,7 +22251,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 157640,
       "name": "Put Yourself in My Place",
       "url": "https://open.spotify.com/track/3h1wJrzXpvoCcaP051XhQ4"

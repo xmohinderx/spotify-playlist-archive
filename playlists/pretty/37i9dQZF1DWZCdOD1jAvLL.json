@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Excision",
-  "num_followers": 180219,
+  "num_followers": 180354,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzNTEwNywwMDAwMDAwMGYxY2RhNWZkZTQ4NWVkNzI5MTI3MzYxZmM5YmYyNDcy",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDRhNTg5OWYwYTg5NzlmMGMyNGFmYjFjNWM1Nzk1OWY0",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -29,6 +29,46 @@
       "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Bass Music",
+        "url": "https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "TVBOO",
+          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
+        }
+      ],
+      "duration_ms": 246394,
+      "name": "Bass Music",
+      "url": "https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Every Time (feat. So Below)",
+        "url": "https://open.spotify.com/album/1I9Bg2BoorxcedzgQrlvuU"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "So Below",
+          "url": "https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi"
+        }
+      ],
+      "duration_ms": 342008,
+      "name": "Every Time (feat. So Below)",
+      "url": "https://open.spotify.com/track/6AkEP2vEcpTRn2ilHVPNsa"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Children",
@@ -47,6 +87,30 @@
       "duration_ms": 206222,
       "name": "Children - Radio Edit",
       "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 225346,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -89,6 +153,22 @@
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "No Good",
+        "url": "https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 141562,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN"
+    },
+    {
       "added_at": "2022-08-05 04:00:00",
       "album": {
         "name": "Pan Jabi",
@@ -105,6 +185,26 @@
       "url": "https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "We Make It Pop",
+        "url": "https://open.spotify.com/album/1xSKqKJAjZseHGYhBnVXgw"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "The Shooters",
+          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+        }
+      ],
+      "duration_ms": 136004,
+      "name": "We Make It Pop",
+      "url": "https://open.spotify.com/track/4VH8x8g1v3BfERMMEHpudm"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "LEFT TO RIGHT",
@@ -119,6 +219,22 @@
       "duration_ms": 146250,
       "name": "LEFT TO RIGHT",
       "url": "https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/16Iue70ll51hWnwDiFiQrY"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/1YIYwFUDRzlQK0IXAVxPcN"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -141,22 +257,6 @@
       "url": "https://open.spotify.com/track/0EIf9XZDUTTK3sUgPG8VUT"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Transitory",
-        "url": "https://open.spotify.com/album/0NH5ptXUhDmNKKeAyqdWma"
-      },
-      "artists": [
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "Transitory",
-      "url": "https://open.spotify.com/track/52peIXHrnQpSuANcws9IBr"
-    },
-    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "WTF",
@@ -175,6 +275,38 @@
       "duration_ms": 138537,
       "name": "WTF",
       "url": "https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Hold Up (Remixes)",
+        "url": "https://open.spotify.com/album/0Xwo0PYEDDMYMbecaNmuRA"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 184750,
+      "name": "Hold Up - Nostalgix Remix",
+      "url": "https://open.spotify.com/track/3SqmH3POoyQvsZlbN8w7Zl"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -219,6 +351,22 @@
       "duration_ms": 224515,
       "name": "My Feelings For You - Mark Knight Remix",
       "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/6CMZK3G1qaa72PG24mQy7v"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+        }
+      ],
+      "duration_ms": 201909,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/65R30Zi5Nssdllz2G2i4mh"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -307,6 +455,30 @@
       "duration_ms": 248000,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/1vsRO2CO1N7eyryohEMU6r"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Shibuya Babe",
+        "url": "https://open.spotify.com/album/1biLpZstCyBIgyRAzchz8S"
+      },
+      "artists": [
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        },
+        {
+          "name": "Fafa Khan",
+          "url": "https://open.spotify.com/artist/4TtWW9JEksSAem0tGrAYsP"
+        },
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        }
+      ],
+      "duration_ms": 126336,
+      "name": "Shibuya Babe",
+      "url": "https://open.spotify.com/track/4DdaZxgGx8AsPq2f299gcB"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -415,6 +587,22 @@
       "duration_ms": 245039,
       "name": "B\u20acNZ",
       "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Look In My Eyes",
+        "url": "https://open.spotify.com/album/2u1wqzI86mTpqylQPJ3iHm"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Look In My Eyes",
+      "url": "https://open.spotify.com/track/5pRZVUGi1Z9QteqfEAFNw0"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -805,26 +993,6 @@
       "url": "https://open.spotify.com/track/2AweUWqpmHHFgXDPGPiB95"
     },
     {
-      "added_at": "2022-07-01 14:24:58",
-      "album": {
-        "name": "BADBOI",
-        "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
-      },
-      "artists": [
-        {
-          "name": "BRUX",
-          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
-        },
-        {
-          "name": "Pat Lok",
-          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
-        }
-      ],
-      "duration_ms": 196535,
-      "name": "BADBOI",
-      "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
-    },
-    {
       "added_at": "2022-08-05 04:00:00",
       "album": {
         "name": "Elbow Grease",
@@ -1039,26 +1207,6 @@
     {
       "added_at": "2022-05-27 05:59:11",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/1XjtyTyruK0RoGOuVsQNqc"
-      },
-      "artists": [
-        {
-          "name": "DJ YUKI",
-          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
-        },
-        {
-          "name": "FUSE",
-          "url": "https://open.spotify.com/artist/7xCCjSSqo7y2OUpJ2DMMrs"
-        }
-      ],
-      "duration_ms": 147125,
-      "name": "Goodies",
-      "url": "https://open.spotify.com/track/5WJp4hlT4lI14Wv9U2BKvC"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC"
       },
@@ -1155,22 +1303,6 @@
       "duration_ms": 211653,
       "name": "El Oh Vee Ee",
       "url": "https://open.spotify.com/track/2qg9rX4JsmSXIsv1aqucm9"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/5hSPTMOJn2XATqYl7l14vc"
-      },
-      "artists": [
-        {
-          "name": "Slater Manzo",
-          "url": "https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/23R3csDLEeDUkxuas66ECG"
     },
     {
       "added_at": "2022-07-01 14:24:58",
@@ -1275,38 +1407,6 @@
     {
       "added_at": "2022-05-27 05:59:11",
       "album": {
-        "name": "Pullin Up",
-        "url": "https://open.spotify.com/album/1K1Ijtex4R7JxPpRpJqOJn"
-      },
-      "artists": [
-        {
-          "name": "Dave Summit",
-          "url": "https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Pullin Up",
-      "url": "https://open.spotify.com/track/75Q1p8Sm2xZiTaZLFkKWWL"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "Reality Check EP",
-        "url": "https://open.spotify.com/album/74GMPHZNnIWjHBfW6cdtcs"
-      },
-      "artists": [
-        {
-          "name": "Simon Doty",
-          "url": "https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3"
-        }
-      ],
-      "duration_ms": 251623,
-      "name": "Reality Check",
-      "url": "https://open.spotify.com/track/15WAqQUIlyyfNeAXX7sadG"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
         "name": "I Don't Think U Do",
         "url": "https://open.spotify.com/album/53t06XQarorEYsDJXjwjSg"
       },
@@ -1323,86 +1423,6 @@
       "duration_ms": 203809,
       "name": "I Don't Think U Do",
       "url": "https://open.spotify.com/track/2cyNqXxLcSV7EtEkIivrlz"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "Walk Of Shame",
-        "url": "https://open.spotify.com/album/4MvEp6RWL0RdVXIgbmqiSi"
-      },
-      "artists": [
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 148080,
-      "name": "Walk Of Shame",
-      "url": "https://open.spotify.com/track/3zVanl4mB1GgGWwlhdM0Yo"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "RIP",
-        "url": "https://open.spotify.com/album/6vpLOIEk5TgMGHIk3OEfC5"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Vladimir Cauchemar",
-          "url": "https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "RIP",
-      "url": "https://open.spotify.com/track/17dPQMxsqyWBlNI9mSyAmu"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "Rizzla",
-        "url": "https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM"
-      },
-      "artists": [
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 217749,
-      "name": "Rizzla",
-      "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
-    },
-    {
-      "added_at": "2022-06-03 04:21:35",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/36MXx1SbuFEpfGR6C9XVgH"
-      },
-      "artists": [
-        {
-          "name": "Marzetti",
-          "url": "https://open.spotify.com/artist/2nB7Ws9EvumfMMm6E6YbGA"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 245039,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/7hlKyOcn8npRpIl1SGsgOG"
     }
   ],
   "unique_name": "Bangers",

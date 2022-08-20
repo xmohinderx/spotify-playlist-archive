@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 286330,
       "name": "Espacio Peque\u00f1o",
       "url": "https://open.spotify.com/track/0A0zDB4nPLy6HyfX4yix3J"
@@ -1428,6 +1428,28 @@
     },
     {
       "album": {
+        "name": "Mi Habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/52ZsUG7LV159qKUKOyCjHF"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155253,
+      "name": "Mi Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI"
+    },
+    {
+      "album": {
         "name": "Mirando",
         "url": "https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0"
       },
@@ -1749,7 +1771,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 386604,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
@@ -2021,6 +2043,24 @@
       "duration_ms": 181090,
       "name": "Realidad",
       "url": "https://open.spotify.com/track/55mKDXgmHh9zhtWmTJbIzI"
+    },
+    {
+      "album": {
+        "name": "Rester",
+        "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297530,
+      "name": "Rester",
+      "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
     },
     {
       "album": {

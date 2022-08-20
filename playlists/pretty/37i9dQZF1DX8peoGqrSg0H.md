@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: bonnadol
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,580 likes - 95 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,646 likes - 95 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 3 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 |
 | 4 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |
 | 5 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 |
-| 6 | [IRREPLACEABLE](https://open.spotify.com/track/5uTFZnPELTnuRrFDnLIjFJ) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [YOUNGJAE](https://open.spotify.com/artist/6yxXsPXcgTJjBRelX9NCiF), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [IRREPLACEABLE](https://open.spotify.com/album/1qBo0T1XG8sxyOGaiSGhF3) | 4:49 |
+| 6 | [IRREPLACEABLE](https://open.spotify.com/track/5uTFZnPELTnuRrFDnLIjFJ) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [IRREPLACEABLE](https://open.spotify.com/album/1qBo0T1XG8sxyOGaiSGhF3) | 4:49 |
 | 7 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 |
 | 8 | [รักในวันฝนมา \- เพลงจากละคร วิวาห์ฟ้าแลบ](https://open.spotify.com/track/34HpfHhOP7iajSuZHlexDa) | [CINCIN IRADA X DIAMOND LAZ1](https://open.spotify.com/artist/5rGodrPbDeEJti8no09ppe) | [เพลงจากละคร วิวาห์ฟ้าแลบ](https://open.spotify.com/album/7npbOU0f6TqTUmrRfy1Xsz) | 2:55 |
 | 9 | [เฮอร์ไมโอน้อง \- Hermionong](https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [เฮอร์ไมโอน้อง \(Hermionong\)](https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj) | 3:36 |

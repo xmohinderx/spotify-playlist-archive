@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-496 songs - 1 day 2 hr 3 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+498 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2022-03-17 | 2022-07-29 |
 | [18](https://open.spotify.com/track/1No2CqopteR18XVL4RJHNO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 2:30 | 2022-08-05 | 2022-08-08 |
 | [21st Century Vampire](https://open.spotify.com/track/7KDqNm3Vo6isNP1rfiEVZx) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [21st Century Vampire](https://open.spotify.com/album/0u19GSyQ4QeGJu9o0V0s0i) | 2:47 | 2022-03-17 | 2022-05-31 |
+| [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 | 2022-08-19 |  |
 | [3, 2, 1](https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:11 | 2022-07-07 |  |
 | [3, 2, 1](https://open.spotify.com/track/1bFoCHXsP2qd4YWi2JmlCN) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [3, 2, 1](https://open.spotify.com/album/2gt7MlxyMKUl6LUDcc2etd) | 2:11 | 2022-03-17 | 2022-05-25 |
 | [6AM](https://open.spotify.com/track/5AJ9oWWYzHvSJYX6IBEvMK) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [6AM](https://open.spotify.com/album/0rRFHYaPCKGwQ7pWB3H2JG) | 3:10 | 2022-03-17 | 2022-07-29 |
@@ -173,6 +174,7 @@
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2022-03-24 |  |
 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 | 2022-03-17 |  |
 | [Forget to Forget You](https://open.spotify.com/track/2d72tfHrceo8IRrQYsh5Ye) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Forget to Forget You](https://open.spotify.com/album/3K5fQsYTJeax7eJ7KxQSim) | 3:24 | 2022-03-24 | 2022-04-12 |
+| [FREAK \(feat\. YUNGBLUD\)](https://open.spotify.com/track/3PgOwSqHJtDSiZjFYxwIkU) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [HOLY FVCK](https://open.spotify.com/album/7EZyvtRvb5Nox1AHbgvuJs) | 2:36 | 2022-08-19 |  |
 | [Freedom \- Strings & Keys](https://open.spotify.com/track/7vrGA0eO9lmhNaEO0wgNxH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Strings & Keys](https://open.spotify.com/album/60ilpYIPOAmkm1QZ2KjnMO) | 5:39 | 2022-03-24 | 2022-04-20 |
 | [FRIDAY \(feat\. Trippie Redd\)](https://open.spotify.com/track/6IRtUdofXMANdsFYnJZ9WT) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [FRIDAY \(feat\. Trippie Redd\)](https://open.spotify.com/album/5uJnlGCJ1sXmB5vyEBKGn8) | 2:19 | 2022-03-17 | 2022-07-11 |
 | [From The Back of a Cab](https://open.spotify.com/track/240azm4eUSWi4hXU2MLCFM) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [From The Back of a Cab](https://open.spotify.com/album/1VOGrBNajNlZyctv9c9jk8) | 2:47 | 2022-03-24 | 2022-04-16 |
@@ -232,7 +234,7 @@
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2022-04-14 |  |
 | [I Want You Gone](https://open.spotify.com/track/57Pnwjod2OYmwNlyivrsoe) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Not Your Kind](https://open.spotify.com/album/37be69Kxa6pUHHqo8V8u5L) | 3:22 | 2022-03-24 | 2022-05-12 |
 | [I'm Dead \(feat\. jxdn\) \[From the Podcast “Prom In Hell”\]](https://open.spotify.com/track/6v3uCeZyBl3nygTVIRIMS6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [I'm Dead \(feat\. jxdn\) \[From the Podcast “Prom In Hell”\]](https://open.spotify.com/album/1t9u3ZrWBilDu0SADcPbI2) | 2:38 | 2022-03-24 | 2022-05-17 |
-| [I'm Not Mad](https://open.spotify.com/track/6SL8U8TtdwOtGhbmGzsMfX) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 2:53 | 2022-03-17 |  |
+| [I'm Not Mad](https://open.spotify.com/track/6SL8U8TtdwOtGhbmGzsMfX) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 2:53 | 2022-03-17 | 2022-08-20 |
 | [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 | 2022-07-07 |  |
 | [IDONTWANNATALKTOYOU! \(with renforshort\)](https://open.spotify.com/track/39LAVN7bpAOvpCwA06dvWZ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CHASING HARMONY](https://open.spotify.com/album/2bAyamw2R64VLAFsQW20xc) | 2:18 | 2022-03-24 | 2022-04-21 |
 | [idwgtyp](https://open.spotify.com/track/28Qv23wjvAhPZGr5NXhBq8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [idwgtyp](https://open.spotify.com/album/0x5swq6Ju73lmGUdR7sjwi) | 3:06 | 2022-03-24 | 2022-06-06 |
@@ -466,7 +468,7 @@
 | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/track/2qP3VifO2gnLn7sj5md688) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/album/1xeTGwmriV3NHmNgMzvPav) | 2:57 | 2022-03-24 | 2022-04-17 |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2022-03-24 | 2022-04-10 |
 | [Up From A Dream](https://open.spotify.com/track/3MKdPWUmCXymXVGKf2Njdr) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:17 | 2022-03-24 | 2022-04-16 |
-| [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-03-17 |  |
+| [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-03-17 | 2022-08-20 |
 | [Velvet](https://open.spotify.com/track/1wwM5H5qpU0PfHEDsFEiJW) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 2:58 | 2022-03-24 | 2022-04-20 |
 | [Vertigo](https://open.spotify.com/track/4N6KMuOIpoCE97UiXOml1S) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Vertigo](https://open.spotify.com/album/4Ee1r6lPG1neAJZUT6Drz7) | 2:19 | 2022-03-24 | 2022-04-19 |
 | [Violence and Spiders](https://open.spotify.com/track/7aiXJBwHyTFGnmIqjoGbYG) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [DDMN](https://open.spotify.com/album/7BDGpfMw87xBmeNeZE681g) | 4:03 | 2022-03-24 | 2022-04-18 |

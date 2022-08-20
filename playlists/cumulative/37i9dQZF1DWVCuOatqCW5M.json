@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- B Praak ",
+  "description": "New music from popular Hindi artists. Cover- Yashraj",
   "name": "New Music Friday Hindi ",
   "published_playlist_ids": [
     "0VW1oqwEBCO9XMfaGKderP"
@@ -2703,6 +2703,28 @@
       "duration_ms": 277411,
       "name": "Mora Piya",
       "url": "https://open.spotify.com/track/6qwGMEQRHghZYXCBKgH7li"
+    },
+    {
+      "album": {
+        "name": "Takiya Kalaam",
+        "url": "https://open.spotify.com/album/1sUkDpeG4mPaQSJh9mTzzw"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "Akash Shravan",
+          "url": "https://open.spotify.com/artist/4jFzbVrYw3ARhalxPjFfU0"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178363,
+      "name": "Musafir",
+      "url": "https://open.spotify.com/track/0qrhhIGpOkghVtiIjTi6yV"
     },
     {
       "album": {

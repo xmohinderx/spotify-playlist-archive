@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,913 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,917 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 6 | [Về thăm quê mình](https://open.spotify.com/track/1PHO7bbDbwyoF5sXd8jWet) | [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [The best of Trường Vũ \- Áo em chưa mặc một lần](https://open.spotify.com/album/1maA8TkWY8siQ0gjvm1MQ1) | 6:04 |
 | 7 | [Phà Tình Lênh Đênh](https://open.spotify.com/track/0HNew99OSfsEI8RL1uhV4Q) | [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj), [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Phà Tình Lênh Đênh](https://open.spotify.com/album/20BsBisFsVGM6dHFQqwNjB) | 5:17 |
 | 8 | [Ốc Đắng Buồn Ai](https://open.spotify.com/track/1AbSvyQhinUaS8wtftF5B9) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/4n0dyBkrvChXvEG3GVDtBB) | 5:42 |
-| 9 | [Bang Long Di Em](https://open.spotify.com/track/537X1rYAOJdz06khkwzg5e) | [Quoc Dai](https://open.spotify.com/artist/2nfy0nJ70ftD2p3WeEVrw9) | [Khuc Nhac Mung Xuan](https://open.spotify.com/album/7MC5EKc8315m203dFwEhOX) | 4:27 |
+| 9 | [Bằng Lòng Đi Em](https://open.spotify.com/track/2J8kDQ6h2MK161CqDN3X8r) | [Quoc Dai](https://open.spotify.com/artist/2nfy0nJ70ftD2p3WeEVrw9) | [Bằng Lòng Đi Em](https://open.spotify.com/album/6so9Ru7VnYXoCAdkVPQd3x) | 4:25 |
 | 10 | [Nắng Đẹp Trà Vinh](https://open.spotify.com/track/7LeNyghMK5cBvU0nj3Atr8) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Nắng Đẹp Trà Vinh](https://open.spotify.com/album/6lLlt0651XsDCuS5r4aH9K) | 4:51 |
 | 11 | [Người Em Vỹ Dạ](https://open.spotify.com/track/2PEx4noRPrnRTRNjwYg7Er) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Tình Đẹp Hậu Giang](https://open.spotify.com/album/1akqLcjS1PEOJU5mseD8lQ) | 4:32 |
 | 12 | [Rước Tình Về Với Quê Hương](https://open.spotify.com/track/5ylXo4mtv7pXu7I2mHwCaD) | [Cẩm Ly](https://open.spotify.com/artist/5sXudh7NFkU6fjQL6BQOj0), [Quốc Đại](https://open.spotify.com/artist/5KrlkQWeqxunuIHhqRN7uQ) | [Tuyệt Phẩm Hoàng Thi Thơ](https://open.spotify.com/album/2RlLrRz6I6cwIKKAfdmmeU) | 3:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Bến Sông Chiều](https://open.spotify.com/track/3PVWp9WJgbJiZzRfTXKfkT) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Bến Sông Chiều](https://open.spotify.com/album/5q8d4rWRhhUUWf4AJZykjy) | 5:12 |
 | 75 | [Về Thăm Quê Mẹ](https://open.spotify.com/track/5UuB5YlnUR9s5KMeVi37Ml) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP) | [Về Thăm Quê Mẹ](https://open.spotify.com/album/5sMsNnRGNhKZRoBqcTR3Mi) | 4:34 |
 
-Snapshot ID: `MTY1OTQxMzI4OCwwMDAwMDAwMDIwNmJmYmYzYWIyZjJiOWNlY2Q0ODU0NTdmNGZlYjI3`
+Snapshot ID: `MTY1OTQxMzI4OCwwMDAwMDAwMDJhMjJjZDEzMGNiZGE0ZWQ1ZjBlYjM1MDBiOGIwODVi`

@@ -4,7 +4,7 @@
 
 > Beautiful noise: when Shoegaze goes Ambient\. Cocteau Twins on cover.
 
-87 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
+90 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Essence](https://open.spotify.com/track/0ttj1wwcdP9qeQGWV7s1S9) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Four\-Calendar Cafe](https://open.spotify.com/album/07poC3fOw5E0tAZ6Zc46AN) | 3:01 | 2022-07-07 |  |
 | [Essence \- Remastered 2006](https://open.spotify.com/track/11Lg1kcLZoolR3L28OIbZ7) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Four Calender Cafe](https://open.spotify.com/album/7y86FI2Dk9UjNjfIieWyvX) | 3:01 | 2022-04-08 | 2022-07-29 |
 | [Harvest](https://open.spotify.com/track/6HeygAsnExU9HWTdQHW0Lx) | [Cerberus Shoal](https://open.spotify.com/artist/27EdOK5I704Ag4MR0SaEeM) | [Homb](https://open.spotify.com/album/09XlXpT9g7qziByRBCSgwr) | 6:41 | 2022-04-08 |  |
+| [Heron Song \(He Waits in the Fog\)](https://open.spotify.com/track/3jhUe2XxMb7oiM1ukSDy3o) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Hidden Amongst the Trees and Foothills](https://open.spotify.com/album/1gSIGOpl4AeKcSawhvCBMp) | 3:44 | 2022-08-19 |  |
 | [I Was Alone](https://open.spotify.com/track/3hHPtJtFeXmkOCmx1Q3hqo) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [The View from Halfway Down](https://open.spotify.com/album/2Xt22gwrtjMKQQAayKbw4R) | 6:45 | 2022-04-08 |  |
 | [I Won't Be Found](https://open.spotify.com/track/0adzXeiqvJRFzxFsUKtmxH) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [Cranekiss](https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa) | 3:17 | 2022-07-07 |  |
 | [I Won't Be Found](https://open.spotify.com/track/2auPtdvhEv2yjVmtF5qJQv) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [Cranekiss](https://open.spotify.com/album/4CqCllNfTRGzCU40bx07Nt) | 3:17 | 2022-04-08 | 2022-07-29 |
@@ -80,6 +81,7 @@
 | [The Season Is Ours](https://open.spotify.com/track/1xo7NQ9JNTtG62L2jhRkfg) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/19EG2Pg9TBTTmXsAYmrvsc) | 4:18 | 2022-07-07 |  |
 | [The Season Is Ours](https://open.spotify.com/track/3hrQRMTzzA4HCeP9qseSY2) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 4:21 | 2022-04-08 | 2022-07-29 |
 | [The Tiger Hunts Alone](https://open.spotify.com/track/60o0CpsHh3zwudJA4teKln) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [Ghost Colored Halo](https://open.spotify.com/album/00zkasQySDlLDFbpH8AJgX) | 5:54 | 2022-04-08 |  |
+| [Thea](https://open.spotify.com/track/5Ml2tSSFP43WCDIsROf0HF) | [Sean Curtis Patrick](https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4) | [The Best Driving Music in the World Ever](https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj) | 3:59 | 2022-08-19 |  |
 | [They Hang Around](https://open.spotify.com/track/020zR0WTozG8RVfaZjyDcp) | [Indoor Voices](https://open.spotify.com/artist/6D56w3oYBWaQWjAfhJKUhK) | [Animal](https://open.spotify.com/album/5pdtKsFu8C9krpD14lmVWp) | 4:25 | 2022-04-08 |  |
 | [Through You](https://open.spotify.com/track/1WyfKeDIt4sJt2MpE81fN8) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Quique](https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt) | 5:48 | 2022-04-08 |  |
 | [Tokyo Guitar Flashback](https://open.spotify.com/track/10O5CCu0wFdQorEDlHXtXE) | [Azusa Plane](https://open.spotify.com/artist/1exN8SH7Aw6NLkjgFGAncB) | [Where the Sands Turn to Gold](https://open.spotify.com/album/4v867iqLmmDXh3gvmhwmeA) | 4:20 | 2022-08-11 |  |
@@ -90,6 +92,7 @@
 | [Vapor Trails](https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 9:04 | 2022-04-08 |  |
 | [Wander](https://open.spotify.com/track/2d3Mr1U4jskIPwxj4OV5ut) | [Threading](https://open.spotify.com/artist/4IuvDi4ag4P9pPehjdY4dm) | [You Are Never Enough](https://open.spotify.com/album/3lBNc4MA6kiW7wNeFoTy7j) | 2:20 | 2022-04-08 |  |
 | [We Could Be Sisters](https://open.spotify.com/track/2Zk5qPjHCiKZzpNvGKEHN1) | [Earwig](https://open.spotify.com/artist/78NksjxycSNgUfmuO88KLO) | [Under My Skin I Am Laughing](https://open.spotify.com/album/1nrrTtAGX9pNLfOrCLgrJH) | 5:10 | 2022-04-08 |  |
+| [what's on the inside](https://open.spotify.com/track/0M3qSerO5fBuimM3wghYX5) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2) | [what's on the inside](https://open.spotify.com/album/0tjgXt36gsBjCBnvHZ7C67) | 4:10 | 2022-08-19 |  |
 | [Who Told You This Room Exists?](https://open.spotify.com/track/6mTzUqZvb9wq9LLMx7p3LP) | [Belong](https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW) | [October Language](https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r) | 5:05 | 2022-04-08 |  |
 | [Why Do You Love Me?](https://open.spotify.com/track/6mnDez8mWJqlTyp6GjCKKR) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 4:51 | 2022-04-08 |  |
 | [Wishes.of.another.forever \- Milk.Blue.Kisses](https://open.spotify.com/track/2RJFuXs13fCIsoH8sWbUHU) | [Dead Leaf Echo](https://open.spotify.com/artist/01LMQqIUwK08rW4L9pevlH) | [Milk.Blue.Kisses.And.Whalebone.Wishes](https://open.spotify.com/album/6qVYgHgrdEW7wlGm9MlUvX) | 3:32 | 2022-04-08 |  |

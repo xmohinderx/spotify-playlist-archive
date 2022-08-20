@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Angel Maulén.
 
-245 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+247 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [La Mariposa](https://open.spotify.com/track/7rwX7XG5n6uZQJb56wi6Ps) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La Mariposa](https://open.spotify.com/album/6z8h6Kt2P7N89CveweUf37) | 4:28 | 2022-04-15 | 2022-07-29 |
 | [la paz](https://open.spotify.com/track/1ZJm8ES9wMWmb64oyZMHb5) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Lorenzo](https://open.spotify.com/artist/1XwazivwhckyJVCfOZSKuX) | [¿nos veremos en diciembre?](https://open.spotify.com/album/0Za4wmkIP6VFTlE92ikh1F) | 3:12 | 2022-04-15 |  |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-04-15 |  |
+| [Las Vueltas](https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Las Vueltas](https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW) | 3:50 | 2022-08-19 |  |
 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 | 2022-07-15 |  |
 | [Like](https://open.spotify.com/track/7hB9FRqaIGGIxtz1615Z8A) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Like](https://open.spotify.com/album/1Ts5Ro0AlGvQsUqRRM3z90) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [Lisbeth](https://open.spotify.com/track/6S5z8N2yTM8Ofm2b72K6Ji) | [Trama](https://open.spotify.com/artist/50MfaRBfrDJIFOKwdigjy4) | [De Pequeñas Luces y Recuerdos Que Se Lleva el Mar](https://open.spotify.com/album/0pOo6JBybWLsmcWWO3bPrW) | 4:10 | 2022-04-15 | 2022-07-27 |
@@ -176,7 +177,7 @@
 | [PIÑA](https://open.spotify.com/track/1hH1l9tujegA2cpwesXEJH) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [PIÑA](https://open.spotify.com/album/4VNoUHYMwdSivQzWmxpYZx) | 3:18 | 2022-04-15 | 2022-07-29 |
 | [Playa](https://open.spotify.com/track/3D7dTIOjSEeCeXkhc1vyMF) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Playa](https://open.spotify.com/album/1pAyDmvq2KzwzuNqVJszFJ) | 2:55 | 2022-04-15 |  |
 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [MARÍA](https://open.spotify.com/artist/0L26KOsNaEDlbjWUUSWcZ3), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 | 2022-04-29 |  |
-| [Por Esta Noche](https://open.spotify.com/track/4eKSEGX7T9HWN9zT9T5KpJ) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [\#777](https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2) | 3:36 | 2022-05-13 |  |
+| [Por Esta Noche](https://open.spotify.com/track/4eKSEGX7T9HWN9zT9T5KpJ) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [\#777](https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2) | 3:36 | 2022-05-13 | 2022-08-20 |
 | [Por Qué Me Tratas Tan Bien](https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo) | [Angel Maulén](https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh) | [El Pulso](https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q) | 3:41 | 2022-08-12 |  |
 | [Precio y Detalles](https://open.spotify.com/track/6YHU8WZI7eaa1EicKKWX2j) | [Jorge Nada](https://open.spotify.com/artist/4BiY4IzRaBVTkCcdKtZmCZ) | [Mismas Viejas Costumbres](https://open.spotify.com/album/7jpQdWHHBjRWlya8DcYBWO) | 3:02 | 2022-04-15 | 2022-07-26 |
 | [Profundidad del Mar](https://open.spotify.com/track/6fM8NeVzpDJTl6AmMq28Nu) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [NAVEGANDO](https://open.spotify.com/album/6Ta9nz4E0FD8udyyCXz2KN) | 3:08 | 2022-06-10 | 2022-07-29 |
@@ -185,6 +186,7 @@
 | [Quisiera Estar en Tu Lugar](https://open.spotify.com/track/3uHnLozqOnPoYumF7Qhp3K) | [Quinal](https://open.spotify.com/artist/5dxqPUdOChFnQ4VbZjGymp) | [Quisiera Estar en Tu Lugar](https://open.spotify.com/album/0FsIho6nfb5OGDBaaUZ1OM) | 3:39 | 2022-04-15 | 2022-07-29 |
 | [Quitapena](https://open.spotify.com/track/0jEt1GNSNyxrx86DrLdlF7) | [Gael](https://open.spotify.com/artist/7rms6jz7l3NGmiR0T5lRve) | [Quitapena](https://open.spotify.com/album/4DuTv5kQOIfV2aAKsn2LTF) | 3:03 | 2022-04-15 | 2022-07-28 |
 | [Reclame](https://open.spotify.com/track/28otbmrZCYNiRcoKnzesac) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Reclame](https://open.spotify.com/album/36Yzr88w2cyYr4dVP0DQNN) | 3:27 | 2022-04-15 | 2022-07-28 |
+| [Retazos de Diciembre](https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Retazos de Diciembre](https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5) | 3:00 | 2022-08-19 |  |
 | [Robot \(de Juguete\)](https://open.spotify.com/track/5ldcu2e1u50xIwUXgEYGLk) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Flores Plásticas](https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4) | 2:00 | 2022-07-01 | 2022-07-29 |
 | [Rosas](https://open.spotify.com/track/7wZFCm0qLOAWN1AHVdxzKP) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Rosas](https://open.spotify.com/album/6QPTZhDk3GZnAR0Xwmrff2) | 4:37 | 2022-04-15 |  |
 | [Ruinas Circulares](https://open.spotify.com/track/0sMqiuWolXiUdkmHpnMqgL) | [Cuáles i Quiénes](https://open.spotify.com/artist/7nKsmOz9yJIo3w0SAD0qBq) | [Mañana Siempre es Tarde!](https://open.spotify.com/album/1XovlbyG0ylD7ODD3POfMY) | 5:00 | 2022-04-15 | 2022-07-29 |
@@ -209,7 +211,7 @@
 | [Sonámbulo](https://open.spotify.com/track/27yWuiO04OMNr0ikpQj0Oo) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Sonámbulo](https://open.spotify.com/album/6XGv3w6gzMpsxesukAXsGi) | 3:09 | 2022-04-15 |  |
 | [Suave \(Fernanda Arrau Remix\)](https://open.spotify.com/track/4h0uvgfrsbblEhfn98qO51) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Fernanda Arrau](https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6) | [Suave \(Fernanda Arrau Remix\)](https://open.spotify.com/album/6zgo4JJtSQmDlg7gcAWEo0) | 5:00 | 2022-04-15 | 2022-07-26 |
 | [Sulamita](https://open.spotify.com/track/16MIfwDvkB1tWrxE5amA59) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Sulamita](https://open.spotify.com/album/6pLbcifDEO9ya5vuRLq8Hp) | 4:26 | 2022-07-22 |  |
-| [Supernova](https://open.spotify.com/track/54iljSq1Sdn7ujYKiN4sal) | [André Ubilla](https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN) | [Supernova](https://open.spotify.com/album/6ujuBLcCHGjvpD6CxEqmy4) | 3:54 | 2022-07-01 |  |
+| [Supernova](https://open.spotify.com/track/54iljSq1Sdn7ujYKiN4sal) | [André Ubilla](https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN) | [Supernova](https://open.spotify.com/album/6ujuBLcCHGjvpD6CxEqmy4) | 3:54 | 2022-07-01 | 2022-08-20 |
 | [Sólo Vine a Bailar](https://open.spotify.com/track/6FA2rRogpLIOZ0ffho4uPL) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [La Mar](https://open.spotify.com/album/6fLfcUkSJF8aWGQ3p8rfKZ) | 4:09 | 2022-04-15 | 2022-07-28 |
 | [Tan Bien](https://open.spotify.com/track/6rRgQaZo1v4gBRB2wo9Btl) | [Catalina Navarro](https://open.spotify.com/artist/6xch6zph3Lgfj4EeEMwjeu) | [Universando](https://open.spotify.com/album/3StI1ax0T9EllHaRek7pzI) | 3:25 | 2022-04-15 | 2022-07-28 |
 | [Tan en el Aire](https://open.spotify.com/track/4C1cMrk5wEER5Z519lMPnL) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Aire](https://open.spotify.com/album/6Mk01eTfD7pk9v5wmiun5y) | 3:24 | 2022-04-15 | 2022-08-13 |

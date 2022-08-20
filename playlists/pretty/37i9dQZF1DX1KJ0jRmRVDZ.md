@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,155 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,270 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 27 | [No title \- Seaside Remix](https://open.spotify.com/track/3EVQv88JzEKwUf4gSyAtZm) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [No title \- Seaside Remix](https://open.spotify.com/album/09ZfLnBpF3nmeLqFr8avZg) | 4:12 |
 | 28 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 |
 | 29 | [Whale\-fall Community](https://open.spotify.com/track/1zpKI5PcbL4s45a8XlJ7Z7) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Whale\-fall Community](https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr) | 3:57 |
-| 30 | [声届いた日から](https://open.spotify.com/track/6jpg3h3AUob8zNZJtECAku) | [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [声届いた日から](https://open.spotify.com/album/6lsgCIR0ASTH8pyL8Vhpg5) | 4:32 |
+| 30 | [Koe Todoita Hikara](https://open.spotify.com/track/3q6G4DEStAQWFsEnwzNdw9) | [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [Koe Todoita Hikara](https://open.spotify.com/album/5ZNzXtCuL3OxwisiApGPWt) | 4:32 |
 | 31 | [阿修羅ちゃん](https://open.spotify.com/track/0cN6iBeCR7NgeBeTIKjLml) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:15 |
 | 32 | [プロローグ](https://open.spotify.com/track/7xk7RN5lLRzJVcu0m8Y65O) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [EVAN](https://open.spotify.com/artist/6bzdpLlsMQUyZzsbyBe4k2) | [プロローグ](https://open.spotify.com/album/015y1Qu5wxZN3uvHG7Q5Rl) | 5:01 |
 | 33 | [くびったけ](https://open.spotify.com/track/3L0rXIx0aocJrFq7AQxBKI) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [くびったけ](https://open.spotify.com/album/57kc4sqcplMurw6VSgztUw) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [足りない](https://open.spotify.com/track/2FPGL1mHYG1vmNSR8up277) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [足りない](https://open.spotify.com/album/3kM6SqdM1TL190mApO9HLi) | 3:00 |
 | 50 | [First Love feat.natsumi](https://open.spotify.com/track/0UP2LfMahz2upMadwoqGfu) | [VILLSHANA](https://open.spotify.com/artist/57weAzpeaELcDcAuqngdDo), [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [First Love feat.natsumi](https://open.spotify.com/album/2agcpsXOnEyGDkRgqPEAHo) | 2:25 |
 
-Snapshot ID: `MTY2MDgzNDgwMCwwMDAwMDAwMGI0OGU2YWZjYTQ0N2ZmZjE5OTU5MDQwZTEwZjMzOGE4`
+Snapshot ID: `MTY2MDgzNDgwMCwwMDAwMDAwMGE1MTMwOTNmYjhhMWYyNjQ2OWY3NmNhZTUxNmU0NTI0`

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: 緩緩 Huan Huan \(Taiwan\)
 
-328 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+329 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Sunflower \- Slowed Down](https://open.spotify.com/track/47gwnqfpI6Om0OBLCgGptN) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Sunflower Versions](https://open.spotify.com/album/5807uTIjCiX0QKbxNj5YCP) | 2:54 | 2022-06-23 | 2022-07-15 |
 | [sunrise](https://open.spotify.com/track/4amslzmcELgZwGmfrg2gOV) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [sunrise](https://open.spotify.com/album/3VAV0rDaxszxhB3eoTY8sC) | 4:03 | 2022-03-24 | 2022-04-08 |
 | [Sunset](https://open.spotify.com/track/21at3k85HWQB3afBSfLFV0) | [Howwhywhenyou](https://open.spotify.com/artist/1mqnofhpOdo4zGO2xFI72C) | [Sunset](https://open.spotify.com/album/5vQGKF9B1lh5emFRbGbhNi) | 3:47 | 2022-04-21 | 2022-06-17 |
+| [Super Happy \(feat\. Ariza\)](https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Super Happy](https://open.spotify.com/album/25fMfhirVYqXXnIIhxkTaF) | 2:54 | 2022-08-18 |  |
 | [Surga](https://open.spotify.com/track/25O01gstJe4vSICUA2wVmx) | [The Swinging Terror](https://open.spotify.com/artist/3Bz8K5WEeADKIrxRg208IV) | [Surga](https://open.spotify.com/album/0j1SrrUhHbtBvoWWKiNfGr) | 3:50 | 2022-07-14 | 2022-08-05 |
 | [Sweater Kleptomaniac](https://open.spotify.com/track/5NIIDQrw5bXXYXi3YaqKBF) | [tamago](https://open.spotify.com/artist/3TSoKKNAn7Bv6NgPUI6s5t) | [Sweater Kleptomaniac](https://open.spotify.com/album/10rhK8UDz3RyHarFgnBA83) | 3:45 | 2022-07-21 | 2022-08-19 |
 | [Take Me Back](https://open.spotify.com/track/1ezPtg7OOklRD4b3KY9osM) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [Take Me Back](https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT) | 3:55 | 2022-06-02 | 2022-07-29 |

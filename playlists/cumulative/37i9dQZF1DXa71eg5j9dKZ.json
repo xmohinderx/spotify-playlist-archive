@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "Altar is going live at Printworks this September. <a href=\"https://go.kaboodle.co.uk/altar\">Get tickets here</a> and celebrate with a unique edition of the playlist.",
+  "description": "Alternative electronic gems. Cover: Dusky",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271642,
+      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
+    },
     {
       "album": {
         "name": "100 dollar bill",
@@ -672,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/2nAEVWXWwxRM3vzXVCKiNI"
+      },
+      "artists": [
+        {
+          "name": "Kessler",
+          "url": "https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321420,
+      "name": "Aspect",
+      "url": "https://open.spotify.com/track/0naxsHkorKM1kWJIy93AYD"
+    },
+    {
+      "album": {
         "name": "Asura EP",
         "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
       },
@@ -873,6 +909,28 @@
       "duration_ms": 343341,
       "name": "Bby",
       "url": "https://open.spotify.com/track/3x1Tn4rHA7ziJXsHMTJDMY"
+    },
+    {
+      "album": {
+        "name": "places faces",
+        "url": "https://open.spotify.com/album/3KyFRjXyPY6o46fI8Dvl9d"
+      },
+      "artists": [
+        {
+          "name": "altrice",
+          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
+        },
+        {
+          "name": "Blue Dust Archive",
+          "url": "https://open.spotify.com/artist/0cZmamL9NzyInr7N3c0lDK"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291400,
+      "name": "bda creature",
+      "url": "https://open.spotify.com/track/2SJh15C8b0AmfG2leMFp58"
     },
     {
       "album": {
@@ -1499,7 +1557,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 313885,
       "name": "Chaos Energy",
       "url": "https://open.spotify.com/track/4S1tnT9D73oTaGfihIGkOf"
@@ -1698,6 +1756,32 @@
     },
     {
       "album": {
+        "name": "Consciousness (Eric Prydz Remix)",
+        "url": "https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244130,
+      "name": "Consciousness - Eric Prydz Remix",
+      "url": "https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL"
+    },
+    {
+      "album": {
         "name": "Coochie (a bedtime story)",
         "url": "https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ"
       },
@@ -1709,7 +1793,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 182250,
       "name": "Coochie (a bedtime story)",
       "url": "https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg"
@@ -2030,6 +2114,24 @@
     },
     {
       "album": {
+        "name": "Elder Garden",
+        "url": "https://open.spotify.com/album/49PD5X1YxwhA5BYj4wuLQV"
+      },
+      "artists": [
+        {
+          "name": "boys be kko",
+          "url": "https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329071,
+      "name": "Elder Garden",
+      "url": "https://open.spotify.com/track/0Vvp9sJydb4zJsanPA77By"
+    },
+    {
+      "album": {
         "name": "EMBER",
         "url": "https://open.spotify.com/album/1XQazD0TE1GaJvHhq0R3ky"
       },
@@ -2067,6 +2169,24 @@
       "duration_ms": 338895,
       "name": "Endless",
       "url": "https://open.spotify.com/track/5zbq7tbiCjPy2fTmeraOlW"
+    },
+    {
+      "album": {
+        "name": "Endless Sky",
+        "url": "https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159562,
+      "name": "Endless Sky",
+      "url": "https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM"
     },
     {
       "album": {
@@ -2313,7 +2433,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 203071,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/6tiK5mxdY4c8AFMhypVgG7"
@@ -2349,7 +2469,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 231240,
       "name": "Fiorucci Made Me Hardcore",
       "url": "https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT"
@@ -2407,7 +2527,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 240892,
       "name": "Flo Jam - Logic1000 Remix",
       "url": "https://open.spotify.com/track/6Rhryy5EstHKG8uB6CAfrP"
@@ -3281,7 +3401,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 254091,
       "name": "If It's True",
       "url": "https://open.spotify.com/track/116liDXqS5DIzlnkBz1sWp"
@@ -3977,7 +4097,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 324812,
       "name": "MAGO",
       "url": "https://open.spotify.com/track/4a5neFyYOmgSBf45g8IN77"
@@ -4199,7 +4319,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 212093,
       "name": "Mega Chords - Edit",
       "url": "https://open.spotify.com/track/0nms4MMhjU9IJ3Fb2gE09e"
@@ -4235,7 +4355,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 304733,
       "name": "Memory",
       "url": "https://open.spotify.com/track/6TIl8IznVjlHKu1HD596yi"
@@ -4633,7 +4753,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 232835,
       "name": "Natural Mission - Bakey Remix",
       "url": "https://open.spotify.com/track/7lXJ2aDupClyfemSftyUxv"
@@ -4771,6 +4891,40 @@
       "duration_ms": 210434,
       "name": "No Place Like Home",
       "url": "https://open.spotify.com/track/1Ey2IPAieDj4zb1HEPqWhn"
+    },
+    {
+      "album": {
+        "name": "No Time (feat. Nia Archives, Beenie Man, Cristale & ShaSimone)",
+        "url": "https://open.spotify.com/album/6RWLMGjUpEKOndzpfWVbVL"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        },
+        {
+          "name": "ShaSimone",
+          "url": "https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "No Time (feat. Nia Archives, Beenie Man, Cristale & ShaSimone)",
+      "url": "https://open.spotify.com/track/1ONDma4NENd2D7ig3HvJ1Z"
     },
     {
       "album": {
@@ -5152,6 +5306,28 @@
     },
     {
       "album": {
+        "name": "Poolside (feat. Katy Alex)",
+        "url": "https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Poolside (feat. Katy Alex)",
+      "url": "https://open.spotify.com/track/2xoeyiHgdFQtALq4bjwscy"
+    },
+    {
+      "album": {
         "name": "Pure Evil",
         "url": "https://open.spotify.com/album/190BH7S0EFV4tFekG3j3C0"
       },
@@ -5482,6 +5658,24 @@
     },
     {
       "album": {
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi"
+      },
+      "artists": [
+        {
+          "name": "Adelphi Music Factory",
+          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183112,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX"
+    },
+    {
+      "album": {
         "name": "Romance With A Memory (Midland Remix)",
         "url": "https://open.spotify.com/album/4r0WTlzydhpZUY9DENdbOd"
       },
@@ -5711,7 +5905,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 480253,
       "name": "Scythe Master",
       "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
@@ -6129,6 +6323,28 @@
       "duration_ms": 260140,
       "name": "speedwalking",
       "url": "https://open.spotify.com/track/68CWDyp86HYE8CBpktm8jI"
+    },
+    {
+      "album": {
+        "name": "Speedy Gs",
+        "url": "https://open.spotify.com/album/34mNJp5MMW4GiyY82f2iEo"
+      },
+      "artists": [
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        },
+        {
+          "name": "Finn",
+          "url": "https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Speedy Gs",
+      "url": "https://open.spotify.com/track/5FHLW4748Qp01kvyPjbODM"
     },
     {
       "album": {
@@ -6695,7 +6911,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 296360,
       "name": "These Things Will Come To Be",
       "url": "https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD"
@@ -7229,7 +7445,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 276077,
       "name": "Visited By Astronauts - SHERELLE Had A Groove Remix",
       "url": "https://open.spotify.com/track/5khnuLSFWo3UTKciMrGgza"
@@ -7269,7 +7485,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 360023,
       "name": "Voicebox",
       "url": "https://open.spotify.com/track/5GO6gvPD2DC3iZuxUUTsr7"

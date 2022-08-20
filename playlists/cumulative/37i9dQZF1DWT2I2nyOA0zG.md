@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-124 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+125 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [SABABISHA](https://open.spotify.com/track/0CEI8Si1kO0UwxhFSCSiBZ) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 4:00 | 2022-02-24 |  |
 | [safe haven](https://open.spotify.com/track/1LObw2njH6cvdGutpDlP6e) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:49 | 2022-07-14 | 2022-07-29 |
 | [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 | 2022-07-14 |  |
+| [Santi](https://open.spotify.com/track/2UfaE5AvQQHL2CkHeyM74O) | [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ) | [Santi](https://open.spotify.com/album/45qYrEUMR65J6PDoh6G8fQ) | 3:50 | 2022-08-19 |  |
 | [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-02-11 |  |
 | [She Knows](https://open.spotify.com/track/2BhfY4dhveCwOkr4pUbSvo) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [She Knows](https://open.spotify.com/album/6NnBWm7RUGtAFfVwiLhW40) | 3:18 | 2021-12-09 | 2022-03-04 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-06-30 |  |

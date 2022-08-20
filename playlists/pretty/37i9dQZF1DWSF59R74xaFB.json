@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 419728,
+  "num_followers": 419986,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NTk2MSwwMDAwMDAwMDIxMzhiZTRjYzk2YTk2NDZiZjUzZjAxNzllYzI0MzUx",
+  "snapshot_id": "MTY2MDg3Mzc2NCwwMDAwMDAwMGJhNzI4MzFmMTNkZjk5OWU3OTZmMmFkNTAxYTFiMmRl",
   "tracks": [
     {
       "added_at": "2021-10-21 15:13:27",
@@ -197,6 +197,22 @@
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
+      "added_at": "2022-08-19 01:20:39",
+      "album": {
+        "name": "Hoy Te Quiero Ver",
+        "url": "https://open.spotify.com/album/7dw571unUolJcPGlAvGAlA"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "Hoy Te Quiero Ver",
+      "url": "https://open.spotify.com/track/6hAXI7z8UtMDEL4B7OHIaA"
+    },
+    {
       "added_at": "2021-10-21 15:13:27",
       "album": {
         "name": "Te Vi",
@@ -235,6 +251,26 @@
       "duration_ms": 265306,
       "name": "Fuiste T\u00fa (feat. Gaby Moreno)",
       "url": "https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy"
+    },
+    {
+      "added_at": "2022-08-19 01:49:24",
+      "album": {
+        "name": "En Vivo Desde El Lunario",
+        "url": "https://open.spotify.com/album/246jrgfPP0a1I8yqsZL1SB"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 187620,
+      "name": "Tauro Con Leo - En Vivo Desde El Lunario",
+      "url": "https://open.spotify.com/track/4uaUXp8CFU4XMIBgKCzYDk"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -497,6 +533,26 @@
       "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Te Llor\u00e9 Un R\u00edo",
+        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 230811,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
+    },
+    {
       "added_at": "2022-02-18 04:06:10",
       "album": {
         "name": "Llamada Perdida",
@@ -547,26 +603,6 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Te Llor\u00e9 Un R\u00edo",
-        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 230811,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1041,26 +1077,6 @@
       "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
     },
     {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "Eres para M\u00ed (with Anita Tijoux)",
-      "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
-    },
-    {
       "added_at": "2022-02-01 00:50:26",
       "album": {
         "name": "00:00",
@@ -1107,6 +1123,26 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 192760,
+      "name": "Eres para M\u00ed (with Anita Tijoux)",
+      "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1277,24 +1313,20 @@
       "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
     },
     {
-      "added_at": "2021-10-21 15:13:27",
+      "added_at": "2022-06-30 17:32:52",
       "album": {
-        "name": "Bajo La Mesa",
-        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
+        "name": "Provocaciones",
+        "url": "https://open.spotify.com/album/0ny2GEEopJ4UOZmMK5R7BK"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Jorge Gamboa Patr\u00f3n",
+          "url": "https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu"
         }
       ],
-      "duration_ms": 157080,
-      "name": "Bajo La Mesa",
-      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
+      "duration_ms": 287000,
+      "name": "Ya Empaqu\u00e9 Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6vf4ZTuoFsHWFV2agprdZc"
     },
     {
       "added_at": "2022-03-11 03:14:22",
@@ -1317,20 +1349,24 @@
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
     },
     {
-      "added_at": "2022-06-30 17:32:52",
+      "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Provocaciones",
-        "url": "https://open.spotify.com/album/0ny2GEEopJ4UOZmMK5R7BK"
+        "name": "Bajo La Mesa",
+        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
       },
       "artists": [
         {
-          "name": "Jorge Gamboa Patr\u00f3n",
-          "url": "https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Ya Empaqu\u00e9 Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6vf4ZTuoFsHWFV2agprdZc"
+      "duration_ms": 157080,
+      "name": "Bajo La Mesa",
+      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
     },
     {
       "added_at": "2022-04-04 18:07:34",
@@ -1445,26 +1481,6 @@
       "url": "https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9"
     },
     {
-      "added_at": "2022-04-14 00:00:00",
-      "album": {
-        "name": "A Veces Bien Y A Veces Mal",
-        "url": "https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 145783,
-      "name": "A Veces Bien Y A Veces Mal",
-      "url": "https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri"
-    },
-    {
       "added_at": "2021-10-26 03:10:37",
       "album": {
         "name": "Llueve sobre mojado",
@@ -1563,6 +1579,26 @@
       "duration_ms": 173021,
       "name": "Oye",
       "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
+    },
+    {
+      "added_at": "2022-04-14 00:00:00",
+      "album": {
+        "name": "A Veces Bien Y A Veces Mal",
+        "url": "https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 145783,
+      "name": "A Veces Bien Y A Veces Mal",
+      "url": "https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1727,38 +1763,6 @@
       "duration_ms": 210302,
       "name": "Dime t\u00fa",
       "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Cristina",
-        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Heroe",
-      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
     }
   ],
   "unique_name": "Radio Coraz\u00f3n",

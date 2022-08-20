@@ -4,7 +4,7 @@
 
 > Django and beyond.
 
-87 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
+88 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Swing Suspens](https://open.spotify.com/track/5EDDKBAMxFDvG3f7D6v93l) | [Marcel Loeffler](https://open.spotify.com/artist/0DglDT7eUNaSWf99w39e2m) | [Source Manouche](https://open.spotify.com/album/3mf1RSVpwCZZmDaY9nmN1o) | 3:23 | 2021-02-04 |  |
 | [Tchavolo Swing](https://open.spotify.com/track/7KTD9w6YRemUGglOZiuA4t) | [Havana Swing](https://open.spotify.com/artist/3PCJQXCDzJpFPiAYvmQJ98) | [Django's Lion](https://open.spotify.com/album/5rChKi1KkeA9VyLu3Isgga) | 2:33 | 2021-02-04 |  |
 | [The Devil's Swing](https://open.spotify.com/track/03MATAzAcAb1Z9jLcsmP2i) | [The Bridge City Sinners](https://open.spotify.com/artist/67koLjNJIwd3at8sM8EAkt) | [Unholy Hymns](https://open.spotify.com/album/57KLMex0JrodIDGfeGWST2) | 2:26 | 2021-08-20 |  |
+| [The Good Life](https://open.spotify.com/track/7rnnwvPsGUdQQsZPeFHb6H) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [The Good Life](https://open.spotify.com/album/6pTKBoSyVVTCW97iRXXBAo) | 3:15 | 2022-08-19 |  |
 | [Tico Tico](https://open.spotify.com/track/385JaZTfI5676RUcXfELR3) | [The Black Market Trust](https://open.spotify.com/artist/05YUfl0SzLH3OqbAICDULQ) | [Anything for You](https://open.spotify.com/album/5XzaYOo5muDfF8O0sfKMNU) | 2:24 | 2021-02-04 |  |
 | [Trompettes de la renommée](https://open.spotify.com/track/0dNpnqNn3q0tz2HP9ADZOC) | [Les pommes de ma douche](https://open.spotify.com/artist/2851SiC9O0PIsVKjNMtj4f) | [Emules de Django, disciples de Brassens](https://open.spotify.com/album/34wWpd6C8HJTNetiPekD7g) | 3:53 | 2021-02-04 |  |
 | [Vette](https://open.spotify.com/track/0aqTTdQrufrkfAPcxshXLi) | [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Selmer \#607](https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z) | 3:31 | 2021-02-04 |  |

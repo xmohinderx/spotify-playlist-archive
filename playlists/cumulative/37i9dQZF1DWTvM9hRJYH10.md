@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Megan Moroney
 
-215 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+218 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Doctor](https://open.spotify.com/track/4Nor2AyPPlYeXysD5vHcPY) | [Kamryn Palmer](https://open.spotify.com/artist/0l8kaiWF1RdEZUiUXAIccL) | [Doctor](https://open.spotify.com/album/3l0pKQEEQQnkTCgqcDsVwM) | 3:23 | 2022-02-11 | 2022-06-01 |
 | [Don't Have the Heart](https://open.spotify.com/track/6oWtcMZEvn4QlG3XWFbDcW) | [Anslee Davidson](https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7) | [Don't Have the Heart](https://open.spotify.com/album/3JKLVJ0VF6UaVI92q3fuFW) | 3:02 | 2022-07-22 |  |
 | [Elephant](https://open.spotify.com/track/0XQVTP037rHv3D4zrAJo4J) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/2TP01rVGpfAYeAie5op5el) | 3:20 | 2021-12-31 | 2022-01-08 |
+| [Enough](https://open.spotify.com/track/15poSUJkngb2fNk04ECdTr) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Enough](https://open.spotify.com/album/4EkLOP880Zw0F4Gnq1ltuj) | 3:20 | 2022-08-19 |  |
 | [Even the Stars](https://open.spotify.com/track/4VUI8ZaB2FxFvFYhG2XOO7) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Even the Stars](https://open.spotify.com/album/4GHwtO4PjPA3rNNuEkFRi4) | 3:35 | 2022-03-04 | 2022-08-02 |
 | [Every Last Thing](https://open.spotify.com/track/5qQNPkFOoOPT4IAlmHX0yH) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Every Last Thing](https://open.spotify.com/album/4vsOyrjgHxAsxklWp9DJ0X) | 2:44 | 2021-12-31 | 2022-01-08 |
 | [Every Single Summer](https://open.spotify.com/track/3v9UHYWzdGvnFStsYApZ7V) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Every Single Summer](https://open.spotify.com/album/1Wp2dRrTZCwif820AT9MXY) | 2:59 | 2022-01-14 | 2022-08-02 |
@@ -63,6 +64,7 @@
 | [First Time](https://open.spotify.com/track/3CusVXKAMVGcxv9NcB4mHP) | [Brooks Huntley](https://open.spotify.com/artist/0qkwQ7ZLjeOdypr1UQCe9m) | [First Time](https://open.spotify.com/album/1qO6Xi9yMZEhLGKZqsVmcc) | 3:08 | 2021-12-31 |  |
 | [Fix You Too](https://open.spotify.com/track/2dOz227iHvVgTiVDVHOicN) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Fix You Too](https://open.spotify.com/album/2OJmbi6N4nP1yDIJRYdHot) | 3:07 | 2022-07-15 |  |
 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 | 2022-07-29 |  |
+| [Get Even](https://open.spotify.com/track/36l59Hx86AH7T3LpMgZA3F) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Get Even](https://open.spotify.com/album/3jViv3WtbhilkvlwXDdrFq) | 2:58 | 2022-08-19 |  |
 | [Getting in the Way](https://open.spotify.com/track/16XCzY9soTLQtrVEgK1Nkf) | [Heath Bennett](https://open.spotify.com/artist/41hA7Bgps1E23zJmxn14lS), [Jara Ward](https://open.spotify.com/artist/0ML9ZqnIXEFy5NvrZydFER) | [Getting in the Way](https://open.spotify.com/album/4Lnk7OJOPcQeGiTu4eHRX8) | 3:56 | 2022-02-18 |  |
 | [Got the Girl](https://open.spotify.com/track/5MTuBhO3QxTht2NeRkLwuI) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Got the Girl](https://open.spotify.com/album/5DT8MBGd52UwQeDwQNrtwM) | 2:43 | 2021-12-31 |  |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-02-25 |  |
@@ -118,6 +120,7 @@
 | [Love You Now, Love You Later](https://open.spotify.com/track/5IE9hrw4ToKfw2pO08If5j) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Love You Now, Love You Later](https://open.spotify.com/album/7hAYEzQB22bvzQjRZPvxSe) | 2:26 | 2021-12-31 | 2022-07-29 |
 | [LOVERBOY](https://open.spotify.com/track/2QRUzQzXQ7GEZRe9rA9WbL) | [Jody Chappell](https://open.spotify.com/artist/7C3byYIVDoWA1JExCcwQMK) | [LOVERBOY](https://open.spotify.com/album/2NbqvUAyCV2KaQeE32M41m) | 3:19 | 2021-12-31 | 2022-02-12 |
 | [Lucky Me](https://open.spotify.com/track/6dkKeMSmezjgacxO4SaxuZ) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Lucky Me](https://open.spotify.com/album/1LfLPB9XWHNwksW1r0JjhU) | 3:27 | 2021-12-31 |  |
+| [Made 4](https://open.spotify.com/track/4D3ncJSklJygckj0iLb5q7) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Made 4](https://open.spotify.com/album/0Wjel1zCGyyNdt1ofyi4OL) | 2:49 | 2022-08-19 |  |
 | [Make It Past Georgia](https://open.spotify.com/track/2jt5TmTYrmdr46cGHrcFjq) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Make It Past Georgia](https://open.spotify.com/album/7z68pYfdYT9aRs15woSgh1) | 3:21 | 2021-12-31 | 2022-07-29 |
 | [Make It Past Georgia](https://open.spotify.com/track/7aRVF1U72PPCTJiSX2vRpd) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 3:21 | 2022-07-22 |  |
 | [Makeup Is Expensive](https://open.spotify.com/track/00JNpfynO2Y9VWhIJkmrlE) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Makeup Is Expensive](https://open.spotify.com/album/5pGYbtCiSeuqTu9J4Digmw) | 3:18 | 2021-12-31 |  |

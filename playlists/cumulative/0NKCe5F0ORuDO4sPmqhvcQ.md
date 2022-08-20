@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-289 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+291 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bad Girl Like Me](https://open.spotify.com/track/6J9A9BonPgsE2zH1bEe2QC) | [Sabby Sousa](https://open.spotify.com/artist/4wGT7z6uSZfL2KdmUtG8d6), [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Bad Girl Like Me](https://open.spotify.com/album/2toy13E6wMIWqa2nf9fS9M) | 3:24 | 2022-08-06 |  |
 | [Be Some Body](https://open.spotify.com/track/25etNFi42QQx8lc97rLp55) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Be Some Body](https://open.spotify.com/album/1T2D4Si1kGylfXkPj7VjyW) | 3:01 | 2022-06-24 |  |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-31 | 2022-03-10 |
+| [Belong](https://open.spotify.com/track/4WlZdEHBzXXEAzxhtDR9H2) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Belong](https://open.spotify.com/album/3utFW4iaHUTEV6MjTqQnE0) | 5:10 | 2022-08-19 |  |
 | [Beloved](https://open.spotify.com/track/3A0CuG6A2FsdwwLyva84r1) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 3:19 | 2022-08-12 |  |
 | [Best Part About You](https://open.spotify.com/track/3dxIrAJ1fp8c8rOscz0VLa) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [EVA GIIA](https://open.spotify.com/artist/31Xr6ZWHElOGqjKT7NfL3x) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:29 | 2022-07-21 |  |
 | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4) | 3:25 | 2022-02-04 | 2022-02-16 |
@@ -68,6 +69,7 @@
 | [Devotion](https://open.spotify.com/track/7A19RHgKClfXscuuaLS7i9) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:51 | 2022-07-21 |  |
 | [Distant Lands](https://open.spotify.com/track/0YeaRKy0gwdUI1d68RvefB) | [Leena](https://open.spotify.com/artist/2mEHiTKHiOWzrLPReJDoAD), [Gena](https://open.spotify.com/artist/3MqzFFAm4gc6nzAcWE2gjT) | [Labyrinth of the Subconscious](https://open.spotify.com/album/0Hj5xbQWBeWOMwoOqsqk4F) | 3:33 | 2022-02-11 | 2022-03-10 |
 | [Do It Again](https://open.spotify.com/track/41OIPsB7nh3GOUWD0Eukwy) | [Frison](https://open.spotify.com/artist/6rdBjC3pWmC5dKZkqgUOrP), [Dash30](https://open.spotify.com/artist/55eCRqfYWfk2QJWjIrPPXC) | [Daydream](https://open.spotify.com/album/6qVMdlnLSvSZr9o8WK4uN9) | 3:05 | 2022-07-24 |  |
+| [Do You Want My Love](https://open.spotify.com/track/7jwdL5htUUWezSZllV5l23) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [This Can’t Be Everything](https://open.spotify.com/album/0S3K3wCAeOAzHueZHDlM1f) | 4:28 | 2022-08-19 |  |
 | [Doctor](https://open.spotify.com/track/5UenHnGCK9aY3VdHuwm1FZ) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Doctor](https://open.spotify.com/album/6z2IbCqkj2layBN9GRgyfK) | 3:10 | 2022-01-21 | 2022-02-16 |
 | [Dodgeball \(Lightyear Remix\)](https://open.spotify.com/track/39nJPEdkQzSFakgt1mZ3V8) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Lightyear](https://open.spotify.com/artist/1rJ2jr0BuFv7RGACToKrKc) | [Dodgeball \(Lightyear Remix\)](https://open.spotify.com/album/4xX8Pab64QMnsSRuOWndRr) | 2:46 | 2022-06-30 |  |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-31 | 2022-03-10 |

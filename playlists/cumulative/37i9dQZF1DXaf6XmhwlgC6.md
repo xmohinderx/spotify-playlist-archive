@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-96 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+97 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2022-03-30 |  |
 | [Drops](https://open.spotify.com/track/1R8Nr8bahMl4LcE91nSUB8) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Drops](https://open.spotify.com/album/7ptUhLa9kHS0pKuG04CPXN) | 4:34 | 2022-03-30 |  |
 | [Estuarium](https://open.spotify.com/track/2ukibgP8lmxgYTHEqcdikz) | [The Eventide](https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6) | [Estuarium](https://open.spotify.com/album/13M0hOUhKMTnKYH0AYFZiv) | 3:10 | 2022-03-30 |  |
+| [Exit](https://open.spotify.com/track/065wPKi9Ldumw5BqGSqWA0) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Exit](https://open.spotify.com/album/4ecx91bGlsoXRz7P66I04O) | 2:11 | 2022-08-19 |  |
 | [Fade Away](https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 4:02 | 2022-03-30 |  |
 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 | 2022-03-30 |  |
 | [Fidelity](https://open.spotify.com/track/7aVZPC2jGVBNQ67laOUowW) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Fidelity](https://open.spotify.com/album/1JepRozB8KitEG6WdBLzdT) | 3:04 | 2022-08-05 |  |

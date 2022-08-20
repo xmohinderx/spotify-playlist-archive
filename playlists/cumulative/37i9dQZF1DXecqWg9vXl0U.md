@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Cuco.
 
-146 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
+148 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Elektro](https://open.spotify.com/track/1gEBSszkCf70rRdodyIklS) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Elektro](https://open.spotify.com/album/7Jx316TA5SuowUIRxqUHSz) | 3:25 | 2022-03-25 |  |
 | [es mejor](https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [es mejor](https://open.spotify.com/album/7CxEhuohjm1rOzuJBszNRZ) | 2:56 | 2022-03-25 | 2022-07-29 |
 | [Escondida](https://open.spotify.com/track/2GcRx1c4uCLhuFsjM7fBNY) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Escondida](https://open.spotify.com/album/1SojZjLoZRpRDHWO9Y9ZLJ) | 2:55 | 2022-03-25 |  |
-| [Espacio Pequeño](https://open.spotify.com/track/0A0zDB4nPLy6HyfX4yix3J) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Espacio Pequeño](https://open.spotify.com/album/2heNAEQnKqh1K7ITQqcgbx) | 4:46 | 2022-07-04 |  |
+| [Espacio Pequeño](https://open.spotify.com/track/0A0zDB4nPLy6HyfX4yix3J) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Espacio Pequeño](https://open.spotify.com/album/2heNAEQnKqh1K7ITQqcgbx) | 4:46 | 2022-07-04 | 2022-08-20 |
 | [Especial](https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3) | 4:02 | 2022-04-22 |  |
 | [Estrellas](https://open.spotify.com/track/5Wz6o3nNpIJNDUjAFw0RKv) | [RoseAngel](https://open.spotify.com/artist/2EWmW3xXoh1Y1R80p6zfjY) | [Estrellas](https://open.spotify.com/album/2eVUeeC8cgrtjpRn3cYfWR) | 3:11 | 2022-04-08 | 2022-05-05 |
 | [Falling into You](https://open.spotify.com/track/6y4xgKY4Y25mjumNDWWEW3) | [RoseAngel](https://open.spotify.com/artist/2EWmW3xXoh1Y1R80p6zfjY) | [Falling into You](https://open.spotify.com/album/15v5p87smN2yvo3RaEVOFn) | 3:18 | 2022-03-25 | 2022-04-19 |
@@ -84,6 +84,7 @@
 | [Me da Miedo el Amor](https://open.spotify.com/track/6eSxEYhNYmGjXbja4IcGQH) | [Teresa Corral](https://open.spotify.com/artist/0D5px8yeMYKi5dHYkrxcZt) | [Me da Miedo el Amor](https://open.spotify.com/album/7HbEK2LtOfEvDWRSuv9BOc) | 2:49 | 2022-03-25 | 2022-05-16 |
 | [Melodía de Dos \- Demo](https://open.spotify.com/track/4GwdjQUrTd2eje3yN7PUgK) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Melodía de Dos \(Demo\)](https://open.spotify.com/album/1ORGTxaHnffAYdkDmisKGZ) | 3:40 | 2022-03-25 | 2022-07-29 |
 | [mi amiga & yo](https://open.spotify.com/track/6ukxKZD87THmjrF2utaAGF) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [mi amiga & yo](https://open.spotify.com/album/6XAO4Ieu8TmJ1Fa3UBI5ms) | 2:48 | 2022-03-25 |  |
+| [Mi Habitación](https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Mi Habitación](https://open.spotify.com/album/52ZsUG7LV159qKUKOyCjHF) | 2:35 | 2022-08-19 |  |
 | [Mirando](https://open.spotify.com/track/64ekrXN8XATh5MaUtLT2LI) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mirando](https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0) | 3:37 | 2022-03-25 |  |
 | [Moncler](https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Moncler](https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9) | 3:06 | 2022-03-25 |  |
 | [moon dreams](https://open.spotify.com/track/5JHtjHDRtyalEZKCNmEyA4) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [coffee & a cig](https://open.spotify.com/album/4NefaGha9X5oeSKH2UHG1d) | 3:17 | 2022-03-25 | 2022-07-26 |
@@ -101,7 +102,7 @@
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2022-03-25 | 2022-06-25 |
 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 | 2022-03-25 |  |
 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 | 2022-03-25 | 2022-04-19 |
-| [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 | 2022-06-24 |  |
+| [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 | 2022-06-24 | 2022-08-20 |
 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 | 2022-03-25 | 2022-07-05 |
 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 | 2022-03-25 |  |
 | [Película](https://open.spotify.com/track/3Nde02lABJ4GmP3xFM2hwG) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Película](https://open.spotify.com/album/14aRXGJzyAV3zwpNcK3mQz) | 3:11 | 2022-04-08 | 2022-07-28 |
@@ -116,6 +117,7 @@
 | [Quiero Ser](https://open.spotify.com/track/6RuBekPX1SfnHlRc3lQlZo) | [Astronaut Project](https://open.spotify.com/artist/6l1UufU4b8ZUjVJcufJWwn) | [Quiero Ser](https://open.spotify.com/album/1FL1yWAmp3TJOnVTSO04ow) | 2:31 | 2022-03-25 | 2022-05-09 |
 | [Qué me vas a contar](https://open.spotify.com/track/06Uhw7KLSBqAJqYy2fdjiN) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Qué me vas a contar](https://open.spotify.com/album/1a1WTsbfOeGHCOXPqMahQv) | 2:45 | 2022-03-25 |  |
 | [Realidad](https://open.spotify.com/track/55mKDXgmHh9zhtWmTJbIzI) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Realidad](https://open.spotify.com/album/3mUJ4dvBB1ClRg0MrnyEZO) | 3:01 | 2022-03-25 | 2022-07-28 |
+| [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 | 2022-08-19 |  |
 | [Rewind](https://open.spotify.com/track/7aCLiSRpbxWZ0YCiQW9bDh) | [Fishlights](https://open.spotify.com/artist/3FV3XPfp73YhW5ZuYuR7KR) | [Rewind](https://open.spotify.com/album/0jbfIkQbXZEV9dVxqEKn9S) | 3:05 | 2022-03-25 | 2022-05-11 |
 | [roncola](https://open.spotify.com/track/36KSajo0NyH3eGgbS4AuJ7) | [Ankli](https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI) | [roncola](https://open.spotify.com/album/7wBnQpzEspxCuDIfBcvtH9) | 2:52 | 2022-03-25 |  |
 | [Sangre y Cristal](https://open.spotify.com/track/5RSfZ8sNVLUSFkr0xzs4H3) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Si un Día](https://open.spotify.com/album/4AxBZOLPSWVEYBtcmObljJ) | 1:58 | 2022-03-25 | 2022-07-29 |

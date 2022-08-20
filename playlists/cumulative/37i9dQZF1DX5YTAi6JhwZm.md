@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz to get you in a good mood.
 
-144 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
+146 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Honey Dripper](https://open.spotify.com/track/0V75nAVrYddcZA41d8MtKn) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:22 | 2022-04-13 |  |
 | [Honeysuckle Rose](https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:50 | 2022-02-03 |  |
 | [HOP](https://open.spotify.com/track/5Irw0xyFo1FB6qD1x8DDcl) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [HOP](https://open.spotify.com/album/3No8sszndBhwqacWUARKAv) | 2:20 | 2021-12-17 | 2022-03-02 |
+| [Hot Mallets](https://open.spotify.com/track/3Bj1fTJC5zIqAUybuCyRl2) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [The Complete Victor Lionel Hampton Sessions, Vol\. 2](https://open.spotify.com/album/2cDa78D61i3gH89oELnQ1r) | 2:16 | 2022-08-19 |  |
 | [How it feels pt\. 2](https://open.spotify.com/track/4IBfnogykVhpiDLiQ7OPm0) | [Harald Lassen](https://open.spotify.com/artist/5S7kHKrpKHvzpQSYw9SMx1), [Bram de Looze](https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG) | [How It Feels Pt\. 2](https://open.spotify.com/album/63cCSdLjj0LDiZTP1WhTcB) | 4:26 | 2021-12-17 | 2022-03-02 |
 | [I Got Rhythm](https://open.spotify.com/track/3p4C7vCwkqOD3bSlh96pls) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [The Hard Swing](https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz) | 3:07 | 2022-03-04 |  |
 | [I Wish I Knew](https://open.spotify.com/track/11yFXAL7mtcXaEz8CnumIq) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Blue's Moods](https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw) | 4:26 | 2022-03-04 |  |
@@ -127,6 +128,7 @@
 | [That Old Black Magic](https://open.spotify.com/track/7hkaJ4CZ3LIDjCVFXAp6N6) | [Denis Solee](https://open.spotify.com/artist/2D90eAxzLfSL7KkvptyUtF), [The Beegie Adair Trio](https://open.spotify.com/artist/7tAni5NIpM2GBzOQMDSgVa) | [That Old Black Magic](https://open.spotify.com/album/21MsGvFf6FdX3HPB0kCqEQ) | 4:25 | 2021-12-17 |  |
 | [The Best Things In Life Are Free](https://open.spotify.com/track/4QWh5rzYlmp30SUZrw7Czk) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:26 | 2021-12-17 |  |
 | [The Call](https://open.spotify.com/track/6dr3C76wvbQJty7WvNG7tG) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [The Call](https://open.spotify.com/album/43moPGlUvUG7X0uAVb7yFd) | 4:03 | 2021-12-17 |  |
+| [The Cape Verdean Blues \- Rudy Van Gelder Edition / 2003 Remastered](https://open.spotify.com/track/2Z7Z8BDwjZQeYuzwe3LdOp) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [The Cape Verdean Blues](https://open.spotify.com/album/2jTvEM76ioutKODSdPllkr) | 4:59 | 2022-08-19 |  |
 | [The Chant \(Live 1960\)](https://open.spotify.com/track/1mtO7k5FGRjlJmrM9nf5GH) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Live in Paris](https://open.spotify.com/album/1rNkK7VLotjAHOQJ08nQe1) | 9:02 | 2022-02-25 |  |
 | [The Critic's Choice](https://open.spotify.com/track/67cJY01l5qsL6ckW0OgyHK) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Daniel Moore](https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 2:19 | 2022-01-13 |  |
 | [The Eternal Triangle](https://open.spotify.com/track/7mV4LigxLh80JjZlSxEd9M) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Sonny Side Up](https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY) | 14:10 | 2021-12-17 | 2022-06-23 |

@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 227306,
       "name": "Dos Cruces En La Curva",
       "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 215186,
       "name": "El Capitan Fantasma",
       "url": "https://open.spotify.com/track/11OvGYqYhmq0bZ7UAysOKw"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 168320,
       "name": "El Jardin De Las Flores",
       "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 147453,
       "name": "El Mandil\u00f3n",
       "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
@@ -599,6 +599,24 @@
       "duration_ms": 165480,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/7yPKtlNWxPoPdB0MgI2YLh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128666,
+      "name": "Flor De Las Flores",
+      "url": "https://open.spotify.com/track/41ztdXuWnrY8B9Z5tKPzTt"
     },
     {
       "album": {
@@ -865,7 +883,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 160813,
       "name": "Los Dos Contrabandos",
       "url": "https://open.spotify.com/track/5l4K1ifEJoN9zBYhlw1HkX"

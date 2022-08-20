@@ -4,7 +4,7 @@
 
 > Historias y versos que tocan la piel.
 
-127 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/6l3dGa8zCDeH4FpHS3TJ2w)
+128 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/6l3dGa8zCDeH4FpHS3TJ2w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Todo se transforma](https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Eco](https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7) | 3:37 | 2021-07-29 |  |
 | [Todos los ojos te miran \(feat\. Chico Buarque\)](https://open.spotify.com/track/4DW7Ve6nklGVl1Stswkya6) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Todos los ojos te miran](https://open.spotify.com/album/1GPzyUlurqWS0KjG8g2J4n) | 4:13 | 2021-07-29 | 2022-07-29 |
 | [Todos los ojos te miran \(feat\. Chico Buarque\)](https://open.spotify.com/track/1sWWb3JaGaoHGYoAs6ZAgu) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 4:13 | 2021-07-29 |  |
+| [Trapecistas \- En Vivo](https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Bernardo Quesada](https://open.spotify.com/artist/7tQHfY7mUkkaHtPaJaey1T) | [20 Años de Viaje, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5XJMXkdld5UNaly7xfZMtL) | 4:44 | 2022-08-19 |  |
 | [Trova Azul](https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Trova Azul](https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K) | 3:51 | 2021-07-29 |  |
 | [Tu Fantasma](https://open.spotify.com/track/70H4C8Q4HFjWC3kHNdpT79) | [3 de Copas](https://open.spotify.com/artist/4Zwwo4j8jNzdv89HPPfRCy) | [Milagritos](https://open.spotify.com/album/3ZNrH33J08oFN8H6DkVI1M) | 3:36 | 2021-07-29 |  |
 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 | 2021-07-29 |  |

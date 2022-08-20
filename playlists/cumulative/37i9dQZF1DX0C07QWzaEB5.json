@@ -284,6 +284,24 @@
     },
     {
       "album": {
+        "name": "CRAZY HAZY",
+        "url": "https://open.spotify.com/album/4xbzcf5etib5p4B6vdJs9G"
+      },
+      "artists": [
+        {
+          "name": "Yang Joon Il",
+          "url": "https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208429,
+      "name": "CRAZY HAZY",
+      "url": "https://open.spotify.com/track/1sPmQ0sCoM0jUOKX1qkIl0"
+    },
+    {
+      "album": {
         "name": "Crazy like feather",
         "url": "https://open.spotify.com/album/6LVmGqpEpyliyUqoE1QryK"
       },

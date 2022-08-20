@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,182 likes - 60 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,231 likes - 60 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 59 | [Easter](https://open.spotify.com/track/2vNQxUNCzkSwRlOD9UKcnW) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg) | [Entanglement](https://open.spotify.com/album/4FN58DPGKCKisIpqEmu7av) | 5:24 |
 | 60 | [Waiting For The Wind To Blow](https://open.spotify.com/track/65Pr81qX8J7GuxIIlJHak1) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 5:34 |
 
-Snapshot ID: `MTY2MDc1NDMyMywwMDAwMDAwMDRmNTExZjgyZmEyMGQxMWUxZmZkZWNkN2NkMWY1ODRj`
+Snapshot ID: `MTY2MDkyOTkyOSwwMDAwMDAwMDdjNTVmZmQ1ZWI3NTFhNzVjN2U1Yjc1NjczZTE5MmQy`

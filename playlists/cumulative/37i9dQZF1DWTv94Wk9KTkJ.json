@@ -1,11 +1,37 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "The sound of 90s Jungle rave. Cover: Roni Size",
+  "description": "Fabio & Grooverider curate Jungle Classics to celebrate Notting Hill Carnival!",
   "name": "Jungle Classics",
   "published_playlist_ids": [
     "6zmrmBwg0PlQPL7DiorJDW"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Fabio & Grooverider: 25 Years of Drum & Bass",
+        "url": "https://open.spotify.com/album/47dIhhn4qcCG3Qa5fOijmS"
+      },
+      "artists": [
+        {
+          "name": "Ed Rush",
+          "url": "https://open.spotify.com/artist/6gj4aZLxVGCdFPMThH6q6q"
+        },
+        {
+          "name": "Optical",
+          "url": "https://open.spotify.com/artist/1vRz3sCz7iKtrmXK4HB1MI"
+        },
+        {
+          "name": "Fierce",
+          "url": "https://open.spotify.com/artist/6IDHX7nEOQTGbUeIETi45e"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367906,
+      "name": "Alien Girl",
+      "url": "https://open.spotify.com/track/4wfLJ3Qaarh8jQRrYGS1wG"
+    },
     {
       "album": {
         "name": "15 Years of Metalheadz (Remastered Full-Length Versions)",
@@ -37,7 +63,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 441280,
       "name": "Arabian Nights",
       "url": "https://open.spotify.com/track/09nzBKF2f5dReLfTl4E2FI"
@@ -62,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Drum&BassArena Anthology 2",
+        "url": "https://open.spotify.com/album/1eOsA0Z2RA9EwzjpIAcBCZ"
+      },
+      "artists": [
+        {
+          "name": "Q Project",
+          "url": "https://open.spotify.com/artist/6vdXDpxsaNXsxnr1D8nwhk"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359658,
+      "name": "Ask Not",
+      "url": "https://open.spotify.com/track/51rBLsTx50VmpbbUzCP7sp"
+    },
+    {
+      "album": {
         "name": "Producer 01",
         "url": "https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl"
       },
@@ -80,6 +124,60 @@
     },
     {
       "album": {
+        "name": "Drum&BassArena Anthology 2",
+        "url": "https://open.spotify.com/album/1eOsA0Z2RA9EwzjpIAcBCZ"
+      },
+      "artists": [
+        {
+          "name": "Foul Play",
+          "url": "https://open.spotify.com/artist/67FRYUfxVqKOrS3x4emvL8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399334,
+      "name": "Being With You",
+      "url": "https://open.spotify.com/track/7MMoaWN2udoWXtzzqwm3t3"
+    },
+    {
+      "album": {
+        "name": "Drum&BassArena Anthology 2",
+        "url": "https://open.spotify.com/album/1eOsA0Z2RA9EwzjpIAcBCZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Ss",
+          "url": "https://open.spotify.com/artist/6hCo4lPE8hHJydoluW7luI"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380370,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/6kYRYTAG6HRquVbw0wBXP8"
+    },
+    {
+      "album": {
+        "name": "Planet V",
+        "url": "https://open.spotify.com/album/6rxF7c2xQojdt0LHzoFiY7"
+      },
+      "artists": [
+        {
+          "name": "Adam F",
+          "url": "https://open.spotify.com/artist/3m38ZSwkLdeBDUhdGnFPrn"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465093,
+      "name": "Brand New Funk",
+      "url": "https://open.spotify.com/track/0rr5PxrbJY58v6JuU5Fjcf"
+    },
+    {
+      "album": {
         "name": "Pure Rave - The Very Best Of Old Skool",
         "url": "https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS"
       },
@@ -91,7 +189,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 340986,
       "name": "Breaking Free",
       "url": "https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8"
@@ -149,10 +247,46 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 350973,
       "name": "Bunn the Sensi - Dub Hustlers Remix",
       "url": "https://open.spotify.com/track/5rwaFjD2ctbrsvh8tFP4cM"
+    },
+    {
+      "album": {
+        "name": "Fabio & Grooverider: 25 Years of Drum & Bass",
+        "url": "https://open.spotify.com/album/47dIhhn4qcCG3Qa5fOijmS"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428317,
+      "name": "Casino Royale",
+      "url": "https://open.spotify.com/track/6QkyvfpNEhuNngCbwIGbuZ"
+    },
+    {
+      "album": {
+        "name": "30 Years Of Rage",
+        "url": "https://open.spotify.com/album/23jTvoFSWLKhfS8BWIm12x"
+      },
+      "artists": [
+        {
+          "name": "Q-Project",
+          "url": "https://open.spotify.com/artist/7mQbqurgWLowz9iumqdV3E"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372053,
+      "name": "Champion Sound",
+      "url": "https://open.spotify.com/track/5HUlait8F98NnmUy8PoKA2"
     },
     {
       "album": {
@@ -167,10 +301,32 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 298000,
       "name": "Chopper",
       "url": "https://open.spotify.com/track/4jwRrAA7n0e37ZxWQ57ulY"
+    },
+    {
+      "album": {
+        "name": "Ray Keith Presents: Celebrating 28 Years of Dread",
+        "url": "https://open.spotify.com/album/3VzhZbLtkiswKmgfQcgt9F"
+      },
+      "artists": [
+        {
+          "name": "The Terrorist",
+          "url": "https://open.spotify.com/artist/3UeHTgwyhJ0e4gHbmt9OZt"
+        },
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364066,
+      "name": "Chopper - Shy FX Remix",
+      "url": "https://open.spotify.com/track/5yPnE6Ce1oOVEW1ANdkZBz"
     },
     {
       "album": {
@@ -185,10 +341,100 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 196773,
       "name": "Circles",
       "url": "https://open.spotify.com/track/2MStwQtYDl90CtcR2D2mpu"
+    },
+    {
+      "album": {
+        "name": "Goldie - Drum & Bass Life",
+        "url": "https://open.spotify.com/album/1yMA2d3Zt8bFnouOU4au3H"
+      },
+      "artists": [
+        {
+          "name": "Adam F",
+          "url": "https://open.spotify.com/artist/3m38ZSwkLdeBDUhdGnFPrn"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205874,
+      "name": "Circles - 7'' Edit",
+      "url": "https://open.spotify.com/track/304JMZX02tKwdRIERv2Tjm"
+    },
+    {
+      "album": {
+        "name": "The Archives 1995-2000",
+        "url": "https://open.spotify.com/album/0BCMJREyslbjmmdyOU6gsF"
+      },
+      "artists": [
+        {
+          "name": "DJ Die",
+          "url": "https://open.spotify.com/artist/3kekxNoUNHgl8dXW3yjC8a"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434770,
+      "name": "Clear Skyz - Remastered",
+      "url": "https://open.spotify.com/track/2wYa49JyeS0bBUpzYdfjmq"
+    },
+    {
+      "album": {
+        "name": "Fabio & Grooverider: 25 Years of Drum & Bass",
+        "url": "https://open.spotify.com/album/47dIhhn4qcCG3Qa5fOijmS"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373718,
+      "name": "Cool Down",
+      "url": "https://open.spotify.com/track/1KZUMB2OV0JBqhb85cWG35"
+    },
+    {
+      "album": {
+        "name": "Fabio & Grooverider: 25 Years of Drum & Bass",
+        "url": "https://open.spotify.com/album/47dIhhn4qcCG3Qa5fOijmS"
+      },
+      "artists": [
+        {
+          "name": "Asylum",
+          "url": "https://open.spotify.com/artist/4LE2CElbO1gds922AiSdxb"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366200,
+      "name": "Da Base II Dark",
+      "url": "https://open.spotify.com/track/5mLJFiXlyzO0XtsUeGvTCT"
+    },
+    {
+      "album": {
+        "name": "Back Catalogue (1)",
+        "url": "https://open.spotify.com/album/3sgNIwSbJ9fjLyL5M83bdL"
+      },
+      "artists": [
+        {
+          "name": "Digital",
+          "url": "https://open.spotify.com/artist/4E1hBOA2Chxa8zDBeINAns"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362019,
+      "name": "Deadline",
+      "url": "https://open.spotify.com/track/4TzRHF5kvdH9Z8D0WOXc4Y"
     },
     {
       "album": {
@@ -221,10 +467,112 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 315385,
       "name": "Dub Plate Style",
       "url": "https://open.spotify.com/track/4uzOxS4N0RXPnuoO0amteG"
+    },
+    {
+      "album": {
+        "name": "30 Years Of Rage",
+        "url": "https://open.spotify.com/album/23jTvoFSWLKhfS8BWIm12x"
+      },
+      "artists": [
+        {
+          "name": "Wots My Code",
+          "url": "https://open.spotify.com/artist/2oyVj5zi616mZj2od6LSsV"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228491,
+      "name": "Dubplate - Original Mix",
+      "url": "https://open.spotify.com/track/2frRwm6fcru9Ba7MeHbaV4"
+    },
+    {
+      "album": {
+        "name": "Diary of a Digital Soundboy",
+        "url": "https://open.spotify.com/album/2AQvEaTftBRkdPm631O1rZ"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "T. Power",
+          "url": "https://open.spotify.com/artist/6RWwgz4MtFCHzptyShPC1c"
+        },
+        {
+          "name": "Top Cat",
+          "url": "https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253173,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/5TV6RtMqvsna7QejxrT4lL"
+    },
+    {
+      "album": {
+        "name": "Retrospect, Vol. 3 (Compiled by Bryan Gee)",
+        "url": "https://open.spotify.com/album/4NOzAzUj0w0Vp26rfD6g0q"
+      },
+      "artists": [
+        {
+          "name": "Roni Size",
+          "url": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300105,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/0e7oJ8jq3JUKSMAHPfvV5l"
+    },
+    {
+      "album": {
+        "name": "Diary of a Digital Soundboy",
+        "url": "https://open.spotify.com/album/2AQvEaTftBRkdPm631O1rZ"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "T. Power",
+          "url": "https://open.spotify.com/artist/6RWwgz4MtFCHzptyShPC1c"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287626,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6ubaO4iPmPCrtSsMkfmw9v"
+    },
+    {
+      "album": {
+        "name": "My Sound (1993-2004)",
+        "url": "https://open.spotify.com/album/4A5MWJNO23SnZ4maBP9Y5R"
+      },
+      "artists": [
+        {
+          "name": "Capone",
+          "url": "https://open.spotify.com/artist/3MG5skX8kY7y3ddc9sCjzH"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362080,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/6qohLmmaqe51pAuuYpzvoK"
     },
     {
       "album": {
@@ -261,7 +609,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 352413,
       "name": "Get Rushed",
       "url": "https://open.spotify.com/track/6OK6ZhiB9aKmlcTzpzTkzx"
@@ -279,7 +627,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 431986,
       "name": "Guess",
       "url": "https://open.spotify.com/track/0NKri6cXGR5Kq8t5BXHVfa"
@@ -297,7 +645,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 270316,
       "name": "Here Comes the Drumz",
       "url": "https://open.spotify.com/track/4bNSfwZXF0cUuWen4kGOFy"
@@ -319,7 +667,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 601536,
       "name": "If I Could Fly - LTJ Bukem's Roll It Mix",
       "url": "https://open.spotify.com/track/03CK2ZmSE76JGn1FHPMp0r"
@@ -341,10 +689,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 269866,
       "name": "Incredible",
       "url": "https://open.spotify.com/track/2Q9F3D53QeclwbsY24cuxO"
+    },
+    {
+      "album": {
+        "name": "Inner City Life",
+        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420266,
+      "name": "Inner City Life",
+      "url": "https://open.spotify.com/track/0O7xFEqePrcTUgOi4qe0uB"
     },
     {
       "album": {
@@ -377,10 +743,46 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 256399,
       "name": "Ism Schism - Mega Dangerous Remix",
       "url": "https://open.spotify.com/track/29DBvRV2y2rAAJTML08WhF"
+    },
+    {
+      "album": {
+        "name": "Retrospect, Vol. 1 (Compiled by Krust & Jumpin Jack Frost)",
+        "url": "https://open.spotify.com/album/4vjqkTq7RnE9fXrrYwVTzg"
+      },
+      "artists": [
+        {
+          "name": "Roni Size",
+          "url": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306893,
+      "name": "It's a Jazz Thing",
+      "url": "https://open.spotify.com/track/2Bo0bCcUSyJJ61Vsnos7W3"
+    },
+    {
+      "album": {
+        "name": "V Classic",
+        "url": "https://open.spotify.com/album/2v6rSLlgweFFDtpDntQVPw"
+      },
+      "artists": [
+        {
+          "name": "Roni Size",
+          "url": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423973,
+      "name": "It's Jazzy",
+      "url": "https://open.spotify.com/track/7wVqeFQqdQ8V6wNjbFKYIv"
     },
     {
       "album": {
@@ -413,7 +815,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 388336,
       "name": "Johnny '94 - Dillinja Remix",
       "url": "https://open.spotify.com/track/6UDQgCyzXVkR7EnlfFwhhb"
@@ -439,10 +841,64 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 319542,
       "name": "Junglist Sound - Serial Killaz Remix",
       "url": "https://open.spotify.com/track/4qhX1YcScEgNYv0OMi4JGy"
+    },
+    {
+      "album": {
+        "name": "30 Years Of Rage",
+        "url": "https://open.spotify.com/album/23jTvoFSWLKhfS8BWIm12x"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatch",
+          "url": "https://open.spotify.com/artist/3ws6T11scXa8qz58yVkEXO"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300008,
+      "name": "Just 4 U London - Kuff Mix",
+      "url": "https://open.spotify.com/track/3dEWwAany0TEi2i4KJtb38"
+    },
+    {
+      "album": {
+        "name": "Frequencies",
+        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
+      },
+      "artists": [
+        {
+          "name": "LFO",
+          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207960,
+      "name": "LFO (Leeds Warehouse Mix)",
+      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
+    },
+    {
+      "album": {
+        "name": "V Classic",
+        "url": "https://open.spotify.com/album/2v6rSLlgweFFDtpDntQVPw"
+      },
+      "artists": [
+        {
+          "name": "Scorpio",
+          "url": "https://open.spotify.com/artist/3eFTNcu3kCvIskNzXllI7C"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418733,
+      "name": "Li-Li",
+      "url": "https://open.spotify.com/track/5MNwcuc9C0v2aO62g9HKbg"
     },
     {
       "album": {
@@ -457,10 +913,120 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 299466,
       "name": "Limb By Limb - DJ SS Remix",
       "url": "https://open.spotify.com/track/7aMmnUhaQdRmBoV2pC17GK"
+    },
+    {
+      "album": {
+        "name": "30 Years Of Rage",
+        "url": "https://open.spotify.com/album/23jTvoFSWLKhfS8BWIm12x"
+      },
+      "artists": [
+        {
+          "name": "Top Buzz",
+          "url": "https://open.spotify.com/artist/78UffBqf5LVC8kfy7ZMRmn"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353195,
+      "name": "Living In Darkness",
+      "url": "https://open.spotify.com/track/7e99icrB0nMDBt1cZ3BBJk"
+    },
+    {
+      "album": {
+        "name": "In Rotation",
+        "url": "https://open.spotify.com/album/7mbsNDCjwQgI6l36S4ydjt"
+      },
+      "artists": [
+        {
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
+        },
+        {
+          "name": "Stamina MC",
+          "url": "https://open.spotify.com/artist/4Dj3ahDCFjotIV1O5Ung6o"
+        },
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/5ygGHl3fcjSnPYYJE9x1P0"
+        },
+        {
+          "name": "Stamina MC Carol Carolina Bela",
+          "url": "https://open.spotify.com/artist/3LwsDbqIT1UpVagPimtEsF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329746,
+      "name": "LK Feat. Stamina MC (Carol Carolina Bela)",
+      "url": "https://open.spotify.com/track/2EiazSYyCSlBEKED2EvysD"
+    },
+    {
+      "album": {
+        "name": "30 Years Of Rage",
+        "url": "https://open.spotify.com/album/23jTvoFSWLKhfS8BWIm12x"
+      },
+      "artists": [
+        {
+          "name": "Zero B",
+          "url": "https://open.spotify.com/artist/5EAJLDcfq4jTZOXctmtjHb"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329933,
+      "name": "Lock Up - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0oYgTBH5dBkm4NRKYnacHT"
+    },
+    {
+      "album": {
+        "name": "Love's Theme / Wise Up (Remix)",
+        "url": "https://open.spotify.com/album/1IZIJ0O0Le0ClVRKtlVnN6"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417221,
+      "name": "Love's Theme",
+      "url": "https://open.spotify.com/track/27zanJuWM1U5QZ6k8M7p7z"
+    },
+    {
+      "album": {
+        "name": "Diary of a Digital Soundboy",
+        "url": "https://open.spotify.com/album/2AQvEaTftBRkdPm631O1rZ"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "T. Power",
+          "url": "https://open.spotify.com/artist/6RWwgz4MtFCHzptyShPC1c"
+        },
+        {
+          "name": "Yush",
+          "url": "https://open.spotify.com/artist/6vG5fLQGKPnMzSbxV4diFH"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330853,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/6AIixnh4cpy9Z2Ju65iLrI"
     },
     {
       "album": {
@@ -475,7 +1041,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 263573,
       "name": "Maximum Booty Style Pt. II",
       "url": "https://open.spotify.com/track/2PWQyaoaNYOQAWBbFHFSYp"
@@ -536,6 +1102,60 @@
     },
     {
       "album": {
+        "name": "Mr. Maverick / Highlander",
+        "url": "https://open.spotify.com/album/2YJxmwGjwAA5pwUlZifJC2"
+      },
+      "artists": [
+        {
+          "name": "Calibre",
+          "url": "https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351720,
+      "name": "Mr. Maverick",
+      "url": "https://open.spotify.com/track/5jPGG0sycNwxFNMIf4exGY"
+    },
+    {
+      "album": {
+        "name": "Producer 01",
+        "url": "https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl"
+      },
+      "artists": [
+        {
+          "name": "LTJ Bukem",
+          "url": "https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529066,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/6CsR5QRDFvvvfEFbG4Ae8S"
+    },
+    {
+      "album": {
+        "name": "Full Cycle Retrospect, Vol.1",
+        "url": "https://open.spotify.com/album/1z8txZreg52xcbcqhxiR2M"
+      },
+      "artists": [
+        {
+          "name": "Roni Size",
+          "url": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341972,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/4sc1vxG0vThlRyH3PW5D8V"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6JDB66oDVAi1E6Fgqv3C4S"
       },
@@ -547,7 +1167,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 477560,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3JSZxKqMPAf3pMQqI8apNI"
@@ -565,7 +1185,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 319666,
       "name": "Only You (Original Mix) [2011 Remastered Version]",
       "url": "https://open.spotify.com/track/2Sn0kVVniQtPXHy3yqRwNt"
@@ -587,10 +1207,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 231529,
       "name": "Original Nuttah 25",
       "url": "https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj"
+    },
+    {
+      "album": {
+        "name": "P-Funk Era / Xpandin Minds",
+        "url": "https://open.spotify.com/album/6BBDJASlUECD0JLKHVVqxJ"
+      },
+      "artists": [
+        {
+          "name": "Pascal",
+          "url": "https://open.spotify.com/artist/7oFOEJjZHWP1Jcf8KyZFiB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377010,
+      "name": "P-Funk Era",
+      "url": "https://open.spotify.com/track/4IXgVaSfSuch1UsZCttR0M"
     },
     {
       "album": {
@@ -631,10 +1269,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 342006,
       "name": "Peace, Love and Unity",
       "url": "https://open.spotify.com/track/7Cfc6dhTAZJSihMsSYMyVD"
+    },
+    {
+      "album": {
+        "name": "Plastic Soul / Palma",
+        "url": "https://open.spotify.com/album/4iXB74FtxTdDyY542cSQPo"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255977,
+      "name": "Plastic Soul",
+      "url": "https://open.spotify.com/track/6tYGNeg1NX4eqX4kPpY18G"
     },
     {
       "album": {
@@ -649,7 +1305,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 428866,
       "name": "Play It for Me",
       "url": "https://open.spotify.com/track/3v2UAm0Tef2HhrCTYiKttl"
@@ -667,7 +1323,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 368941,
       "name": "Pranksters",
       "url": "https://open.spotify.com/track/1ePaN8bYEGckDsyo3YrBNF"
@@ -703,7 +1359,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 370973,
       "name": "Pulp Fiction",
       "url": "https://open.spotify.com/track/6rdX0la76j3RGwtZ3id80o"
@@ -765,10 +1421,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 366264,
       "name": "Quest",
       "url": "https://open.spotify.com/track/4l5Ems8ga12KwHEBVROJ4x"
+    },
+    {
+      "album": {
+        "name": "R-Type",
+        "url": "https://open.spotify.com/album/0Y3bugifyxeyXg6uDWHu3B"
+      },
+      "artists": [
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/46Scby7F7aX92EBG62dhwb"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351066,
+      "name": "R-Type",
+      "url": "https://open.spotify.com/track/7dbLrhsvRgiVuNeH0Z4qmU"
     },
     {
       "album": {
@@ -837,7 +1511,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 390144,
       "name": "R.I.P. - DJ Hype Remix",
       "url": "https://open.spotify.com/track/5MxfsO8miceiyxzZWhvnt7"
@@ -855,7 +1529,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 336810,
       "name": "Rage",
       "url": "https://open.spotify.com/track/6Y9XPY9REWZVamYddqRnZl"
@@ -891,7 +1565,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 423569,
       "name": "Real Hardcore - Johnny Jungle Remix",
       "url": "https://open.spotify.com/track/7DMEdz1YdQQtKIgysDxZeM"
@@ -913,10 +1587,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 244066,
       "name": "Ricky",
       "url": "https://open.spotify.com/track/3TdwYEcg8CJ3PGese6vf59"
+    },
+    {
+      "album": {
+        "name": "Cool Down / Roll On",
+        "url": "https://open.spotify.com/album/7tM2X4Nxg8oyJOkjcAibCi"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390800,
+      "name": "Roll On",
+      "url": "https://open.spotify.com/track/3PKC2or5A3FFoGbHhVIml4"
     },
     {
       "album": {
@@ -949,7 +1641,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 338270,
       "name": "Roll The Beats - Inject The Bass Mix",
       "url": "https://open.spotify.com/track/5ODX11lRRWJ9xj9XAxbzos"
@@ -985,7 +1677,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 256693,
       "name": "Ruff In The Jungle Bizness - Uplifting Vibes Remix",
       "url": "https://open.spotify.com/track/0Y9x1eEwPIub4z520zdblc"
@@ -1029,7 +1721,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 319371,
       "name": "Ruffest Gun Ark - DJ Rap Mix",
       "url": "https://open.spotify.com/track/3IQNyWPEfNQV7YDmvABjgr"
@@ -1051,10 +1743,64 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 276933,
       "name": "Ruffneck Business",
       "url": "https://open.spotify.com/track/6KkDdZ3VBqB6YNRBDXF70u"
+    },
+    {
+      "album": {
+        "name": "Retrospect, Vol. 4 (Compiled by Bryan Gee)",
+        "url": "https://open.spotify.com/album/406QhkLcdXYnoKpPVFZGG2"
+      },
+      "artists": [
+        {
+          "name": "Krust",
+          "url": "https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376560,
+      "name": "Set Speed",
+      "url": "https://open.spotify.com/track/46UB0nopyfva421QE4lcGZ"
+    },
+    {
+      "album": {
+        "name": "Fabio & Grooverider: 25 Years of Drum & Bass",
+        "url": "https://open.spotify.com/album/47dIhhn4qcCG3Qa5fOijmS"
+      },
+      "artists": [
+        {
+          "name": "Nasty Habits",
+          "url": "https://open.spotify.com/artist/0vwtyGuO0WA8e6jW5dR00u"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476615,
+      "name": "Shadow Boxing",
+      "url": "https://open.spotify.com/track/4cU5qrsLFvtKpjuT81LFcO"
+    },
+    {
+      "album": {
+        "name": "Grooverider Presents The Prototype Years",
+        "url": "https://open.spotify.com/album/7ewM0AVaBniZo7cGKssDBm"
+      },
+      "artists": [
+        {
+          "name": "Dillinja",
+          "url": "https://open.spotify.com/artist/5CDTMeaU6dnv24n6e4uAtk"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369266,
+      "name": "Silver Blade",
+      "url": "https://open.spotify.com/track/1s9tcRjndtotvKstBWGGyf"
     },
     {
       "album": {
@@ -1073,7 +1819,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 387374,
       "name": "Sound Control (Remix)",
       "url": "https://open.spotify.com/track/1UuotwszQkTo1d7EmY1gzT"
@@ -1113,10 +1859,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 302906,
       "name": "Sovereign Melody",
       "url": "https://open.spotify.com/track/3MUmAutzgY4mZSBJJ1g57o"
+    },
+    {
+      "album": {
+        "name": "Special Treat / Something Special",
+        "url": "https://open.spotify.com/album/3ig3deskwouXP6yyBvtpBO"
+      },
+      "artists": [
+        {
+          "name": "DJ Die",
+          "url": "https://open.spotify.com/artist/3kekxNoUNHgl8dXW3yjC8a"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370106,
+      "name": "Special Treat",
+      "url": "https://open.spotify.com/track/1s5Bv2NHocHteI45nkHODj"
     },
     {
       "album": {
@@ -1153,7 +1917,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 386734,
       "name": "Super Sharp Shooter (feat. DJ Zinc)",
       "url": "https://open.spotify.com/track/6nj8a3vSzXGv23fgwSKY5B"
@@ -1175,7 +1939,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 238760,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt"
@@ -1266,6 +2030,24 @@
     },
     {
       "album": {
+        "name": "My Sound (1993-2004)",
+        "url": "https://open.spotify.com/album/4A5MWJNO23SnZ4maBP9Y5R"
+      },
+      "artists": [
+        {
+          "name": "Dillinja",
+          "url": "https://open.spotify.com/artist/5CDTMeaU6dnv24n6e4uAtk"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355013,
+      "name": "The Angels Fell",
+      "url": "https://open.spotify.com/track/2KL9mHCn3aSZJzxpJM4HNb"
+    },
+    {
+      "album": {
         "name": "The Angels Fell / Ja Know Ya Big / Brutal Bass (2015 Remasters)",
         "url": "https://open.spotify.com/album/3z5hRBvwqUFDNjKhZGslMm"
       },
@@ -1277,7 +2059,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 353093,
       "name": "The Angels Fell - 2015 Remaster",
       "url": "https://open.spotify.com/track/4PVzD2FbJuMi5TgKNEVURw"
@@ -1313,7 +2095,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 380698,
       "name": "The Cult (The Initiation Test) [2015 Remaster]",
       "url": "https://open.spotify.com/track/6EXhOUR5Zn0mc8aXmXN701"
@@ -1349,10 +2131,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 327962,
       "name": "The Dark Stranger - Origin Unknown Mix",
       "url": "https://open.spotify.com/track/5xqoIzTFlxXRGx86nIVn3b"
+    },
+    {
+      "album": {
+        "name": "30 Years Of Rage",
+        "url": "https://open.spotify.com/album/23jTvoFSWLKhfS8BWIm12x"
+      },
+      "artists": [
+        {
+          "name": "Noise Factory",
+          "url": "https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268412,
+      "name": "The Future - Original Mix",
+      "url": "https://open.spotify.com/track/710iGwlb1HiUFpXv2Ixfs4"
     },
     {
       "album": {
@@ -1371,7 +2171,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 338431,
       "name": "The HitMan",
       "url": "https://open.spotify.com/track/5grETTEGmUbptGZ1dXmgXD"
@@ -1400,6 +2200,24 @@
     },
     {
       "album": {
+        "name": "DJ SS Presents: Formation 200, Pt. 3",
+        "url": "https://open.spotify.com/album/5GjFGbgUiTrthYdEUMBIAD"
+      },
+      "artists": [
+        {
+          "name": "DJ Ss",
+          "url": "https://open.spotify.com/artist/6hCo4lPE8hHJydoluW7luI"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263314,
+      "name": "The Lighter",
+      "url": "https://open.spotify.com/track/6tkNpYnAeGfANgcpLC8x8r"
+    },
+    {
+      "album": {
         "name": "Natural Born Killa (2015 Remaster)",
         "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
       },
@@ -1411,7 +2229,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 389616,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/6UGAuLqCF3dcsRiOfjI8Yh"
@@ -1447,7 +2265,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 370826,
       "name": "The Slammer",
       "url": "https://open.spotify.com/track/0p3R7sblGEUN0AC0yb5LYx"
@@ -1465,7 +2283,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 279540,
       "name": "The Touch",
       "url": "https://open.spotify.com/track/0mbnWhbENhRhtRggrMVvzo"
@@ -1501,7 +2319,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 455120,
       "name": "This Is L.A. - 2021 Remaster",
       "url": "https://open.spotify.com/track/6ATcLYpnpXqoyaDaWPYOVb"
@@ -1537,10 +2355,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 372000,
       "name": "Tokyo Dawn",
       "url": "https://open.spotify.com/track/6rptOwDkD7GcXIBlqP6KCx"
+    },
+    {
+      "album": {
+        "name": "Retrospect, Vol. 4 (Compiled by Bryan Gee)",
+        "url": "https://open.spotify.com/album/406QhkLcdXYnoKpPVFZGG2"
+      },
+      "artists": [
+        {
+          "name": "Scorpio",
+          "url": "https://open.spotify.com/artist/3eFTNcu3kCvIskNzXllI7C"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497600,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/38qKPWcyAn2oOK4qHHC4q9"
     },
     {
       "album": {
@@ -1555,7 +2391,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 375826,
       "name": "Truly One",
       "url": "https://open.spotify.com/track/24BPkzUA2v7yCrV4TJ60Ue"
@@ -1595,10 +2431,46 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 386226,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/0iONLeOXEQkEIvJPgq7nRP"
+    },
+    {
+      "album": {
+        "name": "Twist Em Out",
+        "url": "https://open.spotify.com/album/6m96i8Z5jMal8VmiuvS1al"
+      },
+      "artists": [
+        {
+          "name": "Dillinja",
+          "url": "https://open.spotify.com/artist/5CDTMeaU6dnv24n6e4uAtk"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "Twist Em Out (ft. Skibadee)",
+      "url": "https://open.spotify.com/track/21DTlIUmuCSw2x4yFXaFsB"
+    },
+    {
+      "album": {
+        "name": "Fabio & Grooverider: 25 Years of Drum & Bass",
+        "url": "https://open.spotify.com/album/47dIhhn4qcCG3Qa5fOijmS"
+      },
+      "artists": [
+        {
+          "name": "John B",
+          "url": "https://open.spotify.com/artist/1ytr59gpK22MnyvrvOVCmD"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469841,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/0bAwy8fQaqML2xvqExUPwt"
     },
     {
       "album": {
@@ -1638,6 +2510,64 @@
     },
     {
       "album": {
+        "name": "Fabio & Grooverider: 25 Years of Drum & Bass",
+        "url": "https://open.spotify.com/album/47dIhhn4qcCG3Qa5fOijmS"
+      },
+      "artists": [
+        {
+          "name": "Krust",
+          "url": "https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513280,
+      "name": "Warhead - Steppa Mix",
+      "url": "https://open.spotify.com/track/3xvO35oGHiO5PqWjhnpql3"
+    },
+    {
+      "album": {
+        "name": "Jungle Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/5cUKFvWH5OENoGjbry6pQO"
+      },
+      "artists": [
+        {
+          "name": "Leviticus",
+          "url": "https://open.spotify.com/artist/78jhiSCR4W1RQvj1rT0pwt"
+        },
+        {
+          "name": "Jr Tucker",
+          "url": "https://open.spotify.com/artist/6PGcnQR7s3G0K0u9GEps9b"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266960,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/2FCNHR0kI1jko7E3xHytSQ"
+    },
+    {
+      "album": {
+        "name": "We Are I.E.",
+        "url": "https://open.spotify.com/album/0tZD3DurMqNzntpB60M5cH"
+      },
+      "artists": [
+        {
+          "name": "Lennie De Ice",
+          "url": "https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298004,
+      "name": "We Are I.E. - Original Extended Edit",
+      "url": "https://open.spotify.com/track/7Li4jlU5MVqS5f3J2ooviA"
+    },
+    {
+      "album": {
         "name": "This Is Jungle",
         "url": "https://open.spotify.com/album/4Cj6g8IIVEDFqyaCNtpqlv"
       },
@@ -1653,10 +2583,68 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 294400,
       "name": "Wikkeda!!",
       "url": "https://open.spotify.com/track/3PUGBac7mElPuzPYiSf5Uo"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/2fwoO9L4EcPYmLuhv5UADA"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316728,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/08yUHtVms9Dqewhf8UeaFL"
+    },
+    {
+      "album": {
+        "name": "Jungle Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/5cUKFvWH5OENoGjbry6pQO"
+      },
+      "artists": [
+        {
+          "name": "New Blood",
+          "url": "https://open.spotify.com/artist/0wloGIAKfNUOsaLO9NdEXy"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276226,
+      "name": "Worries in Da Dance",
+      "url": "https://open.spotify.com/track/0vHc5414CTb8Clx9NKZJXc"
+    },
+    {
+      "album": {
+        "name": "Dubplate Killaz",
+        "url": "https://open.spotify.com/album/096J2vynHydlBYz9CDB6ua"
+      },
+      "artists": [
+        {
+          "name": "Potential Badboy",
+          "url": "https://open.spotify.com/artist/3tgRH8lQ25Totz9QkeyC3n"
+        },
+        {
+          "name": "Yush",
+          "url": "https://open.spotify.com/artist/6vG5fLQGKPnMzSbxV4diFH"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338866,
+      "name": "You're Mine",
+      "url": "https://open.spotify.com/track/5TLKkQobnJlVENML3PxzUR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTv94Wk9KTkJ"

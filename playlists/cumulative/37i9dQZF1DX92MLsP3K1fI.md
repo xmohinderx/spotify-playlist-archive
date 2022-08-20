@@ -2,9 +2,9 @@
 
 ### [Oye Pop](https://open.spotify.com/playlist/37i9dQZF1DX92MLsP3K1fI)
 
-> ¡Sube el volumen y disfruta del pop más chicloso! Donovan en portada.
+> ¡Sube el volumen y disfruta del pop más chicloso! Sofi Mata en portada.
 
-144 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
+145 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,9 +138,10 @@
 | [Terminé Contigo](https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Terminé Contigo](https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9) | 2:54 | 2022-03-11 | 2022-07-28 |
 | [The Bleachers](https://open.spotify.com/track/2nZHZE1XRh4SDJLMCbvoEF) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [The Bleachers](https://open.spotify.com/album/3cjvORRqCFBnwv8DM2S7Mf) | 2:43 | 2022-03-04 | 2022-07-27 |
 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2022-02-04 |  |
-| [Tocadisco](https://open.spotify.com/track/4EHmxvWLRYYK9VcXedYeTZ) | [Vanne Amador](https://open.spotify.com/artist/104g0NH5g4cfEog7gpQ9M9) | [Tocadisco](https://open.spotify.com/album/5sVZx0Bzu8oHMToJsmzNrG) | 2:35 | 2022-06-15 |  |
+| [Tocadisco](https://open.spotify.com/track/4EHmxvWLRYYK9VcXedYeTZ) | [Vanne Amador](https://open.spotify.com/artist/104g0NH5g4cfEog7gpQ9M9) | [Tocadisco](https://open.spotify.com/album/5sVZx0Bzu8oHMToJsmzNrG) | 2:35 | 2022-06-15 | 2022-08-20 |
 | [Toda Todita](https://open.spotify.com/track/0Qjfz512GDWmgLlcejnC0l) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y), [Maria Bernal](https://open.spotify.com/artist/4b1FbId1PaWUVGCfES76E3), [Lucía Covarrubias](https://open.spotify.com/artist/1PkahVFP71A6sk6Ww0ZSi1) | [Toda Todita](https://open.spotify.com/album/4DHEuNlX1ECEc7eYhK2Dun) | 2:52 | 2022-02-04 | 2022-07-27 |
 | [Todo Pasa](https://open.spotify.com/track/2EUBBnxhFBYEvu9cpGQYLU) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [Todo Pasa](https://open.spotify.com/album/5NFSYdBSEnJdxC3j6gD1Vo) | 2:57 | 2022-02-04 | 2022-07-29 |
+| [Tra](https://open.spotify.com/track/443PZH5mjxvjZe2E06fbg6) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Tra](https://open.spotify.com/album/4wfQvS4UCW5pEDtUh97Wpi) | 2:02 | 2022-08-19 |  |
 | [Tu Peor Pesadilla](https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:21 | 2022-02-04 |  |
 | [Tu y Yo](https://open.spotify.com/track/6PeG2XIFWHdGRX9bYlKRsJ) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Agridulce](https://open.spotify.com/album/1AoHHCkE0WA9xJ65PH4D2b) | 3:16 | 2022-07-26 |  |
 | [Tus Besos](https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Tus Besos](https://open.spotify.com/album/5S9MvHxcWp1l7fwhxm0r42) | 3:02 | 2022-02-04 |  |

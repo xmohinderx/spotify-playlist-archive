@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-256 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
+257 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 | 2021-10-31 |  |
 | [Doomed \(Acoustic\)](https://open.spotify.com/track/0GmZftxnwknUcgSHvNkNA0) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Doomed \(Acoustic\)](https://open.spotify.com/album/1s0cnSk7Df11ddLbkPcRRn) | 4:07 | 2022-03-25 | 2022-04-19 |
 | [Drag Me Down](https://open.spotify.com/track/4Ka1naDgbMur3LwxMaPTrg) | [Santa Cruz](https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri) | [Drag Me Down](https://open.spotify.com/album/5Zj9nOCVsOe9cYuR2jIpNE) | 3:28 | 2020-12-16 | 2022-07-29 |
-| [Drag Me Down](https://open.spotify.com/track/6UBbdux7eI0m77auUWh4UD) | [Santa Cruz](https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri) | [Drag Me Down](https://open.spotify.com/album/1WP3SyR5WGMxeLdXiAzGpg) | 3:28 | 2022-06-17 |  |
+| [Drag Me Down](https://open.spotify.com/track/6UBbdux7eI0m77auUWh4UD) | [Santa Cruz](https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri) | [Drag Me Down](https://open.spotify.com/album/1WP3SyR5WGMxeLdXiAzGpg) | 3:28 | 2022-06-17 | 2022-08-20 |
 | [Dream On](https://open.spotify.com/track/2U0nXVgU5FcLTFtPbkcv1v) | [Blacktop Mojo](https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2) | [Burn the Ships](https://open.spotify.com/album/0FkzemXaWdS5R75QBjpBin) | 4:25 | 2020-12-16 |  |
 | [Dreaming](https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dreaming](https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty) | 3:07 | 2020-12-16 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 3:06 | 2020-12-16 |  |
@@ -228,6 +228,7 @@
 | [The Day I Tried To Live](https://open.spotify.com/track/0xvvmc0Akzpd1C8CAI21f9) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [The Day I Tried To Live](https://open.spotify.com/album/3oXmosWd6LEHUbek4WvKl2) | 4:55 | 2020-12-16 | 2022-07-29 |
 | [The Hand That Feeds](https://open.spotify.com/track/4BgPztdHQ15vB5Ri8ANfRq) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [The Hand That Feeds](https://open.spotify.com/album/1bgHW8a8OZS0PPn3ENnXkh) | 3:25 | 2022-03-25 | 2022-05-28 |
 | [The Man Who Sold The World](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 | 2020-12-16 |  |
+| [The Only Exception \- Spotify Single](https://open.spotify.com/track/4GSP51OmKGNs57ZT9coUDF) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0) | 4:44 | 2022-08-19 |  |
 | [The Pot](https://open.spotify.com/track/08Ys3244upKhrzRMl2EWXI) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Brass Against II](https://open.spotify.com/album/5fTCQCBuKJPqrB6A1QHVzx) | 6:21 | 2020-12-16 | 2022-07-29 |
 | [The Sound of Silence](https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:08 | 2020-12-16 |  |
 | [There She Goes](https://open.spotify.com/track/398o7wmnG0V0jL8Y7bbmif) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [There She Goes](https://open.spotify.com/album/6AoYYnPKJTL1W0KCvXuJ6x) | 2:43 | 2022-03-25 | 2022-04-20 |

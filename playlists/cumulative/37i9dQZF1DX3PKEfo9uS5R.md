@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-128 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+131 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [How We Do It](https://open.spotify.com/track/7Fangq5H3r0uFVnBmtjqPB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:10 | 2022-05-20 | 2022-07-22 |
 | [I ADORE U](https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [I ADORE U](https://open.spotify.com/album/5xnqBY02HrPts7DQlfXtnK) | 4:02 | 2022-05-10 | 2022-07-01 |
 | [I Don't Wanna Live Forever \- Taladego Tropical Mix](https://open.spotify.com/track/1MAwVy9fDWnicj5xtzzaAD) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Taladego Tropical Mix\)](https://open.spotify.com/album/6udScTmYkOealnMC3AAd7K) | 4:03 | 2021-11-11 | 2022-02-11 |
+| [I Wish We Had More Time](https://open.spotify.com/track/71F5R77kgxulxZTtgzli7j) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Outside My Window](https://open.spotify.com/album/4LbymBMUIVzLVYePiouiVh) | 4:28 | 2022-08-19 |  |
 | [I've Got The Feeling](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC) | [Cymbal Dealers](https://open.spotify.com/artist/4FanGEgeRprmNv0EeYZcje) | [I've Got The Feeling](https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1) | 2:31 | 2022-05-10 |  |
 | [in deep](https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [in deep](https://open.spotify.com/album/7zqrnHXPFDs3fpqpYRmbih) | 2:37 | 2022-07-08 |  |
 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 |  |
@@ -83,6 +84,7 @@
 | [Make it Count](https://open.spotify.com/track/0HEW5kt8TXf75HiAzhuht2) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Make it Count](https://open.spotify.com/album/1OVrw11t0hkDglQPrjB4oq) | 3:58 | 2021-11-11 |  |
 | [Melted Ice Cream](https://open.spotify.com/track/0XY7kMJEAKm0f3hzgUPFFA) | [JAS Ü RAGY](https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6) | [Melted Ice Cream](https://open.spotify.com/album/6uUx9zYBBOl9VUFMUJvd67) | 3:11 | 2022-07-22 |  |
 | [Mermaid](https://open.spotify.com/track/0mMHRtKs72ns7zPDNaZzPY) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Mermaid](https://open.spotify.com/album/6s4ly0ToaV0tE2A3hdKWbV) | 2:39 | 2021-11-11 |  |
+| [Mirror Of Erised](https://open.spotify.com/track/3o9Er7gZnrvh6wHRiv7xac) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Mirror Of Erised](https://open.spotify.com/album/4Z59SWLNVf31yAhuhzQ7FH) | 3:46 | 2022-08-19 |  |
 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 | 2022-05-20 |  |
 | [Need You To Know](https://open.spotify.com/track/1yYjxtcHhEIYGwKZl7ux7Y) | [Kellen Berrios](https://open.spotify.com/artist/0tTc6Q8lb2dB4Atl12F4Zp) | [Need You To Know](https://open.spotify.com/album/6AS8QmcXQmMEnNWvF0xpQu) | 2:37 | 2021-11-11 | 2022-05-11 |
 | [Neon Nights](https://open.spotify.com/track/599yBUnBYNhb1t656mqKUY) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Neon Nights](https://open.spotify.com/album/6Lmhs1md6vMsXCpeSdV5V8) | 4:17 | 2021-11-11 | 2022-05-20 |
@@ -117,6 +119,7 @@
 | [Sputnik](https://open.spotify.com/track/6omVgaiW9qCv4vhUIuJiXO) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Sputnik](https://open.spotify.com/album/2XjgPhcQIIWCGsDMPhJp9c) | 3:38 | 2021-11-11 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2021-11-11 |  |
 | [Storm Trap](https://open.spotify.com/track/5R6je2hMSX75YAKP5t4CvE) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Storm Trap](https://open.spotify.com/album/55fwoBizWuDHDLeKYGOk4n) | 3:52 | 2022-06-17 |  |
+| [Sumatra](https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Sumatra](https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2) | 3:17 | 2022-08-19 |  |
 | [Sun Time](https://open.spotify.com/track/6bo1me9qHBypbaYu7BBQjF) | [Yelloo Hill](https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke) | [Sun Time](https://open.spotify.com/album/2GFprs0AQbp3DBsnRDsaad) | 2:09 | 2021-11-11 |  |
 | [Sunflower](https://open.spotify.com/track/4mITph3qsu0WI4wfSCaNgl) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 4:04 | 2021-11-11 | 2022-04-06 |
 | [Supernova](https://open.spotify.com/track/0ELTOaYhHtq56Uy7VWsPlf) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [Supernova](https://open.spotify.com/album/54DHQYXClTlX7eLvZEIDpm) | 3:38 | 2021-11-11 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "New and approved indie pop. Cover: JAWNY",
-  "num_followers": 1707432,
+  "description": "New and approved indie pop. Cover: Chloe Moriondo",
+  "num_followers": 1707469,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyODY5MCwwMDAwMDAwMDNmNThkY2Q2ZDZjZTM5NTExNmU1NjRhNmYwYTg2NTJh",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGE2YWRlZTNlYzBhNDZjNDJmNTM3YTRjODMzMTA3N2Q3",
   "tracks": [
     {
       "added_at": "2022-08-12 18:24:50",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Fruity",
+        "url": "https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Fruity",
+      "url": "https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy"
+    },
+    {
       "added_at": "2022-08-12 18:24:50",
       "album": {
         "name": "Immunity",
@@ -87,22 +103,6 @@
       "duration_ms": 188386,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
-    },
-    {
-      "added_at": "2022-08-12 18:24:50",
-      "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
     },
     {
       "added_at": "2022-08-12 18:24:50",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-08-12 18:24:50",
       "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
+    },
+    {
+      "added_at": "2022-08-12 18:24:50",
+      "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
       },
@@ -137,20 +153,20 @@
       "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
-      "added_at": "2022-08-12 18:24:50",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Pickup Lines",
-        "url": "https://open.spotify.com/album/1SlVtVG8JmqGMOeXZaT9HF"
+        "name": "I Did Drugs For You",
+        "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
       },
       "artists": [
         {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+          "name": "Rook Monroe",
+          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Pickup Lines",
-      "url": "https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB"
+      "duration_ms": 192592,
+      "name": "I Did Drugs For You",
+      "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
     },
     {
       "added_at": "2022-08-12 18:24:50",
@@ -235,22 +251,6 @@
     {
       "added_at": "2022-08-12 18:24:50",
       "album": {
-        "name": "pretty kids",
-        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 159417,
-      "name": "pretty kids",
-      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
-    },
-    {
-      "added_at": "2022-08-12 18:24:50",
-      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 194693,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK"
-    },
-    {
-      "added_at": "2022-08-12 18:24:50",
-      "album": {
-        "name": "liar",
-        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
     },
     {
       "added_at": "2022-08-12 18:24:50",
@@ -297,52 +281,20 @@
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
-      "added_at": "2022-08-12 18:24:50",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Trying To Find Us",
-        "url": "https://open.spotify.com/album/1J9ubeevJRYrJgNDwkTpjA"
+        "name": "AMERICAN DREAM",
+        "url": "https://open.spotify.com/album/2K7Rl7AGmFmMvx4tYnC05u"
       },
       "artists": [
         {
-          "name": "Kristiane",
-          "url": "https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ"
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
         }
       ],
-      "duration_ms": 152874,
-      "name": "Trying To Find Us",
-      "url": "https://open.spotify.com/track/1K2tarXuo0RtA1VeeRkiuT"
-    },
-    {
-      "added_at": "2022-08-12 18:24:50",
-      "album": {
-        "name": "GROWN UP",
-        "url": "https://open.spotify.com/album/1PAJFnuUntrH4qzJpLI33s"
-      },
-      "artists": [
-        {
-          "name": "Raffaella",
-          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "GROWN UP",
-      "url": "https://open.spotify.com/track/5QwLklxCtdCBnSMBXt1Vmz"
-    },
-    {
-      "added_at": "2022-08-12 18:24:50",
-      "album": {
-        "name": "Astronomy",
-        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 243907,
-      "name": "Astronomy",
-      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
+      "duration_ms": 151322,
+      "name": "AMERICAN DREAM",
+      "url": "https://open.spotify.com/track/1dZpKFO7vErbONAuYB4ON3"
     },
     {
       "added_at": "2022-08-12 18:24:50",
@@ -359,6 +311,22 @@
       "duration_ms": 208599,
       "name": "dancing in the kitchen",
       "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
+    },
+    {
+      "added_at": "2022-08-12 18:24:50",
+      "album": {
+        "name": "Astronomy",
+        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 243907,
+      "name": "Astronomy",
+      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
     },
     {
       "added_at": "2022-08-12 18:24:50",
@@ -505,6 +473,38 @@
       "url": "https://open.spotify.com/track/0VlNBqGgNFR8Kp022pyp2f"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Juliana Madrid EP",
+        "url": "https://open.spotify.com/album/24kUFs20sObGQMAW7VgWso"
+      },
+      "artists": [
+        {
+          "name": "Juliana Madrid",
+          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/1h8dms5lJ4QcXB0tyguk4c"
+    },
+    {
+      "added_at": "2022-08-12 18:24:50",
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 227374,
+      "name": "Dream Girl Evil",
+      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
+    },
+    {
       "added_at": "2022-08-12 18:24:50",
       "album": {
         "name": "The Yearbook",
@@ -539,38 +539,6 @@
     {
       "added_at": "2022-08-12 18:24:50",
       "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 227374,
-      "name": "Dream Girl Evil",
-      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
-    },
-    {
-      "added_at": "2022-08-12 18:24:50",
-      "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/0JH3NgJkj2IKNxHpiK0wLh"
-      },
-      "artists": [
-        {
-          "name": "Andrea Chahayed",
-          "url": "https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/5BHVCWxWlSioC7ASxSyLsV"
-    },
-    {
-      "added_at": "2022-08-12 18:24:50",
-      "album": {
         "name": "Emily Can't Sing",
         "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
       },
@@ -601,6 +569,22 @@
       "url": "https://open.spotify.com/track/4aHrviUXxabPdIgWxdYQLt"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
       "added_at": "2022-08-12 18:24:50",
       "album": {
         "name": "Sunflower",
@@ -619,22 +603,6 @@
     {
       "added_at": "2022-08-12 18:24:50",
       "album": {
-        "name": "Mess It Up",
-        "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Mess It Up",
-      "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
-    },
-    {
-      "added_at": "2022-08-12 18:24:50",
-      "album": {
         "name": "Want Me",
         "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
       },
@@ -647,6 +615,22 @@
       "duration_ms": 258319,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
+    },
+    {
+      "added_at": "2022-08-12 18:24:50",
+      "album": {
+        "name": "Mess It Up",
+        "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Mess It Up",
+      "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
     },
     {
       "added_at": "2022-08-12 18:24:50",
@@ -767,22 +751,6 @@
     {
       "added_at": "2022-08-12 18:24:50",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 176946,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
-    },
-    {
-      "added_at": "2022-08-12 18:24:50",
-      "album": {
         "name": "Serotonin",
         "url": "https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO"
       },
@@ -795,6 +763,22 @@
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb"
+    },
+    {
+      "added_at": "2022-08-12 18:24:50",
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 176946,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
     },
     {
       "added_at": "2022-08-12 18:24:50",
@@ -1239,6 +1223,26 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "added_at": "2022-08-12 18:24:50",
+      "album": {
+        "name": "stuck on us",
+        "url": "https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        },
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 175311,
+      "name": "stuck on us",
+      "url": "https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5"
     }
   ],
   "unique_name": "Indie Pop",

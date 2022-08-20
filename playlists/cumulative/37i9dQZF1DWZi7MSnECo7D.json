@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Nanasai",
+  "description": "Novidades e destaques do indie nacional. Foto: Maglore",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 182958,
       "name": "Acordei",
       "url": "https://open.spotify.com/track/7omGS2EKCcWM6oNBkN4ryV"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 197913,
       "name": "Caf\u00e9 com Leite",
       "url": "https://open.spotify.com/track/7gy7BFORtrb1FNdE2nV6BX"
@@ -1506,6 +1506,24 @@
     },
     {
       "album": {
+        "name": "Eu Ainda Te Quero",
+        "url": "https://open.spotify.com/album/1EUsc7qQEy7vhYQtOhC4mc"
+      },
+      "artists": [
+        {
+          "name": "Kyu",
+          "url": "https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Eu Ainda Te Quero",
+      "url": "https://open.spotify.com/track/0nazZfD7zriY2DeQQB4bPG"
+    },
+    {
+      "album": {
         "name": "Obrigado e At\u00e9 Logo",
         "url": "https://open.spotify.com/album/2qt6XmEIeQbOUT0bpmDjEY"
       },
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 128955,
       "name": "eu tenho medo de me machucar",
       "url": "https://open.spotify.com/track/1MuWD2fVnNjLpDoWmQqfWe"
@@ -2659,7 +2677,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 212767,
       "name": "nem sempre foi assim",
       "url": "https://open.spotify.com/track/00SaOQz2IJCWaxik1UM05P"
@@ -3230,6 +3248,24 @@
     },
     {
       "album": {
+        "name": "PERFUME",
+        "url": "https://open.spotify.com/album/7nC6xkot95ZospgGL97fqn"
+      },
+      "artists": [
+        {
+          "name": "belina",
+          "url": "https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234762,
+      "name": "PERFUME",
+      "url": "https://open.spotify.com/track/0x4cfJP9Y1f8AQOxaowqZa"
+    },
+    {
+      "album": {
         "name": "Ser\u00e1 S\u00f3 Aos Ares",
         "url": "https://open.spotify.com/album/4rDkMr3eOwRcfeXDTojMTq"
       },
@@ -3313,7 +3349,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 255053,
       "name": "Pode Chegar",
       "url": "https://open.spotify.com/track/1xY1qLVrlFZPYjpklP1cl4"
@@ -3606,6 +3642,42 @@
     },
     {
       "album": {
+        "name": "Retic\u00eancias (...)",
+        "url": "https://open.spotify.com/album/2kMSjh8jymILdApWx5e7oE"
+      },
+      "artists": [
+        {
+          "name": "Mateus Ribeiro",
+          "url": "https://open.spotify.com/artist/5VFgZ3wnBSjOj8YSKbRvis"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194264,
+      "name": "Retic\u00eancias (...)",
+      "url": "https://open.spotify.com/track/4XSgzlOaOEpBp6ZbM4xC8r"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6bQw2aNY06eokyQwc2IaK4"
+      },
+      "artists": [
+        {
+          "name": "Maglore",
+          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261480,
+      "name": "Rev\u00e9s De Tudo",
+      "url": "https://open.spotify.com/track/5gXCL3ne8NsLNKuiyN3jRm"
+    },
+    {
+      "album": {
         "name": "Risco",
         "url": "https://open.spotify.com/album/1zLk5joVdgeDeukWMyKjta"
       },
@@ -3865,7 +3937,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 164444,
       "name": "Seu Ex",
       "url": "https://open.spotify.com/track/2eY3y3Rf2mhE9ZV8haXKK4"
@@ -3909,6 +3981,24 @@
       "duration_ms": 196071,
       "name": "Sincericida",
       "url": "https://open.spotify.com/track/0mR2LOEhloHFD41g8HyW9m"
+    },
+    {
+      "album": {
+        "name": "VOANDO PELA \u00d3RBITA DA TERRA",
+        "url": "https://open.spotify.com/album/4KMk5OAxc2qUIAb8duVAYh"
+      },
+      "artists": [
+        {
+          "name": "HENZEE",
+          "url": "https://open.spotify.com/artist/5TSWnKJY6y03fawwqfkD54"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248308,
+      "name": "SOFRER DE AMOR",
+      "url": "https://open.spotify.com/track/5KcMiPpmgsI4EEomWEXpKX"
     },
     {
       "album": {
@@ -4061,6 +4151,24 @@
       "duration_ms": 234427,
       "name": "Suco de Umbu",
       "url": "https://open.spotify.com/track/6fZsGcrr8ee5BErIAqb8Sw"
+    },
+    {
+      "album": {
+        "name": "Surf Punk",
+        "url": "https://open.spotify.com/album/77EJBzGRImn16oRBMRw4UC"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9 Tardia",
+          "url": "https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136612,
+      "name": "Surf Punk",
+      "url": "https://open.spotify.com/track/59aUGfi9TrxraplGomTNdY"
     },
     {
       "album": {
@@ -4400,6 +4508,24 @@
     },
     {
       "album": {
+        "name": "Certas Idades",
+        "url": "https://open.spotify.com/album/6ZF8pV2wIkHFAUOzyL4sbg"
+      },
+      "artists": [
+        {
+          "name": "Ombu",
+          "url": "https://open.spotify.com/artist/5Md89pcwawc564wNKNNG0b"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214557,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/46XgW83pYCfzTbtDNqczDn"
+    },
+    {
+      "album": {
         "name": "T\u00e3o Bom",
         "url": "https://open.spotify.com/album/5q7Ro5XgKmvB56PLxea3qW"
       },
@@ -4527,7 +4653,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 197378,
       "name": "Uma Grande Saudade Boba",
       "url": "https://open.spotify.com/track/1E2VQwCR0BndVnisLn8Frg"

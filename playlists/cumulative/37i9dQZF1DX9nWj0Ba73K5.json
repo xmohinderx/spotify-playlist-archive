@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Bird Dog",
+        "url": "https://open.spotify.com/album/6kjkKqlGi96MSKcdP8Ayv8"
+      },
+      "artists": [
+        {
+          "name": "Hunter Phelps",
+          "url": "https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "Bird Dog",
+      "url": "https://open.spotify.com/track/27W4Reg4xwQIlQkDffGqc2"
+    },
+    {
+      "album": {
         "name": "2017 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp"
       },

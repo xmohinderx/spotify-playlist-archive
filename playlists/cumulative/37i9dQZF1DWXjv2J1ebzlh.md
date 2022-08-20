@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,577 songs - 4 day 10 hr 1 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,578 songs - 4 day 10 hr 4 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1195,7 +1195,8 @@
 | [Puerto Rican Soul](https://open.spotify.com/track/151cKOWN9UK8DfBVT9egRz) | [Pete Bonet](https://open.spotify.com/artist/6j3gjZ5JMbOo7Y3nkMVqdC) | [El Barrio: Gangsters Latin Soul And The Birth Of Salsa 1967 \- 1975](https://open.spotify.com/album/2lVQQwo3Boql0qwJ6Zgfbs) | 4:04 | 2022-07-12 |  |
 | [Puerto Rico Me Llama](https://open.spotify.com/track/5LojAjreOqvDiFEoUIK2zE) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Mr\. New York And The East Side Kids](https://open.spotify.com/album/5KQZLC1M53NX56F7m5Eia6) | 5:11 | 2022-07-12 |  |
 | [Punto Guanacasteco](https://open.spotify.com/track/0XUIYVLAEkr2osN7wrjD7p) | [Hernesto Miranda](https://open.spotify.com/artist/3CoARtbnYJB4OtxvCLwfdw) | [Authentic Central America, Vol\. 1: Costa Rica](https://open.spotify.com/album/6JzzPMVWSt8yR1r2AgaVsk) | 1:22 | 2022-07-12 |  |
-| [Put Yourself in My Place](https://open.spotify.com/track/3h1wJrzXpvoCcaP051XhQ4) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson Story, Vol\. 2](https://open.spotify.com/album/1VkhpJ88iuuz9fSpFbYj2G) | 2:37 | 2022-07-12 |  |
+| [Put Yourself in My Place](https://open.spotify.com/track/0IxYQuPU4gqR4mBgGMjrEN) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:37 | 2022-07-27 |  |
+| [Put Yourself in My Place](https://open.spotify.com/track/3h1wJrzXpvoCcaP051XhQ4) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson Story, Vol\. 2](https://open.spotify.com/album/1VkhpJ88iuuz9fSpFbYj2G) | 2:37 | 2022-07-12 | 2022-08-20 |
 | [Pânico Geral](https://open.spotify.com/track/32kBUZdhBy218zmscT9DKj) | [Grupo Controle Digital](https://open.spotify.com/artist/5uNisGq3ouLS89g12oOWtk) | [A Festa É Nossa](https://open.spotify.com/album/3Lz8Dk1SU1goPatR8Vzx8A) | 2:59 | 2022-07-12 | 2022-07-29 |
 | [Pânico Geral](https://open.spotify.com/track/6cAYyCI3k92V8CJuLq5Ka9) | [Grupo Controle Digital](https://open.spotify.com/artist/5uNisGq3ouLS89g12oOWtk) | [A Festa É Nossa](https://open.spotify.com/album/51vhKQM7zkCDracNylwou0) | 2:59 | 2022-07-27 |  |
 | [Quaboos](https://open.spotify.com/track/4BR5yFyRARi4b4YaU8W0D5) | [Sal Davis](https://open.spotify.com/artist/5caZnlrf8E334VqJU1zwS2) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 2:53 | 2022-07-12 |  |

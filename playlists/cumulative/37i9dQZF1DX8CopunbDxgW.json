@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271642,
+      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
+    },
+    {
+      "album": {
         "name": "(301)341-7207",
         "url": "https://open.spotify.com/album/3fgeFGJanCz8Fd50XPOCF7"
       },
@@ -4319,7 +4337,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 410880,
       "name": "I Go - Soulwax Remix",
       "url": "https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS"
@@ -5731,6 +5749,28 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+    },
+    {
+      "album": {
+        "name": "loverboi",
+        "url": "https://open.spotify.com/album/5bqySiFxFbvaByj1fJv4N8"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        },
+        {
+          "name": "Sebastian Ad\u00e9",
+          "url": "https://open.spotify.com/artist/1QsFLbnYnCV8AA4aOvKPme"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238024,
+      "name": "loverboi",
+      "url": "https://open.spotify.com/track/1japCmsnBX3Oqn8b5fKIKo"
     },
     {
       "album": {
@@ -8353,7 +8393,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 101560,
       "name": "Shake",
       "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"

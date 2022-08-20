@@ -7188,6 +7188,24 @@
     },
     {
       "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/7rmvsiZrRELGCaCIyestXt"
+      },
+      "artists": [
+        {
+          "name": "Slowdown",
+          "url": "https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118221,
+      "name": "Pathways",
+      "url": "https://open.spotify.com/track/7Bha2btgoPHzSwWwyzcTI8"
+    },
+    {
+      "album": {
         "name": "Equivalence",
         "url": "https://open.spotify.com/album/63yQb9VeujB0rdz1m4g5jb"
       },

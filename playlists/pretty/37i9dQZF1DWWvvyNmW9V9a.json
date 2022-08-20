@@ -1,12 +1,12 @@
 {
   "description": "listens to 'come back home' for the 17th time \ud83d\udc9c",
-  "num_followers": 1627457,
+  "num_followers": 1629530,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc3MzIwOCwwMDAwMDAwMDI4Y2UxNzFhMzE3OGQ1ZDI2NWEyZmY4NjQ1MTUwZmYy",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDczNGFkMGY2ZWQyNWE1MzJhZWZkYTMxZWNjZDE0ZTQ0",
   "tracks": [
     {
       "added_at": "2022-08-02 15:24:40",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/5ihZarJQzsvrLE7R9zjwTq"
     },
     {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
       "added_at": "2022-08-01 16:00:00",
       "album": {
         "name": "I Love You.",
@@ -161,20 +177,20 @@
       "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
     },
     {
-      "added_at": "2022-08-10 16:30:53",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Songs From Dawson's Creek, Vol. II",
-        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
       },
       "artists": [
         {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
         }
       ],
-      "duration_ms": 241840,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
+      "duration_ms": 217411,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -209,36 +225,52 @@
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
+      "added_at": "2022-07-29 04:06:10",
       "album": {
-        "name": "Wannabe",
-        "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
+        "name": "Betty (Get Money)",
+        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
       },
       "artists": [
         {
-          "name": "why mona",
-          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
         }
       ],
-      "duration_ms": 217411,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
+      "duration_ms": 146470,
+      "name": "Betty (Get Money)",
+      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
+      "added_at": "2022-08-10 16:30:53",
       "album": {
-        "name": "Only Love Can Hurt Like This (Sped Up Version)",
-        "url": "https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8"
+        "name": "Songs From Dawson's Creek, Vol. II",
+        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
       },
       "artists": [
         {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
         }
       ],
-      "duration_ms": 165686,
-      "name": "Only Love Can Hurt Like This - Sped Up Version",
-      "url": "https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV"
+      "duration_ms": 241840,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "golden hour",
+        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
     },
     {
       "added_at": "2022-07-18 04:05:40",
@@ -255,6 +287,22 @@
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Only Love Can Hurt Like This (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 165686,
+      "name": "Only Love Can Hurt Like This - Sped Up Version",
+      "url": "https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV"
     },
     {
       "added_at": "2022-07-21 03:32:31",
@@ -305,6 +353,22 @@
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/0YUrjFy4qFKOO5NhM9tYdV"
+    },
+    {
       "added_at": "2021-12-17 05:01:00",
       "album": {
         "name": "Sunroof",
@@ -339,6 +403,22 @@
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2022-05-11 15:11:15",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
       "added_at": "2021-07-09 04:01:00",
@@ -499,6 +579,22 @@
       "duration_ms": 196619,
       "name": "You Never Know",
       "url": "https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Call Me a Quitter",
+        "url": "https://open.spotify.com/album/59rkqeyDsxLl9GJ3eVxDPj"
+      },
+      "artists": [
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 144192,
+      "name": "Call Me a Quitter",
+      "url": "https://open.spotify.com/track/5l51zmTjvBBCMB1oPtW800"
     },
     {
       "added_at": "2022-08-03 16:21:03",
@@ -665,22 +761,6 @@
       "url": "https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq"
     },
     {
-      "added_at": "2022-07-29 04:06:10",
-      "album": {
-        "name": "Betty (Get Money)",
-        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 146470,
-      "name": "Betty (Get Money)",
-      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
-    },
-    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "THE INSIDE OUTTAKES",
@@ -695,22 +775,6 @@
       "duration_ms": 146654,
       "name": "1985",
       "url": "https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS"
-    },
-    {
-      "added_at": "2022-07-29 04:06:10",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "i will follow you into the dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
     },
     {
       "added_at": "2022-07-29 04:06:10",
@@ -937,22 +1001,6 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2022-07-29 04:06:10",
-      "album": {
-        "name": "SO WHAT",
-        "url": "https://open.spotify.com/album/3D6M63EmnCN1v4owYNnwFW"
-      },
-      "artists": [
-        {
-          "name": "Boys World",
-          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
-        }
-      ],
-      "duration_ms": 136004,
-      "name": "SO WHAT",
-      "url": "https://open.spotify.com/track/1kMGYdQmHWU8uiBo8h9yez"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
@@ -1093,22 +1141,6 @@
       "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
     },
     {
-      "added_at": "2022-05-11 15:11:15",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
       "added_at": "2022-06-30 16:26:38",
       "album": {
         "name": "Superache",
@@ -1141,22 +1173,6 @@
       "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Guitar Songs",
-        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "The 30th",
-      "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "Harry's House",
@@ -1171,22 +1187,6 @@
       "duration_ms": 193813,
       "name": "Music For a Sushi Restaurant",
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Post Party Trauma",
-        "url": "https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Post Party Trauma",
-      "url": "https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu"
     },
     {
       "added_at": "2022-04-06 16:27:52",
@@ -1219,26 +1219,6 @@
       "duration_ms": 219893,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/1GCbc1vpkZA2zhjsSFhmHT"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Pass The Dutchie (Sped Up Version)",
-        "url": "https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6"
-      },
-      "artists": [
-        {
-          "name": "Musical Youth",
-          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
-        },
-        {
-          "name": "Speed Radio",
-          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
-        }
-      ],
-      "duration_ms": 182427,
-      "name": "Pass The Dutchie - Sped Up Version",
-      "url": "https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK"
     },
     {
       "added_at": "2022-07-15 04:01:40",

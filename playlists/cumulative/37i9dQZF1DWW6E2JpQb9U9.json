@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 192996,
       "name": "Abuso de Poder - Live",
       "url": "https://open.spotify.com/track/0Mtjb39XqDqtUwd5VAiWwl"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 243253,
       "name": "Barek - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 241346,
       "name": "Campanas en la Noche - En Vivo",
       "url": "https://open.spotify.com/track/2gcgBpVcO0CONdvzvTBmQM"
@@ -2008,6 +2008,24 @@
     },
     {
       "album": {
+        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
+        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431580,
+      "name": "Hombre al Agua (Sinf\u00f3nico en Vivo)",
+      "url": "https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg"
+    },
+    {
+      "album": {
         "name": "Otra Noche en la Luna (Episodio II)",
         "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
       },
@@ -2131,6 +2149,24 @@
       "duration_ms": 196000,
       "name": "La Casa de A - En Vivo",
       "url": "https://open.spotify.com/track/451TOreDWUkGmqfQAEjIcu"
+    },
+    {
+      "album": {
+        "name": "La Chispita (En Vivo)",
+        "url": "https://open.spotify.com/album/6kC4IKxlp9WDncod2sBb3X"
+      },
+      "artists": [
+        {
+          "name": "Cuatro Pesos de Propina",
+          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210581,
+      "name": "La Chispita - En Vivo",
+      "url": "https://open.spotify.com/track/6QJOCIGuZxLj7rz2nqURI2"
     },
     {
       "album": {
@@ -3553,6 +3589,24 @@
       "duration_ms": 254651,
       "name": "Quieren Rock - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/6PbdQf5WPAxy8yaIr18HDT"
+    },
+    {
+      "album": {
+        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
+        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247884,
+      "name": "Ra\u00edz (Sinf\u00f3nico en Vivo)",
+      "url": "https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae"
     },
     {
       "album": {

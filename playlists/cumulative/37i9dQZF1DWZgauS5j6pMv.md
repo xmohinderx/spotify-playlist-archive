@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Dabeull
 
-201 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+203 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [New Best Friend](https://open.spotify.com/track/21BjaubQRpZ4RybrI0NUyY) | [Juliette Reilly](https://open.spotify.com/artist/2HR1xMXsvA2zBfiiADeZo7), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [New Best Friend](https://open.spotify.com/album/1s5PZnVIPIyo1BMz5tqgYY) | 2:36 | 2022-02-25 |  |
 | [No Apologies](https://open.spotify.com/track/34xXBHLrnUS2QzE6J5Et8G) | [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [No Apologies](https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3) | 2:38 | 2021-05-21 | 2022-01-29 |
 | [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 | 2022-01-28 |  |
+| [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 | 2022-08-19 |  |
 | [ooeeooeeoo](https://open.spotify.com/track/2MNeT5RzegP7L6yyzodOVs) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [ooeeooeeoo](https://open.spotify.com/album/1AuujKU1n0lGYRp0fCUuGl) | 4:14 | 2021-07-30 |  |
 | [Ordinary](https://open.spotify.com/track/5Xhsf1DLA9j2pVyCbqjkLh) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Balance](https://open.spotify.com/album/71Q44PCgBGD6QyxI12jJNy) | 2:39 | 2020-11-20 | 2022-04-09 |
 | [Out Of Love \- Single Version](https://open.spotify.com/track/1zTLGwLbuOJeTMPsknMNDc) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Out Of Love](https://open.spotify.com/album/4P5gCGasm3kNIop9UKG53e) | 3:22 | 2020-11-20 | 2022-04-09 |
@@ -178,6 +179,7 @@
 | [The Way You Make Me Feel](https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [The Way You Make Me Feel](https://open.spotify.com/album/3YzSZa0NOzbojLGnhKohbk) | 3:24 | 2021-10-15 | 2022-05-20 |
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2021-09-24 | 2022-05-20 |
 | [Thing for You](https://open.spotify.com/track/2OLD64kN8JzvNn3Aar7O26) | [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C), [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT), [Demrick](https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR) | [Summer Solstice: The Mixtape](https://open.spotify.com/album/1mxyxZOLzdnG2TMu1jxFs1) | 3:12 | 2020-11-20 | 2022-04-09 |
+| [This Vibe](https://open.spotify.com/track/1Y9z7IqlSnet2A5raxs22e) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [This Vibe](https://open.spotify.com/album/46gXRt1zGMf89qJPSI9cje) | 4:12 | 2022-08-19 |  |
 | [Tightrope](https://open.spotify.com/track/1v2gz3Z8jdh8LzhM8j1sdc) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Blue Solstice: Volume 1](https://open.spotify.com/album/5gIGA2nOaMi0JRio4ATLr8) | 3:40 | 2021-09-10 |  |
 | [Trust Me](https://open.spotify.com/track/07o395Wrt3pGfyh7ZWFrCz) | [Sly Johnson](https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7) | [Trust Me](https://open.spotify.com/album/0O0PG52c1uvXqPJdxjAEpX) | 3:05 | 2022-02-25 |  |
 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 | 2022-05-20 |  |
@@ -206,7 +208,7 @@
 | [You Got Me](https://open.spotify.com/track/5nLKrvpQBb8sE3MvEfQGFI) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [You Got Me](https://open.spotify.com/album/2cogfCjxAEmXoWHFex4gDN) | 3:00 | 2021-06-11 |  |
 | [You Got the Right Thang](https://open.spotify.com/track/46CsNpRU9Tmz8bI27J4mxC) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/0FZbfwIKUCSFPei35a0HbZ) | 3:49 | 2021-03-05 | 2022-07-23 |
 | [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 | 2022-04-22 |  |
-| [You Not Me](https://open.spotify.com/track/6FyM8JWZ1gffsvIbFWQ5JP) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL) | [You Not Me](https://open.spotify.com/album/0jANe1ZB6ZUafYRMK0vCLt) | 2:30 | 2021-07-23 |  |
+| [You Not Me](https://open.spotify.com/track/6FyM8JWZ1gffsvIbFWQ5JP) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL) | [You Not Me](https://open.spotify.com/album/0jANe1ZB6ZUafYRMK0vCLt) | 2:30 | 2021-07-23 | 2022-08-20 |
 | [You Not Me \- Remix](https://open.spotify.com/track/6qmZKSHiYJCV09bSToTm3y) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [You Not Me \(Remix\)](https://open.spotify.com/album/5nCT2rB99boTMRmYIvky0d) | 2:34 | 2022-07-22 |  |
 | [Your Sweet Power](https://open.spotify.com/track/4TdfrvxJ2OD1IMMgq4ip0t) | [JB Stark](https://open.spotify.com/artist/0wDQ0wyB5XgsYkLaXsyNqm), [Kestra](https://open.spotify.com/artist/7udzSgwVGJxs3AyFnBD41K) | [Your Sweet Power](https://open.spotify.com/album/0jaJ9e6vSp9noMKJ0xlOaD) | 2:50 | 2021-10-22 |  |
 

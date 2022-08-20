@@ -2678,6 +2678,24 @@
     },
     {
       "album": {
+        "name": "Olive",
+        "url": "https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV"
+      },
+      "artists": [
+        {
+          "name": "Brian Robert Jones",
+          "url": "https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231757,
+      "name": "Olive",
+      "url": "https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr"
+    },
+    {
+      "album": {
         "name": "ooeeooeeoo",
         "url": "https://open.spotify.com/album/1AuujKU1n0lGYRp0fCUuGl"
       },
@@ -3456,6 +3474,24 @@
     },
     {
       "album": {
+        "name": "This Vibe",
+        "url": "https://open.spotify.com/album/46gXRt1zGMf89qJPSI9cje"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burgos",
+          "url": "https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252306,
+      "name": "This Vibe",
+      "url": "https://open.spotify.com/track/1Y9z7IqlSnet2A5raxs22e"
+    },
+    {
+      "album": {
         "name": "Blue Solstice: Volume 1",
         "url": "https://open.spotify.com/album/5gIGA2nOaMi0JRio4ATLr8"
       },
@@ -4031,7 +4067,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 150000,
       "name": "You Not Me",
       "url": "https://open.spotify.com/track/6FyM8JWZ1gffsvIbFWQ5JP"

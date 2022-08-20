@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 247342,
+  "num_followers": 247409,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjEwNzcwMiwwMDAwMDAwMDZhZDYyOWMxNjBjOWU1NThmODNmYTQzNWE5NDdmMmRh",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMGIyZTUyM2U2MDk1YjUyN2Y2YTFkZGNmMjkzY2E5OGM0",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -313,6 +313,26 @@
       "url": "https://open.spotify.com/track/6NQvRUIZZ2z5EUaFd9OloQ"
     },
     {
+      "added_at": "2022-08-19 02:13:59",
+      "album": {
+        "name": "20 A\u00f1os de Viaje, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5XJMXkdld5UNaly7xfZMtL"
+      },
+      "artists": [
+        {
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+        },
+        {
+          "name": "Bernardo Quesada",
+          "url": "https://open.spotify.com/artist/7tQHfY7mUkkaHtPaJaey1T"
+        }
+      ],
+      "duration_ms": 284500,
+      "name": "Trapecistas - En Vivo",
+      "url": "https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou"
+    },
+    {
       "added_at": "2021-07-29 16:46:05",
       "album": {
         "name": "Silvio",
@@ -439,6 +459,38 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Nos Sobran Los Motivos",
+        "url": "https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 362906,
+      "name": "Y Sin Embargo - En Directo",
+      "url": "https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Alevosia",
         "url": "https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe"
       },
@@ -467,58 +519,6 @@
       "duration_ms": 322013,
       "name": "Mujer Que Camina",
       "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Nos Sobran Los Motivos",
-        "url": "https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 362906,
-      "name": "Y Sin Embargo - En Directo",
-      "url": "https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Maldita Vocaci\u00f3n",
-        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        },
-        {
-          "name": "Diego Ojeda",
-          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
-        }
-      ],
-      "duration_ms": 285341,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -555,6 +555,42 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Maldita Vocaci\u00f3n",
+        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        },
+        {
+          "name": "Diego Ojeda",
+          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
+        }
+      ],
+      "duration_ms": 285341,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Las Cuatro y Diez",
+      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
       },
@@ -583,38 +619,6 @@
       "duration_ms": 190066,
       "name": "Te Doy Una Cancion",
       "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Las Cuatro y Diez",
-      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "1978/1988",
-        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -691,22 +695,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Juguete De Madera",
-        "url": "https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM"
-      },
-      "artists": [
-        {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Por Si No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Cuerpo A Cuerpo",
         "url": "https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5"
       },
@@ -719,6 +707,38 @@
       "duration_ms": 301026,
       "name": "Sin Tu Latido",
       "url": "https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "1978/1988",
+        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Juguete De Madera",
+        "url": "https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM"
+      },
+      "artists": [
+        {
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Por Si No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -811,6 +831,38 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 216035,
+      "name": "Ella es un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/5CwlzzcJGMXuZnnswCoGs7"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Albanta",
+        "url": "https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 297040,
+      "name": "Al Alba",
+      "url": "https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
@@ -831,38 +883,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 216035,
-      "name": "Ella es un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/5CwlzzcJGMXuZnnswCoGs7"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Que Nadie Se Entere",
-        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
-      },
-      "artists": [
-        {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
@@ -879,18 +899,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Albanta",
-        "url": "https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M"
+        "name": "Que Nadie Se Entere",
+        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
       },
       "artists": [
         {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
         }
       ],
-      "duration_ms": 297040,
-      "name": "Al Alba",
-      "url": "https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt"
+      "duration_ms": 276306,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -943,22 +963,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La vida entera",
-        "url": "https://open.spotify.com/album/1v0TN5nqDNPhvOa35y4IOH"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 228105,
-      "name": "La vida entera",
-      "url": "https://open.spotify.com/track/5es8rVnIOOHzZ2FsFQBftF"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Te Seguir\u00e9",
         "url": "https://open.spotify.com/album/5mfc4BGeZNxcYuzNrgU6sX"
       },
@@ -987,6 +991,22 @@
       "duration_ms": 212226,
       "name": "Prefiero amar",
       "url": "https://open.spotify.com/track/3Ig5t3esx6oEXPzFfn837w"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La vida entera",
+        "url": "https://open.spotify.com/album/1v0TN5nqDNPhvOa35y4IOH"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 228105,
+      "name": "La vida entera",
+      "url": "https://open.spotify.com/track/5es8rVnIOOHzZ2FsFQBftF"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1079,22 +1099,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Buscando un \u00c1ngel",
-      "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Hoy Como Ayer",
         "url": "https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4"
       },
@@ -1127,6 +1131,22 @@
       "duration_ms": 194680,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Buscando un \u00c1ngel",
+      "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1239,22 +1259,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Filio",
-          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
-        }
-      ],
-      "duration_ms": 201743,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/2PptHH46AdfiLRh4964cch"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
         "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
       },
@@ -1267,6 +1271,22 @@
       "duration_ms": 174026,
       "name": "Al Doblar la Esquina",
       "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Filio",
+          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
+        }
+      ],
+      "duration_ms": 201743,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/2PptHH46AdfiLRh4964cch"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1287,22 +1307,6 @@
       "duration_ms": 206204,
       "name": "Para una Imaginaria Mar\u00eda del Carmen",
       "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Arde Estocolmo",
-        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 193875,
-      "name": "M\u00e1rgenes",
-      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1351,6 +1355,22 @@
       "duration_ms": 295306,
       "name": "Dentro de Mi",
       "url": "https://open.spotify.com/track/2qWT4vvbFcgsjWSmbMY4qX"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Arde Estocolmo",
+        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 193875,
+      "name": "M\u00e1rgenes",
+      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1521,22 +1541,6 @@
       "url": "https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D"
     },
     {
-      "added_at": "2021-10-26 03:29:04",
-      "album": {
-        "name": "Vagamundo",
-        "url": "https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS"
-      },
-      "artists": [
-        {
-          "name": "Jorge Gamboa Patr\u00f3n",
-          "url": "https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu"
-        }
-      ],
-      "duration_ms": 270453,
-      "name": "Sembrando Amor",
-      "url": "https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3"
-    },
-    {
       "added_at": "2021-07-29 16:46:05",
       "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
@@ -1555,6 +1559,22 @@
       "duration_ms": 253354,
       "name": "Todos los ojos te miran (feat. Chico Buarque)",
       "url": "https://open.spotify.com/track/1sWWb3JaGaoHGYoAs6ZAgu"
+    },
+    {
+      "added_at": "2021-10-26 03:29:04",
+      "album": {
+        "name": "Vagamundo",
+        "url": "https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS"
+      },
+      "artists": [
+        {
+          "name": "Jorge Gamboa Patr\u00f3n",
+          "url": "https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu"
+        }
+      ],
+      "duration_ms": 270453,
+      "name": "Sembrando Amor",
+      "url": "https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3"
     },
     {
       "added_at": "2021-07-29 16:46:05",

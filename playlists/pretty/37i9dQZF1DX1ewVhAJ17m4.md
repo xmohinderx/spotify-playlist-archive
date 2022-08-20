@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Demi Lovato
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,796 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,901 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 23 | [Call Me Never](https://open.spotify.com/track/4No3g1xYAXAyxYU4LQLZEq) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Call Me Never](https://open.spotify.com/album/0BfKHzKddDMfm0G3Ou3qUS) | 3:02 |
 | 24 | [The King and Queen of Gasoline](https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:38 |
 | 25 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 |
-| 26 | [Hot Boys](https://open.spotify.com/track/3WpfdMUVeY7vyp8t60JtGo) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [Viji](https://open.spotify.com/artist/66P9hUJ1uuCmNou3rdORHR) | [Hot Boys](https://open.spotify.com/album/5dNjDAcHssb25WBjvo0ks2) | 3:15 |
+| 26 | [Hot Boys](https://open.spotify.com/track/3WpfdMUVeY7vyp8t60JtGo) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Hot Boys](https://open.spotify.com/album/5dNjDAcHssb25WBjvo0ks2) | 3:15 |
 | 27 | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA) | 3:21 |
 | 28 | [Drama King](https://open.spotify.com/track/2SfMutDpjeHZgNXDmqObIF) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Drama King](https://open.spotify.com/album/3h6ArRpIWkEcJhRwW7K0GH) | 3:16 |
 | 29 | [i'm not crying you're crying](https://open.spotify.com/track/2EEBYFmjdsVLmDhXXGLfZi) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm not crying you're crying](https://open.spotify.com/album/1kBr8aY2qHp1JE43Kadnby) | 2:49 |

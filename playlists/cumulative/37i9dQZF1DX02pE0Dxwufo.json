@@ -582,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Spring Cleaning",
+        "url": "https://open.spotify.com/album/6PlNsNribLuTRMqzsD2l7h"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152386,
+      "name": "Spring Cleaning",
+      "url": "https://open.spotify.com/track/5k4wuPtknk9Eea6Lc8zq85"
+    },
+    {
+      "album": {
         "name": "12 Stories",
         "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
       },

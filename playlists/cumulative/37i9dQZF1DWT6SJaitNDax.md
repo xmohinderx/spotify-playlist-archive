@@ -2,9 +2,9 @@
 
 ### [We Everywhere](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\.  Cover: <a href="https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=BTR6ApmMTNm\_3xNhhimsFw">Tems</a>
+> Afro sounds crossing borders\.  Cover: <a href="https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=xCx4Iw6eRwWSDCBpAtKEbQ">Pheelz</a>
 
-320 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/50Q1v3oZfufg8td6P4MbdJ)
+321 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/50Q1v3oZfufg8td6P4MbdJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Dumebi \(Matoma Remix\)](https://open.spotify.com/track/1iz8whv91h636omc6PbcWc) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Dumebi \(Matoma Remix\)](https://open.spotify.com/album/1fogI9ONj5GPpLd0UBvqBK) | 3:26 | 2021-09-10 | 2022-07-09 |
 | [Dumebi \(Remix\)](https://open.spotify.com/track/1GxRU2jUq6Xt5vwi1vrDyK) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Dumebi \(Remix\)](https://open.spotify.com/album/45diWaSnnKol5bg1iQruOc) | 3:07 | 2021-09-10 | 2022-04-21 |
 | [E Be Mad](https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Something Else](https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu) | 2:54 | 2021-09-10 | 2022-07-29 |
+| [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-19 |  |
 | [ELI](https://open.spotify.com/track/264tFYse4A4qbgmaur6Pxd) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [ELI](https://open.spotify.com/album/75qC7RhHJoEvbBrGKHobb9) | 2:52 | 2021-09-10 | 2022-07-27 |
 | [End Of The Wicked \(feat\. Octavian\)](https://open.spotify.com/track/44wbg5P53VGNBCtg9nxYtm) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ) | [End Of The Wicked \(feat\. Octavian\)](https://open.spotify.com/album/2vmesnUCYuJIc4ROqDN8vJ) | 3:06 | 2022-03-25 | 2022-06-30 |
 | [ENERGY \(feat\. Beam\)](https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 1:56 | 2022-07-29 |  |
@@ -254,7 +255,7 @@
 | [Rumour](https://open.spotify.com/track/4TF0cJ1HCQzA8upuEtXsiJ) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Demos For Ransom](https://open.spotify.com/album/1UrDQ6U5nosuGFNilFAksU) | 2:15 | 2021-09-10 | 2022-07-25 |
 | [Ryde](https://open.spotify.com/track/2uzwY7BBbeU9sGCp8Nhl9i) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [6th Heaven](https://open.spotify.com/album/3x6LyrVuG7DCWHNPab60rm) | 2:17 | 2021-09-10 | 2022-07-29 |
 | [Sacrifices \(feat\. Tim Lyre\)](https://open.spotify.com/track/3V28hy7t8rU0BwltQ9cJWU) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Sacrifices \(feat\. Tim Lyre\)](https://open.spotify.com/album/7zkWwAnfWFUBnBhkGveMWB) | 2:30 | 2021-09-10 | 2022-07-21 |
-| [Say Cheese](https://open.spotify.com/track/601WxmzITFziMCk3iuNps7) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Blue](https://open.spotify.com/album/3dHnvFaf3fJFPqCOjzWURD) | 2:25 | 2021-09-10 |  |
+| [Say Cheese](https://open.spotify.com/track/601WxmzITFziMCk3iuNps7) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Blue](https://open.spotify.com/album/3dHnvFaf3fJFPqCOjzWURD) | 2:25 | 2021-09-10 | 2022-08-20 |
 | [Say It Loud \- Everybody Black Re\-Flip](https://open.spotify.com/track/130NruHGMdNfTG46WYqgS4) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Say It Loud \(Everybody Black Re\-Flip\)](https://open.spotify.com/album/425EDo42dQn8mbhPAOWBTs) | 3:57 | 2022-03-25 | 2022-04-19 |
 | [See Through](https://open.spotify.com/track/4G3MjZTnwVDxmemf4I9vWb) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Snakes & Ladders](https://open.spotify.com/album/61KrONcgww3TKrlX2qJKzV) | 3:09 | 2021-09-10 | 2022-07-28 |
 | [Sghubu Ses Excellent \(feat\. Madumane, MDU aka TRP & Bongza\)](https://open.spotify.com/track/1Fnj9EKPRxK81I1N2TfNMS) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Bongza](https://open.spotify.com/artist/1U0kluMlV9VEvmeRvjilSG), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [Sghubu Ses Excellent](https://open.spotify.com/album/5p367ruOCWHEsZ0qi9XQiG) | 6:51 | 2022-03-25 | 2022-04-21 |

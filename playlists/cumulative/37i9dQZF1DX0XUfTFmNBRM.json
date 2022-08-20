@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Baarishein",
+        "url": "https://open.spotify.com/album/4ysOhipyMXKstywus51VXS"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207309,
+      "name": "Baarishein",
+      "url": "https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg"
+    },
+    {
+      "album": {
         "name": "Baarishon Mein",
         "url": "https://open.spotify.com/album/0HsLFcmpM2dtnQ30RuiCjT"
       },
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 44698,
       "name": "Kesariya Audio Teaser (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/46NYX9zIml71qtfYYjakTI"
@@ -2189,6 +2207,24 @@
       "duration_ms": 266053,
       "name": "Kyon",
       "url": "https://open.spotify.com/track/1sYC1fG7s4p0pTykrJqmgW"
+    },
+    {
+      "album": {
+        "name": "Darlings (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2CC7SjZUz7ua9SwvwBJBmy"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264915,
+      "name": "La Ilaaj",
+      "url": "https://open.spotify.com/track/5uYHDSKVHfHxBLgYf4H6SH"
     },
     {
       "album": {

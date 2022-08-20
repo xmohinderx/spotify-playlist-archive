@@ -782,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Dancing Like",
+        "url": "https://open.spotify.com/album/79RULz5kNeoNFRTK5poZu0"
+      },
+      "artists": [
+        {
+          "name": "SENSE",
+          "url": "https://open.spotify.com/artist/53dlHsg2BNhHJMTCLs4wdA"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135737,
+      "name": "Dancing Like",
+      "url": "https://open.spotify.com/track/2gv0IrsXHZDWLg11VfUIXi"
+    },
+    {
+      "album": {
         "name": "Dang",
         "url": "https://open.spotify.com/album/7luznrOk5wvqX8HTMq5aBk"
       },
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 151384,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
@@ -3125,7 +3143,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 162857,
       "name": "Ride Ride Ride",
       "url": "https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz"
@@ -3203,6 +3221,24 @@
       "duration_ms": 158181,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
+    },
+    {
+      "album": {
+        "name": "She Wolf (Falling to Pieces)",
+        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
+      },
+      "artists": [
+        {
+          "name": "YES YES",
+          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171028,
+      "name": "She Wolf (Falling to Pieces)",
+      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
     },
     {
       "album": {
@@ -3519,7 +3555,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 167015,
       "name": "Superpowers - Dimitri Vegas Edit",
       "url": "https://open.spotify.com/track/1eWsKIHgYzYCMRwSwnNVE9"
@@ -3833,6 +3869,28 @@
       "duration_ms": 144677,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
+    },
+    {
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/1mAJ1htzZKsFXwbcTatxIq"
+      },
+      "artists": [
+        {
+          "name": "Max + Johann",
+          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
+        },
+        {
+          "name": "Charming Horses",
+          "url": "https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/26gSKAMIFzwMd4htHklFfN"
     },
     {
       "album": {

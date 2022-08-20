@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "24's",
+        "url": "https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP"
+      },
+      "artists": [
+        {
+          "name": "JBee",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166027,
+      "name": "24's",
+      "url": "https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C"
+    },
+    {
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 160000,
       "name": "Black Beatles",
       "url": "https://open.spotify.com/track/5NSMTglRdvEU96yrUuj6Mc"
@@ -946,6 +964,28 @@
     },
     {
       "album": {
+        "name": "Clockwork (feat. Spice)",
+        "url": "https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152917,
+      "name": "Clockwork (feat. Spice)",
+      "url": "https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs"
+    },
+    {
+      "album": {
         "name": "Closer (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
       },
@@ -1179,7 +1219,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 181373,
       "name": "Deal Or No Deal (feat. Mabel)",
       "url": "https://open.spotify.com/track/4suhf2w4OqkuuwVAeRhk4I"
@@ -2107,7 +2147,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
@@ -2897,7 +2937,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 250722,
       "name": "LONDON (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
@@ -3141,6 +3181,28 @@
       "duration_ms": 383032,
       "name": "My 24th Birthday",
       "url": "https://open.spotify.com/track/5nXB98pCGSh1gXSovAlc0U"
+    },
+    {
+      "album": {
+        "name": "Close To Home",
+        "url": "https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198056,
+      "name": "My G (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/6Iqz3QB6zSdn1N61acinau"
     },
     {
       "album": {
@@ -3507,7 +3569,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 203333,
       "name": "Ooh La La (feat. M1llionz & wewantwraiths)",
       "url": "https://open.spotify.com/track/1Q5V9pdf4OcnU5RL63w2MV"
@@ -3913,6 +3975,28 @@
       "duration_ms": 147878,
       "name": "Que Sera",
       "url": "https://open.spotify.com/track/6NcVlMRpFxCtOOAP7rQhY4"
+    },
+    {
+      "album": {
+        "name": "Close To Home",
+        "url": "https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193692,
+      "name": "R Kid (feat. AJ Tracey)",
+      "url": "https://open.spotify.com/track/52IAQPyPTtvk4MhGJWhTOC"
     },
     {
       "album": {
@@ -4977,6 +5061,24 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/0cx2C5WRAQc54psme3DlLV"
+      },
+      "artists": [
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185990,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/6acxplUSIxGvE7GlOkuteI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcDoDDetPsEg"

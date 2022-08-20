@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The leading wave of Latin Electronic music. Cover: Samantha S\u00e1nchez ",
+  "description": "The leading wave of Latin Electronic music. Cover: Manuel Turizo, Fuego & Blessd.",
   "name": "mint Latin",
   "published_playlist_ids": [
     "0igTR570qf1Xr3v0XaTHRR"
@@ -253,6 +253,32 @@
       "duration_ms": 169000,
       "name": "Body On My Mind",
       "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
+    },
+    {
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250082,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
     },
     {
       "album": {
@@ -2335,6 +2361,24 @@
       "duration_ms": 184000,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6Xdpx96oFxS35VeGSbOjxO"
+    },
+    {
+      "album": {
+        "name": "Sweet Potato",
+        "url": "https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Sweet Potato",
+      "url": "https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx"
     },
     {
       "album": {
