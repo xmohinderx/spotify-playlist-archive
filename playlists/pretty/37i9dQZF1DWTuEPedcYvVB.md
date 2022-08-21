@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,874 likes - 46 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,942 likes - 46 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 38 | [Mañana \- 2019 \- Remaster](https://open.spotify.com/track/5wCaEg0F5IvtSZbFD2ze1l) | [Radio Tarifa](https://open.spotify.com/artist/66fSx6FKclyaS6PUYx23ee) | [Rumba Argelina \(2019 \- Remaster\)](https://open.spotify.com/album/1iuAGJEfdOw0klUssxJl4m) | 3:41 |
 | 39 | [Otis](https://open.spotify.com/track/7A2yhrdnFspRjpX8RC8UW1) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:16 |
 | 40 | [Forget Me](https://open.spotify.com/track/0DbGuU3KHbTig1AWT8sTez) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:51 |
-| 41 | [Have Some Mercy](https://open.spotify.com/track/5fFldZH5U1NE6sQgvydV7Q) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [The Reggae Artists Gallery](https://open.spotify.com/album/484PIE4qtnUpm7XUiDLumm) | 3:28 |
+| 41 | [Have Some Mercy](https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 3:26 |
 | 42 | [Heart\-Shaped Smoke Rings](https://open.spotify.com/track/4akzeLDcfAo2O42aOEU1oZ) | [Antonia Carrena](https://open.spotify.com/artist/4wyIlKQECWBUoIIVT7cUUx) | [Heart\-Shaped Smoke Rings](https://open.spotify.com/album/1kr4XrDEINDyLjYoKKeXZL) | 4:07 |
 | 43 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 |
 | 44 | [EN MI CONTRA](https://open.spotify.com/track/2GDyAwz1vg3p73aSgmjdtm) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:23 |
 | 45 | [La Guayaba](https://open.spotify.com/track/2VeXI9CcoekqU1VGMljovo) | [Riccie Oriach](https://open.spotify.com/artist/3b12EGhDU7EhHcuZmMG3oV) | [Viaje Al Infinito](https://open.spotify.com/album/5f1r5AowWw21NMerlIwBxz) | 4:23 |
 | 46 | [Mahmoume \- Tourmenté](https://open.spotify.com/track/63TIFnEUF8mzPOVw0wYhT3) | [Nass El Ghiwane](https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL) | [Fine ghadi biya khouya](https://open.spotify.com/album/43S3rQh0r9yxCrraFFSO2n) | 3:03 |
 
-Snapshot ID: `MTY0OTk0MjUzMiwwMDAwMDAwMDdkZGUxN2YxZmU4MTgyZjJkZGQ5YzBkNTg3YTdlZTVl`
+Snapshot ID: `MTY0OTk0MjUzMiwwMDAwMDAwMGQ5Y2E3ODkzMGIyZDk0Y2EyZmQ0Njk5NDA0OGVmNmZi`

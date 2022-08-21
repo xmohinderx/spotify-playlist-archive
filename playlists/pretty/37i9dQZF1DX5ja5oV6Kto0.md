@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy?si=WLk1KzhATZeeHy2pi\-KrRw"> NATIVE Sound System </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,762 likes - 82 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,789 likes - 82 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

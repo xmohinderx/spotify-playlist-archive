@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,614 songs - 3 day 22 hr 8 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,616 songs - 3 day 22 hr 15 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [4 All I Love](https://open.spotify.com/track/1CwVBXSa5sxB1pQQszHIe3) | [Eli Anderson](https://open.spotify.com/artist/1z29pSlefggVpHPre3jw7L) | [4 All I Love](https://open.spotify.com/album/5pnOpUlywIubS3GGLWNQKg) | 3:31 | 2021-05-14 | 2021-05-30 |
 | [4 More](https://open.spotify.com/track/68SS9WH6kOOFZBWVONjlaS) | [JAAK](https://open.spotify.com/artist/7rVFGjBnR7bWwXzfNdtwCE) | [4 More](https://open.spotify.com/album/00MAeMmYS3al6jr7MOKRRC) | 2:57 | 2022-08-12 |  |
 | [4 My Ppl](https://open.spotify.com/track/1O24Mm4Azaoh75FBR5evW0) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Survival Kit](https://open.spotify.com/album/1ZuTnRjArZ0GNhpXkNiZaI) | 4:25 | 2021-07-12 | 2021-11-19 |
+| [4:20 pm](https://open.spotify.com/track/0VxI1PminrTBdZFKBVQ73H) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [4:20 pm](https://open.spotify.com/album/58xZZCi3oDKjG1HtsH2EVf) | 3:16 | 2022-08-20 |  |
 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 | 2019-09-29\* | 2021-11-19 |
 | [5683](https://open.spotify.com/track/3oCbklzJ146n6GIEA4QPKq) | [Kemi Ade](https://open.spotify.com/artist/6KDipZITiq5yiYakmv11UP) | [5683](https://open.spotify.com/album/6ANMAvzqKaD6iOuLhuWJoL) | 3:13 | 2022-03-18 | 2022-04-05 |
 | [7teen](https://open.spotify.com/track/0ItHs5lEAi4uvNCDIjcrgG) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [7teen](https://open.spotify.com/album/2szDDJ6xtonnj8l8dnzisR) | 2:48 | 2021-09-11 | 2021-09-26 |
@@ -1089,6 +1090,7 @@
 | [Palmyra](https://open.spotify.com/track/1j3T5BU02xpSLY8046tctH) | [Szymon Białek](https://open.spotify.com/artist/4dcMq1by7X5jrOI0sYpdnC) | [Terra Incognita](https://open.spotify.com/album/4FpwfmSAmR9pFQbmgcq8zn) | 3:27 | 2020-11-27 | 2020-12-12 |
 | [Paradise](https://open.spotify.com/track/5HkY9KLkbmznc12MEH1D7q) | [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs) | [Paradise](https://open.spotify.com/album/3246zVCquJgyAOOZMDmTpV) | 3:06 | 2021-08-13 | 2021-08-29 |
 | [Paradise](https://open.spotify.com/track/65M9PAYF23vSHVmyvuPsPq) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Paradise](https://open.spotify.com/album/5w3app9uYtKZFRy1XOmYUt) | 2:23 | 2020-03-12 | 2020-04-04 |
+| [Paradise](https://open.spotify.com/track/7Jp8TZMi7o5SG6fPfXUBG0) | [The Bergamot](https://open.spotify.com/artist/4wmpJsWHVtigpGrGya1TQt) | [Paradise](https://open.spotify.com/album/46UhCQy52hr3uYKpiwH8B2) | 3:52 | 2022-08-20 |  |
 | [Parallels](https://open.spotify.com/track/3OwSL8zyXT17iv9ITaWPP6) | [TGC](https://open.spotify.com/artist/0TKIN6ssV2jhUlRm3r7U4z) | [Parallels](https://open.spotify.com/album/1a75a2Vtumz1oyeN13hDJh) | 3:46 | 2021-07-10 | 2021-07-25 |
 | [Party at the End of the World](https://open.spotify.com/track/5kVVUIUokawsz9drbmwFUa) | [Tess Posner](https://open.spotify.com/artist/6E0ipJwSn72SyGZUHAp2ht) | [Party at the End of the World](https://open.spotify.com/album/6Yr2ahioo6MAHZXe9lfUz5) | 3:09 | 2021-01-15 | 2021-01-30 |
 | [Past Life](https://open.spotify.com/track/3JjY4IgdeK1w8qMBm0yWyw) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Past Life](https://open.spotify.com/album/1UYUdHAO3d6iA71X4sj4ak) | 3:01 | 2020-03-11 | 2020-04-09 |

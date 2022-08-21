@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Aitch
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,986 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,995 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 61 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/2qiYy5k1mDAOpegYqv00wG) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/53FpLc8sSUmGGb0OY6cZKG) | 2:45 |
 | 62 | [nackt](https://open.spotify.com/track/1hod1JBUtaLol1PiMxggW7) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [YUGO](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2) | [nackt](https://open.spotify.com/album/18pPobu9hNL116R2wIT5fQ) | 2:57 |
 | 63 | [Love Me Better \(feat\. Leah Guest\)](https://open.spotify.com/track/08BdwDsjgDp9N3ALRaKuYJ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Love Me Better \(feat\. Leah Guest\)](https://open.spotify.com/album/09PyXeLOshCAxaVs56KcMN) | 3:20 |
-| 64 | [5 4 3 2 1](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [5 4 3 2 1](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 |
+| 64 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 |
 | 65 | [Stranger](https://open.spotify.com/track/6HsP8AwuSVliAtYXr93br0) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Stranger](https://open.spotify.com/album/1SYD9U5ySpahn116MFUxby) | 2:08 |
 | 66 | [Don't Let The Light Go Out](https://open.spotify.com/track/2lCyQnftM6ptqC3vk7qeao) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Don’t Let The Light Go Out](https://open.spotify.com/album/12sVYYyzqFcgA6o3yqCx5i) | 3:49 |
 | 67 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 98 | [Rave Code](https://open.spotify.com/track/3WAEgsrDzJV1aeKDzrRhgN) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Rave Code EP](https://open.spotify.com/album/1YPxQWH8lo8iVEv9QFSG6E) | 5:31 |
 | 99 | [KEINE BEWEGUNG](https://open.spotify.com/track/1vOOHHBWzxbyZJSj6iroA4) | [Die Nerven](https://open.spotify.com/artist/7rdm7IB4LaHSy1PvRzXnmc) | [KEINE BEWEGUNG](https://open.spotify.com/album/28SuMQRzwAhgNVO9nnKOuN) | 4:13 |
 | 100 | [Big Trouble](https://open.spotify.com/track/0x9Edpra2WfVqC3l6gqUYG) | [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj) | [Big Trouble](https://open.spotify.com/album/7FTMHZi9aNgyr2w1FXi0Lz) | 2:39 |
-| 101 | [Der Sommer](https://open.spotify.com/track/2Nx444lC4zPFr54h4FVHrx) | [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr), [Palast Orchester](https://open.spotify.com/artist/4hpBGJOuoxk3ePwhtlrkWh), [Swonderful Orchestra](https://open.spotify.com/artist/0ObSpuax7Bj3gQEeUdIyJH) | [Der Sommer](https://open.spotify.com/album/0XQg7cECw9VUCMPDXC6Mtp) | 2:35 |
+| 101 | [Der Sommer](https://open.spotify.com/track/2Nx444lC4zPFr54h4FVHrx) | [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr), [Palast Orchester](https://open.spotify.com/artist/4hpBGJOuoxk3ePwhtlrkWh), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg) | [Der Sommer](https://open.spotify.com/album/0XQg7cECw9VUCMPDXC6Mtp) | 2:35 |
 | 102 | [Ich habe keine Angst davor, dass die Welt sich weiterdreht](https://open.spotify.com/track/1U3oLZlWvYmN4grKaP96PZ) | [Frida Gold](https://open.spotify.com/artist/1Q229kIsASlkUb3VBeQmIL) | [Ich habe keine Angst davor, dass die Welt sich weiterdreht](https://open.spotify.com/album/1fQdWPlzIJBXT6D1JVIxY3) | 5:15 |
 
 Snapshot ID: `MTY2MDg4ODc5NiwwMDAwMDAwMGFjYmVmOTcxZmQ1OTU2NTgzZDhiMTY3N2YzYjRkZjU4`

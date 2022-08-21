@@ -4,7 +4,7 @@
 
 > Relax to the sound of jazz.
 
-230 songs - 21 hr 53 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+231 songs - 21 hr 59 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Old Folks](https://open.spotify.com/track/1d2GDKkf9zUtm3uVpht4iK) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [Old Folks](https://open.spotify.com/album/6IN9pyVseQooCpSgOYO25O) | 4:51 | 2022-02-24 | 2022-07-29 |
 | [Old Folks](https://open.spotify.com/track/4UhBGmqcApvAZFTq53ukh7) | [Xavier Davis](https://open.spotify.com/artist/2LiJegzrWFHatDw2kFLsc7), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [Dwayne Burno](https://open.spotify.com/artist/6bc7L0muoQvrJmrehvygRT) | [Dance of Life](https://open.spotify.com/album/29eUcknOT3RFpp1N1UK1lS) | 8:02 | 2020-10-09 |  |
 | [On a Turquoise Cloud](https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs) | [Echoes of Swing](https://open.spotify.com/artist/2MGK5rV3sBiI1UW1hjYDD8) | [Travelin'](https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5) | 3:48 | 2020-10-09 |  |
-| [Other Jewels](https://open.spotify.com/track/5t2AP2RpJc9p0zS5gdsCHF) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [My Old Flame](https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo) | 5:47 | 2022-06-30 |  |
+| [Other Jewels](https://open.spotify.com/track/43QCn1fqNpaVllvjNXx5eX) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [European Quartet: Diamonds and Other Jewels](https://open.spotify.com/album/1dWMdUU4sEl2T5hb4umAZp) | 5:47 | 2022-08-16 |  |
+| [Other Jewels](https://open.spotify.com/track/5t2AP2RpJc9p0zS5gdsCHF) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [My Old Flame](https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo) | 5:47 | 2022-06-30 | 2022-08-21 |
 | [Other Jewels](https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [Other Jewels](https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr) | 5:47 | 2022-05-19 | 2022-07-29 |
 | [Our Son](https://open.spotify.com/track/1dsVIoiV96Goqv1jGbJySI) | [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6) | [Inspirations & Dedications](https://open.spotify.com/album/29cOIY18Ltp3gisRUmNqh8) | 2:42 | 2020-10-09 |  |
 | [Part Trio](https://open.spotify.com/track/03k3pTFdvFcZIyt6WgNIL4) | [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/1bDV4bLFXF03SWcbuV9wrm) | 5:06 | 2020-10-09 | 2022-02-18 |

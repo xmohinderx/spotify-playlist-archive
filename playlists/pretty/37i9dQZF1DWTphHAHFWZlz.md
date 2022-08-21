@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > La nueva ola del rock argentino\. Foto: El Mató a un Policía Motorizado
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,459 likes - 103 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,466 likes - 103 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 6 | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/track/0AcUxNrUimUbnZjfU1d1Eo) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/album/5FVZFjAVNaOm7X9erzp905) | 4:22 |
 | 7 | [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 |
 | 8 | [Natación](https://open.spotify.com/track/1EaPFhLP6YF3qzOmwpXhxa) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Natación](https://open.spotify.com/album/3GDo0ywjzL2zFMoEZJIoZV) | 3:40 |
-| 9 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 |
+| 9 | [LA ARAÑA](https://open.spotify.com/track/1LRCYh4SN2EtRZD3zMcbWe) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:28 |
 | 10 | [Fuera de Foco](https://open.spotify.com/track/3HBuXMWVqplKX6GXaQCyrS) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [El Show del Fin del Mundo, Vol\. 1](https://open.spotify.com/album/1NwffYreHko6QEXjoAdSmq) | 3:16 |
 | 11 | [Royal Surf](https://open.spotify.com/track/6NFpSOagciiNbJoM91kjSq) | [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G) | [Royal Surf](https://open.spotify.com/album/5D2bxX6GYBrz1IAPIJEE1J) | 3:54 |
 | 12 | [La Foto](https://open.spotify.com/track/6ubfIxvIdkcICVNzsdvdFc) | [Tobías Arribillaga](https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ), [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [La Foto](https://open.spotify.com/album/5ks9k8UqomuzIKdhSuDaPP) | 3:33 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 30 | [Coleccionando cicatrices](https://open.spotify.com/track/2Ug1MOeq7WsZI3e3RmIXIQ) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:56 |
 | 31 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 |
 | 32 | [Peaky Blinders](https://open.spotify.com/track/0kN5zA13KIt644GzozKGgc) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Peaky Blinders](https://open.spotify.com/album/5AVbHKr5ejED0soXxFbYut) | 3:53 |
-| 33 | [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 |
+| 33 | [Olimpica](https://open.spotify.com/track/7jTQYRAAppaWtQuOYZdY3z) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:45 |
 | 34 | [Cállame](https://open.spotify.com/track/5woNfSOnZYbFbA94DqvJJG) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:07 |
 | 35 | [Superstar](https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pura Casualidad](https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a) | 3:02 |
 | 36 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 102 | [Siguiendo la Huella No Llego a París](https://open.spotify.com/track/14G1wMnTXGuvPckgAoZmiw) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Siguiendo la Huella No Llego a París](https://open.spotify.com/album/3AcIAJ1kHSJAAyl0Cu9n3P) | 2:58 |
 | 103 | [No bien abran las flores](https://open.spotify.com/track/7qWXSnQMeeGHkKgDjdOkXU) | [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01), [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [No bien abran las flores](https://open.spotify.com/album/2mN2xBT2hm7ml4ZwC2d7bH) | 4:47 |
 
-Snapshot ID: `MTY2MDg3ODAwMCwwMDAwMDAwMGExM2M0NTIyZmIyNTE1ZmUwZjU1MDZmYjk5ZDFiZjcw`
+Snapshot ID: `MTY2MDg3ODAwMCwwMDAwMDAwMDY3YTNiZDEyZWZjODExNTdlYmI0MDkwNWEzZTNjYjNk`

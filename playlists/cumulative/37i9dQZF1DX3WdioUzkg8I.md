@@ -4,7 +4,7 @@
 
 > Relaxing music and sounds for sleeping.
 
-241 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/5rgh2vQqq4FwzvlZrwNuEX)
+242 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/5rgh2vQqq4FwzvlZrwNuEX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2022-01-04 |  |
 | [De regreso](https://open.spotify.com/track/3jNePRcuAfTnjIARaEQY0o) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [De regreso](https://open.spotify.com/album/0K3k1JIj8a8C1wUGrdLJwF) | 3:09 | 2022-04-28 |  |
 | [Deep breaths](https://open.spotify.com/track/1XhhBtMKmNGM4yfgMZQVxf) | [Jirou Soller](https://open.spotify.com/artist/0gTSb6SH0iohVVodJGSUlH) | [Deep breaths](https://open.spotify.com/album/3JEiMxMBlySWYU9dpuSMoA) | 2:11 | 2022-01-04 |  |
-| [Derrière le carreau fermé](https://open.spotify.com/track/659EQJMW0XdMy1aLN4Kcxo) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Derrière le carreau fermé](https://open.spotify.com/album/2AkX2csT7kUNklUxwQQOpB) | 2:11 | 2022-02-01 |  |
+| [Derrière le carreau fermé](https://open.spotify.com/track/0PeioVXpgkx0gAjjXWZgrI) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:11 | 2022-07-27 |  |
+| [Derrière le carreau fermé](https://open.spotify.com/track/659EQJMW0XdMy1aLN4Kcxo) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Derrière le carreau fermé](https://open.spotify.com/album/2AkX2csT7kUNklUxwQQOpB) | 2:11 | 2022-02-01 | 2022-08-21 |
 | [Diligence](https://open.spotify.com/track/1mBe4d92QRRMqN1FQ2cvup) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Diligence](https://open.spotify.com/album/2dswTsB44D75N7rgLaXFvd) | 3:46 | 2022-01-04 | 2022-04-02 |
 | [Dimensional Flow](https://open.spotify.com/track/3bfEExFF3dta2EQTiFdOR4) | [SCVLPTURE](https://open.spotify.com/artist/5XVMPbPClGH8Xp9UjUUht6) | [Dimensional Flow](https://open.spotify.com/album/6mKlfudpt9JNYA8aG2Glzm) | 2:06 | 2022-05-27 |  |
 | [Dinlenmek](https://open.spotify.com/track/38FoeSh8Ll0dA5TuflbviN) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Dinlenmek](https://open.spotify.com/album/6Nhn7DsXIg6clkyhoPmWGT) | 3:43 | 2022-01-04 |  |

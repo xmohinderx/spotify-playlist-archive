@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > Fresh R&B Latin tracks, solo lo nuevo del R&B Latino\.  Cover: Destiny Rogers
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,426 likes - 85 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,449 likes - 85 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

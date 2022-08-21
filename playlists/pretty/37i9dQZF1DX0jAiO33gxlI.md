@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Yago Oproprio, Rô Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,702 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,765 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 7 | [Abelhas e Moscas](https://open.spotify.com/track/2CNwwVR4ylovsBhGHaWyZG) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Abelhas e Moscas](https://open.spotify.com/album/5lsRYXcmDikB0CRudcCgPw) | 4:22 |
 | 8 | [Aparte](https://open.spotify.com/track/72gKENEDMyQxu1kRPAZKew) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [DCazz](https://open.spotify.com/artist/5tyku1FcTAjQWHkl1Mtpx0), [DJ Nyack](https://open.spotify.com/artist/4l1swC95ec222K06mGTOTI) | [Aparte](https://open.spotify.com/album/4CTWa1yv9vPeEUbidGDqQO) | 2:49 |
 | 9 | [Se Fosse por Mim](https://open.spotify.com/track/5U0djhxrJK2MJOF84yxTOA) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1) | [Se Fosse por Mim](https://open.spotify.com/album/3jvNwMKV018NJbqn3qNjo7) | 3:32 |
-| 10 | [Se Tá Solteira \- BADZILLA Remix](https://open.spotify.com/track/5XyF3O4y1LHOzO75t9J6FW) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Se Tá Solteira \(BADZILLA Remix\)](https://open.spotify.com/album/7k5plhx0MWhaHKaKb910lU) | 2:15 |
+| 10 | [Se Tá Solteira \- BADZILLA Remix](https://open.spotify.com/track/5XyF3O4y1LHOzO75t9J6FW) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Se Tá Solteira \(BADZILLA Remix\)](https://open.spotify.com/album/7k5plhx0MWhaHKaKb910lU) | 2:15 |
 | 11 | [Tamo Gigante](https://open.spotify.com/track/4TZb54H3UesQom2lskMF3B) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [Tamo Gigante](https://open.spotify.com/album/6c53Ns7a0MfyZZfNw6hqZV) | 5:16 |
 | 12 | [Facilitei](https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Facilitei](https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC) | 3:32 |
 | 13 | [Noite de Crime](https://open.spotify.com/track/0g2z0ncOs8F5YKdmbrIsZr) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Mc King](https://open.spotify.com/artist/1g2Y9BdMQmy2dp5oLbInjz), [Tizi Kilates](https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Noite de Crime](https://open.spotify.com/album/6EiJ4P9VBC1GOt4gAmvBwd) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,394,327 likes - 146 songs - 13 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,394,526 likes - 146 songs - 13 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 2 | [It's In The Middle Of The Night](https://open.spotify.com/track/7yRKzNvEQz9cngBQhjJp7L) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Jazz at Night](https://open.spotify.com/album/7cjqOoWOgTfdrmTeUjvh4u) | 3:39 |
 | 3 | [Fugitive Ritual, Selah](https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 5:47 |
 | 4 | [Misty](https://open.spotify.com/track/24GGpPxMdDvCpy9vTmDc6U) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:32 |
-| 5 | [Other Jewels](https://open.spotify.com/track/5t2AP2RpJc9p0zS5gdsCHF) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [My Old Flame](https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo) | 5:47 |
+| 5 | [Other Jewels](https://open.spotify.com/track/43QCn1fqNpaVllvjNXx5eX) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [European Quartet: Diamonds and Other Jewels](https://open.spotify.com/album/1dWMdUU4sEl2T5hb4umAZp) | 5:47 |
 | 6 | [Theme For Leon](https://open.spotify.com/track/1PdnJncOIXLLHOjWq6zQBE) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Theme for Leon](https://open.spotify.com/album/587RQMxWOa3jkQKFQt9tKw) | 6:08 |
 | 7 | [It's You I Like](https://open.spotify.com/track/78pcTFrKHHttuJedO00g8j) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [It's You I Like](https://open.spotify.com/album/0HndGWelRVWNQkdiPrhXna) | 4:46 |
 | 8 | [Habanera](https://open.spotify.com/track/1TKJu779sVM4bM1Kg0qNEF) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Habanera](https://open.spotify.com/album/1ifBHQSP0GZJx0H1GygeVQ) | 4:48 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 145 | [For Wee Folks](https://open.spotify.com/track/7kFpCWoKe2iqZSsBe9xwm5) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Countdown](https://open.spotify.com/album/4WHtmqNJCJtXiaQojOHHEC) | 6:28 |
 | 146 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 
-Snapshot ID: `MTY2MDY0MjAzOSwwMDAwMDAwMDUwYmNjZGM5MWUyZTkzYmVkOWRiMzZlM2I0M2M4Zjdj`
+Snapshot ID: `MTY2MDY0MjAzOSwwMDAwMDAwMDljNzljMmE1ODFmZmE2MWQ3NTA3NjZkNGYzMTliOTcx`

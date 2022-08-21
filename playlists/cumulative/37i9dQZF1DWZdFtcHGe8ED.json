@@ -617,7 +617,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 234578,
       "name": "Blood On Your Hands",
       "url": "https://open.spotify.com/track/2SvaoXpigVKbipjqqAcoxG"
@@ -3567,7 +3567,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 254143,
       "name": "New World Beyond",
       "url": "https://open.spotify.com/track/1gjzvbjjMactmbWxuLxS84"
@@ -3657,7 +3657,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 249893,
       "name": "No Absolution",
       "url": "https://open.spotify.com/track/3TG250zay6SvwFwQpEqnEr"
@@ -5153,6 +5153,24 @@
       "duration_ms": 181186,
       "name": "The Beatings Will Continue (Until Morale Improves)",
       "url": "https://open.spotify.com/track/3IHyIb0FofYOCPrS7k924S"
+    },
+    {
+      "album": {
+        "name": "Weapons of Tomorrow",
+        "url": "https://open.spotify.com/album/17DKdWLitnU01P627Dt2Ia"
+      },
+      "artists": [
+        {
+          "name": "Warbringer",
+          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237508,
+      "name": "The Black Hand Reaches Out",
+      "url": "https://open.spotify.com/track/0Sd8D0bpbOBlFo6dZz4OiH"
     },
     {
       "album": {

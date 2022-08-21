@@ -1616,6 +1616,28 @@
     },
     {
       "album": {
+        "name": "BUST IT",
+        "url": "https://open.spotify.com/album/0T5O8zzBxemSL7BIL6jJAu"
+      },
+      "artists": [
+        {
+          "name": "Crown J",
+          "url": "https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda"
+        },
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "BUST IT (Feat. UNEDUCATED KID)",
+      "url": "https://open.spotify.com/track/2rAjakCurnu8UBGCX4MTQM"
+    },
+    {
+      "album": {
         "name": "life like 20",
         "url": "https://open.spotify.com/album/1V8hnIRMTdH0p2TQK6GW2f"
       },
@@ -8685,6 +8707,24 @@
       "duration_ms": 160500,
       "name": "pilgrim (Feat. Cold Bay)",
       "url": "https://open.spotify.com/track/6CQNEE1Xn7ziA77FB6n0Zn"
+    },
+    {
+      "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "album": {

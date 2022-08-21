@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-214 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/3taMKdfV2mPq94KYQPk84T)
+215 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/3taMKdfV2mPq94KYQPk84T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Daisy](https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 2:54 | 2022-03-25 |  |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2021-12-10 |  |
 | [Destiny \(Acoustic Version\)](https://open.spotify.com/track/0ViifrNFDm3IKycXfvkuA3) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Watch the World](https://open.spotify.com/album/4a2YjKwbgujqWtGCOLPve3) | 3:13 | 2021-12-10 | 2022-07-29 |
-| [Don't Forget My Love \- Acoustic](https://open.spotify.com/track/1n8Dak8MPeZ82E3iPzWyzH) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love \(Acoustic\)](https://open.spotify.com/album/5eJcgHJfIcP6HMQu7ZlnMm) | 3:14 | 2022-06-27 |  |
+| [Don't Forget My Love \- Acoustic](https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:14 | 2022-06-27 |  |
+| [Don't Forget My Love \- Acoustic](https://open.spotify.com/track/1n8Dak8MPeZ82E3iPzWyzH) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love \(Acoustic\)](https://open.spotify.com/album/5eJcgHJfIcP6HMQu7ZlnMm) | 3:14 | 2022-06-27 | 2022-08-21 |
 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/2m3ouxt4GwarBCRCmwDJdO) | [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT) | [Don't Think Twice, It's All Right](https://open.spotify.com/album/45mad8tBukWnEQ3NWikMO3) | 3:29 | 2021-12-10 | 2022-07-29 |
 | [Don't Wanna Be Right \(Acoustic\)](https://open.spotify.com/track/1E2q2ZFaXpqxXZlztdn2iV) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Don't Wanna Be Right \(Acoustic\)](https://open.spotify.com/album/5rqdfjfPA1jQEul1BebYuS) | 3:12 | 2021-12-10 | 2022-07-27 |
 | [Don't You Worry Child \- Acoustic Version](https://open.spotify.com/track/4BpndTKEqpLgntffipC53q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 4:17 | 2021-12-10 |  |

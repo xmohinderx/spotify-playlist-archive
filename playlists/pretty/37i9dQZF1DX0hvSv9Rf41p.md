@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Ace Aura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,065 likes - 149 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,147 likes - 149 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

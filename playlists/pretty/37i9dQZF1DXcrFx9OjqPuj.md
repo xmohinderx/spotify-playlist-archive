@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrFx9OjqPuj.md) - [plain]
 
 > Get the party started with some upbeat party jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,766 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,813 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

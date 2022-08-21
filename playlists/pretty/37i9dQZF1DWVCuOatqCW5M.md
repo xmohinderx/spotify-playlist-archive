@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Yashraj
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,618 likes - 53 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,696 likes - 53 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Musafir](https://open.spotify.com/track/0qrhhIGpOkghVtiIjTi6yV) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Akash Shravan](https://open.spotify.com/artist/4jFzbVrYw3ARhalxPjFfU0) | [Takiya Kalaam](https://open.spotify.com/album/1sUkDpeG4mPaQSJh9mTzzw) | 2:58 |
 | 2 | [Barsaat Ho Jaaye](https://open.spotify.com/track/3nZr2Anx8AEkI3thetbBzP) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Barsaat Ho Jaaye](https://open.spotify.com/album/6Us08Vq82uCHK5aROjNlmA) | 4:10 |
 | 3 | [Duniya](https://open.spotify.com/track/1oDwcIRY8GsNn7VZr8ladn) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Sunny Singh](https://open.spotify.com/artist/7DLinx8mI1KpCbQ5jpK7eX), [Saiee Manjrekar](https://open.spotify.com/artist/3vfboh3NO1IPZHJEuEFzaM) | [Duniya](https://open.spotify.com/album/0pY9e05RJ52zBkEI7kezYB) | 3:50 |
-| 4 | [JAANIYA](https://open.spotify.com/track/171BpfIunw4saFc0pPJfDO) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB) | [JAANIYA](https://open.spotify.com/album/5D0XVqRiZGBTqjoy3SF1xQ) | 3:04 |
+| 4 | [JAANIYA](https://open.spotify.com/track/171BpfIunw4saFc0pPJfDO) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [ICONYK](https://open.spotify.com/artist/53jFDJeDG6WGvjeiuw8RAE) | [JAANIYA](https://open.spotify.com/album/5D0XVqRiZGBTqjoy3SF1xQ) | 3:04 |
 | 5 | [Dariyaa \(feat\. Javed Ali\)](https://open.spotify.com/track/4vByr0ivtfJq9HRTXzbpZ3) | [Ravi Singhal](https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Dariyaa \(feat\. Javed Ali\)](https://open.spotify.com/album/1DhTfJQSFarNYHHdLsLYa5) | 4:21 |
 | 6 | [Aankhon Wali Baatein](https://open.spotify.com/track/21VVLmm60b0AEzmBNoV4Wr) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Aankhon Wali Baatein](https://open.spotify.com/album/0G9A3yId2w5NBJcqwh31uv) | 3:41 |
 | 7 | [Tu Hi Hai Sanam](https://open.spotify.com/track/3fmYGdO1LPyTltoi2JBjLX) | [Pawandeep Rajan](https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Tu Hi Hai Sanam](https://open.spotify.com/album/3fVtcKmQYceDSk8SbCctWS) | 4:55 |

@@ -4,7 +4,7 @@
 
 > Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: SINCE\(신스\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-546 songs - 1 day 6 hr 58 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+548 songs - 1 day 7 hr 5 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [BROKEN FERRARI](https://open.spotify.com/track/0HDCRQtvg8z1HxKW7uk4G7) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [BROKEN FERRARI](https://open.spotify.com/album/5TDBEuR0ozKPTH2NQPjYkW) | 3:35 | 2022-03-09 | 2022-06-12 |
 | [Brunch](https://open.spotify.com/track/2rCE9eozHmfoqFVPOPHtCe) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [Eat it when u nneed it](https://open.spotify.com/album/5OiW24T1l7SUyerZnskqKN) | 2:59 | 2022-02-17 | 2022-06-05 |
 | [BUM \(feat\. Chillin Homie & Kid Milli\)](https://open.spotify.com/track/3bZewrcZbZYf7h6udWoDsr) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BUM \(feat\. Chillin Homie & Kid Milli\)](https://open.spotify.com/album/7w9mPTFLGn8yGp1CwKNEAO) | 3:06 | 2022-03-26 | 2022-05-06 |
+| [BUST IT \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/track/2rAjakCurnu8UBGCX4MTQM) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [BUST IT](https://open.spotify.com/album/0T5O8zzBxemSL7BIL6jJAu) | 3:33 | 2022-08-20 |  |
 | [cali 2 paris](https://open.spotify.com/track/2BQh6xqyYL8BkThdpxDBlm) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [life like 20](https://open.spotify.com/album/1V8hnIRMTdH0p2TQK6GW2f) | 3:08 | 2022-05-31 | 2022-07-06 |
 | [Call Me Up \(Feat\. Claire Hau\)](https://open.spotify.com/track/7kbNPLs7bvIkywVodFz3g5) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:22 | 2022-07-14 |  |
 | [CAME](https://open.spotify.com/track/0ggujxroa3Llaye8P9jXP1) | [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f) | [CAME](https://open.spotify.com/album/6wbc7OeyMOtJhQhYgjjxNE) | 3:04 | 2022-01-24 | 2022-05-06 |
@@ -382,6 +383,7 @@
 | [PEOPLE \(Feat\. Paloalto, The Quiett\)](https://open.spotify.com/track/55VLNyLM11aRY7rn4xSupR) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 3:39 | 2021-12-21 | 2022-06-28 |
 | [PEP](https://open.spotify.com/track/0cGGwmuWZCvzrIcr6D52C0) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Jung Sangsoo](https://open.spotify.com/artist/5r3uAJ7gBuc6i0eyMR3Lx4) | [PEP](https://open.spotify.com/album/1zzs4IqLwC48bLZvY4u5uH) | 3:08 | 2022-03-14 | 2022-06-28 |
 | [pilgrim \(Feat\. Cold Bay\)](https://open.spotify.com/track/6CQNEE1Xn7ziA77FB6n0Zn) | [Camel Jack](https://open.spotify.com/artist/2UAASoJLUN2LcVTvfFlDQS), [Cold Bay](https://open.spotify.com/artist/6EG4gNB7bX6zI2K87xVm2O) | [FANTASY TRIBE](https://open.spotify.com/album/0YrIwu97fGzEOopa5pUmBB) | 2:40 | 2022-03-21 | 2022-05-18 |
+| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 |  |
 | [Play](https://open.spotify.com/track/12FGJeMWeTVRjK31NIUIMQ) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Play](https://open.spotify.com/album/6MgHVfBDsr2qBP3Og6hPTo) | 2:39 | 2021-12-18 | 2022-07-07 |
 | [Point five](https://open.spotify.com/track/1lwPGz8gXtsicL8F65UC2C) | [Doplamingo](https://open.spotify.com/artist/1T7DSjrtX5ydHFT9xJOQCn) | [The Gateless Gate](https://open.spotify.com/album/7x50GGhigFVzm7NGuCOmtk) | 3:08 | 2022-01-15 | 2022-06-07 |
 | [Poison \(feat\. Kid Milli\)](https://open.spotify.com/track/7jTJ34cWfwzdlw0ILJN0jY) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Poison \(feat\. Kid Milli\)](https://open.spotify.com/album/1mIVK5CXVGkwVmhXueKwYq) | 4:07 | 2022-02-22 | 2022-07-06 |

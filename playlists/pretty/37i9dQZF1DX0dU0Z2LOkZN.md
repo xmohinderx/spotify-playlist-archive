@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,755 likes - 143 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,902 likes - 143 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 135 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 |
 | 136 | [Azisa \- Instrumental](https://open.spotify.com/track/0YxaVlAixd2nseGIdkoihf) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Azisa \(Instrumental\)](https://open.spotify.com/album/2N50vIkJsXhrNXQuJx0KfC) | 2:26 |
 | 137 | [money planet](https://open.spotify.com/track/4mItLdXP7LSyBrGDcyhdGi) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [money planet](https://open.spotify.com/album/3e4RusRrCqv3MKM04pjBoO) | 1:44 |
-| 138 | [Coleiro](https://open.spotify.com/track/4RXhpLWyXaR8sR8I8bognS) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM) | [Coleiro \(Instrumental\)](https://open.spotify.com/album/2Pkmqg8S3AQInllyY1Cod4) | 2:33 |
+| 138 | [Coleiro \- Instrumental](https://open.spotify.com/track/4RXhpLWyXaR8sR8I8bognS) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM) | [Coleiro \(Instrumental\)](https://open.spotify.com/album/2Pkmqg8S3AQInllyY1Cod4) | 2:33 |
 | 139 | [Got It All Wrong](https://open.spotify.com/track/4XOOfZtGfTxhRQSRZj2kjn) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz), [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Got It All Wrong](https://open.spotify.com/album/2pYPq5DYD3ksV2RxQSKg3g) | 2:27 |
 | 140 | [Queen's Flower](https://open.spotify.com/track/6s1G9bpphtB9E4OijfWslZ) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Queen's Flower](https://open.spotify.com/album/5bzw7GhCjD3ewcq0Pgng2M) | 2:22 |
 | 141 | [Palindromeda](https://open.spotify.com/track/3oUSL2wv3bD1KLCfuzQbQ4) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Palindromeda](https://open.spotify.com/album/7GlrACUPKdFqezK9kljp3p) | 1:43 |

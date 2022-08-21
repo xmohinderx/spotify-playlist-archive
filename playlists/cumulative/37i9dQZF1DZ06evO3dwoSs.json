@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 218788,
       "name": "I Refuse",
       "url": "https://open.spotify.com/track/7H3wZikaMxA1D3ipMy8evb"
@@ -744,6 +744,24 @@
     },
     {
       "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198780,
+      "name": "Thanks For Asking",
+      "url": "https://open.spotify.com/track/1pZwsIB2ogBnbjydoIHQnL"
+    },
+    {
+      "album": {
         "name": "The Way of the Fist",
         "url": "https://open.spotify.com/album/5IcAPAVFJi4ETttx2GONFB"
       },
@@ -759,6 +777,24 @@
       "duration_ms": 268666,
       "name": "The Bleeding",
       "url": "https://open.spotify.com/track/4l4ytfBCPSovTX8CB5li3m"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223199,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL"
     },
     {
       "album": {
@@ -827,7 +863,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 192188,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6q05Nn2QU91KkGxY0m8vCk"

@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 146470,
       "name": "Betty (Get Money)",
       "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
@@ -1784,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "Flaite y cantante",
+        "url": "https://open.spotify.com/album/4vXZ69amzK3s3sTB4KT6Xy"
+      },
+      "artists": [
+        {
+          "name": "lockwaybyw",
+          "url": "https://open.spotify.com/artist/7sOi5zjXmJk4X3jo1zGPh7"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80131,
+      "name": "Flaite y cantante",
+      "url": "https://open.spotify.com/track/0IomeQ5uCWipNjNO8TfBSN"
+    },
+    {
+      "album": {
         "name": "Flashbacks",
         "url": "https://open.spotify.com/album/0b16ekeB67exivDLk5xj2u"
       },
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 168013,
       "name": "fornai",
       "url": "https://open.spotify.com/track/3I2uEeXlZX00Z8TrwYeRo4"
@@ -3947,7 +3965,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 193696,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/2qrEyFnx2XaKmMFtLZ00xg"
@@ -5333,7 +5351,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 243000,
       "name": "Shut Up and Listen",
       "url": "https://open.spotify.com/track/3PNaaKLGYYn1ULNZXyMuWM"
@@ -6327,7 +6345,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
@@ -6484,6 +6502,24 @@
     },
     {
       "album": {
+        "name": "Easy On My Eyes",
+        "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD"
+    },
+    {
+      "album": {
         "name": "Until I Found You",
         "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
       },
@@ -6615,6 +6651,24 @@
       "duration_ms": 160639,
       "name": "Wacha Loca",
       "url": "https://open.spotify.com/track/2y3Bbr5MAmoVbLYuOBmQBQ"
+    },
+    {
+      "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
+      },
+      "artists": [
+        {
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
     },
     {
       "album": {

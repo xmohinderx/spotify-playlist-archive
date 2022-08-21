@@ -720,24 +720,6 @@
     },
     {
       "album": {
-        "name": "5 4 3 2 1",
-        "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "date_added": "2022-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182325,
-      "name": "5 4 3 2 1",
-      "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
-    },
-    {
-      "album": {
         "name": "5 da Manh\u00e3",
         "url": "https://open.spotify.com/album/6GABOafWjmRiqWpbgdiztT"
       },
@@ -889,6 +871,24 @@
       "duration_ms": 184675,
       "name": "50-50 (feat. Dj Novset)",
       "url": "https://open.spotify.com/track/4vF5tGsm1gZnMGEtaMtqp3"
+    },
+    {
+      "album": {
+        "name": "54321",
+        "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "54321",
+      "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
     },
     {
       "album": {
@@ -3725,10 +3725,6 @@
         {
           "name": "FTampa",
           "url": "https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO"
-        },
-        {
-          "name": "HUB",
-          "url": "https://open.spotify.com/artist/7H9dGLuPyrM6jHaI4KDLjZ"
         }
       ],
       "date_added": "2022-08-19",
@@ -22746,7 +22742,7 @@
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 163471,
+      "duration_ms": 187013,
       "name": "Futuro - Ao Vivo",
       "url": "https://open.spotify.com/track/3mni93v1TnCiVi9APYJILJ"
     },
@@ -44540,7 +44536,7 @@
         },
         {
           "name": "Cloud1",
-          "url": "https://open.spotify.com/artist/2gm2QkN9giEcDuwqpF4QrX"
+          "url": "https://open.spotify.com/artist/7o926siY7KCBhzMoC1KK6F"
         },
         {
           "name": "Gustto",
@@ -56751,10 +56747,6 @@
         {
           "name": "Korvo",
           "url": "https://open.spotify.com/artist/2qAAVK0BqDBb41vgkVAhqh"
-        },
-        {
-          "name": "HUB",
-          "url": "https://open.spotify.com/artist/7H9dGLuPyrM6jHaI4KDLjZ"
         }
       ],
       "date_added": "2022-08-19",

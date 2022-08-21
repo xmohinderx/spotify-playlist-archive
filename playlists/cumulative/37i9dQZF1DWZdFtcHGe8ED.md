@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-342 songs - 1 day 0 hr 23 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+343 songs - 1 day 0 hr 27 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 | 2022-07-13 |  |
 | [Bleed the Crown](https://open.spotify.com/track/7v3AunDgAY2f3Ldmf7ZTIg) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Bleed the Crown](https://open.spotify.com/album/0RE0xJCTL8zZwOJAPoYeET) | 4:26 | 2021-12-17 | 2022-07-28 |
 | [Bleeding Out](https://open.spotify.com/track/43leqVDeli1HgybvpX93GG) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Bleeding Out](https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO) | 4:33 | 2021-12-17 | 2022-07-28 |
-| [Blood On Your Hands](https://open.spotify.com/track/2SvaoXpigVKbipjqqAcoxG) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/7Jr3AHWcPDUAQx3gGFO4lD) | 3:54 | 2021-12-17 |  |
+| [Blood On Your Hands](https://open.spotify.com/track/2SvaoXpigVKbipjqqAcoxG) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/7Jr3AHWcPDUAQx3gGFO4lD) | 3:54 | 2021-12-17 | 2022-08-21 |
 | [Bloody Rain](https://open.spotify.com/track/6tSDBDxtrQR4dEWWG5aymJ) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Bloody Rain](https://open.spotify.com/album/5aWuJV6GQ0whl0InQyMuqV) | 5:16 | 2021-12-17 | 2022-07-25 |
 | [Bombenhagel](https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Bombenhagel](https://open.spotify.com/album/3OWGH02j9Ituqld8RF4emS) | 6:06 | 2021-12-17 |  |
 | [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 | 2022-07-13 |  |
@@ -202,12 +202,12 @@
 | [My Time](https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Mourn the Southern Skies](https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom) | 3:53 | 2022-07-13 |  |
 | [Napalm In The Morning](https://open.spotify.com/track/04vA6gMckJePW0RAxijZcm) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16](https://open.spotify.com/album/5calVaFQFKLSAg0LZ3FQqy) | 5:56 | 2022-07-13 | 2022-07-29 |
 | [Napalm in the Morning](https://open.spotify.com/track/58SUPk63baVqZ44Yko0wWL) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16](https://open.spotify.com/album/4z5S4xdou220mwTfA2mmZn) | 5:56 | 2022-07-13 |  |
-| [New World Beyond](https://open.spotify.com/track/1gjzvbjjMactmbWxuLxS84) | [Toxic Holocaust](https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0) | [Primal Future: 2019](https://open.spotify.com/album/3GC8hY4NnN4YDlHMJARwsD) | 4:14 | 2021-12-17 | 2022-07-28 |
+| [New World Beyond](https://open.spotify.com/track/1gjzvbjjMactmbWxuLxS84) | [Toxic Holocaust](https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0) | [Primal Future: 2019](https://open.spotify.com/album/3GC8hY4NnN4YDlHMJARwsD) | 4:14 | 2021-12-17 |  |
 | [Night of the Witch](https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 6:32 | 2022-07-13 |  |
 | [Night of the Witch](https://open.spotify.com/track/4TLsVTvwf3FXV13JdLmh1j) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Night of the Witch](https://open.spotify.com/album/4prdwVIIRKWXs8c4WcOT6y) | 6:32 | 2021-12-17 | 2022-07-28 |
 | [Nightmare Logic](https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 4:21 | 2021-12-17 |  |
 | [Ninja Untouchables/Untouchable Glory](https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Untouchable Glory](https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr) | 2:46 | 2022-07-13 |  |
-| [No Absolution](https://open.spotify.com/track/3TG250zay6SvwFwQpEqnEr) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/5KxFFFGTWgff5YGl6EfOsN) | 4:09 | 2021-12-17 |  |
+| [No Absolution](https://open.spotify.com/track/3TG250zay6SvwFwQpEqnEr) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/5KxFFFGTWgff5YGl6EfOsN) | 4:09 | 2021-12-17 | 2022-08-21 |
 | [No Place for Disgrace](https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [No Place For Disgrace](https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e) | 6:13 | 2022-07-13 |  |
 | [Non\-Existent](https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d) | [Fueled By Fire](https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx) | [Non\-Existent](https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr) | 3:03 | 2022-04-01 | 2022-07-03 |
 | [Nuke The Cross](https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg) | [Toxic Holocaust](https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0) | [An Overdose of Death...](https://open.spotify.com/album/5UfQpdGMJJ4dfhk7BnHiEU) | 2:47 | 2021-12-17 |  |
@@ -290,6 +290,7 @@
 | [The Art of Partying](https://open.spotify.com/track/1jMjbrmkSZAVvi7iffs06D) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:03 | 2022-07-13 |  |
 | [The Beatings Will Continue \(Until Morale Improves\)](https://open.spotify.com/track/2gjsFjDTVacpoZPfGYaddw) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Persona Non Grata](https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4) | 3:01 | 2022-07-13 |  |
 | [The Beatings Will Continue \(Until Morale Improves\)](https://open.spotify.com/track/3IHyIb0FofYOCPrS7k924S) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [The Beatings Will Continue \(Until Morale Improves\)](https://open.spotify.com/album/7jdRD2iA3ZvD11rEGaJNFB) | 3:01 | 2021-12-17 | 2022-07-29 |
+| [The Black Hand Reaches Out](https://open.spotify.com/track/0Sd8D0bpbOBlFo6dZz4OiH) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Weapons of Tomorrow](https://open.spotify.com/album/17DKdWLitnU01P627Dt2Ia) | 3:57 | 2022-07-13 |  |
 | [The Black Hand Reaches Out](https://open.spotify.com/track/3A0TVDGnROaCQdwwrADxYS) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [The Black Hand Reaches Out](https://open.spotify.com/album/2t7D2Zml7nmsQk8iqqHJmx) | 3:57 | 2021-12-17 | 2022-07-29 |
 | [The Blight](https://open.spotify.com/track/0rSkHGAlNJIDbkw3uDwNjf) | [Heathen](https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF) | [The Blight](https://open.spotify.com/album/7sWShhNUqcFYtCthOXoHe0) | 4:38 | 2021-12-17 | 2022-03-05 |
 | [The Clerical Conspiracy \- 2007 Remastered Version](https://open.spotify.com/track/1KxBpjZAxjjO0XUjgEUR26) | [Sabbat](https://open.spotify.com/artist/0jt8kceByMQRorrMxKEUUt) | [Dreamweaver \(Expanded Edition\)](https://open.spotify.com/album/0Bbj6ao9xoNtGw6Yttqklr) | 5:37 | 2022-07-13 | 2022-07-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/57e4EUVfkABhbsT1i1rEtp.md) - [plain]
 
 > Work, study or relax to this classical playlist featuring Bach, Tchaikovsky and more!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 1,194 likes - 61 songs - 4 hr 46 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 1,195 likes - 61 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

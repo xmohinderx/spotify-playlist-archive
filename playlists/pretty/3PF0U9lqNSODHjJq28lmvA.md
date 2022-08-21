@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,010 likes - 33 songs - 1 hr 50 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,011 likes - 33 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 10 | [Hour Power](https://open.spotify.com/track/6ymHduR9pNwt5h5M65SBhS) | [Vince Von Dutch](https://open.spotify.com/artist/3e5DepIg651gPnbQvo8Pbp) | [Hour Power](https://open.spotify.com/album/4DIJq7rNYCWHucJxvsQkqE) | 8:00 |
 | 11 | [Nightshift](https://open.spotify.com/track/3qSMKAuQsH0EN8qil36XCu) | [Space Junkie](https://open.spotify.com/artist/2vkHyNZutSsXOooLV3OMbS) | [Nightshift](https://open.spotify.com/album/2zxB73iOiFkwfeWHU1De8i) | 5:36 |
 | 12 | [Dusk of Hopes](https://open.spotify.com/track/2Lo3Hp45KipxQORaYx6dMA) | [Bärxson](https://open.spotify.com/artist/2yVXz3UDLu4YvgUcWz3L6o) | [Dusk of Hopes](https://open.spotify.com/album/5u9tudnodNU9W6UjV2R4Dj) | 4:23 |
-| 13 | [Circles \- Radio Edit](https://open.spotify.com/track/0oI8euzsKh8Eean8r39jim) | [MadMagus](https://open.spotify.com/artist/2Am5hLdy4P9tMtAIEkx2Fg) | [Circles \(Radio Edit\)](https://open.spotify.com/album/4UEoSrOuvkPZl7cck65kPl) | 3:25 |
+| 13 | [Circles](https://open.spotify.com/track/0oI8euzsKh8Eean8r39jim) | [MadMagus](https://open.spotify.com/artist/2Am5hLdy4P9tMtAIEkx2Fg) | [Circles](https://open.spotify.com/album/4UEoSrOuvkPZl7cck65kPl) | 3:25 |
 | 14 | [Scylla<\-\->Charybdis](https://open.spotify.com/track/2IKDEcyumu97i6YDsh2yiC) | [Lars Edvall](https://open.spotify.com/artist/7rMhWJBxC68VwUP4zMjFrz) | [all SCHMUCKS!](https://open.spotify.com/album/15mL15a0O10GjNdTH8wie5) | 3:29 |
 | 15 | [Pig Stew](https://open.spotify.com/track/0OBeXjV5VfGMOU2I9D5RXC) | [off day](https://open.spotify.com/artist/5F1ZRC2esfr86NMi3HmkYF) | [Sinkhole](https://open.spotify.com/album/6ElcNQwg9Xvvtcxszpzj93) | 2:24 |
 | 16 | [Stockyard](https://open.spotify.com/track/0jr8nJ1nLDFPQKiRvQGaU6) | [Stabbitha and the Knifey Wifeys](https://open.spotify.com/artist/7k1Oqkb4dWM3Hkyjrp4QpE) | [Stockyard](https://open.spotify.com/album/6QO7Zmu5ckC1pc6uttd9Fo) | 2:12 |

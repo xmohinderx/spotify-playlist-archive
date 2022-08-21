@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-523 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+524 songs - 23 hr 29 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Capishe](https://open.spotify.com/track/3be1khBL4692zorEmb7F69) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Capishe](https://open.spotify.com/album/3IbaNoob48YS3cNojGGhdC) | 2:22 | 2022-08-05 |  |
 | [Capitano](https://open.spotify.com/track/1QGxDySCmChe56eRQr3EUd) | [Madi Banja](https://open.spotify.com/artist/0LdzDrRc2RESpGqwyhbE3t) | [Capitano](https://open.spotify.com/album/1TUQbu2gs8FFENZlf7sCUp) | 3:20 | 2022-03-16 | 2022-04-22 |
 | [Casa de papel \(feat\. Asme\)](https://open.spotify.com/track/6GJS8UQTS1UGwKXlpbmpzC) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:28 | 2021-12-16 | 2022-01-20 |
-| [Casa Mia De Papel](https://open.spotify.com/track/3XZhVezhJfhsxEXA6JF70P) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [Casa Mia De Papel](https://open.spotify.com/album/6xPQrZUhVQy46O4LKwmcco) | 2:16 | 2022-07-07 |  |
+| [Casa Mia De Papel](https://open.spotify.com/track/3XZhVezhJfhsxEXA6JF70P) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [Casa Mia De Papel](https://open.spotify.com/album/6xPQrZUhVQy46O4LKwmcco) | 2:16 | 2022-07-07 | 2022-08-21 |
 | [Casablanca](https://open.spotify.com/track/3TmRHAMDibBNkaPQ9MVX1c) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [Mode Avion](https://open.spotify.com/album/12bqfaU1WWmN4REkJOqQOd) | 2:11 | 2022-02-20 | 2022-03-11 |
 | [Catfish](https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:30 | 2022-08-18 |  |
 | [Cette](https://open.spotify.com/track/7weKhZ91X1VomupmVxzRfT) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D), [Raees](https://open.spotify.com/artist/7qqX1NATkbO31TVxBYyNlJ) | [Cette](https://open.spotify.com/album/4btMWCWwDIcAFepciyJvxG) | 2:38 | 2022-06-17 | 2022-07-08 |
@@ -348,7 +348,7 @@
 | [No Bammer Weed \(Snoop Dogg feat\. Näääk\) \- The Global Edition](https://open.spotify.com/track/2IR1f2ewkFOJSrSMrmouX8) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S) | [Snoop Dogg Presents Algorithm \(Global Edition\)](https://open.spotify.com/album/7byrahgNLbCzZgp9w5WBxW) | 4:41 | 2021-12-16 | 2022-01-07 |
 | [No Cap](https://open.spotify.com/track/2HSq5Cx3jNOnXO5p33MeSJ) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [No Cap](https://open.spotify.com/album/3PiDIDJdPvcTWgpvGjdzye) | 2:53 | 2022-01-04 | 2022-01-28 |
 | [NO NAMES](https://open.spotify.com/track/4o62YacPzhcXeK7LTusq2q) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO) | [NO NAMES](https://open.spotify.com/album/5iEGH5wFfbpWxdWSUWaL3R) | 2:55 | 2022-07-07 |  |
-| [No Time](https://open.spotify.com/track/5ukf2b3SjLBDpSLlddBegy) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [No Time](https://open.spotify.com/album/5BiqZqNoE5PtNpxDpIyIEf) | 2:40 | 2022-08-19 |  |
+| [No Time](https://open.spotify.com/track/5ukf2b3SjLBDpSLlddBegy) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [No Time](https://open.spotify.com/album/5BiqZqNoE5PtNpxDpIyIEf) | 2:38 | 2022-08-19 |  |
 | [Noll tålamod](https://open.spotify.com/track/2xcoIJDrvYzzlhBlfrAJFb) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Noll tålamod](https://open.spotify.com/album/3JjzheMxZilwSzhrrRM63w) | 3:13 | 2022-03-17 | 2022-04-08 |
 | [Nonstop \(feat\. Sexmane & B.Baby\)](https://open.spotify.com/track/0nRssz1xxPRC6B22k5lG06) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Nonstop \(feat\. Sexmane & B.Baby\)](https://open.spotify.com/album/1whyLxdmgza9nO22aEsW93) | 2:59 | 2022-05-20 | 2022-05-27 |
 | [Närvaro](https://open.spotify.com/track/46NGCnt4LHBc7fJMBRye4Z) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Närvaro](https://open.spotify.com/album/6nnUu4Im9qLyuvDT0xp6WX) | 2:28 | 2022-07-07 |  |
@@ -373,6 +373,7 @@
 | [Paradise Lost](https://open.spotify.com/track/52fb3usXUKzxPy7unqwfLs) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Stardust](https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB) | 3:47 | 2022-04-11 | 2022-04-29 |
 | [Parana](https://open.spotify.com/track/77hThkgpdeGMelIJHo0BYp) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f) | [Parana](https://open.spotify.com/album/7l1GggbF5ZwDII6wVEBfgx) | 2:14 | 2022-05-05 | 2022-05-27 |
 | [Paranoia](https://open.spotify.com/track/6MJkTZ9Js0MdzdMe6G3pfz) | [CWOTAI](https://open.spotify.com/artist/5JVELXobPeVHNhy1VXeIyS), [Malika](https://open.spotify.com/artist/3FmUPwwRC8VgtksNUyPa6e) | [Paranoia](https://open.spotify.com/album/0nCYVd2cZ6jawjRMFqCqoa) | 2:46 | 2022-08-05 |  |
+| [Pengamotiv](https://open.spotify.com/track/2HQnQODxqlfaWDVTwlRZZb) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Pengamotiv](https://open.spotify.com/album/2gbG0QZ4qYOTXF3aImSTPb) | 2:51 | 2022-08-20 |  |
 | [PENGAR](https://open.spotify.com/track/6nJ3Y7V8mEyb9ulnvjJ6QA) | [Ramme](https://open.spotify.com/artist/4cfDtFjU2V9lf0UsvRiqBA) | [PENGAR](https://open.spotify.com/album/0nGMjvtR0NTsl6NaWuJ7HD) | 3:07 | 2022-01-19 | 2022-02-01 |
 | [Pengar Bänga](https://open.spotify.com/track/0wZjEtjXpkoO3PGjCsvF3Y) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:07 | 2022-04-28 |  |
 | [PEPPAR ELLER LIME](https://open.spotify.com/track/0cv6NvAnGQZ52E9C6QVbaN) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [MYROR I BRALLAN](https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt) | 2:25 | 2022-02-03 | 2022-02-11 |

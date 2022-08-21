@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,297 likes - 500 songs - 19 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,396 likes - 500 songs - 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,7 +201,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 191 | [Cassis](https://open.spotify.com/track/0fERk8rJySrdXAFYwzfJ50) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Cassis](https://open.spotify.com/album/5x6ya97jZmSdOnIEwD6g7f) | 2:04 |
 | 192 | [Fool's Gold](https://open.spotify.com/track/44S8a86CPtoSBhcprg0I8x) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Fool's Gold](https://open.spotify.com/album/4Jh7LSCjejilziChJvSdqI) | 2:15 |
 | 193 | [Phases](https://open.spotify.com/track/6GcZ3jOpt8JXd1CiFDdOFQ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [chillhop beat tapes: SwuM x Idealism](https://open.spotify.com/album/5GwujitgR1gThoKTxl1hUp) | 3:03 |
-| 194 | [Memphis](https://open.spotify.com/track/5bIGzdHT1CQzFLx3oM5HEk) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Los Angeles](https://open.spotify.com/artist/58rX3i2Zf0NwRgJdfdrpMK), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Memphis](https://open.spotify.com/album/2PbkjD4087IcLhi28LIZUM) | 2:39 |
+| 194 | [Memphis](https://open.spotify.com/track/5bIGzdHT1CQzFLx3oM5HEk) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Nathan Kay](https://open.spotify.com/artist/0nnry0bfORXrg0du8Ml10f), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Memphis](https://open.spotify.com/album/2PbkjD4087IcLhi28LIZUM) | 2:39 |
 | 195 | [Float](https://open.spotify.com/track/0yvdmeWytGMCzDAABS9HQ1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Float](https://open.spotify.com/album/4zeOVYdKsMoH4eOFXZlpXK) | 2:48 |
 | 196 | [Wisdoms](https://open.spotify.com/track/7knt6DCTc2JhUBQLkJVzDM) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q) | [Wisdoms](https://open.spotify.com/album/3Re1laNJonephU9EOKp992) | 1:57 |
 | 197 | [The Truth](https://open.spotify.com/track/5FQippF8g8Nb5n7Gd9e2x3) | [MVR Music](https://open.spotify.com/artist/6JKyNrD4ZdPRFbZIY1TES8) | [The Truth](https://open.spotify.com/album/59p5oWiIgoqKdaJuVrrgap) | 2:20 |

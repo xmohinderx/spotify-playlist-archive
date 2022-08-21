@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,389 likes - 20 songs - 1 hr 4 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,390 likes - 20 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 10 | [Heatwave In The Cold North](https://open.spotify.com/track/6cHmKNyZTSXk7StLORtsXe) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e) | [Heatwave In The Cold North](https://open.spotify.com/album/1DoKscD9sMlyb5bK6PZd60) | 3:37 |
 | 11 | [Missing You \- David Jackson Remix \- Edit](https://open.spotify.com/track/1jenGMVDav02xHZJMnnkxY) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Missing You / Something About Your Love \(Remixes\)](https://open.spotify.com/album/4Oza4pSOTLzCXjpLa0Ow3P) | 3:43 |
 | 12 | [Oh, Lover \- Edit](https://open.spotify.com/track/4WnASAjxOLAW4J4ZeAtKq3) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oh, Lover](https://open.spotify.com/album/3gk7WjSt7KKF6SNezrQc4I) | 3:33 |
-| 13 | [Stay With Me](https://open.spotify.com/track/0t0DxTlaCarF1q2gIQKdbC) | [Emmeline](https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR) | [Stay with Me](https://open.spotify.com/album/74myk5fWmWOrb1sUYjb6h0) | 3:14 |
+| 13 | [Stay With Me](https://open.spotify.com/track/0t0DxTlaCarF1q2gIQKdbC) | [Emmeline](https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR) | [Stay With Me](https://open.spotify.com/album/74myk5fWmWOrb1sUYjb6h0) | 3:14 |
 | 14 | [Crying in the Club](https://open.spotify.com/track/2i2ctngb7IE9IhoZ3AA1Ey) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Crying in the Club](https://open.spotify.com/album/0EAQUkyRH0RUBHzzt9Sr42) | 3:05 |
 | 15 | [Dial Two Seven](https://open.spotify.com/track/1ExuXW8RmcD8UU86ymIDWf) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Dial Two Seven](https://open.spotify.com/album/3b2AbGIyZof8tEwJdDehN7) | 3:02 |
 | 16 | [All You Pretty Things \- Edit](https://open.spotify.com/track/1UZKXYvsykGvfANOXXXMFO) | [Darren Hayes](https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo) | [All You Pretty Things](https://open.spotify.com/album/05BVoX9pgWRPOBjlCEU2qO) | 3:26 |

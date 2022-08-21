@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,469 likes - 69 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,848 likes - 69 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Confió](https://open.spotify.com/track/2UieOcTk0Kl4bzLVBW4oVj) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 3:33 |
+| 1 | [No Confió](https://open.spotify.com/track/2UieOcTk0Kl4bzLVBW4oVj) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 3:33 |
 | 2 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 |
 | 3 | [Ande Con Quien Ande](https://open.spotify.com/track/6AizmGCrFRQHru1Qf8WKoJ) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Ande Con Quien Ande](https://open.spotify.com/album/1HUkl1Q80b9VhGWBfY37RW) | 3:28 |
 | 4 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 62 | [Cansar En Paz](https://open.spotify.com/track/71NTqVcP3AQyW8L0Vl3H9Q) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Alba](https://open.spotify.com/album/3LaWIwjYHwwH8aALZwYwJy) | 2:48 |
 | 63 | [Chico Malo](https://open.spotify.com/track/55CPgjL2rjroFoHPlKSOmW) | [Darlene](https://open.spotify.com/artist/6paAMbHuC9nIgt4fpYyQVQ), [Dollar Baby](https://open.spotify.com/artist/4GYf5z6XmcUYvuX61r2SlI) | [Chico Malo](https://open.spotify.com/album/2LRqLCzSSVppph8Ukrzzsl) | 2:53 |
 | 64 | [Cada Vez Que Bebo](https://open.spotify.com/track/2Q2F2y2cYKClek7I5CJVX6) | [Sarodj](https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F) | [Cada Vez Que Bebo](https://open.spotify.com/album/6B3JMWDeQoJJmRYsoQQxCn) | 2:42 |
-| 65 | [callejero](https://open.spotify.com/track/52loJDAaWpuWQ7vpYUKxiw) | [daf](https://open.spotify.com/artist/2zISGZsNjgE6goiOUDFOzB), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230) | [callejero](https://open.spotify.com/album/4aZ8FhJ7dLbyS5XpHG5L6g) | 3:02 |
+| 65 | [callejero](https://open.spotify.com/track/52loJDAaWpuWQ7vpYUKxiw) | [daf](https://open.spotify.com/artist/1tb85IXgPOF2cGEoIkkUDA), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230) | [Callejero](https://open.spotify.com/album/4aZ8FhJ7dLbyS5XpHG5L6g) | 3:02 |
 | 66 | [Tu Negro y Mi Algo](https://open.spotify.com/track/0bJgGAR17gjuYh3SqnXds7) | [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Tu Negro y Mi Algo](https://open.spotify.com/album/4Xn9KIV5EwrfRn61u930Aa) | 2:56 |
 | 67 | [Tu Me Quiere Chapiar](https://open.spotify.com/track/5evby7hNXOPR9mtNdL7hgH) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf), [manyao](https://open.spotify.com/artist/6pJpVRR7PyeOAZXsH7a3yY), [Jacool](https://open.spotify.com/artist/3UWafz15NIdPY0n1NDSQcF) | [Tu Me Quiere Chapiar](https://open.spotify.com/album/7gbHVlsEaeNknfu42vKrFP) | 3:43 |
 | 68 | [El Ramo](https://open.spotify.com/track/7oGCFNIUyiFp6P9CuNibvP) | [Mafi Rome](https://open.spotify.com/artist/3xdZdAqBd32KB8kD22g4PS) | [El Ramo](https://open.spotify.com/album/2Oa45iNE6zHfXO3Qbr1lfd) | 2:33 |

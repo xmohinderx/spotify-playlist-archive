@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-902 songs - 2 day 0 hr 38 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+903 songs - 2 day 0 hr 41 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [Petrouchka \(feat\. PLK\)](https://open.spotify.com/track/03y045SZqaC94yfXl1cU4E) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Avec le temps](https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8) | 3:09 | 2021-06-06 | 2022-01-04 |
 | [Phénomène](https://open.spotify.com/track/51V8bp8ni9xKKwOmwRfAks) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Kekra](https://open.spotify.com/album/01BiXX7GWR0MKgrbCordRr) | 3:32 | 2021-04-04 | 2021-04-05 |
 | [Pic et pic, alcool et drame](https://open.spotify.com/track/14M6BbiHt2w9KHVvoIUIUF) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:16 | 2021-06-27 | 2022-01-30 |
+| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 |  |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-06 |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2021-11-28 | 2021-12-05 |
 | [Plaza Athénée](https://open.spotify.com/track/3zfX77h21GrlhsiOuYnZNC) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Plaza Athénée](https://open.spotify.com/album/7oWPHRsf07z12mpqB029Gc) | 2:28 | 2021-05-30 | 2021-06-04 |
@@ -831,7 +832,7 @@
 | [Tragique](https://open.spotify.com/track/1MUZxW6nE7oNud9jHD9QLU) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:38 | 2021-06-27 | 2021-07-01 |
 | [Transporteur](https://open.spotify.com/track/1IzcKLlmlt0KieHMCdNdlC) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:29 | 2021-06-27 | 2021-07-02 |
 | [Trilogie](https://open.spotify.com/track/5u9dp5wuFZlJiaqtn0nhbg) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 2:55 | 2022-06-11 | 2022-06-13 |
-| [Trompeta](https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/0x8fxnTkzXKsZVzdZ6Qxka) | 2:48 | 2022-05-07 |  |
+| [Trompeta](https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/0x8fxnTkzXKsZVzdZ6Qxka) | 2:48 | 2022-05-07 | 2022-08-21 |
 | [Trophée](https://open.spotify.com/track/1CGbe7dEJvPu5VbpmKjcT2) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Meilleur qu'hier](https://open.spotify.com/album/1vvdtdHJL5oHkYvxGkG3U3) | 3:19 | 2022-06-25 | 2022-07-01 |
 | [Truc en moi \(feat\. Cheu\-B et Kepler\)](https://open.spotify.com/track/6HHWhSRLOmIca9WpGm2GZx) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Kepler](https://open.spotify.com/artist/1g6Hs3pSerBl61R9AKUeHr) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:41 | 2021-09-19 | 2021-09-20 |
 | [Trucs de choses](https://open.spotify.com/track/3IR9wKWxI0TK1DLXvZq8uQ) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trucs de choses](https://open.spotify.com/album/1aGHwXF5D9aPvaQjIT9olm) | 2:54 | 2021-08-01 | 2021-11-07 |

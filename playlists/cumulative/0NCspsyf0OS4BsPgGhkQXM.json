@@ -3070,6 +3070,28 @@
     },
     {
       "album": {
+        "name": "Getting That",
+        "url": "https://open.spotify.com/album/2YiypdIo6uyD5inxXUrRiD"
+      },
+      "artists": [
+        {
+          "name": "Julius Kasa",
+          "url": "https://open.spotify.com/artist/1JZo7N1gtIboIvIuCgzFE2"
+        },
+        {
+          "name": "Mumbay",
+          "url": "https://open.spotify.com/artist/4I66jYiJWLDzeCfHEOuFp9"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Getting That",
+      "url": "https://open.spotify.com/track/4Hxz97CwxzlqlK7W8Kxntf"
+    },
+    {
+      "album": {
         "name": "Ghost Town (feat. David Frank)",
         "url": "https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l"
       },
@@ -7389,6 +7411,24 @@
       "duration_ms": 146865,
       "name": "Shanghai",
       "url": "https://open.spotify.com/track/3bLfSmgzIi9LjWbeWS1M3Z"
+    },
+    {
+      "album": {
+        "name": "Show You",
+        "url": "https://open.spotify.com/album/6CcCWAyJOwPSBfFrQw4odm"
+      },
+      "artists": [
+        {
+          "name": "Edgar Willow",
+          "url": "https://open.spotify.com/artist/0aSSG3PZeLcmBgFyQI5RXL"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Show You",
+      "url": "https://open.spotify.com/track/5N52q31YsSTdUquvBnht2w"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Blake Shelton, Tyler Hubbard, Maddie & Tae and more.
 
-1,512 songs - 3 day 10 hr 11 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
+1,513 songs - 3 day 10 hr 13 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1135,7 +1135,8 @@
 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 | 2022-06-03 | 2022-06-11 |
 | [Say It Again](https://open.spotify.com/track/6v37ifbTEbJYbrx0OFDpMH) | [Kendra Kay](https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ) | [Say It Again](https://open.spotify.com/album/20WpEu4hb2yyd2E0sp3mmn) | 2:42 | 2022-07-15 | 2022-07-23 |
 | [School for It](https://open.spotify.com/track/7kqUyu1pmKVM0475btCSSQ) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [School for It](https://open.spotify.com/album/41RZLuckxhQrzUd9QlIBtB) | 3:18 | 2022-06-17 | 2022-06-25 |
-| [Secrets](https://open.spotify.com/track/1wILQICSoczb6nktX8jAD8) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/3lsVuRFJgpcomfPtZheSHB) | 2:37 | 2022-08-19 |  |
+| [Secrets](https://open.spotify.com/track/1wILQICSoczb6nktX8jAD8) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/3lsVuRFJgpcomfPtZheSHB) | 2:37 | 2022-08-19 | 2022-08-21 |
+| [Secrets](https://open.spotify.com/track/6MTwSVy7Ch0cNa1fVx79k3) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/76GeMEfXKBtKjT3lLivUGG) | 2:37 | 2022-08-19 |  |
 | [SEE YOU AROUND](https://open.spotify.com/track/2QTxQ3qaBCo4CSRaMEofUf) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw) | [SEE YOU AROUND](https://open.spotify.com/album/0gUvpb5bvpTIKU1S0ZBBkg) | 2:49 | 2022-05-27 | 2022-06-04 |
 | [See You There](https://open.spotify.com/track/4Rq0NZOK37DF6m6YuKH3d8) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [See You There](https://open.spotify.com/album/0uuNqhVoi6GJnbi8VZIb3Y) | 3:01 | 2022-07-08 | 2022-07-23 |
 | [Seein' somebody](https://open.spotify.com/track/4ovKTEqARZhyd9LSonX3ow) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Seein' somebody](https://open.spotify.com/album/6h3efEu7JiInwNKiRjfN8k) | 3:18 | 2022-05-13 | 2022-06-04 |

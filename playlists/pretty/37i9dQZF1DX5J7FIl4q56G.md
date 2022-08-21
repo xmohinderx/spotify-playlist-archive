@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: I Prevail
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,519 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,605 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 11 | [HOLD IT DOWN](https://open.spotify.com/track/2R7JFmIGFTeAgwgD5bqIE0) | [NOXATRA](https://open.spotify.com/artist/7jl7ZYvWWyk5YPVeYbRUVM), [KVLTURE](https://open.spotify.com/artist/42Upf6WTIghUMLHGLBM0Pv), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF) | [HOLD IT DOWN](https://open.spotify.com/album/6cG5ciMLRDYI9XNSAzYhti) | 2:52 |
 | 12 | [Searching For Answers](https://open.spotify.com/track/01gY3OIX96vsv9zuPlxAg2) | [Descape](https://open.spotify.com/artist/0GPUoZDMUtkkzPyW4OFWk2), [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Searching For Answers](https://open.spotify.com/album/0HgyPiDoY0FUZcTojZaJd5) | 3:30 |
 | 13 | [Black Hole](https://open.spotify.com/track/0pNfjQmun4TkovFgLaJOR1) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Black Hole](https://open.spotify.com/album/0Jl2byDXilu4Iivo3QO7Ii) | 3:45 |
-| 14 | [Con](https://open.spotify.com/track/6KyHmsUSYCLbK9bRTHgokN) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Con](https://open.spotify.com/album/1sJqBYnaI33IxC32d6Mun3) | 4:09 |
+| 14 | [CON](https://open.spotify.com/track/6KyHmsUSYCLbK9bRTHgokN) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [CON](https://open.spotify.com/album/1sJqBYnaI33IxC32d6Mun3) | 4:09 |
 | 15 | [This Is Your Darkness](https://open.spotify.com/track/21hiD4dpFgLEHuRAu9YzD3) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [This Is Your Darkness](https://open.spotify.com/album/6iuJ0Df2y2dXlD9TFCNYlo) | 3:34 |
 | 16 | [Scandinavian Gods](https://open.spotify.com/track/4FlDsUa12CnR9VJRaz6lms) | [Candlemass](https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5) | [Scandinavian Gods](https://open.spotify.com/album/7p3pL8VOjMfjjRUEXetKst) | 4:36 |
 | 17 | [Heart Of A Warrior](https://open.spotify.com/track/2QE25ALOviOR2gi3EddZP0) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [Heart Of A Warrior](https://open.spotify.com/album/6H16WDPe8KNjqALGZyljbE) | 3:46 |

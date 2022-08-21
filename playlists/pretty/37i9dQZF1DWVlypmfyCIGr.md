@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ナツノセ
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,165 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,250 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 63 | [01](https://open.spotify.com/track/6Xth2tLK9cr6vQzqCG3BAU) | [luvliminall](https://open.spotify.com/artist/4DBFJLTS8jiXzWtfkEtZ2I) | [liminality](https://open.spotify.com/album/4qrJKpFMuxMfiNnOYHrLIO) | 3:00 |
 | 64 | [鏡の中のアクトレス](https://open.spotify.com/track/6pQmlBAOqKk5EhKGQdlDwE) | [寧音](https://open.spotify.com/artist/6yAzg5y84I3jzCgtgAcVsK) | [鏡の中のアクトレス](https://open.spotify.com/album/5QQSSLTQ0BzgFTzlulEiHB) | 3:41 |
 | 65 | [二度目の花火](https://open.spotify.com/track/17KZ4ThhRZKPkU1pmOyoSH) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [二度目の花火](https://open.spotify.com/album/3gpPJENCYYuUqQZXrexa81) | 4:06 |
-| 66 | [Tiny](https://open.spotify.com/track/71uTIaFwwzWFd78NWdc2nn) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Tiny](https://open.spotify.com/album/5Oea2U3wxV0Q6Uv3sRC0Ym) | 4:02 |
+| 66 | [Tiny](https://open.spotify.com/track/4UNJVj36m9EeEVVtgn6cDW) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Whale\-fall Community](https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr) | 4:01 |
 | 67 | [I AM I](https://open.spotify.com/track/4KKkvUpWlRUgw4MYh33X3N) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX), [Daisuke Asakura](https://open.spotify.com/artist/1UkEVUkVZVeSSxFvKHgcYZ), [Shinnosuke](https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu) | [I AM I](https://open.spotify.com/album/3jET3MbFSj79mOcamKMUGt) | 3:58 |
 | 68 | [Sign Of Love \- TsuruSwing VocalMix](https://open.spotify.com/track/663VnbiET04Ook9wdwbnrz) | [AK Akemi Kakihara](https://open.spotify.com/artist/5apbo7p8o1eX4x94TBHUGh), [Studio Apartment](https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg), [TsuruSwing](https://open.spotify.com/artist/3De2RXEkhi0fnGg9M4P51O) | [Sign Of Love \(TsuruSwing VocalMix\)](https://open.spotify.com/album/400fgEdZa2sH0G5UW8e37v) | 4:23 |
 | 69 | [タッチ](https://open.spotify.com/track/3XD7U08o4KLeQv9bX4qqRn) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [タッチ](https://open.spotify.com/album/45QVzlWbhfwkOyhkgpJCLn) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [UTOPIA](https://open.spotify.com/track/6155KcjQlwKcrbUAW6tAOF) | [Living Rita](https://open.spotify.com/artist/0ekt0GY3EGCsVugNHfBkHJ) | [Reality / UTOPIA](https://open.spotify.com/album/1rS3zYiUpv89HAuiedJf8X) | 4:02 |
 | 80 | [みずいろこども](https://open.spotify.com/track/7eHtJ6bjH5LA7mGlYnldow) | [Gutevolk](https://open.spotify.com/artist/3q0Z5NCEUBupppTF8ivRTR) | [みずいろこども](https://open.spotify.com/album/2hLcNkCGruRxWoVqTBs0sh) | 4:21 |
 
-Snapshot ID: `MTY2MDU3NTgxNiwwMDAwMDAwMDBiZTI5MWFjY2E3YWMwYzBkMDdlNWFlMzU1ZjAwYjk5`
+Snapshot ID: `MTY2MDU3NTgxNiwwMDAwMDAwMDU2ZDA0NjY5Y2Y4NmY1ZTU4ZmFiMWFjYzA3NjYyYzc2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh?si=F4YJgKgiS8O1SxFpTB873g"> Sio </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,964 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,983 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

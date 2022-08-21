@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,594 likes - 89 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,680 likes - 89 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 10 | [Photo](https://open.spotify.com/track/4GtCxfvTwCK9NxnjmbZvio) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Photo](https://open.spotify.com/album/3mL10Hdr4isTCdtpAJ1rB0) | 3:16 |
 | 11 | [Why Cry](https://open.spotify.com/track/4V35lnM3sBuVQYUhm9E5vJ) | [Abhishek Bakhshi](https://open.spotify.com/artist/0XnfQkaJNBwnCCxrusdgAy) | [Patthar](https://open.spotify.com/album/1K8bZd1kecTp2F353DuNCv) | 2:52 |
 | 12 | [Tere Bajjon](https://open.spotify.com/track/40jeNi7ZW86rMU7UXgOJgC) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Tere Bajjon](https://open.spotify.com/album/6VBWhaZGlXxI4E0fXx0qV6) | 3:07 |
-| 13 | [Aakad](https://open.spotify.com/track/0DziIKzDddNVB14PevbpX0) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA), [Harshit Tomar](https://open.spotify.com/artist/7kp8fEjy8zTWqhYuhJeEav), [Vishaka Raghav](https://open.spotify.com/artist/5fRXkp2HikAh7gLrfoUio9), [Iza Sethia & Shivani Taneja](https://open.spotify.com/artist/4pH5ROhadz4dvdLmuhTLLS) | [Aakad](https://open.spotify.com/album/6Tbf4XYkDcdqErrvvnLQg7) | 3:17 |
+| 13 | [Aakad](https://open.spotify.com/track/0DziIKzDddNVB14PevbpX0) | [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Harshit Tomar](https://open.spotify.com/artist/7kp8fEjy8zTWqhYuhJeEav), [Vishaka Raghav](https://open.spotify.com/artist/5fRXkp2HikAh7gLrfoUio9), [Iza Sethia & Shivani Taneja](https://open.spotify.com/artist/4pH5ROhadz4dvdLmuhTLLS) | [Aakad](https://open.spotify.com/album/6Tbf4XYkDcdqErrvvnLQg7) | 3:17 |
 | 14 | [Nikaah](https://open.spotify.com/track/7JWXRlnVMEyWc82ZpBusj8) | [Ipsitaa](https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil) | [Nikaah](https://open.spotify.com/album/1fmxvtOcXQGakPho77JrJe) | 2:22 |
 | 15 | [Aadatan](https://open.spotify.com/track/5mtr6svWP09Ww4WCtZCuJS) | [Princi](https://open.spotify.com/artist/3jFonDLEme8NYY8kcd2WJy) | [Aadatan](https://open.spotify.com/album/1u1UywNfCrOZKHvPzxV1O2) | 3:02 |
 | 16 | [Jawab](https://open.spotify.com/track/3CEz56jBn8oUWU9kvQ8hAh) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [Jawab](https://open.spotify.com/album/3uDWcLtliW3y4zNy8mAwrT) | 2:21 |

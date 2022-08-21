@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-151 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+152 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2022-01-25 |  |
 | [Ride The Wave](https://open.spotify.com/track/4OPoTlocPa01Ey8suFacZJ) | [Lauren Hashian](https://open.spotify.com/artist/0bchCUkOuvPSeazHgDsh0Y), [Natalie Martinez](https://open.spotify.com/artist/5v8FWJ2GWVZQnwDJmOM0ti), [Naz Tokio](https://open.spotify.com/artist/2Ohz3BAbalahBYLuM836cd) | [Ride The Wave](https://open.spotify.com/album/0qYPdQsC9yh3WzlNzxEiue) | 3:43 | 2022-01-25 | 2022-07-16 |
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-08 |  |
-| [Secrets](https://open.spotify.com/track/1wILQICSoczb6nktX8jAD8) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/3lsVuRFJgpcomfPtZheSHB) | 2:37 | 2022-08-19 |  |
+| [Secrets](https://open.spotify.com/track/1wILQICSoczb6nktX8jAD8) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/3lsVuRFJgpcomfPtZheSHB) | 2:37 | 2022-08-19 | 2022-08-21 |
+| [Secrets](https://open.spotify.com/track/6MTwSVy7Ch0cNa1fVx79k3) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/76GeMEfXKBtKjT3lLivUGG) | 2:37 | 2022-08-19 |  |
 | [See Me Now](https://open.spotify.com/track/4DqxKIhAKHwiHk5WwBbXzU) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [See Me Now](https://open.spotify.com/album/60SPKbQofyJ9aqlWe6ugHr) | 3:04 | 2022-01-25 |  |
 | [See You \- A COLORS SHOW](https://open.spotify.com/track/7EmhpJ8ZX2n7iPaozrWn3H) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [See You \- A COLORS SHOW](https://open.spotify.com/album/5Hry7qvOXOFozXrTHOAL1n) | 3:14 | 2022-01-25 | 2022-04-09 |
 | [Self Sabotage](https://open.spotify.com/track/2iOFAc4K3JE5NSPvfc4lQR) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Self Sabotage](https://open.spotify.com/album/5vbA7Khi7o9efh7BEOorrj) | 2:55 | 2022-07-15 |  |

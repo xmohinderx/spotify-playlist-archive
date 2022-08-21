@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 27 | [Baby Don'T Cry](https://open.spotify.com/track/0Fpjb7QcpOQldTpPbVdadK) | [MC Sniper](https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74) | [초행](https://open.spotify.com/album/0BnkU6dYFzTvLgIANM8C2D) | 5:07 |
 | 28 | [불한당가 \(with 나찰, 피타입 & MC 메타\)](https://open.spotify.com/track/7a733QhzAN4jdckPKCbD82) | [NUCK](https://open.spotify.com/artist/7hdPhJPPkVZc5sJNVjLMGu), [Nachal](https://open.spotify.com/artist/2c1eCH3EjDdOuCdMv2goXQ), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 4:23 |
 | 29 | [훔쳐 Rob It \(feat\. Double K\)](https://open.spotify.com/track/5UaGldAL222nOHnIS78vfO) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:42 |
-| 30 | [Let It Rain \(feat\. 김종완\)](https://open.spotify.com/track/3bG8MFdLEqTXFtUkr1UrXW) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 4:40 |
+| 30 | [Let It Rain \(feat\. 김종완\)](https://open.spotify.com/track/3bG8MFdLEqTXFtUkr1UrXW) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [キム・ジョンワン of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 4:40 |
 | 31 | [Black Diamond](https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 3:50 |
 | 32 | [Chool Check \(Feat\. Naul For Brown Eyed Soul\)](https://open.spotify.com/track/4ZF6Qks7QaEr0lxaLoCxQP) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Enlightened](https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0) | 3:51 |
 | 33 | [소외된 모두, 왼발을 한 보 앞으로!](https://open.spotify.com/track/6J2PdRIJ7B5PI9vTjjrVFQ) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:20 |

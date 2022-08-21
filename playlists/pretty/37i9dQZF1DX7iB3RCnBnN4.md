@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,431 likes - 285 songs - 17 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,611 likes - 285 songs - 17 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

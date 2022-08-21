@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Ana Wa Anti",
+        "url": "https://open.spotify.com/album/5xSVWY9yibDP7ttHSZqet5"
+      },
+      "artists": [
+        {
+          "name": "Zayed Bin Saber",
+          "url": "https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284088,
+      "name": "Ana Wa Anti",
+      "url": "https://open.spotify.com/track/5vIqr9irNBp6onPeXnc6pM"
+    },
+    {
+      "album": {
         "name": "Ani Aredak",
         "url": "https://open.spotify.com/album/0ik2ZcKqyXX2qTeMfefnED"
       },

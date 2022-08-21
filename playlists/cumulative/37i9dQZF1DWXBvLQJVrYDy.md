@@ -4,7 +4,7 @@
 
 > Soft and cozy saxophone ballads to relax or focus.
 
-102 songs - 7 hr 0 min - not published yet
+102 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

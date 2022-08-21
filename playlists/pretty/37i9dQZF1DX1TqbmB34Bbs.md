@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: Ash\-B \(애쉬비\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,424 likes - 200 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,437 likes - 200 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 | 7 | [Fax \(Prod\. GroovyRoom\)](https://open.spotify.com/track/5nwoUaZyXHWb0J11gznm4v) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 2:53 |
 | 8 | [E MINOR FREESTYLE](https://open.spotify.com/track/7FQeQXRLz0mHpPiCwdDRw8) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 4:43 |
 | 9 | [nnf \(no new friends\) ft\. Paloalto](https://open.spotify.com/track/0Yd8wygb0bKGDVF4UeNCRi) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [NNF](https://open.spotify.com/album/336ugqpZP6UFw65P20Esew) | 2:49 |
-| 10 | [PRETTY \(feat\. Nafla, Bryn\)](https://open.spotify.com/track/3LGlLoEK1ZPGRcS6gHYhWm) | [lnb](https://open.spotify.com/artist/2fHTnW5arnhwXNwW2GD4fK), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [PROJECT .1](https://open.spotify.com/album/5HlAriF53xhN5BfF05IiHZ) | 3:05 |
+| 10 | [RUN THIS CITY \(I’M GOOD PT\. 2\) \(Feat\. CHANGMO\)](https://open.spotify.com/track/0iVdOMycgHnB0eslK90M7o) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [BUST IT](https://open.spotify.com/album/0T5O8zzBxemSL7BIL6jJAu) | 3:58 |
 | 11 | [2022 Fr33styl3 \(Prod\. Simo of Y2K92\)](https://open.spotify.com/track/2P9itpPtJ7eHO2SAtIJnAw) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 2:38 |
 | 12 | [Flip Flap \(feat\. AJ Tracey & Hangzoo\)](https://open.spotify.com/track/7q6EXc4wuKtRl9jwQ5txIh) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ) | [Flip Flap \(feat\. AJ Tracey & Hangzoo\)](https://open.spotify.com/album/0fQsMuqqxIndrLwJHbvjzh) | 3:05 |
 | 13 | [\#DONMALIKSMTM11](https://open.spotify.com/track/1rzhbR6ZTIUe9a35Q53bBb) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [\#DONMALIKSMTM11](https://open.spotify.com/album/705lZ6ZDJSAFhL7xpEPXPs) | 2:14 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 | 199 | [Bad News Cypher vol.2 \(Feat\. TakeOne\)](https://open.spotify.com/track/5RgJOy5NDzZthaUrDIECyY) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 4:02 |
 | 200 | [Bition Boyz](https://open.spotify.com/track/2LhDqodZgcm93B9Dte1AMs) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Bition Boyz](https://open.spotify.com/album/3qMvNNlBDtyhSfIb6SjhUI) | 4:05 |
 
-Snapshot ID: `MTY2MDgxNTA2MywwMDAwMDAwMDE2ZTVmMDA1MmMzYmM0NzhhMDQwM2RkZTA3ZTEyNWRi`
+Snapshot ID: `MTY2MDk2Nzg1NiwwMDAwMDAwMDM4MGIwZmYwNjVhYzE4M2ExMTZkODEzYzkzOGY2YzU3`

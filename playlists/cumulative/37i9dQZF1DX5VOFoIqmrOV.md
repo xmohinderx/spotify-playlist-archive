@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-145 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/715jXIfJUzT2AiTQl5FY7n)
+146 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/715jXIfJUzT2AiTQl5FY7n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Penny](https://open.spotify.com/track/43MaYmeXYuEH4mpuaGH0uC) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Penny \- Sarkaru Vaari Paata](https://open.spotify.com/album/61c0b8wBHLNjw1lLUXMMy9) | 4:39 | 2022-03-20 | 2022-07-25 |
 | [Pilla Puli \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/track/2zw3XDY1gtqUR8lHbCM3y2) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Pilla Puli \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/album/1tvhBLZNYGLXlGXIyQXmRA) | 5:04 | 2021-12-16 | 2022-07-25 |
 | [Pillaa Raa](https://open.spotify.com/track/6Vq4ePrJPZ2vU6DXnZGcVD) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [RX 100](https://open.spotify.com/album/2vjnanwkgSnHU96BPZVtpR) | 3:55 | 2022-07-24 | 2022-07-29 |
-| [Pillaa Raa](https://open.spotify.com/track/3MXTLAouHSztOxoOSOnbb9) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Top Singer's Playlist](https://open.spotify.com/album/10pn3qTksy0ii0qXogOm0s) | 3:57 | 2022-07-24 |  |
+| [Pillaa Raa](https://open.spotify.com/track/6vhvtHO8e57meVNp8yKzdV) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Rx 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl) | 3:55 | 2022-07-24 |  |
+| [Pillaa Raa](https://open.spotify.com/track/3MXTLAouHSztOxoOSOnbb9) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Top Singer's Playlist](https://open.spotify.com/album/10pn3qTksy0ii0qXogOm0s) | 3:57 | 2022-07-24 | 2022-08-21 |
 | [Pillaa Raa](https://open.spotify.com/track/47hP2BJPCOMyYKT5WQ9evZ) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [RX 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vzddHOuT5R28vKakxD0qJ) | 3:57 | 2021-12-16 | 2022-07-25 |
 | [Prema Vennela](https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Chitralahari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr) | 3:37 | 2021-12-16 | 2022-07-25 |
 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 | 2021-12-16 |  |

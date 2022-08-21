@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Maya Hawke
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,234,258 likes - 145 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,705 likes - 145 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 4 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 |
 | 5 | [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 |
 | 6 | [Sad Disco](https://open.spotify.com/track/2BedHMJWiW5CuiTd2wza1u) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow](https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq) | 3:47 |
-| 7 | [3 HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [3 HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 |
+| 7 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 |
 | 8 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/2qiYy5k1mDAOpegYqv00wG) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/53FpLc8sSUmGGb0OY6cZKG) | 2:45 |
 | 9 | [Smithereens \(with Rachel Chinouriri\)](https://open.spotify.com/track/7KdlCAJJcJ7mczRt1fno7I) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Smithereens \(with Rachel Chinouriri\)](https://open.spotify.com/album/5ELFLpnlHXsqDXNN7God9h) | 2:43 |
 | 10 | [Charlie](https://open.spotify.com/track/43PsEYuMZRBFFA0udH9Y3K) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Charlie](https://open.spotify.com/album/34Yflaq5AUfcIl3f7kWji0) | 3:05 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 23 | [new strategies for telemarketing through precognitive dreams](https://open.spotify.com/track/5LYZk0ObgdsnrW24vYBRug) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [new strategies for telemarketing through precognitive dreams](https://open.spotify.com/album/4d6Wp43YmBHcz7A6Mp6MIU) | 3:09 |
 | 24 | [Black Tar](https://open.spotify.com/track/0OAXqItnyxKQUVpJNILG2V) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Black Tar](https://open.spotify.com/album/3ribJK72rYHmbPFnAwA51N) | 2:57 |
 | 25 | [i think about you all the time](https://open.spotify.com/track/4HHqDiNjHlsWtxqXoTR00O) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [i think about you all the time](https://open.spotify.com/album/4qpShT4gBiHskC1qYcS9Qn) | 2:02 |
-| 26 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/2t3xkD6kiwF0w0dqChNS2P), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
+| 26 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
 | 27 | [key in my pocket](https://open.spotify.com/track/2biVKR0ZTQf95g8west9A6) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [ROOM \(DEMOS\)](https://open.spotify.com/album/3Qx23YcbMMk88zDgOrjEdz) | 3:52 |
 | 28 | [waves](https://open.spotify.com/track/05ohEiCZLo3IFITyHJ2liE) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [waves](https://open.spotify.com/album/3JXSGI5O9Li35NYBMfgeJm) | 3:03 |
 | 29 | [Next Day](https://open.spotify.com/track/03Vty31Dwz76xodLHmRnMj) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Next Day](https://open.spotify.com/album/405aqDgQO7urBQXgW89zRU) | 4:02 |

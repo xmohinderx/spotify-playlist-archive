@@ -5081,6 +5081,24 @@
     {
       "album": {
         "name": "piccolo",
+        "url": "https://open.spotify.com/album/7mwlACYa6uAssuCnKPxHId"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120133,
+      "name": "piccolo",
+      "url": "https://open.spotify.com/track/0b7C1NzdU4gz5CaNzBtuuk"
+    },
+    {
+      "album": {
+        "name": "piccolo",
         "url": "https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K"
       },
       "artists": [
@@ -5091,7 +5109,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 120133,
       "name": "piccolo",
       "url": "https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz"
@@ -6421,6 +6439,28 @@
       "duration_ms": 140000,
       "name": "Tears of a Tiger",
       "url": "https://open.spotify.com/track/2pRU7Hr7vmSWT90NNOQiTd"
+    },
+    {
+      "album": {
+        "name": "Just Tired",
+        "url": "https://open.spotify.com/album/1UxqMmmqdwl0cvGh7Chxfi"
+      },
+      "artists": [
+        {
+          "name": "Joeyy",
+          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+        },
+        {
+          "name": "Marlon DuBois",
+          "url": "https://open.spotify.com/artist/74l7WkwYdR2NKr2pHXgkqm"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166907,
+      "name": "Tempt",
+      "url": "https://open.spotify.com/track/2DTE6afvhrNnhsWJYcr4Aq"
     },
     {
       "album": {

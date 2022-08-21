@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMVEbshVhe1.md) - [plain]
 
 > Encanto tells the tale of the Madrigals, an extraordinary family who live in a wondrous place called an Encanto\. The film features all\-new songs by Lin\-Manuel Miranda and score by Germaine Franco\. Stream Disney's Encanto on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,208 likes - 53 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,149 likes - 53 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

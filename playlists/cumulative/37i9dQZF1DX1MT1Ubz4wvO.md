@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Benito Cerati en portada.
 
-212 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/1BUAq3Aj6U4yuWSfhY1mrl)
+213 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/1BUAq3Aj6U4yuWSfhY1mrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Antonia](https://open.spotify.com/track/4EmdyWXRVjOT3EcK9C3dYR) | [La Doble A](https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ) | [Antonia](https://open.spotify.com/album/2JWOtziQ3IlJwdAPk3eG0f) | 2:53 | 2022-07-01 | 2022-07-16 |
 | [Aprende](https://open.spotify.com/track/1vyXBpvnwdTlYyNcBmzQMV) | [Milano](https://open.spotify.com/artist/1Wg5jwNKSDln3kTENcoZbw) | [Cotillón](https://open.spotify.com/album/1JCrvPT6fIa7yZiFCOm2NO) | 3:08 | 2022-08-05 | 2022-08-20 |
 | [Aprendiendo A Amar](https://open.spotify.com/track/4UMqfxC6oXIC5V4OSZZhlX) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Aprendiendo A Amar](https://open.spotify.com/album/0d1q9kYWLh4GzB97LqZC9d) | 3:04 | 2022-06-24 | 2022-07-02 |
-| [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/2t3xkD6kiwF0w0dqChNS2P), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 | 2022-08-19 |  |
+| [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 | 2022-08-19 |  |
 | [Autos Nuevos](https://open.spotify.com/track/5LZ4S5sNxydg7dKcHYGhgN) | [Socio](https://open.spotify.com/artist/4C7oQCCnEm59KXmNDx8w1l) | [Autos Nuevos](https://open.spotify.com/album/3Vp3C1jX7IDb71ngiU9EXq) | 3:56 | 2022-07-15 | 2022-08-06 |
 | [Ayer Me Pasó](https://open.spotify.com/track/1kHd0nbP0b6aupCUgwBoMN) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Ayer Me Pasó](https://open.spotify.com/album/3gepnLKnCaWy5rSCTNQyPx) | 2:42 | 2022-07-29 |  |
 | [Beber De Tu Sangre XXX](https://open.spotify.com/track/3o1PVyasePBLSdU2uqlHvY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Beber De Tu Sangre XXX](https://open.spotify.com/album/4xMrf9KNtKd0u2Go1qrJWc) | 4:44 | 2022-08-19 |  |
@@ -148,7 +148,8 @@
 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 | 2022-07-01 | 2022-07-30 |
 | [Nuevo Plano \- Edit](https://open.spotify.com/track/0UYjgrserr0woE9YOQeBiL) | [Supersilverhaze](https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw) | [Nuevo Plano \(Edit\)](https://open.spotify.com/album/3JbIbnNfxrR1hkTgpLDumk) | 5:02 | 2022-08-19 |  |
 | [Nunca Me Voy a Ir](https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9) | [Nunca Me Voy a Ir](https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS) | 2:31 | 2022-08-12 | 2022-08-20 |
-| [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 | 2022-07-29 |  |
+| [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 | 2022-07-29 | 2022-08-21 |
+| [Olimpica](https://open.spotify.com/track/7jTQYRAAppaWtQuOYZdY3z) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:45 | 2022-08-05 |  |
 | [Pacto](https://open.spotify.com/track/7uBJxSYbjr8ivkLdoWP6v7) | [Santiago En La Guitarra](https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV) | [Todos Mis Santos](https://open.spotify.com/album/0TB0VRQP5qs2HZArNGU5kt) | 2:51 | 2022-06-24 | 2022-07-02 |
 | [País Esqueçido](https://open.spotify.com/track/19C3UyBqwAhXmydRUgvOHM) | [Tarik Rahim](https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN) | [País/Misterio](https://open.spotify.com/album/16Lj18n3SMY3eSEfKYRSw7) | 5:03 | 2022-08-19 |  |
 | [Perdido en Otra Parte](https://open.spotify.com/track/3uuNq3tA6pFc9o4C68Uvug) | [Pirineos En Llamas](https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd) | [Milenios en Este Cuarto](https://open.spotify.com/album/5ALQAc8To4i5tTqzrtSizI) | 3:01 | 2022-07-22 | 2022-08-13 |

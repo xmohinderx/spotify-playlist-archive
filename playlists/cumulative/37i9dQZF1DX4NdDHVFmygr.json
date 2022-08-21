@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187924,
+      "name": "Aayane",
+      "url": "https://open.spotify.com/track/2LISvI1KPr4EFv90M6x06D"
+    },
+    {
+      "album": {
         "name": "Aayane",
         "url": "https://open.spotify.com/album/2h4sVIJOUNthoOyxvypci6"
       },
@@ -149,7 +167,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 187924,
       "name": "Aayane",
       "url": "https://open.spotify.com/track/3MDtvI827zJAWBLqf61bT1"
@@ -215,7 +233,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 216300,
       "name": "Ajiyi",
       "url": "https://open.spotify.com/track/5FZ0py45ywEQseBHBwaz5f"
@@ -383,6 +401,28 @@
       "duration_ms": 126955,
       "name": "Bianco",
       "url": "https://open.spotify.com/track/2EdXbgelxBBEiNvRb3fpLv"
+    },
+    {
+      "album": {
+        "name": "Bin Nass",
+        "url": "https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P"
+      },
+      "artists": [
+        {
+          "name": "Sofco",
+          "url": "https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0"
+        },
+        {
+          "name": "Plylist",
+          "url": "https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238292,
+      "name": "Bin Nass",
+      "url": "https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0"
     },
     {
       "album": {
@@ -1177,7 +1217,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 182566,
       "name": "Khalini",
       "url": "https://open.spotify.com/track/3PoerjlVZ7f1s32kpNB0SZ"
@@ -1199,6 +1239,24 @@
       "duration_ms": 182566,
       "name": "Khalini",
       "url": "https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5"
+    },
+    {
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182566,
+      "name": "Khalini",
+      "url": "https://open.spotify.com/track/7vDAeo3f0EmI5ckfsMcI8b"
     },
     {
       "album": {

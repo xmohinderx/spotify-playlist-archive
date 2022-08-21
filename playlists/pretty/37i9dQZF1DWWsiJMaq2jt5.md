@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Ofelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,965 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,972 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bolesne kości \(Tymoteusz\)](https://open.spotify.com/track/64pYruY8MqdxoZBQPOs3su) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [Bolesne kości \(Tymoteusz\)](https://open.spotify.com/album/1GE4NgUQ16GUpgKFPOhh1M) | 4:04 |
+| 1 | [Bolesne kości \(Tymoteusz\) \- Single Version](https://open.spotify.com/track/64pYruY8MqdxoZBQPOs3su) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [Bolesne kości \(Tymoteusz\)](https://open.spotify.com/album/1GE4NgUQ16GUpgKFPOhh1M) | 4:04 |
 | 2 | [NA JAW](https://open.spotify.com/track/7dabUwTb0gLl974JRHxKNC) | [Dominika Plonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [Wuja HZG](https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj) | [NA JAW](https://open.spotify.com/album/2afUIxih65L6c308R5dZ1a) | 2:45 |
 | 3 | [Odnaleźć siebie](https://open.spotify.com/track/0rCWkTz53FWaAvTTZl3zBK) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [Odnaleźć siebie](https://open.spotify.com/album/3vc7oSWO3DvytFvwx3RKvy) | 3:32 |
 | 4 | [Bukiet Czarnych Róż](https://open.spotify.com/track/6smVmGWgw7nKHnyMC74ZhR) | [ATLVNTA](https://open.spotify.com/artist/0mPwQtcfSfJTDRp8WW0Qzv) | [Bukiet Czarnych Róż](https://open.spotify.com/album/17B0bdE9LYJgPyx50MEXv2) | 3:44 |

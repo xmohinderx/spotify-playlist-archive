@@ -4,7 +4,7 @@
 
 > Rave season is upon us\. Cover: Jeremy Olander
 
-114 songs - 8 hr 49 min - not published yet
+114 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

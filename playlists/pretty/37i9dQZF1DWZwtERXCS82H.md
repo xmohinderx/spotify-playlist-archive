@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Read with quiet music in the background
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,057 likes - 356 songs - 15 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,140 likes - 356 songs - 15 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

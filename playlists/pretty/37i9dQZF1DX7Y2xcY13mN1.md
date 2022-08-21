@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,511 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,574 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 17 | [Sullivans John](https://open.spotify.com/track/0HjmRr1m4LDAGWzGWz53Hf) | [Jordan O'Leary](https://open.spotify.com/artist/6MNNdtDu02t5Ql8vab4DlK) | [The Burren Tapes](https://open.spotify.com/album/1PcIvSCbM8ParYqHZeEd2i) | 4:55 |
 | 18 | [The Dawning Of The Day](https://open.spotify.com/track/6jck9J7yqPsa8RDWAPJWyw) | [Tommy Makem & Liam Clancy](https://open.spotify.com/artist/4IJmCHcG1RFC3DubtKa7Df) | [Two For The Early Dew](https://open.spotify.com/album/1yJOb6DmQ3GZvTxL2Qq8su) | 4:03 |
 | 19 | [The Hare's Lament](https://open.spotify.com/track/769ARx8o2suNcwb2ZSdrTx) | [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Hare's Lament](https://open.spotify.com/album/7tqkCaZGNYuuwal605OU4W) | 5:01 |
-| 20 | [The Bonny Light Horseman \- Remastered 2020](https://open.spotify.com/track/73lCAVSmr6nJ9HjKm4oiYn) | [Planxty](https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c) | [After The Break \(Remastered 2020\)](https://open.spotify.com/album/3vtc66Q6QnvqWSaHhn9LlK) | 4:30 |
+| 20 | [The Bonny Light Horseman](https://open.spotify.com/track/1UDvKubDnJrrBC78bOWGXs) | [Planxty](https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c) | [After The Break](https://open.spotify.com/album/4DQ6OFzBPa242mYB4fn1eW) | 4:33 |
 | 21 | [He Moved Through the Fair](https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 4:22 |
 | 22 | [Blackwaterside](https://open.spotify.com/track/4dEFFlFgdVUqF5veresddP) | [Muireann Nic Amhlaoibh](https://open.spotify.com/artist/0kmDsPHHxquChPOywNcoF3) | [Thar Toinn / Seaborne](https://open.spotify.com/album/5UmZL3Thb2xSEk6YdR8Fb5) | 4:36 |
 | 23 | [Danny Boy](https://open.spotify.com/track/5o4SqGekEfvdkNuOVx5d3S) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 49 | [The Town I Loved So Well](https://open.spotify.com/track/6HJ5tXU3bPGx0ONBeh9EYs) | [Phil Coulter](https://open.spotify.com/artist/3Hm9DJ7Xa8YgiCAa7MoSiP) | [Words & Music](https://open.spotify.com/album/5ZZJHQbMplpRvMgFF5HatY) | 6:25 |
 | 50 | [The Lass of Aughrim](https://open.spotify.com/track/2s1enAmUiPrslpVQcJpnLq) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Heard A Long Gone Song](https://open.spotify.com/album/6hGCF6U1vanh8KJZgAq66m) | 2:11 |
 
-Snapshot ID: `MTY0NzAxNDA1MCwwMDAwMDAwMDkzODlhMDBlYzhjMzNjODZiZTc5N2U4MjRkZWE3MThh`
+Snapshot ID: `MTY0NzAxNDA1MCwwMDAwMDAwMDE1ZTc0ZjBlZjEyY2MxZjcxOGI2OTQzZTQ1ODFmZmZl`

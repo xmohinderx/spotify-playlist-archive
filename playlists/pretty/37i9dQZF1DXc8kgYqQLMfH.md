@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,298 likes - 381 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,318 likes - 381 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 20 | [Empty Hallways](https://open.spotify.com/track/7Glvm1A5eVOTgrKhkuJPG9) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Empty Hallways](https://open.spotify.com/album/2RrbweEpM42paH0jr6F8td) | 2:26 |
 | 21 | [foggy afternoons](https://open.spotify.com/track/29aEQCuc0s6E0kcFreV46L) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [foggy afternoons](https://open.spotify.com/album/3VWXOXYNIiomNfJREmxUMf) | 2:02 |
 | 22 | [Slow and Steady](https://open.spotify.com/track/2ygBMXjdbHL5hmYGznpoLp) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Slow And Steady](https://open.spotify.com/album/7x4MiaY421OisBdNJ4SUwI) | 2:19 |
-| 23 | [Pulse Final](https://open.spotify.com/track/1QpkRFytAoWxnfMrHegiLn) | [Enter Etherial](https://open.spotify.com/artist/2NkdAoQipIsgUKqe3sLun2) | [Pulse](https://open.spotify.com/album/1eCNVdcm396voeH3TvvGMg) | 2:01 |
+| 23 | [Pulse](https://open.spotify.com/track/1QpkRFytAoWxnfMrHegiLn) | [Enter Etherial](https://open.spotify.com/artist/2NkdAoQipIsgUKqe3sLun2) | [Pulse](https://open.spotify.com/album/1eCNVdcm396voeH3TvvGMg) | 2:01 |
 | 24 | [l u s h](https://open.spotify.com/track/4vkHWjfEG7l5gH72po5X6u) | [caesar torro](https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9) | [l u s h](https://open.spotify.com/album/6suXLgCTe0G8yQRLkY2IlD) | 2:16 |
 | 25 | [Soul Searching](https://open.spotify.com/track/2T3as8riJfzUaLFhijPCkq) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5) | [Soul Searching](https://open.spotify.com/album/65JVfJXTiaOlE6ORw93ga2) | 1:46 |
 | 26 | [Midnight Drive](https://open.spotify.com/track/4As7GSrNZ9KdczyqSP3asZ) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [In My Mind](https://open.spotify.com/album/4625gAejmwqcXrUuuPX3FZ) | 2:03 |

@@ -2383,6 +2383,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Musicaliza: Turf](/playlists/pretty/37i9dQZF1DXcX7ZBjTCIeL.md)
 - [Musique Concrète](/playlists/pretty/37i9dQZF1DXdcgmlEJyzKw.md)
 - [Mustard On The Beats](/playlists/pretty/37i9dQZF1DX3HHskiFSgKu.md)
+- [Muted Jazz](/playlists/pretty/37i9dQZF1DX6sFBvPsTs0j.md)
 - [Mutima](/playlists/pretty/37i9dQZF1DXbmINI7suDts.md)
 - [My Liberation Notes \(나의 해방일지\)](/playlists/pretty/37i9dQZF1DXd4LoztuhuiY.md)
 - [My Pets](/playlists/pretty/37i9dQZF1DXafnfRcoly0r.md)

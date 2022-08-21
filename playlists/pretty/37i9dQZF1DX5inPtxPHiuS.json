@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Oh'laville",
-  "num_followers": 78140,
+  "num_followers": 78162,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMDY4N2I3NGI2ZTU5N2Q0YjQzNGU2MjEyYTM1NDAzN2Nk",
+  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMDlkMmQ3NTFlNjI5MmIzNmY3ZTZiMjZiOTZhYTZiZmVl",
   "tracks": [
     {
       "added_at": "2022-06-24 05:15:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Un D\u00eda C\u00f3mo Hoy",
-        "url": "https://open.spotify.com/album/01SzUo0Zb1Xsa4mLOhnIXl"
-      },
-      "artists": [
-        {
-          "name": "Bonus Trak",
-          "url": "https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Un D\u00eda C\u00f3mo Hoy",
-      "url": "https://open.spotify.com/track/5BbV0srUESAQv3hFIWGdPM"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "Mar de Hiladas",
         "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 212666,
       "name": "T\u00fanel",
       "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Ma\u0301s Alla\u0301 del Tiempo",
+        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
+      },
+      "artists": [
+        {
+          "name": "Los Rolling Ruanas",
+          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Ma\u0301s Alla\u0301 del Tiempo",
+      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Ma\u0301s Alla\u0301 del Tiempo",
-        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
-      },
-      "artists": [
-        {
-          "name": "Los Rolling Ruanas",
-          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Ma\u0301s Alla\u0301 del Tiempo",
-      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 147453,
       "name": "Ning\u00fan Lugar",
       "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Sangre de Pr\u00f3fugo",
+        "url": "https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Sangre de Pr\u00f3fugo",
+      "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
     }
   ],
   "unique_name": "Rock Colombia",

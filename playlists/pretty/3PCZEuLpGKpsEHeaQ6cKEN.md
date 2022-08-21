@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: CARSTN &amp; GoldFish
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 286,051 likes - 145 songs - 7 hr 33 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 286,037 likes - 145 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

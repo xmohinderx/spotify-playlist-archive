@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLD1ufgw60J.md) - [plain]
 
 > The perfect classical side\-dish to some light chopping, stirring and seasoning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,038 likes - 42 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,085 likes - 42 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLD1ufgw60J.md) - [plain]
 | 36 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/5ESGW72VURk7fyX3cXrZcd) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh) | [Bach: Cello Suites, BWVV 1007\-1012](https://open.spotify.com/album/6LNSpqwdSSJ9cZH2uAJGsi) | 2:38 |
 | 37 | [A Fancy, P\. 73](https://open.spotify.com/track/1CgXMEb8LuhC8gl7JyQCMP) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Jonas Nordberg](https://open.spotify.com/artist/3NWJE9fTGvv1CGaFiO3KVd) | [Lessons](https://open.spotify.com/album/79dOK9xGXch4yTUf3ePR75) | 3:07 |
 | 38 | [Violin Sonata in G Major, Op\. 1 No\. 8: III\. Gavotte \(Arr\. J\. Steenbrink & T\. Steenbrink for Sheng & Chamber Ensemble\)](https://open.spotify.com/track/0Rx6KPWyyX5Ki58V24Xflr) | [Jean\-Marie Leclair](https://open.spotify.com/artist/6DJC9GGdjEH4CiaAeqAysE), [Wu Wei](https://open.spotify.com/artist/1kSdi5KWzBsRD6LOg0J7Fq), [Holland Baroque](https://open.spotify.com/artist/3RgDcTU4WaY4o15XIisFxl) | [Silk Baroque](https://open.spotify.com/album/1fRqgo8LCJBIM67RShaZag) | 3:53 |
-| 39 | [Sonata in E Major, K\. 380](https://open.spotify.com/track/2EY5Ddmo95nwNwlF2bmb7P) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Sarah O'Brien](https://open.spotify.com/artist/4zO7mLEq76fAfPau6es6lm) | [Scarlatti: Sonata in E Major, K\. 380](https://open.spotify.com/album/3dVkY0lhUIdFMBY9FeBtMQ) | 2:59 |
+| 39 | [Sonata in E Major, K\. 380](https://open.spotify.com/track/1smp3QNqTbvJFXuhHHpGV8) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Sarah O'Brien](https://open.spotify.com/artist/4zO7mLEq76fAfPau6es6lm) | [Impromptu](https://open.spotify.com/album/3chncWqSySIsq63y17njdc) | 2:59 |
 | 40 | [The Carnival of the Animals, R\. 125: XIII\. The Swan \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:54 |
 | 41 | [Wind Quintet in E\-Flat Major, Hess 19: II\. Adagio maestoso](https://open.spotify.com/track/5TGCJDjLkKg05iT1ajUE1w) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Ottó Rácz](https://open.spotify.com/artist/29K3KFah5KwkXAXgFUxz8o), [Jozsef Vajda](https://open.spotify.com/artist/2mpsEiXmTZrdtqHR5pEOwQ), [Sándor Berki](https://open.spotify.com/artist/67AxY6bRRMB32PxGkObf3Y), [János Keveházi](https://open.spotify.com/artist/6osnx8WSs1oNzaUArgf8Vn), [Jeno Kevehazi](https://open.spotify.com/artist/69zER0tBs3f1AvOeAJSveN) | [Beethoven: Chamber Music for Horns, Winds and Strings](https://open.spotify.com/album/1Wmvid9DMr8fyqyW33wAHy) | 3:52 |
 | 42 | [Adoration](https://open.spotify.com/track/6brnswWmZ8Xdf4MWeskofY) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Randall Goosby](https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K), [Zhu Wang](https://open.spotify.com/artist/3z5WrAR67znbCVkXjFKM6Q) | [Price: Adoration](https://open.spotify.com/album/11pIdn7j8vNhuCto2x6mgS) | 3:38 |
 
-Snapshot ID: `MTY2MDYzOTg5OSwwMDAwMDAwMGZiNzY5MjMzNjBkYTMzZTA5MzZjNGRiM2EwZWUwMzAy`
+Snapshot ID: `MTY2MDYzOTg5OSwwMDAwMDAwMDhmYzM5MzIyNTVkMjRkNzEzNTNmODlhNzQ4NjQ0NDEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,767,072 likes - 100 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,790,690 likes - 100 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 45 | [Will Be Soon](https://open.spotify.com/track/5N4m2XRThL6q3hHa491kZD) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [ANTICXLTXRE](https://open.spotify.com/artist/7aKPljkfMF8UF2r7m28tuT) | [Will Be Soon](https://open.spotify.com/album/1K9VgIcJcOyBWaKqm2gWHG) | 3:05 |
 | 46 | [NEON BLADE 2](https://open.spotify.com/track/2wGnZ4Dq2LKKyJ7fy7kv2H) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE 2](https://open.spotify.com/album/6qyLhhRxrfoBbd4jjKypOQ) | 3:07 |
 | 47 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 |
-| 48 | [AFTERLIFE](https://open.spotify.com/track/4wtXEKePWLpCnvOOGs2AHd) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/6gJeFnoQLIHuVsXPvsRyYT) | 3:16 |
+| 48 | [AFTERLIFE](https://open.spotify.com/track/5PfNKiRk4pyJWxle5cU0ba) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/3G5QIHz6XSKOUISBBbP28B) | 3:16 |
 | 49 | [TECHNO KILLA](https://open.spotify.com/track/5kr9HU28PSpkmQZ6z9Z1Mx) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [TECHNO KILLA](https://open.spotify.com/album/5SLohcmYkWYidTWBEY2XmW) | 2:10 |
 | 50 | [RAVEN](https://open.spotify.com/track/33jNhRb9njyX482vPmFPMu) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [SKETS](https://open.spotify.com/artist/32JsKOhKT1joCOXoIhVGVY) | [RAVEN](https://open.spotify.com/album/4YmcshR0vxXqn8h20qXCMS) | 2:26 |
 | 51 | [Night Finding](https://open.spotify.com/track/6e8aObTgP8Jb4eZt5mAAk1) | [yellow pixie](https://open.spotify.com/artist/0OeJ57WX4JoCw1FdTM8Uwe) | [Night Finding](https://open.spotify.com/album/29JbcmWxHt4KNqMCM4TRME) | 1:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [Phonk Save the World](https://open.spotify.com/track/7ze3dmIW0eC4ZL2cfReTWO) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [Phonk Save the World](https://open.spotify.com/album/1WrSSY9O3baLAfqnsnTXsz) | 2:03 |
 | 100 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 |
 
-Snapshot ID: `MTY2MDg4NTg3OCwwMDAwMDAwMDc2M2ZmN2I5ZDM5MDJmYzcxZDFkNzg5ZTI4Y2U3NWU3`
+Snapshot ID: `MTY2MDg4NTg3OCwwMDAwMDAwMDZlNGVhMGQ2MzVjNTA3MWVjMGMwNTY3YTczZTI5YzFi`

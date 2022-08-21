@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,856 likes - 95 songs - 4 hr 51 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,864 likes - 95 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 15 | [Hablan Mucho De Mí, Pero A Mí No Me Importa XD](https://open.spotify.com/track/37QmFY0MHlGh8aJRFRZcby) | [LA MEN](https://open.spotify.com/artist/44kc4estERX9f6IBhdV9R3) | [Hablan Mucho De Mí, Pero A Mí No Me Importa XD](https://open.spotify.com/album/4LJvCm6ZEmAXJXbyUbuvkW) | 2:11 |
 | 16 | [Qué mal que me hiciste](https://open.spotify.com/track/322PbBjLJ4hLEorcfIqOwN) | [Angie Cadenas](https://open.spotify.com/artist/5dCM3LJZcUHR9tD9cQFrKG) | [qué mal que me hiciste](https://open.spotify.com/album/1NcI916JiO27M6yqhWtcan) | 2:49 |
 | 17 | [Remy](https://open.spotify.com/track/1W2IdITr6ki0jkkBnbajcm) | [AR the Eternal](https://open.spotify.com/artist/6DGg3vOIAiIgpMsbU7x4b9) | [Eternal Noyz](https://open.spotify.com/album/3Pcg0P1TECstC9T8uyn1nF) | 3:09 |
-| 18 | [Gbedu](https://open.spotify.com/track/7rl0Xnk0GstBbkJ853xx41) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Snypa](https://open.spotify.com/artist/1wqYhpSZlIFP08MrmhKAQd) | [Gbedu](https://open.spotify.com/album/2yitQbZzLOU5MhydiXzzC0) | 3:03 |
+| 18 | [Gbedu](https://open.spotify.com/track/7rl0Xnk0GstBbkJ853xx41) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Snypa](https://open.spotify.com/artist/1wqYhpSZlIFP08MrmhKAQd), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Gbedu](https://open.spotify.com/album/2yitQbZzLOU5MhydiXzzC0) | 3:03 |
 | 19 | [Technicolor](https://open.spotify.com/track/2uo06cB8MEI5sFvee1MEdY) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Technicolor](https://open.spotify.com/album/4zSbgDJcsJVhq5GByWNe5O) | 3:31 |
 | 20 | [Godly Behaviour](https://open.spotify.com/track/1HkZl9LXJ01o1YfYsCQbq4) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ELIO'S INFERNO](https://open.spotify.com/album/3Jlrqudmo7F0q1Wuc2Qizs) | 2:38 |
 | 21 | [Culture](https://open.spotify.com/track/3moGgZ1itm9HgYuJstsWib) | [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU) | [Culture](https://open.spotify.com/album/32d7sDMNwsvNjIJ88mfzj7) | 2:27 |

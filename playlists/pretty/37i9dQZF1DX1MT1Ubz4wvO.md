@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Benito Cerati en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,159 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,175 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 17 | [Promesas Rotas](https://open.spotify.com/track/3t2e9uu6r3ZX0B2oT1RrL9) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Promesas Rotas](https://open.spotify.com/album/7MtGLdSoNYDjoK3UIgKVqJ) | 3:26 |
 | 18 | [Mexican Wave](https://open.spotify.com/track/0bMjW38K4kKGfDeseXWjqm) | [La Bande\-Son Imaginaire](https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7) | [Mexican Wave](https://open.spotify.com/album/23Fl2dIwVWN5JccWIRs3Lf) | 3:46 |
 | 19 | [El Rati](https://open.spotify.com/track/5WmcsOD7YVM2vzt1OVs7sc) | [Cochecama](https://open.spotify.com/artist/2HOvmpucXOQVjrkYcpeK3C) | [Partido de la Costa](https://open.spotify.com/album/7N109ctGxf4a7MLfOX7Hm9) | 4:47 |
-| 20 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/2t3xkD6kiwF0w0dqChNS2P), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
+| 20 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
 | 21 | [Nuevo Plano \- Edit](https://open.spotify.com/track/0UYjgrserr0woE9YOQeBiL) | [Supersilverhaze](https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw) | [Nuevo Plano \(Edit\)](https://open.spotify.com/album/3JbIbnNfxrR1hkTgpLDumk) | 5:02 |
 | 22 | [Loto](https://open.spotify.com/track/1vwktdBETlXD036J6mUgNr) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk) | [La Máquina Moral](https://open.spotify.com/album/5rtNWjPXiaZwo9YpcYOVH3) | 5:24 |
 | 23 | [Ven](https://open.spotify.com/track/7Eul6IQhxQzBEphwuF0Qnn) | [Tony True and the Tijuana Tres](https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Ven](https://open.spotify.com/album/5KBWhrpjKnC6EsFIHyJQ5C) | 2:41 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 39 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 |
 | 40 | [Esfera de Cristal](https://open.spotify.com/track/7tJdAZGqP0nFaHPXnh3NAo) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Esfera de Cristal](https://open.spotify.com/album/1xwZJ7GDxoYzmsvq9qpT49) | 3:36 |
 | 41 | [Aerolíneas Rebeldes \- En Vivo, Sábado 11 de Diciembre de 2021 / Estadio Único de la Plata](https://open.spotify.com/track/3HECeXJtkb2B4m3QoAW7UM) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Aerolíneas Rebeldes \(En Vivo, Sábado 11 de Diciembre de 2021 / Estadio Único de la Plata\)](https://open.spotify.com/album/3CWYeEPdANiQu8PaxHYE2H) | 3:49 |
-| 42 | [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 |
+| 42 | [Olimpica](https://open.spotify.com/track/7jTQYRAAppaWtQuOYZdY3z) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:45 |
 | 43 | [No Te Caigas Gloria](https://open.spotify.com/track/3Rpi0jKevS1mQbIRkyGwW8) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [Perroperro](https://open.spotify.com/album/2i39PL7dAHjs1yTbOxMFTm) | 5:01 |
 | 44 | [Todos los Chicos](https://open.spotify.com/track/1PJ6KHAOF3nUm4RZNr6Fvj) | [Hijos de la Psicodelia](https://open.spotify.com/artist/6JxIskGsVf6ow8UU9ivNHU) | [Todos los Chicos](https://open.spotify.com/album/49LWq7l4cwB1a2ifYUWNcN) | 1:42 |
 | 45 | [Airplane](https://open.spotify.com/track/6BVcHhEzkuVDU97bbNlJDF) | [TAPPAN](https://open.spotify.com/artist/23DnlRuTAuHrgdtWH8PU4x) | [Airplane](https://open.spotify.com/album/7CgZMHYBN6cuHilMgnaFur) | 7:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Una Vez Más](https://open.spotify.com/track/3ttUreDyddWfldtmA3l4iB) | [UOHO](https://open.spotify.com/artist/0f89nikbDhsc9XBL1cFtG4) | [Una Vez Más](https://open.spotify.com/album/2JPSVUya4XQSaxlF7ZI1Fs) | 4:31 |
 | 50 | [No Juego Más](https://open.spotify.com/track/65oxgrIHuaUwGyFzAtf5dE) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [No Juego Más](https://open.spotify.com/album/669jETLtDfGSYKZFNASzli) | 3:06 |
 
-Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMDRmMTIzM2M3MTU5ZDQxMDk2ODk2NDFiNDg2NDBjMGY0`
+Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMDkwYmNlYjYwMTFiZTM3OGE1YThjMTRlODEyMmI3MzA0`

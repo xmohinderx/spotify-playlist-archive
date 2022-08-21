@@ -909,7 +909,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -4499,7 +4499,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 192319,
       "name": "Galileo Galilei",
       "url": "https://open.spotify.com/track/4tT4NmTKrIxdyh137GGh7a"
@@ -7767,7 +7767,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 188852,
       "name": "Kelle?",
       "url": "https://open.spotify.com/track/4hFIYS75gVRiQ7FIITV1av"
@@ -10223,7 +10223,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 80296,
       "name": "Miau",
       "url": "https://open.spotify.com/track/24kuaBw8ZtA8bWYc8nKkzl"
@@ -12671,6 +12671,24 @@
       "duration_ms": 208951,
       "name": "Pillipiipari",
       "url": "https://open.spotify.com/track/1T784ymzscrRSmY2sEZpOL"
+    },
+    {
+      "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "album": {
@@ -15794,6 +15812,24 @@
     },
     {
       "album": {
+        "name": "Tequilakahvi",
+        "url": "https://open.spotify.com/album/6YoUvxtiVJRE18WLu3rG9z"
+      },
+      "artists": [
+        {
+          "name": "Bee",
+          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "Tequilakahvi",
+      "url": "https://open.spotify.com/track/45AnFdNtMvqc6slOLCDMTy"
+    },
+    {
+      "album": {
         "name": "Terveisin Doris",
         "url": "https://open.spotify.com/album/3HOoenrSqMsHKkTJtKacg8"
       },
@@ -17446,6 +17482,36 @@
     },
     {
       "album": {
+        "name": "Vihatuin (feat. Fabe, Reino Nordin & Mikael Gabriel)",
+        "url": "https://open.spotify.com/album/1Mm5if7IvrEXWZrxVll3Dm"
+      },
+      "artists": [
+        {
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
+        },
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        },
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        },
+        {
+          "name": "Reino Nordin",
+          "url": "https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183052,
+      "name": "Vihatuin (feat. Fabe, Reino Nordin & Mikael Gabriel)",
+      "url": "https://open.spotify.com/track/13WaSn6bd7PR7V7pQu9BF9"
+    },
+    {
+      "album": {
         "name": "Vihje",
         "url": "https://open.spotify.com/album/3slrfEb9ioJLHKNWQTLomS"
       },
@@ -18433,6 +18499,24 @@
       "duration_ms": 186173,
       "name": "You Right",
       "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
+    },
+    {
+      "album": {
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/3mSRrplgrZBV5udzxZCV6X"
+      },
+      "artists": [
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130166,
+      "name": "YOUNG",
+      "url": "https://open.spotify.com/track/4XsZDaFuVp4moPt9cp8dpm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: beabadoobee
 
-343 songs - 19 hr 2 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+344 songs - 19 hr 5 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,8 @@
 | [O Twych Nogach](https://open.spotify.com/track/70m2Me37IUzMg9PxYSQrf4) | [Helucze](https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr) | [O Twych Nogach](https://open.spotify.com/album/4aoV96ATvmWvNMe3J6mkm4) | 2:11 | 2022-07-22 |  |
 | [Ocean](https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Ocean](https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT) | 3:10 | 2022-02-18 | 2022-04-23 |
 | [OCTEMBRE \(feat\. Bonnie Banane\)](https://open.spotify.com/track/2aDRdU8uFJDZ7tYek3VAgY) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [OCTEMBRE](https://open.spotify.com/album/74XhiFkOdByKGkPiBIg88d) | 3:32 | 2022-01-14 | 2022-02-05 |
-| [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 | 2022-08-19 |  |
+| [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 | 2022-08-19 | 2022-08-21 |
+| [Olimpica](https://open.spotify.com/track/7jTQYRAAppaWtQuOYZdY3z) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:45 | 2022-08-19 |  |
 | [olivine](https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [AA side](https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr) | 3:38 | 2022-03-18 | 2022-05-31 |
 | [Only Tonight](https://open.spotify.com/track/7sdvbA1UrWaASUs1S5T36c) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m), [Tamala](https://open.spotify.com/artist/6kDpW8kBQXJ7e0zALDEaOu) | [Only Tonight](https://open.spotify.com/album/1DXiWejIkhe1RsvuCvz2w3) | 4:09 | 2022-01-28 | 2022-04-23 |
 | [Open Your Mind](https://open.spotify.com/track/6Hix9sKooZFXywNvpap932) | [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj) | [Open Your Mind](https://open.spotify.com/album/54lSmyWcVY2w8znYpWKmdi) | 3:25 | 2022-01-14 | 2022-04-23 |

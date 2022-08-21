@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-47 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
+48 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Gbona](https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:07 | 2022-04-14 |  |
 | [Get Man Got](https://open.spotify.com/track/4fEr8iz4VziG7d7OnWp49g) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE) | [Untraditional EP](https://open.spotify.com/album/6cH71f3wPxyGXR264z7daA) | 3:58 | 2022-04-14 |  |
 | [GS X PS Whips and Bikes](https://open.spotify.com/track/5jpqCyP42DLgaeXkRcbzIJ) | [Frecks](https://open.spotify.com/artist/3w5zlljTveruvJtCM1tP3b), [Spooks](https://open.spotify.com/artist/5ewJHfiGNQJjmKHzLjcojz), [Goose](https://open.spotify.com/artist/2LePmzqki44WJcvlf19vlk), [Tragic](https://open.spotify.com/artist/0u94Z0XmLOjejURGTGMb1e) | [GS X PS Whips and Bikes](https://open.spotify.com/album/2c6iQJ3RgpMMXzZ2Abcbsg) | 3:56 | 2022-04-14 |  |
-| [Have Some Mercy](https://open.spotify.com/track/5fFldZH5U1NE6sQgvydV7Q) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [The Reggae Artists Gallery](https://open.spotify.com/album/484PIE4qtnUpm7XUiDLumm) | 3:28 | 2022-04-14 |  |
+| [Have Some Mercy](https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 3:26 | 2022-04-14 |  |
+| [Have Some Mercy](https://open.spotify.com/track/5fFldZH5U1NE6sQgvydV7Q) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [The Reggae Artists Gallery](https://open.spotify.com/album/484PIE4qtnUpm7XUiDLumm) | 3:28 | 2022-04-14 | 2022-08-21 |
 | [Heart\-Shaped Smoke Rings](https://open.spotify.com/track/4akzeLDcfAo2O42aOEU1oZ) | [Antonia Carrena](https://open.spotify.com/artist/4wyIlKQECWBUoIIVT7cUUx) | [Heart\-Shaped Smoke Rings](https://open.spotify.com/album/1kr4XrDEINDyLjYoKKeXZL) | 4:07 | 2022-04-14 |  |
 | [Ice](https://open.spotify.com/track/0aXQ4eXHFkfDhfLN7gPkbw) | [Cam Keddy](https://open.spotify.com/artist/1747Rrh8maZzzcgo2jVJkt) | [Ice](https://open.spotify.com/album/52dedAOLJuR9XcLonVwYn1) | 2:46 | 2022-04-14 |  |
 | [La Guayaba](https://open.spotify.com/track/2VeXI9CcoekqU1VGMljovo) | [Riccie Oriach](https://open.spotify.com/artist/3b12EGhDU7EhHcuZmMG3oV) | [Viaje Al Infinito](https://open.spotify.com/album/5f1r5AowWw21NMerlIwBxz) | 4:23 | 2022-04-14 |  |

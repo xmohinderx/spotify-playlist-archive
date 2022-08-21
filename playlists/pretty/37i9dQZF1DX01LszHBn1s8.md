@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i wish i knew u WANTED ME
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,780 likes - 537 songs - 1 day 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,944 likes - 537 songs - 1 day 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

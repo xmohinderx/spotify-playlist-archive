@@ -4,7 +4,7 @@
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Leonardo de Lozanne
 
-120 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/0l9Wh8w43fBjYdr4AnAill)
+121 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/0l9Wh8w43fBjYdr4AnAill)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Tsumi](https://open.spotify.com/track/6zKtAESFQvKNVUIUco7VLz) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Tsumi](https://open.spotify.com/album/5eAdTgZvLovhJ8IjSUFZfV) | 4:21 | 2021-12-07 | 2022-02-19 |
 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 | 2021-12-07 | 2022-03-21 |
 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 | 2021-12-07 | 2022-02-19 |
-| [Un Día Cómo Hoy](https://open.spotify.com/track/5BbV0srUESAQv3hFIWGdPM) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Un Día Cómo Hoy](https://open.spotify.com/album/01SzUo0Zb1Xsa4mLOhnIXl) | 3:03 | 2022-04-29 |  |
+| [Un Día Como Hoy](https://open.spotify.com/track/634akPbb3dEANumzmqBVGf) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Un Día Como Hoy](https://open.spotify.com/album/4Hv7I4F9FMBf6ssn0ORJCZ) | 3:03 | 2022-08-05 |  |
+| [Un Día Cómo Hoy](https://open.spotify.com/track/5BbV0srUESAQv3hFIWGdPM) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Un Día Cómo Hoy](https://open.spotify.com/album/01SzUo0Zb1Xsa4mLOhnIXl) | 3:03 | 2022-04-29 | 2022-08-21 |
 | [Una Pregunta Más](https://open.spotify.com/track/4j0XzMnlTJhyPgpHZBtYr4) | [Tweety Gonzalez](https://open.spotify.com/artist/2vs2HDZj2aUy872GXT9tO3), [Lisandro Aristimuño](https://open.spotify.com/artist/78T2p9YkWwfSiIaevNvijS) | [Una Pregunta Más](https://open.spotify.com/album/5T4mzw2sCCKLddBDAH1GBf) | 3:51 | 2021-12-07 |  |
 | [Velur](https://open.spotify.com/track/605QBjMSUyvXD5DKgjm8dT) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Velur](https://open.spotify.com/album/1DpzoHSXLnTEXiUEeM5K0E) | 4:09 | 2021-12-07 |  |
 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2021-12-07 |  |

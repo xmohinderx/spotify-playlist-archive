@@ -4,7 +4,7 @@
 
 > La nueva ola del rock argentino\. Foto: El Mató a un Policía Motorizado
 
-155 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
+157 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Imaginando](https://open.spotify.com/track/0tp6RLnxyNOSrTQak9YBd6) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP), [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Imaginando](https://open.spotify.com/album/7D4FYZzMAcwN5N61xCj0cJ) | 4:23 | 2022-06-29 |  |
 | [Incandescente](https://open.spotify.com/track/4BLvKLjhvH6UU5aTyBe3bt) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Incandescente](https://open.spotify.com/album/63TDtsFF8Rh3K3uNbsOLmd) | 5:35 | 2022-06-29 |  |
 | [LA ARAÑA](https://open.spotify.com/track/1HU9uePnzE4RdomNtxICSC) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3itKjyJB7SPbkyhhlB9YJX) | 3:28 | 2022-07-19 | 2022-07-29 |
-| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-22 |  |
+| [LA ARAÑA](https://open.spotify.com/track/1LRCYh4SN2EtRZD3zMcbWe) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:28 | 2022-08-19 |  |
+| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-22 | 2022-08-21 |
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-06-29 | 2022-07-20 |
 | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/track/0AcUxNrUimUbnZjfU1d1Eo) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/album/5FVZFjAVNaOm7X9erzp905) | 4:22 | 2022-08-19 |  |
 | [La Foto](https://open.spotify.com/track/6ubfIxvIdkcICVNzsdvdFc) | [Tobías Arribillaga](https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ), [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [La Foto](https://open.spotify.com/album/5ks9k8UqomuzIKdhSuDaPP) | 3:33 | 2022-08-19 |  |
@@ -118,7 +119,8 @@
 | [No Pudiste Verlo](https://open.spotify.com/track/5MqdBOl6tcQuoOCj1fSnGh) | [Camperas](https://open.spotify.com/artist/1NfBsale6A7iXgBf0Ig58w) | [Todo Desliza](https://open.spotify.com/album/4CrOToTHThyWV5nrx3bR1e) | 2:09 | 2022-06-29 |  |
 | [No Quiero Salir](https://open.spotify.com/track/0Z9EiIeAxn26L0lTVOn1aH) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1) | [No Quiero Salir](https://open.spotify.com/album/2XYNPtHlKeJTxPAmyIbkmq) | 2:18 | 2022-06-29 |  |
 | [No Te Desvistas](https://open.spotify.com/track/4zZG2DSVUWzakbLBx0sfPY) | [Simón Abentin](https://open.spotify.com/artist/3Zs1HOnF2dqmc60qkEziol) | [Tocable, Adorable](https://open.spotify.com/album/3blcyiycMdmmomf37A0SoP) | 2:13 | 2022-06-29 | 2022-07-20 |
-| [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 | 2022-07-29 |  |
+| [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 | 2022-07-29 | 2022-08-21 |
+| [Olimpica](https://open.spotify.com/track/7jTQYRAAppaWtQuOYZdY3z) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:45 | 2022-08-19 |  |
 | [Oro de Abeja](https://open.spotify.com/track/2q3GgW71FqrEfFFtdWC3tJ) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Estado de Enlace](https://open.spotify.com/album/4wQOcHIqzPgS3dMbXWKy8z) | 3:48 | 2022-07-19 |  |
 | [Ovbio](https://open.spotify.com/track/7w1oeRk6mx4SnvYH6GpPEK) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU) | [Ovbio](https://open.spotify.com/album/2zSH51juxxucmg3HuoUDyD) | 4:04 | 2022-07-19 |  |
 | [Para Enloquecer](https://open.spotify.com/track/6xFNObwvVvrGg3hY8fT05I) | [BIGGER](https://open.spotify.com/artist/7Mjn4aYeV5bxOB4mlVsGZc) | [El Otro Lado](https://open.spotify.com/album/4yL0j3KXs4tzmIl3Zs96ER) | 3:19 | 2022-06-29 | 2022-07-20 |

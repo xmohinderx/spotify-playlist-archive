@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-143 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/60LiS949KObJRF0kT8PKqw)
+144 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/60LiS949KObJRF0kT8PKqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Eyes \- Extended Vocal Mix](https://open.spotify.com/track/1kKNCBOxnLBwvoiWYol5JW) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf) | [Eyes](https://open.spotify.com/album/57qm57MXXZ7FRecg5RkVWj) | 6:22 | 2022-02-11 | 2022-07-29 |
 | [Eyes \- Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf), [Roberto Ferrante](https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL) | [Eyes \(2020 Remaster\)](https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz) | 6:38 | 2022-07-01 |  |
 | [Faces \- Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/7zUkx37JJ7iz3ru4Y7Zd26) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf), [Roberto Ferrante](https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL) | [Faces \(2020 Remaster\)](https://open.spotify.com/album/35u7IKBpYEhxpKO86BVZmn) | 5:40 | 2022-02-11 |  |
-| [Feels Good \- Carrots & Beets](https://open.spotify.com/track/4XagBRVqOiMShocifucrgd) | [Electra](https://open.spotify.com/artist/4m0wrSchQLfcaBbfmRbjke) | [Star Funk, Vol\. 9](https://open.spotify.com/album/6MIgfukswDqIZZmByAON39) | 6:16 | 2022-02-11 |  |
+| [Feels Good \- Carrots & Beets](https://open.spotify.com/track/4XagBRVqOiMShocifucrgd) | [Electra](https://open.spotify.com/artist/4m0wrSchQLfcaBbfmRbjke) | [Star Funk, Vol\. 9](https://open.spotify.com/album/6MIgfukswDqIZZmByAON39) | 6:16 | 2022-02-11 | 2022-08-21 |
 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Polydans Remixes](https://open.spotify.com/album/277wPb0R66H8K90bJMksyG) | 3:59 | 2022-07-01 |  |
 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/1zZcUGIY4VNzdGDKEskz7Y) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Feels Right \(Gerd Janson Remix\)](https://open.spotify.com/album/5iamscXb0VlnJmEkBi33uP) | 3:59 | 2022-02-11 | 2022-07-29 |
 | [Flashlight \- Masalo Remix](https://open.spotify.com/track/5Cay3jdLxv3BajJKgZtvcM) | [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Flashlight](https://open.spotify.com/album/2mYT0YPcxvIh6Do5k2ZOfI) | 8:07 | 2022-02-11 | 2022-07-28 |
@@ -75,6 +75,7 @@
 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 | 2022-02-11 |  |
 | [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 | 2022-02-11 |  |
 | [In Love With Nebula](https://open.spotify.com/track/5tYcZUC5qnhXIKx1vlRz4s) | [Mario Moretti](https://open.spotify.com/artist/7qCGYOwQPMZLIlxc08Ue9j) | [Past Present Perfect](https://open.spotify.com/album/4YyAuCQZUz9WNuT8P6oj9z) | 6:26 | 2022-02-11 | 2022-06-23 |
+| [It's a War \- Purple Disco Machine & Lorenz Rhode Instrumental](https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [It's a War \(Purple Disco Machine & Lorenz Rhode Remix\)](https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ) | 6:41 | 2022-08-20 |  |
 | [Italo Amore \(Musumeci Edit\)](https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Future Disco: Visions of Love](https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4) | 7:27 | 2022-02-11 |  |
 | [Jamin'](https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:57 | 2022-02-11 |  |
 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 | 2022-02-11 |  |

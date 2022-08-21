@@ -4,14 +4,15 @@
 
 > the beat of your drift
 
-264 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+265 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [6IXSPEED](https://open.spotify.com/track/56Kb55Pzodbj5cGJcyZW1W) | [7oh2](https://open.spotify.com/artist/4YlEogA5055pLDnRxXUXSm) | [6IXSPEED](https://open.spotify.com/album/0AQMdCntMcBFGCNyaZeg7Y) | 2:29 | 2022-01-06 | 2022-07-09 |
 | [A Little Story](https://open.spotify.com/track/0BfsBGWWesSZnEwiwu9Nw3) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [A Little Story](https://open.spotify.com/album/4tlq6PXJDEivTW62lPueHO) | 2:03 | 2021-11-12 | 2022-05-14 |
 | [ADRENALIN](https://open.spotify.com/track/1xoigddYLuUFszTRCoPvkr) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [ADRENALIN](https://open.spotify.com/album/6nX4WB8Aw5KovtyZE55kRw) | 1:58 | 2022-01-06 | 2022-08-13 |
-| [AFTERLIFE](https://open.spotify.com/track/4wtXEKePWLpCnvOOGs2AHd) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/6gJeFnoQLIHuVsXPvsRyYT) | 3:16 | 2022-08-05 |  |
+| [AFTERLIFE](https://open.spotify.com/track/4wtXEKePWLpCnvOOGs2AHd) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/6gJeFnoQLIHuVsXPvsRyYT) | 3:16 | 2022-08-05 | 2022-08-21 |
+| [AFTERLIFE](https://open.spotify.com/track/5PfNKiRk4pyJWxle5cU0ba) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/3G5QIHz6XSKOUISBBbP28B) | 3:16 | 2022-08-05 |  |
 | [ALCHEMY](https://open.spotify.com/track/53GU3nsawC307mKyhH22W2) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN) | [ALCHEMY](https://open.spotify.com/album/5TpBVt5Q2u6VIW6aZ9K01m) | 2:20 | 2022-06-03 | 2022-08-06 |
 | [ALL GAS NO BRAKES](https://open.spotify.com/track/7lrWNB3WKgVGe1q7UP14pR) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [ALL GAS NO BRAKES](https://open.spotify.com/album/3kmuOoRDxLUziLPSzbA5m2) | 2:20 | 2022-06-17 | 2022-07-23 |
 | [AMNESIA](https://open.spotify.com/track/32P1387Vb7TuwbprjRmtQN) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [AMNESIA](https://open.spotify.com/album/1XLMa0f05anowH4OmrATqF) | 2:11 | 2022-07-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUvVRFYN2Rp.md) - [plain]
 
 > All songs from South Korean hip\-hop TV show 'Show Me The Money\(쇼미더머니\)', Cover: Gwangil Jo\(조광일\) \- SMTM10 Winner
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,903 likes - 214 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,942 likes - 214 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUvVRFYN2Rp.md) - [plain]
 | 121 | [Watch Me Ballin'](https://open.spotify.com/track/0jMWVoq4ydhCEtc57fGhrS) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Show Me the Money 777 Episode 3](https://open.spotify.com/album/04qvGB5rF6SgOK0kxMJ9hp) | 3:43 |
 | 122 | [XXL](https://open.spotify.com/track/5Tym9X0OrYDhWLqX2X5qEa) | [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Show Me the Money 777 Episode 3](https://open.spotify.com/album/04qvGB5rF6SgOK0kxMJ9hp) | 3:48 |
 | 123 | [bite](https://open.spotify.com/track/24H85lQQGb9SrjM1RRyGJx) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [Show Me the Money 777 Episode 3](https://open.spotify.com/album/04qvGB5rF6SgOK0kxMJ9hp) | 3:09 |
-| 124 | [When the time comes](https://open.spotify.com/track/2f5d3x4tvRmdcRRO8J0qnk) | [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Show Me the Money 777 Episode 3](https://open.spotify.com/album/04qvGB5rF6SgOK0kxMJ9hp) | 4:01 |
+| 124 | [When the time comes](https://open.spotify.com/track/2f5d3x4tvRmdcRRO8J0qnk) | [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG), [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Show Me the Money 777 Episode 3](https://open.spotify.com/album/04qvGB5rF6SgOK0kxMJ9hp) | 4:01 |
 | 125 | [Save \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/6pzI4pu0nWLwydYTzOCc7W) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 777 Episode 3](https://open.spotify.com/album/04qvGB5rF6SgOK0kxMJ9hp) | 5:07 |
 | 126 | [Hate You \(Prod\. by 코드 쿤스트\)](https://open.spotify.com/track/3pWzLdFztaXirLNrFlQ4IT) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Show Me the Money 777 Episode 2](https://open.spotify.com/album/2aE79ESTvRRpWu0llYZa2X) | 3:57 |
 | 127 | [saimsaim](https://open.spotify.com/track/34W9D0vTrfUWatfvCyrrkp) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Show Me the Money 777 Episode 1](https://open.spotify.com/album/6yr53YySD8G0GRwveBg835) | 4:01 |

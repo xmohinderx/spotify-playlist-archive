@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad instrumental and vocal jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,286 likes - 125 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,379 likes - 125 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

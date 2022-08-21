@@ -2146,6 +2146,28 @@
     },
     {
       "album": {
+        "name": "Impromptu",
+        "url": "https://open.spotify.com/album/3chncWqSySIsq63y17njdc"
+      },
+      "artists": [
+        {
+          "name": "Domenico Scarlatti",
+          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+        },
+        {
+          "name": "Sarah O'Brien",
+          "url": "https://open.spotify.com/artist/4zO7mLEq76fAfPau6es6lm"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Sonata in E Major, K. 380",
+      "url": "https://open.spotify.com/track/1smp3QNqTbvJFXuhHHpGV8"
+    },
+    {
+      "album": {
         "name": "Scarlatti: Sonata in E Major, K. 380",
         "url": "https://open.spotify.com/album/3dVkY0lhUIdFMBY9FeBtMQ"
       },
@@ -2161,7 +2183,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 179000,
       "name": "Sonata in E Major, K. 380",
       "url": "https://open.spotify.com/track/2EY5Ddmo95nwNwlF2bmb7P"

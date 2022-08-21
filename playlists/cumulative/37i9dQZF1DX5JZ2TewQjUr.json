@@ -1754,6 +1754,24 @@
     },
     {
       "album": {
+        "name": "Rari",
+        "url": "https://open.spotify.com/album/1q9G3PA0UMdrDifhGmRyw5"
+      },
+      "artists": [
+        {
+          "name": "Ethan Chu",
+          "url": "https://open.spotify.com/artist/4GAxH0WL7ChoWWdpGw6PZq"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Rari",
+      "url": "https://open.spotify.com/track/4Dt9J1ac16L4XV7jRs7E6L"
+    },
+    {
+      "album": {
         "name": "REAL",
         "url": "https://open.spotify.com/album/11zwue1tQvvXTkJb9qOzqT"
       },

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-857 songs - 1 day 22 hr 29 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+858 songs - 1 day 22 hr 32 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Allo Class](https://open.spotify.com/track/6BRcfiMW72tcTFde2gsPUZ) | [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [Aliteia](https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY) | 2:51 | 2021-04-17 | 2021-05-03 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2021-11-14 | 2021-11-14 |
 | [ALYX](https://open.spotify.com/track/00x2d2mKSaUrCNTNxH7CYN) | [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow) | [ALYX](https://open.spotify.com/album/6UT9roGeXdIUkfIGXU1WUG) | 2:47 | 2021-10-30 | 2021-11-05 |
-| [Amarties](https://open.spotify.com/track/7AaxFtkinG6n5fw6ZUuxHE) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Amarties](https://open.spotify.com/album/0NkYD3ByHYn3i0iTMPzHHu) | 2:45 | 2022-01-19 |  |
+| [Amarties](https://open.spotify.com/track/7AaxFtkinG6n5fw6ZUuxHE) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Amarties](https://open.spotify.com/album/0NkYD3ByHYn3i0iTMPzHHu) | 2:45 | 2022-01-19 | 2022-08-21 |
 | [Amnesia](https://open.spotify.com/track/7AeJhLrw5gWEh2p0yQKAGE) | [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH) | [Amnesia](https://open.spotify.com/album/1RsM7nU3ULcuuL6H11EsGP) | 3:20 | 2021-06-04 | 2021-10-23 |
 | [AMOR](https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Rackattack 2](https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8) | 3:14 | 2022-07-15 |  |
 | [An](https://open.spotify.com/track/2w40y6rlhc1FzbtsV2QrU5) | [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [An](https://open.spotify.com/album/4ZYLzSRoK60bAvqUwcGFVl) | 3:43 | 2021-12-14 | 2022-04-02 |
@@ -459,6 +459,7 @@
 | [Mad Clip Forever](https://open.spotify.com/track/0B3sEl2578zaw5SqbdlNo8) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 2:00 | 2022-04-29 | 2022-05-08 |
 | [Madagaskari](https://open.spotify.com/track/0siTSPLhMHDG6ZpOt1yZYn) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [A1Roth](https://open.spotify.com/artist/5WOdGYPMv30vcyOjUjoV1B) | [Interrail](https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34) | 3:30 | 2022-04-27 | 2022-04-29 |
 | [Madame](https://open.spotify.com/track/3KNWjZgf92VwvWAselZ6sP) | [Kings](https://open.spotify.com/artist/72zZ87G4L9Lfx0mstygJVE), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Madame](https://open.spotify.com/album/4TTT9iRgJzF4HV4N5xv8Tc) | 3:05 | 2022-04-16 |  |
+| [Made In Albania](https://open.spotify.com/track/0ur3QPKHUf7RBWsjEq8VyM) | [Leaderbrain](https://open.spotify.com/artist/5q2IdmHx3SBYq1l5IixqTZ), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Gosei](https://open.spotify.com/artist/59HgkH4dmqGMfeU3gjchR2) | [Made in Albania](https://open.spotify.com/album/3qA9KmtoADaxVr1QIlmB5m) | 2:24 | 2022-08-20 |  |
 | [Made In Athens](https://open.spotify.com/track/2BQaCQnElkeHAIt9V8BH8T) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [GoldenChild](https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0) | [Made in Athens](https://open.spotify.com/album/7ixSPgCEincMrIGIt25vi0) | 4:20 | 2022-01-22 | 2022-01-27 |
 | [MADMOISELLE \(feat\. LIGHT\)](https://open.spotify.com/track/6UizjBGVLuQinxKR0qCoxH) | [Majoe](https://open.spotify.com/artist/1a71mkqZC54WhePSbnq7RK), [Silva](https://open.spotify.com/artist/7ja62ZARrm20k4Sowt0ab8), [Light](https://open.spotify.com/artist/0dpBmz9YaKFRxKG3q1CzpG) | [LOCKDOWN](https://open.spotify.com/album/31xTDDooz03CHm6iLru68J) | 3:03 | 2021-04-04 | 2021-04-08 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-11 |

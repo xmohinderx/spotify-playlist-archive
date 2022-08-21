@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 
 > The best tracks from the great Miles Davis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,815 likes - 75 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,900 likes - 75 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 32 | [Human Nature](https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [You're Under Arrest](https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o) | 4:29 |
 | 33 | [Tutu](https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Tutu](https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7) | 5:16 |
 | 34 | [Amandla](https://open.spotify.com/track/2Ovs392mQ8DrOdYfgCLXI6) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Amandla](https://open.spotify.com/album/0fabOosWong8kopy57JitO) | 5:21 |
-| 35 | [Kelo](https://open.spotify.com/track/2aYz8YsMwlTJ468YufM8yA) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Jazz Profile](https://open.spotify.com/album/29fodpqtlnqDlZHlnmrbB9) | 3:18 |
+| 35 | [Kelo](https://open.spotify.com/track/0x6iYV6HjYocs3rphJgnNj) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Finest](https://open.spotify.com/album/7iZcta4q9Z5Sk3Mvhe3Kbp) | 3:18 |
 | 36 | [Joshua](https://open.spotify.com/track/3M398IT8mJzKWUGOmO16GG) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps: The Complete Columbia Recordings Of Miles Davis 1963\-1964](https://open.spotify.com/album/1cURRxhG6jxK2mIcPzlNEs) | 5:24 |
 | 37 | [I Loves You, Porgy \(From "Porgy & Bess"\)](https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:13 |
 | 38 | [My Old Flame](https://open.spotify.com/track/3qyYE0MZUhzwCeOJBXXJfA) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Platinum Collection](https://open.spotify.com/album/2mwqZ9EDDJB7iYxBrAVotJ) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 74 | [On The Corner \- Take 4](https://open.spotify.com/track/3R1vAfFxWwZvli1NepW9TY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete On The Corner Sessions](https://open.spotify.com/album/4ORrWT9p5FH1jhTCATKEcj) | 5:16 |
 | 75 | [Bluebird \- New Take 1](https://open.spotify.com/track/1qJXyjyunPZG7lnvwRNGiI) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker Memorial, Vol\. 1](https://open.spotify.com/album/1ZVtgzuTIOTBKn4LmgNwTX) | 2:55 |
 
-Snapshot ID: `MTY1MTA1Mjk3MCwwMDAwMDAwMDRlZDBhM2M0YTgwMWQ2MWE1YjNiNDU3MjdjODhmZDIx`
+Snapshot ID: `MTY1MTA1Mjk3MCwwMDAwMDAwMGU0YjQ3OWM5MTVkMzk4YmNiN2JiNjllYWViZGIzY2M1`

@@ -890,6 +890,24 @@
     },
     {
       "album": {
+        "name": "Relaxing Piano (Neoclassical Sessions)",
+        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
+      },
+      "artists": [
+        {
+          "name": "Leonard Czernay",
+          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131483,
+      "name": "Derri\u00e8re le carreau ferm\u00e9",
+      "url": "https://open.spotify.com/track/0PeioVXpgkx0gAjjXWZgrI"
+    },
+    {
+      "album": {
         "name": "Derri\u00e8re le carreau ferm\u00e9",
         "url": "https://open.spotify.com/album/2AkX2csT7kUNklUxwQQOpB"
       },
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 131483,
       "name": "Derri\u00e8re le carreau ferm\u00e9",
       "url": "https://open.spotify.com/track/659EQJMW0XdMy1aLN4Kcxo"

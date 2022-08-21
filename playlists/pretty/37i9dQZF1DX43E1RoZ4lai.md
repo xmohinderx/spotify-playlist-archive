@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Julius Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,515 likes - 200 songs - 17 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,534 likes - 200 songs - 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 6 | [Prelude to a Kiss](https://open.spotify.com/track/04GQoL73mzVbe6GX7cwSKB) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 5:20 |
 | 7 | [Ana Maria](https://open.spotify.com/track/0J77Bn0nBHgttG27Hab2L7) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Ana Maria](https://open.spotify.com/album/0keaEB8bKZgfg61N8qsDD0) | 5:46 |
 | 8 | [If I Should Lose You](https://open.spotify.com/track/4da36q6VCwrg4f5pIYx4uf) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [If I Should Lose You](https://open.spotify.com/album/2rTHaKAdXTq8B4XHmWjI4d) | 5:27 |
-| 9 | [Blood Diamond](https://open.spotify.com/track/2nYINWjMcy78mubSgJHsT0) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [My Old Flame](https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo) | 6:52 |
+| 9 | [Blood Diamond](https://open.spotify.com/track/7sUKfnaws1kMN6Bjykg4ZW) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [European Quartet: Diamonds and Other Jewels](https://open.spotify.com/album/1dWMdUU4sEl2T5hb4umAZp) | 6:52 |
 | 10 | [Street of Dreams](https://open.spotify.com/track/4KSQQ77ORrYomq98V1sN1w) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [The Two Sounds](https://open.spotify.com/album/1SBrOFfSsHM8vomhyUXrM5) | 4:40 |
 | 11 | [Blame It on My Youth](https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 8:06 |
 | 12 | [For Heaven's Sake](https://open.spotify.com/track/6u4xBwvs0pkkgVyMXrFC9N) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [All Things Are](https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ) | 11:52 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [A Life's Flavour](https://open.spotify.com/track/4uSlGTJtNF5f8vxhyEGdCS) | [David Tixier Trio](https://open.spotify.com/artist/4WCYs0rJYDXIP4iaI3edkX) | [Because I Care](https://open.spotify.com/album/5siUbHyhZOKb8DYSFoQTrf) | 3:51 |
 | 200 | [Käkkärämänty](https://open.spotify.com/track/2bQ3deLJ5I8LS9fHrvDigs) | [Jussi Fredriksson Trio](https://open.spotify.com/artist/5o52BOj8untw6hOzTjmRsi) | [Archipelago Sea Tales](https://open.spotify.com/album/4Xsny0csM7kVuQ9iiUoaBl) | 6:52 |
 
-Snapshot ID: `MTY1NjA0MzMyMCwwMDAwMDAwMDEyYWQzMDdhNjg4YTNjNjk1M2MxZDc3NTA4NmZhMjJm`
+Snapshot ID: `MTY1NjA0MzMyMCwwMDAwMDAwMDI2M2QxYjBjZTU1ZTM5NDhjYTA3NWNmZjU3OTQwYzI5`

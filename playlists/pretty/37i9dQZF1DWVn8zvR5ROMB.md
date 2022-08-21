@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Blake Shelton, Tyler Hubbard, Maddie & Tae and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,778 likes - 61 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,159 likes - 61 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 23 | [Seeing Her](https://open.spotify.com/track/3EaVTayYv9JwIRJOFQkk9C) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [Seeing Her](https://open.spotify.com/album/2o0M3ca8g9IK8ebb0QGxxb) | 3:06 |
 | 24 | [Rural Round Here](https://open.spotify.com/track/4Jiz8LAv77QHCcWejSXc8c) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Rural Round Here](https://open.spotify.com/album/7yEssCpfwKq7FdQ51FQVw0) | 2:57 |
 | 25 | [Bird Dog](https://open.spotify.com/track/27W4Reg4xwQIlQkDffGqc2) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Bird Dog](https://open.spotify.com/album/6kjkKqlGi96MSKcdP8Ayv8) | 3:34 |
-| 26 | [Secrets](https://open.spotify.com/track/1wILQICSoczb6nktX8jAD8) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/3lsVuRFJgpcomfPtZheSHB) | 2:37 |
+| 26 | [Secrets](https://open.spotify.com/track/6MTwSVy7Ch0cNa1fVx79k3) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/76GeMEfXKBtKjT3lLivUGG) | 2:37 |
 | 27 | [Wheels on the Truck](https://open.spotify.com/track/4m6o8yG2IdrwRginGYQBvw) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Wheels on the Truck](https://open.spotify.com/album/7kxsF67uyvDP1j7BxBZxg7) | 3:12 |
 | 28 | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9) | 4:14 |
 | 29 | [Cold Hearted](https://open.spotify.com/track/4CqCfVF7Zvr3HIt8nr1P98) | [Sunset West](https://open.spotify.com/artist/6OFn7TgXCd9qdn2lMUX7T6) | [Cold Hearted](https://open.spotify.com/album/2ZHErtnhlEJrgfDlyQZH8w) | 3:42 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 60 | [HANGING AROUND](https://open.spotify.com/track/1AQItsPvGldd8jb6iT8mQd) | [Ashley Walls](https://open.spotify.com/artist/1sO7K6dVf1ZYa4XNZVozBw) | [HANGING AROUND](https://open.spotify.com/album/3arrK9JktjsqHaReGEELdn) | 3:04 |
 | 61 | [Gin & Tonic](https://open.spotify.com/track/4l9z4WbdejzHgHs8kJJhwd) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [Gin & Tonic](https://open.spotify.com/album/4mNneM9Mnwdp4JijzcpNar) | 3:32 |
 
-Snapshot ID: `MTY2MDg4NDI4NywwMDAwMDAwMDFhNTkyYTEyNDc5YjEwMzVjNTkyMmNkMTNkMGVkYzMz`
+Snapshot ID: `MTY2MDg4NDI4NywwMDAwMDAwMGE2OTdiMzkxNzhlMmY3MzU1ZmRmOTY0YmE5ZTQ1OTRh`

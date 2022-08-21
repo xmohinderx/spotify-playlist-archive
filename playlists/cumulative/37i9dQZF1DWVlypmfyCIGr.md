@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ナツノセ
 
-1,843 songs - 4 day 17 hr 38 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+1,844 songs - 4 day 17 hr 42 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -789,7 +789,8 @@
 | [This Hell](https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Hell](https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E) | 3:56 | 2022-05-24 | 2022-06-15 |
 | [Tightrope](https://open.spotify.com/track/19TNKUCodtNmuEnypDZe4u) | [UshioReira](https://open.spotify.com/artist/2oaEUOvg9jABxWwVPUsepm) | [Tightrope](https://open.spotify.com/album/62jFAbJiXtmcALmL7JMAOF) | 4:55 | 2022-07-25 | 2022-08-09 |
 | [Time goes by](https://open.spotify.com/track/2J4E9rToq5B1drOViftZao) | [kolme](https://open.spotify.com/artist/6XkazkLIatYdxRlOdOp5Et) | [Hajimete No Mini Album](https://open.spotify.com/album/0Pwe1Rmu3peLmoTx5sSiDE) | 4:30 | 2022-01-31 | 2022-02-15 |
-| [Tiny](https://open.spotify.com/track/71uTIaFwwzWFd78NWdc2nn) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Tiny](https://open.spotify.com/album/5Oea2U3wxV0Q6Uv3sRC0Ym) | 4:02 | 2022-08-15 |  |
+| [Tiny](https://open.spotify.com/track/4UNJVj36m9EeEVVtgn6cDW) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Whale\-fall Community](https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr) | 4:01 | 2022-08-15 |  |
+| [Tiny](https://open.spotify.com/track/71uTIaFwwzWFd78NWdc2nn) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Tiny](https://open.spotify.com/album/5Oea2U3wxV0Q6Uv3sRC0Ym) | 4:02 | 2022-08-15 | 2022-08-21 |
 | [TO RI RI 空みたいに](https://open.spotify.com/track/1bVKXCaXCnXi2sj3MVWplR) | [Lisa 13](https://open.spotify.com/artist/34SH1BVYDQSsoUlWfhmkFJ) | [TO RI RI 空みたいに](https://open.spotify.com/album/2sSssgL8kMety4JKFkvdDu) | 3:44 | 2022-03-14 | 2022-03-22 |
 | [to your star](https://open.spotify.com/track/0iHVVelI5fuLzL9v5NDy9f) | [湧](https://open.spotify.com/artist/2WLQEvRcGXbXKqoEgYV3sK) | [to your star](https://open.spotify.com/album/5mq21t2yWGnMvE3dXZgXJv) | 3:37 | 2021-12-29 | 2022-01-25 |
 | [Tokimeki](https://open.spotify.com/track/18gB0d6DaRPvrQBbl7WEuk) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [Tokimeki](https://open.spotify.com/album/3Cx94e8flSlI3WE5pGrQNx) | 3:32 | 2021-10-09\* | 2021-10-20 |

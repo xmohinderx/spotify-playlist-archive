@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Mi Amigo Invencible.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,781 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,795 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 36 | [El Secreto](https://open.spotify.com/track/3twbFW9imTGPWUus8WUNAh) | [Kike Van](https://open.spotify.com/artist/78CWfZJndi98pt1PUieAve) | [El Secreto](https://open.spotify.com/album/3879pLjCvgFtfYN6M6FbYA) | 2:21 |
 | 37 | [Ojos de Diamante](https://open.spotify.com/track/4hJdU9SowEz72lSAO29Oqx) | [D3ndron](https://open.spotify.com/artist/56ygAqX8Is6Qmb3NIllBxT) | [Ojos de Diamante](https://open.spotify.com/album/3UEAwHSThZQaIY85ST3uyU) | 4:15 |
 | 38 | [Acantilados](https://open.spotify.com/track/0CqNDLl4FNttIkXRsGseGW) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Acantilados](https://open.spotify.com/album/6zwTdrtd3h7xbuTK3a6fpM) | 3:11 |
-| 39 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/2t3xkD6kiwF0w0dqChNS2P), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
+| 39 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
 | 40 | [Bahía Escondida](https://open.spotify.com/track/2yJcCMLCwIWZzwqZ6EuAsy) | [Juniors del Gueto](https://open.spotify.com/artist/4zaZ2uhAnklLYP9IupJ8hN) | [Bahía Escondida](https://open.spotify.com/album/6Bx0GbFzisIhH30MluX4cb) | 3:45 |
 | 41 | [Rayadas](https://open.spotify.com/track/3mYsbwDd0FRScBjlakgz8e) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM) | [Rayadas](https://open.spotify.com/album/6zEtqSrflrYuIlbQxYiQ4l) | 2:10 |
 | 42 | [Jardin de Rosas](https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C) | [Ramona Vee](https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B) | [Jardin de Rosas](https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR) | 3:22 |

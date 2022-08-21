@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-431 songs - 23 hr 16 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+433 songs - 23 hr 22 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Freefall](https://open.spotify.com/track/5sGZrYjR38XjepfN2b7Pkx) | [ESPER](https://open.spotify.com/artist/4qxyQRkuA00BdgRmKhzSC2), [LOCKBOX](https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro), [Isaiah Brown](https://open.spotify.com/artist/7vKhc6hNiiTFBaW96I27wy) | [Freefall](https://open.spotify.com/album/58FSZ8ViWJ3HFBVf3Zxn9w) | 3:22 | 2022-01-14 | 2022-02-10 |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-01-25 |  |
 | [Fuck U Love U](https://open.spotify.com/track/33JtWDrMyTFRQTioosQwtg) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0) | 3:10 | 2022-05-13 |  |
+| [Getting That](https://open.spotify.com/track/4Hxz97CwxzlqlK7W8Kxntf) | [Julius Kasa](https://open.spotify.com/artist/1JZo7N1gtIboIvIuCgzFE2), [Mumbay](https://open.spotify.com/artist/4I66jYiJWLDzeCfHEOuFp9) | [Getting That](https://open.spotify.com/album/2YiypdIo6uyD5inxXUrRiD) | 3:00 | 2022-08-20 |  |
 | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l) | 3:32 | 2022-07-18 | 2022-08-14 |
 | [Go Home](https://open.spotify.com/track/0e7Ana1Q5SrYM0Va7z2V7i) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH) | [Go Home](https://open.spotify.com/album/6izq0ZIJydzdk4eTG36bWZ) | 3:12 | 2022-01-14 | 2022-03-05 |
 | [Go Off](https://open.spotify.com/track/7peXYPvAVHw77scTuY5TWL) | [Haterade](https://open.spotify.com/artist/57mNUYCvfPsEKFMrA678JH), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:05 | 2022-06-16 |  |
@@ -348,6 +349,7 @@
 | [Shadows](https://open.spotify.com/track/6CgyavIuuXYEmoFppku4X0) | [Osias](https://open.spotify.com/artist/7j1BTr4Qn3umJ2xK15ZFtn), [Ivoryghost](https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:30 | 2022-06-16 |  |
 | [Shaman](https://open.spotify.com/track/1hLTkECgNIUvlRWKSDNKUp) | [Lenny](https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU), [SL!DE](https://open.spotify.com/artist/1lKzr6x82kX0Rb7t3Slskc) | [Shaman](https://open.spotify.com/album/25vVnekZNKaLiLnKads0vB) | 2:20 | 2022-07-08 |  |
 | [Shanghai](https://open.spotify.com/track/3bLfSmgzIi9LjWbeWS1M3Z) | [CRÈME](https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Shanghai](https://open.spotify.com/album/2CDYL6SIyBsFVczZkJtoAv) | 2:26 | 2022-02-18 | 2022-03-19 |
+| [Show You](https://open.spotify.com/track/5N52q31YsSTdUquvBnht2w) | [Edgar Willow](https://open.spotify.com/artist/0aSSG3PZeLcmBgFyQI5RXL) | [Show You](https://open.spotify.com/album/6CcCWAyJOwPSBfFrQw4odm) | 2:45 | 2022-08-20 |  |
 | [Sidewalk](https://open.spotify.com/track/2F8ds04UtncZxlcnVTA7Jx) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Sidewalk](https://open.spotify.com/album/2i6bZqFgNcvoKYvV2ezw6K) | 3:21 | 2022-06-24 | 2022-07-29 |
 | [Silence](https://open.spotify.com/track/4QxPnild2hz6dk4Xjwx4jc) | [Mixed Signals](https://open.spotify.com/artist/3LesrToD7rQlHqkxCmJyuo), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Silence](https://open.spotify.com/album/0fIZ72yzouEt4MM4jcnj4A) | 3:30 | 2022-01-14 | 2022-02-26 |
 | [So Fucked Up](https://open.spotify.com/track/1wJXjJlX2bgcNTlqR1N8Ss) | [Aspen King](https://open.spotify.com/artist/1tJuVa4e8TF5YrJhwHBZaE), [44stance](https://open.spotify.com/artist/412wG46pUp52x0jvVZ0epQ) | [So Fucked Up](https://open.spotify.com/album/1tYINWoPffLlj9dTGEJio5) | 3:24 | 2022-03-04 | 2022-04-02 |

@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 537226,
       "name": "Don't Lie To Me",
       "url": "https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma"
@@ -979,6 +979,24 @@
       "duration_ms": 144600,
       "name": "Wham",
       "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
+    },
+    {
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "You'll Be Mine",
+      "url": "https://open.spotify.com/track/39XMzGy9hJHGVHgUy8uPhE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO35m9Q4"

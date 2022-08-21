@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,260 likes - 105 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,276 likes - 105 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 6 | [Chemical High](https://open.spotify.com/track/01mt0RLXC0DQ4VPQpV6WWy) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Chemical High](https://open.spotify.com/album/6NPgAZh5MU5W7P4EjyLRZ7) | 2:38 |
 | 7 | [Make You Say](https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Make You Say](https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2) | 3:26 |
 | 8 | [Electricity](https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Electricity](https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV) | 2:34 |
-| 9 | [5 4 3 2 1](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [5 4 3 2 1](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 |
+| 9 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 |
 | 10 | [BRODIE](https://open.spotify.com/track/2P2KwUw2Tdhry4DX34WkSQ) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [BRODIE](https://open.spotify.com/album/731Z71rhXYS6ZYR2cmqR2n) | 2:41 |
 | 11 | [My G \(feat\. Ed Sheeran\)](https://open.spotify.com/track/6Iqz3QB6zSdn1N61acinau) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Close To Home](https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R) | 3:18 |
 | 12 | [Live And Die \(feat\. Sophie Simmons\)](https://open.spotify.com/track/0QR4vZ9iuNjrkWYNLoVAnM) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Live And Die \(feat\. Sophie Simmons\)](https://open.spotify.com/album/3CSYACo4ZoOGR9u8HLdmMs) | 2:54 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 36 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 |
 | 37 | [Somebody](https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Somebody](https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8) | 3:19 |
 | 38 | [Q\-Pid](https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Q\-Pid](https://open.spotify.com/album/5yDJEZiJ35JKdPcEBEWiYz) | 2:11 |
-| 39 | [No Time](https://open.spotify.com/track/5ukf2b3SjLBDpSLlddBegy) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [No Time](https://open.spotify.com/album/5BiqZqNoE5PtNpxDpIyIEf) | 2:40 |
+| 39 | [No Time](https://open.spotify.com/track/5ukf2b3SjLBDpSLlddBegy) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [No Time](https://open.spotify.com/album/5BiqZqNoE5PtNpxDpIyIEf) | 2:38 |
 | 40 | [Gatubarnen](https://open.spotify.com/track/6W7QLX5jOhFYbueY9cYpxw) | [Jojo](https://open.spotify.com/artist/6VUBQzpUwDxhMeNs6wk88S) | [Gatubarnen](https://open.spotify.com/album/1J432uc4KGdZdKBKUA2ykm) | 2:44 |
 | 41 | [Beyblade](https://open.spotify.com/track/0njgATLAgSORPAXNgqxHul) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Beyblade](https://open.spotify.com/album/0KGf9O3hCe5JbgUMCXh6Dv) | 2:12 |
 | 42 | [Look To Him](https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Look To Him](https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1) | 4:11 |

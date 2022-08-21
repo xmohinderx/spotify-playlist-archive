@@ -608,24 +608,6 @@
     },
     {
       "album": {
-        "name": "3 HEADS*",
-        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "date_added": "2022-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171842,
-      "name": "3 HEADS*",
-      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
-    },
-    {
-      "album": {
         "name": "The Joy of Music, the Job of Real Estate",
         "url": "https://open.spotify.com/album/4EyXFhtdGeaIGh5i5IkBtv"
       },
@@ -4262,7 +4244,7 @@
       "artists": [
         {
           "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/2t3xkD6kiwF0w0dqChNS2P"
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
         },
         {
           "name": "Rodrigo Blanco",
@@ -66225,6 +66207,24 @@
       "duration_ms": 283955,
       "name": "Threatening Each Other re: Capitalism",
       "url": "https://open.spotify.com/track/4lUVbiWiti2F0oOU8SqV1u"
+    },
+    {
+      "album": {
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "album": {
