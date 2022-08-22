@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming music.
 
-392 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/0sIE9FQkVbWlp9u6z9Quwo)
+393 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/0sIE9FQkVbWlp9u6z9Quwo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,8 @@
 | [Sonnen Sterne](https://open.spotify.com/track/1uKZ6TyMFXuvu9sZWpN202) | [Che Lan](https://open.spotify.com/artist/7spHGT6sHhYOiJN52obbbM) | [Tal Weg](https://open.spotify.com/album/4nZmqnXwBWbaPUvr44VG3u) | 2:59 | 2022-04-22 |  |
 | [Sostenuto](https://open.spotify.com/track/2pmzW6PbqlAunOXe0AdYIw) | [Camilla Solheim](https://open.spotify.com/artist/0paoGI3ZzVd4kwjmsJI6B0) | [Sostenuto](https://open.spotify.com/album/5bve8ozqZzt01twy16odc3) | 2:09 | 2022-04-22 |  |
 | [Space Comfort](https://open.spotify.com/track/5mSl1LEERyevaU6mykcfh0) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Safe and Sound](https://open.spotify.com/album/116LyDErcLTqD1BBQ0nBJz) | 2:21 | 2022-04-22 | 2022-05-28 |
-| [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-04-22 |  |
+| [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-07-27 |  |
+| [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-04-22 | 2022-08-22 |
 | [Springtime Afternoons](https://open.spotify.com/track/0V2qmRvvcoXijqbvL3vzPb) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Springtime Afternoons](https://open.spotify.com/album/4n4SNcxSj6m7D2tqDFyNfi) | 1:49 | 2022-07-27 |  |
 | [Spur Of The Moment](https://open.spotify.com/track/6io03Imv3ItVjAhrBat1WY) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Spur Of The Moment](https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz) | 2:50 | 2022-04-22 | 2022-07-28 |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-04-22 |  |

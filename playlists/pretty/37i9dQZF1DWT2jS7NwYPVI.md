@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Beauty School Dropout
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,077 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,144 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 45 | [SOS \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/track/2F2GeLnaoaCed5E2qP4UJO) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP), [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [SOS \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0tZ4mjASeCuSeTHueHQqoQ) | 2:39 |
 | 46 | [Bad Days](https://open.spotify.com/track/0kdMzZ1w3x4PE8gHfkhvgW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Bad Days](https://open.spotify.com/album/39eAX2WHDwMsa0q7Wrd0Iz) | 2:22 |
 | 47 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 |
-| 48 | [Scared Together](https://open.spotify.com/track/1izfiChi4WU4EVXhhRtbcR) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Scared Together](https://open.spotify.com/album/48lWaEKSlFV0VzV0B5PWle) | 3:56 |
+| 48 | [Scared Together](https://open.spotify.com/track/44KmH8YZX9kypWnxcQwkw5) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Physical Thrills](https://open.spotify.com/album/2NqgOQKY5RB7UPmnhcyWEb) | 3:56 |
 | 49 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 |
 | 50 | [SENSORYOVERLOAD\*](https://open.spotify.com/track/5bpeE40GHCJRZooAWPGAKt) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL) | 3:15 |
 | 51 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [dont wanna die](https://open.spotify.com/track/1UtvJgyt2sviZ5J3EGyLWN) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [dont wanna die](https://open.spotify.com/album/5XJSnPoCHqeng4OvkeejrH) | 2:49 |
 | 125 | [Cruise Control](https://open.spotify.com/track/7yJxtJ1Oi62vfmhFmtNqVh) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Cruise Control](https://open.spotify.com/album/2KWXc9Ja79kenCq55S9S7m) | 2:34 |
 
-Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMDQ2YWE4MDMzY2I1MzQ3NjRjYzY0ZDVkZTZlOGEzZmMw`
+Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMGRiOTVhY2U5Y2ZhOTM3NDA0MzgyYjYxNjNhNjA3NTkw`

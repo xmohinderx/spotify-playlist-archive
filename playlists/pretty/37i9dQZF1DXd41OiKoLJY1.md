@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Fateeha, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,878 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,883 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 20 | [Half Love](https://open.spotify.com/track/4Oy1lxi9HUox4E81EWPqln) | [Kayla Rivera](https://open.spotify.com/artist/2RIwZQX2wtee7rC9HuAniF) | [Half Love](https://open.spotify.com/album/6Nz6bQZN8Mgjs4xdZSQgxk) | 4:14 |
 | 21 | [Hello Vegas](https://open.spotify.com/track/1I5ir36i4MUQclxp9PWZB9) | [february bank](https://open.spotify.com/artist/69dHAdz8lUpJir75KFfdlY) | [Hello Vegas](https://open.spotify.com/album/6900aefLceRVtvlhjRZX9B) | 4:03 |
 | 22 | [Kailan](https://open.spotify.com/track/52Yq7wduDIG5MmFD38JlHK) | [Nikki Bagaporo](https://open.spotify.com/artist/14ac78ehOboCnImB2jAjNm) | [Kailan](https://open.spotify.com/album/00yf5ep7bowGG37RbNtUAe) | 3:53 |
-| 23 | [Makapangyarihang bakla](https://open.spotify.com/track/2yVmk6TaxxWhzzhs5L3Fdm) | [Mejico Legal](https://open.spotify.com/artist/0Rf6qXeI20fxp70GIpwsSw), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [Makapangyarihang bakla](https://open.spotify.com/album/6WbIH8tNF8olrQBXG8CV4h) | 3:20 |
+| 23 | [Makapangyarihang Bakla](https://open.spotify.com/track/2yVmk6TaxxWhzzhs5L3Fdm) | [Mejico Legal](https://open.spotify.com/artist/0Rf6qXeI20fxp70GIpwsSw), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [Makapangyarihang Bakla](https://open.spotify.com/album/6WbIH8tNF8olrQBXG8CV4h) | 3:20 |
 | 24 | [Itsapwera](https://open.spotify.com/track/2rjXoUtpKdlQyysKjtqjHX) | [Pik Nik](https://open.spotify.com/artist/6sunnm33ZrsSZHQYYAVWoU), [Daniella Silab](https://open.spotify.com/artist/4psqJNcqOn0RtOzMbCXkV6) | [Itsapwera](https://open.spotify.com/album/5gq2DESulguY6y1xjKJmDd) | 3:37 |
 | 25 | [Para Sa'yo](https://open.spotify.com/track/59mJoiKnEenpiYQOqUZjgZ) | [Shanaia Gomez](https://open.spotify.com/artist/5EtZxgXZdFjFu0ZdkAn6TV) | [Para Sa'yo](https://open.spotify.com/album/67GpchLrd0IXQn3DjiP019) | 2:34 |
 | 26 | [Sagot](https://open.spotify.com/track/3KrQ9wy8yloPmwWvHjWLTV) | [Salazar](https://open.spotify.com/artist/3ST9RflWZByhR6QsTKNHi1) | [Sagot](https://open.spotify.com/album/0EefCriok1Scsye37Vz7LG) | 2:56 |

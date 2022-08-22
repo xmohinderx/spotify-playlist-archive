@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Kansado
 
-236 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/3EWDflGVJ6h7JcHAvsf1Hs)
+237 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/3EWDflGVJ6h7JcHAvsf1Hs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 | 2022-02-11 |  |
 | [CANDLELIGHT](https://open.spotify.com/track/6IPuOgW2UAKFc7YCKrSjER) | [Joshua Milo](https://open.spotify.com/artist/35mfohrC8ta589xwv2und2) | [CANDLELIGHT](https://open.spotify.com/album/4oWfpdMUmJJ0DKe8qiP9uC) | 7:03 | 2021-08-20 | 2022-07-27 |
 | [Chandler](https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Chandler](https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8) | 3:41 | 2022-02-11 | 2022-07-29 |
+| [Charlier](https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [INWANE](https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF) | 3:51 | 2021-07-23 |  |
 | [Charlier](https://open.spotify.com/track/55ZzaH20npWGDLevSLWSWJ) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Charlier](https://open.spotify.com/album/1GdfpqOYJGO0QONj1ccSyD) | 3:51 | 2021-07-23 | 2022-07-21 |
 | [Chem Dawg](https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Stimuli](https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt) | 2:24 | 2022-04-11 |  |
 | [City Lights](https://open.spotify.com/track/12aJqPyNE7c5Uk7LaOjYEu) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [City Lights](https://open.spotify.com/album/4bNax53ytZXfubuArSeyAK) | 2:51 | 2021-11-05 | 2022-07-27 |
@@ -99,7 +100,7 @@
 | [HPHCPH.MMBL](https://open.spotify.com/track/3sCy3QvSeYEzvDvB4ExqPm) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon Soulful Samurai Poole](https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ) | [HPHCPH.MMBL](https://open.spotify.com/album/6XzFJJ2KxcHSlOpkuK50a9) | 4:24 | 2022-05-27 | 2022-07-29 |
 | [HULO](https://open.spotify.com/track/2qfeVzDWRkSX6oq0pNfvN5) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [HULO](https://open.spotify.com/album/4NbhvSDeCCb8ZpgWFQEFlP) | 4:15 | 2022-05-20 | 2022-07-24 |
 | [Hummingbird](https://open.spotify.com/track/4I0KjYxuQtNov6MHuuL6zt) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Hummingbird](https://open.spotify.com/album/4s1FfyvuF0u8WntCqgTdn8) | 3:16 | 2022-03-25 |  |
-| [I LOVE BLACK WOMEN](https://open.spotify.com/track/0kUdHd3S9GZsmFxNrBqp2w) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO) | [I LOVE BLACK WOMEN](https://open.spotify.com/album/7uNtIh08dd6YBlPQGPOlSf) | 2:35 | 2022-05-16 |  |
+| [I LOVE BLACK WOMEN](https://open.spotify.com/track/0kUdHd3S9GZsmFxNrBqp2w) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO) | [I LOVE BLACK WOMEN](https://open.spotify.com/album/7uNtIh08dd6YBlPQGPOlSf) | 2:35 | 2022-05-16 | 2022-08-22 |
 | [Idea](https://open.spotify.com/track/3Ja8BDHAiBr9jowy51tNdF) | [Mordela Morana](https://open.spotify.com/artist/4lV3JsD5HOnBjOHq1sgkwW) | [Idea](https://open.spotify.com/album/4WZCVruvmjUpUCH9RDz7yu) | 5:01 | 2022-07-22 | 2022-08-19 |
 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 | 2021-06-18 | 2022-08-14 |
 | [Imani](https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Imani](https://open.spotify.com/album/02qRkE8eImCiExxf2r2bJB) | 1:57 | 2022-02-11 |  |

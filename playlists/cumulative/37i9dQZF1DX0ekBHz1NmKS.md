@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-531 songs - 1 day 4 hr 10 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+532 songs - 1 day 4 hr 13 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [Used To](https://open.spotify.com/track/70QyATpmT1mt7JMeDzrInv) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [EEVA](https://open.spotify.com/artist/1pJgpp0DoZYerUf0SkeZuG) | [Used To](https://open.spotify.com/album/4a2Zs2yPLfNY1tg4zHZKnU) | 2:32 | 2022-03-10 |  |
 | [Ut med allt](https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ut med allt](https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE) | 2:21 | 2022-04-07 |  |
 | [Vacay](https://open.spotify.com/track/4j5Wacxdpt9lIVJTx1g9QE) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [call dad](https://open.spotify.com/album/5tf1pWgqK4PTvkH1B4xynA) | 4:18 | 2022-03-24 | 2022-04-20 |
-| [Vad har du gjort](https://open.spotify.com/track/222DxaxvpiumRDT0xVM6Vj) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Vad har du gjort](https://open.spotify.com/album/6IIPIjFlZXZGJ4tMLSdGmz) | 3:11 | 2022-03-10 |  |
+| [Vad har du gjort](https://open.spotify.com/track/222DxaxvpiumRDT0xVM6Vj) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Vad har du gjort](https://open.spotify.com/album/6IIPIjFlZXZGJ4tMLSdGmz) | 3:11 | 2022-03-10 | 2022-08-22 |
 | [Var är du?](https://open.spotify.com/track/3qCIvPMbVj6zPjDwVu0EXW) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:14 | 2021-12-16 | 2022-03-10 |
 | [Vart jag mig än vänder](https://open.spotify.com/track/7LSJsHMkNJ10DLteRSvd0V) | [Emil Gustafsson](https://open.spotify.com/artist/0Xf175P93hI9EDPHsPJlQG), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [Vart jag mig än vänder](https://open.spotify.com/album/2uAKul7JL6BAboy4LGJ53F) | 3:12 | 2021-12-16 | 2022-03-02 |
 | [Vart Jag Varit \(Je Viens De Rien\) \[feat\. Maxida Märak\]](https://open.spotify.com/track/5KuZCxniWptnXpmxR3asrA) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl), [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Vart Jag Varit \(Je Viens De Rien\) \[feat\. Maxida Märak\]](https://open.spotify.com/album/1g0LUBd086L86cj5X40hxl) | 3:21 | 2022-03-17 | 2022-07-29 |
@@ -534,6 +534,7 @@
 | [Younger](https://open.spotify.com/track/5VehjO5iZZ9iitRbTt9P69) | [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id) | [Younger](https://open.spotify.com/album/14ZHCYhVN0B2dzY8GVISWO) | 3:06 | 2022-05-12 | 2022-05-14 |
 | [Your Number](https://open.spotify.com/track/7FxCwTyHGx7zLXx92Nomj9) | [Carl Storm](https://open.spotify.com/artist/06wZ6err8NOnJK992dWO5i) | [Your Number](https://open.spotify.com/album/0Z6bdj3jiXVtiV3ozBB0zW) | 2:45 | 2022-03-10 | 2022-06-01 |
 | [Yours](https://open.spotify.com/track/1Ibc9R9cQTESTZjGorWtRT) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Yours](https://open.spotify.com/album/1r8WGwm16WpWJX6nvO3IpO) | 3:24 | 2022-05-20 | 2022-07-27 |
+| [Ändstation](https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq), [Kid Eriksson](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Ändstation](https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K) | 3:20 | 2022-08-11 |  |
 | [Änglavakt](https://open.spotify.com/track/61inXZujdBrTs0WJiPjfjJ) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Änglavakt](https://open.spotify.com/album/69Qc9CUMoBx3TbqvFdCkRO) | 3:03 | 2022-02-26 | 2022-07-29 |
 | [Äntligen](https://open.spotify.com/track/0rDkGAmFy3mjGOg2E6AmZi) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [Äntligen](https://open.spotify.com/album/4h2sdTMIPJwARCNCIGuvzL) | 4:02 | 2022-06-23 | 2022-07-09 |
 | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI) | 2:59 | 2022-05-05 |  |

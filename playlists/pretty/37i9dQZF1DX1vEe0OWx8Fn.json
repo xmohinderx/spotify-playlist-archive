@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 51104,
+  "num_followers": 51191,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY4NzU5NSwwMDAwMDAwMGFiNTFmMWNiOWZhNTg0ZTE1MzMxN2FlZDYzYzYxMTMw",
+  "snapshot_id": "MTY2MDY4NzU5NSwwMDAwMDAwMDczZjRlNzAxNzEwOGNmMzdkOTc0OWViZjc5NjY3MTVl",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 143746,
-      "name": "brutal",
-      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Sempiternal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 228146,
       "name": "Can You Feel My Heart",
       "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 143746,
+      "name": "brutal",
+      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "in love",
-        "url": "https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 152933,
-      "name": "in love",
-      "url": "https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Tell Me About Tomorrow",
         "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "DIE.",
-        "url": "https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB"
+        "name": "in love",
+        "url": "https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl"
       },
       "artists": [
         {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 170000,
-      "name": "DIE.",
-      "url": "https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi"
+      "duration_ms": 152933,
+      "name": "in love",
+      "url": "https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "Unwanted",
+        "url": "https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 193441,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5lnKrYXmiDqVcHbhrLqSYx"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH"
+        "name": "DIE.",
+        "url": "https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB"
       },
       "artists": [
         {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
         }
       ],
-      "duration_ms": 173304,
-      "name": "{ The Dreamer\u2019s Hotel }",
-      "url": "https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL"
+      "duration_ms": 170000,
+      "name": "DIE.",
+      "url": "https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi"
     }
   ],
   "unique_name": "dear diary",

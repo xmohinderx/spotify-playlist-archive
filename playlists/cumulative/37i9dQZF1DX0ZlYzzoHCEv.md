@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-207 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
+208 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-05-06 | 2022-07-27 |
 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 | 2022-05-06 |  |
 | [heavensleep](https://open.spotify.com/track/7jqiOS9oxnSpCooYGHlNbR) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [heavensleep](https://open.spotify.com/album/3Rn7Lgvtgm3BIUpQBdFn0w) | 2:00 | 2022-05-06 | 2022-07-21 |
+| [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 | 2022-08-19 |  |
 | [High Enough \- Slowed](https://open.spotify.com/track/5JXOF1rt31rT07luk5wFE6) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [High Enough \(Slowed\)](https://open.spotify.com/album/22fEFCYPXjbw5hguumN7lR) | 3:21 | 2022-05-06 | 2022-07-29 |
 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 | 2022-05-13 | 2022-05-27 |
 | [i dont want that many friends in the first place](https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv) | 1:49 | 2022-05-27 | 2022-06-09 |
@@ -168,7 +169,7 @@
 | [SCOPAMIGO \- Hello Mimmi, Troyamaki, Aegeminus Remix](https://open.spotify.com/track/3GT5oIDNZ6ilSIo3CYps3l) | [Pop X](https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55), [Aegeminus](https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN), [Hello Mimmi](https://open.spotify.com/artist/3IifAvWIrEkwQlXr5e97w7), [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG) | [ENTER SANDWICH REMIX](https://open.spotify.com/album/2mPs6bW2veRe52nr7SPPUq) | 2:56 | 2022-05-13 | 2022-07-22 |
 | [Se loro](https://open.spotify.com/track/7iVSc4hYh8pdeYYTdfA6ti) | [Komatsu San](https://open.spotify.com/artist/2sBYIBND4uDW4CQ90ubLqw), [Le Sei](https://open.spotify.com/artist/6lCh0WAozR1HhxRSXntdk5) | [Se loro](https://open.spotify.com/album/7tCTyqzF7LZnzjPW8MMHxd) | 4:04 | 2022-05-06 | 2022-07-17 |
 | [SEMBRA UN RAVE :3](https://open.spotify.com/track/4agU4AR83ZUnk8706pPjMn) | [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k), [Hen848](https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo) | [SEMBRA UN RAVE :3](https://open.spotify.com/album/3xmPEvOPi8qithqGucq1p3) | 2:05 | 2022-06-24 | 2022-07-23 |
-| [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-05-06 |  |
+| [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-05-06 | 2022-08-22 |
 | [Shakerando \- Remix Napoletano](https://open.spotify.com/track/6ghhJSMWEyuZgmqndmWG1V) | [Black Emme](https://open.spotify.com/artist/0WRl37adNM64cIFdt5T07I) | [Shakerando \(Remix Napoletano\)](https://open.spotify.com/album/77uUCqw7RdnlxvjnJfOWNc) | 1:39 | 2022-06-03 | 2022-06-09 |
 | [SHUM](https://open.spotify.com/track/29bhnde7Gvnp7rvY9zsq5S) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [SHUM](https://open.spotify.com/album/5PHaqajzAEUhRPjwFYqjSx) | 2:52 | 2022-05-06 | 2022-07-28 |
 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 | 2022-05-06 | 2022-07-29 |

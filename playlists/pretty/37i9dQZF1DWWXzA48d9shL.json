@@ -1,12 +1,12 @@
 {
   "description": "Sing Me a Lullaby, My Sweet Temptation, the latest album by the $uicideboy$. ",
-  "num_followers": 259220,
+  "num_followers": 259496,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyNDA3NywwMDAwMDAwMGMwMjRhYmRmNjBmODI4MDA5MzU4ZmFmODFkNWVkOGRi",
+  "snapshot_id": "MTY2MTEwMTQyMiwwMDAwMDAwMDhmMzRiZDViODVkMjg3NTA3NmY4NTk4ZDgxMGVlMTk1",
   "tracks": [
     {
       "added_at": "2022-08-12 05:09:00",
@@ -43,6 +43,42 @@
       "duration_ms": 122000,
       "name": "BALL LIKE THIS",
       "url": "https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x"
+    },
+    {
+      "added_at": "2022-07-29 04:15:00",
+      "album": {
+        "name": "Sing Me a Lullaby, My Sweet Temptation",
+        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 238145,
+      "name": "Matte Black",
+      "url": "https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF"
+    },
+    {
+      "added_at": "2022-07-29 04:15:00",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2022-08-10 21:54:22",
@@ -87,22 +123,6 @@
     {
       "added_at": "2022-07-29 04:15:00",
       "album": {
-        "name": "Sing Me a Lullaby, My Sweet Temptation",
-        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 238145,
-      "name": "Matte Black",
-      "url": "https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF"
-    },
-    {
-      "added_at": "2022-07-29 04:15:00",
-      "album": {
         "name": "Hexada",
         "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
       },
@@ -115,26 +135,6 @@
       "duration_ms": 124538,
       "name": "Mercury: Retrograde",
       "url": "https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV"
-    },
-    {
-      "added_at": "2022-07-29 04:15:00",
-      "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2022-07-29 04:15:00",
@@ -169,26 +169,6 @@
       "url": "https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk"
     },
     {
-      "added_at": "2022-08-19 15:47:57",
-      "album": {
-        "name": "BULLET",
-        "url": "https://open.spotify.com/album/6iPQNv6SDZb8it4BvecDqI"
-      },
-      "artists": [
-        {
-          "name": "NORTMIRAGE",
-          "url": "https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp"
-        },
-        {
-          "name": "Sinizter",
-          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
-        }
-      ],
-      "duration_ms": 113293,
-      "name": "BULLET",
-      "url": "https://open.spotify.com/track/1LUblxczgUUs7nzCQ9sY9i"
-    },
-    {
       "added_at": "2022-07-29 04:15:00",
       "album": {
         "name": "POLTERGEIST!",
@@ -207,6 +187,26 @@
       "duration_ms": 101052,
       "name": "POLTERGEIST!",
       "url": "https://open.spotify.com/track/041sluNZwBxTCOuu766eNi"
+    },
+    {
+      "added_at": "2022-08-19 15:47:57",
+      "album": {
+        "name": "BULLET",
+        "url": "https://open.spotify.com/album/6iPQNv6SDZb8it4BvecDqI"
+      },
+      "artists": [
+        {
+          "name": "NORTMIRAGE",
+          "url": "https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp"
+        },
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        }
+      ],
+      "duration_ms": 113293,
+      "name": "BULLET",
+      "url": "https://open.spotify.com/track/1LUblxczgUUs7nzCQ9sY9i"
     },
     {
       "added_at": "2022-07-29 04:15:00",

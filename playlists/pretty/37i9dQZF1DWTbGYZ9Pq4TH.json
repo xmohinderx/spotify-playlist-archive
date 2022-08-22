@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 156420,
+  "num_followers": 156469,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDZlNGEzYmI4NWU0MzE2YmQ2YjA0ZmVlOGFmMjM1YTk1",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMGM0ZDE4YWI4NWFmMDg1YzczMjNlNDcwMTcwY2Q0MzZh",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Piccola Stella",
-      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Gemelli",
         "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 172200,
       "name": "Superclassico",
       "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Piccola Stella",
+      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -127,22 +127,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 234250,
-      "name": "Ti dedico il silenzio",
-      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Faccio un casino",
         "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
       },
@@ -175,22 +159,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 207802,
-      "name": "La storia infinita",
-      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Possibili Scenari",
         "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
       },
@@ -207,8 +175,24 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 207802,
+      "name": "La storia infinita",
+      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
       },
       "artists": [
         {
@@ -216,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 240738,
-      "name": "Rondini Al Guinzaglio",
-      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
+      "duration_ms": 234250,
+      "name": "Ti dedico il silenzio",
+      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -239,22 +223,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Destri",
-        "url": "https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 185503,
-      "name": "Destri",
-      "url": "https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "\u00c8 sempre bello",
         "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
       },
@@ -267,6 +235,22 @@
       "duration_ms": 203872,
       "name": "\u00c8 sempre bello",
       "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Destri",
+        "url": "https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "duration_ms": 185503,
+      "name": "Destri",
+      "url": "https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -327,18 +311,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
       },
       "artists": [
         {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
+      "duration_ms": 240738,
+      "name": "Rondini Al Guinzaglio",
+      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -355,6 +339,54 @@
       "duration_ms": 190451,
       "name": "Sempre In Due",
       "url": "https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "Le luci della citt\u00e0",
+      "url": "https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Mentre Tutto Scorre (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -379,54 +411,6 @@
       "duration_ms": 222047,
       "name": "Venere e Marte (feat. Marco Mengoni, Frah Quintale)",
       "url": "https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "Le luci della citt\u00e0",
-      "url": "https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Cascare nei tuoi occhi",
-      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Mentre Tutto Scorre (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86"
-      },
-      "artists": [
-        {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -495,6 +479,22 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Cascare nei tuoi occhi",
+      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
         "name": "Concedimi",
         "url": "https://open.spotify.com/album/3aunYOAreqjC6cdHn6iOaJ"
       },
@@ -543,6 +543,22 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
+        "name": "San Siro Live (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Meraviglioso - Live",
+      "url": "https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 209400,
       "name": "D'improvviso",
       "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "A Te",
-      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -591,18 +591,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "San Siro Live (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa"
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
       },
       "artists": [
         {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
         }
       ],
-      "duration_ms": 243453,
-      "name": "Meraviglioso - Live",
-      "url": "https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA"
+      "duration_ms": 264240,
+      "name": "A Te",
+      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -687,18 +687,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "22 settembre",
-        "url": "https://open.spotify.com/album/2XXtM3qexPIlNtotrYZjRp"
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g"
       },
       "artists": [
         {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+          "name": "Lortex",
+          "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
         }
       ],
-      "duration_ms": 230693,
-      "name": "22 settembre",
-      "url": "https://open.spotify.com/track/15RRpHBNzv0gvjIry4jyOs"
+      "duration_ms": 174725,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -735,34 +735,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g"
+        "name": "22 settembre",
+        "url": "https://open.spotify.com/album/2XXtM3qexPIlNtotrYZjRp"
       },
       "artists": [
         {
-          "name": "Lortex",
-          "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 174725,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Unica",
-        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
-      },
-      "artists": [
-        {
-          "name": "Antonello Venditti",
-          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Unica",
-      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
+      "duration_ms": 230693,
+      "name": "22 settembre",
+      "url": "https://open.spotify.com/track/15RRpHBNzv0gvjIry4jyOs"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -779,6 +763,22 @@
       "duration_ms": 279706,
       "name": "La donna cannone",
       "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Unica",
+        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
+      },
+      "artists": [
+        {
+          "name": "Antonello Venditti",
+          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Unica",
+      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -819,18 +819,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "La Finestra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2"
+        "name": "Sorriso (Milano Dateo)",
+        "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
       },
       "artists": [
         {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
         }
       ],
-      "duration_ms": 214520,
-      "name": "L'Immenso",
-      "url": "https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9"
+      "duration_ms": 177145,
+      "name": "Sorriso (Milano Dateo)",
+      "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
     }
   ],
   "unique_name": "Amore Davvero",

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 80. \n\n",
-  "num_followers": 36016,
+  "num_followers": 36192,
   "original_name": "Rock en Espa\u00f1ol: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjA5MiwwMDAwMDAwMGNiMWY0N2U0YjFlY2QwNDg1NGZkMDQ4NjQ3ZmRkM2U0",
+  "snapshot_id": "MTY1MDkxNjA5MiwwMDAwMDAwMGI4NTg3YTA2NTljM2QwMjg4OTI3MmMzZGRmNDIzMjgw",
   "tracks": [
     {
       "added_at": "2022-03-29 18:50:52",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
-      },
-      "artists": [
-        {
-          "name": "Rostros Ocultos",
-          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "El Final",
-      "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "Giros",
         "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 178266,
       "name": "11 Y 6",
       "url": "https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
+      },
+      "artists": [
+        {
+          "name": "Rostros Ocultos",
+          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "El Final",
+      "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
         }
       ],
-      "duration_ms": 287605,
-      "name": "Sexo",
-      "url": "https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq"
+      "duration_ms": 225764,
+      "name": "Paramar",
+      "url": "https://open.spotify.com/track/6YbjZUR8F5ewBI1kHaIA1G"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
         }
       ],
-      "duration_ms": 339933,
-      "name": "Mi Ag\u00fcita Amarilla",
-      "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
+      "duration_ms": 263506,
+      "name": "Yo No Me Llamo Javier",
+      "url": "https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
         }
       ],
-      "duration_ms": 225764,
-      "name": "Paramar",
-      "url": "https://open.spotify.com/track/6YbjZUR8F5ewBI1kHaIA1G"
+      "duration_ms": 287605,
+      "name": "Sexo",
+      "url": "https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
         }
       ],
-      "duration_ms": 263506,
-      "name": "Yo No Me Llamo Javier",
-      "url": "https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz"
+      "duration_ms": 339933,
+      "name": "Mi Ag\u00fcita Amarilla",
+      "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
     },
     {
       "added_at": "2022-03-29 18:50:52",

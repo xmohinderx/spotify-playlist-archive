@@ -1,12 +1,12 @@
 {
   "description": "G\u00e5 loss till Spotifys fetaste festl\u00e5tar!",
-  "num_followers": 95127,
+  "num_followers": 95142,
   "original_name": "Det blir kaoz!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMGE2ZmNlNWVkOTI1OGYyOGJkMzkxYmU5MjQzY2Y3ZjMw",
+  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMDI3ZGY5NTA0NzQ3ZDNhOWEzNzRiODAxNmVmODI4YjMz",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:25",
@@ -807,6 +807,26 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Puzzle Box",
+        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 212210,
+      "name": "Puzzle Box",
+      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Losing My Religion (feat. MKLA)",
         "url": "https://open.spotify.com/album/2jS5seVFSTaXWGJTi2Zz48"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 168387,
       "name": "Losing My Religion (feat. MKLA)",
       "url": "https://open.spotify.com/track/7u6EvUNJUmycM4IHEiHasm"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Puzzle Box",
-        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 212210,
-      "name": "Puzzle Box",
-      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -963,26 +963,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "To the Moon",
-        "url": "https://open.spotify.com/album/7a33tuAXRrTQpjzIlUv57M"
-      },
-      "artists": [
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        }
-      ],
-      "duration_ms": 178812,
-      "name": "To the Moon",
-      "url": "https://open.spotify.com/track/68j909ukxFuw5Pwjwzx3X2"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "GOOD PUSS",
         "url": "https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn"
       },
@@ -1019,42 +999,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
+        "name": "To the Moon",
+        "url": "https://open.spotify.com/album/7a33tuAXRrTQpjzIlUv57M"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
         },
         {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
         }
       ],
-      "duration_ms": 174360,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Another Level (ft. Lovespeake)",
-        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
-        }
-      ],
-      "duration_ms": 145941,
-      "name": "Another Level (ft. Lovespeake)",
-      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
+      "duration_ms": 178812,
+      "name": "To the Moon",
+      "url": "https://open.spotify.com/track/68j909ukxFuw5Pwjwzx3X2"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1079,18 +1039,42 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Can You Feel My Heart",
-        "url": "https://open.spotify.com/album/5DUeygGSuFifWXYp68l8cD"
+        "name": "Another Level (ft. Lovespeake)",
+        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
       },
       "artists": [
         {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
         }
       ],
-      "duration_ms": 122181,
-      "name": "Can You Feel My Heart",
-      "url": "https://open.spotify.com/track/4GFpaMQrDhrrOQ7CUzNTiU"
+      "duration_ms": 145941,
+      "name": "Another Level (ft. Lovespeake)",
+      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1127,6 +1111,22 @@
       "duration_ms": 137213,
       "name": "Lovers Say Goodbye",
       "url": "https://open.spotify.com/track/7aVvHrB8hLb7421u4sp7S8"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Can You Feel My Heart",
+        "url": "https://open.spotify.com/album/5DUeygGSuFifWXYp68l8cD"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        }
+      ],
+      "duration_ms": 122181,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/4GFpaMQrDhrrOQ7CUzNTiU"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "The Club Is Jumpin'",
-        "url": "https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 135483,
-      "name": "The Club Is Jumpin'",
-      "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1219,46 +1203,6 @@
       "duration_ms": 184611,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/5PLfjUnpV6eFXymcsXwa37"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Die Young",
-        "url": "https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy"
-      },
-      "artists": [
-        {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
-        }
-      ],
-      "duration_ms": 150348,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        },
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1287,6 +1231,46 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "The Club Is Jumpin'",
+        "url": "https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 135483,
+      "name": "The Club Is Jumpin'",
+      "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Leave The World Behind (feat. Alida)",
         "url": "https://open.spotify.com/album/3zzjC0LclbWZxd59t6nlnU"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 179092,
       "name": "Leave The World Behind (feat. Alida)",
       "url": "https://open.spotify.com/track/7iVcAvK53hv3l2lHFzCyhW"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        }
+      ],
+      "duration_ms": 150348,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1379,6 +1379,42 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Dance Until We Die",
+        "url": "https://open.spotify.com/album/7mmsP9uS2XOt70OnCdh43O"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "duration_ms": 122306,
+      "name": "Dance Until We Die",
+      "url": "https://open.spotify.com/track/3UX5bcccqDs6KYxqmeHvYb"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "IN I DIMMAN",
+        "url": "https://open.spotify.com/album/3DaOp0K3QU4qjprrt8qvsN"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "IN I DIMMAN",
+      "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Who U Gonna Love (feat. Amber Van Day)",
         "url": "https://open.spotify.com/album/0yzEsLH4U52Qd9cTB3W3Rt"
       },
@@ -1399,26 +1435,6 @@
       "duration_ms": 179600,
       "name": "Who U Gonna Love (feat. Amber Van Day)",
       "url": "https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Dance Until We Die",
-        "url": "https://open.spotify.com/album/7mmsP9uS2XOt70OnCdh43O"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        }
-      ],
-      "duration_ms": 122306,
-      "name": "Dance Until We Die",
-      "url": "https://open.spotify.com/track/3UX5bcccqDs6KYxqmeHvYb"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1447,22 +1463,6 @@
       "duration_ms": 147560,
       "name": "What Is Love (feat. Nito-Onna)",
       "url": "https://open.spotify.com/track/6vUIW5SQODOUwPzBoOrWQ2"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "IN I DIMMAN",
-        "url": "https://open.spotify.com/album/3DaOp0K3QU4qjprrt8qvsN"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "IN I DIMMAN",
-      "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1583,26 +1583,30 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Paradise (Topic Remix)",
-        "url": "https://open.spotify.com/album/7AzUBs2mUyC8CX9yPJkr2F"
+        "name": "World in Your Eyes",
+        "url": "https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
         },
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Pule",
+          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
         }
       ],
-      "duration_ms": 173709,
-      "name": "Paradise - Topic Remix",
-      "url": "https://open.spotify.com/track/4PZW5GQCtmdHAocDXLdU4j"
+      "duration_ms": 131142,
+      "name": "World in Your Eyes",
+      "url": "https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1627,26 +1631,26 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/5hiXbFtIogyB0v5IQi2bFM"
+        "name": "Paradise (Topic Remix)",
+        "url": "https://open.spotify.com/album/7AzUBs2mUyC8CX9yPJkr2F"
       },
       "artists": [
         {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Svniivan",
-          "url": "https://open.spotify.com/artist/4Tjvp7fDrim8wlo9fDgqGx"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         },
         {
-          "name": "Max Fail",
-          "url": "https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         }
       ],
-      "duration_ms": 147968,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2kCcvWpTKvKH9JLyioUAr0"
+      "duration_ms": 173709,
+      "name": "Paradise - Topic Remix",
+      "url": "https://open.spotify.com/track/4PZW5GQCtmdHAocDXLdU4j"
     }
   ],
   "unique_name": "Det blir kaoz!",

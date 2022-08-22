@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 37600,
+  "num_followers": 37632,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcwNTYyNCwwMDAwMDAwMDgyNjllNmY3MjQ1N2E4YmYxYmJiZWU5ODE5ZmE2YWI1",
+  "snapshot_id": "MTY1OTcwNTYyNCwwMDAwMDAwMDI4ZDlmNWQ0YmUyNTAxOTM5NGEyNjUyZTgxMTI1N2Uy",
   "tracks": [
     {
       "added_at": "2022-08-05 13:20:24",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-08-05 13:20:24",
       "album": {
+        "name": "darker area",
+        "url": "https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7"
+      },
+      "artists": [
+        {
+          "name": "Fluvis",
+          "url": "https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX"
+        }
+      ],
+      "duration_ms": 218019,
+      "name": "darker area",
+      "url": "https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L"
+    },
+    {
+      "added_at": "2022-08-05 13:20:24",
+      "album": {
         "name": "Reasons For Being",
         "url": "https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS"
       },
@@ -199,6 +215,22 @@
       "duration_ms": 176390,
       "name": "Reasons For Being",
       "url": "https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL"
+    },
+    {
+      "added_at": "2022-08-05 13:20:24",
+      "album": {
+        "name": "Circle Of Everything",
+        "url": "https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL"
+      },
+      "artists": [
+        {
+          "name": "Dance Of Centuries",
+          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Circle Of Everything",
+      "url": "https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D"
     },
     {
       "added_at": "2022-08-05 13:20:24",
@@ -235,38 +267,6 @@
     {
       "added_at": "2022-08-05 13:20:24",
       "album": {
-        "name": "darker area",
-        "url": "https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7"
-      },
-      "artists": [
-        {
-          "name": "Fluvis",
-          "url": "https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX"
-        }
-      ],
-      "duration_ms": 218019,
-      "name": "darker area",
-      "url": "https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L"
-    },
-    {
-      "added_at": "2022-08-05 13:20:24",
-      "album": {
-        "name": "Circle Of Everything",
-        "url": "https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL"
-      },
-      "artists": [
-        {
-          "name": "Dance Of Centuries",
-          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Circle Of Everything",
-      "url": "https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D"
-    },
-    {
-      "added_at": "2022-08-05 13:20:24",
-      "album": {
         "name": "Glasslike",
         "url": "https://open.spotify.com/album/184KNeTWudGRr8psDgZg7B"
       },
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-08-05 13:20:24",
       "album": {
-        "name": "Shaasvat",
-        "url": "https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk"
-      },
-      "artists": [
-        {
-          "name": "Mishika",
-          "url": "https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr"
-        }
-      ],
-      "duration_ms": 205435,
-      "name": "Shaasvat",
-      "url": "https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J"
-    },
-    {
-      "added_at": "2022-08-05 13:20:24",
-      "album": {
         "name": "Mountain View",
         "url": "https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 152974,
       "name": "Mountain View",
       "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
+    },
+    {
+      "added_at": "2022-08-05 13:20:24",
+      "album": {
+        "name": "Shaasvat",
+        "url": "https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk"
+      },
+      "artists": [
+        {
+          "name": "Mishika",
+          "url": "https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr"
+        }
+      ],
+      "duration_ms": 205435,
+      "name": "Shaasvat",
+      "url": "https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J"
     },
     {
       "added_at": "2022-08-05 13:20:24",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-05 13:20:24",
       "album": {
-        "name": "Floating Without Gravity",
-        "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
-      },
-      "artists": [
-        {
-          "name": "Tranquil Spirits",
-          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Floating Without Gravity",
-      "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
-    },
-    {
-      "added_at": "2022-08-05 13:20:24",
-      "album": {
         "name": "The Sun Will Rise Again",
         "url": "https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2022-08-05 13:20:24",
       "album": {
-        "name": "Silent Waters",
-        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
+        "name": "Floating Without Gravity",
+        "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
       },
       "artists": [
         {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+          "name": "Tranquil Spirits",
+          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
         }
       ],
-      "duration_ms": 144830,
-      "name": "Silent Waters",
-      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
+      "duration_ms": 162400,
+      "name": "Floating Without Gravity",
+      "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
     },
     {
       "added_at": "2022-08-05 13:20:24",
@@ -507,6 +491,22 @@
     {
       "added_at": "2022-08-05 13:20:24",
       "album": {
+        "name": "Silent Waters",
+        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
+      },
+      "artists": [
+        {
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+        }
+      ],
+      "duration_ms": 144830,
+      "name": "Silent Waters",
+      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
+    },
+    {
+      "added_at": "2022-08-05 13:20:24",
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/1jYA1RLpNu4G6eXzb7UeyL"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 126230,
       "name": "Love",
       "url": "https://open.spotify.com/track/0yf0a2YESK4qQeJ2RxjTQS"
+    },
+    {
+      "added_at": "2022-08-05 13:20:24",
+      "album": {
+        "name": "Vishram - Yoga Version",
+        "url": "https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi"
+      },
+      "artists": [
+        {
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Vishram - Yoga Version",
+      "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
     },
     {
       "added_at": "2022-08-05 13:20:24",
@@ -555,22 +571,6 @@
     {
       "added_at": "2022-08-05 13:20:24",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3n Einarsson",
-          "url": "https://open.spotify.com/artist/2ZfWjatqQycbK1Lg1TYrt7"
-        }
-      ],
-      "duration_ms": 141724,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd"
-    },
-    {
-      "added_at": "2022-08-05 13:20:24",
-      "album": {
         "name": "Dreamstate",
         "url": "https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL"
       },
@@ -588,97 +588,17 @@
       "added_at": "2022-08-05 13:20:24",
       "album": {
         "name": "Hush",
-        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
+        "url": "https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt"
       },
       "artists": [
         {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+          "name": "J\u00f3n Einarsson",
+          "url": "https://open.spotify.com/artist/2ZfWjatqQycbK1Lg1TYrt7"
         }
       ],
-      "duration_ms": 161012,
+      "duration_ms": 141724,
       "name": "Hush",
-      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
-    },
-    {
-      "added_at": "2022-08-05 13:20:24",
-      "album": {
-        "name": "Vishram - Yoga Version",
-        "url": "https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi"
-      },
-      "artists": [
-        {
-          "name": "Gamini Khatri",
-          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Vishram - Yoga Version",
-      "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
-    },
-    {
-      "added_at": "2022-08-05 13:20:24",
-      "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
-    },
-    {
-      "added_at": "2022-08-05 13:20:24",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Rituals",
-      "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
-    },
-    {
-      "added_at": "2022-08-05 13:20:24",
-      "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul"
-      },
-      "artists": [
-        {
-          "name": "Fleurs de Son",
-          "url": "https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3"
-        }
-      ],
-      "duration_ms": 211443,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1"
-    },
-    {
-      "added_at": "2022-08-05 13:20:24",
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9"
-      },
-      "artists": [
-        {
-          "name": "Yorokobi",
-          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
-        }
-      ],
-      "duration_ms": 143013,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0"
+      "url": "https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd"
     },
     {
       "added_at": "2022-08-05 13:20:24",
@@ -699,34 +619,82 @@
     {
       "added_at": "2022-08-05 13:20:24",
       "album": {
-        "name": "mOther World",
-        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
       },
       "artists": [
         {
-          "name": "Mike Molloy",
-          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
         }
       ],
-      "duration_ms": 124458,
-      "name": "mOther World",
-      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
+      "duration_ms": 160000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
     },
     {
       "added_at": "2022-08-05 13:20:24",
       "album": {
-        "name": "Capella",
-        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
+        "name": "Bortgjemt",
+        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
       },
       "artists": [
         {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
         }
       ],
-      "duration_ms": 157402,
-      "name": "Capella",
-      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
+      "duration_ms": 147750,
+      "name": "Bortgjemt",
+      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
+    },
+    {
+      "added_at": "2022-08-05 13:20:24",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
+    },
+    {
+      "added_at": "2022-08-05 13:20:24",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9"
+      },
+      "artists": [
+        {
+          "name": "Yorokobi",
+          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
+        }
+      ],
+      "duration_ms": 143013,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0"
+    },
+    {
+      "added_at": "2022-08-05 13:20:24",
+      "album": {
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul"
+      },
+      "artists": [
+        {
+          "name": "Fleurs de Son",
+          "url": "https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3"
+        }
+      ],
+      "duration_ms": 211443,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1"
     },
     {
       "added_at": "2022-08-05 13:20:24",
@@ -747,18 +715,18 @@
     {
       "added_at": "2022-08-05 13:20:24",
       "album": {
-        "name": "Sleep Sequence",
-        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
       },
       "artists": [
         {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
         }
       ],
-      "duration_ms": 203374,
-      "name": "Sleep Sequence",
-      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
+      "duration_ms": 161012,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
     },
     {
       "added_at": "2022-08-05 13:20:24",
@@ -779,6 +747,54 @@
     {
       "added_at": "2022-08-05 13:20:24",
       "album": {
+        "name": "Capella",
+        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
+      },
+      "artists": [
+        {
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Capella",
+      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
+    },
+    {
+      "added_at": "2022-08-05 13:20:24",
+      "album": {
+        "name": "mOther World",
+        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
+      },
+      "artists": [
+        {
+          "name": "Mike Molloy",
+          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
+        }
+      ],
+      "duration_ms": 124458,
+      "name": "mOther World",
+      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
+    },
+    {
+      "added_at": "2022-08-05 13:20:24",
+      "album": {
+        "name": "Sleep Sequence",
+        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 203374,
+      "name": "Sleep Sequence",
+      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
+    },
+    {
+      "added_at": "2022-08-05 13:20:24",
+      "album": {
         "name": "Sandy Foam",
         "url": "https://open.spotify.com/album/47x7s8rWew3mkOc8xgzuIB"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 145714,
       "name": "Sandy Foam",
       "url": "https://open.spotify.com/track/3eifjD5zwsrWjKkphFcr5i"
-    },
-    {
-      "added_at": "2022-08-05 13:20:24",
-      "album": {
-        "name": "Oh so Quiet",
-        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Oh so Quiet",
-      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

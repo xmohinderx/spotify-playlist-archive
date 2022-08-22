@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 39968,
+  "num_followers": 40080,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMDIzM2NlNGM3NDJiZmFmYWZlMjQzY2M4MmRkZGE4Mzk4",
+  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMDVkYjYzZDc0MWM2ZDI3Yjc3YTg0M2M4ZjM1ZTRkYWQy",
   "tracks": [
     {
       "added_at": "2021-10-20 15:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Don't Stop the Rock",
-        "url": "https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z"
-      },
-      "artists": [
-        {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg"
-        }
-      ],
-      "duration_ms": 328515,
-      "name": "Don't Stop the Rock",
-      "url": "https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 204133,
       "name": "Peter Piper",
       "url": "https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Don't Stop the Rock",
+        "url": "https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z"
+      },
+      "artists": [
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg"
+        }
+      ],
+      "duration_ms": 328515,
+      "name": "Don't Stop the Rock",
+      "url": "https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Chimes",
-        "url": "https://open.spotify.com/album/150JEfGSOGv1Wfk94JcVAn"
-      },
-      "artists": [
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        }
-      ],
-      "duration_ms": 211332,
-      "name": "Chimes",
-      "url": "https://open.spotify.com/track/2x1Y1lWgQgTkLFEmcAyu2R"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Spirit (feat. Wale)",
         "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 253178,
       "name": "Spirit (feat. Wale)",
       "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Chimes",
+        "url": "https://open.spotify.com/album/150JEfGSOGv1Wfk94JcVAn"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "duration_ms": 211332,
+      "name": "Chimes",
+      "url": "https://open.spotify.com/track/2x1Y1lWgQgTkLFEmcAyu2R"
     },
     {
       "added_at": "2021-10-20 15:00:00",

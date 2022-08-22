@@ -1,12 +1,12 @@
 {
   "description": "Fast cars, zombie love, and psychobilly freakouts!",
-  "num_followers": 143366,
+  "num_followers": 143451,
   "original_name": "Hot Rods & Horror Shows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMGM1ZWQwMzA1MTJkM2ZhMzczMDdmZDIwMDQyMDA0NDkw",
+  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMDk1M2JiNjkyNzJmNjhkMmIxOGM5YjQxZDgyMTc0MjBh",
   "tracks": [
     {
       "added_at": "2021-01-16 16:47:50",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Mind Control",
-        "url": "https://open.spotify.com/album/1MFwVDPT3hggfu3WWWTeZ0"
-      },
-      "artists": [
-        {
-          "name": "Snash",
-          "url": "https://open.spotify.com/artist/34vKcVb8KHcZzOJgokh0Y4"
-        }
-      ],
-      "duration_ms": 134520,
-      "name": "Mind Control",
-      "url": "https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Rev",
         "url": "https://open.spotify.com/album/7vTpOzMO04lY6z62reNXaL"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 203360,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1vVF4BT9Khi5wuO9fwBMj3"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/1MFwVDPT3hggfu3WWWTeZ0"
+      },
+      "artists": [
+        {
+          "name": "Snash",
+          "url": "https://open.spotify.com/artist/34vKcVb8KHcZzOJgokh0Y4"
+        }
+      ],
+      "duration_ms": 134520,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Necrophaze",
-        "url": "https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q"
-      },
-      "artists": [
-        {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
-        }
-      ],
-      "duration_ms": 265144,
-      "name": "Decompose",
-      "url": "https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Bail set at $6M",
         "url": "https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Our Way & The Highway",
-        "url": "https://open.spotify.com/album/3csHpaafwVPG118KJFaibU"
+        "name": "Necrophaze",
+        "url": "https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q"
       },
       "artists": [
         {
-          "name": "Koffin Kats",
-          "url": "https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf"
+          "name": "Wednesday 13",
+          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
         }
       ],
-      "duration_ms": 144120,
-      "name": "The Way Of The Road",
-      "url": "https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9"
+      "duration_ms": 265144,
+      "name": "Decompose",
+      "url": "https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -379,6 +363,22 @@
       "duration_ms": 196533,
       "name": "Last Ride",
       "url": "https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Our Way & The Highway",
+        "url": "https://open.spotify.com/album/3csHpaafwVPG118KJFaibU"
+      },
+      "artists": [
+        {
+          "name": "Koffin Kats",
+          "url": "https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf"
+        }
+      ],
+      "duration_ms": 144120,
+      "name": "The Way Of The Road",
+      "url": "https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Return of the Infamous Four",
-        "url": "https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l"
-      },
-      "artists": [
-        {
-          "name": "Drunktank",
-          "url": "https://open.spotify.com/artist/2Gx4sbajIQU6u49ZsiTs3c"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Army of Darkness",
-      "url": "https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Big City Lights",
         "url": "https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 178000,
       "name": "Come A Little Closer",
       "url": "https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Return of the Infamous Four",
+        "url": "https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l"
+      },
+      "artists": [
+        {
+          "name": "Drunktank",
+          "url": "https://open.spotify.com/artist/2Gx4sbajIQU6u49ZsiTs3c"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Army of Darkness",
+      "url": "https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03"
     },
     {
       "added_at": "2021-01-16 16:47:50",

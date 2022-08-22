@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 3587,
+  "num_followers": 3621,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjYyNSwwMDAwMDAwMGZmNjk5YWY0YzczMmY5Y2QyOTViNmE3ZWJkMTRiNzc3",
+  "snapshot_id": "MTY2MDgzMjYyNSwwMDAwMDAwMGQ0OWJhODFkZWU2OTdkMDYyZDE1Mjc0ZTcyZTI0Njgz",
   "tracks": [
     {
       "added_at": "2022-08-18 14:23:45",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
         "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
       },
@@ -359,22 +343,18 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
-        "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs"
       },
       "artists": [
         {
-          "name": "Yang Yoseob",
-          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
-        },
-        {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 192493,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
+      "duration_ms": 178600,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -395,6 +375,26 @@
       "duration_ms": 219330,
       "name": "You, Who?",
       "url": "https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
+        "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
+      },
+      "artists": [
+        {
+          "name": "Yang Yoseob",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+        },
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 225125,
+      "name": "busy guy",
+      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
         "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 205693,
       "name": "How Do You Think",
       "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
-        "name": "DA DA!",
-        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 225125,
-      "name": "busy guy",
-      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -583,6 +583,30 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
+        "name": "UH-RA? with KozyPop",
+        "url": "https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib"
+      },
+      "artists": [
+        {
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+        },
+        {
+          "name": "Ahn byeong woong",
+          "url": "https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe"
+        },
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "UH-RA? (feat. dress)",
+      "url": "https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
         "name": "3rd Digital Single 'Not In Public'",
         "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
       },
@@ -599,22 +623,6 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 224726,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
         "name": "Pong Dang",
         "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
       },
@@ -627,6 +635,22 @@
       "duration_ms": 233026,
       "name": "Pong Dang",
       "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 224726,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -687,22 +711,6 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "Oh My Boy",
-        "url": "https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F"
-      },
-      "artists": [
-        {
-          "name": "KWON EUN BI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Oh My Boy",
-      "url": "https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
         "name": "Jinxed at First (Original Television Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/2fe7Nm865FuJYBn0L2sjw8"
       },
@@ -715,6 +723,22 @@
       "duration_ms": 176866,
       "name": "Milky Way",
       "url": "https://open.spotify.com/track/1BcokUlDjWwaTPu05OarRG"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "Oh My Boy",
+        "url": "https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F"
+      },
+      "artists": [
+        {
+          "name": "KWON EUN BI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Oh My Boy",
+      "url": "https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -751,26 +775,18 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "UH-RA? with KozyPop",
-        "url": "https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib"
+        "name": "The King's Affection OST Part.6",
+        "url": "https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U"
       },
       "artists": [
         {
-          "name": "CHOI YOOJUNG",
-          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
-        },
-        {
-          "name": "Ahn byeong woong",
-          "url": "https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe"
-        },
-        {
-          "name": "dress",
-          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+          "name": "HAE YOON (Cherry Bullet)",
+          "url": "https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h"
         }
       ],
-      "duration_ms": 217320,
-      "name": "UH-RA? (feat. dress)",
-      "url": "https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9"
+      "duration_ms": 196813,
+      "name": "Full of You",
+      "url": "https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -795,22 +811,6 @@
       "duration_ms": 175192,
       "name": "Stupid (feat. Amin & H!)",
       "url": "https://open.spotify.com/track/6tgPZHN5aSPU3IFxcG7V6r"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
-        "name": "The King's Affection OST Part.6",
-        "url": "https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U"
-      },
-      "artists": [
-        {
-          "name": "HAE YOON (Cherry Bullet)",
-          "url": "https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Full of You",
-      "url": "https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH"
     },
     {
       "added_at": "2022-08-18 14:23:45",

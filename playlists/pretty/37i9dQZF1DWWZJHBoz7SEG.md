@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Camilo y Grupo Firme; Myke Towers y Jhayco; BLACKPINK; Anitta y Missy Elliott; Julieta Venegas; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,488 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,555 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

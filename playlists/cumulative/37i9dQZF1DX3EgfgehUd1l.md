@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-215 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
+216 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Every Day of My Life](https://open.spotify.com/track/5ekbqOVtJuLeCpULRraWhf) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Vintage Gold](https://open.spotify.com/album/1Are2uBlJvAJ0TNJV8VqFr) | 2:32 | 2020-07-08 | 2022-07-29 |
 | [Everything I Have Is Yours](https://open.spotify.com/track/63qtJxWRUchMr1gGXQBoZF) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Cindy Oh Cindy](https://open.spotify.com/album/3Cq0QwqTxscwNlLiNn1DNG) | 3:01 | 2020-07-08 | 2022-06-13 |
 | [Fabulous](https://open.spotify.com/track/50kORiWqdWda8xFF0ZR4or) | [Charlie Gracie](https://open.spotify.com/artist/7mC80cCjo7JkyaD9ZssKzN) | [Cameo Parkway \- The Best Of 1956\-1958 \(Original Hit Recordings\)](https://open.spotify.com/album/4rUHBbkTCdGAbSQQAT5K1l) | 2:17 | 2020-07-08 | 2022-07-29 |
-| [Fabulous](https://open.spotify.com/track/651vnKG8ShxwfKhpJULfhW) | [Charlie Gracie](https://open.spotify.com/artist/7mC80cCjo7JkyaD9ZssKzN) | [The Best of Charlie Gracie 1956\-1958](https://open.spotify.com/album/66wBL0yHGVfr6NFFrzMFPY) | 2:17 | 2020-07-08 |  |
+| [Fabulous](https://open.spotify.com/track/651vnKG8ShxwfKhpJULfhW) | [Charlie Gracie](https://open.spotify.com/artist/7mC80cCjo7JkyaD9ZssKzN) | [The Best of Charlie Gracie 1956\-1958](https://open.spotify.com/album/66wBL0yHGVfr6NFFrzMFPY) | 2:17 | 2020-07-08 | 2022-08-22 |
 | [Feet Up](https://open.spotify.com/track/1ZVXSJy2bCeCVA1pYxfY4B) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [Backline](https://open.spotify.com/album/2nyMmqTxkr1cmJpFnkhjXp) | 2:40 | 2020-07-08 | 2022-01-21 |
 | [Fever](https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 3:19 | 2020-07-08 |  |
 | [Fever](https://open.spotify.com/track/2CeqxyOZEyiL6pTDYZ9gPH) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Capitol Years](https://open.spotify.com/album/16BF4fvjjxlzrdKrUl4k5F) | 3:21 | 2020-07-08 | 2022-01-02 |
@@ -217,6 +217,7 @@
 | [Who's Sorry Now](https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:16 | 2020-07-08 |  |
 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1Crbmyf2bkbeOvckSlQFng) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 | 2020-07-08 | 2022-08-16 |
 | [Why Do Fools Fall in Love](https://open.spotify.com/track/6vL5Kx5LmZzcL12DZl2OiY) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [25 Greatest Hits](https://open.spotify.com/album/7cJP8OI40VbrT0yuVKPtNL) | 2:18 | 2020-07-08 | 2022-07-25 |
+| [Why Do Fools Fall in Love \(Remastered 2022\)](https://open.spotify.com/track/7nlPZ4gBK2JCRPuhmi3aOE) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk) | [Essential Classics, Vol\. 84: Frankie Lymon \(Remastered 2022\)](https://open.spotify.com/album/4QsBxPnLNULZRDrYPsKWX2) | 2:20 | 2020-07-08 |  |
 | [Wish You Were Here](https://open.spotify.com/track/7LbU3pUDhC71j34o2jF7fN) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Cindy Oh Cindy](https://open.spotify.com/album/3Cq0QwqTxscwNlLiNn1DNG) | 2:55 | 2020-07-08 | 2022-07-26 |
 | [Yes Tonight, Josephine \- Single Version](https://open.spotify.com/track/1ptz7A6ZOwrlLbDFAkEsFu) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Len Goodman's Ballroom Bonanza](https://open.spotify.com/album/3RybSlD24na4uzm1X5MP3z) | 2:29 | 2020-07-08 | 2022-07-29 |
 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 | 2020-07-08 | 2022-07-29 |

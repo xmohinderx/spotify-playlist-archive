@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-590 songs - 1 day 15 hr 26 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+591 songs - 1 day 15 hr 29 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Life Of Pablo](https://open.spotify.com/track/5s6uqoQUU97RD6vS0F5OGk) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Life Of Pablo](https://open.spotify.com/album/5RGoTNBTrj2R0A4FPH1oSO) | 3:53 | 2021-04-02 | 2022-04-20 |
 | [Lights of Leeming](https://open.spotify.com/track/72j69CksD5lC8gsVG3OBip) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Hang a Cross on Me](https://open.spotify.com/album/2Cgfz1yKsOCGYNH623UdqW) | 3:14 | 2022-05-09 | 2022-07-29 |
 | [Like Exploding Stones](https://open.spotify.com/track/2JND4SkJHfRpLpN0woStlP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Like Exploding Stones](https://open.spotify.com/album/1FcMgCGoLa3reBCYnNVK0m) | 7:18 | 2022-04-15 | 2022-08-13 |
-| [Like Yesterday](https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Flavour](https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw) | 4:00 | 2022-05-11 |  |
+| [Like Yesterday](https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Flavour](https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw) | 4:00 | 2022-05-11 | 2022-08-22 |
 | [Locket](https://open.spotify.com/track/26AhgCPP2OKAnF4AyBf2Kg) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/7MTfe1MFeQcc6ENWOhwQlz) | 5:18 | 2021-04-02 | 2022-05-26 |
 | [Locket](https://open.spotify.com/track/2vfPsGhqMbqmhjMGQ52dYf) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR) | 5:18 | 2022-05-23 |  |
 | [Locura](https://open.spotify.com/track/2xukDcihOVcK9cBvpR25we) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Real Life Situations](https://open.spotify.com/album/3VnXrco4kkeesTPtAmVP2j) | 2:44 | 2021-06-04 | 2022-04-20 |
@@ -532,6 +532,7 @@
 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 | 2022-07-22 |  |
 | [To You](https://open.spotify.com/track/1E3kZm0hRvK0UnxIhUMRnW) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/1z9DkBF5iZZl26UdbgOrKN) | 3:08 | 2022-05-20 | 2022-07-12 |
 | [To You](https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:08 | 2022-07-22 |  |
+| [Tres Hermanos](https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Tres Hermanos](https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4) | 3:21 | 2022-08-19 |  |
 | [Trophy](https://open.spotify.com/track/4zBc604ytzPmwin9VbsvUd) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Trophy](https://open.spotify.com/album/1EYaUyZIpJVEVvmJKQ5b6n) | 3:12 | 2021-06-04 | 2022-07-12 |
 | [Trust Me](https://open.spotify.com/track/0pvrCp6dJ07yIqv10yGzT7) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/17zWsw6bRbky5USG6OeO08) | 3:41 | 2021-07-02 | 2022-07-22 |
 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 | 2022-05-20 |  |

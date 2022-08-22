@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 27611,
+  "num_followers": 27634,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDZjYTJhZjg1ZDcxYmY2ZTI2ODZiYTM5YjVjOWMwNTI5",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGEzZTU2NWFlZmE0ZDU0MTJkMWU5YmVjNTc3NjdmYmNi",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -159,18 +159,18 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Batch",
-        "url": "https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo"
+        "name": "You Know What...?",
+        "url": "https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw"
       },
       "artists": [
         {
-          "name": "FORQ",
-          "url": "https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1"
+          "name": "The Aristocrats",
+          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
         }
       ],
-      "duration_ms": 374652,
-      "name": "Lymaks",
-      "url": "https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz"
+      "duration_ms": 416720,
+      "name": "Spanish Eddie",
+      "url": "https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -191,18 +191,18 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "You Know What...?",
-        "url": "https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw"
+        "name": "Batch",
+        "url": "https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo"
       },
       "artists": [
         {
-          "name": "The Aristocrats",
-          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
+          "name": "FORQ",
+          "url": "https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1"
         }
       ],
-      "duration_ms": 416720,
-      "name": "Spanish Eddie",
-      "url": "https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt"
+      "duration_ms": 374652,
+      "name": "Lymaks",
+      "url": "https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -219,30 +219,6 @@
       "duration_ms": 559520,
       "name": "Hazard Profile, Pt.1",
       "url": "https://open.spotify.com/track/6IEhhjx0lVrW228QsDKrpB"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Chapter One: Shredemption",
-        "url": "https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L"
-      },
-      "artists": [
-        {
-          "name": "Owane",
-          "url": "https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2"
-        },
-        {
-          "name": "Jack Gardiner",
-          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
-        },
-        {
-          "name": "Henrik Linder",
-          "url": "https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "U.T.F.F.",
-      "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -267,6 +243,30 @@
       "duration_ms": 373813,
       "name": "Extraction",
       "url": "https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Chapter One: Shredemption",
+        "url": "https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L"
+      },
+      "artists": [
+        {
+          "name": "Owane",
+          "url": "https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2"
+        },
+        {
+          "name": "Jack Gardiner",
+          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
+        },
+        {
+          "name": "Henrik Linder",
+          "url": "https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "U.T.F.F.",
+      "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Separate Realities",
-        "url": "https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT"
-      },
-      "artists": [
-        {
-          "name": "Trioscapes",
-          "url": "https://open.spotify.com/artist/3poNEhEAAwqWGnLaQNE0Fs"
-        }
-      ],
-      "duration_ms": 328786,
-      "name": "Blast Off",
-      "url": "https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "Krokofant III",
         "url": "https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 404960,
       "name": "Juice",
       "url": "https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Separate Realities",
+        "url": "https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT"
+      },
+      "artists": [
+        {
+          "name": "Trioscapes",
+          "url": "https://open.spotify.com/artist/3poNEhEAAwqWGnLaQNE0Fs"
+        }
+      ],
+      "duration_ms": 328786,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC"
     },
     {
-      "added_at": "2021-01-29 05:01:00",
-      "album": {
-        "name": "Shapeless",
-        "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
-      },
-      "artists": [
-        {
-          "name": "St. Barbe",
-          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
-        }
-      ],
-      "duration_ms": 348733,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Love Devotion Surrender",
@@ -513,6 +497,38 @@
       "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
     },
     {
+      "added_at": "2021-01-29 05:01:00",
+      "album": {
+        "name": "Shapeless",
+        "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
+      },
+      "artists": [
+        {
+          "name": "St. Barbe",
+          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Akashic Xronicles",
+        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 267915,
+      "name": "Akashic Xronicles",
+      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
+    },
+    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "The Inner Mounting Flame",
@@ -531,22 +547,6 @@
       "duration_ms": 375600,
       "name": "Vital Transformation (with John McLaughlin) - Remastered",
       "url": "https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Akashic Xronicles",
-        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 267915,
-      "name": "Akashic Xronicles",
-      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -581,6 +581,42 @@
       "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
     },
     {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "move",
+        "url": "https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop"
+      },
+      "artists": [
+        {
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        },
+        {
+          "name": "yucca",
+          "url": "https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp"
+        }
+      ],
+      "duration_ms": 268675,
+      "name": "silhouette",
+      "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
+      },
+      "artists": [
+        {
+          "name": "Kneebody",
+          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
+        }
+      ],
+      "duration_ms": 280666,
+      "name": "Lowell",
+      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Ultima",
@@ -605,26 +641,6 @@
       "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "move",
-        "url": "https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop"
-      },
-      "artists": [
-        {
-          "name": "POLYPLUS",
-          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
-        },
-        {
-          "name": "yucca",
-          "url": "https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp"
-        }
-      ],
-      "duration_ms": 268675,
-      "name": "silhouette",
-      "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Two Drink Minimum",
@@ -639,22 +655,6 @@
       "duration_ms": 407000,
       "name": "Whippersnapper",
       "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
-      },
-      "artists": [
-        {
-          "name": "Kneebody",
-          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "Lowell",
-      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -869,6 +869,22 @@
       "url": "https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf"
+      },
+      "artists": [
+        {
+          "name": "Camel",
+          "url": "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
+        }
+      ],
+      "duration_ms": 401866,
+      "name": "Earthrise",
+      "url": "https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S"
+    },
+    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Revisiting the Film (feat. Morgan \u00c5gren)",
@@ -887,22 +903,6 @@
       "duration_ms": 248161,
       "name": "Revisiting the Film (feat. Morgan \u00c5gren)",
       "url": "https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf"
-      },
-      "artists": [
-        {
-          "name": "Camel",
-          "url": "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
-        }
-      ],
-      "duration_ms": 401866,
-      "name": "Earthrise",
-      "url": "https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S"
     },
     {
       "added_at": "2021-01-27 19:39:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49jUV2NfGku.md) - [plain]
 
 > New classics and essential cuts from all your favorite rock bands\. Cover: Rage Against The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,351,110 likes - 88 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,351,623 likes - 88 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

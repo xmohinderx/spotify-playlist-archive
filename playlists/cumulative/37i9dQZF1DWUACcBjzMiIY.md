@@ -4,7 +4,7 @@
 
 > Easy listening for a pleasant drive.
 
-336 songs - 21 hr 27 min - [published](https://open.spotify.com/playlist/1d47Qc11bpmTvpUoDV1dDf)
+337 songs - 21 hr 32 min - [published](https://open.spotify.com/playlist/1d47Qc11bpmTvpUoDV1dDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Angel in Blue Jeans](https://open.spotify.com/track/2OpY5KKUvkYAkiY8FEG1Wi) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Angel in Blue Jeans](https://open.spotify.com/album/00QRaEtUaplb5qxN62o9vd) | 3:24 | 2019-06-21 | 2022-07-28 |
 | [Another Love \- Zwette Edit](https://open.spotify.com/track/5snyhxAh55A2wlNRH7VVZJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0) | [Another Love \(Zwette Edit\)](https://open.spotify.com/album/3Bi2XO3N9AL5f7VvVmyVna) | 6:34 | 2019-06-21 |  |
 | [Another Story](https://open.spotify.com/track/1JxNWpK9xTWKRPoYTIX4Qk) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf) | 4:34 | 2019-06-21 | 2022-07-29 |
+| [Another Story](https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:34 | 2019-06-21 |  |
 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 | 2019-06-21 |  |
 | [Arms Of A Woman](https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 4:11 | 2019-06-21 |  |
 | [Back To Black](https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:01 | 2019-06-21 |  |
@@ -265,7 +266,7 @@
 | [Someone Like You](https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:45 | 2019-06-21 | 2022-07-29 |
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2019-06-21 |  |
 | [Someone Like You](https://open.spotify.com/track/4dp8cI4USaMlFzJ5MeBsVs) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [New Acoustic Sessions, Vol\. 3](https://open.spotify.com/album/4gU5s9CPcYF1qDt5zCePiU) | 4:36 | 2019-06-21 | 2022-07-20 |
-| [Someone Like You](https://open.spotify.com/track/6VtoP2sJt5oCmPOQIve2sf) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz) | 4:36 | 2019-06-21 |  |
+| [Someone Like You](https://open.spotify.com/track/6VtoP2sJt5oCmPOQIve2sf) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz) | 4:36 | 2019-06-21 | 2022-08-22 |
 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 | 2019-06-21 | 2022-07-29 |
 | [Speed Limit \(Acoustic\)](https://open.spotify.com/track/6M1f126jYXwFo3eUMrOmem) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [No Limits](https://open.spotify.com/album/22nQUXuJAYDf4xRhZmvTmZ) | 3:50 | 2019-06-21 | 2022-07-29 |
 | [Stand and Deliver](https://open.spotify.com/track/26UtMfMsdOlhADitgUuqCG) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Patrick Droney](https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31) | 3:43 | 2019-06-21 | 2022-07-29 |

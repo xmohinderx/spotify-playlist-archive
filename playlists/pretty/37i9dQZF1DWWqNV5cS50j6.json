@@ -1,12 +1,12 @@
 {
-  "description": "Indie music antimatter. Cover: Gorillaz",
-  "num_followers": 658816,
+  "description": "Gorillaz make anti pop.",
+  "num_followers": 659055,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDZhMzJhZjI2NDNhNjk4OTEyZmJjNDIxMmJmYWI3MmUy",
+  "snapshot_id": "MTY2MTA0OTQ0MSwwMDAwMDAwMDBhYmVmYjhlZmI2ZmZhYjM3ZjZjM2I2NzQ3YzRjODA5",
   "tracks": [
     {
       "added_at": "2022-08-08 17:11:17",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
+        "name": "Freakout/Release",
+        "url": "https://open.spotify.com/album/5SH3kCDtcn5XcNgxHPyZXx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 197372,
+      "name": "Freakout/Release",
+      "url": "https://open.spotify.com/track/2vnjsf8ju9ncJbnIEIKphO"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
         "name": "Pretend [w/ Kota the Friend]",
         "url": "https://open.spotify.com/album/32zuche1Ppeux5Tk7a1sOT"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 155937,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/2ktU3yNNpfKIsG3Hn186Mq"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
-        "name": "Freakout/Release",
-        "url": "https://open.spotify.com/album/5SH3kCDtcn5XcNgxHPyZXx"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 197372,
-      "name": "Freakout/Release",
-      "url": "https://open.spotify.com/track/2vnjsf8ju9ncJbnIEIKphO"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
+        "name": "DITTO",
+        "url": "https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+        }
+      ],
+      "duration_ms": 150322,
+      "name": "DITTO",
+      "url": "https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
         "name": "GTFO",
         "url": "https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y"
       },
@@ -755,18 +771,34 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "DITTO",
-        "url": "https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
       },
       "artists": [
         {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
         }
       ],
-      "duration_ms": 150322,
-      "name": "DITTO",
-      "url": "https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF"
+      "duration_ms": 114416,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -787,22 +819,6 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "PORN ACTING*",
-        "url": "https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 172346,
-      "name": "PORN ACTING*",
-      "url": "https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
         "name": "Suburbia",
         "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 179026,
       "name": "Suburbia",
       "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 114416,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
     },
     {
       "added_at": "2022-08-08 17:11:17",

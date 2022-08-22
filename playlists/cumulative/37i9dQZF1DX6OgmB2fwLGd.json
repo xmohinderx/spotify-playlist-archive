@@ -1812,6 +1812,28 @@
     },
     {
       "album": {
+        "name": "Delirious",
+        "url": "https://open.spotify.com/album/0ktt8nyiccUBWvqKsmJdHQ"
+      },
+      "artists": [
+        {
+          "name": "Vistoso Bosses",
+          "url": "https://open.spotify.com/artist/1PwQodDnDYjun9ySkaucyi"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242866,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/0nH3kN1WXrbxZSptazFX1r"
+    },
+    {
+      "album": {
         "name": "DELIRIOUS!",
         "url": "https://open.spotify.com/album/7LiafuGVnC731meL4S6cmi"
       },

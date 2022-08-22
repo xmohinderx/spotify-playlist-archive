@@ -1,12 +1,12 @@
 {
   "description": "chama as rouffers pq s\u00e3o elas: tasha & tracie",
-  "num_followers": 928638,
+  "num_followers": 928791,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3ODI0MCwwMDAwMDAwMGNmYTU1NTc2ZTAzNjhiMzY2MWFkYmRhMGViOWRhNjZj",
+  "snapshot_id": "MTY2MDg3ODI0MCwwMDAwMDAwMDBiM2EzNjg0OWQyY2UzOTk3ZTBjZWJkYzc2MDIxZDdh",
   "tracks": [
     {
       "added_at": "2022-08-19 03:04:00",
@@ -647,6 +647,30 @@
     {
       "added_at": "2022-08-19 03:04:00",
       "album": {
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        }
+      ],
+      "duration_ms": 139534,
+      "name": "Corte Americano",
+      "url": "https://open.spotify.com/track/68qqVn5kHBv4zc45SDGLnh"
+    },
+    {
+      "added_at": "2022-08-19 03:04:00",
+      "album": {
         "name": "Oi, Como Ce T\u00e1?",
         "url": "https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou"
       },
@@ -671,30 +695,6 @@
       "duration_ms": 156153,
       "name": "Oi, Como Ce T\u00e1?",
       "url": "https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq"
-    },
-    {
-      "added_at": "2022-08-19 03:04:00",
-      "album": {
-        "name": "Imaterial (Deluxe)",
-        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        }
-      ],
-      "duration_ms": 139534,
-      "name": "Corte Americano",
-      "url": "https://open.spotify.com/track/68qqVn5kHBv4zc45SDGLnh"
     },
     {
       "added_at": "2022-08-19 03:04:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2022-08-19 03:04:00",
       "album": {
-        "name": "Cardi B",
-        "url": "https://open.spotify.com/album/6TWU5G1BcHLObkAwgeJNxL"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Cardi B",
-      "url": "https://open.spotify.com/track/6LxId1lmgn81aO0kmpfMIT"
-    },
-    {
-      "added_at": "2022-08-19 03:04:00",
-      "album": {
         "name": "Atg Tape",
         "url": "https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 152452,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR"
+    },
+    {
+      "added_at": "2022-08-19 03:04:00",
+      "album": {
+        "name": "Cardi B",
+        "url": "https://open.spotify.com/album/6TWU5G1BcHLObkAwgeJNxL"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Cardi B",
+      "url": "https://open.spotify.com/track/6LxId1lmgn81aO0kmpfMIT"
     },
     {
       "added_at": "2022-08-19 03:04:00",

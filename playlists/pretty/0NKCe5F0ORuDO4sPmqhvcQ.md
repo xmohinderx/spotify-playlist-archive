@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,279 likes - 111 songs - 6 hr 19 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,276 likes - 111 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 73 | [Real Life \- Alex Preston Remix](https://open.spotify.com/track/7EpAUuSOOCOytPVjiBTllB) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm), [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Real Life \(Remixes\)](https://open.spotify.com/album/0bUx8416niknm1utNHSPvi) | 5:20 |
 | 74 | [Forever and Ever](https://open.spotify.com/track/6LQvXuT1B693YJ32QqoOd4) | [Kilter](https://open.spotify.com/artist/2syYGtINPRno1nxxil7UcJ), [Brain Flowers](https://open.spotify.com/artist/31imdiZgUutxbuMl8PH20G) | [Forever and Ever](https://open.spotify.com/album/3YX7OgGVq28qpQo4585WRm) | 3:52 |
 | 75 | [on the hill](https://open.spotify.com/track/33uIddmYbMTtXea5qTfwLT) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG), [Finn Sigil](https://open.spotify.com/artist/4hUoSB0GFnGjmwUouW4Z2O) | [Mage 1](https://open.spotify.com/album/0WzFWjxpn9M2vQJS1jxcGR) | 4:40 |
-| 76 | [Best Part About You](https://open.spotify.com/track/3dxIrAJ1fp8c8rOscz0VLa) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [EVA GIIA](https://open.spotify.com/artist/31Xr6ZWHElOGqjKT7NfL3x) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:29 |
+| 76 | [Best Part About You](https://open.spotify.com/track/3dxIrAJ1fp8c8rOscz0VLa) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:29 |
 | 77 | [Sleepless](https://open.spotify.com/track/5Szns47BWnc5R4JlFUp37i) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:20 |
 | 78 | [sun+tide](https://open.spotify.com/track/0bLKKrrEeAxQPgq8HtXVsR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [everythingeverydayeverything](https://open.spotify.com/album/5gumyvjIFS1YM8VI5bF5wV) | 3:43 |
 | 79 | [Calle De Silva 6](https://open.spotify.com/track/4bzvRGIfL83G3RzasLgUH3) | [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Calle De Silva 6](https://open.spotify.com/album/5OpqN5kyrLcxsyJMwwYGP5) | 2:29 |

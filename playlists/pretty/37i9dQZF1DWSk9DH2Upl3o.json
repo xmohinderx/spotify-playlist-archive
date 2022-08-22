@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Derek Trucks & Susan Tedeschi",
-  "num_followers": 4630,
+  "num_followers": 4690,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDYwY2QzMDc0YTI4ZWJiMWZlZmRkMTg0NDVjNWNhMjNh",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGNlZGJjNzIwZjExNjNlOTg2Y2UwYzRjNTViZGM2ZGNi",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "I Am The Moon: II. Ascension",
-        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 250335,
-      "name": "Playing With My Emotions",
-      "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Dripfield",
@@ -151,6 +135,22 @@
       "duration_ms": 426602,
       "name": "Hungersite",
       "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "I Am The Moon: II. Ascension",
+        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 250335,
+      "name": "Playing With My Emotions",
+      "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "The Werks",
+        "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
+      },
+      "artists": [
+        {
+          "name": "The Werks",
+          "url": "https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs"
+        }
+      ],
+      "duration_ms": 456631,
+      "name": "Duck Farm",
+      "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Blood from a Stone",
         "url": "https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 299479,
       "name": "Curse Lifter (feat. Derek Trucks)",
       "url": "https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "The Werks",
-        "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
-      },
-      "artists": [
-        {
-          "name": "The Werks",
-          "url": "https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs"
-        }
-      ],
-      "duration_ms": 456631,
-      "name": "Duck Farm",
-      "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Selections, Vol. 1",
-        "url": "https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7"
-      },
-      "artists": [
-        {
-          "name": "Cycles",
-          "url": "https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS"
-        }
-      ],
-      "duration_ms": 731509,
-      "name": "Get out of Your Head",
-      "url": "https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Great Blue",
         "url": "https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 297153,
       "name": "Lily's Tiger",
       "url": "https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Selections, Vol. 1",
+        "url": "https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7"
+      },
+      "artists": [
+        {
+          "name": "Cycles",
+          "url": "https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS"
+        }
+      ],
+      "duration_ms": 731509,
+      "name": "Get out of Your Head",
+      "url": "https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Jambands Ruined My Life",
-        "url": "https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU"
-      },
-      "artists": [
-        {
-          "name": "The Mantras",
-          "url": "https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji"
-        }
-      ],
-      "duration_ms": 375939,
-      "name": "Kinetic Bump",
-      "url": "https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Element",
         "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 433720,
       "name": "The Road",
       "url": "https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Jambands Ruined My Life",
+        "url": "https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU"
+      },
+      "artists": [
+        {
+          "name": "The Mantras",
+          "url": "https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji"
+        }
+      ],
+      "duration_ms": 375939,
+      "name": "Kinetic Bump",
+      "url": "https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt"
     }
   ],
   "unique_name": "Modern Jam Band",

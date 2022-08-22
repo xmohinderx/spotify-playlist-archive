@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-281 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+282 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [La Sanadora](https://open.spotify.com/track/0GxzmQ5sE5Uq50LkQB3DO4) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [La Sanadora](https://open.spotify.com/album/4OvtUIqRsuqKFKRWABUTCy) | 4:27 | 2022-04-07 | 2022-04-19 |
 | [Las Mujeres](https://open.spotify.com/track/4ptFkLzF301C97kaA3xizH) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 3:30 | 2021-12-09 | 2022-07-29 |
 | [Libro Abierto](https://open.spotify.com/track/4NCxiDoRQGgBW5Ja0FHIiC) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Libro Abierto](https://open.spotify.com/album/3uA0bh0VM1Qu2dcwt2ZmsV) | 3:03 | 2021-12-09 | 2022-07-29 |
-| [Life Is Everything](https://open.spotify.com/track/13YGtUizphOZtVnpeZskTk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [All I Know](https://open.spotify.com/album/4mmotbe2IhNrsRt7dHLt9e) | 3:53 | 2021-12-09 |  |
+| [Life Is Everything](https://open.spotify.com/track/13YGtUizphOZtVnpeZskTk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [All I Know](https://open.spotify.com/album/4mmotbe2IhNrsRt7dHLt9e) | 3:53 | 2021-12-09 | 2022-08-22 |
 | [Llegué hasta ti \(feat\. Juanito Makandé\)](https://open.spotify.com/track/1JnrSFltARbpAUX4kuJ36k) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Juanito Makandé](https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z) | [Llegué hasta ti \(feat\. Juanito Makandé\)](https://open.spotify.com/album/3GGoeVNdy9IpN0f2nGRQqW) | 3:14 | 2021-12-09 |  |
 | [Lo Haré](https://open.spotify.com/track/37gBnVxVHe0YBC3qy5sYkv) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Cosas Perdidas](https://open.spotify.com/album/0grUtWbFNyozTiCvBfgnh8) | 2:02 | 2022-04-07 | 2022-04-21 |
 | [Lo Que Perdimos](https://open.spotify.com/track/7CwxNqAafIALPb0F6Hcs6I) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lo Que Perdimos](https://open.spotify.com/album/6AnlGhkXysrFpv0yt8v3Yf) | 3:26 | 2021-12-09 | 2022-04-21 |
@@ -273,6 +273,7 @@
 | [Un Cariñito](https://open.spotify.com/track/64opElgLEfcSoh4YotloB4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:03 | 2022-05-14 | 2022-08-06 |
 | [Un Poquito de Tu Amor \- Remasterizado](https://open.spotify.com/track/1M2nk7ZecdvJJYEHuiPyYd) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [G.A.S\. \(Remasterizado\)](https://open.spotify.com/album/4V5SgHTbnLS1ZR4ToEFGqM) | 2:55 | 2022-04-07 | 2022-04-21 |
 | [Universos paralelos \(feat\. Ana Tijoux\)](https://open.spotify.com/track/25wkmsggPrmVeDHv0QBMgW) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Bailar en la cueva](https://open.spotify.com/album/1LtIOscLBDW8C8ZDDUriqi) | 3:42 | 2022-04-07 |  |
+| [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 | 2022-08-19 |  |
 | [Vas a encontrarte \(feat\. Guitarricadelafuente\) \- Acústica](https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Vas a encontrarte \(feat\. Guitarricadelafuente\)](https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7) | 3:31 | 2021-12-09 |  |
 | [Ven Conmigo Guajira](https://open.spotify.com/track/66VTiE4pXusxVaYnkI9R74) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ven Conmigo Guajira](https://open.spotify.com/album/3TBJryGAHYojSZKJ1boSKX) | 4:45 | 2021-12-09 | 2022-07-29 |
 | [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2021-12-09 |  |

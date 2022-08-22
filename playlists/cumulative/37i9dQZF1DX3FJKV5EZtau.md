@@ -4,13 +4,13 @@
 
 > Electro tunes for your virtual world.
 
-280 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+281 songs - 16 hr 17 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#4u](https://open.spotify.com/track/1scCASo2eOvStCBxUS95sa) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [\#4u](https://open.spotify.com/album/7lSFPJJSetFsOVLPvRqeP4) | 1:48 | 2022-05-27 | 2022-07-25 |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2022-06-10 |  |
-| [A Cyber's World](https://open.spotify.com/track/2p2E7hPrV1k3pGESHHP75E) | [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [A Cyber's World](https://open.spotify.com/album/4Skl8xv9LILiUM5CS4yk8T) | 2:52 | 2022-01-07 |  |
+| [A Cyber's World](https://open.spotify.com/track/2p2E7hPrV1k3pGESHHP75E) | [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [A Cyber's World](https://open.spotify.com/album/4Skl8xv9LILiUM5CS4yk8T) | 2:52 | 2022-01-07 | 2022-08-22 |
 | [A CYBER'S WORLD? \(From "Deltarune"\) \- Electro House Version](https://open.spotify.com/track/7s9VjAWhf8ypPqdOCR3hcn) | [Mykah](https://open.spotify.com/artist/3VYxuvrdxNbXmDIxiHYDqz) | [A CYBER'S WORLD? \(From "Deltarune"\) \[Electro House Version\]](https://open.spotify.com/album/38WxY9cf0avPDxehC3ubmL) | 4:29 | 2022-01-07 | 2022-07-29 |
 | [Airway](https://open.spotify.com/track/7H0Fn4Rf76dMg6hNzyOlef) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Airway](https://open.spotify.com/album/1hvFDHasQOCnAMQfRNa3JO) | 3:15 | 2022-01-07 | 2022-07-27 |
 | [Alive](https://open.spotify.com/track/4XmSL1CcNGC6U1t56alzF7) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Alive](https://open.spotify.com/album/6Rt1ebG0UdXmQRheYmSJyh) | 3:37 | 2022-01-07 | 2022-07-27 |
@@ -180,6 +180,7 @@
 | [Night Flying](https://open.spotify.com/track/0M8GrO8R44w1ykJ3MUGUyT) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY), [灰島銀華 \(CV: 澁谷梓希\)](https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2) | [Night Flying](https://open.spotify.com/album/53mbELBH9Aam49AtzMi8qP) | 2:30 | 2022-01-07 | 2022-07-11 |
 | [Nightmare](https://open.spotify.com/track/4gju0eLLPyroDWo12jCvkp) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Julianne Aurora](https://open.spotify.com/artist/4iSahGBKE7lJonRcxzhpPM) | [Nightmare](https://open.spotify.com/album/6nizpLBANHSAwi429FBwLV) | 3:23 | 2022-02-25 |  |
 | [Ninja Re Bang Bang \- Steve Aoki Remix](https://open.spotify.com/track/3M23gGWtJEE3CKe8jZWKMe) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Ninja Re Bang Bang \(Steve Aoki Remix\)](https://open.spotify.com/album/1eURWsLjOVmcHhayeMGGAK) | 3:36 | 2022-08-05 |  |
+| [Nintendo](https://open.spotify.com/track/42Ssb6yMwryGmjz2i4TNCs) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Nintendo](https://open.spotify.com/album/1a4nP3SMKTsTgoiQ2U6LQN) | 3:19 | 2022-08-19 |  |
 | [Nirvana](https://open.spotify.com/track/1KdEqgbQtzGffswF29Jc5U) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 2:32 | 2022-07-14 | 2022-08-06 |
 | [No Regrets \- Myon Return to 85 Mix](https://open.spotify.com/track/6Yeu8MPFcEA2DdyrQ7v9m5) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Myon](https://open.spotify.com/artist/0nTbVTXLLbBA4xCtn0cFkv) | [No Regrets \(Myon Return to 85 Mix\)](https://open.spotify.com/album/1UKUJ8fLO4S8ObbzJoOwmU) | 4:24 | 2022-01-07 | 2022-07-07 |
 | [Not Afraid](https://open.spotify.com/track/1uF17IZKWZ4bQdNzH7CJM0) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [Not Afraid](https://open.spotify.com/album/3PkaLtsxgLve6tDmSjd9uV) | 2:42 | 2022-01-07 | 2022-07-27 |

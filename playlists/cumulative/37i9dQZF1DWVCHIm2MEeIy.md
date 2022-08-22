@@ -4,7 +4,7 @@
 
 > Time to rave again.
 
-223 songs - 21 hr 14 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
+224 songs - 21 hr 20 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/1ipso6qku1yalltQEtxAPw) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/6fxVUbJy29bvtfqUm94y5b) | 4:06 | 2022-04-15 | 2022-07-29 |
 | [Come Back Around \- Maya Jane Coles Remix](https://open.spotify.com/track/4n2gEtt5HWKGERlbGDj3Dz) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Come Back Around \(Maya Jane Coles Remix\)](https://open.spotify.com/album/3WCQXG4uUxlKMXzYGCwkWI) | 3:42 | 2022-04-15 | 2022-07-28 |
 | [Confusion](https://open.spotify.com/track/4dUIinlaify3Z3DAZmPkc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Confusion](https://open.spotify.com/album/0c4WgnhgDzr5B0SL3mwIDM) | 6:56 | 2022-06-24 |  |
-| [Control](https://open.spotify.com/track/3qQFXz3qhRRa3HEXGeZ0Yl) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Control](https://open.spotify.com/album/5qRgoyaOBrrscesIipuThi) | 6:13 | 2022-08-19 |  |
+| [Control](https://open.spotify.com/track/3qQFXz3qhRRa3HEXGeZ0Yl) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Control](https://open.spotify.com/album/5qRgoyaOBrrscesIipuThi) | 6:13 | 2022-08-19 | 2022-08-22 |
+| [Control](https://open.spotify.com/track/4Zo9X74JIGBF6773xzBhm8) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Profound Mysteries II](https://open.spotify.com/album/3TeJxmNzWgJ5Z5gyUkHBJS) | 6:13 | 2022-08-19 |  |
 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 | 2022-04-15 |  |
 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-08-12 |  |
 | [Creature](https://open.spotify.com/track/3qtb4QrRXds6ub4k1Dp4CS) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Underspreche](https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm) | [Creature](https://open.spotify.com/album/1GFhzeEXsDCYqZ9xiQ1nOh) | 4:10 | 2022-04-15 | 2022-06-16 |

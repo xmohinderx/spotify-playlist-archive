@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Norma Jean",
-  "num_followers": 868139,
+  "num_followers": 868107,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkxNDAwMCwwMDAwMDAwMGIyZmVlOTViZmI5YmJjMjg3MTBmNTlkMjdkYjE2NmI4",
+  "snapshot_id": "MTY2MDkxNDAwMCwwMDAwMDAwMDFlMWQzZTc5YTgwZTE2MjZkYjg4NTRlY2RiNTU0MTA1",
   "tracks": [
     {
       "added_at": "2022-08-12 13:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
-      },
-      "artists": [
-        {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "PSYCHO",
         "url": "https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p"
       },
@@ -291,6 +275,22 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "Throne",
         "url": "https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA"
       },
@@ -303,6 +303,26 @@
       "duration_ms": 207936,
       "name": "Throne",
       "url": "https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Heretic",
+        "url": "https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y"
+      },
+      "artists": [
+        {
+          "name": "Novelists FR",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        },
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "duration_ms": 202418,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/6O6U83grucuxSktER0IbrM"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -335,26 +355,6 @@
       "duration_ms": 188057,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Heretic",
-        "url": "https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y"
-      },
-      "artists": [
-        {
-          "name": "Novelists FR",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        },
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 202418,
-      "name": "Heretic",
-      "url": "https://open.spotify.com/track/6O6U83grucuxSktER0IbrM"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -455,38 +455,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Venenosa",
-        "url": "https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7"
-      },
-      "artists": [
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
-        }
-      ],
-      "duration_ms": 190495,
-      "name": "Venenosa",
-      "url": "https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7"
-      },
-      "artists": [
-        {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
       },
@@ -499,6 +467,22 @@
       "duration_ms": 223050,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Venenosa",
+        "url": "https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "duration_ms": 190495,
+      "name": "Venenosa",
+      "url": "https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -535,6 +519,22 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "Hotel Underground",
         "url": "https://open.spotify.com/album/3GdgTYJ6MCD7nsQ8uZZly5"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 166181,
       "name": "Hotel Underground",
       "url": "https://open.spotify.com/track/0CoxiZuaRFycPJ0Xl1oSOJ"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Spearmint Revolt",
-        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
-        }
-      ],
-      "duration_ms": 302258,
-      "name": "Spearmint Revolt",
-      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -595,6 +579,22 @@
       "duration_ms": 280579,
       "name": "Thick As Blood",
       "url": "https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Spearmint Revolt",
+        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 302258,
+      "name": "Spearmint Revolt",
+      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "No Hope 'Til Now",
-        "url": "https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed"
-      },
-      "artists": [
-        {
-          "name": "The Veer Union",
-          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
-        }
-      ],
-      "duration_ms": 239571,
-      "name": "No Hope 'Til Now",
-      "url": "https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
       },
@@ -719,18 +703,34 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Forsaken",
-        "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
+        "name": "No Hope 'Til Now",
+        "url": "https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed"
       },
       "artists": [
         {
-          "name": "Until I Wake",
-          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
         }
       ],
-      "duration_ms": 183069,
-      "name": "Forsaken",
-      "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
+      "duration_ms": 239571,
+      "name": "No Hope 'Til Now",
+      "url": "https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69"
+      },
+      "artists": [
+        {
+          "name": "Awake the Dreamer",
+          "url": "https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69"
+        "name": "Forsaken",
+        "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
       },
       "artists": [
         {
-          "name": "Awake the Dreamer",
-          "url": "https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I"
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY"
+      "duration_ms": 183069,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -821,6 +821,26 @@
       "url": "https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU"
     },
     {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Coffin",
+        "url": "https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        },
+        {
+          "name": "Alpha Wolf",
+          "url": "https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Aching Longing",
+      "url": "https://open.spotify.com/track/49UQKQom802JUWPq63lxEb"
+    },
+    {
       "added_at": "2022-08-05 13:00:00",
       "album": {
         "name": "Shadows in Time",
@@ -855,26 +875,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Coffin",
-        "url": "https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        },
-        {
-          "name": "Alpha Wolf",
-          "url": "https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Aching Longing",
-      "url": "https://open.spotify.com/track/49UQKQom802JUWPq63lxEb"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Suffocate",
         "url": "https://open.spotify.com/album/6KXqyVNZsxl7NwgQVvtZ4C"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 227272,
       "name": "Suffocate",
       "url": "https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv"
-    },
-    {
-      "added_at": "2022-07-22 13:00:00",
-      "album": {
-        "name": "Eden Will Drown",
-        "url": "https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR"
-      },
-      "artists": [
-        {
-          "name": "END",
-          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Eden Will Drown",
-      "url": "https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -937,6 +921,38 @@
       "url": "https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW"
     },
     {
+      "added_at": "2022-07-22 13:00:00",
+      "album": {
+        "name": "Eden Will Drown",
+        "url": "https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR"
+      },
+      "artists": [
+        {
+          "name": "END",
+          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Eden Will Drown",
+      "url": "https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Miscreation",
+        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
+      },
+      "artists": [
+        {
+          "name": "The Anchor",
+          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
+        }
+      ],
+      "duration_ms": 213401,
+      "name": "Miscreation",
+      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
+    },
+    {
       "added_at": "2022-07-08 00:00:00",
       "album": {
         "name": "Rage",
@@ -955,18 +971,18 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Miscreation",
-        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw"
       },
       "artists": [
         {
-          "name": "The Anchor",
-          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
+          "name": "VENUES",
+          "url": "https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd"
         }
       ],
-      "duration_ms": 213401,
-      "name": "Miscreation",
-      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
+      "duration_ms": 187285,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -991,18 +1007,18 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw"
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
       },
       "artists": [
         {
-          "name": "VENUES",
-          "url": "https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd"
+          "name": "AVOID",
+          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
         }
       ],
-      "duration_ms": 187285,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc"
+      "duration_ms": 191000,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -1019,22 +1035,6 @@
       "duration_ms": 208228,
       "name": "Break Me Down",
       "url": "https://open.spotify.com/track/4Qgmwp20QeC0LFVK7cLo7v"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
-      },
-      "artists": [
-        {
-          "name": "AVOID",
-          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci"
+      },
+      "artists": [
+        {
+          "name": "Saving Vice",
+          "url": "https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b"
+        }
+      ],
+      "duration_ms": 230068,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/48gotqEngeagErLW3C1FUs"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "CHAOS CORP",
         "url": "https://open.spotify.com/album/4IJiZ1DlWNSsIAk2pEDlal"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "White Rabbit",
-        "url": "https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci"
-      },
-      "artists": [
-        {
-          "name": "Saving Vice",
-          "url": "https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b"
-        }
-      ],
-      "duration_ms": 230068,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/48gotqEngeagErLW3C1FUs"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "A King To Rise",
         "url": "https://open.spotify.com/album/4T9qyGOab2jMhedAUMMdJG"
       },
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Fault Line",
-        "url": "https://open.spotify.com/album/1uOILLHZaV1sjCVHVyS4JA"
+        "name": "Call It Home",
+        "url": "https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z"
       },
       "artists": [
         {
-          "name": "Patient Sixty-Seven",
-          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
+          "name": "Elyne",
+          "url": "https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk"
         }
       ],
-      "duration_ms": 210857,
-      "name": "Fault Line",
-      "url": "https://open.spotify.com/track/3dbLhhWTAh1JcezKuttLFo"
+      "duration_ms": 210128,
+      "name": "Call It Home",
+      "url": "https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO"
     },
     {
       "added_at": "2022-07-08 00:00:00",

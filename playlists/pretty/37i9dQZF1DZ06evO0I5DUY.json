@@ -1,79 +1,15 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 147165,
+  "num_followers": 147252,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc2ODMzNzEsMDAwMDAwMDA0ZDFkZmQ3ZTU4NjVkZGMxYzkzNDU2NzY2M2JhM2ZkMw==",
+  "snapshot_id": "Mjc2ODQ3OTIsMDAwMDAwMDBlYjE5MzgxZmRmYTVkMGYzN2RhYzQyODIyOWM4ZGQ4Mw==",
   "tracks": [
     {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "El Palomito",
-      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 159786,
-      "name": "Pistoleros Famosos",
-      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 169373,
-      "name": "El Asesino",
-      "url": "https://open.spotify.com/track/1VGeAuxojwsxwvtv610PQX"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "4 Decadas 20 Boleros",
         "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
@@ -89,10 +25,10 @@
       "url": "https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
-        "name": "Dos Vicios",
-        "url": "https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH"
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
       },
       "artists": [
         {
@@ -100,12 +36,60 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 159693,
-      "name": "Dos Vicios",
-      "url": "https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV"
+      "duration_ms": 198200,
+      "name": "El Palomito",
+      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 169373,
+      "name": "El Asesino",
+      "url": "https://open.spotify.com/track/1VGeAuxojwsxwvtv610PQX"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "Pistoleros Famosos",
+      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
@@ -125,7 +109,23 @@
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "Cruzando el Puente",
+      "url": "https://open.spotify.com/track/1OtStUZIjQB3K14DbQKwcl"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Los Dos Amigos",
         "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "4 Decadas 20 Boleros",
         "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
@@ -157,7 +157,23 @@
       "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "Dos Vicios",
+        "url": "https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159693,
+      "name": "Dos Vicios",
+      "url": "https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "4 Decadas de Exitos",
         "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/17hw7UqbbBZrDhDlgXh5eK"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "4 Decadas de Exitos",
         "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
@@ -241,23 +257,7 @@
       "url": "https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "Despedida con Mariachi",
-        "url": "https://open.spotify.com/album/2RzkJJUOCi1wSU9nHDcTMH"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 187293,
-      "name": "Lamberto Quintero",
-      "url": "https://open.spotify.com/track/3HwEFluOmMF1B01vhothH1"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "4 Decadas 20 Corridos",
         "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/35jrPAi7haQ0bz4HbVyyUg"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Pueblito",
         "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
@@ -289,23 +289,7 @@
       "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "Cruzando el Puente",
-      "url": "https://open.spotify.com/track/1OtStUZIjQB3K14DbQKwcl"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Corridos Divinos",
         "url": "https://open.spotify.com/album/35GToiXQVKvGORvuPluFKn"
@@ -321,23 +305,7 @@
       "url": "https://open.spotify.com/track/6T7yJ6ptjuHDQP8cXaiu2R"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Sabor de Enga\u00f1o",
-      "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Dos Coronas a Mi Madre",
         "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
@@ -353,10 +321,10 @@
       "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
       },
       "artists": [
         {
@@ -364,15 +332,15 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 189053,
-      "name": "El Hijo del Palenque",
-      "url": "https://open.spotify.com/track/1ymqGa3Bb74jhDjLZY6HSU"
+      "duration_ms": 186586,
+      "name": "Sabor de Enga\u00f1o",
+      "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+        "name": "Despedida con Mariachi",
+        "url": "https://open.spotify.com/album/2RzkJJUOCi1wSU9nHDcTMH"
       },
       "artists": [
         {
@@ -380,48 +348,12 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Dimas de Leon",
-      "url": "https://open.spotify.com/track/2D9mxadWpEHfaRlqV9m27i"
+      "duration_ms": 187293,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/3HwEFluOmMF1B01vhothH1"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Homero Guerrero y Lupe Tijerina",
-          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
-        }
-      ],
-      "duration_ms": 192920,
-      "name": "La Tragedia de Rosita",
-      "url": "https://open.spotify.com/track/3CWk6CPmJ5whGBjLjar4EZ"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "El Chubasco",
-      "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
@@ -437,7 +369,23 @@
       "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "El Hijo del Palenque",
+      "url": "https://open.spotify.com/track/1ymqGa3Bb74jhDjLZY6HSU"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
@@ -448,12 +396,12 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 177293,
-      "name": "Lucio Pena",
-      "url": "https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ"
+      "duration_ms": 172266,
+      "name": "Dimas de Leon",
+      "url": "https://open.spotify.com/track/2D9mxadWpEHfaRlqV9m27i"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
@@ -473,7 +421,7 @@
       "url": "https://open.spotify.com/track/732Yqu63YsZIXDFNcfFayY"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Dos Coronas a Mi Madre",
         "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
@@ -489,7 +437,7 @@
       "url": "https://open.spotify.com/track/65YDntJ69acRqx3ANaMrZL"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Explosion Norte\u00f1a",
         "url": "https://open.spotify.com/album/2R6VICqmXcj45VuwQ6G5Hr"
@@ -505,7 +453,75 @@
       "url": "https://open.spotify.com/track/6aAz6vKrqgnakvmzhwjQ6C"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "Lucio Pena",
+      "url": "https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+        }
+      ],
+      "duration_ms": 192920,
+      "name": "La Tragedia de Rosita",
+      "url": "https://open.spotify.com/track/3CWk6CPmJ5whGBjLjar4EZ"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "30 Cadetazos",
+        "url": "https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 120413,
+      "name": "Cielo Azul Cielo Nublado",
+      "url": "https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
@@ -521,27 +537,7 @@
       "url": "https://open.spotify.com/track/2L1Z29nDdQdU85JVMqUI96"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Lupe Tijerina y Rosendo Cantu",
-          "url": "https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD"
-        }
-      ],
-      "duration_ms": 145360,
-      "name": "Sucedio en el Aguaje",
-      "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "4 Decadas 20 Corridos",
         "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
@@ -557,39 +553,7 @@
       "url": "https://open.spotify.com/track/1na1Q8kP0MAC4K3CzFIQzF"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "Inspiracion Nortena",
-        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "Donde Estara Mi Caballo",
-      "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Hierba Polvo y Plomo",
-      "url": "https://open.spotify.com/track/5VJVZNPgD1H9e8Gj24YrU3"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
@@ -609,7 +573,7 @@
       "url": "https://open.spotify.com/track/411L3G5Fym2P3aiMey6ATm"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
@@ -625,10 +589,10 @@
       "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
-        "name": "30 Cadetazos",
-        "url": "https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8"
+        "name": "Inspiracion Nortena",
+        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
       },
       "artists": [
         {
@@ -636,12 +600,12 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 120413,
-      "name": "Cielo Azul Cielo Nublado",
-      "url": "https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi"
+      "duration_ms": 168746,
+      "name": "Donde Estara Mi Caballo",
+      "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "14 Kilates de Oro Vol. 2",
         "url": "https://open.spotify.com/album/5u8BsG7MUQo4TR3mYitKwl"
@@ -657,10 +621,10 @@
       "url": "https://open.spotify.com/track/3kO70lSqCm8dAEWYmVgNpf"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
-        "name": "Jesus Malverde",
-        "url": "https://open.spotify.com/album/6iQ9C4j0Esy5BPxfeC6lLo"
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
       },
       "artists": [
         {
@@ -668,92 +632,12 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 209506,
-      "name": "Corridos de los Perez",
-      "url": "https://open.spotify.com/track/4vzCg8pdKm9b6IzVnUbIIa"
+      "duration_ms": 179613,
+      "name": "Hierba Polvo y Plomo",
+      "url": "https://open.spotify.com/track/5VJVZNPgD1H9e8Gj24YrU3"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "A\u00f1orando Tus Besos",
-      "url": "https://open.spotify.com/track/5ajGpk5BqdTuyvuBLItxkx"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "Los Cadetes",
-        "url": "https://open.spotify.com/album/6uNdrT63Utmcx3ISlBKYvf"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "La Cruz Negra",
-      "url": "https://open.spotify.com/track/2DiBQzkbn1b33z76pQdu1h"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "14 Kilates de Oro Vol. 2",
-        "url": "https://open.spotify.com/album/5u8BsG7MUQo4TR3mYitKwl"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "La Venganza de Maria",
-      "url": "https://open.spotify.com/track/3hRWq3fwORy2taZefkFs8e"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Sinceramente",
-      "url": "https://open.spotify.com/track/7xwt2lHkykYzAYH6GPNyaf"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
-      "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Ezequiel Rodriguez",
-      "url": "https://open.spotify.com/track/49HTMbHr98K8GDok9CHHDR"
-    },
-    {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Una Pagina Mas",
         "url": "https://open.spotify.com/album/0ABbeJK5PIwDVTb5kiC28k"
@@ -769,10 +653,10 @@
       "url": "https://open.spotify.com/track/0yBaPIxrvxLHmWAhFPewmW"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
-        "name": "El Rogon",
-        "url": "https://open.spotify.com/album/6fvDNjvBwBtoZottzuSF2F"
+        "name": "Jesus Malverde",
+        "url": "https://open.spotify.com/album/6iQ9C4j0Esy5BPxfeC6lLo"
       },
       "artists": [
         {
@@ -780,15 +664,35 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 149480,
-      "name": "Que Seas Dichosa",
-      "url": "https://open.spotify.com/track/1sy7BYZT2GReFukI4YnYpl"
+      "duration_ms": 209506,
+      "name": "Corridos de los Perez",
+      "url": "https://open.spotify.com/track/4vzCg8pdKm9b6IzVnUbIIa"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Lupe Tijerina y Rosendo Cantu",
+          "url": "https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Nave 727",
+      "url": "https://open.spotify.com/track/7DffTGNIGuDdpNiPy766Es"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
       },
       "artists": [
         {
@@ -796,12 +700,44 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 162120,
-      "name": "Regalo de Reyes",
-      "url": "https://open.spotify.com/track/0ENJiHJvWTM5ZXgxyYRkIO"
+      "duration_ms": 187666,
+      "name": "A\u00f1orando Tus Besos",
+      "url": "https://open.spotify.com/track/5ajGpk5BqdTuyvuBLItxkx"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "14 Kilates de Oro Vol. 2",
+        "url": "https://open.spotify.com/album/5u8BsG7MUQo4TR3mYitKwl"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "La Venganza de Maria",
+      "url": "https://open.spotify.com/track/3hRWq3fwORy2taZefkFs8e"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "Los Cadetes",
+        "url": "https://open.spotify.com/album/6uNdrT63Utmcx3ISlBKYvf"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "La Cruz Negra",
+      "url": "https://open.spotify.com/track/2DiBQzkbn1b33z76pQdu1h"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
@@ -812,12 +748,60 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 140466,
-      "name": "Jose Lopez",
-      "url": "https://open.spotify.com/track/6DJrx5bu28lb4kBuus1oUI"
+      "duration_ms": 182306,
+      "name": "Ezequiel Rodriguez",
+      "url": "https://open.spotify.com/track/49HTMbHr98K8GDok9CHHDR"
     },
     {
-      "added_at": "2022-08-20 13:31:29",
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "Desprecio",
+      "url": "https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Sinceramente",
+      "url": "https://open.spotify.com/track/7xwt2lHkykYzAYH6GPNyaf"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "Las Tres Tumbas",
+        "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "Descansa General",
+      "url": "https://open.spotify.com/track/1pZB1cTeogCXkhWV0m98Eg"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
       "album": {
         "name": "Los Cadetes",
         "url": "https://open.spotify.com/album/6uNdrT63Utmcx3ISlBKYvf"
@@ -831,6 +815,22 @@
       "duration_ms": 169080,
       "name": "El Rog\u00f3n",
       "url": "https://open.spotify.com/track/3urP0J323Dt6wq239LZFmA"
+    },
+    {
+      "added_at": "2022-08-21 13:12:54",
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Generoso y Carmelita",
+      "url": "https://open.spotify.com/track/1xlgtF686KI0a3JfQwPcbl"
     }
   ],
   "unique_name": "This Is Los Cadetes De Linares",

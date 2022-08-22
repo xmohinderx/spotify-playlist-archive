@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Cover: Alvvays
 
-609 songs - 1 day 9 hr 11 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+610 songs - 1 day 9 hr 14 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,7 +584,8 @@
 | [Westside](https://open.spotify.com/track/5K1is8joaUpZJHuNkEoSfC) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:00 | 2021-06-07 | 2022-04-29 |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2022-07-18 |  |
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2022-01-14 | 2022-04-18 |
-| [Whales](https://open.spotify.com/track/3AvcYRJN8D1l0FzuDn4RWR) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/3YXFTOK6Jt2VnPAH4ZNuHm) | 3:29 | 2022-07-01 |  |
+| [Whales](https://open.spotify.com/track/0cUGSqx7MfnjiVwDzpYdYo) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow](https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq) | 3:29 | 2022-07-01 |  |
+| [Whales](https://open.spotify.com/track/3AvcYRJN8D1l0FzuDn4RWR) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/3YXFTOK6Jt2VnPAH4ZNuHm) | 3:29 | 2022-07-01 | 2022-08-22 |
 | [Whales](https://open.spotify.com/track/6XTQ6FLLNseIvbTKJmnC5v) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/4BFqoaKETPgls6ZnLnakjp) | 3:29 | 2022-06-14 | 2022-07-29 |
 | [What A Damn Shame](https://open.spotify.com/track/64aZu0DufRHVyNpr1x0qOf) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [What A Damn Shame](https://open.spotify.com/album/3GCU8o7xZYLMqF0PkLDy0s) | 2:36 | 2021-08-27 | 2022-04-08 |
 | [What About The Kids](https://open.spotify.com/track/156PSLfyznq2AW5wYXJ08v) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [What About The Kids](https://open.spotify.com/album/2DMYA2EswtcSmoXQgHeODP) | 3:37 | 2022-06-10 | 2022-07-30 |

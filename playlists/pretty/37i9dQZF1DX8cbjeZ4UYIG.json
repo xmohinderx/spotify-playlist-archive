@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 225689,
+  "num_followers": 225891,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY4MTQ0OSwwMDAwMDAwMDg5YWRkODIwOTU0NjU4ODcxNTNhZDY2ZTQ0YzhhNDA1",
+  "snapshot_id": "MTYxOTY4MTQ0OSwwMDAwMDAwMGY1MGIyODc4MDZjMGJkYWI1NWY4ZDdiNGE3ZDgzYmYx",
   "tracks": [
     {
       "added_at": "2020-10-06 12:32:47",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Mind Fruit",
-        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
-      },
-      "artists": [
-        {
-          "name": "Opus III",
-          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "It's a Fine Day",
-      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Move Your Body (Elevation) - EP",
         "url": "https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 231840,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Mind Fruit",
+        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
+      },
+      "artists": [
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "It's a Fine Day",
+      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Deliverance",
-        "url": "https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn"
-      },
-      "artists": [
-        {
-          "name": "Baby D",
-          "url": "https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc"
-        }
-      ],
-      "duration_ms": 470506,
-      "name": "Let Me Be Your Fantasy",
-      "url": "https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Electro Glide In Blue",
         "url": "https://open.spotify.com/album/5SBkxQjY7zgrKDrpz6vcV8"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 270400,
       "name": "Ain't Talkin' 'Bout Dub",
       "url": "https://open.spotify.com/track/0lk1zdGFPEv6U7omOAqhSs"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Deliverance",
+        "url": "https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn"
+      },
+      "artists": [
+        {
+          "name": "Baby D",
+          "url": "https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc"
+        }
+      ],
+      "duration_ms": 470506,
+      "name": "Let Me Be Your Fantasy",
+      "url": "https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "The Sound Of Belgium",
-        "url": "https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN"
-      },
-      "artists": [
-        {
-          "name": "CJ Bolland",
-          "url": "https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng"
-        }
-      ],
-      "duration_ms": 384475,
-      "name": "Camargue",
-      "url": "https://open.spotify.com/track/3W6LDkmCTlAktnIt9yQrY3"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "TB Resucitation",
         "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 280853,
       "name": "Feel Real Good",
       "url": "https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "The Sound Of Belgium",
+        "url": "https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN"
+      },
+      "artists": [
+        {
+          "name": "CJ Bolland",
+          "url": "https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng"
+        }
+      ],
+      "duration_ms": 384475,
+      "name": "Camargue",
+      "url": "https://open.spotify.com/track/3W6LDkmCTlAktnIt9yQrY3"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -659,22 +659,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Utd. State 90",
-        "url": "https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "C\u00fcbik",
-      "url": "https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "This Style",
         "url": "https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 334129,
       "name": "This Style",
       "url": "https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Utd. State 90",
+        "url": "https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "C\u00fcbik",
+      "url": "https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa"
     },
     {
       "added_at": "2020-10-06 12:32:47",

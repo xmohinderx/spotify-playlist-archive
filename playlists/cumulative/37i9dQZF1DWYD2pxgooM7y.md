@@ -4,7 +4,7 @@
 
 > Summertime sadness everyday
 
-413 songs - 23 hr 1 min - [published](https://open.spotify.com/playlist/6cyWpehxt0KCj4u5mLdL90)
+414 songs - 23 hr 5 min - [published](https://open.spotify.com/playlist/6cyWpehxt0KCj4u5mLdL90)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 | 2021-10-14 | 2022-07-28 |
 | [Sun Kissed Skin](https://open.spotify.com/track/4VbdDpeUcqveGtJwgAPQok) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Strawberry Feels](https://open.spotify.com/album/3haj6qOs7ycjWUZft8HuHu) | 4:05 | 2022-04-01 | 2022-04-18 |
 | [Sunday](https://open.spotify.com/track/1xC8KNH4EqU5BLB8SPRy9m) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Sunday](https://open.spotify.com/album/6WKLcyxc89SFBuHWNPVky4) | 3:32 | 2022-04-01 | 2022-04-20 |
-| [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2022-04-01 |  |
+| [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2022-04-01 | 2022-08-22 |
 | [Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Sundress](https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl) | 2:38 | 2022-04-01 |  |
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2022-04-01 |  |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2022-04-01 |  |
@@ -368,6 +368,7 @@
 | [Swim good](https://open.spotify.com/track/2ZK4cJTlxohFdmQKli0Yvo) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy), [SOMIN](https://open.spotify.com/artist/6awncfLx4nMbIIlud7mLrZ) | [Breakers Semi Final](https://open.spotify.com/album/3I3Ie4lT5tHuztlRvC9FFH) | 3:55 | 2022-04-01 | 2022-04-16 |
 | [Swimming Fool](https://open.spotify.com/track/0WdLp00HrAgjldOqFTpqb5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:07 | 2022-04-01 | 2022-04-17 |
 | [Swimming Pool](https://open.spotify.com/track/1yO91Oyey81Sjp5kb9O1dw) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Swimming Pool](https://open.spotify.com/album/6mQD5plC1L2DgEtNpH5RUI) | 3:43 | 2022-04-01 | 2022-04-20 |
+| [Swimming Pools \(Drank\)](https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH) | 4:07 | 2022-04-01 |  |
 | [Take A Hike](https://open.spotify.com/track/0grQK3W2AsUih8AbMWArtO) | [Ji Yeon](https://open.spotify.com/artist/4ojQ8Cy1AVup7CZ0OG68eq) | [SENPASS](https://open.spotify.com/album/3AqnltBoRYlppgVM1VAGDK) | 3:00 | 2022-04-01 | 2022-04-15 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2022-04-01 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-10-14 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-87 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
+88 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Running in Place](https://open.spotify.com/track/4fJPDl0e9eftGofdO2cZea) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Running in Place](https://open.spotify.com/album/7JQP3efrsVzxkB3mimXxAB) | 3:08 | 2022-05-29 |  |
 | [sfs](https://open.spotify.com/track/0JnR8VnHPpeo2JfFlUGn7D) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [sfs](https://open.spotify.com/album/2eR1ow7k6QZqrCSMDoaHc2) | 2:39 | 2022-05-29 |  |
 | [Shouldn't Couldn't Wouldn't](https://open.spotify.com/track/16ox7ZM0ozbzBOTjFecYuY) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Head In The Clouds II](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) | 3:15 | 2022-05-29 |  |
-| [Still Healing \(feat\. JAMiiSON\)](https://open.spotify.com/track/5pzQ6SHl5ZzsYnWSZaaXwF) | [OFF TOP](https://open.spotify.com/artist/1qfVE7DbB6U9djizm6Qtsl), [Jamiison](https://open.spotify.com/artist/1Agg6zZOXNBJiWNBrOGA9a) | [Waves](https://open.spotify.com/album/6N44nmfMlrEp1vHV9mRmMC) | 2:15 | 2022-05-29 |  |
+| [Still Healing](https://open.spotify.com/track/53VZW4XxtnqlMLI08YrmYb) | [OFF TOP](https://open.spotify.com/artist/1qfVE7DbB6U9djizm6Qtsl), [Jamiison](https://open.spotify.com/artist/1Agg6zZOXNBJiWNBrOGA9a) | [Waves](https://open.spotify.com/album/4DwTCENDrvdFJVB5odaxiI) | 2:15 | 2022-08-21 |  |
+| [Still Healing \(feat\. JAMiiSON\)](https://open.spotify.com/track/5pzQ6SHl5ZzsYnWSZaaXwF) | [OFF TOP](https://open.spotify.com/artist/1qfVE7DbB6U9djizm6Qtsl), [Jamiison](https://open.spotify.com/artist/1Agg6zZOXNBJiWNBrOGA9a) | [Waves](https://open.spotify.com/album/6N44nmfMlrEp1vHV9mRmMC) | 2:15 | 2022-05-29 | 2022-08-22 |
 | [stockholm's a ghost town](https://open.spotify.com/track/7cdXnczyweF4F6v7lfB8xh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [stockholm's a ghost town](https://open.spotify.com/album/7yv0GU6bkJGMBxI0C4H6W1) | 2:50 | 2022-05-29 |  |
 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 | 2022-05-29 |  |
 | [There for You](https://open.spotify.com/track/38IkWM27SIOSsJXOUpTMFh) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/6Mg4BvozVs7H9L6QGl5tJB) | 2:37 | 2022-05-29 | 2022-07-29 |

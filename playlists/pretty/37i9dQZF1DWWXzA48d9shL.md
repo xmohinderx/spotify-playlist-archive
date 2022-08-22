@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Sing Me a Lullaby, My Sweet Temptation, the latest album by the $uicideboy$.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,220 likes - 78 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,496 likes - 78 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
 | 2 | [BALL LIKE THIS](https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [BALL LIKE THIS](https://open.spotify.com/album/3uqHaUjyxgXQb6FD4w4LFQ) | 2:02 |
-| 3 | [DELIRIUM](https://open.spotify.com/track/3dpXWb3vTMzyL6KbFqB61Y) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL) | [DELIRIUM](https://open.spotify.com/album/5UpCybC6vRO1n444JQwCez) | 2:10 |
-| 4 | [bloody!](https://open.spotify.com/track/4ZBEfyphqFsSkjWP7y2L6E) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [bloody!](https://open.spotify.com/album/3yAw6PBvcHJo3nVyHKEOp8) | 1:53 |
-| 5 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 |
-| 6 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
-| 7 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
+| 3 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 |
+| 4 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
+| 5 | [DELIRIUM](https://open.spotify.com/track/3dpXWb3vTMzyL6KbFqB61Y) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL) | [DELIRIUM](https://open.spotify.com/album/5UpCybC6vRO1n444JQwCez) | 2:10 |
+| 6 | [bloody!](https://open.spotify.com/track/4ZBEfyphqFsSkjWP7y2L6E) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [bloody!](https://open.spotify.com/album/3yAw6PBvcHJo3nVyHKEOp8) | 1:53 |
+| 7 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
 | 8 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |
 | 9 | [Fucking Your Culture](https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:15 |
-| 10 | [BULLET](https://open.spotify.com/track/1LUblxczgUUs7nzCQ9sY9i) | [NORTMIRAGE](https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [BULLET](https://open.spotify.com/album/6iPQNv6SDZb8it4BvecDqI) | 1:53 |
-| 11 | [POLTERGEIST!](https://open.spotify.com/track/041sluNZwBxTCOuu766eNi) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [POLTERGEIST!](https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp) | 1:41 |
+| 10 | [POLTERGEIST!](https://open.spotify.com/track/041sluNZwBxTCOuu766eNi) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [POLTERGEIST!](https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp) | 1:41 |
+| 11 | [BULLET](https://open.spotify.com/track/1LUblxczgUUs7nzCQ9sY9i) | [NORTMIRAGE](https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [BULLET](https://open.spotify.com/album/6iPQNv6SDZb8it4BvecDqI) | 1:53 |
 | 12 | [Contingency Clip](https://open.spotify.com/track/5YxSPO3PPISlrqDvSbT0Dz) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Contingency Clip](https://open.spotify.com/album/7aoSX7FxnN4wAZ37tQrhrF) | 2:25 |
 | 13 | [\#ImSippinTeaInYoHood](https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:53 |
 | 14 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 77 | [On The Weekends I Feel Like Drake \- Studio Version](https://open.spotify.com/track/5HZ7CYcuQeQfwZ5vNve4Cg) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [On The Weekends I Feel Like Drake \(Studio Version\)](https://open.spotify.com/album/1hAMvomhEuz5ojXn82h2iI) | 2:21 |
 | 78 | [LOOK BACK.](https://open.spotify.com/track/6LcmaUtUnGlVgGdFpCs01n) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [LOOK BACK.](https://open.spotify.com/album/2z7gaV2FLPkpj1GRRdRxSs) | 2:28 |
 
-Snapshot ID: `MTY2MDkyNDA3NywwMDAwMDAwMGMwMjRhYmRmNjBmODI4MDA5MzU4ZmFmODFkNWVkOGRi`
+Snapshot ID: `MTY2MTEwMTQyMiwwMDAwMDAwMDhmMzRiZDViODVkMjg3NTA3NmY4NTk4ZDgxMGVlMTk1`

@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-330 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+331 songs - 18 hr 57 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [De Kenner](https://open.spotify.com/track/4c4LWUxRCNpBc5nSdRQGlz) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [FBC](https://open.spotify.com/artist/1nCrupU2QD7Edvz2EeN3G0), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [De Kenner](https://open.spotify.com/album/3KpFIRR5isfnl8DevtTrvB) | 5:20 | 2022-06-24 | 2022-07-02 |
 | [Deep State](https://open.spotify.com/track/5T1fza9F8TTuB1pGqDGziH) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Deep State](https://open.spotify.com/album/2GOLTHiwyNWYHQaBuIZASH) | 2:52 | 2022-04-29 | 2022-05-14 |
 | [Deeper Love](https://open.spotify.com/track/7lCWOmZukYQmIPDB40BLyC) | [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb), [Elijah & Grundy](https://open.spotify.com/artist/57ZguCkaG6uymquyEMVyTl), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Deeper Love](https://open.spotify.com/album/5JLBlimO9JzoWpur7NqX9S) | 3:32 | 2022-08-05 |  |
+| [Demons](https://open.spotify.com/track/5usdD4a3nB3XB2QAqkqAzS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [My Demons](https://open.spotify.com/album/250dVzSQ7jsd6p908mAccd) | 3:36 | 2022-08-21 |  |
 | [Disco 2000](https://open.spotify.com/track/1EdQjkmMIXbpYWj3vqzmtR) | [KI Creighton](https://open.spotify.com/artist/54fZiNN8CtExTWCj5Gbeu4) | [Disco 2000](https://open.spotify.com/album/7BORydkMuk1YBPPdA0HNjc) | 6:35 | 2022-06-24 | 2022-07-02 |
 | [Distance](https://open.spotify.com/track/5WxyKbZJepO7ixilyXujUV) | [CHAN \(US\)](https://open.spotify.com/artist/0rta5CqdVmeu2vXgfXPd46) | [Distance](https://open.spotify.com/album/5spQ8UdmCBoTdNLWVDOIaM) | 3:44 | 2022-07-01 | 2022-07-10 |
 | [DO 2 U](https://open.spotify.com/track/5Y9MCecovfguPkYHw63jvJ) | [Bryan Softwell](https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf) | [DO 2 U](https://open.spotify.com/album/1CBv0oYf70prTPOBSr7llx) | 3:12 | 2022-07-29 | 2022-08-06 |

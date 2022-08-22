@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: flipturn
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,117 likes - 125 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,226 likes - 125 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 102 | [Emily Says](https://open.spotify.com/track/7LXLkR8IHaqUgXHaJ8H0xh) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Emily Says](https://open.spotify.com/album/3Se8kw4yGvGjogLq0SQVuK) | 3:18 |
 | 103 | [Never Go](https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Hawaii](https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE) | 2:36 |
 | 104 | [Thy Mission](https://open.spotify.com/track/7LcmuGeSXQzQlteW3yGtWb) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Thy Mission](https://open.spotify.com/album/7JxyWvp7fQlLNdrTUDBtHo) | 3:41 |
-| 105 | [Spin](https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Running](https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY) | 3:32 |
+| 105 | [Spin](https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 3:32 |
 | 106 | [Heaven in Your Head](https://open.spotify.com/track/4GBxHpWJ8kF8w1hX8pw4VL) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Heaven in Your Head](https://open.spotify.com/album/1ijAzqI3b0LJdS0fgWaDJ1) | 3:14 |
 | 107 | [Go Slow](https://open.spotify.com/track/7B7CJVHZq5EPzylyt87vB5) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Go Slow](https://open.spotify.com/album/26FMqBnzWjXHsgogCXRGKb) | 3:20 |
 | 108 | [Vampires](https://open.spotify.com/track/570aJug2ngcmKkXiwepoAP) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Sportswear](https://open.spotify.com/album/2JNvdQC3wLDgvCefjFXAfQ) | 3:52 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 124 | [Once More](https://open.spotify.com/track/3pI9rsup0vcma9YE0PI10t) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Once More](https://open.spotify.com/album/33MciQPUWvqtKSCb1WPRG7) | 3:24 |
 | 125 | [Dig Your Hips](https://open.spotify.com/track/60pbL1E7ekFuAwtW4UNAxv) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Hollywood Junkyard EP](https://open.spotify.com/album/3U9iSgIU0CJswpRQvcaVPk) | 3:18 |
 
-Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDQzMWJjNzUyZTI0ZGQ1NjQyYzkzOTkzOGIyZTUwMzI2`
+Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDU5OGU4YzcxOWUwNWZiMzdkOGIwNTIwMDVhODY1NjJh`

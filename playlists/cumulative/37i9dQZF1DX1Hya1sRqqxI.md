@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-318 songs - 21 hr 1 min - [published](https://open.spotify.com/playlist/2OkbfmWWY4oCLX6EhdyVrn)
+319 songs - 21 hr 5 min - [published](https://open.spotify.com/playlist/2OkbfmWWY4oCLX6EhdyVrn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Doctor's Orders](https://open.spotify.com/track/0mOIj8tjNHcOBWSTGXmGVr) | [Carol Douglas](https://open.spotify.com/artist/7xcXR8rEj6eRPVMFjUNtBe) | [Disco 45's: A Short Trip Into Ecstasy](https://open.spotify.com/album/54ye0ADCH8Xp0R0rvGSviC) | 3:02 | 2021-09-08 | 2022-07-29 |
 | [Does Your Mother Know](https://open.spotify.com/track/2HPB3px8MJZRMfu1L65Z41) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:13 | 2021-09-08 | 2022-07-29 |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 | 2021-03-22 |  |
-| [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 | 2021-09-08 |  |
+| [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 | 2021-09-08 | 2022-08-22 |
 | [Don't Leave Me This Way](https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx) | 3:37 | 2021-09-08 | 2022-07-29 |
 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 | 2021-09-08 |  |
 | [Don't Let Go](https://open.spotify.com/track/0bFGteEuBXbVd0fbV2XpD3) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Don't Let Go \(Expanded Edition\)](https://open.spotify.com/album/1LHq5SCXAmNmF9cD9cnWpH) | 7:15 | 2021-09-08 | 2022-07-22 |
@@ -140,6 +140,7 @@
 | [I'm On Fire](https://open.spotify.com/track/2LKVqj0hkZsqQTOuWypM1c) | [5000 Volts](https://open.spotify.com/artist/4U9FglMGShioV0yV8qcNFd) | [70s Gems](https://open.spotify.com/album/2qlmtkBLyoBDkGRVcKh00D) | 2:34 | 2021-09-08 | 2022-07-15 |
 | [I've Got to Use My Imagination](https://open.spotify.com/track/5r3q5qzU1LoxfORgwuvLCa) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 3:30 | 2021-09-08 | 2022-03-19 |
 | [If I Can't Have You \- From "Saturday Night Fever"](https://open.spotify.com/track/074AR1n9TLRFUPJqYSvA7r) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [Saturday Night Fever \(The Original Movie Soundtrack Deluxe Edition\)](https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7) | 2:58 | 2021-03-22 | 2022-07-29 |
+| [If You Can't Give Me Love \- 2017 Remaster](https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [If You Knew Suzi… \(2017 Remaster\)](https://open.spotify.com/album/3li6vNhRkVvZCAKzlMD0uI) | 3:52 | 2021-03-22 |  |
 | [If You Can't Give Me Love \- 2017 Remaster](https://open.spotify.com/track/59mUgn4E4DWcB2lh5oRG2I) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [If You Knew Suzi… \(2017 Remaster\)](https://open.spotify.com/album/1F8Hmjm8xJC1OhSEMn7pDR) | 3:52 | 2021-03-22 | 2022-07-29 |
 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 | 2021-09-08 |  |
 | [In the Navy \- Original Version 1979](https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West In the Navy](https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i) | 5:39 | 2021-09-08 |  |

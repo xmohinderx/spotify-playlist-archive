@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-151 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+152 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,10 +112,11 @@
 | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl) | 3:38 | 2021-11-12 | 2022-07-10 |
 | [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 | 2021-11-12 | 2022-03-21 |
 | [Messed Up On Christmas](https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [XMAS 01](https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc) | 2:21 | 2021-11-12 |  |
-| [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 | 2021-12-03 |  |
+| [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 | 2021-12-03 | 2022-08-22 |
 | [My Only Little Wish \(Is You\)](https://open.spotify.com/track/33UyXIgttGjIkounlO51Ay) | [asking for a friend](https://open.spotify.com/artist/3rHc6krX8mtdragl9o6eLy), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2), [DYSN](https://open.spotify.com/artist/2zPdY1UXnOn4PC4GpoOkPm) | [My Only Little Wish \(Is You\)](https://open.spotify.com/album/3AalQDa1ftZyQDMiKJTs1v) | 3:00 | 2021-11-12 | 2022-07-27 |
 | [O Holy Night](https://open.spotify.com/track/7GaUxiJvhyZRe16Pt4V8FZ) | [Don McCloskey](https://open.spotify.com/artist/3sIOor80ttkEgpYFQu6NMH) | [O Holy Night](https://open.spotify.com/album/2dYqxXKtKJigqTrCFuweqQ) | 5:06 | 2021-11-12 | 2022-07-28 |
 | [On Christmas Night](https://open.spotify.com/track/7AhwtvWWMdohC9G1n0LJH2) | [Nelson Can](https://open.spotify.com/artist/5pYHnsao4ARhkpGvHGTgHP) | [On Christmas Night](https://open.spotify.com/album/67govfB9y8dX4ECr33I8DW) | 3:29 | 2021-11-12 | 2022-05-14 |
+| [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 | 2021-11-12 |  |
 | [Pink Xmas Tree](https://open.spotify.com/track/4CUon9bxIwVXCG9CdJlvOS) | [Jagged Jaw](https://open.spotify.com/artist/3Es6oUz3zUC5IZDRRhcRxG) | [Pink Xmas Tree](https://open.spotify.com/album/4ttCLHM3YmqgYPB58w4SWU) | 3:20 | 2021-11-12 | 2022-06-07 |
 | [pumpkin bread](https://open.spotify.com/track/603mAqHBigy7cueil9FxJf) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [pumpkin bread](https://open.spotify.com/album/1Bm7slaDsarcd8ZinmA9py) | 2:57 | 2022-01-07 |  |
 | [Red River Rock](https://open.spotify.com/track/52EcieQczA1KKZ9ed5P7J8) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Red River Rock](https://open.spotify.com/album/2oF0Uy7bSrLNm2GiCvZStu) | 2:09 | 2022-01-07 | 2022-07-29 |

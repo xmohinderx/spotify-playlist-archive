@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 50657,
+  "num_followers": 50694,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMGY4MDdmYTQ4MTU3ZDVmYzZmMTdkMzc1ZDJlNWI2NmY1",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDQ0MWYzYWQwNWUyZDRhNWJkNmQ1ZWQ0ODNkOTFjYmU4",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "How Long Have You Been Away?",
+        "url": "https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "How Long Have You Been Away?",
+      "url": "https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "Somewhere (feat. Gus Dapperton)",
         "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
       },
@@ -443,18 +459,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "How Long Have You Been Away?",
-        "url": "https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij"
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
       },
       "artists": [
         {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         }
       ],
-      "duration_ms": 208568,
-      "name": "How Long Have You Been Away?",
-      "url": "https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh"
+      "duration_ms": 183813,
+      "name": "Nagano",
+      "url": "https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -475,26 +495,6 @@
       "duration_ms": 136427,
       "name": "PAGA DIOS",
       "url": "https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Nagano",
-      "url": "https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "Eleuthera (Catching Flies Remix)",
+        "url": "https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        },
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 263926,
+      "name": "Eleuthera - Catching Flies Remix",
+      "url": "https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "M\u00e1quina Yin Yang",
         "url": "https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 274576,
       "name": "Los Buenos Tiempos",
       "url": "https://open.spotify.com/track/6mSzSTjVWDsXEsUuCEqKWF"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Eleuthera (Catching Flies Remix)",
-        "url": "https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        },
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 263926,
-      "name": "Eleuthera - Catching Flies Remix",
-      "url": "https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg"
     },
     {
       "added_at": "2022-07-29 05:00:00",

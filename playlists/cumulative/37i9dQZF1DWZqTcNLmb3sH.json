@@ -684,6 +684,32 @@
     },
     {
       "album": {
+        "name": "Attack [From \"Liger (Kannada)\"]",
+        "url": "https://open.spotify.com/album/5wPevXPFHzfsWeI71O9FiR"
+      },
+      "artists": [
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Vyasaraj Sosale",
+          "url": "https://open.spotify.com/artist/0O8FIZczDo2bCQ3tbSm0q5"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Attack (From \"Liger (Kannada)\")",
+      "url": "https://open.spotify.com/track/2xH5u306wewYsDzOkZv5qD"
+    },
+    {
+      "album": {
         "name": "Avatara Purusha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6DxronrVkYLqb6A7zw3x06"
       },

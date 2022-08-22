@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,848 likes - 69 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,122 likes - 69 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

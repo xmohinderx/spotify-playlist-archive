@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 82592,
+  "num_followers": 82657,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDAxOTc0NSwwMDAwMDAwMDYzODBjMTkwNmIxMjE1NmVjY2U0ZWQ2NGM0ODQ2ZmJk",
+  "snapshot_id": "MTY0MDAxOTc0NSwwMDAwMDAwMDFlMGMyODk4Y2Y4MGIxOTQwMmJkM2YzM2FhMzhlODgw",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -475,6 +475,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Sin Parar",
+        "url": "https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v"
+      },
+      "artists": [
+        {
+          "name": "Wiso G",
+          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "La Qu\u00edmica",
+      "url": "https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Playero 40 New Era",
         "url": "https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 157066,
       "name": "Tengo una Punto 40",
       "url": "https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Sin Parar",
-        "url": "https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v"
-      },
-      "artists": [
-        {
-          "name": "Wiso G",
-          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "La Qu\u00edmica",
-      "url": "https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Los Duen\u0303os De La Disco Clasico",
-        "url": "https://open.spotify.com/album/4rVTwbTlIJsw4Gw9Y4bOZY"
-      },
-      "artists": [
-        {
-          "name": "Alberto Stylee",
-          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
-        }
-      ],
-      "duration_ms": 197198,
-      "name": "A Mi Me Gusta",
-      "url": "https://open.spotify.com/track/46aYwWPK8JEwhJJ9arlQM9"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Reggae Hits, Vol. 11",
         "url": "https://open.spotify.com/album/2JimbOB089I6bUYDvPLY6P"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 209693,
       "name": "Hot This Year",
       "url": "https://open.spotify.com/track/0Pp9uh741YQbUAcAJlb2RJ"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Los Duen\u0303os De La Disco Clasico",
+        "url": "https://open.spotify.com/album/4rVTwbTlIJsw4Gw9Y4bOZY"
+      },
+      "artists": [
+        {
+          "name": "Alberto Stylee",
+          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
+        }
+      ],
+      "duration_ms": 197198,
+      "name": "A Mi Me Gusta",
+      "url": "https://open.spotify.com/track/46aYwWPK8JEwhJJ9arlQM9"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Coleccion Salsa Discotheque - Vol. 1",
-        "url": "https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH"
-      },
-      "artists": [
-        {
-          "name": "Cocoman",
-          "url": "https://open.spotify.com/artist/2X7JES916nMn3KrTj2nmW2"
-        }
-      ],
-      "duration_ms": 336026,
-      "name": "El Marciano",
-      "url": "https://open.spotify.com/track/0JAlJEXX3yYNQ5bNFH7yN0"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "No Fear Live",
         "url": "https://open.spotify.com/album/3Q682W4ilQpUfwbFJwap4f"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 181146,
       "name": "Voltio (Live)",
       "url": "https://open.spotify.com/track/3DneCEkBhWz7Qy92mcNzW0"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+      },
+      "artists": [
+        {
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+        }
+      ],
+      "duration_ms": 65618,
+      "name": "Tu Amor Es un Crimen",
+      "url": "https://open.spotify.com/track/7pvpmxMwwOAQcpoVDSfLip"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+        "name": "Coleccion Salsa Discotheque - Vol. 1",
+        "url": "https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH"
       },
       "artists": [
         {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+          "name": "Cocoman",
+          "url": "https://open.spotify.com/artist/2X7JES916nMn3KrTj2nmW2"
         }
       ],
-      "duration_ms": 65618,
-      "name": "Tu Amor Es un Crimen",
-      "url": "https://open.spotify.com/track/7pvpmxMwwOAQcpoVDSfLip"
+      "duration_ms": 336026,
+      "name": "El Marciano",
+      "url": "https://open.spotify.com/track/0JAlJEXX3yYNQ5bNFH7yN0"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+        "name": "El Poder de la M\u00fasica",
+        "url": "https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p"
       },
       "artists": [
         {
-          "name": "Frankie Boy",
-          "url": "https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN"
+          "name": "Ledesma",
+          "url": "https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z"
         }
       ],
-      "duration_ms": 101632,
-      "name": "Liza Love",
-      "url": "https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR"
+      "duration_ms": 235773,
+      "name": "El Lloron",
+      "url": "https://open.spotify.com/track/4O5VaPssQGPKnPZiISNWgI"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1119,18 +1119,34 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "El Poder de la M\u00fasica",
-        "url": "https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p"
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
       },
       "artists": [
         {
-          "name": "Ledesma",
-          "url": "https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z"
+          "name": "Frankie Boy",
+          "url": "https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN"
         }
       ],
-      "duration_ms": 235773,
-      "name": "El Lloron",
-      "url": "https://open.spotify.com/track/4O5VaPssQGPKnPZiISNWgI"
+      "duration_ms": 101632,
+      "name": "Liza Love",
+      "url": "https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+      },
+      "artists": [
+        {
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+        }
+      ],
+      "duration_ms": 123621,
+      "name": "Brutalidad",
+      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
       "artists": [
         {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 123621,
-      "name": "Brutalidad",
-      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
+      "duration_ms": 216053,
+      "name": "Por Mi Reggae Muero",
+      "url": "https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+        "name": "Como en los Tiempos de Antes",
+        "url": "https://open.spotify.com/album/2pPLwkTVYRdJvHIll0HgSa"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Maicol y Manuel",
+          "url": "https://open.spotify.com/artist/6P3WZjRn6nYJ7xIpCZsxTZ"
         }
       ],
-      "duration_ms": 216053,
-      "name": "Por Mi Reggae Muero",
-      "url": "https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF"
+      "duration_ms": 197386,
+      "name": "Playero 38",
+      "url": "https://open.spotify.com/track/1IU6DEctXXQhBU1fH0Vcbh"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Como en los Tiempos de Antes",
-        "url": "https://open.spotify.com/album/2pPLwkTVYRdJvHIll0HgSa"
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W"
       },
       "artists": [
         {
-          "name": "Maicol y Manuel",
-          "url": "https://open.spotify.com/artist/6P3WZjRn6nYJ7xIpCZsxTZ"
+          "name": "Latin Fresh",
+          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
         }
       ],
-      "duration_ms": 197386,
-      "name": "Playero 38",
-      "url": "https://open.spotify.com/track/1IU6DEctXXQhBU1fH0Vcbh"
+      "duration_ms": 212401,
+      "name": "Ella Se Arrebata",
+      "url": "https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1255,22 +1271,6 @@
       "duration_ms": 171346,
       "name": "Marijuana",
       "url": "https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Ragga Heros, Vol. 1",
-        "url": "https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1"
-      },
-      "artists": [
-        {
-          "name": "Jam & Suppose",
-          "url": "https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Camion Lleno de Gun",
-      "url": "https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS"
+        "name": "Ragga Heros, Vol. 1",
+        "url": "https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1"
       },
       "artists": [
         {
-          "name": "Tempo",
-          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+          "name": "Jam & Suppose",
+          "url": "https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q"
         }
       ],
-      "duration_ms": 275973,
-      "name": "Las Pistolas Seguiran",
-      "url": "https://open.spotify.com/track/6q1B6jMBv0Q5T7AnVFmQS2"
+      "duration_ms": 214946,
+      "name": "Camion Lleno de Gun",
+      "url": "https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N"
     }
   ],
   "unique_name": "Reggaeton: El Inicio",

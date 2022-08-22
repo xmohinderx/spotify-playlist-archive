@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 47226,
+  "num_followers": 47354,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTU4MCwwMDAwMDAwMGEyN2U2NDQzNmEzYjQyZTYxNGFmMzBiMDQyMjhhMDJk",
+  "snapshot_id": "MTY1OTEwNTU4MCwwMDAwMDAwMGU1N2FjZjY2ZDczNzNmNTEzMGNmNTJiMmEyOWY3YTQx",
   "tracks": [
     {
       "added_at": "2022-07-29 14:39:40",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2022-07-29 14:39:40",
-      "album": {
         "name": "Johnny Winter",
         "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 314880,
       "name": "Be Careful With a Fool",
       "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
+    },
+    {
+      "added_at": "2022-07-29 14:39:40",
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": "2022-07-29 14:39:40",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Tommy Castro Presents A Bluesman Came To Town",
-        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
       "artists": [
         {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 316006,
-      "name": "Blues Prisoner",
-      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
+      "duration_ms": 237973,
+      "name": "Feel Like Going Home",
+      "url": "https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C"
     },
     {
       "added_at": "2022-07-29 14:39:40",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
+        "name": "Tommy Castro Presents A Bluesman Came To Town",
+        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 316006,
+      "name": "Blues Prisoner",
+      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
+    },
+    {
+      "added_at": "2022-07-29 14:39:40",
+      "album": {
         "name": "My Blues Pathway",
         "url": "https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 313253,
       "name": "Struggle for Grace",
       "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
-    },
-    {
-      "added_at": "2022-07-29 14:39:40",
-      "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Feel Like Going Home",
-      "url": "https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C"
     },
     {
       "added_at": "2022-07-29 14:39:40",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Born Under A Bad Sign",
-        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Personal Manager",
-      "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
-    },
-    {
-      "added_at": "2022-07-29 14:39:40",
-      "album": {
         "name": "Presenting Robert Nighthawk",
         "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 184466,
       "name": "Black Angel Blues",
       "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
+    },
+    {
+      "added_at": "2022-07-29 14:39:40",
+      "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Personal Manager",
+      "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
     },
     {
       "added_at": "2022-07-29 14:39:40",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "As Good As It Gets",
-        "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 338373,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe"
-    },
-    {
-      "added_at": "2022-07-29 14:39:40",
-      "album": {
         "name": "Working Man",
         "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Put In a Little Time",
-        "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
+        "name": "As Good As It Gets",
+        "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
       },
       "artists": [
         {
-          "name": "James Cooke",
-          "url": "https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 280062,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+      "duration_ms": 338373,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe"
     },
     {
       "added_at": "2022-07-29 14:39:40",
@@ -747,6 +731,22 @@
       "duration_ms": 292040,
       "name": "Black Night",
       "url": "https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF"
+    },
+    {
+      "added_at": "2022-07-29 14:39:40",
+      "album": {
+        "name": "Put In a Little Time",
+        "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
+      },
+      "artists": [
+        {
+          "name": "James Cooke",
+          "url": "https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U"
+        }
+      ],
+      "duration_ms": 280062,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
     },
     {
       "added_at": "2022-07-29 14:39:40",

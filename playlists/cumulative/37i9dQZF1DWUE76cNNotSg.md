@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-309 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
+310 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Love Is Everywhere](https://open.spotify.com/track/5MksbOMHAd9hsFkQQnEV1m) | [NTEIBINT](https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw), [Matina Sous Peau](https://open.spotify.com/artist/0aGfhWFRGPh2pgWQL9kYtU) | [Love Is Everywhere](https://open.spotify.com/album/67XCfgznITjTwCWkMWHySA) | 4:27 | 2020-12-22 | 2022-04-14 |
 | [Love Music](https://open.spotify.com/track/0zS3tYNsuzvba8q56930T2) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW) | [Love Music](https://open.spotify.com/album/6Vic53TolsMk2phqGftC3p) | 6:34 | 2020-12-22 | 2022-04-10 |
 | [Lust for Delirium](https://open.spotify.com/track/2orT8RBYk5i2ntDEokyhCV) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD) | [Lust for Delirium](https://open.spotify.com/album/3ZSmvouT1RS8vfGpVV6LOw) | 3:18 | 2021-08-10 | 2022-04-20 |
+| [Luv Is Not Enough](https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa) | 3:17 | 2020-12-22 |  |
 | [Luv Is Not Enough](https://open.spotify.com/track/7x0KPn2pVa9P2hOLnVWRjN) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/2IOSkubVgMOzpcJ8TyNUo6) | 3:17 | 2020-12-22 | 2022-05-11 |
 | [Magic](https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 6:48 | 2022-05-13 | 2022-06-04 |
 | [Manzana](https://open.spotify.com/track/03nyiU9gpCQSywZIGK2LGM) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Manzana](https://open.spotify.com/album/28Z3NNHpbtL0aqhAWLuIIb) | 3:25 | 2022-07-22 | 2022-07-24 |
@@ -284,7 +285,7 @@
 | [Too Late](https://open.spotify.com/track/2WZtkWWGWjGMxQubujRiqZ) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/0gkOhkjdFwKUtz9YXbp22L) | 4:12 | 2020-12-22 | 2022-07-29 |
 | [Too Late](https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc) | 4:12 | 2020-12-22 |  |
 | [Translight](https://open.spotify.com/track/4LeXaYxiCTANYSq9lteTF1) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Be Mine Tonight](https://open.spotify.com/album/1krjGe6g8PREor3oqeJTKh) | 3:57 | 2020-12-22 | 2022-04-21 |
-| [Truth](https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 3:48 | 2020-12-22 |  |
+| [Truth](https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 3:48 | 2020-12-22 | 2022-08-22 |
 | [Tuesday](https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG) | 3:11 | 2020-12-22 |  |
 | [Tuesday](https://open.spotify.com/track/6bWCYpcxs8nEV9Veixv1RU) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/2zxImbTSvIPzi3lqEX2TQb) | 3:11 | 2020-12-22 | 2022-07-29 |
 | [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 | 2022-03-25 |  |

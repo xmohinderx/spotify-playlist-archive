@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230512,
+  "num_followers": 230529,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyODE1NDU5OSwwMDAwMDAwMDIwOGFiZGVjNTA2YWVjZmVjOTM3MDMxMzc3YmMyYzE1",
+  "snapshot_id": "MTYyODE1NDU5OSwwMDAwMDAwMGM3Y2RjNTI3NzkyMWMwODNmZmIwMTcxZDY0NGFhYTZk",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Slow Me Down",
-        "url": "https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3"
-      },
-      "artists": [
-        {
-          "name": "Mauve",
-          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
-        }
-      ],
-      "duration_ms": 219230,
-      "name": "Slow Me Down",
-      "url": "https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Feel The Heat",
         "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 319677,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Slow Me Down",
+        "url": "https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3"
+      },
+      "artists": [
+        {
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+        }
+      ],
+      "duration_ms": 219230,
+      "name": "Slow Me Down",
+      "url": "https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -851,6 +851,26 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX"
+      },
+      "artists": [
+        {
+          "name": "Tyron Hapi",
+          "url": "https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I"
+        },
+        {
+          "name": "Lucas Marx",
+          "url": "https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV"
+        }
+      ],
+      "duration_ms": 150014,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Esmeralda",
         "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 214096,
       "name": "Midnight Sky",
       "url": "https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "One Last Time",
-        "url": "https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX"
-      },
-      "artists": [
-        {
-          "name": "Tyron Hapi",
-          "url": "https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I"
-        },
-        {
-          "name": "Lucas Marx",
-          "url": "https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV"
-        }
-      ],
-      "duration_ms": 150014,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -999,18 +999,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
       },
       "artists": [
         {
-          "name": "Mac Beez",
-          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
+          "name": "Sol Calor",
+          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W"
+      "duration_ms": 218584,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
     }
   ],
   "unique_name": "Aperitivo Time",

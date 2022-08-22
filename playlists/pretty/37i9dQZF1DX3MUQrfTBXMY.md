@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Hridoy Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,382 likes - 79 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,401 likes - 79 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

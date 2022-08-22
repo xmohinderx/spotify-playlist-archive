@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Maya Hawke
 
-4,048 songs - 9 day 21 hr 55 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,049 songs - 9 day 21 hr 59 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [alley\-oop](https://open.spotify.com/track/6IERGfMBe3csfANIuQ74D9) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [How Do You Feel About Getting Married?](https://open.spotify.com/album/2Ff38vAray2gR1xfw8z12S) | 2:53 | 2020-05-16 | 2020-06-12 |
 | [Alone](https://open.spotify.com/track/4k4mhm30I8pOn2k7O19pms) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Alone](https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn) | 2:15 | 2020-11-27 | 2021-01-23 |
 | [Alone But Not Lonely](https://open.spotify.com/track/5JeIPY6cpnwo2mCoIuC3O3) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Alone But Not Lonely](https://open.spotify.com/album/1UECcgYO1xrYUCiTsqkhbg) | 1:46 | 2021-05-15 | 2021-06-26 |
-| [Alone on a Hill](https://open.spotify.com/track/7CVDIj3ABUjoO0tXBnLQvu) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Alone on a Hill](https://open.spotify.com/album/2Nbw615KaE3bFNfdvGfNR1) | 3:46 | 2022-08-05 |  |
+| [Alone on a Hill](https://open.spotify.com/track/1BMkBATteDladEygHke7t1) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Physical Thrills](https://open.spotify.com/album/2NqgOQKY5RB7UPmnhcyWEb) | 3:46 | 2022-08-05 |  |
+| [Alone on a Hill](https://open.spotify.com/track/7CVDIj3ABUjoO0tXBnLQvu) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Alone on a Hill](https://open.spotify.com/album/2Nbw615KaE3bFNfdvGfNR1) | 3:46 | 2022-08-05 | 2022-08-22 |
 | [Alone, Omen 3](https://open.spotify.com/track/6asmkHsi0oeAjSK49xLFRW) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Alone, Omen 3](https://open.spotify.com/album/1HUdU0BRySue4RyvxTb91F) | 2:47 | 2020-02-08 | 2020-02-28 |
 | [Alpha Zulu](https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV) | 2:50 | 2022-06-03 | 2022-07-02 |
 | [Already Falling](https://open.spotify.com/track/2wuY9q7HFYnOYUHy7QHz2d) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Already Falling](https://open.spotify.com/album/0hmQO6qgPmxqL4kzszSl4C) | 4:15 | 2021-02-06 | 2021-03-26 |

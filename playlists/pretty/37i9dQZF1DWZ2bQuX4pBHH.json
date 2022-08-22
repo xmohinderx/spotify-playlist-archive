@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan all in one playlist",
-  "num_followers": 185269,
+  "num_followers": 185377,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODEyNDY5NCwwMDAwMDAwMDY2ZGU4MzMxMTVhNTJhMDRlZTMyZDcyNDgwYzlhNGYx",
+  "snapshot_id": "MTY1ODEyNDY5NCwwMDAwMDAwMDlmM2E4ZDgzZjgyYzljMWQ1Yjk5YmUyZjExZWMwMDlm",
   "tracks": [
     {
       "added_at": "2022-07-18 06:11:34",
@@ -99,26 +99,6 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Hawayein (From \"Jab Harry Met Sejal\")",
-        "url": "https://open.spotify.com/album/4oKe6f61RFvmSLaDQ3vnnF"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 289999,
-      "name": "Hawayein (From \"Jab Harry Met Sejal\")",
-      "url": "https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt"
-    },
-    {
-      "added_at": "2022-07-18 06:11:34",
-      "album": {
         "name": "Om Shanti Om",
         "url": "https://open.spotify.com/album/2cUzlmLfL5LUTSEk7qG09k"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 308158,
       "name": "Main Agar Kahoon",
       "url": "https://open.spotify.com/track/0iXLwnLmLwn9y54JtBTNxY"
+    },
+    {
+      "added_at": "2022-07-18 06:11:34",
+      "album": {
+        "name": "Hawayein (From \"Jab Harry Met Sejal\")",
+        "url": "https://open.spotify.com/album/4oKe6f61RFvmSLaDQ3vnnF"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 289999,
+      "name": "Hawayein (From \"Jab Harry Met Sejal\")",
+      "url": "https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -255,22 +255,26 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Main Hoon Na",
-        "url": "https://open.spotify.com/album/2QyR1r0XwtvljXEZs9I3ge"
+        "name": "Dilwale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
       },
       "artists": [
         {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         },
         {
-          "name": "Sabri Brothers",
-          "url": "https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
         }
       ],
-      "duration_ms": 359253,
-      "name": "Tumse Milke Dil Ka",
-      "url": "https://open.spotify.com/track/1ax8ZuwRVkSdzzsIqyCNWQ"
+      "duration_ms": 237896,
+      "name": "Janam Janam",
+      "url": "https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -303,26 +307,22 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Dilwale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
+        "name": "Main Hoon Na",
+        "url": "https://open.spotify.com/album/2QyR1r0XwtvljXEZs9I3ge"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Antara Mitra",
-          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+          "name": "Sabri Brothers",
+          "url": "https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI"
         }
       ],
-      "duration_ms": 237896,
-      "name": "Janam Janam",
-      "url": "https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w"
+      "duration_ms": 359253,
+      "name": "Tumse Milke Dil Ka",
+      "url": "https://open.spotify.com/track/1ax8ZuwRVkSdzzsIqyCNWQ"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -583,22 +583,18 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "BIBA",
-        "url": "https://open.spotify.com/album/0E3lOC2gnWVFMoXwKwkbQ8"
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
         }
       ],
-      "duration_ms": 175721,
-      "name": "BIBA",
-      "url": "https://open.spotify.com/track/1gt8YXWknKt4sRNZ6SirVW"
+      "duration_ms": 338593,
+      "name": "Mere Naam Tu",
+      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -631,18 +627,38 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
+        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
       },
       "artists": [
         {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+          "name": "Aadesh Shrivastava",
+          "url": "https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q"
+        },
+        {
+          "name": "Sudesh Bhosale",
+          "url": "https://open.spotify.com/artist/7u7mPDD1KXN9mfJ7EsBmET"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Amitabh Bachchan",
+          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         }
       ],
-      "duration_ms": 338593,
-      "name": "Mere Naam Tu",
-      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
+      "duration_ms": 408920,
+      "name": "Say \"Shava Shava\"",
+      "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -719,38 +735,22 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
+        "name": "BIBA",
+        "url": "https://open.spotify.com/album/0E3lOC2gnWVFMoXwKwkbQ8"
       },
       "artists": [
         {
-          "name": "Aadesh Shrivastava",
-          "url": "https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Sudesh Bhosale",
-          "url": "https://open.spotify.com/artist/7u7mPDD1KXN9mfJ7EsBmET"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Amitabh Bachchan",
-          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         }
       ],
-      "duration_ms": 408920,
-      "name": "Say \"Shava Shava\"",
-      "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
+      "duration_ms": 175721,
+      "name": "BIBA",
+      "url": "https://open.spotify.com/track/1gt8YXWknKt4sRNZ6SirVW"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Phir Bhi Dil Hai Hindustani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV"
-      },
-      "artists": [
-        {
-          "name": "Jatin-Lalit",
-          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 240613,
-      "name": "Phir Bhi Dil Hai Hindustani",
-      "url": "https://open.spotify.com/track/1WX7IIJnUgpDaweRefaih0"
-    },
-    {
-      "added_at": "2022-07-18 06:11:34",
-      "album": {
         "name": "Swades",
         "url": "https://open.spotify.com/album/72oHSx1OrxR0gig6JcVAEW"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 446986,
       "name": "Yun Hi Chala Chal",
       "url": "https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc"
+    },
+    {
+      "added_at": "2022-07-18 06:11:34",
+      "album": {
+        "name": "Phir Bhi Dil Hai Hindustani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 240613,
+      "name": "Phir Bhi Dil Hai Hindustani",
+      "url": "https://open.spotify.com/track/1WX7IIJnUgpDaweRefaih0"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -907,8 +907,8 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV"
+        "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK"
       },
       "artists": [
         {
@@ -916,17 +916,13 @@
           "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
         },
         {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
         }
       ],
-      "duration_ms": 347453,
-      "name": "Tumhi Dekho Naa",
-      "url": "https://open.spotify.com/track/2ILhVeTkbDAYEvesCCBsNo"
+      "duration_ms": 278546,
+      "name": "Tere Naina",
+      "url": "https://open.spotify.com/track/3hoXhwP0ub9LdSJV4olDIc"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -1107,26 +1103,6 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Dear Zindagi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 278238,
-      "name": "Taarefon Se",
-      "url": "https://open.spotify.com/track/2uwZSBvQer73esf6tV1wQG"
-    },
-    {
-      "added_at": "2022-07-18 06:11:34",
-      "album": {
         "name": "Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj"
       },
@@ -1143,6 +1119,26 @@
       "duration_ms": 349826,
       "name": "Ho Gaya Hai Tujhko To Pyar Sajna",
       "url": "https://open.spotify.com/track/7jV2zwwRKvHoLA8WFr3SCN"
+    },
+    {
+      "added_at": "2022-07-18 06:11:34",
+      "album": {
+        "name": "Dear Zindagi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 278238,
+      "name": "Taarefon Se",
+      "url": "https://open.spotify.com/track/2uwZSBvQer73esf6tV1wQG"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -1219,22 +1215,22 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Diamonds Forever - Lata Mangeshkar",
-        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+        "name": "Dear Zindagi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW"
       },
       "artists": [
         {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
         },
         {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
         }
       ],
-      "duration_ms": 303960,
-      "name": "Tujhe Dekha To (From \"Dilwale Dulhania Le Jayenge\")",
-      "url": "https://open.spotify.com/track/6FZrX6epdqcaQHx9LFRcuf"
+      "duration_ms": 335062,
+      "name": "Just Go to Hell Dil",
+      "url": "https://open.spotify.com/track/3CtiRUKVB9X2wi1ZMdaymY"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -1263,22 +1259,22 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Dear Zindagi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW"
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
       },
       "artists": [
         {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         },
         {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
         }
       ],
-      "duration_ms": 335062,
-      "name": "Just Go to Hell Dil",
-      "url": "https://open.spotify.com/track/3CtiRUKVB9X2wi1ZMdaymY"
+      "duration_ms": 303960,
+      "name": "Tujhe Dekha To (From \"Dilwale Dulhania Le Jayenge\")",
+      "url": "https://open.spotify.com/track/6FZrX6epdqcaQHx9LFRcuf"
     },
     {
       "added_at": "2022-07-18 06:11:34",

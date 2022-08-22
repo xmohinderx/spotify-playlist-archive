@@ -1593,10 +1593,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 213213,
       "name": "Golden Coast",
       "url": "https://open.spotify.com/track/3XqQ76fVSGhb5dqYsRWIj4"
+    },
+    {
+      "album": {
+        "name": "New Love",
+        "url": "https://open.spotify.com/album/4e1rVsIf01mKaap563psbg"
+      },
+      "artists": [
+        {
+          "name": "John-Allison Weiss",
+          "url": "https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213215,
+      "name": "Golden Coast",
+      "url": "https://open.spotify.com/track/2FQ0Hd6S45peO7nYHoB3ul"
     },
     {
       "album": {
@@ -1623,6 +1641,24 @@
     {
       "album": {
         "name": "New Love",
+        "url": "https://open.spotify.com/album/4e1rVsIf01mKaap563psbg"
+      },
+      "artists": [
+        {
+          "name": "John-Allison Weiss",
+          "url": "https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219938,
+      "name": "Good Way",
+      "url": "https://open.spotify.com/track/6fDGDqFQuGmNb0Pistebne"
+    },
+    {
+      "album": {
+        "name": "New Love",
         "url": "https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F"
       },
       "artists": [
@@ -1633,7 +1669,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 219946,
       "name": "Good Way",
       "url": "https://open.spotify.com/track/5H3xMfHwjjBoc6fkFkFBfO"

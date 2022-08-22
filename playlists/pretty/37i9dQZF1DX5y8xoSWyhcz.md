@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. beabadoobee on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,594 likes - 115 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,678 likes - 115 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

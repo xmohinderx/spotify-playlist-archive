@@ -1354,6 +1354,24 @@
     },
     {
       "album": {
+        "name": "My Demons",
+        "url": "https://open.spotify.com/album/250dVzSQ7jsd6p908mAccd"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216190,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/5usdD4a3nB3XB2QAqkqAzS"
+    },
+    {
+      "album": {
         "name": "Disco 2000",
         "url": "https://open.spotify.com/album/7BORydkMuk1YBPPdA0HNjc"
       },

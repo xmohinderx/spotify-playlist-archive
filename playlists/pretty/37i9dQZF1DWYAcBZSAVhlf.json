@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 146896,
+  "num_followers": 147284,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE1MjExNywwMDAwMDAwMDcyZWE1ODc1ZDA0YjgyN2I1MGI1MjJmYThhYTUzMmVh",
+  "snapshot_id": "MTY1NDE1MjExNywwMDAwMDAwMGQzNGE3NDcwYWFiMmMyM2ZmNjEyM2QwYjVhMjUzNmE2",
   "tracks": [
     {
       "added_at": "2022-05-11 12:45:34",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
         "name": "All In a Night's Work (Expanded Version)",
         "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 220880,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -875,22 +875,22 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Keep On Movin'",
-        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
+        "name": "The Best Of Bill Medley",
+        "url": "https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr"
       },
       "artists": [
         {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+          "name": "Bill Medley",
+          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
         },
         {
-          "name": "Caron Wheeler",
-          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+      "duration_ms": 289066,
+      "name": "(I've Had) The Time Of My Life",
+      "url": "https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -927,22 +927,22 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "The Best Of Bill Medley",
-        "url": "https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr"
+        "name": "Keep On Movin'",
+        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
       "artists": [
         {
-          "name": "Bill Medley",
-          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
         },
         {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+          "name": "Caron Wheeler",
+          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
         }
       ],
-      "duration_ms": 289066,
-      "name": "(I've Had) The Time Of My Life",
-      "url": "https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB"
+      "duration_ms": 228266,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Forever Your Girl",
-        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
-      },
-      "artists": [
-        {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 268186,
       "name": "Love Changes (Everything)",
       "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Forever Your Girl",
+        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1271,34 +1271,18 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 229200,
-      "name": "Tell Her About It",
-      "url": "https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1319,18 +1303,34 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
+      "duration_ms": 204386,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Tell Her About It",
+      "url": "https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Light Up The Night",
-        "url": "https://open.spotify.com/album/4DN3DenoWmadGEayQw2tDp"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
-        }
-      ],
-      "duration_ms": 380400,
-      "name": "Stomp!",
-      "url": "https://open.spotify.com/track/6VZdUa8JjaGF2LGsiRG9lC"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "'80s Pop Hits",
         "url": "https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "World Beat",
-        "url": "https://open.spotify.com/album/3RWIENzO8frYhajwCHl7SL"
+        "name": "Light Up The Night",
+        "url": "https://open.spotify.com/album/4DN3DenoWmadGEayQw2tDp"
       },
       "artists": [
         {
-          "name": "Kaoma",
-          "url": "https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu"
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
         }
       ],
-      "duration_ms": 208840,
-      "name": "Lambada - Original Radio Edit",
-      "url": "https://open.spotify.com/track/2VpdG2QLhVv6qAPdDt9Ipr"
+      "duration_ms": 380400,
+      "name": "Stomp!",
+      "url": "https://open.spotify.com/track/6VZdUa8JjaGF2LGsiRG9lC"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Freeze Frame",
-        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+        "name": "World Beat",
+        "url": "https://open.spotify.com/album/3RWIENzO8frYhajwCHl7SL"
       },
       "artists": [
         {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+          "name": "Kaoma",
+          "url": "https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu"
         }
       ],
-      "duration_ms": 237506,
-      "name": "Freeze-Frame",
-      "url": "https://open.spotify.com/track/6QqK6a1CmV4L504uMQaGDH"
+      "duration_ms": 208840,
+      "name": "Lambada - Original Radio Edit",
+      "url": "https://open.spotify.com/track/2VpdG2QLhVv6qAPdDt9Ipr"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 237506,
+      "name": "Freeze-Frame",
+      "url": "https://open.spotify.com/track/6QqK6a1CmV4L504uMQaGDH"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
         "name": "Cocker",
         "url": "https://open.spotify.com/album/0YnLeYOGgy0vtxQRbgW7s1"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 255293,
       "name": "You Can Leave Your Hat On",
       "url": "https://open.spotify.com/track/1x9iOd3K1JC6tdjGZJpFgZ"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
-        "name": "Tear Down These Walls",
-        "url": "https://open.spotify.com/album/1tIJAV6PAVmH4E1rRZ5lJj"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 334186,
-      "name": "Get Outta My Dreams, Get into My Car",
-      "url": "https://open.spotify.com/track/0pBhA8yQ5FUKyQG13x2Qmh"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
+        "name": "Tear Down These Walls",
+        "url": "https://open.spotify.com/album/1tIJAV6PAVmH4E1rRZ5lJj"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 334186,
+      "name": "Get Outta My Dreams, Get into My Car",
+      "url": "https://open.spotify.com/track/0pBhA8yQ5FUKyQG13x2Qmh"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
         "name": "Frantic Romantic",
         "url": "https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 293240,
       "name": "We Don't Have To Take Our Clothes Off",
       "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
-        "name": "Different Light (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Walk Like an Egyptian",
-      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Can't Slow Down (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC"
+        "name": "Different Light (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
         }
       ],
-      "duration_ms": 383440,
-      "name": "All Night Long (All Night)",
-      "url": "https://open.spotify.com/track/7gaQtc0vrSpmRJpSMDiPEk"
+      "duration_ms": 203226,
+      "name": "Walk Like an Egyptian",
+      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1631,6 +1615,22 @@
       "duration_ms": 357146,
       "name": "Sisters Are Doin' It for Themselves - Remastered Version",
       "url": "https://open.spotify.com/track/6pPCOXIQeNMr1oCWJTomSf"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Can't Slow Down (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 383440,
+      "name": "All Night Long (All Night)",
+      "url": "https://open.spotify.com/track/7gaQtc0vrSpmRJpSMDiPEk"
     }
   ],
   "unique_name": "Happy 80s",

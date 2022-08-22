@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: The Game
 
-318 songs - 17 hr 0 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
+319 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-06-03 | 2022-07-29 |
 | [Fire Proof](https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Fire Proof](https://open.spotify.com/album/1lkXpwEqvshMPhGFLm8gJI) | 2:02 | 2022-08-19 |  |
 | [Fly With Me \(feat\. Conway the Machine\)](https://open.spotify.com/track/1sgFFV3J62Q9NTqbxS1ShI) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Pyrex Picasso](https://open.spotify.com/album/4SHWCpbJJU2npNxrjrsj8e) | 3:33 | 2021-09-03 | 2022-07-29 |
-| [FOOTBALL HEADS \(feat\. Benny The Butcher\)](https://open.spotify.com/track/5sSiwYy1FPH8pJVzbD1B5K) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [FOOTBALL HEADS \(feat\. Benny The Butcher\)](https://open.spotify.com/album/213xNC4Hq3tKhvCzXFVuKu) | 3:10 | 2022-07-15 |  |
+| [FOOTBALL HEADS \(feat\. Benny The Butcher\)](https://open.spotify.com/track/5sSiwYy1FPH8pJVzbD1B5K) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [FOOTBALL HEADS \(feat\. Benny The Butcher\)](https://open.spotify.com/album/213xNC4Hq3tKhvCzXFVuKu) | 3:10 | 2022-07-15 | 2022-08-22 |
 | [For Real \(feat\. Kemba\)](https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [For Real \(feat\. Kemba\)](https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8) | 3:05 | 2021-09-03 | 2022-07-27 |
 | [FR33DOM \(ft\. Zacari\)](https://open.spotify.com/track/145fkxY3C8qyj1qfLdfc5t) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [I TAPE](https://open.spotify.com/album/7K0KwRyAiOVc3lkDJzLXgh) | 3:20 | 2021-09-03 | 2022-02-03 |
 | [Freedom of Speech \(with J\. Cole\)](https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:11 | 2022-04-01 |  |
@@ -280,6 +280,7 @@
 | [Tetris](https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Tetris](https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5) | 2:04 | 2022-04-29 | 2022-07-21 |
 | [Tetris](https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 2:04 | 2022-07-15 |  |
 | [Thanksgiving](https://open.spotify.com/track/3nZD0cDcEiz8rqK48SYhgn) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Thanksgiving](https://open.spotify.com/album/6slT6nHyQrMQaUj2jMl52i) | 2:30 | 2021-09-03 | 2022-03-18 |
+| [The Black Slim Shady](https://open.spotify.com/track/42DZT2eoL7rJBw21f3sb0h) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 10:25 | 2022-08-19 |  |
 | [The Dakota](https://open.spotify.com/track/6KeSzWJ7a6fotPJgAmi3jd) | [Rob Markman](https://open.spotify.com/artist/2bUUwnuZ9pezPvPzGwanok), [DviousMindz](https://open.spotify.com/artist/1Vg7Gc56gwZOTWYNdlaJBt) | [If You Don't You'll Regret It](https://open.spotify.com/album/4CRWN3kSdIc7U2qo4SUXFH) | 3:31 | 2022-02-04 | 2022-04-18 |
 | [The Game](https://open.spotify.com/track/091n9MH1VUepOdhnv7SLci) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [The Game](https://open.spotify.com/album/26tRs1uVatxA2XXvsavBcW) | 2:44 | 2021-09-03 | 2022-03-18 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 | 2022-06-04 |

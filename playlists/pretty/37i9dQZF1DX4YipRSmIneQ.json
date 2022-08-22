@@ -1,12 +1,12 @@
 {
   "description": "ur favorite queer bedroom club ",
-  "num_followers": 23999,
+  "num_followers": 24068,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY1NzgyNCwwMDAwMDAwMDM1Nzg3MjMwYzhjODRkYjFlYzVlMjdlOGI2NmRkNWMx",
+  "snapshot_id": "MTY2MDY1NzgyNCwwMDAwMDAwMDY5MmE4ZjM4NGY5NTE3OWQ3MDQzODE2Zjg4MGQ3NWNj",
   "tracks": [
     {
       "added_at": "2022-08-16 13:50:24",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-08-09 20:39:20",
       "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO"
+      },
+      "artists": [
+        {
+          "name": "Betta Lemme",
+          "url": "https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw"
+        }
+      ],
+      "duration_ms": 154882,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/13qSIkriq6c8jWFLv6Lt7z"
+    },
+    {
+      "added_at": "2022-08-09 20:39:20",
+      "album": {
         "name": "all the bands",
         "url": "https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 141853,
       "name": "all the bands",
       "url": "https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2"
-    },
-    {
-      "added_at": "2022-08-09 20:39:20",
-      "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO"
-      },
-      "artists": [
-        {
-          "name": "Betta Lemme",
-          "url": "https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw"
-        }
-      ],
-      "duration_ms": 154882,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/13qSIkriq6c8jWFLv6Lt7z"
     },
     {
       "added_at": "2022-08-09 20:39:20",

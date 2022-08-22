@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 115509,
+  "num_followers": 115660,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDRhZDRmMmJjNDk4ZTNmZWE1NzM2MDdhZDNjZjA0Mzhm",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGIzMzExOWNjMTliZGI5MDVlYmYzYTJmMjYwZDdhYWY4",
   "tracks": [
     {
       "added_at": "2021-08-13 04:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2021-04-02 04:01:00",
       "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 269149,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
-    },
-    {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
         "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
         "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 214912,
       "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
       "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 269149,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -389,30 +389,6 @@
       "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
     },
     {
-      "added_at": "2021-08-27 04:13:14",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "Josh Golden",
-          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
-        }
-      ],
-      "duration_ms": 162954,
-      "name": "Another Life (feat. FLETCHER & Josh Golden)",
-      "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Better (feat. Teddy Swims)",
@@ -435,6 +411,30 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
+    },
+    {
+      "added_at": "2021-08-27 04:13:14",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Josh Golden",
+          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
+        }
+      ],
+      "duration_ms": 162954,
+      "name": "Another Life (feat. FLETCHER & Josh Golden)",
+      "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-04-02 04:01:00",
       "album": {
-        "name": "Isles",
-        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Apricots",
-      "url": "https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi"
-    },
-    {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 278080,
       "name": "Dancing On My Own - Radio Edit",
       "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Isles",
+        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi"
     },
     {
       "added_at": "2021-04-06 19:08:31",
@@ -841,24 +841,24 @@
       "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
     },
     {
-      "added_at": "2021-04-06 18:41:31",
+      "added_at": "2021-04-02 04:01:00",
       "album": {
-        "name": "Aftertaste (D.O.D Remix)",
-        "url": "https://open.spotify.com/album/6Sk0Mnki17p8mxtT4t6HjW"
+        "name": "You\u2019ve Done Enough",
+        "url": "https://open.spotify.com/album/3MpEvpOsGV9iKzHWwUcjbk"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
         },
         {
-          "name": "Morgan St. Jean",
-          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 197082,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG"
+      "duration_ms": 213546,
+      "name": "You've Done Enough",
+      "url": "https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -881,24 +881,24 @@
       "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
     },
     {
-      "added_at": "2021-04-02 04:01:00",
+      "added_at": "2021-04-06 18:41:31",
       "album": {
-        "name": "You\u2019ve Done Enough",
-        "url": "https://open.spotify.com/album/3MpEvpOsGV9iKzHWwUcjbk"
+        "name": "Aftertaste (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/6Sk0Mnki17p8mxtT4t6HjW"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         },
         {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "Morgan St. Jean",
+          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
         }
       ],
-      "duration_ms": 213546,
-      "name": "You've Done Enough",
-      "url": "https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz"
+      "duration_ms": 197082,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi"
     },
     {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "This Ain't Real",
@@ -1127,6 +1111,22 @@
       "duration_ms": 165135,
       "name": "This Ain't Real",
       "url": "https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2022-04-12 16:14:07",
@@ -1149,26 +1149,6 @@
       "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
     },
     {
-      "added_at": "2021-08-27 04:13:14",
-      "album": {
-        "name": "Close Your Eyes - Spotify Singles",
-        "url": "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Close Your Eyes - Spotify Singles",
-      "url": "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
-    },
-    {
       "added_at": "2021-04-02 04:01:00",
       "album": {
         "name": "I Want You (feat. braev)",
@@ -1187,6 +1167,26 @@
       "duration_ms": 258295,
       "name": "I Want You (feat. braev)",
       "url": "https://open.spotify.com/track/4erSEnRWE2diyHCfEjzW5Z"
+    },
+    {
+      "added_at": "2021-08-27 04:13:14",
+      "album": {
+        "name": "Close Your Eyes - Spotify Singles",
+        "url": "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Close Your Eyes - Spotify Singles",
+      "url": "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -1229,46 +1229,6 @@
       "url": "https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "In Another Lifetime (Remixed)",
-        "url": "https://open.spotify.com/album/4ZuegOgRfXe7Z7SxGcW8jf"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 303145,
-      "name": "Just To Hear You Say - Joseph Ray Remix",
-      "url": "https://open.spotify.com/track/09wkyp6dMAo5JakEj49R0M"
-    },
-    {
-      "added_at": "2021-06-14 04:00:00",
-      "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "NIMMO",
-          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
-        }
-      ],
-      "duration_ms": 227543,
-      "name": "OnlyL",
-      "url": "https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD"
-    },
-    {
       "added_at": "2021-06-15 15:41:06",
       "album": {
         "name": "TEMPO",
@@ -1287,6 +1247,26 @@
       "duration_ms": 239274,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "In Another Lifetime (Remixed)",
+        "url": "https://open.spotify.com/album/4ZuegOgRfXe7Z7SxGcW8jf"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 303145,
+      "name": "Just To Hear You Say - Joseph Ray Remix",
+      "url": "https://open.spotify.com/track/09wkyp6dMAo5JakEj49R0M"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -1321,20 +1301,24 @@
       "url": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
     },
     {
-      "added_at": "2021-10-01 04:01:00",
+      "added_at": "2021-06-14 04:00:00",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG"
       },
       "artists": [
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "NIMMO",
+          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
         }
       ],
-      "duration_ms": 291840,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
+      "duration_ms": 227543,
+      "name": "OnlyL",
+      "url": "https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD"
     },
     {
       "added_at": "2021-08-14 16:01:21",
@@ -1351,6 +1335,38 @@
       "duration_ms": 333772,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
+    },
+    {
+      "added_at": "2021-05-29 16:02:13",
+      "album": {
+        "name": "This Must Be The Place",
+        "url": "https://open.spotify.com/album/01WcFlWlj9ie3YTNSKr3OP"
+      },
+      "artists": [
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "duration_ms": 255520,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/0EudqIdrpZjHZ1pnSuBKgA"
     },
     {
       "added_at": "2021-04-06 13:18:53",
@@ -1371,22 +1387,6 @@
       "duration_ms": 195853,
       "name": "Heartbreak On The Dancefloor (feat. Frances)",
       "url": "https://open.spotify.com/track/7LgOkzv8NTDeInrCLJnNru"
-    },
-    {
-      "added_at": "2021-05-29 16:02:13",
-      "album": {
-        "name": "This Must Be The Place",
-        "url": "https://open.spotify.com/album/01WcFlWlj9ie3YTNSKr3OP"
-      },
-      "artists": [
-        {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
-        }
-      ],
-      "duration_ms": 255520,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/0EudqIdrpZjHZ1pnSuBKgA"
     },
     {
       "added_at": "2021-04-02 04:01:00",

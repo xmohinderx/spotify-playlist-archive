@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 43269,
+  "num_followers": 43457,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDk2ODA2MCwwMDAwMDAwMGIzM2E4YTMwOTgzODZiNmZhZDdhMmY3OGJmMWI3Zjli",
+  "snapshot_id": "MTY2MDk2ODA2MCwwMDAwMDAwMDU2ZjE3Y2RhMzI1ZGIxNzIyYzljYmNkNWNiYjc5YTZm",
   "tracks": [
     {
       "added_at": "2022-08-20 04:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "Barbara e altri Carella",
-        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
-      },
-      "artists": [
-        {
-          "name": "Enzo Carella",
-          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Barbara",
-      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 193893,
       "name": "I Wanna Be Your Lover",
       "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "Barbara e altri Carella",
+        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Carella",
+          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Barbara",
+      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "Volevi Una Hit",
-        "url": "https://open.spotify.com/album/1SSY7LphnEe6gy8VZ9BTgg"
-      },
-      "artists": [
-        {
-          "name": "Cristalli Liquidi",
-          "url": "https://open.spotify.com/artist/2dJDv7A9P2jFivSij4v91D"
-        }
-      ],
-      "duration_ms": 328248,
-      "name": "Volevi Una Hit - Extended Version",
-      "url": "https://open.spotify.com/track/1cqMaulAZAoUZfRZlOR29V"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
         "name": "I Need You Tonight / Tonight",
         "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 390127,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "Volevi Una Hit",
+        "url": "https://open.spotify.com/album/1SSY7LphnEe6gy8VZ9BTgg"
+      },
+      "artists": [
+        {
+          "name": "Cristalli Liquidi",
+          "url": "https://open.spotify.com/artist/2dJDv7A9P2jFivSij4v91D"
+        }
+      ],
+      "duration_ms": 328248,
+      "name": "Volevi Una Hit - Extended Version",
+      "url": "https://open.spotify.com/track/1cqMaulAZAoUZfRZlOR29V"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "The Voice of Q",
-        "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD"
-        }
-      ],
-      "duration_ms": 316118,
-      "name": "The Voice of Q - 12\" Mix",
-      "url": "https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
         "name": "The Hits Collection",
         "url": "https://open.spotify.com/album/3KTH5Tquwf5kOkHA1KeQam"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 246106,
       "name": "Color My Love",
       "url": "https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "The Voice of Q",
+        "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD"
+        }
+      ],
+      "duration_ms": 316118,
+      "name": "The Voice of Q - 12\" Mix",
+      "url": "https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "Disco Modernism (1983 - 2008)",
-        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
-      },
-      "artists": [
-        {
-          "name": "Fred Ventura",
-          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
-        }
-      ],
-      "duration_ms": 371920,
-      "name": "Wind of Change",
-      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "Greatest Hits & Remixes",
-        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
+        "name": "Disco Modernism (1983 - 2008)",
+        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
       },
       "artists": [
         {
-          "name": "Ken Laszlo",
-          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
+          "name": "Fred Ventura",
+          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
         }
       ],
-      "duration_ms": 206600,
-      "name": "Hey Hey Guy (7\" Vocal Version)",
-      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
+      "duration_ms": 371920,
+      "name": "Wind of Change",
+      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -855,6 +839,22 @@
       "duration_ms": 185748,
       "name": "San Salvador - Single Version",
       "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "Greatest Hits & Remixes",
+        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
+      },
+      "artists": [
+        {
+          "name": "Ken Laszlo",
+          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Hey Hey Guy (7\" Vocal Version)",
+      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        }
+      ],
+      "duration_ms": 404766,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
         "name": "Discamore",
         "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        }
-      ],
-      "duration_ms": 404766,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
         "name": "Dancing on Townsquare",
         "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
       },
@@ -1051,6 +1051,26 @@
       "duration_ms": 210186,
       "name": "Il Veliero - Single Version",
       "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "Under the Ice - Single",
+        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
+      },
+      "artists": [
+        {
+          "name": "Topo",
+          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
+        },
+        {
+          "name": "Roby",
+          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
+        }
+      ],
+      "duration_ms": 432404,
+      "name": "Under the Ice - Original 12 Inch Version",
+      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -1075,26 +1095,6 @@
       "duration_ms": 317120,
       "name": "My Magic Number - Club Domani Remix",
       "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
-        "name": "Under the Ice - Single",
-        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
-      },
-      "artists": [
-        {
-          "name": "Topo",
-          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
-        },
-        {
-          "name": "Roby",
-          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
-        }
-      ],
-      "duration_ms": 432404,
-      "name": "Under the Ice - Original 12 Inch Version",
-      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
         "name": "Pictures Old Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 237013,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "Baby I Love You (Original) - Single",
-        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
-      },
-      "artists": [
-        {
-          "name": "Easy Going",
-          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
-        }
-      ],
-      "duration_ms": 503920,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
         "name": "Challenger",
         "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 404247,
       "name": "African Love Song",
       "url": "https://open.spotify.com/track/2YqvhES7UxrkgvuP0tRz8m"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "Baby I Love You (Original) - Single",
+        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
+      },
+      "artists": [
+        {
+          "name": "Easy Going",
+          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
+        }
+      ],
+      "duration_ms": 503920,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
     },
     {
       "added_at": "2022-08-20 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: bonnadol
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,721 likes - 95 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,782 likes - 95 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

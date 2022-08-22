@@ -2,9 +2,9 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> Indie music antimatter\. Cover: Gorillaz
+> Gorillaz make anti pop.
 
-1,059 songs - 2 day 3 hr 32 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,060 songs - 2 day 3 hr 35 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -717,7 +717,7 @@
 | [Polly](https://open.spotify.com/track/1OHYh4ycNpSczDFaf5PkJ9) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Polly](https://open.spotify.com/album/43VnVc6hkCYOjFPgzWPgyt) | 2:42 | 2021-05-29 | 2021-10-16 |
 | [Popeye](https://open.spotify.com/track/5srSyIpAvNZJKBVUlgxcCC) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/45JCuUJde6lC8kjgqZ8Fgp) | 2:54 | 2022-02-28 | 2022-04-10 |
 | [Popeye](https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/3xrOFa0RU14V1b9gIH1NQN) | 2:54 | 2021-07-17 | 2022-07-01 |
-| [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-02-25 |  |
+| [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-02-25 | 2022-08-22 |
 | [PORN ACTING\*](https://open.spotify.com/track/5BkazOzXKqpVE4RI7Dbxnw) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/6yUbpBVYQGs6Me7cRHBi91) | 2:52 | 2022-02-28 | 2022-07-29 |
 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 | 2022-02-07 | 2022-05-10 |
 | [Pot Of Gold](https://open.spotify.com/track/625VzKuhHcZ2rz7igDtL6r) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Pot Of Gold](https://open.spotify.com/album/2uHZqj1Xzf7F9fCjwzoDPR) | 2:11 | 2021-09-21 | 2021-10-14 |
@@ -951,6 +951,7 @@
 | [Things In The Way](https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/3uZsMBgZ9xSJDHMmxPaTlJ) | 2:39 | 2022-01-21 | 2022-02-23 |
 | [Think About It](https://open.spotify.com/track/47iwiNOjkzDG4I0dLRcHYr) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 2:22 | 2021-03-06 | 2021-07-20 |
 | [Thoughts](https://open.spotify.com/track/117md6XUEAEck2F0DV2nDY) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Thoughts](https://open.spotify.com/album/2P6n385JAr3vtrGRr6zhgr) | 2:44 | 2020-12-18 | 2021-02-13 |
+| [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 |  |
 | [Three Man Weave](https://open.spotify.com/track/7L4AtavGZEEDkVw1E0mDYn) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Injury Reserve](https://open.spotify.com/album/5UWKsRDw3O4BsobmeyRpB9) | 3:26 | 2022-05-09 | 2022-07-19 |
 | [thrill of it](https://open.spotify.com/track/6OJzRNbm6qQim9keNrpVL5) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [thrill of it](https://open.spotify.com/album/5GMpcwo54JVtOV2tIDSbmw) | 2:08 | 2021-07-14 | 2021-12-22 |
 | [throwing leaves, casting stones](https://open.spotify.com/track/4MkVYJyLDIS7gaa0IuSlSF) | [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [throwing leaves, casting stones](https://open.spotify.com/album/4mHCekwLgmu3SHJWaQfKV5) | 3:38 | 2021-04-03 | 2021-06-16 |

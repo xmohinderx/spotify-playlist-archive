@@ -4,7 +4,7 @@
 
 > Dance, Bass, EDM, Trap: the perfect gaming mix.
 
-279 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
+280 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Mortals](https://open.spotify.com/track/3Fg5uhtWBlW0es8GSqQ6Ff) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals](https://open.spotify.com/album/2l3Ej2zh336Zp6gAvqbq2y) | 3:48 | 2022-07-12 | 2022-07-29 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-07-14 |  |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-06-03 |  |
+| [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-08-12 |  |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-05-06 | 2022-07-29 |
 | [Nevada](https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj) | 3:28 | 2022-05-06 |  |
 | [Never Let You Go \(feat\. Sofia Reyes\) \- EVE Re\-Imagination](https://open.spotify.com/track/03KkCDcl9URL2PBvFYHKnK) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [EVE](https://open.spotify.com/artist/4EtmcpFzg2YAY2T81sJxtK) | [Never Let You Go \(feat\. Sofia Reyes\) \[EVE Re\-Imagination\]](https://open.spotify.com/album/0VinylAsvPl3hgxOuoSPQ2) | 4:21 | 2022-05-06 | 2022-07-28 |
@@ -246,7 +247,7 @@
 | [The Raid](https://open.spotify.com/track/2NzVvoQyagqEB5o4ny9UkT) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [The Raid](https://open.spotify.com/album/0Ec94Md5xRhc4j64CCSqGv) | 3:32 | 2022-05-06 | 2022-07-29 |
 | [The Ride \- The FifthGuys Remix](https://open.spotify.com/track/4092jNui2iVNHGIELwv9CD) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR) | [The Ride \(The FifthGuys Remix\)](https://open.spotify.com/album/7EurNV3781MD7406Ph86i8) | 2:31 | 2022-05-06 | 2022-07-27 |
 | [The Warehouse](https://open.spotify.com/track/5p3NCS0PiNSqXapxAcuQqi) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Miss Trouble](https://open.spotify.com/artist/6pXPaQEZ2EyfxIRtf9JwyJ) | [The Warehouse](https://open.spotify.com/album/4hl41os18ZNsRXTULOCebL) | 4:42 | 2022-05-06 | 2022-07-23 |
-| [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 | 2022-05-06 |  |
+| [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 | 2022-05-06 | 2022-08-22 |
 | [These Memories](https://open.spotify.com/track/2liDBJ6iJG2X4GRwgEHvwi) | [Panda Eyes](https://open.spotify.com/artist/3K0GDmmiRwn1Zc7RZzTeAz) | [These Memories](https://open.spotify.com/album/08YEC8F9E0GMpAK5yAQDrd) | 4:55 | 2022-05-27 | 2022-07-18 |
 | [This Could Be Us](https://open.spotify.com/track/45PEs9rgK7Q4gcxwOsPM4o) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz) | [This Could Be Us](https://open.spotify.com/album/3LDO3EsSED9KNkt8ycUAHH) | 5:08 | 2022-05-06 | 2022-07-29 |
 | [This Is 2020](https://open.spotify.com/track/1SGAKhk4L8XbHCp8oAtzVt) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [This Is 2020](https://open.spotify.com/album/6oXda1BdB7R8wH6oExujYx) | 4:46 | 2022-05-06 | 2022-07-24 |

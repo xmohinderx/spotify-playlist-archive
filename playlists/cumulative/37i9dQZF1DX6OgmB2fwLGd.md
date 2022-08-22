@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Minions
 
-372 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+373 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Dean Kissick](https://open.spotify.com/track/09AILqJtBjyMGJah1zYyQB) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Dean Kissick](https://open.spotify.com/album/4GrqSrbnSOZZmCEvezSQYy) | 1:48 | 2022-07-29 |  |
 | [Dean Kissick](https://open.spotify.com/track/2ZAERMWil2FtIDHgnpek5Z) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Dean Kissick](https://open.spotify.com/album/6pgtop8AG6E2I6oVm6X4H3) | 1:48 | 2022-07-29 | 2022-08-12 |
 | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/track/1oPdIqXhjswpTnA5PPQs0K) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/album/3AocIGXpIRlNgd2BSoETUH) | 3:01 | 2021-12-07 | 2022-02-05 |
+| [Delirious](https://open.spotify.com/track/0nH3kN1WXrbxZSptazFX1r) | [Vistoso Bosses](https://open.spotify.com/artist/1PwQodDnDYjun9ySkaucyi), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Delirious](https://open.spotify.com/album/0ktt8nyiccUBWvqKsmJdHQ) | 4:02 | 2022-08-21 |  |
 | [DELIRIOUS!](https://open.spotify.com/track/6KemhLE5U7fd5SBUJr2sRl) | [Championxiii](https://open.spotify.com/artist/0mYBT2Ek76Szd4MqbCgT5R), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [DELIRIOUS!](https://open.spotify.com/album/7LiafuGVnC731meL4S6cmi) | 1:32 | 2021-10-08 | 2022-04-03 |
 | [Demon Time \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/1hE8iI3YK9x1VUBDtSzg3x) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Trip At Knight \(Complete Edition\)](https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz) | 2:39 | 2022-08-12 |  |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-26 |  |

@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ben Reilly
 
-240 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
+241 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Avalanche](https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Avalanche](https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1) | 2:28 | 2021-09-24 | 2022-07-29 |
 | [BANG](https://open.spotify.com/track/3l6D0NUQn6Ttyz5ePSPk5w) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv), [Butch Dawson](https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL) | [BANG](https://open.spotify.com/album/6owjFYUYF5Dz5KoZNUpows) | 3:15 | 2022-07-29 |  |
 | [BANKROLL \(feat\. A$AP Rocky & A$AP Ferg\)](https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [ROADRUNNER: NEW LIGHT, NEW MACHINE](https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7) | 3:22 | 2021-09-03 | 2022-02-26 |
-| [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 | 2022-07-01 |  |
+| [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 | 2022-07-01 | 2022-08-22 |
 | [Been About It](https://open.spotify.com/track/7BmwARA7tuxdIYq59xSDFf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 2:21 | 2022-03-25 |  |
 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 | 2022-01-14 | 2022-02-11 |
 | [better](https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [better](https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO) | 3:10 | 2022-04-01 | 2022-07-21 |
@@ -66,6 +66,7 @@
 | [Curbside](https://open.spotify.com/track/18fdNMj2Dl7kInMAONSnp4) | [Kid Quill](https://open.spotify.com/artist/5vGXVYudNgm9E7jhXMM0Ro) | [Curbside](https://open.spotify.com/album/3Mlq674LCY0K1KRX41dOtQ) | 2:46 | 2022-03-25 | 2022-04-20 |
 | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U) | 3:47 | 2022-08-12 |  |
 | [Dangerous](https://open.spotify.com/track/00EKCASItEc0lfZwzWF34N) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu), [Kingsley Ibeneche](https://open.spotify.com/artist/1sCEBYdJIHnx6VNv7RN4Je) | [Dangerous](https://open.spotify.com/album/7G39CE2qnxYcW5H2rPlP1K) | 4:22 | 2022-02-04 | 2022-06-01 |
+| [Dangerous](https://open.spotify.com/track/107u1om4m4zTfzWx4BtW6R) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Dangerous](https://open.spotify.com/album/5BPr4MWTg1GmevzURudA8B) | 2:25 | 2022-08-19 |  |
 | [Dear Fear](https://open.spotify.com/track/7uJFQs4kxilsiPKe3UHPUT) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Dear Fear](https://open.spotify.com/album/4tpKvSFFcWZIBXi1mNEDn6) | 3:19 | 2022-01-14 | 2022-07-29 |
 | [DENY](https://open.spotify.com/track/43SIjaufu6brjwKphXhZCJ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [DENY](https://open.spotify.com/album/7rfd6I7XsQw2O1fDbZjEUU) | 3:11 | 2022-03-25 | 2022-04-20 |
 | [DENY \(feat\. Tyla Yaweh\)](https://open.spotify.com/track/2OGfK0dPkEdALPwrmYXrVE) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 3:11 | 2022-07-29 | 2022-08-08 |

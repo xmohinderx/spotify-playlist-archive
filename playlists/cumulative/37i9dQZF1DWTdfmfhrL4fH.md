@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-513 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+514 songs - 1 day 8 hr 17 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [I'll Follow You](https://open.spotify.com/track/0ILR5GMSzBRp2LrI8GX1Si) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:58 | 2022-05-25 |  |
 | [I'm Only Joking](https://open.spotify.com/track/3iag81mU7BylirRwRYXd8E) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:44 | 2022-05-25 | 2022-07-28 |
 | [If I Had a Tail](https://open.spotify.com/track/06hBdrgjUendZyH9U1WV22) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 4:55 | 2022-05-25 |  |
+| [If You Have Ghosts](https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 3:34 | 2022-05-25 |  |
 | [If You Have Ghosts \- Bonus Track](https://open.spotify.com/track/1DhAs6AwQgjKMOs9EJ5AWY) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Redux\)](https://open.spotify.com/album/6wAdgEsc9xbvOKcaBG7T9f) | 3:33 | 2022-05-25 | 2022-07-24 |
 | [If You Really Love Nothing](https://open.spotify.com/track/51KMpn0p5Vb7XVdV7mWau5) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Marauder](https://open.spotify.com/album/3h5FWXoJEw2MFmUOMfVke2) | 4:25 | 2022-05-25 | 2022-08-05 |
 | [Immortals](https://open.spotify.com/track/3c1ItvzDDDpmDgLH9SIUp4) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Big Hero 6 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FOmF0bBxV9zPY1463mmM) | 3:15 | 2022-05-25 |  |
@@ -497,7 +498,7 @@
 | [Weight of Love](https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 6:50 | 2022-05-25 |  |
 | [Welcome To The Breakdown](https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:03 | 2022-05-25 | 2022-07-29 |
 | [Well, Everybody's Fucking In A U.F.O.](https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:43 | 2022-05-25 | 2022-07-29 |
-| [Wetsuit](https://open.spotify.com/track/2sqtkSLyuo3hdpnp0gyVCq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 3:50 | 2022-05-25 |  |
+| [Wetsuit](https://open.spotify.com/track/2sqtkSLyuo3hdpnp0gyVCq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 3:50 | 2022-05-25 | 2022-08-22 |
 | [What You Want](https://open.spotify.com/track/0uOo8xRtQ6okTZMR89ppVk) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:41 | 2022-05-25 | 2022-07-26 |
 | [What's Left Of Me](https://open.spotify.com/track/2FLwPldJQHRXm6xuAeabtp) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [What's Left Of Me](https://open.spotify.com/album/1bBruoqOGFca6YV7aDWnaL) | 2:58 | 2022-05-25 | 2022-07-20 |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 | 2022-05-25 |  |

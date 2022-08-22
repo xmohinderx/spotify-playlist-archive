@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vikrant Rona",
-  "num_followers": 37560,
+  "num_followers": 37695,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyNzc0NSwwMDAwMDAwMDNjMjQzYTRhMzY3YjU1MTM2Njk4NTFhMTEzNDkyYzU4",
+  "snapshot_id": "MTY2MTA4Mzk4OSwwMDAwMDAwMGMxYzRjY2M2NGMzNTM3ZDZjZjg0MjE2YzQxMmE0NzE3",
   "tracks": [
     {
       "added_at": "2022-07-18 06:13:34",
@@ -67,6 +67,30 @@
       "duration_ms": 200407,
       "name": "Jajaang Jaang",
       "url": "https://open.spotify.com/track/0ce8GZqOCoIjBjnHx2jI5p"
+    },
+    {
+      "added_at": "2022-08-21 12:13:09",
+      "album": {
+        "name": "Attack [From \"Liger (Kannada)\"]",
+        "url": "https://open.spotify.com/album/5wPevXPFHzfsWeI71O9FiR"
+      },
+      "artists": [
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Vyasaraj Sosale",
+          "url": "https://open.spotify.com/artist/0O8FIZczDo2bCQ3tbSm0q5"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Attack (From \"Liger (Kannada)\")",
+      "url": "https://open.spotify.com/track/2xH5u306wewYsDzOkZv5qD"
     },
     {
       "added_at": "2022-08-19 16:46:59",

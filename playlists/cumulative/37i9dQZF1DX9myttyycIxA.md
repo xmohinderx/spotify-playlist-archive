@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: flipturn
 
-574 songs - 1 day 8 hr 47 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+575 songs - 1 day 8 hr 50 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,7 +465,8 @@
 | [Space Cowboy](https://open.spotify.com/track/3039eQZmZy2PVsHyyOf78m) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Space Cowboy](https://open.spotify.com/album/7mVUxn3M8ExqlRZOWRiLVq) | 4:06 | 2022-07-29 |  |
 | [Spaceman](https://open.spotify.com/track/7y1jOe5Nzc8BhgURPn80hw) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [Spaceman](https://open.spotify.com/album/5EUfUkG0Q6l8mNpM5cCZP9) | 3:02 | 2022-01-28 | 2022-04-10 |
 | [Spiderweb](https://open.spotify.com/track/4MV86lthrqvU7Q8jj7NaP5) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Spiderweb](https://open.spotify.com/album/75M4fU4uBzjJ3AqecMZmo9) | 5:23 | 2022-07-29 |  |
-| [Spin](https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Running](https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY) | 3:32 | 2022-05-19 |  |
+| [Spin](https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Running](https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY) | 3:32 | 2022-05-19 | 2022-08-22 |
+| [Spin](https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 3:32 | 2022-05-19 |  |
 | [Spin](https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/1fj0ZE8UczqCmDhmBmS1kX) | 3:32 | 2022-04-29 | 2022-07-29 |
 | [Spinning Wheel](https://open.spotify.com/track/5LtKOTf6vq5lTYyYVA0U9o) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [Spinning Wheel](https://open.spotify.com/album/2sMt2rmTEt87ZdJFwBlfho) | 3:35 | 2022-07-05 |  |
 | [Spitting Image](https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O) | [Sharon Silva](https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S) | [Spitting Image](https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb) | 4:19 | 2021-06-25 | 2022-04-11 |

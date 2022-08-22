@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 99,745 likes - 177 songs - 11 hr 3 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 99,855 likes - 169 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,25 +165,17 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 155 | [Circles](https://open.spotify.com/track/7otM2899LBDzr051hxJqyx) | [Braunsy](https://open.spotify.com/artist/6NtI2LVlpaN2PryOeSF13u) | [Circles](https://open.spotify.com/album/0uYF0K7LrkGxLzmVhQGt1M) | 3:09 |
 | 156 | [Beautiful Soul](https://open.spotify.com/track/09adkw69p9WhO9voji7NFy) | [Daddy B](https://open.spotify.com/artist/2gE1XNxB2VZ5Ibb3ZvQByA), [MIMI FURU](https://open.spotify.com/artist/6cFp4HS0wXHP2kEg6T4BjG) | [Beautiful Soul](https://open.spotify.com/album/0UVnkdN3iYpcWdoXC0Hy8C) | 2:08 |
 | 157 | [Dickmatized](https://open.spotify.com/track/07ueUAFO3Lx986NgCES12i) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Dickmatized](https://open.spotify.com/album/6unvaNLlF9nTykepdlU6rJ) | 2:47 |
-| 158 | [It's a Fine Line](https://open.spotify.com/track/4aFcO9xRuRNgLLHtuQEm33) | [Nathan Whitt Band](https://open.spotify.com/artist/5HHeAApLXAImgmWHa0BSrI) | [Combustible](https://open.spotify.com/album/4PZO8JJaYT9pkG02MCVvS0) | 4:05 |
-| 159 | [NO ME ENGAÑAS MÁS](https://open.spotify.com/track/5i8R9Q9tFCEy7btYI52MJz) | [Ogui Xē](https://open.spotify.com/artist/4eXlcjIYZKUnMd96lUN0FO), [SUN](https://open.spotify.com/artist/1Odd4T8aJIOl0AnDdqXxZc) | [NO ME ENGAÑAS MÁS](https://open.spotify.com/album/5qQTuEqooqoALj25m3K0vx) | 3:34 |
-| 160 | [I Love the Night](https://open.spotify.com/track/1EtPElTFFiOou0DukonCCq) | [Who Are You Lutra Lutra ??](https://open.spotify.com/artist/5srt7b42Fps0sNWf88aard) | [Queensland Rain](https://open.spotify.com/album/6JETSL1rqQvRF9RNetl7CS) | 3:16 |
-| 161 | [Lacey](https://open.spotify.com/track/2Bvg7SCVl2iJuv2iTruJRw) | [Osmanthus](https://open.spotify.com/artist/5fe7MIokvaxHaPj9inrlhF) | [Lacey](https://open.spotify.com/album/4z7hl3gWfhh0bQmjM49MBm) | 3:34 |
-| 162 | [Focus](https://open.spotify.com/track/2NvMo0hsL2M9nOzGYekIRr) | [Monica Sierra](https://open.spotify.com/artist/5Lh5seDGcKJnPXMP2MlKeA) | [Focus](https://open.spotify.com/album/3iPVyoAdOLcHnvbhr3SgJH) | 3:15 |
-| 163 | [Daydream](https://open.spotify.com/track/1HZAkD9kvJZcNgEyg5rYFC) | [Kimkoro](https://open.spotify.com/artist/4qV9LBiOUTdRIC3CsTQZm0) | [Daydream](https://open.spotify.com/album/4PmJ15tq33h6xurJkmkmna) | 3:06 |
-| 164 | [Cold Shoulders](https://open.spotify.com/track/05QgXEBKoOh8qROSXk136R) | [Arlo Indigo](https://open.spotify.com/artist/55gevsKWJFm3llYjMJu0t5) | [All We Can Do Is Nothing](https://open.spotify.com/album/7ncqlTDvPkUezo0EYKC9uU) | 2:51 |
-| 165 | [Pathetic](https://open.spotify.com/track/2jYS10MplyTqldMnvXjROC) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Pathetic](https://open.spotify.com/album/1moRWtSP964z6qOEGi0diF) | 3:02 |
-| 166 | [4 More](https://open.spotify.com/track/68SS9WH6kOOFZBWVONjlaS) | [JAAK](https://open.spotify.com/artist/7rVFGjBnR7bWwXzfNdtwCE) | [4 More](https://open.spotify.com/album/00MAeMmYS3al6jr7MOKRRC) | 2:57 |
-| 167 | [Rain or Shine](https://open.spotify.com/track/5jlD6iV3CaO21rlenspVZu) | [Leisureville](https://open.spotify.com/artist/42OACLDCo3bqxfYCG1Hu3B) | [Rain or Shine](https://open.spotify.com/album/5a2O9Ighd35r1Pv8ZrMXkZ) | 3:07 |
-| 168 | [Let Me Go](https://open.spotify.com/track/1p5AcZ6RCOdgQkPTM8QD5m) | [Adriana Rosso](https://open.spotify.com/artist/4XqGfKbpuFHhOo6HgSIziD) | [Let Me Go](https://open.spotify.com/album/71ZXUyMCCwM2EMcgLkxBYE) | 3:41 |
-| 169 | [Fighter Jet](https://open.spotify.com/track/3h0dPeWa84PAUXtxJsHuS8) | [ALYX RUSH](https://open.spotify.com/artist/24pp4R67XES61YlVopv9LS), [Jim Swim](https://open.spotify.com/artist/63ptpREyqBJ4c61pJq5lR4) | [Fighter Jet](https://open.spotify.com/album/7Anb3I5lyViWJDxoXvt9B7) | 2:44 |
-| 170 | [Right Now](https://open.spotify.com/track/1HJpqiER8rSK7EvGyyWlyb) | [Pandariza](https://open.spotify.com/artist/6CncvXUf8gONynDezyZ6ay) | [Right Now](https://open.spotify.com/album/0gH23ovOTblBlbJoetTIBG) | 3:00 |
-| 171 | [Kelly Kapowski](https://open.spotify.com/track/2n8ImT2IGkPlXYET1BPu2u) | [DJ Nicar](https://open.spotify.com/artist/55UMFd9r0qGYgueJPE93tW), [Sidney Riley](https://open.spotify.com/artist/6J55sKDSRwtKk59jNOWcTU) | [Kelly Kapowski](https://open.spotify.com/album/6q42oQnEugv2gz3uDc5jIn) | 3:22 |
-| 172 | [Wonderboy \- LOUS Remix](https://open.spotify.com/track/2TRLyIStZJM4ll2g2N39WU) | [Jacob Sorenson](https://open.spotify.com/artist/1pHmvfaQOkeNiOAAQFN2fb), [Lous](https://open.spotify.com/artist/0UKOOyLWDEegrzyBSqcEcC) | [Wonderboy \(LOUS Remix\)](https://open.spotify.com/album/2ZOFns6zcapZN0S2WwYu5U) | 2:34 |
-| 173 | [Swang](https://open.spotify.com/track/162mYGTLSpzFBAZpfYs6v6) | [Karoo](https://open.spotify.com/artist/4ZOIXsl1O9VZfgfz6Pm2jT) | [Swang](https://open.spotify.com/album/7fEWbBJBd4SdvjVEh5fszo) | 3:00 |
-| 174 | [I'm Home](https://open.spotify.com/track/0cyet2FV6brooO5mA4Gcco) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [I'm Home](https://open.spotify.com/album/204YFT7a78NcDohIL0TuSp) | 4:26 |
-| 175 | [Rounds](https://open.spotify.com/track/2u4uEx2BRBYVsCMVor9R7c) | [Joey T](https://open.spotify.com/artist/51i7M5CM40KzpWtsJYbpfl) | [Rounds](https://open.spotify.com/album/5re3EhPAGrpQTZIQ5jeULd) | 1:55 |
-| 176 | [Counting the Stars](https://open.spotify.com/track/1ibf1Oha521lxFepe9eZAq) | [Clint Chandler](https://open.spotify.com/artist/5AphVxyhxyorR80pXXF5Mj), [Young Griff](https://open.spotify.com/artist/28hXcniIxGceK87DAOjHlb) | [Bad Bad News](https://open.spotify.com/album/5jDAA2redW0JxKjvWUrWet) | 4:13 |
-| 177 | [I Don't Wanna Come Home](https://open.spotify.com/track/4sNKAY9mhYqkFEOlRF4qqf) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 4:09 |
+| 158 | [Daydream](https://open.spotify.com/track/1HZAkD9kvJZcNgEyg5rYFC) | [Kimkoro](https://open.spotify.com/artist/4qV9LBiOUTdRIC3CsTQZm0) | [Daydream](https://open.spotify.com/album/4PmJ15tq33h6xurJkmkmna) | 3:06 |
+| 159 | [Pathetic](https://open.spotify.com/track/2jYS10MplyTqldMnvXjROC) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Pathetic](https://open.spotify.com/album/1moRWtSP964z6qOEGi0diF) | 3:02 |
+| 160 | [4 More](https://open.spotify.com/track/68SS9WH6kOOFZBWVONjlaS) | [JAAK](https://open.spotify.com/artist/7rVFGjBnR7bWwXzfNdtwCE) | [4 More](https://open.spotify.com/album/00MAeMmYS3al6jr7MOKRRC) | 2:57 |
+| 161 | [Rain or Shine](https://open.spotify.com/track/5jlD6iV3CaO21rlenspVZu) | [Leisureville](https://open.spotify.com/artist/42OACLDCo3bqxfYCG1Hu3B) | [Rain or Shine](https://open.spotify.com/album/5a2O9Ighd35r1Pv8ZrMXkZ) | 3:07 |
+| 162 | [Let Me Go](https://open.spotify.com/track/1p5AcZ6RCOdgQkPTM8QD5m) | [Adriana Rosso](https://open.spotify.com/artist/4XqGfKbpuFHhOo6HgSIziD) | [Let Me Go](https://open.spotify.com/album/71ZXUyMCCwM2EMcgLkxBYE) | 3:41 |
+| 163 | [Fighter Jet](https://open.spotify.com/track/3h0dPeWa84PAUXtxJsHuS8) | [ALYX RUSH](https://open.spotify.com/artist/24pp4R67XES61YlVopv9LS), [Jim Swim](https://open.spotify.com/artist/63ptpREyqBJ4c61pJq5lR4) | [Fighter Jet](https://open.spotify.com/album/7Anb3I5lyViWJDxoXvt9B7) | 2:44 |
+| 164 | [Right Now](https://open.spotify.com/track/1HJpqiER8rSK7EvGyyWlyb) | [Pandariza](https://open.spotify.com/artist/6CncvXUf8gONynDezyZ6ay) | [Right Now](https://open.spotify.com/album/0gH23ovOTblBlbJoetTIBG) | 3:00 |
+| 165 | [Kelly Kapowski](https://open.spotify.com/track/2n8ImT2IGkPlXYET1BPu2u) | [DJ Nicar](https://open.spotify.com/artist/55UMFd9r0qGYgueJPE93tW), [Sidney Riley](https://open.spotify.com/artist/6J55sKDSRwtKk59jNOWcTU) | [Kelly Kapowski](https://open.spotify.com/album/6q42oQnEugv2gz3uDc5jIn) | 3:22 |
+| 166 | [Wonderboy \- LOUS Remix](https://open.spotify.com/track/2TRLyIStZJM4ll2g2N39WU) | [Jacob Sorenson](https://open.spotify.com/artist/1pHmvfaQOkeNiOAAQFN2fb), [Lous](https://open.spotify.com/artist/0UKOOyLWDEegrzyBSqcEcC) | [Wonderboy \(LOUS Remix\)](https://open.spotify.com/album/2ZOFns6zcapZN0S2WwYu5U) | 2:34 |
+| 167 | [Swang](https://open.spotify.com/track/162mYGTLSpzFBAZpfYs6v6) | [Karoo](https://open.spotify.com/artist/4ZOIXsl1O9VZfgfz6Pm2jT) | [Swang](https://open.spotify.com/album/7fEWbBJBd4SdvjVEh5fszo) | 3:00 |
+| 168 | [I'm Home](https://open.spotify.com/track/0cyet2FV6brooO5mA4Gcco) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [I'm Home](https://open.spotify.com/album/204YFT7a78NcDohIL0TuSp) | 4:26 |
+| 169 | [Rounds](https://open.spotify.com/track/2u4uEx2BRBYVsCMVor9R7c) | [Joey T](https://open.spotify.com/artist/51i7M5CM40KzpWtsJYbpfl) | [Rounds](https://open.spotify.com/album/5re3EhPAGrpQTZIQ5jeULd) | 1:55 |
 
-Snapshot ID: `MzM0OSxjMzhkYWRiMmRjMmQ4MDExMWQ3YWFiZmI2YWMwYjU1YTViYzdjMGQz`
+Snapshot ID: `MzM1MCw2OGNhYWRlYmRmMjBmNDA5NzRhN2VmZTFiYzdiNGFiZTg2YzcyMTky`

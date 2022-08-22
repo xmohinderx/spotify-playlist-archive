@@ -4,7 +4,7 @@
 
 > The hottest corridos in the US! Bien Al Tiro con Junior H y Grupo Marca Registrada.
 
-173 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/4NUSWCdJAi5DEcSry3A1Ae)
+174 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/4NUSWCdJAi5DEcSry3A1Ae)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [El Criticado](https://open.spotify.com/track/2Px7mBqqPFCkQpI1mvzn8Z) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [El Criticado](https://open.spotify.com/album/4Hb8tBOMwewP3WJIfIlOOA) | 3:11 | 2022-05-20 | 2022-07-29 |
 | [El Cuestionario](https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Cuestionario](https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW) | 3:08 | 2022-05-20 |  |
 | [El De Las Dos Pistolas](https://open.spotify.com/track/3BvGcHKkSKRdkathkvvxRp) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Los de la O](https://open.spotify.com/artist/5IUHqCKGttBbtZ0h1Fv4xU) | [El De Las Dos Pistolas](https://open.spotify.com/album/0LkXAgU73w2GQAHW4VDtSD) | 2:47 | 2022-05-20 | 2022-06-09 |
+| [El Deportivo](https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Deportivo](https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg) | 3:12 | 2022-08-19 |  |
 | [El Dinero Los Cambio](https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Dinero Los Cambio](https://open.spotify.com/album/5qVzF9aMHohPPTb2wO6gh4) | 3:04 | 2022-05-20 | 2022-07-29 |
 | [El Dinero No Me Cambia \- En Vivo](https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Dinero No Me Cambia \(En Vivo\)](https://open.spotify.com/album/5iVAYE7Ra3Avw3ygesMP2Z) | 3:16 | 2022-07-29 |  |
 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 | 2022-05-20 |  |
@@ -113,7 +114,7 @@
 | [La Sierra Negra](https://open.spotify.com/track/2D5B6Lh4IisRpGHwRbCpl0) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [La Sierra Negra](https://open.spotify.com/album/6dIP0mzfTRtzQHOG9dcfqM) | 3:26 | 2022-05-20 | 2022-08-06 |
 | [La Vida Es Un Juego](https://open.spotify.com/track/3peoAySRE6rnMfKLdSYfpp) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Líricas De Oro](https://open.spotify.com/album/0gXdxNdLAdxnqITRqOaMYX) | 3:46 | 2022-05-20 |  |
 | [Lagunilla Mi Barrio](https://open.spotify.com/track/2MximwTNDRejUMEZ9LjqPh) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Lagunilla Mi Barrio](https://open.spotify.com/album/2SJjtVS3XVUmck4nUrhJ7S) | 2:46 | 2022-05-20 | 2022-07-22 |
-| [Llenas Las Cuentas \(feat\. Oscar Maydon\)](https://open.spotify.com/track/7LTKDPiFik2UkZ9S7mnemu) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Llenas Las Cuentas \(feat\. Oscar Maydon\)](https://open.spotify.com/album/62AN96209BXULxjH8DOvH9) | 3:21 | 2022-05-20 |  |
+| [Llenas Las Cuentas \(feat\. Oscar Maydon\)](https://open.spotify.com/track/7LTKDPiFik2UkZ9S7mnemu) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Llenas Las Cuentas \(feat\. Oscar Maydon\)](https://open.spotify.com/album/62AN96209BXULxjH8DOvH9) | 3:21 | 2022-05-20 | 2022-08-22 |
 | [Lo Que Les Falta](https://open.spotify.com/track/4my9onQE9Z2IvuH7V13WSM) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Lo Que Les Falta](https://open.spotify.com/album/7uuomonKZYYmpq0vM59aDP) | 2:14 | 2022-05-20 |  |
 | [Lo Vieron Pasar \(09\)](https://open.spotify.com/track/3LgC0BpxyEzmNp9jXr0JlA) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Lo Vieron Pasar \(09\)](https://open.spotify.com/album/0iiQYvh4euxCdGZMMr8ut6) | 2:58 | 2022-05-20 | 2022-07-29 |
 | [LoLo Felix](https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 3:34 | 2022-07-22 |  |

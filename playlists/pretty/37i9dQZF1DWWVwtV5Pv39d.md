@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,308 likes - 65 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,316 likes - 65 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 47 | [Potties Everywhere](https://open.spotify.com/track/6kfee9Z4wWfxxPkl2Bxcmd) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Tiger Family Trip](https://open.spotify.com/album/5EC5pB1kwSggef5P44laiU) | 1:03 |
 | 48 | [The Potty Song](https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW) | [Miss Kitty](https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx) | [Please Come To My Party](https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9) | 2:24 |
 | 49 | [The Monkey Dance](https://open.spotify.com/track/0AdwySo2rN6vc9XXEQLv7J) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Yummy Yummy](https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO) | 1:43 |
-| 50 | [Alphabet Song](https://open.spotify.com/track/48J2LOgzd87JK4SUfdu38H) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [De regreso al colegio](https://open.spotify.com/album/5LTozJDLwFaF6eK46YIeVa) | 1:46 |
+| 50 | [Alphabet Song](https://open.spotify.com/track/5ddiqtnKYhGULuJATEAJsM) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [EVVIVA Canzoni per Bambini](https://open.spotify.com/album/1zmp6rEy0zlInq8O5jHkfQ) | 1:46 |
 | 51 | [Look At All The Letters](https://open.spotify.com/track/66amatHrD8i2JcuQsufI05) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Waiting For The Elevator](https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd) | 2:36 |
 | 52 | [Shake My Sillies Out](https://open.spotify.com/track/0e1mUAXE8jSG9ExAS4AWU7) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [More Singable Songs](https://open.spotify.com/album/0MRTAsSv2VDaLyMiNLkyQN) | 1:05 |
 | 53 | [Use Your Words](https://open.spotify.com/track/1qcQTqDZLWEC6dB5shIiPw) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Big Feelings](https://open.spotify.com/album/3uhrWaD9eVHfzzI5jpr4y8) | 1:05 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 64 | [Tomorrow](https://open.spotify.com/track/47eBlcqP5J3hb841xRNz9R) | [Mister Rogers](https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4) | [It's Such a Good Feeling: The Best of Mister Rogers](https://open.spotify.com/album/76J9i1vh8XQSNg4yApRhwL) | 1:03 |
 | 65 | [Peppa's Lullaby](https://open.spotify.com/track/4SksREPSXHLL0QG4HLyBYD) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:46 |
 
-Snapshot ID: `MTY1NzI4MjY4MSwwMDAwMDAwMDA5MmYxN2RiNjYzOWNjYzI2YWE4YjNlZjI4MTgwMjZk`
+Snapshot ID: `MTY1NzI4MjY4MSwwMDAwMDAwMDc5MTI3MTYwY2Q1OWM5NjJmNmI0YTZjMzlkNmFkZDY1`

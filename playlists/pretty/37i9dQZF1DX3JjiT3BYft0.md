@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,266 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,332 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 3 | [Sparkling Festival☆ with You!](https://open.spotify.com/track/3FDgTgoFdETthDs8H66GFA) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [Sparkling Festival☆ with You!](https://open.spotify.com/album/3ZsrmrU2tREErQc4HrbC6C) | 3:50 |
 | 4 | [R・I・O・T](https://open.spotify.com/track/1WcM5RgshQS5bZQEOMOHE8) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 5:04 |
 | 5 | [Kanayume](https://open.spotify.com/track/2btNnLZtaV5xEaYyvObdBg) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Kanayume](https://open.spotify.com/album/5zD7LxOX0ZYXrXJ8xURfyf) | 5:07 |
-| 6 | [Daylight](https://open.spotify.com/track/13YeYqLtmg4R2fNNVb3Jc0) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight](https://open.spotify.com/album/0eFR8VfRxxb8NxnZVn8HM0) | 5:50 |
-| 7 | [Kizuna Music♪](https://open.spotify.com/track/5QeOdb0nDwmrWCCVQXsGaI) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy) | 5:16 |
+| 6 | [Kizuna Music♪](https://open.spotify.com/track/5QeOdb0nDwmrWCCVQXsGaI) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy) | 5:16 |
+| 7 | [Daylight](https://open.spotify.com/track/13YeYqLtmg4R2fNNVb3Jc0) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight](https://open.spotify.com/album/0eFR8VfRxxb8NxnZVn8HM0) | 5:50 |
 | 8 | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/track/1z08YefAMfJ2ptFaniswty) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/album/4pWMug5ycdlFxRDG0Cj2xI) | 4:18 |
 | 9 | [R](https://open.spotify.com/track/5VDaJPJ2AeqPImMYpsgFvp) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [R](https://open.spotify.com/album/2xRG2r54L8p0if9NsHeXX5) | 4:44 |
 | 10 | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/track/1ax9Yfwu3CUngxoKWHlGUw) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/5TVSmT5HcpQ5TxfAp8KwGF) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 49 | [Summer Skies & Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/58WIbtANgOd9wK4c7mv3KZ) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [I\-I Never Said Love!](https://open.spotify.com/album/47vhSZQmJN0WyMaig29Zls) | 4:55 |
 | 50 | [On Your New Journey \- Acoustic Ver.](https://open.spotify.com/track/7bQ5CkzVlHwtopBCxrwXBp) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [Hanazono Electric Guitar!!!](https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe) | 4:53 |
 
-Snapshot ID: `MTY1NTk5NjQwMCwwMDAwMDAwMDlkNDI2MWQ1YzQ3NDdhZjc5YzY2YmZiNjVkMWMzZjZj`
+Snapshot ID: `MTY1NTk5NjQwMCwwMDAwMDAwMDA1ODQ0ZDllMGM4OWU2MzRmMjIwYzQxZjFhMjhlNzJh`

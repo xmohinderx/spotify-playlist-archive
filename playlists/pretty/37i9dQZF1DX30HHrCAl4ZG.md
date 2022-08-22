@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Cover: Alvvays
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,631 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,617 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 68 | [Zum Herz](https://open.spotify.com/track/3w0F6bkQdev902vrCxDHe4) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO), [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Zum Herz](https://open.spotify.com/album/0miVSp8X4tYSuxINhZRyO8) | 4:18 |
 | 69 | [Looking For Something](https://open.spotify.com/track/3mwUT3bzPAfUlrmOEpkzof) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Looking For Something](https://open.spotify.com/album/3xz0bN9WajSRfvXnm7F9qy) | 3:09 |
 | 70 | [Leaving Today](https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Leaving Today](https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4) | 4:12 |
-| 71 | [Whales](https://open.spotify.com/track/3AvcYRJN8D1l0FzuDn4RWR) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/3YXFTOK6Jt2VnPAH4ZNuHm) | 3:29 |
+| 71 | [Whales](https://open.spotify.com/track/0cUGSqx7MfnjiVwDzpYdYo) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow](https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq) | 3:29 |
 | 72 | [Facts of Life](https://open.spotify.com/track/1VDSmyonWfkUKkDGyr7BDf) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Facts of Life](https://open.spotify.com/album/1iwq4GcEquagnE6V3oAIr2) | 4:08 |
 | 73 | [Sleeping in Cars](https://open.spotify.com/track/20LGqs8akUvJKwn76nVAtC) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03) | 3:36 |
 | 74 | [Bottom of the Ocean](https://open.spotify.com/track/2aZd0oQUnICyk3KYFbBaW1) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower: Deluxe](https://open.spotify.com/album/6SqMNL4do3px3cHCyUS8V8) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 |
 | 100 | [Let's Go](https://open.spotify.com/track/4zBFWizKHRrrgHmb3VQvuJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Let's Go](https://open.spotify.com/album/2ihzFPvG24siD95PTwp2nB) | 4:00 |
 
-Snapshot ID: `MTY2MDYzMjM1MSwwMDAwMDAwMGRkYmY1MTViZmExOTlkNDQwOWQzM2FjODNiNWMxNzZk`
+Snapshot ID: `MTY2MDYzMjM1MSwwMDAwMDAwMDhjN2RiOTUwMzAxNjA2NzE2MjhiZjgzZTFjNThkMDFm`

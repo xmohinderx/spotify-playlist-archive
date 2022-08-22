@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-329 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
+330 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bible Going Viral](https://open.spotify.com/track/2e8BtzqjrkHkZrCovqCduc) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Bible Going Viral](https://open.spotify.com/album/4PxerXPjuR8hSu4GLmcYBu) | 3:00 | 2022-03-11 | 2022-03-24 |
 | [Blessed Mode](https://open.spotify.com/track/7JPlYKKFQ6iKWAxsFZF3IS) | [Kel Mitchell](https://open.spotify.com/artist/1OnPFoy7Udp0M5R6xjfCcR), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Blessed Mode](https://open.spotify.com/album/15x3jykJeOXdE43DommQlB) | 3:03 | 2022-03-11 |  |
 | [Blessed Up](https://open.spotify.com/track/17XoLUQLHu3r7dwbrUkxnT) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Blessed Up](https://open.spotify.com/album/5DcrBNLfArtbJ8MOaz4ejc) | 3:01 | 2022-02-04 |  |
+| [BLESSINGS](https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN) | [MTM Isaiah](https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy) | [BLESSINGS](https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6) | 2:52 | 2022-08-06 |  |
 | [Body Bag \(feat\. Datin & Selah the Corner\)](https://open.spotify.com/track/2bJZWKHSEMH2dHNRoaPIf0) | [StefanOtto](https://open.spotify.com/artist/3nMvsvhZ9j3EAC6p0DKeSR), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Selah the Corner](https://open.spotify.com/artist/5RGpSLDa24rgCKsKIiGuwn), [Soundnami](https://open.spotify.com/artist/32DKzUnquBNhHgAP4xWjOm) | [Til Heaven Comes](https://open.spotify.com/album/31wUS0lLaOmLGpZ1WUTKsw) | 4:11 | 2022-03-11 | 2022-03-24 |
 | [Bom Tempo \(Good Time\)](https://open.spotify.com/track/2N32YQOuBOocvuvQdtKK2k) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa), [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Bom Tempo \(Good Time\)](https://open.spotify.com/album/7KOXaCUcUOCtl7RBUjaHt2) | 2:19 | 2022-02-04 |  |
 | [BOSS](https://open.spotify.com/track/2YYMl0fsIdd0945tqeoruQ) | [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g), [Kip Wolfe](https://open.spotify.com/artist/2HIuIgSR9YhmXZCfv0SVhS), [TRAPSHIP COLLECTIVE](https://open.spotify.com/artist/7CsdYLl6ItJb7WK7Kak1Sz) | [BOSS](https://open.spotify.com/album/1VFRXgn1jNhvh76mJAA0aR) | 2:10 | 2022-02-04 |  |
@@ -233,7 +234,7 @@
 | [Pray 2 God](https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Pray 2 God](https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec) | 2:36 | 2022-08-06 |  |
 | [Praying Hands](https://open.spotify.com/track/1UBJn7Gl6weQ4vZ68EAphl) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Destined For Greatness](https://open.spotify.com/album/3gKB01Zw0wFbUxPg47AQ0M) | 3:37 | 2022-02-04 |  |
 | [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 | 2022-07-17 |  |
-| [PROBLEMATIC \(feat\. Travis Hobson\) \- Remix](https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw) | [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Travis Hobson](https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR) | [PROBLEMATIC \(Remix\) \[feat\. Travis Hobson\]](https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86) | 2:23 | 2022-04-30 |  |
+| [PROBLEMATIC \(feat\. Travis Hobson\) \- Remix](https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw) | [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Travis Hobson](https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR) | [PROBLEMATIC \(Remix\) \[feat\. Travis Hobson\]](https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86) | 2:23 | 2022-04-30 | 2022-08-22 |
 | [Prosper \(Remix\)](https://open.spotify.com/track/2Y4cXBo6kSAG30RdrhoBxe) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [Shopé](https://open.spotify.com/artist/539ZsoCQY3Y24f38ZuIBgp) | [Prosper \(Remix\)](https://open.spotify.com/album/03mIIdpF3q6VF1f23dGwzF) | 3:10 | 2022-02-04 |  |
 | [Push Thru](https://open.spotify.com/track/5bF0y9fkeEmf2ilhO3CCvr) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Home](https://open.spotify.com/album/6NFHJrrDFz50b0Xb3qZOXC) | 3:58 | 2022-02-04 | 2022-07-27 |
 | [Put In Work](https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [24](https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT) | 2:36 | 2022-02-04 |  |

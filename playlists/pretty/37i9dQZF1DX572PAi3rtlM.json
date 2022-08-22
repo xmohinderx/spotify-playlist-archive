@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 22569,
+  "num_followers": 22630,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDRjMjc2ZGU2YWMzMGM0OWE4YTY4NDFkZDcyZDk1ZDgy",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMGZkYTZjY2U0ZmVhMGQxYzUzOTk5YzBkYmUwYjdjNzAx",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -287,6 +287,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Can't Fake the Feeling",
+        "url": "https://open.spotify.com/album/1dGnvsgMyThFwpl9hhSGbI"
+      },
+      "artists": [
+        {
+          "name": "Geraldine Hunt",
+          "url": "https://open.spotify.com/artist/2VuXufMFvhdWTYGEVceBdV"
+        }
+      ],
+      "duration_ms": 316960,
+      "name": "Can't Fake the Feeling",
+      "url": "https://open.spotify.com/track/3WtL910PEMIjJkkpM4xMKU"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "The Spirit",
         "url": "https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Can't Fake the Feeling",
-        "url": "https://open.spotify.com/album/1dGnvsgMyThFwpl9hhSGbI"
-      },
-      "artists": [
-        {
-          "name": "Geraldine Hunt",
-          "url": "https://open.spotify.com/artist/2VuXufMFvhdWTYGEVceBdV"
-        }
-      ],
-      "duration_ms": 316960,
-      "name": "Can't Fake the Feeling",
-      "url": "https://open.spotify.com/track/3WtL910PEMIjJkkpM4xMKU"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Searching to Find the One",
-        "url": "https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q"
-      },
-      "artists": [
-        {
-          "name": "Unlimited Touch",
-          "url": "https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm"
-        }
-      ],
-      "duration_ms": 413573,
-      "name": "I Hear Music in the Streets",
-      "url": "https://open.spotify.com/track/5HgE5eXfu0An2moseSM635"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Seventies",
         "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Searching to Find the One",
+        "url": "https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q"
+      },
+      "artists": [
+        {
+          "name": "Unlimited Touch",
+          "url": "https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm"
+        }
+      ],
+      "duration_ms": 413573,
+      "name": "I Hear Music in the Streets",
+      "url": "https://open.spotify.com/track/5HgE5eXfu0An2moseSM635"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -403,18 +403,26 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "...Balla!",
-        "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
       "artists": [
         {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 262456,
-      "name": "Ma quale idea",
-      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
+      "duration_ms": 263414,
+      "name": "On My Mind - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -451,6 +459,22 @@
       "duration_ms": 485306,
       "name": "I Can't Kick This Feeling When It Hits",
       "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "...Balla!",
+        "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 262456,
+      "name": "Ma quale idea",
+      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -539,30 +563,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 263414,
-      "name": "On My Mind - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Raiding the Vaults",
         "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 237979,
       "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
       "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Priorities",
+        "url": "https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X"
+      },
+      "artists": [
+        {
+          "name": "Project Pablo",
+          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
+        }
+      ],
+      "duration_ms": 348158,
+      "name": "Warm Priority",
+      "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -615,22 +631,6 @@
       "duration_ms": 214049,
       "name": "Modern Romance",
       "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Priorities",
-        "url": "https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X"
-      },
-      "artists": [
-        {
-          "name": "Project Pablo",
-          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
-        }
-      ],
-      "duration_ms": 348158,
-      "name": "Warm Priority",
-      "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -727,6 +727,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Scented Trip",
+        "url": "https://open.spotify.com/album/1c9o8AiaQTSCCmJw81GRxO"
+      },
+      "artists": [
+        {
+          "name": "Project Pablo",
+          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
+        }
+      ],
+      "duration_ms": 380149,
+      "name": "Morning Shift",
+      "url": "https://open.spotify.com/track/0DtvmA9qyTtrcCW4CcobHl"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Mandar All Day 001",
         "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 290753,
       "name": "Your Good Times Will Come",
       "url": "https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Scented Trip",
-        "url": "https://open.spotify.com/album/1c9o8AiaQTSCCmJw81GRxO"
-      },
-      "artists": [
-        {
-          "name": "Project Pablo",
-          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
-        }
-      ],
-      "duration_ms": 380149,
-      "name": "Morning Shift",
-      "url": "https://open.spotify.com/track/0DtvmA9qyTtrcCW4CcobHl"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 290152,
+      "name": "Gymnastics - Original Mix",
+      "url": "https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Trips #2: Vietnam",
         "url": "https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY"
       },
@@ -867,26 +883,6 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "For the Beasts",
-        "url": "https://open.spotify.com/album/7thl8MxQ3IyU91WpifnEZH"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        },
-        {
-          "name": "Casey MQ",
-          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
-        }
-      ],
-      "duration_ms": 153231,
-      "name": "Lurk",
-      "url": "https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR"
     }
   ],
   "unique_name": "Rooftop Sunset",

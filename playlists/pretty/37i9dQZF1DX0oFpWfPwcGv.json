@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 27039,
+  "num_followers": 27103,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMDA4NGI1ZmRkMDg2MjJiODkxZjhjNjc1MTI3ZjQ0MmMw",
+  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMDE3NzlmYTYzMDE2YTBhMzQzNzE3MzFmYjM0MGU0ZTY4",
   "tracks": [
     {
       "added_at": "2022-07-15 04:40:14",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 208506,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Burn This Disco Out",
-      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Love is Back",
         "url": "https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Odyssey (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 336466,
-      "name": "Native New Yorker - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
+      "duration_ms": 221026,
+      "name": "Burn This Disco Out",
+      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -451,6 +435,22 @@
       "duration_ms": 328266,
       "name": "Never Knew Love Like This Before (Extended Mix)",
       "url": "https://open.spotify.com/track/1Urr1PLp5Cy0ylztRSJvdB"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Odyssey (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
+      },
+      "artists": [
+        {
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+        }
+      ],
+      "duration_ms": 336466,
+      "name": "Native New Yorker - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
+        "name": "Karen Carpenter",
+        "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
+      },
+      "artists": [
+        {
+          "name": "Karen Carpenter",
+          "url": "https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "My Body Keeps Changing My Mind",
+      "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
         "name": "The Best Of Cheryl Lynn: Got To Be Real",
         "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 305893,
       "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
       "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
-        "name": "Karen Carpenter",
-        "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
-      },
-      "artists": [
-        {
-          "name": "Karen Carpenter",
-          "url": "https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "My Body Keeps Changing My Mind",
-      "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Come to Me",
         "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 590986,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z"
-      },
-      "artists": [
-        {
-          "name": "Viola Wills",
-          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Never Gonna Let You Go (Expanded Edition)",
         "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 204653,
       "name": "Turn the Beat Around - 7\" Single Edit",
       "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z"
+      },
+      "artists": [
+        {
+          "name": "Viola Wills",
+          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "The Changing Of The Gard",
-        "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
-      },
-      "artists": [
-        {
-          "name": "Stargard",
-          "url": "https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Wear It Out",
-      "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Don't You Want My Love",
         "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 468831,
       "name": "Don't You Want My Love - Remastered",
       "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "The Changing Of The Gard",
+        "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
+      },
+      "artists": [
+        {
+          "name": "Stargard",
+          "url": "https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Wear It Out",
+      "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Portfolio",
-        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
       },
       "artists": [
         {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
         }
       ],
-      "duration_ms": 203840,
-      "name": "I Need A Man",
-      "url": "https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS"
+      "duration_ms": 244733,
+      "name": "Put Your Body In It",
+      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
       },
       "artists": [
         {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
         }
       ],
-      "duration_ms": 244733,
-      "name": "Put Your Body In It",
-      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
+      "duration_ms": 203840,
+      "name": "I Need A Man",
+      "url": "https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Jean Carn",
-        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
+        "name": "Crooklyn Volume II",
+        "url": "https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l"
       },
       "artists": [
         {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 255400,
-      "name": "Time Waits for No One",
-      "url": "https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL"
+      "duration_ms": 266560,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Crooklyn Volume II",
-        "url": "https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l"
+        "name": "Jean Carn",
+        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
       },
       "artists": [
         {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
         }
       ],
-      "duration_ms": 266560,
-      "name": "Soul Makossa",
-      "url": "https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta"
+      "duration_ms": 255400,
+      "name": "Time Waits for No One",
+      "url": "https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Slippin' and Dippin' (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
-      },
-      "artists": [
-        {
-          "name": "Coffee",
-          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
-        }
-      ],
-      "duration_ms": 460880,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
         "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 338973,
       "name": "Sinner Man",
       "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Slippin' and Dippin' (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
+      },
+      "artists": [
+        {
+          "name": "Coffee",
+          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
+        }
+      ],
+      "duration_ms": 460880,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "More, More, More",
-        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
-      },
-      "artists": [
-        {
-          "name": "Andrea True Connection",
-          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "What's Your Name, What's Your Number",
-      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "The Best of Candi Staton",
         "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 317480,
       "name": "Victim",
       "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "More, More, More",
+        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
+      },
+      "artists": [
+        {
+          "name": "Andrea True Connection",
+          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "What's Your Name, What's Your Number",
+      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
     }
   ],
   "unique_name": "Disco Decadence",

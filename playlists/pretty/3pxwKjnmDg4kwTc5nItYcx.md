@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Carla Wehbe
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,549 likes - 279 songs - 15 hr 6 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,546 likes - 279 songs - 15 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

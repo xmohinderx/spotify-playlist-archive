@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-634 songs - 1 day 7 hr 36 min - [published](https://open.spotify.com/playlist/44fGnydRWldy7s0Nsw51vV)
+635 songs - 1 day 7 hr 39 min - [published](https://open.spotify.com/playlist/44fGnydRWldy7s0Nsw51vV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Huck It](https://open.spotify.com/track/4Nlu8kaDCY6j2xdkOJ5HjW) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Huck It](https://open.spotify.com/album/0pD6AqGHXYYaolUbJPzcCL) | 2:38 | 2020-11-14 | 2022-07-27 |
 | [Hurry Up & Die](https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [ROCKNROLL MACHINE](https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm) | 3:27 | 2020-03-27 | 2022-07-29 |
 | [I Believe I Can Fly](https://open.spotify.com/track/6C0JXC9vaaoX5aa6A7tWf4) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Take a Break](https://open.spotify.com/album/4cgMkeavjD3BGNfQBVwrU3) | 3:01 | 2021-10-12 | 2021-10-16 |
-| [I Don't Care As Long As You Sing](https://open.spotify.com/track/15XkE7wBo9JYmpEc757A4E) | [Beatsteaks](https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX) | [23 Singles](https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB) | 3:20 | 2021-10-12 |  |
+| [I Don't Care As Long As You Sing](https://open.spotify.com/track/15XkE7wBo9JYmpEc757A4E) | [Beatsteaks](https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX) | [23 Singles](https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB) | 3:20 | 2021-10-12 | 2022-08-22 |
 | [I Don't Feel Anything](https://open.spotify.com/track/5jeAc29rn6W3bVzccu9tV9) | [Rehasher](https://open.spotify.com/artist/3JegvPNbAf7Pt3zrKsgXWu) | [I Don't Feel Anything](https://open.spotify.com/album/0eVczh2uc0WtEaE4jy4ciA) | 2:37 | 2020-04-02 | 2022-07-25 |
 | [I Don't Wanna Be An Asshole Anymore](https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Rented World](https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW) | 3:04 | 2020-03-21 | 2022-08-14 |
 | [I Don't Want to Be Me](https://open.spotify.com/track/6MQD0dJWAXEN5STY0qhAj0) | [The Normandys](https://open.spotify.com/artist/39HhPXuzSS2N6zqKHDpYA6) | [Co\-Conspirators of Greater Evils](https://open.spotify.com/album/3DiOm6Q77sCE1tLWjS3VuC) | 2:40 | 2020-03-30 | 2022-04-21 |
@@ -285,6 +285,7 @@
 | [In the End](https://open.spotify.com/track/2Dai1HEZPERYE93GHUAVcW) | [Nothington](https://open.spotify.com/artist/0mTf5njyjkaAb4tpJsTQYE) | [In the End](https://open.spotify.com/album/7zDqwQyBJI55fnbzzs9dK8) | 3:54 | 2020-03-20 | 2022-07-27 |
 | [Infinite](https://open.spotify.com/track/753Vq51xoF1V1pkoBKkVPI) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Never Look Back](https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6) | 2:25 | 2020-12-07 | 2022-07-29 |
 | [Infrared](https://open.spotify.com/track/5Yl1fhMSZtbJm6uEbdLDuA) | [Strike Anywhere](https://open.spotify.com/artist/5rWh48V4824rLBdMja6sO8) | [Exit English](https://open.spotify.com/album/5ic6LLoOojcA7QYz9kCKx0) | 3:28 | 2020-04-03 | 2022-07-29 |
+| [Injection](https://open.spotify.com/track/1wVUjggKup9hP2jd24gLSg) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:19 | 2022-07-26 |  |
 | [Injection](https://open.spotify.com/track/2CDESYyb4I9sCiI2dAcoAy) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness \[International Version \(Explicit\)\]](https://open.spotify.com/album/4bnL97GIgtX6UCybyDzRMJ) | 3:19 | 2021-01-23 | 2022-07-22 |
 | [Inside Out](https://open.spotify.com/track/6RsdndB5Qkr4JaMbneV4to) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/0Q6FKFBM1tSvPMwWS42myR) | 3:51 | 2020-03-20\* | 2022-07-19 |
 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 | 2021-10-09 |  |

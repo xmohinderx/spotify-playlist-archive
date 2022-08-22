@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-246 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+248 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,9 +89,11 @@
 | [Ghosts](https://open.spotify.com/track/5Ghqz1ktEs8F0R6fZPnIgS) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Ty Demo](https://open.spotify.com/artist/1CDjqsIRe0IQ3bgpShCv1o) | [Ghosts](https://open.spotify.com/album/4yXClBXbLxBXL5ht3zMejO) | 3:26 | 2022-06-15 |  |
 | [Gingerbread](https://open.spotify.com/track/1q4tITdOKrFl8EtnPhlyk2) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 3:13 | 2021-12-27 |  |
 | [Go Fish](https://open.spotify.com/track/5nZmYOGW0gqeudxIO0jWn2) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:44 | 2021-12-27 |  |
-| [Golden Coast](https://open.spotify.com/track/3XqQ76fVSGhb5dqYsRWIj4) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:33 | 2021-12-27 |  |
+| [Golden Coast](https://open.spotify.com/track/3XqQ76fVSGhb5dqYsRWIj4) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:33 | 2021-12-27 | 2022-08-22 |
+| [Golden Coast](https://open.spotify.com/track/2FQ0Hd6S45peO7nYHoB3ul) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/4e1rVsIf01mKaap563psbg) | 3:33 | 2022-08-21 |  |
 | [Gone](https://open.spotify.com/track/72xd7UNBG1IXdaZs40tequ) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:17 | 2021-12-27 |  |
-| [Good Way](https://open.spotify.com/track/5H3xMfHwjjBoc6fkFkFBfO) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:39 | 2021-12-27 |  |
+| [Good Way](https://open.spotify.com/track/6fDGDqFQuGmNb0Pistebne) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/4e1rVsIf01mKaap563psbg) | 3:39 | 2022-08-21 |  |
+| [Good Way](https://open.spotify.com/track/5H3xMfHwjjBoc6fkFkFBfO) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:39 | 2021-12-27 | 2022-08-22 |
 | [Goodbye Iowa](https://open.spotify.com/track/0LE6ABVJrpYRFAAQ5CbnN7) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:23 | 2021-12-27 |  |
 | [Got A Lot To Give](https://open.spotify.com/track/6bCNnqOrvzzRSE3gmLgaAN) | [Obvious Choice](https://open.spotify.com/artist/4HqDCO1kaGIPOi0KnkSgGt) | [An Obvious Christmas](https://open.spotify.com/album/154K6f4mYHXynxjQHDzWTu) | 2:41 | 2021-12-27 |  |
 | [Graduation Day, Pt\. 1](https://open.spotify.com/track/2HEojsJrldg6bYCFe92N6O) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:48 | 2021-12-27 |  |

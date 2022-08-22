@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Lil Wayne",
-  "num_followers": 31261,
+  "num_followers": 31511,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMDYzMWRiZjk2NGFjYzg0N2FlMzBhNDcwZDllNzE5NmVi",
+  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMGU5OGY5YzVhYjdmM2Q4ODJiZDcwOTA5OTAyMzA4NDc3",
   "tracks": [
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "A Gangster And A Gentleman",
-        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
+        "name": "Beg For Mercy",
+        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
       },
       "artists": [
         {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
         }
       ],
-      "duration_ms": 211493,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
+      "duration_ms": 265026,
+      "name": "Wanna Get To Know You",
+      "url": "https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1183,22 +1187,18 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Beg For Mercy",
-        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
+        "name": "A Gangster And A Gentleman",
+        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
       },
       "artists": [
         {
-          "name": "G-Unit",
-          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
-        },
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
         }
       ],
-      "duration_ms": 265026,
-      "name": "Wanna Get To Know You",
-      "url": "https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza"
+      "duration_ms": 211493,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
+        "name": "The Dynasty",
+        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "I Just Wanna Love U (Give It 2 Me)",
+      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 248626,
       "name": "Down And Out",
       "url": "https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "The Dynasty",
-        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "I Just Wanna Love U (Give It 2 Me)",
-      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
+        "name": "Lord Willin'",
+        "url": "https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        }
+      ],
+      "duration_ms": 264760,
+      "name": "Grindin'",
+      "url": "https://open.spotify.com/track/3XrvEifl0hIzgBGUa5jBLS"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
         "name": "God's Favorite",
         "url": "https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt"
       },
@@ -1859,26 +1875,6 @@
       "duration_ms": 263546,
       "name": "Fireman",
       "url": "https://open.spotify.com/track/0aq7ohTG6VDYQvsnAYtA5e"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "Rich Boy",
-        "url": "https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9"
-      },
-      "artists": [
-        {
-          "name": "Rich Boy",
-          "url": "https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut"
-        },
-        {
-          "name": "Polow Da Don",
-          "url": "https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Throw Some D's",
-      "url": "https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu"
     }
   ],
   "unique_name": "I Love My 2000s Hip-Hop",

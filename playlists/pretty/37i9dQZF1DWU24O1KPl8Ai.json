@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTc4NDcyOCwwMDAwMDAwMDFhNjZkYTU4MTY5MzM4ZGE0ZTM3YTZkMDkzNDE3ZGU5",
+  "snapshot_id": "MTY1MTc4NDcyOCwwMDAwMDAwMGNlNTRjMTA4MWYyOWQ1YmZmYzQ5ZjdiYTIxYjg1MTA4",
   "tracks": [
     {
       "added_at": "2022-05-05 21:05:28",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-05-05 21:05:28",
       "album": {
-        "name": "Forest Friends' Nature Club Album",
-        "url": "https://open.spotify.com/album/6e79AwZQO9nJYq6qb7SL16"
-      },
-      "artists": [
-        {
-          "name": "Ginalina",
-          "url": "https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP"
-        }
-      ],
-      "duration_ms": 98733,
-      "name": "Pancakes for Breakfast",
-      "url": "https://open.spotify.com/track/7kRTWwrPgRCtwftX2oTRF4"
-    },
-    {
-      "added_at": "2022-05-05 21:05:28",
-      "album": {
         "name": "Rabbit Days and Dumplings",
         "url": "https://open.spotify.com/album/4YhjCfn1LfDFEzlu6JFxjy"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 204360,
       "name": "Akatombo",
       "url": "https://open.spotify.com/track/5adXOZrM20D1AENYn3LKCy"
+    },
+    {
+      "added_at": "2022-05-05 21:05:28",
+      "album": {
+        "name": "Forest Friends' Nature Club Album",
+        "url": "https://open.spotify.com/album/6e79AwZQO9nJYq6qb7SL16"
+      },
+      "artists": [
+        {
+          "name": "Ginalina",
+          "url": "https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP"
+        }
+      ],
+      "duration_ms": 98733,
+      "name": "Pancakes for Breakfast",
+      "url": "https://open.spotify.com/track/7kRTWwrPgRCtwftX2oTRF4"
     },
     {
       "added_at": "2022-05-05 21:05:28",

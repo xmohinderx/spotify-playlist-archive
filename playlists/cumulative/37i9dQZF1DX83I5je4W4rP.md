@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-195 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
+196 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Florida Showers](https://open.spotify.com/track/5foyWXMRbfSkz7CLuCbNm9) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7), [Leilani Wolfgramm](https://open.spotify.com/artist/1CJqIxlYOwcuIZAzfhfnZj) | [Florida Showers](https://open.spotify.com/album/3sy47AtfZLZ1TuBdUnk1ee) | 4:05 | 2021-12-10 | 2022-07-29 |
 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2022-07-06 |  |
 | [Foolish Fool](https://open.spotify.com/track/0pRUST5yAJdtGgBHzEPgpb) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq) | [Foolish Fool](https://open.spotify.com/album/7FgVPZjrVJmYVw2ei3hXLG) | 4:30 | 2021-12-10 | 2022-07-29 |
+| [Gimme Love](https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Gimme Love](https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm) | 3:51 | 2022-08-05 |  |
 | [Good Feeling](https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:23 | 2022-07-06 |  |
 | [Good Feeling](https://open.spotify.com/track/69mUNSadIZmIlrpAqss2oB) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Don't You Worry / Good Feeling](https://open.spotify.com/album/74ULHyuYbRNDVhLzp81L76) | 3:23 | 2021-12-10 | 2022-07-29 |
 | [Good Good Lovin](https://open.spotify.com/track/54r7Y60v3oe7Vr1w7FVZ9A) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Good Good Lovin](https://open.spotify.com/album/7BttjRGIMEQV4tCBLjKIeh) | 3:13 | 2021-12-10 | 2022-07-23 |
@@ -95,7 +96,7 @@
 | [Indestructible](https://open.spotify.com/track/0z420hy7N9l3zV0TVGvCiO) | [Nattali Rize](https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv), [Kumar](https://open.spotify.com/artist/28jXFl0uqcUwqYU9V6f0Wc) | [Indestructible](https://open.spotify.com/album/3vpVrRe5l4BFHaBSQc0k8K) | 3:03 | 2021-12-10 | 2022-06-22 |
 | [Island Time](https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Island Time](https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh) | 4:18 | 2021-12-10 |  |
 | [Jump](https://open.spotify.com/track/4IIxGyabRyqXOnnBa99cKT) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 5:04 | 2021-12-10 | 2022-07-29 |
-| [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 | 2022-07-06 |  |
+| [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 | 2022-07-06 | 2022-08-22 |
 | [Kingdom \(with The Movement\)](https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ) | [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Kingdom \(with The Movement\)](https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL) | 4:42 | 2021-12-10 |  |
 | [Knocking at Your Door](https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:36 | 2021-12-10 |  |
 | [Lay Me Down \(feat\. Sublime With Rome\)](https://open.spotify.com/track/4L0nc0tHfDjr3HlAm1EFeu) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Rome](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Any Port in a Storm \(Special Edition\)](https://open.spotify.com/album/5EOxxqbniQ3CMCCoDfezWh) | 3:35 | 2022-02-04 |  |

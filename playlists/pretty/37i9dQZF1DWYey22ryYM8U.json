@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Prince Royce, Nicky Jam & Jay Wheeler",
-  "num_followers": 525834,
+  "num_followers": 525939,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODIxODIxOCwwMDAwMDAwMGUzY2Q5ZTJhNGM2ODliNDg2YjY1ODgyOGU4NDJiMDc2",
+  "snapshot_id": "MTY1ODIxODIxOCwwMDAwMDAwMGI1MWE2NGQ5MzZiZjgwNjM3NjlmOWIxMjc5ZGY2MzMw",
   "tracks": [
     {
       "added_at": "2022-07-19 08:10:18",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
+        "name": "Cartas Sobre La Mesa",
+        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 191081,
+      "name": "Cartas Sobre La Mesa",
+      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
         "name": "H\u00e1blame de Miami",
         "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 158773,
       "name": "H\u00e1blame de Miami",
       "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
-        "name": "Cartas Sobre La Mesa",
-        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 191081,
-      "name": "Cartas Sobre La Mesa",
-      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "Cuando Te Toco",
-        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
-        }
-      ],
-      "duration_ms": 246759,
-      "name": "Cuando Te Toco",
-      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
         "name": "Si Tu Te Atreves",
         "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 226821,
       "name": "Si Tu Te Atreves",
       "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
+        "name": "Cuando Te Toco",
+        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+        }
+      ],
+      "duration_ms": 246759,
+      "name": "Cuando Te Toco",
+      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1199,30 +1199,6 @@
       "duration_ms": 213316,
       "name": "Dios Asi Lo Quiso",
       "url": "https://open.spotify.com/track/48WszbQrrjEnouJmKzNDba"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
-        "name": "Tuki Tuki",
-        "url": "https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p"
-      },
-      "artists": [
-        {
-          "name": "Pucho Y Tucutu",
-          "url": "https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh"
-        },
-        {
-          "name": "Motiff",
-          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Tuki Tuki",
-      "url": "https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1271,6 +1247,30 @@
       "duration_ms": 342932,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/5GJvia553eOd1scNuZJjha"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
+        "name": "Tuki Tuki",
+        "url": "https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p"
+      },
+      "artists": [
+        {
+          "name": "Pucho Y Tucutu",
+          "url": "https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh"
+        },
+        {
+          "name": "Motiff",
+          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Tuki Tuki",
+      "url": "https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
         "name": "Las Puertas del Cielo",
         "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
+        "name": "Comienzos",
+        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
       },
       "artists": [
         {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
         }
       ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
+      "duration_ms": 212045,
+      "name": "Me Tienes Mal",
+      "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1415,22 +1431,6 @@
       "duration_ms": 158120,
       "name": "Vallenato Apretao",
       "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
-        "name": "Comienzos",
-        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
-      },
-      "artists": [
-        {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        }
-      ],
-      "duration_ms": 212045,
-      "name": "Me Tienes Mal",
-      "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
+        "name": "Vuela Muy Alto",
+        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Vuela Muy Alto",
+      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
         "name": "Si Me Das Tu Amor",
         "url": "https://open.spotify.com/album/4HnkFvcWujnLxUcPQkPjRM"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 213186,
       "name": "Si Me Das Tu Amor",
       "url": "https://open.spotify.com/track/1O34fFJyV7djSqRtOuRSVh"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
-        "name": "Vuela Muy Alto",
-        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Vuela Muy Alto",
-      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 226128,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
         "name": "C\u00f3mo Olvidar (Versi\u00f3n 2021)",
         "url": "https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 226771,
       "name": "C\u00f3mo Olvidar - Versi\u00f3n 2021",
       "url": "https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 226128,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -2059,6 +2059,26 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
+        "name": "Nuestra Esquina",
+        "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
+      },
+      "artists": [
+        {
+          "name": "N'Klabe",
+          "url": "https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Tranquila Bebe",
+      "url": "https://open.spotify.com/track/2NisBr13bzzrleg25GDcKv"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
         "name": "Ziriguidum",
         "url": "https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB"
       },
@@ -2095,26 +2115,6 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "Nuestra Esquina",
-        "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
-      },
-      "artists": [
-        {
-          "name": "N'Klabe",
-          "url": "https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Tranquila Bebe",
-      "url": "https://open.spotify.com/track/2NisBr13bzzrleg25GDcKv"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
         "name": "Imaginarme Sin Ti (Remix)",
         "url": "https://open.spotify.com/album/4oqq94m8FpC6bTokPljUxD"
       },
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "No Volver\u00e9",
-        "url": "https://open.spotify.com/album/3Xd6nQPsvtBsIyD0Fgw2cy"
-      },
-      "artists": [
-        {
-          "name": "MOLY",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        }
-      ],
-      "duration_ms": 221610,
-      "name": "No Volver\u00e9",
-      "url": "https://open.spotify.com/track/1cC0I76YKUEDg9z27puUL4"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
         "name": "Legendario",
         "url": "https://open.spotify.com/album/2sukPu1GQw02oMmN05Y986"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 317941,
       "name": "Tuyo - (Nueva Versi\u00f3n)",
       "url": "https://open.spotify.com/track/0n6lBsv06EKbI55c6q9ngf"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
+        "name": "No Volver\u00e9",
+        "url": "https://open.spotify.com/album/3Xd6nQPsvtBsIyD0Fgw2cy"
+      },
+      "artists": [
+        {
+          "name": "MOLY",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        }
+      ],
+      "duration_ms": 221610,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/1cC0I76YKUEDg9z27puUL4"
     },
     {
       "added_at": "2022-07-19 08:10:18",

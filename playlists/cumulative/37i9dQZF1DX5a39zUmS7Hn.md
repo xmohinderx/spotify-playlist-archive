@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: Oasis
 
-201 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
+202 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Blue Monday](https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 7:29 | 2022-06-06 |  |
 | [Break The Man](https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Break The Man](https://open.spotify.com/album/4KRvCp0VPZ8pUrAtpokokf) | 3:55 | 2022-04-08 | 2022-07-12 |
 | [Broken Moments](https://open.spotify.com/track/4DuJ3mgi1EtY2HflhJtW1N) | [Barry Adamson](https://open.spotify.com/artist/4xoV3kh3rwrWaPc17zyDyY) | [Broken Moments](https://open.spotify.com/album/0OtduNUpxyU60lA98sgbIB) | 3:47 | 2022-04-08 | 2022-07-23 |
-| [Buck Rogers](https://open.spotify.com/track/0ySYUxaTxfN8Kd6nuNY6bY) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Echo Park](https://open.spotify.com/album/2AqgHBVRkki14FLTOK2eU7) | 3:13 | 2022-08-18 |  |
+| [Buck Rogers](https://open.spotify.com/track/0ySYUxaTxfN8Kd6nuNY6bY) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Echo Park](https://open.spotify.com/album/2AqgHBVRkki14FLTOK2eU7) | 3:13 | 2022-08-18 | 2022-08-22 |
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2022-07-28 |  |
 | [C'mon People \(We're Making It Now\) \[feat\. Liam Gallagher\]](https://open.spotify.com/track/3ZGOhkbH5bQqorcBvB26pP) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU), [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Acoustic Hymns Vol\. 1](https://open.spotify.com/album/6IQVY1RqbUdX77kiHfUPMu) | 4:54 | 2022-04-08 | 2022-07-29 |
 | [Cage](https://open.spotify.com/track/5PRqhBkoni3TrJSUqpnyKa) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Cage](https://open.spotify.com/album/7uRq2XCxf2m2tVEexsSCyJ) | 2:48 | 2022-08-18 |  |
@@ -188,6 +188,7 @@
 | [This Guitar](https://open.spotify.com/track/2kh6aCEA51W67H4kJ7IkKh) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:50 | 2022-05-27 | 2022-08-19 |
 | [This Love Starved Heart of Mine \(It's Killing Me\)](https://open.spotify.com/track/32SqqH3of0MA2bwuy3C8tW) | [The Jaded Hearts Club](https://open.spotify.com/artist/7qZ3cinlwpZtJpylqOLFCA), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP) | [You've Always Been Here](https://open.spotify.com/album/4bLyKjPIhAijzz3JLUBJQn) | 2:50 | 2022-04-08 | 2022-07-14 |
 | [Time is Running Out](https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:57 | 2022-07-28 |  |
+| [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-18 |  |
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2022-07-28 |  |
 | [Town Called Malice](https://open.spotify.com/track/4TOYmUloyDslQIj0k3pXn3) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift \(Deluxe Edition\)](https://open.spotify.com/album/5tCafNFnLdK5orQH5Y9FFP) | 2:53 | 2022-04-08 | 2022-07-29 |
 | [Trash](https://open.spotify.com/track/5sVPOuJJAmidyxU8LjJBVu) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Coming Up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/7M4M2D5vnodz6lmP8iO15S) | 4:05 | 2022-04-08 | 2022-07-29 |

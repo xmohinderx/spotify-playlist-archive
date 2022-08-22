@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-295 songs - 1 day 7 hr 1 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+296 songs - 1 day 7 hr 5 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2022-04-11 |  |
 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 | 2021-05-03 |  |
 | [Blue Rose](https://open.spotify.com/track/1WByZBGVI09ggCjH5wru9a) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blue Rose / Red Room](https://open.spotify.com/album/1SDs4zVPGrZSSTaRxmsFl3) | 4:49 | 2022-01-14 | 2022-07-27 |
-| [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-21 | 2022-08-20 |
+| [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-21 |  |
 | [Brave New World](https://open.spotify.com/track/2RTLo7ZBz4SSVXlxCLSVCO) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu) | [Brave New World](https://open.spotify.com/album/1CaeDHHSXPFAOSNkMehefw) | 6:04 | 2021-05-26 | 2022-07-28 |
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
 | [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 |  |
@@ -146,7 +146,7 @@
 | [Lacuna](https://open.spotify.com/track/4VObi381kNC7Fy14jybcBY) | [Matthias Meyer](https://open.spotify.com/artist/6bWakzaLHaNewLTdhJHPQb), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Lacuna EP](https://open.spotify.com/album/37XzyS2RTfnNnaSUVD49gn) | 7:27 | 2021-04-21 | 2022-04-21 |
 | [Lanarka](https://open.spotify.com/track/3CoXzpJExs6A23Y9r8WM4c) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Lanarka / Sablier](https://open.spotify.com/album/0xNfGRZHfkfMdTanJfdcdn) | 9:28 | 2021-04-21 |  |
 | [Late Reflections](https://open.spotify.com/track/3YGDl5T8GTpS3z0QtYmtSv) | [Curt Reynolds](https://open.spotify.com/artist/51PSlMHvG1HCInKyLVHMu1) | [Late Reflections](https://open.spotify.com/album/50payYIEJGNTgFYGzUQ9k4) | 6:03 | 2021-10-29 | 2022-07-26 |
-| [Le Crocodile](https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Le Crocodile](https://open.spotify.com/album/0GeA48MX9ataAMIBmQmN6H) | 4:23 | 2021-04-21 |  |
+| [Le Crocodile](https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Le Crocodile](https://open.spotify.com/album/0GeA48MX9ataAMIBmQmN6H) | 4:23 | 2021-04-21 | 2022-08-22 |
 | [Leaving Home](https://open.spotify.com/track/2S3UsA5sFyCGdpdWqkusTe) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Vette / Leaving Home](https://open.spotify.com/album/4rDSAYMAsLVz7sJqxBCF1b) | 6:28 | 2021-04-21 | 2022-07-23 |
 | [Lepiej nie mówmy nikomu](https://open.spotify.com/track/6Bw5TLTJbwONfD2li10UBb) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Lepiej nie mówmy nikomu](https://open.spotify.com/album/659TQGieS3UFvTK6UyvEBz) | 5:45 | 2022-07-01 | 2022-07-26 |
 | [Lion Rock](https://open.spotify.com/track/7AFmB72s93HsxKbq32KVJO) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Lion Rock](https://open.spotify.com/album/5zwAJDzfCHfPFtM5EH8zyk) | 4:36 | 2021-04-21 | 2022-04-21 |
@@ -268,7 +268,7 @@
 | [The High](https://open.spotify.com/track/4EG4CocKZV7FAs71MTiUUv) | [James Organ](https://open.spotify.com/artist/4gus0P48NlwC0zSgBZAO3R), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [The High](https://open.spotify.com/album/3F4A5UXMww9UFt9lf1YAvm) | 6:12 | 2022-06-03 | 2022-07-28 |
 | [The Mad Eyed Arper \- Orignal Mix](https://open.spotify.com/track/6sQ3ZxNGKRwwjclHLlAvLb) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Arpiano](https://open.spotify.com/album/6kx0Dh1xPYWgSqOk7LSXnf) | 7:01 | 2021-04-21 | 2022-04-21 |
 | [The Silence](https://open.spotify.com/track/5I2bl8yVsQ6F7CNnh2P9dc) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [The Silence](https://open.spotify.com/album/6BiPBIh5lMuS0jdbxHD3Mn) | 7:31 | 2022-07-01 | 2022-07-04 |
-| [The Wildcard Rhapsody](https://open.spotify.com/track/7xIqFDhrWrDiwOibmIGl0o) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [The Wildcard Rhapsody EP](https://open.spotify.com/album/35YTlMCyEgaKmiAOwfDLQx) | 8:17 | 2022-04-15 |  |
+| [The Wildcard Rhapsody](https://open.spotify.com/track/7xIqFDhrWrDiwOibmIGl0o) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [The Wildcard Rhapsody EP](https://open.spotify.com/album/35YTlMCyEgaKmiAOwfDLQx) | 8:17 | 2022-04-15 | 2022-08-22 |
 | [The Witness](https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Witness](https://open.spotify.com/album/2agQCuwawKF5udp9i3wD9t) | 7:03 | 2022-07-01 | 2022-07-11 |
 | [The Woods \- Kostakis Lost in the Woods Edit](https://open.spotify.com/track/5dm5TSgzPHfTz12Il1ZubQ) | [Kostakis](https://open.spotify.com/artist/220vnZDNctyvMXmQOFTheW), [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [The Woods](https://open.spotify.com/album/5eoRTl5QPag8mGvoqMrjoG) | 6:32 | 2021-05-21 | 2022-07-28 |
 | [To The Light \- Fideles Remix](https://open.spotify.com/track/4dnmKgkhPvrRrDYjajpPS5) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [To The Light \(Fideles Remix\)](https://open.spotify.com/album/6jNIuiKaLvkGloJnqq40Cp) | 4:30 | 2022-07-01 |  |
@@ -303,5 +303,6 @@
 | [Whistleman](https://open.spotify.com/track/386PnZfbszq42M8GprZnVt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:59 | 2021-04-21 |  |
 | [Yira Yirar](https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU) | [Marco Tegui / Raw Main](https://open.spotify.com/album/5dV8KbeFNzZcncF57GBEPA) | 6:39 | 2021-04-21 |  |
 | [Your Inner Workings](https://open.spotify.com/track/3nEHRDu0SiBcMYg5WuHsN0) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Your Inner Workings](https://open.spotify.com/album/4ABZUaxjI2R19wvLzXgNHC) | 5:33 | 2022-05-24 |  |
+| [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 | 2022-08-19 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

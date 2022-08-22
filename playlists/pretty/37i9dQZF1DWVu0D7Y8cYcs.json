@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 451436,
+  "num_followers": 451529,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTc0NTYyNCwwMDAwMDAwMDdiMjYzODE0MDc0MWJkMjQ5ZmQ2MGI4MWE1MzhhN2Ex",
+  "snapshot_id": "MTY1NTc0NTYyNCwwMDAwMDAwMDVjMWRhODU2YTJjOGY0YTkxYzA1M2IzZWQ4NTMyMWQ4",
   "tracks": [
     {
       "added_at": "2022-06-20 17:20:23",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-06-20 17:20:23",
       "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
-    },
-    {
-      "added_at": "2022-06-20 17:20:23",
-      "album": {
         "name": "Higher Place",
         "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": "2022-06-20 17:20:23",
       "album": {
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
+    },
+    {
+      "added_at": "2022-06-20 17:20:23",
+      "album": {
         "name": "You Can Get It If You Really Want",
         "url": "https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK"
       },
@@ -403,18 +403,18 @@
     {
       "added_at": "2022-06-20 17:20:23",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
-        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/1gCBAfrnTTAFRthxRqp0Rj"
       },
       "artists": [
         {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         }
       ],
-      "duration_ms": 290200,
-      "name": "Funky Kingston",
-      "url": "https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX"
+      "duration_ms": 181434,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/2ur8F1rb1lsxpZA9UJEDfl"
     },
     {
       "added_at": "2022-06-20 17:20:23",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-06-20 17:20:23",
       "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/1gCBAfrnTTAFRthxRqp0Rj"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
+        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
       },
       "artists": [
         {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
         }
       ],
-      "duration_ms": 181434,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/2ur8F1rb1lsxpZA9UJEDfl"
+      "duration_ms": 290200,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX"
     },
     {
       "added_at": "2022-06-20 17:20:23",

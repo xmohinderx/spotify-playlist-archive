@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Panic! At The Disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,963 likes - 102 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,000 likes - 102 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

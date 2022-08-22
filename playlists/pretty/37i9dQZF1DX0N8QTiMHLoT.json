@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 110930,
+  "num_followers": 110965,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDg5ODkwNmUzNDI1OTgzNTdmNzM1NjQ4YzhmYmQ0NDU4",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDI2MTM0NTY1MjI4NGQyMDNiZjIyYTRmOTdjNDM0ZWFk",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -127,22 +127,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Laid Black",
-        "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
+        "name": "Up",
+        "url": "https://open.spotify.com/album/30YCt5MD1H4uGULaP3ZsFB"
       },
       "artists": [
         {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        },
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+          "name": "The Stanley Clarke Band",
+          "url": "https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH"
         }
       ],
-      "duration_ms": 355986,
-      "name": "7-T's",
-      "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
+      "duration_ms": 197722,
+      "name": "Pop Virgil",
+      "url": "https://open.spotify.com/track/1rryMCRc1FhuUeKRHQnvSO"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -163,18 +159,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/30YCt5MD1H4uGULaP3ZsFB"
+        "name": "Laid Black",
+        "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
       "artists": [
         {
-          "name": "The Stanley Clarke Band",
-          "url": "https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH"
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
         }
       ],
-      "duration_ms": 197722,
-      "name": "Pop Virgil",
-      "url": "https://open.spotify.com/track/1rryMCRc1FhuUeKRHQnvSO"
+      "duration_ms": 355986,
+      "name": "7-T's",
+      "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -211,6 +211,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Dr Hypenstein",
+        "url": "https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        }
+      ],
+      "duration_ms": 187276,
+      "name": "Funktionality",
+      "url": "https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Ostinato Bass",
         "url": "https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 253400,
       "name": "Inside My Memory",
       "url": "https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Dr Hypenstein",
-        "url": "https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P"
-      },
-      "artists": [
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
-        }
-      ],
-      "duration_ms": 187276,
-      "name": "Funktionality",
-      "url": "https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -315,30 +315,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Parato",
-          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
-        },
-        {
-          "name": "Lele Melotti",
-          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
-        },
-        {
-          "name": "Luca Scarpa",
-          "url": "https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG"
-        }
-      ],
-      "duration_ms": 272300,
-      "name": "The Sniper",
-      "url": "https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Way Up!",
         "url": "https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm"
       },
@@ -387,6 +363,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "A Show of Hands 15",
+        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 279693,
+      "name": "Classical Thump",
+      "url": "https://open.spotify.com/track/3l3lCbzWLXi9FS4tQ3HSzZ"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Not of This World",
         "url": "https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY"
       },
@@ -403,18 +395,26 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "A Show of Hands 15",
-        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU"
       },
       "artists": [
         {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+          "name": "Cristiano Parato",
+          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
+        },
+        {
+          "name": "Lele Melotti",
+          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
+        },
+        {
+          "name": "Luca Scarpa",
+          "url": "https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG"
         }
       ],
-      "duration_ms": 279693,
-      "name": "Classical Thump",
-      "url": "https://open.spotify.com/track/3l3lCbzWLXi9FS4tQ3HSzZ"
+      "duration_ms": 272300,
+      "name": "The Sniper",
+      "url": "https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -451,18 +451,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Transformation",
-        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
+        "name": "At The Jazz Base",
+        "url": "https://open.spotify.com/album/1pPAok1LQpSnl6IDYdugSU"
       },
       "artists": [
         {
-          "name": "Tal Wilkenfeld",
-          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
+          "name": "Gerald Veasley",
+          "url": "https://open.spotify.com/artist/3YCLJVZoYJ2sgtAaNt9HPE"
         }
       ],
-      "duration_ms": 385533,
-      "name": "Cosmic Joke",
-      "url": "https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L"
+      "duration_ms": 315360,
+      "name": "Valdez In The Country",
+      "url": "https://open.spotify.com/track/71Rf5dOGsVfBGPuWgWYA0V"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -479,22 +479,6 @@
       "duration_ms": 324533,
       "name": "No Way",
       "url": "https://open.spotify.com/track/21insAWTe5rKqvBWkTfvkO"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "At The Jazz Base",
-        "url": "https://open.spotify.com/album/1pPAok1LQpSnl6IDYdugSU"
-      },
-      "artists": [
-        {
-          "name": "Gerald Veasley",
-          "url": "https://open.spotify.com/artist/3YCLJVZoYJ2sgtAaNt9HPE"
-        }
-      ],
-      "duration_ms": 315360,
-      "name": "Valdez In The Country",
-      "url": "https://open.spotify.com/track/71Rf5dOGsVfBGPuWgWYA0V"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -531,6 +515,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Transformation",
+        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
+      },
+      "artists": [
+        {
+          "name": "Tal Wilkenfeld",
+          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
+        }
+      ],
+      "duration_ms": 385533,
+      "name": "Cosmic Joke",
+      "url": "https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "The Second",
         "url": "https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx"
       },
@@ -563,6 +563,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Time 2 Stop Worrying (Bout the Weird Stuff)",
+        "url": "https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ"
+      },
+      "artists": [
+        {
+          "name": "Ida Nielsen",
+          "url": "https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3"
+        }
+      ],
+      "duration_ms": 96096,
+      "name": "Purple Interlude",
+      "url": "https://open.spotify.com/track/4ew37vOupTtCRE7oag9QoW"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Slippin' N' Trippin'",
         "url": "https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj"
       },
@@ -579,18 +595,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Time 2 Stop Worrying (Bout the Weird Stuff)",
-        "url": "https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ"
+        "name": "A Show of Hands 15",
+        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
       },
       "artists": [
         {
-          "name": "Ida Nielsen",
-          "url": "https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3"
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
         }
       ],
-      "duration_ms": 96096,
-      "name": "Purple Interlude",
-      "url": "https://open.spotify.com/track/4ew37vOupTtCRE7oag9QoW"
+      "duration_ms": 317346,
+      "name": "Me & My Bass Guitar",
+      "url": "https://open.spotify.com/track/2bGlApShelovL2azxX0ksl"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -611,22 +627,6 @@
       "duration_ms": 202971,
       "name": "5 Cookies (feat. Anomalie)",
       "url": "https://open.spotify.com/track/4m2JZ8iy71KVNm3UwW46Y8"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "A Show of Hands 15",
-        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 317346,
-      "name": "Me & My Bass Guitar",
-      "url": "https://open.spotify.com/track/2bGlApShelovL2azxX0ksl"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Thicker Than Water",
-        "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
-      },
-      "artists": [
-        {
-          "name": "Brian Bromberg",
-          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
-        }
-      ],
-      "duration_ms": 335588,
-      "name": "Is That the Best You Can Do?",
-      "url": "https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "We Are All You (Extended Edition)",
         "url": "https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr"
       },
@@ -731,22 +715,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Notes With Attachments",
-        "url": "https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr"
+        "name": "Thicker Than Water",
+        "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
       },
       "artists": [
         {
-          "name": "Pino Palladino",
-          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
-        },
-        {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
         }
       ],
-      "duration_ms": 154361,
-      "name": "Off The Cuff",
-      "url": "https://open.spotify.com/track/6aGE12dPzbEVEL47yb3F5d"
+      "duration_ms": 335588,
+      "name": "Is That the Best You Can Do?",
+      "url": "https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -767,6 +747,26 @@
       "duration_ms": 240339,
       "name": "Love on the Run",
       "url": "https://open.spotify.com/track/5qxN363wsERfecdjGiReyy"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Notes With Attachments",
+        "url": "https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr"
+      },
+      "artists": [
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "duration_ms": 154361,
+      "name": "Off The Cuff",
+      "url": "https://open.spotify.com/track/6aGE12dPzbEVEL47yb3F5d"
     },
     {
       "added_at": "2021-05-06 21:09:12",

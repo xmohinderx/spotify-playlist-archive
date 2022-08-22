@@ -1,12 +1,12 @@
 {
   "description": "Alternative meets electronic. Cover: Sub Urban + BENEE",
-  "num_followers": 424275,
+  "num_followers": 424368,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTc1MDc5MywwMDAwMDAwMDc1MDVlYzVlNWNmYzhmZDE4YzY2YjAyMmI5ZWY5OWRl",
+  "snapshot_id": "MTY1NTc1MDc5MywwMDAwMDAwMDVjYTJmOTVhZmY5M2U1N2RjOTM5Y2FiMGI0NTkzZWI5",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -147,38 +147,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "YES MOM",
-        "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
-      },
-      "artists": [
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "YES MOM",
-      "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Tell Me The Truth",
-        "url": "https://open.spotify.com/album/3zGWVpOZH5mpbT3UkC10Wa"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 242349,
-      "name": "Tell Me The Truth",
-      "url": "https://open.spotify.com/track/0hdiC2o5agqlpH9G9dqbGg"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "KULT (feat. Jasiah)",
         "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
       },
@@ -199,6 +167,38 @@
       "duration_ms": 177149,
       "name": "KULT (feat. Jasiah)",
       "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Tell Me The Truth",
+        "url": "https://open.spotify.com/album/3zGWVpOZH5mpbT3UkC10Wa"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 242349,
+      "name": "Tell Me The Truth",
+      "url": "https://open.spotify.com/track/0hdiC2o5agqlpH9G9dqbGg"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "YES MOM",
+        "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "YES MOM",
+      "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Devil",
-        "url": "https://open.spotify.com/album/6YqhEb5DxHRuzW2slbnNay"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 160600,
-      "name": "Devil",
-      "url": "https://open.spotify.com/track/4zvRdQWreRSHm8siX9cvzO"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Mx. Sinister",
         "url": "https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 179956,
       "name": "Mx. Sinister",
       "url": "https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/6YqhEb5DxHRuzW2slbnNay"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/4zvRdQWreRSHm8siX9cvzO"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
+        "name": "Float",
+        "url": "https://open.spotify.com/album/057yHZleUWDU9CKw9ihU2R"
       },
       "artists": [
         {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+          "name": "Call Me Karizma",
+          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
         }
       ],
-      "duration_ms": 178920,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
+      "duration_ms": 169093,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/54JbP4PgOMQGowCbCfjCNA"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -855,34 +855,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Float",
-        "url": "https://open.spotify.com/album/057yHZleUWDU9CKw9ihU2R"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
       },
       "artists": [
         {
-          "name": "Call Me Karizma",
-          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 169093,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/54JbP4PgOMQGowCbCfjCNA"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 181153,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7"
+      "duration_ms": 178920,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -903,18 +887,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH"
       },
       "artists": [
         {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 163492,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+      "duration_ms": 181153,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -931,6 +915,22 @@
       "duration_ms": 166739,
       "name": "American Paranoid Freak",
       "url": "https://open.spotify.com/track/0FWRjeCE9Inf9NAVJpVYBJ"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Have My Back",
-        "url": "https://open.spotify.com/album/4QQPP4xRp3wyW7QwZdsW5u"
-      },
-      "artists": [
-        {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        },
-        {
-          "name": "Vanic",
-          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
-        }
-      ],
-      "duration_ms": 227897,
-      "name": "Have My Back",
-      "url": "https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "lost cause// (with grandson)",
         "url": "https://open.spotify.com/album/30pzFBCamJulEWfJTco52K"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 171285,
       "name": "lost cause// (with grandson)",
       "url": "https://open.spotify.com/track/1zXoU7XohkF9xLMu5LHZ2G"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Have My Back",
+        "url": "https://open.spotify.com/album/4QQPP4xRp3wyW7QwZdsW5u"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        }
+      ],
+      "duration_ms": 227897,
+      "name": "Have My Back",
+      "url": "https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1471,6 +1471,46 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Death Of A Fantasy",
+        "url": "https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "duration_ms": 133186,
+      "name": "THERAPY!",
+      "url": "https://open.spotify.com/track/6lzW55cVEYSovFmM4EcSS6"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Heaven Angel",
+        "url": "https://open.spotify.com/album/5ePCOPPdPHI3cka5oXzoDh"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+        }
+      ],
+      "duration_ms": 219745,
+      "name": "Heaven Angel",
+      "url": "https://open.spotify.com/track/3rk6IW3MBirMnertH3l5Ek"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Lunatic",
         "url": "https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR"
       },
@@ -1483,22 +1523,6 @@
       "duration_ms": 141226,
       "name": "Lunatic",
       "url": "https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Draw Down The Moon",
-        "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
-      },
-      "artists": [
-        {
-          "name": "Foxing",
-          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Go Down Together",
-      "url": "https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1527,38 +1551,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "OH NAH OH NAH (feat. Kamiyada+)",
-        "url": "https://open.spotify.com/album/19284bUazQyICc55efdKcc"
+        "name": "Draw Down The Moon",
+        "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
       },
       "artists": [
         {
-          "name": "93FEETOFSMOKE",
-          "url": "https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79"
-        },
-        {
-          "name": "Kamiyada+",
-          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
         }
       ],
-      "duration_ms": 158935,
-      "name": "OH NAH OH NAH (feat. Kamiyada+)",
-      "url": "https://open.spotify.com/track/3DD5a4oJQo4ZIjDsYWvMjB"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Death Of A Fantasy",
-        "url": "https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL"
-      },
-      "artists": [
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 133186,
-      "name": "THERAPY!",
-      "url": "https://open.spotify.com/track/6lzW55cVEYSovFmM4EcSS6"
+      "duration_ms": 195706,
+      "name": "Go Down Together",
+      "url": "https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1575,6 +1579,22 @@
       "duration_ms": 169680,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "HeatDeath",
+        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 317837,
+      "name": "HeatDeath",
+      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1623,42 +1643,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "HeatDeath",
-        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
+        "name": "OH NAH OH NAH (feat. Kamiyada+)",
+        "url": "https://open.spotify.com/album/19284bUazQyICc55efdKcc"
       },
       "artists": [
         {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 317837,
-      "name": "HeatDeath",
-      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Heaven Angel",
-        "url": "https://open.spotify.com/album/5ePCOPPdPHI3cka5oXzoDh"
-      },
-      "artists": [
-        {
-          "name": "THE DRIVER ERA",
-          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+          "name": "93FEETOFSMOKE",
+          "url": "https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79"
         },
         {
-          "name": "Ross Lynch",
-          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
-        },
-        {
-          "name": "Rocky",
-          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+          "name": "Kamiyada+",
+          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
         }
       ],
-      "duration_ms": 219745,
-      "name": "Heaven Angel",
-      "url": "https://open.spotify.com/track/3rk6IW3MBirMnertH3l5Ek"
+      "duration_ms": 158935,
+      "name": "OH NAH OH NAH (feat. Kamiyada+)",
+      "url": "https://open.spotify.com/track/3DD5a4oJQo4ZIjDsYWvMjB"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "ANARCHY",
-        "url": "https://open.spotify.com/album/0inGvyulrWVsrpFmabpQzf"
-      },
-      "artists": [
-        {
-          "name": "Sizzy Rocket",
-          "url": "https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E"
-        }
-      ],
-      "duration_ms": 152900,
-      "name": "That Bitch",
-      "url": "https://open.spotify.com/track/4ur3KZzUiI3wyRea8hDkI0"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Can't Get You Out of My Head",
         "url": "https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV"
       },
@@ -1759,18 +1743,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d"
+        "name": "ANARCHY",
+        "url": "https://open.spotify.com/album/0inGvyulrWVsrpFmabpQzf"
       },
       "artists": [
         {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+          "name": "Sizzy Rocket",
+          "url": "https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E"
         }
       ],
-      "duration_ms": 187059,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
+      "duration_ms": 152900,
+      "name": "That Bitch",
+      "url": "https://open.spotify.com/track/4ur3KZzUiI3wyRea8hDkI0"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1823,6 +1807,22 @@
       "duration_ms": 236400,
       "name": "Have Fun",
       "url": "https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 187059,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
     }
   ],
   "unique_name": "Alternative Beats",

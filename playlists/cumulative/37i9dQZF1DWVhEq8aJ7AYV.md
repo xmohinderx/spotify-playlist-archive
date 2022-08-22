@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-219 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/3DsOFDYX7Pe6GJzMeJ9QUl)
+220 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/3DsOFDYX7Pe6GJzMeJ9QUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [El Beach Boy](https://open.spotify.com/track/1P56hKJF93achBpRvllYcV) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/05IVUYcH4LBJifRy3C0BBB) | 2:17 | 2021-09-03 | 2022-07-29 |
 | [El Beach Boy](https://open.spotify.com/track/6oqxj450uTm4141WYeLLOM) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:17 | 2021-09-03 |  |
 | [El Bikini de la Chica Popof](https://open.spotify.com/track/5v9qoKW6B0czgAEubebKJt) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/05IVUYcH4LBJifRy3C0BBB) | 2:21 | 2021-09-03 | 2022-07-29 |
+| [El Bikini de la Chica Popof](https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:21 | 2021-09-03 |  |
 | [El Exorsista](https://open.spotify.com/track/2uEbPvG2mUuDuvwN3JhPiu) | [Espectroplasma](https://open.spotify.com/artist/48ljuzBJK83T0146ueaNZq) | [Espectroplasma I](https://open.spotify.com/album/4VDEjivZLmKKHWR01lIPjL) | 2:25 | 2021-09-03 | 2022-07-28 |
 | [El Garage de Gina Monster](https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk) | [Lost Acapulco](https://open.spotify.com/artist/5RF2vr24R5pDRPcMFCqBCQ) | [Tequila Connection 3](https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC) | 3:03 | 2021-09-03 |  |
 | [El Gran Sur](https://open.spotify.com/track/6yA543x9Q4ayk9nMOBpJ1C) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 4:10 | 2021-09-03 | 2022-07-26 |
@@ -192,7 +193,7 @@
 | [Surf Doll Dance](https://open.spotify.com/track/4Isv98YdD3jeYax5FBcm2r) | [Thalasses](https://open.spotify.com/artist/27rXbt1Abog2vOpuBGUVKi) | [Thalasses](https://open.spotify.com/album/2LvESFreiSdHXkc2QSCfi6) | 2:54 | 2021-09-03 | 2022-07-10 |
 | [Surf Mongol](https://open.spotify.com/track/1skML2AxX4glNCpqWdLWWE) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 1:37 | 2021-09-03 |  |
 | [Surf Mongol](https://open.spotify.com/track/48He8hwSetoMQPesFnnh6H) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua) | 1:37 | 2021-09-03 | 2022-07-29 |
-| [surf nouveau](https://open.spotify.com/track/5T5ooP6MVPkoPi6vjJfnxo) | [The Aqua Velvets](https://open.spotify.com/artist/2jim1jhi2L8h3YnFicGbov) | [Nomad](https://open.spotify.com/album/5mbVRo73uR3kw6dD6GuFt7) | 3:39 | 2021-09-03 |  |
+| [surf nouveau](https://open.spotify.com/track/5T5ooP6MVPkoPi6vjJfnxo) | [The Aqua Velvets](https://open.spotify.com/artist/2jim1jhi2L8h3YnFicGbov) | [Nomad](https://open.spotify.com/album/5mbVRo73uR3kw6dD6GuFt7) | 3:39 | 2021-09-03 | 2022-08-22 |
 | [Surf Vs\. The Flying Saucers](https://open.spotify.com/track/2M9DsKdenidJeWP1mqcfNq) | [Urban Surf Kings](https://open.spotify.com/artist/2PibVUaJBzKOmP872xVQ02) | [Surf Vs The Flying Saucers](https://open.spotify.com/album/1gwqaSqAt3klyYmbATSDNu) | 2:39 | 2021-09-03 | 2022-07-11 |
 | [Surfin Beer](https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:06 | 2021-09-03 | 2022-07-28 |
 | [Surfs You Right](https://open.spotify.com/track/4bvXLjqL3zgFAux0ZpXQQ0) | [Laika & The Cosmonauts](https://open.spotify.com/artist/6UmSNX1sClVl8rYnig3t9i) | [Cosmopolis](https://open.spotify.com/album/5vTTXLIeYHZKOOnENLn2wB) | 1:59 | 2021-09-03 | 2022-07-20 |

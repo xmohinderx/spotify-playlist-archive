@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-587 songs - 1 day 10 hr 2 min - [published](https://open.spotify.com/playlist/7viCC71S6fIOj9ymtSPNrp)
+588 songs - 1 day 10 hr 7 min - [published](https://open.spotify.com/playlist/7viCC71S6fIOj9ymtSPNrp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-02-27 | 2022-05-05 |
 | [Matrouhsh](https://open.spotify.com/track/0Uqv9WsK3zpN6YmjHZCvfv) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Matrouhsh](https://open.spotify.com/album/2f5x6mpKNLRD13lAX86BCf) | 5:59 | 2022-06-19 | 2022-07-16 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-12-15 |  |
-| [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-06-01 |  |
+| [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-06-01 | 2022-08-22 |
 | [Mo Tabie](https://open.spotify.com/track/0FKTRAk8gcrTKSpeO8hQ4p) | [Mr Milano](https://open.spotify.com/artist/7oxXVS4iyy5BqUq5x4Od8z) | [Mo Tabie](https://open.spotify.com/album/54FLphFQXvE2avxSdeECgd) | 1:11 | 2021-08-07 | 2021-08-27 |
 | [Momken](https://open.spotify.com/track/184NJgZkOPIz4742hcWSq8) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Momken](https://open.spotify.com/album/6gr21nAdWq81BK3cNYkWyc) | 3:14 | 2021-06-18 | 2021-07-06 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-09-12 | 2022-03-09 |
@@ -475,7 +475,7 @@
 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 | 2022-01-29 | 2022-04-07 |
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-10-31 | 2022-05-08 |
 | [Toxic](https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:48 | 2021-10-16 | 2021-10-31 |
-| [Toxic](https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:48 | 2022-05-07 |  |
+| [Toxic](https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:48 | 2022-05-07 | 2022-08-22 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2022-04-14 | 2022-07-01 |
 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 | 2022-05-10 | 2022-06-07 |
 | [Trippy People](https://open.spotify.com/track/1GTUWF8gn38GeFiXaCHr5B) | [DragzOn](https://open.spotify.com/artist/5zT053M75agG77vNt6bQLw) | [Too Far Gone](https://open.spotify.com/album/26SENnALIR4R6g1occ58O5) | 1:30 | 2022-06-01 | 2022-07-06 |
@@ -540,7 +540,8 @@
 | [الذاهبة](https://open.spotify.com/track/3gJDSX36TeHPVb2sJVCwr6) | [Khaled Abdul Rahman](https://open.spotify.com/artist/18mL1uw7WJCMi9kwiPNA2v) | [الذاهبة](https://open.spotify.com/album/7fHJBUHTBTYjgk5PXydKhn) | 7:48 | 2021-10-18 | 2021-10-30 |
 | [الذاهبة](https://open.spotify.com/track/5p4x3QUEOjqTGJ9RT126DV) | [Khaled Abdul Rahman](https://open.spotify.com/artist/6X5jPcdNTzdvOnOGhLTXyX) | [الذاهبة](https://open.spotify.com/album/6Z4rpe9MMJQKzU79TSmkLb) | 7:48 | 2021-11-26 | 2022-01-04 |
 | [الظروف](https://open.spotify.com/track/09VO2zkcp0Fep3LUfJAEEq) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [الظروف \- Single](https://open.spotify.com/album/2SSZErKSM1mjVl2g2asQ4U) | 6:07 | 2021-03-27\* | 2021-06-22 |
-| [انا نجم](https://open.spotify.com/track/7Ki9SDxWpUU8aXIX2gq2C2) | [Various Artists](https://open.spotify.com/artist/2mv12nN6hV35GVNKdvyEM9) | [مسلسل ريڤو](https://open.spotify.com/album/6xCkZUQJBH9pEQ1cLO0rGs) | 4:05 | 2022-08-04 | 2022-08-11 |
+| [العاشق الهايم](https://open.spotify.com/track/6C3nzX8ltQ0AlmPVm5HHam) | [علي هشلان](https://open.spotify.com/artist/2K37h6TAEw2KfPBYZZI6hk) | [العاشق الهايم](https://open.spotify.com/album/0hU9fhOsWK9FAHwxpA2X2h) | 4:24 | 2022-08-21 |  |
+| [انا نجم](https://open.spotify.com/track/7Ki9SDxWpUU8aXIX2gq2C2) | [Various Artists](https://open.spotify.com/artist/2mv12nN6hV35GVNKdvyEM9) | [مسلسل ريڤو](https://open.spotify.com/album/6xCkZUQJBH9pEQ1cLO0rGs) | 4:05 | 2022-08-04 |  |
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2021-11-11 | 2022-08-05 |
 | [بانت مثل نور الشمس](https://open.spotify.com/track/40jqQvybzz7kn8nPTR0AmE) | [Khaled abed](https://open.spotify.com/artist/6HakNQJya9pYehWLybsUbS) | [بانت مثل نور الشمس](https://open.spotify.com/album/6WBsQdOm4epgiEjx21gvVi) | 4:51 | 2021-11-19 | 2022-01-01 |
 | [بتروح عادي](https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4CFE56Ty8V8uTMwaEDQki7) | 3:16 | 2021-07-11 | 2022-02-27 |

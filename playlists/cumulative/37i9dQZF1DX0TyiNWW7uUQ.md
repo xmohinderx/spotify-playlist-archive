@@ -4,7 +4,7 @@
 
 > Finest collection of Tamil Music from the past 5 years<br/>Cover : Viruman
 
-97 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/69GF5UsinX4QRifDXRVvJk)
+98 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/69GF5UsinX4QRifDXRVvJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO) | 3:31 | 2022-05-11 |  |
 | [Pistah](https://open.spotify.com/track/4oWyW7U9YVox9jqTar9k0V) | [Shabareesh Varma](https://open.spotify.com/artist/7hSF5IJpSsH6PVSrqJfqki) | [Neram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zEO7lQavgGnCcrQthxujb) | 2:26 | 2022-01-04 | 2022-06-07 |
 | [Po Urave](https://open.spotify.com/track/0QcpmVsHY4b4aI8fn0QJo5) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kaatrin Mozhi](https://open.spotify.com/album/5UFD0pRW2cv0y4t0FVMP6d) | 3:22 | 2022-01-04 | 2022-07-14 |
+| [Ponni Nadhi \(From "Ponniyin Selvan Part \-1"\) \- Tamil](https://open.spotify.com/track/1uJ2czshFLqimctgvsxfv2) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A\. R\. Reihana](https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D) | [Ponni Nadhi \(From "Ponniyin Selvan Part \-1"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6uoefjrPMaieH3pKqBYDeM) | 4:50 | 2022-08-21 |  |
 | [Porkanda Singam EDM Version \(Additional Song\)](https://open.spotify.com/track/0iJPMG79hgWnDHjufnoplb) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:29 | 2022-07-13 |  |
 | [Private Party \(From "Don"\)](https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Private Party \(From "Don"\)](https://open.spotify.com/album/1JOGTaUwTOfeW70ed3rRr2) | 3:36 | 2022-04-30 |  |
 | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/2oNRoniEFnPdaCfkOQ9m0C) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3YSoAYHmI70SD6Wb7f4k1q) | 4:07 | 2022-01-04 | 2022-06-07 |

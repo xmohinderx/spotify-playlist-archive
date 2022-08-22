@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,279 likes - 29 songs - 1 hr 37 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,284 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,5 +37,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 27 | [Deeper Love](https://open.spotify.com/track/7lCWOmZukYQmIPDB40BLyC) | [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb), [Elijah & Grundy](https://open.spotify.com/artist/57ZguCkaG6uymquyEMVyTl), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Deeper Love](https://open.spotify.com/album/5JLBlimO9JzoWpur7NqX9S) | 3:32 |
 | 28 | [My Heart \- Mixed](https://open.spotify.com/track/39a0czIMqaB4AqfZWnYedO) | [Fin & Stanley](https://open.spotify.com/artist/6gegSrXoT1mZzZSU9UAqpI), [Baumhouse](https://open.spotify.com/artist/1UnFWWvUb2Qc8oFz0kuaa5) | [Join 04 \(DJ Mix\)](https://open.spotify.com/album/3hu1Mlmqq34Azz8GATydaG) | 6:43 |
 | 29 | [Girl](https://open.spotify.com/track/26AvnGY4zYLuBMx8Pbw9xo) | [Dots Per Inch](https://open.spotify.com/artist/20BQJA9TcJiWM3AWbMY7wl), [Major Key](https://open.spotify.com/artist/2B5vbLfmwX978rjCVL7foF) | [Girl](https://open.spotify.com/album/6lQZTA5XSMa300CyVnMyue) | 2:34 |
+| 30 | [Demons](https://open.spotify.com/track/5usdD4a3nB3XB2QAqkqAzS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [My Demons](https://open.spotify.com/album/250dVzSQ7jsd6p908mAccd) | 3:36 |
 
-Snapshot ID: `NTg0MCw5MWEwYmVmODE1ODdiZjdmYWFkYjU0OTkzZGI0ODE1ZTJmYzc0OGMz`
+Snapshot ID: `NTg0MSxiMGVmYjliYWFmMGJkNzZiOWM5YjI1YTk2OWM5MDY5YmIyYzdiMTlk`

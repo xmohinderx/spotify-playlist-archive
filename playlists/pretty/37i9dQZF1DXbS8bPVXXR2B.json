@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 168999,
+  "num_followers": 169123,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDUxODMyMiwwMDAwMDAwMGM1OGRjYTlmMDRlOWI4OGQ0ZDhiMzRhYWRlMmY1OGVh",
+  "snapshot_id": "MTY0NDUxODMyMiwwMDAwMDAwMDgyMzI1Y2E4MTAzNjFlNzM0NTVlNWRlM2FkNmI2NDU1",
   "tracks": [
     {
       "added_at": "2022-02-10 18:38:40",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "Get as Much Love as You Can",
-        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 279800,
-      "name": "Nights Over Egypt",
-      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 341426,
       "name": "Last Night a D.J. Saved My Life",
       "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Nights Over Egypt",
+      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
+        "name": "What A Woman Needs",
+        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
+      },
+      "artists": [
+        {
+          "name": "Melba Moore",
+          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Your Sweet Lovin'",
+      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
         "name": "Zenyatta Mondatta (Remastered 2003)",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 414000,
       "name": "Running Away - 12-Inch Long Version",
       "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
-        "name": "What A Woman Needs",
-        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
-      },
-      "artists": [
-        {
-          "name": "Melba Moore",
-          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Your Sweet Lovin'",
-      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "Friends and Buddies",
-        "url": "https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa"
-      },
-      "artists": [
-        {
-          "name": "Milton Wright",
-          "url": "https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
         "name": "World",
         "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 570275,
       "name": "Hafi Deo",
       "url": "https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
+        "name": "Friends and Buddies",
+        "url": "https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa"
+      },
+      "artists": [
+        {
+          "name": "Milton Wright",
+          "url": "https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
-      },
-      "artists": [
-        {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
         "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
         "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 376973,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/2WNNwabbizIDP9evAIyY3K"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
+      },
+      "artists": [
+        {
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
+        }
+      ],
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -1239,34 +1239,18 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+        "name": "Watchin' Out",
+        "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
       },
       "artists": [
         {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+          "name": "Split Decision Band",
+          "url": "https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Stop Your Life - Original Album",
-      "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n"
-      },
-      "artists": [
-        {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
-        }
-      ],
-      "duration_ms": 404391,
-      "name": "Disco Illusion",
-      "url": "https://open.spotify.com/track/2XTRCpjlWAUlnheHM3q463"
+      "duration_ms": 195114,
+      "name": "Watchin' Out",
+      "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -1287,18 +1271,34 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "Watchin' Out",
-        "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n"
       },
       "artists": [
         {
-          "name": "Split Decision Band",
-          "url": "https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf"
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
         }
       ],
-      "duration_ms": 195114,
-      "name": "Watchin' Out",
-      "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
+      "duration_ms": 404391,
+      "name": "Disco Illusion",
+      "url": "https://open.spotify.com/track/2XTRCpjlWAUlnheHM3q463"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Stop Your Life - Original Album",
+      "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -1315,6 +1315,22 @@
       "duration_ms": 587050,
       "name": "Heartbeat - Club Mix",
       "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "Agb'oju L'ogun",
-        "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
-      },
-      "artists": [
-        {
-          "name": "Shina Williams & His African Percussionists",
-          "url": "https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe"
-        }
-      ],
-      "duration_ms": 702167,
-      "name": "Agb'oju L'ogun - Original 12\" Version",
-      "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
         "name": "Disco Baby",
         "url": "https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29"
       },
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "I Want to Feel Your Love",
-        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
+        "name": "Agb'oju L'ogun",
+        "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
       },
       "artists": [
         {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+          "name": "Shina Williams & His African Percussionists",
+          "url": "https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe"
         }
       ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
+      "duration_ms": 702167,
+      "name": "Agb'oju L'ogun - Original 12\" Version",
+      "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
     },
     {
       "added_at": "2022-02-10 18:38:40",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-02-10 18:38:40",
       "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n"
-      },
-      "artists": [
-        {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
-        }
-      ],
-      "duration_ms": 284985,
-      "name": "Lypso Illusion",
-      "url": "https://open.spotify.com/track/3RuJDWfcSwS5JqPtg9isZs"
-    },
-    {
-      "added_at": "2022-02-10 18:38:40",
-      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 259413,
       "name": "Get It Right - Single Version",
       "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
+    },
+    {
+      "added_at": "2022-02-10 18:38:40",
+      "album": {
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n"
+      },
+      "artists": [
+        {
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+        }
+      ],
+      "duration_ms": 284985,
+      "name": "Lypso Illusion",
+      "url": "https://open.spotify.com/track/3RuJDWfcSwS5JqPtg9isZs"
     },
     {
       "added_at": "2022-02-10 18:38:40",

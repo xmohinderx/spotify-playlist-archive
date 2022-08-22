@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-191 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
+192 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Gonna' Miss You](https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [M.P.3](https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN) | 3:19 | 2021-07-12 |  |
 | [Got To Be Real](https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts) | [Uko](https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp) | [Smooth Jazz SAX Showcase](https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn) | 4:56 | 2021-07-12 |  |
 | [Got to Be Real](https://open.spotify.com/track/1dNB7cpCB5SlHHfwpCbYrs) | [Uko](https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp), [Mitsuo Yamamoto](https://open.spotify.com/artist/4So93CvE4dN9WOBkeHZARz) | [Smooth Jazz Sax Showcase](https://open.spotify.com/album/7hCm7kiXIpNgSMHWUTnaya) | 4:56 | 2021-07-12 | 2022-07-29 |
-| [Green Light](https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Undeniable](https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G) | 4:21 | 2021-07-12 |  |
+| [Green Light](https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Undeniable](https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G) | 4:21 | 2021-07-12 | 2022-08-22 |
 | [Groovin' U](https://open.spotify.com/track/3xvJKgVCpppdfBmBr5wkKG) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Can't Stop Now](https://open.spotify.com/album/40ahCB8zfb1RRvQ4xDP5aT) | 4:02 | 2021-07-12 | 2022-07-29 |
 | [Groovin' U \(f](https://open.spotify.com/track/63XAVsskaasvNFwuX9bDrB) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:02 | 2021-07-12 |  |
 | [Hangin' With Mr\. D.](https://open.spotify.com/track/3JgMrtlgo8nGYJzaarDmDd) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [Hangin' With Mr\. D.](https://open.spotify.com/album/5IUICcdr0nXNo0hgjcRmxS) | 3:39 | 2022-07-08 | 2022-07-29 |
@@ -95,6 +95,7 @@
 | [Last Dance](https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg), [Peter White](https://open.spotify.com/artist/7FOIxhZMOdE8hnOF0X8qgo) | [Touch](https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb) | 4:13 | 2021-07-12 |  |
 | [Lasting Impression](https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4) | [James Vargas](https://open.spotify.com/artist/75zhICFfHLHabeEW0ZTlnC) | [James Vargas](https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh) | 5:12 | 2021-07-12 |  |
 | [Laws of Attraction](https://open.spotify.com/track/12J2Q2Cikcn4H6SAhD5dKL) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Laws of Attraction](https://open.spotify.com/album/1pKCXExlSgh6Dq1wH6jgzm) | 3:31 | 2021-07-12 | 2022-04-21 |
+| [Laws Of Attraction](https://open.spotify.com/track/5yNJqzRzeZvrG5bEyb2u7Z) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Laws Of Attraction](https://open.spotify.com/album/5ldhBNgkkdUs9st5IPvofn) | 3:31 | 2021-07-12 |  |
 | [Leap of Faith](https://open.spotify.com/track/0IguWIOThNrFN7fL1ZPTjF) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5) | [Leap of Faith](https://open.spotify.com/album/7miTDlNB5Wb6zhh0VJh9Es) | 3:15 | 2021-07-12 | 2022-07-28 |
 | [Leave It to the Gods](https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu) | [D.S\. Wilson](https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO) | [Leave It to the Gods](https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX) | 4:26 | 2022-07-15 |  |
 | [Lift Every Voice And Sing](https://open.spotify.com/track/1lC7uRdflKjT17PVHEXgYb) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [Lift Every Voice And Sing](https://open.spotify.com/album/5SRZT5eHIG2aHHcHC9AXHI) | 2:02 | 2022-06-17 | 2022-07-26 |

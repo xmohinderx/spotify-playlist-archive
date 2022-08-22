@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-320 songs - 19 hr 50 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+321 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Arere Arere Kanaside Yedure \(From "Bahukrita Vesham"\)](https://open.spotify.com/track/5CPwtPNznf4hByEu54Xncx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Vyshak V Bhargav](https://open.spotify.com/artist/4z5vrxjYgbeE7bdoDstyQk) | [Arere Arere Kanaside Yedure \(From "Bahukrita Vesham"\)](https://open.spotify.com/album/3emm28tdIKUjk4ap9GJAvb) | 3:56 | 2021-12-06 | 2022-03-18 |
 | [Arere Idenidu \(From "Sakuchi"\)](https://open.spotify.com/track/3Vj25vzDSdS4mhWV63Vg2o) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Ganesh Govindaswamy](https://open.spotify.com/artist/1pi35viD12i4twm8olEXpw) | [Arere Idenidu \(From "Sakuchi"\)](https://open.spotify.com/album/2U6FmRGWvzCl3WLuV1fG9z) | 3:31 | 2021-12-27 | 2022-02-03 |
 | [Arerere Ragale](https://open.spotify.com/track/5LllDa78w4rq9z1tC9chiC) | [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Arerere Ragale \- Kurup \- Kannada](https://open.spotify.com/album/0TFqYnEulfSsGM4niSkVAa) | 3:33 | 2021-12-06 | 2022-01-12 |
+| [Attack \(From "Liger \(Kannada\)"\)](https://open.spotify.com/track/2xH5u306wewYsDzOkZv5qD) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [Vyasaraj Sosale](https://open.spotify.com/artist/0O8FIZczDo2bCQ3tbSm0q5), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo) | [Attack \[From "Liger \(Kannada\)"\]](https://open.spotify.com/album/5wPevXPFHzfsWeI71O9FiR) | 3:09 | 2022-08-21 |  |
 | [Avatara Purusha \- Title Track](https://open.spotify.com/track/0JUY3olyWgdQX7qE9oe6cp) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Vyasa Raj](https://open.spotify.com/artist/0NPveDsIoLUDgeHYQGa9or) | [Avatara Purusha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DxronrVkYLqb6A7zw3x06) | 3:48 | 2022-05-19 | 2022-07-25 |
 | [Baa Hosa Belake \(From "Hope"\)](https://open.spotify.com/track/6sgYlTM4Ea8v2MUgQDEtQs) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Baa Hosa Belake \(From "Hope"\)](https://open.spotify.com/album/45ZnzbZZBRzvyXB1Bd9qiO) | 4:30 | 2021-12-06 | 2022-02-03 |
 | [Baala Belakeega](https://open.spotify.com/track/2mBriKlrYbLxPcZcZ5cw42) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue) | [Jana 2022 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EgOV2N1zacJerb0hzhWmg) | 3:56 | 2022-05-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,550 likes - 52 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,592 likes - 52 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 48 | [Haali Haali](https://open.spotify.com/track/3Y7Dt0uszkNBMBTdxyckaV) | [Brijesh Tripati Sandilya](https://open.spotify.com/artist/4byLq8xnJVPzgigwtio1rb), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4), [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Spyder \(Telugu\)](https://open.spotify.com/album/6kooJUFnkhm3RBIfr9PgtS) | 5:33 |
 | 49 | [Elluvochi Godaramma \(Remix\) \[From "Valmiki"\]](https://open.spotify.com/track/0XqW5wprbdA808lOGxzhjw) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK), [K\. Chakravarthy](https://open.spotify.com/artist/3UOiixLqrkiZEyZUKng1t0), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Elluvochi Godaramma \(Remix\) \[From "Valmiki"\] \- Single](https://open.spotify.com/album/7jV1XjhgXGeCQSQbEpQZI9) | 3:27 |
 | 50 | [Love Dhebba](https://open.spotify.com/track/3voVT9SGPZCT6tYXVbwAao) | [Deepak](https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Nannaku Prematho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15sBWVMRroxX2xMq3rNQoI) | 3:56 |
-| 51 | [Puttene Prema](https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs) | 3:46 |
-| 52 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
+| 51 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
+| 52 | [Puttene Prema](https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs) | 3:46 |
 
-Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMGIxM2QzNjk4YjdkMTBhZjYwZWYxZDYxMmMwZTljZDM2`
+Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMGNiYzViZjE3ZTYzYzYxNmExNzdlMzRiYWFhMmQxZWU3`

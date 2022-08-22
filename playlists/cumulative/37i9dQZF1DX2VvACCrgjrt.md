@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Knock2
 
-326 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+327 songs - 17 hr 32 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 | 2022-05-27 |  |
 | [Fool](https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Fool](https://open.spotify.com/album/7srxSNnTWeirw0haBqUQey) | 3:15 | 2021-11-12 |  |
 | [Four Legs](https://open.spotify.com/track/5j6Bpqse6MmyG0P1f1GTej) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [Four Legs](https://open.spotify.com/album/1iJZOgO2mXGiKY1NUxfjb9) | 2:26 | 2021-10-29 | 2022-01-06 |
+| [Free My Mind](https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU) | 2:51 | 2022-08-19 |  |
 | [Full of Love](https://open.spotify.com/track/62UaGLT1sKYQhhudWjcAjq) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Full of Love](https://open.spotify.com/album/0gvl8TSfutOQiBLKwADwyG) | 2:54 | 2021-10-29 | 2022-03-26 |
 | [FYPM](https://open.spotify.com/track/0z8FKvSaediTR0n9TgDaGy) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Jonathan.](https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M) | [FYPM](https://open.spotify.com/album/4LhjGLJTESeDO0fiqqy5VA) | 4:25 | 2021-10-29 |  |
 | [G Spot](https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Algo](https://open.spotify.com/artist/3b7KMI96oGOeQEoXhe4iBK) | [Licked](https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4) | 5:18 | 2021-10-29 |  |
@@ -242,7 +243,7 @@
 | [Queue](https://open.spotify.com/track/27ThU2UjsMWH48A49DEKck) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Not The Father](https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0) | [Queue](https://open.spotify.com/album/4z6vS3ZGkTnfKlY4gezFKH) | 3:06 | 2021-10-29 | 2022-07-30 |
 | [Rampage](https://open.spotify.com/track/1FAMmDVKA84HUrA12iFEuE) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Rampage](https://open.spotify.com/album/7tvJ8CY63uFzEiyRLSH495) | 3:04 | 2021-10-29 | 2022-07-30 |
 | [RAVE GAME](https://open.spotify.com/track/49DxqidpypOz3l98JUQZAn) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [NINEONE赵馨玥](https://open.spotify.com/artist/0id1kre1ASgHByPQgivxUk) | [RAVE GAME](https://open.spotify.com/album/0jf36FuJofd4AncTkpxSGI) | 3:04 | 2022-04-29 |  |
-| [Reckless](https://open.spotify.com/track/37fAW4AI7aPtdZYyVU5JGo) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Dark Cities](https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Reckless](https://open.spotify.com/album/2comQ96pDfUCwDlTqFV8WC) | 3:42 | 2022-08-05 |  |
+| [Reckless](https://open.spotify.com/track/37fAW4AI7aPtdZYyVU5JGo) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Dark Cities](https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Reckless](https://open.spotify.com/album/2comQ96pDfUCwDlTqFV8WC) | 3:42 | 2022-08-05 | 2022-08-22 |
 | [Renegade Master \(Back Once Again\) \[Volac Remix\]](https://open.spotify.com/track/1cycPybSk3hzUNOGZ7l1Ya) | [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Renegade Master \(Back Once Again\) \[Volac Remix\]](https://open.spotify.com/album/2PVmLFvkSWx9yblbSXCPCY) | 3:04 | 2021-10-29 | 2022-01-20 |
 | [Represent](https://open.spotify.com/track/0m1T6bvHN1TtWJD88cgXLo) | [Hotfire](https://open.spotify.com/artist/1qNnOOSKdsCMmGIxeCdjtm) | [Thing + Represent](https://open.spotify.com/album/7cda4GMBkL9VXDmu7n9nda) | 3:33 | 2021-10-29 | 2022-01-03 |
 | [Ride with Us](https://open.spotify.com/track/71mJJ2kF8TnwDbNnBbSnzy) | [TCHDWN](https://open.spotify.com/artist/60niYEUa3Wsf65wvQUy5tw) | [Ride with Us](https://open.spotify.com/album/5JaU29Bf9psPTIBiBAntE6) | 3:58 | 2021-10-29 | 2022-01-11 |

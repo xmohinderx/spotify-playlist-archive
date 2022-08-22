@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 191937,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 219946,
       "name": "Aiz Sienas",
       "url": "https://open.spotify.com/track/5yhcJBmWo03kIDZieSkpTa"
@@ -3577,7 +3577,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 244213,
       "name": "Debesis iekrita tev\u012b",
       "url": "https://open.spotify.com/track/0lNWDFt02EXYm86vH9BBRE"
@@ -3595,7 +3595,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 209783,
       "name": "Debesis va\u013c\u0101",
       "url": "https://open.spotify.com/track/4BrmtfPeWg89JOuhW51gEi"
@@ -5079,7 +5079,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-03",
+      "date_removed": null,
       "duration_ms": 186851,
       "name": "Feels",
       "url": "https://open.spotify.com/track/3APK7FGRSdIud4GVeFMKI6"
@@ -5443,7 +5443,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 255764,
       "name": "Gads Bez Kalend\u0101ra",
       "url": "https://open.spotify.com/track/4lwZ1U96mvX7fJELnvmOMW"
@@ -6939,7 +6939,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 241066,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
@@ -7751,7 +7751,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 194502,
       "name": "Karuse\u013ci",
       "url": "https://open.spotify.com/track/1KMGBoRTWw7YHdmZPbFJIr"
@@ -7791,7 +7791,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-06-27",
+      "date_removed": null,
       "duration_ms": 181920,
       "name": "Ka\u0137\u0113ns, Kur\u0161 Atteic\u0101s No J\u016brasskolas",
       "url": "https://open.spotify.com/track/6Fs2nN1jo4PXhGXfbsgTDp"
@@ -8191,7 +8191,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -8723,7 +8723,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-02",
+      "date_removed": null,
       "duration_ms": 246720,
       "name": "Lonesome Moon",
       "url": "https://open.spotify.com/track/2TWrrULmlZlArhNyTMDYYD"
@@ -9141,7 +9141,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 180320,
       "name": "L\u012bgava",
       "url": "https://open.spotify.com/track/3sLSl451Qxl6YQgx2YqJl3"
@@ -9863,7 +9863,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 121972,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
@@ -11318,6 +11318,24 @@
     },
     {
       "album": {
+        "name": "Par to z\u0113nu, kas sit sk\u0101rda bungas",
+        "url": "https://open.spotify.com/album/277YZ9Au7DyEEqBgKChIct"
+      },
+      "artists": [
+        {
+          "name": "Pr\u0101ta V\u0113tra",
+          "url": "https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245195,
+      "name": "Ogles",
+      "url": "https://open.spotify.com/track/0xZbTUeLOIXjAHFuyZNQr2"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -11501,7 +11519,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
@@ -12035,7 +12053,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-06-27",
+      "date_removed": null,
       "duration_ms": 227032,
       "name": "Piedo\u0161ana",
       "url": "https://open.spotify.com/track/3FIOLubzv26R6ql1MJllu0"
@@ -12395,7 +12413,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 205040,
       "name": "Praise The Lord (Da Shine) (feat. Skepta)",
       "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
@@ -12763,7 +12781,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -14249,7 +14267,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 211948,
       "name": "Smar\u017ea",
       "url": "https://open.spotify.com/track/2OU7YM5PoDq40lppaLcYpZ"
@@ -14657,7 +14675,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -15249,7 +15267,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-02",
+      "date_removed": null,
       "duration_ms": 197761,
       "name": "Tavas P\u0113das Pagalm\u0101",
       "url": "https://open.spotify.com/track/1ur7PgMA8DB0qDemnKEJiA"
@@ -15615,7 +15633,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -16341,7 +16359,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-04",
+      "date_removed": null,
       "duration_ms": 240881,
       "name": "Tur, kur Dieva kamanas sl\u012bd",
       "url": "https://open.spotify.com/track/5QwLLy20J0sjXYkaT8w1U9"
@@ -16577,7 +16595,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 204255,
       "name": "Uz Seen",
       "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"
@@ -16617,7 +16635,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
@@ -17289,7 +17307,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
@@ -18505,7 +18523,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 122482,
       "name": "\u0417\u0430\u0431\u0435\u0440\u0443",
       "url": "https://open.spotify.com/track/3pzr7iKQpV9QjLGcLcd2ic"

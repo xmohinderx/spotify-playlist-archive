@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 265748,
+  "num_followers": 265891,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyMzkzMiwwMDAwMDAwMDg1NGI3NDU0NjhlN2RiZDkzZGU4ZGZiNWQ3N2UzMTFk",
+  "snapshot_id": "MTY2MDkyMzkzMiwwMDAwMDAwMGNmNzI1Y2NiMTZlODU5NTAyNDhkZjUwMzg2NzQzNDVh",
   "tracks": [
     {
       "added_at": "2022-08-19 15:45:32",
@@ -151,18 +151,22 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+        "name": "Ghost (Fejk\u00e1 Remix)",
+        "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+      "duration_ms": 283106,
+      "name": "Ghost - Fejk\u00e1 Remix",
+      "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -191,22 +195,18 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "Ghost (Fejk\u00e1 Remix)",
-        "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
       "artists": [
         {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 283106,
-      "name": "Ghost - Fejk\u00e1 Remix",
-      "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -519,58 +519,6 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "Subconsciously",
-        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 462560,
-      "name": "I'm Fallin (feat. RY X)",
-      "url": "https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY"
-    },
-    {
-      "added_at": "2022-08-19 15:45:32",
-      "album": {
-        "name": "Wellenl\u00e4nge",
-        "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Wellenl\u00e4nge",
-      "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
-    },
-    {
-      "added_at": "2022-08-19 15:45:32",
-      "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
-    },
-    {
-      "added_at": "2022-08-19 15:45:32",
-      "album": {
         "name": "High On Beat",
         "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
       },
@@ -591,18 +539,38 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX"
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
       "artists": [
         {
-          "name": "MEUTE",
-          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 467086,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
+      "duration_ms": 462560,
+      "name": "I'm Fallin (feat. RY X)",
+      "url": "https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY"
+    },
+    {
+      "added_at": "2022-08-19 15:45:32",
+      "album": {
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -627,6 +595,22 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX"
+      },
+      "artists": [
+        {
+          "name": "MEUTE",
+          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
+        }
+      ],
+      "duration_ms": 467086,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
+    },
+    {
+      "added_at": "2022-08-19 15:45:32",
+      "album": {
         "name": "Yuregine Deprem",
         "url": "https://open.spotify.com/album/6zgNxbXp8mi1c3WxG28F99"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 227176,
       "name": "Yuregine Deprem",
       "url": "https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E"
+    },
+    {
+      "added_at": "2022-08-19 15:45:32",
+      "album": {
+        "name": "Wellenl\u00e4nge",
+        "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Wellenl\u00e4nge",
+      "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "The K\u00e1rm\u00e1n Line",
-        "url": "https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 203657,
-      "name": "The K\u00e1rm\u00e1n Line",
-      "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
-    },
-    {
-      "added_at": "2022-08-19 15:45:32",
-      "album": {
         "name": "Purified Fragments Vi",
         "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "Solar Detroit",
-        "url": "https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk"
+        "name": "The K\u00e1rm\u00e1n Line",
+        "url": "https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi"
       },
       "artists": [
         {
-          "name": "MEUTE",
-          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 486137,
-      "name": "Solar Detroit",
-      "url": "https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n"
+      "duration_ms": 203657,
+      "name": "The K\u00e1rm\u00e1n Line",
+      "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -759,6 +743,22 @@
       "duration_ms": 219014,
       "name": "FAST LAND",
       "url": "https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz"
+    },
+    {
+      "added_at": "2022-08-19 15:45:32",
+      "album": {
+        "name": "Solar Detroit",
+        "url": "https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk"
+      },
+      "artists": [
+        {
+          "name": "MEUTE",
+          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
+        }
+      ],
+      "duration_ms": 486137,
+      "name": "Solar Detroit",
+      "url": "https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "The Center Will Not Hold",
-        "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 230239,
-      "name": "The Center Will Not Hold",
-      "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
-    },
-    {
-      "added_at": "2022-08-19 15:45:32",
-      "album": {
         "name": "Don't Go Asking",
         "url": "https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt"
       },
@@ -859,22 +843,18 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "Cloudline (Parra for Cuva Reimagination)",
-        "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
+        "name": "The Center Will Not Hold",
+        "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
       },
       "artists": [
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        },
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         }
       ],
-      "duration_ms": 296981,
-      "name": "Cloudline (Parra for Cuva Reimagination)",
-      "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
+      "duration_ms": 230239,
+      "name": "The Center Will Not Hold",
+      "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -895,18 +875,22 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "Perspective EP",
-        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
+        "name": "Cloudline (Parra for Cuva Reimagination)",
+        "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
       },
       "artists": [
         {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        },
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
         }
       ],
-      "duration_ms": 304753,
-      "name": "Message",
-      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
+      "duration_ms": 296981,
+      "name": "Cloudline (Parra for Cuva Reimagination)",
+      "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -927,18 +911,18 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "Quarantine",
-        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
+        "name": "Perspective EP",
+        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
       },
       "artists": [
         {
-          "name": "Ante Perry",
-          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
         }
       ],
-      "duration_ms": 333223,
-      "name": "Quarantine - Original",
-      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
+      "duration_ms": 304753,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -955,6 +939,22 @@
       "duration_ms": 212596,
       "name": "I Won't Be",
       "url": "https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN"
+    },
+    {
+      "added_at": "2022-08-19 15:45:32",
+      "album": {
+        "name": "Quarantine",
+        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
+      },
+      "artists": [
+        {
+          "name": "Ante Perry",
+          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
+        }
+      ],
+      "duration_ms": 333223,
+      "name": "Quarantine - Original",
+      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 352240,
+      "name": "Love We Found",
+      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
+    },
+    {
+      "added_at": "2022-08-19 15:45:32",
+      "album": {
         "name": "Unconditional Love",
         "url": "https://open.spotify.com/album/3rPsutaizdztrYpGeKDd5H"
       },
@@ -1151,34 +1167,18 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
+        "name": "AvA",
+        "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
       },
       "artists": [
         {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+          "name": "Amy Root",
+          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
         }
       ],
-      "duration_ms": 352240,
-      "name": "Love We Found",
-      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
-    },
-    {
-      "added_at": "2022-08-19 15:45:32",
-      "album": {
-        "name": "LUZ",
-        "url": "https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98"
-      },
-      "artists": [
-        {
-          "name": "Axel Boman",
-          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
-        }
-      ],
-      "duration_ms": 217104,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV"
+      "duration_ms": 287986,
+      "name": "AvA",
+      "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "AvA",
-        "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
+        "name": "LUZ",
+        "url": "https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98"
       },
       "artists": [
         {
-          "name": "Amy Root",
-          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
         }
       ],
-      "duration_ms": 287986,
-      "name": "AvA",
-      "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
+      "duration_ms": 217104,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV"
     },
     {
       "added_at": "2022-08-19 15:45:32",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2022-08-19 15:45:32",
       "album": {
-        "name": "Home / Air",
-        "url": "https://open.spotify.com/album/1rvnW8k7TnL9VeR98P7Dfw"
+        "name": "Leslie EP",
+        "url": "https://open.spotify.com/album/7KFVE1klBqsA9fiqte3Ks8"
       },
       "artists": [
         {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Ten Ven",
-          "url": "https://open.spotify.com/artist/0ZSLz27xUnI816MMtYfLMI"
+          "name": "Jacob Groening",
+          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
         }
       ],
-      "duration_ms": 547824,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/4dbftegZLAdj8BZYxz0Jf8"
+      "duration_ms": 446590,
+      "name": "Leslie",
+      "url": "https://open.spotify.com/track/6NzAnIRwtBKacxkLzva4e7"
     }
   ],
   "unique_name": "Afterhours",

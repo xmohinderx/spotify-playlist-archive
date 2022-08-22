@@ -774,6 +774,40 @@
     },
     {
       "album": {
+        "name": "SIM SIM SIM",
+        "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
+      },
+      "artists": [
+        {
+          "name": "Bala Desejo",
+          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+        },
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Lucas Nunes",
+          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303550,
+      "name": "Baile de M\u00e1scaras (Recarnaval)",
+      "url": "https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8"
+    },
+    {
+      "album": {
         "name": "Bala Azul (Remasterizado)",
         "url": "https://open.spotify.com/album/22xTSSEDxksfpETUCwM8xf"
       },
@@ -4799,7 +4833,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 150000,
       "name": "Sem Tempo",
       "url": "https://open.spotify.com/track/4OjU6vAV8f9pSCUScsgYek"

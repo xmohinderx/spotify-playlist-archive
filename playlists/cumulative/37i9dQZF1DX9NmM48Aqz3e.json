@@ -1314,24 +1314,6 @@
     },
     {
       "album": {
-        "name": "00s Party Mixtape",
-        "url": "https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0"
-      },
-      "artists": [
-        {
-          "name": "Love Inc.",
-          "url": "https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx"
-        }
-      ],
-      "date_added": "2021-09-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210613,
-      "name": "You're a Superstar - Radio Edit",
-      "url": "https://open.spotify.com/track/0F7HW6u4LdXDxuCJynN9bF"
-    },
-    {
-      "album": {
         "name": "Party Hits: Summer Edition",
         "url": "https://open.spotify.com/album/7A19ynZIohLCG6dr9k44rJ"
       },
@@ -1347,6 +1329,28 @@
       "duration_ms": 210613,
       "name": "You're a Superstar - Radio Edit",
       "url": "https://open.spotify.com/track/0o1CpOzg6GA7L1PRnocChr"
+    },
+    {
+      "album": {
+        "name": "00s Party Mixtape",
+        "url": "https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0"
+      },
+      "artists": [
+        {
+          "name": "Love Inc.",
+          "url": "https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx"
+        },
+        {
+          "name": "Simone Denny",
+          "url": "https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210613,
+      "name": "You're a Superstar - Radio Edit",
+      "url": "https://open.spotify.com/track/0F7HW6u4LdXDxuCJynN9bF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9NmM48Aqz3e"

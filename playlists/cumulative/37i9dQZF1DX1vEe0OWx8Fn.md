@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-147 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/7zNUe9tpLIHIO7lX9G9AtD)
+148 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/7zNUe9tpLIHIO7lX9G9AtD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [4AM](https://open.spotify.com/track/1CvxFREecMxuwaFIhSaaaL) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [4AM](https://open.spotify.com/album/1MDN5NQ57OPN6xlpBCS1Ej) | 2:45 | 2021-11-19 | 2022-07-29 |
 | [9\-5 \(love me\)//](https://open.spotify.com/track/6uoJn76oWv1aJVj4473zyY) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 2:46 | 2021-11-19 | 2022-07-26 |
 | [abcdefu \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/3xSyUXUkSiBLsJNpPpG4v1) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [abcdefu \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/4yfT2AABmfgPrr40yhhyXx) | 2:49 | 2022-03-04 |  |
+| [Alone](https://open.spotify.com/track/5lnKrYXmiDqVcHbhrLqSYx) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:13 | 2022-08-16 |  |
 | [Angel](https://open.spotify.com/track/74Fdji9Eqzbyg6WCAxT0VB) | [stayMellow](https://open.spotify.com/artist/6RhEqjb8lmpdjfU0oqCilk) | [Angel](https://open.spotify.com/album/7l2L7VOyM6rudAFqDb46Gy) | 2:29 | 2021-11-19 | 2022-07-29 |
 | [Another Kill For The Highlight Reel](https://open.spotify.com/track/42Zrm6dR3rios7W7I1NizE) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe) | [Another Kill For The Highlight Reel](https://open.spotify.com/album/39YX5r0mg91HGw2scZLm3x) | 3:07 | 2021-11-19 | 2022-07-28 |
 | [Battery Acid](https://open.spotify.com/track/0zpHZpndsCilIDv73NbA1r) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/7vxAadu513Cj4xqDEsApDo) | 5:19 | 2022-08-16 |  |
@@ -153,7 +154,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 4:08 | 2022-02-18 |  |
 | [You Make Nightmares Worth My While](https://open.spotify.com/track/6XaD9vPHMsKwoZzpDqgdpH) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [You Make Nightmares Worth My While](https://open.spotify.com/album/25TcgiaPnYca3HqgqPFpik) | 3:09 | 2021-11-19 | 2022-07-29 |
 | [You're So Fucking Pretty](https://open.spotify.com/track/2CQy2zQj9Cs7mRvPnxtHN4) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [You're So Fucking Pretty](https://open.spotify.com/album/3AP7UCAzrXif4SQQhxNUti) | 3:49 | 2022-02-04 | 2022-07-29 |
-| [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 | 2022-03-04 |  |
+| [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 | 2022-03-04 | 2022-08-22 |
 | [\~Cya Later\~](https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Breakfast For Pathetics](https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo) | 3:20 | 2021-11-19 | 2022-05-23 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

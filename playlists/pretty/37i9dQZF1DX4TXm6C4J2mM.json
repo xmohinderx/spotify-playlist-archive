@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157283,
+  "num_followers": 157276,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGQ4Mzk4MWMxNTBhOWU4MTU5NGZmNzY2ZWQ1ZDFmMzY4",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGMxNjc3MWMyNmNiNzUyZjI1ZmM5MTg5ZGFlOGZkZGRj",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "To The Moon & Back",
+        "url": "https://open.spotify.com/album/7bWx6LxzmEd9JJ0I7OMqBW"
+      },
+      "artists": [
+        {
+          "name": "Eight Waters",
+          "url": "https://open.spotify.com/artist/3msbM40j3i96Q6xToNa28Y"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "To The Moon & Back",
+      "url": "https://open.spotify.com/track/1VGveBIiTkrnK27Bj0FAzu"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 198946,
       "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
       "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "To The Moon & Back",
-        "url": "https://open.spotify.com/album/7bWx6LxzmEd9JJ0I7OMqBW"
-      },
-      "artists": [
-        {
-          "name": "Eight Waters",
-          "url": "https://open.spotify.com/artist/3msbM40j3i96Q6xToNa28Y"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "To The Moon & Back",
-      "url": "https://open.spotify.com/track/1VGveBIiTkrnK27Bj0FAzu"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Unbreakable (feat. Clarence Coffee Jr.)",
-        "url": "https://open.spotify.com/album/2VM9EEq8Be4gMvD6Pw57OP"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Clarence Coffee Jr.",
-          "url": "https://open.spotify.com/artist/6dp9lFNgVOFhtteg8tln7J"
-        }
-      ],
-      "duration_ms": 238627,
-      "name": "Unbreakable (feat. Clarence Coffee Jr.)",
-      "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
       },
@@ -619,22 +599,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147656,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Everywhere (feat. Maya Avedis)",
         "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
       },
@@ -651,6 +615,42 @@
       "duration_ms": 176129,
       "name": "Everywhere (feat. Maya Avedis)",
       "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147656,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Unbreakable (feat. Clarence Coffee Jr.)",
+        "url": "https://open.spotify.com/album/2VM9EEq8Be4gMvD6Pw57OP"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Clarence Coffee Jr.",
+          "url": "https://open.spotify.com/artist/6dp9lFNgVOFhtteg8tln7J"
+        }
+      ],
+      "duration_ms": 238627,
+      "name": "Unbreakable (feat. Clarence Coffee Jr.)",
+      "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -735,26 +735,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Never Let Me Down",
-        "url": "https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Tom Gregory",
-          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
-        }
-      ],
-      "duration_ms": 153148,
-      "name": "Never Let Me Down",
-      "url": "https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Make It To Heaven (with Raye)",
         "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 172380,
       "name": "Make It To Heaven (with Raye)",
       "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Never Let Me Down",
+        "url": "https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "duration_ms": 153148,
+      "name": "Never Let Me Down",
+      "url": "https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "In My Head (On My Mind)",
-        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "In My Head (On My Mind)",
-      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Goofy",
         "url": "https://open.spotify.com/album/24nYE4mejdQmCpgQsvJZrb"
       },
@@ -943,26 +927,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Release Me (feat. Kalhaader)",
-        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
-      },
-      "artists": [
-        {
-          "name": "Twelve",
-          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
-        },
-        {
-          "name": "Kalhaader",
-          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Release Me (feat. Kalhaader)",
-      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Taste",
         "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
       },
@@ -983,6 +947,42 @@
       "duration_ms": 156774,
       "name": "Taste",
       "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Release Me (feat. Kalhaader)",
+        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
+      },
+      "artists": [
+        {
+          "name": "Twelve",
+          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
+        },
+        {
+          "name": "Kalhaader",
+          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Release Me (feat. Kalhaader)",
+      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "In My Head (On My Mind)",
+        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "In My Head (On My Mind)",
+      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "No One Dies From Love (220 KID Remix)",
+        "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "duration_ms": 186180,
+      "name": "No One Dies From Love (220 KID Remix)",
+      "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Fake A Smile (feat. salem ilese) [Remixes]",
         "url": "https://open.spotify.com/album/2fqN9pZSHYwf1PaaEgPeyO"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 168824,
       "name": "Fake A Smile (feat. salem ilese) - R3HAB Remix",
       "url": "https://open.spotify.com/track/1dMsLbHAMiWPzUUbLrXAwF"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "No One Dies From Love (220 KID Remix)",
-        "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        }
-      ],
-      "duration_ms": 186180,
-      "name": "No One Dies From Love (220 KID Remix)",
-      "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1511,30 +1511,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Always Feels Like (MOTi Remix)",
-        "url": "https://open.spotify.com/album/1rNT0ro2pjgC2UYiWtIWLa"
-      },
-      "artists": [
-        {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 139922,
-      "name": "Always Feels Like - MOTi Remix",
-      "url": "https://open.spotify.com/track/60EfJrwzNKarb9RtHiwJHq"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Fighter",
         "url": "https://open.spotify.com/album/2XjDpISRYzFI7okmx0YZPS"
       },
@@ -1567,6 +1543,30 @@
       "duration_ms": 151832,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Always Feels Like (MOTi Remix)",
+        "url": "https://open.spotify.com/album/1rNT0ro2pjgC2UYiWtIWLa"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 139922,
+      "name": "Always Feels Like - MOTi Remix",
+      "url": "https://open.spotify.com/track/60EfJrwzNKarb9RtHiwJHq"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Where You Wanna Be",
-        "url": "https://open.spotify.com/album/2qXOVTnMDCsnulrqfX4QDu"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Elena Temnikova",
-          "url": "https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Where You Wanna Be",
-      "url": "https://open.spotify.com/track/7qbjS6uKZlv7K08CNcEqYR"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "How Can I Forget Her",
         "url": "https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 168216,
       "name": "How Can I Forget Her",
       "url": "https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Where You Wanna Be",
+        "url": "https://open.spotify.com/album/2qXOVTnMDCsnulrqfX4QDu"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Elena Temnikova",
+          "url": "https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Where You Wanna Be",
+      "url": "https://open.spotify.com/track/7qbjS6uKZlv7K08CNcEqYR"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/431dPv3igSZocpya96M9Dm"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        }
-      ],
-      "duration_ms": 209663,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/5rbnKSSsith3hIrj9Pi1Yw"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "I'm Just Feelin' (Du Du Du)",
         "url": "https://open.spotify.com/album/2BHIfUecDNOWvsfZODiIJr"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 171427,
       "name": "I'm Just Feelin' (Du Du Du) - MOTi Remix",
       "url": "https://open.spotify.com/track/2Pgm12sMZieZZHw7G3MU9H"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/431dPv3igSZocpya96M9Dm"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "duration_ms": 209663,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5rbnKSSsith3hIrj9Pi1Yw"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2063,30 +2063,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
-        "url": "https://open.spotify.com/album/79asdi3oW71KmnjzoKQL7z"
+        "name": "Can't Get Over You",
+        "url": "https://open.spotify.com/album/0AfivxxYsD8r0S8fiO4mZR"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Nick Strand",
+          "url": "https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd"
         },
         {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Kohen",
-          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+          "name": "Mio",
+          "url": "https://open.spotify.com/artist/11wkY41Tv6H5BbPopqUoCr"
         }
       ],
-      "duration_ms": 226451,
-      "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
-      "url": "https://open.spotify.com/track/0mfTTKtgwz9QvGz5i1IG5r"
+      "duration_ms": 123870,
+      "name": "Can't Get Over You",
+      "url": "https://open.spotify.com/track/4fcckOQKfQRyTGUXOtDCge"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2111,26 +2103,30 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Let\u2019s Go Home Together (MOTi Remix)",
-        "url": "https://open.spotify.com/album/29TEQj74Hb0FObdoPXY5IN"
+        "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
+        "url": "https://open.spotify.com/album/79asdi3oW71KmnjzoKQL7z"
       },
       "artists": [
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
         },
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Let\u2019s Go Home Together - MOTi Remix",
-      "url": "https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8"
+      "duration_ms": 226451,
+      "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
+      "url": "https://open.spotify.com/track/0mfTTKtgwz9QvGz5i1IG5r"
     }
   ],
   "unique_name": "Tr\u00e4ning",

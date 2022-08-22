@@ -4,11 +4,12 @@
 
 > A collection of powerful voices and alluring siren songs.
 
-121 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/4TFPubUIaS3b8U0Aq9oe9J)
+122 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/4TFPubUIaS3b8U0Aq9oe9J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-07-22 |  |
+| [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 | 2022-08-19 |  |
 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 | 2022-07-22 |  |
 | [Beside Myself](https://open.spotify.com/track/2kel7wmSsmV5UOYkPGacZI) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/6Tx3XBJwjJ44clD1dkoKm6) | 3:55 | 2021-06-04 | 2022-07-24 |
 | [Beside Myself](https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh) | 3:55 | 2022-07-22 |  |
@@ -57,7 +58,7 @@
 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 | 2021-06-04 |  |
 | [Hunter](https://open.spotify.com/track/3y20U1iHdEw5rrQaurVykO) | [Ella Fence](https://open.spotify.com/artist/1E5sJ5BrLqHGxzgy8cDJ0B) | [Wanderlust](https://open.spotify.com/album/5ddYMcPHMnlbboexXJLNP7) | 3:45 | 2021-06-04 | 2022-07-29 |
 | [Hurricane](https://open.spotify.com/track/6qtQB8jBSRBOqJdvK4OdB7) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Hurricane](https://open.spotify.com/album/0qDA2QB6jgY0WpB8Zbxpuk) | 2:38 | 2021-06-04 | 2022-07-29 |
-| [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 | 2022-07-22 |  |
+| [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 | 2022-07-22 | 2022-08-22 |
 | [I am not a woman, I'm a god](https://open.spotify.com/track/5RhFmJifQe83FpQ6ZFFTZ5) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:56 | 2022-07-22 |  |
 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 | 2022-07-22 |  |
 | [I Run So Far](https://open.spotify.com/track/6W9wsXu0E8m66W4IARQt7T) | [Pearl Charles](https://open.spotify.com/artist/5PWyKTCk0kzNytmI0NI2JX) | [Pearl Charles](https://open.spotify.com/album/7uj5ZZprEHLAHvoQRtYHxA) | 3:49 | 2021-06-04 | 2022-07-29 |

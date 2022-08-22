@@ -4,7 +4,7 @@
 
 > We hear you.
 
-474 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+475 songs - 23 hr 33 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Don't Leave Me Here](https://open.spotify.com/track/35SPQHyWb9mfV74jIBda1r) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO) | [Don't Leave Me Here](https://open.spotify.com/album/5AXrOB1jMR6BnzAsC9Wfi2) | 2:23 | 2022-01-25 | 2022-04-20 |
 | [Don't Leave, Don't Go](https://open.spotify.com/track/4MYaU9PrPCI095w8nBs93q) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Don't Leave, Don't Go / Bleed](https://open.spotify.com/album/1rx5QrAj60VkT8XL5krOb9) | 3:04 | 2022-04-12 | 2022-07-27 |
 | [dream girl](https://open.spotify.com/track/3agflhasTpwVk5opeCab2a) | [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [dream girl](https://open.spotify.com/album/04rhxkRkDHgofGYxLkmg9a) | 1:27 | 2021-04-02 | 2022-08-12 |
+| [dream girl](https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c) | [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [dream girl](https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9) | 1:27 | 2022-08-12 |  |
 | [dropout](https://open.spotify.com/track/6BI0Na9AtisZ3PpkPqEeXk) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/5vXLLAWKw01J4GnT3qOcdv) | 3:20 | 2021-04-02 | 2022-06-26 |
 | [drunk](https://open.spotify.com/track/3KkVd7Xg0jCAZSOatzQ6Td) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [drunk](https://open.spotify.com/album/14vqR57z8khZzYex37NVg9) | 3:46 | 2021-04-02 | 2022-07-29 |
 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2022-07-15 |  |
@@ -232,7 +233,7 @@
 | [it would feel like this](https://open.spotify.com/track/3trCY1lAWp0J7u17WuINl2) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 1:20 | 2021-04-30 | 2022-04-16 |
 | [It's Not The Same Anymore](https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 6:26 | 2021-04-02 |  |
 | [It'sNotOver](https://open.spotify.com/track/46IYlGAbGcgllTPV7I7wOO) | [CHLOBOCOP](https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL) | [It'sNotOver](https://open.spotify.com/album/7nKjwNymR0nZtWjYw2gdiz) | 2:36 | 2021-04-02 | 2022-04-14 |
-| [Jesus Christ](https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 5:18 | 2022-07-15 |  |
+| [Jesus Christ](https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 5:18 | 2022-07-15 | 2022-08-22 |
 | [Just a Little Bit](https://open.spotify.com/track/6ZmhbKECqsiXqnRUnOyObR) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [Just a Little Bit](https://open.spotify.com/album/4ICkpi7j54DJS88WRmBWjy) | 1:49 | 2021-04-02 | 2022-04-20 |
 | [Just a Little Bit Lonely](https://open.spotify.com/track/5HkDr6w8kst095gAP09k8C) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Just a Little Bit Lonely](https://open.spotify.com/album/3H0itk6lTMK8zFHT7MvZul) | 2:03 | 2021-04-02 | 2022-04-18 |
 | [just don't hurt me](https://open.spotify.com/track/0mXltaK1ktzHAK4rd6jAbY) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [just don't hurt me](https://open.spotify.com/album/6huHcFOz0Rbbg9zsGUTF39) | 2:38 | 2022-01-27 | 2022-07-05 |

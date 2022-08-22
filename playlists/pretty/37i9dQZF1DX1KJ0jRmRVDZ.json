@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 60367,
+  "num_followers": 60480,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzNDgwMCwwMDAwMDAwMGE1MTMwOTNmYjhhMWYyNjQ2OWY3NmNhZTUxNmU0NTI0",
+  "snapshot_id": "MTY2MDgzNDgwMCwwMDAwMDAwMDcyMDY4MjQzN2RmNDQyZWY4N2UzYWY2YmQ2YjMzYzhh",
   "tracks": [
     {
       "added_at": "2022-08-18 15:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "\u30df\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
         "name": "\u72c2\u8a00",
         "url": "https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 269893,
       "name": "\u5fc3\u3068\u3044\u3046\u540d\u306e\u4e0d\u53ef\u89e3",
       "url": "https://open.spotify.com/track/5dwkmgutIFdurpXlzEyCtB"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "\u30df\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
+        "name": "\u304f\u3073\u3063\u305f\u3051",
+        "url": "https://open.spotify.com/album/57kc4sqcplMurw6VSgztUw"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "\u304f\u3073\u3063\u305f\u3051",
+      "url": "https://open.spotify.com/track/3L0rXIx0aocJrFq7AQxBKI"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
         "name": "\u6625\u6ce5\u68d2",
         "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
       },
@@ -371,34 +387,18 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "Oz.",
-        "url": "https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ"
+        "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
+        "url": "https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I"
       },
       "artists": [
         {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 194273,
-      "name": "Oz.",
-      "url": "https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
-        "name": "\u8e0a",
-        "url": "https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 208271,
-      "name": "\u8e0a",
-      "url": "https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l"
+      "duration_ms": 220200,
+      "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
+      "url": "https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
-        "url": "https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I"
+        "name": "\u8e0a",
+        "url": "https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 220200,
-      "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
-      "url": "https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg"
+      "duration_ms": 208271,
+      "name": "\u8e0a",
+      "url": "https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -563,8 +563,8 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "\u304f\u3073\u3063\u305f\u3051",
-        "url": "https://open.spotify.com/album/57kc4sqcplMurw6VSgztUw"
+        "name": "Oz.",
+        "url": "https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 234500,
-      "name": "\u304f\u3073\u3063\u305f\u3051",
-      "url": "https://open.spotify.com/track/3L0rXIx0aocJrFq7AQxBKI"
+      "duration_ms": 194273,
+      "name": "Oz.",
+      "url": "https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -755,38 +755,6 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "\u5275\u4f5c",
-        "url": "https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 290466,
-      "name": "\u5618\u6708",
-      "url": "https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
-        "name": "MERA MERA",
-        "url": "https://open.spotify.com/album/2kgTd0HIj4SUtlmTD6kuzo"
-      },
-      "artists": [
-        {
-          "name": "Mori Calliope",
-          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
-        }
-      ],
-      "duration_ms": 183434,
-      "name": "MERA MERA",
-      "url": "https://open.spotify.com/track/3Y5q0JDCRzjNlMRRrLK0RF"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
         "name": "\u30a2\u30df",
         "url": "https://open.spotify.com/album/585o5gifFloGibjfoanTXW"
       },
@@ -803,6 +771,42 @@
       "duration_ms": 169085,
       "name": "\u30a2\u30df",
       "url": "https://open.spotify.com/track/5xd5pEwtXqZf4OFKN1w7sD"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
+        "name": "\u5275\u4f5c",
+        "url": "https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 290466,
+      "name": "\u5618\u6708",
+      "url": "https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
+        "name": "CapSule",
+        "url": "https://open.spotify.com/album/6GsX8yyTYKzLxYoKoSdydQ"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "duration_ms": 174842,
+      "name": "CapSule",
+      "url": "https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -839,22 +843,6 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "\u8db3\u308a\u306a\u3044",
-        "url": "https://open.spotify.com/album/3kM6SqdM1TL190mApO9HLi"
-      },
-      "artists": [
-        {
-          "name": "DUSTCELL",
-          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
-        }
-      ],
-      "duration_ms": 180285,
-      "name": "\u8db3\u308a\u306a\u3044",
-      "url": "https://open.spotify.com/track/2FPGL1mHYG1vmNSR8up277"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
         "name": "First Love feat.natsumi",
         "url": "https://open.spotify.com/album/2agcpsXOnEyGDkRgqPEAHo"
       },
@@ -871,6 +859,22 @@
       "duration_ms": 145108,
       "name": "First Love feat.natsumi",
       "url": "https://open.spotify.com/track/0UP2LfMahz2upMadwoqGfu"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
+        "name": "\u30bd\u30fc\u30a4\u30f3\u30b0\u30dc\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/0DTHqhSxuoZm9usnV5J0wH"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "\u30bd\u30fc\u30a4\u30f3\u30b0\u30dc\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/76NhiCBPrYxaXfh0jeUBcD"
     }
   ],
   "unique_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",

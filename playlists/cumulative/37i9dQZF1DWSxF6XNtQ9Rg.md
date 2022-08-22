@@ -4,7 +4,7 @@
 
 > Solo hit rap da riascoltare in loop\. Cover: Marracash
 
-167 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/6hONOx8JhMvxTKwVXd1ds8)
+168 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/6hONOx8JhMvxTKwVXd1ds8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Marymango \(feat\. thasup\)](https://open.spotify.com/track/1SaZa61ZCrlin08VOzj5Ma) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 3:24 | 2022-06-13 | 2022-06-15 |
 | [Milano Bachata](https://open.spotify.com/track/4npeg094qxxH7Fp2aoi04O) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 2:47 | 2022-04-28 | 2022-07-07 |
 | [MOLOTOV](https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MOLOTOV](https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu) | 2:40 | 2022-08-10 |  |
-| [Mon Cheri \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/66UkKyxN5YbJl9z7YamQOR) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Dove Gli Occhi Non Arrivano](https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi) | 3:01 | 2022-04-28 |  |
+| [Mon Cheri \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/66UkKyxN5YbJl9z7YamQOR) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Dove Gli Occhi Non Arrivano](https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi) | 3:01 | 2022-04-28 | 2022-08-22 |
 | [Mon Fre \- feat\. Emis Killa](https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Mon Fre \(feat\. Emis Killa\)](https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K) | 3:44 | 2022-04-28 |  |
 | [Narcos](https://open.spotify.com/track/1BdmcsFAODQR4x7eiOuRVf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Emanuele](https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl) | 3:16 | 2022-05-27 | 2022-06-07 |
 | [Ne è valsa la pena \(feat\. Ghali\)](https://open.spotify.com/track/6GTCOWvhjvdk4pwlfrSjNO) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [20](https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw) | 3:54 | 2022-04-28 | 2022-07-29 |
@@ -118,6 +118,7 @@
 | [Pasticche \(feat\. Capo Plaza\)](https://open.spotify.com/track/7KnC2wSD0I5Fju3A7qCFX8) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Reizon](https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [El Puto Mundo](https://open.spotify.com/album/4OBlPtQ0nZjyEpOOYmE47O) | 3:16 | 2022-04-28 |  |
 | [Peace & Love](https://open.spotify.com/track/4BGmYEDOK1swwoxTtfmVZD) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Peace & Love](https://open.spotify.com/album/4ihfUwVpF3lTKlC8kJh6nQ) | 3:02 | 2022-06-13 | 2022-08-11 |
 | [Pensando a lei](https://open.spotify.com/track/48xCJ298GWpAtejk8uzBOr) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 2:56 | 2022-08-10 |  |
+| [Phi](https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 2:54 | 2022-08-10 |  |
 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-08-10 |  |
 | [Pleasantville](https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Suicidol](https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6) | 5:49 | 2022-07-27 |  |
 | [Polo nord \- C+N Progressive Mix](https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper \(Emodrill Repack\)](https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ) | 4:09 | 2022-04-28 | 2022-08-11 |

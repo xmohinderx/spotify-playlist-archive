@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Zayvo\(제이보\)\)
 
-214 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
+215 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [pit\-a\-pet](https://open.spotify.com/track/4HoSUhgerbk17KXkduPFFV) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 4:01 | 2022-05-27 | 2022-07-28 |
 | [pit\-a\-pet](https://open.spotify.com/track/5Pf0Kp6w1G9xh7ufoKcL5m) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 4:01 | 2022-07-08 |  |
 | [Power Rangers \(feat\. Mudd the student, Tyroné Laurent\)](https://open.spotify.com/track/0re5DUvnUH3rD6DMUsn0lS) | [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [Tyroné Laurent](https://open.spotify.com/artist/19MCJUkDsTnJ8JfPqv0sG0) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 3:01 | 2022-05-27 | 2022-08-13 |
+| [PRETTY \(feat\. Nafla, Bryn\)](https://open.spotify.com/track/3LGlLoEK1ZPGRcS6gHYhWm) | [lnb](https://open.spotify.com/artist/2fHTnW5arnhwXNwW2GD4fK), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [PROJECT .1](https://open.spotify.com/album/5HlAriF53xhN5BfF05IiHZ) | 3:05 | 2022-08-19 |  |
 | [PURE \(feat\. Jade, Cherry Coke\)](https://open.spotify.com/track/1xDLq8ypCNn7csjG5vrBNA) | [GLOWCEAN](https://open.spotify.com/artist/49uFRuBtpme0FabjsLzvWc), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh), [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [ESSENCE](https://open.spotify.com/album/5WFTXJX4bgnt9wlJjPSI2d) | 3:56 | 2022-06-09 | 2022-07-26 |
 | [Pygmalion \(feat\. Kuhyun\)](https://open.spotify.com/track/0F9OXUOYW0uDGgEHHmXRtc) | [GILLA](https://open.spotify.com/artist/2qg65aLixfdExljOpqKJm3), [Kuhyun](https://open.spotify.com/artist/1EnOREwmNjcLm54f2Odmzo) | [Sequence](https://open.spotify.com/album/4YU2VBLrCrjaMCnSecEEWl) | 2:55 | 2022-05-27 | 2022-07-24 |
 | [rat hole](https://open.spotify.com/track/5EwVrS8cmjIdAQSRelZqHE) | [XINZWA](https://open.spotify.com/artist/2rwfN3z1guR3gqv7GNF3P3) | [rat hole](https://open.spotify.com/album/1boUY0tC9JdcTKXkq3nLit) | 4:03 | 2022-05-27 | 2022-07-05 |
@@ -203,7 +204,7 @@
 | [We will be alright](https://open.spotify.com/track/75alK8vHbnOuAIeHpAdNeN) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr) | [Lay down](https://open.spotify.com/album/4AR46u6XLHDXcdu39PHC40) | 3:27 | 2022-05-27 | 2022-07-27 |
 | [Wheels \(feat\. SUZANNE, THAMA\)](https://open.spotify.com/track/0jiHdyS0BKii0dfulX67Fp) | [GLOWCEAN](https://open.spotify.com/artist/49uFRuBtpme0FabjsLzvWc), [SUZANNE](https://open.spotify.com/artist/0NMJPa0Btok67TyE8Vxngc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [ESSENCE](https://open.spotify.com/album/5WFTXJX4bgnt9wlJjPSI2d) | 3:48 | 2022-05-27 | 2022-07-27 |
 | [White the wilds](https://open.spotify.com/track/1bF5PdCcQPPi30hO6lfubH) | [muscoda](https://open.spotify.com/artist/0PFrzocEGd0JUKSkZvyYs8) | [White the wilds](https://open.spotify.com/album/64Bgsvemjrzdwpq7tYiL4G) | 4:28 | 2022-06-18 | 2022-07-25 |
-| [Who Are You](https://open.spotify.com/track/1DIcwjXEd7kmzVpxqWBK5J) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Who Are You](https://open.spotify.com/album/0AJedZzGLJy6NlD8eaI9QN) | 3:46 | 2022-06-09 |  |
+| [Who Are You](https://open.spotify.com/track/1DIcwjXEd7kmzVpxqWBK5J) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Who Are You](https://open.spotify.com/album/0AJedZzGLJy6NlD8eaI9QN) | 3:46 | 2022-06-09 | 2022-08-22 |
 | [who I am?](https://open.spotify.com/track/5c785VJqoQgTcfMA77AyCP) | [whychan](https://open.spotify.com/artist/4xvWnQNArIZZ6177tFJ4VK) | [who I am?](https://open.spotify.com/album/22kpyg7W4K64Lr30zhhD2B) | 3:02 | 2022-07-04 | 2022-08-10 |
 | [WHO WE R \* \(feat\. Min, Lil Kirby\)](https://open.spotify.com/track/2ojzmpEn6kVf1DbUsHh8nK) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV), [Min](https://open.spotify.com/artist/34i0mYEs7QoU4YbBjvzEiA), [Lil Kirby](https://open.spotify.com/artist/0AyTTFMP8EFKZJ9VUNEBq1) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 1:57 | 2022-05-27 | 2022-07-24 |
 | [WHY](https://open.spotify.com/track/7AxCm8ICBBQ5IUXao5ZtHw) | [Doda](https://open.spotify.com/artist/2YZsnUPYTzAdRadNH0Pk68) | [WHY](https://open.spotify.com/album/1Ha9MvqPf4sfxVtudQdpyY) | 4:06 | 2022-05-27 | 2022-07-29 |

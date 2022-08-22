@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-408 songs - 1 day 0 hr 28 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+409 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,9 +289,10 @@
 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 | 2021-10-20 | 2022-07-28 |
 | [Paquita Linda](https://open.spotify.com/track/48ST9mp6EYweaZcyXWqjZc) | [Patiño](https://open.spotify.com/artist/4eepaYCA8Byw10I7CuXhgx) | [Paquita Linda](https://open.spotify.com/album/63DUsfHdMz3fL0w1hAO1ct) | 2:41 | 2021-10-20 | 2022-04-19 |
 | [Paradiso](https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Paradiso](https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv) | 3:01 | 2021-10-20 | 2022-04-14 |
-| [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2021-10-20 |  |
+| [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2021-10-20 | 2022-08-22 |
 | [Pasión Tropical](https://open.spotify.com/track/1xKyAITK93J44Udn1AWdTe) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [Pasión Tropical](https://open.spotify.com/album/6I5UNdFGtD3UgghZizTK5G) | 4:40 | 2021-10-20 | 2022-04-21 |
 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX) | 3:27 | 2021-10-20 |  |
+| [Passarinha](https://open.spotify.com/track/0cLilijUD3FgmzYzV7UAug) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW) | [SIM SIM SIM](https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx) | 3:55 | 2022-04-23 |  |
 | [Passarinha](https://open.spotify.com/track/4QC1L4JgL4ZFwVFd3AcdSw) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW) | [SIM SIM SIM \(Lado B\)](https://open.spotify.com/album/6WTjmXtBWugdzpB193yvdE) | 3:55 | 2022-04-23 | 2022-07-31 |
 | [Pánico Cero](https://open.spotify.com/track/2RruTqdyG7KLnGRhY6UNNX) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Pánico Cero](https://open.spotify.com/album/5nukTG0xEty2QjLLUWwngz) | 4:22 | 2021-10-20 | 2022-04-24 |
 | [Peligrosa Mujer](https://open.spotify.com/track/3zaKc0uMw4GI7xHva4tjLa) | [Joaco Terán](https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z) | [Libres](https://open.spotify.com/album/2efyfAfCPx6O7BnVeg9D9p) | 3:02 | 2021-10-20 | 2022-04-19 |

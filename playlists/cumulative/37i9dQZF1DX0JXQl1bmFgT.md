@@ -4,7 +4,7 @@
 
 > The official playlist for 365 Days trilogy\. Watch now on Netflix!
 
-77 songs - 3 hr 45 min - not published yet
+77 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/5DNKEJ1HKMoLMVv9IgJ6lL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

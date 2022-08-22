@@ -4,7 +4,7 @@
 
 > Uplifting and energetic music that helps you stay motivated.
 
-518 songs - 1 day 2 hr 6 min - [published](https://open.spotify.com/playlist/3XaFMWO91TgKnSTalOxdvV)
+519 songs - 1 day 2 hr 9 min - [published](https://open.spotify.com/playlist/3XaFMWO91TgKnSTalOxdvV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Day 'N' Nite \- Martin Jensen Edit](https://open.spotify.com/track/0ou367q5bmco9pZNxq80iD) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Ben Hamilton](https://open.spotify.com/artist/1Rqa3ZF83zo3rKGrKMM0iD), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Day 'N' Nite \(Martin Jensen Edit\)](https://open.spotify.com/album/4edGK565BSJL2C8wwZAnDh) | 2:46 | 2020-08-14\* | 2021-10-16 |
 | [Day Or Night](https://open.spotify.com/track/2Y3P9IFAeNGH9qTZDp9N6W) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Day Or Night](https://open.spotify.com/album/3WCAbSvgGztK9VoqAY76ox) | 2:54 | 2020-08-14\* | 2021-10-16 |
 | [Deep Dark Jungle](https://open.spotify.com/track/0FTDvOs2mzgHAqL31PBXO5) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Teamworx](https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj) | [Deep Dark Jungle](https://open.spotify.com/album/455XH4pCm7cq3kmkfYJZAv) | 2:25 | 2021-03-07 | 2021-12-21 |
-| [Deep End](https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1) | [Deep End](https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1) | 2:44 | 2021-12-16 |  |
+| [Deep End](https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1) | [Deep End](https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1) | 2:44 | 2021-12-16 | 2022-08-22 |
 | [Dernière Danse](https://open.spotify.com/track/1vAV6VetPyNCZkqeYtvyxj) | [Ugg'A](https://open.spotify.com/artist/2eAVygHxvbYA7CtF7bv5vC) | [Dernière Danse](https://open.spotify.com/album/5qCcW27X1vTv6bOffR4JQr) | 3:17 | 2020-12-23 | 2021-10-11 |
 | [Diamonds](https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Diamonds](https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc) | 3:25 | 2021-12-16 | 2022-04-21 |
 | [Didn't Choose You](https://open.spotify.com/track/5z0p4PtX0SxxeAdgTlHXe9) | [CALVIN](https://open.spotify.com/artist/2MqDJjftY4Qp8Ge9hkx5HS), [KVR](https://open.spotify.com/artist/70s3IS6gQEe8f9l08yYdpJ) | [Didn't Choose You](https://open.spotify.com/album/5ZA7VR4ramkY6fsYty8fN2) | 3:24 | 2020-08-14\* | 2022-07-29 |
@@ -306,6 +306,7 @@
 | [Never Let Me Down](https://open.spotify.com/track/4fdQ9Tu18IJ7RoyTEJ7bhc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Let Me Down](https://open.spotify.com/album/7jIE4EXA4NgJxUpbpaMCPE) | 2:33 | 2020-08-14\* | 2021-03-26 |
 | [Never Letting Go](https://open.spotify.com/track/5llPdGZJjJFJv9aL6ZaiLY) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Never Letting Go](https://open.spotify.com/album/7wufuX5VOkpdsAMxXIekGT) | 2:52 | 2021-03-10 | 2021-12-20 |
 | [Nightfall](https://open.spotify.com/track/490LclNVKfdheKMqdyjzZN) | [Joakim Lundell](https://open.spotify.com/artist/0XNvr6bnNywV946ZKaJtr0), [Amskøld](https://open.spotify.com/artist/7o6U74dOhZuJR9kel2lnyl) | [Nightfall](https://open.spotify.com/album/3wisjcJYpSNLvXT64jPOiS) | 2:33 | 2021-03-06 | 2022-05-26 |
+| [No Diggity](https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj) | 3:38 | 2022-08-18 |  |
 | [No Diggity](https://open.spotify.com/track/74svMcorgPABViSTZka4yw) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st) | 3:38 | 2022-03-31 | 2022-07-31 |
 | [No Diggity](https://open.spotify.com/track/32PKQDEaouIIOlNZ5umoR6) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [No Diggity](https://open.spotify.com/album/1x66drtf4CW5onOaeS0oz3) | 2:48 | 2021-04-05 | 2021-11-12 |
 | [No Diggity](https://open.spotify.com/track/0msZYAfoPw8Jbhr8Ufxgs3) | [Zhnark](https://open.spotify.com/artist/4TFwiKetUJYXrUyTOMKEww) | [No Diggity](https://open.spotify.com/album/5TbmhZbiBAEM8S0gWYmLJf) | 3:38 | 2022-08-04 | 2022-08-11 |

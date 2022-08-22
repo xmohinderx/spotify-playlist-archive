@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 1256,
+  "num_followers": 1262,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMzAxNCwwMDAwMDAwMGNmZDBiNTRmYjc5NTBkMjc1MjMyOTNiYTE0MTZiZjMx",
+  "snapshot_id": "MTY2MDgzMzAxNCwwMDAwMDAwMDk4NWMxZDY1NWFhMWYyYTNhZTQ5NjU0MTY2NzUwYWFj",
   "tracks": [
     {
       "added_at": "2022-08-18 14:30:14",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-08-18 14:30:14",
       "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
+    },
+    {
+      "added_at": "2022-08-18 14:30:14",
+      "album": {
         "name": "ETERNITY",
         "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
       },
@@ -391,30 +407,6 @@
       "duration_ms": 220733,
       "name": "2080",
       "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
-    },
-    {
-      "added_at": "2022-08-18 14:30:14",
-      "album": {
-        "name": "To us (feat. wave to earth & WAVY)",
-        "url": "https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3"
-      },
-      "artists": [
-        {
-          "name": "APRO",
-          "url": "https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O"
-        },
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        },
-        {
-          "name": "WAVY",
-          "url": "https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "To us (feat. wave to earth & WAVY)",
-      "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
     },
     {
       "added_at": "2022-08-18 14:30:14",
@@ -439,22 +431,6 @@
     {
       "added_at": "2022-08-18 14:30:14",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
-    },
-    {
-      "added_at": "2022-08-18 14:30:14",
-      "album": {
         "name": "New Edition 42",
         "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 164288,
       "name": "Eunha Store (feat. KIM YUNA)",
       "url": "https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm"
+    },
+    {
+      "added_at": "2022-08-18 14:30:14",
+      "album": {
+        "name": "To us (feat. wave to earth & WAVY)",
+        "url": "https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3"
+      },
+      "artists": [
+        {
+          "name": "APRO",
+          "url": "https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O"
+        },
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        },
+        {
+          "name": "WAVY",
+          "url": "https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV"
+        }
+      ],
+      "duration_ms": 254826,
+      "name": "To us (feat. wave to earth & WAVY)",
+      "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
     },
     {
       "added_at": "2022-08-18 14:30:14",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-08-18 14:30:14",
       "album": {
+        "name": "Song of the rain",
+        "url": "https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn"
+      },
+      "artists": [
+        {
+          "name": "Bambiroyalprince",
+          "url": "https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa"
+        }
+      ],
+      "duration_ms": 214556,
+      "name": "Song of the rain",
+      "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
+    },
+    {
+      "added_at": "2022-08-18 14:30:14",
+      "album": {
         "name": "EVERYD4Y",
         "url": "https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU"
       },
@@ -523,18 +539,22 @@
     {
       "added_at": "2022-08-18 14:30:14",
       "album": {
-        "name": "Song of the rain",
-        "url": "https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn"
+        "name": "\ube59\uadf8\ub808",
+        "url": "https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU"
       },
       "artists": [
         {
-          "name": "Bambiroyalprince",
-          "url": "https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa"
+          "name": "Yong Yong",
+          "url": "https://open.spotify.com/artist/1OBl6ZLfWGnqrVJGJAjVg1"
+        },
+        {
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
         }
       ],
-      "duration_ms": 214556,
-      "name": "Song of the rain",
-      "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
+      "duration_ms": 184346,
+      "name": "\ube59\uadf8\ub808",
+      "url": "https://open.spotify.com/track/1gtabUo4ov467fUjf2514i"
     },
     {
       "added_at": "2022-08-18 14:30:14",
@@ -635,22 +655,6 @@
     {
       "added_at": "2022-08-18 14:30:14",
       "album": {
-        "name": "Playing Dead",
-        "url": "https://open.spotify.com/album/4d2mhZN25j5zY3ErTpfOBZ"
-      },
-      "artists": [
-        {
-          "name": "Haepa",
-          "url": "https://open.spotify.com/artist/2WTFWNdpppTNeGZmRZLaLi"
-        }
-      ],
-      "duration_ms": 175120,
-      "name": "I'm Finally a Ghost",
-      "url": "https://open.spotify.com/track/5973GTo2ourdiDPVQuwwvf"
-    },
-    {
-      "added_at": "2022-08-18 14:30:14",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -663,22 +667,6 @@
       "duration_ms": 224288,
       "name": "WERE WE?",
       "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
-    },
-    {
-      "added_at": "2022-08-18 14:30:14",
-      "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2022-08-18 14:30:14",
@@ -715,18 +703,18 @@
     {
       "added_at": "2022-08-18 14:30:14",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         }
       ],
-      "duration_ms": 116000,
-      "name": "Go Your Way",
-      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2022-08-18 14:30:14",
@@ -747,18 +735,34 @@
     {
       "added_at": "2022-08-18 14:30:14",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4"
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
       "artists": [
         {
-          "name": "\ub8e8\uc544\uba5c (LUAMEL)",
-          "url": "https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 197960,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9"
+      "duration_ms": 116000,
+      "name": "Go Your Way",
+      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
+    },
+    {
+      "added_at": "2022-08-18 14:30:14",
+      "album": {
+        "name": "Playing Dead",
+        "url": "https://open.spotify.com/album/4d2mhZN25j5zY3ErTpfOBZ"
+      },
+      "artists": [
+        {
+          "name": "Haepa",
+          "url": "https://open.spotify.com/artist/2WTFWNdpppTNeGZmRZLaLi"
+        }
+      ],
+      "duration_ms": 175120,
+      "name": "I'm Finally a Ghost",
+      "url": "https://open.spotify.com/track/5973GTo2ourdiDPVQuwwvf"
     },
     {
       "added_at": "2022-08-18 14:30:14",
@@ -779,6 +783,22 @@
     {
       "added_at": "2022-08-18 14:30:14",
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4"
+      },
+      "artists": [
+        {
+          "name": "\ub8e8\uc544\uba5c (LUAMEL)",
+          "url": "https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9"
+    },
+    {
+      "added_at": "2022-08-18 14:30:14",
+      "album": {
         "name": "You Erase Me",
         "url": "https://open.spotify.com/album/13dKrAwZZZAVChkOuhZ9LB"
       },
@@ -791,22 +811,6 @@
       "duration_ms": 181091,
       "name": "You Erase Me",
       "url": "https://open.spotify.com/track/2EK0Oo72mbDGmAqhh9VT4e"
-    },
-    {
-      "added_at": "2022-08-18 14:30:14",
-      "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 267426,
-      "name": "A Letter in The Wind",
-      "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
     },
     {
       "added_at": "2022-08-18 14:30:14",
@@ -827,22 +831,18 @@
     {
       "added_at": "2022-08-18 14:30:14",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP"
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
       "artists": [
         {
-          "name": "RETA",
-          "url": "https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j"
-        },
-        {
-          "name": "unofficialboyy",
-          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
         }
       ],
-      "duration_ms": 192681,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/617N2yLHP178pCJQTRx2oe"
+      "duration_ms": 267426,
+      "name": "A Letter in The Wind",
+      "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
     }
   ],
   "unique_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",

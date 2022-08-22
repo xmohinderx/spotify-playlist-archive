@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 81552,
+  "num_followers": 81575,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDk4MTEyNmZmNzMyZmEyMDI4NmJkOGI5YmE5NjM0ZWM3",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDUwYzQxYTEyZTkyYTFlZDcwNTI0NGRiY2E4OGM5OGZm",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Time and Time Again",
-        "url": "https://open.spotify.com/album/3cuIDfmoqlqklQPvIiQQcc"
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Benjamin Hastings",
+          "url": "https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX"
         }
       ],
-      "duration_ms": 316493,
-      "name": "Time and Time Again",
-      "url": "https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX"
+      "duration_ms": 313933,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K"
       },
       "artists": [
         {
-          "name": "Benjamin Hastings",
-          "url": "https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX"
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
         }
       ],
-      "duration_ms": 313933,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+      "duration_ms": 256600,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K"
+        "name": "Time and Time Again",
+        "url": "https://open.spotify.com/album/3cuIDfmoqlqklQPvIiQQcc"
       },
       "artists": [
         {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 256600,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe"
+      "duration_ms": 316493,
+      "name": "Time and Time Again",
+      "url": "https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Jesus Did",
-        "url": "https://open.spotify.com/album/1MUu3CWuxuRfmyPfi7SU3b"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 203752,
-      "name": "Jesus Did",
-      "url": "https://open.spotify.com/track/1HhUXOuE3wbuvXk00AaOSj"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "You Can Rest",
         "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 288658,
       "name": "You Can Rest",
       "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Jesus Did",
+        "url": "https://open.spotify.com/album/1MUu3CWuxuRfmyPfi7SU3b"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 203752,
+      "name": "Jesus Did",
+      "url": "https://open.spotify.com/track/1HhUXOuE3wbuvXk00AaOSj"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Doss",
-          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
-        }
-      ],
-      "duration_ms": 209262,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Already Blessed",
         "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 228068,
       "name": "Already Blessed",
       "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Doss",
+          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
+        }
+      ],
+      "duration_ms": 209262,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl"
+        "name": "When You Speak (Deluxe)",
+        "url": "https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb"
       },
       "artists": [
         {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 210599,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
+      "duration_ms": 216610,
+      "name": "Say Amen",
+      "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -675,34 +675,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "When You Speak (Deluxe)",
-        "url": "https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl"
       },
       "artists": [
         {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
         }
       ],
-      "duration_ms": 216610,
-      "name": "Say Amen",
-      "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Sensibilities",
-        "url": "https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl"
-      },
-      "artists": [
-        {
-          "name": "Danielle Apicella",
-          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Milk & Honey",
-      "url": "https://open.spotify.com/track/56JGnyYpo9I2g8yOfgEt4p"
+      "duration_ms": 210599,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -755,6 +739,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Sensibilities",
+        "url": "https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl"
+      },
+      "artists": [
+        {
+          "name": "Danielle Apicella",
+          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/56JGnyYpo9I2g8yOfgEt4p"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "HELP!",
         "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "I See Heaven On Earth",
-        "url": "https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz"
-      },
-      "artists": [
-        {
-          "name": "Jim Sonefeld",
-          "url": "https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k"
-        }
-      ],
-      "duration_ms": 239335,
-      "name": "I See Heaven On Earth",
-      "url": "https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "God Is Real",
         "url": "https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 177235,
       "name": "Never Not God",
       "url": "https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "I See Heaven On Earth",
+        "url": "https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz"
+      },
+      "artists": [
+        {
+          "name": "Jim Sonefeld",
+          "url": "https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k"
+        }
+      ],
+      "duration_ms": 239335,
+      "name": "I See Heaven On Earth",
+      "url": "https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Everything and More",
-        "url": "https://open.spotify.com/album/1lDmfpUzTkpkxSCboC6ht8"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "Everything and More",
-      "url": "https://open.spotify.com/track/12JPE50t031pH3Dy5mcAzR"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "More Than Ever",
         "url": "https://open.spotify.com/album/68OLHztu1jW6VilxvWZEtf"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 194935,
       "name": "More Than Ever",
       "url": "https://open.spotify.com/track/00cHdJO9E4TvmJBeuJq0pr"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Everything and More",
+        "url": "https://open.spotify.com/album/1lDmfpUzTkpkxSCboC6ht8"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Everything and More",
+      "url": "https://open.spotify.com/track/12JPE50t031pH3Dy5mcAzR"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Love Letters From An Empty Tomb",
-        "url": "https://open.spotify.com/album/1N8BcblNLY3GiYcmj0gQRw"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 297580,
-      "name": "Just The Cross",
-      "url": "https://open.spotify.com/track/1tKqhzuLzYgmdwGDAbuTJI"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Who You Want Me To Be",
         "url": "https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03"
       },
@@ -1059,22 +1043,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Authentic Love",
         "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
       },
@@ -1087,6 +1055,38 @@
       "duration_ms": 282125,
       "name": "Authentic Love",
       "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Love Letters From An Empty Tomb",
+        "url": "https://open.spotify.com/album/1N8BcblNLY3GiYcmj0gQRw"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 297580,
+      "name": "Just The Cross",
+      "url": "https://open.spotify.com/track/1tKqhzuLzYgmdwGDAbuTJI"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "I Was Loved",
-        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
-      },
-      "artists": [
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "I Was Loved",
-      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "YOUTH (spring)",
         "url": "https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
+        "name": "I Was Loved",
+        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
       },
       "artists": [
         {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
         }
       ],
-      "duration_ms": 209017,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D"
+      "duration_ms": 281880,
+      "name": "I Was Loved",
+      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1187,6 +1171,22 @@
       "duration_ms": 320981,
       "name": "My King and My Defender",
       "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 209017,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "He Is Not Worried",
-        "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 269986,
-      "name": "He Is Not Worried",
-      "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "He Is Not Worried",
+        "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 269986,
+      "name": "He Is Not Worried",
+      "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/7flhQQ1ZSd3SbvIr6fgF7J"
+      },
+      "artists": [
+        {
+          "name": "Billy Ballenger",
+          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
+        }
+      ],
+      "duration_ms": 223399,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/1BekaQxRu7onRBnQ6PADyw"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Places (Des Endroits)",
         "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 212680,
       "name": "Places (Des Endroits)",
       "url": "https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/7flhQQ1ZSd3SbvIr6fgF7J"
-      },
-      "artists": [
-        {
-          "name": "Billy Ballenger",
-          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
-        }
-      ],
-      "duration_ms": 223399,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/1BekaQxRu7onRBnQ6PADyw"
     },
     {
       "added_at": "2022-05-27 18:07:44",

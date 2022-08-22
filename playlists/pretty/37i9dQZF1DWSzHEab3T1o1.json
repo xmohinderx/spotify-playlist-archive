@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 6888,
+  "num_followers": 6907,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMDQxZjM3ZTYzZDVkZjU4ZTFkOTljNTEyMjRkNDJmZGVl",
+  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMDI0OGU0MTAwNzRhZmY5NDIwMmExNDI3YzE0NzZkZTA4",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -883,6 +883,30 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 167310,
+      "name": "Sua Cara",
+      "url": "https://open.spotify.com/track/3XfsA0zVsrPkVkaDDEr73B"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Algo M\u00e1gico (R3HAB Remix)",
         "url": "https://open.spotify.com/album/1UC5jCthGQNO7vgtdLau7R"
       },
@@ -923,30 +947,6 @@
       "duration_ms": 213760,
       "name": "Mi Gente - Alesso Remix",
       "url": "https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Know No Better",
-        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 167310,
-      "name": "Sua Cara",
-      "url": "https://open.spotify.com/track/3XfsA0zVsrPkVkaDDEr73B"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Know No Better",
-        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 173909,
-      "name": "Buscando Huellas",
-      "url": "https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Mi Gente (Cedric Gervais Remix)",
         "url": "https://open.spotify.com/album/0DWEKLIz2eHd8R9N3mhZaI"
       },
@@ -1115,6 +1091,30 @@
       "duration_ms": 269666,
       "name": "Mi Gente - Cedric Gervais Remix",
       "url": "https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "Buscando Huellas",
+      "url": "https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ"
     },
     {
       "added_at": "2021-12-31 04:31:13",

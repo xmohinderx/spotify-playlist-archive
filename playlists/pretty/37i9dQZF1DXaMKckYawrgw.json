@@ -1,12 +1,12 @@
 {
   "description": "Ska con cuadritos blancos, negros, y tricolores. Los de Abajo en portada.",
-  "num_followers": 5615,
+  "num_followers": 5656,
   "original_name": "Ska Mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDM0OTcwMiwwMDAwMDAwMDMzYmU1MjMzOWUzM2EzY2YxZGMzN2Q4ZDhhOWFjMzM5",
+  "snapshot_id": "MTY2MDM0OTcwMiwwMDAwMDAwMDkyYzlmMDI4Y2Y0N2NmNTg2NDQwNjg1ZDYxYmVmZjNl",
   "tracks": [
     {
       "added_at": "2022-03-18 06:00:00",
@@ -701,28 +701,20 @@
       "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
     },
     {
-      "added_at": "2022-07-15 04:44:57",
+      "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Polic\u00eda",
-        "url": "https://open.spotify.com/album/6q5nq0IPObglpjCwg3NkUX"
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
       "artists": [
         {
-          "name": "Gallo Rojo",
-          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
-        },
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        },
-        {
-          "name": "Desorden P\u00fablico",
-          "url": "https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB"
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
         }
       ],
-      "duration_ms": 156820,
-      "name": "Polic\u00eda",
-      "url": "https://open.spotify.com/track/1p6i8vzd6P2UNtVsiyKKyo"
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -775,22 +767,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Emulsion de Skape",
         "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 143200,
       "name": "Ste Ska",
       "url": "https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8"
+    },
+    {
+      "added_at": "2022-07-15 04:44:57",
+      "album": {
+        "name": "Polic\u00eda",
+        "url": "https://open.spotify.com/album/6q5nq0IPObglpjCwg3NkUX"
+      },
+      "artists": [
+        {
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        },
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        },
+        {
+          "name": "Desorden P\u00fablico",
+          "url": "https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB"
+        }
+      ],
+      "duration_ms": 156820,
+      "name": "Polic\u00eda",
+      "url": "https://open.spotify.com/track/1p6i8vzd6P2UNtVsiyKKyo"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Enloquec\u00ed",
         "url": "https://open.spotify.com/album/6HEE4Z4GQaOXwubEMFsnMr"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 191880,
       "name": "Enloquec\u00ed",
       "url": "https://open.spotify.com/track/6bghWg2VlUzFLo8NNenlkb"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
-      },
-      "artists": [
-        {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
-        }
-      ],
-      "duration_ms": 190012,
-      "name": "El Peor Momento",
-      "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
+      },
+      "artists": [
+        {
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+        }
+      ],
+      "duration_ms": 190012,
+      "name": "El Peor Momento",
+      "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "La Rebeli\u00f3n",
         "url": "https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 271301,
       "name": "Y la Recuerdo de Ayer",
       "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 189786,
-      "name": "Se Va",
-      "url": "https://open.spotify.com/track/7z1CXrg9Gc6b3hJlFzRhco"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
       "artists": [
         {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
         }
       ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+      "duration_ms": 189786,
+      "name": "Se Va",
+      "url": "https://open.spotify.com/track/7z1CXrg9Gc6b3hJlFzRhco"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -967,22 +967,6 @@
       "duration_ms": 254589,
       "name": "Algo De Suerte",
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Venga la Sentencia",
-        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Venga la Sentencia",
+        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Vatos Rudos Forever! (1994-2014)",
-        "url": "https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt"
-      },
-      "artists": [
-        {
-          "name": "Los Skarnales",
-          "url": "https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n"
-        }
-      ],
-      "duration_ms": 210320,
-      "name": "Rudy Rude Boy",
-      "url": "https://open.spotify.com/track/0knRFhZtR19PH5qteuV778"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Venga la Sentencia",
         "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 243333,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/5cq7ipR7yzdxINynEQAHrw"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Vatos Rudos Forever! (1994-2014)",
+        "url": "https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt"
+      },
+      "artists": [
+        {
+          "name": "Los Skarnales",
+          "url": "https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n"
+        }
+      ],
+      "duration_ms": 210320,
+      "name": "Rudy Rude Boy",
+      "url": "https://open.spotify.com/track/0knRFhZtR19PH5qteuV778"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "La Ultima Noche",
-        "url": "https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT"
-      },
-      "artists": [
-        {
-          "name": "Pachecos Orchestra",
-          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
-        }
-      ],
-      "duration_ms": 248888,
-      "name": "La Ultima Noche",
-      "url": "https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Marcando El Ritmo",
         "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 172872,
       "name": "El Mundo No Esta Listo",
       "url": "https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "La Ultima Noche",
+        "url": "https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT"
+      },
+      "artists": [
+        {
+          "name": "Pachecos Orchestra",
+          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
+        }
+      ],
+      "duration_ms": 248888,
+      "name": "La Ultima Noche",
+      "url": "https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n"
     },
     {
       "added_at": "2022-03-18 06:00:00",

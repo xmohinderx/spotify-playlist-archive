@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 175261,
+  "num_followers": 175347,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjg4OCwwMDAwMDAwMDc3ZmFmMTE3OTg2NjE1ZDBmZWRkYmQzMzQyNDJmY2E3",
+  "snapshot_id": "MTY2MDMyMjg4OCwwMDAwMDAwMGJjYWNhZmZhNDYzMWFmZGVlZjJkOTg3ODRjMmRhNjZm",
   "tracks": [
     {
       "added_at": "2022-08-12 16:48:08",
@@ -651,82 +651,6 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ"
-      },
-      "artists": [
-        {
-          "name": "KDYN",
-          "url": "https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
-        "name": "Skanker",
-        "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 227189,
-      "name": "Skanker",
-      "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "Takura",
-          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
-        }
-      ],
-      "duration_ms": 231555,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP"
       },
@@ -759,18 +683,78 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
-        "name": "Far",
-        "url": "https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd"
       },
       "artists": [
         {
-          "name": "Cooky",
-          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
         }
       ],
-      "duration_ms": 250918,
-      "name": "Far",
-      "url": "https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR"
+      "duration_ms": 231555,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
+        "name": "Skanker",
+        "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 227189,
+      "name": "Skanker",
+      "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ"
+      },
+      "artists": [
+        {
+          "name": "KDYN",
+          "url": "https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+      },
+      "artists": [
+        {
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+        }
+      ],
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
     },
     {
       "added_at": "2022-08-12 16:48:08",
@@ -787,6 +771,22 @@
       "duration_ms": 216893,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
+        "name": "Far",
+        "url": "https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ"
+      },
+      "artists": [
+        {
+          "name": "Cooky",
+          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
+        }
+      ],
+      "duration_ms": 250918,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR"
     },
     {
       "added_at": "2022-08-12 16:48:08",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
+        "name": "Be Real",
+        "url": "https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431"
+      },
+      "artists": [
+        {
+          "name": "Dom Scanlon",
+          "url": "https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Be Real",
+      "url": "https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
         "name": "Flow (Habstrakt Remix)",
         "url": "https://open.spotify.com/album/2m7F7EZT7uXsPEvGwqvPuI"
       },
@@ -875,18 +891,26 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
-        "name": "Be Real",
-        "url": "https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431"
+        "name": "Tune",
+        "url": "https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq"
       },
       "artists": [
         {
-          "name": "Dom Scanlon",
-          "url": "https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P"
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        },
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
         }
       ],
-      "duration_ms": 277500,
-      "name": "Be Real",
-      "url": "https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb"
+      "duration_ms": 188160,
+      "name": "Tune",
+      "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
     },
     {
       "added_at": "2022-08-12 16:48:08",
@@ -999,30 +1023,6 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
-        "name": "Tune",
-        "url": "https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq"
-      },
-      "artists": [
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        },
-        {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
-        },
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Tune",
-      "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
         "name": "Amazon Prime",
         "url": "https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9"
       },
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        }
-      ],
-      "duration_ms": 221024,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
         "name": "Hot Flush",
         "url": "https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn"
       },
@@ -1127,26 +1107,6 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
-        "name": "Banzai VIP",
-        "url": "https://open.spotify.com/album/6HihMPOfFtq8uSUE7lyvw1"
-      },
-      "artists": [
-        {
-          "name": "HODA",
-          "url": "https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx"
-        },
-        {
-          "name": "Eloquin",
-          "url": "https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1"
-        }
-      ],
-      "duration_ms": 294010,
-      "name": "Banzai VIP",
-      "url": "https://open.spotify.com/track/4zO3VlPNShnAGzgc5AvkL6"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
         "name": "Hard Hitters",
         "url": "https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK"
       },
@@ -1167,6 +1127,26 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        }
+      ],
+      "duration_ms": 221024,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 195558,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
+        "name": "Banzai VIP",
+        "url": "https://open.spotify.com/album/6HihMPOfFtq8uSUE7lyvw1"
+      },
+      "artists": [
+        {
+          "name": "HODA",
+          "url": "https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx"
+        },
+        {
+          "name": "Eloquin",
+          "url": "https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1"
+        }
+      ],
+      "duration_ms": 294010,
+      "name": "Banzai VIP",
+      "url": "https://open.spotify.com/track/4zO3VlPNShnAGzgc5AvkL6"
     },
     {
       "added_at": "2022-08-12 16:48:08",
@@ -1203,6 +1203,26 @@
       "duration_ms": 214545,
       "name": "Donny Don",
       "url": "https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+        }
+      ],
+      "duration_ms": 169385,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
     },
     {
       "added_at": "2022-08-12 16:48:08",
@@ -1263,22 +1283,6 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
-        "name": "Jet Wash",
-        "url": "https://open.spotify.com/album/78OCtt8QM9B7rKKzhQD5tr"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        }
-      ],
-      "duration_ms": 231009,
-      "name": "Jet Wash",
-      "url": "https://open.spotify.com/track/4CUbMRMuSvsVgYhkRuY5lZ"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
         "name": "Perfect Crime",
         "url": "https://open.spotify.com/album/6SKhGRv1ihw34UnldrZIbV"
       },
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
+        "name": "Night Bass Freshmen Vol 4",
+        "url": "https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2"
       },
       "artists": [
         {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Reigns",
-          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 169385,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
+      "duration_ms": 267000,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl"
     }
   ],
   "unique_name": "Bassline Bangers",

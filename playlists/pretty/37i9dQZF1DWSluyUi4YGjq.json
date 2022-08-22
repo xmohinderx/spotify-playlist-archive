@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Trementina on cover!",
-  "num_followers": 19909,
+  "num_followers": 19952,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3ODI2MSwwMDAwMDAwMGQ0MGViMWVhNTFhMWUzZjNkZTU4Yjk4YzNmMzllYzI0",
+  "snapshot_id": "MTY2MDg3ODI2MSwwMDAwMDAwMDJjZmYzOWMzMGY2NjIwZjlmNmZkMmU0NWYwZTIyYmQ0",
   "tracks": [
     {
       "added_at": "2022-08-01 16:58:45",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Happy Songs for Happy Zombies",
-        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 204202,
-      "name": "Blaster",
-      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 123331,
       "name": "At It Again",
       "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Happy Songs for Happy Zombies",
+        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 204202,
+      "name": "Blaster",
+      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -669,20 +669,20 @@
       "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
-      "added_at": "2022-06-20 23:05:31",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
+        "name": "Twin Plagues",
+        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
       },
       "artists": [
         {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 386604,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
+      "duration_ms": 148453,
+      "name": "Handsome Man",
+      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -701,20 +701,20 @@
       "url": "https://open.spotify.com/track/0BvpyzCi6f36IqdRHdA5Fp"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-06-20 23:05:31",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
       },
       "artists": [
         {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
         }
       ],
-      "duration_ms": 950210,
-      "name": "Songs",
-      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+      "duration_ms": 386604,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -751,18 +751,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Twin Plagues",
-        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 148453,
-      "name": "Handsome Man",
-      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
+      "duration_ms": 950210,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -863,6 +863,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Love Addict",
+        "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
+      },
+      "artists": [
+        {
+          "name": "Sugar High",
+          "url": "https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Wait to Pleasure",
         "url": "https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Love Addict",
-        "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
       },
       "artists": [
         {
-          "name": "Sugar High",
-          "url": "https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP"
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     },
     {
       "added_at": "2021-12-08 15:59:07",
@@ -923,22 +939,6 @@
       "duration_ms": 226693,
       "name": "Making Room",
       "url": "https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/6DQdSxAihGualboMJt2vcg"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
-      },
-      "artists": [
-        {
-          "name": "Astrobrite",
-          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "crasher",
-      "url": "https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp"
-    },
-    {
       "added_at": "2022-05-03 02:08:01",
       "album": {
         "name": "Destiny XL",
@@ -1115,6 +1099,22 @@
       "duration_ms": 189673,
       "name": "eightball",
       "url": "https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
+      },
+      "artists": [
+        {
+          "name": "Astrobrite",
+          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "crasher",
+      "url": "https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd"
     },
     {
-      "added_at": "2022-01-21 14:06:58",
-      "album": {
-        "name": "Famously Alive",
-        "url": "https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw"
-      },
-      "artists": [
-        {
-          "name": "Guerilla Toss",
-          "url": "https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO"
-        }
-      ],
-      "duration_ms": 264003,
-      "name": "Cannibal Capital",
-      "url": "https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Day By Day",
@@ -1179,6 +1163,22 @@
       "duration_ms": 297418,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6"
+    },
+    {
+      "added_at": "2022-01-21 14:06:58",
+      "album": {
+        "name": "Famously Alive",
+        "url": "https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw"
+      },
+      "artists": [
+        {
+          "name": "Guerilla Toss",
+          "url": "https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO"
+        }
+      ],
+      "duration_ms": 264003,
+      "name": "Cannibal Capital",
+      "url": "https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Auras",
-        "url": "https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq"
-      },
-      "artists": [
-        {
-          "name": "Deafcult",
-          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
-        }
-      ],
-      "duration_ms": 248186,
-      "name": "Lemonade Beauty",
-      "url": "https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Belong",
         "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Auras",
+        "url": "https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq"
+      },
+      "artists": [
+        {
+          "name": "Deafcult",
+          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
+        }
+      ],
+      "duration_ms": 248186,
+      "name": "Lemonade Beauty",
+      "url": "https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
       },
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Fast N All",
-        "url": "https://open.spotify.com/album/7LI9UujQD4ub49YNQCfssN"
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/79dOItYSIbHwx59fsP3nIu"
       },
       "artists": [
         {
-          "name": "Enumclaw",
-          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+          "name": "Cathedral Bells",
+          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
         }
       ],
-      "duration_ms": 231696,
-      "name": "Fast N All",
-      "url": "https://open.spotify.com/track/0E6A5gwmEulCFPewEGpJIx"
+      "duration_ms": 191901,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Ether",
-        "url": "https://open.spotify.com/album/79dOItYSIbHwx59fsP3nIu"
-      },
-      "artists": [
-        {
-          "name": "Cathedral Bells",
-          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
-        }
-      ],
-      "duration_ms": 191901,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Pipe Dreams",
-        "url": "https://open.spotify.com/album/4dnU5lfejwsudlezBO46oI"
+        "name": "Fast N All",
+        "url": "https://open.spotify.com/album/7LI9UujQD4ub49YNQCfssN"
       },
       "artists": [
         {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
         }
       ],
-      "duration_ms": 225053,
-      "name": "Junebouvier",
-      "url": "https://open.spotify.com/track/7k5xnDnNnIlKNcNUd8Mhvu"
+      "duration_ms": 231696,
+      "name": "Fast N All",
+      "url": "https://open.spotify.com/track/0E6A5gwmEulCFPewEGpJIx"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1471,6 +1455,22 @@
       "duration_ms": 143882,
       "name": "Try Harder Still",
       "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Pipe Dreams",
+        "url": "https://open.spotify.com/album/4dnU5lfejwsudlezBO46oI"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Junebouvier",
+      "url": "https://open.spotify.com/track/7k5xnDnNnIlKNcNUd8Mhvu"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1569,6 +1569,22 @@
       "url": "https://open.spotify.com/track/6ELfcFQ3kRxPfdCoGnNaaj"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "Spring and by Summer Fall",
+      "url": "https://open.spotify.com/track/3plzNcg0RAtFKTR3y7uPRy"
+    },
+    {
       "added_at": "2022-03-04 05:10:36",
       "album": {
         "name": "Billy",
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
       },
       "artists": [
         {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+          "name": "Astrobrite",
+          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
         }
       ],
-      "duration_ms": 255573,
-      "name": "Spring and by Summer Fall",
-      "url": "https://open.spotify.com/track/3plzNcg0RAtFKTR3y7uPRy"
+      "duration_ms": 194720,
+      "name": "bottlerocket",
+      "url": "https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8"
     },
     {
       "added_at": "2022-06-08 02:28:33",
@@ -1615,22 +1631,6 @@
       "duration_ms": 192600,
       "name": "dad",
       "url": "https://open.spotify.com/track/5TpE5xJ9mrD5IwaeLHi7bi"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
-      },
-      "artists": [
-        {
-          "name": "Astrobrite",
-          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
-        }
-      ],
-      "duration_ms": 194720,
-      "name": "bottlerocket",
-      "url": "https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8"
     },
     {
       "added_at": "2022-03-15 19:36:12",
@@ -1697,6 +1697,22 @@
       "url": "https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Heaven Inches Away",
+        "url": "https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ"
+      },
+      "artists": [
+        {
+          "name": "Soft Blue Shimmer",
+          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
+        }
+      ],
+      "duration_ms": 356750,
+      "name": "Cherry-Cola Abyss",
+      "url": "https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM"
+    },
+    {
       "added_at": "2022-04-09 04:56:08",
       "album": {
         "name": "Al Rev\u00e9s (feat. Petite Amie)",
@@ -1719,22 +1735,6 @@
       "duration_ms": 195312,
       "name": "Al Rev\u00e9s - feat. Petite Amie",
       "url": "https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Heaven Inches Away",
-        "url": "https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ"
-      },
-      "artists": [
-        {
-          "name": "Soft Blue Shimmer",
-          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
-        }
-      ],
-      "duration_ms": 356750,
-      "name": "Cherry-Cola Abyss",
-      "url": "https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM"
     },
     {
       "added_at": "2021-10-19 01:47:29",

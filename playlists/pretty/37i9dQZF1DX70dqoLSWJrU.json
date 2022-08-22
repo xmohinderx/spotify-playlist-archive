@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad jazz songs.",
-  "num_followers": 31660,
+  "num_followers": 31752,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDczMDEwMywwMDAwMDAwMDk3NmFjZDMxZWIwMWI0MWIwMjQwMWYzNjdjMzk1NzZk",
+  "snapshot_id": "MTY2MDczMDEwMywwMDAwMDAwMDhkNmRiNGM3OWJlY2E0OGRkNDdmMDI5NzQ4YzM0ZTkx",
   "tracks": [
     {
       "added_at": "2022-08-17 09:55:03",
@@ -111,26 +111,18 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Breakfast on the Morning Tram (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Matt Skelton",
-          "url": "https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA"
-        },
-        {
-          "name": "Dave Chamberlain",
-          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 279376,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn"
+      "duration_ms": 160666,
+      "name": "Autumn Leaves - Remastered",
+      "url": "https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -151,18 +143,26 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "Breakfast on the Morning Tram (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Matt Skelton",
+          "url": "https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA"
+        },
+        {
+          "name": "Dave Chamberlain",
+          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
         }
       ],
-      "duration_ms": 160666,
-      "name": "Autumn Leaves - Remastered",
-      "url": "https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d"
+      "duration_ms": 279376,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
         "name": "This Dream Of You",
         "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 290440,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/2QJTjKjGH9JUHRwXKUrLFI"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
-        "name": "The End Of The World",
-        "url": "https://open.spotify.com/album/5auWOjG5DsSccVLD9qqjd0"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "The End Of The World",
-      "url": "https://open.spotify.com/track/3esK0w6IPlcvCa27sqUYeg"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -311,24 +311,8 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "Lady In Satin",
+        "url": "https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA"
       },
       "artists": [
         {
@@ -336,9 +320,25 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 206760,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
+      "duration_ms": 203266,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
+        "name": "The End Of The World",
+        "url": "https://open.spotify.com/album/5auWOjG5DsSccVLD9qqjd0"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "The End Of The World",
+      "url": "https://open.spotify.com/track/3esK0w6IPlcvCa27sqUYeg"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -375,38 +375,6 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "In The Land Of Hi Fi",
-        "url": "https://open.spotify.com/album/4dKbs1IepsLdxwHUqNFe3x"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 153706,
-      "name": "I'll Never Smile Again",
-      "url": "https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
         "name": "The Second Time Around",
         "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
       },
@@ -419,6 +387,42 @@
       "duration_ms": 177200,
       "name": "Fool That I Am",
       "url": "https://open.spotify.com/track/5RC6D893kdyFTbbXq9G3qZ"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "I Got It Bad (And That Ain't Good)",
+      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
+        "name": "In The Land Of Hi Fi",
+        "url": "https://open.spotify.com/album/4dKbs1IepsLdxwHUqNFe3x"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 153706,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -467,22 +471,18 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+        "name": "An Evening With Billie Holiday",
+        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 222866,
-      "name": "I Got It Bad (And That Ain't Good)",
-      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
+      "duration_ms": 221280,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Lady In Satin",
-        "url": "https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA"
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
         }
       ],
-      "duration_ms": 203266,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG"
+      "duration_ms": 197173,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -551,6 +551,22 @@
       "duration_ms": 144428,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -575,26 +591,6 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "The Thrill Is Gone",
-        "url": "https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        },
-        {
-          "name": "Erik Truffaz",
-          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
-        }
-      ],
-      "duration_ms": 290426,
-      "name": "The Thrill Is Gone",
-      "url": "https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
         "name": "Swedish Sensation",
         "url": "https://open.spotify.com/album/0SBQvnFlDnaSxtufWUDtDi"
       },
@@ -611,18 +607,22 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "An Evening With Billie Holiday",
-        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
+        "name": "The Thrill Is Gone",
+        "url": "https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        },
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
         }
       ],
-      "duration_ms": 221280,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr"
+      "duration_ms": 290426,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Beware My Heart",
-      "url": "https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
         "name": "A Certain Smile, A Certain Sadness (Expanded Edition)",
         "url": "https://open.spotify.com/album/1vLQYFvmDj7hTYvlvdMSQ4"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Beware My Heart",
+      "url": "https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Pointless Nostalgic",
-        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 315773,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
         "name": "Dear Lonely Hearts",
         "url": "https://open.spotify.com/album/6knZwJ3Qp0uBe7NEiDIrTw"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 145240,
       "name": "Why Should I Cry Over You?",
       "url": "https://open.spotify.com/track/0JXSCwJzN40D5z0hyGAXFZ"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
+        "name": "Pointless Nostalgic",
+        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 315773,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Helen Merill",
-        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
-      },
-      "artists": [
-        {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
-        }
-      ],
-      "duration_ms": 301306,
-      "name": "What's New",
-      "url": "https://open.spotify.com/track/6iUmixPxVD6SacLhATYace"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 188560,
       "name": "There Must Be A Way",
       "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
+        "name": "Helen Merill",
+        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        }
+      ],
+      "duration_ms": 301306,
+      "name": "What's New",
+      "url": "https://open.spotify.com/track/6iUmixPxVD6SacLhATYace"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
+        "name": "Rhythm Is My Business",
+        "url": "https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
         "name": "Social Call",
         "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 251680,
       "name": "Gone With the Wind",
       "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
-        "name": "Rhythm Is My Business",
-        "url": "https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
+        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
         "name": "Something Wonderful",
         "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
@@ -1551,26 +1567,6 @@
       "duration_ms": 160093,
       "name": "I'm Gonna Laugh You Right Out Of My Life - Remastered",
       "url": "https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
-        "name": "Music For Late Hours",
-        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Jimmy Carroll Orchestra",
-          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "I Won't Cry Anymore",
-      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -1591,18 +1587,22 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
+        "name": "Music For Late Hours",
+        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
       },
       "artists": [
         {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Jimmy Carroll Orchestra",
+          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
         }
       ],
-      "duration_ms": 191000,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
+      "duration_ms": 205066,
+      "name": "I Won't Cry Anymore",
+      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
     },
     {
       "added_at": "2022-08-17 09:55:03",

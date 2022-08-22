@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Ghost
 
-638 songs - 1 day 23 hr 37 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+639 songs - 1 day 23 hr 43 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Darkbloom](https://open.spotify.com/track/3flxPmOcA1rm7rKsZLfnD9) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/3wJZuEnCzcyFbRM2Q5tZw3) | 3:48 | 2022-07-13 |  |
 | [Davidian](https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:56 | 2022-08-19 |  |
 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 | 2021-12-17 | 2022-07-29 |
-| [Days Of The Lost](https://open.spotify.com/track/34JGsiDkpgQ9KtjKNOO3h4) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Days Of The Lost](https://open.spotify.com/album/7hFCSY0JLmWyeNT8NkBkm7) | 3:37 | 2022-04-15 |  |
+| [Days Of The Lost](https://open.spotify.com/track/34JGsiDkpgQ9KtjKNOO3h4) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Days Of The Lost](https://open.spotify.com/album/7hFCSY0JLmWyeNT8NkBkm7) | 3:37 | 2022-04-15 | 2022-08-22 |
 | [Dead on the Vine](https://open.spotify.com/track/1V0dmLDJl5O68IphFsom9a) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [Dead on the Vine](https://open.spotify.com/album/2hKqORo0SRImOzkUFZ0Gt1) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Dear Anxiety](https://open.spotify.com/track/5cbH16EGi9Vop7CtemHgbR) | [Dines X Heafy](https://open.spotify.com/artist/0rbCShHTtfveGWLFz796G0), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5), [Jared Dines](https://open.spotify.com/artist/6VkNuqb1g6daxT3W3brUYZ) | [Dines X Heafy](https://open.spotify.com/album/3MtAMN8DNP0tUQaVMiqns4) | 4:03 | 2021-12-17 | 2022-08-20 |
 | [Death by Design](https://open.spotify.com/track/6SvjyJTHQiE0hNtW8onMuR) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Death by Design](https://open.spotify.com/album/4uaOVHeCyMjxq2nSKHVLV0) | 4:43 | 2021-12-17 | 2022-07-29 |
@@ -366,6 +366,7 @@
 | [New Colossal Hate](https://open.spotify.com/track/4lRvl2PMPqavdm4Q1qNV0M) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New Colossal Hate](https://open.spotify.com/album/4NZx3KzZVmxxMr4ZbJnAhi) | 4:30 | 2021-12-17 | 2022-04-18 |
 | [New Colossal Hate](https://open.spotify.com/track/5gwLD4lyU1WoYjJXtNRqBM) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 4:30 | 2022-07-08 | 2022-08-13 |
 | [New Found Power](https://open.spotify.com/track/0KKDXtEugnwp8lyNPo0YxK) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [New Found Power](https://open.spotify.com/album/3SIe3cPl0rIvPMCafeSNyV) | 4:15 | 2022-01-07 | 2022-06-04 |
+| [New Millennium Cyanide Christ](https://open.spotify.com/track/0vpLgxoX2cpJM0Fvxwbw84) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Chaosphere \(Reloaded\)](https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw) | 5:35 | 2022-08-19 |  |
 | [Night of the Hunter](https://open.spotify.com/track/23o9GMdOaEZp9DH0DxsOpP) | [Astral Doors](https://open.spotify.com/artist/0lc8BWRWnjTL78iCV21Bo9) | [Night of the Hunter](https://open.spotify.com/album/0LJ3W93RKRXwAd0GZa1aac) | 4:42 | 2021-12-29 | 2022-04-16 |
 | [Night Rider](https://open.spotify.com/track/0MGLlKw16k1qGlpb69xDZ1) | [Hellryder](https://open.spotify.com/artist/26oAigbWdVRhrCEja6DB0W), [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [Night Rider](https://open.spotify.com/album/1BHqnv1grh8s1mXj8Oekf4) | 3:14 | 2021-12-17 | 2022-07-25 |
 | [Night Witches](https://open.spotify.com/track/1xBRGN41DWx2vwNFY5CvGe) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:01 | 2021-12-17 | 2022-01-08 |

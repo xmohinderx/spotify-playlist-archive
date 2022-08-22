@@ -4,7 +4,7 @@
 
 > Acuérdate de estas canciones clásicas\. Foto: Wisin & Yandel, el Dúo de la Historia.
 
-337 songs - 20 hr 23 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+338 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Maúlla](https://open.spotify.com/track/1JBW35tB728ySPmB8g2Qlh) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sonando Diferente](https://open.spotify.com/album/0YRax3B38ds1UWsAod4D0f) | 3:18 | 2022-07-27 |  |
 | [Me Estas Tentando](https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolucion \(Deluxe\)](https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF) | 3:49 | 2021-12-17 |  |
 | [Me Falla](https://open.spotify.com/track/5IwQDEowt17f9BaKWGq7JH) | [Juancho Style](https://open.spotify.com/artist/0f6QKxpb3RVFQ7cZjwqYDn) | [Me Falla](https://open.spotify.com/album/4kX0VpOmZVexeyAj41k0Oq) | 4:29 | 2021-12-17 | 2022-07-29 |
+| [Me Falla](https://open.spotify.com/track/3PcbolDBYyVAjYmZSqfHCx) | [Juancho Style](https://open.spotify.com/artist/0f6QKxpb3RVFQ7cZjwqYDn) | [Me Falla](https://open.spotify.com/album/1SuHcvRaQyhnt9qPmPqVZi) | 4:29 | 2022-08-09 |  |
 | [Me Matas](https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:16 | 2021-12-17 |  |
 | [Me Niegas \- Remix](https://open.spotify.com/track/6ON9AeWrNPTajo68rtgz8D) | [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Me Niegas \(Remix\)](https://open.spotify.com/album/7MUX1eQgHAyoMexj5EmDVp) | 4:05 | 2021-12-17 |  |
 | [Me pones en Tencion](https://open.spotify.com/track/5UGqDsy1rti7uJAH64Kcpv) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Nu Records Vol.1](https://open.spotify.com/album/6qQeNFDDEd23BD6JCPqeeh) | 3:56 | 2021-12-17 | 2022-07-29 |
@@ -315,7 +316,7 @@
 | [Tu Príncipe](https://open.spotify.com/track/0Q7ZM15J0cJA9rd7pQYdRq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Tu Príncipe](https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:25 | 2022-07-27 |  |
 | [Tu Quieres Duro](https://open.spotify.com/track/0pv0URPkbZIU4Jyrq47vWc) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [La Misión 4](https://open.spotify.com/album/05vrChqlagPD4ALM4L3TAG) | 3:35 | 2021-12-17 | 2022-06-23 |
-| [Tuve un Sueno](https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [The Royalty](https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI) | 3:09 | 2022-08-09 |  |
+| [Tuve un Sueno](https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [The Royalty](https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI) | 3:09 | 2022-08-09 | 2022-08-22 |
 | [Tuya Soy](https://open.spotify.com/track/61BqBI1qfCqN0Am0asCWmx) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva Platinum Edition](https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e) | 2:45 | 2021-12-17 | 2022-07-21 |
 | [Un Poco Loca \(feat\. De La Ghetto\)](https://open.spotify.com/track/5A2fkyeIbRqwXGkIdadL5q) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Los Mas Sueltos Del Reggaeton](https://open.spotify.com/album/1tYGsYdYq3svOlTzAlojm1) | 4:33 | 2021-12-17 |  |
 | [Un Sueño](https://open.spotify.com/track/4w8XJ8nvhslJS3AvR6uL98) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Gargolas 5: The Next Generation](https://open.spotify.com/album/6xJVY6jlX0QRob0ueF9kKJ) | 4:05 | 2022-07-27 |  |
