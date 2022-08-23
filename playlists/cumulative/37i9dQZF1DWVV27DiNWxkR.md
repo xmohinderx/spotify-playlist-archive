@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist.
 
-249 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+250 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Concrete and Sand](https://open.spotify.com/track/4vkPlw019TRBdV0aPsTz4E) | [JumpCircus](https://open.spotify.com/artist/7d9bjvv9XpbR6qewAWcP4v), [Kita Klane](https://open.spotify.com/artist/0Tlkht07qHq3A0QeI3TerA) | [Concrete and Sand](https://open.spotify.com/album/35W96deAET0orM2AjFOdgG) | 4:05 | 2019-09-29\* | 2020-01-17 |
 | [Cooperstown](https://open.spotify.com/track/0qqVJpwWzbNQzg1GyMqCX3) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [Yonder Is The Clock](https://open.spotify.com/album/4XLwMmgcC0cGQ2lDziGaDa) | 6:13 | 2020-08-30 | 2020-09-11 |
 | [Corpses](https://open.spotify.com/track/1xfSkmFILeXIXalVyFU5OB) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Shape of Silence](https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W) | 4:30 | 2019-09-29\* | 2022-04-10 |
+| [Cry](https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:16 | 2022-08-22 |  |
 | [dad](https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [dad](https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ) | 3:12 | 2022-04-01 | 2022-07-16 |
 | [Demand It](https://open.spotify.com/track/2AuugcWwwlDCjUU5JcbDcD) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Wildly Idle \(Humble Before the Void\)](https://open.spotify.com/album/6U8MP9A9MF2fTdFRf0RTr1) | 5:01 | 2020-08-30 | 2020-09-11 |
 | [Devil That I Know](https://open.spotify.com/track/7bkxJOCyc7dQyQQrOcwXdF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Devil That I Know](https://open.spotify.com/album/3OR56niCd9ULFGRhBsZBn3) | 2:50 | 2020-10-14 | 2022-04-10 |
@@ -165,7 +166,7 @@
 | [Possibility](https://open.spotify.com/track/39Odj4vLKRarATkCA31gaW) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 5:06 | 2022-08-11 |  |
 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2019-09-29\* | 2022-05-21 |
 | [Ride With Me \- Acoustic](https://open.spotify.com/track/0Bx1ZimXQCcRK1jtGpptqJ) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Favorite Spanish Dishes](https://open.spotify.com/album/6czJfzOn8EvsHOzYnPO2xR) | 3:54 | 2020-08-30 | 2020-09-11 |
-| [Rivers and Roads](https://open.spotify.com/track/3nzXs8ynjIwQvmxjogvCYx) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:44 | 2022-07-15 |  |
+| [Rivers and Roads](https://open.spotify.com/track/3nzXs8ynjIwQvmxjogvCYx) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:44 | 2022-07-15 | 2022-08-23 |
 | [Rivers And Roads](https://open.spotify.com/track/7kgMtZHgem1PlJhuP7vbur) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/490NgrGvR5PX8hWK6bUNsy) | 4:44 | 2019-09-29\* | 2022-07-29 |
 | [Romance \- Edit](https://open.spotify.com/track/3C4ELBpjDw4fXVJIvOvZwF) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Romance](https://open.spotify.com/album/5fu3xT9sOh2CeOeCgDOD2X) | 4:04 | 2019-09-29\* | 2020-11-17 |
 | [Rose Petals](https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM) | 3:33 | 2019-09-29\* | 2022-05-21 |

@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Cuco.",
-  "num_followers": 31531,
+  "num_followers": 31558,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4NTIwMCwwMDAwMDAwMDcwYmIyYzE4NGRhMTViYjQxMjRlMmIxYTdjNzU0OGFh",
+  "snapshot_id": "MTY2MDg4NTIwMCwwMDAwMDAwMGJlN2RlZWUwZGNjMzQ3N2EzM2MwMWI5YTI2NGIyNWY4",
   "tracks": [
     {
       "added_at": "2022-08-19 05:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 207024,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
         "name": "Cardellino",
         "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
@@ -119,6 +135,22 @@
       "duration_ms": 169776,
       "name": "TOSCANA",
       "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "Rester",
+        "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 297530,
+      "name": "Rester",
+      "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -139,22 +171,6 @@
       "duration_ms": 189310,
       "name": "Quiero Quedarme para Siempre",
       "url": "https://open.spotify.com/track/3du9ocej65TycajaDfw8j9"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
-        "name": "Rester",
-        "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 297530,
-      "name": "Rester",
-      "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -187,22 +203,6 @@
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/0itukH4hI1pxOsyRQRQ28f"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 207024,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -259,6 +259,26 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
+        "name": "Fin Del Mundo (with Bratty)",
+        "url": "https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Fin Del Mundo (with Bratty)",
+      "url": "https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
       },
@@ -295,22 +315,6 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "Muchas Cosas",
-        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Muchas Cosas",
-      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
@@ -343,6 +347,22 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
+        "name": "Muchas Cosas",
+        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Muchas Cosas",
+      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
         "name": "seguiremos siendo",
         "url": "https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI"
       },
@@ -363,26 +383,6 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "Fin Del Mundo (with Bratty)",
-        "url": "https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Fin Del Mundo (with Bratty)",
-      "url": "https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
         "name": "M\u00edralo",
         "url": "https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 133333,
       "name": "M\u00edralo",
       "url": "https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "roncola",
+        "url": "https://open.spotify.com/album/7wBnQpzEspxCuDIfBcvtH9"
+      },
+      "artists": [
+        {
+          "name": "Ankli",
+          "url": "https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI"
+        }
+      ],
+      "duration_ms": 172942,
+      "name": "roncola",
+      "url": "https://open.spotify.com/track/36KSajo0NyH3eGgbS4AuJ7"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -415,22 +431,6 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
-        "name": "roncola",
-        "url": "https://open.spotify.com/album/7wBnQpzEspxCuDIfBcvtH9"
-      },
-      "artists": [
-        {
-          "name": "Ankli",
-          "url": "https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI"
-        }
-      ],
-      "duration_ms": 172942,
-      "name": "roncola",
-      "url": "https://open.spotify.com/track/36KSajo0NyH3eGgbS4AuJ7"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "1990",
-        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
         "name": "Ojos",
         "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 222099,
       "name": "Ojos",
       "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "Polaroid Paradise",
+        "url": "https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "Polaroid Paradise",
-        "url": "https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
         "name": "Algo Bien",
         "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 255524,
       "name": "Colores crom\u00e1ticos",
       "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "1990",
+        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        }
+      ],
+      "duration_ms": 100500,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
+        "name": "What Do You Want It To Be?",
+        "url": "https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL"
+      },
+      "artists": [
+        {
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+        }
+      ],
+      "duration_ms": 242241,
+      "name": "Gardenia Dreams",
+      "url": "https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
         "name": "Nada Mal",
         "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "What Do You Want It To Be?",
-        "url": "https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL"
+        "name": "Amor Como Pu\u00f1al",
+        "url": "https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf"
       },
       "artists": [
         {
-          "name": "Estereomance",
-          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 242241,
-      "name": "Gardenia Dreams",
-      "url": "https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh"
+      "duration_ms": 181600,
+      "name": "Amor Como Pu\u00f1al",
+      "url": "https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -887,22 +903,6 @@
       "duration_ms": 235066,
       "name": "D\u00ed Que No",
       "url": "https://open.spotify.com/track/6oLxwWMuLrfFpOYQBW0ZS0"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
-        "name": "Amor Como Pu\u00f1al",
-        "url": "https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Amor Como Pu\u00f1al",
-      "url": "https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "Caf\u00e9",
-        "url": "https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g"
-      },
-      "artists": [
-        {
-          "name": "Mila",
-          "url": "https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5"
-        }
-      ],
-      "duration_ms": 193274,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
         "name": "Mirando",
         "url": "https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 227620,
       "name": "Como Nadie",
       "url": "https://open.spotify.com/track/5FnaEou98yODChyeRz8Tys"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g"
+      },
+      "artists": [
+        {
+          "name": "Mila",
+          "url": "https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5"
+        }
+      ],
+      "duration_ms": 193274,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "Prometimos No Hablar",
-        "url": "https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 259568,
-      "name": "Prometimos No Hablar",
-      "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
         "name": "SIN DISFRAZ",
         "url": "https://open.spotify.com/album/5wSk9XLTcNDxAEgFFVaZbC"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 155178,
       "name": "SIN DISFRAZ",
       "url": "https://open.spotify.com/track/4Mtqamm7J5n56aUdDDnI4X"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "Prometimos No Hablar",
+        "url": "https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 259568,
+      "name": "Prometimos No Hablar",
+      "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
     },
     {
       "added_at": "2022-08-19 05:00:00",

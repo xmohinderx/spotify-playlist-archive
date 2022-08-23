@@ -244,6 +244,32 @@
     },
     {
       "album": {
+        "name": "Carry You Home (feat. StarGate & Aloe Blacc)",
+        "url": "https://open.spotify.com/album/7apwmztwcRn7DpWVx69VDr"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Stargate",
+          "url": "https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192731,
+      "name": "Carry You Home (feat. StarGate & Aloe Blacc)",
+      "url": "https://open.spotify.com/track/6bolfjXj78EIQRB48C6QTc"
+    },
+    {
+      "album": {
         "name": "Chain My Heart",
         "url": "https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD"
       },
@@ -1347,7 +1373,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 213333,
       "name": "Make You Mine (feat. Moa Lisa)",
       "url": "https://open.spotify.com/track/1ICPREUY4yMNeFEgbNh7D5"

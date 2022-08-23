@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-336 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+337 songs - 1 day 0 hr 27 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Delusive Bunker \- Live Version](https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Delusive Bunker \(Live Version\)](https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0) | 6:11 | 2021-10-15 |  |
 | [Diabolic](https://open.spotify.com/track/68ngtC3pGiTjXcFwxYCJ7Z) | [Dance With the Dead](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm) | [The Shape](https://open.spotify.com/album/6FrmsWgHEf8JGco0YPFOjJ) | 4:19 | 2021-10-15 | 2022-04-08 |
 | [Disco Hunt](https://open.spotify.com/track/0nfaoATlkfTA6NtPP5uYmB) | [Vincenzo Salvia](https://open.spotify.com/artist/0B1OIGHmTqq2gEn4IMaEci) | [Nightdrive to the Disco](https://open.spotify.com/album/70kLDT2qPMhkTBqvzmjw5W) | 4:22 | 2022-04-01 | 2022-04-19 |
+| [Disco on the Baltic Sea](https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Disco on the Baltic Sea](https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z) | 3:17 | 2022-08-19 |  |
 | [Dissolve](https://open.spotify.com/track/4Ikfp3eIvSzztTVNZO1Mez) | [EVANS](https://open.spotify.com/artist/6WsFGXtV7XYc8EE24gych2), [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Dissolve](https://open.spotify.com/album/2n36QdpXHLs96pWGV9TwOP) | 4:56 | 2022-07-22 | 2022-07-29 |
 | [Distance](https://open.spotify.com/track/1uPgXM9EoySFF0RBaYV2zI) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [Memorex Memories](https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV) | [Distance](https://open.spotify.com/album/1akun3X9ysTZ8ZNI19MZfS) | 3:27 | 2021-10-15 |  |
 | [Do You Remember? \(Louis La Roche Remix\)](https://open.spotify.com/track/3O4fgI3pPvUl67jNVk2qTX) | [Darren Hayes](https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Do You Remember? \(Louis La Roche Remix\)](https://open.spotify.com/album/2bJ0gPvIHX69o5zK8nvb0r) | 4:20 | 2022-07-29 | 2022-08-06 |
@@ -292,7 +293,7 @@
 | [Take Flight](https://open.spotify.com/track/7Hp4SrtQicQtSgPLxKB574) | [Jordan F](https://open.spotify.com/artist/1qSGsjM9uWGLbH1PWUPV7A) | [Slipstream](https://open.spotify.com/album/28OaB4YG2bRU8XxyWmUlfu) | 4:33 | 2022-07-22 |  |
 | [Takeoff](https://open.spotify.com/track/4smnlSoB45rmAGV2hDdY5g) | [Starcop](https://open.spotify.com/artist/0Wo8zfu7LaSPQrI8Ov6XQh) | [Galaxy](https://open.spotify.com/album/1IpJnmVSsimq6AWU7f3zyV) | 2:39 | 2021-10-15 | 2022-07-29 |
 | [Takeoff](https://open.spotify.com/track/0arPXiG9R6d6gJokFBujIu) | [Starcop](https://open.spotify.com/artist/0Wo8zfu7LaSPQrI8Ov6XQh) | [Synthwave, Vol\. 5 \(Retro Dreams\)](https://open.spotify.com/album/7bvzc53iIULMZfSJYPFkZ9) | 2:39 | 2022-07-22 |  |
-| [Tan Lines And Fizzy Wine](https://open.spotify.com/track/30ymNUw28IrHmVGv4anY9G) | [RSS Disco](https://open.spotify.com/artist/2sgfNG93dC6iGZK8weLmtp) | [Tan Lines and Fizzy Wine](https://open.spotify.com/album/0hUVC3smHare27tVcN270U) | 6:46 | 2022-04-08 |  |
+| [Tan Lines And Fizzy Wine](https://open.spotify.com/track/30ymNUw28IrHmVGv4anY9G) | [RSS Disco](https://open.spotify.com/artist/2sgfNG93dC6iGZK8weLmtp) | [Tan Lines and Fizzy Wine](https://open.spotify.com/album/0hUVC3smHare27tVcN270U) | 6:46 | 2022-04-08 | 2022-08-23 |
 | [Tenshi](https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t) | [Formal One](https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59) | [Tenshi](https://open.spotify.com/album/0ee0sndipg58Uqr5a6bhq7) | 4:15 | 2022-07-15 | 2022-07-29 |
 | [Terraform](https://open.spotify.com/track/5gEwTLSV33opPhxQ8im1Jj) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr), [Magic Sword](https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1) | [New & Improved](https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa) | 5:08 | 2022-02-04 |  |
 | [Territory](https://open.spotify.com/track/0HWFz9sKXuXlIZgVUvOKPU) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Exile](https://open.spotify.com/album/2FObixyCMUYQoTdp2INbNv) | 3:22 | 2021-10-15 |  |

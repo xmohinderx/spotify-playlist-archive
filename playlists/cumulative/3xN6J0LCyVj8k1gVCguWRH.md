@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,616 songs - 3 day 22 hr 15 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,617 songs - 3 day 22 hr 18 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -912,6 +912,7 @@
 | [Materialism](https://open.spotify.com/track/61QFI94aaG9vW30xZZ6tTn) | [Adame](https://open.spotify.com/artist/7jA4m3ZcdKMMqKtHud403Y) | [Materialism](https://open.spotify.com/album/5uGpKPg89A0Zwvh1zKtVOA) | 3:30 | 2022-03-25 | 2022-04-10 |
 | [Maze](https://open.spotify.com/track/5NHEwfiv4tjbUrEO2LkWBj) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Maze](https://open.spotify.com/album/3mD25KhmdgRF6gHwwLKM0Q) | 2:22 | 2020-08-20 | 2020-09-04 |
 | [Mañanas de Cristal](https://open.spotify.com/track/2a6gwFFwQZ4cB6hdSymNMu) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Mañanas de Cristal](https://open.spotify.com/album/67cfgVgz1x1T1Mb9KApm6C) | 3:48 | 2022-03-25 | 2022-04-10 |
+| [Me Duele](https://open.spotify.com/track/5nhnvixVVpEDJxsqhDsDVe) | [Xades](https://open.spotify.com/artist/2hrJX5VA0aLhBgRMrGAqHz) | [Shaded](https://open.spotify.com/album/62qeSvvKUiyPTEF4MqIt0D) | 3:24 | 2022-08-22 |  |
 | [Me Over U](https://open.spotify.com/track/3RcGZX9u5iD6oOuvOkSK7e) | [Tamera King](https://open.spotify.com/artist/2sIXeQKiKVwb9luhJ4Y1XS) | [Me Over U](https://open.spotify.com/album/7bsh09CHZWfL3MbuQHI70K) | 3:30 | 2021-09-05 | 2021-09-21 |
 | [Me Vs\. Me](https://open.spotify.com/track/165QSSwe3Rajv3Bf1cnED4) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Me Vs\. Me](https://open.spotify.com/album/2VM3KfCIDmOfDgGmbZgK1e) | 3:11 | 2021-08-17 | 2021-09-05 |
 | [Me, You & Tequila](https://open.spotify.com/track/0s5fi9gYQRrsIxIDqPyVEr) | [Tigerlily](https://open.spotify.com/artist/48xCatjXaoohtyOHrHTijG), [AYDAN](https://open.spotify.com/artist/42QiPMyPh52FgtTOt2ckqs) | [Me, You & Tequila](https://open.spotify.com/album/6rFmGiShMsXdTGoI1Wwmxe) | 3:21 | 2020-11-27 | 2020-12-12 |

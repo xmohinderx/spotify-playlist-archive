@@ -4,7 +4,7 @@
 
 > That feeling of being punched in the gut by a song.
 
-200 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/5pmuoSmL7bv4atCJCFd9iO)
+201 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/5pmuoSmL7bv4atCJCFd9iO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Lack of Color](https://open.spotify.com/track/6LNwTodkmxsc2dKRJWQr6y) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 3:35 | 2021-04-30 |  |
 | [A Lack Of Color](https://open.spotify.com/track/4mCF3EBgGPSqmEm205KBAV) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism](https://open.spotify.com/album/5FJTVcpDFYqlo7vjjHEA9V) | 3:35 | 2021-04-30 | 2022-07-29 |
 | [A Little Bit Of Everything](https://open.spotify.com/track/2vjwNjq98BY9Fp5kIoiAKl) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Nothing Is Wrong](https://open.spotify.com/album/7tz6YwuJxHAXJj4WF0N9a5) | 5:39 | 2021-04-30 | 2022-07-02 |
-| [A Little Bit Of Everything](https://open.spotify.com/track/5xL83O27JVR7CtUgglnggX) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Nothing Is Wrong \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5Ub0I08OeHkFT8wQ5RjIED) | 5:39 | 2021-04-30 |  |
+| [A Little Bit Of Everything](https://open.spotify.com/track/5xL83O27JVR7CtUgglnggX) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Nothing Is Wrong \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5Ub0I08OeHkFT8wQ5RjIED) | 5:39 | 2021-04-30 | 2022-08-23 |
+| [A Little Bit of Everything](https://open.spotify.com/track/0UVXrz4r0aM93PIMESW1dm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Nothing Is Wrong \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/77f3YqasvaLdJo8Qw6PmY2) | 5:42 | 2021-04-30 |  |
 | [All I Do](https://open.spotify.com/track/1a2UGfluPyrXHTbL1NeFbR) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 3:36 | 2021-04-30 |  |
 | [Almost Lover](https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [One Cell In The Sea](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) | 4:28 | 2021-04-30 |  |
 | [Among the Leaves](https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Among the Leaves](https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv) | 3:31 | 2021-04-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,976 likes - 103 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,011 likes - 103 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 34 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 | 35 | [More Piya](https://open.spotify.com/track/4ezMFxUzwg5BDTBWZdZvMu) | [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76), [Aanandi Joshi](https://open.spotify.com/artist/7qj8b5tuzeSkb4ff01h5rJ), [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q) | [More Piya](https://open.spotify.com/album/5mILpkQZVdrUhtLFFj6gsU) | 4:18 |
 | 36 | [Maine Dekha Hai](https://open.spotify.com/track/5ju1GJqBZ0paALY3hU2wrC) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Sameer Rahat](https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Maine Dekha Hai](https://open.spotify.com/album/5cIJrVphMW7otdZt5IiSWP) | 6:50 |
-| 37 | [Ooch Apaar](https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW) | 7:00 |
+| 37 | [Ooch Apaar](https://open.spotify.com/track/14jmLovqc2rOc2KDqwd8Yw) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/10QCudlJoZPHcoPBDTc1mA) | 7:00 |
 | 38 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 |
 | 39 | [Ka Karoon Sajni \- The Unwind Mix](https://open.spotify.com/track/5oVHgBoF0B29CXW1L4aeU7) | [Prajakta Shukre](https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB) | [Ka Karoon Sajni \- Single](https://open.spotify.com/album/5Ao1TWZgINPwvOy96c2dbV) | 4:29 |
 | 40 | [Sakhi Vasant Aaya](https://open.spotify.com/track/4KMsPlI229IQ4z3dqcCbIV) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Sakhi Vasant Aaya \- Single](https://open.spotify.com/album/0mdDqBvNFnVhNLbWFtDFB1) | 4:18 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 102 | [Shiva Moon \(Prem Joshua & Maneesh de Moor's Moon Nectar Remix\)](https://open.spotify.com/track/0xU1OWWZdbmCjLWpC9YDau) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Dakini Lounge: Prem Joshua Remixed](https://open.spotify.com/album/3POYtJ1eftAtmn3VoZkc7A) | 8:14 |
 | 103 | [Tangerine Thumri \(Orange Turban Mix\)](https://open.spotify.com/track/1ZpDROkwHFYtpsRkBTG2Sr) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1), [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Shiva Moon](https://open.spotify.com/album/1TtTFpcrxspPiuBsD7f1gT) | 7:12 |
 
-Snapshot ID: `MTY1NzYyNTEwOCwwMDAwMDAwMDU4MmYxNDc3MmE5ZGU5MjY1N2U3ODNlMjg5NTFmNzE2`
+Snapshot ID: `MTY1NzYyNTEwOCwwMDAwMDAwMGU3YTQ2MDg1NWRkNzc2N2MyN2NhODViMmY1YjY2NjFh`

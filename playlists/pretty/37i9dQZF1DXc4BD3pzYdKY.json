@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover: nobigdyl.",
-  "num_followers": 105093,
+  "num_followers": 105111,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTg0NzExMiwwMDAwMDAwMDUzMTdmOGYyNjdlYzdiOTc5Njg5MGI1ZGU4ZDZjZjUx",
+  "snapshot_id": "MTY1OTg0NzExMiwwMDAwMDAwMDZmNzQ0ZmVjNjlhZDM2ZjhiZTM0YjUxNTgzNTQ3MDcy",
   "tracks": [
     {
       "added_at": "2022-08-06 04:47:39",
@@ -511,6 +511,30 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "duration_ms": 242564,
+      "name": "Red Light Green Light",
+      "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "GOD IS THE BEST",
         "url": "https://open.spotify.com/album/3mLwour0Ztv8lWH3lf0YNy"
       },
@@ -603,46 +627,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        }
-      ],
-      "duration_ms": 242564,
-      "name": "Red Light Green Light",
-      "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 150169,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "WAY MAKER",
         "url": "https://open.spotify.com/album/1LdX5o7JHm0pujCgSkahI9"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 163578,
       "name": "WAY MAKER",
       "url": "https://open.spotify.com/track/6uCuqwcNem1t2usnC0g6tG"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 150169,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/5scwM6Xd2qBEZk6ma6MdsS"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 197064,
       "name": "Underdogs",
       "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Fight Of Your Life",
+        "url": "https://open.spotify.com/album/5NvLQlP11h3vpyCDJP3BJL"
+      },
+      "artists": [
+        {
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
+        }
+      ],
+      "duration_ms": 189664,
+      "name": "Fight Of Your Life",
+      "url": "https://open.spotify.com/track/75nrUKvEyi6NUP4SJC1wit"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "Graded 10",
         "url": "https://open.spotify.com/album/3497rXxrbuhJuArE8fa0NH"
       },
@@ -1267,24 +1283,8 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Fight Of Your Life",
-        "url": "https://open.spotify.com/album/5NvLQlP11h3vpyCDJP3BJL"
-      },
-      "artists": [
-        {
-          "name": "Angie Rose",
-          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
-        }
-      ],
-      "duration_ms": 189664,
-      "name": "Fight Of Your Life",
-      "url": "https://open.spotify.com/track/75nrUKvEyi6NUP4SJC1wit"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/7dnIJ45luUssK7kNchHVGk"
+        "name": "Can I Get a?",
+        "url": "https://open.spotify.com/album/4kpTwKon5LK1rEKBOogwHm"
       },
       "artists": [
         {
@@ -1292,9 +1292,9 @@
           "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 116307,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/2FtFXgkmwp2WBg0QCOJoC8"
+      "duration_ms": 150618,
+      "name": "Can I Get a?",
+      "url": "https://open.spotify.com/track/2cQqvbAQKrarRBa5XfTwlW"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/7dnIJ45luUssK7kNchHVGk"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 116307,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/2FtFXgkmwp2WBg0QCOJoC8"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt"
       },
@@ -1447,42 +1463,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Cafeteria",
-        "url": "https://open.spotify.com/album/6q84E0z9N2ZWBFLBWgADP5"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        },
-        {
-          "name": "Lite Pole",
-          "url": "https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Cafeteria",
-      "url": "https://open.spotify.com/track/69YWagZDFxgqZmXKJyZwdT"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Can I Get a?",
-        "url": "https://open.spotify.com/album/4kpTwKon5LK1rEKBOogwHm"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 150618,
-      "name": "Can I Get a?",
-      "url": "https://open.spotify.com/track/2cQqvbAQKrarRBa5XfTwlW"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "/kroun/",
         "url": "https://open.spotify.com/album/7lujWYUcmJ6MgfcQZ7cHhG"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 153043,
       "name": "/kroun/",
       "url": "https://open.spotify.com/track/2e1HiZFrtlkyNxP5uu8dGj"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Cafeteria",
+        "url": "https://open.spotify.com/album/6q84E0z9N2ZWBFLBWgADP5"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        },
+        {
+          "name": "Lite Pole",
+          "url": "https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Cafeteria",
+      "url": "https://open.spotify.com/track/69YWagZDFxgqZmXKJyZwdT"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/0k2Yd33uJ3BEpn7Pdcq3LA"
-      },
-      "artists": [
-        {
-          "name": "Reconcile",
-          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/7vzOi9isfDmRaeITHUsM5C"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "Be Real",
         "url": "https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/17edQSfcZhL56obIskbP2I"
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/0k2Yd33uJ3BEpn7Pdcq3LA"
       },
       "artists": [
         {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+          "name": "Reconcile",
+          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
         }
       ],
-      "duration_ms": 211540,
-      "name": "Who?",
-      "url": "https://open.spotify.com/track/0L5eYwDd5OwRmoRkeMrkbL"
+      "duration_ms": 185257,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7vzOi9isfDmRaeITHUsM5C"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1627,22 +1611,34 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "INNER CITY GOSPEL",
-        "url": "https://open.spotify.com/album/2gsf9Nax7eO3tnjPSC4YqP"
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/17edQSfcZhL56obIskbP2I"
       },
       "artists": [
         {
-          "name": "IAMOPB",
-          "url": "https://open.spotify.com/artist/18MYQNripiW2Lljs4AhW3Z"
-        },
-        {
-          "name": "Anthone Ray",
-          "url": "https://open.spotify.com/artist/2STifIFLtVoY6rj4hc4vVv"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 169874,
-      "name": "TUNNEL VISION",
-      "url": "https://open.spotify.com/track/6C6s0bb9k6KfmRms8l6WE1"
+      "duration_ms": 211540,
+      "name": "Who?",
+      "url": "https://open.spotify.com/track/0L5eYwDd5OwRmoRkeMrkbL"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "I'm Home",
+        "url": "https://open.spotify.com/album/204YFT7a78NcDohIL0TuSp"
+      },
+      "artists": [
+        {
+          "name": "Legin",
+          "url": "https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV"
+        }
+      ],
+      "duration_ms": 266382,
+      "name": "I'm Home",
+      "url": "https://open.spotify.com/track/0cyet2FV6brooO5mA4Gcco"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1667,18 +1663,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "I'm Home",
-        "url": "https://open.spotify.com/album/204YFT7a78NcDohIL0TuSp"
+        "name": "INNER CITY GOSPEL",
+        "url": "https://open.spotify.com/album/2gsf9Nax7eO3tnjPSC4YqP"
       },
       "artists": [
         {
-          "name": "Legin",
-          "url": "https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV"
+          "name": "IAMOPB",
+          "url": "https://open.spotify.com/artist/18MYQNripiW2Lljs4AhW3Z"
+        },
+        {
+          "name": "Anthone Ray",
+          "url": "https://open.spotify.com/artist/2STifIFLtVoY6rj4hc4vVv"
         }
       ],
-      "duration_ms": 266382,
-      "name": "I'm Home",
-      "url": "https://open.spotify.com/track/0cyet2FV6brooO5mA4Gcco"
+      "duration_ms": 169874,
+      "name": "TUNNEL VISION",
+      "url": "https://open.spotify.com/track/6C6s0bb9k6KfmRms8l6WE1"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/4FMxQwJa01DiiL0Lrs67px"
-      },
-      "artists": [
-        {
-          "name": "I Project",
-          "url": "https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me"
-        },
-        {
-          "name": "Jude Barclay",
-          "url": "https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW"
-        }
-      ],
-      "duration_ms": 145371,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/4IERwC8gPlEJiYuSNbVmt6"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "Look at Me Now",
         "url": "https://open.spotify.com/album/430Kd4ZOu31gytgHSIk4Jh"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 238895,
       "name": "Look at Me Now",
       "url": "https://open.spotify.com/track/0D0cxJpnhijpr5QMmKmYDL"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/4FMxQwJa01DiiL0Lrs67px"
+      },
+      "artists": [
+        {
+          "name": "I Project",
+          "url": "https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me"
+        },
+        {
+          "name": "Jude Barclay",
+          "url": "https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW"
+        }
+      ],
+      "duration_ms": 145371,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/4IERwC8gPlEJiYuSNbVmt6"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1851,22 +1851,30 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Me Against The World Vol. 3",
-        "url": "https://open.spotify.com/album/2CRDnUdvs0P9PH78Qnj0xs"
+        "name": "BEST NIGHT",
+        "url": "https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL"
       },
       "artists": [
         {
-          "name": "5ive",
-          "url": "https://open.spotify.com/artist/3mQZ0BGNOmrrl2Vv0FJXSY"
+          "name": "RAY G",
+          "url": "https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C"
         },
         {
-          "name": "T Haddy",
-          "url": "https://open.spotify.com/artist/5nzstLIZDM5ky0D61AJEGd"
+          "name": "OnBeatMusic",
+          "url": "https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj"
+        },
+        {
+          "name": "Joey Vantes",
+          "url": "https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc"
+        },
+        {
+          "name": "A. Ruiz",
+          "url": "https://open.spotify.com/artist/5chrjHIlDZQyVadLbWzgbO"
         }
       ],
-      "duration_ms": 322000,
-      "name": "RISE (Fight Night)",
-      "url": "https://open.spotify.com/track/4z4YXvfgW8AObxpn2Ezt5S"
+      "duration_ms": 161965,
+      "name": "BEST NIGHT",
+      "url": "https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j"
     }
   ],
   "unique_name": "The Flow",

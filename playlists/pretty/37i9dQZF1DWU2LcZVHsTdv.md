@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Tyler Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,000 likes - 121 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,072 likes - 121 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

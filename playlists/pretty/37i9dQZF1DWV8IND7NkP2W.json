@@ -1,12 +1,12 @@
 {
   "description": "The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 413538,
+  "num_followers": 413576,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzNDgwMCwwMDAwMDAwMDY3ODUzOTQ4OGE0OTNiNDY0ZWEzZDBkMmRkMDQyZTg5",
+  "snapshot_id": "MTY2MDgzNDgwMCwwMDAwMDAwMDA2MjY5NWY1ZDM3YTQxNzZjZWFkYjQ4NjZmM2ZlMWI0",
   "tracks": [
     {
       "added_at": "2022-08-18 15:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/4MkRP9wJ457pLUwL4RIEo4"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+        "name": "Watermelon",
+        "url": "https://open.spotify.com/album/1mt3jX9uZ0t7o6hWzeQBko"
       },
       "artists": [
         {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+      "duration_ms": 144950,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -459,22 +475,6 @@
       "duration_ms": 218528,
       "name": "D's Swing",
       "url": "https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
-        "name": "Watermelon",
-        "url": "https://open.spotify.com/album/1mt3jX9uZ0t7o6hWzeQBko"
-      },
-      "artists": [
-        {
-          "name": "ORANCHA",
-          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
-        }
-      ],
-      "duration_ms": 144950,
-      "name": "Watermelon",
-      "url": "https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -759,26 +759,6 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "city & river",
-        "url": "https://open.spotify.com/album/6TlnOJLl8TjizlinVJ2AcC"
-      },
-      "artists": [
-        {
-          "name": "Akio Watanabe",
-          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
-        },
-        {
-          "name": "n'sawa-saraca",
-          "url": "https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "city & river",
-      "url": "https://open.spotify.com/track/6gDsiaEOqQwrSEylMP1TGh"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
         "name": "Ukiyo",
         "url": "https://open.spotify.com/album/1ISCeVkUHvYiZrkVtAEVSk"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 124285,
       "name": "Ukiyo",
       "url": "https://open.spotify.com/track/5CCBENes8uXqqPcntd08Yf"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
+        "name": "city & river",
+        "url": "https://open.spotify.com/album/6TlnOJLl8TjizlinVJ2AcC"
+      },
+      "artists": [
+        {
+          "name": "Akio Watanabe",
+          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
+        },
+        {
+          "name": "n'sawa-saraca",
+          "url": "https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "city & river",
+      "url": "https://open.spotify.com/track/6gDsiaEOqQwrSEylMP1TGh"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
+        "name": "afternoon shower",
+        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
+      },
+      "artists": [
+        {
+          "name": "AOI",
+          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
+        }
+      ],
+      "duration_ms": 127595,
+      "name": "afternoon shower",
+      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
         "name": "Keyframe",
         "url": "https://open.spotify.com/album/2DVMwBgoDdVVvDdagyeEmk"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 120000,
       "name": "Keyframe",
       "url": "https://open.spotify.com/track/3zUPEfda1zsGBQ8ODoJozL"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
-        "name": "afternoon shower",
-        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
-      },
-      "artists": [
-        {
-          "name": "AOI",
-          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
-        }
-      ],
-      "duration_ms": 127595,
-      "name": "afternoon shower",
-      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok"
-      },
-      "artists": [
-        {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
-        },
-        {
-          "name": "Shou",
-          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
-        },
-        {
-          "name": "Idyllic",
-          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Sequences",
-      "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/2HLb7alHJmqkOWgmwMO67C"
       },
@@ -1175,6 +1151,30 @@
       "duration_ms": 114155,
       "name": "Nicely Nostalgic",
       "url": "https://open.spotify.com/track/5fFZlk4YnpPJkCHllhCXvq"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok"
+      },
+      "artists": [
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
+        },
+        {
+          "name": "Shou",
+          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
+        },
+        {
+          "name": "Idyllic",
+          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Sequences",
+      "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -1323,30 +1323,6 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "Andromeda",
-        "url": "https://open.spotify.com/album/0njXoQ7vLXMJIjx1b6Jlid"
-      },
-      "artists": [
-        {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
-        },
-        {
-          "name": "Whimsical",
-          "url": "https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G"
-        },
-        {
-          "name": "Shou",
-          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
-        }
-      ],
-      "duration_ms": 113766,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/5OGIq5No42hYcjWsVub19j"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
         "name": "Waterfall Dreams",
         "url": "https://open.spotify.com/album/2swHxeQeuQjjBpS7i0ANsA"
       },
@@ -1363,18 +1339,26 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "eyes talk",
-        "url": "https://open.spotify.com/album/6fBtpk19EUmNA7z1P7tSjS"
+        "name": "Sliding Doors",
+        "url": "https://open.spotify.com/album/0UeWO6sRVzCZba6R69kBRO"
       },
       "artists": [
         {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
+        },
+        {
+          "name": "Shou",
+          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
+        },
+        {
+          "name": "Idyllic",
+          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
         }
       ],
-      "duration_ms": 208000,
-      "name": "eyes talk",
-      "url": "https://open.spotify.com/track/6oEHeoiNFnLI3o53xOnlgS"
+      "duration_ms": 129229,
+      "name": "Sliding Doors",
+      "url": "https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -1395,6 +1379,22 @@
       "duration_ms": 213333,
       "name": "Memories of Furniture",
       "url": "https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
+        "name": "eyes talk",
+        "url": "https://open.spotify.com/album/6fBtpk19EUmNA7z1P7tSjS"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "eyes talk",
+      "url": "https://open.spotify.com/track/6oEHeoiNFnLI3o53xOnlgS"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -1463,6 +1463,30 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/0njXoQ7vLXMJIjx1b6Jlid"
+      },
+      "artists": [
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
+        },
+        {
+          "name": "Whimsical",
+          "url": "https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G"
+        },
+        {
+          "name": "Shou",
+          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
+        }
+      ],
+      "duration_ms": 113766,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/5OGIq5No42hYcjWsVub19j"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
         "name": "Libration",
         "url": "https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm"
       },
@@ -1519,46 +1543,6 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "Sliding Doors",
-        "url": "https://open.spotify.com/album/0UeWO6sRVzCZba6R69kBRO"
-      },
-      "artists": [
-        {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
-        },
-        {
-          "name": "Shou",
-          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
-        },
-        {
-          "name": "Idyllic",
-          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Sliding Doors",
-      "url": "https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
-        "name": "Lonely Girl",
-        "url": "https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO"
-      },
-      "artists": [
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        }
-      ],
-      "duration_ms": 147878,
-      "name": "Afternoon coffee",
-      "url": "https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
         "name": "Oak",
         "url": "https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 170370,
       "name": "Oak",
       "url": "https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
+        "name": "Lonely Girl",
+        "url": "https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "duration_ms": 147878,
+      "name": "Afternoon coffee",
+      "url": "https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -1615,6 +1615,30 @@
       "duration_ms": 84000,
       "name": "Samui",
       "url": "https://open.spotify.com/track/74bdadCpSCzqFBZ4XuQaCQ"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2B1rGInAAoirvnJ8Bou7zt"
+      },
+      "artists": [
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
+        },
+        {
+          "name": "Idyllic",
+          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
+        },
+        {
+          "name": "Shou",
+          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
+        }
+      ],
+      "duration_ms": 121379,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/4forOnJFDg4OZt8b7exjET"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -1679,30 +1703,6 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/2B1rGInAAoirvnJ8Bou7zt"
-      },
-      "artists": [
-        {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
-        },
-        {
-          "name": "Idyllic",
-          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
-        },
-        {
-          "name": "Shou",
-          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
-        }
-      ],
-      "duration_ms": 121379,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/4forOnJFDg4OZt8b7exjET"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
         "name": "Ria",
         "url": "https://open.spotify.com/album/6lNB21mNIhFWjo0RMDGi9s"
       },
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
+        "name": "82",
+        "url": "https://open.spotify.com/album/2APV4kqvbJkCrZGm11otCT"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Kondo",
+          "url": "https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS"
+        }
+      ],
+      "duration_ms": 107027,
+      "name": "morning bird",
+      "url": "https://open.spotify.com/track/3uePfJnilCndpwIOXXNF5J"
+    },
+    {
+      "added_at": "2022-08-18 15:00:00",
+      "album": {
         "name": "Ingenuity (The Noam Chomsky Music Project)",
         "url": "https://open.spotify.com/album/00BnzaMCnyitulh8rIEFWV"
       },
@@ -1779,18 +1795,18 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "82",
-        "url": "https://open.spotify.com/album/2APV4kqvbJkCrZGm11otCT"
+        "name": "New Adventure",
+        "url": "https://open.spotify.com/album/3o7NGZYi9oRV6aRnfbOBJg"
       },
       "artists": [
         {
-          "name": "Hiroyuki Kondo",
-          "url": "https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS"
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
         }
       ],
-      "duration_ms": 107027,
-      "name": "morning bird",
-      "url": "https://open.spotify.com/track/3uePfJnilCndpwIOXXNF5J"
+      "duration_ms": 147106,
+      "name": "New Adventure",
+      "url": "https://open.spotify.com/track/3Jftg8VUsBreRUuZdG1bTC"
     },
     {
       "added_at": "2022-08-18 15:00:00",
@@ -1831,38 +1847,22 @@
     {
       "added_at": "2022-08-18 15:00:00",
       "album": {
-        "name": "New Adventure",
-        "url": "https://open.spotify.com/album/3o7NGZYi9oRV6aRnfbOBJg"
+        "name": "meraki / cosmogyral",
+        "url": "https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6"
       },
       "artists": [
         {
-          "name": "gummy3000",
-          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
-        }
-      ],
-      "duration_ms": 147106,
-      "name": "New Adventure",
-      "url": "https://open.spotify.com/track/3Jftg8VUsBreRUuZdG1bTC"
-    },
-    {
-      "added_at": "2022-08-18 15:00:00",
-      "album": {
-        "name": "Mind Over Metaphors, Pt 2 - Instrumental",
-        "url": "https://open.spotify.com/album/4488Qu3weVUyJboVrOjeht"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "Kicktracks",
+          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
         },
         {
-          "name": "Chill Select",
-          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+          "name": "coldbrew",
+          "url": "https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK"
         }
       ],
-      "duration_ms": 191434,
-      "name": "Deep Inst",
-      "url": "https://open.spotify.com/track/0v9RBiou0hGEg4ZBRnz1Gy"
+      "duration_ms": 148125,
+      "name": "meraki",
+      "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
     }
   ],
   "unique_name": "Road Trip To Tokyo",

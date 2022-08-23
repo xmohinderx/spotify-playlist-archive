@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 115898,
+  "num_followers": 115891,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMxODI5MiwwMDAwMDAwMGM1OGI0M2I4OGQyYzdjOTYwNTJlMDhjYmEyMTBhMzlh",
+  "snapshot_id": "MTY0MTMxODI5MiwwMDAwMDAwMDI2ZDE4ZGU1MDYwOGFlYjk5YjRiN2JkYzIxMjliMTMw",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Christmas Together",
-        "url": "https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t"
-      },
-      "artists": [
-        {
-          "name": "The Tenors",
-          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "When We Are Together",
-      "url": "https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4e4Amgi25FhDCFIYhbyuEh"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 150697,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Christmas Together",
+        "url": "https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t"
+      },
+      "artists": [
+        {
+          "name": "The Tenors",
+          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "When We Are Together",
+      "url": "https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Hangover For Christmas",
-        "url": "https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC"
+        "name": "Our Christmas",
+        "url": "https://open.spotify.com/album/7L84oGpxhno7o6vEHteELQ"
       },
       "artists": [
         {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
         }
       ],
-      "duration_ms": 180929,
-      "name": "Hangover For Christmas",
-      "url": "https://open.spotify.com/track/5PibhDx6l13d6e2kiKOcfW"
+      "duration_ms": 218461,
+      "name": "Our Christmas",
+      "url": "https://open.spotify.com/track/5ywWYZ2CNhlt677JXlwLzD"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Our Christmas",
-        "url": "https://open.spotify.com/album/7L84oGpxhno7o6vEHteELQ"
+        "name": "Hangover For Christmas",
+        "url": "https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC"
       },
       "artists": [
         {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
         }
       ],
-      "duration_ms": 218461,
-      "name": "Our Christmas",
-      "url": "https://open.spotify.com/track/5ywWYZ2CNhlt677JXlwLzD"
+      "duration_ms": 180929,
+      "name": "Hangover For Christmas",
+      "url": "https://open.spotify.com/track/5PibhDx6l13d6e2kiKOcfW"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/1CB5xYKAAtIYSjJs2Cj4Dc"
+      },
+      "artists": [
+        {
+          "name": "Cassie Dasilva",
+          "url": "https://open.spotify.com/artist/4pbczoOebMX6nCbWP59fre"
+        }
+      ],
+      "duration_ms": 160807,
+      "name": "Season's Greetings",
+      "url": "https://open.spotify.com/track/6fehRpLfE67hLjbscwJ8Ya"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Baby It's Cold Outside",
         "url": "https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 157733,
       "name": "Baby It's Cold Outside",
       "url": "https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/1CB5xYKAAtIYSjJs2Cj4Dc"
-      },
-      "artists": [
-        {
-          "name": "Cassie Dasilva",
-          "url": "https://open.spotify.com/artist/4pbczoOebMX6nCbWP59fre"
-        }
-      ],
-      "duration_ms": 160807,
-      "name": "Season's Greetings",
-      "url": "https://open.spotify.com/track/6fehRpLfE67hLjbscwJ8Ya"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "A very chilly christmas",
-        "url": "https://open.spotify.com/album/4VmSYtqSfucZcMF2u5eDZK"
-      },
-      "artists": [
-        {
-          "name": "Chilly Gonzales",
-          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
-        },
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 249708,
-      "name": "The Banister Bough",
-      "url": "https://open.spotify.com/track/6AlGiqQMmOKEhUAopzUwFm"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "A Christmas To Remember",
         "url": "https://open.spotify.com/album/5GpxJmTGJTOUhXFh9EM3zU"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 210882,
       "name": "A Christmas To Remember",
       "url": "https://open.spotify.com/track/6hvBmhDifLf4D2c7un98hi"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "A very chilly christmas",
+        "url": "https://open.spotify.com/album/4VmSYtqSfucZcMF2u5eDZK"
+      },
+      "artists": [
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 249708,
+      "name": "The Banister Bough",
+      "url": "https://open.spotify.com/track/6AlGiqQMmOKEhUAopzUwFm"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "604 Records: The Second Noel",
-        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
-      },
-      "artists": [
-        {
-          "name": "Suzie McNeil",
-          "url": "https://open.spotify.com/artist/5YE5o5iV0OC0fSqBQmctF8"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "This is Christmas",
-      "url": "https://open.spotify.com/track/27EP5GDTRtx45fzJX8vSrp"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Happy Xmas (War is Over)",
         "url": "https://open.spotify.com/album/69XxAD0dxtlSJENkJDTYYA"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Santa Is A Good Ole Boy",
-        "url": "https://open.spotify.com/album/4MsP85sybDaWAadE2FwX13"
+        "name": "604 Records: The Second Noel",
+        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
       },
       "artists": [
         {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+          "name": "Suzie McNeil",
+          "url": "https://open.spotify.com/artist/5YE5o5iV0OC0fSqBQmctF8"
         }
       ],
-      "duration_ms": 201197,
-      "name": "Santa Is A Good Ole Boy",
-      "url": "https://open.spotify.com/track/4pIQoVY9KR0f5l9EQ8I6UQ"
+      "duration_ms": 232666,
+      "name": "This is Christmas",
+      "url": "https://open.spotify.com/track/27EP5GDTRtx45fzJX8vSrp"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Santa Is A Good Ole Boy",
+        "url": "https://open.spotify.com/album/4MsP85sybDaWAadE2FwX13"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "duration_ms": 201197,
+      "name": "Santa Is A Good Ole Boy",
+      "url": "https://open.spotify.com/track/4pIQoVY9KR0f5l9EQ8I6UQ"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Christmas Cheers",
         "url": "https://open.spotify.com/album/4lwmyxolzVTUv5nRbBoFFn"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Just Like A Shooting Star",
-        "url": "https://open.spotify.com/album/37GUrisnZNJPmJIEFH6ZMk"
-      },
-      "artists": [
-        {
-          "name": "Dani and Lizzy",
-          "url": "https://open.spotify.com/artist/5QruqADxUmpzY0bT56039j"
-        }
-      ],
-      "duration_ms": 194378,
-      "name": "Just Like A Shooting Star",
-      "url": "https://open.spotify.com/track/1jYDMBqaHAoIRTQ9vv2scf"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "River City Christmas",
         "url": "https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 219666,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Just Like A Shooting Star",
+        "url": "https://open.spotify.com/album/37GUrisnZNJPmJIEFH6ZMk"
+      },
+      "artists": [
+        {
+          "name": "Dani and Lizzy",
+          "url": "https://open.spotify.com/artist/5QruqADxUmpzY0bT56039j"
+        }
+      ],
+      "duration_ms": 194378,
+      "name": "Just Like A Shooting Star",
+      "url": "https://open.spotify.com/track/1jYDMBqaHAoIRTQ9vv2scf"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "I'll Be There Christmas Eve",
-        "url": "https://open.spotify.com/album/6lT8g9LU7RGGivYBYR8GvD"
-      },
-      "artists": [
-        {
-          "name": "Alan Doyle",
-          "url": "https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "I'll Be There Christmas Eve",
-      "url": "https://open.spotify.com/track/0hTCb2EhkJmaYoi4rWRQWb"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "My Little Snowflake",
         "url": "https://open.spotify.com/album/3kdqWoboAHEGeYfjOHBffO"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 254562,
       "name": "Love Is Christmas",
       "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "I'll Be There Christmas Eve",
+        "url": "https://open.spotify.com/album/6lT8g9LU7RGGivYBYR8GvD"
+      },
+      "artists": [
+        {
+          "name": "Alan Doyle",
+          "url": "https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "I'll Be There Christmas Eve",
+      "url": "https://open.spotify.com/track/0hTCb2EhkJmaYoi4rWRQWb"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "One More Day of Christmas / Do You Hear What I Hear",
-        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 162749,
-      "name": "One More Day of Christmas",
-      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Tinsel Town",
         "url": "https://open.spotify.com/album/5geLUoFqgN4GpktaxO7zUf"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 224974,
       "name": "Tinseltown",
       "url": "https://open.spotify.com/track/1L6bTqfeKD3VRyJyoteUc9"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "One More Day of Christmas / Do You Hear What I Hear",
+        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 162749,
+      "name": "One More Day of Christmas",
+      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Do You Hear What I Hear?",
-      "url": "https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "It Ain't Christmas",
         "url": "https://open.spotify.com/album/4mUaRHBDV2yzq9DB4TOVzf"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 182773,
       "name": "It Ain't Christmas",
       "url": "https://open.spotify.com/track/4sUSJHR1y85TY4SNhF8aRa"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Do You Hear What I Hear?",
+      "url": "https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4"
     },
     {
       "added_at": "2021-12-24 05:00:00",

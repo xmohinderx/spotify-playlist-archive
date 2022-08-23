@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1990s.
 
-693 songs - 2 day 1 hr 11 min - [published](https://open.spotify.com/playlist/1RUV9dGsKNifOhk3c3Xq5f)
+694 songs - 2 day 1 hr 15 min - [published](https://open.spotify.com/playlist/1RUV9dGsKNifOhk3c3Xq5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Gypsy Woman \- La da Dee La Da](https://open.spotify.com/track/1xIYx9XrkjOtmEUpBTP4GU) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [The Very Best of 90's, Vol\. 2 \(The Feeling Collection\)](https://open.spotify.com/album/6GMHov2SysCLGKzdOpZnA6) | 3:37 | 2019-08-01 | 2019-08-27 |
 | [Hallelujah](https://open.spotify.com/track/74X1epeRufHckhuX1KFD04) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 6:53 | 2019-07-17 | 2022-04-21 |
 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 4:01 | 2022-06-02 | 2022-07-25 |
-| [Have You Ever Really Loved A Woman?](https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [18 Til I Die](https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46) | 4:51 | 2020-12-22 |  |
+| [Have You Ever Really Loved A Woman?](https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [18 Til I Die](https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46) | 4:51 | 2020-12-22 | 2022-08-23 |
 | [Have You Ever? \- Radio Edit](https://open.spotify.com/track/1jisR33Bck5thSyt75iR2c) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [The Best of Brandy](https://open.spotify.com/album/2W8fU1wJz9sGDmwMBcQBRX) | 3:34 | 2019-05-30 | 2020-05-14 |
 | [He Wasn't Man Enough](https://open.spotify.com/track/4a8e7TuFTFFtCyDAFb4JCD) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Essential Toni Braxton](https://open.spotify.com/album/44YkbOX8QxlFuBtYec4hPG) | 4:22 | 2019-07-18 | 2022-04-21 |
 | [Heal the World](https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:24 | 2019-05-26\* | 2022-04-20 |
@@ -337,6 +337,7 @@
 | [Joyride](https://open.spotify.com/track/7CBy5lwwNECPDjsksQrxxB) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(2009 Version\)](https://open.spotify.com/album/5Q4kTNheoI86WVk1YQKt4x) | 4:23 | 2020-04-05 | 2022-07-29 |
 | [Juicy \- 2007 Remaster](https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 5:01 | 2019-07-21 | 2019-08-04 |
 | [Jump Around](https://open.spotify.com/track/2oTDOIAdsxPTE7yAp4YOcv) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House Of Pain](https://open.spotify.com/album/6aQe8pwmbv89DodASvyuSq) | 3:34 | 2019-07-21 | 2022-04-21 |
+| [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 | 2022-06-02 |  |
 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 | 2019-06-21 | 2019-08-05 |
 | [Just A Girl](https://open.spotify.com/track/1VA38sp5Jr6vWxgoIcnxKN) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC) | 3:28 | 2021-02-15 | 2022-06-15 |
 | [Just A Girl](https://open.spotify.com/track/36bOT34EdRNrNhCWMwNJKu) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/4Rvc82pV7HCKZyRHbLWCac) | 3:28 | 2019-06-24 | 2021-04-08 |

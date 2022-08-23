@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > Beautifully sad piano music
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,419 likes - 162 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,539 likes - 162 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

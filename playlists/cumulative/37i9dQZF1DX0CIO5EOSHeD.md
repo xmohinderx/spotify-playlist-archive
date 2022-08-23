@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Frankie Cosmos
 
-308 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+309 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [a single butterfly floating in the breeze](https://open.spotify.com/track/4uRBoLMKUMzpbY8uqxn73a) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ), [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz) | [a single butterfly floating in the breeze](https://open.spotify.com/album/7dZbPztaaasraH6mKHgI6j) | 3:00 | 2021-09-26 |  |
 | [after 8](https://open.spotify.com/track/2hBSZIMfpkSayib4FO684h) | [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [after 8](https://open.spotify.com/album/4UfOQR7q2GgbBH16kPyTuC) | 1:57 | 2021-12-09 |  |
 | [Against the Tide](https://open.spotify.com/track/1ogoEmFiYQx0HBipsEtEhw) | [Will Fox](https://open.spotify.com/artist/7c7k5fRzBsUmyyGuU5pj67) | [Which Way](https://open.spotify.com/album/31xFMtYFhZbn64kC5FecnK) | 3:58 | 2020-10-27\* | 2020-12-11 |
+| [AHH!!](https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d) | 1:36 | 2022-08-05 |  |
 | [AHH!!](https://open.spotify.com/track/0TaJeUTNwvJg0jihCwBefH) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/2L7RSE9OW0awXvlC5NJB83) | 1:36 | 2022-03-30 | 2022-08-05 |
 | [AHH!!](https://open.spotify.com/track/0zkbYZh26A3EjT7gmlsvSm) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/54sbhVXp3qt7cZZwNWFYHZ) | 1:36 | 2021-08-15 | 2022-07-29 |
 | [ALIEN LOVE CALL](https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:56 | 2021-09-04 |  |
@@ -138,7 +139,7 @@
 | [How Was Your Day?](https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 4:20 | 2021-04-29 |  |
 | [Human Condition](https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Human Condition](https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC) | 2:11 | 2021-08-12 |  |
 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 | 2020-10-30 |  |
-| [I Am the Car](https://open.spotify.com/track/3TH46ofR8DzkLYJUlVtrd9) | [Fake Fruit](https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9) | [I Am the Car](https://open.spotify.com/album/6RohLnKk8qFHbBeOrdjBPu) | 4:50 | 2021-08-11 |  |
+| [I Am the Car](https://open.spotify.com/track/3TH46ofR8DzkLYJUlVtrd9) | [Fake Fruit](https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9) | [I Am the Car](https://open.spotify.com/album/6RohLnKk8qFHbBeOrdjBPu) | 4:50 | 2021-08-11 | 2022-08-23 |
 | [I Can't Compete](https://open.spotify.com/track/6CX4FpJjP2MWbo1aAq1DVQ) | [Fetch Tiger](https://open.spotify.com/artist/2Oj1K4H1MalhAhBvuT48ts) | [I Can't Compete](https://open.spotify.com/album/7pDNl7cxFPBLpteN97eIMW) | 3:11 | 2020-10-27\* | 2022-07-22 |
 | [i don't need to understand](https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [i don't need to understand](https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3) | 2:26 | 2020-10-27\* | 2022-07-29 |
 | [I Don't Recognise You](https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 4:35 | 2022-03-30 |  |

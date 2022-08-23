@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Panic! At The Disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,000 likes - 102 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,008 likes - 102 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 28 | [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 |
 | 29 | [Hollywood Hillbilly](https://open.spotify.com/track/0Xr4W3sOlaLU2yZJ28lQRn) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Hollywood Hillbilly](https://open.spotify.com/album/4YSVTP1mfval5BPo6qygLf) | 2:35 |
 | 30 | [False Dichotomy](https://open.spotify.com/track/6Lg3XL27eplXv3TENt2Twa) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 3:39 |
-| 31 | [Moving On](https://open.spotify.com/track/6qLlzkFrpVuVPLjlfG1nnq) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/7oVDyTDWFtog2DSBhsQZiT) | 2:54 |
+| 31 | [Moving On](https://open.spotify.com/track/34lm6wXQ4jNghrhCkZsl1r) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [You're Not A Bad Person, it's Just A Bad World](https://open.spotify.com/album/2oEIqV2KfZEAtdVjyKs6HH) | 2:54 |
 | 32 | [StuckintheMiddle](https://open.spotify.com/track/41wOSqwwI5BYv0Eke9yZHv) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [StuckintheMiddle](https://open.spotify.com/album/2lVvUZidTV6naaGRy7E2WT) | 3:18 |
 | 33 | [Just To See You Smile](https://open.spotify.com/track/31fAlCZ3eVL0981LG2hOVi) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Just To See You Smile](https://open.spotify.com/album/58c9WlRAThSshA0zPJlv1x) | 4:59 |
 | 34 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 101 | [Never Said I Love You](https://open.spotify.com/track/1CTvIWh1mje3HTU3jMSCRf) | [Envy Of None](https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ) | [Envy of None](https://open.spotify.com/album/23Iuy4cXEOCOdmbnkb8ZIy) | 4:06 |
 | 102 | [Cage](https://open.spotify.com/track/0iRtJVpWxeij92O7dEeQJg) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Uncaged](https://open.spotify.com/album/6FIzbi06xxtrTfzjLOdG7p) | 3:03 |
 
-Snapshot ID: `MTY2MDk1MzIwMSwwMDAwMDAwMDE5NDg4OTRhMDA0NTI5OGY0NzM1NWRmZjkzMTc2YzI0`
+Snapshot ID: `MTY2MDk1MzIwMSwwMDAwMDAwMDU4NjU0ZWI4NGQwNDliOTBmMDUyMWU2ZGYzOGEyM2Y0`

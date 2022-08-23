@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 131357,
+  "num_followers": 131399,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY2NTY0NiwwMDAwMDAwMGUzOGM1MDJiYjRiZGYwZjFiYjIzZTQ0ZTM1Y2U4MTgz",
+  "snapshot_id": "MTY2MDY2NTY0NiwwMDAwMDAwMDkzNGVmOGI5MmRmOTZiNzY4ZDBjMDc4ZDU3OTQ4MzVk",
   "tracks": [
     {
       "added_at": "2022-08-16 16:00:46",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
-        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        },
-        {
-          "name": "Ashin Chen",
-          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "\u8aaa\u597d\u4e0d\u54ed",
-      "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
         "name": "FANTAS\u00cdA",
         "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 221386,
       "name": "En Guerra",
       "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "\u8aaa\u597d\u4e0d\u54ed",
+      "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
-        "name": "Lucid",
-        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 261238,
-      "name": "Still Dreaming",
-      "url": "https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
         "name": "Tutto questo sei tu",
         "url": "https://open.spotify.com/album/5UvTtLCCL6GIHn7Ewh6pQB"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 244666,
       "name": "Tutto questo sei tu",
       "url": "https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 261238,
+      "name": "Still Dreaming",
+      "url": "https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
-        "name": "Crying memories",
-        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
-      },
-      "artists": [
-        {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
-        }
-      ],
-      "duration_ms": 219913,
-      "name": "\u672a\u958b\u5c01\u306e\u604b",
-      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
         "name": "Right There",
         "url": "https://open.spotify.com/album/0y5z24xqxgZtoUuTwDchVB"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 239946,
       "name": "Right There",
       "url": "https://open.spotify.com/track/6pVbMjJCMwjSR2xRrqBdkJ"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
+        "name": "Crying memories",
+        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "duration_ms": 219913,
+      "name": "\u672a\u958b\u5c01\u306e\u604b",
+      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
+        "name": "Elyanna",
+        "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 62969,
+      "name": "Majnony Ana",
+      "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
         "name": "How Is This Love ?",
         "url": "https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 194951,
       "name": "How Is This Love ?",
       "url": "https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
-        "name": "Elyanna",
-        "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 62969,
-      "name": "Majnony Ana",
-      "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
-        "name": "Bitter Pill",
-        "url": "https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "The Book Of Love",
-      "url": "https://open.spotify.com/track/40gxMiWbTEZUa6c2bGlBJz"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
         "name": "Yumemiru Kodomo",
         "url": "https://open.spotify.com/album/3txMmUiBxYmkF81B1g8bqt"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 223410,
       "name": "Oyasumi Kamisama",
       "url": "https://open.spotify.com/track/2z0Ui7sLju5TXHiaUTTUpO"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
+        "name": "Bitter Pill",
+        "url": "https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "The Book Of Love",
+      "url": "https://open.spotify.com/track/40gxMiWbTEZUa6c2bGlBJz"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
-        "name": "DOCUMENTARY",
-        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
-      },
-      "artists": [
-        {
-          "name": "RUNG HYANG",
-          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
-        }
-      ],
-      "duration_ms": 249545,
-      "name": "Trapped",
-      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
         "name": "Madhaniyan (Live) - Single",
         "url": "https://open.spotify.com/album/4cTYoTEenq525lP6832Nq5"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 261593,
       "name": "Madhaniyan (Live)",
       "url": "https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
+        "name": "DOCUMENTARY",
+        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "duration_ms": 249545,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
-        "name": "How We Love",
-        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "How We Love",
-      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
         "name": "Ang Kwento Ng Pag-Ibig",
         "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 272288,
       "name": "Ang Kwento Ng Pag-Ibig",
       "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
+        "name": "How We Love",
+        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "How We Love",
+      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
-        "name": "Akustikhane",
-        "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
-      },
-      "artists": [
-        {
-          "name": "Kahraman Deniz",
-          "url": "https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X"
-        }
-      ],
-      "duration_ms": 331607,
-      "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
-      "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
         "name": "Simula",
         "url": "https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 265377,
       "name": "Simula",
       "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
+        "name": "Akustikhane",
+        "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
+      },
+      "artists": [
+        {
+          "name": "Kahraman Deniz",
+          "url": "https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X"
+        }
+      ],
+      "duration_ms": 331607,
+      "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
+      "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -2467,6 +2467,22 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
+        "name": "Amazing",
+        "url": "https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC"
+      },
+      "artists": [
+        {
+          "name": "Ramzi",
+          "url": "https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo"
+        }
+      ],
+      "duration_ms": 205520,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
         "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 (Ice Lyrical Version)",
         "url": "https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 223200,
       "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 - Ice Lyrical Version",
       "url": "https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
-        "name": "Amazing",
-        "url": "https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC"
-      },
-      "artists": [
-        {
-          "name": "Ramzi",
-          "url": "https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo"
-        }
-      ],
-      "duration_ms": 205520,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep"
     },
     {
       "added_at": "2022-08-16 16:00:46",

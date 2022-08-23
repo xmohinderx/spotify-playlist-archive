@@ -1,12 +1,12 @@
 {
   "description": "All of the best Celtic punk tracks. Cover: The Dreadnoughts",
-  "num_followers": 317963,
+  "num_followers": 318102,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYxNTU3MSwwMDAwMDAwMDhkMjYyMWZjZTIxMTZjMDdmZTU5Y2U2MmVhOTdhMGQ1",
+  "snapshot_id": "MTY0NzYxNTU3MSwwMDAwMDAwMGZhM2I2MDRhNTE5YTdiNDYxNzYxNmM3NDA0MTcyMTg3",
   "tracks": [
     {
       "added_at": "2022-03-18 14:59:31",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "25 Blarney Roses",
-        "url": "https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5"
-      },
-      "artists": [
-        {
-          "name": "Fiddler's Green",
-          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "Victor and His Demons",
-      "url": "https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "SIGNED and SEALED in BLOOD",
         "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
       },
@@ -167,22 +151,6 @@
       "duration_ms": 306520,
       "name": "Rose Tattoo",
       "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "Swagger",
-        "url": "https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN"
-      },
-      "artists": [
-        {
-          "name": "Flogging Molly",
-          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
-        }
-      ],
-      "duration_ms": 239653,
-      "name": "Devil's Dance Floor",
-      "url": "https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -215,6 +183,38 @@
       "duration_ms": 196666,
       "name": "Arrive On St. Patrick's Day",
       "url": "https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Swagger",
+        "url": "https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "Devil's Dance Floor",
+      "url": "https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "25 Blarney Roses",
+        "url": "https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Victor and His Demons",
+      "url": "https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Westwinds",
-        "url": "https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO"
-      },
-      "artists": [
-        {
-          "name": "The Real McKenzies",
-          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "The Tempest",
-      "url": "https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "The Meanest Of Times",
         "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
       },
@@ -299,34 +283,18 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "The Bollox",
-        "url": "https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP"
+        "name": "Westwinds",
+        "url": "https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO"
       },
       "artists": [
         {
-          "name": "The Bollox",
-          "url": "https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip"
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
         }
       ],
-      "duration_ms": 224732,
-      "name": "Tura Lu",
-      "url": "https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "Heyday (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1c6jduJZwn1XQMY5IHPigL"
-      },
-      "artists": [
-        {
-          "name": "Fiddler's Green",
-          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
-        }
-      ],
-      "duration_ms": 215613,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN"
+      "duration_ms": 248733,
+      "name": "The Tempest",
+      "url": "https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -343,6 +311,22 @@
       "duration_ms": 170146,
       "name": "Seven Deadly Sins",
       "url": "https://open.spotify.com/track/66jfY0gvhfylkoocCEyhv0"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "The Bollox",
+        "url": "https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP"
+      },
+      "artists": [
+        {
+          "name": "The Bollox",
+          "url": "https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip"
+        }
+      ],
+      "duration_ms": 224732,
+      "name": "Tura Lu",
+      "url": "https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -375,6 +359,22 @@
       "duration_ms": 275946,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/4FqRa2XKagduNRKn8qnmVc"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Heyday (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1c6jduJZwn1XQMY5IHPigL"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "duration_ms": 215613,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Saints Preserve Us",
-        "url": "https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc"
-      },
-      "artists": [
-        {
-          "name": "The Rumjacks",
-          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "The Foreman O'rourke",
-      "url": "https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "These Times Have Got Me Drinking / Tripping Up The Stairs",
         "url": "https://open.spotify.com/album/3OFS3PgFrKOz3cKfQ4S8Vx"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 253376,
       "name": "These Times Have Got Me Drinking / Tripping Up The Stairs",
       "url": "https://open.spotify.com/track/47AK0542IdPkD4pMbynDxg"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Saints Preserve Us",
+        "url": "https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "The Foreman O'rourke",
+      "url": "https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
-      },
-      "artists": [
-        {
-          "name": "Blaggards",
-          "url": "https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Botany Bay",
-      "url": "https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "Riot City Outlaws",
         "url": "https://open.spotify.com/album/6sJs55Ph5KQrQ8maznQSBw"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 188000,
       "name": "Join the Riot",
       "url": "https://open.spotify.com/track/0ywLxPIfElvmPjYTwVIryT"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
+      },
+      "artists": [
+        {
+          "name": "Blaggards",
+          "url": "https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Botany Bay",
+      "url": "https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Hestia",
-        "url": "https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o"
-      },
-      "artists": [
-        {
-          "name": "The Rumjacks",
-          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
-        }
-      ],
-      "duration_ms": 215975,
-      "name": "Sainted Millions",
-      "url": "https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "This Is Our Day",
         "url": "https://open.spotify.com/album/1ANmq1z1kNWjeetSl7V0rJ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 203826,
       "name": "This Is Our Day",
       "url": "https://open.spotify.com/track/0yqvEhELr8LocDUNJ0mtgr"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Hestia",
+        "url": "https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "duration_ms": 215975,
+      "name": "Sainted Millions",
+      "url": "https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC"
     },
     {
       "added_at": "2022-03-18 14:59:31",

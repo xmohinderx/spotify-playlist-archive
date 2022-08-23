@@ -1900,6 +1900,24 @@
     },
     {
       "album": {
+        "name": "Pa Ti Ya !",
+        "url": "https://open.spotify.com/album/5Heeh3NtSDw5Wq73kiorub"
+      },
+      "artists": [
+        {
+          "name": "Carlos Montesquieu",
+          "url": "https://open.spotify.com/artist/6aUadgc3VIt06htkgXEMIA"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163892,
+      "name": "Pa Ti Ya !",
+      "url": "https://open.spotify.com/track/24ZWoKxAmcG06vBfv2yARt"
+    },
+    {
+      "album": {
         "name": "PAP (Pendiente Al Paso)",
         "url": "https://open.spotify.com/album/57hEnKIuvKtgQHrGid8ubd"
       },

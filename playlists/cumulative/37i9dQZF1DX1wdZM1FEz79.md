@@ -2,7 +2,7 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover:  Sojeong\(소정\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover:  Park Jaewoo\(박재우\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
 409 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
 

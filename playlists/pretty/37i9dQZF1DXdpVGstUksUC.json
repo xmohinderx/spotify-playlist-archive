@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Clutch",
-  "num_followers": 447824,
+  "num_followers": 447944,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMGE2MjlhNzQ0MWVjYzRmNjIzZDg0OGE1NzRjYWFmMTlk",
+  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMDY3NzA5NDI0MDYwYzQwY2I3Yjk5NTQ3Y2MwNDFkNWE4",
   "tracks": [
     {
       "added_at": "2022-07-22 15:27:44",
@@ -187,6 +187,38 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
+        "name": "Sleep's Holy Mountain",
+        "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 343160,
+      "name": "Dragonaut",
+      "url": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Age of Winters",
+        "url": "https://open.spotify.com/album/3s4TEYpm0Nl7csTO3NCQ1I"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/5CocEvWeRX1VIMNAMwVdmk"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
         "name": "Queens of the Stone Age",
         "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
       },
@@ -219,54 +251,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Sleep's Holy Mountain",
-        "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 343160,
-      "name": "Dragonaut",
-      "url": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 422533,
-      "name": "Space Cadet",
-      "url": "https://open.spotify.com/track/3iYermCTDOt4YfeCqf3sIn"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "Age of Winters",
-        "url": "https://open.spotify.com/album/3s4TEYpm0Nl7csTO3NCQ1I"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/5CocEvWeRX1VIMNAMwVdmk"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
       },
@@ -283,22 +267,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Feel Good Hit Of The Summer",
-      "url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "Vols. 11 & 12",
         "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
       },
@@ -311,6 +279,22 @@
       "duration_ms": 104610,
       "name": "Crucifire",
       "url": "https://open.spotify.com/track/65pViNCJx3iVQBmi28FNqi"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 422533,
+      "name": "Space Cadet",
+      "url": "https://open.spotify.com/track/3iYermCTDOt4YfeCqf3sIn"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -343,6 +327,22 @@
       "duration_ms": 266920,
       "name": "Half Full Glass Of Wine",
       "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Feel Good Hit Of The Summer",
+      "url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Demon Cleaner",
-      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
       },
@@ -439,6 +423,38 @@
       "duration_ms": 267933,
       "name": "Negasonic Teenage Warhead",
       "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "Demon Cleaner",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Blast Tyrant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 325026,
+      "name": "The Regulator",
+      "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -475,38 +491,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Jalamanta",
-        "url": "https://open.spotify.com/album/1ryZqUZiY09DvOO7Fht9Lu"
-      },
-      "artists": [
-        {
-          "name": "Brant Bjork",
-          "url": "https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS"
-        }
-      ],
-      "duration_ms": 415466,
-      "name": "Automatic Fantastic",
-      "url": "https://open.spotify.com/track/3CNVaHOEJiktEnC3POAVN8"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "Blast Tyrant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 325026,
-      "name": "The Regulator",
-      "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "Dig. Sow. Love. Grow.",
         "url": "https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 190586,
       "name": "Get It",
       "url": "https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Jalamanta",
+        "url": "https://open.spotify.com/album/1ryZqUZiY09DvOO7Fht9Lu"
+      },
+      "artists": [
+        {
+          "name": "Brant Bjork",
+          "url": "https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS"
+        }
+      ],
+      "duration_ms": 415466,
+      "name": "Automatic Fantastic",
+      "url": "https://open.spotify.com/track/3CNVaHOEJiktEnC3POAVN8"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
+        "name": "...And the Circus Leaves Town",
+        "url": "https://open.spotify.com/album/6O5lhr0v3ci9fMEIK5g5a9"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 152040,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6QNJfu01hcQ8n8taGXXEqY"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
         "name": "Witch",
         "url": "https://open.spotify.com/album/5y2SajUtaw9VZjkuKlMsJQ"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 360800,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "...And the Circus Leaves Town",
-        "url": "https://open.spotify.com/album/6O5lhr0v3ci9fMEIK5g5a9"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 152040,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/6QNJfu01hcQ8n8taGXXEqY"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 320350,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "Through The Eyes Of Heathens",
         "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 320350,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
         "name": "In The Future",
         "url": "https://open.spotify.com/album/6bFa0guTmFUo2DKGiVts6R"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 362960,
       "name": "Wucan",
       "url": "https://open.spotify.com/track/4T74vnnnEEVZbgxgiIwSpV"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "Liquid",
-        "url": "https://open.spotify.com/album/2fVeY5ePxT4SQDvL18Sfye"
-      },
-      "artists": [
-        {
-          "name": "35007",
-          "url": "https://open.spotify.com/artist/09kNJ3LqHcfQZO5qixfmft"
-        }
-      ],
-      "duration_ms": 353240,
-      "name": "Evaporate",
-      "url": "https://open.spotify.com/track/3KmM9GEunX8IGyup6rne2z"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -939,18 +923,18 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Tempel",
-        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
+        "name": "Liquid",
+        "url": "https://open.spotify.com/album/2fVeY5ePxT4SQDvL18Sfye"
       },
       "artists": [
         {
-          "name": "Colour Haze",
-          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+          "name": "35007",
+          "url": "https://open.spotify.com/artist/09kNJ3LqHcfQZO5qixfmft"
         }
       ],
-      "duration_ms": 526293,
-      "name": "Aquamaria",
-      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
+      "duration_ms": 353240,
+      "name": "Evaporate",
+      "url": "https://open.spotify.com/track/3KmM9GEunX8IGyup6rne2z"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -971,18 +955,18 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Our Mother Electricity",
-        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
+        "name": "Tempel",
+        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
       },
       "artists": [
         {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+          "name": "Colour Haze",
+          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
         }
       ],
-      "duration_ms": 352073,
-      "name": "Elk.Blood.Heart",
-      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+      "duration_ms": 526293,
+      "name": "Aquamaria",
+      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -1019,6 +1003,38 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
+        "name": "Our Mother Electricity",
+        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 352073,
+      "name": "Elk.Blood.Heart",
+      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Super Van Vacation",
+        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
+      },
+      "artists": [
+        {
+          "name": "1000mods",
+          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
+        }
+      ],
+      "duration_ms": 529232,
+      "name": "Road to Burn",
+      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
         "name": "Let Me Down Hard",
         "url": "https://open.spotify.com/album/3u3ZjCcA8qJvYqw0fpMtEt"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 301973,
       "name": "Moonage Daydream",
       "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "Super Van Vacation",
-        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
-      },
-      "artists": [
-        {
-          "name": "1000mods",
-          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
-        }
-      ],
-      "duration_ms": 529232,
-      "name": "Road to Burn",
-      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Vols. 11 & 12",
-        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
-      },
-      "artists": [
-        {
-          "name": "Desert Sessions",
-          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
-        }
-      ],
-      "duration_ms": 333859,
-      "name": "Noses in Roses, Forever",
-      "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Back From The Abyss",
-        "url": "https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3"
+        "name": "Vols. 11 & 12",
+        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
       },
       "artists": [
         {
-          "name": "Orange Goblin",
-          "url": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+          "name": "Desert Sessions",
+          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
         }
       ],
-      "duration_ms": 378920,
-      "name": "Heavy Lies The Crown",
-      "url": "https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb"
+      "duration_ms": 333859,
+      "name": "Noses in Roses, Forever",
+      "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 339000,
       "name": "Rust",
       "url": "https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Back From The Abyss",
+        "url": "https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3"
+      },
+      "artists": [
+        {
+          "name": "Orange Goblin",
+          "url": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+        }
+      ],
+      "duration_ms": 378920,
+      "name": "Heavy Lies The Crown",
+      "url": "https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Buffalo Fuzz",
-        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Fuzz",
-          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
-        }
-      ],
-      "duration_ms": 325313,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "The Great American Death Rattle",
         "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 244720,
       "name": "The Great American Death Rattle",
       "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Buffalo Fuzz",
+        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Fuzz",
+          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
+        }
+      ],
+      "duration_ms": 325313,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "All You Can Eat!!",
-        "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
-      },
-      "artists": [
-        {
-          "name": "Left Lane Cruiser",
-          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Putain!",
-      "url": "https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "The Gold & Silver Sessions",
         "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 593386,
       "name": "Illusory Motion",
       "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "All You Can Eat!!",
+        "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
+      },
+      "artists": [
+        {
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Putain!",
+      "url": "https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr"
     },
     {
       "added_at": "2022-04-28 22:01:00",

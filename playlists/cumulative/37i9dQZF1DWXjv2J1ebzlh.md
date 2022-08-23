@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,578 songs - 4 day 10 hr 4 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,579 songs - 4 day 10 hr 7 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -792,7 +792,8 @@
 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 | 2022-06-09 | 2022-07-29 |
 | [Kilariô](https://open.spotify.com/track/3LKYxRZ16ZZ1daIkThMIME) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/1XGgFeL4PsPYqEghH7JXth) | 2:48 | 2022-07-27 |  |
 | [Kingdom of D'mt](https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Ka Rica\-Tar](https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg) | 3:15 | 2022-06-09 |  |
-| [Kiriê](https://open.spotify.com/track/1OtIwDGYPYHBYchvB8nVqr) | [Georgette](https://open.spotify.com/artist/4heKLPz5UlbvH60TeoHmrq) | [Levanta Poeira \(Compiled by Tahira\)](https://open.spotify.com/album/0ga9sjz9o89VHWp9opvzFh) | 3:30 | 2022-06-09 |  |
+| [Kiriê](https://open.spotify.com/track/3O2Y5GFEHVHBIEWpLQJYbJ) | [Georgette](https://open.spotify.com/artist/4heKLPz5UlbvH60TeoHmrq) | [A Moça do Mar](https://open.spotify.com/album/66ya4Ea3czVvUcIDCLOWrZ) | 3:25 | 2022-07-27 |  |
+| [Kiriê](https://open.spotify.com/track/1OtIwDGYPYHBYchvB8nVqr) | [Georgette](https://open.spotify.com/artist/4heKLPz5UlbvH60TeoHmrq) | [Levanta Poeira \(Compiled by Tahira\)](https://open.spotify.com/album/0ga9sjz9o89VHWp9opvzFh) | 3:30 | 2022-06-09 | 2022-08-23 |
 | [Kivelenge](https://open.spotify.com/track/5cTvI3bsIFVj39emCt8WhY) | [Kalambya Boys](https://open.spotify.com/artist/5aV369AHwkAPC58roE38hz) | [Kenya Special \(Selected East African Recordings From The 1970s & '80s\)](https://open.spotify.com/album/3RX07gHtGTYR7pQsFL6FKO) | 5:39 | 2022-07-27 |  |
 | [Kivelenge](https://open.spotify.com/track/62UxKiUVLz9wE8jbQXamhS) | [Kalambya Boys](https://open.spotify.com/artist/5aV369AHwkAPC58roE38hz) | [Kenya Special \(Selected East African Recordings From The 1970s & '80s\)](https://open.spotify.com/album/2tuCOddxyE5v60rI0bSrEV) | 5:39 | 2022-06-09 | 2022-07-29 |
 | [Kossa Kossa](https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 4:08 | 2022-07-27 |  |

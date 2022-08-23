@@ -4,7 +4,7 @@
 
 > The leading wave of Latin Electronic music\. Cover: Manuel Turizo, Fuego & Blessd.
 
-126 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
+127 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Nómada \(Viic Remix\)](https://open.spotify.com/track/4D3XtP9njTq47nrc0VXs08) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Nómada \(Viic Remix\)](https://open.spotify.com/album/3L19MWTcbsLDK5SZzrlFiP) | 2:25 | 2022-04-20 |  |
 | [O Sea, Sí te Quiero](https://open.spotify.com/track/6K2lcxfSvBzig47QhRi6JC) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [O Sea, Sí te Quiero](https://open.spotify.com/album/38skAP01EKMWYGldAMYJdC) | 3:28 | 2022-03-22 | 2022-04-29 |
 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 | 2022-04-20 |  |
+| [Pa Ti Ya !](https://open.spotify.com/track/24ZWoKxAmcG06vBfv2yARt) | [Carlos Montesquieu](https://open.spotify.com/artist/6aUadgc3VIt06htkgXEMIA) | [Pa Ti Ya !](https://open.spotify.com/album/5Heeh3NtSDw5Wq73kiorub) | 2:43 | 2022-08-22 |  |
 | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/track/7HqtpURyE5eUVY2mMImqTX) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/album/57hEnKIuvKtgQHrGid8ubd) | 2:44 | 2022-03-22 |  |
 | [Papi Chulo](https://open.spotify.com/track/7BDeacseVr0vdqL0ofjm5Y) | [Nickobella](https://open.spotify.com/artist/4Bhe7FjSfLHTbUPIm5EnQt), [BeatItPunk](https://open.spotify.com/artist/4NihfBDoszDjMjIM64uJPT) | [Papi Chulo](https://open.spotify.com/album/2i8RUL42wpI7hcMMnOUHhd) | 3:10 | 2022-03-22 | 2022-04-21 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2022-03-22 | 2022-05-14 |

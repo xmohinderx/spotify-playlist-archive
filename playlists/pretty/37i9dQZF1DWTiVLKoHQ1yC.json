@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 116721,
+  "num_followers": 116844,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDZhNjM5ODdkNjFkYmViNGNmNjAwYzIwMjIyMDk2NjIz",
+  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDNmMTM0OTFiOTFkODBkMzY5MDMwZjZkNDc5ZDVjZGQ5",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -355,26 +355,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Alkantara",
         "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 228387,
       "name": "Was It The Wind That Stirred The Trees",
       "url": "https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 253662,
-      "name": "Zeit & Raum",
-      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Floral Decor",
         "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 248000,
       "name": "Floral Decor",
       "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 253662,
+      "name": "Zeit & Raum",
+      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -599,6 +599,26 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Hope In Balance",
+        "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
+      },
+      "artists": [
+        {
+          "name": "S\u00e3o Miguel",
+          "url": "https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq"
+        },
+        {
+          "name": "Sebastian Reynoso",
+          "url": "https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX"
+        }
+      ],
+      "duration_ms": 278796,
+      "name": "Hope In Balance",
+      "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "No Judgement (K\u00f6lsch Remix Edit)",
         "url": "https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 257006,
       "name": "No Judgement - K\u00f6lsch Remix Edit",
       "url": "https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Hope In Balance",
-        "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
-      },
-      "artists": [
-        {
-          "name": "S\u00e3o Miguel",
-          "url": "https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq"
-        },
-        {
-          "name": "Sebastian Reynoso",
-          "url": "https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX"
-        }
-      ],
-      "duration_ms": 278796,
-      "name": "Hope In Balance",
-      "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Need You By My Side",
+        "url": "https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP"
+      },
+      "artists": [
+        {
+          "name": "Boy North",
+          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
+        }
+      ],
+      "duration_ms": 200874,
+      "name": "Need You By My Side",
+      "url": "https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 249677,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Need You By My Side",
-        "url": "https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP"
-      },
-      "artists": [
-        {
-          "name": "Boy North",
-          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
-        }
-      ],
-      "duration_ms": 200874,
-      "name": "Need You By My Side",
-      "url": "https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "High Priestess-Jupiter",
-        "url": "https://open.spotify.com/album/1Bg000mySnXr2Sk4OZ5j6G"
-      },
-      "artists": [
-        {
-          "name": "The Yard Woman",
-          "url": "https://open.spotify.com/artist/4vrLjXzQTMGCbrdAYtkpQE"
-        }
-      ],
-      "duration_ms": 380487,
-      "name": "High Priestess - Original Mix",
-      "url": "https://open.spotify.com/track/0fzsMh6uGsW3k8hZCOPidw"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
         "url": "https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 283628,
       "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
       "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "High Priestess-Jupiter",
+        "url": "https://open.spotify.com/album/1Bg000mySnXr2Sk4OZ5j6G"
+      },
+      "artists": [
+        {
+          "name": "The Yard Woman",
+          "url": "https://open.spotify.com/artist/4vrLjXzQTMGCbrdAYtkpQE"
+        }
+      ],
+      "duration_ms": 380487,
+      "name": "High Priestess - Original Mix",
+      "url": "https://open.spotify.com/track/0fzsMh6uGsW3k8hZCOPidw"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Far Away Connections",
-        "url": "https://open.spotify.com/album/34ZraMBlp39ntdY7IUnCfH"
-      },
-      "artists": [
-        {
-          "name": "J_ulio",
-          "url": "https://open.spotify.com/artist/1otLqs9oi7mIGYERdhM9b2"
-        }
-      ],
-      "duration_ms": 390369,
-      "name": "White Ghost",
-      "url": "https://open.spotify.com/track/6dcOMgnBkzfj4WZcNziVIq"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Lager Beers EP",
         "url": "https://open.spotify.com/album/5izcjEZQUvnhfeLWM67n72"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 253454,
       "name": "Heyoka",
       "url": "https://open.spotify.com/track/17cVuIl1z18wO2cZda3sxA"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Far Away Connections",
+        "url": "https://open.spotify.com/album/34ZraMBlp39ntdY7IUnCfH"
+      },
+      "artists": [
+        {
+          "name": "J_ulio",
+          "url": "https://open.spotify.com/artist/1otLqs9oi7mIGYERdhM9b2"
+        }
+      ],
+      "duration_ms": 390369,
+      "name": "White Ghost",
+      "url": "https://open.spotify.com/track/6dcOMgnBkzfj4WZcNziVIq"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA"
+      },
+      "artists": [
+        {
+          "name": "Jerome Price",
+          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+        }
+      ],
+      "duration_ms": 205117,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Froozen / Balloons",
         "url": "https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA"
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/3oRroUuznKXrAn0WU12Lh3"
       },
       "artists": [
         {
-          "name": "Jerome Price",
-          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
         }
       ],
-      "duration_ms": 205117,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY"
+      "duration_ms": 216960,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2CwIVyyRYa65Q0VKfgpRMy"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1239,22 +1255,6 @@
       "duration_ms": 432000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1ofk2QRTFucPmG4Xo90T9E"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/3oRroUuznKXrAn0WU12Lh3"
-      },
-      "artists": [
-        {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2CwIVyyRYa65Q0VKfgpRMy"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Nea Skioni",
-        "url": "https://open.spotify.com/album/6V3ktB7Qb1gTdGUCD49re0"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 398062,
-      "name": "Nea Skioni",
-      "url": "https://open.spotify.com/track/2CNG3J4eRJ4A7faeYcyB7K"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Masina",
         "url": "https://open.spotify.com/album/7km063WgmtcvuzwrguShQy"
       },
@@ -1419,22 +1403,18 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Under Your Spell (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/2wWHLHlI3xNVz9M5gOVi4U"
+        "name": "Nea Skioni",
+        "url": "https://open.spotify.com/album/6V3ktB7Qb1gTdGUCD49re0"
       },
       "artists": [
         {
-          "name": "Trutopia",
-          "url": "https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 219250,
-      "name": "Under Your Spell (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/58TtCuz5DDLeFZq0otJrMV"
+      "duration_ms": 398062,
+      "name": "Nea Skioni",
+      "url": "https://open.spotify.com/track/2CNG3J4eRJ4A7faeYcyB7K"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1451,6 +1431,26 @@
       "duration_ms": 203994,
       "name": "Calling For You",
       "url": "https://open.spotify.com/track/1TeVwlRyDjhUeXAe9D6jgA"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Under Your Spell (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/2wWHLHlI3xNVz9M5gOVi4U"
+      },
+      "artists": [
+        {
+          "name": "Trutopia",
+          "url": "https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Under Your Spell (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/58TtCuz5DDLeFZq0otJrMV"
     }
   ],
   "unique_name": "Melodic & Euphoric",

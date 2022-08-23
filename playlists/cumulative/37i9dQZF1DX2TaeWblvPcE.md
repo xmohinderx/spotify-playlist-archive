@@ -4,7 +4,7 @@
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-208 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/4XvItJuMKSSQUCN3RPO6uN)
+209 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/4XvItJuMKSSQUCN3RPO6uN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [ALWAYS \- Instrumental](https://open.spotify.com/track/02zIddEu5KR0z4riBzHJU4) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Descendants Of The Sun Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu) | 3:24 | 2022-03-28 |  |
 | [Answer](https://open.spotify.com/track/3DgHBtEuX3Tg8NrE0d2LEj) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb) | 3:53 | 2022-03-28 | 2022-07-28 |
 | [As If It's Your Last](https://open.spotify.com/track/5GHrRt43EsRmS3f4AcyeR0) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 2](https://open.spotify.com/album/6w9xkNdDMGzBHC4owKXFsk) | 3:46 | 2022-03-28 | 2022-07-29 |
-| [As If It's Your Last](https://open.spotify.com/track/7BoA9W76UhejAW80tkgmZn) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 2](https://open.spotify.com/album/3CT8vHhdIFY59dDSJaYVp6) | 3:46 | 2022-03-28 | 2022-08-19 |
+| [As If It's Your Last](https://open.spotify.com/track/7BoA9W76UhejAW80tkgmZn) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 2](https://open.spotify.com/album/3CT8vHhdIFY59dDSJaYVp6) | 3:46 | 2022-03-28 |  |
 | [BACK \- Piano Version](https://open.spotify.com/track/5JC9b58oRJM74tIO46MYmP) | [Moonlight Jazz Blue](https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI) | [K\-POP PIANO BEST](https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ) | 5:53 | 2022-03-28 | 2022-07-29 |
 | [Bad \- Instrumental](https://open.spotify.com/track/55XAUeBmZDTvABug4VjdrC) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Off The Record](https://open.spotify.com/album/4ugwx793BHJrbvkoLMZ0Ks) | 3:37 | 2022-03-28 |  |
 | [Bad Boy](https://open.spotify.com/track/16wCyZ1KSnaq1LrHUNiROZ) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of Red Velvet](https://open.spotify.com/album/1okhqEBDj97vIc6oyOx6pP) | 3:49 | 2022-03-28 | 2022-07-27 |
@@ -52,7 +52,8 @@
 | [Every second \- Instrumental](https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Record of Youth \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1) | 3:32 | 2022-03-28 |  |
 | [EYES , NOSE ,LIPS \- Piano Version](https://open.spotify.com/track/40as6OommszxopxIZ2KcaR) | [Moonlight Jazz Blue](https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI) | [K\-POP PIANO BEST](https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ) | 6:58 | 2022-03-28 |  |
 | [Fake Love](https://open.spotify.com/track/0Gtv8Azl1fHywcbRE6VjaE) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of BTS, Vol\. 2](https://open.spotify.com/album/5PNxrRnYzU3ZNnHo3D5Sh6) | 4:10 | 2022-03-28 | 2022-07-29 |
-| [Fake Love](https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of BTS, Vol\. 2](https://open.spotify.com/album/0eVZHRyaA8xrIhMCTcLA9w) | 4:10 | 2022-03-28 |  |
+| [Fake Love](https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of BTS, Vol\. 2](https://open.spotify.com/album/0eVZHRyaA8xrIhMCTcLA9w) | 4:10 | 2022-03-28 | 2022-08-23 |
+| [Fake Love](https://open.spotify.com/track/5OpnBorbH8fgEqPMH4c4mq) | [Felax](https://open.spotify.com/artist/5PeZ1m5v30OjVgzBz6PgHa) | [Filter](https://open.spotify.com/album/3uIdAVIa2N7VZuSq0h1FvY) | 4:12 | 2022-03-28 |  |
 | [Fancy](https://open.spotify.com/track/7kolIWsuyUg0n8hOO0Cve8) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of TWICE](https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr) | 3:43 | 2022-03-28 | 2022-07-27 |
 | [Farewell In Tears \- Instrumental](https://open.spotify.com/track/02DOkO4lh65UO51sCcgXaT) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt.5 \(Original Television SoundTrack\)](https://open.spotify.com/album/4Oi5IpgCPeyMdyuXAIssyJ) | 4:16 | 2022-03-28 | 2022-07-29 |
 | [Farewell In Tears \- Instrumental](https://open.spotify.com/track/3naRPYN8jxHrUppJ8qgE6v) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt\. 5 \(Original Television SoundTrack\)](https://open.spotify.com/album/3JNtbSAHXEcR67bAjVSscB) | 4:16 | 2022-03-28 |  |
@@ -137,7 +138,7 @@
 | [Not Clumsy Anymore \- Inst.](https://open.spotify.com/track/57BktxAPR5BpYECaBSS0P2) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Men Are Men \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6AIcz3ze4NsFdV98ZxgEix) | 4:16 | 2022-03-28 |  |
 | [Not Shy](https://open.spotify.com/track/4wDc2HHuGQvzmCV0CKC46S) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb) | 3:14 | 2022-03-28 | 2022-07-22 |
 | [OH NONONO \- Instrumental](https://open.spotify.com/track/1Ajq6IgAXUCiJZ8aXDkg8q) | [INYU](https://open.spotify.com/artist/3DGTTI7kUEwQUoBOykiS0t), [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed) | 3:01 | 2022-03-28 |  |
-| [ON](https://open.spotify.com/track/2THllYnsASl83sKklR02TI) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 4:23 | 2022-03-28 |  |
+| [ON](https://open.spotify.com/track/2THllYnsASl83sKklR02TI) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 4:23 | 2022-03-28 | 2022-08-23 |
 | [ON](https://open.spotify.com/track/5JsEDhBQQEJ0YoXBGHAQiB) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/78yzQkFOX1pS8yYwscON3E) | 4:23 | 2022-03-28 | 2022-07-22 |
 | [On The Ground](https://open.spotify.com/track/39uLdmwss8tqOFxWugxWKI) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [On The Ground](https://open.spotify.com/album/0Ad50oEGHFuVdElqU524Jk) | 3:01 | 2022-03-28 | 2022-07-25 |
 | [One Of These Nights](https://open.spotify.com/track/4Ce0YuZtxOcjTArxSeeQrD) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of Red Velvet](https://open.spotify.com/album/1okhqEBDj97vIc6oyOx6pP) | 4:33 | 2022-03-28 | 2022-07-29 |

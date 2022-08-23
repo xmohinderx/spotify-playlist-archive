@@ -4,7 +4,7 @@
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
 
-96 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
+97 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Summer Paradise \(feat\. Sean Paul\) \- Single Version](https://open.spotify.com/track/7sziTn5nHwrWf4K7gISaaU) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Get Your Heart On!](https://open.spotify.com/album/3Lg4pp9DVSsqcCA0IP82n6) | 3:54 | 2020-08-18 | 2022-07-29 |
 | [Surface Of The Sun](https://open.spotify.com/track/4pUf2KnXsjmZvZIeu9z42p) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Southern Air](https://open.spotify.com/album/3JsD7cWTptlNdbPYdk19hu) | 3:43 | 2020-08-18 | 2022-07-29 |
 | [Surface Of The Sun](https://open.spotify.com/track/7pP1lHIs7GzszcY1b1XECn) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Southern Air](https://open.spotify.com/album/1URxt8zdzFsihGRAv01cb0) | 3:43 | 2022-04-26 |  |
-| [Teenage Dirtbag](https://open.spotify.com/track/1w2b6f5Cgwy8ZmKdHUBSiW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/2c2nyMqKUqDvFmCubBKhuW) | 4:01 | 2020-08-18 |  |
+| [Teenage Dirtbag](https://open.spotify.com/track/1w2b6f5Cgwy8ZmKdHUBSiW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/2c2nyMqKUqDvFmCubBKhuW) | 4:01 | 2020-08-18 | 2022-08-23 |
+| [Teenage Dirtbag](https://open.spotify.com/track/7HYeWt67UHZELHCY0SrJ3E) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus \(Clean Version\)](https://open.spotify.com/album/4YiSn22yxCxPdwdx0EzE9H) | 4:01 | 2022-04-26 |  |
 | [The Anthem](https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 2:55 | 2020-08-18 |  |
 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 | 2020-08-18 |  |
 | [The Beach](https://open.spotify.com/track/3xOE5ciDmfQ0VY3WahE0eJ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:01 | 2022-04-26 |  |

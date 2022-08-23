@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 226351,
       "name": "As If It's Your Last",
       "url": "https://open.spotify.com/track/7BoA9W76UhejAW80tkgmZn"
@@ -823,10 +823,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 250224,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ"
+    },
+    {
+      "album": {
+        "name": "Filter",
+        "url": "https://open.spotify.com/album/3uIdAVIa2N7VZuSq0h1FvY"
+      },
+      "artists": [
+        {
+          "name": "Felax",
+          "url": "https://open.spotify.com/artist/5PeZ1m5v30OjVgzBz6PgHa"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252264,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5OpnBorbH8fgEqPMH4c4mq"
     },
     {
       "album": {
@@ -2373,7 +2391,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 263975,
       "name": "ON",
       "url": "https://open.spotify.com/track/2THllYnsASl83sKklR02TI"

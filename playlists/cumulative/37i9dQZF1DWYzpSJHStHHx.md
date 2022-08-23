@@ -4,7 +4,7 @@
 
 > Hang ten.
 
-197 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
+198 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [One Another](https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 2:46 | 2022-07-22 |  |
 | [Orchestration](https://open.spotify.com/track/0dt7HhWCKFlQgQuvVLVumN) | [Cape Weather](https://open.spotify.com/artist/7J1pOyIKObwsdVRzu4scnI) | [Orchestration](https://open.spotify.com/album/4g6zb75CpvvUmnqNQPsswt) | 3:05 | 2021-02-05 | 2022-06-30 |
 | [Origins](https://open.spotify.com/track/3UFa8A2LDIh5wlHeETguP4) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Young & Old](https://open.spotify.com/album/0iYMIu3RfxzlhcJ9oK6TvB) | 3:28 | 2021-02-05 | 2022-07-18 |
+| [Out In The Country](https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' With Wolves](https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl) | 2:54 | 2022-08-05 |  |
 | [Out in the Country](https://open.spotify.com/track/7FWhvGFDMGo3BkuSI00rOi) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' with Wolves](https://open.spotify.com/album/6ckLqYa0vRJF9QUkEiv59p) | 2:54 | 2021-02-05 | 2022-07-26 |
 | [Panama](https://open.spotify.com/track/6JfqUlQHtbdWDi5o7bp6qd) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/5mzRPtsvAzLBqyYtjH6gMs) | 3:18 | 2021-02-05 | 2022-07-29 |
 | [Panama](https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 3:18 | 2022-07-22 |  |
@@ -172,7 +173,7 @@
 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 2:45 | 2022-07-22 |  |
 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/3h1iu4HvBlLqRuft2kJEcr) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn) | 2:45 | 2021-02-05 | 2022-07-27 |
 | [Taking Up Space](https://open.spotify.com/track/7i28aaEucsoEeEfZLHZHb1) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/5pzZw40gzDD1WR5lKkvzqZ) | 3:37 | 2021-02-05 |  |
-| [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 | 2021-02-05 |  |
+| [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 | 2021-02-05 | 2022-08-23 |
 | [Tangerine](https://open.spotify.com/track/5rpI91rFVNaK9ACHBIvvFO) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Tangerine](https://open.spotify.com/album/2UBJeCouDLytZCKVnWve6F) | 3:14 | 2021-02-05 | 2022-07-29 |
 | [TERMS](https://open.spotify.com/track/57AUprrPPO1UpdwKsk80yg) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [HOT WHEELS / TERMS](https://open.spotify.com/album/3OORhTzZtBdNwSRixMdNGg) | 1:48 | 2021-11-19 | 2022-07-23 |
 | [That Thing](https://open.spotify.com/track/6IDcZXJXQzIfhkjlvVB3Gp) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/4tKnS9Q0lgN3i7SmXi4mGI) | 3:08 | 2021-02-05 | 2022-06-25 |

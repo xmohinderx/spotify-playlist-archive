@@ -1,12 +1,12 @@
 {
   "description": "Fresh R&B Latin tracks, solo lo nuevo del R&B Latino.  Cover: Destiny Rogers",
-  "num_followers": 99470,
+  "num_followers": 99500,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MjI5NCwwMDAwMDAwMDBiYjE2YjRhYjQwMWNkNDc0M2U1YzM3ZGI2ZDI0OGE4",
+  "snapshot_id": "MTY2MDc2MjI5NCwwMDAwMDAwMGFkZTVjY2MzN2FlZWMyMWI3OGZkNDc2ZjliYjJjMzFk",
   "tracks": [
     {
       "added_at": "2022-08-17 18:51:34",
@@ -147,18 +147,18 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+        "name": "Aj\u00e1",
+        "url": "https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
+      "duration_ms": 142453,
+      "name": "Aj\u00e1",
+      "url": "https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
-        "name": "Aj\u00e1",
-        "url": "https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4"
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
       },
       "artists": [
         {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 142453,
-      "name": "Aj\u00e1",
-      "url": "https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl"
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -631,6 +631,26 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
+        "name": "Conoce",
+        "url": "https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50"
+      },
+      "artists": [
+        {
+          "name": "Nohemy",
+          "url": "https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P"
+        },
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Conoce",
+      "url": "https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
         "name": "Girasol",
         "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
-        "name": "Conoce",
-        "url": "https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50"
-      },
-      "artists": [
-        {
-          "name": "Nohemy",
-          "url": "https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P"
-        },
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Conoce",
-      "url": "https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -951,26 +951,6 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
-        "name": "Direction",
-        "url": "https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM"
-      },
-      "artists": [
-        {
-          "name": "Aniya Teno",
-          "url": "https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW"
-        },
-        {
-          "name": "Ivan Orozco",
-          "url": "https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Direction",
-      "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
         "name": "Lluvia de Verano",
         "url": "https://open.spotify.com/album/0XmxvGBUc7KYEuhXBmv83R"
       },
@@ -991,6 +971,26 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
+        "name": "Direction",
+        "url": "https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM"
+      },
+      "artists": [
+        {
+          "name": "Aniya Teno",
+          "url": "https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW"
+        },
+        {
+          "name": "Ivan Orozco",
+          "url": "https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Direction",
+      "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
         "name": "el vuelo",
         "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },
@@ -1003,42 +1003,6 @@
       "duration_ms": 185293,
       "name": "el vuelo",
       "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
-        "name": "Sensualidad",
-        "url": "https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U"
-      },
-      "artists": [
-        {
-          "name": "Manu Manzo",
-          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
-        },
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 156477,
-      "name": "Sensualidad",
-      "url": "https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
-        "name": "Tu Boca",
-        "url": "https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2"
-      },
-      "artists": [
-        {
-          "name": "HAL\u00c9",
-          "url": "https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii"
-        }
-      ],
-      "duration_ms": 182281,
-      "name": "Tu Boca",
-      "url": "https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -1079,6 +1043,42 @@
       "duration_ms": 185520,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/0q1qAGERR453ach2swvAza"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
+        "name": "Tu Boca",
+        "url": "https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2"
+      },
+      "artists": [
+        {
+          "name": "HAL\u00c9",
+          "url": "https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii"
+        }
+      ],
+      "duration_ms": 182281,
+      "name": "Tu Boca",
+      "url": "https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
+        "name": "Sensualidad",
+        "url": "https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U"
+      },
+      "artists": [
+        {
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+        },
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 156477,
+      "name": "Sensualidad",
+      "url": "https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
-        "name": "Beso Picor",
-        "url": "https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR"
-      },
-      "artists": [
-        {
-          "name": "Itzel Noyz",
-          "url": "https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Beso Picor",
-      "url": "https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
         "name": "Ya Lo S\u00e9",
         "url": "https://open.spotify.com/album/6LeSg3ycOJT7k8QLpjZ6Ls"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 182447,
       "name": "Ya Lo S\u00e9",
       "url": "https://open.spotify.com/track/10L8N4aP9oCPaEbD0s2ain"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
+        "name": "Beso Picor",
+        "url": "https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR"
+      },
+      "artists": [
+        {
+          "name": "Itzel Noyz",
+          "url": "https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Beso Picor",
+      "url": "https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/1ZaahREmZ6yBDxWczMAUZZ"
+      },
+      "artists": [
+        {
+          "name": "Still Haze",
+          "url": "https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/3WX42WpUx33EhAnKnXk8vc"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
         "name": "Ojos Tristes (feat. Karin B.)",
         "url": "https://open.spotify.com/album/2pyPc0slNJ0OLxrN3owx9E"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 218218,
       "name": "Ojos Tristes (feat. Karin B.)",
       "url": "https://open.spotify.com/track/4LyInTQ5BgnQuDud2JAUdf"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/1ZaahREmZ6yBDxWczMAUZZ"
-      },
-      "artists": [
-        {
-          "name": "Still Haze",
-          "url": "https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/3WX42WpUx33EhAnKnXk8vc"
     },
     {
       "added_at": "2022-08-17 18:51:34",

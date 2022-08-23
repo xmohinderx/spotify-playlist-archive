@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain]
 
 > Enjoy the JTBC drama 'IDOL : The Coup,' OSTs in a different way with the lines in the drama\. \(JTBC 드라마 '아이돌'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,333 likes - 26 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,339 likes - 26 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain]
 | 13 | [You Are My Star](https://open.spotify.com/track/3SlCAv8ID8qwFcnpIkLDoA) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4UpRYvSfBeUTmNxiRMPbQA) | 4:14 |
 | 14 | [Pray](https://open.spotify.com/track/4HVoeNktpoi2L8MMhtPcLJ) | [GA EUN](https://open.spotify.com/artist/6wDE43fDrn0khXMlj5jJHJ) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4UpRYvSfBeUTmNxiRMPbQA) | 4:39 |
 | 15 | [A Better Day \(feat\. Ryu Sang Do\)](https://open.spotify.com/track/7g9Flkqh2FFxnIiPshw92Q) | [Sentimental Scenery](https://open.spotify.com/artist/3tAtWjLnNyZqmvfLx2dDJ7), [Ryu Sang Do](https://open.spotify.com/artist/278d4WkxWHWATbbYcUzEPq) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4UpRYvSfBeUTmNxiRMPbQA) | 3:17 |
-| 16 | [Again](https://open.spotify.com/track/4aDnJ9Brqanvy0lSBWzIZi) | [Hodge](https://open.spotify.com/artist/2oLMqtx0PbqCXJDXs5lRvA) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4UpRYvSfBeUTmNxiRMPbQA) | 4:12 |
+| 16 | [Again](https://open.spotify.com/track/4aDnJ9Brqanvy0lSBWzIZi) | [Hodge](https://open.spotify.com/artist/6kCDM3taYbKQFVrodiSUK7) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4UpRYvSfBeUTmNxiRMPbQA) | 4:12 |
 | 17 | [Sometimes](https://open.spotify.com/track/3LP8X7wPZqU1FmkCSoxsqM) | [HANI](https://open.spotify.com/artist/5quuAyAO2BQW2cjgfYPj0x) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1youS4Jo7aqdvzaxv3F80o) | 3:48 |
 | 18 | [Talking to the Moon](https://open.spotify.com/track/64VDNojMK1crDdPeXJdxLT) | [Kim Min Kyu](https://open.spotify.com/artist/5rGTIicetUCmoXHgpU7fKz), [Cho Jun Young](https://open.spotify.com/artist/6RhT6uaJNqzRej3y1Ha5SH) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1youS4Jo7aqdvzaxv3F80o) | 3:11 |
 | 19 | [Fly Up](https://open.spotify.com/track/6iUcZ7QAxt1C6gDd9CkGEk) | [Queen WA$ABII](https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1youS4Jo7aqdvzaxv3F80o) | 4:06 |

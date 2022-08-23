@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-497 songs - 1 day 2 hr 53 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+499 songs - 1 day 2 hr 58 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Ego](https://open.spotify.com/track/3pxKYqkCKgaGHVExK4BX2e) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Ego](https://open.spotify.com/album/37RerQlYpnNfS1tbXdri0O) | 3:29 | 2022-07-04 | 2022-07-12 |
 | [Empty](https://open.spotify.com/track/4UhouRuvJ0FeITfLT3GkxQ) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 4:12 | 2022-02-03 | 2022-04-06 |
 | [Faasley](https://open.spotify.com/track/0b3tzxd1B1lbHkfS82aS8m) | [Hazoor](https://open.spotify.com/artist/2w2KXsKbBqfvok1KfOxETo) | [Faasley](https://open.spotify.com/album/5YvfUWclwYzDXijLAkSmkn) | 3:24 | 2022-06-21 | 2022-07-06 |
+| [Fake Love](https://open.spotify.com/track/6QFfwKbcMI37vdK5NtnCGf) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/2lB3Md9Te4NO7FMVJJE3bh), [Amar Sandhu](https://open.spotify.com/artist/3nHrG4Rydw3kRroBjwwGhp), [Royal Maan](https://open.spotify.com/artist/6MHxMEFX5cIIcXFzpycr09) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:32 | 2022-08-22 |  |
 | [Fallin Star](https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Fallin Star](https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI) | 2:45 | 2022-06-28 |  |
 | [Faraar](https://open.spotify.com/track/3QDL9HK2SdbQK600Uoz6St) | [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Faraar](https://open.spotify.com/album/2nz8h9fxrMfl5ZLtWBLFzF) | 3:12 | 2021-12-02 | 2022-04-06 |
 | [Feel Safe](https://open.spotify.com/track/4m268S7e5ttPQQbFRM8Ah0) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Feel Safe](https://open.spotify.com/album/6ZR6Il83UooDKFMUqR7QnT) | 2:41 | 2022-08-19 |  |
@@ -279,6 +280,7 @@
 | [Mob N Love](https://open.spotify.com/track/0MZqrU16fpP4aE9INyYpD1) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mob N Love](https://open.spotify.com/album/4jcpVLu1qPJRCthsocyMgX) | 3:22 | 2022-04-18 | 2022-07-06 |
 | [Mohabbat](https://open.spotify.com/track/4I8CaRhT764muRFvwn51va) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON) | [Mohabbat](https://open.spotify.com/album/5ldjwPo10jYbk1Ck0YZeqa) | 4:02 | 2022-04-18 | 2022-07-06 |
 | [Moon](https://open.spotify.com/track/2DeCzK7tEThBtTSzoCtzkm) | [Mauji](https://open.spotify.com/artist/2HdSfvPp2Q6XCpK5AWEcV5), [Devilo](https://open.spotify.com/artist/7r3uOUXVYbcSb85Ijr7CKf) | [Moon](https://open.spotify.com/album/5z9iVEDVimEJ3zheVJjQyS) | 3:35 | 2022-01-19 | 2022-02-01 |
+| [Moon Rise](https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/2lB3Md9Te4NO7FMVJJE3bh) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:54 | 2022-08-22 |  |
 | [Moonlight](https://open.spotify.com/track/5FTcLPsQFX2NZaBQHbTz06) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Moonlight](https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ) | 3:18 | 2021-12-02 |  |
 | [Move On](https://open.spotify.com/track/2fb1j5P2TqUbvpa1u2gfc7) | [Joban Sandhu](https://open.spotify.com/artist/5IMKL9U2FzIB9fFn2kILAf) | [Move On](https://open.spotify.com/album/5UBI3j3IpxKulky5cSUo5k) | 2:13 | 2022-04-25 | 2022-05-11 |
 | [Mukhda Dikha Do](https://open.spotify.com/track/67mb14eIBHuHol8biNzESH) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR) | [Mukhda Dikha Do](https://open.spotify.com/album/5VLVzZXBmfojRzPiWr3yTi) | 3:06 | 2022-03-22 | 2022-04-06 |
@@ -299,7 +301,7 @@
 | [Nede Nede](https://open.spotify.com/track/4WcaWNHa7BoPvQ0tfe0jAo) | [Parry Mounn](https://open.spotify.com/artist/5wa8fZAQdhMMvKBu1iKGKM), [Ruhani Sharma](https://open.spotify.com/artist/2qREfft7wnYiWRLk8y6EDg) | [Nede Nede](https://open.spotify.com/album/6IKMeqAZrVaRM3jUk8YmfN) | 3:07 | 2022-02-15 | 2022-03-11 |
 | [Never Leave Me](https://open.spotify.com/track/3ADSlfZRKzY1C9mXue8YiD) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC) | [Hop & Folk](https://open.spotify.com/album/1Lvs59XUDFgvbeSAXMwtBs) | 4:04 | 2022-01-28 | 2022-02-01 |
 | [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/track/16u2ZrcDO9IoVqfZYmL9fh) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/album/2SquNcbWkgMseCOKsWQjO9) | 2:18 | 2022-06-23 | 2022-07-06 |
-| [Nikaah](https://open.spotify.com/track/7JWXRlnVMEyWc82ZpBusj8) | [Ipsitaa](https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil) | [Nikaah](https://open.spotify.com/album/1fmxvtOcXQGakPho77JrJe) | 2:22 | 2022-08-19 |  |
+| [Nikaah](https://open.spotify.com/track/7JWXRlnVMEyWc82ZpBusj8) | [Ipsitaa](https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Nikaah](https://open.spotify.com/album/1fmxvtOcXQGakPho77JrJe) | 2:22 | 2022-08-19 |  |
 | [Nikki Bindi](https://open.spotify.com/track/52thul1E3Oa72G8MMzcb6Z) | [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nikki Bindi](https://open.spotify.com/album/1AYMW3qoaAOlkakEPBNuJi) | 3:16 | 2022-05-04 | 2022-05-11 |
 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-05 |  |
 | [No Mercy](https://open.spotify.com/track/0wMf9gR8xLegCKApnsots8) | [Dhindsa](https://open.spotify.com/artist/0GsSwV1qiXcmeBspegMa2y) | [No Mercy](https://open.spotify.com/album/6cQhIgJWb3UdhyICOc4ynB) | 2:58 | 2022-05-20 | 2022-07-06 |

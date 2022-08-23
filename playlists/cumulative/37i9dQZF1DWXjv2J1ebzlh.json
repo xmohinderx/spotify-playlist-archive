@@ -14672,6 +14672,24 @@
     },
     {
       "album": {
+        "name": "A Mo\u00e7a do Mar",
+        "url": "https://open.spotify.com/album/66ya4Ea3czVvUcIDCLOWrZ"
+      },
+      "artists": [
+        {
+          "name": "Georgette",
+          "url": "https://open.spotify.com/artist/4heKLPz5UlbvH60TeoHmrq"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205630,
+      "name": "Kiri\u00ea",
+      "url": "https://open.spotify.com/track/3O2Y5GFEHVHBIEWpLQJYbJ"
+    },
+    {
+      "album": {
         "name": "Levanta Poeira (Compiled by Tahira)",
         "url": "https://open.spotify.com/album/0ga9sjz9o89VHWp9opvzFh"
       },
@@ -14683,7 +14701,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 210278,
       "name": "Kiri\u00ea",
       "url": "https://open.spotify.com/track/1OtIwDGYPYHBYchvB8nVqr"

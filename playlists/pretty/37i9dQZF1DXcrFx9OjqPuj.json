@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with some upbeat party jazz.",
-  "num_followers": 10833,
+  "num_followers": 10862,
   "original_name": "Party Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDczMDMwOSwwMDAwMDAwMDRkNGNjMTFkZGVhZjQ0MDkyMjgxYTczYmY4Mjk0YjRl",
+  "snapshot_id": "MTY2MDczMDMwOSwwMDAwMDAwMDM5ZWEzZmUyNGNmNDI5MzIzODVhOGYyMDM2ZWNhNWMx",
   "tracks": [
     {
       "added_at": "2022-08-17 09:58:29",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
+        "name": "The Turnaround",
+        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 404213,
+      "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
         "name": "Star Bright",
         "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 487720,
       "name": "Groovesville",
       "url": "https://open.spotify.com/track/6lUzqx7U1Ll4ddwqFwL3lK"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
-        "name": "Hootin' 'N Tootin'",
-        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
-      },
-      "artists": [
-        {
-          "name": "Fred Jackson",
-          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Dippin' In The Bag",
-      "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1031,38 +1031,18 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
-        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
+        "name": "Hootin' 'N Tootin'",
+        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
       },
       "artists": [
         {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Fred Jackson",
+          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
         }
       ],
-      "duration_ms": 530840,
-      "name": "Blues Up And Down",
-      "url": "https://open.spotify.com/track/22IK0azgagib3S51e9AIOF"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
-        "name": "The Turnaround",
-        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 404213,
-      "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
+      "duration_ms": 239733,
+      "name": "Dippin' In The Bag",
+      "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1079,6 +1059,26 @@
       "duration_ms": 333306,
       "name": "Ca-Lee-So",
       "url": "https://open.spotify.com/track/4NmKPXHwoW2GTWUwisRZwf"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
+        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 530840,
+      "name": "Blues Up And Down",
+      "url": "https://open.spotify.com/track/22IK0azgagib3S51e9AIOF"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "Blues March",
-      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Pre-Bird",
         "url": "https://open.spotify.com/album/3oTtQ6wQHUZwvHObLuh8sq"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 219066,
       "name": "Take The \"A\" Train",
       "url": "https://open.spotify.com/track/72AW6z1g3zGKcCOjQzToV9"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Blues March",
+      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "The New Boss Guitar",
-        "url": "https://open.spotify.com/album/2QXUodUhkZtTbIrN4FNmB5"
+        "name": "Jubilee Shout!!!",
+        "url": "https://open.spotify.com/album/2CGSc6ZbHcGWjWYl07KCd4"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
         }
       ],
-      "duration_ms": 277173,
-      "name": "The Sweet Alice Blues",
-      "url": "https://open.spotify.com/track/5ln0JF17xZud7mxqoFOrY9"
+      "duration_ms": 332386,
+      "name": "You Said It",
+      "url": "https://open.spotify.com/track/4W38vgh0XfXD19ZCfB9t6J"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1451,6 +1451,22 @@
       "duration_ms": 376933,
       "name": "Jodie's Cha Cha",
       "url": "https://open.spotify.com/track/4ZVApZkVB7D0hYWfrGHXeb"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "The New Boss Guitar",
+        "url": "https://open.spotify.com/album/2QXUodUhkZtTbIrN4FNmB5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "The Sweet Alice Blues",
+      "url": "https://open.spotify.com/track/5ln0JF17xZud7mxqoFOrY9"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1519,6 +1535,38 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 347133,
+      "name": "Sneaky Pete",
+      "url": "https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "A Jazz Message",
+        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey Quartet",
+          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
+        }
+      ],
+      "duration_ms": 306533,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/4WfkGjSphCIt0bGUUqWdrX"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
         "name": "Plus Four [Rudy Van Gelder edition]",
         "url": "https://open.spotify.com/album/2Sar8iOTRh2AazvaCzHC6O"
       },
@@ -1551,34 +1599,18 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Jubilee Shout!!!",
-        "url": "https://open.spotify.com/album/2CGSc6ZbHcGWjWYl07KCd4"
+        "name": "Swing, Swang, Swingin'",
+        "url": "https://open.spotify.com/album/6vOTWp8UJUq2R6qNDrhuCk"
       },
       "artists": [
         {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 332386,
-      "name": "You Said It",
-      "url": "https://open.spotify.com/track/4W38vgh0XfXD19ZCfB9t6J"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
-        "name": "A Jazz Message",
-        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey Quartet",
-          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
-        }
-      ],
-      "duration_ms": 306533,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/4WfkGjSphCIt0bGUUqWdrX"
+      "duration_ms": 291533,
+      "name": "Let's Face The Music And Dance - Remastered",
+      "url": "https://open.spotify.com/track/0dtTW39z3xmjSo9JHBQuO9"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1599,18 +1631,26 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Swing, Swang, Swingin'",
-        "url": "https://open.spotify.com/album/6vOTWp8UJUq2R6qNDrhuCk"
+        "name": "Hank Mobley With Donald Byrd And Lee Morgan",
+        "url": "https://open.spotify.com/album/5GWLy8xqPwGP3VPZFNqNuT"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        },
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 291533,
-      "name": "Let's Face The Music And Dance - Remastered",
-      "url": "https://open.spotify.com/track/0dtTW39z3xmjSo9JHBQuO9"
+      "duration_ms": 682866,
+      "name": "Barrel Of Funk",
+      "url": "https://open.spotify.com/track/6VNKBFvnIP1BJdXSGnYpKP"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1627,22 +1667,6 @@
       "duration_ms": 275520,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/6DaExxnrF56oEF0qHR3Izl"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
-        "name": "Sonic Boom",
-        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 347133,
-      "name": "Sneaky Pete",
-      "url": "https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1695,22 +1719,6 @@
       "duration_ms": 411733,
       "name": "Ow!",
       "url": "https://open.spotify.com/track/1Ju0Tsue7GTzlcx0y2kN2C"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
-        "name": "The Congregation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 387653,
-      "name": "Latin Quarter - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/7L83qErlLHeb6n1CR9lqXk"
     },
     {
       "added_at": "2022-08-17 09:58:29",

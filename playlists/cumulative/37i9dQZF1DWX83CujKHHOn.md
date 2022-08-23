@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-310 songs - 19 hr 23 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
+311 songs - 19 hr 28 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 | 2022-07-08 |  |
 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 | 2021-12-06 | 2022-07-29 |
 | [porcelain](https://open.spotify.com/track/4lHWJzg0CnzwquqwxS9sIl) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [porcelain](https://open.spotify.com/album/5BKzNyJqPyDU4yaYznnFHv) | 4:31 | 2021-12-06 | 2022-07-24 |
+| [Possibility](https://open.spotify.com/track/39Odj4vLKRarATkCA31gaW) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 5:06 | 2022-08-22 |  |
 | [Primrose Hill \(Notes from California\)](https://open.spotify.com/track/0oZFVDUOAOYMIkUqEEZlF4) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Primrose Hill \(Notes from California\)](https://open.spotify.com/album/6Iz5YDwG3qxhS3nwKMLrOq) | 3:28 | 2022-01-05 | 2022-04-20 |
 | [Real Friends](https://open.spotify.com/track/3iq9nhbI8fcnNamxMft1uv) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:34 | 2021-12-06 |  |
 | [Rest](https://open.spotify.com/track/2CP65mk8k8ulcfuug2dBqS) | [Aman Sheriff](https://open.spotify.com/artist/08oP24rgu9r57OOMjxheUn) | [Rest](https://open.spotify.com/album/4Nivnr3rPRqHNxOhGi5JrA) | 3:26 | 2022-07-11 | 2022-07-29 |
@@ -260,7 +261,7 @@
 | [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 | 2022-08-05 |  |
 | [Tears In My Eyes](https://open.spotify.com/track/0qMcA7TVuj0vl9RoErnsSl) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [People Like Us \(Scottish Edition\)](https://open.spotify.com/album/4GlYuTyQRAZ0kGwwAZYppU) | 3:50 | 2021-12-06 | 2022-07-29 |
 | [Tee Shirt \- Soundtrack Version](https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Tee Shirt](https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD) | 2:39 | 2021-12-06 |  |
-| [Tell Me It's Over](https://open.spotify.com/track/0aeZzfSoZAcETjba8MCvco) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:08 | 2022-07-08 |  |
+| [Tell Me It's Over](https://open.spotify.com/track/0aeZzfSoZAcETjba8MCvco) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:08 | 2022-07-08 | 2022-08-23 |
 | [Tell Me It's Over](https://open.spotify.com/track/7IilckkBVWxViiyT7hY8v5) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Tell Me It's Over](https://open.spotify.com/album/1lqZkRaUXtz1DWIjH3cIW1) | 3:08 | 2021-12-06 | 2022-07-28 |
 | [Thank You for the Broken Heart](https://open.spotify.com/track/1aBO5KPwxqLESNTTJBR6VP) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:51 | 2021-12-06 |  |
 | [That's Why You Go Away](https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Strange Foreign Beauty](https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO) | 4:13 | 2022-05-09 |  |

@@ -2,9 +2,9 @@
 
 ### [Rap Acústico](https://open.spotify.com/playlist/37i9dQZF1DWTf69iQOGkD2)
 
-> Sinta o flow do rap em estilo acústico ou romântico\. Foto: 3030
+> Sinta o flow do rap em estilo acústico ou romântico\. Foto: Froid
 
-120 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
+121 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Amor Incomum](https://open.spotify.com/track/0l2i5kPH1aIFVjofoBD8Yv) | [Agriff](https://open.spotify.com/artist/6Ul0pkOz1OTOLnvI5et5nn) | [Amor Incomum](https://open.spotify.com/album/3T6BU4nayV1x2LbtgpKzID) | 4:10 | 2022-03-25 | 2022-04-29 |
 | [Apê 1001](https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apê 1001](https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV) | 2:51 | 2022-03-18 |  |
 | [Até o Final](https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Caíque](https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Até o Final](https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5) | 2:24 | 2022-03-18 |  |
+| [Avec Moi](https://open.spotify.com/track/0KzCv7uORMLt5eagbi37Fu) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Gado](https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak) | 3:22 | 2022-08-22 |  |
 | [Berenice \(Papasessions \#6\) \[feat\. CALIFFA\]](https://open.spotify.com/track/58TLpLev8A4GFCUizxpF7T) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Berenice \(Papasessions \#6\) \[feat\. CALIFFA\]](https://open.spotify.com/album/1titgMf8Q4XDYVsG705KMU) | 5:01 | 2022-03-18 |  |
 | [Buzz Lightyear](https://open.spotify.com/track/4svcCNuxugwP6wrSnoMIfB) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Buzz Lightyear](https://open.spotify.com/album/5dUK91bxsgiaYoXDktf6IO) | 4:13 | 2022-03-18 |  |
 | [Cansei de Tentar](https://open.spotify.com/track/1uhfxNJgXIKcKzaj6m6lMT) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [RESENHV](https://open.spotify.com/artist/7qvo2lIj7T6DUuIkTzs7Vm) | [Cansei de Tentar](https://open.spotify.com/album/7LTMaHK3OTsSCkPBfbWMXe) | 3:42 | 2022-04-15 | 2022-04-29 |
@@ -48,7 +49,7 @@
 | [Expectativas](https://open.spotify.com/track/0EvH4HVrhZnvAfyctBSGrk) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Expectativas](https://open.spotify.com/album/13xuKcNArawB92zGJibUKh) | 3:21 | 2022-07-01 |  |
 | [Flores](https://open.spotify.com/track/293RaVNeAHU4fpDCd873wX) | [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8) | [Flores](https://open.spotify.com/album/5hZTCAtb2Whkb1hQzyFtr0) | 3:39 | 2022-07-01 |  |
 | [Foda Que Ela É Linda \- Ao Vivo](https://open.spotify.com/track/0FqxX09KVZLIPDKv5kjA1e) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0q3IIJ0dg3D6PnVrVTcPTx) | 3:03 | 2022-03-18 |  |
-| [Framboesa](https://open.spotify.com/track/1H59wxH6UVpIxWZ0XWi4op) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Framboesa](https://open.spotify.com/album/38yNZ6bgEWDTHdqKKsDCca) | 2:27 | 2022-07-29 |  |
+| [Framboesa](https://open.spotify.com/track/1H59wxH6UVpIxWZ0XWi4op) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Framboesa](https://open.spotify.com/album/38yNZ6bgEWDTHdqKKsDCca) | 2:27 | 2022-07-29 | 2022-08-23 |
 | [Fui Eu](https://open.spotify.com/track/1fleF67U8sTqrCgbt58ujl) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [RESENHV](https://open.spotify.com/artist/7qvo2lIj7T6DUuIkTzs7Vm) | [Fui Eu](https://open.spotify.com/album/3qwj0K7CI3VH6j27jOukK4) | 1:41 | 2022-05-06 | 2022-05-28 |
 | [Geribá \(Papasessions \#8\) \[feat\. OIK\]](https://open.spotify.com/track/5b8A3MH3e2gD8RFEcNggAs) | [Papasessions](https://open.spotify.com/artist/1bzpK4GDoDGGXX9eqIkwFs), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Geribá \(Papasessions \#8\) \[feat\. OIK\]](https://open.spotify.com/album/7AqekLGMeEV8MnMmpeq7h1) | 3:42 | 2022-03-18 |  |
 | [Já Vou](https://open.spotify.com/track/6k64bJBuP0ae5jFcHn8DD7) | [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Já Vou](https://open.spotify.com/album/0wvlDy1UI32sSZ8xullKwo) | 2:57 | 2022-07-15 |  |

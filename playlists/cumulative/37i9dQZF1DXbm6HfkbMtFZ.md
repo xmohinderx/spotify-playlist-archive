@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-420 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+422 songs - 1 day 1 hr 41 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Changed](https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Changed](https://open.spotify.com/album/1PyVw5kgM8EZGH0BABIvTK) | 3:50 | 2022-03-30 | 2022-04-21 |
 | [Changes, Pts\. 1 & 2](https://open.spotify.com/track/0LvIzl2lUEHABTypnv32im) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Changes](https://open.spotify.com/album/6nVbEZ2KiU54mA2ZAKwR9T) | 6:30 | 2021-12-16 | 2022-07-29 |
 | [Changes, Pts\. 1 & 2](https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Changes](https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ) | 6:30 | 2022-07-26 |  |
+| [Charley's Girl](https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Coney Island Baby](https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx) | 2:39 | 2022-08-19 |  |
 | [Cherry Jerry Citrus](https://open.spotify.com/track/4NH4uwPks7iwmmylbgAE25) | [Hey Cowboy!](https://open.spotify.com/artist/1m2tY2Q32cp51czUo7SxyZ) | [Get in My Fanny Pack and Let's Go](https://open.spotify.com/album/6ZEYAnIq5z89j5TTczUPH7) | 3:09 | 2022-01-07 | 2022-06-09 |
 | [Chess \- Opium Factory Remix](https://open.spotify.com/track/3NZEdsk7NgbwTpIVmwNdvb) | [Joon Moon](https://open.spotify.com/artist/0SYUPmAqWcyik557LEq2Z0) | [Chess EP](https://open.spotify.com/album/3mHiKTsOCWP6lOmYF6fzQH) | 3:03 | 2021-12-16 | 2022-06-24 |
 | [Circles](https://open.spotify.com/track/6ZoXt2on0ub2ORSTWnJCjs) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 3:18 | 2021-12-16 | 2022-06-28 |
@@ -166,6 +167,7 @@
 | [I Don't Care](https://open.spotify.com/track/2e1j5sMegdfPy1PkE48GmI) | [Final Solution](https://open.spotify.com/artist/1D6tXJA1oytyecOREfZuSj) | [Brotherman: OST by The Final Solution](https://open.spotify.com/album/61yGaQjQVWNtk7NRYndFXf) | 4:17 | 2022-03-30 | 2022-04-18 |
 | [I Don't Wanna Lose](https://open.spotify.com/track/1o3QC3SiP40iupA6hzx4EH) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/1TDcYaDlJPVDJWfNjS8LM9) | 3:20 | 2022-02-23 | 2022-04-28 |
 | [I Love Hot Nights](https://open.spotify.com/track/7H3cCK7jEp67pDf7fnJGwq) | [Jonathan Richman](https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5), [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [Modern Lovers '88](https://open.spotify.com/album/68YRhOJHjb0wXAJYvdWEVO) | 2:57 | 2022-03-30 | 2022-04-21 |
+| [I Might Be](https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [You and Me and Everything](https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth) | 3:36 | 2022-08-19 |  |
 | [I Need a Win](https://open.spotify.com/track/3SoLwWljedAQ1gRNFlmmzu) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [I Need a Win](https://open.spotify.com/album/5JpGdKzgcd0mpViRp7ebPY) | 4:40 | 2021-12-16 | 2022-07-29 |
 | [I Root](https://open.spotify.com/track/0fjXpqcrqVYgDuMjjp9wYX) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Some Twist](https://open.spotify.com/album/3OEocibN8AMmDJ88cX8YHZ) | 2:18 | 2022-04-19 | 2022-07-29 |
 | [I Tried to Tell Myself](https://open.spotify.com/track/3gVz8BKr8qaGvBs0mnpGi1) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [The Hi Records Singles Collection](https://open.spotify.com/album/6gFbwjfZlO5NKSFD5THsSJ) | 3:15 | 2022-01-07 | 2022-07-29 |
@@ -257,7 +259,7 @@
 | [Next To You](https://open.spotify.com/track/6tw9QhbPUAfvbtAi2bDvnQ) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 3:35 | 2022-03-30 | 2022-04-16 |
 | [No Better](https://open.spotify.com/track/0DXlHWi8pqB5R2gfzlZx2i) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 4:02 | 2022-03-30 | 2022-04-20 |
 | [No Ending](https://open.spotify.com/track/1wId84Uc14XIEIKfcSYAE0) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/0XoSMRAH1gvIb0c3n5jLET) | 3:53 | 2021-12-16 | 2022-07-28 |
-| [No Ending](https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk) | 3:53 | 2022-07-26 |  |
+| [No Ending](https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk) | 3:53 | 2022-07-26 | 2022-08-23 |
 | [Northern Lights](https://open.spotify.com/track/3VT2WolplCglmbxCdiFy5A) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Northern Lights](https://open.spotify.com/album/0RvAK6H7VXlTrgoUJ6HlSI) | 4:15 | 2022-03-30 | 2022-04-20 |
 | [Nothing I'd Rather Be \(Than Your Weakness\)](https://open.spotify.com/track/3owHLzUSmcAhtCFT8WZfZb) | [Marva Whitney](https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h) | [Eccentric Soul: The Forte Label](https://open.spotify.com/album/2odsUYbi8bSi0jkjeAQ4mC) | 3:11 | 2022-03-30 | 2022-04-21 |
 | [Now That Everything's Been Said](https://open.spotify.com/track/2QJKcw2rUb6RUM8uDBPSJq) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 2:21 | 2021-12-16 | 2022-07-29 |
@@ -343,7 +345,7 @@
 | [Sunrise](https://open.spotify.com/track/3mUlAwwsBTupCdVYRQ20qR) | [Jack Page](https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs) | [Sunrise](https://open.spotify.com/album/1HzzYbhLEtoNJO4bljtOSw) | 3:31 | 2022-04-19 | 2022-07-28 |
 | [Supernatural Thing, Pt\. 1](https://open.spotify.com/track/62dhSmROhppvuWyeCeC730) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Supernatural Thing](https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD) | 4:11 | 2022-03-30 |  |
 | [Sure Don't Miss You](https://open.spotify.com/track/5SUhvsoXryK7M4OhQXXKVV) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sure Don't Miss You](https://open.spotify.com/album/650kATa4wiGNPX25qf6ddb) | 2:54 | 2021-12-16 | 2022-07-29 |
-| [Swept Away](https://open.spotify.com/track/2tuk3PezhFMV8fBB433tV0) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/6J7xW1IJiJ82bSVsEWVCCY) | 3:59 | 2022-02-04 |  |
+| [Swept Away](https://open.spotify.com/track/2tuk3PezhFMV8fBB433tV0) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/6J7xW1IJiJ82bSVsEWVCCY) | 3:59 | 2022-02-04 | 2022-08-23 |
 | [Switch](https://open.spotify.com/track/42VpxSdGQgnV1UJkWeGYkA) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 | 2022-03-30 | 2022-04-21 |
 | [Take It Easy](https://open.spotify.com/track/2GcMJZuPiou4qvPlxE2CIr) | [Archie James Cavanaugh](https://open.spotify.com/artist/4iKkIkbDSAiPibQW4PxQFE) | [Black And White Raven](https://open.spotify.com/album/6drlBqAE7vyuPnAPOMEZml) | 3:26 | 2022-03-30 | 2022-04-17 |
 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 | 2022-03-30 | 2022-04-20 |

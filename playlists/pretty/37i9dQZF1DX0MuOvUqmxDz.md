@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\.  Cover: Brett Eldredge
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,291 likes - 165 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,276 likes - 165 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 59 | [The First Noel](https://open.spotify.com/track/25W3eewfp10geV3fzWIGq3) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The First Noel](https://open.spotify.com/album/2fzlF3ddXnOulkkIq44NpI) | 4:21 |
 | 60 | [Home \(feat\. Michael Bublé\)](https://open.spotify.com/track/2uEVQb8FstYyxpd8Gy6ndR) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Cheers, It's Christmas \(Deluxe Edition\)](https://open.spotify.com/album/4Jk9oJP4aUo6X2XSwTgnBh) | 3:47 |
 | 61 | [Go Tell It On The Mountain](https://open.spotify.com/track/6t9cECeEgIcrjmuWrKaBtw) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 3:38 |
-| 62 | [Run Run Rudolph](https://open.spotify.com/track/4DnqnG7XbsCsipJU5jqprG) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country Christmas 2022](https://open.spotify.com/album/5pFDju5wugUFFulMYNaWxh) | 2:54 |
+| 62 | [Run Run Rudolph](https://open.spotify.com/track/6jSGVIEjnRhOl2c8JNx5cS) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country For Christmas](https://open.spotify.com/album/62W6L6VNLP7V2zaG8k4vYE) | 2:54 |
 | 63 | [The Christmas Song](https://open.spotify.com/track/3V03Ik3QYBr18iDc5vHLLL) | [Josiah Siska](https://open.spotify.com/artist/0xRlqiatkqSzYyaAofNHlx) | [The Christmas Song](https://open.spotify.com/album/3hNhYhdqnzVfu8XBk4sbzT) | 3:53 |
 | 64 | [Santa Baby](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Taylor Swift Holiday Collection](https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF) | 2:38 |
 | 65 | [White Christmas](https://open.spotify.com/track/5Bsd6tdp4EjyGDshA86OCC) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [White Christmas](https://open.spotify.com/album/6w9aACzIsQ3o1uNRkvXBEx) | 3:35 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 164 | [Christmas You](https://open.spotify.com/track/4oLw4GfMdULMWvlfNLW2PU) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Christmas You](https://open.spotify.com/album/7uNUL7H73TNZULW1cIqJsR) | 3:20 |
 | 165 | [O Holy Night](https://open.spotify.com/track/730mLhmxY5VFu7bfwbXrgF) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [O Holy Night](https://open.spotify.com/album/2hR23vANVKF3OAqHVCDG5E) | 3:39 |
 
-Snapshot ID: `MTYzOTY2ODkwNSwwMDAwMDAwMGI0MWM1YjBmM2FmNzYwZTY5MjlkYmRjYzdmZjU3MzU0`
+Snapshot ID: `MTYzOTY2ODkwNSwwMDAwMDAwMGNiZTJmMTA4ODA0N2I5OWNkZDYwMGE2ZDUxZWM1OWE2`

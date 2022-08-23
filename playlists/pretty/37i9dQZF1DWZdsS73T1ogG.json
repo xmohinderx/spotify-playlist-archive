@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: VF7",
-  "num_followers": 503721,
+  "num_followers": 503745,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4NjcyNSwwMDAwMDAwMDE5MzZhODNmNDQ5MTE2OTllZGJlZTc5YjY0NzAwNWJh",
+  "snapshot_id": "MTY2MDg4NjcyNSwwMDAwMDAwMDEyYTQxMTQxZjk0MzVmOTBiMzUyMDhkYjdkODliZTg2",
   "tracks": [
     {
       "added_at": "2022-08-19 05:25:25",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-08-19 05:25:25",
       "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs"
+    },
+    {
+      "added_at": "2022-08-19 05:25:25",
+      "album": {
         "name": "NOS ENTENDEMOS",
         "url": "https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 205729,
       "name": "NOS ENTENDEMOS",
       "url": "https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb"
-    },
-    {
-      "added_at": "2022-08-19 05:25:25",
-      "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs"
     },
     {
       "added_at": "2022-08-19 05:25:25",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-08-19 05:25:25",
       "album": {
+        "name": "El Pibe (Vol.1)",
+        "url": "https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA"
+    },
+    {
+      "added_at": "2022-08-19 05:25:25",
+      "album": {
         "name": "Racks On Me",
         "url": "https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc"
       },
@@ -679,26 +695,6 @@
       "duration_ms": 177752,
       "name": "Diskreto",
       "url": "https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc"
-    },
-    {
-      "added_at": "2022-08-19 05:25:25",
-      "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Bi",
-      "url": "https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV"
     },
     {
       "added_at": "2022-08-19 05:25:25",
@@ -739,18 +735,22 @@
     {
       "added_at": "2022-08-19 05:25:25",
       "album": {
-        "name": "El Pibe (Vol.1)",
-        "url": "https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84"
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
       },
       "artists": [
         {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 164160,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA"
+      "duration_ms": 185000,
+      "name": "Bi",
+      "url": "https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV"
     },
     {
       "added_at": "2022-08-19 05:25:25",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-08-19 05:25:25",
       "album": {
+        "name": "Fashion Freak",
+        "url": "https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 150606,
+      "name": "Fashion Freak",
+      "url": "https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2"
+    },
+    {
+      "added_at": "2022-08-19 05:25:25",
+      "album": {
         "name": "Fuiste Mala",
         "url": "https://open.spotify.com/album/2SrmkNrGZYsYHKD44uQa4v"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 200161,
       "name": "Fuiste Mala",
       "url": "https://open.spotify.com/track/5k4ONoxlb2FwxcMwEpQBz8"
-    },
-    {
-      "added_at": "2022-08-19 05:25:25",
-      "album": {
-        "name": "Fashion Freak",
-        "url": "https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        }
-      ],
-      "duration_ms": 150606,
-      "name": "Fashion Freak",
-      "url": "https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2"
     },
     {
       "added_at": "2022-08-19 05:25:25",

@@ -4,7 +4,7 @@
 
 > Walk the threshold into the netherworld...
 
-181 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/2xEYlodwFsYYobn5qckSqi)
+182 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/2xEYlodwFsYYobn5qckSqi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [First Day](https://open.spotify.com/track/7J4V7ZzCiHFZ3lGjIVTJh3) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl), [Max de Wardener](https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG) | [The Power \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jHpOG03Uzop0cHriE1z72) | 1:36 | 2021-10-27 | 2022-07-29 |
 | [Flight of the Raven](https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 3:05 | 2021-10-27 |  |
 | [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 | 2021-10-27 |  |
-| [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 | 2021-10-27 |  |
+| [Flux](https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Flux](https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR) | 1:41 | 2022-08-22 |  |
+| [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 | 2021-10-27 | 2022-08-23 |
 | [Formentera Sunset Clouds](https://open.spotify.com/track/50j7VH9VeTa2CZCWXJzipo) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:51 | 2021-10-27 | 2022-07-28 |
 | [Fracture](https://open.spotify.com/track/1LDfg9CitWWu8zKsUUvXXM) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour](https://open.spotify.com/album/3XbyyjH7pIjteFO5PTVONq) | 5:52 | 2021-10-27 |  |
 | [Galactic Pulse](https://open.spotify.com/track/6tgs5jLx331P1rjGeSLoZV) | [Retep Folo](https://open.spotify.com/artist/0b3JoBlAB8qvm40kPJe2yU) | [Galactic Sounds](https://open.spotify.com/album/2rp2et7vphJtxSniKKD85T) | 2:10 | 2021-10-27 |  |

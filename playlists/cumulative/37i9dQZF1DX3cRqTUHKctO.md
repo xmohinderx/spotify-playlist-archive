@@ -4,7 +4,7 @@
 
 > Queer Spaces curated by Unorthodox, the UK’s first Queer Drum and Bass movement.
 
-104 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/6ZAzi8vitDtPTVjfJIj8cw)
+105 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/6ZAzi8vitDtPTVjfJIj8cw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Fuck the Pa1n Away](https://open.spotify.com/track/6igMEGFeVT03ZMrOEMzgyg) | [DJ これからの緊急災害](https://open.spotify.com/artist/21JvpQxHFjIw2kTpjO6fJt) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 4:07 | 2021-06-22 | 2022-06-11 |
 | [Game Face \(Stay Alert\)](https://open.spotify.com/track/78aOWEePkm6unX8lYPQAaY) | [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Game Face \(Stay Alert\)](https://open.spotify.com/album/2baWyF58zG4ZRAhCO2nLxc) | 3:26 | 2022-06-10 |  |
 | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/album/0R7Q4f6wA3u1Zl50wdT3gH) | 2:46 | 2022-06-10 |  |
-| [go \- goddard\. Remix](https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [go \(goddard\. Remix\)](https://open.spotify.com/album/7K8W66c9ZMtVVYDLGOlffv) | 3:12 | 2022-06-10 |  |
+| [go \- goddard\. Remix](https://open.spotify.com/track/6RZo8T7GY9EoWZXC5i2587) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:12 | 2022-06-10 |  |
+| [go \- goddard\. Remix](https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [go \(goddard\. Remix\)](https://open.spotify.com/album/7K8W66c9ZMtVVYDLGOlffv) | 3:12 | 2022-06-10 | 2022-08-23 |
 | [Guilt \- Radio Edit](https://open.spotify.com/track/4BixqNXCAl6AbY7TPC4u3M) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Guilt](https://open.spotify.com/album/1s6TzGk3y6telhVATDklKB) | 2:56 | 2022-06-10 |  |
 | [Half Light](https://open.spotify.com/track/24zbxPspva0ZH8hTpQ5Hm0) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Tom Cane](https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme) | [Lazers Not Included \(Extended Edition\)](https://open.spotify.com/album/3NCepq888OnOkYz0w9PxMq) | 3:03 | 2022-06-10 |  |
 | [Heartbeat Loud](https://open.spotify.com/track/5PuJ00qKGWqbGeeWbt8WJb) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [Heartbeat Loud](https://open.spotify.com/album/2u3D0tqxUKya8El5VN5Is2) | 2:59 | 2022-06-10 |  |

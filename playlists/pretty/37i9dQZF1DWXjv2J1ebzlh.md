@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,300 likes - 1,195 songs - 3 day 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,360 likes - 1,195 songs - 3 day 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -841,7 +841,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 831 | [Joy \- Quantic Edit](https://open.spotify.com/track/27GyJdh5Uf8BP4lYLJRbzC) | [The Cranes](https://open.spotify.com/artist/5KU2lTVjRMQqfJ9k6vjoxY), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Ahyewa](https://open.spotify.com/album/5B69sPK2ONHZLRpRalB1Us) | 3:02 |
 | 832 | [Lamento en la Selva \- Remix](https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo) | [Astros de Mendoza](https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Abducción Amazonica, Lamento en la Selva](https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07) | 3:36 |
 | 833 | [Let Love Flow On](https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t) | [Sonya Spence](https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ) | [Sings Love](https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd) | 3:42 |
-| 834 | [Kiriê](https://open.spotify.com/track/1OtIwDGYPYHBYchvB8nVqr) | [Georgette](https://open.spotify.com/artist/4heKLPz5UlbvH60TeoHmrq) | [Levanta Poeira \(Compiled by Tahira\)](https://open.spotify.com/album/0ga9sjz9o89VHWp9opvzFh) | 3:30 |
+| 834 | [Kiriê](https://open.spotify.com/track/3O2Y5GFEHVHBIEWpLQJYbJ) | [Georgette](https://open.spotify.com/artist/4heKLPz5UlbvH60TeoHmrq) | [A Moça do Mar](https://open.spotify.com/album/66ya4Ea3czVvUcIDCLOWrZ) | 3:25 |
 | 835 | [Mi Querer](https://open.spotify.com/track/2o34LOZa6tpm0miOhoPbKb) | [Los Guaracheros De Oriente](https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom), [Ramon Veloz](https://open.spotify.com/artist/3z21nEY2AtJEy2pKYdAGxM) | [Linda Guajira](https://open.spotify.com/album/4vF1RjBN15TIuUJqibuU80) | 2:25 |
 | 836 | [La Fullera](https://open.spotify.com/track/6w1vFa8DwYmVzqJyYTqxVS) | [Conjunto Ritmos del Caribe](https://open.spotify.com/artist/6Z1x7yIfx80IUWVYJ5HXTP) | [La Edad De Oro De La Cumbia Colombiana](https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS) | 2:51 |
 | 837 | [Dadje Von O Von Non](https://open.spotify.com/track/5HlVVragS7ysy6BPXpXGXK) | [Gnonnas Pédro](https://open.spotify.com/artist/5BpAs1BvNgMo3LAWa0fzcf) | [Legends of Benin](https://open.spotify.com/album/3aaHVrPnHPLF8aJ0X642QD) | 3:54 |
@@ -1204,4 +1204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1194 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1195 | [Quem Não Faz Filhos](https://open.spotify.com/track/3GEYdZGGJthGoLjPk9E7Kd) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Angola Anos d'Ouro: Reviver Os Kiezos](https://open.spotify.com/album/4yMv047txxleA3j7dtOBBb) | 4:11 |
 
-Snapshot ID: `MTY1ODkxNzgwMCwwMDAwMDAwMDc2NTkzYzRiMjY0ZWIyMDM3ODFiZTQwYzg0N2E4ZjU5`
+Snapshot ID: `MTY1ODkxNzgwMCwwMDAwMDAwMDRjNjdiNzc2OGM0OWQ2NTg0MDMxZGM4Y2E3ODc4NThi`

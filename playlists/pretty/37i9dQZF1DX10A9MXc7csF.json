@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Porte Diferente.",
-  "num_followers": 93435,
+  "num_followers": 93451,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGE5NTg4ZjdmNDA3MjBkNDg2MTJkY2VlYjU2N2QxZjcx",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGNhZTc1NjExMjEyYzA0ODBiOWQ2Yzg5MWRmZjMzZDNk",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "300 Locos (En Vivo)",
-        "url": "https://open.spotify.com/album/3FJKfGDxTfo47JG6JDJJW5"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 149163,
-      "name": "300 Locos - En Vivo",
-      "url": "https://open.spotify.com/track/2v7r3q9rDqNWfrhAU157gV"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "La Charla",
         "url": "https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 230426,
       "name": "La Charla",
       "url": "https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "300 Locos (En Vivo)",
+        "url": "https://open.spotify.com/album/3FJKfGDxTfo47JG6JDJJW5"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 149163,
+      "name": "300 Locos - En Vivo",
+      "url": "https://open.spotify.com/track/2v7r3q9rDqNWfrhAU157gV"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -251,38 +251,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "El Fugitivo (En vivo)",
-        "url": "https://open.spotify.com/album/3HLVW0L1kXKOWSsXQx0y8i"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "El Fugitivo - En vivo",
-      "url": "https://open.spotify.com/track/0y9HZZkKo85aWYGkvjeWFA"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Aqui Nadie Va Llorar",
-        "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 195311,
-      "name": "Aqui Nadie Va Llorar",
-      "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Beyond The Limit",
         "url": "https://open.spotify.com/album/5KwiZ0Ly7gpV8t7uvX7ZvT"
       },
@@ -299,6 +267,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "El Fugitivo (En vivo)",
+        "url": "https://open.spotify.com/album/3HLVW0L1kXKOWSsXQx0y8i"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "El Fugitivo - En vivo",
+      "url": "https://open.spotify.com/track/0y9HZZkKo85aWYGkvjeWFA"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "El Se\u00f1oron",
         "url": "https://open.spotify.com/album/1dfYE3Fpz112Ae3a9RYxVo"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 204996,
       "name": "El Se\u00f1oron",
       "url": "https://open.spotify.com/track/1EPZpEO3bZTUbfiAyiknDC"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Aqui Nadie Va Llorar",
+        "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 195311,
+      "name": "Aqui Nadie Va Llorar",
+      "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -363,22 +363,34 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Una Cruz",
-        "url": "https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF"
+        "name": "Tiempo Fuera",
+        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
         }
       ],
-      "duration_ms": 173568,
-      "name": "Una Cruz",
-      "url": "https://open.spotify.com/track/7EI3NvlzFohsgu0C418aJe"
+      "duration_ms": 198040,
+      "name": "Tiempo Fuera",
+      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Substancias",
+        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Substancias",
+      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -399,18 +411,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Substancias",
-        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
+        "name": "Una Cruz",
+        "url": "https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF"
       },
       "artists": [
         {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
         }
       ],
-      "duration_ms": 204213,
-      "name": "Substancias",
-      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
+      "duration_ms": 173568,
+      "name": "Una Cruz",
+      "url": "https://open.spotify.com/track/7EI3NvlzFohsgu0C418aJe"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -447,22 +463,6 @@
       "duration_ms": 159056,
       "name": "La Ruleta de La Vida",
       "url": "https://open.spotify.com/track/6p4Ta9TKEndqO6ZarnY3zl"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Tiempo Fuera",
-        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Tiempo Fuera",
-      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Piensa",
-        "url": "https://open.spotify.com/album/1muFFQvj6MF64ZyBGNOBSV"
-      },
-      "artists": [
-        {
-          "name": "El Proyecto",
-          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
-        }
-      ],
-      "duration_ms": 273339,
-      "name": "Piensa",
-      "url": "https://open.spotify.com/track/1u25yYhSNY1PFOoc9kh1my"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Arroz Con Leche",
         "url": "https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 188917,
       "name": "Sembrando",
       "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Piensa",
+        "url": "https://open.spotify.com/album/1muFFQvj6MF64ZyBGNOBSV"
+      },
+      "artists": [
+        {
+          "name": "El Proyecto",
+          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
+        }
+      ],
+      "duration_ms": 273339,
+      "name": "Piensa",
+      "url": "https://open.spotify.com/track/1u25yYhSNY1PFOoc9kh1my"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "SRT",
+        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "Dejen Les Cuento",
         "url": "https://open.spotify.com/album/7Br2HuJLhswrEjiTlETGY5"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 171625,
       "name": "Dejen Les Cuento",
       "url": "https://open.spotify.com/track/5t65YQyrgDPPmgT8Z4Iy7M"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "SRT",
-        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
-      },
-      "artists": [
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 178748,
-      "name": "SRT",
-      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/02yUE3GbV3gY6PtkiH9VQt"
+      },
+      "artists": [
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        }
+      ],
+      "duration_ms": 206304,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/1ecycLcCRq2rIozFogvsoq"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "Las Guerras de Califas",
         "url": "https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3"
       },
@@ -1107,38 +1123,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "TMP",
-        "url": "https://open.spotify.com/album/429thKPz8y0s5sgOivSWBx"
-      },
-      "artists": [
-        {
-          "name": "Chris Hermosillo",
-          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
-        }
-      ],
-      "duration_ms": 173379,
-      "name": "TMP",
-      "url": "https://open.spotify.com/track/4hJdqI4ZFPrgdFuNbQbpdp"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "La Tormenta",
-        "url": "https://open.spotify.com/album/02yUE3GbV3gY6PtkiH9VQt"
-      },
-      "artists": [
-        {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
-        }
-      ],
-      "duration_ms": 206304,
-      "name": "La Tormenta",
-      "url": "https://open.spotify.com/track/1ecycLcCRq2rIozFogvsoq"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Si Me Ven Tomar",
         "url": "https://open.spotify.com/album/6aOYYhHha8C74a19jItJrY"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 193866,
       "name": "Si Me Ven Tomar",
       "url": "https://open.spotify.com/track/4YtK6d4nvS7Z40Z12dYqZu"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "TMP",
+        "url": "https://open.spotify.com/album/429thKPz8y0s5sgOivSWBx"
+      },
+      "artists": [
+        {
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+        }
+      ],
+      "duration_ms": 173379,
+      "name": "TMP",
+      "url": "https://open.spotify.com/track/4hJdqI4ZFPrgdFuNbQbpdp"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Gabriel Ornelas",
-        "url": "https://open.spotify.com/album/7I5YLRrLqHPeXLwcbPTjDQ"
-      },
-      "artists": [
-        {
-          "name": "Lluvia Ar\u00e1mbula",
-          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
-        }
-      ],
-      "duration_ms": 187430,
-      "name": "Gabriel Ornelas",
-      "url": "https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "A Darle Con Todo (En Vivo)",
         "url": "https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H"
       },
@@ -1303,22 +1287,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Te Amo Yo",
-        "url": "https://open.spotify.com/album/0xV4ha3qX6C2Kk0s8yMz5L"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 146986,
-      "name": "Te Amo Yo",
-      "url": "https://open.spotify.com/track/13Wtxopl5r7ICXPuOcbqOj"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Les Quedo Claro",
         "url": "https://open.spotify.com/album/0byJUz2IEI7oCxoAYW8JKf"
       },
@@ -1331,6 +1299,22 @@
       "duration_ms": 197888,
       "name": "Les Quedo Claro",
       "url": "https://open.spotify.com/track/3BVUwM6VMNTQjIh6gbi2V4"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Gabriel Ornelas",
+        "url": "https://open.spotify.com/album/7I5YLRrLqHPeXLwcbPTjDQ"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Ar\u00e1mbula",
+          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
+        }
+      ],
+      "duration_ms": 187430,
+      "name": "Gabriel Ornelas",
+      "url": "https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1363,6 +1347,22 @@
       "duration_ms": 220618,
       "name": "Me Apodan El Chino",
       "url": "https://open.spotify.com/track/7mB6DFA5JwPcOs9kc25e5r"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Te Amo Yo",
+        "url": "https://open.spotify.com/album/0xV4ha3qX6C2Kk0s8yMz5L"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 146986,
+      "name": "Te Amo Yo",
+      "url": "https://open.spotify.com/track/13Wtxopl5r7ICXPuOcbqOj"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        }
-      ],
-      "duration_ms": 166512,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Archive Muzik Vol. 1",
         "url": "https://open.spotify.com/album/5r16VPYF9XXsjhTGzeuKVC"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 271922,
       "name": "Quiero Estar Contigo",
       "url": "https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        }
+      ],
+      "duration_ms": 166512,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "CRISIS",
-        "url": "https://open.spotify.com/album/4pVG8E79smfV0m2S1KUTGX"
-      },
-      "artists": [
-        {
-          "name": "El Proyecto",
-          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
-        }
-      ],
-      "duration_ms": 152663,
-      "name": "Sabor a Fresa",
-      "url": "https://open.spotify.com/track/71h1ux9lFORYa5CTWV7vn9"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Enfocado",
         "url": "https://open.spotify.com/album/2V3kJFrjyFBF9ihFxE4IyY"
       },
@@ -1683,18 +1667,34 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Te Fuiste Mi Amor",
-        "url": "https://open.spotify.com/album/5v0XaehEwwxMO1XCDDneLg"
+        "name": "CRISIS",
+        "url": "https://open.spotify.com/album/4pVG8E79smfV0m2S1KUTGX"
       },
       "artists": [
         {
-          "name": "Plan Exclusivo",
-          "url": "https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8"
+          "name": "El Proyecto",
+          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
         }
       ],
-      "duration_ms": 169750,
-      "name": "Te Fuiste Mi Amor",
-      "url": "https://open.spotify.com/track/4p081voOnOQ9bj8hQEHAaz"
+      "duration_ms": 152663,
+      "name": "Sabor a Fresa",
+      "url": "https://open.spotify.com/track/71h1ux9lFORYa5CTWV7vn9"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Nadie En Este Mundo",
+        "url": "https://open.spotify.com/album/37a9b4XAXZzS7xg5y2A0tO"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3digo Secreto",
+          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
+        }
+      ],
+      "duration_ms": 232368,
+      "name": "Nadie En Este Mundo",
+      "url": "https://open.spotify.com/track/783fveiyg1BqcdHrzNcXuo"
     }
   ],
   "unique_name": "M\u00fasica Mexicana Rising",

@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Nils Hoffmann.",
-  "num_followers": 399689,
+  "num_followers": 399830,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDU1MzZjZmE2ZjdlYzFkMTQ5YWE1Y2EzYjg1MTNjOGU4",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDcyMjQ5MmUwNjlkYTlkMGMxZjRkMzBiNzYwOTdmMmNl",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/7d6vUWoI2Ur24x8wUflGGw"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "duration_ms": 141774,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/1ug22meh3YgHra1l314WLA"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 154285,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/7d6vUWoI2Ur24x8wUflGGw"
-      },
-      "artists": [
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        },
-        {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
-        }
-      ],
-      "duration_ms": 141774,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/1ug22meh3YgHra1l314WLA"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "All The Lights",
-        "url": "https://open.spotify.com/album/1Pg3pPTxzuEVfO2vwmtr0G"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        },
-        {
-          "name": "bailey",
-          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "All The Lights",
-      "url": "https://open.spotify.com/track/0RIO40zfxrCZVcxv6uGwPJ"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Your Voice (Adam Port Remix)",
         "url": "https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da"
       },
@@ -947,22 +927,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG"
+        "name": "All The Lights",
+        "url": "https://open.spotify.com/album/1Pg3pPTxzuEVfO2vwmtr0G"
       },
       "artists": [
         {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         },
         {
-          "name": "AIDYL",
-          "url": "https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f"
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
         }
       ],
-      "duration_ms": 266492,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD"
+      "duration_ms": 242000,
+      "name": "All The Lights",
+      "url": "https://open.spotify.com/track/0RIO40zfxrCZVcxv6uGwPJ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -983,6 +963,26 @@
       "duration_ms": 214838,
       "name": "Dance on My Own (feat. Richard Judge)",
       "url": "https://open.spotify.com/track/0pMD1V0QbqSD7RhJmxDDJ9"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "AIDYL",
+          "url": "https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f"
+        }
+      ],
+      "duration_ms": 266492,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1019,38 +1019,6 @@
       "duration_ms": 171692,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/6w5VrZqwVBOByJ1ySNVWpu"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "You Can't Stop Me",
-        "url": "https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 189843,
-      "name": "You Can't Stop Me",
-      "url": "https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Setting Sun",
-        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 373166,
-      "name": "Setting Sun",
-      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1095,6 +1063,38 @@
       "duration_ms": 205440,
       "name": "Look In My Eyes",
       "url": "https://open.spotify.com/track/5pRZVUGi1Z9QteqfEAFNw0"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "You Can't Stop Me",
+        "url": "https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 189843,
+      "name": "You Can't Stop Me",
+      "url": "https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Setting Sun",
+        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 373166,
+      "name": "Setting Sun",
+      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/1yysGeBcekP8zwh286sr5y"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 132960,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6ndYXyIxeRv7pS4hHH830J"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "So Alive",
         "url": "https://open.spotify.com/album/28ORHdj2k010NHlSf7HSPi"
       },
@@ -1199,38 +1215,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/1yysGeBcekP8zwh286sr5y"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 132960,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/6ndYXyIxeRv7pS4hHH830J"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/4LlAINluDRvLVSTxqQATl8"
-      },
-      "artists": [
-        {
-          "name": "Simon Doty",
-          "url": "https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3"
-        }
-      ],
-      "duration_ms": 218972,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/508o8MvH1j1ldM4qLvZqe5"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Retro Future, Vol. 3",
         "url": "https://open.spotify.com/album/05t0v1yS6XFup4zH1VjR7U"
       },
@@ -1247,62 +1231,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Real Talk (Boys Noize Remix)",
-        "url": "https://open.spotify.com/album/71qWeuLd6mu03o55lvJPKH"
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/4LlAINluDRvLVSTxqQATl8"
       },
       "artists": [
         {
-          "name": "Anna Lunoe",
-          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
-        },
-        {
-          "name": "Touch Sensitive",
-          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+          "name": "Simon Doty",
+          "url": "https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3"
         }
       ],
-      "duration_ms": 405224,
-      "name": "Real Talk (Boys Noize Remix)",
-      "url": "https://open.spotify.com/track/2Z9NWTkvE7dDFDpWhCY3bQ"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Ripper",
-        "url": "https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3"
-      },
-      "artists": [
-        {
-          "name": "Mr. Carmack",
-          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
-        },
-        {
-          "name": "Shanghai Doom",
-          "url": "https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Ripper",
-      "url": "https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/3okP80pRnlurO1nPpe0e1b"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 193140,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5eq5F7WjMbFvCyMTmuRgQ1"
+      "duration_ms": 218972,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/508o8MvH1j1ldM4qLvZqe5"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1347,6 +1287,66 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Real Talk (Boys Noize Remix)",
+        "url": "https://open.spotify.com/album/71qWeuLd6mu03o55lvJPKH"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 405224,
+      "name": "Real Talk (Boys Noize Remix)",
+      "url": "https://open.spotify.com/track/2Z9NWTkvE7dDFDpWhCY3bQ"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3okP80pRnlurO1nPpe0e1b"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 193140,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5eq5F7WjMbFvCyMTmuRgQ1"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Ripper",
+        "url": "https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
+        },
+        {
+          "name": "Shanghai Doom",
+          "url": "https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Ripper",
+      "url": "https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "There\u2019s Nothing Else",
         "url": "https://open.spotify.com/album/0xZtYRqv5nZfnBvFpZjTmi"
       },
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Circles (feat. Jack Dawson)",
-        "url": "https://open.spotify.com/album/0IoG8m9HA4aFqazrwlVjCh"
-      },
-      "artists": [
-        {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        },
-        {
-          "name": "Jack Dawson",
-          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Circles (feat. Jack Dawson)",
-      "url": "https://open.spotify.com/track/2JQS3vvTwJLDzB8b1sHHLn"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "I'm The Joker (feat. DJ Supreme)",
         "url": "https://open.spotify.com/album/2WomBlM2yIUVWvMpBVXoiD"
       },
@@ -1423,18 +1403,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Don't Miss Out",
-        "url": "https://open.spotify.com/album/5xaUvHkTj3oEtunDWavPdr"
+        "name": "Circles (feat. Jack Dawson)",
+        "url": "https://open.spotify.com/album/0IoG8m9HA4aFqazrwlVjCh"
       },
       "artists": [
         {
-          "name": "IHF",
-          "url": "https://open.spotify.com/artist/34P1IGH1mIqdaVkfRuTebV"
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Jack Dawson",
+          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
         }
       ],
-      "duration_ms": 177297,
-      "name": "Don't Miss Out",
-      "url": "https://open.spotify.com/track/27dXEvKFGrXdcPfevLAtXB"
+      "duration_ms": 208800,
+      "name": "Circles (feat. Jack Dawson)",
+      "url": "https://open.spotify.com/track/2JQS3vvTwJLDzB8b1sHHLn"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1451,6 +1435,58 @@
       "duration_ms": 187104,
       "name": "This Song Is For You",
       "url": "https://open.spotify.com/track/2DjMbyQPCf1OnCBD2j0LTN"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Don't Miss Out",
+        "url": "https://open.spotify.com/album/5xaUvHkTj3oEtunDWavPdr"
+      },
+      "artists": [
+        {
+          "name": "IHF",
+          "url": "https://open.spotify.com/artist/34P1IGH1mIqdaVkfRuTebV"
+        }
+      ],
+      "duration_ms": 177297,
+      "name": "Don't Miss Out",
+      "url": "https://open.spotify.com/track/27dXEvKFGrXdcPfevLAtXB"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Run It Up EP",
+        "url": "https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "Sam King",
+          "url": "https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Plastic Dream",
+        "url": "https://open.spotify.com/album/45CEYxlKWM3NpTVMFcEChf"
+      },
+      "artists": [
+        {
+          "name": "Darksidevinyl",
+          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
+        }
+      ],
+      "duration_ms": 355829,
+      "name": "Plastic Dream",
+      "url": "https://open.spotify.com/track/16S7W3yMOD4JmVqIXfSQLc"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1495,62 +1531,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Plastic Dream",
-        "url": "https://open.spotify.com/album/45CEYxlKWM3NpTVMFcEChf"
-      },
-      "artists": [
-        {
-          "name": "Darksidevinyl",
-          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
-        }
-      ],
-      "duration_ms": 355829,
-      "name": "Plastic Dream",
-      "url": "https://open.spotify.com/track/16S7W3yMOD4JmVqIXfSQLc"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Run It Up EP",
-        "url": "https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        },
-        {
-          "name": "Sam King",
-          "url": "https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "You Need Me",
-        "url": "https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        },
-        {
-          "name": "Frazer Ray",
-          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
-        }
-      ],
-      "duration_ms": 364165,
-      "name": "You Need Me",
-      "url": "https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4nCUEhrKxJnDtDz63uY93h"
       },
@@ -1575,18 +1555,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj"
+        "name": "You Need Me",
+        "url": "https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH"
       },
       "artists": [
         {
-          "name": "Daniel Steinberg",
-          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        },
+        {
+          "name": "Frazer Ray",
+          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
         }
       ],
-      "duration_ms": 317850,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ"
+      "duration_ms": 364165,
+      "name": "You Need Me",
+      "url": "https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "duration_ms": 317850,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Crop",
         "url": "https://open.spotify.com/album/0ukwUgepAkUCziUm6yA3f0"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 205161,
       "name": "Crop",
       "url": "https://open.spotify.com/track/3Ll4H161QA8nENqIh7Y8Yu"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/2XjYjAgjoaBrbRh7xzj3WT"
+      },
+      "artists": [
+        {
+          "name": "Miyagi",
+          "url": "https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9"
+        }
+      ],
+      "duration_ms": 378425,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/7q3e8G09hBubfDjD1B5A9a"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/2XjYjAgjoaBrbRh7xzj3WT"
+        "name": "Clear Skies",
+        "url": "https://open.spotify.com/album/1huavHVsaPm2zElhR4HMUQ"
       },
       "artists": [
         {
-          "name": "Miyagi",
-          "url": "https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9"
+          "name": "Origami Human",
+          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
         }
       ],
-      "duration_ms": 378425,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/7q3e8G09hBubfDjD1B5A9a"
+      "duration_ms": 184000,
+      "name": "Clear Skies",
+      "url": "https://open.spotify.com/track/6mLfIaIrbhpx1ytsnSNitZ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1703,34 +1719,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "I Got Soul",
-        "url": "https://open.spotify.com/album/4OOXJWcwgebT9MPRLumh1h"
+        "name": "Disco In The Cuts",
+        "url": "https://open.spotify.com/album/2Yn6Fh5EWyATFyi7zSLp6O"
       },
       "artists": [
         {
-          "name": "Dillon Nathaniel",
-          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+          "name": "Kevin Knapp",
+          "url": "https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv"
         }
       ],
-      "duration_ms": 228771,
-      "name": "I Got Soul",
-      "url": "https://open.spotify.com/track/2CiTtnitkOtB3izVdB4ra0"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Clear Skies",
-        "url": "https://open.spotify.com/album/1huavHVsaPm2zElhR4HMUQ"
-      },
-      "artists": [
-        {
-          "name": "Origami Human",
-          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Clear Skies",
-      "url": "https://open.spotify.com/track/6mLfIaIrbhpx1ytsnSNitZ"
+      "duration_ms": 334179,
+      "name": "Disco In The Cuts",
+      "url": "https://open.spotify.com/track/0PisOmUqT6PUfQE7xYck3Q"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1755,34 +1755,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Disco In The Cuts",
-        "url": "https://open.spotify.com/album/2Yn6Fh5EWyATFyi7zSLp6O"
+        "name": "I Got Soul",
+        "url": "https://open.spotify.com/album/4OOXJWcwgebT9MPRLumh1h"
       },
       "artists": [
         {
-          "name": "Kevin Knapp",
-          "url": "https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv"
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
         }
       ],
-      "duration_ms": 334179,
-      "name": "Disco In The Cuts",
-      "url": "https://open.spotify.com/track/0PisOmUqT6PUfQE7xYck3Q"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Tender",
-        "url": "https://open.spotify.com/album/3iNXth82Qc9glZX2626W0E"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 218955,
-      "name": "Tender",
-      "url": "https://open.spotify.com/track/256oQphx4dzjEGbSv47q5P"
+      "duration_ms": 228771,
+      "name": "I Got Soul",
+      "url": "https://open.spotify.com/track/2CiTtnitkOtB3izVdB4ra0"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1807,6 +1791,22 @@
       "duration_ms": 247680,
       "name": "Take Flight",
       "url": "https://open.spotify.com/track/6FAGFcIJfSzuDDk2Rbz3pi"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Tender",
+        "url": "https://open.spotify.com/album/3iNXth82Qc9glZX2626W0E"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 218955,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/256oQphx4dzjEGbSv47q5P"
     },
     {
       "added_at": "2022-08-19 04:01:00",

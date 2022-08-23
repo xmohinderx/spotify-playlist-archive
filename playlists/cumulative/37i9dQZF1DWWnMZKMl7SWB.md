@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-262 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
+263 songs - 16 hr 49 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Minutes](https://open.spotify.com/track/2FSSZL61RdVYXsyOacxReU) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Confessions](https://open.spotify.com/album/5vvby3mFBAzt10wi3YvFyQ) | 3:30 | 2022-04-12 |  |
 | [Moments](https://open.spotify.com/track/5fFqxdgVb6XRHN8VEoKh6I) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:48 | 2022-04-12 |  |
 | [Mountain](https://open.spotify.com/track/0za7hx6pnkVYipnumKevmw) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Evening](https://open.spotify.com/album/11aKnidnBLnSBRZ8L931dG) | 3:15 | 2022-04-12 |  |
-| [Musgo.](https://open.spotify.com/track/1XOMHe2G9ugjLqznM8Wv3Z) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG) | [Musgo.](https://open.spotify.com/album/68apOdZFDut1aK9OQEIFPX) | 3:41 | 2022-04-12 |  |
+| [Musgo.](https://open.spotify.com/track/1XOMHe2G9ugjLqznM8Wv3Z) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG) | [Musgo.](https://open.spotify.com/album/68apOdZFDut1aK9OQEIFPX) | 3:41 | 2022-04-12 | 2022-08-23 |
 | [My Cloud](https://open.spotify.com/track/4tiMh3bIjPllOtHHkjNhzS) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [We're New Here](https://open.spotify.com/album/3tjP8SLyGerhquO9eMOlWy) | 4:27 | 2022-04-12 | 2022-07-29 |
 | [My Cloud](https://open.spotify.com/track/5o4jvwNQLPmMaNBFgjvO92) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 4:27 | 2022-04-12 |  |
 | [My Only Love](https://open.spotify.com/track/1aBL7hGElHgydpTQmWvQGQ) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa) | [My Only Love](https://open.spotify.com/album/04KKaXDIiTSd1muqAuYKKR) | 3:26 | 2022-04-12 |  |
@@ -209,6 +209,7 @@
 | [She](https://open.spotify.com/track/16IzV3JdxmR3X10ZbWHlfB) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Dancehall](https://open.spotify.com/album/6WbMZYQ1SAU8HrgZSuH0xJ) | 3:38 | 2022-04-12 | 2022-07-29 |
 | [SHE](https://open.spotify.com/track/2u8GDlTkOd3bLSXJM8ZmXg) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:38 | 2022-04-12 |  |
 | [Silver](https://open.spotify.com/track/4LT2kEBHiqRFFszfshq7sd) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Bloom](https://open.spotify.com/album/5LC0qMoqYsqvC6UMcXWrMH) | 3:54 | 2022-04-12 | 2022-07-29 |
+| [Silver](https://open.spotify.com/track/72CTYTm92JiZjJfZwHrV4n) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Bloom](https://open.spotify.com/album/3gro4alLqMrRFroQO5jAqu) | 3:54 | 2022-04-12 |  |
 | [Sisu](https://open.spotify.com/track/3uQ33vLHvYhUC5EJvd4RuK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisu](https://open.spotify.com/album/5fDif78W0imKj7ZVnsEjGP) | 2:33 | 2022-04-12 |  |
 | [Sleep Sound](https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB) | 6:23 | 2022-04-12 |  |
 | [Sleep Sound](https://open.spotify.com/track/6YPQGcqfMXZbQaz6l30uBJ) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/1AQE19wKZonTmYjOFOJKTJ) | 6:23 | 2022-04-12 | 2022-07-29 |

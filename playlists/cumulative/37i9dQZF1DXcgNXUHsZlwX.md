@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Connor Seidel \(1969 Collective\)
 
-361 songs - 21 hr 21 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+362 songs - 21 hr 25 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Nous sommes](https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Encounter](https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75) | 2:47 | 2021-01-03\* |  |
 | [Old Love](https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Old Love](https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg) | 3:25 | 2021-10-03 |  |
 | [On brûlera \- Session live montréalaise](https://open.spotify.com/track/4wSRWH4P7tp6bRXxWRA3Rs) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [À peu près \(Deluxe\)](https://open.spotify.com/album/7BZrBzCAehFjU6mP3JCnmc) | 3:49 | 2021-10-04 | 2022-02-08 |
+| [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 | 2022-08-22 |  |
 | [On lui doit notre sang](https://open.spotify.com/track/0exEszTvulIT0w8W5sSdoC) | [Manahel](https://open.spotify.com/artist/202NYrsgt4o5JUJIVGpKCI) | [On lui doit notre sang](https://open.spotify.com/album/2tuQ4V6oMvfxuAanXSOliP) | 2:26 | 2021-01-03\* | 2021-01-15 |
 | [Ovni \(C\-132\)](https://open.spotify.com/track/6ATlxhYNWlz0nAUJoeoyry) | [Matt Boudreau](https://open.spotify.com/artist/6r5xvxemxhGGIjDOqmO4wV) | [Ovni \(C\-132\)](https://open.spotify.com/album/40SV2LYDGopKziBbqHPljR) | 3:13 | 2022-01-28 | 2022-07-29 |
 | [Où va ce chagrin](https://open.spotify.com/track/3hylbaK7bxwEvlrH9eUIZG) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Airs païens](https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD) | 3:34 | 2021-03-14 | 2021-11-13 |
@@ -360,7 +361,7 @@
 | [With You \(version française\)](https://open.spotify.com/track/4xdklKIbNKPkVuwKTiNsX0) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [With You \(version française\)](https://open.spotify.com/album/5Mh7kHXawmEifsim9jrn1A) | 3:18 | 2021-02-22 | 2021-05-27 |
 | [Wolves Don't Live by the Rules \(feat Joe Grass\)](https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3), [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 2:38 | 2021-10-03 |  |
 | [writer in ny](https://open.spotify.com/track/53bRqXGVyCv1PCjY0fQnmM) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/4x39dWBX1IW8wgHufEh6og) | 3:19 | 2022-03-25 | 2022-04-21 |
-| [writer in ny](https://open.spotify.com/track/5EIEzisvJrHWYaBTXtQ8zd) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 3:19 | 2022-07-08 |  |
+| [writer in ny](https://open.spotify.com/track/5EIEzisvJrHWYaBTXtQ8zd) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 3:19 | 2022-07-08 | 2022-08-23 |
 | [Y'a un vent qui me ramene](https://open.spotify.com/track/6rnHABZ9tb7BKy5kaGjOuI) | [Zachary Richard](https://open.spotify.com/artist/6mpIGgvVVlb1m1OwoGKRuY) | [Y'a un vent qui me ramene](https://open.spotify.com/album/3pBkX3gEaYehrwiNvhOa18) | 3:48 | 2021-01-15 | 2021-01-30 |
 | [À l'aube de nous](https://open.spotify.com/track/6CzyUPXfxPfbb5fy078dhD) | [Amelie Mandeville](https://open.spotify.com/artist/4yvYNGWWLPkqEnP4d9gNk0) | [À l'aube de nous](https://open.spotify.com/album/2IRh7BduO3bjEehDT5g6jq) | 3:13 | 2021-01-15 | 2022-07-28 |
 | [À l’ammoniaque / Mon dieu](https://open.spotify.com/track/6sfTa15xpNajQL1Mb1asik) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [À l’ammoniaque / Mon dieu](https://open.spotify.com/album/7MdUj0L6QOrQbD9hzfp6st) | 3:17 | 2021-01-03\* | 2021-02-25 |

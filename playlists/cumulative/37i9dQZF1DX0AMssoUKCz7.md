@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-484 songs - 1 day 1 hr 33 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+485 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Ordinary Fools](https://open.spotify.com/track/3nJ5dYFdy8a0viZ2FyhIaf) | [Prince Paris](https://open.spotify.com/artist/5aAJhXtrFlRSDzZmCktcXQ), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Ordinary Fools](https://open.spotify.com/album/44tdnYYb97CbPRjtwxuVh0) | 3:08 | 2022-01-14 |  |
 | [Ori Tali Ma \- LVNDSCAPE Remix](https://open.spotify.com/track/2ZdsweqvRBAoFs5c09oJk3) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [Ori Tali Ma \(LVNDSCAPE Remix\)](https://open.spotify.com/album/6GUYKbnr4CAdnlJlSMLpEZ) | 4:21 | 2022-01-14 | 2022-04-09 |
 | [Out of Time](https://open.spotify.com/track/0e67yRFHujhVv0t3TOjXbl) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Out of Time](https://open.spotify.com/album/4tufLZI5ifwDHfaCvW4JDI) | 3:15 | 2022-01-14 |  |
+| [Over You](https://open.spotify.com/track/1ug22meh3YgHra1l314WLA) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Over You](https://open.spotify.com/album/7d6vUWoI2Ur24x8wUflGGw) | 2:21 | 2022-08-19 |  |
 | [Own the Night](https://open.spotify.com/track/0DHUariIorcAgunTr0GTy2) | [Tropixx](https://open.spotify.com/artist/4ys2PrxCuTjrYcU4mxtOSF), [Marcella Precise](https://open.spotify.com/artist/0ZR1QT9DoVMVyD9w6RzJS0) | [Own the Night](https://open.spotify.com/album/7bHsGrx65iJ4TQOA8MZViy) | 3:30 | 2022-01-14 | 2022-07-19 |
 | [Oxas](https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [Oxas](https://open.spotify.com/album/0u8v6tjFwtiVkbt0MwqfrN) | 5:01 | 2022-01-14 |  |
 | [Pacific Coast](https://open.spotify.com/track/2NlmT21qfh9nohiaYkecRy) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Pacific Coast](https://open.spotify.com/album/7LD54uSzY4Q6LfzSDQQezv) | 2:33 | 2022-01-14 | 2022-08-09 |
@@ -428,7 +429,7 @@
 | [Teenage Heart](https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Teenage Heart](https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX) | 4:03 | 2022-01-14 |  |
 | [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-01-14 |  |
 | [The Best Days \(feat\. Tabitha\)](https://open.spotify.com/track/140XpWSdJ0jZEbLj9iVnPA) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [The Best Days \(feat\. Tabitha\)](https://open.spotify.com/album/2rK1aKulqPu5DydpbYfLnZ) | 2:41 | 2022-01-14 |  |
-| [The Flood](https://open.spotify.com/track/79Hkie6ttHO2QMcXs7Jwqp) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [The Flood](https://open.spotify.com/album/0j9MRmq6o0yXbp0Za4ffs5) | 3:05 | 2022-01-14 |  |
+| [The Flood](https://open.spotify.com/track/79Hkie6ttHO2QMcXs7Jwqp) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [The Flood](https://open.spotify.com/album/0j9MRmq6o0yXbp0Za4ffs5) | 3:05 | 2022-01-14 | 2022-08-23 |
 | [The Last Ones Standing](https://open.spotify.com/track/4X6wMQec2NHdBhEGUwqUFV) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [The Last Ones Standing](https://open.spotify.com/album/5kJjpj6RYQyz90yewpM6Cb) | 3:28 | 2022-01-14 | 2022-04-18 |
 | [The Ocean \- Radio Mix](https://open.spotify.com/track/0y42CYV0ZNMmyLe51HwgP5) | [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [The Ocean](https://open.spotify.com/album/5fAutNfusBd2Ryfp5E6Kqx) | 3:49 | 2022-07-22 |  |
 | [The Ocean \- Radio Mix](https://open.spotify.com/track/29po4gh9mZvigdLh6YlKUe) | [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [The Ocean EP](https://open.spotify.com/album/7vzl7DpmEHnEfcaqZUyj85) | 3:49 | 2022-01-14 | 2022-07-29 |

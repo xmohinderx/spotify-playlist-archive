@@ -4,7 +4,7 @@
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-106 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/0fYuaDGdomcOuqOi0yoUUE)
+107 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0fYuaDGdomcOuqOi0yoUUE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [242 \(Shine\)](https://open.spotify.com/track/7MROe4VjFESir1jmgHRAlg) | [roomer](https://open.spotify.com/artist/20zFJZ21BJrOTytnwoNUgp), [Lody](https://open.spotify.com/artist/0gXfmv03XhH2sVSqW4VRaS), [Oul](https://open.spotify.com/artist/57JZZuDhppSQr6uyJNzKSa) | [In My Room : Vol.5 \(Our Diary\)](https://open.spotify.com/album/3TVWdZ8J8g1ZW6NWx2aulz) | 3:25 | 2022-06-20 | 2022-07-19 |
 | [365](https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 4:14 | 2022-06-20 |  |
 | [A Doughnut Song](https://open.spotify.com/track/10ftAQaGcSWrYVjDbMz4OF) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:15 | 2022-06-20 | 2022-07-24 |
-| [A Letter in The Wind](https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 4:27 | 2022-06-20 |  |
+| [A Letter in The Wind](https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 4:27 | 2022-06-20 | 2022-08-23 |
 | [About Time](https://open.spotify.com/track/1SpIjr2oyKzk637Htse6K3) | [Hoppipolla](https://open.spotify.com/artist/6tuuLiMw18vnZB8hJaodJc) | [Spring to Spring](https://open.spotify.com/album/3AjcgKdpL33noWvYmprHep) | 5:28 | 2022-06-20 | 2022-07-29 |
 | [About Time](https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9) | [Hoppipolla](https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2) | [Spring to Spring](https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR) | 5:28 | 2022-07-22 |  |
 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 | 2022-06-20 |  |
@@ -55,6 +55,7 @@
 | [I'm an aeroplane](https://open.spotify.com/track/6zQ0txBHpbqBh25qjfnNeu) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [I'm an aeroplane](https://open.spotify.com/album/3ySmGnt7e8BV3zxSvKfigL) | 4:25 | 2022-06-20 | 2022-07-29 |
 | [I'm Finally a Ghost](https://open.spotify.com/track/5973GTo2ourdiDPVQuwwvf) | [Haepa](https://open.spotify.com/artist/2WTFWNdpppTNeGZmRZLaLi) | [Playing Dead](https://open.spotify.com/album/4d2mhZN25j5zY3ErTpfOBZ) | 2:55 | 2022-07-04 |  |
 | [I'm not fine](https://open.spotify.com/track/1NtQo6lwlWEIohiXAw2SKY) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [I'm not fine](https://open.spotify.com/album/7jeodpRN0Veb4gEfxhAPP1) | 3:12 | 2022-06-20 | 2022-07-28 |
+| [JUST KOREAN POP](https://open.spotify.com/track/28tTv9ZOz2eYWNv2arkzWU) | [Hoochus](https://open.spotify.com/artist/3bEQ3MsehZrVvM6vNKQTmF) | [JUST KOREAN POP](https://open.spotify.com/album/13s4xolZv7TTUI5JImwMNB) | 3:30 | 2022-08-18 |  |
 | [Let it rain](https://open.spotify.com/track/1peqmD3DVtDroR84DQwumr) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Let it rain](https://open.spotify.com/album/6C1W88KCWx6qDBHSpHfnnZ) | 3:10 | 2022-06-20 | 2022-07-29 |
 | [Letter](https://open.spotify.com/track/5eQpbcCvsnvmp58ph8mOa1) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [Letter](https://open.spotify.com/album/3JnckYCOtlr4EmxYoXA7um) | 3:51 | 2022-06-20 | 2022-07-27 |
 | [Let’s Dance For Me](https://open.spotify.com/track/4B98oSagUnhwOevFz4Pao4) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Let’s Dance For Me](https://open.spotify.com/album/3ZCz0hoSW7vmlsop1BDDes) | 3:35 | 2022-07-22 |  |

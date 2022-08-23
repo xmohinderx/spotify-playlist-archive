@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Jason Ross.
 
-219 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+220 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Shanghai \(Yonexx Remix\)](https://open.spotify.com/track/3Z2flwpqvUUEgNoVaaJcgY) | [CRÈME](https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Yonexx](https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm) | [Shanghai \(Yonexx Remix\)](https://open.spotify.com/album/6XlgNaa9wJEb8MLgmOQwsV) | 2:12 | 2022-07-08 | 2022-08-06 |
 | [Sick of You](https://open.spotify.com/track/6uG3ujRyanBAl6j6Y3G0d3) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Sick of You](https://open.spotify.com/album/11Iet8ssCdGjrVH0WLv3Yi) | 3:02 | 2022-07-08 |  |
 | [Sideways](https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4) | [Sideways](https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p) | 4:11 | 2022-07-08 |  |
-| [Silence](https://open.spotify.com/track/4QxPnild2hz6dk4Xjwx4jc) | [Mixed Signals](https://open.spotify.com/artist/3LesrToD7rQlHqkxCmJyuo), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Silence](https://open.spotify.com/album/0fIZ72yzouEt4MM4jcnj4A) | 3:30 | 2022-07-08 |  |
+| [Silence](https://open.spotify.com/track/4QxPnild2hz6dk4Xjwx4jc) | [Mixed Signals](https://open.spotify.com/artist/3LesrToD7rQlHqkxCmJyuo), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Silence](https://open.spotify.com/album/0fIZ72yzouEt4MM4jcnj4A) | 3:30 | 2022-07-08 | 2022-08-23 |
 | [So Alive](https://open.spotify.com/track/0h6bm47GyD7bArUBTGEkp9) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [So Alive](https://open.spotify.com/album/0jCAy2DkhbyDW7uaONsiIX) | 4:09 | 2022-07-08 |  |
 | [So Long \- Tails Remix](https://open.spotify.com/track/3FLxGmYJyextdbsVPZxn5p) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [So Long \(Tails Remix\)](https://open.spotify.com/album/0C8IJ8Gmzhsby8BpZiItgc) | 4:12 | 2022-07-08 | 2022-08-06 |
 | [Souvenir](https://open.spotify.com/track/63ZVznFlskQ476pRXraojW) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Dutch Melrose](https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn) | [Souvenir](https://open.spotify.com/album/1026SyCwCyd15SR93J2TRH) | 3:17 | 2022-07-08 | 2022-08-06 |
@@ -196,6 +196,7 @@
 | [Surrender](https://open.spotify.com/track/67hXwO5ry524QKakkllndZ) | [Napa Cabbage](https://open.spotify.com/artist/6yQkMw2cRF9RstGdKlva32), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Surrender](https://open.spotify.com/album/070G3aCcs8BV5yCLsYmm9F) | 3:38 | 2022-07-08 |  |
 | [Survive \(with Luma\)](https://open.spotify.com/track/1MhdaEmBlc71o9ID1eP9Io) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Survive \(with Luma\)](https://open.spotify.com/album/6tNXNRyY93e2m0jQMlRQ2g) | 3:47 | 2022-07-08 |  |
 | [Take You Home \(feat\. Dia Frampton\)](https://open.spotify.com/track/7dUeGRu9gaXSjkjKO4I8F3) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Take You Home \(feat\. Dia Frampton\)](https://open.spotify.com/album/0YrmV2q7mqsDbcjY0jpH95) | 3:38 | 2022-07-08 |  |
+| [Tattoo](https://open.spotify.com/track/7pelNkiKHA7fCjeKYeFMuq) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Tattoo](https://open.spotify.com/album/3AeKCooUWU0nQuyxfSZJ7m) | 3:52 | 2022-08-19 |  |
 | [Tell Me Why](https://open.spotify.com/track/1Ic5GlyRW3eTYC9Yx6kHnb) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Brenton Mattheus](https://open.spotify.com/artist/5L3htGbUwUCPPhVM2UtdTY) | [Tell Me Why](https://open.spotify.com/album/0cFJ5gN9aF8I7ev145OKvR) | 3:24 | 2022-08-12 |  |
 | [TELL U](https://open.spotify.com/track/2cgm2QVvtRXdIDkVVD7Beq) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [TELL U](https://open.spotify.com/album/0ZRcvD0RgToYTqzC7LNt05) | 2:47 | 2022-07-08 | 2022-07-23 |
 | [TELL U](https://open.spotify.com/track/6RN7j3mFcBvuiJIin5EpcR) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [TELL U](https://open.spotify.com/album/4NwMXA7Y8wzGlHV5INIlSa) | 2:47 | 2022-07-29 | 2022-08-20 |

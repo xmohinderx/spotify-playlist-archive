@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: VF7
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,721 likes - 62 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,745 likes - 62 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 25 | [Party](https://open.spotify.com/track/69xB9y3BNxx9oCHXL86f3b) | [Séssi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Party](https://open.spotify.com/album/0sqJ5bv1E0u9OXKF5PP6mm) | 2:36 |
 | 26 | [Tapate \(with Ak4:20\)](https://open.spotify.com/track/4tckYfU2DJXdCqBlLWdiEX) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Tapate \(with Ak4:20\)](https://open.spotify.com/album/1iiK3tCDF1N66QxF4YSJfg) | 3:11 |
 | 27 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
-| 28 | [NOS ENTENDEMOS](https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [NOS ENTENDEMOS](https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3) | 3:25 |
-| 29 | [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 |
+| 28 | [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 |
+| 29 | [NOS ENTENDEMOS](https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [NOS ENTENDEMOS](https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3) | 3:25 |
 | 30 | [Adivina](https://open.spotify.com/track/1xIxZOuvcEtp2ckLnjUkMf) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Adivina](https://open.spotify.com/album/3jUtl2wC0qkkJL8czujS3q) | 2:45 |
 | 31 | [Mojadero](https://open.spotify.com/track/6CuLgRNyiHtWcRCqFeZA8i) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Mojadero](https://open.spotify.com/album/7ptOOr9s01AaepOVD7ACOl) | 2:39 |
-| 32 | [Racks On Me](https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Racks On Me](https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc) | 3:03 |
-| 33 | [Diskreto](https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Diskreto](https://open.spotify.com/album/0KEX9eiLQbH9188yR9DWqd) | 2:57 |
-| 34 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 |
+| 32 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 |
+| 33 | [Racks On Me](https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Racks On Me](https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc) | 3:03 |
+| 34 | [Diskreto](https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Diskreto](https://open.spotify.com/album/0KEX9eiLQbH9188yR9DWqd) | 2:57 |
 | 35 | [Contacto](https://open.spotify.com/track/60UZ3rIcDkjoN5i2aZalNh) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Contacto](https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL) | 3:17 |
 | 36 | [ea diache](https://open.spotify.com/track/3nQmKjtOfpfc5UGE7eA08u) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:32 |
-| 37 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 |
+| 37 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 |
 | 38 | [KLK](https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [KLK](https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt) | 3:01 |
 | 39 | [Playa Sola](https://open.spotify.com/track/5LDbt6EZgm5cyph6bNq3e6) | [ØMG](https://open.spotify.com/artist/4LJ2wv8SaZZe50hYvpubP8) | [Playa Sola](https://open.spotify.com/album/5rx9nKzhq4RckTVsi2vcTt) | 2:17 |
 | 40 | [Quien Soy?](https://open.spotify.com/track/2WJ648KGSA8bhvJe0T9N4p) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM) | [Quien Soy?](https://open.spotify.com/album/1I9cP54N1kFGnrDsmsILFY) | 3:21 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 44 | [VILLANO](https://open.spotify.com/track/5Yoi4uDMs3HzVHUDjnLWyD) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [VILLANO](https://open.spotify.com/album/4GjRIvEBfya2EjG1OhKF4M) | 2:43 |
 | 45 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 |
 | 46 | [TAL VEZ](https://open.spotify.com/track/4UEFTMbJ3bdQiAS8KTa2Ec) | [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1ST PICK](https://open.spotify.com/album/3WcqheQCc5yIZ5f4sz0IZA) | 3:56 |
-| 47 | [Fuiste Mala](https://open.spotify.com/track/5k4ONoxlb2FwxcMwEpQBz8) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [MvP Boyi](https://open.spotify.com/artist/5SVFX6A9E7vOBlgQObFsbj) | [Fuiste Mala](https://open.spotify.com/album/2SrmkNrGZYsYHKD44uQa4v) | 3:20 |
-| 48 | [Fashion Freak](https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Fashion Freak](https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890) | 2:30 |
+| 47 | [Fashion Freak](https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Fashion Freak](https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890) | 2:30 |
+| 48 | [Fuiste Mala](https://open.spotify.com/track/5k4ONoxlb2FwxcMwEpQBz8) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [MvP Boyi](https://open.spotify.com/artist/5SVFX6A9E7vOBlgQObFsbj) | [Fuiste Mala](https://open.spotify.com/album/2SrmkNrGZYsYHKD44uQa4v) | 3:20 |
 | 49 | [SUSANA](https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS) | [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [SUSANA](https://open.spotify.com/album/2to3l5blV24S95syzQg5Th) | 2:31 |
 | 50 | [COMPL1CADO](https://open.spotify.com/track/09LiLT8Uh9CgJSXV6RDU5O) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [COMPL1CADO](https://open.spotify.com/album/0bwMwYtt9incXsUsRiS9Vy) | 3:04 |
 | 51 | [OCD](https://open.spotify.com/track/5Gin2J2nnsVivLphI2dsg4) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Smash David](https://open.spotify.com/artist/07njdunWkKcy4pTERUO0qy) | [Err Bambini](https://open.spotify.com/album/14PvGI3lvYi7sf5dqgKT9y) | 2:43 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 61 | [Sin Pena](https://open.spotify.com/track/1zyM7lBUZgGwZ4umEB5Pzk) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Sin Pena](https://open.spotify.com/album/4E8m3FYdXGNVB4mofcKtji) | 3:03 |
 | 62 | [PERREO SAZÓN](https://open.spotify.com/track/78gfw117ev5RVa8QqWLQxy) | [Keesed](https://open.spotify.com/artist/60p7d9VaIYdxN5XoYJshER) | [PERREO SAZÓN](https://open.spotify.com/album/4OEFpYzzGfzaZwGDDYH7n9) | 3:09 |
 
-Snapshot ID: `MTY2MDg4NjcyNSwwMDAwMDAwMDE5MzZhODNmNDQ5MTE2OTllZGJlZTc5YjY0NzAwNWJh`
+Snapshot ID: `MTY2MDg4NjcyNSwwMDAwMDAwMDEyYTQxMTQxZjk0MzVmOTBiMzUyMDhkYjdkODliZTg2`

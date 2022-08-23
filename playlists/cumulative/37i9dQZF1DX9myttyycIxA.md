@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: flipturn
 
-575 songs - 1 day 8 hr 50 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+576 songs - 1 day 8 hr 54 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [At It Again \(Again\)](https://open.spotify.com/track/7bT3Js9ilUU5RRck7KiXvp) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [At It Again \(Again\)](https://open.spotify.com/album/48Zx2V3JhmOsJ0zA5EKDGN) | 2:09 | 2021-06-25 | 2022-04-29 |
 | [atonement](https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [atonement](https://open.spotify.com/album/3Ji5YWQMAtYwMi9YRnnNlE) | 3:51 | 2022-08-05 |  |
 | [Attention! Shopkeeper](https://open.spotify.com/track/2jm5eKObeNILeRMtJaefyw) | [Pastel Blank](https://open.spotify.com/artist/4v8MCErhmubUGQhwRVbnlN) | [Attention! Shopkeeper](https://open.spotify.com/album/2I9MxXiaV1c02WaiAnZ6Gg) | 3:26 | 2022-04-29 | 2022-04-30 |
-| [Aubade](https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:31 | 2021-11-12 |  |
+| [Aubade](https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:31 | 2021-11-12 | 2022-08-23 |
 | [August \(feat\. Adam Melchor\)](https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [August \(feat\. Adam Melchor\)](https://open.spotify.com/album/7rCjzf8hQdihYpq1NbWAJn) | 3:41 | 2021-08-13 | 2022-04-16 |
 | [baby shred](https://open.spotify.com/track/1o2iRN28IMzW9P3CXhbu1h) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:48 | 2021-06-02 | 2022-03-23 |
 | [Baby Tonight](https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q) | 3:18 | 2022-03-26 |  |
@@ -394,6 +394,7 @@
 | [Parking Lots](https://open.spotify.com/track/5PSplhA4PEZHqw0bOfelEp) | [Plums](https://open.spotify.com/artist/0sPK0NZQ44Z8KhGxCOvEG9) | [Jen](https://open.spotify.com/album/07Xmfb4wnWsXnUJLAkyk7t) | 3:26 | 2022-04-29 | 2022-07-02 |
 | [party](https://open.spotify.com/track/0Xk5I0Zmycf3qSec2WkIi9) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [party](https://open.spotify.com/album/5s6gT2apiu0qN8S0yKRwpT) | 4:30 | 2022-04-29 |  |
 | [paul blart mall cop](https://open.spotify.com/track/24EqBj3PZlN71flFEzXa9B) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [paul blart mall cop](https://open.spotify.com/album/60sJD11vvUlDibnk1vBAdU) | 2:51 | 2022-03-26 | 2022-06-19 |
+| [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 | 2022-08-22 |  |
 | [Perfect Wife](https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Perfect Wife](https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz) | 3:38 | 2021-09-10 | 2022-04-29 |
 | [Petals](https://open.spotify.com/track/6VX8tKJOpM4GaAdRMf7Dl1) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Petals](https://open.spotify.com/album/2n3QaYtHqERzKesRi0lmaq) | 4:01 | 2022-05-13 | 2022-07-09 |
 | [Phase](https://open.spotify.com/track/3IOpJYHofSXLSTyzXXc4uO) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Phase](https://open.spotify.com/album/0RVkJ3E9z3vm2DOnqpSmc4) | 4:08 | 2022-03-26 | 2022-04-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Alternative Arabic songs. Cover: Bahjat.",
+  "description": "Alternative Arabic songs. Cover: Ghaliaa.",
   "name": "Arab Indie",
   "published_playlist_ids": [
     "5Kcna48CrV8fuYA6mNyZOZ"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 178693,
       "name": "Aladdin",
       "url": "https://open.spotify.com/track/2f7rLXE1t0LaKC29Ie1ebb"
@@ -301,6 +301,24 @@
       "duration_ms": 330152,
       "name": "Denia Dour",
       "url": "https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc"
+    },
+    {
+      "album": {
+        "name": "Elak w Bas",
+        "url": "https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241726,
+      "name": "Elak w Bas",
+      "url": "https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC"
     },
     {
       "album": {

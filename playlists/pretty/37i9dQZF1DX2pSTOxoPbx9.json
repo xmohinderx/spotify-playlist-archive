@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 661443,
+  "num_followers": 661744,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU3NDY3MCwwMDAwMDAwMGE3ZTUzNDFjMWUyYzAyMTVkZjI5ODJjYWZmNjI2YzVl",
+  "snapshot_id": "MTY1NzU3NDY3MCwwMDAwMDAwMDcxMGRkNjk0YWEwMjc1ZDg2NTg2YTg5ZmRiZjFhMmJh",
   "tracks": [
     {
       "added_at": "2022-07-11 21:24:30",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Doves & Ravens",
         "url": "https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 222173,
       "name": "Glory",
       "url": "https://open.spotify.com/track/5rMea4Gu5db0qb1c6TfGIh"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -367,6 +367,22 @@
       "duration_ms": 249739,
       "name": "Beggin For Thread",
       "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -407,22 +423,6 @@
       "duration_ms": 341000,
       "name": "Notion",
       "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
         "name": "Bravado",
         "url": "https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Fine But Dying",
         "url": "https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp"
       },
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+        "name": "Repave",
+        "url": "https://open.spotify.com/album/69qFYmNxf9i1kc26Cip5sZ"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "Volcano Choir",
+          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
         }
       ],
-      "duration_ms": 268626,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
+      "duration_ms": 262533,
+      "name": "Byegone",
+      "url": "https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Repave",
-        "url": "https://open.spotify.com/album/69qFYmNxf9i1kc26Cip5sZ"
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
       },
       "artists": [
         {
-          "name": "Volcano Choir",
-          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 262533,
-      "name": "Byegone",
-      "url": "https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4"
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 216176,
-      "name": "What Kind Of Man",
-      "url": "https://open.spotify.com/track/1w9ta1CvXlJPRXh6Py2Mto"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Run, Lucifer",
         "url": "https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 176167,
       "name": "Beautiful Hell",
       "url": "https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 216176,
+      "name": "What Kind Of Man",
+      "url": "https://open.spotify.com/track/1w9ta1CvXlJPRXh6Py2Mto"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Volcano",
-      "url": "https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Take Me to Church EP",
         "url": "https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 218986,
       "name": "Angel of Small Death and the Codeine Scene",
       "url": "https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Animalia",
-        "url": "https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2"
-      },
-      "artists": [
-        {
-          "name": "Mammals",
-          "url": "https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3"
-        }
-      ],
-      "duration_ms": 233635,
-      "name": "Depraved",
-      "url": "https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Once I Was An Eagle",
         "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 194480,
       "name": "Devil's Resting Place",
       "url": "https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Animalia",
+        "url": "https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2"
+      },
+      "artists": [
+        {
+          "name": "Mammals",
+          "url": "https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3"
+        }
+      ],
+      "duration_ms": 233635,
+      "name": "Depraved",
+      "url": "https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Lost It All",
-        "url": "https://open.spotify.com/album/26TDhagwH7yap92e04ObFu"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 223655,
-      "name": "Lost It All",
-      "url": "https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 266277,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Lost It All",
+        "url": "https://open.spotify.com/album/26TDhagwH7yap92e04ObFu"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 223655,
+      "name": "Lost It All",
+      "url": "https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i"
     },
     {
       "added_at": "2022-07-11 21:24:30",

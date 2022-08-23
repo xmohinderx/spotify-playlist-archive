@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128574,
+  "num_followers": 128569,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU4NCw3OTE3NWRlMzQ4NzE4NGI5ZGNlZDJhYjZiODY1ZDRkMTBkODA4MjVk",
+  "snapshot_id": "MzU4NyxjNmZjYmVmYjlmZmJmNTE1YTRjZjFjMjRjZDBhOWI1ODE2OWQyMmE0",
   "tracks": [
+    {
+      "added_at": "2022-08-22 20:04:29",
+      "album": {
+        "name": "CINEMA (incl. Fame & Fortune VIP)",
+        "url": "https://open.spotify.com/album/1H0JMgsdaYfxkn5n4rDkIf"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "duration_ms": 134068,
+      "name": "CINEMA - Fame & Fortune VIP",
+      "url": "https://open.spotify.com/track/2MTgMyZGPnxdA4YOg3oE7w"
+    },
     {
       "added_at": "2022-08-19 17:46:27",
       "album": {
@@ -1115,46 +1135,6 @@
       "duration_ms": 183836,
       "name": "Elixir",
       "url": "https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz"
-    },
-    {
-      "added_at": "2022-06-10 16:21:39",
-      "album": {
-        "name": "Higher Peaks",
-        "url": "https://open.spotify.com/album/0jGDUCzOBcximXf2HnHfuv"
-      },
-      "artists": [
-        {
-          "name": "Hausman",
-          "url": "https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ"
-        },
-        {
-          "name": "Lumynesynth",
-          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
-        }
-      ],
-      "duration_ms": 307750,
-      "name": "Higher Peaks",
-      "url": "https://open.spotify.com/track/1PpLf7d6YnJ4SyjqmXR5VG"
-    },
-    {
-      "added_at": "2022-06-09 16:43:04",
-      "album": {
-        "name": "Droids",
-        "url": "https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0"
-      },
-      "artists": [
-        {
-          "name": "Annix",
-          "url": "https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 220028,
-      "name": "Droids",
-      "url": "https://open.spotify.com/track/14jlkBcHSBOdGLeei57uEH"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1505,7 +1505,7 @@
     {
       "album": {
         "name": "Ooch Apaar",
-        "url": "https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW"
+        "url": "https://open.spotify.com/album/10QCudlJoZPHcoPBDTc1mA"
       },
       "artists": [
         {
@@ -1516,6 +1516,24 @@
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 420991,
+      "name": "Ooch Apaar",
+      "url": "https://open.spotify.com/track/14jmLovqc2rOc2KDqwd8Yw"
+    },
+    {
+      "album": {
+        "name": "Ooch Apaar",
+        "url": "https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW"
+      },
+      "artists": [
+        {
+          "name": "Deepa Nair Rasiya",
+          "url": "https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-23",
       "duration_ms": 420994,
       "name": "Ooch Apaar",
       "url": "https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6"

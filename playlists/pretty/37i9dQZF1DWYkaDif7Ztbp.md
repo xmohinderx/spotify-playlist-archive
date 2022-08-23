@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=lK5\_0VaUQ4qRhKj7\_mZkCA"> Pheelz </a>  and <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=08Mm\-WtTRN\-7qRIKL96gYA"> Davido </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,664 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,620 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

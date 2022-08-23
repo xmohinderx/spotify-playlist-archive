@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > More life\. More vIbes\. Lila Ike takes over One Love for Notting Hill Carnival 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,011,527 likes - 42 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,011,622 likes - 42 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

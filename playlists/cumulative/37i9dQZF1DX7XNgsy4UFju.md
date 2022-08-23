@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Rare Americans
 
-591 songs - 1 day 10 hr 59 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+592 songs - 1 day 11 hr 3 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Better Than](https://open.spotify.com/track/7vQOC26ZYeeaeDAYTVtrlG) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi), [Flaws](https://open.spotify.com/artist/0DX1pMk1b22S536hNGtFDY) | [Better Than](https://open.spotify.com/album/0JgVAcW3Y2oclkHQPZTdIS) | 3:04 | 2021-12-31 | 2022-01-15 |
 | [Big Trees](https://open.spotify.com/track/78LgyytZ57eBM18kx5YFAk) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Big Trees](https://open.spotify.com/album/5eXrCNWiY4ZP01MWog4FN4) | 3:15 | 2021-12-31 | 2022-02-12 |
 | [Bigger Love](https://open.spotify.com/track/6BR7PRyiBy54vpa0pTksnw) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Bigger Love](https://open.spotify.com/album/5OfM4QCrtxxcMkAp8aFEtK) | 3:49 | 2022-04-29 | 2022-07-16 |
+| [Bigger Love \- Spotify Singles](https://open.spotify.com/track/2t02C7mGZnwv5rnMBEYts9) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:48 | 2022-08-22 |  |
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-11 | 2022-03-26 |
 | [Blackbirds](https://open.spotify.com/track/75pQnzYWCyTCSXEJs0UC5e) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Blackbirds](https://open.spotify.com/album/0ZygPTBt3rbFdU2MhVY8p2) | 5:14 | 2021-12-31 | 2022-01-15 |
 | [Blond October](https://open.spotify.com/track/2oeJQ1hcqENUnZWLOPPrBY) | [Jay Feelbender](https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI) | [Enter the Mirror](https://open.spotify.com/album/2qWNPd8ticSF4JXrMZGqk0) | 3:42 | 2022-03-25 | 2022-06-11 |
@@ -202,7 +203,7 @@
 | [graves](https://open.spotify.com/track/640VqmPmQyA4IoyzPxvUyA) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [graves](https://open.spotify.com/album/1uIZQWfhNqQpehJZhdPvAk) | 3:33 | 2022-04-22 | 2022-06-04 |
 | [Great Race](https://open.spotify.com/track/1UoCw5QpZ0LrAnSD49JQP2) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [Great Race](https://open.spotify.com/album/2hISBkwZFVsdBKoPUkVILp) | 1:35 | 2022-06-03 | 2022-07-16 |
 | [Grocery Store](https://open.spotify.com/track/5eGIOMy0V0r7neaaPve2kB) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Grocery Store](https://open.spotify.com/album/1eCqGxTppTVL3jtVMzD2Wd) | 2:14 | 2022-07-15 |  |
-| [GROW](https://open.spotify.com/track/3nn5ppTWuPqDwtD6jp2SPi) | [Sam Tucker](https://open.spotify.com/artist/7hiDOporF8O9GkIPpVafUX) | [GROW: PART I](https://open.spotify.com/album/7cuVEmNOgNVmPYO8pRngyu) | 3:46 | 2022-06-10 |  |
+| [GROW](https://open.spotify.com/track/3nn5ppTWuPqDwtD6jp2SPi) | [Sam Tucker](https://open.spotify.com/artist/7hiDOporF8O9GkIPpVafUX) | [GROW: PART I](https://open.spotify.com/album/7cuVEmNOgNVmPYO8pRngyu) | 3:46 | 2022-06-10 | 2022-08-23 |
 | [Grow Up Tomorrow](https://open.spotify.com/track/6Anf5eqLfGEKoGy0iaKAOb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/12o1WJaINpfED7QgO1qR6A) | 3:12 | 2022-07-22 |  |
 | [Gruesome](https://open.spotify.com/track/6WYucxGmsKo2lqWvUjA894) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [To Leave and Come Back](https://open.spotify.com/album/7ABzcHjyKit0ZJAmvWIk2e) | 4:26 | 2022-05-20 | 2022-07-09 |
 | [Gun in My Hand](https://open.spotify.com/track/0SJIcYyKd2VKyHnAiCeXEH) | [Andrre](https://open.spotify.com/artist/0R5mSNsmiDbBCY6lq8NTs2) | [Lac Noir](https://open.spotify.com/album/5238epYq7DXQ1pWJSdUPIT) | 3:31 | 2022-05-13 | 2022-06-25 |

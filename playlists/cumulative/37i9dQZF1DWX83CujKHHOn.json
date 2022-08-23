@@ -3780,6 +3780,24 @@
     },
     {
       "album": {
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306440,
+      "name": "Possibility",
+      "url": "https://open.spotify.com/track/39Odj4vLKRarATkCA31gaW"
+    },
+    {
+      "album": {
         "name": "Primrose Hill (Notes from California)",
         "url": "https://open.spotify.com/album/6Iz5YDwG3qxhS3nwKMLrOq"
       },
@@ -4691,7 +4709,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 188573,
       "name": "Tell Me It's Over",
       "url": "https://open.spotify.com/track/0aeZzfSoZAcETjba8MCvco"

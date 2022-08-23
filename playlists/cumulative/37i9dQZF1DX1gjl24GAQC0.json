@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover: \bBAE173 [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover: \bCIX [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "published_playlist_ids": [
     "1rQmqTB8OYYXGSYSv738KR"
@@ -117,6 +117,24 @@
       "duration_ms": 200826,
       "name": "2YA2YAO!",
       "url": "https://open.spotify.com/track/7iQTGSIl9m4jofHBGby9kZ"
+    },
+    {
+      "album": {
+        "name": "CIX 5th EP Album \u2018OK\u2019 Episode 1 : OK Not",
+        "url": "https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0"
+      },
+      "artists": [
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194506,
+      "name": "458",
+      "url": "https://open.spotify.com/track/4FHnQdUyWz3clxy3d7loOY"
     },
     {
       "album": {
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 209733,
       "name": "DaSH",
       "url": "https://open.spotify.com/track/6j00mQpXjdXuovqU9owUDa"
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 210333,
       "name": "Doom Du Doom",
       "url": "https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO"
@@ -2615,7 +2633,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 207053,
       "name": "Glitch Mode",
       "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"

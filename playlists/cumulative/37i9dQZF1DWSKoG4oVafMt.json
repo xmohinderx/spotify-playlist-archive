@@ -2206,6 +2206,36 @@
     },
     {
       "album": {
+        "name": "Man Of The Moon",
+        "url": "https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/2lB3Md9Te4NO7FMVJJE3bh"
+        },
+        {
+          "name": "Amar Sandhu",
+          "url": "https://open.spotify.com/artist/3nHrG4Rydw3kRroBjwwGhp"
+        },
+        {
+          "name": "Royal Maan",
+          "url": "https://open.spotify.com/artist/6MHxMEFX5cIIcXFzpycr09"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152113,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/6QFfwKbcMI37vdK5NtnCGf"
+    },
+    {
+      "album": {
         "name": "Fallin Star",
         "url": "https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI"
       },
@@ -5526,6 +5556,28 @@
     },
     {
       "album": {
+        "name": "Man Of The Moon",
+        "url": "https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/2lB3Md9Te4NO7FMVJJE3bh"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174056,
+      "name": "Moon Rise",
+      "url": "https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ"
       },
@@ -5925,6 +5977,10 @@
         {
           "name": "Ipsitaa",
           "url": "https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
         }
       ],
       "date_added": "2022-08-19",

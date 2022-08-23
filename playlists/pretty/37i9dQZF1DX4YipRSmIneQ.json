@@ -1,12 +1,12 @@
 {
   "description": "ur favorite queer bedroom club ",
-  "num_followers": 24068,
+  "num_followers": 24153,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY1NzgyNCwwMDAwMDAwMDY5MmE4ZjM4NGY5NTE3OWQ3MDQzODE2Zjg4MGQ3NWNj",
+  "snapshot_id": "MTY2MDY1NzgyNCwwMDAwMDAwMGJmM2FkYzU3NWI5N2E2MTc5MzgzYzI1NTAzYjdlZjc5",
   "tracks": [
     {
       "added_at": "2022-08-16 13:50:24",
@@ -579,30 +579,6 @@
     {
       "added_at": "2022-08-09 20:39:20",
       "album": {
-        "name": "SEXORCISM",
-        "url": "https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL"
-      },
-      "artists": [
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "FMU (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/5AD8DWoQa4NGe2WagH4YF2"
-    },
-    {
-      "added_at": "2022-08-09 20:39:20",
-      "album": {
         "name": "CO1N",
         "url": "https://open.spotify.com/album/21DWVujXLDiBamWYmop1fA"
       },
@@ -635,6 +611,22 @@
     {
       "added_at": "2022-08-09 20:39:20",
       "album": {
+        "name": "Box of Chocolates",
+        "url": "https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aviance",
+          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Cunty - Wave Edit",
+      "url": "https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe"
+    },
+    {
+      "added_at": "2022-08-09 20:39:20",
+      "album": {
         "name": "all the bands",
         "url": "https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm"
       },
@@ -651,22 +643,6 @@
       "duration_ms": 141853,
       "name": "all the bands",
       "url": "https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2"
-    },
-    {
-      "added_at": "2022-08-09 20:39:20",
-      "album": {
-        "name": "Box of Chocolates",
-        "url": "https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5"
-      },
-      "artists": [
-        {
-          "name": "Kevin Aviance",
-          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "Cunty - Wave Edit",
-      "url": "https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe"
     },
     {
       "added_at": "2022-08-09 20:39:20",
@@ -899,6 +875,30 @@
       "duration_ms": 202678,
       "name": "P.M.P",
       "url": "https://open.spotify.com/track/1VA0mnllvpmDA9bnRAuTXL"
+    },
+    {
+      "added_at": "2022-08-09 20:39:20",
+      "album": {
+        "name": "Straight To Hell: The Remixes",
+        "url": "https://open.spotify.com/album/4HgwlIclMQ7JSx9MdzO1p4"
+      },
+      "artists": [
+        {
+          "name": "Chippy Nonstop",
+          "url": "https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS"
+        },
+        {
+          "name": "dj genderfluid",
+          "url": "https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz"
+        },
+        {
+          "name": "Gendered Dekonstruktion",
+          "url": "https://open.spotify.com/artist/0nz2g4E7Wed11mnTcxR4TN"
+        }
+      ],
+      "duration_ms": 265500,
+      "name": "Straight To Hell - Gendered Dekonstruktion Remix",
+      "url": "https://open.spotify.com/track/43JiMaIgefeHRVWHuqbfjm"
     }
   ],
   "unique_name": "Sweat.",

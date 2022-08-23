@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-417 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
+418 songs - 1 day 0 hr 26 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [day by days](https://open.spotify.com/track/6SRkWroP8AXI5bqNfmI6Mn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [day by days](https://open.spotify.com/album/7Ir2ssbW6ov5OxbiQNcksm) | 2:09 | 2022-07-26 |  |
 | [Digital Girl](https://open.spotify.com/track/15h9C2CLOJyNNdfNVFcp7m) | [KIRA](https://open.spotify.com/artist/11T32AM3Tp0oYZ3PEWHGLZ), [Hatsune Miku](https://open.spotify.com/artist/2AynL2BUHgIk5ApzFVwDIL) | [Digital Girl](https://open.spotify.com/album/5LyEP5iDIqGJMKbRpsKDMq) | 3:02 | 2022-06-28 | 2022-07-13 |
 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 | 2022-07-26 |  |
-| [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 | 2022-07-26 |  |
+| [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 | 2022-07-26 | 2022-08-23 |
 | [Fire◎Flower \- Live](https://open.spotify.com/track/2em0N9s1HUwDa9qGQyxs6u) | [Len Kagamine](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [初音ミクシンフォニー〜Miku Symphony 2017〜 オーケストラ ライブ](https://open.spotify.com/album/71Xb3lHcKLgdwnMa7mYl3d) | 4:27 | 2022-06-09 | 2022-06-13 |
 | [flos](https://open.spotify.com/track/0qEvefkCUltXldv8EPOSDV) | [R Sound Design](https://open.spotify.com/artist/2KJvs9nIWfFTZ1lk7bBFlW) | [Quartia](https://open.spotify.com/album/4mNIRxw9vfv2XA1zrW0h5i) | 4:34 | 2022-06-09 | 2022-07-28 |
 | [GAME OVER](https://open.spotify.com/track/10v2a17K4NKw2kDA7BnZP5) | [そおだー](https://open.spotify.com/artist/2y8LsL92IyiID6jXKmltch) | [GAME OVER](https://open.spotify.com/album/6FVI5s0rC37l0sITHYzBv1) | 2:19 | 2022-07-14 | 2022-07-20 |
@@ -84,6 +84,7 @@
 | [Party×Party](https://open.spotify.com/track/0ZmoP8er16GcUglbOdSgoY) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [Polkadodge](https://open.spotify.com/album/40XC0a7Qa96B9LqpwUVkSw) | 3:39 | 2022-07-10 | 2022-07-12 |
 | [Philosophia](https://open.spotify.com/track/2YNNwEliMwd8LeCyFTCo2S) | [Fty](https://open.spotify.com/artist/2eLKdQdoCJK5wmiMwVrsc7), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Philosophia](https://open.spotify.com/album/23vJKxqQjqOh0SP8NuF2m5) | 3:01 | 2022-06-14 | 2022-06-22 |
 | [Q](https://open.spotify.com/track/2WgDt1Kuh0boQmwytT840h) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [アルターワー・セツナポップ](https://open.spotify.com/album/7DoSwfUqVHcgLtuh2MIR46) | 4:18 | 2022-06-09 | 2022-07-11 |
+| [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 | 2022-08-18 |  |
 | [quiet room](https://open.spotify.com/track/5cAn0MCLfizdk0v7qVlPXx) | [ewe](https://open.spotify.com/artist/1CjBPbIrY2V0MK7LZnz4rv) | [troy](https://open.spotify.com/album/3a1HOc9H3mko6rhStgCjws) | 3:39 | 2022-06-09 | 2022-07-22 |
 | [rabbit](https://open.spotify.com/track/24FpmtvLCN7ExbThu78Ppe) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ANGRY DOG](https://open.spotify.com/album/3XlpgvHos5aLXf6QufH8B4) | 2:27 | 2022-06-14 | 2022-06-18 |
 | [Ready Steady \(feat\. Hatsune Miku, Kagamine Rin, Kagamine Len\)](https://open.spotify.com/track/1GxzaUNoSvzNqL4JB9ztXq) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Rin Kagamine](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Len Kagamine](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [Ready Steady \(feat\. Hatsune Miku, Kagamine Rin, Kagamine Len\)](https://open.spotify.com/album/2HV8ahtbsU762FOLtlepiN) | 3:29 | 2022-06-23 | 2022-07-24 |
@@ -317,7 +318,7 @@
 | [一角獣](https://open.spotify.com/track/6OcfNne5vPOrkthIvwPe9a) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [一角獣](https://open.spotify.com/album/3JtEzwAfXhTcRr3FbONylo) | 3:37 | 2022-06-09 | 2022-07-28 |
 | [不埒な喝采](https://open.spotify.com/track/1yALlDzyQ4MbzEtMosEJkk) | [音楽的同位体 可不\(KAFU\)](https://open.spotify.com/artist/4nZ9ZaF0eFDMDQKgrJgsqC) | [KAF+YOU KAFU COMPILATION ALBUM](https://open.spotify.com/album/6ljHb4t09MebY2WYuP8iQ1) | 2:24 | 2022-06-09 | 2022-07-23 |
 | [不純なベンガラ](https://open.spotify.com/track/3xN6bAYDya63j0tuaTIXXJ) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [不純なベンガラ](https://open.spotify.com/album/43eiB8sDKy4v5spvmTTZdr) | 2:39 | 2022-06-30 | 2022-07-05 |
-| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 |  |
+| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 | 2022-08-23 |
 | [人が歌う曲じゃない](https://open.spotify.com/track/4dOWyhJA2QK2JHsTuEzPgz) | [SajEst](https://open.spotify.com/artist/4w5OjwRCUqwdyNT1wFGp03) | [人が歌う曲じゃない](https://open.spotify.com/album/1WCpiyvA0OxQQM9awKLLhS) | 3:37 | 2022-06-30 | 2022-07-13 |
 | [仮定した夏](https://open.spotify.com/track/3sZaa7Ia4pGRtDncfD3deL) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [幻影EP\-Envy Phantom\-](https://open.spotify.com/album/5fzbipqPBcovgsJTdZHs9K) | 3:06 | 2022-06-23 | 2022-07-19 |
 | [僕にはなにができるかな](https://open.spotify.com/track/0ndD4pjPPzvehbz91ZALYU) | [jijil](https://open.spotify.com/artist/6XPjgI4sxBVWt01zOZDQWg) | [僕にはなにができるかな](https://open.spotify.com/album/4dnj0B9INT5Zq1KHO2MAtB) | 3:36 | 2022-06-14 | 2022-06-18 |

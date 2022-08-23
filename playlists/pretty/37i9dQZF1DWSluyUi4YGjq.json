@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Trementina on cover!",
-  "num_followers": 19952,
+  "num_followers": 19980,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3ODI2MSwwMDAwMDAwMDJjZmYzOWMzMGY2NjIwZjlmNmZkMmU0NWYwZTIyYmQ0",
+  "snapshot_id": "MTY2MDg3ODI2MSwwMDAwMDAwMGRkYzZjODRiOGRhMzU1NDYyOWM2ZGYxOGEwNjgxMmE2",
   "tracks": [
     {
       "added_at": "2022-08-01 16:58:45",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 188050,
-      "name": "Out of Mind",
-      "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 242755,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 188050,
+      "name": "Out of Mind",
+      "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
     },
     {
-      "added_at": "2022-01-07 19:52:45",
-      "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Deceiver",
@@ -637,6 +621,22 @@
       "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
+      "added_at": "2022-01-07 19:52:45",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Despondent Transponder",
@@ -651,22 +651,6 @@
       "duration_ms": 270094,
       "name": "Go and Come Back",
       "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
-      },
-      "artists": [
-        {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
-        }
-      ],
-      "duration_ms": 182745,
-      "name": "Hazy Youth",
-      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -687,18 +671,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Distressor",
-        "url": "https://open.spotify.com/album/74ym7Us7V06Eox5Wg5WqkD"
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
       },
       "artists": [
         {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
         }
       ],
-      "duration_ms": 253443,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/0BvpyzCi6f36IqdRHdA5Fp"
+      "duration_ms": 182745,
+      "name": "Hazy Youth",
+      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
       "added_at": "2022-06-20 23:05:31",
@@ -735,18 +719,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+        "name": "Distressor",
+        "url": "https://open.spotify.com/album/74ym7Us7V06Eox5Wg5WqkD"
       },
       "artists": [
         {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
         }
       ],
-      "duration_ms": 270281,
-      "name": "The Dead Are Dumb",
-      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+      "duration_ms": 253443,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/0BvpyzCi6f36IqdRHdA5Fp"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -767,6 +751,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270281,
+      "name": "The Dead Are Dumb",
+      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Find Yourself Along The Way",
         "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 242066,
       "name": "Now I Know You Could Never Be The One",
       "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS"
+      },
+      "artists": [
+        {
+          "name": "Pasteboard",
+          "url": "https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Breakbeats",
+      "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -811,22 +827,6 @@
       "duration_ms": 151560,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS"
-      },
-      "artists": [
-        {
-          "name": "Pasteboard",
-          "url": "https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Breakbeats",
-      "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Citrus",
         "url": "https://open.spotify.com/album/3i8QvhKyRoIQmkyACiHsye"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 257173,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
     },
     {
       "added_at": "2022-04-22 18:11:35",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Colour Trip",
-        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
-      },
-      "artists": [
-        {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Nature Heart Software",
         "url": "https://open.spotify.com/album/25NpVtdgL29klIrre3mion"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 217728,
       "name": "Pretend to Be Here",
       "url": "https://open.spotify.com/track/0yDvw3DK4JVV8VR1S7aQRZ"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Colour Trip",
+        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
+      },
+      "artists": [
+        {
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Catch a Fade",
-      "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Lesser Matters",
         "url": "https://open.spotify.com/album/4qkV5iPkYOzXBveXuFIRQC"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 293160,
       "name": "Keen on Boys",
       "url": "https://open.spotify.com/track/1SbeUtO3YCeSGccurWHHBP"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Catch a Fade",
+      "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1165,6 +1165,22 @@
       "url": "https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Our Goal to Realise",
+        "url": "https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1"
+      },
+      "artists": [
+        {
+          "name": "Amusement Parks On Fire",
+          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
+        }
+      ],
+      "duration_ms": 197563,
+      "name": "Our Goal to Realise",
+      "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
+    },
+    {
       "added_at": "2022-01-21 14:06:58",
       "album": {
         "name": "Famously Alive",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Our Goal to Realise",
-        "url": "https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1"
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
       "artists": [
         {
-          "name": "Amusement Parks On Fire",
-          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
         }
       ],
-      "duration_ms": 197563,
-      "name": "Our Goal to Realise",
-      "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1211,22 +1227,6 @@
       "duration_ms": 273533,
       "name": "Runner",
       "url": "https://open.spotify.com/track/0RQxFgbBERaBh9S2GEzXrk"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
-      },
-      "artists": [
-        {
-          "name": "The Pains Of Being Pure At Heart",
-          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "Heart in Your Heartbreak",
-      "url": "https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "View No Country",
         "url": "https://open.spotify.com/album/3BNTd1ct9IBA2k2Gzp8EHj"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 178121,
       "name": "Glass Valley",
       "url": "https://open.spotify.com/track/1r55rKvt0UH8nyEaras6V6"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
+      },
+      "artists": [
+        {
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Heart in Your Heartbreak",
+      "url": "https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 405324,
+      "name": "S.W.I.M.",
+      "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Winks & Kisses: Melted",
         "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 385533,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/5Fmk7akgjEpRI4vvu7CQ2m"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
-      },
-      "artists": [
-        {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
-        }
-      ],
-      "duration_ms": 405324,
-      "name": "S.W.I.M.",
-      "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/2SywxWP4IsaFO8zo9G3Ogx"
+      },
+      "artists": [
+        {
+          "name": "Blankenberge",
+          "url": "https://open.spotify.com/artist/0N9CUdcRxZfnPGAmbkuUrm"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Look Around",
+      "url": "https://open.spotify.com/track/5cTWjmahOp7R6KGy7cAhmM"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Dead Kids R.I.P. City",
         "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/2SywxWP4IsaFO8zo9G3Ogx"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
       },
       "artists": [
         {
-          "name": "Blankenberge",
-          "url": "https://open.spotify.com/artist/0N9CUdcRxZfnPGAmbkuUrm"
+          "name": "Slow Crush",
+          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
         }
       ],
-      "duration_ms": 257533,
-      "name": "Look Around",
-      "url": "https://open.spotify.com/track/5cTWjmahOp7R6KGy7cAhmM"
+      "duration_ms": 290362,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/6ELfcFQ3kRxPfdCoGnNaaj"
     },
     {
       "added_at": "2022-01-14 02:28:22",
@@ -1551,22 +1567,6 @@
       "duration_ms": 265600,
       "name": "While My Waves Wonder",
       "url": "https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
-      },
-      "artists": [
-        {
-          "name": "Slow Crush",
-          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
-        }
-      ],
-      "duration_ms": 290362,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/6ELfcFQ3kRxPfdCoGnNaaj"
     },
     {
       "added_at": "2021-10-19 01:47:29",

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-114 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
+115 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Nindiya Na Aaye](https://open.spotify.com/track/7ioAQhNCKwt4JyXLDQVLH1) | [Prathama Dey](https://open.spotify.com/artist/5EnfdD46Y3dkuPg30FQt5B), [Prajna Dutta](https://open.spotify.com/artist/4CFjungEFZLSKaGjl9su8I) | [Nindiya Na Aaye](https://open.spotify.com/album/0dO7G9X3n7psqVAmWjy8Hw) | 3:45 | 2022-05-17 |  |
 | [Nirvana](https://open.spotify.com/track/6AIMkgFs253hoN9dLa5NA6) | [SoundGuySam](https://open.spotify.com/artist/46kwfZuv8Zp5s1lmeOvjTw), [Vāhaka](https://open.spotify.com/artist/2fNCMrjJFeeQVLhdS4tE8m) | [Nirvana](https://open.spotify.com/album/0JqNvIfu12IkoCUVBWn9iN) | 3:00 | 2022-05-17 |  |
 | [One Family \(Live\)](https://open.spotify.com/track/1jDSX9yXzRyvkZSlwsOBbg) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Shiva \- Ricky Kej Live in India](https://open.spotify.com/album/6Pex7upO82T6FsWCXMBac6) | 4:00 | 2022-05-17 |  |
-| [Ooch Apaar](https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW) | 7:00 | 2022-07-12 |  |
+| [Ooch Apaar](https://open.spotify.com/track/14jmLovqc2rOc2KDqwd8Yw) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/10QCudlJoZPHcoPBDTc1mA) | 7:00 | 2022-07-12 |  |
+| [Ooch Apaar](https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW) | 7:00 | 2022-07-12 | 2022-08-23 |
 | [Ooch Apaar](https://open.spotify.com/track/2WoPxsPKf6nnPSY1Gk5i6O) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/3pWzIncx5VZObkjD96UhMH) | 7:00 | 2022-05-17 | 2022-07-29 |
 | [Piya: Basant Mukhari](https://open.spotify.com/track/32w1dhGQnuAoH4QiqtIWkH) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Junaid Bashir](https://open.spotify.com/artist/5LjIrV2myp40iKTOYOBcVa) | [Piya: Basant Mukhari](https://open.spotify.com/album/2u75yNIlGpJhdJ5zQfAxOl) | 5:41 | 2022-05-17 |  |
 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 | 2022-05-17 |  |

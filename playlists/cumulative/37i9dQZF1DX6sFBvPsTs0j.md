@@ -4,7 +4,7 @@
 
 > Easy and relaxed piano jazz for a quiet time.
 
-110 songs - 6 hr 50 min - not published yet
+110 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/47TMtG71WaoyKFakM6fHQB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

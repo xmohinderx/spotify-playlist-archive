@@ -4,7 +4,7 @@
 
 > We hear you.
 
-475 songs - 23 hr 33 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+476 songs - 23 hr 36 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Come Home Soon / Lucky Guy](https://open.spotify.com/track/5QJgQlImvVDa8pauWe95hM) | [Amory Reel](https://open.spotify.com/artist/44dsasJyVO0Af5szF9gGyB), [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S) | [Come Home Soon / Lucky Guy](https://open.spotify.com/album/5WsoGlICNv9JnUHQltTKSQ) | 2:34 | 2022-04-12 | 2022-07-29 |
 | [comeonback](https://open.spotify.com/track/4ExzOpLMnBM8G5QJbH8bP4) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [comeonback](https://open.spotify.com/album/6VlrUsL7I1CpJ9pKaOajun) | 2:51 | 2022-06-10 | 2022-06-14 |
 | [could cry just thinkin about you \- Full Version](https://open.spotify.com/track/3H7oAhHxkEkSf9iomv2mbG) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [could cry just thinkin about you \(Full Version\)](https://open.spotify.com/album/1Bpk6tZBLbgouOaYryoKyH) | 2:38 | 2021-07-19 | 2022-05-26 |
-| [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-08-09 |  |
+| [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-08-09 | 2022-08-23 |
 | [Crybaby](https://open.spotify.com/track/2bXOylRRysIa9H2OBt1TBj) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Crybaby](https://open.spotify.com/album/1P7qBeQFQthjTSOTQ1FmEy) | 3:25 | 2021-04-02 | 2022-07-12 |
 | [Dad](https://open.spotify.com/track/5x99jhGlbn0g4WLDwtfHhK) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [Dad](https://open.spotify.com/album/5EGOyf7afVwEwgNx78TPj6) | 3:57 | 2021-10-08 | 2022-04-18 |
 | [Dance with Me](https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH) | [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C) | [Love Is the Same as Sadness](https://open.spotify.com/album/4JcORch57yBGLItxgest7E) | 1:27 | 2021-10-26 |  |
@@ -271,6 +271,7 @@
 | [Lost In Between](https://open.spotify.com/track/0rQV8yyM0fjQmZjlJnIR7Y) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Lost In Between](https://open.spotify.com/album/3jvcWLmClkYbMO3dqmHg00) | 2:04 | 2021-04-02 | 2022-07-19 |
 | [lost someone](https://open.spotify.com/track/6W6CoZ8ljg8uRC2DZOYWBU) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [lost someone](https://open.spotify.com/album/6cdqjl1RgRQGp8J2K4U0Vw) | 2:25 | 2021-04-02 | 2022-07-28 |
 | [Love Flew Away](https://open.spotify.com/track/5uAtnvrLOUDcTp9sfpxaQt) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/7yNnjSXqGCF3H1hEwJMwa5) | 2:27 | 2021-10-08 | 2022-04-19 |
+| [Love Flew Away](https://open.spotify.com/track/6FwkV9baY3ERqmxPsBLzYf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/3WvXQcV3BhJqued0PYn23U) | 2:27 | 2022-08-12 |  |
 | [love hurts](https://open.spotify.com/track/5ZFDe85SjknlaOXEF3f2zc) | [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [love hurts](https://open.spotify.com/album/2eOi5ApV50tDp9ihQALpdM) | 2:53 | 2021-04-02 | 2022-05-02 |
 | [Love Me](https://open.spotify.com/track/0Yzq98PNZxKoxjuEC2btuR) | [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH), [Aidan](https://open.spotify.com/artist/2p9YQq5YvvPaD4fj8aOCyk), [Darkforestdrives](https://open.spotify.com/artist/2cSQeOPLyCdUv6bUMmquqT) | [Love Me](https://open.spotify.com/album/16QZYEo9chNsQPae948tR2) | 1:57 | 2021-04-02 | 2022-04-15 |
 | [Love Me Like a Fool](https://open.spotify.com/track/7mtVTmh197xn1JYcZekASZ) | [Lokel](https://open.spotify.com/artist/07AgMHs4EQzev6JLB90W2N), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Annamarie Rosanio](https://open.spotify.com/artist/7LtYuMQ3wFY4fGX8Rvq6gD) | [Love Me Like a Fool](https://open.spotify.com/album/0A1uGmmpOS6v9InuWfSZNI) | 2:18 | 2021-04-02 | 2022-06-03 |

@@ -1,35 +1,47 @@
 {
   "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Vale Pain",
-  "num_followers": 712794,
+  "num_followers": 713395,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MjgyOCwwMDAwMDAwMDhjMmUyNGQxYWQxZTY5ZjFlZDM3M2I5NGRhMmYzODIx",
+  "snapshot_id": "MTY2MTE3NjI2NCwwMDAwMDAwMDA4ZjBmNzEwNTllNjBiZTA1MzkwYzYyMmZhN2ViMDNm",
   "tracks": [
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j"
+        "name": "MUJER",
+        "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
       },
       "artists": [
         {
-          "name": "Vale pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
         }
       ],
-      "duration_ms": 163624,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB"
+      "duration_ms": 161739,
+      "name": "MUJER",
+      "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
+      "album": {
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
+    },
+    {
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
@@ -53,23 +65,27 @@
       "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
-        "name": "Hustle Mixtape",
-        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Capri Sun",
-      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
+      "duration_ms": 163624,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "T\u00caTE (feat. Medy & VillaBanks)",
         "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
@@ -93,23 +109,7 @@
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
-      "album": {
-        "name": "MUJER",
-        "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "MUJER",
-      "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
-    },
-    {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Regina del Block",
         "url": "https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Hace Calor (Remix)",
         "url": "https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Quanto Manca",
         "url": "https://open.spotify.com/album/4zxnDWLdTfs3UnOkPqaziK"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/5by3TCFHK3YRQzxpR9PcZ0"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Rozzi",
         "url": "https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/5BpDpH327X9ExEJr4Oa5UY"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "LISTA 47",
         "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "CASA",
         "url": "https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "La Notte di San Lorenzo",
         "url": "https://open.spotify.com/album/2GdSyJJhZiVTauVviRoycI"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Sottozero",
         "url": "https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/0D7gNQErvyNXUo8fwhJtiA"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "T\u00e9l\u00e9phone",
         "url": "https://open.spotify.com/album/7Ma1ztWIbhK1vX1Fu24WEt"
@@ -389,7 +389,27 @@
       "url": "https://open.spotify.com/track/76YfUp0DTnERvtZokyU6jm"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
+      "album": {
+        "name": "Michelle Pfeiffer (feat. Tony Effe)",
+        "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 180774,
+      "name": "Michelle Pfeiffer (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
+    },
+    {
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Non \u00e8 Easy",
         "url": "https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "3 DI CUORI (feat. Lazza)",
         "url": "https://open.spotify.com/album/7IScTLAkymhF5ltesag29N"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/4hPNVvtU3MXV6Oefi11Zx3"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/7d7xucQmFY7PoESyJm2V9J"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "LAPROVINCE #2",
         "url": "https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "PLC tape 1",
         "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Dark Love EP",
         "url": "https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/2B2jQ2cdbrsWs1XmjVhdrU"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Che Stai Dicenn (feat. Paky)",
         "url": "https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Thick (feat. MamboLosco) [Remix]",
         "url": "https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c"
@@ -593,31 +613,7 @@
       "url": "https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
-      "album": {
-        "name": "BUBBLE (feat. thasup & Salmo)",
-        "url": "https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp"
-      },
-      "artists": [
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        },
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 164327,
-      "name": "BUBBLE (feat. thasup & Salmo)",
-      "url": "https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"
-    },
-    {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Niente da perdere",
         "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
@@ -633,7 +629,7 @@
       "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
@@ -677,7 +673,7 @@
       "url": "https://open.spotify.com/track/3I8BqKLrfzZk1oGRe2pcnV"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
@@ -693,7 +689,7 @@
       "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Ma Jolie (feat. ANNA)",
         "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
@@ -713,7 +709,7 @@
       "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Cancelo",
         "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
@@ -729,7 +725,7 @@
       "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
@@ -761,7 +757,7 @@
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "LISTA 47",
         "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
@@ -781,7 +777,31 @@
       "url": "https://open.spotify.com/track/2CWHg8U4e8aMz4x2aL6P3O"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
+      "album": {
+        "name": "BUBBLE (feat. thasup & Salmo)",
+        "url": "https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp"
+      },
+      "artists": [
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 164327,
+      "name": "BUBBLE (feat. thasup & Salmo)",
+      "url": "https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"
+    },
+    {
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Hustle Mixtape",
         "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/1W5uxws5Pwf5ujQZFgZyPS"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Dark Love EP",
         "url": "https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW"
@@ -829,27 +849,7 @@
       "url": "https://open.spotify.com/track/2t0Bn0De4p0F9XCDv5ftVJ"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
-      "album": {
-        "name": "Michelle Pfeiffer (feat. Tony Effe)",
-        "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 180774,
-      "name": "Michelle Pfeiffer (feat. Tony Effe)",
-      "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
-    },
-    {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "GASOLINA",
         "url": "https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Eclissi",
         "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Salvatore",
         "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
@@ -901,7 +901,23 @@
       "url": "https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
+      "album": {
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "duration_ms": 183762,
+      "name": "ch1 5ei te",
+      "url": "https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk"
+    },
+    {
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Possessivo",
         "url": "https://open.spotify.com/album/0m2q33Rwf9bgzJVIishvPN"
@@ -921,23 +937,7 @@
       "url": "https://open.spotify.com/track/1StQ4CHZwKz54nXwZ1O3VM"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
-      "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 183762,
-      "name": "ch1 5ei te",
-      "url": "https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk"
-    },
-    {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Ferro del mestiere",
         "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/20R9mqRNIAFyUl849j9DOc"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Il meglio di te",
         "url": "https://open.spotify.com/album/0TYQyv9BG0D1M60K7l85xz"
@@ -977,23 +977,31 @@
       "url": "https://open.spotify.com/track/2eTXrwuncNqUOAxw2YJ8lv"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
-        "name": "Lucifero",
-        "url": "https://open.spotify.com/album/2Gy6N1OiAJu8CBnmR2M6df"
+        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Sixpm",
+          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
         }
       ],
-      "duration_ms": 173907,
-      "name": "Lucifero",
-      "url": "https://open.spotify.com/track/49wZe6prFOo9iSHwsUXrLO"
+      "duration_ms": 137514,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "MILLIONAIRE (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/0AFuYaehOV5NKGPvmxc4t2"
@@ -1025,31 +1033,7 @@
       "url": "https://open.spotify.com/track/3EWOOws0Ssrzo3vVFKn5M2"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
-      "album": {
-        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Sixpm",
-          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
-        }
-      ],
-      "duration_ms": 137514,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy"
-    },
-    {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "PYPPARE",
         "url": "https://open.spotify.com/album/246AxAt6mteMy8NmGHD23U"
@@ -1065,7 +1049,23 @@
       "url": "https://open.spotify.com/track/2jDqFufZErKkm9JXgPc4lF"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
+      "album": {
+        "name": "Lucifero",
+        "url": "https://open.spotify.com/album/2Gy6N1OiAJu8CBnmR2M6df"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 173907,
+      "name": "Lucifero",
+      "url": "https://open.spotify.com/track/49wZe6prFOo9iSHwsUXrLO"
+    },
+    {
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Sole Di Fine Estate",
         "url": "https://open.spotify.com/album/5AgCmGU3wXyXgA60tNXoSp"
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/7LnmTuGOt6jO9u4fGtk7KY"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "A TE",
         "url": "https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu"
     },
     {
-      "added_at": "2022-08-17 19:00:28",
+      "added_at": "2022-08-22 13:51:04",
       "album": {
         "name": "Sarabamba (feat. Gu\u00e8 & Crookers)",
         "url": "https://open.spotify.com/album/0885yPqvgNKCwcjvfSqGpK"

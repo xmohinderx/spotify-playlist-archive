@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Demi Lovato
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,686 likes - 62 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,884 likes - 62 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

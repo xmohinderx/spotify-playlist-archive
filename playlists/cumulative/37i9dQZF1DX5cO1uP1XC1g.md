@@ -2,7 +2,7 @@
 
 ### [Hot Arabic Hits \- Yalla يلا](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> Top Arabic hits are right here\. Cover: Tamer Hosny
+> Top Arabic hits are right here\. Cover: Elissa
 
 205 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
 

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-489 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+490 songs - 1 day 1 hr 8 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/6cygxIDSnHZtXI6LoidQdl) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Yaşım Çocuk](https://open.spotify.com/album/1rNrR7VKloorfaGSqunZoM) | 3:43 | 2021-09-14 | 2021-09-19 |
 | [Aşkın Mevsimi](https://open.spotify.com/track/15jCqbm4Fgcv6ux2lv2f1u) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/203bUdZtsey2yU4IMm07TX) | 2:44 | 2021-12-05 | 2022-01-05 |
 | [Aşkın Mevsimi](https://open.spotify.com/track/5jDtKz2JrYTvvU6b130S7g) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/1kGWYJoR7TE8Hr8crj9rgv) | 2:44 | 2022-01-04 | 2022-01-23 |
+| [Aşkın Olayım](https://open.spotify.com/track/4o4kbDP7DMVFPwAf5D5bj9) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ben Bazen](https://open.spotify.com/album/3q1dbJRFdUAdvRcq7Kmwra) | 4:11 | 2022-08-22 |  |
 | [Aşığın Kaderi](https://open.spotify.com/track/03LlyuzR1zbPjMypv1Y1rp) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Aşığın Kaderi](https://open.spotify.com/album/2JdGneZvzps1z7MyvGmQHV) | 2:50 | 2021-08-14 | 2021-10-23 |
 | [B.S.G.](https://open.spotify.com/track/5KvWAPJDBNXzy5l1bywB7x) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [BEGEFENDİ](https://open.spotify.com/album/5uNcIKJl8eyNoVoqqT5744) | 2:10 | 2021-03-27\* | 2021-05-03 |
 | [Baba](https://open.spotify.com/track/4WVOnhv2a3vvBAzHbmdGHW) | [Ayaz Erdoğan](https://open.spotify.com/artist/2Y2hYlVGlZpTHAQ9UMaBCA), [Mengelez](https://open.spotify.com/artist/0YmKSLAY5SI1foE3K14u4g) | [Baba](https://open.spotify.com/album/5Lp153xQofl3Mje7Car9la) | 3:35 | 2021-10-07 | 2022-03-11 |
@@ -141,7 +142,7 @@
 | [Dua](https://open.spotify.com/track/3HEfzQob3O16TIDMPC8PTx) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Dua](https://open.spotify.com/album/6fHpLB45cLhowUDf1nHWkY) | 2:58 | 2021-03-27\* | 2022-05-15 |
 | [Dumanı Pasla](https://open.spotify.com/track/3kMcV1es4HbWcWBhcteJ8Z) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Dumanı Pasla](https://open.spotify.com/album/2ECbsBHlISVQnCcl5o2qqj) | 2:12 | 2021-03-27\* | 2021-08-15 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-05-23 | 2021-06-01 |
-| [Dünya Fani](https://open.spotify.com/track/0zryFWOTwY1BDcED6t27Sl) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Dünya Fani](https://open.spotify.com/album/64V9p8p4BqCA08eZRolk9l) | 1:56 | 2022-06-18 |  |
+| [Dünya Fani](https://open.spotify.com/track/0zryFWOTwY1BDcED6t27Sl) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Dünya Fani](https://open.spotify.com/album/64V9p8p4BqCA08eZRolk9l) | 1:56 | 2022-06-18 | 2022-08-23 |
 | [Dünya Hain](https://open.spotify.com/track/0qNeSaQsn2MzBppf6T8GdR) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Dünya Hain](https://open.spotify.com/album/3RAvIEnzET2DeC0ic8MNsx) | 2:25 | 2021-06-27 | 2021-12-05 |
 | [Dünyadan Uzak](https://open.spotify.com/track/10NnCVzVNbaY3tdDz5dFoO) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Küçük Bir Evde](https://open.spotify.com/album/4WmKO5722P0CVAOtiRcjDf) | 4:07 | 2021-05-03 | 2021-05-13 |
 | [Dünyadan Uzak](https://open.spotify.com/track/4KhTyJ1cJeHaY4ZS2u3e6A) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Dünyadan Uzak](https://open.spotify.com/album/1PExAwetChNI0MiLcDnBuX) | 4:07 | 2021-03-27\* | 2021-05-03 |

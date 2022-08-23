@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Fabri Fibra
 
-69 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/5H6hqlvktBn3pbjzKS7Ytr)
+70 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/5H6hqlvktBn3pbjzKS7Ytr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Freccia](https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:21 | 2022-04-15 | 2022-06-10 |
 | [Fredda, Triste, Pericolosa \(feat\. Franco126\)](https://open.spotify.com/track/3ZoM03sEG6GR213z2cqYzO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:51 | 2022-04-15 | 2022-06-10 |
 | [GHIGLIOTTINA \- feat\. Noyz Narcos](https://open.spotify.com/track/01BCvCKQNDmFQQQSjrzPnm) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 3:06 | 2022-04-15 |  |
-| [Guess Who's Back](https://open.spotify.com/track/2jWBTpS709oRAG7GwbPU8X) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Guess Who's Back](https://open.spotify.com/album/2G9p4nrpfNHzjg1QLEaxTr) | 3:13 | 2022-04-15 |  |
+| [Guess Who's Back](https://open.spotify.com/track/2jWBTpS709oRAG7GwbPU8X) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Guess Who's Back](https://open.spotify.com/album/2G9p4nrpfNHzjg1QLEaxTr) | 3:13 | 2022-04-15 | 2022-08-23 |
 | [Intro \(Cielo\)](https://open.spotify.com/track/7luFLdyoCkAyNZm3BEGAAT) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 2:24 | 2022-04-15 |  |
 | [Italian Hustler \(feat\. Rasty Kilo\)](https://open.spotify.com/track/7us2M1m8cXkpHMBbEgFAiH) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:43 | 2022-04-15 |  |
 | [JEFE](https://open.spotify.com/track/1BxkDfTQIhGJD6Xupq2XW5) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:15 | 2022-04-15 |  |
@@ -71,6 +71,7 @@
 | [Top \(feat\. MadMan\)](https://open.spotify.com/track/2aH4Ec7vu87IeXFrtjtR17) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:11 | 2022-05-12 |  |
 | [TOPBOY \(feat\. Noyz Narcos\)](https://open.spotify.com/track/0FvfjiQZ5vEO4XLGX5Uubk) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:26 | 2022-04-15 |  |
 | [Trips! \(feat\. Noyz Narcos & Yung Snapp\)](https://open.spotify.com/track/43P3NYzztjQHkxoai6MbB9) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 2:29 | 2022-06-16 |  |
+| [Tutto bene](https://open.spotify.com/track/48bU70Alq9O3HHIBwiaFX3) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Tutto bene](https://open.spotify.com/album/2bzUMRxsqJ3cceZWFA71zB) | 3:02 | 2022-08-22 |  |
 | [Veleno 8 \(feat\. Gemitaiz\)](https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 3:02 | 2022-04-15 |  |
 | [Vita sbagliata](https://open.spotify.com/track/46k6vPzXj1JYKFqJNghNHA) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:13 | 2022-04-15 |  |
 | [Vivi o muori \(feat\. Guè\)](https://open.spotify.com/track/7Fg7qvvwCR3NyHWya91x2o) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:04 | 2022-04-15 |  |

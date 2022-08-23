@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 150491,
       "name": "Alpine Green",
       "url": "https://open.spotify.com/track/08uGjY2kDm5kGVzmQs9k8D"
@@ -193,6 +193,24 @@
       "duration_ms": 150491,
       "name": "Alpine Green",
       "url": "https://open.spotify.com/track/1xsPUCsAv5Z7nngtLN5iqD"
+    },
+    {
+      "album": {
+        "name": "Alpine Green",
+        "url": "https://open.spotify.com/album/0nocoG26Snubuxek095d2y"
+      },
+      "artists": [
+        {
+          "name": "Jol\u00e9",
+          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150491,
+      "name": "Alpine Green",
+      "url": "https://open.spotify.com/track/5eBrtJj35okckUbYP78X14"
     },
     {
       "album": {
@@ -1757,6 +1775,24 @@
     {
       "album": {
         "name": "Silver Lake",
+        "url": "https://open.spotify.com/album/2Nrtj9B5oaJjJh1fOpBtQZ"
+      },
+      "artists": [
+        {
+          "name": "Jol\u00e9",
+          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181924,
+      "name": "Tie Dye Sky",
+      "url": "https://open.spotify.com/track/5ULS4kXKJNRkG9mujwVk0l"
+    },
+    {
+      "album": {
+        "name": "Silver Lake",
         "url": "https://open.spotify.com/album/2ZJ7wzD8v8RgtySFCV07N0"
       },
       "artists": [
@@ -1767,7 +1803,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 181924,
       "name": "Tie Dye Sky",
       "url": "https://open.spotify.com/track/6o7OsKYzOr4xybQPG4xe3s"

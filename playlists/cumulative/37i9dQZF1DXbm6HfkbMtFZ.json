@@ -1254,6 +1254,24 @@
     },
     {
       "album": {
+        "name": "Coney Island Baby",
+        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159093,
+      "name": "Charley's Girl",
+      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+    },
+    {
+      "album": {
         "name": "Get in My Fanny Pack and Let's Go",
         "url": "https://open.spotify.com/album/6ZEYAnIq5z89j5TTczUPH7"
       },
@@ -2968,6 +2986,24 @@
     },
     {
       "album": {
+        "name": "You and Me and Everything",
+        "url": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
+      },
+      "artists": [
+        {
+          "name": "T\u014dth",
+          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216901,
+      "name": "I Might Be",
+      "url": "https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH"
+    },
+    {
+      "album": {
         "name": "I Need a Win",
         "url": "https://open.spotify.com/album/5JpGdKzgcd0mpViRp7ebPY"
       },
@@ -4653,7 +4689,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 233906,
       "name": "No Ending",
       "url": "https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC"
@@ -6253,7 +6289,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 239952,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/2tuk3PezhFMV8fBB433tV0"

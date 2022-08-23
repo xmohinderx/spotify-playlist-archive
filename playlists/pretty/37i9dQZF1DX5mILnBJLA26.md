@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU?si=5Ku1ujtZSjm4jFhct9YE2g">Lowsheen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,267 likes - 80 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,626 likes - 80 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

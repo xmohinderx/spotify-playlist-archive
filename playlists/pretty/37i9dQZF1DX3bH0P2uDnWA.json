@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 300978,
+  "num_followers": 301242,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGY1YTU1ZGJhOTUwNjdhMzgzZDllNDZlY2ZiODlkZDAz",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDAzMGFkYTU0ZWVlMzI0YjVkNjE4MTcyOTk5ODM3MDAz",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -255,22 +255,18 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/61jQJZcSYFp8Qm6zNJoy6m"
+        "name": "It Flew By",
+        "url": "https://open.spotify.com/album/3PwKRBTI8qZfij6rcT7bP2"
       },
       "artists": [
         {
-          "name": "Jamie Berry",
-          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
-        },
-        {
-          "name": "Octavia Rose",
-          "url": "https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9"
+          "name": "The Electric Swing Circus",
+          "url": "https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY"
         }
       ],
-      "duration_ms": 344000,
-      "name": "Delight",
-      "url": "https://open.spotify.com/track/36kaImsnzRzsU6L4cvWP6s"
+      "duration_ms": 190508,
+      "name": "Empires",
+      "url": "https://open.spotify.com/track/1WdbMVvjfOV8M0tkRVilKh"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -291,18 +287,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "It Flew By",
-        "url": "https://open.spotify.com/album/3PwKRBTI8qZfij6rcT7bP2"
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/61jQJZcSYFp8Qm6zNJoy6m"
       },
       "artists": [
         {
-          "name": "The Electric Swing Circus",
-          "url": "https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY"
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        },
+        {
+          "name": "Octavia Rose",
+          "url": "https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9"
         }
       ],
-      "duration_ms": 190508,
-      "name": "Empires",
-      "url": "https://open.spotify.com/track/1WdbMVvjfOV8M0tkRVilKh"
+      "duration_ms": 344000,
+      "name": "Delight",
+      "url": "https://open.spotify.com/track/36kaImsnzRzsU6L4cvWP6s"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -339,50 +339,6 @@
       "duration_ms": 210708,
       "name": "Horny - Electro Swing Version",
       "url": "https://open.spotify.com/track/5KdJVf0tqurkIDdBEbIJVG"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Light up the Night",
-        "url": "https://open.spotify.com/album/5GaoXt4qjX5tgjq8QbwbXf"
-      },
-      "artists": [
-        {
-          "name": "Jamie Berry",
-          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
-        },
-        {
-          "name": "Robert Edwards",
-          "url": "https://open.spotify.com/artist/7zXWnYi4ciLWNWSxkuUb4d"
-        },
-        {
-          "name": "Andrew Griffiths",
-          "url": "https://open.spotify.com/artist/46lNBEk84eMi1hXP3lXPHZ"
-        },
-        {
-          "name": "Octavia Rose",
-          "url": "https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9"
-        }
-      ],
-      "duration_ms": 233879,
-      "name": "Light up the Night",
-      "url": "https://open.spotify.com/track/0XNJwK6IhwfqvsNEZ2Q6q8"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Mambo Rap",
-        "url": "https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "Mambo Rap",
-      "url": "https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -455,6 +411,50 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Light up the Night",
+        "url": "https://open.spotify.com/album/5GaoXt4qjX5tgjq8QbwbXf"
+      },
+      "artists": [
+        {
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        },
+        {
+          "name": "Robert Edwards",
+          "url": "https://open.spotify.com/artist/7zXWnYi4ciLWNWSxkuUb4d"
+        },
+        {
+          "name": "Andrew Griffiths",
+          "url": "https://open.spotify.com/artist/46lNBEk84eMi1hXP3lXPHZ"
+        },
+        {
+          "name": "Octavia Rose",
+          "url": "https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9"
+        }
+      ],
+      "duration_ms": 233879,
+      "name": "Light up the Night",
+      "url": "https://open.spotify.com/track/0XNJwK6IhwfqvsNEZ2Q6q8"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Mambo Rap",
+        "url": "https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Mambo Rap",
+      "url": "https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "The Little Man Who Wasn't There",
         "url": "https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX"
       },
@@ -483,26 +483,6 @@
       "duration_ms": 196586,
       "name": "Swing It Like Roger",
       "url": "https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Candy Girl",
-        "url": "https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        },
-        {
-          "name": "Vallemarie",
-          "url": "https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g"
-        }
-      ],
-      "duration_ms": 162075,
-      "name": "Candy Girl",
-      "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -577,6 +557,46 @@
       "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Candy Girl",
+        "url": "https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        },
+        {
+          "name": "Vallemarie",
+          "url": "https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g"
+        }
+      ],
+      "duration_ms": 162075,
+      "name": "Candy Girl",
+      "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Pressure (Klisch\u00e9e Remix)",
+        "url": "https://open.spotify.com/album/0l4U1q6dwgAYVSQq4YwwlK"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        },
+        {
+          "name": "Marina & The Kats",
+          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Pressure - Klisch\u00e9e Remix",
+      "url": "https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2"
+    },
+    {
       "added_at": "2022-05-13 04:03:00",
       "album": {
         "name": "Boring 20s",
@@ -599,42 +619,6 @@
       "duration_ms": 170619,
       "name": "Boring 20s",
       "url": "https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Brass Devil",
-        "url": "https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 232431,
-      "name": "Brass Devil",
-      "url": "https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Pressure (Klisch\u00e9e Remix)",
-        "url": "https://open.spotify.com/album/0l4U1q6dwgAYVSQq4YwwlK"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        },
-        {
-          "name": "Marina & The Kats",
-          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Pressure - Klisch\u00e9e Remix",
-      "url": "https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2"
     },
     {
       "added_at": "2021-09-10 04:02:00",
@@ -689,40 +673,20 @@
       "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
     },
     {
-      "added_at": "2021-11-19 05:02:00",
-      "album": {
-        "name": "Crazy Out There",
-        "url": "https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        },
-        {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
-        }
-      ],
-      "duration_ms": 194741,
-      "name": "Crazy Out There",
-      "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Glam! - Single",
-        "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
+        "name": "Brass Devil",
+        "url": "https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO"
       },
       "artists": [
         {
-          "name": "Dimie Cat",
-          "url": "https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI"
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
         }
       ],
-      "duration_ms": 187689,
-      "name": "Glam - Electro-swing Remix",
-      "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
+      "duration_ms": 232431,
+      "name": "Brass Devil",
+      "url": "https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -743,18 +707,38 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
+        "name": "Glam! - Single",
+        "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
       },
       "artists": [
         {
-          "name": "Annella",
-          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+          "name": "Dimie Cat",
+          "url": "https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI"
         }
       ],
-      "duration_ms": 195463,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
+      "duration_ms": 187689,
+      "name": "Glam - Electro-swing Remix",
+      "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
+    },
+    {
+      "added_at": "2021-11-19 05:02:00",
+      "album": {
+        "name": "Crazy Out There",
+        "url": "https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        },
+        {
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "Crazy Out There",
+      "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -807,6 +791,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
+      },
+      "artists": [
+        {
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+        }
+      ],
+      "duration_ms": 195463,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 198666,
       "name": "Back in Time",
       "url": "https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Get This (Bang Bang)",
+        "url": "https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 225728,
+      "name": "Get This (Bang Bang)",
+      "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -855,22 +871,6 @@
       "duration_ms": 200559,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
-    },
-    {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
-        "name": "Get This (Bang Bang)",
-        "url": "https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 225728,
-      "name": "Get This (Bang Bang)",
-      "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
     },
     {
       "added_at": "2021-01-22 10:35:47",
@@ -933,50 +933,6 @@
       "url": "https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Sonia Elisheva",
-          "url": "https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "One for the Road",
-        "url": "https://open.spotify.com/album/6opglzlR3Z9OjX1y0WAfF6"
-      },
-      "artists": [
-        {
-          "name": "Atom Smith",
-          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
-        },
-        {
-          "name": "Miss Emmma",
-          "url": "https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR"
-        },
-        {
-          "name": "Elliot Deutsch",
-          "url": "https://open.spotify.com/artist/22JILoTTk3Xfdc2wNwq6Xf"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "One for the Road",
-      "url": "https://open.spotify.com/track/5YotzD692xl8wcqMi9pj8X"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "The Electric Swing Circus - Remixed Vol. 1",
@@ -1013,6 +969,30 @@
       "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
     },
     {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "One for the Road",
+        "url": "https://open.spotify.com/album/6opglzlR3Z9OjX1y0WAfF6"
+      },
+      "artists": [
+        {
+          "name": "Atom Smith",
+          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
+        },
+        {
+          "name": "Miss Emmma",
+          "url": "https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR"
+        },
+        {
+          "name": "Elliot Deutsch",
+          "url": "https://open.spotify.com/artist/22JILoTTk3Xfdc2wNwq6Xf"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "One for the Road",
+      "url": "https://open.spotify.com/track/5YotzD692xl8wcqMi9pj8X"
+    },
+    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Wake Up Romeo",
@@ -1029,24 +1009,24 @@
       "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Vintage Vibes",
-        "url": "https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy"
       },
       "artists": [
         {
-          "name": "Balduin",
-          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
         },
         {
-          "name": "Kate Thomas",
-          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
+          "name": "Sonia Elisheva",
+          "url": "https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7"
         }
       ],
-      "duration_ms": 202946,
-      "name": "Hep Cat Boogie",
-      "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
+      "duration_ms": 176000,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1113,6 +1093,42 @@
       "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Vintage Vibes",
+        "url": "https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Kate Thomas",
+          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Hep Cat Boogie",
+      "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
+    },
+    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Doorsteps",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "My 20s Woman",
         "url": "https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 186000,
       "name": "My 20s Woman",
       "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
+    },
+    {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "Bongo Chic",
+        "url": "https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052"
+      },
+      "artists": [
+        {
+          "name": "Minimatic",
+          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "The Jungle Jive",
+      "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1191,22 +1207,6 @@
       "duration_ms": 215625,
       "name": "Comin' Up Swinging",
       "url": "https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T"
-    },
-    {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "Bongo Chic",
-        "url": "https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052"
-      },
-      "artists": [
-        {
-          "name": "Minimatic",
-          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "The Jungle Jive",
-      "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Re-Charleston (Electro Swing)",
         "url": "https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 167360,
       "name": "Re-Charleston (Radio Edit)",
       "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
     },
     {
       "added_at": "2021-04-09 04:01:00",

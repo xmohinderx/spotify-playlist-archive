@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43018,
+  "num_followers": 43026,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MjkxMyxkZGIyZTQyYjViNmU2MDM3MWRiODI2YjVlOGUxMDRjZWJkNWUzMDgy",
+  "snapshot_id": "MjkxNiwwODdiYWRjNjk3NzdhMmJiYWJmMjZhYjU3MTU2MmYwN2JlNmRjNzRj",
   "tracks": [
+    {
+      "added_at": "2022-08-22 08:12:07",
+      "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/3tN72V1QkX2fR2EfoJjTmc"
+      },
+      "artists": [
+        {
+          "name": "Roy Ford",
+          "url": "https://open.spotify.com/artist/5gpHAaJzkaLSv0iT2YumRA"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Friday - Radio Edit",
+      "url": "https://open.spotify.com/track/3ez3Ey6MYOrwdhamXfwjob"
+    },
     {
       "added_at": "2022-08-12 08:18:47",
       "album": {
@@ -427,22 +443,6 @@
       "duration_ms": 287269,
       "name": "Synchronise",
       "url": "https://open.spotify.com/track/6f9XYKnQIkBfar5zfEm5Eu"
-    },
-    {
-      "added_at": "2022-06-08 08:19:45",
-      "album": {
-        "name": "R A B O N A",
-        "url": "https://open.spotify.com/album/18mWb3oJws5PhyH8aETKZs"
-      },
-      "artists": [
-        {
-          "name": "MATVE\u00cf",
-          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
-        }
-      ],
-      "duration_ms": 170184,
-      "name": "R A B O N A",
-      "url": "https://open.spotify.com/track/2S369D2uttM1uwlfqtHhUw"
     },
     {
       "added_at": "2021-11-05 15:47:43",

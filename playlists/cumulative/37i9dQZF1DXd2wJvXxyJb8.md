@@ -4,7 +4,7 @@
 
 > Tudo o que está bombando e viralizando por aí!
 
-143 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+144 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Até a Próxima Vida \- Cover](https://open.spotify.com/track/6HoHb1lKB49MHnt3AHj8j5) | [CESINHA MELLO](https://open.spotify.com/artist/6y5AaWOVdRE2xb4eXWQChQ), [Nivaldo Marques](https://open.spotify.com/artist/3CuBahQ7dQ7zZohxh6sLRc) | [Até a Próxima Vida \(Cover\)](https://open.spotify.com/album/6IG9pUUxywSVa5GjtDnq0X) | 3:21 | 2022-06-30 | 2022-07-29 |
 | [Babalu \- Remix](https://open.spotify.com/track/0DZ5OCPdJaQeXh0Lsz6c9y) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Babalu \(Remix\)](https://open.spotify.com/album/0NCMQFKABUxbTHmkFvx0C7) | 2:52 | 2022-05-26 |  |
 | [Baby Relaxa Encaixa Na Vibe](https://open.spotify.com/track/1GEs0MIyXWiSfadbDyTmDz) | [uaaiti](https://open.spotify.com/artist/1eFC8dyprsive3jDwGxeQs) | [Baby Relaxa Encaixa Na Vibe](https://open.spotify.com/album/4JVA8MCLqv98rDdkyYWJJE) | 1:40 | 2022-05-26 |  |
+| [Bafora e Mama](https://open.spotify.com/track/1Y9L0vdDNfXYBjf5XxC99O) | [MC Juninho da VD](https://open.spotify.com/artist/4hvKwCPgk7IGVynYX8bQqc) | [Bafora e Mama](https://open.spotify.com/album/3FoCZNSSC2TK2qXNX5sagG) | 3:37 | 2022-08-22 |  |
 | [Bafora o Lança \- Remix](https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn) | [Mario Mc](https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn), [Menor Adr](https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT) | [Bafora o Lança \(Remix\)](https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt) | 3:32 | 2022-08-11 |  |
 | [Baile da Serra](https://open.spotify.com/track/45VwwcqkVl61khE9JT2OxK) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Serra](https://open.spotify.com/album/2Bb73208HjjXHHvwZpalGu) | 3:25 | 2022-05-26 |  |
 | [Baile no Morro](https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Mc Vitin Da Igrejinha](https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Baile no Morro](https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230) | 2:20 | 2022-06-27 |  |

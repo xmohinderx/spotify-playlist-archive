@@ -2,9 +2,9 @@
 
 ### [New Music K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> 신곡 배달! The freshest K\-Pop releases are here! \(Cover: ONF\(온앤오프\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
+> 신곡 배달! The freshest K\-Pop releases are here! \(Cover: IVE\(아이브\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-2,057 songs - 4 day 22 hr 18 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
+2,059 songs - 4 day 22 hr 24 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [352\-31](https://open.spotify.com/track/4DUZYdVrWWhZ7pY0NR82XY) | [Rei](https://open.spotify.com/artist/3pyrfwmUGt2MIRbhMY8iar) | [BABY STONER](https://open.spotify.com/album/2f6qk76JH3gLlDc3ILQeNn) | 2:19 | 2022-05-22 | 2022-06-10 |
 | [3:40](https://open.spotify.com/track/6landAbtxRa0ORmyHqa9kD) | [BUDY](https://open.spotify.com/artist/0pHO1D5Z1QoFCX801p8FA3) | [3:40](https://open.spotify.com/album/6D9FDxejjZRroq6Nhkh3CY) | 2:56 | 2022-06-29 | 2022-07-05 |
 | [3am](https://open.spotify.com/track/5c5kDerztzHp1XlTQb359E) | [Syn 씬](https://open.spotify.com/artist/7iBngY5C2T8DcYrT0JHZEX) | [3am](https://open.spotify.com/album/5807Jhc8KKpwnHWghPDXM1) | 2:27 | 2022-06-27 | 2022-07-05 |
+| [458](https://open.spotify.com/track/4FHnQdUyWz3clxy3d7loOY) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 5th EP Album ‘OK’ Episode 1 : OK Not](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) | 3:14 | 2022-08-22 |  |
 | [500000km NF SONATA](https://open.spotify.com/track/6te2w854p7KJnwWifSvZdb) | [A.TRAIN](https://open.spotify.com/artist/7D0HzqgqyXHSl3Vp4EC1EL) | [500000km NF SONATA](https://open.spotify.com/album/5L4NzC1YJgJ6S1kr8VSlLd) | 3:11 | 2022-06-29 | 2022-07-05 |
 | [7](https://open.spotify.com/track/1veW8BJjIDwb4WDdAvGcHV) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [7](https://open.spotify.com/album/58eqERmaDpAYto7aHFOmw8) | 3:49 | 2022-04-19 | 2022-04-23 |
 | [777](https://open.spotify.com/track/24KjqxHU4SnvCgzfftXarS) | [MUL](https://open.spotify.com/artist/1qcXWnZo8tZaPPhRcaBVPo), [feelDa](https://open.spotify.com/artist/6ztSjX9SryuExgK0SPr5Ps), [H:SEAN](https://open.spotify.com/artist/5unaicO0SRNINwxV4jnq18) | [777+52](https://open.spotify.com/album/6q2EAWJkQRNcIHFSZjFQI2) | 3:23 | 2022-04-19 | 2022-05-03 |
@@ -79,6 +80,7 @@
 | [ADDICTED \(Feat\. Chxpo, Digital Dav, Slaylonie\)](https://open.spotify.com/track/1NBB4QJhYLWlJJKuDDisa2) | [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst), [CHXPO](https://open.spotify.com/artist/7LpXmKNM21ez0VOsUFwOen), [Digital Dav](https://open.spotify.com/artist/7hCQm35OqyGwuG7heiRchd), [Slaylonie](https://open.spotify.com/artist/5FhNmDekMz70VoY6vqbAh4) | [XYBER ATTACK](https://open.spotify.com/album/3PN43ebtPCogSkYyoPdCFr) | 3:12 | 2022-08-04 | 2022-08-09 |
 | [Adios Amante](https://open.spotify.com/track/4PxiVqjbMXOmpqMCnvazAq) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [Eve, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1dMBd8ZTknUa0sSDGSIC4s) | 3:46 | 2022-06-23 | 2022-07-05 |
 | [ADVG \(Feat\. Sunny Shin\)](https://open.spotify.com/track/17iF8I6QolYXGgvLWK741m) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [Sunny Shin](https://open.spotify.com/artist/5orWKXo02GfHgKyuRd78Pj) | [ADVENTURE GAME](https://open.spotify.com/album/1l4xqRpUL5pajvvdDjG8dO) | 2:57 | 2022-08-01 | 2022-08-11 |
+| [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-22 |  |
 | [After this night](https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [After this night](https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG) | 4:22 | 2022-04-29 | 2022-05-06 |
 | [After we broke up](https://open.spotify.com/track/5AOz0kqwBBM4gK7QlAWsVG) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Bravo, My Life OST Part.20](https://open.spotify.com/album/3KAK9DVkvurJKYVQVKXw8q) | 3:41 | 2022-06-27 | 2022-07-05 |
 | [After you left](https://open.spotify.com/track/56AHEQAF6tRo90QZhKTKVG) | [Kio장기호](https://open.spotify.com/artist/64ZOLd5YueOBmw9DW4mGU5) | [Back To The Music Kio](https://open.spotify.com/album/7rXjwzkUNzxzOMmgCb406e) | 5:01 | 2022-07-25 | 2022-08-10 |

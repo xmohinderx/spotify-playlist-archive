@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Bafora e Mama",
+        "url": "https://open.spotify.com/album/3FoCZNSSC2TK2qXNX5sagG"
+      },
+      "artists": [
+        {
+          "name": "MC Juninho da VD",
+          "url": "https://open.spotify.com/artist/4hvKwCPgk7IGVynYX8bQqc"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217730,
+      "name": "Bafora e Mama",
+      "url": "https://open.spotify.com/track/1Y9L0vdDNfXYBjf5XxC99O"
+    },
+    {
+      "album": {
         "name": "Bafora o Lan\u00e7a (Remix)",
         "url": "https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt"
       },

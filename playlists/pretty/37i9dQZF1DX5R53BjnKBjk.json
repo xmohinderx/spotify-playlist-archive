@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: YASSIQ Arte: Isu Kim",
-  "num_followers": 11468,
+  "num_followers": 11474,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3ODAwMCwwMDAwMDAwMGZlZjAzMzU0NmNhMzMxYzk5N2Q0YjMzYTE2ZTQ4MTc3",
+  "snapshot_id": "MTY2MDg3ODAwMCwwMDAwMDAwMDZlZWQ2YTk4OGY3YjgxMDhkZjJjMjdiZGI0YjkxZjgy",
   "tracks": [
     {
       "added_at": "2022-08-19 03:00:00",
@@ -311,22 +311,18 @@
     {
       "added_at": "2022-08-19 03:00:00",
       "album": {
-        "name": "A ROSA DOS VENTOS",
-        "url": "https://open.spotify.com/album/05chG2pT2QJsDKiVYn7ccf"
+        "name": "KIKADAUM",
+        "url": "https://open.spotify.com/album/56ZeH3Mh7cfCh7kG1ysyzQ"
       },
       "artists": [
         {
-          "name": "Osvaldinho",
-          "url": "https://open.spotify.com/artist/5S9lM2gX2RBJaWNtKuCs1c"
-        },
-        {
-          "name": "Circulad\u00f4 de Ful\u00f4",
-          "url": "https://open.spotify.com/artist/2d4Axz1kGnLt5XjLw4MLoW"
+          "name": "J\u00falia Rezende",
+          "url": "https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE"
         }
       ],
-      "duration_ms": 181051,
-      "name": "A ROSA DOS VENTOS",
-      "url": "https://open.spotify.com/track/2buP6yNPdxndWDntaRzicQ"
+      "duration_ms": 175778,
+      "name": "KIKADAUM",
+      "url": "https://open.spotify.com/track/04aZsWuQFUxRRY0hp4T3Kd"
     },
     {
       "added_at": "2022-08-19 03:00:00",
@@ -347,38 +343,22 @@
     {
       "added_at": "2022-08-19 03:00:00",
       "album": {
-        "name": "KIKADAUM",
-        "url": "https://open.spotify.com/album/56ZeH3Mh7cfCh7kG1ysyzQ"
+        "name": "A ROSA DOS VENTOS",
+        "url": "https://open.spotify.com/album/05chG2pT2QJsDKiVYn7ccf"
       },
       "artists": [
         {
-          "name": "J\u00falia Rezende",
-          "url": "https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE"
-        }
-      ],
-      "duration_ms": 175778,
-      "name": "KIKADAUM",
-      "url": "https://open.spotify.com/track/04aZsWuQFUxRRY0hp4T3Kd"
-    },
-    {
-      "added_at": "2022-08-19 03:00:00",
-      "album": {
-        "name": "Transe Tropical",
-        "url": "https://open.spotify.com/album/3GDXeYh3kmWa4amneMoK95"
-      },
-      "artists": [
-        {
-          "name": "Dan Stump",
-          "url": "https://open.spotify.com/artist/76qXgVNZFVQZrLmsawuYcZ"
+          "name": "Osvaldinho",
+          "url": "https://open.spotify.com/artist/5S9lM2gX2RBJaWNtKuCs1c"
         },
         {
-          "name": "Victor Xam\u00e3",
-          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
+          "name": "Circulad\u00f4 de Ful\u00f4",
+          "url": "https://open.spotify.com/artist/2d4Axz1kGnLt5XjLw4MLoW"
         }
       ],
-      "duration_ms": 155411,
-      "name": "Sambatango",
-      "url": "https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL"
+      "duration_ms": 181051,
+      "name": "A ROSA DOS VENTOS",
+      "url": "https://open.spotify.com/track/2buP6yNPdxndWDntaRzicQ"
     },
     {
       "added_at": "2022-08-19 03:00:00",
@@ -403,22 +383,22 @@
     {
       "added_at": "2022-08-19 03:00:00",
       "album": {
-        "name": "Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/3F7FW2LB4qer0U8EwrVtVU"
+        "name": "Transe Tropical",
+        "url": "https://open.spotify.com/album/3GDXeYh3kmWa4amneMoK95"
       },
       "artists": [
         {
-          "name": "Tayla Duarte",
-          "url": "https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY"
+          "name": "Dan Stump",
+          "url": "https://open.spotify.com/artist/76qXgVNZFVQZrLmsawuYcZ"
         },
         {
-          "name": "Arielly Porto",
-          "url": "https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1"
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
         }
       ],
-      "duration_ms": 145297,
-      "name": "Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/1q4tX8F4m7D0LoaAr4woSv"
+      "duration_ms": 155411,
+      "name": "Sambatango",
+      "url": "https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL"
     },
     {
       "added_at": "2022-08-19 03:00:00",
@@ -435,6 +415,26 @@
       "duration_ms": 223146,
       "name": "Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/7liHoUtzVaTmU9jbsUlEzf"
+    },
+    {
+      "added_at": "2022-08-19 03:00:00",
+      "album": {
+        "name": "Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/3F7FW2LB4qer0U8EwrVtVU"
+      },
+      "artists": [
+        {
+          "name": "Tayla Duarte",
+          "url": "https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY"
+        },
+        {
+          "name": "Arielly Porto",
+          "url": "https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1"
+        }
+      ],
+      "duration_ms": 145297,
+      "name": "Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/1q4tX8F4m7D0LoaAr4woSv"
     },
     {
       "added_at": "2022-08-19 03:00:00",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-08-19 03:00:00",
       "album": {
+        "name": "Pretinha",
+        "url": "https://open.spotify.com/album/1SPR1uLlhvopxn9dj2bO56"
+      },
+      "artists": [
+        {
+          "name": "Demark",
+          "url": "https://open.spotify.com/artist/0WTIBrEtAixgAoKFf0r7RC"
+        },
+        {
+          "name": "Must",
+          "url": "https://open.spotify.com/artist/4t0maXpQyjTPTmMyJtoZBt"
+        }
+      ],
+      "duration_ms": 106930,
+      "name": "Pretinha",
+      "url": "https://open.spotify.com/track/1wcGhRwqnpsJTHU8unSzKI"
+    },
+    {
+      "added_at": "2022-08-19 03:00:00",
+      "album": {
         "name": "true love suicide",
         "url": "https://open.spotify.com/album/3ztx2AD3oSBOx0FPdkZoi0"
       },
@@ -1071,6 +1091,26 @@
       "duration_ms": 256000,
       "name": "p\u00f3s t\u00e9rmino",
       "url": "https://open.spotify.com/track/0OChPc6tW4MSzhuoLBVnVa"
+    },
+    {
+      "added_at": "2022-08-19 03:00:00",
+      "album": {
+        "name": "A Nossa Bossa",
+        "url": "https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl"
+      },
+      "artists": [
+        {
+          "name": "NUNEZ",
+          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
+        },
+        {
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "A Nossa Bossa",
+      "url": "https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh"
     },
     {
       "added_at": "2022-08-19 03:00:00",
@@ -1099,18 +1139,18 @@
     {
       "added_at": "2022-08-19 03:00:00",
       "album": {
-        "name": "Consci\u00eancia Elementar I",
-        "url": "https://open.spotify.com/album/6ZENBuXFtK81xuE4Y4q9O3"
+        "name": "O Fim do Mundo",
+        "url": "https://open.spotify.com/album/0divz8MH1pM0Bl0Yc0MXqs"
       },
       "artists": [
         {
-          "name": "Arthur Alva",
-          "url": "https://open.spotify.com/artist/1bWoWooojWavWI4Hh1JC32"
+          "name": "aocoral",
+          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
         }
       ],
-      "duration_ms": 184271,
-      "name": "Sensus Plenior",
-      "url": "https://open.spotify.com/track/0cdftpxtbBkaMSJdAOY3TL"
+      "duration_ms": 169388,
+      "name": "O Fim do Mundo",
+      "url": "https://open.spotify.com/track/1dAALJDlnurBapUJxCGPWQ"
     },
     {
       "added_at": "2022-08-19 03:00:00",
@@ -1131,6 +1171,22 @@
     {
       "added_at": "2022-08-19 03:00:00",
       "album": {
+        "name": "Consci\u00eancia Elementar I",
+        "url": "https://open.spotify.com/album/6ZENBuXFtK81xuE4Y4q9O3"
+      },
+      "artists": [
+        {
+          "name": "Arthur Alva",
+          "url": "https://open.spotify.com/artist/1bWoWooojWavWI4Hh1JC32"
+        }
+      ],
+      "duration_ms": 184271,
+      "name": "Sensus Plenior",
+      "url": "https://open.spotify.com/track/0cdftpxtbBkaMSJdAOY3TL"
+    },
+    {
+      "added_at": "2022-08-19 03:00:00",
+      "album": {
         "name": "Paris, Bahia",
         "url": "https://open.spotify.com/album/57RT4ZObq8DrHxvBevuSZn"
       },
@@ -1143,22 +1199,6 @@
       "duration_ms": 188360,
       "name": "Nuvem (Ai Claud)",
       "url": "https://open.spotify.com/track/6KqJZwBKJSeFxQZ8OxZhzM"
-    },
-    {
-      "added_at": "2022-08-19 03:00:00",
-      "album": {
-        "name": "O Fim do Mundo",
-        "url": "https://open.spotify.com/album/0divz8MH1pM0Bl0Yc0MXqs"
-      },
-      "artists": [
-        {
-          "name": "aocoral",
-          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
-        }
-      ],
-      "duration_ms": 169388,
-      "name": "O Fim do Mundo",
-      "url": "https://open.spotify.com/track/1dAALJDlnurBapUJxCGPWQ"
     },
     {
       "added_at": "2022-08-19 03:00:00",
@@ -1179,22 +1219,6 @@
     {
       "added_at": "2022-08-19 03:00:00",
       "album": {
-        "name": "Guloso",
-        "url": "https://open.spotify.com/album/57jPWdnUYmLkkzDjnIPiA5"
-      },
-      "artists": [
-        {
-          "name": "Marela",
-          "url": "https://open.spotify.com/artist/44eYI8KeLkUoNxM0W0YQY9"
-        }
-      ],
-      "duration_ms": 232020,
-      "name": "Guloso",
-      "url": "https://open.spotify.com/track/76LNMzHaVkg9IwpCee1Ft7"
-    },
-    {
-      "added_at": "2022-08-19 03:00:00",
-      "album": {
         "name": "S\u00f3",
         "url": "https://open.spotify.com/album/5bI4PD3mQ7LBecBfxP7Qnk"
       },
@@ -1211,6 +1235,22 @@
     {
       "added_at": "2022-08-19 03:00:00",
       "album": {
+        "name": "Guloso",
+        "url": "https://open.spotify.com/album/57jPWdnUYmLkkzDjnIPiA5"
+      },
+      "artists": [
+        {
+          "name": "Marela",
+          "url": "https://open.spotify.com/artist/44eYI8KeLkUoNxM0W0YQY9"
+        }
+      ],
+      "duration_ms": 232020,
+      "name": "Guloso",
+      "url": "https://open.spotify.com/track/76LNMzHaVkg9IwpCee1Ft7"
+    },
+    {
+      "added_at": "2022-08-19 03:00:00",
+      "album": {
         "name": "Do Jeito Mais Simples",
         "url": "https://open.spotify.com/album/6Ss5f7BqspeOWZAf6cJW12"
       },
@@ -1223,26 +1263,6 @@
       "duration_ms": 151406,
       "name": "Do Jeito Mais Simples",
       "url": "https://open.spotify.com/track/2sEraN3oLThZaCErn0Ru4e"
-    },
-    {
-      "added_at": "2022-08-19 03:00:00",
-      "album": {
-        "name": "Pretinha",
-        "url": "https://open.spotify.com/album/1SPR1uLlhvopxn9dj2bO56"
-      },
-      "artists": [
-        {
-          "name": "Demark",
-          "url": "https://open.spotify.com/artist/0WTIBrEtAixgAoKFf0r7RC"
-        },
-        {
-          "name": "Must",
-          "url": "https://open.spotify.com/artist/4t0maXpQyjTPTmMyJtoZBt"
-        }
-      ],
-      "duration_ms": 106930,
-      "name": "Pretinha",
-      "url": "https://open.spotify.com/track/1wcGhRwqnpsJTHU8unSzKI"
     },
     {
       "added_at": "2022-08-19 03:00:00",
@@ -1295,26 +1315,6 @@
       "duration_ms": 169500,
       "name": "N\u00c3O SEI",
       "url": "https://open.spotify.com/track/5OyKA7CtZRWqs2LQm5NB5R"
-    },
-    {
-      "added_at": "2022-08-19 03:00:00",
-      "album": {
-        "name": "A Nossa Bossa",
-        "url": "https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl"
-      },
-      "artists": [
-        {
-          "name": "NUNEZ",
-          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
-        },
-        {
-          "name": "Jair Oliveira",
-          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "A Nossa Bossa",
-      "url": "https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh"
     },
     {
       "added_at": "2022-08-19 03:00:00",

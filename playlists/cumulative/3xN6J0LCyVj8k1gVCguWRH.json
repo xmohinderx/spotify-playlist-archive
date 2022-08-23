@@ -17348,6 +17348,24 @@
     },
     {
       "album": {
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/62qeSvvKUiyPTEF4MqIt0D"
+      },
+      "artists": [
+        {
+          "name": "Xades",
+          "url": "https://open.spotify.com/artist/2hrJX5VA0aLhBgRMrGAqHz"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204682,
+      "name": "Me Duele",
+      "url": "https://open.spotify.com/track/5nhnvixVVpEDJxsqhDsDVe"
+    },
+    {
+      "album": {
         "name": "Me Over U",
         "url": "https://open.spotify.com/album/7bsh09CHZWfL3MbuQHI70K"
       },

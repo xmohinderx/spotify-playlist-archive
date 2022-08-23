@@ -1,12 +1,12 @@
 {
   "description": "Rave season is upon us. Cover: Jeremy Olander",
-  "num_followers": 9469,
+  "num_followers": 9506,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkxMjg1NywwMDAwMDAwMGJhZTBjMzRiODM1MDA1Yjk2Njk1M2Q2Y2I2ZTI4ZjBk",
+  "snapshot_id": "MTY2MDkxMjg1NywwMDAwMDAwMDc0NDdlYWEwZmQyOGQyM2JlNzQ4YjZiN2E1MjllMjI4",
   "tracks": [
     {
       "added_at": "2022-08-18 22:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Heather Park",
-        "url": "https://open.spotify.com/album/1VKmlsq627xxebmf53jHME"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 361960,
-      "name": "Heather Park",
-      "url": "https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Banho de Folhas (Maz Remix)",
         "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 215476,
       "name": "Banho de Folhas - Maz Remix",
       "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Heather Park",
+        "url": "https://open.spotify.com/album/1VKmlsq627xxebmf53jHME"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 361960,
+      "name": "Heather Park",
+      "url": "https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "Alive (Remixes)",
+        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 534954,
+      "name": "Alive - Solomun Remix",
+      "url": "https://open.spotify.com/track/41QaOln9qjWg6dTENPmujr"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Profound Mysteries Remixes",
         "url": "https://open.spotify.com/album/7udMmf4rMWzz3BeIFphddX"
       },
@@ -1179,22 +1199,18 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Alive (Remixes)",
-        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/2SVXasIqoidpW4SxciKSxg"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
         }
       ],
-      "duration_ms": 534954,
-      "name": "Alive - Solomun Remix",
-      "url": "https://open.spotify.com/track/41QaOln9qjWg6dTENPmujr"
+      "duration_ms": 211810,
+      "name": "Bh\u0101vachakra",
+      "url": "https://open.spotify.com/track/1nz0SvhvjKHHX8NoSUeG3P"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1231,34 +1247,18 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Postcards",
-        "url": "https://open.spotify.com/album/2SVXasIqoidpW4SxciKSxg"
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
       },
       "artists": [
         {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 211810,
-      "name": "Bh\u0101vachakra",
-      "url": "https://open.spotify.com/track/1nz0SvhvjKHHX8NoSUeG3P"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Grammar",
-        "url": "https://open.spotify.com/album/5UNPHRM6OIx2ePeHbP3MOi"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 461538,
-      "name": "Grammar",
-      "url": "https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu"
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1283,22 +1283,34 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Surrender (Remixes)",
-        "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
+        "name": "On Call",
+        "url": "https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
         }
       ],
-      "duration_ms": 462978,
-      "name": "Wildfire - Colyn Remix",
-      "url": "https://open.spotify.com/track/6l4DAumg138A324aTQfXUi"
+      "duration_ms": 267750,
+      "name": "On Call",
+      "url": "https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Grammar",
+        "url": "https://open.spotify.com/album/5UNPHRM6OIx2ePeHbP3MOi"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 461538,
+      "name": "Grammar",
+      "url": "https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1319,34 +1331,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "breath tapes",
-        "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
+        "name": "Surrender (Remixes)",
+        "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
       },
       "artists": [
         {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 215222,
-      "name": "suddenly",
-      "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "On Call",
-        "url": "https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX"
-      },
-      "artists": [
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
         {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
         }
       ],
-      "duration_ms": 267750,
-      "name": "On Call",
-      "url": "https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H"
+      "duration_ms": 462978,
+      "name": "Wildfire - Colyn Remix",
+      "url": "https://open.spotify.com/track/6l4DAumg138A324aTQfXUi"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "You Run",
+        "url": "https://open.spotify.com/album/0TYWnfGE7HspkqdLQLA0vD"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        }
+      ],
+      "duration_ms": 354404,
+      "name": "You Run",
+      "url": "https://open.spotify.com/track/02crxEctxfT2l3q1DsM9m2"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 3",
         "url": "https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 384528,
       "name": "Out of Focus (feat. Zoot Woman) - \u00c2me Remix",
       "url": "https://open.spotify.com/track/3jc7WSwiPPAjdokdwVflJk"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "You Run",
-        "url": "https://open.spotify.com/album/0TYWnfGE7HspkqdLQLA0vD"
-      },
-      "artists": [
-        {
-          "name": "Spada",
-          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
-        },
-        {
-          "name": "Eleonora",
-          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
-        }
-      ],
-      "duration_ms": 354404,
-      "name": "You Run",
-      "url": "https://open.spotify.com/track/02crxEctxfT2l3q1DsM9m2"
     },
     {
       "added_at": "2022-08-19 12:40:57",
@@ -1493,6 +1493,22 @@
       "url": "https://open.spotify.com/track/1CySFxnVmZ4ss602pZ1syF"
     },
     {
+      "added_at": "2022-08-19 12:40:57",
+      "album": {
+        "name": "Papillon",
+        "url": "https://open.spotify.com/album/2ExOArPbBauMUMJsfxFRaT"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 426058,
+      "name": "Papillon",
+      "url": "https://open.spotify.com/track/1vpOY0slxNwm6EO7ykjsfZ"
+    },
+    {
       "added_at": "2022-08-18 22:01:00",
       "album": {
         "name": "Rush",
@@ -1511,22 +1527,6 @@
       "duration_ms": 216848,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1gwAzMEi7n9fovhhHwZ1MW"
-    },
-    {
-      "added_at": "2022-08-19 12:40:57",
-      "album": {
-        "name": "Papillon",
-        "url": "https://open.spotify.com/album/2ExOArPbBauMUMJsfxFRaT"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 426058,
-      "name": "Papillon",
-      "url": "https://open.spotify.com/track/1vpOY0slxNwm6EO7ykjsfZ"
     },
     {
       "added_at": "2022-08-19 12:40:57",
@@ -1559,6 +1559,22 @@
       "duration_ms": 402545,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Sumatra",
+        "url": "https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2"
+      },
+      "artists": [
+        {
+          "name": "Bonsaye",
+          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
+        }
+      ],
+      "duration_ms": 197047,
+      "name": "Sumatra",
+      "url": "https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1613,6 +1629,26 @@
       "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
     },
     {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "FUN (yun\u00e8 pinku Remix)",
+        "url": "https://open.spotify.com/album/69fs5PB0bHIQ8UTUzUWpWo"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 171477,
+      "name": "FUN - yun\u00e8 pinku Remix",
+      "url": "https://open.spotify.com/track/7dUL7g3m05OdcGLcs3V0uS"
+    },
+    {
       "added_at": "2022-08-19 12:40:57",
       "album": {
         "name": "Moonlight",
@@ -1627,42 +1663,6 @@
       "duration_ms": 208644,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/392KXopwSy4eW1Psl4Yerb"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Sumatra",
-        "url": "https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2"
-      },
-      "artists": [
-        {
-          "name": "Bonsaye",
-          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
-        }
-      ],
-      "duration_ms": 197047,
-      "name": "Sumatra",
-      "url": "https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Understand",
-        "url": "https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
-          "name": "Brendan Yates",
-          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
-        }
-      ],
-      "duration_ms": 223637,
-      "name": "Understand (Feat. Brendan Yates)",
-      "url": "https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1683,6 +1683,26 @@
       "duration_ms": 401311,
       "name": "White Rooms",
       "url": "https://open.spotify.com/track/74qpax6CFMftabGXj3zFmm"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "duration_ms": 223637,
+      "name": "Understand (Feat. Brendan Yates)",
+      "url": "https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1755,6 +1775,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "Organic Cold Brewed Hipster Funk EP",
+        "url": "https://open.spotify.com/album/1o7PXwcPMX6o3JELys9le2"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        }
+      ],
+      "duration_ms": 235132,
+      "name": "Organic Cold Brewed Hipster Funk",
+      "url": "https://open.spotify.com/track/3phBxj9avtQDkWblVg7s02"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "True Love to the Grave (feat. Claudia Kane)",
         "url": "https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG"
       },
@@ -1773,20 +1809,20 @@
       "url": "https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC"
     },
     {
-      "added_at": "2022-08-18 22:01:00",
+      "added_at": "2022-08-19 12:40:57",
       "album": {
-        "name": "Organic Cold Brewed Hipster Funk EP",
-        "url": "https://open.spotify.com/album/1o7PXwcPMX6o3JELys9le2"
+        "name": "Volar La Pluma",
+        "url": "https://open.spotify.com/album/7l7RHfQTsMJ23yDq15KZ1i"
       },
       "artists": [
         {
-          "name": "Martin Roth",
-          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
         }
       ],
-      "duration_ms": 235132,
-      "name": "Organic Cold Brewed Hipster Funk",
-      "url": "https://open.spotify.com/track/3phBxj9avtQDkWblVg7s02"
+      "duration_ms": 294198,
+      "name": "Volar La Pluma",
+      "url": "https://open.spotify.com/track/3hkp1bFwGrAAHbSTYnw2Bc"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1807,22 +1843,6 @@
     {
       "added_at": "2022-08-19 12:40:57",
       "album": {
-        "name": "Volar La Pluma",
-        "url": "https://open.spotify.com/album/7l7RHfQTsMJ23yDq15KZ1i"
-      },
-      "artists": [
-        {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        }
-      ],
-      "duration_ms": 294198,
-      "name": "Volar La Pluma",
-      "url": "https://open.spotify.com/track/3hkp1bFwGrAAHbSTYnw2Bc"
-    },
-    {
-      "added_at": "2022-08-19 12:40:57",
-      "album": {
         "name": "Hunger for Your Vibe",
         "url": "https://open.spotify.com/album/214rxKKvsoEgvjDgZ7aUDk"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 392624,
       "name": "Hunger For Your Vibe - Moonwalk Remix",
       "url": "https://open.spotify.com/track/4YUM6w6KqQLEwxi3ShRA8T"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "FUN (yun\u00e8 pinku Remix)",
-        "url": "https://open.spotify.com/album/69fs5PB0bHIQ8UTUzUWpWo"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        },
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 171477,
-      "name": "FUN - yun\u00e8 pinku Remix",
-      "url": "https://open.spotify.com/track/7dUL7g3m05OdcGLcs3V0uS"
     }
   ],
   "unique_name": "Open Air",

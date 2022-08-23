@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Gabriel Elias",
-  "num_followers": 400741,
+  "num_followers": 400877,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyMjQ4NywwMDAwMDAwMDM5MTZiNjRhYzk3MzgxYjcwNDNmYTIyMDJhM2FmYTNh",
+  "snapshot_id": "MTY2MDkyMjQ4NywwMDAwMDAwMGU4YzdjNWRiZTU0MTE0MDJmMmY4Yzk3NGIxNDYyMTk3",
   "tracks": [
     {
       "added_at": "2022-08-19 15:21:27",
@@ -171,26 +171,6 @@
     {
       "added_at": "2022-08-19 15:21:27",
       "album": {
-        "name": "Aguei",
-        "url": "https://open.spotify.com/album/2vOz8ssYDr5H8LTusYbmzd"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 191142,
-      "name": "Aguei",
-      "url": "https://open.spotify.com/track/3hCJ7bncN6wjLxWCxhUSkp"
-    },
-    {
-      "added_at": "2022-08-19 15:21:27",
-      "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 189002,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
       "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
+    },
+    {
+      "added_at": "2022-08-19 15:21:27",
+      "album": {
+        "name": "Aguei",
+        "url": "https://open.spotify.com/album/2vOz8ssYDr5H8LTusYbmzd"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 191142,
+      "name": "Aguei",
+      "url": "https://open.spotify.com/track/3hCJ7bncN6wjLxWCxhUSkp"
     },
     {
       "added_at": "2022-08-19 15:21:27",
@@ -267,22 +267,18 @@
     {
       "added_at": "2022-08-19 15:21:27",
       "album": {
-        "name": "n\u00e3o passa vontade",
-        "url": "https://open.spotify.com/album/7i7MI50qJ4FZTsiz1DOsMp"
+        "name": "Mundo Novo",
+        "url": "https://open.spotify.com/album/3iykO5tq0Q0jEtTgrmpip7"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 221763,
-      "name": "n\u00e3o passa vontade",
-      "url": "https://open.spotify.com/track/1HbHUc3TamGVwXlcUolMej"
+      "duration_ms": 179031,
+      "name": "Porta Do Teu Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/5YWW66ptUmdgUNBKU72sgX"
     },
     {
       "added_at": "2022-08-19 15:21:27",
@@ -299,22 +295,6 @@
       "duration_ms": 229786,
       "name": "Desapaixonar",
       "url": "https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9"
-    },
-    {
-      "added_at": "2022-08-19 15:21:27",
-      "album": {
-        "name": "Mundo Novo",
-        "url": "https://open.spotify.com/album/3iykO5tq0Q0jEtTgrmpip7"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 179031,
-      "name": "Porta Do Teu Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/5YWW66ptUmdgUNBKU72sgX"
     },
     {
       "added_at": "2022-08-19 15:21:27",
@@ -363,18 +343,22 @@
     {
       "added_at": "2022-08-19 15:21:27",
       "album": {
-        "name": "Amores E Flores",
-        "url": "https://open.spotify.com/album/1PlsJ3MpUgGs7AkuKymCtp"
+        "name": "n\u00e3o passa vontade",
+        "url": "https://open.spotify.com/album/7i7MI50qJ4FZTsiz1DOsMp"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 171366,
-      "name": "Amores E Flores",
-      "url": "https://open.spotify.com/track/5rRpDkzRMwGViXM0jYd5ye"
+      "duration_ms": 221763,
+      "name": "n\u00e3o passa vontade",
+      "url": "https://open.spotify.com/track/1HbHUc3TamGVwXlcUolMej"
     },
     {
       "added_at": "2022-08-19 15:21:27",
@@ -399,18 +383,18 @@
     {
       "added_at": "2022-08-19 15:21:27",
       "album": {
-        "name": "Coringa",
-        "url": "https://open.spotify.com/album/6HcH3KCqC0zl8gmZrCthuc"
+        "name": "Amores E Flores",
+        "url": "https://open.spotify.com/album/1PlsJ3MpUgGs7AkuKymCtp"
       },
       "artists": [
         {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 187080,
-      "name": "Coringa",
-      "url": "https://open.spotify.com/track/0gmDtSc2Ay17diWj6nJjlG"
+      "duration_ms": 171366,
+      "name": "Amores E Flores",
+      "url": "https://open.spotify.com/track/5rRpDkzRMwGViXM0jYd5ye"
     },
     {
       "added_at": "2022-08-19 15:21:27",
@@ -431,6 +415,42 @@
       "duration_ms": 213351,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
+    },
+    {
+      "added_at": "2022-08-19 15:21:27",
+      "album": {
+        "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
+        "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 188518,
+      "name": "DESCOBRIDOR",
+      "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
+    },
+    {
+      "added_at": "2022-08-19 15:21:27",
+      "album": {
+        "name": "Coringa",
+        "url": "https://open.spotify.com/album/6HcH3KCqC0zl8gmZrCthuc"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 187080,
+      "name": "Coringa",
+      "url": "https://open.spotify.com/track/0gmDtSc2Ay17diWj6nJjlG"
     },
     {
       "added_at": "2022-08-19 15:21:27",
@@ -495,8 +515,8 @@
     {
       "added_at": "2022-08-19 15:21:27",
       "album": {
-        "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
-        "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
+        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
       },
       "artists": [
         {
@@ -504,13 +524,13 @@
           "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         },
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 188518,
-      "name": "DESCOBRIDOR",
-      "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
+      "duration_ms": 202500,
+      "name": "VEJA BABY - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
     },
     {
       "added_at": "2022-08-19 15:21:27",
@@ -607,46 +627,6 @@
     {
       "added_at": "2022-08-19 15:21:27",
       "album": {
-        "name": "Amores E Flores",
-        "url": "https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Teu C\u00e9u",
-      "url": "https://open.spotify.com/track/5WexHsvZI4jPk1cyLtjWVr"
-    },
-    {
-      "added_at": "2022-08-19 15:21:27",
-      "album": {
-        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
-        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "VEJA BABY - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
-    },
-    {
-      "added_at": "2022-08-19 15:21:27",
-      "album": {
         "name": "Somos Instantes",
         "url": "https://open.spotify.com/album/50cLjaea6W3hkVgK9nFDuB"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 225877,
       "name": "Somos Instantes",
       "url": "https://open.spotify.com/track/4aPNR8jCTJ4NqEktwxOGn2"
+    },
+    {
+      "added_at": "2022-08-19 15:21:27",
+      "album": {
+        "name": "Amores E Flores",
+        "url": "https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Teu C\u00e9u",
+      "url": "https://open.spotify.com/track/5WexHsvZI4jPk1cyLtjWVr"
     },
     {
       "added_at": "2022-08-19 15:21:27",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2022-08-19 15:21:27",
       "album": {
+        "name": "Sem Filtro (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
+      },
+      "artists": [
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 184914,
+      "name": "Louca - Ao Vivo",
+      "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
+    },
+    {
+      "added_at": "2022-08-19 15:21:27",
+      "album": {
         "name": "Ai Beb\u00ea",
         "url": "https://open.spotify.com/album/5Ib7gIzkMJSFENH7ZzJCPX"
       },
@@ -1107,6 +1127,38 @@
       "duration_ms": 164307,
       "name": "Ai Beb\u00ea",
       "url": "https://open.spotify.com/track/5cIAwDYkTTGyNFgXzXROdF"
+    },
+    {
+      "added_at": "2022-08-19 15:21:27",
+      "album": {
+        "name": "Como Eu Quero",
+        "url": "https://open.spotify.com/album/2egRHyN8fmTQjDi7mRLQjB"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 167717,
+      "name": "Como Eu Quero",
+      "url": "https://open.spotify.com/track/7dsFoAxXjAlvVOXhRkD4sb"
+    },
+    {
+      "added_at": "2022-08-19 15:21:27",
+      "album": {
+        "name": "Covarde",
+        "url": "https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Covarde",
+      "url": "https://open.spotify.com/track/6mJLcOjvv8z21kN8ItpDfU"
     },
     {
       "added_at": "2022-08-19 15:21:27",
@@ -1135,58 +1187,6 @@
     {
       "added_at": "2022-08-19 15:21:27",
       "album": {
-        "name": "Como Eu Quero",
-        "url": "https://open.spotify.com/album/2egRHyN8fmTQjDi7mRLQjB"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 167717,
-      "name": "Como Eu Quero",
-      "url": "https://open.spotify.com/track/7dsFoAxXjAlvVOXhRkD4sb"
-    },
-    {
-      "added_at": "2022-08-19 15:21:27",
-      "album": {
-        "name": "Sem Filtro (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
-      },
-      "artists": [
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 184914,
-      "name": "Louca - Ao Vivo",
-      "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
-    },
-    {
-      "added_at": "2022-08-19 15:21:27",
-      "album": {
-        "name": "Covarde",
-        "url": "https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Covarde",
-      "url": "https://open.spotify.com/track/6mJLcOjvv8z21kN8ItpDfU"
-    },
-    {
-      "added_at": "2022-08-19 15:21:27",
-      "album": {
         "name": "Melhor Forma",
         "url": "https://open.spotify.com/album/2qL2huOv6H8Yz3rUaxW5c9"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-08-19 15:21:27",
       "album": {
-        "name": "Bruna Magalh\u00e3es",
-        "url": "https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 181966,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E"
-    },
-    {
-      "added_at": "2022-08-19 15:21:27",
-      "album": {
         "name": "Amor de Liquidificador",
         "url": "https://open.spotify.com/album/59m9JgIeX1Fa3mmxqTrV04"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 170373,
       "name": "Amor de Liquidificador",
       "url": "https://open.spotify.com/track/52R4PTY20KvlXSeyhNSfte"
+    },
+    {
+      "added_at": "2022-08-19 15:21:27",
+      "album": {
+        "name": "Bruna Magalh\u00e3es",
+        "url": "https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 181966,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E"
     },
     {
       "added_at": "2022-08-19 15:21:27",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-08-19 15:21:27",
       "album": {
-        "name": "Que Fase",
-        "url": "https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU"
-      },
-      "artists": [
-        {
-          "name": "Ceci Reis",
-          "url": "https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf"
-        }
-      ],
-      "duration_ms": 139058,
-      "name": "Qual Fita",
-      "url": "https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V"
-    },
-    {
-      "added_at": "2022-08-19 15:21:27",
-      "album": {
         "name": "Faz Frio Aqui no Sul",
         "url": "https://open.spotify.com/album/0H6AIKJCX6yj8NCnM9qaNS"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2022-08-19 15:21:27",
       "album": {
-        "name": "Sem Filtro",
-        "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
+        "name": "Que Fase",
+        "url": "https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU"
       },
       "artists": [
         {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+          "name": "Ceci Reis",
+          "url": "https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf"
         }
       ],
-      "duration_ms": 229032,
-      "name": "Sem Filtro",
-      "url": "https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC"
+      "duration_ms": 139058,
+      "name": "Qual Fita",
+      "url": "https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V"
     },
     {
       "added_at": "2022-08-19 15:21:27",
@@ -1339,6 +1323,22 @@
       "duration_ms": 212234,
       "name": "N\u00e3o Me Chame Pelo Nome",
       "url": "https://open.spotify.com/track/1Bo1M5ADOZ6jKQqwLfNbph"
+    },
+    {
+      "added_at": "2022-08-19 15:21:27",
+      "album": {
+        "name": "Sem Filtro",
+        "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
+      },
+      "artists": [
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "duration_ms": 229032,
+      "name": "Sem Filtro",
+      "url": "https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC"
     },
     {
       "added_at": "2022-08-19 15:21:27",
