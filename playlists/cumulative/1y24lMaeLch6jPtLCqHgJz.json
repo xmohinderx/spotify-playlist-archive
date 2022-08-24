@@ -414,6 +414,32 @@
     },
     {
       "album": {
+        "name": "Dancing",
+        "url": "https://open.spotify.com/album/1lu4GB49fN2Mn29qgcqwbx"
+      },
+      "artists": [
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "Vicman Romero & Mike Sildavia",
+          "url": "https://open.spotify.com/artist/1wAZ4sU7fRc00JC3zs6XXg"
+        },
+        {
+          "name": "David Allen",
+          "url": "https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174803,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/44x1qfLCPkSgEvzzqXSrnr"
+    },
+    {
+      "album": {
         "name": "Dancing With Tears In My Eyes",
         "url": "https://open.spotify.com/album/68zbIj55wIO2jErFc060Wr"
       },

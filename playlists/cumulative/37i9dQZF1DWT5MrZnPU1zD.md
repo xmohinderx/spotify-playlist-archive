@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-502 songs - 1 day 0 hr 22 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
+503 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,8 +85,9 @@
 | [Can’t Feel Shit](https://open.spotify.com/track/3ZzK2zxMeVGdsiP00OZuqS) | [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Dead After Teen Spirit](https://open.spotify.com/album/62JjDEK2PHfpnNc0Up9M4M) | 2:42 | 2021-09-03 | 2022-02-26 |
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2022-06-10 |  |
 | [CASH RULES](https://open.spotify.com/track/6CZbuFWJBiCtzuLdLFAGiX) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [AzizTheShake](https://open.spotify.com/artist/7wSfJLfPWSahg3J5SeVr4z), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G), [Jiles](https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx), [Andrew Regis](https://open.spotify.com/artist/7hAQZCYKPBpL9TAqm0ZfYt), [Meech BOLD](https://open.spotify.com/artist/3kv1DL4qsFPk2cPvfCqxrE) | [CASH RULES](https://open.spotify.com/album/57Wz7Ri89weS5EuVVidfrB) | 4:55 | 2022-03-25 | 2022-04-16 |
-| [Certified Dripper](https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Certified Dripper](https://open.spotify.com/album/3dWl00RjWmmfezNRastKYM) | 2:32 | 2022-08-12 |  |
+| [Certified Dripper](https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Certified Dripper](https://open.spotify.com/album/3dWl00RjWmmfezNRastKYM) | 2:32 | 2022-08-12 | 2022-08-24 |
 | [Chad \(feat\. YGTUT\)](https://open.spotify.com/track/764K7H74QNi24ebPevPWXr) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:39 | 2022-03-25 | 2022-04-15 |
+| [Chanel Bag](https://open.spotify.com/track/6FQhXdQCiGEwEdsph5W78h) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [PILOT](https://open.spotify.com/album/55OCHRmtui8f2u4EpDxpBv) | 2:38 | 2022-08-19 |  |
 | [Chanel Bag](https://open.spotify.com/track/4d16JADh71pTeqx0vlHL69) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Chanel Bag](https://open.spotify.com/album/5Rfy71lgBW15gak3OtNHBQ) | 2:38 | 2022-07-22 | 2022-08-02 |
 | [Chanel Bag](https://open.spotify.com/track/5azix4xbmL7Vx9hRhlZL9B) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Chanel Bag](https://open.spotify.com/album/3DGu7Hy0L0ijbsPDBaaRlF) | 2:38 | 2021-09-03 | 2022-07-25 |
 | [Children](https://open.spotify.com/track/0r5PcrvphHGO1LijkU4K4u) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW) | [Children](https://open.spotify.com/album/4yTBIKPj3C1uYR2UZQ6ODn) | 3:26 | 2021-09-03 | 2022-04-29 |

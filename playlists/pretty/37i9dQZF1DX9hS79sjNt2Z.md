@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 | 43 | [Hosanna To The King \(reprise\)](https://open.spotify.com/track/00WhoH1xjgIqFSWlDYEI2S) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Easter Story in Song](https://open.spotify.com/album/6jv4pCnDBAEjofziBjt2LH) | 3:52 |
 | 44 | [John 3:16](https://open.spotify.com/track/5kjp2A5T4KacnzeoxykROp) | [The Rizers](https://open.spotify.com/artist/44Jojk3HGoi3Rwg4iA049d) | [Meet The Rizers](https://open.spotify.com/album/4W2YtLiJtZVTL3Eey3ah03) | 2:45 |
 | 45 | [Amazing Grace \(I've Got a Reason to Sing\) \[Kids Sing Version\]](https://open.spotify.com/track/4g3rBwicdavvBNUzkes8BE) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [Kids Sing On!](https://open.spotify.com/album/7czlczSMXxLag77gacdDXF) | 4:24 |
-| 46 | [Big Big Love](https://open.spotify.com/track/1qv87sym5fmPyZ4Ndj7jPd) | [Bear Hug Band](https://open.spotify.com/artist/1kQzG7wyzhyJeK8gF16ev5) | [Who's Got Their Armor on?](https://open.spotify.com/album/1RPZlI4oDUD0Z19l5Yygu4) | 3:30 |
+| 46 | [Big Big Love](https://open.spotify.com/track/2LPsEFXoTjwhmFKbk2mOIF) | [Bear Hug Band](https://open.spotify.com/artist/2ccWCD55KETK6AXNOlHvy5) | [Who's Got Their Armor On?](https://open.spotify.com/album/2KsupcAkXkOxbILzYu7L3O) | 3:30 |
 | 47 | [Christ The Lord Is Risen Today](https://open.spotify.com/track/7fucXeHyqlSrm2DtacEuDM) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Hymns](https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd) | 2:06 |
 | 48 | [Jesus Paid It All \(Whiter Than Snow\)](https://open.spotify.com/track/6RkH6h8wNvXk8TpOwz0er4) | [Lifeway Kids Worship](https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx) | [Top 100 Kids](https://open.spotify.com/album/1HB2bui7MaE3MV2d5yK8Yl) | 1:41 |
 | 49 | [Revelation Song / Holy, Holy, Holy \- Medley](https://open.spotify.com/track/7DujnHzxp14dg6UED5Fmwd) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [10,000 Reasons Kids Worship](https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7) | 5:24 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 | 100 | [Lead Me To The Cross](https://open.spotify.com/track/6OJZWfDfxubWxWYWhHI0Og) | [Kids Praise! Company](https://open.spotify.com/artist/13EBQsdgR822icqaSKAGwT) | [Good Good Father](https://open.spotify.com/album/79hijgvISuI86XQD7Q9By2) | 4:21 |
 | 101 | [Christ Is Risen, He Is Risen Indeed](https://open.spotify.com/track/5Fcqe3AVjIf8OBeCZswCOZ) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Getty Kids Hymnal \- In Christ Alone](https://open.spotify.com/album/7yiENPxEnhGvOLisic94jw) | 4:10 |
 
-Snapshot ID: `MTYxNzk3OTE3OCwwMDAwMDAwMDI5OTcxZTVjMWZlODNhYmQzODE5NTMwZjRjM2QyNWMy`
+Snapshot ID: `MTYxNzk3OTE3OCwwMDAwMDAwMDAwOGI0ZTQ4ZGY2NzU0YTc3YjU3YTVlNjNlMzEwMGE5`

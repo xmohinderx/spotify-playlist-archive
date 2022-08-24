@@ -4,7 +4,7 @@
 
 > Tudo o que está bombando e viralizando por aí!
 
-144 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+145 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-01 | 2022-07-29 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-28 |  |
 | [Se a Saudade Bater](https://open.spotify.com/track/5WVsfMt8jKVuSGOr4iBFDu) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b) | [Se a Saudade Bater](https://open.spotify.com/album/51uHuAo732iQYayjGwXWj5) | 2:17 | 2022-05-26 |  |
+| [SE EU TE PEDIR PRA FICAR](https://open.spotify.com/track/5YxLXinVh1y7kYb3Y1zaTt) | [DJ IGOR BERTOLI](https://open.spotify.com/artist/7H3ZosiBgH8xWLb7z6PGru) | [SE EU TE PEDIR PRA FICAR](https://open.spotify.com/album/5K3M8UZt7zhT6b3EBzHN3y) | 1:46 | 2022-08-23 |  |
 | [Se Tá Solteira](https://open.spotify.com/track/5s6FPEgONan1NLTA7ReSrx) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Se Tá Solteira](https://open.spotify.com/album/5M1M5KKnFFZ7nb6Dze6kQk) | 1:57 | 2022-05-26 | 2022-08-09 |
 | [Se Você Quiser](https://open.spotify.com/track/7JF7FB2phyOIYmuhQCj9UX) | [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Se Você Quiser](https://open.spotify.com/album/4Al0uGFYkzyHcMtULMNIer) | 1:47 | 2022-05-26 |  |
 | [Senta Com Amor](https://open.spotify.com/track/5axPfPSNybFFzhDOvCMhpP) | [Furacão Hit](https://open.spotify.com/artist/2p5DEEpHgoW3OlsmBkSBXF) | [Se Liga no Beat](https://open.spotify.com/album/2CgQC1DGvhMhHo3Y364sUQ) | 3:08 | 2022-05-26 | 2022-06-23 |

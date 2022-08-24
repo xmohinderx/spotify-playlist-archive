@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Nko, Neima, Vale Pain, Shiva Luchè e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,686 likes - 77 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,707 likes - 77 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

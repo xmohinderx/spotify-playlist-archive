@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 19946,
+  "num_followers": 19967,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4OTMzNywwMDAwMDAwMGJjYjNjYzc5MWRiNTdhMjkwY2NmNDc3OThmMjNjOGZm",
+  "snapshot_id": "MTY1OTQ4OTMzNywwMDAwMDAwMDlkZTk3YWUzNTA4NTNiZWRlNzVjODdiMjUxZTY0ZDE1",
   "tracks": [
     {
       "added_at": "2022-01-19 17:37:13",
@@ -271,6 +271,38 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Canciones y Mujeres de Cabaret",
+        "url": "https://open.spotify.com/album/7z0kpEqnMoouMBd0PBC07D"
+      },
+      "artists": [
+        {
+          "name": "La Santanera",
+          "url": "https://open.spotify.com/artist/4iVmrWbihNo3PheQM5ZHQl"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Fue en un Cabaret",
+      "url": "https://open.spotify.com/track/4U1aThe8Ba2JGO44Q1zxs0"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Sympathique",
+        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Donde Estas, Yolanda?",
+      "url": "https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Viva la Reina de la Salsa",
         "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
@@ -295,38 +327,6 @@
       "duration_ms": 274826,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Sympathique",
-        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Donde Estas, Yolanda?",
-      "url": "https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Canciones y Mujeres de Cabaret",
-        "url": "https://open.spotify.com/album/7z0kpEqnMoouMBd0PBC07D"
-      },
-      "artists": [
-        {
-          "name": "La Santanera",
-          "url": "https://open.spotify.com/artist/4iVmrWbihNo3PheQM5ZHQl"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Fue en un Cabaret",
-      "url": "https://open.spotify.com/track/4U1aThe8Ba2JGO44Q1zxs0"
     },
     {
       "added_at": "2022-04-19 19:22:36",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "Duelo Tropical Exitos de Oro, Vol. 1",
+        "url": "https://open.spotify.com/album/6Y2PnIalbLkSHLlDiyrBpZ"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/5rrPgFdBBtM0GVHeSBjmyB"
+        }
+      ],
+      "duration_ms": 198608,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/5txLkc2L3XfpKg08hAk26l"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "WonderWorld: 10 Years of Painting Outside the Lines",
         "url": "https://open.spotify.com/album/0Ita35pHH6xnrnH63SHP9M"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 260000,
       "name": "Mi Swing Es Tropical - Zeb's Reggae Remix",
       "url": "https://open.spotify.com/track/4Xl51Dyvf7FNUJ0jOe0ddK"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Duelo Tropical Exitos de Oro, Vol. 1",
-        "url": "https://open.spotify.com/album/6Y2PnIalbLkSHLlDiyrBpZ"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/5rrPgFdBBtM0GVHeSBjmyB"
-        }
-      ],
-      "duration_ms": 198608,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/5txLkc2L3XfpKg08hAk26l"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Solo para Rom\u00e1nticos - de Mujer a Mujer",
@@ -971,22 +987,6 @@
       "duration_ms": 283973,
       "name": "Mambo Los Quantic",
       "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
-        "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
-      },
-      "artists": [
-        {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "La Sitiera",
-      "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "The Complete 78's, Vol. 4 (1949 - 1955)",
@@ -1487,6 +1471,22 @@
       "duration_ms": 153613,
       "name": "Hot Tamales (Los Tamalitos De Olga)",
       "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
+        "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
+      },
+      "artists": [
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "La Sitiera",
+      "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
     },
     {
       "added_at": "2020-05-28 20:45:13",

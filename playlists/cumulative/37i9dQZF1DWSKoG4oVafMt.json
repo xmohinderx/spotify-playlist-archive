@@ -3274,6 +3274,24 @@
     },
     {
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu"
+      },
+      "artists": [
+        {
+          "name": "Kaur B",
+          "url": "https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202917,
+      "name": "Jaano Pyari",
+      "url": "https://open.spotify.com/track/1mcKuC4EzNDmF9mGxaP4xe"
+    },
+    {
+      "album": {
         "name": "Jaanu",
         "url": "https://open.spotify.com/album/5hvXACaNTVp8WxDE7zhfc1"
       },

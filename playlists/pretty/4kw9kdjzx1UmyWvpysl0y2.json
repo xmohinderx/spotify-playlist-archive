@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128569,
+  "num_followers": 128578,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU4NyxjNmZjYmVmYjlmZmJmNTE1YTRjZjFjMjRjZDBhOWI1ODE2OWQyMmE0",
+  "snapshot_id": "MzU4OSwwOWU2NzI2YmI3OWM2NzQ2NzI3ODM4NTE4ZDhlODE3MmJkNTI5ODZi",
   "tracks": [
+    {
+      "added_at": "2022-08-23 16:50:44",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1PS4HKWlVVopci1ElsHCoc"
+      },
+      "artists": [
+        {
+          "name": "OVSKY",
+          "url": "https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX"
+        }
+      ],
+      "duration_ms": 150556,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/5KuMYx5VncjdS6CSuurWlk"
+    },
     {
       "added_at": "2022-08-22 20:04:29",
       "album": {
@@ -1115,26 +1131,6 @@
       "duration_ms": 318428,
       "name": "Subliminal (Even the Ghosts are Laughing)",
       "url": "https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm"
-    },
-    {
-      "added_at": "2022-06-10 16:21:06",
-      "album": {
-        "name": "Elixir / Nectar",
-        "url": "https://open.spotify.com/album/6mrI14TDv5H4SKoYvcEPYA"
-      },
-      "artists": [
-        {
-          "name": "Direct",
-          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
-        },
-        {
-          "name": "CloudNone",
-          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
-        }
-      ],
-      "duration_ms": 183836,
-      "name": "Elixir",
-      "url": "https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

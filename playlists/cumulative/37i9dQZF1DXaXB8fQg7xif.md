@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-769 songs - 1 day 18 hr 36 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
+770 songs - 1 day 18 hr 39 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,7 @@
 | [Promises](https://open.spotify.com/track/50YQaQXog18lS11wGCl77u) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG) | 3:21 | 2021-10-18 | 2022-01-29 |
 | [Psycho Killer](https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Psycho Killer](https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD) | 2:20 | 2020-12-27 | 2021-10-12 |
 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 | 2020-05-22\* | 2022-04-18 |
-| [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-07-29 |  |
+| [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-07-29 | 2022-08-24 |
 | [Pump the Brakes](https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump the Brakes](https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5) | 3:40 | 2021-05-11 | 2022-04-20 |
 | [Pump The Brakes \(LP Giobbi Remix\)](https://open.spotify.com/track/7cfmACXiAe7dDcEI10DGcR) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Pump The Brakes \(LP Giobbi Remix\)](https://open.spotify.com/album/3EdG1l0ZdwNKiAzoyLlhx6) | 4:39 | 2022-07-14 | 2022-07-29 |
 | [Pump the Brakes \- LP Giobbi Remix](https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Pump the Brakes \(LP Giobbi Remix\)](https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve) | 4:39 | 2021-10-10 | 2022-07-30 |
@@ -660,6 +660,7 @@
 | [Sun Is Shining \- Firebeatz Remix](https://open.spotify.com/track/3Uop3symAjwE1isIxJyaOP) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Sun Is Shining \(Firebeatz Remix\)](https://open.spotify.com/album/14zPM2izlAioJLeZMT1Vae) | 3:27 | 2020-05-22\* | 2022-04-20 |
 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 | 2022-07-14 | 2022-07-30 |
 | [Sunny Days \(with Dawn Tallman\)](https://open.spotify.com/track/12KVUsP4XTG3iDgzD4SjGu) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Dawn Tallman](https://open.spotify.com/artist/0aCxspxNd9b6qyT8LJTpXW) | [Sunny Days \(with Dawn Tallman\)](https://open.spotify.com/album/4DTbuCQHJsUajJJmNbC4Yc) | 3:49 | 2020-10-13 | 2021-03-21 |
+| [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 | 2022-08-19 |  |
 | [Survivor](https://open.spotify.com/track/4pD9SWYlUlzj47sUkWtAxp) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Survivor / Put Your Phone Down \(Low\)](https://open.spotify.com/album/2FY0KY4u0usEJHwR2gcXFN) | 2:43 | 2020-05-22\* | 2022-04-17 |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2021-12-11 |  |
 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-07-29 |  |

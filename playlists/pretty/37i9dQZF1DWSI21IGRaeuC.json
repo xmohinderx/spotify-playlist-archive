@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 5616,
+  "num_followers": 5673,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDNiNzZlOWFiZTUzNTVkZDUwYmRkZjQ2YmZmNzk3MTU5",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGUwZTYzNGI4NjI1M2E4ZDAxNjg0ZDM4MmRmNmNmZTM2",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -449,46 +449,6 @@
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Tonight EP",
-        "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
-      },
-      "artists": [
-        {
-          "name": "Latmun",
-          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
-        }
-      ],
-      "duration_ms": 352500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Snatch! OFF 071",
-        "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
-      },
-      "artists": [
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Oliver Dollar",
-          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
-        },
-        {
-          "name": "Mikey V",
-          "url": "https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe"
-        }
-      ],
-      "duration_ms": 186190,
-      "name": "About The Music",
-      "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
-    },
-    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Rizzla (Mochakk Remix)",
@@ -515,6 +475,46 @@
       "duration_ms": 321860,
       "name": "Rizzla - Mochakk Remix",
       "url": "https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Snatch! OFF 071",
+        "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Oliver Dollar",
+          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
+        },
+        {
+          "name": "Mikey V",
+          "url": "https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe"
+        }
+      ],
+      "duration_ms": 186190,
+      "name": "About The Music",
+      "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Tonight EP",
+        "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
+      },
+      "artists": [
+        {
+          "name": "Latmun",
+          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
+      },
+      "artists": [
+        {
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
+    },
+    {
       "added_at": "2022-06-10 14:45:01",
       "album": {
         "name": "Superfly",
@@ -853,40 +869,20 @@
       "url": "https://open.spotify.com/track/1EZcxkIogFFysvmyxSOZDI"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Roxy's Sweat EP",
-        "url": "https://open.spotify.com/album/3s740hEDYRuSEjwnuw385t"
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
         }
       ],
-      "duration_ms": 307865,
-      "name": "Roxy's Sweat - Original Mix",
-      "url": "https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Get Familiar",
-        "url": "https://open.spotify.com/album/0aJbbIFZGntiHELBrsohJN"
-      },
-      "artists": [
-        {
-          "name": "E.R.N.E.S.T.O",
-          "url": "https://open.spotify.com/artist/4qztljP89fI8SLn3GTJgqX"
-        },
-        {
-          "name": "Nala",
-          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
-        }
-      ],
-      "duration_ms": 291288,
-      "name": "God Complex",
-      "url": "https://open.spotify.com/track/00mSaiMr71bGUagR5GoRX1"
+      "duration_ms": 317850,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ"
     }
   ],
   "unique_name": "Minimal Tech",

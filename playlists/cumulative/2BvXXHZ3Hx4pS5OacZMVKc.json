@@ -680,6 +680,24 @@
     },
     {
       "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/5H2icnX0IBaEd2mp3B3w4E"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124150,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/3vyTl0rNX1xxW1XLeeMcmu"
+    },
+    {
+      "album": {
         "name": "The Revolution (Remixed)",
         "url": "https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g"
       },

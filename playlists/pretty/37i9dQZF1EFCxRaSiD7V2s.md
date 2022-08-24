@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 223 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 223 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 56 | [Two By Two](https://open.spotify.com/track/6TW8uIeb9paXpqNUrIrlUJ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 4:02 |
 | 57 | [Merry Go Round](https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Merry Go Round](https://open.spotify.com/album/2JDg4HHyjXlRBiXbLDh3dh) | 2:28 |
 | 58 | [Transmitter Failure](https://open.spotify.com/track/42whL9pTeZ66DV0zGDfAAA) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 4:46 |
-| 59 | [Living Room](https://open.spotify.com/track/1bybP9hRFNSewsw6lDc1J6) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:39 |
-| 60 | [Baby Let's Pretend](https://open.spotify.com/track/1BmaIHgkvLvZWv1kPmH0mb) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:31 |
+| 59 | [Baby Let's Pretend](https://open.spotify.com/track/1BmaIHgkvLvZWv1kPmH0mb) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:31 |
+| 60 | [Living Room](https://open.spotify.com/track/1bybP9hRFNSewsw6lDc1J6) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:39 |
 | 61 | [Temporary Goodbye](https://open.spotify.com/track/4xHsUjhBlg9qB7k5GUfHGm) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:29 |
 | 62 | [No More Words](https://open.spotify.com/track/48iwjxGmPT5fTFlAaftxg4) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 6:29 |
 | 63 | [Woodcut](https://open.spotify.com/track/2FVXoTWjF6yHlo73ekTgox) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 4:18 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 124 | [Beer Bad](https://open.spotify.com/track/2Ocx3XrE5G0okanv7VVEqO) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:28 |
 | 125 | [Bad Eggs](https://open.spotify.com/track/7rzmGfPzVm1ahc3vb5HmKa) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 0:36 |
 | 126 | [Earshot](https://open.spotify.com/track/7zNVhTRvhKLUzhkNLsUHOk) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 1:56 |
-| 127 | [This Year's Girl](https://open.spotify.com/track/7tTq3WMmOVVyjULjCbOoxA) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:31 |
-| 128 | [Totally Worth It](https://open.spotify.com/track/3mYnHLEaj0VOXFBifAnw8u) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:48 |
+| 127 | [Totally Worth It](https://open.spotify.com/track/3mYnHLEaj0VOXFBifAnw8u) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:48 |
+| 128 | [This Year's Girl](https://open.spotify.com/track/7tTq3WMmOVVyjULjCbOoxA) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:31 |
 | 129 | [Graduation Day, Pt\. 1](https://open.spotify.com/track/2HEojsJrldg6bYCFe92N6O) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:48 |
 | 130 | [The Prom](https://open.spotify.com/track/7fDI3J0JdSiE2STKsqDXXr) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 0:54 |
 | 131 | [Something Blue](https://open.spotify.com/track/59Sj8fjzniSWwvsosM1A7R) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:36 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 222 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 223 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc2ODY5NDksMDAwMDAwMDBkMDIyMDc0NmVkNWM5Zjc5MGRmYzY1NjAwNDliMDkwZA==`
+Snapshot ID: `Mjc2ODgzODksMDAwMDAwMDBkYTBmM2RhNWNkMmU4YTg4NDg1ODg1MDQxZjdjYWMwZA==`

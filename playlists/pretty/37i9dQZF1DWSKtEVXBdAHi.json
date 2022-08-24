@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27012,
+  "num_followers": 27010,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDRhNTAzMzk1NGNlOGU2MjdjMGNkMzg1NDc3NDVmNGMw",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGI4YmExYzk2ZTk3M2E0YTU1NDRiYTNiMDhiMmY3NDBl",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Keep You Mine",
         "url": "https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 174760,
       "name": "Keep You Mine",
       "url": "https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
     },
     {
       "added_at": "2020-02-18 13:31:30",

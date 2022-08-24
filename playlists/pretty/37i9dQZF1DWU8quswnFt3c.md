@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Nazia Hassan
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,094 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,036 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [MERICHANE](https://open.spotify.com/track/3o3YFP1o1SEb4Rh5jNkVT4) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [PUTA](https://open.spotify.com/album/2ctwMRxRCZabremU4pGcz4) | 4:18 |
 | 35 | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/track/6LJPpIlmgxeiJBP6AS1eh5) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/album/6uvGQ1cg5yDn9AkPUsUVLR) | 3:02 |
 | 36 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 |
-| 37 | [1 Cọng Tóc Mai](https://open.spotify.com/track/5i17rzCuZfYVzoP441PXGu) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [1 Cọng Tóc Mai](https://open.spotify.com/album/2xDiBqg4K8nxhYDsi4Aes5) | 3:17 |
-| 38 | [Dangerous](https://open.spotify.com/track/07dQsW9w1DgUFPtcBx14BP) | [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB) | [Elements](https://open.spotify.com/album/71731qzxZ81ePINkeiylQG) | 3:33 |
+| 37 | [Dangerous](https://open.spotify.com/track/07dQsW9w1DgUFPtcBx14BP) | [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB) | [Elements](https://open.spotify.com/album/71731qzxZ81ePINkeiylQG) | 3:33 |
+| 38 | [1 Cọng Tóc Mai](https://open.spotify.com/track/5i17rzCuZfYVzoP441PXGu) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [1 Cọng Tóc Mai](https://open.spotify.com/album/2xDiBqg4K8nxhYDsi4Aes5) | 3:17 |
 | 39 | [Bolesne kości \(Tymoteusz\) \- Single Version](https://open.spotify.com/track/64pYruY8MqdxoZBQPOs3su) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [Bolesne kości \(Tymoteusz\)](https://open.spotify.com/album/1GE4NgUQ16GUpgKFPOhh1M) | 4:04 |
 | 40 | [Bahagiakan Dia](https://open.spotify.com/track/4oBaBPg7nDBJfvDn3Dkzjk) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X), [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Bahagiakan Dia](https://open.spotify.com/album/7bGFqrSeIEOqnljdDI4EVJ) | 3:21 |
 | 41 | [各自安好](https://open.spotify.com/track/7ep5TafdBRpwCbwMciRPaU) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [各自安好](https://open.spotify.com/album/42kIWWADJxhtXbMvfm8jO8) | 4:23 |
@@ -60,23 +60,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 50 | [Như Lời Đồn](https://open.spotify.com/track/5aUlYDU9wWSVPRdrbCSPHF) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Như Lời Đồn](https://open.spotify.com/album/1Ljk64JLVQVnV9S0lWqPlZ) | 3:39 |
 | 51 | [Vanishing Love](https://open.spotify.com/track/63n0C5DD3gU1rUAfZ9pitu) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [Gei](https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts) | 4:40 |
 | 52 | [No Fool](https://open.spotify.com/track/1HZQxsJHV5cZmSBZBDuhXH) | [Grace](https://open.spotify.com/artist/3GKpXtb9Zb3QvDg9uzNi98) | [No Fool](https://open.spotify.com/album/6RPCehQmjAX0JRR6z9oAyW) | 2:24 |
-| 53 | [الوردة البيضا](https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [الوردة البيضا](https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO) | 3:57 |
-| 54 | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/track/3elqH6YbzTGQtlYdlmIbZC) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/album/3srSDFJhgwBetFxmT1nvgM) | 3:31 |
+| 53 | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/track/3elqH6YbzTGQtlYdlmIbZC) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/album/3srSDFJhgwBetFxmT1nvgM) | 3:31 |
+| 54 | [الوردة البيضا](https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [الوردة البيضا](https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO) | 3:57 |
 | 55 | [Plastic Flowers](https://open.spotify.com/track/733EegAvi6DRptoJSTc2mF) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Plastic Flowers](https://open.spotify.com/album/1ED0peXhq1bvjLKVNMbWL6) | 2:36 |
 | 56 | [it keeps on raining](https://open.spotify.com/track/7oPm32eIHb11cm4FJadA5p) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [it keeps on raining](https://open.spotify.com/album/0Qxp8yImfA544GEVQGvyQj) | 3:22 |
-| 57 | [Call Mi](https://open.spotify.com/track/2nYYjc3qevJl4pd1XXVhcg) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Call Mi](https://open.spotify.com/album/0tbVf3hH9dl7nH7ExGKrAA) | 3:15 |
-| 58 | [سم فالكاندي](https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX) | 2:27 |
+| 57 | [سم فالكاندي](https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX) | 2:27 |
+| 58 | [Call Mi](https://open.spotify.com/track/2nYYjc3qevJl4pd1XXVhcg) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Call Mi](https://open.spotify.com/album/0tbVf3hH9dl7nH7ExGKrAA) | 3:15 |
 | 59 | [Casa](https://open.spotify.com/track/0qCy54FENC3CPqOSMjHzPw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:18 |
 | 60 | [Hate You](https://open.spotify.com/track/20DTxZFaXhUWsnWFRmWgya) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/62IzaVIraFlR3BZQBBqwk0) | 3:24 |
 | 61 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 |
 | 62 | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi) | 4:09 |
-| 63 | [Girl From A Movie](https://open.spotify.com/track/4JaEvhhoQmAHSGwRWzKNrD) | [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Girl From A Movie](https://open.spotify.com/album/6t5K3cKJCLqT6OTj5dhLO8) | 4:16 |
-| 64 | [Alchemy](https://open.spotify.com/track/4trTjRaAzPMQrAInUSEKZA) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Alchemy](https://open.spotify.com/album/0D8HrT2FaWgG6PBLxT6amn) | 2:25 |
-| 65 | [Binary](https://open.spotify.com/track/3gUUMVRtNe9hxD2JzJ6J4v) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [Binary](https://open.spotify.com/album/6kZmUW4IoAWfZDcTr0nXaK) | 3:46 |
+| 63 | [Alchemy](https://open.spotify.com/track/4trTjRaAzPMQrAInUSEKZA) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Alchemy](https://open.spotify.com/album/0D8HrT2FaWgG6PBLxT6amn) | 2:25 |
+| 64 | [Binary](https://open.spotify.com/track/3gUUMVRtNe9hxD2JzJ6J4v) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [Binary](https://open.spotify.com/album/6kZmUW4IoAWfZDcTr0nXaK) | 3:46 |
+| 65 | [Girl From A Movie](https://open.spotify.com/track/4JaEvhhoQmAHSGwRWzKNrD) | [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Girl From A Movie](https://open.spotify.com/album/6t5K3cKJCLqT6OTj5dhLO8) | 4:16 |
 | 66 | [tricky situation](https://open.spotify.com/track/2RupwaICWPZgf5kK6WN9av) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [tricky situation](https://open.spotify.com/album/3LxNmsxNPOgG5HoDATneGG) | 2:06 |
 | 67 | [Khatt](https://open.spotify.com/track/7n6WZ6B685kKuhVsWCuZTe) | [Aqdas Asif](https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Khatt](https://open.spotify.com/album/5YE64t1MFZB7d5OOUGYAHq) | 3:52 |
 | 68 | [No More Doubt](https://open.spotify.com/track/4Oq69vJVrRt4Q5bSQhoeB4) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [No More Doubt](https://open.spotify.com/album/2KYLphOnR1zIzSF26BCoBA) | 2:56 |
 | 69 | [จ๊วดหน้าฮ้าน](https://open.spotify.com/track/5JqNGI6DXY8GUxFqtz4EwG) | [Jintara Poonlarp](https://open.spotify.com/artist/3KlfbBoTPmF2TwJxFzveRI) | [จ๊วดหน้าฮ้าน](https://open.spotify.com/album/1NLzon0T0W1MGIIS7M05fR) | 5:02 |
 | 70 | [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 |
 
-Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMDM2MGVmNTI3NzJlZDljYjRjMGFlYWRiY2ZmY2MzNmE0`
+Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMGIzMTNlNTkwMmExYTIzNmZlZGYyMmVjM2I5MDg5OGYx`

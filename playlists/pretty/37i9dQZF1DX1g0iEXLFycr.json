@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1051023,
+  "num_followers": 1050997,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMGRkYWI3ZTNiZDVkOTI3NDY2OTZkNTQ1MTQ1M2EwMjhj",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDBiNzI0ZTkwYTBmZmMzMWEzYWVlMzMzOTUwNTYwNzE1",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -271,22 +271,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "Grouplove",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "Grouplove",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -663,18 +663,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+      "duration_ms": 223078,
+      "name": "Send My Love (To Your New Lover)",
+      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -699,22 +699,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 223078,
-      "name": "Send My Love (To Your New Lover)",
-      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Eye To The Telescope",
         "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 201706,
       "name": "Suddenly I See",
       "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -835,22 +835,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Music From Party of Five",
-        "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
-      },
-      "artists": [
-        {
-          "name": "Rusted Root",
-          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
-        }
-      ],
-      "duration_ms": 263333,
-      "name": "Send Me on My Way",
-      "url": "https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 212373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Music From Party of Five",
+        "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
+      },
+      "artists": [
+        {
+          "name": "Rusted Root",
+          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "Send Me on My Way",
+      "url": "https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Alexis Jordan",
-        "url": "https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6"
-      },
-      "artists": [
-        {
-          "name": "Alexis Jordan",
-          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/5S4J5QVt1X0ZACiPOrOCoq"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "The Guest",
         "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+        "name": "Alexis Jordan",
+        "url": "https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Alexis Jordan",
+          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
         }
       ],
-      "duration_ms": 212446,
-      "name": "Pretty Shining People",
-      "url": "https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br"
+      "duration_ms": 243666,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5S4J5QVt1X0ZACiPOrOCoq"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1123,6 +1107,22 @@
       "duration_ms": 227146,
       "name": "Brokenhearted",
       "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 212446,
+      "name": "Pretty Shining People",
+      "url": "https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br"
     },
     {
       "added_at": "2020-08-27 16:10:25",

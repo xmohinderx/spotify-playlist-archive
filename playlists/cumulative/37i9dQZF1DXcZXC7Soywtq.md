@@ -4,7 +4,7 @@
 
 > ملتقي أصوات النساء العربيات! الغلاف: أنغام
 
-184 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
+185 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Kol Leila](https://open.spotify.com/track/3qMN6LFU5yeIUG7G2xNWXl) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Kol Leila](https://open.spotify.com/album/1id31b4vD52y8XvFWNO8sM) | 3:57 | 2022-04-08 | 2022-07-29 |
 | [Kol Shams W Liha Del](https://open.spotify.com/track/6hyL1SPpjeV5eVEr3xaDgB) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Kol Shams W Liha Del](https://open.spotify.com/album/4b9LPEuyKQQKLPUA2Eoz3S) | 3:09 | 2022-04-08 | 2022-07-27 |
 | [Kol Shams W Liha Del](https://open.spotify.com/track/0ctwrNGbqdhBBDhYm7VEV6) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Kol Shams W Liha Del](https://open.spotify.com/album/1ACwZETQMrDDeP2wlPo1TH) | 3:09 | 2022-07-21 |  |
+| [Korbag](https://open.spotify.com/track/0gBY3xJ8eig3YWnbASh5Xy) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Korbag](https://open.spotify.com/album/5bNkoDJ2IKDVJu6sNcgzXt) | 3:18 | 2022-08-23 |  |
 | [La Zhar La Mektoub](https://open.spotify.com/track/5n3zeMcQpsOLdUINIVtF2N) | [Fatima Zahra Laaroussi](https://open.spotify.com/artist/0bU3oL3uow8qjpD2YL3Mr1) | [La Zhar La Mektoub](https://open.spotify.com/album/3N6L8BP1VU8RceCFRx5Miz) | 4:09 | 2022-04-08 | 2022-07-28 |
 | [La Zher La Maktoub](https://open.spotify.com/track/5sYkyX02CapaYwK5qJRZSt) | [Fatima Zahra Laaroussi](https://open.spotify.com/artist/0bU3oL3uow8qjpD2YL3Mr1) | [La Zher La Maktoub](https://open.spotify.com/album/02rqEUJDvQLYeRVzON38Qq) | 4:09 | 2022-07-21 |  |
 | [Lahfet Msafer](https://open.spotify.com/track/0H0hYeozgRiIiidSlFelW5) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Lahfet Msafer](https://open.spotify.com/album/7p2WXfnhVkOlJf2Z5pl2mo) | 4:33 | 2022-04-08 | 2022-07-29 |
@@ -113,7 +114,7 @@
 | [Lil Khamsa](https://open.spotify.com/track/0H6Cit3liZajD0QvGEEhXF) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Lil Khamsa](https://open.spotify.com/album/2RfMu6Y8CT710LzID1wkLi) | 3:00 | 2022-04-08 | 2022-07-29 |
 | [Ma Asameh](https://open.spotify.com/track/4ntphqaov727ZXeXn0s0mm) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ma Asameh](https://open.spotify.com/album/2QTqYpbbmd6ciX0yfWvo3a) | 5:18 | 2022-04-08 |  |
 | [Ma Rah Ared](https://open.spotify.com/track/2N1CZ5Rc5w6QXJYubBpsgl) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Ma Rah Ared](https://open.spotify.com/album/3LYXXUY2KBB2lXAFVSIjve) | 3:20 | 2022-04-08 | 2022-07-29 |
-| [Ma vie en rose](https://open.spotify.com/track/715kOmrDKM2vM0szYl2Ba4) | [Manel Hadli](https://open.spotify.com/artist/0ufVFLvhVnwyqlGvXbAYkQ) | [Ma vie en rose](https://open.spotify.com/album/3F67qcdbqrbnefD0aFt7sa) | 4:32 | 2022-04-08 |  |
+| [Ma vie en rose](https://open.spotify.com/track/715kOmrDKM2vM0szYl2Ba4) | [Manel Hadli](https://open.spotify.com/artist/0ufVFLvhVnwyqlGvXbAYkQ) | [Ma vie en rose](https://open.spotify.com/album/3F67qcdbqrbnefD0aFt7sa) | 4:32 | 2022-04-08 | 2022-08-24 |
 | [Maaleish](https://open.spotify.com/track/2UmMhiOyqkHkDQwlQD1nTH) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Maaleish](https://open.spotify.com/album/2eaaJ7UvHSTAwIZ85PUhyi) | 3:27 | 2022-04-08 |  |
 | [Magnona](https://open.spotify.com/track/6p0riYODlGlmDBfz9fkNEe) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Magnona](https://open.spotify.com/album/0oEXmhIYY9uplePJA3R9s3) | 3:28 | 2022-04-08 |  |
 | [Majnouna](https://open.spotify.com/track/2zrT30ROq22gNR06kmDTzN) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Majnouna](https://open.spotify.com/album/0XM3nZVSZv2OK97n6zx0gO) | 3:02 | 2022-04-08 |  |

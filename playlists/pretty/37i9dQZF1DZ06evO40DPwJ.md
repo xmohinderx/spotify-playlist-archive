@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,764 likes - 46 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,769 likes - 46 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 9 | [Hangover \(Latino Version\)](https://open.spotify.com/track/1kI6dbPJALktaIm1wF9G3V) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Hangover \(Latino Version\)](https://open.spotify.com/album/674xP1BV18kOu3aw6Jhmzz) | 4:04 |
 | 10 | [Hangover \- Hardwell Remix Radio Edit](https://open.spotify.com/track/63fyL7QZ1vhGZzZ9G56rcp) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Hangover \(Remixes\)](https://open.spotify.com/album/6yNFJz8Gy8E7ZR6ERc9nEa) | 3:10 |
 | 11 | [Shine A Light \- Radio Edit](https://open.spotify.com/track/5potQQ4p1E51003y375eVC) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Above The Noise](https://open.spotify.com/album/0PktNBv5Cem8XPnhkubCjR) | 3:38 |
-| 12 | [Fast Car](https://open.spotify.com/track/6aj2PLLML1AF6Ja9tfULCk) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Fast Hits EP](https://open.spotify.com/album/5whYqJlJ87Zuyv665iZRZc) | 3:45 |
-| 13 | [World In Our Hands](https://open.spotify.com/track/79xJXZeudmfMq4ay9yCFGd) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:19 |
-| 14 | [Telling The World](https://open.spotify.com/track/42AcnfPuSV3i6iWA0OfwTw) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/7CCqoU4oEIV3bSLm75IL5n) | 3:32 |
-| 15 | [Booty Bounce \- Extended Mix](https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Booty Bounce](https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf) | 4:00 |
+| 12 | [World In Our Hands](https://open.spotify.com/track/79xJXZeudmfMq4ay9yCFGd) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:19 |
+| 13 | [Telling The World](https://open.spotify.com/track/42AcnfPuSV3i6iWA0OfwTw) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/7CCqoU4oEIV3bSLm75IL5n) | 3:32 |
+| 14 | [Booty Bounce \- Extended Mix](https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Booty Bounce](https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf) | 4:00 |
+| 15 | [Fast Car](https://open.spotify.com/track/6aj2PLLML1AF6Ja9tfULCk) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Fast Hits EP](https://open.spotify.com/album/5whYqJlJ87Zuyv665iZRZc) | 3:45 |
 | 16 | [I Just Wanna Know](https://open.spotify.com/track/4k4ATqsMCM50atR4B8Q1m9) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:58 |
 | 17 | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR) | 3:57 |
 | 18 | [Take Me Back](https://open.spotify.com/track/4TdrHKdMJYlKDuPBenJomu) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Catch 22](https://open.spotify.com/album/768phjrQ22pDyr1oQoW0bY) | 3:34 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 31 | [Break Your Heart \- Mixin Marc And Tony Svejda Radio Edit](https://open.spotify.com/track/4mVtx1WO9DmJDrYoTC17Nf) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Jersey Shore Soundtrack](https://open.spotify.com/album/4tDWS8dQ6CZWysamjY9eDX) | 4:26 |
 | 32 | [Feel Again \- Remastered](https://open.spotify.com/track/0SDV4Wvg7q19B2dQwAv2HB) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:37 |
 | 33 | [Can't Say Go](https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:23 |
-| 34 | [Do What You Like](https://open.spotify.com/track/1Tv1NuaM2jnCrGUE1cVaG6) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/04zgNiSQl0PiOG85BNHwFP) | 3:20 |
-| 35 | [2020](https://open.spotify.com/track/0u39yW18Oo0pURg5XrtSOv) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Wonder Stereo](https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn) | [2020](https://open.spotify.com/album/1ZlOVBJe134G0mm1N9eIf9) | 2:25 |
+| 34 | [2020](https://open.spotify.com/track/0u39yW18Oo0pURg5XrtSOv) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Wonder Stereo](https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn) | [2020](https://open.spotify.com/album/1ZlOVBJe134G0mm1N9eIf9) | 2:25 |
+| 35 | [Do What You Like](https://open.spotify.com/track/1Tv1NuaM2jnCrGUE1cVaG6) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/04zgNiSQl0PiOG85BNHwFP) | 3:20 |
 | 36 | [Take Me Back Remix \- feat\. Sway & Chipmunk](https://open.spotify.com/track/4MqsdeW1195zZVaMDSWbvj) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Take Me Back](https://open.spotify.com/album/0AGt9wI36usQYCNSTd0aQK) | 4:17 |
 | 37 | [I'll Never Love Again](https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:48 |
 | 38 | [Tattoo](https://open.spotify.com/track/6n1kUdwc699rJD3A7sBKqb) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:12 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 45 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
 | 46 | [Knock Me Off My Feet](https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:18 |
 
-Snapshot ID: `Mjc2ODYyNjMsMDAwMDAwMDBkYmMxMjg0MTE0MTNhMTc2ZGY1MTlhMjVjZmU0MzM2Mg==`
+Snapshot ID: `Mjc2ODc2ODcsMDAwMDAwMDA0OTAwNTRjNjcyM2FmZDM5ODkwMDYzNmZkNzMzYWU2NA==`

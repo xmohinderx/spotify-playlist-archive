@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-159 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
+161 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2021-11-24 |  |
 | [Hold On To The Night](https://open.spotify.com/track/7nFG13NCU0gUY1RV8h1kDe) | [Roy van Maren](https://open.spotify.com/artist/7JkafgaIW0izdL74lbCkX6), [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Hold On To The Night](https://open.spotify.com/album/2frOup854eahgacwS4TJfj) | 2:08 | 2022-02-03 |  |
 | [Hold You](https://open.spotify.com/track/7fOstQ4Nq9Zkj2J0sZZ5rE) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u), [Okke Punt](https://open.spotify.com/artist/62eGoLRCLKqObqDkLfYDVP) | [Hold You](https://open.spotify.com/album/4QMB7pB3LBmoAxiFVcsOlk) | 4:16 | 2021-11-24 |  |
-| [Howling At The Moon](https://open.spotify.com/track/0lj2nJSYWe41NhF07SRAtI) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Howling At The Moon](https://open.spotify.com/album/0gOshFXSYvZTpAYL5sPH7h) | 3:05 | 2022-06-03 |  |
+| [Howling At The Moon](https://open.spotify.com/track/0lj2nJSYWe41NhF07SRAtI) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Howling At The Moon](https://open.spotify.com/album/0gOshFXSYvZTpAYL5sPH7h) | 3:05 | 2022-06-03 | 2022-08-24 |
+| [Howling at the Moon](https://open.spotify.com/track/34Yx1C3PBF986YzL3jfuuR) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Modern Heart](https://open.spotify.com/album/3U1AZauAd7pqx4GitFLTjY) | 3:05 | 2022-08-23 |  |
 | [Howling at the Moon](https://open.spotify.com/track/5uhD79zVjkKdzmzTjqHXgo) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Modern Heart](https://open.spotify.com/album/0iILGOWECbPUX0QudcogNg) | 3:05 | 2021-11-24 | 2022-07-29 |
 | [I Know](https://open.spotify.com/track/7xMtHMEyRCktv2UmDYG8kP) | [Micah & Julia](https://open.spotify.com/artist/5ky4yhXKn4OZw7KtZmfJKE) | [I Know](https://open.spotify.com/album/0cI7LukQT1A8d3orxjBUwR) | 3:19 | 2021-11-24 |  |
 | [I Like You](https://open.spotify.com/track/7Afr3PKTtlFGHGiXYgnv6P) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Walking in Between](https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu) | 2:18 | 2022-06-03 |  |
@@ -73,6 +74,7 @@
 | [Lights](https://open.spotify.com/track/7hBkF4gHTeBYFpbojarbWo) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Lights](https://open.spotify.com/album/50ncAqMEKX95MGtoCNjQ1w) | 3:32 | 2021-11-24 | 2022-04-29 |
 | [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-06-03 |  |
 | [Lights Down Low](https://open.spotify.com/track/5brHijrNA7UAFw74p4f5v3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Lights Down Low](https://open.spotify.com/album/0KWtVo7Q9QIpXycrm9MuWI) | 3:43 | 2021-11-24 | 2022-07-29 |
+| [Little Birds](https://open.spotify.com/track/3mgFa4MC92Q6iaT1fLKJkm) | [Midas](https://open.spotify.com/artist/7eNngegCrDK76btqeQ78wD) | [Little Birds](https://open.spotify.com/album/3pwDJLTeuu2f1JAkWS6Vnj) | 3:19 | 2022-08-23 |  |
 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 | 2022-06-03 |  |
 | [Lonely Nights \(feat\. Priscilla Ahn\)](https://open.spotify.com/track/2rkk5vdzvYkahw9t0tAYgm) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights \(feat\. Priscilla Ahn\)](https://open.spotify.com/album/65ndmszcqkSAetDsBALeVq) | 3:39 | 2021-11-24 | 2022-07-29 |
 | [Lose Control \- Acoustic Version](https://open.spotify.com/track/4lDN8anxsodu74ZlmON3Dp) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Lose Control \(Acoustic Version\)](https://open.spotify.com/album/2YeURaE82ffGH6W2mWT9gJ) | 2:37 | 2021-11-24 | 2022-07-29 |
@@ -144,7 +146,7 @@
 | [The Island](https://open.spotify.com/track/5rK6tUpOnpI2zig7JgtAGz) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [The Island](https://open.spotify.com/album/7HKuPYtqg01NQ899c8hK6x) | 5:08 | 2021-11-24 |  |
 | [The Way You Take Time](https://open.spotify.com/track/2kFwiAtvJ9VT1c8PAoBkJj) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time](https://open.spotify.com/album/2mHb3q04keB9gEQ00hhAlc) | 2:31 | 2021-11-24 | 2022-04-29 |
 | [Till The Sun Comes Up](https://open.spotify.com/track/3oB8dXCjtQShPeliylX8jg) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Till The Sun Comes Up](https://open.spotify.com/album/7eKFymkUkJdRpKDYEXlTnp) | 3:21 | 2021-11-24 | 2022-07-29 |
-| [Till The Sun Comes Up](https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [The Lucky Ones](https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42) | 3:21 | 2022-06-03 |  |
+| [Till The Sun Comes Up](https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [The Lucky Ones](https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42) | 3:21 | 2022-06-03 | 2022-08-24 |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-24 |  |
 | [Torn \- Bonus Track](https://open.spotify.com/track/7lwYNEUrDP4thCD6nQ4nBv) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:16 | 2021-11-24 | 2022-04-29 |
 | [Trying My Best](https://open.spotify.com/track/06qUEhhx6jKQmhj2qAkn4H) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Trying My Best](https://open.spotify.com/album/7y7FAlGLQ3qCubAGtw1oT0) | 3:42 | 2021-11-24 | 2022-07-29 |

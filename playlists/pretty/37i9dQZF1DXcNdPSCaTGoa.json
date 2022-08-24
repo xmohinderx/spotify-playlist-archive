@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African classics. Cover: <a href=\"https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3-HGc030gg\">Johnny Clegg</a>",
-  "num_followers": 26535,
+  "num_followers": 26560,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMDc5Nzc0YWJiNzBjZTMzZjMzYTNkZTA5MTMzZjFmMDI1",
+  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMDY0ZTUzM2JlYmEwYTZhODEyZWRmNGIyZWIzZjlkZDlk",
   "tracks": [
     {
       "added_at": "2019-02-03 07:20:41",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "Sibongile",
-        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
-      },
-      "artists": [
-        {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
-        }
-      ],
-      "duration_ms": 351053,
-      "name": "Ndihamba Nawe",
-      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
-    },
-    {
       "added_at": "2019-02-03 06:58:55",
       "album": {
         "name": "Sister Bethina",
@@ -151,6 +135,22 @@
       "duration_ms": 261946,
       "name": "Sister Bethina",
       "url": "https://open.spotify.com/track/3fl49HroL5DvBAB9ezbj8w"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "duration_ms": 351053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
     },
     {
       "added_at": "2019-07-12 04:36:25",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
     },
     {
+      "added_at": "2019-05-20 11:06:54",
+      "album": {
+        "name": "Township Funk",
+        "url": "https://open.spotify.com/album/3luAwCNNb1nLAwq2oMUhJi"
+      },
+      "artists": [
+        {
+          "name": "Dj Mujava",
+          "url": "https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu"
+        }
+      ],
+      "duration_ms": 349480,
+      "name": "Township Funk",
+      "url": "https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0"
+    },
+    {
       "added_at": "2018-09-23 12:30:57",
       "album": {
         "name": "Evo Mix",
@@ -527,22 +543,6 @@
       "duration_ms": 295813,
       "name": "Khona",
       "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
-    },
-    {
-      "added_at": "2019-05-20 11:06:54",
-      "album": {
-        "name": "Township Funk",
-        "url": "https://open.spotify.com/album/3luAwCNNb1nLAwq2oMUhJi"
-      },
-      "artists": [
-        {
-          "name": "Dj Mujava",
-          "url": "https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu"
-        }
-      ],
-      "duration_ms": 349480,
-      "name": "Township Funk",
-      "url": "https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0"
     },
     {
       "added_at": "2019-02-03 07:20:41",
@@ -851,26 +851,6 @@
     {
       "added_at": "2018-09-23 12:30:57",
       "album": {
-        "name": "Respect Toasted Gona' Ganati",
-        "url": "https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr"
-      },
-      "artists": [
-        {
-          "name": "Trompies",
-          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
-        },
-        {
-          "name": "Tzozo",
-          "url": "https://open.spotify.com/artist/3j2kQ3pshmhfVJt5u0Lx2L"
-        }
-      ],
-      "duration_ms": 315653,
-      "name": "Bengim'ngaka",
-      "url": "https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM"
-    },
-    {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
         "name": "Our Father",
         "url": "https://open.spotify.com/album/0OoSrujq3IhCnsd8Et9ktL"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 309440,
       "name": "Y-Tjukuja",
       "url": "https://open.spotify.com/track/7k6fhiKtfldICruY5AdKpb"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Respect Toasted Gona' Ganati",
+        "url": "https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr"
+      },
+      "artists": [
+        {
+          "name": "Trompies",
+          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
+        },
+        {
+          "name": "Tzozo",
+          "url": "https://open.spotify.com/artist/3j2kQ3pshmhfVJt5u0Lx2L"
+        }
+      ],
+      "duration_ms": 315653,
+      "name": "Bengim'ngaka",
+      "url": "https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM"
     },
     {
       "added_at": "2019-02-03 07:20:41",

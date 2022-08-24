@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Derek Trucks & Susan Tedeschi
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,767 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,861 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 35 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 |
 | 36 | [Red Sky](https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 8:52 |
 | 37 | [Galactic Passport](https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 6:52 |
-| 38 | [Stacy's on the Lake](https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 2:19 |
+| 38 | [Revival](https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 3:35 |
 | 39 | [Nuff](https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 5:04 |
-| 40 | [Revival](https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 3:35 |
+| 40 | [Stacy's on the Lake](https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 2:19 |
 | 41 | [Don't Say Goodnight Just Yet](https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Don't Say Goodnight Just Yet](https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe) | 5:54 |
 | 42 | [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 |
 | 43 | [Shahryar's Rage](https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:11 |
 | 44 | [Myrtle](https://open.spotify.com/track/3w58LambC0n9cuwxJ0wuXW) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [Scary Blankets](https://open.spotify.com/album/0yYqSumt1RNjNJDnt1OnHh) | 9:18 |
 | 45 | [Fact from Fiction](https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9) | [The Fritz](https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8) | [Natural Mind](https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj) | 8:25 |
-| 46 | [Lily's Tiger](https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA) | [Great Blue](https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc) | [Great Blue](https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6) | 4:57 |
-| 47 | [Get out of Your Head](https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Selections, Vol\. 1](https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7) | 12:11 |
+| 46 | [Get out of Your Head](https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Selections, Vol\. 1](https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7) | 12:11 |
+| 47 | [Lily's Tiger](https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA) | [Great Blue](https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc) | [Great Blue](https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6) | 4:57 |
 | 48 | [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 |
 | 49 | [The Road](https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 7:13 |
 | 50 | [Kinetic Bump](https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt) | [The Mantras](https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji) | [Jambands Ruined My Life](https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU) | 6:15 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMGE1NzQ2ZTM3NWIwMjhkNTI4YTZjYjU4OWQwZTQ0MjAw`
+Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMGEwMWJhNWQwYjViZTFiOTg3NWQzNDhhZGRlYjYwOWUw`

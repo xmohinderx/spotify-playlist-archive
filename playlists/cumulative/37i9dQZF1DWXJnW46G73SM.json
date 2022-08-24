@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "A'al Hady",
+        "url": "https://open.spotify.com/album/7yrfJY21d4aleDkGyiTHsz"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Batshan",
+          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "A'al Hady",
+      "url": "https://open.spotify.com/track/5A0UZewaFMomZezPF9ueqS"
+    },
+    {
+      "album": {
         "name": "Abia El Donia",
         "url": "https://open.spotify.com/album/3UlzoBKkSpdbdOopu4NtJb"
       },
@@ -503,7 +521,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 168000,
       "name": "BALALEEN",
       "url": "https://open.spotify.com/track/1K6ekZzDLpket1RXwLb7t4"
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 201038,
       "name": "Baseeb El Donia",
       "url": "https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC"
@@ -1712,6 +1730,24 @@
     },
     {
       "album": {
+        "name": "Korbag",
+        "url": "https://open.spotify.com/album/5bNkoDJ2IKDVJu6sNcgzXt"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Korbag",
+      "url": "https://open.spotify.com/track/0gBY3xJ8eig3YWnbASh5Xy"
+    },
+    {
+      "album": {
         "name": "La Ay Ay",
         "url": "https://open.spotify.com/album/43dhjgwEzz6JGwAU6n2hlY"
       },
@@ -2174,6 +2210,24 @@
     },
     {
       "album": {
+        "name": "Matstghrabesh",
+        "url": "https://open.spotify.com/album/5lO5nv5WfDcjHJBuvWnxey"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193509,
+      "name": "Matstghrabesh",
+      "url": "https://open.spotify.com/track/70jooBdkmWHzGBmuVY95Vv"
+    },
+    {
+      "album": {
         "name": "Mawkef Da\u2019af",
         "url": "https://open.spotify.com/album/4dLSVm96Uzw4veUMnvNzUr"
       },
@@ -2391,7 +2445,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 272560,
       "name": "Min Awel Dekika",
       "url": "https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2"
@@ -2619,7 +2673,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 166857,
       "name": "Roh El Roh",
       "url": "https://open.spotify.com/track/2d1YGwEyCdZWSNUq8RdNOF"
@@ -3663,6 +3717,24 @@
       "duration_ms": 246305,
       "name": "\u0648\u0623\u0646\u0627 \u0628\u062a\u0641\u0631\u062c",
       "url": "https://open.spotify.com/track/1qa5n8liYLMC2egxR2NL8W"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627 \u0631\u062a\u0647\u0627 \u0628\u062a\u064a\u062c\u064a",
+        "url": "https://open.spotify.com/album/6gf9GxUhHRlBAIREEYU6pr"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Nour",
+          "url": "https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247028,
+      "name": "\u064a\u0627 \u0631\u062a\u0647\u0627 \u0628\u062a\u064a\u062c\u064a",
+      "url": "https://open.spotify.com/track/3Y5gHvhzaVhTpZDwMoBqOW"
     },
     {
       "album": {

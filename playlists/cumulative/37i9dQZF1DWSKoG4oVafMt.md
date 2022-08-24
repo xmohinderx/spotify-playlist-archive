@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-499 songs - 1 day 2 hr 58 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+500 songs - 1 day 3 hr 1 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Jaan Te Bani 2](https://open.spotify.com/track/54EZSryDgRSvx3altQXVya) | [Balraj](https://open.spotify.com/artist/198wHm8PoJ6EEKCkOI5kbi), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Jaan Te Bani 2](https://open.spotify.com/album/54ops4MY7c1kfeXZTChFcs) | 4:58 | 2022-03-01 | 2022-03-11 |
 | [Jaane Meriye](https://open.spotify.com/track/4Q9ZQwcObLhWeApFYvTvMo) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Jaane Meriye](https://open.spotify.com/album/50KN4dXK3fwcTfvAGUyO7Z) | 2:36 | 2022-03-31 | 2022-04-29 |
 | [Jaaneman](https://open.spotify.com/track/28FLHp1phC1eBLgae9hIB2) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ), [Sharry Hassan](https://open.spotify.com/artist/3ZtrmL8sJMjnLVnHuA7Vd5), [Angad](https://open.spotify.com/artist/59BA4APzM0Hooxqsxa74Tu) | [Jaaneman](https://open.spotify.com/album/2DliuQNPXUekTFeYByTcPl) | 2:19 | 2022-04-15 | 2022-04-29 |
+| [Jaano Pyari](https://open.spotify.com/track/1mcKuC4EzNDmF9mGxaP4xe) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Blessed](https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu) | 3:22 | 2022-08-23 |  |
 | [Jaanu](https://open.spotify.com/track/00sshcz4IzgggX2r8bAZ89) | [Hardeep Grewal](https://open.spotify.com/artist/43H2bU3Tpcw29Ndd0J5P7B), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jaanu](https://open.spotify.com/album/5hvXACaNTVp8WxDE7zhfc1) | 3:19 | 2022-01-18 | 2022-02-01 |
 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 | 2022-02-03 |  |
 | [JATTA IK TERE KARKE](https://open.spotify.com/track/4sFSXPcSjUwjmwlPGTWktU) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [JATTA IK TERE KARKE](https://open.spotify.com/album/5WI3fgyT2QgoFISwebIKLN) | 2:52 | 2022-02-09 | 2022-07-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: Norma Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,079 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,092 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 39 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
 | 40 | [Dead Circus](https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Dead Circus](https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY) | 3:10 |
 | 41 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 |
-| 42 | [Enough](https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Will King](https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM) | [Enough](https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk) | 2:49 |
-| 43 | [Alone](https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Alone](https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69) | 3:17 |
-| 44 | [Lost](https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [The Collapse](https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr) | 3:30 |
-| 45 | [No Hope 'Til Now](https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [No Hope 'Til Now](https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed) | 3:59 |
-| 46 | [Forsaken](https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Forsaken](https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2) | 3:03 |
+| 42 | [Alone](https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Alone](https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69) | 3:17 |
+| 43 | [Lost](https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [The Collapse](https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr) | 3:30 |
+| 44 | [Enough](https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Will King](https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM) | [Enough](https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk) | 2:49 |
+| 45 | [Forsaken](https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Forsaken](https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2) | 3:03 |
+| 46 | [No Hope 'Til Now](https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [No Hope 'Til Now](https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed) | 3:59 |
 | 47 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 |
-| 48 | [Sunchaser](https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Sunchaser](https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl) | 3:29 |
-| 49 | [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 |
+| 48 | [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 |
+| 49 | [Sunchaser](https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Sunchaser](https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl) | 3:29 |
 | 50 | [Quicksand \(feat\. Michael Swank\)](https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE), [Foxera](https://open.spotify.com/artist/3YMpkFfYLXaD8eZlQalBHC), [Michael Swank](https://open.spotify.com/artist/1p4l2x4EUENGm1VCQfBkuu) | [Quicksand](https://open.spotify.com/album/3vo077XHNBeAEVlnWGQUCG) | 2:32 |
 | 51 | [Shadows in Time](https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Shadows in Time](https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT) | 3:44 |
 | 52 | [Raw](https://open.spotify.com/track/7FCVJA2Fam3DiTsgBJoVuk) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Raw](https://open.spotify.com/album/73pyrNaGLPGT8JuHZTSfv9) | 3:42 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 58 | [Damage Done](https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk) | 3:27 |
 | 59 | [Reflections](https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [Reflections](https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw) | 3:07 |
 | 60 | [Summertown](https://open.spotify.com/track/5M0jC2erbDuwYEM6PgiQ3I) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU), [Breakdown Bros](https://open.spotify.com/artist/7noSWnLC2cNbtgKXmUrvLc) | [Summertown](https://open.spotify.com/album/40iNTLmwIhwkEYRtsUNlJC) | 3:43 |
-| 61 | [My World](https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [My World](https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv) | 3:11 |
-| 62 | [Break Me Down](https://open.spotify.com/track/4Qgmwp20QeC0LFVK7cLo7v) | [Cemetery Sun](https://open.spotify.com/artist/2LiLNsS5rRWmnOSQM5F8Zz) | [Break Me Down](https://open.spotify.com/album/5rwNN6KSg9pngqKr3eu3wt) | 3:28 |
+| 61 | [Break Me Down](https://open.spotify.com/track/4Qgmwp20QeC0LFVK7cLo7v) | [Cemetery Sun](https://open.spotify.com/artist/2LiLNsS5rRWmnOSQM5F8Zz) | [Break Me Down](https://open.spotify.com/album/5rwNN6KSg9pngqKr3eu3wt) | 3:28 |
+| 62 | [My World](https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [My World](https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv) | 3:11 |
 | 63 | [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 |
 | 64 | [NWWM](https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d) | [Borders](https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO), [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ) | [NWWM](https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm) | 3:02 |
 | 65 | [Losing You](https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Losing You](https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 |
 | 75 | [IMAGO](https://open.spotify.com/track/2VyENkTDQPz6hXE1hkCbkk) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/08u01qs66Th1vASwCuuJxP) | 3:17 |
 
-Snapshot ID: `MTY2MDkxNDAwMCwwMDAwMDAwMDFjNTRkOGQ5N2MwM2I2Y2ZiNjIwZTI0YmExMDZlMzhj`
+Snapshot ID: `MTY2MDkxNDAwMCwwMDAwMDAwMGYyNzAwN2U5ZTlkZWY5ZjFlMDNhZDkyNzNjM2I2NWVj`

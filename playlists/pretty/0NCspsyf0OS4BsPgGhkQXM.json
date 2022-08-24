@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2034924,
+  "num_followers": 2034867,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTIyMTcsMDlkNzgyYzIxMDNmMWU2MWJhZmNmNTc2Yjg5NzVhY2Q4YTczMGVmMA==",
+  "snapshot_id": "MTIyMTksN2NlNzIwOTJmZDQxODhkNGJkYTE3ZTM0ZDM1Yjk5N2M2OGM4NzgxYw==",
   "tracks": [
     {
       "added_at": "2022-08-17 17:28:16",
@@ -23,6 +23,22 @@
       "duration_ms": 274285,
       "name": "It's Not Too Late",
       "url": "https://open.spotify.com/track/6LRPntS8i0E5zV3h9p7KpR"
+    },
+    {
+      "added_at": "2022-08-23 21:19:46",
+      "album": {
+        "name": "Xenogenesis",
+        "url": "https://open.spotify.com/album/07ej3OfHDl0ppyUrK7bTUF"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        }
+      ],
+      "duration_ms": 233379,
+      "name": "Xenogenesis",
+      "url": "https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS"
     },
     {
       "added_at": "2022-08-17 17:28:16",

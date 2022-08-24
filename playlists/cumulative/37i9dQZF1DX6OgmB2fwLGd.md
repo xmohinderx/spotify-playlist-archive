@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Minions
 
-373 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+376 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Cap Freestyle](https://open.spotify.com/track/6ye5dPKpw2OZz0IRUuMbc4) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Cap Freestyle](https://open.spotify.com/album/7fweiD7TX7zUeIA88eaaEX) | 2:33 | 2022-07-15 | 2022-08-13 |
 | [Care](https://open.spotify.com/track/7yMZ5Xa4TDQo3dLlDRCwfm) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Care](https://open.spotify.com/album/3mDFwTz4FIFi2ClrkZPCQT) | 1:25 | 2021-11-12 | 2022-02-26 |
 | [CASINO](https://open.spotify.com/track/5iDpk9U5ktJY9ML4tJ6uaX) | [Grimlxck](https://open.spotify.com/artist/1QPHV0lpB3LnneuhjZf7fP) | [CASINO](https://open.spotify.com/album/3bswyeoOJMkNTSACluve6K) | 1:55 | 2021-12-16 | 2022-05-14 |
+| [Cat Daddy](https://open.spotify.com/track/1N4jhCFeE0hrZGYfpJsSAF) | [Rej3ctz](https://open.spotify.com/artist/67oiK9STe75g3hNiUFyaRo) | [Cat Daddy \- Single](https://open.spotify.com/album/6gecj0Msw2sOPPEJrNE7uv) | 3:20 | 2022-08-23 |  |
 | [Caught Up](https://open.spotify.com/track/0ItF4CpuagCFBMt7IdpoLn) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso), [savesomeone](https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz) | [Caught Up](https://open.spotify.com/album/6JYelzDNpSvdajIZm0DXod) | 2:03 | 2022-06-02 | 2022-08-02 |
 | [CAUTIOUS](https://open.spotify.com/track/5qF7knZoOT4pPq6A7xlOSw) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [CAUTIOUS](https://open.spotify.com/album/6Hz60yvlonoL9NJxKA2u15) | 2:25 | 2021-12-03 | 2022-05-07 |
 | [CECE](https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [CECE](https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH) | 2:22 | 2022-05-06 |  |
@@ -112,7 +113,7 @@
 | [DO NOT KNOW YOU](https://open.spotify.com/track/7uVNWO2CAqAnGWDm9ipczc) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [DO NOT KNOW YOU](https://open.spotify.com/album/5O4I4RUSGTurL6VKPCMeJJ) | 2:00 | 2022-07-15 | 2022-07-30 |
 | [Doja](https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Doja](https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o) | 2:51 | 2022-02-04 |  |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-22 |  |
-| [Don't Look At Numbers \- Lost Kids Edition](https://open.spotify.com/track/5CfWNBwDYZfurQCrQUzWa7) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Lost Kids Edition\)](https://open.spotify.com/album/63nYWwU4DroL9w3eXbRwB2) | 3:37 | 2022-08-19 |  |
+| [Don't Look At Numbers \- Lost Kids Edition](https://open.spotify.com/track/5CfWNBwDYZfurQCrQUzWa7) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Lost Kids Edition\)](https://open.spotify.com/album/63nYWwU4DroL9w3eXbRwB2) | 3:37 | 2022-08-19 | 2022-08-24 |
 | [Don't Miss](https://open.spotify.com/track/4lR5He1ObQeQ1immUSL8oW) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Don't Miss](https://open.spotify.com/album/5STr775eXjmZqssJIYBQCd) | 3:06 | 2022-01-28 | 2022-02-23 |
 | [Doubted](https://open.spotify.com/track/0jgZkk2hFQqTalsAygn1UK) | [Sojabrat](https://open.spotify.com/artist/6qPOPRRZCrcNQtq4Ce44L5) | [Clone](https://open.spotify.com/album/6Oz96H6a1rpttJdrNp9hKU) | 1:51 | 2022-03-24 | 2022-04-20 |
 | [down](https://open.spotify.com/track/783PsmPNi2KHNk8PwR2rk2) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl) | [down](https://open.spotify.com/album/3OrjP0MaPUu1I54iBxe5O8) | 2:09 | 2022-05-13 |  |
@@ -217,6 +218,7 @@
 | [lost souls \(with Brent Faiyaz\)](https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:29 | 2022-01-04 | 2022-04-14 |
 | [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 | 2021-09-24 | 2022-04-03 |
 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 | 2022-03-17 | 2022-04-26 |
+| [Love Island Freestyle](https://open.spotify.com/track/1rlVac9TRr4f3b7GKHdhRh) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Love Island Freestyle](https://open.spotify.com/album/6O0Pk8eU1SyOuhvobAcA8e) | 3:20 | 2022-08-23 |  |
 | [Makeda](https://open.spotify.com/track/0oPujI3egA7QltnWHRfRzN) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Makeda](https://open.spotify.com/album/6j3zmceONaa7BpjGYjZFIu) | 1:36 | 2022-05-10 | 2022-06-21 |
 | [MAMBO](https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MAMBO](https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7) | 2:07 | 2022-04-29 |  |
 | [masquerade \- BabySantana Remix](https://open.spotify.com/track/6U7aXej66xOtncZRzfKnFS) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [masquerade \(BabySantana Remix\)](https://open.spotify.com/album/4paXOAztOfbIz9Fwe1khee) | 2:12 | 2022-07-01 |  |
@@ -339,6 +341,7 @@
 | [Tempt](https://open.spotify.com/track/2DTE6afvhrNnhsWJYcr4Aq) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM), [Marlon DuBois](https://open.spotify.com/artist/74l7WkwYdR2NKr2pHXgkqm) | [Just Tired](https://open.spotify.com/album/1UxqMmmqdwl0cvGh7Chxfi) | 2:46 | 2022-08-20 |  |
 | [The Assignment](https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [The Assignment](https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5) | 1:53 | 2021-10-06 | 2022-02-05 |
 | [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 | 2022-07-07 | 2022-07-23 |
+| [The Grinch](https://open.spotify.com/track/1W24W6jQegnNh0x5DfBBPT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 1:31 | 2022-08-23 |  |
 | [THROUGH 2 U](https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [THROUGH 2 U](https://open.spotify.com/album/6QoH3WybTsxVHKcXC8vsUv) | 2:41 | 2022-06-24 |  |
 | [Throw It Back \(Abow\)](https://open.spotify.com/track/23yxlmsXxljX6AVF2NlYP6) | [TarioP](https://open.spotify.com/artist/5N4ydSgV26FDMKuZcFsttp), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [Throw It Back \(Abow\)](https://open.spotify.com/album/5mnNOn8Xg5oEXL0frscPIU) | 1:10 | 2022-03-01 | 2022-03-13 |
 | [Tomioka](https://open.spotify.com/track/66MBHbC0oesKfPlg01jSAc) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV) | [Tomioka](https://open.spotify.com/album/3vNlLvYPKCWU3NTHZj4CU7) | 2:17 | 2022-08-01 |  |

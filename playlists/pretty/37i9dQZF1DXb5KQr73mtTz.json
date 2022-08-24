@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 4713,
+  "num_followers": 4755,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjY2NCwwMDAwMDAwMDQzMzc1N2FkZDI1NGM2M2EwNzRiNWQ1YjEyM2MyOTZm",
+  "snapshot_id": "MTY2MDgzMjY2NCwwMDAwMDAwMDZmMDJlMWNhMzJlN2MwNmEzOTk3NjJjNzEzMDMyZDBh",
   "tracks": [
     {
       "added_at": "2022-08-18 14:24:24",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-08-18 14:24:24",
       "album": {
+        "name": "If You Wish Upon Me OST Part.1",
+        "url": "https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "LONER",
+      "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
+    },
+    {
+      "added_at": "2022-08-18 14:24:24",
+      "album": {
         "name": "Encounter (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 221093,
       "name": "Dreaming About You",
       "url": "https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5"
-    },
-    {
-      "added_at": "2022-08-18 14:24:24",
-      "album": {
-        "name": "If You Wish Upon Me OST Part.1",
-        "url": "https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A"
-      },
-      "artists": [
-        {
-          "name": "Kim Sung Kyu",
-          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
-        }
-      ],
-      "duration_ms": 219413,
-      "name": "LONER",
-      "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
     },
     {
       "added_at": "2022-08-18 14:24:24",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-08-18 14:24:24",
       "album": {
+        "name": "Mindless",
+        "url": "https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO"
+      },
+      "artists": [
+        {
+          "name": "deulrejang",
+          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
+        }
+      ],
+      "duration_ms": 247793,
+      "name": "Mindless",
+      "url": "https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM"
+    },
+    {
+      "added_at": "2022-08-18 14:24:24",
+      "album": {
         "name": "HAPPEN",
         "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 193280,
       "name": "The Walking Dead (Feat. Kim Feel)",
       "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
-    },
-    {
-      "added_at": "2022-08-18 14:24:24",
-      "album": {
-        "name": "Emptiness in Memory",
-        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 278454,
-      "name": "Emptiness in Memory",
-      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

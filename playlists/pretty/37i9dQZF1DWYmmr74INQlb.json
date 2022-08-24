@@ -1,12 +1,12 @@
 {
   "description": "Check out these throwback R&B jams from the first decade of the 21st century. Cover: Usher",
-  "num_followers": 3994425,
+  "num_followers": 3996135,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE1OTAxNywwMDAwMDAwMDFhMWMyZTVhNGFiODY4OWNmNjI4OGYxNTYwNGM2OWY0",
+  "snapshot_id": "MTY2MTIyMzQ0OCwwMDAwMDAwMGQ5MmQ4ZjZkNDg0YjdhZDViNTQ1OTk2Nzc2YjFkNzZj",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 229040,
       "name": "Yo (Excuse Me Miss)",
       "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -295,22 +295,18 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 250666,
-      "name": "Kiss Kiss (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -331,18 +327,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
+      "duration_ms": 250666,
+      "name": "Kiss Kiss (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -377,6 +377,22 @@
       "url": "https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Aaliyah",
+        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Rock The Boat",
+      "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "The Neptunes Present... Clones",
@@ -395,22 +411,6 @@
       "duration_ms": 236506,
       "name": "Frontin' (feat. Jay-Z) - Club Mix",
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Aaliyah",
-        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Rock The Boat",
-      "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
-    },
-    {
       "added_at": "2022-08-21 19:36:42",
       "album": {
         "name": "The Element Of Freedom",
@@ -741,20 +725,20 @@
       "url": "https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Love Soul",
-        "url": "https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m"
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
       "artists": [
         {
-          "name": "MoKenStef",
-          "url": "https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 253040,
-      "name": "He's Mine",
-      "url": "https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn"
+      "duration_ms": 301133,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -861,6 +845,22 @@
       "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 366733,
+      "name": "You Don't Know My Name",
+      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Southern Hummingbird",
@@ -879,22 +879,6 @@
       "duration_ms": 237800,
       "name": "Oops (Oh My) [feat. Missy Elliott]",
       "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 366733,
-      "name": "You Don't Know My Name",
-      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -967,26 +951,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Ready (Deluxe)",
-        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        },
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Say Aah (feat. Fabolous)",
-      "url": "https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Motivation",
         "url": "https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ"
       },
@@ -1003,6 +967,26 @@
       "duration_ms": 231173,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Say Aah (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1023,22 +1007,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 326240,
-      "name": "No More Drama",
-      "url": "https://open.spotify.com/track/7nWsh14AHpnTzq1Xejz90U"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Destiny Fulfilled",
         "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
@@ -1051,6 +1019,22 @@
       "duration_ms": 224146,
       "name": "Girl",
       "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 326240,
+      "name": "No More Drama",
+      "url": "https://open.spotify.com/track/7nWsh14AHpnTzq1Xejz90U"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1105,26 +1089,6 @@
       "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
     },
     {
-      "added_at": "2022-08-21 23:00:08",
-      "album": {
-        "name": "Delirious",
-        "url": "https://open.spotify.com/album/0ktt8nyiccUBWvqKsmJdHQ"
-      },
-      "artists": [
-        {
-          "name": "Vistoso Bosses",
-          "url": "https://open.spotify.com/artist/1PwQodDnDYjun9ySkaucyi"
-        },
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        }
-      ],
-      "duration_ms": 242866,
-      "name": "Delirious",
-      "url": "https://open.spotify.com/track/0nH3kN1WXrbxZSptazFX1r"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Southside",
@@ -1143,6 +1107,26 @@
       "duration_ms": 277840,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
+    },
+    {
+      "added_at": "2022-08-23 02:57:28",
+      "album": {
+        "name": "Truthfully Speaking",
+        "url": "https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0"
+      },
+      "artists": [
+        {
+          "name": "Truth Hurts",
+          "url": "https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Addictive",
+      "url": "https://open.spotify.com/track/36jSIOSE72neBbKntCthqw"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1175,6 +1159,26 @@
       "duration_ms": 251200,
       "name": "Lions, Tigers & Bears",
       "url": "https://open.spotify.com/track/7zqM7Wm2xJLZ50qAnTLoHD"
+    },
+    {
+      "added_at": "2022-08-21 20:37:58",
+      "album": {
+        "name": "FutureSex/LoveSounds Deluxe Edition",
+        "url": "https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 322093,
+      "name": "Until The End Of Time (with Beyonc\u00e9)",
+      "url": "https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1217,26 +1221,6 @@
       "url": "https://open.spotify.com/track/7mwLsFXNBWbtFzA032tUbx"
     },
     {
-      "added_at": "2022-08-21 20:37:58",
-      "album": {
-        "name": "FutureSex/LoveSounds Deluxe Edition",
-        "url": "https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 322093,
-      "name": "Until The End Of Time (with Beyonc\u00e9)",
-      "url": "https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Aaliyah",
@@ -1251,6 +1235,22 @@
       "duration_ms": 229866,
       "name": "More Than A Woman",
       "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/0qEfwM5awxL1CIUXMDE1ah"
+      },
+      "artists": [
+        {
+          "name": "LeToya",
+          "url": "https://open.spotify.com/artist/5xenrbYhp4IRydrWpBe4Bx"
+        }
+      ],
+      "duration_ms": 249253,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/6GPiKalxD23rJirHKJm00X"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/0qEfwM5awxL1CIUXMDE1ah"
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
       "artists": [
         {
-          "name": "LeToya",
-          "url": "https://open.spotify.com/artist/5xenrbYhp4IRydrWpBe4Bx"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 249253,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/6GPiKalxD23rJirHKJm00X"
+      "duration_ms": 279160,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
         }
       ],
-      "duration_ms": 279160,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
+      "duration_ms": 284666,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Open Letter",
-        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Mars/Venus",
         "url": "https://open.spotify.com/album/5I8dujSQv3pxhJo6n2ifWv"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 214560,
       "name": "After Party",
       "url": "https://open.spotify.com/track/5cvMzT7kEvcxcdtcJz1vQY"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Anderson",
+          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1431,22 +1431,6 @@
       "duration_ms": 213026,
       "name": "Stutter (feat. Mystikal) - Double Take Remix",
       "url": "https://open.spotify.com/track/7FWuzwapuKHTEyDJIcQOw3"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
-      },
-      "artists": [
-        {
-          "name": "Sunshine Anderson",
-          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1637,6 +1621,38 @@
       "url": "https://open.spotify.com/track/6ubNZ5edKBKH3MQKatUY3S"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG"
+      },
+      "artists": [
+        {
+          "name": "Avant",
+          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
+        }
+      ],
+      "duration_ms": 271386,
+      "name": "Makin' Good Love",
+      "url": "https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Fear Of Flying",
+        "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "duration_ms": 236826,
+      "name": "Case Of The Ex (Whatcha Gonna Do)",
+      "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "My Name Is Joe",
@@ -1671,38 +1687,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Fear Of Flying",
-        "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
-      },
-      "artists": [
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 236826,
-      "name": "Case Of The Ex (Whatcha Gonna Do)",
-      "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Ecstasy",
-        "url": "https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG"
-      },
-      "artists": [
-        {
-          "name": "Avant",
-          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
-        }
-      ],
-      "duration_ms": 271386,
-      "name": "Makin' Good Love",
-      "url": "https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Pleasure & Pain",
         "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 198880,
       "name": "U Already Know",
       "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 265706,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1733,20 +1733,24 @@
       "url": "https://open.spotify.com/track/5ZelMPn7vupvsTToUTvcbF"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
       },
       "artists": [
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 265706,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu"
+      "duration_ms": 247933,
+      "name": "I Invented Sex (feat. Drake)",
+      "url": "https://open.spotify.com/track/1Ug1mV9h5qVSs4rvvnQWux"
     }
   ],
   "unique_name": "I Love My '00s R&B",

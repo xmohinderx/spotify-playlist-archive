@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-181 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
+182 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-02-18 |  |
 | [Inner Sphere](https://open.spotify.com/track/3mLoP1rCssKM4aeRAUpiOj) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Inner Sphere](https://open.spotify.com/album/3xdSCmp1G4ikQqKLFgACrP) | 3:25 | 2022-02-18 |  |
 | [Inner Stratosphere](https://open.spotify.com/track/6OS7UqSSBlawxCDcQQlyJG) | [Cinnamon Glass](https://open.spotify.com/artist/6BzNyyP6Cp3gzqHFZmdeeq) | [Inner Stratosphere](https://open.spotify.com/album/6B5FnLsJz46HFA7RRpLfoh) | 3:15 | 2022-02-18 |  |
+| [Invisible Currents](https://open.spotify.com/track/58F2NUnMXH9VKWESwi05Z1) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Sunrise](https://open.spotify.com/album/4isWOKOddFFaUGOApJL8uK) | 2:32 | 2022-08-23 |  |
 | [Islets](https://open.spotify.com/track/7MH9IXZQ3Ykz3BVg6JpVy5) | [Gravitons](https://open.spotify.com/artist/2VlCnCbs8J939zLt0dB5RF) | [Islets](https://open.spotify.com/album/1xs3ykLMsmz9KYiAMTXOjL) | 3:11 | 2022-02-18 |  |
 | [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 | 2022-06-24 |  |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2022-02-18 |  |

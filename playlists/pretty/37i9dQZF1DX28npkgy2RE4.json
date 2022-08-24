@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Aldous Harding",
-  "num_followers": 380550,
+  "num_followers": 380619,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU3MjI2NSwwMDAwMDAwMDJlZjkyNDg2OTUxOTk3ZWEyOGVkZjQ0NDQ1MjJlNGI5",
+  "snapshot_id": "MTY1NzU3MjI2NSwwMDAwMDAwMDlmNzE3ZDU0NDJiMDhmNWIwZjU4NGU1Nzk1MzQwOGM5",
   "tracks": [
     {
       "added_at": "2022-07-11 20:44:25",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
+        "name": "Without a Light",
+        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "Without a Light",
+      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
         "name": "That Was Yesterday",
         "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
       },
@@ -179,18 +195,18 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Without a Light",
-        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
         }
       ],
-      "duration_ms": 142200,
-      "name": "Without a Light",
-      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
+      "duration_ms": 194813,
+      "name": "McKenzie",
+      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -219,22 +235,6 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "McKenzie",
-      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Dancing Away In Tears",
-      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Dancing Away In Tears",
+      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "url": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 161972,
       "name": "Song to Make You Fall in Love With Me",
       "url": "https://open.spotify.com/track/2roYKk0xtwJpooY5A3GxJR"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Old Bone / Trust No Man",
-        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Old Bone",
-      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Consolation Prize",
         "url": "https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 240787,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Old Bone / Trust No Man",
+        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Old Bone",
+      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Love Is Selfish",
-        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "Love Is Selfish",
-      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 192666,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 172885,
+      "name": "Love Is Selfish",
+      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "In The Blossom of Their Shade",
-        "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 214747,
-      "name": "Get It \u2018Fore It\u2019s Gone",
-      "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Easy Way",
         "url": "https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 182826,
       "name": "Got a Lotta Love",
       "url": "https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "In The Blossom of Their Shade",
+        "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 214747,
+      "name": "Get It \u2018Fore It\u2019s Gone",
+      "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
         }
       ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
       "artists": [
         {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
         }
       ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1427,22 +1443,6 @@
       "duration_ms": 252052,
       "name": "Back To Oz",
       "url": "https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 225484,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Cala",
         "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 148773,
       "name": "Collar of Fur",
       "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 225484,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "The Jacket",
-        "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 259181,
-      "name": "Everything Is Simple",
-      "url": "https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 193897,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "The Jacket",
+        "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 259181,
+      "name": "Everything Is Simple",
+      "url": "https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Weather Balloons [Feat. Frances Cone]",
-        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        },
-        {
-          "name": "Frances Cone",
-          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
-        }
-      ],
-      "duration_ms": 212502,
-      "name": "Weather Balloons [Feat. Frances Cone]",
-      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Same History, New Feelings",
         "url": "https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 172520,
       "name": "Resentment (New Feelings Version)",
       "url": "https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Weather Balloons [Feat. Frances Cone]",
+        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Frances Cone",
+          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
+        }
+      ],
+      "duration_ms": 212502,
+      "name": "Weather Balloons [Feat. Frances Cone]",
+      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
+        "name": "pak it in // mama",
+        "url": "https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp"
+      },
+      "artists": [
+        {
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+        }
+      ],
+      "duration_ms": 283518,
+      "name": "pak it in",
+      "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
         "name": "Old Peel",
         "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
       },
@@ -2251,18 +2267,18 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "pak it in // mama",
-        "url": "https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp"
+        "name": "August",
+        "url": "https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z"
       },
       "artists": [
         {
-          "name": "Uly",
-          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
         }
       ],
-      "duration_ms": 283518,
-      "name": "pak it in",
-      "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
+      "duration_ms": 168000,
+      "name": "August",
+      "url": "https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -2279,22 +2295,6 @@
       "duration_ms": 225297,
       "name": "Never on My Mind",
       "url": "https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "August",
-      "url": "https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Romantic Images",
-        "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 171359,
-      "name": "Heart of Gold",
-      "url": "https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Modern Woman",
         "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 204946,
       "name": "Modern Woman",
       "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Romantic Images",
+        "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 171359,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
+        "name": "Shadowglow",
+        "url": "https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 214748,
+      "name": "Brooklyn Baby",
+      "url": "https://open.spotify.com/track/5KSvKQn5QPkHc8QqObqZcC"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
         "name": "Shape of Silence",
         "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
       },
@@ -2487,22 +2503,6 @@
       "duration_ms": 235543,
       "name": "Coast",
       "url": "https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
-        "name": "In Heaven",
-        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 219492,
-      "name": "Sunbathers",
-      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
     },
     {
       "added_at": "2022-07-11 20:44:25",

@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 13921,
+  "num_followers": 13969,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDc0OTk1ZmM4ZDFmMWNkMzVmMGFiNDYxNDQ3Yjg1Njkx",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDc5ZjVmNmRlZjMyOWNhMGFhYjhiYjk0Yjg2ZGVlM2U4",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Adue\u00f1arme",
+        "url": "https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF"
+      },
+      "artists": [
+        {
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 183762,
+      "name": "Adue\u00f1arme",
+      "url": "https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Adue\u00f1arme",
-        "url": "https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF"
-      },
-      "artists": [
-        {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 183762,
-      "name": "Adue\u00f1arme",
-      "url": "https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Mi Princesa",
-        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "Espero Con Ansias",
-      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Perfecta En Mis Ojos",
         "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 165745,
       "name": "Perfecta En Mis Ojos",
       "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "Espero Con Ansias",
+      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "80% M\u00edo",
-        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Sin Sentimientos",
         "url": "https://open.spotify.com/album/3lG97wu5XvXTzclZNqkAGU"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 211776,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "80% M\u00edo",
+        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -883,18 +883,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 221626,
-      "name": "C\u00f3mo No Adorarla",
-      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
+      "duration_ms": 205386,
+      "name": "Qu\u00e9 Bueno Es Tenerte",
+      "url": "https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -915,22 +919,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
-        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 205386,
-      "name": "Qu\u00e9 Bueno Es Tenerte",
-      "url": "https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC"
+      "duration_ms": 221626,
+      "name": "C\u00f3mo No Adorarla",
+      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
     },
     {
       "added_at": "2022-02-11 20:24:54",

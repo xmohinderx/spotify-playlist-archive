@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-465 songs - 1 day 0 hr 22 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
+466 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Medicine \- PS1 Remix](https://open.spotify.com/track/0HpUZyqZy5AoCFFXvkhrQa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Medicine \(PS1 Remix\)](https://open.spotify.com/album/2CbtSDaeIxFoiJZhNA7d2l) | 3:43 | 2021-03-19 | 2021-04-24 |
 | [Medicine \- R3HAB Remix](https://open.spotify.com/track/6bAcuSKKxTWY4sNawTxUpf) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Medicine \(R3HAB Remix\)](https://open.spotify.com/album/4N6f0Ccuty3ofezs3ZJf2G) | 2:25 | 2021-04-17 | 2021-04-24 |
 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 | 2022-01-20 | 2022-06-18 |
+| [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-08-23 |  |
 | [Mistakes](https://open.spotify.com/track/3WtTOYYuVBuEV8I2U8uEoo) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Mistakes](https://open.spotify.com/album/7E8hUcxwpoTIaoFZTIsXq1) | 2:33 | 2021-07-31 | 2021-08-28 |
 | [Money On My Mind](https://open.spotify.com/track/0SCZoOyU9qkPZXIk7YmENI) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Money On My Mind](https://open.spotify.com/album/0RhMHX5LDrs97f0jt4qmKn) | 2:06 | 2021-10-29 | 2022-04-23 |
 | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK) | 2:54 | 2021-05-29 | 2022-04-23 |

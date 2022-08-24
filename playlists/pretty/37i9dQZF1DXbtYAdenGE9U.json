@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 293840,
+  "num_followers": 294271,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMDZkODA2YjZhYTE0NTQ4ZmVjN2U3OTUyNTQ0ODRlMGYz",
+  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMGQ1NmMwMjVjOGU2YjBkOTM2MWQzNWNkZmQ1Y2FiZjJl",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:17",
@@ -487,6 +487,26 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
+        "name": "Group Therapy",
+        "url": "https://open.spotify.com/album/2I6sty06i8pXtu175kAfHa"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "duration_ms": 326266,
+      "name": "Sun & Moon - Original Mix",
+      "url": "https://open.spotify.com/track/4rfhAoZjGwraqwX1w47uij"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/6smXgAugj1QBLAO0BXol5P"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 231306,
       "name": "Silence - Airscape Remix Edit",
       "url": "https://open.spotify.com/track/3HyU67HfMANQxFg34kHfco"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Group Therapy",
-        "url": "https://open.spotify.com/album/2I6sty06i8pXtu175kAfHa"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        }
-      ],
-      "duration_ms": 326266,
-      "name": "Sun & Moon - Original Mix",
-      "url": "https://open.spotify.com/track/4rfhAoZjGwraqwX1w47uij"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -579,30 +579,6 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Luvstruck",
-        "url": "https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY"
-      },
-      "artists": [
-        {
-          "name": "Southside Spinners",
-          "url": "https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb"
-        },
-        {
-          "name": "Marco V",
-          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
-        },
-        {
-          "name": "Benjamin Bates",
-          "url": "https://open.spotify.com/artist/2zk6outptAdZh4zvEjLk8W"
-        }
-      ],
-      "duration_ms": 272560,
-      "name": "Luvstruck - Marco V & Benjamin Rmx",
-      "url": "https://open.spotify.com/track/2ar1AExas2azDSQbbeuhbL"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
         "name": "Gouryella",
         "url": "https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/1GMw17BGY1vDWNJ4xVo9V6"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Luvstruck",
+        "url": "https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY"
+      },
+      "artists": [
+        {
+          "name": "Southside Spinners",
+          "url": "https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb"
+        },
+        {
+          "name": "Marco V",
+          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+        },
+        {
+          "name": "Benjamin Bates",
+          "url": "https://open.spotify.com/artist/2zk6outptAdZh4zvEjLk8W"
+        }
+      ],
+      "duration_ms": 272560,
+      "name": "Luvstruck - Marco V & Benjamin Rmx",
+      "url": "https://open.spotify.com/track/2ar1AExas2azDSQbbeuhbL"
     },
     {
       "added_at": "2022-04-13 15:03:17",

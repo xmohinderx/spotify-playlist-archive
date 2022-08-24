@@ -4,7 +4,7 @@
 
 > Welcome to my museum of brutality! Like this, you'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover:  Lady Gaga
 
-243 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+244 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 |  |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-29 |  |
 | [24 Hours](https://open.spotify.com/track/58uUDYcy9U1dqS84ykFTFD) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [24 Hours](https://open.spotify.com/album/6eoDeTDawu6tl2CgNL2RDS) | 4:01 | 2022-02-15 |  |
-| [24H](https://open.spotify.com/track/5cCasykCztP1ZRVxAcAGXu) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/4Z49iUB2QmUAvMPIss85vb) | 2:57 | 2022-06-03 |  |
+| [24H](https://open.spotify.com/track/1CxQcyS4bkhevuCU0QdD46) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA) | 2:57 | 2022-08-19 |  |
+| [24H](https://open.spotify.com/track/5cCasykCztP1ZRVxAcAGXu) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/4Z49iUB2QmUAvMPIss85vb) | 2:57 | 2022-06-03 | 2022-08-24 |
 | [911](https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:52 | 2022-08-12 |  |
 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 | 2022-05-06 | 2022-08-06 |
 | [Abracadabra](https://open.spotify.com/track/6afv05TNOInabonuY1OkbU) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [Halloqveen](https://open.spotify.com/album/3g3P8dofBdBkEioDroTO2H) | 2:26 | 2022-02-15 | 2022-06-25 |

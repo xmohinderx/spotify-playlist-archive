@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Jarabe de Palo.
 
-164 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
+165 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Chiquilla](https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [30 años de musica en TVE\. 1980\-2010](https://open.spotify.com/album/54slzi9MghEZQcDfG4OaU6) | 3:07 | 2022-05-26 | 2022-07-29 |
 | [Cielo hermético](https://open.spotify.com/track/5aWREznXDTWJ046mUoT162) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Cielo hermético](https://open.spotify.com/album/33KEwlFbYi94OnXeDHruHl) | 3:59 | 2022-05-19 |  |
 | [Cien gaviotas](https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [20 años de canciones](https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3) | 2:49 | 2022-05-19 | 2022-07-29 |
+| [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 | 2022-08-18 |  |
 | [Como Camarón](https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Esencial Estopa](https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK) | 3:23 | 2022-06-09 | 2022-07-29 |
 | [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/0KlA1SYsu8sPIFR2oi6iLw) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Como Si Fueras a Morir Mañana \(Madrid Nuclear \- En Directo\)](https://open.spotify.com/album/1Ouu5x4oKjFOqiR2zcWSc5) | 4:43 | 2022-05-19 | 2022-07-29 |
 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/0IUFjvwlh18TWiTi6kO5pP) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:38 | 2022-05-19 | 2022-07-29 |
@@ -159,7 +160,7 @@
 | [Te sigo soñando \(feat\. Luz Casal\) \- En Directo en Madrid 2020](https://open.spotify.com/track/5DgIZi4ncTDzryzl1Q6IHl) | [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Antes de que anochezca \(En Directo en Madrid\)](https://open.spotify.com/album/3z02xWkMowT7rEVwWdM8V5) | 5:13 | 2022-06-02 | 2022-07-01 |
 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 | 2022-05-19 |  |
 | [Todos los días sale el sol](https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv) | [Bongo Botrako](https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ) | [Todos Los Días Sale El Sol](https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh) | 2:26 | 2022-07-21 |  |
-| [Todos los Gatos Son Pardos](https://open.spotify.com/track/5hzeePzx39dRlrIeOpRCXR) | [Gato Ventura](https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ) | [Todos los Gatos Son Pardos](https://open.spotify.com/album/6ALMyNUewyCdW4QgrlTLmZ) | 2:53 | 2022-06-09 |  |
+| [Todos los Gatos Son Pardos](https://open.spotify.com/track/5hzeePzx39dRlrIeOpRCXR) | [Gato Ventura](https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ) | [Todos los Gatos Son Pardos](https://open.spotify.com/album/6ALMyNUewyCdW4QgrlTLmZ) | 2:53 | 2022-06-09 | 2022-08-24 |
 | [Tras la barra](https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Vamos Tirando](https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V) | 3:08 | 2022-05-19 | 2022-07-28 |
 | [Un Poco de Amor](https://open.spotify.com/track/59gm4EA48jXDNrvfDGNlj4) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Un Poco de Amor](https://open.spotify.com/album/3kZtuPCnTQAy9IgTmxqi98) | 3:24 | 2022-05-19 | 2022-06-24 |
 | [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 | 2022-05-26 | 2022-06-27 |

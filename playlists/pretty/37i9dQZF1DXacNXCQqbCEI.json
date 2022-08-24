@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 320089,
+  "num_followers": 320222,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5ODU2OSwwMDAwMDAwMGFjOTBmYThiZDVlN2Y0MzY4MGM4MmRmMmY1ZjM1MzUy",
+  "snapshot_id": "MTY0OTk5ODU2OSwwMDAwMDAwMGE5ZjkyN2UzMjEwY2E5MDY1YzAyNzZkOTk0ZjViNTli",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -243,18 +243,34 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+        "name": "Black Catbird",
+        "url": "https://open.spotify.com/album/67ll9vOLmqydy8lrHVQFKo"
       },
       "artists": [
         {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+          "name": "the Garifuna Collective",
+          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
         }
       ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
+      "duration_ms": 165593,
+      "name": "Black Catbird",
+      "url": "https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "NO VISA",
+        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -279,34 +295,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "NO VISA",
-        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
       "artists": [
         {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Black Catbird",
-        "url": "https://open.spotify.com/album/67ll9vOLmqydy8lrHVQFKo"
-      },
-      "artists": [
-        {
-          "name": "the Garifuna Collective",
-          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
-        }
-      ],
-      "duration_ms": 165593,
-      "name": "Black Catbird",
-      "url": "https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI"
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -419,6 +419,26 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/2N3LB0YlVpIqTloJPhO8I7"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Serpiente Dorada",
         "url": "https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 222222,
       "name": "Chapinero",
       "url": "https://open.spotify.com/track/0yENDAPqNW1hksxq9KUt8n"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
-      },
-      "artists": [
-        {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 196998,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/2N3LB0YlVpIqTloJPhO8I7"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "B\u00faho",
-        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bleat",
-          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
-        }
-      ],
-      "duration_ms": 300338,
-      "name": "B\u00faho",
-      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Aurora Remixed",
         "url": "https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 254163,
       "name": "Pura Flor (El B\u00faho Remix)",
       "url": "https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "B\u00faho",
+        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bleat",
+          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
+        }
+      ],
+      "duration_ms": 300338,
+      "name": "B\u00faho",
+      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Shika Shika / Botanas, Vol. 15",
-        "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 273846,
-      "name": "Presagio",
-      "url": "https://open.spotify.com/track/3Fstql1zF6ZsU1sOWBbfQK"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Ahomale",
         "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 236786,
       "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
       "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Shika Shika / Botanas, Vol. 15",
+        "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 273846,
+      "name": "Presagio",
+      "url": "https://open.spotify.com/track/3Fstql1zF6ZsU1sOWBbfQK"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Desierto",
-        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
-      },
-      "artists": [
-        {
-          "name": "Simah",
-          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
-        }
-      ],
-      "duration_ms": 173043,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Semillero",
         "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 348009,
       "name": "Pua",
       "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Desierto",
+        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
+      },
+      "artists": [
+        {
+          "name": "Simah",
+          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
+        }
+      ],
+      "duration_ms": 173043,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
     },
     {
       "added_at": "2022-04-15 04:56:09",

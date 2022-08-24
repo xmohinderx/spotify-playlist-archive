@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Aitch
 
-2,822 songs - 6 day 0 hr 42 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+2,823 songs - 6 day 0 hr 44 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1167,7 +1167,8 @@
 | [i h8 that i still feel bad for u](https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i h8 that i still feel bad for u](https://open.spotify.com/album/0poCuOTE8PbLmxMeIickpd) | 2:55 | 2022-02-11 | 2022-02-18 |
 | [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 | 2022-05-19 | 2022-05-27 |
 | [I Hate You But I Love You A Bit More](https://open.spotify.com/track/18ZdLG1FvV7Hs109QmiAou) | [POULISH KID](https://open.spotify.com/artist/0QmhnPd2X1uWNbshpC5PHH) | [I Hate You But I Love You A Bit More](https://open.spotify.com/album/6oAoVYsA2bCs7573RIjEgl) | 3:08 | 2022-02-11 | 2022-02-18 |
-| [I Hate You, I Love You](https://open.spotify.com/track/3afGvPVtN7lML561w6VoNi) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [I Hate You, I Love You](https://open.spotify.com/album/7n6E0xqw6Jz1dePWua4m0f) | 2:22 | 2022-08-18 |  |
+| [I Hate You, I Love You](https://open.spotify.com/track/18RK0e1rjXAF7sPE8h3IBn) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [I Hate You, I Love You](https://open.spotify.com/album/7lKYxMi5eKpAtoEHDfBwEj) | 2:22 | 2022-08-18 |  |
+| [I Hate You, I Love You](https://open.spotify.com/track/3afGvPVtN7lML561w6VoNi) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [I Hate You, I Love You](https://open.spotify.com/album/7n6E0xqw6Jz1dePWua4m0f) | 2:22 | 2022-08-18 | 2022-08-24 |
 | [I Have Never Felt More Alive \- from the feature film "Fall"](https://open.spotify.com/track/3Hz0axxTsemGQSNK3BiRa9) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [I Have Never Felt More Alive \(from the feature film "Fall"\)](https://open.spotify.com/album/4CMGvkAxokAjuV68nGzMuA) | 3:20 | 2022-07-21 | 2022-07-29 |
 | [I Hope That It Hurts](https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [I Hope That It Hurts](https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck) | 2:40 | 2022-08-12 | 2022-08-19 |
 | [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-05-26 | 2022-06-03 |

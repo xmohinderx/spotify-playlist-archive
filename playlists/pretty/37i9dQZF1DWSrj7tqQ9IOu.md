@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Oscar Anton
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,695 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,762 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [blueberry stains](https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [postcard from L.A.](https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5) | 3:06 |
+| 1 | [blueberry stains](https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [postcard from L.A.](https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5) | 3:06 |
 | 2 | [Corporate Sunset](https://open.spotify.com/track/6f4OnfztUsZhojQiCL27Pi) | [JB Dunckel](https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm) | [Corporate Sunset](https://open.spotify.com/album/3q6KJe0i4C6FxZVmRmB8OM) | 5:03 |
 | 3 | [Impala](https://open.spotify.com/track/1azxgcGDD3ht64TIR1pMAU) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Impala](https://open.spotify.com/album/4CXS41U07hn4eZKZNEqdzo) | 2:10 |
 | 4 | [JVP](https://open.spotify.com/track/4rg0hY2RIvnVcbQ4AoSH1T) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [:\):](https://open.spotify.com/album/6yzdgvmCB1jnKqNZhnoJ1m) | 2:50 |

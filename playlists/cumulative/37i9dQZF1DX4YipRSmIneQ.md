@@ -4,7 +4,7 @@
 
 > ur favorite queer bedroom club
 
-178 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
+179 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-05-15 | 2022-06-25 |
 | [First Class Bitch](https://open.spotify.com/track/5wIuzHBxFEM6TXwAvg6Xxo) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [First Class Bitch](https://open.spotify.com/album/7EgYldvSDOCj4DBJm7JJgk) | 3:01 | 2022-03-16 |  |
 | [flamin hot](https://open.spotify.com/track/3JB2eLZtE0BquAzerKPBPE) | [Babylungs](https://open.spotify.com/artist/3oVbwaKWXyVspieOtBnJ6K) | [HOT CHIP WORLD](https://open.spotify.com/album/2Do4Y1CWQma42XOxmxmesx) | 2:10 | 2022-04-11 | 2022-06-25 |
+| [FMU \(feat\. Rico Nasty\)](https://open.spotify.com/track/0t9vp7ewak5yJtOuG2gQyr) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [FMU \(feat\. Rico Nasty\)](https://open.spotify.com/album/7BJjpeYl0FAb0xq65bEwPs) | 2:58 | 2022-08-09 |  |
 | [FMU \(feat\. Rico Nasty\)](https://open.spotify.com/track/5AD8DWoQa4NGe2WagH4YF2) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [SEXORCISM](https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL) | 2:58 | 2022-03-16 | 2022-08-23 |
 | [Geopolitics](https://open.spotify.com/track/39pNnuwBSyhR6BbC96a3KH) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [MOLG](https://open.spotify.com/album/0zgXgVJ4DWmbrKpWkwqBIR) | 3:50 | 2022-05-15 | 2022-07-22 |
 | [GIOVANNA HARDCORE](https://open.spotify.com/track/1Pq4fhffDugNRDMBNj0F5q) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [IL CIELO NON È UN LIMITE](https://open.spotify.com/album/4can9KYB8xVGw5y77OyZMX) | 3:06 | 2022-03-16 | 2022-06-16 |
@@ -145,7 +146,7 @@
 | [SRS](https://open.spotify.com/track/2YqnLz7YNpDzX0nlYVnAmF) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [SRS](https://open.spotify.com/album/0EdZaveXeFBbqfq56kW7cH) | 2:41 | 2022-03-16 | 2022-06-25 |
 | [sting](https://open.spotify.com/track/0XGbReaytKAW0QioXzetZ2) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [world champ](https://open.spotify.com/album/2DMlRJkO8lu0GpXcgHijYg) | 3:05 | 2022-06-24 | 2022-07-22 |
 | [Str8 Acting](https://open.spotify.com/track/2NWlqkcCLOnDTuKVvSwLgN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:55 | 2022-03-16 | 2022-07-22 |
-| [Straight To Hell \- Gendered Dekonstruktion Remix](https://open.spotify.com/track/43JiMaIgefeHRVWHuqbfjm) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz), [Gendered Dekonstruktion](https://open.spotify.com/artist/0nz2g4E7Wed11mnTcxR4TN) | [Straight To Hell: The Remixes](https://open.spotify.com/album/4HgwlIclMQ7JSx9MdzO1p4) | 4:25 | 2022-07-31 |  |
+| [Straight To Hell \- Gendered Dekonstruktion Remix](https://open.spotify.com/track/43JiMaIgefeHRVWHuqbfjm) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz), [Gendered Dekonstruktion](https://open.spotify.com/artist/0nz2g4E7Wed11mnTcxR4TN) | [Straight To Hell: The Remixes](https://open.spotify.com/album/4HgwlIclMQ7JSx9MdzO1p4) | 4:25 | 2022-07-31 | 2022-08-24 |
 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 | 2022-03-16 | 2022-06-25 |
 | [Stupidisco](https://open.spotify.com/track/4kqv0fA0vF1vNwlVQqewdL) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Trust It](https://open.spotify.com/album/4giAI1rzrdkPNFMeTL9sk0) | 5:07 | 2022-03-16 | 2022-04-21 |
 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 | 2022-03-16 |  |

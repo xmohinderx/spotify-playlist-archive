@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-327 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+328 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Distant Glow](https://open.spotify.com/track/2aBYVl2d2RFAPbYlZ7rIUf) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 2:11 | 2022-05-26 |  |
 | [Diurnal](https://open.spotify.com/track/59JkOkb5dZeluV2s7vhJRD) | [Sömngrus](https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8) | [Diurnal Nocturnal EP](https://open.spotify.com/album/2nRoWqbNltEd83DD9a7tWl) | 2:36 | 2022-05-26 |  |
 | [Do We Really Know](https://open.spotify.com/track/4jIjpoq9FcHzJowwFBPYbg) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Do We Really Know](https://open.spotify.com/album/0LRCtNt8B7iIolAz6y2Gxx) | 2:55 | 2022-05-26 |  |
-| [Dream \#5 \[Drifting Apart\]](https://open.spotify.com/track/2VkeXjrEyJ5dgeInRIdKIE) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams 2](https://open.spotify.com/album/29IRtnyLAfOzZFZHNl36kR) | 3:12 | 2022-05-26 |  |
+| [Dream \#5 \[Drifting Apart\]](https://open.spotify.com/track/2VkeXjrEyJ5dgeInRIdKIE) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams 2](https://open.spotify.com/album/29IRtnyLAfOzZFZHNl36kR) | 3:12 | 2022-05-26 | 2022-08-24 |
 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 | 2022-05-26 |  |
 | [Dream Dust](https://open.spotify.com/track/6CgRz9Iave95cynHn7yVEA) | [Horizon Lights](https://open.spotify.com/artist/0vAwD3TFaQCotThnaYmnFJ) | [Gentle Night](https://open.spotify.com/album/2Ab3cmAWhFZ2XqOIHytNPD) | 3:22 | 2022-05-26 |  |
 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-05-26 |  |
@@ -287,6 +287,7 @@
 | [Sunflower Sunset](https://open.spotify.com/track/3vPoUXeqlDaqHUx38pe7tb) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Ambient Fields](https://open.spotify.com/album/7jBA8xzRMRWJtX2ZsxqW9w) | 3:25 | 2022-05-26 |  |
 | [Sunrise Glory](https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 4:09 | 2022-05-26 |  |
 | [Supine](https://open.spotify.com/track/1jobGkripmhfeTzWOiZ1sZ) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Supine](https://open.spotify.com/album/46XPmCP5AoDWKY8ljH9bkk) | 3:50 | 2022-05-26 |  |
+| [Susurrus](https://open.spotify.com/track/3Vo0VwSMPICUf7rLnmyEEv) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Susurrus](https://open.spotify.com/album/0m0uWRNgIyjjTrZGJAlnAJ) | 2:15 | 2022-08-23 |  |
 | [Swerving](https://open.spotify.com/track/67sHA0PewCor6HdDer5Nxv) | [Kinship Networks](https://open.spotify.com/artist/6JKJopFXDFKfLkA6rrgQQh) | [Swerving](https://open.spotify.com/album/1nwBBL77j2FBEip4k2fI4G) | 2:43 | 2022-05-26 |  |
 | [Sylarna](https://open.spotify.com/track/3qbZGh0o76ZCq2dI32cF9o) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 4:04 | 2022-05-26 |  |
 | [Symbols](https://open.spotify.com/track/1SZWIusKczJ8vloqRTAgsz) | [Rosa Cania](https://open.spotify.com/artist/0SgmJ4Q0guH8jer9mWvCOS) | [Symbols](https://open.spotify.com/album/34XGG9k1scNUzUAOR12PAW) | 4:00 | 2022-05-26 |  |

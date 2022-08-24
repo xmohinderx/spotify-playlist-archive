@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-296 songs - 1 day 7 hr 5 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+297 songs - 1 day 7 hr 11 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
 | [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 |  |
 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 | 2021-06-18 |  |
+| [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-08-23 |  |
 | [Canto Al Sol](https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Upahl](https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl) | 4:37 | 2021-05-07 |  |
 | [Canto del Pilón \- Meines Remix](https://open.spotify.com/track/4eGGJGQY0UUx7lrPG2Y3Ww) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Meines](https://open.spotify.com/artist/58J4dcCu15dtqMbtQu94K3) | [Milk & Sugar Summer Sessions 2021](https://open.spotify.com/album/4ASxdmE6WZosAoxv2FkjVs) | 3:49 | 2021-07-02 | 2022-04-21 |
 | [Caramel](https://open.spotify.com/track/6SWaPVw1U27HKNQ1311hSL) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Caramel](https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC) | 7:28 | 2022-07-28 |  |
@@ -241,7 +242,7 @@
 | [Sint Maarten](https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Delaram Kamareh](https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB) | [Sint Maarten](https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O) | 4:31 | 2021-12-17 |  |
 | [So It Goes](https://open.spotify.com/track/5ClxAzprojFOLUBxLWRXn4) | [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy) | [Hoom Side of the Sun, Vol\. 03](https://open.spotify.com/album/5fygnw3bpNm9VC7G1X9ABe) | 7:05 | 2021-06-25 | 2022-07-24 |
 | [Sol](https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU) | [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Sol](https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi) | 6:24 | 2021-05-07 |  |
-| [Solid Session \- Joris Voorn Remix](https://open.spotify.com/track/1SfYPB5V9LNTkCJn73u0Ua) | [Format](https://open.spotify.com/artist/7vpTOtQikXEZZNqBBwjClU), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Solid Session \(Joris Voorn Remix\)](https://open.spotify.com/album/4vDUZvONNMGYrXINpGaJWy) | 4:48 | 2022-04-22 |  |
+| [Solid Session \- Joris Voorn Remix](https://open.spotify.com/track/1SfYPB5V9LNTkCJn73u0Ua) | [Format](https://open.spotify.com/artist/7vpTOtQikXEZZNqBBwjClU), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Solid Session \(Joris Voorn Remix\)](https://open.spotify.com/album/4vDUZvONNMGYrXINpGaJWy) | 4:48 | 2022-04-22 | 2022-08-24 |
 | [Somebody \- Edit](https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Somebody](https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44) | 3:43 | 2022-05-24 |  |
 | [Sonder](https://open.spotify.com/track/2YxnaInOpa7nQ7zoJjyTYB) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Sonder](https://open.spotify.com/album/55821Gkol2dnYOQIxtQpve) | 8:00 | 2021-04-21 | 2022-07-29 |
 | [Spirale](https://open.spotify.com/track/1NTl2IqpGs7iwKo2fl4boF) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Spirale](https://open.spotify.com/album/2NcaYhLVadAjKpD2DKlYHb) | 6:48 | 2021-04-21 | 2022-07-21 |

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-514 songs - 1 day 8 hr 17 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+515 songs - 1 day 8 hr 20 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Sick](https://open.spotify.com/track/7q3vcf5XpYU6Y1iX4ZzHAk) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Home School Valedictorian](https://open.spotify.com/album/4wphpmpU7otsQnFEjIHcMT) | 3:11 | 2022-05-25 | 2022-07-29 |
 | [Sick of It](https://open.spotify.com/track/6joJVMwHvK9ZC71jEb3yQw) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Sick of It](https://open.spotify.com/album/3kfwyfc1FMHBvtQhateolM) | 3:11 | 2022-05-25 | 2022-07-29 |
 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 | 2022-05-25 |  |
+| [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:35 | 2022-05-25 |  |
 | [Sixteen Saltines](https://open.spotify.com/track/2GmMkODuUWlFZn87jdjbEy) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/5Khz5tP9sdilu9YwlX8AE3) | 2:37 | 2022-05-25 | 2022-07-24 |
 | [Sober](https://open.spotify.com/track/6Uaqf3LCwuVebfm5u3ndq9) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1) | 3:15 | 2022-05-25 |  |
 | [Soda](https://open.spotify.com/track/3PUnku87booODLtX6VVHwN) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:56 | 2022-05-25 |  |
@@ -498,7 +499,7 @@
 | [Weight of Love](https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 6:50 | 2022-05-25 |  |
 | [Welcome To The Breakdown](https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:03 | 2022-05-25 | 2022-07-29 |
 | [Well, Everybody's Fucking In A U.F.O.](https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:43 | 2022-05-25 | 2022-07-29 |
-| [Wetsuit](https://open.spotify.com/track/2sqtkSLyuo3hdpnp0gyVCq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 3:50 | 2022-05-25 |  |
+| [Wetsuit](https://open.spotify.com/track/2sqtkSLyuo3hdpnp0gyVCq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 3:50 | 2022-05-25 | 2022-08-24 |
 | [What You Want](https://open.spotify.com/track/0uOo8xRtQ6okTZMR89ppVk) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:41 | 2022-05-25 | 2022-07-26 |
 | [What's Left Of Me](https://open.spotify.com/track/2FLwPldJQHRXm6xuAeabtp) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [What's Left Of Me](https://open.spotify.com/album/1bBruoqOGFca6YV7aDWnaL) | 2:58 | 2022-05-25 | 2022-07-20 |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 | 2022-05-25 |  |

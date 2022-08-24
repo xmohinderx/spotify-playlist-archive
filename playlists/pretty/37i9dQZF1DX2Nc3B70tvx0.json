@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: Omar Apollo ",
-  "num_followers": 2209423,
+  "num_followers": 2209604,
   "original_name": "Ultimate Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5NDU0MiwwMDAwMDAwMDk3MjI3MDBjZWUxYTc0YmNiMTIyYmQ2NTc4Yjg0NjNh",
+  "snapshot_id": "MTY2MTE5NDU0MiwwMDAwMDAwMGQxYWEwOTVmNDEyNmVhNzU2ZjlkYTk1YzE0ZjgyMGVj",
   "tracks": [
     {
       "added_at": "2022-08-22 18:55:42",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-08-22 18:55:42",
       "album": {
+        "name": "Am I sinking or Am I swimming?",
+        "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Stress Relief",
+      "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
+    },
+    {
+      "added_at": "2022-08-22 18:55:42",
+      "album": {
         "name": "Sunshine (feat. Foushe\u00e9)",
         "url": "https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
-    },
-    {
-      "added_at": "2022-08-22 18:55:42",
-      "album": {
-        "name": "Am I sinking or Am I swimming?",
-        "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
-      },
-      "artists": [
-        {
-          "name": "late night drive home",
-          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Stress Relief",
-      "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
     },
     {
       "added_at": "2022-08-22 18:55:42",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-08-22 18:55:42",
       "album": {
+        "name": "Popular",
+        "url": "https://open.spotify.com/album/6c9QyP5cZlq0DCY7ysXSbj"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 186520,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3098sOo6ZdYy0BskCqOBfJ"
+    },
+    {
+      "added_at": "2022-08-22 18:55:42",
+      "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2022-08-22 18:55:42",
       "album": {
-        "name": "Popular",
-        "url": "https://open.spotify.com/album/6c9QyP5cZlq0DCY7ysXSbj"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 186520,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3098sOo6ZdYy0BskCqOBfJ"
-    },
-    {
-      "added_at": "2022-08-22 18:55:42",
-      "album": {
         "name": "Orange Blood",
         "url": "https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 226013,
       "name": "Orange Blood",
       "url": "https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi"
+    },
+    {
+      "added_at": "2022-08-22 18:55:42",
+      "album": {
+        "name": "Easy / Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 231670,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
     },
     {
       "added_at": "2022-08-22 18:55:42",
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2022-08-22 18:55:42",
       "album": {
-        "name": "Easy / Where Do We Go From Here?",
-        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn"
       },
       "artists": [
         {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 231670,
-      "name": "Where Do We Go From Here?",
-      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
+      "duration_ms": 135593,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID"
     },
     {
       "added_at": "2022-08-22 18:55:42",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2022-08-22 18:55:42",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn"
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 135593,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID"
+      "duration_ms": 303066,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/5Aq4CusaoqGNQlvNUUnA7t"
     },
     {
       "added_at": "2022-08-22 18:55:42",
@@ -1187,22 +1203,6 @@
       "duration_ms": 164466,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
-    },
-    {
-      "added_at": "2022-08-22 18:55:42",
-      "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 303066,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/5Aq4CusaoqGNQlvNUUnA7t"
     },
     {
       "added_at": "2022-08-22 18:55:42",

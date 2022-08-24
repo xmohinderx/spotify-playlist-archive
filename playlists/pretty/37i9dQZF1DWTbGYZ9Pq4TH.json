@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 156477,
+  "num_followers": 156503,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDU0NWVjY2NlODRmMjRhZjk5ZjQxMDUyZDA3ZjZiYzIy",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMGNlMGQ5NmRkYzhiZTRjOGJkMzY1ODdmMzcyMWIyNjVm",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -159,22 +159,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Possibili Scenari",
-        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Poetica",
-      "url": "https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 251413,
       "name": "Tu",
       "url": "https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Possibili Scenari",
+        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Poetica",
+      "url": "https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "A Te",
-      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "\u00c8 sempre bello",
         "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Iperbole",
-        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
       },
       "artists": [
         {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
         }
       ],
-      "duration_ms": 296040,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
+      "duration_ms": 264240,
+      "name": "A Te",
+      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -655,6 +639,22 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
+        "name": "Iperbole",
+        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
+      },
+      "artists": [
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 296040,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
         "name": "Il bacio di Klimt",
         "url": "https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g"
-      },
-      "artists": [
-        {
-          "name": "Lortex",
-          "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
-        }
-      ],
-      "duration_ms": 174725,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Faccio un casino",
         "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 193624,
       "name": "Faccio un casino",
       "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g"
+      },
+      "artists": [
+        {
+          "name": "Lortex",
+          "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
+        }
+      ],
+      "duration_ms": 174725,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm"
     },
     {
       "added_at": "2021-09-26 18:38:53",

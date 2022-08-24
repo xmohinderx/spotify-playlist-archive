@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-75 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
+76 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Rejuvenate](https://open.spotify.com/track/2BMsZTRgwxpLN4tQFSUcSo) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Rejuvenate](https://open.spotify.com/album/0ovPC1p3FWLW1NHSgiobYf) | 3:13 | 2022-08-05 |  |
 | [Revolve](https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Revolve](https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2) | 3:07 | 2022-08-05 |  |
 | [Sabaku](https://open.spotify.com/track/0z3GwhoT2D7ywKpjffpJJH) | [Phillipsburg](https://open.spotify.com/artist/2jzPSPZe2GbEpuaCJVvzbL) | [Direct Flight](https://open.spotify.com/album/7xVhHAltBelFy4Iy5i7zqM) | 3:12 | 2022-08-05 |  |
+| [Seraphic](https://open.spotify.com/track/6hEVztDYBzkGSEIcebdjiK) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Seraphic](https://open.spotify.com/album/02qMMW9PBraKOzi3fYGrj5) | 3:32 | 2022-08-23 |  |
 | [Silverhearts](https://open.spotify.com/track/20EmHh9TVgaZUZ9UvmlvUv) | [Taylor Stephens](https://open.spotify.com/artist/49Cmx1Yp6lQrseq3v712Kc) | [Silverhearts](https://open.spotify.com/album/763n56FRXMTLlU1RrWDvCD) | 3:04 | 2022-08-05 |  |
 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-15 |  |
 | [Slow Comets](https://open.spotify.com/track/3RooVmiw2ZTwu3rnBNAq1f) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [Slow Comets](https://open.spotify.com/album/6KkIHN9fRp96181Q3Y1kV5) | 2:40 | 2022-08-05 |  |

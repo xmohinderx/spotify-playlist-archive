@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-235 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
+236 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Darlin'](https://open.spotify.com/track/4AAaHPomyfyJrcFlbIA4m8) | [Susie Mills](https://open.spotify.com/artist/2QmjpcdPJqL67ovh59ZAUZ), [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Darlin'](https://open.spotify.com/album/1YpQZ631ongztPOShtfEJn) | 3:07 | 2022-03-18 | 2022-07-29 |
 | [Dirty Old Town](https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\)](https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd) | 4:06 | 2022-07-08 |  |
 | [Dirty Old Town](https://open.spotify.com/track/567EmmCbOtpEuaVC2zznU6) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\) \- CC010](https://open.spotify.com/album/6n3RGLF30GoCCubzH6WtVQ) | 4:06 | 2021-10-26 | 2022-07-29 |
-| [Don't Judge Me](https://open.spotify.com/track/4CdrEw76dPI0QyurNUjklR) | [Kish](https://open.spotify.com/artist/4Vo0o5cMw8x1cIdbMCzE9L) | [Don't Judge Me](https://open.spotify.com/album/6Ny9NQi1tvteQHFcXkJX9T) | 3:20 | 2022-03-04 |  |
+| [Don't Judge Me](https://open.spotify.com/track/4CdrEw76dPI0QyurNUjklR) | [Kish](https://open.spotify.com/artist/4Vo0o5cMw8x1cIdbMCzE9L) | [Don't Judge Me](https://open.spotify.com/album/6Ny9NQi1tvteQHFcXkJX9T) | 3:20 | 2022-03-04 | 2022-08-24 |
 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 | 2022-05-23 |  |
 | [everytime we fall](https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [everytime we fall](https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ) | 3:09 | 2022-03-18 |  |
 | [Eyes on You](https://open.spotify.com/track/3Q6ppHSPI9Kpuc5ipKb7bP) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Eyes on You](https://open.spotify.com/album/6jsMdQu4HDvujVp2IQmweI) | 2:48 | 2022-07-08 |  |
@@ -233,6 +233,7 @@
 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2022-01-05 |  |
 | [Wish I Was Right For You](https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg) | [Wish I Was Right For You](https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR) | 3:02 | 2021-10-26 |  |
 | [With Or Without You \- Remastered](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 | 2021-10-26 |  |
+| [World In My Hands](https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ) | [LAVI$H](https://open.spotify.com/artist/0bW7J4hzno0eMC5TFZfDou) | [World In My Hands](https://open.spotify.com/album/7mQHiL0qIDYoHqUiBQ5ImB) | 3:18 | 2022-08-19 |  |
 | [World Without You](https://open.spotify.com/track/3Lwl2ZFocL6hNMgfSuLrQ0) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Accidentally On Purpose](https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti) | 3:17 | 2021-10-26 |  |
 | [You Are The Reason \- Duet Version](https://open.spotify.com/track/4gJAWJnE5cvAAWyTMTxgdY) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [You Are The Reason \(Duet Version\)](https://open.spotify.com/album/3SMV4ooENmCNDQHXa23gRa) | 3:10 | 2021-10-26 | 2022-07-29 |
 | [You Are The Reason \- Duet Version](https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Only Human \(Special Edition\)](https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek) | 3:10 | 2022-07-08 |  |

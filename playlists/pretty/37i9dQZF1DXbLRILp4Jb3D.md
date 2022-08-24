@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Dulces canciones para disfrutar con tus bebés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,116 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,156 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 14 | [Do You Want to Build a Snowman? \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:26 |
 | 15 | [Baby Shark](https://open.spotify.com/track/5k71IudErIAnPklwCbgbgR) | [Mini Stars](https://open.spotify.com/artist/4w0NTOd6T1WHdHq8Uaux3G), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Baby Shark](https://open.spotify.com/album/2a6Jc7yO9JJw870sjR8dbq) | 1:37 |
 | 16 | [Agua](https://open.spotify.com/track/7tBhKomsIxF7pTkVDnh6sa) | [Magdalena Fleitas](https://open.spotify.com/artist/7vUHOeU5ADsenylCCvlaQV) | [Risas Del Sol](https://open.spotify.com/album/1PxnhW7McgHUjAUlF8q9md) | 3:04 |
-| 17 | [Azul \(with Rodrigo Amarante\)](https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 4:51 |
-| 18 | [Duerme negrito](https://open.spotify.com/track/7HMHqxqrr1exm1O5QuyPI0) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Canciones de Luna](https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL) | 2:36 |
+| 17 | [Duerme negrito](https://open.spotify.com/track/7HMHqxqrr1exm1O5QuyPI0) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Canciones de Luna](https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL) | 2:36 |
+| 18 | [Azul \(with Rodrigo Amarante\)](https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 4:51 |
 | 19 | [For the First Time in Forever \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:45 |
 | 20 | [Buenos Días Señor Sol](https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Buenos Días Señor Sol](https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ) | 2:45 |
 | 21 | [The Bath Song](https://open.spotify.com/track/6t5tUvTg4BY4syBRFYATxD) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp) | 2:01 |
 | 22 | [Tu Guardián](https://open.spotify.com/track/724ixTDFsgRWkhiwQHgtS1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:25 |
 | 23 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/5axMcmrGtshbBUIThgmIis) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena de Avalor](https://open.spotify.com/album/1IPKeos1MgU37PeWiAIpOw) | 1:02 |
-| 24 | [Farolito \(with Gilberto Gil\)](https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 2:41 |
-| 25 | [Arrurrú](https://open.spotify.com/track/25EyD8t5rxJIu401VPBOJl) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Canciones de Luna](https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL) | 2:33 |
+| 24 | [Arrurrú](https://open.spotify.com/track/25EyD8t5rxJIu401VPBOJl) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Canciones de Luna](https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL) | 2:33 |
+| 25 | [Farolito \(with Gilberto Gil\)](https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 2:41 |
 | 26 | [Un Mundo Ideal](https://open.spotify.com/track/374W2LUkFHs3WIRoRaskWi) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:20 |
 | 27 | [A Eme O](https://open.spotify.com/track/3tM2iXXrWYNrv1yvvgiBhn) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Andrea Echeverri](https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip) | 3:27 |
 | 28 | [Nana Boruca](https://open.spotify.com/track/3buxz8sFvbMoQdX5tQuBcz) | [Mariana Baggio](https://open.spotify.com/artist/72l6wuv5Ic1Lm9yAMayCKx) | [Nana Boruca](https://open.spotify.com/album/2hnrMIBi0zullEG1TYCZEJ) | 1:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 49 | [Get Up, Stand Up](https://open.spotify.com/track/36jJo5n5etzL8cjDZPzvkZ) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 2:12 |
 | 50 | [Nube de Algodón](https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [CACUCA](https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe) | [Nube de Algodón](https://open.spotify.com/album/3jN0mCiud1s0mQ46aj2Yom) | 2:16 |
 
-Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMGU2ODQ5YWYzMGQxYzVmMzIyYWI5NjQwZmI3NWMxYzE4`
+Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMDkzZmQ0N2Y4ZjRkMGNkN2ZhYjcwMTNiY2NiY2Y4YWU4`

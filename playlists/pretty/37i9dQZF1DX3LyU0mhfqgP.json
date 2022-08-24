@@ -1,12 +1,12 @@
 {
   "description": "Claim your space with the newest songs from LGBTQIA+ artists. Cover: Tsatsamis",
-  "num_followers": 811817,
+  "num_followers": 811807,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGVlNjJjZjY3ZGM4NGQ1NDJkMjFiMDM2YjhjN2VjZDI5",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGM2MTFjNjU1ZjRhOWM3ZmJjYWI0ZDdhOTRjMjViMzg0",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -787,18 +787,22 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
       "artists": [
         {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 182443,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
+      "duration_ms": 164693,
+      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -819,22 +823,18 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
       },
       "artists": [
         {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
         }
       ],
-      "duration_ms": 164693,
-      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
-      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "I THINK YOU TURNED ME",
         "url": "https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 132250,
       "name": "I THINK YOU TURNED ME",
       "url": "https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
     },
     {
       "added_at": "2022-07-31 21:56:59",

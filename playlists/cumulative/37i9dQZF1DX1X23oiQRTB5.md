@@ -4,7 +4,7 @@
 
 > Gazo au top de la première playlist de rap français !
 
-90 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
+91 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,9 @@
 | [Fixette](https://open.spotify.com/track/5sLfmuQHJtPjSORQF2sbrJ) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Fixette](https://open.spotify.com/album/6Y4OKe6gdIgxaVfJrASQzE) | 3:33 | 2022-01-06 |  |
 | [FRAUDE](https://open.spotify.com/track/5KuU8cuhCGJRmAUZsqUBRE) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [FRAUDE](https://open.spotify.com/album/1ds595bn2azH1sYiG38A66) | 3:08 | 2022-06-09 |  |
 | [Fuego](https://open.spotify.com/track/1mBdiyA2OUySEprEEOKJ6g) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Fuego](https://open.spotify.com/album/1gKn9d5OHN2aUw9FHRFD4C) | 3:31 | 2022-01-06 | 2022-06-24 |
+| [Full black](https://open.spotify.com/track/1WcBhct7iVXliYorbEKTql) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 2:29 | 2022-08-18 |  |
 | [Full black](https://open.spotify.com/track/3GdWREHnpwt24gHOxqKbOo) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD) | 2:29 | 2022-01-13 | 2022-07-29 |
-| [Full black](https://open.spotify.com/track/7DPQMoNUREqcRjlnbFh2cN) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/2QZYxEoqTwj45Ajifa0hxg) | 2:29 | 2022-07-28 |  |
+| [Full black](https://open.spotify.com/track/7DPQMoNUREqcRjlnbFh2cN) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/2QZYxEoqTwj45Ajifa0hxg) | 2:29 | 2022-07-28 | 2022-08-24 |
 | [FUM22 NOCIVE](https://open.spotify.com/track/3v9eCrcYmTjYjy68TWHj5b) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [MELANCHOLIA 999](https://open.spotify.com/album/0bybjX3wEDFCqYe65E9q1a) | 2:11 | 2022-01-06 | 2022-08-05 |
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2022-01-06 |  |
 | [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-06-02 |  |

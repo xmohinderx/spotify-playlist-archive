@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 93337,
+  "num_followers": 93358,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDg0ZjdlY2YzYTYwNTRmZTlmOWM2MjZkMzE3ZDBjNmUw",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGJmM2ExMWQ0NzUzYTUyOWU2Njc5ZmZkYzhjMmJhNmY5",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Six Pack: Volume 2",
+        "url": "https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
+      "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Surface Pressure",
         "url": "https://open.spotify.com/album/7aNLvoaHB7xqpqssKfQuJ2"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 194450,
       "name": "Surface Pressure",
       "url": "https://open.spotify.com/track/2YePcRCovlBZ0wIYX7bXAa"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Six Pack: Volume 2",
-        "url": "https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
-      "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Six Pack",
+        "url": "https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "I'm Yours / Somewhere over the Rainbow - EP Version",
+      "url": "https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
         "url": "https://open.spotify.com/album/6EQTNhJYK0TUuvWiAomciS"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 214746,
       "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Six Pack",
-        "url": "https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "I'm Yours / Somewhere over the Rainbow - EP Version",
-      "url": "https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Black & Red",
         "url": "https://open.spotify.com/album/0pXdLROrVJzxlxtWc77lW1"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 263173,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
     },
     {
       "added_at": "2021-12-24 05:00:00",

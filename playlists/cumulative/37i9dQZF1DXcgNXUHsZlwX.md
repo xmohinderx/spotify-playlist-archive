@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Connor Seidel \(1969 Collective\)
 
-362 songs - 21 hr 25 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+363 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Coup de soleil](https://open.spotify.com/track/0NyhAtRM4o8SAWEdIflxby) | [Nooom](https://open.spotify.com/artist/2onf6pDejZ19BQ5i8YxobO), [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Coup de soleil](https://open.spotify.com/album/19NyteEHJgka9SrhVnvbR4) | 4:00 | 2022-04-22 | 2022-04-26 |
 | [Coup de soleil](https://open.spotify.com/track/2xOefBxmeK7PXxCeHYCDhG) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Coup de soleil](https://open.spotify.com/album/5QNYXEOGwjQ5nZ27jn2NH1) | 3:48 | 2021-05-08 | 2021-09-08 |
 | [Courir](https://open.spotify.com/track/4qhwhVDsbTfBsYDd0pmnzy) | [Guillaume Arsenault](https://open.spotify.com/artist/1Xrx0Xnznngb6qjtaWKZ4M) | [Courir \- Single](https://open.spotify.com/album/5ebTUBNcmux7eMrcdk2NxL) | 3:33 | 2021-01-03\* | 2021-12-18 |
-| [Couvre\-feu](https://open.spotify.com/track/1eapCpP1Qb0pNrTaxTiFW6) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/6iqqCwefofdlbqRmMjTzuT) | 4:04 | 2021-01-03\* |  |
+| [Couvre\-feu](https://open.spotify.com/track/1eapCpP1Qb0pNrTaxTiFW6) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/6iqqCwefofdlbqRmMjTzuT) | 4:04 | 2021-01-03\* | 2022-08-24 |
 | [Crier tout bas](https://open.spotify.com/track/4tWyK8bdS4YUkpXZIW9uav) | [Gabriel Cyr](https://open.spotify.com/artist/2sqgY6vt8CHeaCIfLcw6J8) | [La Voix 2019](https://open.spotify.com/album/0R9SDt52a9zP9PQ1f1uN6z) | 3:46 | 2021-02-22 | 2021-05-28 |
 | [Dagues](https://open.spotify.com/track/6UzLLH6dYuOvpjnavhDQS0) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Dans le noir](https://open.spotify.com/album/6acP1CsAciv95uGVTNfNe7) | 3:51 | 2021-01-15 | 2022-06-22 |
 | [Dahlia](https://open.spotify.com/track/6Pc9fVvfIQBGX5JjzWbptz) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [Dahlia](https://open.spotify.com/album/2JIQTUXCAVjUq0LvLbZFMr) | 4:17 | 2021-01-03\* | 2022-07-23 |
@@ -134,6 +134,7 @@
 | [J'trouve ça beau](https://open.spotify.com/track/33gIRI0EOFISryPJtSVCqJ) | [Alicia Deschênes](https://open.spotify.com/artist/6cIkGaF2x3ZAZIlxElMvFu) | [Comme June aime Johnny](https://open.spotify.com/album/1j5nc7LO1tQnImfo45Cekn) | 3:26 | 2021-01-15 | 2022-07-27 |
 | [Jamais 2 sans toi](https://open.spotify.com/track/024CnsOMQ92GJoCcMKiwgy) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy), [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [27x le tour](https://open.spotify.com/album/3gCaNFmUWUvbOptuJ5tc0t) | 3:20 | 2021-01-03\* | 2021-05-06 |
 | [Jardin d'Éden \- acoustique](https://open.spotify.com/track/4S5i9UhnbKOJTUJx25ty2E) | [Jérôme Couture](https://open.spotify.com/artist/0cvBh0HtLTct4g8a7tZpZi), [Renée Wilkin](https://open.spotify.com/artist/2lVG7MqNwCv40uf9sVp2Lm) | [Jardin d'Éden \(acoustique\)](https://open.spotify.com/album/3zuriA73YnVhgcRWbn3L74) | 3:06 | 2021-05-18 | 2021-06-08 |
+| [JD](https://open.spotify.com/track/4rODIAkyRLz9tYFN6YGHhI) | [Amki](https://open.spotify.com/artist/5xKr6yXoMkJVDj8NUt2KW1) | [JD](https://open.spotify.com/album/29UvcSPfJphjgNqgFLL9wr) | 3:46 | 2022-08-22 |  |
 | [Je n'en savais rien](https://open.spotify.com/track/2QheSTpkGUzxTlwPB9Uc37) | [David Couture](https://open.spotify.com/artist/31m4mGXZtpZIwYMaW7tlbM) | [Sortir](https://open.spotify.com/album/7vZkyFnmzhgvoDTVOlqe1B) | 4:09 | 2021-09-20 | 2021-11-02 |
 | [Je ne te dirai pas mon nom](https://open.spotify.com/track/3qW14HtcQf4f4g2q6V0R85) | [Les Passagers](https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ) | [Les Oiseaux](https://open.spotify.com/album/0MUeuoEadQSPwnsLmlFYnZ) | 4:16 | 2021-01-03\* | 2021-01-25 |
 | [Je reviens chez nous](https://open.spotify.com/track/172zakucirQMrMR8t0rFci) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3), [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Je n'veux pas dormir ce soir](https://open.spotify.com/album/46bZg3CYLTULjGp4tSevVX) | 3:24 | 2021-04-03 | 2021-10-02 |

@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-250 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
+251 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Meditación y Relajación](https://open.spotify.com/track/30ZnWr4gkenAaSFIa733gl) | [Calamantos](https://open.spotify.com/artist/4sk5GtqBchPEuDVcOASDXy) | [Relajación y Meditación](https://open.spotify.com/album/7lf9GNRElS8xe9isYjh3bL) | 3:06 | 2022-05-25 |  |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-05-25 |  |
 | [Mind Cleansing](https://open.spotify.com/track/0V1vo7jIvwW2QIeuKJFAg4) | [Calma](https://open.spotify.com/artist/0UFMDihal5NxeE9xM8jsHz) | [Astral Plane](https://open.spotify.com/album/5xNBsj69xWMQgxqVSo6uAC) | 3:03 | 2022-05-25 |  |
+| [Miuys](https://open.spotify.com/track/6gM3YgCJV3tBzbnYG2ydge) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Miuys](https://open.spotify.com/album/1yoIxMWtpZxCUrFysAZ1Ll) | 3:00 | 2022-08-23 |  |
 | [Mollusca](https://open.spotify.com/track/63kG8LOsD5GLmjW62S2rBA) | [Ferndale](https://open.spotify.com/artist/3RXfYE9FOxd2Mgxf46ZMb9) | [Gabriel](https://open.spotify.com/album/6EKSmGzGQ7ODZmqdHVXpa1) | 3:28 | 2022-05-25 |  |
 | [Moonlight](https://open.spotify.com/track/7d3KZr4HSC2Pt3r4a9Jx91) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [At Peace](https://open.spotify.com/album/6T8GQaam618kI3vbP74FXP) | 2:29 | 2022-05-25 |  |
 | [Moons in the Rings](https://open.spotify.com/track/3Y3u0mF1FF8Psi7PDnSvLI) | [Interstellar Journey](https://open.spotify.com/artist/2lVUuG2asaRByPWesKcMW4) | [Tides on Titan](https://open.spotify.com/album/09Kpj515fwXraK5qYOpx3F) | 2:56 | 2022-05-25 |  |
@@ -201,7 +202,7 @@
 | [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 | 2022-05-25 |  |
 | [Shinrabansho](https://open.spotify.com/track/6S1cvapi9HH9tr1uX9clVb) | [Eira Cloud](https://open.spotify.com/artist/6BvyFmg49l8pJToLeGKmi9) | [Shinrabansho](https://open.spotify.com/album/0Q9X3pgupHIP5LGyDkInOr) | 2:54 | 2022-05-25 |  |
 | [Silver Lining](https://open.spotify.com/track/18ASLynW0wviGgoxqceQNB) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Silver Lining](https://open.spotify.com/album/4xvs942AlHntixf72xQeSs) | 3:30 | 2022-05-25 |  |
-| [Simple Gestures](https://open.spotify.com/track/0mDOLrtw3BiHeGfv4J0KA2) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:58 | 2022-05-25 |  |
+| [Simple Gestures](https://open.spotify.com/track/0mDOLrtw3BiHeGfv4J0KA2) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:58 | 2022-05-25 | 2022-08-24 |
 | [Skylines](https://open.spotify.com/track/3WeYjOyamokKdl3cvQysZq) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Magnetic](https://open.spotify.com/album/6fg80AhUt2EltjNlo2kMZa) | 2:46 | 2022-05-25 |  |
 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-15 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/0Cks68XMF8C89s1zTfFtR2) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 3:11 | 2022-05-25 |  |

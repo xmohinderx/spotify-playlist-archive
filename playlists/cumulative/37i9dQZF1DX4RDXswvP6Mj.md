@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: WONHO\(원호\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-489 songs - 1 day 3 hr 1 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
+490 songs - 1 day 3 hr 4 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [DO or NOT](https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:08 | 2022-01-14 | 2022-04-07 |
 | [Don't Call Me](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:40 | 2022-01-03 | 2022-07-14 |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-12-21 | 2022-07-25 |
+| [Don't hesitate](https://open.spotify.com/track/0bh2STGfDf1LuZBHL2eRGU) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Don't hesitate](https://open.spotify.com/album/05g8jnH2x9k8Lj25jFznyC) | 3:23 | 2022-08-23 |  |
 | [DON'T TOUCH ME](https://open.spotify.com/track/5WYW22IZkApppYwwJfZ7wC) | [REFUND SISTERS](https://open.spotify.com/artist/28Nk9B0LudPoufVThERUDi) | [DON'T TOUCH ME](https://open.spotify.com/album/6SEAMFqNh1pzaPqLMaAydK) | 3:43 | 2021-12-29 | 2022-04-19 |
 | [DOOM DOOM TA](https://open.spotify.com/track/4OoIilBA6IsqLpTDCZmKQc) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [TRI.BE Da Loca](https://open.spotify.com/album/20WVSzeVrTvZlmpta9q0Pi) | 3:15 | 2022-03-02 | 2022-05-10 |
 | [Door](https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:19 | 2022-01-03 | 2022-07-25 |
@@ -309,7 +310,7 @@
 | [Naughty \- Demicat Remix](https://open.spotify.com/track/45g8e6lIciCHoaEDNbY7nA) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.3 : Naughty Remix](https://open.spotify.com/album/5LU3bwPyZz69FfMR7e71SU) | 3:53 | 2022-04-05 | 2022-04-16 |
 | [NEON](https://open.spotify.com/track/1RG6AWB4CovVQcIztseNw5) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:14 | 2022-03-31 | 2022-04-16 |
 | [NEW HERO](https://open.spotify.com/track/6OTsinrSCfxmwcr5wLy2as) | [Choi suhwan](https://open.spotify.com/artist/5if8p7T2O2QHhIKZiwSWvD), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [NEW HERO](https://open.spotify.com/album/602H8kYZQMFOEVGGdjH82r) | 3:22 | 2022-03-24 | 2022-04-13 |
-| [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-21 |  |
+| [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-21 | 2022-08-24 |
 | [NINETEEN](https://open.spotify.com/track/3mVzC9U8eyAmDNWnPniCIN) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [NINETEEN](https://open.spotify.com/album/6XnFMmVnbFEDnFjc6xRw2g) | 3:03 | 2022-03-31 | 2022-04-18 |
 | [No Air](https://open.spotify.com/track/0mve4vxmwumqI6gnw7euma) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd MINI ALBUM \[THE ONLY\]](https://open.spotify.com/album/0OQZQq2066KZgauv3M24CK) | 4:04 | 2022-02-09 | 2022-07-05 |
 | [No Love](https://open.spotify.com/track/5mMqlFlWJNAApggUOEfYDn) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD LIAR \- The 4th Mini Special Album](https://open.spotify.com/album/0ExK4LxhnukLaSgbmwITmj) | 3:19 | 2022-03-24 | 2022-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQQIA+ artists. Cover: serpentwithfeet",
-  "num_followers": 106262,
+  "num_followers": 106250,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTI2MSwwMDAwMDAwMGUxMGE5Nzc3N2I4Njc2ZDQ0YjhlZjliOWZjZGIwMmVj",
+  "snapshot_id": "MTY2MDIzOTI2MSwwMDAwMDAwMGUyNWM0OTkxMmQ2MGY1MmQ0ZDI4YzIxNmFlYjQ5YjZj",
   "tracks": [
     {
       "added_at": "2022-06-06 14:47:44",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
+        "name": "More Like You",
+        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
-        "name": "More Like You",
-        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Christine and the Queens",
-        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Tilted",
-      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Ur Gonna Wish U Believed Me",
         "url": "https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 271420,
       "name": "Ur Gonna Wish U Believed Me",
       "url": "https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Christine and the Queens",
+        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "Tilted",
+      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Dead Weight",
-      "url": "https://open.spotify.com/track/3FmsKw8ie3KLC5273nH6wD"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "if we lived on the moon",
         "url": "https://open.spotify.com/album/6vKGgTS4yEAm8DlnQd5c7P"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 151223,
       "name": "if we lived on the moon",
       "url": "https://open.spotify.com/track/4Es7s4qHHonILWnqDkN7cA"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Dead Weight",
+      "url": "https://open.spotify.com/track/3FmsKw8ie3KLC5273nH6wD"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Peak",
-        "url": "https://open.spotify.com/album/3DlqoysgHCd3CLV4LUOCnh"
-      },
-      "artists": [
-        {
-          "name": "Choker",
-          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "El Dorado",
-      "url": "https://open.spotify.com/track/6x93hzBoL7HpirMN2P48co"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Death Of A Fantasy",
         "url": "https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 148250,
       "name": "QUEEN BEE",
       "url": "https://open.spotify.com/track/4Oecz6LI7bVFnDufMJqHMw"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Peak",
+        "url": "https://open.spotify.com/album/3DlqoysgHCd3CLV4LUOCnh"
+      },
+      "artists": [
+        {
+          "name": "Choker",
+          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "El Dorado",
+      "url": "https://open.spotify.com/track/6x93hzBoL7HpirMN2P48co"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0"
-      },
-      "artists": [
-        {
-          "name": "Lo Knowles",
-          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
-        }
-      ],
-      "duration_ms": 237165,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 207946,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0"
+      },
+      "artists": [
+        {
+          "name": "Lo Knowles",
+          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
+        }
+      ],
+      "duration_ms": 237165,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Everything I\u2019ve Ever Learned",
-        "url": "https://open.spotify.com/album/7c07uVLXixDIdJYF3v9XIO"
-      },
-      "artists": [
-        {
-          "name": "BLOXX",
-          "url": "https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw"
-        }
-      ],
-      "duration_ms": 234410,
-      "name": "Everything I\u2019ve Ever Learned",
-      "url": "https://open.spotify.com/track/4AwMdsbhwjEdi2RBHTG3ip"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "First Time In A Long Time: The Reprise Recordings",
         "url": "https://open.spotify.com/album/2BkEkcphy0liqTVRSBEEpC"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 245800,
       "name": "Ain't That Peculiar",
       "url": "https://open.spotify.com/track/4RAS6QT974bl5blsapzVGq"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Everything I\u2019ve Ever Learned",
+        "url": "https://open.spotify.com/album/7c07uVLXixDIdJYF3v9XIO"
+      },
+      "artists": [
+        {
+          "name": "BLOXX",
+          "url": "https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw"
+        }
+      ],
+      "duration_ms": 234410,
+      "name": "Everything I\u2019ve Ever Learned",
+      "url": "https://open.spotify.com/track/4AwMdsbhwjEdi2RBHTG3ip"
     },
     {
       "added_at": "2022-06-06 14:47:44",

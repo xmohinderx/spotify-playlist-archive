@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: HUNJIYA\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,263 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,317 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 4 | [It’s Not Easy](https://open.spotify.com/track/32bCGtVMTOJL9vHpaXly85) | [Avii Garde](https://open.spotify.com/artist/3DbXI4NokdiqiFwer9YOoF) | [It’s Not Easy](https://open.spotify.com/album/0DlghI0qWip2mrcNzamdQP) | 3:45 |
 | 5 | [You and I \(feat\. mim\)](https://open.spotify.com/track/0xgRkmsLjVwNjVmueozY3F) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [mim](https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us) | [You and I](https://open.spotify.com/album/4ANnofgM2nEwB87GCbkWMS) | 3:03 |
 | 6 | [Love like a bouquet,](https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK) | [CHOMINWOO](https://open.spotify.com/artist/1mISG0BUcXpI7kJKtRqthM), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Beautiful struggle](https://open.spotify.com/album/17X67myikY9mktuS1UHAyx) | 3:18 |
-| 7 | [SLEEP](https://open.spotify.com/track/4eyetKkmP14NC6Rr8NyUBO) | [Rudals](https://open.spotify.com/artist/2gmDfDbae0ZWIws0bvsCn8) | [SLEEP](https://open.spotify.com/album/3lG9l4O28wyd6JYp8jMwrG) | 3:14 |
+| 7 | [SLEEP](https://open.spotify.com/track/4eyetKkmP14NC6Rr8NyUBO) | [RUDALS](https://open.spotify.com/artist/2gmDfDbae0ZWIws0bvsCn8) | [SLEEP](https://open.spotify.com/album/3lG9l4O28wyd6JYp8jMwrG) | 3:14 |
 | 8 | [forest](https://open.spotify.com/track/3IS94oUtno6qoCe2GUB3is) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [forest](https://open.spotify.com/album/01x7G8ibDSoFu1XIge8S7Q) | 3:16 |
 | 9 | [Engine](https://open.spotify.com/track/5qy91blMPg3avxZEgqwwyt) | [LUMINOUS](https://open.spotify.com/artist/4vPDmRjCfNXoeKxCBms9DX) | [LUMINOUS in WONDERLAND](https://open.spotify.com/album/2ZQEYhMgRlaA1gQVrQaDtt) | 3:08 |
 | 10 | [Be\-e\-e\-e](https://open.spotify.com/track/3SReD892lOtkOUL4p8Tu92) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6) | [Be\-e\-e\-e](https://open.spotify.com/album/3foqu7kaVnLvLPUNmgbNUS) | 2:20 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 13 | [Beauty\(2022\)](https://open.spotify.com/track/1gaE9GDp3ctETPzSPcjhZs) | [SONG YUVIN](https://open.spotify.com/artist/5bO0Iy0ozHhSelVBOttCyT) | [Beauty\(2022\)](https://open.spotify.com/album/1afUq7Xry5pM5ueGbcPCVg) | 3:51 |
 | 14 | [BETTER KNOW \(feat\. Louie\)](https://open.spotify.com/track/1cD6hl0bsphFgh1nAiCz2G) | [김슬옹](https://open.spotify.com/artist/3WoLTUzCzouGlfB95USM5f), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [BETTER KNOW](https://open.spotify.com/album/70aOkJrJWI7xBCUBWKxwGh) | 3:35 |
 | 15 | [Still with you](https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic) | [SU A](https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y) | [Minamdang \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv) | 3:06 |
-| 16 | [PUSH IT \(feat.Ash\-B\)](https://open.spotify.com/track/3ttqDJxXhdPpq6TBODSrKQ) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [애쉬비](https://open.spotify.com/artist/6inaUpQD8oyOEHgwWHR6b1) | [성공한 체리보이](https://open.spotify.com/album/4f78f7vDjzAZGoPf9xtZ0J) | 2:12 |
+| 16 | [PUSH IT \(feat.Ash\-B\)](https://open.spotify.com/track/3ttqDJxXhdPpq6TBODSrKQ) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4) | [성공한 체리보이](https://open.spotify.com/album/4f78f7vDjzAZGoPf9xtZ0J) | 2:12 |
 | 17 | [More and More](https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO) | [SOIN](https://open.spotify.com/artist/7EOsjIvg3a2dPyMW6XNn4U) | [More and More](https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h) | 3:18 |
 | 18 | [LEGO\(Let's Go\)](https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [LEGO\(Let's Go\)](https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8) | 1:53 |
 | 19 | [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 |

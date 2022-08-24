@@ -2302,6 +2302,24 @@
     },
     {
       "album": {
+        "name": "Distant Sunrise",
+        "url": "https://open.spotify.com/album/4isWOKOddFFaUGOApJL8uK"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152462,
+      "name": "Invisible Currents",
+      "url": "https://open.spotify.com/track/58F2NUnMXH9VKWESwi05Z1"
+    },
+    {
+      "album": {
         "name": "Islands Above",
         "url": "https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX"
       },
@@ -4311,7 +4329,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 218501,
       "name": "Wild Trails",
       "url": "https://open.spotify.com/track/2urxHALnoeVxG82o57q0ny"

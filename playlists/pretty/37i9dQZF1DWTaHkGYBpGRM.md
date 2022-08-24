@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 
 > Long distance is hard, but true love knows no boundaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,430 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,463 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 23 | [To Whom It May Concern](https://open.spotify.com/track/3gpbB4hh2KjY3q8di87TpN) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:31 |
 | 24 | [Already Home](https://open.spotify.com/track/2UqABRs8RMrgjkYZZ6VawW) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:50 |
 | 25 | [Wish You Were Here \- Acoustic Version](https://open.spotify.com/track/4rmfjaAl0kWsyznoJU2ws3) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:45 |
-| 26 | [As Much as I Ever Could](https://open.spotify.com/track/2FKbisOVZcinq7VtYUFD4H) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 5:24 |
-| 27 | [Trouble I'm In](https://open.spotify.com/track/58NyDMjXSBQ9CG3lcvbLKi) | [Twinbed](https://open.spotify.com/artist/0fJrV4zS7nW9fre4bNuGsp) | [Trouble I'm In](https://open.spotify.com/album/7vF8hqJr5ftey5VxwVYVz0) | 3:22 |
+| 26 | [Trouble I'm In](https://open.spotify.com/track/58NyDMjXSBQ9CG3lcvbLKi) | [Twinbed](https://open.spotify.com/artist/0fJrV4zS7nW9fre4bNuGsp) | [Trouble I'm In](https://open.spotify.com/album/7vF8hqJr5ftey5VxwVYVz0) | 3:22 |
+| 27 | [As Much as I Ever Could](https://open.spotify.com/track/2FKbisOVZcinq7VtYUFD4H) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 5:24 |
 | 28 | [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 |
 | 29 | [Berlin](https://open.spotify.com/track/6PiR6zBrj0JUMnIT88OtZv) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Berlin](https://open.spotify.com/album/7qNXH2L0VUARRVpcJsacqM) | 4:29 |
 | 30 | [5748 Km](https://open.spotify.com/track/4LXi58nLKicjAC0emPq43l) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/0oTTQnhihdD5IDQeW2xoVL) | 3:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 59 | [Coming Home](https://open.spotify.com/track/4DEICI6hwTnHCch0SonV8w) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill](https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0) | 3:55 |
 | 60 | [Missing You](https://open.spotify.com/track/7eA8KIqKOYDwzDoQPp0vQ9) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Innocence Lost](https://open.spotify.com/album/7yYelxb5aBNoxduduomHlp) | 2:54 |
 
-Snapshot ID: `MTYxMTYwNDE1MiwwMDAwMDAwMGJkZGVjODVhODBkNjVkYzMyMTk1MWQwYjY2NDJjZDg5`
+Snapshot ID: `MTYxMTYwNDE1MiwwMDAwMDAwMDRmNTlhMzUxYzc0NGZkZDRkOWQ5NzkyNDQ3MTcwOWJl`

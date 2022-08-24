@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Francis Mercier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,174 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,198 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 28 | [African Sun \- Remix](https://open.spotify.com/track/20kzGFgtQU4C1G1Rd50YAU) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [African Sun \(Remix\)](https://open.spotify.com/album/1e6xJo2X0UxiXlUV6fIJCu) | 2:23 |
 | 29 | [Bom sou 2 bo](https://open.spotify.com/track/3PrwZ3JStN6BrFQ622bXVE) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn) | [Chay](https://open.spotify.com/album/3due3dfxS3NOzt88kVNQoM) | 4:12 |
 | 30 | [Chasing Amy](https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Before I Spill Myself](https://open.spotify.com/album/3AK7VAPf2hnnLMpITKokgq) | 4:08 |
-| 31 | [Sammy Sosa](https://open.spotify.com/track/085w8MDcFkxBi1yZ0frfUr) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Sammy Sosa](https://open.spotify.com/album/2Q7DoT2zK1cBY0MLvCdNjp) | 2:31 |
-| 32 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 |
+| 31 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 |
+| 32 | [Sammy Sosa](https://open.spotify.com/track/085w8MDcFkxBi1yZ0frfUr) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Sammy Sosa](https://open.spotify.com/album/2Q7DoT2zK1cBY0MLvCdNjp) | 2:31 |
 | 33 | [Teteo](https://open.spotify.com/track/5CFMdA4qLFi8Ut75tnSvNx) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Team madada](https://open.spotify.com/artist/77QFn6E0KVtFGZsjVbDoVv), [T\-Babas](https://open.spotify.com/artist/4D3zaRHdSmUKObPuNkZbi0) | [Teteo](https://open.spotify.com/album/26vdwpxbZVDDLVSGQUspXx) | 3:46 |
 | 34 | [Ti Sesi Ti Sela](https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt) | [BMIXX](https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM), [Afriken An](https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4) | [Ti Sesi Ti Sela](https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz) | 2:53 |
 | 35 | [Premye Fwa](https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs) | [DANOLA](https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y) | [Premye Fwa](https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB) | 3:09 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 44 | [Tap \- Remix](https://open.spotify.com/track/1Z9eh56VkEjGSccQLIK4E8) | [Dro X Yani](https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Tap \(Remix\)](https://open.spotify.com/album/49dfWPAP2WdYwYC6xIyViU) | 2:53 |
 | 45 | [Tu me touches](https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF) | [Roberto Martino](https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 6:03 |
 | 46 | [Bal Tout](https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Bal Tout](https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn) | 3:11 |
-| 47 | [Kote'w Te Ye](https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw) | [Beken](https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ) | [Troubadour](https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z) | 3:35 |
-| 48 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 |
-| 49 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
-| 50 | [KÈM](https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [KÈM](https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3) | 2:45 |
+| 47 | [KÈM](https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [KÈM](https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3) | 2:45 |
+| 48 | [Kote'w Te Ye](https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw) | [Beken](https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ) | [Troubadour](https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z) | 3:35 |
+| 49 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 |
+| 50 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
 | 51 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
 | 52 | [Ke M Pa Sote](https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Vodoo Adjae](https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ) | 9:34 |
 | 53 | [Ocho](https://open.spotify.com/track/5SHrFAnxCwUkt8fh1r3qLd) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Ocho](https://open.spotify.com/album/4tQk8SwZ5dF5n5LihU6KJz) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Solèy Midi](https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW) | [Talie](https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6), [David Chavannes](https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc) | [Solèy Midi](https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF) | 3:49 |
 | 100 | [Baby Who](https://open.spotify.com/track/0BNZpLxBQFNgJTXhGmZEbs) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Melanin](https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp) | 3:07 |
 
-Snapshot ID: `MTY2MDMwMjEwMywwMDAwMDAwMGUyZWJiMjlhYjcwMjhjZTQxYjdjODg5NTIzMDg5ZmMy`
+Snapshot ID: `MTY2MDMwMjEwMywwMDAwMDAwMGNkZDgzYzgxYTkyMjY0ODY0NzQ5Yjk3YmQ3ODRkN2Rk`

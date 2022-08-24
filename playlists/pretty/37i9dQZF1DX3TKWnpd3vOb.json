@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: We Are The Grand.",
-  "num_followers": 198766,
+  "num_followers": 198782,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1Mjg2MCwwMDAwMDAwMDI1YTE3ZDE4Y2YzYjQyNDgwNGVlZjAwM2I4NDJlOWJl",
+  "snapshot_id": "MTY1NzI1Mjg2MCwwMDAwMDAwMGJjZWE1N2NmZjAzZDVkNWI4ZGU0YTU4MjE5ZTA5MjE1",
   "tracks": [
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
+        "name": "Rock N' Blues",
+        "url": "https://open.spotify.com/album/2z5OFr6SCRYjv4mZsbdPHq"
+      },
+      "artists": [
+        {
+          "name": "Los Crushers",
+          "url": "https://open.spotify.com/artist/65xNr7wwwRFXt9oq6DsN8q"
+        }
+      ],
+      "duration_ms": 184203,
+      "name": "Rock N' Blues",
+      "url": "https://open.spotify.com/track/6GNdKCFVqKb7cx9lvW9oXe"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
         "name": "Camino a Casa",
         "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 173664,
       "name": "Camino a Casa",
       "url": "https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "Rock N' Blues",
-        "url": "https://open.spotify.com/album/2z5OFr6SCRYjv4mZsbdPHq"
-      },
-      "artists": [
-        {
-          "name": "Los Crushers",
-          "url": "https://open.spotify.com/artist/65xNr7wwwRFXt9oq6DsN8q"
-        }
-      ],
-      "duration_ms": 184203,
-      "name": "Rock N' Blues",
-      "url": "https://open.spotify.com/track/6GNdKCFVqKb7cx9lvW9oXe"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 86063,
+      "name": "T\u00fa No Propones Na",
+      "url": "https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
         "name": "Pienso en Ti",
         "url": "https://open.spotify.com/album/0IUvvOWKFGYHQUzS7VC4Ow"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+        "name": "Rebeli\u00f3n del Rock",
+        "url": "https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "Sinergia",
+          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
         }
       ],
-      "duration_ms": 86063,
-      "name": "T\u00fa No Propones Na",
-      "url": "https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq"
+      "duration_ms": 220616,
+      "name": "Rebeli\u00f3n del Rock",
+      "url": "https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 97900,
       "name": "Lugares Que Hablan",
       "url": "https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "Rebeli\u00f3n del Rock",
-        "url": "https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ"
-      },
-      "artists": [
-        {
-          "name": "Sinergia",
-          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
-        }
-      ],
-      "duration_ms": 220616,
-      "name": "Rebeli\u00f3n del Rock",
-      "url": "https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1375,22 +1375,6 @@
       "duration_ms": 211040,
       "name": "Cuando Respiro En Tu Boca",
       "url": "https://open.spotify.com/track/0hcS3WBHh9F1cXfbulmU8K"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Todo lo que sube",
-        "url": "https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE"
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
       },
       "artists": [
         {
-          "name": "Perrosky",
-          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 315288,
-      "name": "Todo lo que sube",
-      "url": "https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab"
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 218735,
       "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Todo lo que sube",
+        "url": "https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE"
+      },
+      "artists": [
+        {
+          "name": "Perrosky",
+          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
+        }
+      ],
+      "duration_ms": 315288,
+      "name": "Todo lo que sube",
+      "url": "https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
+        "name": "Era Luz",
+        "url": "https://open.spotify.com/album/0d8R4U0j0ZemcWxkHL0Yb5"
+      },
+      "artists": [
+        {
+          "name": "Alectrofobia",
+          "url": "https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Disp\u00e1rame",
+      "url": "https://open.spotify.com/track/1HoAtTDd5RLmg7Cxrpqado"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
         "name": "25 A\u00f1os (En Vivo Teatro Caupolic\u00e1n)",
         "url": "https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 187000,
       "name": "Mujer Robusta (En Vivo Teatro Caupolic\u00e1n)",
       "url": "https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "Era Luz",
-        "url": "https://open.spotify.com/album/0d8R4U0j0ZemcWxkHL0Yb5"
-      },
-      "artists": [
-        {
-          "name": "Alectrofobia",
-          "url": "https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Disp\u00e1rame",
-      "url": "https://open.spotify.com/track/1HoAtTDd5RLmg7Cxrpqado"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
-        "url": "https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd"
-      },
-      "artists": [
-        {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
-        }
-      ],
-      "duration_ms": 277849,
-      "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
-      "url": "https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q"
       },
@@ -1679,18 +1663,38 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Hipertenso",
-        "url": "https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o"
+        "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
+        "url": "https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd"
       },
       "artists": [
         {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
         }
       ],
-      "duration_ms": 164256,
-      "name": "Son Puros Caballos",
-      "url": "https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB"
+      "duration_ms": 277849,
+      "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
+      "url": "https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Una Vieja Carta",
+        "url": "https://open.spotify.com/album/25Dz6g8tUZuiZlihux27UJ"
+      },
+      "artists": [
+        {
+          "name": "Kolumbia",
+          "url": "https://open.spotify.com/artist/4kspMj0rOe3V4NCUx3iJlH"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 226464,
+      "name": "Una Vieja Carta",
+      "url": "https://open.spotify.com/track/4mdMFl8IeINEY0jZNgEdAp"
     }
   ],
   "unique_name": "Rock Chileno",

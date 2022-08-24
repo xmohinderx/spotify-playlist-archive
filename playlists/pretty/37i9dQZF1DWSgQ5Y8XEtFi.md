@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,090 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,522 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 30 | [Norf Norf](https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 3:03 |
 | 31 | [FACE](https://open.spotify.com/track/5bknBRjKJZ643DAN2w8Yoy) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION](https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm) | 4:19 |
 | 32 | [Gospel](https://open.spotify.com/track/2PqSNVmiEQpFkLoNPoDfwI) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Gospel](https://open.spotify.com/album/7hjdykF03ChWqjN7sI928O) | 2:53 |
-| 33 | [Team](https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y) | [Team](https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887) | 2:06 |
-| 34 | [Heart Attack](https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Chaxsthexry](https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ) | 3:13 |
+| 33 | [Heart Attack](https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Chaxsthexry](https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ) | 3:13 |
+| 34 | [Team](https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y) | [Team](https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887) | 2:06 |
 | 35 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
 | 36 | [BACKROOM](https://open.spotify.com/track/6pEk4bPOrJb77cH8noJLaR) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:35 |
 | 37 | [Dr\. Suess](https://open.spotify.com/track/4nFAUqFou9ZbWNho3jeY1h) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Sin City The Mixtape](https://open.spotify.com/album/60Od32zDXklGhsYo6ADaPG) | 2:33 |
 | 38 | [1539 N\. Calvert](https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Veteran](https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco) | 2:37 |
-| 39 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
+| 39 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
 | 40 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 |
 | 41 | [Dat $tick](https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Dat $tick](https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA) | 2:06 |
-| 42 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
+| 42 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 43 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 44 | [Flash Bang](https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO) | [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI), [Dutchman](https://open.spotify.com/artist/1V2i4vrqsRUzHrv9DTizDF) | [Scratch Paper](https://open.spotify.com/album/6XDskCwojXEJFRjqEoCFuv) | 2:25 |
 | 45 | [Sanjuro \[Feat\. 454\]](https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 49 | [DRAINO \(feat\. Denzel Curry\)](https://open.spotify.com/track/5hOnCHMwQdXOd4qfAWEhKP) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [CITY MORGUE VOL 2: AS GOOD AS DEAD](https://open.spotify.com/album/6o5cXlhhYbFvewfsYpuyEM) | 3:22 |
 | 50 | [Mase in '97](https://open.spotify.com/track/7j6OJzMIJL5JcFHyeSJZGV) | [Carnage](https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Mase in '97](https://open.spotify.com/album/7hp3MpqhzFB5S608ZevGQs) | 1:40 |
 
-Snapshot ID: `MTY2MTEwMTk4MCwwMDAwMDAwMDY2MzI1YzQxZGNiZTVkYzc0ZmQ4Zjg5NDUwNjQ1ZTI4`
+Snapshot ID: `MTY2MTEwMTk4MCwwMDAwMDAwMGY3ZGNjMDM2N2RkMjJkOGQ3ODczNzg2ODhiYzM1ZTI2`

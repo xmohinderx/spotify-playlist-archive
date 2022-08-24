@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 6211,
+  "num_followers": 6245,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMDZkMzBjMDQzOWJmNzE5ZmZmNDVhMTAyZWIxNDlmZDNm",
+  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMGM0ZmRiN2QwMjQ1ODAyNTQ0YjA0MTQ2ZmEyODZiYWVj",
   "tracks": [
     {
       "added_at": "2022-08-18 14:26:15",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
+        "name": "LEGO(Let's Go)",
+        "url": "https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8"
+      },
+      "artists": [
+        {
+          "name": "curv moon",
+          "url": "https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4"
+        }
+      ],
+      "duration_ms": 113346,
+      "name": "LEGO(Let's Go)",
+      "url": "https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
         "name": "Dear X Who Doesn't Love Me, Pt. 5 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3ydjTxtIV74JPcsXff9hoh"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 216806,
       "name": "HeartBROKEN PlaYBoY",
       "url": "https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
-        "name": "LEGO(Let's Go)",
-        "url": "https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8"
-      },
-      "artists": [
-        {
-          "name": "curv moon",
-          "url": "https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4"
-        }
-      ],
-      "duration_ms": 113346,
-      "name": "LEGO(Let's Go)",
-      "url": "https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM"
     },
     {
       "added_at": "2022-08-18 14:26:15",

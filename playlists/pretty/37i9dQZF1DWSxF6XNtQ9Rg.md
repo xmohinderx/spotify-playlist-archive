@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da riascoltare in loop\. Cover: Marracash
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,344 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,492 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 41 | [2% \(feat\. Frah Quintale\)](https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Sinatra](https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R) | 3:31 |
 | 42 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 |
 | 43 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 |
-| 44 | [Baby \(with J Balvin\)](https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:13 |
-| 45 | [Tesla \(feat\. Sfera Ebbasta & DrefGold\)](https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [20](https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw) | 3:05 |
+| 44 | [Tesla \(feat\. Sfera Ebbasta & DrefGold\)](https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [20](https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw) | 3:05 |
+| 45 | [Baby \(with J Balvin\)](https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:13 |
 | 46 | [Pasticche \(feat\. Capo Plaza\)](https://open.spotify.com/track/7KnC2wSD0I5Fju3A7qCFX8) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Reizon](https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [El Puto Mundo](https://open.spotify.com/album/4OBlPtQ0nZjyEpOOYmE47O) | 3:16 |
 | 47 | [Blueface \(feat\. Izi, Tedua\)](https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Glory Days EP](https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI) | 3:42 |
 | 48 | [MARYLEAN \(feat\. Marracash\) \- prod\. Low Kidd](https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 69 | [Catrame \(feat\. Tedua\)](https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Re Mida](https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk) | 3:20 |
 | 70 | [Phi](https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 2:54 |
 
-Snapshot ID: `MTY2MDEyNjk4MiwwMDAwMDAwMDk3ZjhlYzlhMDc2N2Y1OTYzYjk5NTI4ODQ4NDFjOTgw`
+Snapshot ID: `MTY2MDEyNjk4MiwwMDAwMDAwMGZkZjdjNDM2MjJmNGZiNDhlYWVkZDY1ZWFkYzE4M2Mw`

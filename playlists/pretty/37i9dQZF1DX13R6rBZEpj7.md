@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Zero
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,412 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,493 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 20 | [Lighter \(feat\. KSI\) \- Shapes Remix](https://open.spotify.com/track/3SMyy85TGAxfH7NYu65ujO) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [Lighter \(feat\. KSI\) \[Shapes Remix\]](https://open.spotify.com/album/3qKcrBnDpoJoGGdNUyi7d2) | 3:24 |
 | 21 | [Get Mad](https://open.spotify.com/track/3DCBwvEQDnGoYVjdoTa6hI) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/4OO0IkgyFv0EMMgiB3eD0f) | 3:37 |
 | 22 | [U Get Me](https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL) | [U Get Me](https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko) | 5:22 |
-| 23 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
+| 23 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
 | 24 | [Dance \- Tengu remix](https://open.spotify.com/track/5wVsRQKP6xt4Z82QQDJA2f) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Dance \(The Remixes\)](https://open.spotify.com/album/21Gn31tVzHqLQwQBrDbKGW) | 4:23 |
 | 25 | [Over You](https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Over You](https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr) | 3:07 |
 | 26 | [Can't Escape](https://open.spotify.com/track/5oqQuROoAAc3FEQ2D8svfR) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Can't Escape](https://open.spotify.com/album/5EJSTSrxAHGlZS1Ar1Bhwp) | 3:38 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 33 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 |
 | 34 | [Chances](https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP) | 5:10 |
 | 35 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
-| 36 | [Solid Ground](https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi) | [Solid Ground](https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ) | 4:01 |
-| 37 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
+| 36 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
+| 37 | [Solid Ground](https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi) | [Solid Ground](https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ) | 4:01 |
 | 38 | [Again](https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Again](https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd) | 3:51 |
 | 39 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
 | 40 | [Feel So Free](https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Feel So Free](https://open.spotify.com/album/6bxI8Jmu1EPzT2uVdJCog5) | 3:18 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 58 | [Hard Hitters](https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK) | 3:52 |
 | 59 | [Lose My Mind](https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Lose My Mind](https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc) | 3:41 |
 | 60 | [Hot Flush](https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Hot Flush](https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn) | 5:17 |
-| 61 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 |
-| 62 | [Banzai VIP](https://open.spotify.com/track/4zO3VlPNShnAGzgc5AvkL6) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx), [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1) | [Banzai VIP](https://open.spotify.com/album/6HihMPOfFtq8uSUE7lyvw1) | 4:54 |
-| 63 | [All My Love](https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98) | 2:49 |
+| 61 | [All My Love](https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98) | 2:49 |
+| 62 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 |
+| 63 | [Banzai VIP](https://open.spotify.com/track/4zO3VlPNShnAGzgc5AvkL6) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx), [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1) | [Banzai VIP](https://open.spotify.com/album/6HihMPOfFtq8uSUE7lyvw1) | 4:54 |
 | 64 | [Donny Don](https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC), [MIK](https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm) | [Donny Don](https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr) | 3:34 |
 | 65 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 |
 | 66 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
 | 70 | [Come Back](https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Night Bass Freshmen Vol 4](https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2) | 4:27 |
 
-Snapshot ID: `MTY2MDMyMjg4OCwwMDAwMDAwMGE2NTQ5MWM0ODFkMzEzZGY0YmI1ODY2OWI0NGNkODc0`
+Snapshot ID: `MTY2MDMyMjg4OCwwMDAwMDAwMDZmZjE1NDkyMWMzYTU1Y2Y1ODc1YzI0ZTE2Njc2MzZh`

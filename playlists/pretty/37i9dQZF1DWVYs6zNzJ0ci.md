@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201,228 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,201,311 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 82 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
 | 83 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 |
 | 84 | [Las Ganas de Vivir](https://open.spotify.com/track/7CUnSaxzKJT5ntbqBKz1fr) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [La Llave Maestra](https://open.spotify.com/album/0IGW3ipP3z1PXooqMX403Q) | 3:53 |
-| 85 | [Mi Niña](https://open.spotify.com/track/32dbDZjc45fBUUFaSU3DMg) | [Spiritual Reggae Band](https://open.spotify.com/artist/1NsI01VINwVZh1Au2lfbAS) | [Ruge](https://open.spotify.com/album/05KcuSthgbWCRQkV8liSvJ) | 4:03 |
-| 86 | [Fotosíntesis](https://open.spotify.com/track/6BARUJnP3HFzeEcK9KER1g) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk) | [Fotosíntesis](https://open.spotify.com/album/3VppSFRLWDea4KZmSs80HQ) | 3:04 |
+| 85 | [Fotosíntesis](https://open.spotify.com/track/6BARUJnP3HFzeEcK9KER1g) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk) | [Fotosíntesis](https://open.spotify.com/album/3VppSFRLWDea4KZmSs80HQ) | 3:04 |
+| 86 | [Mi Niña](https://open.spotify.com/track/32dbDZjc45fBUUFaSU3DMg) | [Spiritual Reggae Band](https://open.spotify.com/artist/1NsI01VINwVZh1Au2lfbAS) | [Ruge](https://open.spotify.com/album/05KcuSthgbWCRQkV8liSvJ) | 4:03 |
 | 87 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 |
 | 88 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
 | 89 | [Home Sweet Home](https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Los Caligaris](https://open.spotify.com/artist/2STyQeoTuCGp6iZ9TReQIB) | [Home Sweet Home](https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Normal](https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Normal](https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c) | 4:27 |
 | 100 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
 
-Snapshot ID: `MTY2MDc1NzE3MiwwMDAwMDAwMGVhZTFmOTI1ODRiZWNiMzIwZDdiOTYyZWRkYWQ2ZDc1`
+Snapshot ID: `MTY2MDc1NzE3MiwwMDAwMDAwMDIwOWUwNTg5MzEyYTQ4ZGM4MTQ2Mzk2NDU3YTg0MDg0`

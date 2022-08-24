@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Steve Lacy
 
-217 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+219 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Candy Drip](https://open.spotify.com/track/3bP9pv7uHgCN4mzmelCIjO) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candy Drip](https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV) | 4:39 | 2021-12-16 | 2022-04-29 |
 | [Celebrate](https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Persona](https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix) | 3:23 | 2022-04-08 |  |
 | [Chanel Pearls \(with Jill Scott\)](https://open.spotify.com/track/3jWkuKai8qoTRvshbkxh0A) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 3:18 | 2022-02-24 |  |
+| [Chasing](https://open.spotify.com/track/7sGKEO3p8Bcr83ije4BoFK) | [EMY](https://open.spotify.com/artist/60fG6DGeN38kRBsBaokPNG) | [Chasing](https://open.spotify.com/album/3mNWyf9QBXfnuXJCYeImt1) | 2:38 | 2022-08-23 |  |
 | [Cherubim](https://open.spotify.com/track/5ORiAl7tlhYU7FsTGekeO0) | [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [Cherubim](https://open.spotify.com/album/0NdoxejwhbuGuAVUmK3fgL) | 3:15 | 2022-07-28 |  |
 | [Cherubim](https://open.spotify.com/track/66X5ss8OkaKvEbjfcWDWg8) | [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [Cherubim](https://open.spotify.com/album/0OolAxjifDiJRjG6wWVnWr) | 3:15 | 2022-06-16 | 2022-07-29 |
 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 | 2022-02-10 |  |
@@ -178,6 +179,7 @@
 | [So Cool](https://open.spotify.com/track/44aip3NiojpXMaSOTyZ1UO) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [So Cool](https://open.spotify.com/album/0WTexgyWemY3YVYS3VE8Qk) | 1:51 | 2022-02-10 |  |
 | [Sock It 2 Me](https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sock It 2 Me](https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35) | 3:21 | 2022-07-06 |  |
 | [Somebody Told Me](https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh) | [Your Grandparents](https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Somebody Told Me](https://open.spotify.com/album/5nJ1fosTWsfTfkHKFbDHfk) | 4:15 | 2022-06-16 |  |
+| [Something Over Nothing](https://open.spotify.com/track/51sP9J4HvAAGeFvJA9518Z) | [ILLAJOY](https://open.spotify.com/artist/3BJiuXnkcmBxcLYfEiCGjj) | [Something Over Nothing](https://open.spotify.com/album/3vqrSwAIb9U6c8Wxc98anH) | 3:49 | 2022-08-23 |  |
 | [Sonder](https://open.spotify.com/track/4kU5O6r6BlGpcELBNj2SEA) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Poetry In Motion](https://open.spotify.com/album/4Z5bdwjILIWCBWpqTpdcRY) | 3:09 | 2021-12-16 |  |
 | [Space](https://open.spotify.com/track/5SLvWGcGM2aQ1FHAkQRsGD) | [Morgan Munroe](https://open.spotify.com/artist/41K03x2QpJG4rJJ84LceST) | [Space](https://open.spotify.com/album/3KpYADcTT3HW1S0yjNIkEG) | 2:26 | 2022-06-16 |  |
 | [Spit Up](https://open.spotify.com/track/5ninsjB30htfz4V2EHhT5F) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Spit Up](https://open.spotify.com/album/0qxXNClkynGMG0zKnMRb21) | 3:53 | 2022-04-28 |  |

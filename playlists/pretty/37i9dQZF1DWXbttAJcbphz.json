@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Beyonce",
-  "num_followers": 950862,
+  "num_followers": 951783,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTEyNDExMCwwMDAwMDAwMGZlYTNkOWQ4MjI4ZmY3ODY4ODMyYjU0MzEyYWQxZWY0",
+  "snapshot_id": "MTY2MTEyNDExMCwwMDAwMDAwMDQzYmIzM2VlYjg0ZjE4OGE0YzAzYTE1NzAzOTgwNjg0",
   "tracks": [
     {
       "added_at": "2022-08-17 16:54:52",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
     },
     {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 177922,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
+    },
+    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "East Atlanta Love Letter",
@@ -715,22 +731,6 @@
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 177922,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "What You Heard",
         "url": "https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 238242,
       "name": "What You Heard",
       "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "K.T.S.E.",
@@ -1323,6 +1307,22 @@
       "duration_ms": 166997,
       "name": "Gonna Love Me",
       "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Honesty",
-      "url": "https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1"
+      "duration_ms": 221093,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1425,6 +1425,22 @@
       "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
     },
     {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/6s2isojT7rGZUgJyymjjKU"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 98023,
+      "name": "Belong to the City",
+      "url": "https://open.spotify.com/track/05ht6LtilQXryLlGAKH208"
+    },
+    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Trigga Reloaded",
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/6s2isojT7rGZUgJyymjjKU"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 98023,
-      "name": "Belong to the City",
-      "url": "https://open.spotify.com/track/05ht6LtilQXryLlGAKH208"
+      "duration_ms": 232560,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/0lnIJmgcUpEpe4AZACjayW"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1471,22 +1487,6 @@
       "duration_ms": 256063,
       "name": "Boo'd Up",
       "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/0lnIJmgcUpEpe4AZACjayW"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 264097,
-      "name": "She Don't (feat. Ty Dolla $Ign)",
-      "url": "https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "- Ugh, those feels again",
         "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 206080,
       "name": "Eleven (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 264097,
+      "name": "She Don't (feat. Ty Dolla $Ign)",
+      "url": "https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK"
     },
     {
       "added_at": "2022-08-21 23:21:50",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Wus Good / Curious",
-      "url": "https://open.spotify.com/track/2ekdnv2xVIyAdG3ySoDDeY"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "FREE 6LACK",
         "url": "https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi"
       },
@@ -1721,20 +1705,20 @@
       "url": "https://open.spotify.com/track/1MQ8ydvrTnn2QJgXFATJvD"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 239341,
-      "name": "Boo'd Up",
-      "url": "https://open.spotify.com/track/4squZv12LD9M8ooJfoVgZS"
+      "duration_ms": 212880,
+      "name": "Wus Good / Curious",
+      "url": "https://open.spotify.com/track/2ekdnv2xVIyAdG3ySoDDeY"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1767,6 +1751,22 @@
       "duration_ms": 196360,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     }
   ],
   "unique_name": "I Love My '10s R&B",

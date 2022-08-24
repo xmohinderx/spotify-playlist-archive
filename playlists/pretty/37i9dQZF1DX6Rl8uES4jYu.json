@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 233685,
+  "num_followers": 233851,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGZiZTZhNmViYTUzOTY3MzA1NTlmZmEwZGIwZGNkMjgx",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGRjMTc1OWI5MjA1MTg1MTMzMjA0NWU0ZDBiYjEwMzY0",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/0zYHvLLjzBbMYsk2dHY2gY"
     },
     {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Never Seen You Dance",
+        "url": "https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 288062,
+      "name": "Never Seen You Dance",
+      "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
+    },
+    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Something to Say",
@@ -659,22 +675,6 @@
       "duration_ms": 196722,
       "name": "Switch",
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Never Seen You Dance",
-        "url": "https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 288062,
-      "name": "Never Seen You Dance",
-      "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
     },
     {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Sweet Side",
-        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
-      },
-      "artists": [
-        {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Preach",
@@ -899,6 +883,22 @@
       "duration_ms": 208434,
       "name": "Preach",
       "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Sweet Side",
+        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "duration_ms": 205862,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Sunset Drive - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 193983,
-      "name": "Sunset Drive - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Every Night",
@@ -1075,6 +1059,22 @@
       "duration_ms": 177925,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Sunset Drive - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 193983,
+      "name": "Sunset Drive - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1113,6 +1113,26 @@
       "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Get Down! (Before You Lose Control)",
+        "url": "https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        },
+        {
+          "name": "Nia Andrews",
+          "url": "https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Get Down! (Before You Lose Control)",
+      "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
+    },
+    {
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "According To You",
@@ -1137,26 +1157,6 @@
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Get Down! (Before You Lose Control)",
-        "url": "https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        },
-        {
-          "name": "Nia Andrews",
-          "url": "https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Get Down! (Before You Lose Control)",
-      "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Better Man",
@@ -1171,22 +1171,6 @@
       "duration_ms": 196038,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "not enough",
-        "url": "https://open.spotify.com/album/07BI1QtOpvjf16cDV7RzcG"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 176502,
-      "name": "not enough",
-      "url": "https://open.spotify.com/track/1xREjbxyVJFRFbpJoXYAhC"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1241,6 +1225,22 @@
       "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
     },
     {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "not enough",
+        "url": "https://open.spotify.com/album/07BI1QtOpvjf16cDV7RzcG"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 176502,
+      "name": "not enough",
+      "url": "https://open.spotify.com/track/1xREjbxyVJFRFbpJoXYAhC"
+    },
+    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Run Away",
@@ -1285,6 +1285,22 @@
       "url": "https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
+      },
+      "artists": [
+        {
+          "name": "KWAYE",
+          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "No ID",
@@ -1301,24 +1317,36 @@
       "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/09bUbFV98FIMiOkDxMuOQw"
+        "name": "closure",
+        "url": "https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb"
       },
       "artists": [
         {
-          "name": "Invisible",
-          "url": "https://open.spotify.com/artist/6GRKwhGojrzpj0486YlBA9"
-        },
-        {
-          "name": "DiFi",
-          "url": "https://open.spotify.com/artist/5xAqa5xaSxHC1L3EP8g9KL"
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 150022,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1SqWZL0rbbL00bAvAnGkHy"
+      "duration_ms": 182574,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V"
+      },
+      "artists": [
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "duration_ms": 166888,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -1341,58 +1369,6 @@
       "url": "https://open.spotify.com/track/3FqvCSW4LXjdJJPxpna5AH"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "closure",
-        "url": "https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 182574,
-      "name": "closure",
-      "url": "https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Something in the Water",
-        "url": "https://open.spotify.com/album/41qodzcgwcN8cCx45Kqduk"
-      },
-      "artists": [
-        {
-          "name": "Charlie Curtis-Beard",
-          "url": "https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb"
-        },
-        {
-          "name": "Nina Ann",
-          "url": "https://open.spotify.com/artist/4kyhocyz4BZImOAct1yVmS"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Something in the Water",
-      "url": "https://open.spotify.com/track/0pzVdivOZdZdKOEbcbhkp3"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V"
-      },
-      "artists": [
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        }
-      ],
-      "duration_ms": 166888,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
-    },
-    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Overthinking",
@@ -1413,24 +1389,24 @@
       "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
+      "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "Vibrant",
-        "url": "https://open.spotify.com/album/5v0gnKHa0ZMf4EgxmZlZYU"
+        "name": "You",
+        "url": "https://open.spotify.com/album/09bUbFV98FIMiOkDxMuOQw"
       },
       "artists": [
         {
-          "name": "Stokley",
-          "url": "https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA"
+          "name": "Invisible",
+          "url": "https://open.spotify.com/artist/6GRKwhGojrzpj0486YlBA9"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "DiFi",
+          "url": "https://open.spotify.com/artist/5xAqa5xaSxHC1L3EP8g9KL"
         }
       ],
-      "duration_ms": 248414,
-      "name": "Vibrant",
-      "url": "https://open.spotify.com/track/2xQAAd2pCT7q2HlWffAaMh"
+      "duration_ms": 150022,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1SqWZL0rbbL00bAvAnGkHy"
     },
     {
       "added_at": "2021-10-29 13:50:54",
@@ -1453,6 +1429,46 @@
       "url": "https://open.spotify.com/track/0DcmjBeZnsf97sdVsTgqIk"
     },
     {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Vibrant",
+        "url": "https://open.spotify.com/album/5v0gnKHa0ZMf4EgxmZlZYU"
+      },
+      "artists": [
+        {
+          "name": "Stokley",
+          "url": "https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 248414,
+      "name": "Vibrant",
+      "url": "https://open.spotify.com/track/2xQAAd2pCT7q2HlWffAaMh"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Something in the Water",
+        "url": "https://open.spotify.com/album/41qodzcgwcN8cCx45Kqduk"
+      },
+      "artists": [
+        {
+          "name": "Charlie Curtis-Beard",
+          "url": "https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb"
+        },
+        {
+          "name": "Nina Ann",
+          "url": "https://open.spotify.com/artist/4kyhocyz4BZImOAct1yVmS"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/0pzVdivOZdZdKOEbcbhkp3"
+    },
+    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Faded",
@@ -1467,22 +1483,6 @@
       "duration_ms": 210693,
       "name": "Faded",
       "url": "https://open.spotify.com/track/3FMyC1ElB2UcLMBZQ4EKLJ"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
-      },
-      "artists": [
-        {
-          "name": "KWAYE",
-          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
     }
   ],
   "unique_name": "Ready for the Day",

@@ -4,12 +4,13 @@
 
 > 🚂  Aqui é só o trem caro do trap! Foto: Borges
 
-132 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/2bZk5f2KVSoGqtFW20OKam)
+133 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/2bZk5f2KVSoGqtFW20OKam)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 Chivas](https://open.spotify.com/track/0WwhC11l4afABOd1rSntp3) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [12 CHIVAS](https://open.spotify.com/album/6vfL9pYdrNR5HHNxYeGXqo) | 2:55 | 2022-05-20 | 2022-07-30 |
 | [2 Cordões](https://open.spotify.com/track/5LCqgzxRZc73VXObHCddwe) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [2 Cordões](https://open.spotify.com/album/4T2BxDiQkKbmlqUkrlLthW) | 3:19 | 2022-06-13 | 2022-07-30 |
+| [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 | 2022-08-23 |  |
 | [212](https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [212](https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN) | 2:30 | 2022-03-18 | 2022-04-23 |
 | [7 Meiota](https://open.spotify.com/track/7GlKZPZ02XIhVCSwHboMTb) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ) | [7 Meiota](https://open.spotify.com/album/48aImzLYN7EO5RTsJSKXjW) | 3:10 | 2022-07-22 |  |
 | [777\-666](https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:44 | 2022-03-18 | 2022-06-14 |
@@ -137,7 +138,7 @@
 | [Vizão de Cria 2](https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov) | [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vizão de Cria 2](https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl) | 5:06 | 2022-08-05 |  |
 | [Vlife](https://open.spotify.com/track/2evcFxT2aW4FZznh6DyEwK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/47on59OkWHDwxyP2zBjhwd) | 2:40 | 2022-07-01 | 2022-08-09 |
 | [Vlife](https://open.spotify.com/track/5iR6O7EKag8BRlOVj5hx2L) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/6FBfqGRQu7uD6F1cPFrnF6) | 2:40 | 2022-06-13 | 2022-07-02 |
-| [Vou Falar o Que?](https://open.spotify.com/track/532c5QACGW10DFZWyNaMKL) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [ZIMA](https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf) | 3:03 | 2022-08-05 |  |
+| [Vou Falar o Que?](https://open.spotify.com/track/532c5QACGW10DFZWyNaMKL) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [ZIMA](https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf) | 3:03 | 2022-08-05 | 2022-08-24 |
 | [X1](https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:08 | 2022-06-24 |  |
 | [ye](https://open.spotify.com/track/3IYHWJMzL4aftnp3ENWoXM) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [ye](https://open.spotify.com/album/7MOwVvOQvt3ljxqzznrt2P) | 2:47 | 2022-05-30 | 2022-07-09 |
 

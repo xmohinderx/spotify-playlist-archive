@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,660 likes - 200 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,702 likes - 200 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 11 | [Yellow Sky \- Remix](https://open.spotify.com/track/3TLlEb1wke6lJTwCZutq52) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Yellow Sky \- Remix](https://open.spotify.com/album/0YgwqMPyCPRBIlGnkIEkSv) | 2:24 |
 | 12 | [Amedeo](https://open.spotify.com/track/7HHjSGgC5RvsR6PzOUsGj9) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo](https://open.spotify.com/album/1IOS446kWjWHlpc7JGJCch) | 2:17 |
 | 13 | [Somewhere In Between](https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq) | [Wandercole](https://open.spotify.com/artist/4Lq1sOwDD8WfE4kgm7yZn4) | [Somewhere In Between](https://open.spotify.com/album/25x9r2SewSxoucruN6we4Y) | 3:49 |
-| 14 | [Breathe](https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Breathe](https://open.spotify.com/album/3HsM90jTIVTM3tkInTSxqC) | 3:06 |
+| 14 | [Into the light](https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Into the light](https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id) | 2:26 |
 | 15 | [Feather](https://open.spotify.com/track/3QOEXCF6n8v7LXIGnQ66Z6) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Feather](https://open.spotify.com/album/1GSs9hs6PpWD7diLfsR3nO) | 3:54 |
 | 16 | [Resting Place](https://open.spotify.com/track/6YB9bWKJb6HGXp2sZsR997) | [Astor Lucas](https://open.spotify.com/artist/01ECx5nZUsdtrDL9Zs6BfA) | [Resting Place](https://open.spotify.com/album/1l9JZ9hv98xUIsodPXriUO) | 2:24 |
 | 17 | [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 199 | [Harmonious](https://open.spotify.com/track/0w1kQy9x8W7yA299gFLhLn) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Harmonious](https://open.spotify.com/album/5ag8H1bxJUJbGBHb1IXu8T) | 3:56 |
 | 200 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 |
 
-Snapshot ID: `MTY2MDU4Nzk1MywwMDAwMDAwMDQ2MmRhNmQ1MmZkOWJlYzNiNzdhYTcxNjA4ZGM3YmRm`
+Snapshot ID: `MTY2MTI2NzQ2MywwMDAwMDAwMGMwMzJhNmI2YzZkMGU0NTdjYTRhMzdmOTg4MmYwMmZm`

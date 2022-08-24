@@ -1308,6 +1308,24 @@
     },
     {
       "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242640,
+      "name": "From The Pinnacle To The Pit",
+      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
+    },
+    {
+      "album": {
         "name": "Bloodstone & Diamonds",
         "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
@@ -2011,7 +2029,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 456312,
       "name": "Locust",
       "url": "https://open.spotify.com/track/2A9BLDVuT6lfbRK3ZKBCFz"

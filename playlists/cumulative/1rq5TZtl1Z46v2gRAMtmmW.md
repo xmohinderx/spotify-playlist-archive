@@ -4,7 +4,7 @@
 
 > 
 
-70 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
+71 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,12 +38,13 @@
 | [Hidden Angel](https://open.spotify.com/track/6txbToi4pugOMA8zro3Ma9) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Hidden Angel](https://open.spotify.com/album/48m80PFbxDUrWQreHMgIXZ) | 3:48 | 2022-04-05 | 2022-07-08 |
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-10 | 2022-07-15 |
 | [In Contemplation of Clair’s Scent \- Edit](https://open.spotify.com/track/6evizKGLv223qG5hpReBWy) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [In Contemplation of Clair’s Scent](https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb) | 2:50 | 2022-07-07 |  |
-| [In Your Spirit](https://open.spotify.com/track/4PQPYZ863197i6DImT4fmY) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Invisible Forces](https://open.spotify.com/album/77VUrQTnM0m5F1fIbdiwXr) | 4:47 | 2022-05-03 |  |
+| [In Your Spirit](https://open.spotify.com/track/4PQPYZ863197i6DImT4fmY) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Invisible Forces](https://open.spotify.com/album/77VUrQTnM0m5F1fIbdiwXr) | 4:47 | 2022-05-03 | 2022-08-24 |
 | [Incredibly Annoying](https://open.spotify.com/track/7iHetqDyri7aXIyl69QqHG) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Incredibly Annoying](https://open.spotify.com/album/2EHzdOCliBlaKJWTJ7A8li) | 2:14 | 2022-07-05 |  |
 | [Infinite Window](https://open.spotify.com/track/2EqeGPRUCz1sFz7etlN21Y) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Infinite Window](https://open.spotify.com/album/7nUDFp7PYZGbXD6FFkhKB2) | 4:49 | 2022-06-29 | 2022-07-22 |
+| [I’m Tight](https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [I’m Tight](https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi) | 7:00 | 2022-08-23 |  |
 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 | 2022-06-15 |  |
 | [Last Before Lights](https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 6:06 | 2021-10-15 | 2022-06-29 |
-| [Let it Happen](https://open.spotify.com/track/5du6RlNwVWrLWOS5Vj0pE3) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Let it Happen](https://open.spotify.com/album/0H8otaUAcaHZx3oe6RllV8) | 6:43 | 2022-08-03 |  |
+| [Let it Happen](https://open.spotify.com/track/5du6RlNwVWrLWOS5Vj0pE3) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Let it Happen](https://open.spotify.com/album/0H8otaUAcaHZx3oe6RllV8) | 6:43 | 2022-08-03 | 2022-08-24 |
 | [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-10-22 | 2022-07-06 |
 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-07-13 |  |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-25 |  |

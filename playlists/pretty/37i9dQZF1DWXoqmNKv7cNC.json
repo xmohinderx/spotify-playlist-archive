@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. En portada: The Warning",
-  "num_followers": 63186,
+  "num_followers": 63198,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUwMDI4OCwwMDAwMDAwMDYxMTc2MDljYjVkYTdmYTBjM2M2NGM3MzA4OTg3Njdi",
+  "snapshot_id": "MTY1OTUwMDI4OCwwMDAwMDAwMDE2YzExMTQyODdhNDdhM2Y4OWUyNjdlNTAyN2M0NzA2",
   "tracks": [
     {
       "added_at": "2022-08-03 04:18:08",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-03 04:18:08",
       "album": {
-        "name": "Plush",
-        "url": "https://open.spotify.com/album/07iiRoyWsHcRh6la5Ldkpk"
-      },
-      "artists": [
-        {
-          "name": "Plush",
-          "url": "https://open.spotify.com/artist/2f5Dgi7XqcHDkvfTprZkXL"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Better off Alone",
-      "url": "https://open.spotify.com/track/48XRKpWl8V2eNL5T8LBBRE"
-    },
-    {
-      "added_at": "2022-08-03 04:18:08",
-      "album": {
         "name": "Cumbia Feminista",
         "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 233513,
       "name": "Cumbia Feminista",
       "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
+    },
+    {
+      "added_at": "2022-08-03 04:18:08",
+      "album": {
+        "name": "Plush",
+        "url": "https://open.spotify.com/album/07iiRoyWsHcRh6la5Ldkpk"
+      },
+      "artists": [
+        {
+          "name": "Plush",
+          "url": "https://open.spotify.com/artist/2f5Dgi7XqcHDkvfTprZkXL"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Better off Alone",
+      "url": "https://open.spotify.com/track/48XRKpWl8V2eNL5T8LBBRE"
     },
     {
       "added_at": "2022-08-03 04:18:08",

@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 405983,
+  "num_followers": 406190,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMxMzUzMCwwMDAwMDAwMGFkYmFmM2ExZmI5M2VkMDQwZWJjY2ExYzE2Y2RhODcy",
+  "snapshot_id": "MTY2MDMxMzUzMCwwMDAwMDAwMDhjYTE1YWVlOGJhM2I3MTMzOTY0ZDk0OTYwN2RmY2E4",
   "tracks": [
     {
       "added_at": "2022-08-12 14:12:10",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-08-12 14:12:10",
       "album": {
-        "name": "Pure Love EP",
-        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        }
-      ],
-      "duration_ms": 393495,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
-    },
-    {
-      "added_at": "2022-08-12 14:12:10",
-      "album": {
         "name": "Amantes Amentes",
         "url": "https://open.spotify.com/album/7vzZqY07k2ZTeCMYQ2DDFf"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 448684,
       "name": "Amantes Amentes",
       "url": "https://open.spotify.com/track/2NEMWTplDgFl5yZ5mgpsEd"
+    },
+    {
+      "added_at": "2022-08-12 14:12:10",
+      "album": {
+        "name": "Pure Love EP",
+        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        }
+      ],
+      "duration_ms": 393495,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
     },
     {
       "added_at": "2022-08-12 14:12:10",
@@ -571,6 +571,42 @@
     {
       "added_at": "2022-08-12 14:12:10",
       "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/6OuEoATc4jWyLZ6msSPvvX"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 266730,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/5OWWBPmbl5abcQlsCHieFK"
+    },
+    {
+      "added_at": "2022-08-12 14:12:10",
+      "album": {
+        "name": "The Dawn",
+        "url": "https://open.spotify.com/album/0s1Uhx9QIQfSyFuGSI0OuT"
+      },
+      "artists": [
+        {
+          "name": "Alex Dovo",
+          "url": "https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL"
+        }
+      ],
+      "duration_ms": 463563,
+      "name": "Free Colombia",
+      "url": "https://open.spotify.com/track/0FvP1wBXZGMkZPRyFEtkdN"
+    },
+    {
+      "added_at": "2022-08-12 14:12:10",
+      "album": {
         "name": "Fader",
         "url": "https://open.spotify.com/album/62KwnbwuZHGrefZAc2dlAU"
       },
@@ -599,42 +635,6 @@
       "duration_ms": 578929,
       "name": "Asiri",
       "url": "https://open.spotify.com/track/1yEdBVQAYU2hxEll4nG3qF"
-    },
-    {
-      "added_at": "2022-08-12 14:12:10",
-      "album": {
-        "name": "The Dawn",
-        "url": "https://open.spotify.com/album/0s1Uhx9QIQfSyFuGSI0OuT"
-      },
-      "artists": [
-        {
-          "name": "Alex Dovo",
-          "url": "https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL"
-        }
-      ],
-      "duration_ms": 463563,
-      "name": "Free Colombia",
-      "url": "https://open.spotify.com/track/0FvP1wBXZGMkZPRyFEtkdN"
-    },
-    {
-      "added_at": "2022-08-12 14:12:10",
-      "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/6OuEoATc4jWyLZ6msSPvvX"
-      },
-      "artists": [
-        {
-          "name": "Spencer Brown",
-          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
-        },
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 266730,
-      "name": "Phases",
-      "url": "https://open.spotify.com/track/5OWWBPmbl5abcQlsCHieFK"
     },
     {
       "added_at": "2022-08-12 14:12:10",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-12 14:12:10",
       "album": {
-        "name": "Vibrations",
-        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
-      },
-      "artists": [
-        {
-          "name": "Horisone",
-          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
-        }
-      ],
-      "duration_ms": 435238,
-      "name": "Housefly",
-      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
-    },
-    {
-      "added_at": "2022-08-12 14:12:10",
-      "album": {
         "name": "Dea Dia",
         "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 530979,
       "name": "Dea Dia",
       "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
+    },
+    {
+      "added_at": "2022-08-12 14:12:10",
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
+      },
+      "artists": [
+        {
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
+        }
+      ],
+      "duration_ms": 435238,
+      "name": "Housefly",
+      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
     },
     {
       "added_at": "2022-08-12 14:12:10",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-08-12 14:12:10",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 570543,
-      "name": "Red Planet",
-      "url": "https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP"
-    },
-    {
-      "added_at": "2022-08-12 14:12:10",
-      "album": {
         "name": "10 Years URSL - Reframed Future",
         "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 425437,
       "name": "Reframed Future",
       "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
+    },
+    {
+      "added_at": "2022-08-12 14:12:10",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 570543,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP"
     },
     {
       "added_at": "2022-08-12 14:12:10",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-08-12 14:12:10",
       "album": {
-        "name": "Planet F",
-        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
-      },
-      "artists": [
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        }
-      ],
-      "duration_ms": 241769,
-      "name": "Planet F",
-      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
-    },
-    {
-      "added_at": "2022-08-12 14:12:10",
-      "album": {
         "name": "Hipotez",
         "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
       },
@@ -1031,38 +1015,18 @@
     {
       "added_at": "2022-08-12 14:12:10",
       "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
+        "name": "Planet F",
+        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
       },
       "artists": [
         {
-          "name": "Rafael Osmo",
-          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
         }
       ],
-      "duration_ms": 210731,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
-    },
-    {
-      "added_at": "2022-08-12 14:12:10",
-      "album": {
-        "name": "Crescendo",
-        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
-      },
-      "artists": [
-        {
-          "name": "Soul Button",
-          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
-        },
-        {
-          "name": "Rustboy",
-          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
-        }
-      ],
-      "duration_ms": 364918,
-      "name": "Crescendo",
-      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
+      "duration_ms": 241769,
+      "name": "Planet F",
+      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
     },
     {
       "added_at": "2022-08-12 14:12:10",
@@ -1083,6 +1047,22 @@
     {
       "added_at": "2022-08-12 14:12:10",
       "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
+      },
+      "artists": [
+        {
+          "name": "Rafael Osmo",
+          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
+    },
+    {
+      "added_at": "2022-08-12 14:12:10",
+      "album": {
         "name": "Sora",
         "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 212849,
       "name": "Sora",
       "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
+    },
+    {
+      "added_at": "2022-08-12 14:12:10",
+      "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+      },
+      "artists": [
+        {
+          "name": "Soul Button",
+          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
+        },
+        {
+          "name": "Rustboy",
+          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+        }
+      ],
+      "duration_ms": 364918,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
     },
     {
       "added_at": "2022-08-12 14:12:10",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-08-12 14:12:10",
       "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
+    },
+    {
+      "added_at": "2022-08-12 14:12:10",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 521097,
       "name": "Breaking The Clouds",
       "url": "https://open.spotify.com/track/5dLkoocLN0wZPeV9NDMwlC"
-    },
-    {
-      "added_at": "2022-08-12 14:12:10",
-      "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
     },
     {
       "added_at": "2022-08-12 14:12:10",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-08-12 14:12:10",
       "album": {
+        "name": "Endless Dancing",
+        "url": "https://open.spotify.com/album/5bQAfygQhcBVSsmmMM6sAi"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "duration_ms": 259670,
+      "name": "Endless Dancing",
+      "url": "https://open.spotify.com/track/4HzXeOr4xGfPmx4ZZOaY2t"
+    },
+    {
+      "added_at": "2022-08-12 14:12:10",
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
       },
@@ -1259,38 +1275,6 @@
     {
       "added_at": "2022-08-12 14:12:10",
       "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
-      },
-      "artists": [
-        {
-          "name": "Nick Schwenderling",
-          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Nebula",
-      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
-    },
-    {
-      "added_at": "2022-08-12 14:12:10",
-      "album": {
-        "name": "Endless Dancing",
-        "url": "https://open.spotify.com/album/5bQAfygQhcBVSsmmMM6sAi"
-      },
-      "artists": [
-        {
-          "name": "Cook & Stans",
-          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
-        }
-      ],
-      "duration_ms": 259670,
-      "name": "Endless Dancing",
-      "url": "https://open.spotify.com/track/4HzXeOr4xGfPmx4ZZOaY2t"
-    },
-    {
-      "added_at": "2022-08-12 14:12:10",
-      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 378000,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a"
+    },
+    {
+      "added_at": "2022-08-12 14:12:10",
+      "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
+      },
+      "artists": [
+        {
+          "name": "Nick Schwenderling",
+          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
     },
     {
       "added_at": "2022-08-12 14:12:10",

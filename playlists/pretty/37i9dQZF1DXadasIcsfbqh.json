@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Ingrid Andress",
-  "num_followers": 99219,
+  "num_followers": 99324,
   "original_name": "PopCo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4NTYyMCwwMDAwMDAwMGEzYjFlNTVmYThjOWMzOWZjNDg4NzJhNzVlYWEzYTQy",
+  "snapshot_id": "MTY2MDg4NTYyMCwwMDAwMDAwMGI5NGRjMmZiMzA1ZjFlNzA0YWFmOTRlOGUzNGIxNDRm",
   "tracks": [
     {
       "added_at": "2022-08-19 05:07:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-19 05:07:00",
       "album": {
-        "name": "Nothing To Do Town",
-        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 160706,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
-    },
-    {
-      "added_at": "2022-08-19 05:07:00",
-      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
+    },
+    {
+      "added_at": "2022-08-19 05:07:00",
+      "album": {
+        "name": "Nothing To Do Town",
+        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 160706,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
     },
     {
       "added_at": "2022-08-19 05:07:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2022-08-19 05:07:00",
       "album": {
-        "name": "The Otherside",
-        "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
+        "name": "Breakups",
+        "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
       },
       "artists": [
         {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
         }
       ],
-      "duration_ms": 195515,
-      "name": "Till There's Nothing Left",
-      "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
+      "duration_ms": 223129,
+      "name": "Breakups",
+      "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
     },
     {
       "added_at": "2022-08-19 05:07:00",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2022-08-19 05:07:00",
       "album": {
-        "name": "Breakups",
-        "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
+        "name": "The Otherside",
+        "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
         }
       ],
-      "duration_ms": 223129,
-      "name": "Breakups",
-      "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
-    },
-    {
-      "added_at": "2022-08-19 05:07:00",
-      "album": {
-        "name": "Mercury Lane",
-        "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU"
+      "duration_ms": 195515,
+      "name": "Till There's Nothing Left",
+      "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
     },
     {
       "added_at": "2022-08-19 05:07:00",
@@ -1199,6 +1183,22 @@
       "duration_ms": 220892,
       "name": "Nightfalls",
       "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
+    },
+    {
+      "added_at": "2022-08-19 05:07:00",
+      "album": {
+        "name": "Mercury Lane",
+        "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU"
     },
     {
       "added_at": "2022-08-19 05:07:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2022-08-19 05:07:00",
       "album": {
-        "name": "Anything She Says",
-        "url": "https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        },
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 169154,
-      "name": "Anything She Says",
-      "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
-    },
-    {
-      "added_at": "2022-08-19 05:07:00",
-      "album": {
         "name": "Can't Do Without Me",
         "url": "https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 201146,
       "name": "Can't Do Without Me",
       "url": "https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP"
+    },
+    {
+      "added_at": "2022-08-19 05:07:00",
+      "album": {
+        "name": "Anything She Says",
+        "url": "https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        },
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 169154,
+      "name": "Anything She Says",
+      "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
     },
     {
       "added_at": "2022-08-19 05:07:00",
@@ -1371,22 +1371,18 @@
     {
       "added_at": "2022-08-19 05:07:00",
       "album": {
-        "name": "Queen of Daytona Beach",
-        "url": "https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6"
+        "name": "Sunday Drive",
+        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        },
-        {
-          "name": "Sean Kingston",
-          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 214333,
-      "name": "Queen of Daytona Beach",
-      "url": "https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz"
+      "duration_ms": 205626,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
     },
     {
       "added_at": "2022-08-19 05:07:00",
@@ -1407,18 +1403,54 @@
     {
       "added_at": "2022-08-19 05:07:00",
       "album": {
-        "name": "Sunday Drive",
-        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
+        "name": "Queen of Daytona Beach",
+        "url": "https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        },
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
         }
       ],
-      "duration_ms": 205626,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
+      "duration_ms": 214333,
+      "name": "Queen of Daytona Beach",
+      "url": "https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz"
+    },
+    {
+      "added_at": "2022-08-19 05:07:00",
+      "album": {
+        "name": "Dancin' In The Country",
+        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
+    },
+    {
+      "added_at": "2022-08-19 05:07:00",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "duration_ms": 186094,
+      "name": "Right On Time",
+      "url": "https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX"
     },
     {
       "added_at": "2022-08-19 05:07:00",
@@ -1439,22 +1471,6 @@
       "duration_ms": 210146,
       "name": "I Can't (feat. Old Dominion)",
       "url": "https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV"
-    },
-    {
-      "added_at": "2022-08-19 05:07:00",
-      "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Ell",
-          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
-        }
-      ],
-      "duration_ms": 186094,
-      "name": "Right On Time",
-      "url": "https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX"
     },
     {
       "added_at": "2022-08-19 05:07:00",
@@ -1579,38 +1595,6 @@
     {
       "added_at": "2022-08-19 05:07:00",
       "album": {
-        "name": "Dancin' In The Country",
-        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "Dancin\u2019 In The Country",
-      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
-    },
-    {
-      "added_at": "2022-08-19 05:07:00",
-      "album": {
-        "name": "Girl Who Didn't Care",
-        "url": "https://open.spotify.com/album/40Y4YFAKYGg0vP0gvG7M90"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 192166,
-      "name": "Girl Who Didn't Care",
-      "url": "https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ"
-    },
-    {
-      "added_at": "2022-08-19 05:07:00",
-      "album": {
         "name": "High Horse",
         "url": "https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 152781,
       "name": "High Horse (feat. BRELAND and Blanco Brown)",
       "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
+    },
+    {
+      "added_at": "2022-08-19 05:07:00",
+      "album": {
+        "name": "Girl Who Didn't Care",
+        "url": "https://open.spotify.com/album/40Y4YFAKYGg0vP0gvG7M90"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 192166,
+      "name": "Girl Who Didn't Care",
+      "url": "https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ"
     },
     {
       "added_at": "2022-08-19 05:07:00",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2022-08-19 05:07:00",
       "album": {
+        "name": "Break My Heart Again",
+        "url": "https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 201256,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
+    },
+    {
+      "added_at": "2022-08-19 05:07:00",
+      "album": {
         "name": "Elephant in the Room (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 163672,
       "name": "Elephant in the Room (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1"
-    },
-    {
-      "added_at": "2022-08-19 05:07:00",
-      "album": {
-        "name": "Break My Heart Again",
-        "url": "https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 201256,
-      "name": "Break My Heart Again",
-      "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
     }
   ],
   "unique_name": "PopCo",

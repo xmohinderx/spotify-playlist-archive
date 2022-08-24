@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Stephen Sanchez",
-  "num_followers": 781492,
+  "num_followers": 781627,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGQ0YTZmZmFhMjZiMmMxY2RkNWJhODA4ZTMzNTliZTQ5",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDhjN2JiYTQ2MjQ2MWNmYjA3ZWQ5NDA4NjE2OTgxMzE0",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 198221,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 258812,
       "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 198221,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "What Happiness Is",
-        "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Half Moon Light",
         "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 229960,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "What Happiness Is",
+        "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 136378,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "I've Got a Song",
         "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
       },
@@ -1267,6 +1283,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "The Worth Of The Wait",
+        "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
+      },
+      "artists": [
+        {
+          "name": "Ivan & Alyosha",
+          "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "The Worth Of The Wait",
+      "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -1279,38 +1311,6 @@
       "duration_ms": 186826,
       "name": "Better When We're Falling Apart",
       "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Help Me to Feel Again",
-        "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 262383,
-      "name": "Help Me to Feel Again",
-      "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "The Worth Of The Wait",
-        "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
+        "name": "Help Me to Feel Again",
+        "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
       },
       "artists": [
         {
-          "name": "Ivan & Alyosha",
-          "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 171800,
-      "name": "The Worth Of The Wait",
-      "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
+      "duration_ms": 262383,
+      "name": "Help Me to Feel Again",
+      "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1359,6 +1359,22 @@
       "duration_ms": 228986,
       "name": "Some Kind Of Love",
       "url": "https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Omaha",
-        "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
-      },
-      "artists": [
-        {
-          "name": "Falls",
-          "url": "https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/6b4Az2MguoWdDlB9Jm2815"
       },
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
+        "name": "Omaha",
+        "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
       },
       "artists": [
         {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+          "name": "Falls",
+          "url": "https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l"
         }
       ],
-      "duration_ms": 136378,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
+      "duration_ms": 198600,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "San Isabel",
-        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 280813,
-      "name": "Crazy World (Judgement Day)",
-      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 185663,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "San Isabel",
+        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Crazy World (Judgement Day)",
+      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "These Cold Nights",
-        "url": "https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9"
-      },
-      "artists": [
-        {
-          "name": "Oshima Brothers",
-          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "These Cold Nights",
-      "url": "https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 243776,
       "name": "River",
       "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "These Cold Nights",
+        "url": "https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9"
+      },
+      "artists": [
+        {
+          "name": "Oshima Brothers",
+          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "These Cold Nights",
+      "url": "https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux"
     }
   ],
   "unique_name": "Folk Pop",

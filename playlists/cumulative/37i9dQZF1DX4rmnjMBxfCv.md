@@ -2,7 +2,7 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> Dance and electronic Arabic songs\. Cover: Khaled & DJ Snake.
+> Dance and electronic Arabic songs\. Cover: Jad Halal.
 
 67 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 

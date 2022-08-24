@@ -4,7 +4,7 @@
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:5I5o3vDgR1eCtGcyW2IYZR">I Coccodrilli</a>
 
-330 songs - 16 hr 47 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+331 songs - 16 hr 51 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Struggle](https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [Struggle](https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT) | 3:30 | 2022-04-08 | 2022-05-06 |
 | [Stupido cielo](https://open.spotify.com/track/5BMtEGrwyx2FXnOPxm9CKA) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG), [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Stupido cielo](https://open.spotify.com/album/55eX2Z5Nm3Dv6uaS01NkXX) | 2:55 | 2022-07-04 |  |
 | [Sui sedili della metro](https://open.spotify.com/track/0KlAZX612EFzgAfojYvN3L) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Sui sedili della metro](https://open.spotify.com/album/1Zp0SNFItqjRJxuyRD0ors) | 2:55 | 2022-06-02 | 2022-07-08 |
+| [suitable](https://open.spotify.com/track/0xLaFN3LOpWkVoKSKhPqD7) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [suitable](https://open.spotify.com/album/19GdwqMEVjVVQzUZQxrUez) | 3:18 | 2022-08-23 |  |
 | [sumikko gurashi](https://open.spotify.com/track/0pBXe49nzIs7AxOZFQKLTC) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [sumikko gurashi](https://open.spotify.com/album/6G9I4Zx3jbGzkMXW8wBviE) | 1:37 | 2022-02-17 | 2022-02-23 |
 | [Sunflower](https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Sunflower](https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21) | 3:22 | 2022-07-07 |  |
 | [T\-RIP](https://open.spotify.com/track/407xsMEzZSnm0wtYcBayXS) | [SHADOUONE](https://open.spotify.com/artist/4sDYAkaVYe1bFcIl9Aan43) | [T\-RIP](https://open.spotify.com/album/3a1dHwhl6TJuiWQRsI0L7p) | 3:44 | 2022-06-23 | 2022-07-29 |
@@ -315,7 +316,7 @@
 | [tutto e niente](https://open.spotify.com/track/4bwoGNDTrv1a3nnAcA2jOb) | [Collettivo HMCF](https://open.spotify.com/artist/7tHM6vqXaYJ8T0WK0i0hS7), [fleurmicol](https://open.spotify.com/artist/3pkpv5wdvjKWcS8NaN6DQ0) | [DROP.02](https://open.spotify.com/album/4gWqsqqBq4veVq35GJO7OE) | 3:48 | 2022-03-17 | 2022-05-06 |
 | [tutto il resto](https://open.spotify.com/track/4KH4ljdbGfdEViO6AnAdZQ) | [grungelo](https://open.spotify.com/artist/6P6GEHeCnE88477yIshOMy) | [tutto il resto](https://open.spotify.com/album/0kTmlD0hQ9evTPk0tr3nn9) | 2:11 | 2022-02-25 | 2022-04-09 |
 | [Tutto quello che ho](https://open.spotify.com/track/32ZB5irk2HNEFR2qccF6LF) | [MVNU](https://open.spotify.com/artist/1mOIx2kWjIta26IjVDwcP0), [JWar](https://open.spotify.com/artist/0qAbbuu4T1Kq9r3gweW2ZC) | [Tutto quello che ho](https://open.spotify.com/album/0gcytUGfqlLfqjvbLJG7w7) | 3:31 | 2022-01-06 | 2022-02-18 |
-| [Ubriaca](https://open.spotify.com/track/4QmdX30DPcnVPnN2mJxxNz) | [Kahlo](https://open.spotify.com/artist/7pR2B1Mq25ns1ZTfFND45F) | [Ubriaca](https://open.spotify.com/album/4xWzCOWzO1QYLZHiUoidpS) | 2:45 | 2022-05-27 |  |
+| [Ubriaca](https://open.spotify.com/track/4QmdX30DPcnVPnN2mJxxNz) | [Kahlo](https://open.spotify.com/artist/7pR2B1Mq25ns1ZTfFND45F) | [Ubriaca](https://open.spotify.com/album/4xWzCOWzO1QYLZHiUoidpS) | 2:45 | 2022-05-27 | 2022-08-24 |
 | [Ucciderò](https://open.spotify.com/track/37U1dpnnOPunrt7sXoA7Zh) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Ucciderò](https://open.spotify.com/album/4Ff1liKfmFMWViEw1wPxdE) | 3:36 | 2022-03-03 | 2022-05-20 |
 | [Umano](https://open.spotify.com/track/1FyF0EXkDP7uwDDwiNzYMl) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [Umano](https://open.spotify.com/album/0vEbDtsw49Rtpdwoi6tetH) | 3:55 | 2022-03-03 | 2022-05-06 |
 | [UMMA](https://open.spotify.com/track/0hNNpnNncQWrxa1kr2er67) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1) | [UMMA](https://open.spotify.com/album/4sGiaA89JRuo3IdIxAJfKd) | 3:48 | 2022-03-03 | 2022-04-09 |

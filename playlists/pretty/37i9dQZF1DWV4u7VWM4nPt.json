@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2000. Cover: Joan Sebastian",
-  "num_followers": 12976,
+  "num_followers": 13014,
   "original_name": "Latin Hits 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwODYzOCwwMDAwMDAwMDFmY2ExY2Q5MjZmY2I2Yjc4ODU3NWUyNWFkNjk0MjA4",
+  "snapshot_id": "MTY2MDEwODYzOCwwMDAwMDAwMDdkMDQ3NDk1OTA1NDY0MzU1Y2U2MDgwZGVmMGI0YmU0",
   "tracks": [
     {
       "added_at": "2021-12-22 23:28:32",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 226800,
       "name": "Paris",
       "url": "https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2021-12-22 23:28:32",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Tramposa Y Mentirosa",
-      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 447491,
       "name": "Lo Unico Que Quiero",
       "url": "https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Tramposa Y Mentirosa",
+      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
     },
     {
       "added_at": "2021-12-22 23:28:32",

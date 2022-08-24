@@ -4,7 +4,7 @@
 
 > Éxitos internacionales que no pasan de moda.<br/>Para novedades, escucha <a href="spotify:playlist:37i9dQZF1DX6aTaZa0K6VA">Pop Up</a>.
 
-617 songs - 1 day 13 hr 34 min - [published](https://open.spotify.com/playlist/5C3CCi7Ruqoeuxumd7ZyLl)
+618 songs - 1 day 13 hr 37 min - [published](https://open.spotify.com/playlist/5C3CCi7Ruqoeuxumd7ZyLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 | 2022-04-13 | 2022-04-21 |
 | [Here Without You](https://open.spotify.com/track/0y2IOSoxpgGJ3KZDrmat9p) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Here Without You](https://open.spotify.com/album/6Q0u8XcFdPDxv3f3rLY6QE) | 3:57 | 2022-04-08 | 2022-04-10 |
 | [Hey Mama \(feat\. Nicki Minaj, Bebe Rexha & Afrojack\)](https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:12 | 2022-04-13 | 2022-04-16 |
-| [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2022-06-07 |  |
+| [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2022-06-07 | 2022-08-24 |
 | [Hey Ya! \- Radio Mix / Club Mix](https://open.spotify.com/track/5WQ1hIc5d2EVbRQ8qsj8Uh) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/00XMrHZoOsYLmiyx890axX) | 3:55 | 2022-04-08 | 2022-04-14 |
 | [Hey, Soul Sister](https://open.spotify.com/track/0KpfYajJVVGgQ32Dby7e9i) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Hey, Soul Sister](https://open.spotify.com/album/5lTCUyQrKcSmcw5ULkt75O) | 3:36 | 2022-04-08 | 2022-04-19 |
 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 | 2022-06-07 |  |
@@ -373,6 +373,7 @@
 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/4jpbDGZz6euo0xDcLlJUDZ) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/7BEPVoBcHuTLWpcdj8FhM8) | 4:22 | 2022-04-13 | 2022-04-21 |
 | [My My My!](https://open.spotify.com/track/1YHT1FZv5t3ZFLsVPuy6Rq) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/1OyADPvYTlmT5hV0mtxLAY) | 3:24 | 2022-04-08 | 2022-04-14 |
 | [My Way](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [My Way](https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54) | 3:39 | 2022-04-08 | 2022-04-16 |
+| [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 | 2022-06-07 |  |
 | [Natural](https://open.spotify.com/track/4zIO3ilp5HvTeK3HJHxhMP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Natural](https://open.spotify.com/album/3rar7GKCodqR9GIIiNe75H) | 3:09 | 2022-04-08 | 2022-04-10 |
 | [Need Someone](https://open.spotify.com/track/0e6HwIMqkDwr80TmH1mdt3) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:57 | 2021-11-17 | 2022-04-17 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-11-17 |  |

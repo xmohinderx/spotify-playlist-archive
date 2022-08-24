@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 156083,
       "name": "Are You Entertained (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
@@ -2207,7 +2207,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 163021,
       "name": "GHOST",
       "url": "https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz"
@@ -2909,6 +2909,24 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "album": {
+        "name": "I Don't Want It",
+        "url": "https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135107,
+      "name": "I Don't Want It",
+      "url": "https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd"
     },
     {
       "album": {
@@ -4203,6 +4221,24 @@
       "duration_ms": 176930,
       "name": "Picture in my mind",
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+    },
+    {
+      "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "album": {

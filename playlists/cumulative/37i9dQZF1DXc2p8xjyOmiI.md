@@ -4,7 +4,7 @@
 
 > Corridones pa' quemarle las patas al Diablo 😈 En portada: Los Lara
 
-78 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/5zmaHdeU8tjMcZ0ofQEoOW)
+79 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/5zmaHdeU8tjMcZ0ofQEoOW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Los Mire Con Talento](https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Los Mire Con Talento](https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9) | 2:43 | 2022-07-08 |  |
 | [Lumbre Al Cigarro](https://open.spotify.com/track/59c3aYfsXyTSo88Jet72tQ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:20 | 2021-12-03 |  |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2022-01-14 |  |
-| [Me Gusta Lo Verde](https://open.spotify.com/track/7HknH3ckpTv3MddyeuXDTo) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Me Gusta Lo Verde](https://open.spotify.com/album/4RipR9dLjwNTp3IjZ0v2k7) | 3:18 | 2021-12-03 |  |
+| [Me Gusta Lo Verde](https://open.spotify.com/track/7HknH3ckpTv3MddyeuXDTo) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Me Gusta Lo Verde](https://open.spotify.com/album/4RipR9dLjwNTp3IjZ0v2k7) | 3:18 | 2021-12-03 | 2022-08-24 |
+| [Me Gusta Lo Verde](https://open.spotify.com/track/5y5ej32TW3yo0TXLZ7FFJE) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Me Gusta Lo Verde](https://open.spotify.com/album/1xXL7sqNxIcaSxjybXnn3H) | 3:18 | 2021-12-03 |  |
 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 | 2021-12-03 |  |
 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 | 2021-12-03 |  |
 | [Mi Porvenir](https://open.spotify.com/track/1qOAfH6GJZ7IVuOkOsDit9) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Porvenir](https://open.spotify.com/album/7g3gtNzXyVjmBh7tdd4Lmp) | 2:41 | 2022-07-08 |  |

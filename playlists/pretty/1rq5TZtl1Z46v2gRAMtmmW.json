@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 26833,
+  "num_followers": 26835,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzExOCxlOWU1YTQ2MmU2ZDczMTE3YjQzOGRlMzMwZWFmNzhkMjkzZjQ4YmUy",
+  "snapshot_id": "MzEyNCw1MDZhMjBkY2E1ODY5MTU5OTU2MjVjM2QyZTcwNmU2N2NkMTRiMzU2",
   "tracks": [
     {
       "added_at": "2022-08-03 16:11:16",
@@ -47,6 +47,22 @@
       "duration_ms": 220441,
       "name": "Bad Dad",
       "url": "https://open.spotify.com/track/12tzUisHWGTVrz5g2Hudz9"
+    },
+    {
+      "added_at": "2022-08-23 22:35:38",
+      "album": {
+        "name": "I\u2019m Tight",
+        "url": "https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "duration_ms": 420613,
+      "name": "I\u2019m Tight",
+      "url": "https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB"
     },
     {
       "added_at": "2022-08-10 14:03:31",
@@ -155,22 +171,6 @@
       "duration_ms": 213671,
       "name": "Geronimo",
       "url": "https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf"
-    },
-    {
-      "added_at": "2022-08-03 00:22:05",
-      "album": {
-        "name": "Let it Happen",
-        "url": "https://open.spotify.com/album/0H8otaUAcaHZx3oe6RllV8"
-      },
-      "artists": [
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 403000,
-      "name": "Let it Happen",
-      "url": "https://open.spotify.com/track/5du6RlNwVWrLWOS5Vj0pE3"
     },
     {
       "added_at": "2022-07-19 14:54:01",
@@ -611,22 +611,6 @@
       "duration_ms": 276668,
       "name": "March On",
       "url": "https://open.spotify.com/track/3sd9QKIResfhBak1dgZyap"
-    },
-    {
-      "added_at": "2022-05-03 09:30:21",
-      "album": {
-        "name": "Invisible Forces",
-        "url": "https://open.spotify.com/album/77VUrQTnM0m5F1fIbdiwXr"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 287200,
-      "name": "In Your Spirit",
-      "url": "https://open.spotify.com/track/4PQPYZ863197i6DImT4fmY"
     },
     {
       "added_at": "2022-04-09 00:30:57",

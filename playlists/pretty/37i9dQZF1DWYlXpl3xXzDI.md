@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,407 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,411 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 25 | [Close To You](https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [De Beste Singer Songwriter van Nederland 2](https://open.spotify.com/album/5rWkw0mK0WGSWtZnfKE8DV) | 4:50 |
 | 26 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 |
 | 27 | [So They Say](https://open.spotify.com/track/10RB3ZCBIKde2FAn0ba5wJ) | [Rukhsana Merrise](https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn) | [September Songs](https://open.spotify.com/album/5BAypjSQ8ggV9snAKmHInQ) | 2:56 |
-| 28 | [Howling At The Moon](https://open.spotify.com/track/0lj2nJSYWe41NhF07SRAtI) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Howling At The Moon](https://open.spotify.com/album/0gOshFXSYvZTpAYL5sPH7h) | 3:05 |
+| 28 | [Howling at the Moon](https://open.spotify.com/track/34Yx1C3PBF986YzL3jfuuR) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Modern Heart](https://open.spotify.com/album/3U1AZauAd7pqx4GitFLTjY) | 3:05 |
 | 29 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 |
 | 30 | [Lovely Morning](https://open.spotify.com/track/4768qiI13zMOKseYclY4pN) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo?](https://open.spotify.com/album/7qvN2X89qpDmaZbYbqFGgQ) | 3:53 |
 | 31 | [Friends](https://open.spotify.com/track/4XlSTowke4Ul0J9xPGvzuY) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Friends](https://open.spotify.com/album/2kaJUzdxuVr6AQnOjqiw5W) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 99 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 |
 | 100 | [A Face In The Crowd](https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 3:59 |
 
-Snapshot ID: `MTY1OTk2MzA0MiwwMDAwMDAwMGVjZWMwMTM5MzUwOTM0MzI1ZTg0NjhiYTNmOGM2MmRk`
+Snapshot ID: `MTY1OTk2MzA0MiwwMDAwMDAwMDlhMTNiNjI1NDg1M2I2ZDVkZjAwYjA2YmVhNmNmZTBl`

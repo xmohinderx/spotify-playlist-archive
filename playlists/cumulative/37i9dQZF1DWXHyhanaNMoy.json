@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 197637,
       "name": "Boot",
       "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 189000,
       "name": "Flauta",
       "url": "https://open.spotify.com/track/7gb0ExDXKPpCeLQrBswGw5"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 131124,
       "name": "Flits Uit",
       "url": "https://open.spotify.com/track/2UEgBrRofjHdoDdTu19JY8"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 139964,
       "name": "Fok",
       "url": "https://open.spotify.com/track/7pJj8FBLSy0ry85cysCRYi"
@@ -973,10 +973,44 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 126000,
       "name": "Herra",
       "url": "https://open.spotify.com/track/4NaDrj1SBAmEhMFlFgLkAk"
+    },
+    {
+      "album": {
+        "name": "Herra (Remix)",
+        "url": "https://open.spotify.com/album/11DtLSIFJUfUMfuJ9taXdn"
+      },
+      "artists": [
+        {
+          "name": "Sluwe Ollie",
+          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "D-Double",
+          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
+        },
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Herra - Remix",
+      "url": "https://open.spotify.com/track/5S7R0DmHijDKwj3sjCg8sW"
     },
     {
       "album": {
@@ -1245,6 +1279,28 @@
       "duration_ms": 159183,
       "name": "Je Vindt Nie Erg Toch",
       "url": "https://open.spotify.com/track/6nesuwe9NlRKGjenzyj37F"
+    },
+    {
+      "album": {
+        "name": "Kame Hame Ha",
+        "url": "https://open.spotify.com/album/7hShXOa7Ml04xxBzRK0Ljj"
+      },
+      "artists": [
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151205,
+      "name": "Kame Hame Ha",
+      "url": "https://open.spotify.com/track/2GgtavUi1WNhGycAF7q19d"
     },
     {
       "album": {
@@ -2053,7 +2109,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 205000,
       "name": "Overloading (OVERDOSE)",
       "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
@@ -2502,6 +2558,44 @@
     },
     {
       "album": {
+        "name": "Vamonos Viral (feat. Afro Bros, Dixson Waz & Morry)",
+        "url": "https://open.spotify.com/album/5bRx3CbEFL7CSfMQaRNUEZ"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        },
+        {
+          "name": "DaChoyce",
+          "url": "https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl"
+        },
+        {
+          "name": "WZ Beat",
+          "url": "https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "Morry",
+          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147397,
+      "name": "Vamonos Viral (feat. Afro Bros, Dixson Waz & Morry)",
+      "url": "https://open.spotify.com/track/3fNgQatiRxYCWWngqxfJeN"
+    },
+    {
+      "album": {
         "name": "Van Mij Zijn",
         "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
       },
@@ -2669,7 +2763,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 150153,
       "name": "Whine It",
       "url": "https://open.spotify.com/track/6cXYZU8NJoWrMhHpABkRVS"

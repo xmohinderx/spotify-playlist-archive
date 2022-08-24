@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Steven Curtis Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,163 likes - 99 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,231 likes - 99 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

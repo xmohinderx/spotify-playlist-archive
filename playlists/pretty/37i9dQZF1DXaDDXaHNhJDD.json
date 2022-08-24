@@ -1,12 +1,12 @@
 {
-  "description": "An exclusive collection of Malayalam super hit songs.\nCover: Aarattu",
-  "num_followers": 12433,
+  "description": "An exclusive collection of Malayalam super hit songs.\nCover: Kaduva",
+  "num_followers": 12656,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgxMjU5NSwwMDAwMDAwMDQwNDE5N2NlNmE5Njg5MDcyNDZiMGFiYWUxZGEwNTk4",
+  "snapshot_id": "MTY2MTI0NzM1MCwwMDAwMDAwMDRmMWNkMzc0OTA1M2YwMmQ5YzhiMWI3YjBjM2U3MWUx",
   "tracks": [
     {
       "added_at": "2022-06-16 11:57:53",
@@ -47,6 +47,58 @@
       "duration_ms": 242998,
       "name": "Parudeesa",
       "url": "https://open.spotify.com/track/7v9H4CsUcaoeXSCkhv0xHa"
+    },
+    {
+      "added_at": "2022-07-13 06:43:44",
+      "album": {
+        "name": "Pala Palli (From \"Kaduva\")",
+        "url": "https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Athul Narukara",
+          "url": "https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR"
+        }
+      ],
+      "duration_ms": 270157,
+      "name": "Pala Palli - From \"Kaduva\"",
+      "url": "https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC"
+    },
+    {
+      "added_at": "2022-08-23 09:35:50",
+      "album": {
+        "name": "Thallumaala",
+        "url": "https://open.spotify.com/album/09coDJ0hDNRUkN3qJnGfIy"
+      },
+      "artists": [
+        {
+          "name": "Hrithik Jayakish",
+          "url": "https://open.spotify.com/artist/1uyEDo5vVeOUdz0xbLBKb4"
+        },
+        {
+          "name": "Neha Girish",
+          "url": "https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv"
+        },
+        {
+          "name": "Eshaan Sanil",
+          "url": "https://open.spotify.com/artist/1zdLDvuJcKyCtgrPAKwEIQ"
+        },
+        {
+          "name": "Thejas Krishna",
+          "url": "https://open.spotify.com/artist/485YsYvNnyDA6LZOq4BGA2"
+        },
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        }
+      ],
+      "duration_ms": 183737,
+      "name": "Thallumaala Paattu - From \"Thallumaala\"",
+      "url": "https://open.spotify.com/track/3iH9MTX6mSGgSNlw9Q2T6t"
     },
     {
       "added_at": "2022-05-17 06:14:03",
@@ -383,26 +435,6 @@
       "duration_ms": 124245,
       "name": "Kalakkatha",
       "url": "https://open.spotify.com/track/667y08kCQ18lpjvdLK5wQi"
-    },
-    {
-      "added_at": "2022-07-13 06:43:44",
-      "album": {
-        "name": "Pala Palli (From \"Kaduva\")",
-        "url": "https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Athul Narukara",
-          "url": "https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR"
-        }
-      ],
-      "duration_ms": 270157,
-      "name": "Pala Palli - From \"Kaduva\"",
-      "url": "https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC"
     },
     {
       "added_at": "2022-08-18 06:40:38",

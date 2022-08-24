@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 43,026 likes - 50 songs - 2 hr 59 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 43,042 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Friday \- Radio Edit](https://open.spotify.com/track/3ez3Ey6MYOrwdhamXfwjob) | [Roy Ford](https://open.spotify.com/artist/5gpHAaJzkaLSv0iT2YumRA) | [Friday](https://open.spotify.com/album/3tN72V1QkX2fR2EfoJjTmc) | 3:02 |
+| 1 | [Friday](https://open.spotify.com/track/3ez3Ey6MYOrwdhamXfwjob) | [Roy Ford](https://open.spotify.com/artist/5gpHAaJzkaLSv0iT2YumRA) | [Friday](https://open.spotify.com/album/3tN72V1QkX2fR2EfoJjTmc) | 3:02 |
 | 2 | [René Laloux](https://open.spotify.com/track/74l4tSkfHX8iLW9Kc74ePm) | [Hotel](https://open.spotify.com/artist/1RfaBLjlSEdEMRMaj3dWwc), [Prince Matton](https://open.spotify.com/artist/6QjIoVAOqLki2UAmoD5yuX) | [René Laloux](https://open.spotify.com/album/0Ai0eRRJWnJ8FnZv0IHdLn) | 4:30 |
 | 3 | [Child](https://open.spotify.com/track/2xVL9TdrABknAXZIgtwdk5) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG), [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [Child](https://open.spotify.com/album/2iE6czcXDdtPsIjtzJGmJj) | 2:48 |
 | 4 | [Alleviate](https://open.spotify.com/track/0PfJOrtdlLh9FuYTvN1DdN) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Alleviate](https://open.spotify.com/album/4XNbVuMQyvKoIq5FRnTrYD) | 3:31 |

@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a jazz band plays somewhere in the background. ",
-  "num_followers": 154155,
+  "num_followers": 154633,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY0OTY2MywwMDAwMDAwMGI5NzRhMGZkMDZlOTJjNmIyZDJjZmIyNmExNjQxNjMx",
+  "snapshot_id": "MTY2MDY0OTY2MywwMDAwMDAwMDM3MjVhMTkyNzM5NmVhMTc4NjI2MjEwZTYwODlhYjM0",
   "tracks": [
     {
       "added_at": "2022-08-16 11:34:23",
@@ -55,22 +55,6 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
-    },
-    {
-      "added_at": "2022-08-16 11:34:23",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 286423,
       "name": "Les yeux ouverts (dream a little dream of me)",
       "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
+    },
+    {
+      "added_at": "2022-08-16 11:34:23",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
     },
     {
       "added_at": "2022-08-16 11:34:23",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
-        "name": "Seule ce soir",
-        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 196780,
-      "name": "C'est si bon - 2012",
-      "url": "https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM"
-    },
-    {
-      "added_at": "2022-08-16 11:34:23",
-      "album": {
         "name": "Splendor in the Grass",
         "url": "https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 229906,
       "name": "La valse \u00e0 mille temps",
       "url": "https://open.spotify.com/track/0Yqvv7EV2VYgC299tA5ZaV"
+    },
+    {
+      "added_at": "2022-08-16 11:34:23",
+      "album": {
+        "name": "Seule ce soir",
+        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 196780,
+      "name": "C'est si bon - 2012",
+      "url": "https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM"
     },
     {
       "added_at": "2022-08-16 11:34:23",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
-        "name": "Hoping for Love",
-        "url": "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
+        "name": "Cajueiro",
+        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
       },
       "artists": [
         {
-          "name": "Isabelle Antena",
-          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
+          "name": "M\u00e1rcio Faraco",
+          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
         }
       ],
-      "duration_ms": 253000,
-      "name": "Le Poisson Des Mers Du Sud",
-      "url": "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
+      "duration_ms": 201807,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
     },
     {
       "added_at": "2022-08-16 11:34:23",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
-        "name": "Cajueiro",
-        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
+        "name": "Hoping for Love",
+        "url": "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
       },
       "artists": [
         {
-          "name": "M\u00e1rcio Faraco",
-          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
+          "name": "Isabelle Antena",
+          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
         }
       ],
-      "duration_ms": 201807,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
+      "duration_ms": 253000,
+      "name": "Le Poisson Des Mers Du Sud",
+      "url": "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
     },
     {
       "added_at": "2022-08-16 11:34:23",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
-        "name": "Nino Ferrer",
-        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
-      },
-      "artists": [
-        {
-          "name": "Nino Ferrer",
-          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
-        }
-      ],
-      "duration_ms": 203146,
-      "name": "La rua Madureira",
-      "url": "https://open.spotify.com/track/6Q2emXXZy652fNKkSSfNht"
-    },
-    {
-      "added_at": "2022-08-16 11:34:23",
-      "album": {
         "name": "Just The Two Of Us",
         "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
       },
@@ -703,18 +687,34 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
-        "name": "Le Paris De ... Montand",
-        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
+        "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
       },
       "artists": [
         {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
         }
       ],
-      "duration_ms": 174773,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
+      "duration_ms": 203146,
+      "name": "La rua Madureira",
+      "url": "https://open.spotify.com/track/6Q2emXXZy652fNKkSSfNht"
+    },
+    {
+      "added_at": "2022-08-16 11:34:23",
+      "album": {
+        "name": "Attraction",
+        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Lettre A P",
+      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
     },
     {
       "added_at": "2022-08-16 11:34:23",
@@ -731,6 +731,22 @@
       "duration_ms": 271213,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/6nq8mMlQ2RKpG4SmqziE3j"
+    },
+    {
+      "added_at": "2022-08-16 11:34:23",
+      "album": {
+        "name": "Le Paris De ... Montand",
+        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
     },
     {
       "added_at": "2022-08-16 11:34:23",
@@ -767,22 +783,6 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
-        "name": "Manquait Plus Qu'Ca",
-        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
-      },
-      "artists": [
-        {
-          "name": "Sandrine Kiberlain",
-          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "M'envoyer des fleurs",
-      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
-    },
-    {
-      "added_at": "2022-08-16 11:34:23",
-      "album": {
         "name": "Chansons",
         "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
       },
@@ -799,8 +799,8 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
-        "name": "Attraction",
-        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
+        "name": "Motifs",
+        "url": "https://open.spotify.com/album/6pVrBCOoISxJxv5BQoaYe0"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Lettre A P",
-      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
+      "duration_ms": 210560,
+      "name": "High Low In",
+      "url": "https://open.spotify.com/track/6LAIuS6A5qBqFP41FEQnsY"
     },
     {
       "added_at": "2022-08-16 11:34:23",
@@ -827,6 +827,22 @@
       "duration_ms": 201013,
       "name": "De Temps en Temps",
       "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
+    },
+    {
+      "added_at": "2022-08-16 11:34:23",
+      "album": {
+        "name": "Manquait Plus Qu'Ca",
+        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
+      },
+      "artists": [
+        {
+          "name": "Sandrine Kiberlain",
+          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "M'envoyer des fleurs",
+      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
     },
     {
       "added_at": "2022-08-16 11:34:23",
@@ -863,22 +879,6 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
-        "name": "My Gentleman Friend",
-        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 128093,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/2jmnsU9irersAKdgxJwmGz"
-    },
-    {
-      "added_at": "2022-08-16 11:34:23",
-      "album": {
         "name": "A Fraction Of You",
         "url": "https://open.spotify.com/album/3dq8TPEG5EezRpuh2YfCsY"
       },
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
+        "name": "My Gentleman Friend",
+        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 128093,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/2jmnsU9irersAKdgxJwmGz"
+    },
+    {
+      "added_at": "2022-08-16 11:34:23",
+      "album": {
         "name": "N\u00b04",
         "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
@@ -923,54 +939,6 @@
       "duration_ms": 156466,
       "name": "Black Trombone",
       "url": "https://open.spotify.com/track/5D3Lo6FozaIKCmdO4JwUIU"
-    },
-    {
-      "added_at": "2022-08-16 11:34:23",
-      "album": {
-        "name": "Motifs",
-        "url": "https://open.spotify.com/album/6pVrBCOoISxJxv5BQoaYe0"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "High Low In",
-      "url": "https://open.spotify.com/track/6LAIuS6A5qBqFP41FEQnsY"
-    },
-    {
-      "added_at": "2022-08-16 11:34:23",
-      "album": {
-        "name": "10 chansons pour l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 169143,
-      "name": "Quand on s'balade",
-      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
-    },
-    {
-      "added_at": "2022-08-16 11:34:23",
-      "album": {
-        "name": "Nolita",
-        "url": "https://open.spotify.com/album/7jlEzGrX8XytkuQJHtcOys"
-      },
-      "artists": [
-        {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "L'onde am\u00e8re",
-      "url": "https://open.spotify.com/track/0RnMnEHyWtyAdOUfSqouvs"
     },
     {
       "added_at": "2022-08-16 11:34:23",
@@ -991,6 +959,22 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
+        "name": "Nolita",
+        "url": "https://open.spotify.com/album/7jlEzGrX8XytkuQJHtcOys"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "L'onde am\u00e8re",
+      "url": "https://open.spotify.com/track/0RnMnEHyWtyAdOUfSqouvs"
+    },
+    {
+      "added_at": "2022-08-16 11:34:23",
+      "album": {
         "name": "Les ronds de carotte",
         "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
       },
@@ -1007,22 +991,6 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Comme s'il en pleuvait",
-      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
-    },
-    {
-      "added_at": "2022-08-16 11:34:23",
-      "album": {
         "name": "Ilo Veyou",
         "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
       },
@@ -1035,6 +1003,38 @@
       "duration_ms": 223880,
       "name": "Que je t'aime",
       "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
+    },
+    {
+      "added_at": "2022-08-16 11:34:23",
+      "album": {
+        "name": "10 chansons pour l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 169143,
+      "name": "Quand on s'balade",
+      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
+    },
+    {
+      "added_at": "2022-08-16 11:34:23",
+      "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Comme s'il en pleuvait",
+      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
     },
     {
       "added_at": "2022-08-16 11:34:23",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
+        "name": "Le Temps D'un Jazz",
+        "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
+      },
+      "artists": [
+        {
+          "name": "DANIEL ROURE",
+          "url": "https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Le Temps D'Un Jazz",
+      "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
+    },
+    {
+      "added_at": "2022-08-16 11:34:23",
+      "album": {
         "name": "Entre eux deux",
         "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 233426,
       "name": "\u00c0 La Tour Eiffel",
       "url": "https://open.spotify.com/track/71RkxMNJzFk80bo0p4OFnp"
-    },
-    {
-      "added_at": "2022-08-16 11:34:23",
-      "album": {
-        "name": "Le Temps D'un Jazz",
-        "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
-      },
-      "artists": [
-        {
-          "name": "DANIEL ROURE",
-          "url": "https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Le Temps D'Un Jazz",
-      "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
     },
     {
       "added_at": "2022-08-16 11:34:23",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2022-08-16 11:34:23",
       "album": {
-        "name": "Chante Vian et Higelin",
-        "url": "https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy"
-      },
-      "artists": [
-        {
-          "name": "Jacques Higelin",
-          "url": "https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum"
-        },
-        {
-          "name": "Brigitte Fontaine",
-          "url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
-        }
-      ],
-      "duration_ms": 141306,
-      "name": "La Grippe",
-      "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
-    },
-    {
-      "added_at": "2022-08-16 11:34:23",
-      "album": {
         "name": "Nord Destin",
         "url": "https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 247292,
       "name": "Je voudrais me divertir",
       "url": "https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso"
+    },
+    {
+      "added_at": "2022-08-16 11:34:23",
+      "album": {
+        "name": "Chante Vian et Higelin",
+        "url": "https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy"
+      },
+      "artists": [
+        {
+          "name": "Jacques Higelin",
+          "url": "https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum"
+        },
+        {
+          "name": "Brigitte Fontaine",
+          "url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
+        }
+      ],
+      "duration_ms": 141306,
+      "name": "La Grippe",
+      "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
     },
     {
       "added_at": "2022-08-16 11:34:23",

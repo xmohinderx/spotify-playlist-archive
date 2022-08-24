@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked indie to nourish the ears.",
-  "num_followers": 103630,
+  "num_followers": 103685,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyODAyOCwwMDAwMDAwMDU4YTRlNDdhNGExN2M4YmMxNTE2YjEzMzE1ZDY0YjQ2",
+  "snapshot_id": "MTY2MDMyODAyOCwwMDAwMDAwMDM5MTdmOWRhNjlkYTVmOTZhZWU2MmZkZDU5YWNlNDJj",
   "tracks": [
     {
       "added_at": "2022-08-12 18:13:48",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Every Side Of You",
-        "url": "https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204573,
-      "name": "Every Side Of You",
-      "url": "https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Eugene",
         "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 221804,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "Every Side Of You",
+        "url": "https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204573,
+      "name": "Every Side Of You",
+      "url": "https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 399082,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Blue Hours",
         "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 228253,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 399082,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
+        "name": "Sorry I Am",
+        "url": "https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 242801,
+      "name": "Sorry I Am",
+      "url": "https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
         "name": "Magnifier",
         "url": "https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 227293,
       "name": "Let There Be Light Again",
       "url": "https://open.spotify.com/track/0YCz0CKKxSx1Ezk0HsYnHI"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
-        "name": "Sorry I Am",
-        "url": "https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 242801,
-      "name": "Sorry I Am",
-      "url": "https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
+        "name": "Decimal / Halloween",
+        "url": "https://open.spotify.com/album/7pHnMBs0r27GLi2EL3nEH8"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/1uliNs1keVwYclj74JX44R"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
         "name": "Please Don't Hide Yourself Away",
         "url": "https://open.spotify.com/album/5HFkJLsDlD7eudQ2DQNRIx"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 190458,
       "name": "Please Don't Hide Yourself Away",
       "url": "https://open.spotify.com/track/4BeOtHTrVDazx007bGFFNL"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
-        "name": "Decimal / Halloween",
-        "url": "https://open.spotify.com/album/7pHnMBs0r27GLi2EL3nEH8"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Decimal",
-      "url": "https://open.spotify.com/track/1uliNs1keVwYclj74JX44R"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "A Prayer Of My Own",
-        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 273513,
-      "name": "A Prayer Of My Own",
-      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Never Coming Home",
         "url": "https://open.spotify.com/album/5rGjW2lMjnC8slwNarPvpS"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 240000,
       "name": "Never Coming Home",
       "url": "https://open.spotify.com/track/0N0WwX2M7mN4TiLXRyKkCR"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "A Prayer Of My Own",
+        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 273513,
+      "name": "A Prayer Of My Own",
+      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
     },
     {
       "added_at": "2022-08-12 18:13:48",

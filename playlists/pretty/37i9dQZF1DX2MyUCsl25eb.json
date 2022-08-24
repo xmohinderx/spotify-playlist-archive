@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 969166,
+  "num_followers": 969174,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDZjMGFkOTMyOTM1ODA0ZTk3OTE1Yzc4Y2Y4NTY5ZmEw",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGUzMTVlNDA0NDZhNTBlNGU3NWJhZDEwOTg5MzZkMWUz",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Block me out",
@@ -547,6 +531,22 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Songs of Sonder",
         "url": "https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 181266,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264372,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -591,6 +575,22 @@
       "duration_ms": 195252,
       "name": "I Burned LA Down",
       "url": "https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Thinking 'Bout Love",
@@ -811,6 +795,22 @@
       "duration_ms": 184200,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Leap",
-        "url": "https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Save Your Love",
-      "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Pink Moon",
@@ -945,6 +929,22 @@
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
     },
     {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Leap",
+        "url": "https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Save Your Love",
+      "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
+    },
+    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "emotionally unavailable",
@@ -959,6 +959,22 @@
       "duration_ms": 182958,
       "name": "we're not kids anymore",
       "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Jude's Song",
+        "url": "https://open.spotify.com/album/6rp0vpNf14iZJ1QCDJfHo9"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "duration_ms": 137079,
+      "name": "Jude's Song",
+      "url": "https://open.spotify.com/track/6CKU2H5ZhY27Toecau0JbO"
     },
     {
       "added_at": "2021-08-05 16:18:55",
@@ -979,22 +995,6 @@
       "duration_ms": 222901,
       "name": "Witchoo",
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Jude's Song",
-        "url": "https://open.spotify.com/album/6rp0vpNf14iZJ1QCDJfHo9"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        }
-      ],
-      "duration_ms": 137079,
-      "name": "Jude's Song",
-      "url": "https://open.spotify.com/track/6CKU2H5ZhY27Toecau0JbO"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E"
     },
     {
-      "added_at": "2021-08-04 17:54:39",
-      "album": {
-        "name": "Gold-Diggers Sound",
-        "url": "https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 188617,
-      "name": "Motorbike",
-      "url": "https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy"
-    },
-    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "Aftershock",
@@ -1111,6 +1095,22 @@
       "duration_ms": 203600,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX"
+    },
+    {
+      "added_at": "2021-08-04 17:54:39",
+      "album": {
+        "name": "Gold-Diggers Sound",
+        "url": "https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 188617,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
-      "added_at": "2021-08-04 17:54:39",
-      "album": {
-        "name": "Gold-Diggers Sound",
-        "url": "https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 203091,
-      "name": "Steam",
-      "url": "https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx"
-    },
-    {
       "added_at": "2021-10-01 04:01:00",
       "album": {
         "name": "State of the Heart",
@@ -1239,6 +1223,22 @@
       "duration_ms": 198693,
       "name": "When The Lights Go Out",
       "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
+    },
+    {
+      "added_at": "2021-08-05 16:18:55",
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Moving On and Getting Over",
+      "url": "https://open.spotify.com/track/1crSsvtU9wZB15dIQXV2QH"
     }
   ],
   "unique_name": "Morning Commute",

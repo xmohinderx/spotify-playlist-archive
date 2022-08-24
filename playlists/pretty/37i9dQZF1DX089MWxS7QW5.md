@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Grass\(그래쓰\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,417 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,452 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 20 | [Wash me](https://open.spotify.com/track/11xruTNYBtkgJVuc7ebgvW) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau) | [Wash me](https://open.spotify.com/album/1eqIFpJ2RxKJilG8j5CNQf) | 3:44 |
 | 21 | [Out of My Intention](https://open.spotify.com/track/4pU3FwCWErzsqHs4LnzpHi) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [Out of My Intention](https://open.spotify.com/album/3iTSukxhxuCtvyPkkBENLn) | 3:11 |
 | 22 | [SummerSweet](https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp) | 2:30 |
-| 23 | [Beautiful \(feat\. Sam Kim\)](https://open.spotify.com/track/4GZAkpcBsUGqlxTQIomxdO) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [EGO 90'S](https://open.spotify.com/album/681oH1dcpYdP8ue1ELH4CE) | 4:34 |
+| 23 | [Beautiful \(feat\. Sam Kim\)](https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [EGO 90'S](https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw) | 4:34 |
 | 24 | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD) | 3:00 |
 | 25 | [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 |
 | 26 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 |
 | 50 | [what we need](https://open.spotify.com/track/70BY7F87mof52vNDrMZ6AP) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [what we need](https://open.spotify.com/album/5anfMMK1UdAekDViVFyFmk) | 3:52 |
 
-Snapshot ID: `MTY2MDg5MjE3MywwMDAwMDAwMDNhOGRiM2RiNGI1N2RhZTdiOGI4Zjk2NmQxZWE5YWJj`
+Snapshot ID: `MTY2MDg5MjE3MywwMDAwMDAwMDY4YjNlNjYyYmYyNTg0N2JiZTk4YjRlNjQ1MmFmY2Ex`

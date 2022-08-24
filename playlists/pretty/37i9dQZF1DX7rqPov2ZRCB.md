@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,360 likes - 51 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,390 likes - 51 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 16 | [No Te Vayas](https://open.spotify.com/track/40Hmq1MsOhQP2y5Aff4VtI) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Cojelo Ahí](https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm) | 4:18 |
 | 17 | [El Conejo De La Vecina](https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Bachata Pueblo](https://open.spotify.com/album/0GMRJn4slEK9YSkAIfT9BU) | 5:38 |
 | 18 | [El Amor De Su Vida](https://open.spotify.com/track/5czvt8OzNCPsfvlmZSaZSy) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3QCV2feb5IGyfAOB6x2mBC) | 4:11 |
-| 19 | [El Pobre Infeliz](https://open.spotify.com/track/0lxmQbbQEpIo7nViGV4SkK) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/2tnZoQHJZoMsDjYaGUtGRL) | 4:21 |
-| 20 | [El Maiz](https://open.spotify.com/track/4P7wu5ZhOk92I1NYde1YwL) | [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [Tipico Live](https://open.spotify.com/album/4a5WXhcbJ3tfxilPKCaIZz) | 5:31 |
+| 19 | [El Maiz](https://open.spotify.com/track/4P7wu5ZhOk92I1NYde1YwL) | [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [Tipico Live](https://open.spotify.com/album/4a5WXhcbJ3tfxilPKCaIZz) | 5:31 |
+| 20 | [El Pobre Infeliz](https://open.spotify.com/track/0lxmQbbQEpIo7nViGV4SkK) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/2tnZoQHJZoMsDjYaGUtGRL) | 4:21 |
 | 21 | [El Refrán](https://open.spotify.com/track/5JMVZua23rOH7Wt1rFYeSH) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 5:35 |
 | 22 | [Vamos hablar ingles](https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 3](https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13) | 4:31 |
 | 23 | [La Pava](https://open.spotify.com/track/7dwqCe1TRY8pUG3HIgjzdm) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Consagración de Cariño](https://open.spotify.com/album/4eUT2dtQUXBoBF0GxhTxFE) | 2:51 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 42 | [Por Esa Mujer](https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | ["El Cacique" \- Todo Exitos](https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB) | 4:28 |
 | 43 | [Marapica](https://open.spotify.com/track/0BfIwYo2uuLX8ZdyPacuOx) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Only Mambo Vol\. 3](https://open.spotify.com/album/2D7sxPoukdCOjQsw9YDiei) | 4:18 |
 | 44 | [Déjame Entrar](https://open.spotify.com/track/2vJJxPOAPHPYBJqEHl64Oi) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Me Muero De Amor](https://open.spotify.com/album/3KiIKJRkp6FoZMpBqx6CVc) | 6:05 |
-| 45 | [Navidad Sin Mi Madre](https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf) | [El General Larguito](https://open.spotify.com/artist/0syFtsAFtNjMuF5HKojLvS) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:22 |
-| 46 | [La Culebra](https://open.spotify.com/track/6sjj7jg37ccG6jTjlqvJG3) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA), [Rafaelito](https://open.spotify.com/artist/4Za8U5V26PcVIat4ROTGVu) | [En Vivo Vol\. 2](https://open.spotify.com/album/0LgHV66s4e9hVJSiZNFxF8) | 6:11 |
+| 45 | [La Culebra](https://open.spotify.com/track/6sjj7jg37ccG6jTjlqvJG3) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA), [Rafaelito](https://open.spotify.com/artist/4Za8U5V26PcVIat4ROTGVu) | [En Vivo Vol\. 2](https://open.spotify.com/album/0LgHV66s4e9hVJSiZNFxF8) | 6:11 |
+| 46 | [Navidad Sin Mi Madre](https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf) | [El General Larguito](https://open.spotify.com/artist/0syFtsAFtNjMuF5HKojLvS) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:22 |
 | 47 | [Adan y Eva](https://open.spotify.com/track/3PTwz9B9JQX97CZQDXD3xl) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Tatico Henríquez](https://open.spotify.com/album/0JD61srO8ptHAXAghonKen) | 2:43 |
 | 48 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
 | 49 | [La Chiflera \- 2k15 Edition](https://open.spotify.com/track/51MmT2oz05BA71QbyDUcNU) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj), [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Maria y el Prodigio](https://open.spotify.com/album/1nzkjZM7mdGxbxinEWil2d) | 5:09 |
 | 50 | [La Funda](https://open.spotify.com/track/75OFcipYCvVFui2YdNdfGc) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 8:14 |
 | 51 | [Un Hombre Nuevo](https://open.spotify.com/track/0RhMC8PTYKSP30ifulHocD) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Mi Luz](https://open.spotify.com/album/7h3BsbfpqQY1865zn3ZuDi) | 3:51 |
 
-Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMGJmNGViY2E0NjRhZDc5OGM0N2EzYmVmY2ZkMDA5Y2Rj`
+Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMGMyYzBjYzM3OGQ5ODdlMzE4Njk1MzExMjM0MzBjZGI2`

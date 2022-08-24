@@ -1685,10 +1685,28 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 194523,
       "name": "Poke Bowl",
       "url": "https://open.spotify.com/track/3C7sz0HzEs8NGsHbNC5clu"
+    },
+    {
+      "album": {
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi"
+      },
+      "artists": [
+        {
+          "name": "Adelphi Music Factory",
+          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183112,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX"
     },
     {
       "album": {

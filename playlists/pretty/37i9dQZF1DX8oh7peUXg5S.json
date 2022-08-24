@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
-  "num_followers": 249338,
+  "num_followers": 249455,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkwNTE4MiwwMDAwMDAwMDZiNGFhNjMwMmRhZjliZmM2OGQxYjkzMzI5OWYwYzEx",
+  "snapshot_id": "MTY2MDkwNTE4MiwwMDAwMDAwMDcwNmZiYjAwMDE5MjFmMzIzYjgwYjU0NDYxYzI2MmE2",
   "tracks": [
     {
       "added_at": "2022-08-19 10:33:01",
@@ -927,6 +927,38 @@
     {
       "added_at": "2022-08-19 10:33:01",
       "album": {
+        "name": "Pa'fuera y Pa'dentro",
+        "url": "https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "duration_ms": 200416,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7uoynvwsKMefF60kNjByC6"
+    },
+    {
+      "added_at": "2022-08-19 10:33:01",
+      "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Canci\u00f3n Del Elegido",
+      "url": "https://open.spotify.com/track/33QDwXW1O0hAGDdKRqpqjB"
+    },
+    {
+      "added_at": "2022-08-19 10:33:01",
+      "album": {
         "name": "Mujeres de Fina Estampa",
         "url": "https://open.spotify.com/album/5YmzTZ5AVgpJmKLTfSviCF"
       },
@@ -967,38 +999,6 @@
       "duration_ms": 187146,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/7COfZjseddNFUpZcONru4M"
-    },
-    {
-      "added_at": "2022-08-19 10:33:01",
-      "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "Canci\u00f3n Del Elegido",
-      "url": "https://open.spotify.com/track/33QDwXW1O0hAGDdKRqpqjB"
-    },
-    {
-      "added_at": "2022-08-19 10:33:01",
-      "album": {
-        "name": "Pa'fuera y Pa'dentro",
-        "url": "https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        }
-      ],
-      "duration_ms": 200416,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7uoynvwsKMefF60kNjByC6"
     },
     {
       "added_at": "2022-08-19 10:33:01",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-08-19 10:33:01",
       "album": {
-        "name": "50 Palos",
-        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 185743,
-      "name": "Humo",
-      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
-    },
-    {
-      "added_at": "2022-08-19 10:33:01",
-      "album": {
         "name": "Vulnerables",
         "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 210440,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
+    },
+    {
+      "added_at": "2022-08-19 10:33:01",
+      "album": {
+        "name": "50 Palos",
+        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 185743,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
     },
     {
       "added_at": "2022-08-19 10:33:01",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-08-19 10:33:01",
       "album": {
-        "name": "Vestida De Nit",
-        "url": "https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 158230,
-      "name": "Mechita",
-      "url": "https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG"
-    },
-    {
-      "added_at": "2022-08-19 10:33:01",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 256839,
       "name": "Al alba",
       "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "added_at": "2022-08-19 10:33:01",
+      "album": {
+        "name": "Vestida De Nit",
+        "url": "https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 158230,
+      "name": "Mechita",
+      "url": "https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG"
     },
     {
       "added_at": "2022-08-19 10:33:01",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-08-19 10:33:01",
       "album": {
-        "name": "La hora de los gigantes",
-        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
-      },
-      "artists": [
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
-      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
-    },
-    {
-      "added_at": "2022-08-19 10:33:01",
-      "album": {
         "name": "Amelie",
         "url": "https://open.spotify.com/album/3MkPfEHkVyRAsZ4NjpzWKc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 199750,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/2KtWiCqg2tGyFfTAfHmPZo"
+    },
+    {
+      "added_at": "2022-08-19 10:33:01",
+      "album": {
+        "name": "La hora de los gigantes",
+        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
+      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
     },
     {
       "added_at": "2022-08-19 10:33:01",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-08-19 10:33:01",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Las Cuatro y Diez",
-      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
-    },
-    {
-      "added_at": "2022-08-19 10:33:01",
-      "album": {
         "name": "Coyotes (Versi\u00f3n en Ac\u00fastico El Embarcadero)",
         "url": "https://open.spotify.com/album/5orCEANMD3ajFiqMH5Og4w"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 230136,
       "name": "Coyotes - Versi\u00f3n en Ac\u00fastico El Embarcadero",
       "url": "https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw"
+    },
+    {
+      "added_at": "2022-08-19 10:33:01",
+      "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Las Cuatro y Diez",
+      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
     },
     {
       "added_at": "2022-08-19 10:33:01",
@@ -1523,6 +1523,22 @@
       "duration_ms": 234743,
       "name": "Antes De Verte (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
+    },
+    {
+      "added_at": "2022-08-19 10:33:01",
+      "album": {
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2022-08-19 10:33:01",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2022-08-19 10:33:01",
       "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
-    },
-    {
-      "added_at": "2022-08-19 10:33:01",
-      "album": {
         "name": "Tributo a Sabina. Ni Tan Joven Ni Tan Viejo",
         "url": "https://open.spotify.com/album/0aiLwoe2jZ7TWjbspnBn8K"
       },
@@ -1699,6 +1699,22 @@
       "duration_ms": 309913,
       "name": "Y Nos Dieron Las Diez (feat. Zahara) - Tributo a Sabina",
       "url": "https://open.spotify.com/track/2p0ol5BlwQtbiioBGytxy4"
+    },
+    {
+      "added_at": "2022-08-19 10:33:01",
+      "album": {
+        "name": "Qu\u00e9 bonito",
+        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2022-08-19 10:33:01",
@@ -1779,22 +1795,6 @@
       "duration_ms": 237680,
       "name": "No Saben de Ti",
       "url": "https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0"
-    },
-    {
-      "added_at": "2022-08-19 10:33:01",
-      "album": {
-        "name": "Qu\u00e9 bonito",
-        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2022-08-19 10:33:01",

@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-246 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+247 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Ingen äger floden](https://open.spotify.com/track/77vCBVWDkB5HZcwrNDx7Yt) | [Thomas Jackson](https://open.spotify.com/artist/41stF0r3WopxZKcDOh8yB6) | [Den inre skogen](https://open.spotify.com/album/64zeCjhSkwRDzVF6TvOwlc) | 4:06 | 2021-09-06 |  |
 | [Inhale](https://open.spotify.com/track/01daTlkKA1V2ordhUQ7zAd) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Bombay Sunrise](https://open.spotify.com/album/1IczgH7IBmw7pcgcGEb6B8) | 2:52 | 2021-09-06 |  |
 | [Invicible](https://open.spotify.com/track/0wulrwxrjfOn9RcXbRmDNE) | [Mayday](https://open.spotify.com/artist/5qz2f8uPUfbAufh2JXtKsB) | [Invicible](https://open.spotify.com/album/3spO4bOG9gZUcRRs92mphv) | 3:16 | 2021-09-06 |  |
+| [Invisible Currents](https://open.spotify.com/track/58F2NUnMXH9VKWESwi05Z1) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Sunrise](https://open.spotify.com/album/4isWOKOddFFaUGOApJL8uK) | 2:32 | 2022-08-23 |  |
 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 |  |
 | [Jiva](https://open.spotify.com/track/045bWmwbqV82V88ZQzEdaC) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Jiva](https://open.spotify.com/album/1IhH4kJuVq4iXffzIxlHsh) | 2:40 | 2022-08-05 |  |
 | [Just Look at You](https://open.spotify.com/track/62X7ld1sa8RHl4zRtSvfHf) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [432 Water Crystals](https://open.spotify.com/album/6jSQXGouXgIfiwa9icJO68) | 3:07 | 2021-09-06 |  |
@@ -246,7 +247,7 @@
 | [We Are Forever](https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:14 | 2022-07-11 |  |
 | [Where We Meet](https://open.spotify.com/track/4sFQxujUhJEOFCgFgxF8Yp) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Calming Piano for Yoga and Meditation Vol 1](https://open.spotify.com/album/2IzcSEAadl9qSUOaLMGcEk) | 2:14 | 2022-02-17 |  |
 | [White Waves](https://open.spotify.com/track/76hDUyI5Avauy1nCOEaruh) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Eon](https://open.spotify.com/album/4NTj46M6CQfk5YcrtKrZW6) | 2:44 | 2021-09-06 |  |
-| [Wild Trails](https://open.spotify.com/track/2urxHALnoeVxG82o57q0ny) | [Epi\-Soothe](https://open.spotify.com/artist/3nbFHhWXhyhU1QACy18PlF) | [Wild Trails](https://open.spotify.com/album/3tMJzCDzTcRS8o6pImIE2c) | 3:38 | 2021-09-06 |  |
+| [Wild Trails](https://open.spotify.com/track/2urxHALnoeVxG82o57q0ny) | [Epi\-Soothe](https://open.spotify.com/artist/3nbFHhWXhyhU1QACy18PlF) | [Wild Trails](https://open.spotify.com/album/3tMJzCDzTcRS8o6pImIE2c) | 3:38 | 2021-09-06 | 2022-08-24 |
 | [Wilderness](https://open.spotify.com/track/0kU6RSgocGJrmKhJkRH9fi) | [Aura Dope](https://open.spotify.com/artist/06o1ocMKMo2ww6ku48oXtT) | [Wilderness](https://open.spotify.com/album/1uwABJHYXBf2orTMqPPfOJ) | 3:15 | 2021-09-06 |  |
 | [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 | 2021-09-06 |  |
 | [Within A Dream](https://open.spotify.com/track/3DBptL02EYie8QdPFMqyPo) | [Ambient Saga](https://open.spotify.com/artist/6jXJLmPCp6G9qpAK8XJZ81) | [White Blossoms](https://open.spotify.com/album/5cdqQpm9t9rMTtQ5tp3lWL) | 3:09 | 2021-09-06 |  |

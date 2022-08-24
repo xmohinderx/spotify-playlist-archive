@@ -1,12 +1,12 @@
 {
   "description": "el amor es pico tres <3 ",
-  "num_followers": 34150,
+  "num_followers": 34244,
   "original_name": "amor = <3 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3NzUxMCwwMDAwMDAwMGQ5ZGQ1YmZiNzQxYWJlNDcxMWQwODcyMDYzMmE0MmQ2",
+  "snapshot_id": "MTY1OTQ3NzUxMCwwMDAwMDAwMDlkYzVkNzE5MDg5OGYyYjY3MmIyM2U1NzczMTFjYjNm",
   "tracks": [
     {
       "added_at": "2022-08-02 21:58:29",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-02 21:58:29",
       "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159517,
-      "name": "Alguien Mejor",
-      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
-    },
-    {
-      "added_at": "2022-08-02 21:58:29",
-      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 240654,
       "name": "Extssy Model",
       "url": "https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r"
+    },
+    {
+      "added_at": "2022-08-02 21:58:29",
+      "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 159517,
+      "name": "Alguien Mejor",
+      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
     },
     {
       "added_at": "2022-08-02 21:58:29",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-02 21:58:29",
       "album": {
-        "name": "In\u00e9ditos",
-        "url": "https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 241972,
-      "name": "Tienes el Don",
-      "url": "https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6"
-    },
-    {
-      "added_at": "2022-08-02 21:58:29",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 189750,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
+    },
+    {
+      "added_at": "2022-08-02 21:58:29",
+      "album": {
+        "name": "In\u00e9ditos",
+        "url": "https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 241972,
+      "name": "Tienes el Don",
+      "url": "https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6"
     },
     {
       "added_at": "2022-08-02 21:58:29",

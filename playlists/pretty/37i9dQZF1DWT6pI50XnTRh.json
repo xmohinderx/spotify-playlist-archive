@@ -1,12 +1,12 @@
 {
   "description": "Nostalgic '70-ies and '80-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa. Get your boogie on!",
-  "num_followers": 139993,
+  "num_followers": 140055,
   "original_name": "AfroBoogie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2MTc0MDc2OCwwMDAwMDAwMDUwMTBmOGNiNTZlNzdmYjM5ZmY0OGQ2ZGM4OTg3YWMz",
+  "snapshot_id": "MTU2MTc0MDc2OCwwMDAwMDAwMDI3ZDhkYzk0ZDNiNWU1NzdjZjlmNTRjMzFhNzdiMjQz",
   "tracks": [
     {
       "added_at": "2019-06-28 16:52:48",
@@ -663,22 +663,6 @@
     {
       "added_at": "2019-06-28 16:52:48",
       "album": {
-        "name": "This Is Eddy Grant",
-        "url": "https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX"
-      },
-      "artists": [
-        {
-          "name": "Eddy Grant",
-          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
-        }
-      ],
-      "duration_ms": 235799,
-      "name": "Say I Love You",
-      "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
-    },
-    {
-      "added_at": "2019-06-28 16:52:48",
-      "album": {
         "name": "Ojah Awake",
         "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 292333,
       "name": "Ojah Awake",
       "url": "https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71"
+    },
+    {
+      "added_at": "2019-06-28 16:52:48",
+      "album": {
+        "name": "This Is Eddy Grant",
+        "url": "https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX"
+      },
+      "artists": [
+        {
+          "name": "Eddy Grant",
+          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
+        }
+      ],
+      "duration_ms": 235799,
+      "name": "Say I Love You",
+      "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
     },
     {
       "added_at": "2019-06-28 16:52:48",
@@ -791,22 +791,6 @@
     {
       "added_at": "2019-06-28 16:52:48",
       "album": {
-        "name": "Ojah Awake",
-        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
-      },
-      "artists": [
-        {
-          "name": "Osibisa",
-          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "The Warrior",
-      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
-    },
-    {
-      "added_at": "2019-06-28 16:52:48",
-      "album": {
         "name": "Joey Negro and Sean P present The Best of Disco Spectrum",
         "url": "https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 469995,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/2omcm8YdAMlVWcxhJo9tQG"
+    },
+    {
+      "added_at": "2019-06-28 16:52:48",
+      "album": {
+        "name": "Ojah Awake",
+        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
     },
     {
       "added_at": "2019-06-28 16:52:48",

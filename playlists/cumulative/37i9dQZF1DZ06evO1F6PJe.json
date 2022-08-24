@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-21",
+      "date_removed": null,
       "duration_ms": 407653,
       "name": "Ain't No Way",
       "url": "https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-21",
+      "date_removed": null,
       "duration_ms": 257224,
       "name": "Boogie With Stu - Live",
       "url": "https://open.spotify.com/track/168hcGYzhikucSpy8LLTiV"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 274188,
       "name": "Damn Your Eyes",
       "url": "https://open.spotify.com/track/2G3jRqrVVl8PmJOqNP64tr"
@@ -596,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232933,
+      "name": "Long Distance Blues",
+      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
+    },
+    {
+      "album": {
         "name": "Different Shades of Blue",
         "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
       },
@@ -679,7 +697,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 518533,
       "name": "No Good Place For The Lonely",
       "url": "https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 269360,
       "name": "Walk In My Shadow - Live",
       "url": "https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3"

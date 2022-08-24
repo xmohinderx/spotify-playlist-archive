@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-156 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
+157 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Fierce](https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Late Night Specialist](https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ) | 6:02 | 2022-05-06 | 2022-07-29 |
 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 | 2022-05-06 |  |
 | [Focus](https://open.spotify.com/track/56mCGN7S1druROilPGNe3R) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:22 | 2022-05-06 |  |
-| [Fourth Rendez\-Vous](https://open.spotify.com/track/4ilhAiU52ZiHlfmQbmfhWq) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Rendez\-Vous](https://open.spotify.com/album/3YrKqMhEdhdvS3BrmKurFr) | 3:58 | 2022-06-14 |  |
+| [Fourth Rendez\-Vous](https://open.spotify.com/track/4ilhAiU52ZiHlfmQbmfhWq) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Rendez\-Vous](https://open.spotify.com/album/3YrKqMhEdhdvS3BrmKurFr) | 3:58 | 2022-06-14 | 2022-08-24 |
 | [Han Jan \- Edit](https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Han Jan](https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc) | 4:02 | 2022-05-06 |  |
 | [He](https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:28 | 2022-06-14 |  |
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2022-05-06 | 2022-07-29 |
@@ -61,6 +61,7 @@
 | [Helix \- Gesaffelstein Vision Remix](https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Helix](https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH) | 4:36 | 2022-05-06 | 2022-08-17 |
 | [Hold Up](https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Hold Up](https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio) | 2:04 | 2022-05-06 |  |
 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 | 2022-05-06 |  |
+| [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-08-23 |  |
 | [I Go \- Soulwax Remix](https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 6:50 | 2022-05-06 |  |
 | [Incapable \- Edit](https://open.spotify.com/track/0NkBwp6CYkUYiPeRJjlRfk) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Incapable \(Remixes\)](https://open.spotify.com/album/0ghCFyT6QNBKgTDVLY5E8b) | 3:30 | 2022-05-06 | 2022-07-29 |
 | [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 | 2022-05-06 | 2022-07-29 |

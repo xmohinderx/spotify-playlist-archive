@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 105702,
+  "num_followers": 105787,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDFjOTc1ZTI4ZWEwYjg1MGYxNWI0YjZmNDJkOTQ2MWZh",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDAwMzFkMzQxMTkzMzhhNjdlY2JkNjZhZDZiMmZjOTRh",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Robarte Un Beso",
-        "url": "https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 173029,
-      "name": "Robarte Un Beso",
-      "url": "https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 213000,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Robarte Un Beso",
+        "url": "https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 173029,
+      "name": "Robarte Un Beso",
+      "url": "https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "La Noche De Anoche",
-        "url": "https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh"
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
       },
       "artists": [
         {
-          "name": "Perdita Cazalla",
-          "url": "https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn"
+          "name": "Rebeca Luna",
+          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
         }
       ],
-      "duration_ms": 173661,
-      "name": "La Noche De Anoche",
-      "url": "https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j"
+      "duration_ms": 214838,
+      "name": "Dembow - Acoustic Version",
+      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1119,18 +1119,34 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
+        "name": "La Noche De Anoche",
+        "url": "https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh"
       },
       "artists": [
         {
-          "name": "Rebeca Luna",
-          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
+          "name": "Perdita Cazalla",
+          "url": "https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn"
         }
       ],
-      "duration_ms": 214838,
-      "name": "Dembow - Acoustic Version",
-      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
+      "duration_ms": 173661,
+      "name": "La Noche De Anoche",
+      "url": "https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
+      },
+      "artists": [
+        {
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
+        }
+      ],
+      "duration_ms": 185842,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1167,34 +1183,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
         {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 185842,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Y Co\u0301mo Es E\u0301l?",
-        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
-      },
-      "artists": [
-        {
-          "name": "Nara Gilberto",
-          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Y Co\u0301mo Es E\u0301l?",
-      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Y Co\u0301mo Es E\u0301l?",
+        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Nara Gilberto",
+          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
         }
       ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+      "duration_ms": 231500,
+      "name": "Y Co\u0301mo Es E\u0301l?",
+      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Asi Es La Vida",
-        "url": "https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi"
-      },
-      "artists": [
-        {
-          "name": "Pablo Rojas",
-          "url": "https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx"
-        }
-      ],
-      "duration_ms": 284332,
-      "name": "Asi Es La Vida",
-      "url": "https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Amigos con derechos",
         "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 160237,
       "name": "Amigos con derechos",
       "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Asi Es La Vida",
+        "url": "https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi"
+      },
+      "artists": [
+        {
+          "name": "Pablo Rojas",
+          "url": "https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx"
+        }
+      ],
+      "duration_ms": 284332,
+      "name": "Asi Es La Vida",
+      "url": "https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX"
     },
     {
       "added_at": "2022-02-18 06:00:00",

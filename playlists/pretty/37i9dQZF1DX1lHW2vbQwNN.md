@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,761 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,011 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 43 | [Soul Survivor](https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:40 |
 | 44 | [Hypnotized \(feat\. Akon\)](https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 3:08 |
 | 45 | [Slow Motion](https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Soulja Slim](https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd) | [Juve The Great](https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A) | 4:08 |
-| 46 | [It's Goin' Down \(feat\. Nitti\)](https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX) | [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj), [Nitti](https://open.spotify.com/artist/5jx1ZcYEEgdi86Gzc4T7Jq) | [New Joc City](https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn) | 4:01 |
-| 47 | [Lean Back](https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [True Story](https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F) | 4:07 |
+| 46 | [Lean Back](https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [True Story](https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F) | 4:07 |
+| 47 | [It's Goin' Down \(feat\. Nitti\)](https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX) | [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj), [Nitti](https://open.spotify.com/artist/5jx1ZcYEEgdi86Gzc4T7Jq) | [New Joc City](https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn) | 4:01 |
 | 48 | [Let's Go \(feat\. Big D & Twista\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Big D](https://open.spotify.com/artist/3a2TTT8yA6ffsrAyNRUoGg), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 |
 | 49 | [Oh Boy](https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 3:24 |
 | 50 | [Int'l Players Anthem \(I Choose You\) \(feat\. Outkast\)](https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1) | 4:19 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 91 | [Lemonade](https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The State vs\. Radric Davis \(Deluxe\)](https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq) | 4:06 |
 | 92 | [Stand Up](https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 3:33 |
 | 93 | [Shake Ya Ass](https://open.spotify.com/track/1jRzdY7oUBOhrylNtiMtBD) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 4:16 |
-| 94 | [Shorty Wanna Ride](https://open.spotify.com/track/6Y9kdB2O0h9gq9y2vclsWT) | [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Straight Outta Cashville](https://open.spotify.com/album/1E5TJXITJtczbSYmYR9LuQ) | 4:21 |
-| 95 | [Nothin'](https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p) | [God's Favorite](https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt) | 4:24 |
+| 94 | [Nothin'](https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p) | [God's Favorite](https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt) | 4:24 |
+| 95 | [Shorty Wanna Ride](https://open.spotify.com/track/6Y9kdB2O0h9gq9y2vclsWT) | [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Straight Outta Cashville](https://open.spotify.com/album/1E5TJXITJtczbSYmYR9LuQ) | 4:21 |
 | 96 | [Grindin'](https://open.spotify.com/track/3XrvEifl0hIzgBGUa5jBLS) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:24 |
 | 97 | [Wait \(The Whisper Song\)](https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [U.S.A\. \(United State of Atlanta\)](https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f) | 2:59 |
-| 98 | [I Luv It](https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [The Inspiration](https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP) | 4:00 |
-| 99 | [Fireman](https://open.spotify.com/track/0aq7ohTG6VDYQvsnAYtA5e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 4:23 |
+| 98 | [Fireman](https://open.spotify.com/track/0aq7ohTG6VDYQvsnAYtA5e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 4:23 |
+| 99 | [I Luv It](https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [The Inspiration](https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP) | 4:00 |
 | 100 | [Dipset Anthem](https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:09 |
 
-Snapshot ID: `MTY1MzA4OTU5NiwwMDAwMDAwMDU2NjFlMzdmZTI0ODc0ODIxMTU1ZGQ0ZWQwNjBhOGJj`
+Snapshot ID: `MTY1MzA4OTU5NiwwMDAwMDAwMDMzZjYzNGFkNjVhZGZhYThkZDRmZDM0NGI2MmZhNDhh`

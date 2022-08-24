@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 4010,
+  "num_followers": 4017,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDg0NzY5YmRhZWI4Y2M1ODc4MDY4OWQyMjMxYTI3YWU1",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGJjZmYxZDBmMjU2NzI5ODNhMmQ3N2Q0ZGE0OGVlODNm",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "Ai Bine",
-      "url": "https://open.spotify.com/track/4xkNHzlCNBkJrL0PlOLDRP"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Music In Exile",
         "url": "https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 212306,
       "name": "Soubour",
       "url": "https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "Ai Bine",
+      "url": "https://open.spotify.com/track/4xkNHzlCNBkJrL0PlOLDRP"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Agadez",
+        "url": "https://open.spotify.com/album/3lHrjUzIWhXAbdnpUBKVI3"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 390600,
+      "name": "Tar Hani (My Love)",
+      "url": "https://open.spotify.com/track/0EvnRzwVhtaboVkVSYvxyA"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Mogoya",
         "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 311266,
       "name": "Yere faga",
       "url": "https://open.spotify.com/track/2TdpGmTV28dk9XPJhHq1h1"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Agadez",
-        "url": "https://open.spotify.com/album/3lHrjUzIWhXAbdnpUBKVI3"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 390600,
-      "name": "Tar Hani (My Love)",
-      "url": "https://open.spotify.com/track/0EvnRzwVhtaboVkVSYvxyA"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -507,6 +507,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Azel",
+        "url": "https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 367185,
+      "name": "Iyat Ninhay / Jaguar (A Great Desert I Saw)",
+      "url": "https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Music In Exile",
+        "url": "https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "Sekou Oumarou",
+      "url": "https://open.spotify.com/track/2AOCrMXj342i5mz5Ade7Wi"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Gandadiko",
         "url": "https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB"
       },
@@ -539,22 +571,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Music In Exile",
-        "url": "https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "Sekou Oumarou",
-      "url": "https://open.spotify.com/track/2AOCrMXj342i5mz5Ade7Wi"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Ishumar: Musique touar\u00e8gue de r\u00e9sistance",
         "url": "https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 276386,
       "name": "Tiguedimma",
       "url": "https://open.spotify.com/track/6TFINWC5oWjDe4emrxd6H7"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Azel",
-        "url": "https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 367185,
-      "name": "Iyat Ninhay / Jaguar (A Great Desert I Saw)",
-      "url": "https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -631,6 +631,26 @@
       "duration_ms": 323293,
       "name": "Karkar / Vincent",
       "url": "https://open.spotify.com/track/0tLfhiNrN6tyZrDrnpDUeI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "R\u00e9sistance",
+        "url": "https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/0oh6nHFPCxP2reKoRjuI6Q"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -703,26 +723,6 @@
       "duration_ms": 408760,
       "name": "Mansana Blues",
       "url": "https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "R\u00e9sistance",
-        "url": "https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/0oh6nHFPCxP2reKoRjuI6Q"
     },
     {
       "added_at": "2020-12-01 05:01:00",

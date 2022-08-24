@@ -1,12 +1,12 @@
 {
   "description": "Favorite rock and gems.",
-  "num_followers": 65074,
+  "num_followers": 65151,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMGEwMmExZmE3NTE2MzE2OWE5YjFiNzU4Y2NjNDRmNTkx",
+  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMGQzMmQ2YmRhOTNjNGEwMzQzN2YzMTJiNmRjZjJhODk5",
   "tracks": [
     {
       "added_at": "2022-06-23 14:53:44",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Millennial",
-        "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 106420,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 309106,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Millennial",
+        "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 106420,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 467626,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Slightly Odway",
         "url": "https://open.spotify.com/album/7LZLRjjAvM2xXdYbVHoPh3"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 181333,
       "name": "Leaving Home",
       "url": "https://open.spotify.com/track/3OtIgLTHpPYez3WmDN2iYZ"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 467626,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -347,18 +347,18 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+        "name": "RARE",
+        "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "Hundredth",
+          "url": "https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0"
         }
       ],
-      "duration_ms": 261173,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/7mDibyukIVdLYFJPLJxf0u"
+      "duration_ms": 217133,
+      "name": "Neurotic",
+      "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "RARE",
-        "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
       },
       "artists": [
         {
-          "name": "Hundredth",
-          "url": "https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Neurotic",
-      "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
+      "duration_ms": 261173,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/7mDibyukIVdLYFJPLJxf0u"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Keep Telling Myself It's Alright",
-        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
-      },
-      "artists": [
-        {
-          "name": "ASHES dIVIDE",
-          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Stone",
-      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Shed",
         "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 136826,
       "name": "Shed",
       "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Keep Telling Myself It's Alright",
+        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
+      },
+      "artists": [
+        {
+          "name": "ASHES dIVIDE",
+          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Stone",
+      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Gb City",
-        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
-      },
-      "artists": [
-        {
-          "name": "Bass Drum of Death",
-          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Get Found",
-      "url": "https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 229075,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Gb City",
+        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Get Found",
+      "url": "https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "2 Songs",
-        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
-      },
-      "artists": [
-        {
-          "name": "Downward",
-          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
-        }
-      ],
-      "duration_ms": 200912,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Promise Everything (Deluxe)",
         "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
@@ -811,22 +795,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "The New Vice EP",
-        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
-      },
-      "artists": [
-        {
-          "name": "Otherkin",
-          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
-        }
-      ],
-      "duration_ms": 213492,
-      "name": "Yeah, I Know",
-      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 238253,
       "name": "Handwritten",
       "url": "https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "2 Songs",
+        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
+      },
+      "artists": [
+        {
+          "name": "Downward",
+          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
+        }
+      ],
+      "duration_ms": 200912,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "The New Vice EP",
+        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
+      },
+      "artists": [
+        {
+          "name": "Otherkin",
+          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
+        }
+      ],
+      "duration_ms": 213492,
+      "name": "Yeah, I Know",
+      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Brave Faces Everyone",
-        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
-      },
-      "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        }
-      ],
-      "duration_ms": 242365,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Finelines",
         "url": "https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 229120,
       "name": "Always: Your Way",
       "url": "https://open.spotify.com/track/3CxozMCXI2BBT58uQYXK7q"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Brave Faces Everyone",
+        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "duration_ms": 242365,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Soundtrack to a Headrush",
-        "url": "https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml"
-      },
-      "artists": [
-        {
-          "name": "Emanuel",
-          "url": "https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "The Hey Man!",
-      "url": "https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 237893,
       "name": "Grey Flap",
       "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Soundtrack to a Headrush",
+        "url": "https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml"
+      },
+      "artists": [
+        {
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "The Hey Man!",
+      "url": "https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Handsome",
-        "url": "https://open.spotify.com/album/4Erk4K1hOnmQbfamo4xgid"
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
       },
       "artists": [
         {
-          "name": "Handsome",
-          "url": "https://open.spotify.com/artist/3HAILRXvRhFoBrlYv8be3V"
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
         }
       ],
-      "duration_ms": 192160,
-      "name": "Needles",
-      "url": "https://open.spotify.com/track/6try2MFpWKn55HnMNS7vZz"
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

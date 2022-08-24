@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,735 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,780 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Can't Turn You Loose](https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Can't Turn You Loose](https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z) | 5:14 |
-| 2 | [Ain't That A Kick In The Head](https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 11 \(1960\-1961\)](https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF) | 2:27 |
-| 3 | [It's Been a Long, Long Time](https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV) | [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Best Of The Big Bands](https://open.spotify.com/album/3XY108i3c6uQg4b9GABoyi) | 3:23 |
+| 2 | [It's Been a Long, Long Time](https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV) | [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Best Of The Big Bands](https://open.spotify.com/album/3XY108i3c6uQg4b9GABoyi) | 3:23 |
+| 3 | [Ain't That A Kick In The Head](https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 11 \(1960\-1961\)](https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF) | 2:27 |
 | 4 | [More \- Remastered 2004](https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Legendary Bobby Darin](https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7) | 2:25 |
 | 5 | [It Had to Be You \(Big Band and Vocals\)](https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:38 |
 | 6 | [You Make Me Feel so Young](https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:05 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 45 | [The Waltz I Blew for You](https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX) | [Rob McConnell](https://open.spotify.com/artist/0I283aIonuly1I86RkxpXr), [The Boss Brass](https://open.spotify.com/artist/6JPFuxGY5ZvsAlznTmLTbT) | [Present Perfect](https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn) | 9:42 |
 | 46 | [Doodlin'](https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 3:55 |
 | 47 | [Moonlight on the Ganges](https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO) | [Bob Florence Big Band](https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI) | [Exotic Sounds from a Space Age Bachelor Pad](https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0) | 1:41 |
-| 48 | [Echelon](https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC) | [Grace Fox](https://open.spotify.com/artist/4KElbiDxExy2tMzRY4Za4h), [Jade Elliott](https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s) | [Eleven O' Seven](https://open.spotify.com/album/22QxiGLLD9fnMWupEw9x4v) | 9:25 |
-| 49 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
+| 48 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
+| 49 | [Echelon](https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC) | [Grace Fox](https://open.spotify.com/artist/4KElbiDxExy2tMzRY4Za4h), [Jade Elliott](https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s) | [Eleven O' Seven](https://open.spotify.com/album/22QxiGLLD9fnMWupEw9x4v) | 9:25 |
 | 50 | [Three In One](https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h) | [Thad Jones\-Mel Lewis Jazz Orchestra](https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc) | [Presenting Thad Jones\-Mel Lewis & The Jazz Orchestra](https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh) | 5:48 |
 
-Snapshot ID: `MTY1ODQ2MjUyMCwwMDAwMDAwMDg5YWU1ODFlY2M0NzYzNWYxNTk4MTRiNDc2YzkwZDg2`
+Snapshot ID: `MTY1ODQ2MjUyMCwwMDAwMDAwMGM1MTIwODdmMDJiYmRjZTc3ZTUyOTI2YzNmODc0ZDY5`

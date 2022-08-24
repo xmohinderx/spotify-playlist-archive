@@ -235,10 +235,28 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 210733,
       "name": "Big Big Love",
       "url": "https://open.spotify.com/track/1qv87sym5fmPyZ4Ndj7jPd"
+    },
+    {
+      "album": {
+        "name": "Who's Got Their Armor On?",
+        "url": "https://open.spotify.com/album/2KsupcAkXkOxbILzYu7L3O"
+      },
+      "artists": [
+        {
+          "name": "Bear Hug Band",
+          "url": "https://open.spotify.com/artist/2ccWCD55KETK6AXNOlHvy5"
+        }
+      ],
+      "date_added": "2021-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210733,
+      "name": "Big Big Love",
+      "url": "https://open.spotify.com/track/2LPsEFXoTjwhmFKbk2mOIF"
     },
     {
       "album": {

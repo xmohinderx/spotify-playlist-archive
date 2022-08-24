@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,422 likes - 73 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,447 likes - 73 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 21 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 | 22 | [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 |
 | 23 | [WIZZ](https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [WIZZ](https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e) | 2:54 |
-| 24 | [Cum \(feat\. Iggy Azalea\)](https://open.spotify.com/track/2Mf7bd1QURmFyQCZTsMPjI) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [SEXORCISM](https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL) | 2:37 |
-| 25 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
+| 24 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
+| 25 | [Cum \(feat\. Iggy Azalea\)](https://open.spotify.com/track/2Mf7bd1QURmFyQCZTsMPjI) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [SEXORCISM](https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL) | 2:37 |
 | 26 | [Ti voglio](https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io Fuori](https://open.spotify.com/album/2vxXavw8SrYsHR707Novja) | 5:49 |
 | 27 | [SCANDALOSA \(feat\. Malena\)](https://open.spotify.com/track/1X3JDUHgRkJXG2RKKeRjDI) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Malena](https://open.spotify.com/artist/2GMghh8UAwayZHkzkRPgcE) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 3:08 |
 | 28 | [BANG](https://open.spotify.com/track/3JI2fFWxfepbkoLaYBHCJf) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [COBRAH](https://open.spotify.com/album/1MSVIDaDrvigdChfh3df4S) | 3:09 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 37 | [Perché piangi Palermo](https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Perché piangi Palermo](https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey) | 5:49 |
 | 38 | [Satan in Love](https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp) | 3:37 |
 | 39 | [Story Untold](https://open.spotify.com/track/5aJZ16FOs90XwNH6afrchJ) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Story Untold](https://open.spotify.com/album/1808b4WNaWNtQ2MA6d2r68) | 3:12 |
-| 40 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 |
-| 41 | [Cicciolina](https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Amore Hardcore](https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw) | 4:37 |
+| 40 | [Cicciolina](https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Amore Hardcore](https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw) | 4:37 |
+| 41 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 |
 | 42 | [Moisture \(feat\. Luca Santucci\) \- Headman Club Version \[Bonus Track\]](https://open.spotify.com/track/2c47507B0oE6uGP0nKbv2c) | [Headman](https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64), [Luca Santucci](https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI) | [ON \(Deluxe Edition\)](https://open.spotify.com/album/7ugDGtuJ346gPQaFVxcZrb) | 5:20 |
 | 43 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 |
 | 44 | [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 72 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 |
 | 73 | [Baby](https://open.spotify.com/track/6xktijW71ZdOvRNoWwBQU4) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Mystic Motel](https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4) | 2:30 |
 
-Snapshot ID: `MTY2MDMxMTI2NCwwMDAwMDAwMGEwOTgyNGU0ZWY4MzM4OGZiYTkzNDMyNmM5MGEwODRk`
+Snapshot ID: `MTY2MDMxMTI2NCwwMDAwMDAwMGJjZGI2ZmM0MjY2MzAzM2EyOTg4OWIwMDQxMGZlODc3`

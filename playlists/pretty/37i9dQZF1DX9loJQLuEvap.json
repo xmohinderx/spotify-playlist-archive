@@ -1,12 +1,12 @@
 {
   "description": "Celebrating some of the most iconic female voices of all time.  Cover: Barbra Streisand",
-  "num_followers": 1638906,
+  "num_followers": 1639013,
   "original_name": "Great Female Voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU1Njg3NiwwMDAwMDAwMGE3MTI2YTdjNzM4MDBhZDMyY2EyOWRlZmMyM2JhYzAz",
+  "snapshot_id": "MTY1NzU1Njg3NiwwMDAwMDAwMDg3Nzg1MTBjMGVhNTI4ZTgxY2RmMzQ4YTBhNTc5ZTM5",
   "tracks": [
     {
       "added_at": "2022-07-11 16:27:56",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-07-11 16:27:56",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're so Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2022-07-11 16:27:56",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2022-07-11 16:27:56",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're so Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2022-07-11 16:27:56",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-07-11 16:27:56",
       "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
-    },
-    {
-      "added_at": "2022-07-11 16:27:56",
-      "album": {
         "name": "Unbroken",
         "url": "https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 221293,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/4B3RmT3cGvh8By3WY9pbIx"
+    },
+    {
+      "added_at": "2022-07-11 16:27:56",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
     },
     {
       "added_at": "2022-07-11 16:27:56",

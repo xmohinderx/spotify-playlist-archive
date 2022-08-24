@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 64341,
+  "num_followers": 64439,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMGRmZjYxMDc1NTEzODUxZWFiODBhNjNhYjhiOTI1OWNk",
+  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMGU4Yjk0YmMxNmIyNDlmODM4MTg4MzdmZGQ4MDUyMTE1",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -43,22 +43,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Abu Simbel (Hania Rani Invalides Version)",
-        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
+        "name": "aubades",
+        "url": "https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo"
       },
       "artists": [
         {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
         }
       ],
-      "duration_ms": 339082,
-      "name": "Abu Simbel - Hania Rani Invalides Version",
-      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
+      "duration_ms": 277853,
+      "name": "amour",
+      "url": "https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -79,18 +75,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "aubades",
-        "url": "https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo"
+        "name": "Abu Simbel (Hania Rani Invalides Version)",
+        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
       },
       "artists": [
         {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
         }
       ],
-      "duration_ms": 277853,
-      "name": "amour",
-      "url": "https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7"
+      "duration_ms": 339082,
+      "name": "Abu Simbel - Hania Rani Invalides Version",
+      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Empty City",
+        "url": "https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "duration_ms": 196523,
+      "name": "Empty City",
+      "url": "https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Reimagined. Volume 2, Chapter 1",
         "url": "https://open.spotify.com/album/2jWp0xr6af3jFV9oOTteO7"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 438285,
       "name": "Divenire - Reimagined by Mercan Dede & Kora",
       "url": "https://open.spotify.com/track/6hX4lTpGKrxvyFy2HKVJT6"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Empty City",
-        "url": "https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 196523,
-      "name": "Empty City",
-      "url": "https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Bird's Tail (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE"
+        "name": "Mists Inhabit This Place",
+        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
       },
       "artists": [
         {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
         }
       ],
-      "duration_ms": 334506,
-      "name": "Music For Growing Flowers - Pt. 4",
-      "url": "https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy"
+      "duration_ms": 230213,
+      "name": "Mists Inhabit This Place",
+      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -503,22 +519,6 @@
       "duration_ms": 235563,
       "name": "G-Minor",
       "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Mists Inhabit This Place",
-        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Mists Inhabit This Place",
-      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 277021,
-      "name": "We Begin",
-      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Next Winter",
         "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 277021,
+      "name": "We Begin",
+      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 268124,
-      "name": "Ostinato",
-      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Moon Window",
         "url": "https://open.spotify.com/album/3MKNn4Lo4Y3H5BCpoRPb0Q"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 167920,
       "name": "Moon Window",
       "url": "https://open.spotify.com/track/4PTSiJw3k6IYIofogD0uuI"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 268124,
+      "name": "Ostinato",
+      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Tidal Oscillations (XXIM:EXPO #1)",
+        "url": "https://open.spotify.com/album/7tZWWtjUsSpKSSoD9JYw7r"
+      },
+      "artists": [
+        {
+          "name": "Paddy Mulcahy",
+          "url": "https://open.spotify.com/artist/675ED60nNejweHsAdDFR7C"
+        }
+      ],
+      "duration_ms": 329999,
+      "name": "A Dream, A Sequence",
+      "url": "https://open.spotify.com/track/32VUIIpKt22BW8V1mLt4R4"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
         "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Tidal Oscillations (XXIM:EXPO #1)",
-        "url": "https://open.spotify.com/album/7tZWWtjUsSpKSSoD9JYw7r"
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
       },
       "artists": [
         {
-          "name": "Paddy Mulcahy",
-          "url": "https://open.spotify.com/artist/675ED60nNejweHsAdDFR7C"
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
         }
       ],
-      "duration_ms": 329999,
-      "name": "A Dream, A Sequence",
-      "url": "https://open.spotify.com/track/32VUIIpKt22BW8V1mLt4R4"
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1407,18 +1423,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Our True Nature",
-        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk"
       },
       "artists": [
         {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+          "name": "Rebecca Dale",
+          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
+        },
+        {
+          "name": "Joby Burgess",
+          "url": "https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2"
         }
       ],
-      "duration_ms": 343666,
-      "name": "Abandoned Places",
-      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
+      "duration_ms": 428453,
+      "name": "Can't Sleep",
+      "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1451,26 +1471,6 @@
       "duration_ms": 195719,
       "name": "Mishkin",
       "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Can't Sleep",
-        "url": "https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Dale",
-          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
-        },
-        {
-          "name": "Joby Burgess",
-          "url": "https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2"
-        }
-      ],
-      "duration_ms": 428453,
-      "name": "Can't Sleep",
-      "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Round",
-        "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
-      },
-      "artists": [
-        {
-          "name": "Steven Gutheinz",
-          "url": "https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW"
-        }
-      ],
-      "duration_ms": 163945,
-      "name": "Pattern of Water",
-      "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Entanglement",
         "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
       },
@@ -1579,18 +1563,50 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Bells Variation",
-        "url": "https://open.spotify.com/album/1xUcujAojrWcNUGWNmdGgZ"
+        "name": "Round",
+        "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
       },
       "artists": [
         {
-          "name": "Alban Claudin",
-          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+          "name": "Steven Gutheinz",
+          "url": "https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW"
         }
       ],
-      "duration_ms": 179023,
-      "name": "Bells Variation",
-      "url": "https://open.spotify.com/track/2Th3UvKap32u5YdGLgsmRj"
+      "duration_ms": 163945,
+      "name": "Pattern of Water",
+      "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Collage",
+        "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Bruce White",
+          "url": "https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT"
+        },
+        {
+          "name": "Oli Langford",
+          "url": "https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv"
+        },
+        {
+          "name": "Tom Piggott-Smith",
+          "url": "https://open.spotify.com/artist/2akPdZTSFJ49qgJgv3Zytg"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "In the Soft Light",
+      "url": "https://open.spotify.com/track/3XsCxRtDgJIFN02fcTBxme"
     }
   ],
   "unique_name": "Classical X",

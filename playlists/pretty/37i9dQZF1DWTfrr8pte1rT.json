@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop  Cover: GG Magree \\m/",
-  "num_followers": 270266,
+  "num_followers": 270459,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDQ5Njk2YWY0YjYzNzk4Mjc5MDc2YTkyYjdmYmEzZGQ1",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGU4NjA1NjdkMDNiMDQzNjg2NzRiZTMzOTg5ZGVjZDVi",
   "tracks": [
     {
       "added_at": "2022-06-24 04:01:00",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/225lMWq2wtUmUeETswWKu8"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/6jCTUPS3peZzWgpXVMnvsJ"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 233092,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Black Velvet",
@@ -659,6 +643,22 @@
       "duration_ms": 248400,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/6jCTUPS3peZzWgpXVMnvsJ"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 233092,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "INSPIRED",
-        "url": "https://open.spotify.com/album/7t5Dm6FdR4a2R2dZCKopEA"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 113600,
-      "name": "INSPIRED",
-      "url": "https://open.spotify.com/track/1Dfa2akEVc3sh6HhAxlZmE"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "demolition (Ruined by Glass Petals)",
         "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 226440,
       "name": "demolition (Ruined by Glass Petals)",
       "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "INSPIRED",
+        "url": "https://open.spotify.com/album/7t5Dm6FdR4a2R2dZCKopEA"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 113600,
+      "name": "INSPIRED",
+      "url": "https://open.spotify.com/track/1Dfa2akEVc3sh6HhAxlZmE"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "LOVE ME",
-        "url": "https://open.spotify.com/album/1YKGI3mInNowuk50Q5HWsQ"
-      },
-      "artists": [
-        {
-          "name": "KLOUD",
-          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
-        },
-        {
-          "name": "Gabriel Paris",
-          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "LOVE ME",
-      "url": "https://open.spotify.com/track/08WLYptwEeNak4i7S32gh7"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 201076,
       "name": "Go on Then, Love",
       "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "LOVE ME",
+        "url": "https://open.spotify.com/album/1YKGI3mInNowuk50Q5HWsQ"
+      },
+      "artists": [
+        {
+          "name": "KLOUD",
+          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
+        },
+        {
+          "name": "Gabriel Paris",
+          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/08WLYptwEeNak4i7S32gh7"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1191,30 +1191,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Light Up The Sky (feat. Scott Stapp)",
-        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
-      },
-      "artists": [
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Scott Stapp",
-          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
-        }
-      ],
-      "duration_ms": 284425,
-      "name": "Light Up The Sky (feat. Scott Stapp)",
-      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Flatline",
         "url": "https://open.spotify.com/album/2doxRabzdeSo7zM5fcZmtq"
       },
@@ -1235,6 +1211,30 @@
       "duration_ms": 208016,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/3mNMRpuv9V7DtVMVPh2saF"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Light Up The Sky (feat. Scott Stapp)",
+        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Scott Stapp",
+          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
+        }
+      ],
+      "duration_ms": 284425,
+      "name": "Light Up The Sky (feat. Scott Stapp)",
+      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1825,24 +1825,20 @@
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
     },
     {
-      "added_at": "2022-07-22 08:57:27",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
       "artists": [
         {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
         }
       ],
-      "duration_ms": 226333,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2022-07-22 08:57:27",
@@ -1865,20 +1861,24 @@
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
+      "added_at": "2022-07-22 08:57:27",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq"
       },
       "artists": [
         {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+      "duration_ms": 226333,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/70t8YB2KAuCo4u1h0z5Ohz"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 185608,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/6t5jyZK7AGBkUBIOUQyEED"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2113,6 +2113,22 @@
       "url": "https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O"
     },
     {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+    },
+    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Composure (Toronto Is Broken Remix)",
@@ -2131,22 +2147,6 @@
       "duration_ms": 237241,
       "name": "Composure - Toronto Is Broken Remix",
       "url": "https://open.spotify.com/track/4a8irWxaB5OdkK02dWNBbH"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2175,26 +2175,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 129408,
-      "name": "Hurting on Purpose (feat. K.Flay)",
-      "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "self:antiself",
         "url": "https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p"
       },
@@ -2211,6 +2191,26 @@
       "duration_ms": 290454,
       "name": "Ghostbox",
       "url": "https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 129408,
+      "name": "Hurting on Purpose (feat. K.Flay)",
+      "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2439,26 +2439,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "RIOT",
-        "url": "https://open.spotify.com/album/5h6WP688YII1yf26BOxPtw"
-      },
-      "artists": [
-        {
-          "name": "KOU",
-          "url": "https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR"
-        },
-        {
-          "name": "SYN",
-          "url": "https://open.spotify.com/artist/7cEaR3OwxOjKvgUHDsk1Rr"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "RIOT",
-      "url": "https://open.spotify.com/track/4onluwupxaETxiabwcdeFH"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Tear You Apart (feat. Aaron Gillespie)",
         "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
       },
@@ -2475,6 +2455,26 @@
       "duration_ms": 143180,
       "name": "Tear You Apart (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "RIOT",
+        "url": "https://open.spotify.com/album/5h6WP688YII1yf26BOxPtw"
+      },
+      "artists": [
+        {
+          "name": "KOU",
+          "url": "https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR"
+        },
+        {
+          "name": "SYN",
+          "url": "https://open.spotify.com/artist/7cEaR3OwxOjKvgUHDsk1Rr"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "RIOT",
+      "url": "https://open.spotify.com/track/4onluwupxaETxiabwcdeFH"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2497,20 +2497,24 @@
       "url": "https://open.spotify.com/track/65YiXAuE5eA8pWI4COEhmQ"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Enemy VIP (with Shane Told of Silverstein)",
-        "url": "https://open.spotify.com/album/2iwX9yHexLZSn0PtOu3D8G"
+        "name": "create together vol. 3",
+        "url": "https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2"
       },
       "artists": [
         {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+          "name": "Scro",
+          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
+        },
+        {
+          "name": "whyislavndr",
+          "url": "https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E"
         }
       ],
-      "duration_ms": 198620,
-      "name": "Enemy VIP (with Shane Told of Silverstein)",
-      "url": "https://open.spotify.com/track/0b0vvHAw17DwRllYuEKD9A"
+      "duration_ms": 241475,
+      "name": "i don\u2019t wanna write sad songs anymore",
+      "url": "https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4"
     }
   ],
   "unique_name": "Rocktronic",

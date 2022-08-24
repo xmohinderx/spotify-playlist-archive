@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-138 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+139 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Tried To Understand](https://open.spotify.com/track/0rswzbHV1zLF37hbwTTBu6) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [J Mascis](https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx) | [Tried To Understand](https://open.spotify.com/album/4kFsuqFH1a4hDiSfpUDlzs) | 3:32 | 2022-06-16 | 2022-08-11 |
 | [Trust](https://open.spotify.com/track/2phMrLeYo7YDvMAie0ZQVc) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Observe / Trust](https://open.spotify.com/album/1lSkYSvlHukyxn8EaRRzFr) | 2:14 | 2022-06-16 | 2022-07-28 |
 | [Two Days](https://open.spotify.com/track/65RCgQAJpproISPROLDM4x) | [Mewn](https://open.spotify.com/artist/1GfRMgXaO0P1U1J2ncmSbR) | [Two Days](https://open.spotify.com/album/4KNqcEIJ0YPjIjfubGPo2L) | 3:49 | 2022-06-08 | 2022-06-17 |
+| [Unfold](https://open.spotify.com/track/5qVKHlxI3sOEylfdjj1IEx) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/4lnNOhPbB2kcYE44o65qUM) | 1:30 | 2022-08-23 |  |
 | [Untethered](https://open.spotify.com/track/316Co4rvVxEFZ40FY8BbK8) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Untethered](https://open.spotify.com/album/4Vt4MU6r8NarsGofjJ6Bhv) | 3:36 | 2022-06-08 | 2022-06-30 |
 | [Weather Alive](https://open.spotify.com/track/3OrhnPCD8HDTVSmp3FI9cY) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Weather Alive](https://open.spotify.com/album/1GlvLDvrCrUNFeNEQoyimx) | 7:04 | 2022-06-22 | 2022-08-04 |
 | [Welcome To Hell](https://open.spotify.com/track/1PMHfsqnvnTO7mBwDA5pQL) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Welcome To Hell](https://open.spotify.com/album/0fMH4osxhvgAIbZhGE1kL3) | 4:09 | 2022-06-08 | 2022-06-17 |

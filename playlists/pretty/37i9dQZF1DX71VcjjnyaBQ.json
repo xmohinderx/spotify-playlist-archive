@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 329775,
+  "num_followers": 329850,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MDAwMCwwMDAwMDAwMDIzN2VhY2E4OTIyYWZiNTg4NzZhMjE0ZGFiZGY4OWI5",
+  "snapshot_id": "MTY2MDg2MDAwMCwwMDAwMDAwMGY2YjgzZTQ5NDI3YzJlNzAzNDcyYzYxNDk5ZTQxOGEx",
   "tracks": [
     {
       "added_at": "2022-08-18 22:00:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
+        "name": "Tributary",
+        "url": "https://open.spotify.com/album/4Smd5XsAnGKCt8QepEw9AM"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 347240,
+      "name": "Tributary",
+      "url": "https://open.spotify.com/track/7q6UmBKNhBLgMt0dg9UKr2"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
         "name": "Cononbridge",
         "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 312186,
       "name": "Morning Bazaar",
       "url": "https://open.spotify.com/track/2Ma2gyo1qXQu7DcKdN6Hg9"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
-        "name": "Tributary",
-        "url": "https://open.spotify.com/album/4Smd5XsAnGKCt8QepEw9AM"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 347240,
-      "name": "Tributary",
-      "url": "https://open.spotify.com/track/7q6UmBKNhBLgMt0dg9UKr2"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -627,6 +627,38 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
+        "name": "In the Wee Small Hours of the Morning",
+        "url": "https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m"
+      },
+      "artists": [
+        {
+          "name": "Will Bonness",
+          "url": "https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo"
+        }
+      ],
+      "duration_ms": 315903,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -655,38 +687,6 @@
       "duration_ms": 274802,
       "name": "Cloudland",
       "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
-        "name": "In the Wee Small Hours of the Morning",
-        "url": "https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m"
-      },
-      "artists": [
-        {
-          "name": "Will Bonness",
-          "url": "https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo"
-        }
-      ],
-      "duration_ms": 315903,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
+        "name": "Relations",
+        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
+      },
+      "artists": [
+        {
+          "name": "Martin Brandqvist Quartet",
+          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
+        }
+      ],
+      "duration_ms": 298423,
+      "name": "Ginge",
+      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 280011,
       "name": "Blues Arabesque",
       "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
-        "name": "Relations",
-        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
-      },
-      "artists": [
-        {
-          "name": "Martin Brandqvist Quartet",
-          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
-        }
-      ],
-      "duration_ms": 298423,
-      "name": "Ginge",
-      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
         "name": "A Ballad Moment",
         "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 317545,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1099,50 +1099,6 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
-        "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther Trio",
-          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        },
-        {
-          "name": "H\u00e5kan Brostr\u00f6m",
-          "url": "https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB"
-        }
-      ],
-      "duration_ms": 327642,
-      "name": "Sweet Smile",
-      "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
-        "name": "Closeness",
-        "url": "https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        },
-        {
-          "name": "Rob Luft",
-          "url": "https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL"
-        },
-        {
-          "name": "Jon F\u00e4lt",
-          "url": "https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y"
-        }
-      ],
-      "duration_ms": 329333,
-      "name": "Strange Flower",
-      "url": "https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
         "name": "Taking Another Look",
         "url": "https://open.spotify.com/album/0he9vYB1JF6k0XF4qgQe4Y"
       },
@@ -1175,18 +1131,46 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "Feeling Good - The Supreme Sound Of Producer Bob Shad",
-        "url": "https://open.spotify.com/album/6sR9DBCXgOZo9oZ9zGkRkr"
+        "name": "Closeness",
+        "url": "https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT"
       },
       "artists": [
         {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        },
+        {
+          "name": "Rob Luft",
+          "url": "https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL"
+        },
+        {
+          "name": "Jon F\u00e4lt",
+          "url": "https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y"
         }
       ],
-      "duration_ms": 268706,
-      "name": "Soulsides",
-      "url": "https://open.spotify.com/track/2sHWX0OKbabU5Nz5pDUc0D"
+      "duration_ms": 329333,
+      "name": "Strange Flower",
+      "url": "https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
+        "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
+        "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        },
+        {
+          "name": "H\u00e5kan Brostr\u00f6m",
+          "url": "https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB"
+        }
+      ],
+      "duration_ms": 327642,
+      "name": "Sweet Smile",
+      "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
+        "name": "Feeling Good - The Supreme Sound Of Producer Bob Shad",
+        "url": "https://open.spotify.com/album/6sR9DBCXgOZo9oZ9zGkRkr"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Soulsides",
+      "url": "https://open.spotify.com/track/2sHWX0OKbabU5Nz5pDUc0D"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
         "name": "Mosa\u00efque",
         "url": "https://open.spotify.com/album/0O9jMs6Dvt9L17P6KMChd5"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 285770,
       "name": "Mosa\u00efque",
       "url": "https://open.spotify.com/track/46ENsWZeNIoYgu8VQfxhUc"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
-        "name": "Boo's Blues",
-        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 205094,
-      "name": "Boo's Blues",
-      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1267,6 +1251,22 @@
       "duration_ms": 515253,
       "name": "The Lion Turtle",
       "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
+        "name": "Boo's Blues",
+        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 205094,
+      "name": "Boo's Blues",
+      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "Our Songs",
-        "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
-      },
-      "artists": [
-        {
-          "name": "Alex Riel",
-          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
-        },
-        {
-          "name": "Bo Stief",
-          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
-        },
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        }
-      ],
-      "duration_ms": 224607,
-      "name": "My Song",
-      "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
       },
@@ -1467,6 +1443,30 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
+        "name": "Our Songs",
+        "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
+      },
+      "artists": [
+        {
+          "name": "Alex Riel",
+          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
+        },
+        {
+          "name": "Bo Stief",
+          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
+        },
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        }
+      ],
+      "duration_ms": 224607,
+      "name": "My Song",
+      "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
         "name": "The Escape",
         "url": "https://open.spotify.com/album/1TDxIEzLsBUNHpWFtCWNwn"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 270266,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/6bK3YND4NEVYhjnLWo7YQ0"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
+        "name": "Time to Swing",
+        "url": "https://open.spotify.com/album/7uc7Ti77VrrqITPsxLR0ue"
+      },
+      "artists": [
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "duration_ms": 450133,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/2nWQ1vNWFScr1w8VCJj1tz"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1507,46 +1523,18 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "Time to Swing",
-        "url": "https://open.spotify.com/album/7uc7Ti77VrrqITPsxLR0ue"
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
       },
       "artists": [
         {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
         }
       ],
-      "duration_ms": 450133,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/2nWQ1vNWFScr1w8VCJj1tz"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
-        "name": "Elisian/Inutil Paisagem",
-        "url": "https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs"
-      },
-      "artists": [
-        {
-          "name": "Michel Benita",
-          "url": "https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR"
-        },
-        {
-          "name": "Matthieu Michel",
-          "url": "https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r"
-        },
-        {
-          "name": "Jozef Dumoulin",
-          "url": "https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd"
-        },
-        {
-          "name": "Philippe Garcia",
-          "url": "https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg"
-        }
-      ],
-      "duration_ms": 296253,
-      "name": "Elisian/Inutil Paisagem",
-      "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1575,18 +1563,30 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+        "name": "Elisian/Inutil Paisagem",
+        "url": "https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs"
       },
       "artists": [
         {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+          "name": "Michel Benita",
+          "url": "https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR"
+        },
+        {
+          "name": "Matthieu Michel",
+          "url": "https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r"
+        },
+        {
+          "name": "Jozef Dumoulin",
+          "url": "https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd"
+        },
+        {
+          "name": "Philippe Garcia",
+          "url": "https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg"
         }
       ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+      "duration_ms": 296253,
+      "name": "Elisian/Inutil Paisagem",
+      "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
-      },
-      "artists": [
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 244218,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
         "name": "Trance",
         "url": "https://open.spotify.com/album/67NWUIljAITfKFsdpI3Bsl"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 414760,
       "name": "As if We Were Just Friends",
       "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
+      },
+      "artists": [
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 244218,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2"
     },
     {
       "added_at": "2022-08-18 22:00:00",

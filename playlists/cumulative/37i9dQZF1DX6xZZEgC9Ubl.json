@@ -3182,6 +3182,24 @@
     },
     {
       "album": {
+        "name": "dream girl",
+        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
+      },
+      "artists": [
+        {
+          "name": "8percent",
+          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87408,
+      "name": "dream girl",
+      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
+    },
+    {
+      "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/4Jv02FSIcYZv5l3ueHoPsg"
       },
@@ -12311,7 +12329,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 103783,
       "name": "THEY DON'T KNOW",
       "url": "https://open.spotify.com/track/3ydusC725etWQ7QlAjmIi4"

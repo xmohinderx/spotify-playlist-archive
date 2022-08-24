@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "album": {
         "name": "We play",
         "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
       },
@@ -5273,7 +5291,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
@@ -8183,7 +8201,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 191293,
       "name": "Love Station",
       "url": "https://open.spotify.com/track/2D1xAiDD33nqcxtSMH30hO"
@@ -9243,6 +9261,24 @@
       "duration_ms": 181800,
       "name": "My pleasure Is That You Ride The Bentley",
       "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
+    },
+    {
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "My Satisfaction",
+      "url": "https://open.spotify.com/track/2jaZpjWHv68e2FYr0v3WUj"
     },
     {
       "album": {

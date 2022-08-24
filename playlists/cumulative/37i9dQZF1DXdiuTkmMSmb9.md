@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Stefflon Don, Spice
 
-118 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
+119 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Insane](https://open.spotify.com/track/5xnt07eGrgbGWac3GOVKh9) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [Insane](https://open.spotify.com/album/61qJQxICLqhZnyHT7MF3yf) | 2:38 | 2022-07-18 | 2022-08-19 |
 | [ISoft Life](https://open.spotify.com/track/1KMdsn40pcqhQcDmWW8rUg) | [Kristelle](https://open.spotify.com/artist/1mSLccW06KhvdQfhRj1gQu), [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [ISoft Life](https://open.spotify.com/album/2z6E4fBqrkgUSxECpYyx9T) | 5:48 | 2022-08-19 |  |
 | [Konjo](https://open.spotify.com/track/6QDsvVjGVvyapCgrZrNimn) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Konjo](https://open.spotify.com/album/6fwMKBeItkKYY8ZFn6vn4q) | 3:17 | 2022-07-18 |  |
+| [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-08-23 |  |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-18 |  |
 | [Like This](https://open.spotify.com/track/3NPhVitPBsJnXkJeMvjNb2) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Like This](https://open.spotify.com/album/5VOK2852Mgf5GBTkUe1mFR) | 2:44 | 2022-07-18 |  |
 | [Litt](https://open.spotify.com/track/2QcW9UbaAB6ZRoEUxvz8ne) | [Ck The Walker](https://open.spotify.com/artist/1qj7aZCAUofmM7oDp3zpkq), [Jaybeecombz](https://open.spotify.com/artist/3U3lYfjXKhvJIJj7AbSLS2) | [HENNY TIME](https://open.spotify.com/album/5tvhCXK3tjFkJgwG0Uhqng) | 3:45 | 2022-07-18 |  |

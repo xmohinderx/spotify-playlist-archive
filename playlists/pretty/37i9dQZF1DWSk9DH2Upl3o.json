@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Derek Trucks & Susan Tedeschi",
-  "num_followers": 4767,
+  "num_followers": 4861,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGE1NzQ2ZTM3NWIwMjhkNTI4YTZjYjU4OWQwZTQ0MjAw",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGEwMWJhNWQwYjViZTFiOTg3NWQzNDhhZGRlYjYwOWUw",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+        "name": "Element",
+        "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
       },
       "artists": [
         {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+          "name": "Backup Planet",
+          "url": "https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD"
         }
       ],
-      "duration_ms": 139773,
-      "name": "Stacy's on the Lake",
-      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
+      "duration_ms": 215653,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Element",
-        "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
       },
       "artists": [
         {
-          "name": "Backup Planet",
-          "url": "https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD"
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
         }
       ],
-      "duration_ms": 215653,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
+      "duration_ms": 139773,
+      "name": "Stacy's on the Lake",
+      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Great Blue",
-        "url": "https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6"
-      },
-      "artists": [
-        {
-          "name": "Great Blue",
-          "url": "https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc"
-        }
-      ],
-      "duration_ms": 297153,
-      "name": "Lily's Tiger",
-      "url": "https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Selections, Vol. 1",
         "url": "https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 731509,
       "name": "Get out of Your Head",
       "url": "https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Great Blue",
+        "url": "https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6"
+      },
+      "artists": [
+        {
+          "name": "Great Blue",
+          "url": "https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc"
+        }
+      ],
+      "duration_ms": 297153,
+      "name": "Lily's Tiger",
+      "url": "https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA"
     },
     {
       "added_at": "2022-06-23 13:45:43",

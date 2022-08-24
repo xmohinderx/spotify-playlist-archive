@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-103 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
+104 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Agabony](https://open.spotify.com/track/00EfH4456NhY3RIMpBH3yP) | [Sharief Elfehail](https://open.spotify.com/artist/4bBWBw0jxg6rlIx4GpTuLC) | [Agabony](https://open.spotify.com/album/0y8Z1R9rnVv5a87fx7scp0) | 4:34 | 2021-12-09 | 2022-07-29 |
 | [Agricultural Revolution](https://open.spotify.com/track/2soh1ERhew5bGSU28eIAZg) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 5:07 | 2022-07-28 |  |
 | [Agricultural Revolution](https://open.spotify.com/track/5eoW1Ke2adtl6zuEc6hbjy) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Agricultural Revolution / Al Asafir](https://open.spotify.com/album/5bSVJ7ylub0b0Ihf4tDadW) | 5:07 | 2021-12-09 | 2022-07-27 |
-| [Ahel Allel](https://open.spotify.com/track/7km3RkjOhMJFs0N5kMuFot) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [View From Somewhere](https://open.spotify.com/album/3Kv4BSX3GJrngRKK61JKR8) | 5:08 | 2021-12-09 |  |
+| [Ahel Allel](https://open.spotify.com/track/7km3RkjOhMJFs0N5kMuFot) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [View From Somewhere](https://open.spotify.com/album/3Kv4BSX3GJrngRKK61JKR8) | 5:08 | 2021-12-09 | 2022-08-24 |
 | [Ahla Eyyoun](https://open.spotify.com/track/3t6mDLyrhHgRfcZErr5N9G) | [Abdel Aziz El Mubarak](https://open.spotify.com/artist/7rl7hf7PUimWwI7hBLQ6bB) | [Abdel Aziz El Mubarak](https://open.spotify.com/album/3GSWzFJZ0lgJAFrNOv9l8d) | 6:44 | 2021-12-09 | 2022-07-29 |
 | [Airplane Mode](https://open.spotify.com/track/3OYwEiG78BJ61FeQcrZyKA) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6), [YK](https://open.spotify.com/artist/66jXx36aLzGTIuq8XgVOqG) | [GIHAD](https://open.spotify.com/album/0r9ea9EcUQ8CM469NTAqp9) | 3:01 | 2021-12-09 | 2022-07-21 |
 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 | 2021-12-09 | 2022-07-29 |
@@ -108,6 +108,7 @@
 | [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 | 2022-07-29 |  |
 | [النار ولعت](https://open.spotify.com/track/2mvK1TlgqapzTkPoYnv7Px) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [النار ولعت](https://open.spotify.com/album/46sQoHYjvUTY36S6zb2Iy0) | 1:19 | 2022-07-13 |  |
 | [حبك وطن](https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS) | [حبك وطن](https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8) | 3:39 | 2021-12-09 | 2022-07-29 |
+| [عمل فني](https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [عمل فني](https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0) | 2:49 | 2022-08-23 |  |
 | [فرصة](https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb) | [Gadoora](https://open.spotify.com/artist/1teHDQLqalpAJfWIxqi2N1) | [فرصة](https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj) | 2:04 | 2022-08-04 |  |
 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 | 2022-06-30 |  |
 | [مكاني](https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0) | [Skinnyg](https://open.spotify.com/artist/7xMzHcQVj9mPV6W5fTq6go) | [مكاني](https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE) | 3:32 | 2021-12-09 | 2022-08-22 |

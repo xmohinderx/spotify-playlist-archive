@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1127324,
+  "num_followers": 1127465,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDczOTkyOCwwMDAwMDAwMGRhMmIzODI1NTBlNjNiMWY3YzkzZDU1ZDZkODJmZTll",
+  "snapshot_id": "MTY2MDczOTkyOCwwMDAwMDAwMGI5ZmJlMGM4OGQwOGY5NjJiYWNhMDA1MjEzNWJjZmVh",
   "tracks": [
     {
       "added_at": "2022-08-17 12:38:48",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-08-17 12:38:48",
       "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 243480,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
+    },
+    {
+      "added_at": "2022-08-17 12:38:48",
+      "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 279376,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn"
-    },
-    {
-      "added_at": "2022-08-17 12:38:48",
-      "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 243480,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
     },
     {
       "added_at": "2022-08-17 12:38:48",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-17 12:38:48",
       "album": {
-        "name": "Renee Olstead",
-        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Taking a Chance on Love",
-      "url": "https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux"
-    },
-    {
-      "added_at": "2022-08-17 12:38:48",
-      "album": {
         "name": "Turn Up The Quiet",
         "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 260986,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/1shrhyVVd0fHk6PoC3kx7j"
+    },
+    {
+      "added_at": "2022-08-17 12:38:48",
+      "album": {
+        "name": "Renee Olstead",
+        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Taking a Chance on Love",
+      "url": "https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux"
     },
     {
       "added_at": "2022-08-17 12:38:48",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-08-17 12:38:48",
       "album": {
-        "name": "Memories of You: A Tribute to Benny Goodman",
-        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 290653,
-      "name": "Memories of You",
-      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
-    },
-    {
-      "added_at": "2022-08-17 12:38:48",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 316453,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
+    },
+    {
+      "added_at": "2022-08-17 12:38:48",
+      "album": {
+        "name": "Memories of You: A Tribute to Benny Goodman",
+        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 290653,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
     },
     {
       "added_at": "2022-08-17 12:38:48",

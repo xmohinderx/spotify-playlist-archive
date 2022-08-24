@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Den BB & Oskar Westerlin",
-  "num_followers": 87375,
+  "num_followers": 87386,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MDAwMCwwMDAwMDAwMDEyOGYxYTA2M2NhMDVhMTlkNmIyMzU2YjNlNTc1NWI4",
+  "snapshot_id": "MTY2MDg2MDAwMCwwMDAwMDAwMDEyZDVlOGViYWI0NTBjNDI3OThmMjBiMGExYjg3MmMx",
   "tracks": [
     {
       "added_at": "2022-08-18 22:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
+        "name": "Sju Fjell",
+        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 178171,
+      "name": "Sju Fjell",
+      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
         "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
         "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 140245,
       "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
       "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
-        "name": "Sju Fjell",
-        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 178171,
-      "name": "Sju Fjell",
-      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "Ungkar med dobbelseng",
-        "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Granada",
-      "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
         "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
         "url": "https://open.spotify.com/album/2pDbtRGzSNxwqt4PFGB9bm"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 130000,
       "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
       "url": "https://open.spotify.com/track/2bO1TODqaomL2OduuDKSGZ"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
+        "name": "Ungkar med dobbelseng",
+        "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 190466,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+        "name": "18 \u00c5R (Vennepunktet)",
+        "url": "https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3"
       },
       "artists": [
         {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
         }
       ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+      "duration_ms": 177600,
+      "name": "18 \u00c5R (Vennepunktet)",
+      "url": "https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1115,18 +1115,38 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "18 \u00c5R (Vennepunktet)",
-        "url": "https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3"
+        "name": "Livet p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
       },
       "artists": [
         {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
         }
       ],
-      "duration_ms": 177600,
-      "name": "18 \u00c5R (Vennepunktet)",
-      "url": "https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8"
+      "duration_ms": 153843,
+      "name": "Livet p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1155,42 +1175,6 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "Livet p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
-        }
-      ],
-      "duration_ms": 153843,
-      "name": "Livet p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
-        "name": "Wellerman",
-        "url": "https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR"
-      },
-      "artists": [
-        {
-          "name": "Cir.Cuz",
-          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
-        }
-      ],
-      "duration_ms": 151933,
-      "name": "Wellerman",
-      "url": "https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
         "name": "GUTTA (feat. Plumbo)",
         "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
+        "name": "Wellerman",
+        "url": "https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR"
+      },
+      "artists": [
+        {
+          "name": "Cir.Cuz",
+          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "Wellerman",
+      "url": "https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
+        "name": "Hva skjedde n\u00e5?",
+        "url": "https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 233154,
+      "name": "Hva skjedde n\u00e5?",
+      "url": "https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
         "name": "Er Det Du Eller Meg Som Er Mest Fucked Up?",
         "url": "https://open.spotify.com/album/3LxA06EibvV4UMSVhL1EgO"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 129453,
       "name": "Er Det Du Eller Meg Som Er Mest Fucked Up?",
       "url": "https://open.spotify.com/track/11By0UO1ssT4kJ4eXhwRVb"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
-        "name": "Hva skjedde n\u00e5?",
-        "url": "https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Hva skjedde n\u00e5?",
-      "url": "https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

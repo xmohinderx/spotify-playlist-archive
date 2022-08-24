@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 159930,
+  "num_followers": 159940,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGZkMjJjYTIwMWY3MTE0YWQxZDg0MDJiODA0Zjg0NGI5",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDI1ZjY0NjYyZDhjOTk5MmU5MmRmYmExNDY3MTUwMWM4",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -551,6 +551,26 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Tell That (feat. Mr. Talkbox)",
+        "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
+      },
+      "artists": [
+        {
+          "name": "Juan Winans",
+          "url": "https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "Tell That (feat. Mr. Talkbox)",
+      "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Gonna Be Alright",
         "url": "https://open.spotify.com/album/3ssfhtvQJNgJ8sTKyFJQPA"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 165405,
       "name": "Another In The Fire",
       "url": "https://open.spotify.com/track/6WHwV2HTbHqZ7yPqliO5cf"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Tell That (feat. Mr. Talkbox)",
-        "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
-      },
-      "artists": [
-        {
-          "name": "Juan Winans",
-          "url": "https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR"
-        },
-        {
-          "name": "Mr. Talkbox",
-          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "Tell That (feat. Mr. Talkbox)",
-      "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "New Wine Flow",
-        "url": "https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 209164,
-      "name": "New Wine Flow",
-      "url": "https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 166000,
       "name": "New Me",
       "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "New Wine Flow",
+        "url": "https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 209164,
+      "name": "New Wine Flow",
+      "url": "https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+        "name": "Let You In",
+        "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
       },
       "artists": [
         {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        },
-        {
-          "name": "KDNS",
-          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+      "duration_ms": 203023,
+      "name": "Let You In",
+      "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1223,22 +1219,6 @@
       "duration_ms": 206746,
       "name": "Mercy Shores",
       "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Let You In",
-        "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
-      },
-      "artists": [
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "Let You In",
-      "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1267,6 +1247,26 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        },
+        {
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "NONCHALANT",
         "url": "https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Authentic Love",
-        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
-      },
-      "artists": [
-        {
-          "name": "Caleb Carroll",
-          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
-        }
-      ],
-      "duration_ms": 282125,
-      "name": "Authentic Love",
-      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Learning to Forgive",
         "url": "https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 184541,
       "name": "Learning to Forgive",
       "url": "https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Authentic Love",
+        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Carroll",
+          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
+        }
+      ],
+      "duration_ms": 282125,
+      "name": "Authentic Love",
+      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "GUIDE MY HEART",
         "url": "https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 143671,
       "name": "GUIDE MY HEART",
       "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Rescue (Reimagined)",
+        "url": "https://open.spotify.com/album/022ehc5YpTikEsYXysMeun"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 195679,
+      "name": "Rescue (Reimagined)",
+      "url": "https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Caught Up",
         "url": "https://open.spotify.com/album/1FaaYcLCHwBf0EkHSN7xnl"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 255579,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Rescue (Reimagined)",
-        "url": "https://open.spotify.com/album/022ehc5YpTikEsYXysMeun"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 195679,
-      "name": "Rescue (Reimagined)",
-      "url": "https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei"
     },
     {
       "added_at": "2022-07-17 05:38:31",

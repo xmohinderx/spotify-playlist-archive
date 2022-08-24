@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-305 songs - 21 hr 13 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+306 songs - 21 hr 19 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,9 +260,10 @@
 | [summer \(shade\)](https://open.spotify.com/track/05JBitld3kGDUrkeZ0hQmg) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/5PlR2KmCcUMqsMaVkYFufQ) | 2:15 | 2021-10-20 | 2022-07-22 |
 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 | 2021-10-20 |  |
 | [Sunflower, Raise Your Heavy Head and Face the Sun!](https://open.spotify.com/track/2mXwSbqPRfmiG2KcM81Y1j) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Greenhouse](https://open.spotify.com/album/7jprQbnbFyOAJL64Jc7HmU) | 1:44 | 2021-10-20 | 2022-07-29 |
-| [Sunshine in 1929](https://open.spotify.com/track/76Ux8iRWXJwhwyjuuKwbG7) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 | 2021-10-20 |  |
+| [Sunshine in 1929](https://open.spotify.com/track/76Ux8iRWXJwhwyjuuKwbG7) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 | 2021-10-20 | 2022-08-24 |
 | [Swashers](https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Spaces](https://open.spotify.com/album/3V8YAQt6ADKvL803nvq27L) | 5:38 | 2022-05-18 |  |
 | [Sxs13](https://open.spotify.com/track/73Oxy2zrZMTFgFARikF4UA) | [BXT Aer](https://open.spotify.com/artist/4Ih0m8L9Xc3fksQjlZHiWk) | [Beauty](https://open.spotify.com/album/28B4EwvzIlTy1gT9UlavVa) | 1:25 | 2021-10-20 | 2022-04-17 |
+| [Taken Back](https://open.spotify.com/track/2hJcalCWcwchGuVbZXPPic) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [I Survived, It's Over](https://open.spotify.com/album/1KErFGaU1RWUTJDeHKJoK2) | 5:38 | 2022-08-24 |  |
 | [Tantra Loom](https://open.spotify.com/track/3kv41hhvbb2lM2yNnR7MCw) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Tantra Loom](https://open.spotify.com/album/3MjKf7c5JLNMQIj2XTDOGa) | 3:47 | 2021-10-20 |  |
 | [Thank You](https://open.spotify.com/track/1Kcy75C24mjvGoSjQj5FC6) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Gratitude](https://open.spotify.com/album/4rW1f6cS8eqw41UquRGoqc) | 11:19 | 2022-01-07 | 2022-07-19 |
 | [The Geranium Room](https://open.spotify.com/track/6DJTf1VV8uDbjxSHbsdX3v) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Annual Flowers in Color](https://open.spotify.com/album/2lKc2An4mbMhJvlGqCmHYX) | 1:04 | 2021-10-20 |  |

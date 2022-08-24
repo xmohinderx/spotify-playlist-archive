@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Posłuchaj głosu polskich artystów LGBTQIA+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Zawadzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,297 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,298 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 9 | [Kimkolwiek chcę](https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Kimkolwiek chcę](https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve) | 2:54 |
 | 10 | [GEJSZA](https://open.spotify.com/track/1f5HTAc76fgz4rMcs6dmKv) | [RUSKIEFAJKI](https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna) | [GEJSZA](https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl) | 3:28 |
 | 11 | [Zespół Cotarda](https://open.spotify.com/track/1ytF4G9s0S9PejbBUkAoYY) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [Nic się nie stało](https://open.spotify.com/album/4jYXCwiIrr18L06VZjiidT) | 2:53 |
-| 12 | [priorytetem](https://open.spotify.com/track/1mFqDcaUxiLXNTKDLXyiWD) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [priorytetem](https://open.spotify.com/album/0vRIm5pGMLhANYjfNcopGB) | 3:10 |
+| 12 | [twój zapach](https://open.spotify.com/track/0irIpENIile1obCEpugDL1) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [twój zapach](https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K) | 3:00 |
 | 13 | [Bolt](https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Bolt](https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62) | 3:36 |
 | 14 | [Straty](https://open.spotify.com/track/2zQ8tICZSaEpGe2twp2akq) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3sxdd6lNRiAu3gUKktKcms) | 4:04 |
 | 15 | [Cicho](https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 4:07 |
 | 16 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 |
 | 17 | [Miło Cię Poznać](https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Miło Cię Poznać](https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri) | 3:31 |
 | 18 | [FOMO](https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [FOMO](https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ) | 3:44 |
-| 19 | [twój zapach](https://open.spotify.com/track/0irIpENIile1obCEpugDL1) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [twój zapach](https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K) | 3:00 |
+| 19 | [priorytetem](https://open.spotify.com/track/1mFqDcaUxiLXNTKDLXyiWD) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [priorytetem](https://open.spotify.com/album/0vRIm5pGMLhANYjfNcopGB) | 3:10 |
 | 20 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
 | 21 | [PINOKIO](https://open.spotify.com/track/4kvWYKebH6wY9lXlOdoTLf) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [PINOKIO](https://open.spotify.com/album/1INLSAXzlp4hktzm4lWM6l) | 2:22 |
 | 22 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 28 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
 | 29 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 |
 | 30 | [Jakoś To Przetrwamy](https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:27 |
-| 31 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 |
-| 32 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
+| 31 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
+| 32 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 |
 | 33 | [Suka jak Ja](https://open.spotify.com/track/4VYuEsq0d7fjYBQyyCqP8d) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 3:10 |
 | 34 | [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 |
 | 35 | [Lustro](https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 3:25 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 39 | [Nieludzie \(Ignorance Ha\)](https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [Gusła \(Human Rites\)](https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX) | 5:05 |
 | 40 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 |
 | 41 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 |
-| 42 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
-| 43 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
+| 42 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
+| 43 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
 | 44 | [Barbie](https://open.spotify.com/track/2L2qDPcoGTL7AKC38BTr0l) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 2:21 |
 | 45 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
 | 46 | [JOY](https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [JOY](https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj) | 5:59 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 50 | [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 |
 | 51 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
 
-Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMGZiODQwZWVjOWFhZmQ5YzdiM2I1MWI0ZjE0ZjAwNDM0`
+Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMDNkMzY0Y2U3NWY5ZThmOTM4MTdiMGU3ODBjYTBjYjhj`

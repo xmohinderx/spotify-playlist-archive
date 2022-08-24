@@ -2488,6 +2488,24 @@
     },
     {
       "album": {
+        "name": "Your Data",
+        "url": "https://open.spotify.com/album/6zZxNXfiYxofTYciOsGbYD"
+      },
+      "artists": [
+        {
+          "name": "Ctrls",
+          "url": "https://open.spotify.com/artist/5PM5HE3CFA2qdDnVucPMRc"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303194,
+      "name": "Subroutines",
+      "url": "https://open.spotify.com/track/63mxkfFKoOlZclXgs7IbMs"
+    },
+    {
+      "album": {
         "name": "SUCKLING GROWN",
         "url": "https://open.spotify.com/album/2bvQsuR5li3vroOA0Wgtdl"
       },
@@ -2623,6 +2641,24 @@
       "duration_ms": 316260,
       "name": "Terror - Jensen Interceptor Remix",
       "url": "https://open.spotify.com/track/11ZbrrdQQmdB6R1LHwNsri"
+    },
+    {
+      "album": {
+        "name": "Askim",
+        "url": "https://open.spotify.com/album/5DaaejX6Rn8CaMvjDokzEB"
+      },
+      "artists": [
+        {
+          "name": "Mary Lake",
+          "url": "https://open.spotify.com/artist/5bhoVKF8eORLen5Ls4ErRq"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301818,
+      "name": "Tessa Drive",
+      "url": "https://open.spotify.com/track/2E2m43YG0IeM63KOghJCll"
     },
     {
       "album": {

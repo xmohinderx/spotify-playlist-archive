@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 26024,
+  "num_followers": 26064,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMGVmN2UyYzRhYTUxMTcyNWY5MmZkZWVmZWI5OGIxY2Q2",
+  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMGU5NjcxOWVmYTYwZTE5OTc0YmJiZmEwY2FjMDhhOWI1",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -343,22 +343,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
-        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
-      },
-      "artists": [
-        {
-          "name": "Black Czar",
-          "url": "https://open.spotify.com/artist/5F5nVgncAcSaCEmtrJQRcn"
-        }
-      ],
-      "duration_ms": 174325,
-      "name": "Bamboo Dance",
-      "url": "https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Doctor Kitch",
         "url": "https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 155400,
       "name": "No Melda",
       "url": "https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
+        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
+      },
+      "artists": [
+        {
+          "name": "Black Czar",
+          "url": "https://open.spotify.com/artist/5F5nVgncAcSaCEmtrJQRcn"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Bamboo Dance",
+      "url": "https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c"
     },
     {
       "added_at": "2021-04-23 15:05:50",

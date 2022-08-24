@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,409 likes - 69 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,674 likes - 69 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 12 | [De Pari](https://open.spotify.com/track/2oYbmygoO3gzLychByw297) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [De Pari](https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj) | 2:54 |
 | 13 | [Bad Bichi](https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Bad Bichi](https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ) | 2:55 |
 | 14 | [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 |
-| 15 | [Ulayeh](https://open.spotify.com/track/3sQbevoTIy6yFNeCV7HK3S) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ulayeh](https://open.spotify.com/album/72u2MD55xrMVn0sElwLl0J) | 3:27 |
+| 15 | [Ulayeh](https://open.spotify.com/track/1T1aVbASxrPmX7OJdxzx8g) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ulayeh](https://open.spotify.com/album/1doeHs7TAzYxsq0BYIcab5) | 3:27 |
 | 16 | [Chamaquita](https://open.spotify.com/track/25Ga9guxLibg4kn5OuXuQF) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [La Liga](https://open.spotify.com/album/5ygbezvff10PqHn4BU9qYQ) | 3:14 |
 | 17 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 |
 | 18 | [Mi Fantasía](https://open.spotify.com/track/5q6ShtH7eAHIiIRV9W8DE6) | [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [HAPPINESS](https://open.spotify.com/album/66kDFGo7EeHf5OxxrOwper) | 3:08 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 68 | [El Ramo](https://open.spotify.com/track/7oGCFNIUyiFp6P9CuNibvP) | [Mafi Rome](https://open.spotify.com/artist/3xdZdAqBd32KB8kD22g4PS) | [El Ramo](https://open.spotify.com/album/2Oa45iNE6zHfXO3Qbr1lfd) | 2:33 |
 | 69 | [Reggaetoncito](https://open.spotify.com/track/4ozz8d8L13O0cgbYT5TdDu) | [Jisa](https://open.spotify.com/artist/1eW3fgEEXYMqD2jc6EWEZs), [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ) | [Reggaetoncito](https://open.spotify.com/album/70mBNNOwgl1rWKGSk3GzYP) | 3:17 |
 
-Snapshot ID: `MTY2MDkyNTcxNSwwMDAwMDAwMDI1MDk4OTAzMDkyZGM1ODM1MTQ2NmY0NTdmZDMyZTRj`
+Snapshot ID: `MTY2MDkyNTcxNSwwMDAwMDAwMDE4NDEyODZiNjJjMWU3ZjhmOWI0MzA2MDRjNTY2Nzk3`

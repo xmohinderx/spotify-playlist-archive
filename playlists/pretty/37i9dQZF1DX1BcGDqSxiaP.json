@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 15345,
+  "num_followers": 15360,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMGZmMDA5Nzk3NmQ3ZThiZmMwZmQzODcwYmNhN2ZlOTVh",
+  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDg1ZGEzNDhkZGM5ODZmMDAwZGM0ZTI0NWFmNzdmNWM1",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -159,6 +159,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+      },
+      "artists": [
+        {
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+        }
+      ],
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Rough Cut",
         "url": "https://open.spotify.com/album/0jPcLwxiq6Fzz3cJOGXO6C"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 167306,
       "name": "I Want My Dog To Live Longer (The Greatest Wish)",
       "url": "https://open.spotify.com/track/4SCge41oDQOTIcfmhnYvAQ"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Blowin' Like Hell",
-        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
-      },
-      "artists": [
-        {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
-        }
-      ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
       "added_at": "2020-09-21 10:42:33",

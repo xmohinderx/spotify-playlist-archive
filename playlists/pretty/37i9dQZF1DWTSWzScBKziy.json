@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 81583,
+  "num_followers": 81600,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDVlZTgzNTQzMzFjYTAxODZjZWE4NWUyZmUxZjkzZjk4",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGRlMWEwZDljNTRjYTg0NmExNjMyNzU4MjlmNGI3Mzcw",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -171,26 +171,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Teach Me to Dance (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        },
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 218510,
-      "name": "Teach Me to Dance (Acoustic Version)",
-      "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 186483,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Teach Me to Dance (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        },
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 218510,
+      "name": "Teach Me to Dance (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Perfectly Loved",
         "url": "https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 203683,
       "name": "Perfectly Loved",
       "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Already Blessed",
         "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 228068,
       "name": "Already Blessed",
       "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Unexpected Roads",
-        "url": "https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Unexpected Roads",
-      "url": "https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "You Win",
         "url": "https://open.spotify.com/album/0LGElNOFWB10C2P9nsv5iz"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 218426,
       "name": "You Win",
       "url": "https://open.spotify.com/track/4PdWih41tMrAtyx5HEubpv"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Unexpected Roads",
+        "url": "https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Unexpected Roads",
+      "url": "https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 209017,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Thank God!",
         "url": "https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 200931,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 209017,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Grace Greater",
-        "url": "https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv"
-      },
-      "artists": [
-        {
-          "name": "Travis Cottrell",
-          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
-        }
-      ],
-      "duration_ms": 262369,
-      "name": "Grace Greater",
-      "url": "https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "I'm Open",
         "url": "https://open.spotify.com/album/14km2XMe3pvQq2IsI9Q7dM"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
+        "name": "Grace Greater",
+        "url": "https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv"
       },
       "artists": [
         {
-          "name": "Jonathan Cain",
-          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
         }
       ],
-      "duration_ms": 234185,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
+      "duration_ms": 262369,
+      "name": "Grace Greater",
+      "url": "https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1331,6 +1315,22 @@
       "duration_ms": 255522,
       "name": "Prepare The Way",
       "url": "https://open.spotify.com/track/6LWllzUioINd9vMcoHGep7"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Cain",
+          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
+        }
+      ],
+      "duration_ms": 234185,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Beautiful Name",
-        "url": "https://open.spotify.com/album/0Hv5gNQ7XVnYjJDaHlqkYI"
-      },
-      "artists": [
-        {
-          "name": "Point Of Grace",
-          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Rest In You",
-      "url": "https://open.spotify.com/track/7jtl5N8T1YFvVXkbNypLDL"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Born to Love",
         "url": "https://open.spotify.com/album/0LBm9x0GNGI68k11b8AIwY"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 229533,
       "name": "Born to Love",
       "url": "https://open.spotify.com/track/6uaXa66iQYahdrRKN3txNP"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Beautiful Name",
+        "url": "https://open.spotify.com/album/0Hv5gNQ7XVnYjJDaHlqkYI"
+      },
+      "artists": [
+        {
+          "name": "Point Of Grace",
+          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Rest In You",
+      "url": "https://open.spotify.com/track/7jtl5N8T1YFvVXkbNypLDL"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0T7foqa4zcqlZkjuEBEiGu"
+      },
+      "artists": [
+        {
+          "name": "Marci Coleman",
+          "url": "https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs"
+        }
+      ],
+      "duration_ms": 201617,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0Tge7UWTXFSd4ITIURqk0k"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Places (Des Endroits)",
         "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 212680,
       "name": "Places (Des Endroits)",
       "url": "https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/0T7foqa4zcqlZkjuEBEiGu"
-      },
-      "artists": [
-        {
-          "name": "Marci Coleman",
-          "url": "https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs"
-        }
-      ],
-      "duration_ms": 201617,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0Tge7UWTXFSd4ITIURqk0k"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "The Greatest Discovery",
-        "url": "https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Hawkyard",
-          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
-        }
-      ],
-      "duration_ms": 257670,
-      "name": "I Now Have Purpose",
-      "url": "https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Amens and Hallelujahs",
         "url": "https://open.spotify.com/album/6Mi4DjSQbIKECqLOdk5wGI"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "From the Ballroom",
-        "url": "https://open.spotify.com/album/5H7qkvj9OItrJcvT4r2XxN"
+        "name": "The Greatest Discovery",
+        "url": "https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK"
       },
       "artists": [
         {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+          "name": "Sarah Hawkyard",
+          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
         }
       ],
-      "duration_ms": 290579,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/4uIlq5zbKVweM4MM94orVe"
+      "duration_ms": 257670,
+      "name": "I Now Have Purpose",
+      "url": "https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1659,6 +1643,22 @@
       "duration_ms": 393978,
       "name": "Streams",
       "url": "https://open.spotify.com/track/4TNqLqR26yumoTFs5ESCex"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "From the Ballroom",
+        "url": "https://open.spotify.com/album/5H7qkvj9OItrJcvT4r2XxN"
+      },
+      "artists": [
+        {
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+        }
+      ],
+      "duration_ms": 290579,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/4uIlq5zbKVweM4MM94orVe"
     },
     {
       "added_at": "2022-05-27 18:07:44",

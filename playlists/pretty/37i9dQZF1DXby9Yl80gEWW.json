@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 27542,
+  "num_followers": 27592,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNjc3MCwwMDAwMDAwMGY2OTI0MWI0ZDNkMDE1OTllODFjYzdmZDZhMTYwZjhl",
+  "snapshot_id": "MTY1OTEwNjc3MCwwMDAwMDAwMDhmNmEzYzUxNTAxYWY4MjY2MWMwODNmZWYxNGJlNjI3",
   "tracks": [
     {
       "added_at": "2022-07-29 14:59:30",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "The Cold Hard Facts",
-        "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
-      },
-      "artists": [
-        {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Baltimore Johnny",
-      "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "The Harmonic Tone Revealers",
         "url": "https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Unless",
-        "url": "https://open.spotify.com/album/7ypdPobffspADW87626GOy"
+        "name": "The Cold Hard Facts",
+        "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
       },
       "artists": [
         {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
         }
       ],
-      "duration_ms": 251600,
-      "name": "In the Kitchen",
-      "url": "https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM"
+      "duration_ms": 211400,
+      "name": "Baltimore Johnny",
+      "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -583,6 +567,22 @@
       "duration_ms": 281146,
       "name": "Sliding Down",
       "url": "https://open.spotify.com/track/6i3ZOSknAlWQcjkW8gVD1W"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Unless",
+        "url": "https://open.spotify.com/album/7ypdPobffspADW87626GOy"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "In the Kitchen",
+      "url": "https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Formations",
-        "url": "https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5"
-      },
-      "artists": [
-        {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
-        }
-      ],
-      "duration_ms": 299973,
-      "name": "Last One on the Line",
-      "url": "https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Tall Fiddler",
         "url": "https://open.spotify.com/album/1fo7fjWxKNcQ5FPX43oJFX"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
+        "name": "Formations",
+        "url": "https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "duration_ms": 299973,
+      "name": "Last One on the Line",
+      "url": "https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -711,46 +711,6 @@
       "duration_ms": 158693,
       "name": "Chasin' Skies",
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "Skip, Hop And Wobble",
-        "url": "https://open.spotify.com/album/39zVaR7csPee43Hwr8Liwt"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Russ Barenberg",
-          "url": "https://open.spotify.com/artist/1Stj7mbbJFkKGqasheXUVF"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Big Sciota",
-      "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "Song Up In Her Head",
-        "url": "https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Mansinneedof",
-      "url": "https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -775,6 +735,46 @@
       "duration_ms": 255369,
       "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
       "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Song Up In Her Head",
+        "url": "https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "Mansinneedof",
+      "url": "https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Skip, Hop And Wobble",
+        "url": "https://open.spotify.com/album/39zVaR7csPee43Hwr8Liwt"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Russ Barenberg",
+          "url": "https://open.spotify.com/artist/1Stj7mbbJFkKGqasheXUVF"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Big Sciota",
+      "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Church Street Blues",
         "url": "https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 207440,
       "name": "Jerusalem Ridge",
       "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
-      },
-      "artists": [
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 156600,
       "name": "Leaving Cottondale",
       "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
+      },
+      "artists": [
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Stoney Lonesome",
+      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Wolf Moon",
-      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Americana Master Series: Best Of The Sugar Hill Years",
         "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "Instrumentals, Vol. 1",
-        "url": "https://open.spotify.com/album/1ZaUvK2r4GqFCet5mF8JAl"
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
       "artists": [
         {
-          "name": "Jacob Jolliff",
-          "url": "https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr"
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
         }
       ],
-      "duration_ms": 212173,
-      "name": "Waitin' on Gravey",
-      "url": "https://open.spotify.com/track/71vPc3R0Eb2NU0McqkfP33"
+      "duration_ms": 174093,
+      "name": "Wolf Moon",
+      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1411,6 +1395,22 @@
       "duration_ms": 159600,
       "name": "Black Mountain Rag",
       "url": "https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "Instrumentals, Vol. 1",
+        "url": "https://open.spotify.com/album/1ZaUvK2r4GqFCet5mF8JAl"
+      },
+      "artists": [
+        {
+          "name": "Jacob Jolliff",
+          "url": "https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "Waitin' on Gravey",
+      "url": "https://open.spotify.com/track/71vPc3R0Eb2NU0McqkfP33"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
+        "name": "Hurricane Clarice",
+        "url": "https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76"
+      },
+      "artists": [
+        {
+          "name": "Allison de Groot & Tatiana Hargreaves",
+          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
+        }
+      ],
+      "duration_ms": 189061,
+      "name": "Nancy Blevins",
+      "url": "https://open.spotify.com/track/7DyDMa2OCEWpCNWf6Qt9E5"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 269733,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "Hurricane Clarice",
-        "url": "https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76"
-      },
-      "artists": [
-        {
-          "name": "Allison de Groot & Tatiana Hargreaves",
-          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
-        }
-      ],
-      "duration_ms": 189061,
-      "name": "Nancy Blevins",
-      "url": "https://open.spotify.com/track/7DyDMa2OCEWpCNWf6Qt9E5"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
+        "name": "58957: The Bluegrass Guitar Collection",
+        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
+      },
+      "artists": [
+        {
+          "name": "The Bluegrass Album Band",
+          "url": "https://open.spotify.com/artist/0n0pcmxYdOHk1fl5gvWGiU"
+        }
+      ],
+      "duration_ms": 210399,
+      "name": "Cheyenne",
+      "url": "https://open.spotify.com/track/36Qy9UrlwIGQyltqHcTYYB"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
         "name": "Your Daughters & Your Sons",
         "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
       },
@@ -1767,22 +1783,6 @@
     {
       "added_at": "2022-07-29 14:59:30",
       "album": {
-        "name": "58957: The Bluegrass Guitar Collection",
-        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
-      },
-      "artists": [
-        {
-          "name": "The Bluegrass Album Band",
-          "url": "https://open.spotify.com/artist/0n0pcmxYdOHk1fl5gvWGiU"
-        }
-      ],
-      "duration_ms": 210399,
-      "name": "Cheyenne",
-      "url": "https://open.spotify.com/track/36Qy9UrlwIGQyltqHcTYYB"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
         "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
         "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
       },
@@ -1795,22 +1795,6 @@
       "duration_ms": 236280,
       "name": "Ashland Breakdown",
       "url": "https://open.spotify.com/track/416qnXql5nHfTuj7le2jzC"
-    },
-    {
-      "added_at": "2022-07-29 14:59:30",
-      "album": {
-        "name": "30 Turkeys",
-        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
-      },
-      "artists": [
-        {
-          "name": "Kid Reverie",
-          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
-        }
-      ],
-      "duration_ms": 140970,
-      "name": "30 Turkeys",
-      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
     },
     {
       "added_at": "2022-07-29 14:59:30",
@@ -1831,6 +1815,22 @@
       "duration_ms": 206106,
       "name": "Town's End",
       "url": "https://open.spotify.com/track/6fpL9QnornxpYhhWw6aWyM"
+    },
+    {
+      "added_at": "2022-07-29 14:59:30",
+      "album": {
+        "name": "30 Turkeys",
+        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
+      },
+      "artists": [
+        {
+          "name": "Kid Reverie",
+          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
+        }
+      ],
+      "duration_ms": 140970,
+      "name": "30 Turkeys",
+      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
     },
     {
       "added_at": "2022-07-29 14:59:30",

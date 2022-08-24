@@ -4,7 +4,7 @@
 
 > Romance antigüito en voz de tus artistas pop con Fernanda Ulibarri y Leiden en portada.
 
-217 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/4BSRRbWHbtCycrKZ946Plx)
+218 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/4BSRRbWHbtCycrKZ946Plx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Cien Años](https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 3:25 | 2021-10-16 |  |
 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 | 2021-10-16 |  |
 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 | 2021-10-16 |  |
-| [Como Una Flor Bolero](https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:14 | 2021-10-16 |  |
+| [Como Una Flor Bolero](https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:14 | 2021-10-16 | 2022-08-24 |
 | [Con Los Años Que Me Quedan \(feat\. Leonel García, Samo & Jesús Navarro\)](https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Habítame Siempre \(Bonus Tracks Version\)](https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI) | 4:56 | 2021-10-16 |  |
 | [Constelación](https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Constelación](https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F) | 3:09 | 2021-10-16 | 2022-04-21 |
 | [Contigo aprendí](https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El palacio de las flores](https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg) | 4:19 | 2021-10-16 |  |
@@ -158,6 +158,7 @@
 | [Por Debajo de la Mesa](https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167) | [Carlos Ponce](https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV) | [Boleros](https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2) | 3:17 | 2021-10-16 | 2022-07-28 |
 | [Por Debajo De La Mesa](https://open.spotify.com/track/1oaGF1WX4dMGOwZL3ueYVw) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 3:04 | 2021-10-16 | 2022-07-29 |
 | [Por Siempre Lara / Popurrí](https://open.spotify.com/track/5TAIgpzCktJ4NhIkRZk8QU) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 5:30 | 2021-10-16 | 2022-07-29 |
+| [Preso](https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Una Buena Señal](https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC) | 3:47 | 2021-10-16 |  |
 | [Preso](https://open.spotify.com/track/1nGrueHu2nJ4a0rzDkbHoB) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Cuando Quieras..\. \(Edición Deluxe\)](https://open.spotify.com/album/558LPlVngGcdWuoF0BfjI7) | 3:47 | 2021-10-16 | 2022-07-29 |
 | [Propuesta](https://open.spotify.com/track/0qHDXcOQlaLQ0lWPWpPdeH) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Homenaje A Las Grandes Canciones, Vol\. II](https://open.spotify.com/album/2A03ukPh044CVuW70bSKeW) | 4:17 | 2021-10-16 | 2022-07-29 |
 | [Punto De Partida](https://open.spotify.com/track/3A9AOx2GdkVvwFrAMTLFL8) | [Fabiola Finkmann](https://open.spotify.com/artist/4fU1U7dEb19U1HlP9TyUtn) | [Manzanero Presenta a Fabiola Finkmann](https://open.spotify.com/album/0vrkknr7EDLjghJZbvsQGz) | 3:42 | 2021-10-16 | 2022-07-29 |

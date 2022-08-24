@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 124857,
+  "num_followers": 124989,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIwNDI2NywwMDAwMDAwMGI5NTUyNTU4ZDY5NjRlYjRkOTQxOTZhNWNlOGE1ZmZk",
+  "snapshot_id": "MTY2MDIwNDI2NywwMDAwMDAwMGQ5NzNiNTcwNjcyNmRiYmM2ZjMyNGNmYTBmOWQyNzAx",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Poems, Prayers and Promises",
@@ -791,6 +775,22 @@
       "duration_ms": 190160,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1289,38 +1289,6 @@
       "url": "https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Freedom for the Stallion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
-      },
-      "artists": [
-        {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Love For Sale",
-        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Ma Baker",
-      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Stumblin' In (2017 Remaster)",
@@ -1339,6 +1307,38 @@
       "duration_ms": 239611,
       "name": "Stumblin' In - 2017 Remaster",
       "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Love For Sale",
+        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Ma Baker",
+      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Freedom for the Stallion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
+      },
+      "artists": [
+        {
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "You Don't Mess Around with Jim",
-      "url": "https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
@@ -1435,6 +1419,22 @@
       "duration_ms": 267000,
       "name": "Bang a Gong (Get It On) - 2003 Remaster",
       "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "You Don't Mess Around with Jim",
+      "url": "https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "The Best Years of Our Lives (Deluxe Version)",
@@ -1539,6 +1523,22 @@
       "duration_ms": 239213,
       "name": "Make Me Smile (Come up and See Me) - 2014 Remaster",
       "url": "https://open.spotify.com/track/2dpO3NteNWUDL2S9e0t0Mi"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Aja",
         "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 240333,
       "name": "Peg",
       "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
+        "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
+      },
+      "artists": [
+        {
+          "name": "Santa Esmeralda",
+          "url": "https://open.spotify.com/artist/0iGmfKLgK5eSMgHp8YgLnS"
+        }
+      ],
+      "duration_ms": 628546,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "3+3",
         "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 186093,
       "name": "Back Stabbers",
       "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
-        "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
-      },
-      "artists": [
-        {
-          "name": "Santa Esmeralda",
-          "url": "https://open.spotify.com/artist/0iGmfKLgK5eSMgHp8YgLnS"
-        }
-      ],
-      "duration_ms": 628546,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 127493,
-      "name": "Travelin' Band",
-      "url": "https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Go West In the Navy",
         "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 339946,
       "name": "In the Navy - Original Version 1979",
       "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 127493,
+      "name": "Travelin' Band",
+      "url": "https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2187,26 +2187,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Signature Box",
-        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
-        }
-      ],
-      "duration_ms": 200653,
-      "name": "Instant Karma! (We All Shine On) - Remastered 2010",
-      "url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -2235,6 +2215,26 @@
       "duration_ms": 393013,
       "name": "Heaven Must Be Missing An Angel - Pt. 1",
       "url": "https://open.spotify.com/track/7BDW57CKVzbjvwRT2xuv01"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        }
+      ],
+      "duration_ms": 200653,
+      "name": "Instant Karma! (We All Shine On) - Remastered 2010",
+      "url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2285,22 +2285,6 @@
       "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "I Remember Yesterday",
-        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 355173,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Greatest Hits",
@@ -2315,6 +2299,22 @@
       "duration_ms": 208333,
       "name": "Rock Me Gently",
       "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "I Remember Yesterday",
+        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2413,22 +2413,6 @@
       "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Family Reunion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 413066,
-      "name": "I Love Music",
-      "url": "https://open.spotify.com/track/222TScMmzaZ0IdkvbLoin2"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "If You Knew Suzi\u2026 (2017 Remaster)",
@@ -2443,6 +2427,22 @@
       "duration_ms": 232994,
       "name": "If You Can't Give Me Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Family Reunion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 413066,
+      "name": "I Love Music",
+      "url": "https://open.spotify.com/track/222TScMmzaZ0IdkvbLoin2"
     }
   ],
   "unique_name": "70s Party",

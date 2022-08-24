@@ -1,12 +1,12 @@
 {
   "description": "Set the mood just right...",
-  "num_followers": 1087862,
+  "num_followers": 1088423,
   "original_name": "Make Out Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY3OTExNCwwMDAwMDAwMGM5YmM5ZGE1YWM0OTY1MmQyNDRlN2Y3YThiMjhmMTEy",
+  "snapshot_id": "MTY2MDY3OTExNCwwMDAwMDAwMDE1NDYyODg4YjQxODQyM2YyYzQ2ZGRkZGE1NjEzMTMy",
   "tracks": [
     {
       "added_at": "2022-08-16 19:45:14",
@@ -315,18 +315,22 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 199111,
-      "name": "Is There Someone Else?",
-      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
+      "duration_ms": 111640,
+      "name": "Stargirl Interlude",
+      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
     },
     {
       "added_at": "2022-08-16 19:45:14",
@@ -499,22 +503,18 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
       "artists": [
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 111640,
-      "name": "Stargirl Interlude",
-      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
+      "duration_ms": 199111,
+      "name": "Is There Someone Else?",
+      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
     },
     {
       "added_at": "2022-08-16 19:45:14",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
+    },
+    {
+      "added_at": "2022-08-16 19:45:14",
+      "album": {
         "name": "Gravity (feat. Tyler, The Creator)",
         "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 214692,
       "name": "Gravity (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
-    },
-    {
-      "added_at": "2022-08-16 19:45:14",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
     },
     {
       "added_at": "2022-08-16 19:45:14",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
-    },
-    {
-      "added_at": "2022-08-16 19:45:14",
-      "album": {
         "name": "Suncity",
         "url": "https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "everytime",
+      "url": "https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0"
+    },
+    {
+      "added_at": "2022-08-16 19:45:14",
+      "album": {
         "name": "CASE STUDY 01",
         "url": "https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ"
       },
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 172106,
-      "name": "everytime",
-      "url": "https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0"
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
       "added_at": "2022-08-16 19:45:14",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/58kvvQvx6OtLqEDhqYSzyM"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 197487,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/0rTV5WefWd1J3OwIheTzxM"
-    },
-    {
-      "added_at": "2022-08-16 19:45:14",
-      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
       },
@@ -1143,6 +1123,26 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/58kvvQvx6OtLqEDhqYSzyM"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 197487,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0rTV5WefWd1J3OwIheTzxM"
+    },
+    {
+      "added_at": "2022-08-16 19:45:14",
+      "album": {
         "name": "All The Time",
         "url": "https://open.spotify.com/album/0FLBYsbtkgS11YvAnJc0Ct"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
-        "name": "The Shepherd's Dog",
-        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 241917,
-      "name": "Flightless Bird, American Mouth",
-      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
-    },
-    {
-      "added_at": "2022-08-16 19:45:14",
-      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 193840,
       "name": "Body",
       "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
+    },
+    {
+      "added_at": "2022-08-16 19:45:14",
+      "album": {
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 241917,
+      "name": "Flightless Bird, American Mouth",
+      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
     },
     {
       "added_at": "2022-08-16 19:45:14",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
-        "name": "Ain't Nobody Takin My Baby",
-        "url": "https://open.spotify.com/album/507vscnpu2fPaKmA5nC3pX"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 189231,
-      "name": "Ain't Nobody Takin My Baby",
-      "url": "https://open.spotify.com/track/6VnqGxiMNexOe0kRmIsBw4"
-    },
-    {
-      "added_at": "2022-08-16 19:45:14",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 230625,
       "name": "Skin",
       "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
+    },
+    {
+      "added_at": "2022-08-16 19:45:14",
+      "album": {
+        "name": "Ain't Nobody Takin My Baby",
+        "url": "https://open.spotify.com/album/507vscnpu2fPaKmA5nC3pX"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 189231,
+      "name": "Ain't Nobody Takin My Baby",
+      "url": "https://open.spotify.com/track/6VnqGxiMNexOe0kRmIsBw4"
     },
     {
       "added_at": "2022-08-16 19:45:14",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 184110,
+      "name": "WESTSIDE",
+      "url": "https://open.spotify.com/track/60bAuEmJQfzeDV1B84H4xY"
+    },
+    {
+      "added_at": "2022-08-16 19:45:14",
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 190433,
       "name": "Chocolate Hills",
       "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
-    },
-    {
-      "added_at": "2022-08-16 19:45:14",
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 184110,
-      "name": "WESTSIDE",
-      "url": "https://open.spotify.com/track/60bAuEmJQfzeDV1B84H4xY"
     },
     {
       "added_at": "2022-08-16 19:45:14",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-08-16 19:45:14",
       "album": {
-        "name": "Modus Vivendi",
-        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Guilty Conscience",
-      "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
-    },
-    {
-      "added_at": "2022-08-16 19:45:14",
-      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 146000,
       "name": "And i'd go a thousand miles",
       "url": "https://open.spotify.com/track/4XAAxqgd94HLvDQWc0EkDa"
+    },
+    {
+      "added_at": "2022-08-16 19:45:14",
+      "album": {
+        "name": "Modus Vivendi",
+        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Guilty Conscience",
+      "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
     },
     {
       "added_at": "2022-08-16 19:45:14",

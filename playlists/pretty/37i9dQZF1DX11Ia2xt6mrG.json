@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Foto: Mr. Pig",
-  "num_followers": 51338,
+  "num_followers": 51385,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2NjA4MSwwMDAwMDAwMDlmNzkxODQyZDlmMzMxOGIwNzI0Yjc2YzdmMGU1OWQ3",
+  "snapshot_id": "MTY1OTQ2NjA4MSwwMDAwMDAwMDA4NzBjZDkyYTVlMTNiMDRhNzRjMjg2MGEyZGMzODQ4",
   "tracks": [
     {
       "added_at": "2022-08-02 18:48:01",
@@ -223,26 +223,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
-        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
-      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Morenito",
         "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 190819,
       "name": "Morenito",
       "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
+        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -611,26 +611,18 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "#aparttogether",
-        "url": "https://open.spotify.com/album/0QNvH5B30qLksTcfsqbRXI"
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
       },
       "artists": [
         {
-          "name": "Jeffrey Sutorius",
-          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
-        },
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
         }
       ],
-      "duration_ms": 227493,
-      "name": "Sink Or Swim",
-      "url": "https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD"
+      "duration_ms": 171707,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -651,18 +643,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
+        "name": "#aparttogether",
+        "url": "https://open.spotify.com/album/0QNvH5B30qLksTcfsqbRXI"
       },
       "artists": [
         {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+          "name": "Jeffrey Sutorius",
+          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
+        },
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 171707,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
+      "duration_ms": 227493,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Never Love Me",
-        "url": "https://open.spotify.com/album/0ZTaSPCpXrRIr0t9BbKFP9"
-      },
-      "artists": [
-        {
-          "name": "Hounar",
-          "url": "https://open.spotify.com/artist/2J1iRNDooCRe5XmvsLm1Q3"
-        }
-      ],
-      "duration_ms": 139152,
-      "name": "Never Love Me",
-      "url": "https://open.spotify.com/track/6tr9XNosZVIw5yc8T4GFif"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Takeover",
         "url": "https://open.spotify.com/album/2NV8uvwQ1OWSIXmjah9bsc"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 147506,
       "name": "Bomboro",
       "url": "https://open.spotify.com/track/0VWQQbXy1fMYBo15TXtV97"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Never Love Me",
+        "url": "https://open.spotify.com/album/0ZTaSPCpXrRIr0t9BbKFP9"
+      },
+      "artists": [
+        {
+          "name": "Hounar",
+          "url": "https://open.spotify.com/artist/2J1iRNDooCRe5XmvsLm1Q3"
+        }
+      ],
+      "duration_ms": 139152,
+      "name": "Never Love Me",
+      "url": "https://open.spotify.com/track/6tr9XNosZVIw5yc8T4GFif"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "We Don\u2019t Care (Incl. SaberZ Remix)",
+        "url": "https://open.spotify.com/album/5qKNGI7G6cWffK3ze90yai"
+      },
+      "artists": [
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        }
+      ],
+      "duration_ms": 173243,
+      "name": "We Don't Care",
+      "url": "https://open.spotify.com/track/382ySBv00owmZOwA8xreBY"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Quem\u00e1",
         "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
       },
@@ -1131,42 +1151,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Qu\u00e9 Bonito Es Volar",
-        "url": "https://open.spotify.com/album/4fgZBK1GH5IaSwSyfl9BZ9"
-      },
-      "artists": [
-        {
-          "name": "CASUAL SX",
-          "url": "https://open.spotify.com/artist/2b3NCMLmYD1WZXZe6kpCTG"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Qu\u00e9 Bonito Es Volar",
-      "url": "https://open.spotify.com/track/0geNME4Udpb3Ph0PNL3v0D"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "We Don\u2019t Care (Incl. SaberZ Remix)",
-        "url": "https://open.spotify.com/album/5qKNGI7G6cWffK3ze90yai"
-      },
-      "artists": [
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
-        },
-        {
-          "name": "Kazhi",
-          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
-        }
-      ],
-      "duration_ms": 173243,
-      "name": "We Don't Care",
-      "url": "https://open.spotify.com/track/382ySBv00owmZOwA8xreBY"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "De Sur A Norte",
         "url": "https://open.spotify.com/album/1mDieLmWyCiyZWhPJUckVf"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 288813,
       "name": "Polen",
       "url": "https://open.spotify.com/track/077IhBAyPSoTflz9e2Xe5Z"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Qu\u00e9 Bonito Es Volar",
+        "url": "https://open.spotify.com/album/4fgZBK1GH5IaSwSyfl9BZ9"
+      },
+      "artists": [
+        {
+          "name": "CASUAL SX",
+          "url": "https://open.spotify.com/artist/2b3NCMLmYD1WZXZe6kpCTG"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Qu\u00e9 Bonito Es Volar",
+      "url": "https://open.spotify.com/track/0geNME4Udpb3Ph0PNL3v0D"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Switch It - Tom & Collins Remix",
-        "url": "https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        }
-      ],
-      "duration_ms": 194163,
-      "name": "Switch It - Tom & Collins Remix",
-      "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Playa",
         "url": "https://open.spotify.com/album/4SHQVKPxQEJuI2B48pKBSH"
       },
@@ -1243,22 +1223,38 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
+        "name": "Switch It - Tom & Collins Remix",
+        "url": "https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk"
       },
       "artists": [
         {
-          "name": "Juan Soto",
-          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
         },
         {
-          "name": "Lemon Mint",
-          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         }
       ],
-      "duration_ms": 252579,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
+      "duration_ms": 194163,
+      "name": "Switch It - Tom & Collins Remix",
+      "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "\u00a1V\u00e1monos De Viaje! (Edit)",
+        "url": "https://open.spotify.com/album/7dRPOI1PHOiBR5KaB2HrZ8"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "\u00a1V\u00e1monos De Viaje! - Edit",
+      "url": "https://open.spotify.com/track/37aiG4NvRA0PUI70KKJjm2"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1303,6 +1299,26 @@
       "duration_ms": 137812,
       "name": "Brake Test",
       "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
+      },
+      "artists": [
+        {
+          "name": "Juan Soto",
+          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
+        },
+        {
+          "name": "Lemon Mint",
+          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
+        }
+      ],
+      "duration_ms": 252579,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "\u00a1V\u00e1monos De Viaje! (Edit)",
-        "url": "https://open.spotify.com/album/7dRPOI1PHOiBR5KaB2HrZ8"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "\u00a1V\u00e1monos De Viaje! - Edit",
-      "url": "https://open.spotify.com/track/37aiG4NvRA0PUI70KKJjm2"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Shake It Off",
         "url": "https://open.spotify.com/album/6OO1SWTyPTQPmn8cHRLnP2"
       },
@@ -1415,30 +1415,6 @@
       "duration_ms": 144000,
       "name": "El Camino",
       "url": "https://open.spotify.com/track/30OijpZOdRk5DrfaaXNudS"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
-      },
-      "artists": [
-        {
-          "name": "Alfred Beck",
-          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
-        },
-        {
-          "name": "Riallo",
-          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
-        },
-        {
-          "name": "Sapir Amar",
-          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1503,6 +1479,30 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
+      },
+      "artists": [
+        {
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+        },
+        {
+          "name": "Riallo",
+          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
+        },
+        {
+          "name": "Sapir Amar",
+          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Covalent Bond",
         "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
       },
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
+      },
+      "artists": [
+        {
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "What U Doin' to Me",
         "url": "https://open.spotify.com/album/7HZU9hI33awnsFZskDHq1b"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 210372,
       "name": "Mujer del Desierto",
       "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
-      },
-      "artists": [
-        {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
-        }
-      ],
-      "duration_ms": 166611,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Harina",
-        "url": "https://open.spotify.com/album/0lMLKpkowUzYba7EepibWG"
-      },
-      "artists": [
-        {
-          "name": "Bufi",
-          "url": "https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ"
-        }
-      ],
-      "duration_ms": 195953,
-      "name": "Harina - Energy Mix",
-      "url": "https://open.spotify.com/track/4szMbLqBDaP4kWqp6uU3U7"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 210967,
       "name": "Need You",
       "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Harina",
+        "url": "https://open.spotify.com/album/0lMLKpkowUzYba7EepibWG"
+      },
+      "artists": [
+        {
+          "name": "Bufi",
+          "url": "https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ"
+        }
+      ],
+      "duration_ms": 195953,
+      "name": "Harina - Energy Mix",
+      "url": "https://open.spotify.com/track/4szMbLqBDaP4kWqp6uU3U7"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "cielo",
+        "url": "https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "cielo",
+      "url": "https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/30vmI1DiwumAQksOw5OqMm"
       },
@@ -1867,18 +1883,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "cielo",
-        "url": "https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3"
+        "name": "Filosof\u00eda",
+        "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
       },
       "artists": [
         {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Johan",
+          "url": "https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS"
         }
       ],
-      "duration_ms": 274716,
-      "name": "cielo",
-      "url": "https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V"
+      "duration_ms": 180918,
+      "name": "Filosof\u00eda",
+      "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1903,22 +1923,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Filosof\u00eda",
-        "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
       },
       "artists": [
         {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+          "name": "N\u00d8RBY",
+          "url": "https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw"
         },
         {
-          "name": "Johan",
-          "url": "https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS"
+          "name": "Taylor Diaz",
+          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
         }
       ],
-      "duration_ms": 180918,
-      "name": "Filosof\u00eda",
-      "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
+      "duration_ms": 178909,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1955,46 +1975,18 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
+        "name": "Mexican Superstar",
+        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
       },
       "artists": [
         {
-          "name": "N\u00d8RBY",
-          "url": "https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw"
-        },
-        {
-          "name": "Taylor Diaz",
-          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
         }
       ],
-      "duration_ms": 178909,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Agua Pa Beber",
-        "url": "https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        },
-        {
-          "name": "Gerardo Varela",
-          "url": "https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny"
-        }
-      ],
-      "duration_ms": 150966,
-      "name": "Agua Pa Beber",
-      "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
+      "duration_ms": 237000,
+      "name": "Mexican Superstar",
+      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -2019,18 +2011,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Mexican Superstar",
-        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
+        "name": "Agua Pa Beber",
+        "url": "https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p"
       },
       "artists": [
         {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Gerardo Varela",
+          "url": "https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Mexican Superstar",
-      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
+      "duration_ms": 150966,
+      "name": "Agua Pa Beber",
+      "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
     }
   ],
   "unique_name": "mint MX",

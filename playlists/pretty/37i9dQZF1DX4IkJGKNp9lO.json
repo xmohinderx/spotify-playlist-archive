@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 26158,
+  "num_followers": 26162,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ5MDY5OCwwMDAwMDAwMGY0ODVkMTkxN2I1ZWNkMjZlNGM3YWVkNjBiZGY5NGI3",
+  "snapshot_id": "MTYzOTQ5MDY5OCwwMDAwMDAwMGEzZjVhNWU0MjNlMTc2Zjc5MTZkYTM1MDg0Y2RlMzI5",
   "tracks": [
     {
       "added_at": "2021-12-14 14:04:58",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
+        "name": "Versace Style",
+        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Leningrad skyline",
+      "url": "https://open.spotify.com/track/6HFVHZt5xRuPpiqFKXbJ6W"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
         "name": "Grit",
         "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 177110,
       "name": "Alla vill till himmelen men ingen vill d\u00f6",
       "url": "https://open.spotify.com/track/0bdo2vF0PUZ9k0WaK9kKuu"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
-        "name": "Versace Style",
-        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
-      },
-      "artists": [
-        {
-          "name": "En Svensk Tiger",
-          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Leningrad skyline",
-      "url": "https://open.spotify.com/track/6HFVHZt5xRuPpiqFKXbJ6W"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -735,6 +735,22 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
+        "name": "Tecken I Tiden",
+        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
+      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
         "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
         "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 123560,
       "name": "Feta Gubbar",
       "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
-        "name": "Tecken I Tiden",
-        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
-      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
     },
     {
       "added_at": "2021-12-14 14:04:58",

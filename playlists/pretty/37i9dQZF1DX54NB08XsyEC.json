@@ -1,12 +1,12 @@
 {
   "description": "pov: as bam bam bans voltaram more!! / BLACKPINK",
-  "num_followers": 224988,
+  "num_followers": 225171,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MDQ0MiwwMDAwMDAwMDZlMGE1ZWZkNDMzMjk3ZWNjNzY5YjJhYzBmNjc2ZGM2",
+  "snapshot_id": "MTY2MTE5MDQ0MiwwMDAwMDAwMDM5N2U3OGE3YzQ3ZjczZGY3MWY3OWFjZDAzZDViMTgx",
   "tracks": [
     {
       "added_at": "2022-08-22 17:47:22",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-08-22 17:47:22",
       "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
+    },
+    {
+      "added_at": "2022-08-22 17:47:22",
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2022-08-22 17:47:22",
-      "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
       "added_at": "2022-08-22 17:47:22",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-08-22 17:47:22",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
-    },
-    {
-      "added_at": "2022-08-22 17:47:22",
-      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2022-08-22 17:47:22",
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
       "added_at": "2022-08-22 17:47:22",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-08-22 17:47:22",
       "album": {
-        "name": "ANTI-HER\u00d3I",
-        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 194566,
-      "name": "Essa Eu Fiz Pro Nosso Amor",
-      "url": "https://open.spotify.com/track/4JwwAxvprUGhrecdjSjfHN"
-    },
-    {
-      "added_at": "2022-08-22 17:47:22",
-      "album": {
         "name": "Dolls EP",
         "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 174002,
       "name": "Living Hell",
       "url": "https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA"
+    },
+    {
+      "added_at": "2022-08-22 17:47:22",
+      "album": {
+        "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 194566,
+      "name": "Essa Eu Fiz Pro Nosso Amor",
+      "url": "https://open.spotify.com/track/4JwwAxvprUGhrecdjSjfHN"
     },
     {
       "added_at": "2022-08-22 17:47:22",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-08-22 17:47:22",
       "album": {
-        "name": "NADA DISSO \u00c9 PRA VOC\u00ca",
-        "url": "https://open.spotify.com/album/5epqdTqnj8n5MzG1F5HuJt"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "FALSA",
-      "url": "https://open.spotify.com/track/1ndABt0cfIjjLHTZYJ3Rsi"
-    },
-    {
-      "added_at": "2022-08-22 17:47:22",
-      "album": {
         "name": "Chora por mim",
         "url": "https://open.spotify.com/album/53gxvwowd4RcpQbl319CaZ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 167910,
       "name": "Chora por mim",
       "url": "https://open.spotify.com/track/6AyopbI7kFXj5Ske9HL2nw"
+    },
+    {
+      "added_at": "2022-08-22 17:47:22",
+      "album": {
+        "name": "NADA DISSO \u00c9 PRA VOC\u00ca",
+        "url": "https://open.spotify.com/album/5epqdTqnj8n5MzG1F5HuJt"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "FALSA",
+      "url": "https://open.spotify.com/track/1ndABt0cfIjjLHTZYJ3Rsi"
     }
   ],
   "unique_name": "pov",

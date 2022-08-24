@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "T\u00fa, nosotros y esta lista de canciones. Foto: Enrique Iglesias",
+  "description": "T\u00fa, nosotros y esta lista de canciones. Foto: Lasso",
   "name": "Para Enamorados",
   "published_playlist_ids": [
     "3WqtowYoqJPslwPTVPQQJV"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 230346,
       "name": "Disparo al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5828oiHxe6DSSAuIrPSeVT"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 178849,
       "name": "Espacio en Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj"
@@ -665,6 +665,28 @@
       "duration_ms": 265626,
       "name": "La Cosa Mas Bella",
       "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+    },
+    {
+      "album": {
+        "name": "La Falta",
+        "url": "https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188412,
+      "name": "La Falta",
+      "url": "https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R"
     },
     {
       "album": {
@@ -933,6 +955,28 @@
       "duration_ms": 185253,
       "name": "No Te Olvido",
       "url": "https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT"
+    },
+    {
+      "album": {
+        "name": "Ojos Marrones (Con Sebasti\u00e1n Yatra)",
+        "url": "https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU"
     },
     {
       "album": {

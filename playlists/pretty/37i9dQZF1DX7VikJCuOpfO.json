@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 61250,
+  "num_followers": 61256,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGU4MjFhZjkzZTkyODgwMGExNzIzZmRiZWYxOTM4MDhj",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGE4ZTM4MmMxYzA1NTc2OWRhNmM1ZmFkZGNhMWRhMzU2",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Te Seguir\u00e9 Queriendo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX"
+        "name": "Si Hay Otra Vida",
+        "url": "https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa"
       },
       "artists": [
         {
-          "name": "Crecer German",
-          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 192480,
-      "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
+      "duration_ms": 204692,
+      "name": "Si Hay Otra Vida",
+      "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Si Hay Otra Vida",
-        "url": "https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 204692,
-      "name": "Si Hay Otra Vida",
-      "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 153946,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Te Seguir\u00e9 Queriendo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX"
+      },
+      "artists": [
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 183251,
-      "name": "Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Mi Meta Contigo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 188066,
       "name": "Mi Meta Contigo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 183251,
+      "name": "Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "El Diluvio",
-        "url": "https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 148565,
-      "name": "El Diluvio",
-      "url": "https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Ojal\u00e1 Que Te Vaya Bonito",
         "url": "https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 173306,
       "name": "Ojal\u00e1 Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/0LPpHtoUCbSLEXno1CF1kW"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "El Diluvio",
+        "url": "https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 148565,
+      "name": "El Diluvio",
+      "url": "https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum"
     },
     {
       "added_at": "2022-07-29 04:00:00",

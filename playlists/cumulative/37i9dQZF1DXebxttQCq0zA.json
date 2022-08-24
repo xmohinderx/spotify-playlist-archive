@@ -2392,6 +2392,24 @@
     },
     {
       "album": {
+        "name": "Miuys",
+        "url": "https://open.spotify.com/album/1yoIxMWtpZxCUrFysAZ1Ll"
+      },
+      "artists": [
+        {
+          "name": "Calma Interiore",
+          "url": "https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180352,
+      "name": "Miuys",
+      "url": "https://open.spotify.com/track/6gM3YgCJV3tBzbnYG2ydge"
+    },
+    {
+      "album": {
         "name": "Gabriel",
         "url": "https://open.spotify.com/album/6EKSmGzGQ7ODZmqdHVXpa1"
       },
@@ -3501,7 +3519,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 178335,
       "name": "Simple Gestures",
       "url": "https://open.spotify.com/track/0mDOLrtw3BiHeGfv4J0KA2"

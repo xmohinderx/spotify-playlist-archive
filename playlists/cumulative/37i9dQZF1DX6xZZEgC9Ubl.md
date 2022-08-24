@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: 347aidan
 
-712 songs - 1 day 8 hr 30 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+713 songs - 1 day 8 hr 31 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Down](https://open.spotify.com/track/2WJ43HcvQPZ8Wa7p9DiXcM) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [Down](https://open.spotify.com/album/0ciE6x4hK37aKcVrBcJSOw) | 2:28 | 2021-04-03 | 2021-05-15 |
 | [draw you inside my book \(feat\. KMays\)](https://open.spotify.com/track/0ZbghqrVhOtGom63oKxONU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [KMays](https://open.spotify.com/artist/2VTLKU8cAZDr5JuZ7HS4BA) | [draw you inside my book \(feat\. KMays\)](https://open.spotify.com/album/0w5Q4bGIpbvmEzTgAtDt72) | 2:24 | 2022-04-08 | 2022-04-22 |
 | [dream girl](https://open.spotify.com/track/3agflhasTpwVk5opeCab2a) | [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [dream girl](https://open.spotify.com/album/04rhxkRkDHgofGYxLkmg9a) | 1:27 | 2021-08-03 | 2022-08-12 |
+| [dream girl](https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c) | [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [dream girl](https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9) | 1:27 | 2022-08-12 |  |
 | [Drip](https://open.spotify.com/track/2qtlendaMuYL5MceyLckzD) | [Ohsolow](https://open.spotify.com/artist/6PBi2MZwwSxgnb9oY5ZrVn), [sayk\_](https://open.spotify.com/artist/0tEV99Mi95s1JxCUezOgeo) | [Drip](https://open.spotify.com/album/4Jv02FSIcYZv5l3ueHoPsg) | 1:31 | 2021-11-05 | 2022-02-23 |
 | [drive by](https://open.spotify.com/track/0AAPdx9ewxMxetyBYqwcfL) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [HELLBOY](https://open.spotify.com/album/3PGFdp8MUJ25eJjUl0O58X) | 2:55 | 2020-12-13\* | 2021-01-05 |
 | [driveway](https://open.spotify.com/track/3Mf5CJ4c9wzdCI5Dib3V3B) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [crybaby](https://open.spotify.com/album/6ay4qFjg5VgZFqJmiGcIIm) | 2:39 | 2020-12-13\* | 2022-04-21 |
@@ -640,7 +641,7 @@
 | [THE\_EVIL\_THAT\_MEN\_DO](https://open.spotify.com/track/6s9qov2o5dUVUVut2jB45K) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THE\_EVIL\_THAT\_MEN\_DO](https://open.spotify.com/album/7rOfgB0eZeRCPOSu00cuzN) | 2:53 | 2022-04-22 | 2022-04-24 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2021-11-12 |  |
 | [They Distort My Reality](https://open.spotify.com/track/6rmlfJjZ2kmMIjKFtOQWjZ) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Eredaze](https://open.spotify.com/artist/3LQkEyryB8qsN20SutisqG) | [They Distort My Reality](https://open.spotify.com/album/4g2bmOTaiEN2DAA1YOOQxN) | 3:05 | 2020-12-13\* | 2022-04-20 |
-| [THEY DON'T KNOW](https://open.spotify.com/track/3ydusC725etWQ7QlAjmIi4) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [THEY DON'T KNOW](https://open.spotify.com/album/2xAgOtruwnkJarTLexy2DS) | 1:43 | 2022-05-06 |  |
+| [THEY DON'T KNOW](https://open.spotify.com/track/3ydusC725etWQ7QlAjmIi4) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [THEY DON'T KNOW](https://open.spotify.com/album/2xAgOtruwnkJarTLexy2DS) | 1:43 | 2022-05-06 | 2022-08-24 |
 | [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 | 2022-01-21 |  |
 | [TIRED](https://open.spotify.com/track/4Inbxx2NC85JXTjcyyDlTa) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIXED EMOTIONS](https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN) | 2:41 | 2021-01-29 | 2021-05-29 |
 | [To The Moon](https://open.spotify.com/track/4WS8zqMLmhS4uvj0DtW1RL) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [To The Moon](https://open.spotify.com/album/23aVhAa9PzcSs0XakuOwg9) | 2:45 | 2021-04-10 | 2022-07-27 |

@@ -4,7 +4,7 @@
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/41Kl1sEX0TkBb24xn0X36H)
+68 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/41Kl1sEX0TkBb24xn0X36H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Hourglass](https://open.spotify.com/track/2pd1Lm8Jsslf2VdWQv0Je8) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:00 | 2022-05-30 |  |
 | [In the Absence of the Sacred](https://open.spotify.com/track/4TLTg6pKR2dzRgac8eFaiS) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:37 | 2022-05-30 | 2022-08-07 |
 | [In Your Words](https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 5:24 | 2022-05-30 | 2022-08-22 |
-| [King Me](https://open.spotify.com/track/7v5yAaXL6mqdZdl87jmO8T) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 6:35 | 2022-06-01 |  |
+| [King Me](https://open.spotify.com/track/2YEOckiFPxRlCqr4yjFVSw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 6:35 | 2022-08-23 |  |
+| [King Me](https://open.spotify.com/track/7v5yAaXL6mqdZdl87jmO8T) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 6:35 | 2022-06-01 | 2022-08-24 |
 | [Laid to Rest](https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:50 | 2022-05-30 |  |
 | [Memento Mori](https://open.spotify.com/track/5I29F9GR0OkaU1nuxp9hU8) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 5:48 | 2022-05-30 |  |
 | [Nevermore](https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75) | 4:35 | 2022-08-13 |  |

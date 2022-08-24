@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: AKIKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,096 likes - 112 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,105 likes - 112 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 19 | [Playtime](https://open.spotify.com/track/0JCpK6CF1VryTOWI9izOck) | [Wafi!](https://open.spotify.com/artist/2jmXc7n39dA18y6MUi5rqB) | [Playtime](https://open.spotify.com/album/0w84szzB5X5TKUosZJEy61) | 2:41 |
 | 20 | [要怎麼書寫](https://open.spotify.com/track/04lt7lHdDr1rrY4WclNxTp) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [如是我聞](https://open.spotify.com/album/65XUM0Ky3AYlOoLC62l1Du) | 2:29 |
 | 21 | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/album/1zWBngiKyE91gjT0MR0IaV) | 4:00 |
-| 22 | [下雨的瞬間](https://open.spotify.com/track/7jgLHmHySzZbLZCf1cIr5d) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/3CKdp6n2D977N3AhN71W82) | 3:38 |
+| 22 | [下雨的瞬間 Raining Moment](https://open.spotify.com/track/3mRBZkUKakcjrlCegUU2J7) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/1DcyRtz8g3mvwFy1AsmVhY) | 3:38 |
 | 23 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 |
 | 24 | [Award Shows](https://open.spotify.com/track/5OUvyy5qQQDoOTKK8rpbWm) | [TXMIYAMA](https://open.spotify.com/artist/725OKiwmqplFRll4H7WHkw), [BENNY HÀN](https://open.spotify.com/artist/7CIF5uo4zR9UBwKS7lfQHb) | [Award Shows](https://open.spotify.com/album/21ur6W5JzSLC8Rc4yicXqc) | 3:00 |
 | 25 | [柴灣角街](https://open.spotify.com/track/7l7wDs93UypiYGOd4tdfs0) | [TomFatKi](https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ), [East City](https://open.spotify.com/artist/4h6dvXIVMq6JdWWfcHT1kw) | [柴灣角街](https://open.spotify.com/album/666epeXOJkJ4M6hx7DBj9O) | 4:13 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 111 | [Fotan Jazz Club](https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw), [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [Akira Mimasu](https://open.spotify.com/artist/5JtWkrls291QYKbtm1oSVU) | [Windsong](https://open.spotify.com/album/1oCtNZFONXjJoAgZJBckHJ) | 3:44 |
 | 112 | [Hotel V](https://open.spotify.com/track/1WhCMZuYVLqRoSHFTYkYCi) | [Distant Vega](https://open.spotify.com/artist/3nj7zqPOrLe1f2lPZN3W0U) | [Hotel V](https://open.spotify.com/album/4iLFOuFjU5pQfxjnNdHcki) | 3:23 |
 
-Snapshot ID: `MTY2MDgzODQwMCwwMDAwMDAwMGFiM2E5MDhiZjBiOGRmODk2NmE3ODYzNzkwODRjYzk3`
+Snapshot ID: `MTY2MDgzODQwMCwwMDAwMDAwMGZlN2I5NGNkYTAwODFhYzg4NTQ5YzIxNjc1MmM0NWIx`

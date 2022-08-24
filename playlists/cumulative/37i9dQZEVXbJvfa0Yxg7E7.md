@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-747 songs - 1 day 15 hr 22 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+748 songs - 1 day 15 hr 25 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-05 |
 | [Believers](https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Believers](https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB) | 2:39 | 2021-05-16 | 2021-05-25 |
 | [Belinda \(with Alex Rose\)](https://open.spotify.com/track/18YdkV1F1N9fiQ8svGg4Hg) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Belinda \(with Alex Rose\)](https://open.spotify.com/album/029yJWuOUs4QmrtnexkU4F) | 3:06 | 2021-07-05 | 2021-08-31 |
-| [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-06-26 |  |
+| [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-06-26 | 2022-08-24 |
 | [Belly, The Weeknd \- Die For It \(ft\. Nas\)](https://open.spotify.com/track/2Nc1v8I86FUGorwjXKo0in) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [See You Next Wednesday](https://open.spotify.com/album/7jJsNB4u538DpyZckBEKsB) | 3:19 | 2021-08-29 | 2021-08-30 |
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2021-10-24 | 2021-11-21 |
 | [BigPapaGoat\_v4\_4130422.wav](https://open.spotify.com/track/2922dygRXuK1EuWRv7YLby) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [MIKE IT SPEKTRUM](https://open.spotify.com/album/6nfpKR7onKsfAS53VFk5vq) | 2:23 | 2022-08-06 |  |
@@ -457,6 +457,7 @@
 | [Mata Hari](https://open.spotify.com/track/3wuvVwA5RaifHz1uqKac8P) | [Efendi](https://open.spotify.com/artist/4oe1qp9xGSFxMYH4X9AXtl) | [Mata Hari](https://open.spotify.com/album/2qAJL1ffzMUKu3quKRoMwi) | 2:40 | 2021-05-24 | 2021-06-09 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 | 2022-06-05 |
 | [Matters](https://open.spotify.com/track/55QchwBzQs2N5heQeINLjz) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Matters](https://open.spotify.com/album/2kzT5vWvaOBfpK852eA5gR) | 3:56 | 2021-04-04 | 2021-04-05 |
+| [Mawbys](https://open.spotify.com/track/6R20ReFHCSjtK3vMUZI3Yv) | [Brødrene Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Thomskalle](https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn), [Ginger Joe](https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS) | [Mawbys](https://open.spotify.com/album/55wTUqbJh1I6jhmNZKexO8) | 3:04 | 2022-08-23 |  |
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-04-30 | 2022-05-15 |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-06 | 2022-06-26 |
 | [Medbrakt](https://open.spotify.com/track/0anBi4abqUhf7qvGrk5ALE) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Medbrakt](https://open.spotify.com/album/3tWVpKIfVPosF7LLi5fcOG) | 2:11 | 2022-01-08 | 2022-02-08 |

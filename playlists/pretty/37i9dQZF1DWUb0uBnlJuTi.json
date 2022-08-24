@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Ezra Collective",
-  "num_followers": 204711,
+  "num_followers": 204904,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGQyNTA1NDAxOTg2ZTllYmIzODhjMzYwZDM3ZGM5MmEx",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGUyMGNmNDYzNGU0MWEzNmEzZDU0YWFlMDgyNWRjNjJl",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "It Is Finished (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 320426,
+      "name": "Funkier Than a Mosquito's Tweeter",
+      "url": "https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "Expansions",
         "url": "https://open.spotify.com/album/7p96a8I3q2MRN5Ely3WiVm"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 366866,
       "name": "Expansions",
       "url": "https://open.spotify.com/track/1DoWUjcc5sqpRioFPioogU"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "It Is Finished (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 320426,
-      "name": "Funkier Than a Mosquito's Tweeter",
-      "url": "https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -701,26 +701,6 @@
       "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Confirmation",
-        "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
-      },
-      "artists": [
-        {
-          "name": "MONKY",
-          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
-        },
-        {
-          "name": "re os - REO MATSUMOTO",
-          "url": "https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW"
-        }
-      ],
-      "duration_ms": 295176,
-      "name": "Confirmation",
-      "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
-    },
-    {
       "added_at": "2021-07-02 04:01:00",
       "album": {
         "name": "The Sun )",
@@ -739,6 +719,26 @@
       "duration_ms": 176342,
       "name": "The Sun )",
       "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Confirmation",
+        "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
+      },
+      "artists": [
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        },
+        {
+          "name": "re os - REO MATSUMOTO",
+          "url": "https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW"
+        }
+      ],
+      "duration_ms": 295176,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -821,6 +821,22 @@
       "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
     },
     {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Andromeda Style Fuunk",
+        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
+      },
+      "artists": [
+        {
+          "name": "Wonky Logic",
+          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Andromeda Style Fuunk",
+      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
+    },
+    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Rhythm Of Life",
@@ -881,22 +897,6 @@
       "url": "https://open.spotify.com/track/0n8sBhOtUb6pDFKjpxfakj"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Andromeda Style Fuunk",
-        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
-      },
-      "artists": [
-        {
-          "name": "Wonky Logic",
-          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Andromeda Style Fuunk",
-      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Placebo Years 1971 - 1974",
@@ -911,22 +911,6 @@
       "duration_ms": 152400,
       "name": "Humpty Dumpty - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "YUNIK\u014dN",
-        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Tokisan",
-      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -945,6 +929,22 @@
       "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
     },
     {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "YUNIK\u014dN",
+        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Tokisan",
+      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Glide",
@@ -959,38 +959,6 @@
       "duration_ms": 192999,
       "name": "Glide",
       "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "The 2nd Crusade",
-        "url": "https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 531533,
-      "name": "A Message From The Inner City",
-      "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Linger Lane",
-        "url": "https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 320773,
-      "name": "Mountain Caravan",
-      "url": "https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1015,6 +983,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "The 2nd Crusade",
+        "url": "https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 531533,
+      "name": "A Message From The Inner City",
+      "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "The Best of the Light of the World",
         "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "Linger Lane",
+        "url": "https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 320773,
+      "name": "Mountain Caravan",
+      "url": "https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "Declassified",
         "url": "https://open.spotify.com/album/5Qi3Ifed8PIXJjlpGEcsMk"
       },
@@ -1043,6 +1043,38 @@
       "duration_ms": 349440,
       "name": "Everything Is Changing",
       "url": "https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Gears",
+        "url": "https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Hammond\" Smith",
+          "url": "https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq"
+        }
+      ],
+      "duration_ms": 317957,
+      "name": "Tell Me What To Do",
+      "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 371080,
+      "name": "The Hump",
+      "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -1093,36 +1125,20 @@
       "url": "https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2021-06-04 04:01:00",
       "album": {
-        "name": "Gears",
-        "url": "https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH"
+        "name": "Be on the Lookout",
+        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
       },
       "artists": [
         {
-          "name": "Johnny \"Hammond\" Smith",
-          "url": "https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq"
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
         }
       ],
-      "duration_ms": 317957,
-      "name": "Tell Me What To Do",
-      "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 371080,
-      "name": "The Hump",
-      "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
+      "duration_ms": 193516,
+      "name": "Be on the Lookout",
+      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
     },
     {
       "added_at": "2021-03-05 05:01:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 264974,
       "name": "Spanish Joint",
       "url": "https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs"
-    },
-    {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
-        "name": "Be on the Lookout",
-        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 193516,
-      "name": "Be on the Lookout",
-      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1195,34 +1195,6 @@
       "duration_ms": 675160,
       "name": "Happy 'Cause I'm Goin' Home",
       "url": "https://open.spotify.com/track/7GAKkO3EXsJZvsG1racYMa"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Kresten Osgood Plays the Organ for You",
-        "url": "https://open.spotify.com/album/1ffpH63vJM6iPzjFh4zZvy"
-      },
-      "artists": [
-        {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        },
-        {
-          "name": "Fridolin Nords\u00f8",
-          "url": "https://open.spotify.com/artist/2qLjyNymCY5pZCIqLAr8m8"
-        },
-        {
-          "name": "Ludomir Dietl",
-          "url": "https://open.spotify.com/artist/1w4oaKISx1TcNXycUS00sC"
-        },
-        {
-          "name": "Arto Eriksen",
-          "url": "https://open.spotify.com/artist/4AxRonSdmKJKu8ADVhRHKo"
-        }
-      ],
-      "duration_ms": 215754,
-      "name": "Play it Back",
-      "url": "https://open.spotify.com/track/56080Y6qVNpxpUAU5ho4Y7"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1269,36 +1241,32 @@
       "url": "https://open.spotify.com/track/2h10K0zxg9tgIoSWbPNRUS"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
+      "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "Rajazz",
-        "url": "https://open.spotify.com/album/2IEJmkWyLc4HgpbDhSP6f2"
+        "name": "Kresten Osgood Plays the Organ for You",
+        "url": "https://open.spotify.com/album/1ffpH63vJM6iPzjFh4zZvy"
       },
       "artists": [
         {
-          "name": "Alberto Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28"
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
         },
         {
-          "name": "Jeff Ballard",
-          "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
+          "name": "Fridolin Nords\u00f8",
+          "url": "https://open.spotify.com/artist/2qLjyNymCY5pZCIqLAr8m8"
         },
         {
-          "name": "Daniel Somaroo",
-          "url": "https://open.spotify.com/artist/1lKgrajFyGCa9nq0grjZ9A"
+          "name": "Ludomir Dietl",
+          "url": "https://open.spotify.com/artist/1w4oaKISx1TcNXycUS00sC"
         },
         {
-          "name": "Raphael Rosse",
-          "url": "https://open.spotify.com/artist/1T3rl1r7fJFstutBOCZ4Mp"
-        },
-        {
-          "name": "Gerry Lopez",
-          "url": "https://open.spotify.com/artist/5gU6wIqxR6dExHo6JJpknk"
+          "name": "Arto Eriksen",
+          "url": "https://open.spotify.com/artist/4AxRonSdmKJKu8ADVhRHKo"
         }
       ],
-      "duration_ms": 441426,
-      "name": "Rajazz",
-      "url": "https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx"
+      "duration_ms": 215754,
+      "name": "Play it Back",
+      "url": "https://open.spotify.com/track/56080Y6qVNpxpUAU5ho4Y7"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1335,6 +1303,38 @@
       "duration_ms": 372946,
       "name": "Saturday Night Special",
       "url": "https://open.spotify.com/track/6Fvh7mH7jFE4PuXQlQeRt9"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Rajazz",
+        "url": "https://open.spotify.com/album/2IEJmkWyLc4HgpbDhSP6f2"
+      },
+      "artists": [
+        {
+          "name": "Alberto Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28"
+        },
+        {
+          "name": "Jeff Ballard",
+          "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
+        },
+        {
+          "name": "Daniel Somaroo",
+          "url": "https://open.spotify.com/artist/1lKgrajFyGCa9nq0grjZ9A"
+        },
+        {
+          "name": "Raphael Rosse",
+          "url": "https://open.spotify.com/artist/1T3rl1r7fJFstutBOCZ4Mp"
+        },
+        {
+          "name": "Gerry Lopez",
+          "url": "https://open.spotify.com/artist/5gU6wIqxR6dExHo6JJpknk"
+        }
+      ],
+      "duration_ms": 441426,
+      "name": "Rajazz",
+      "url": "https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1449,6 +1449,22 @@
       "url": "https://open.spotify.com/track/7iSSsyuZwrBrw9f3hernoc"
     },
     {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "The Positive and the Negative",
+        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 287349,
+      "name": "The Positive and the Negative",
+      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
+    },
+    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Chardonnay Kisses",
@@ -1469,36 +1485,36 @@
       "url": "https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
+      "added_at": "2021-02-05 05:01:00",
       "album": {
-        "name": "The Positive and the Negative",
-        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
+        "name": "Sunray Junonia",
+        "url": "https://open.spotify.com/album/6vJzBismVQ09YEfkGQg9k9"
       },
       "artists": [
         {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 287349,
-      "name": "The Positive and the Negative",
-      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Tell Your Friends (Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/7nyOdcTNJfbRJsDSKcJfDe"
-      },
-      "artists": [
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
         {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+          "name": "Kosie",
+          "url": "https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb"
+        },
+        {
+          "name": "Chino Corval\u00e1n",
+          "url": "https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Tamuz",
+          "url": "https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA"
         }
       ],
-      "duration_ms": 386583,
-      "name": "Anomynous (Bonus Track) - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7CrWyrb9ueT6koXfBABJJJ"
+      "duration_ms": 300000,
+      "name": "Sunray Junonia",
+      "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
     }
   ],
   "unique_name": "Jazz-Funk",

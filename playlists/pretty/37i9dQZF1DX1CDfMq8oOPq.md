@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Fenda
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,498 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,540 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 29 | [De Fé](https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU) | [De Fé](https://open.spotify.com/album/7yvEzXsMNAIGBQtd0luLDZ) | 2:24 |
 | 30 | [Se Envolver](https://open.spotify.com/track/5Mu7uE5PxXJsGLOpjMUjYJ) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [VV Clã](https://open.spotify.com/artist/2ekFq5fQY5a5UX7mEu17s1), [Ene Jhow](https://open.spotify.com/artist/6cRMSFgsQR4EobqdJpBkmR) | [Black Queen Vol\. 1](https://open.spotify.com/album/5xcl6VWdjYK4OGaPNCFFP1) | 2:46 |
 | 31 | [Linda Duas Vezes](https://open.spotify.com/track/09gAJP4C7rCyQyT2CkftBq) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Linda Duas Vezes](https://open.spotify.com/album/1vpJoWyk35tcsH5uAyUzso) | 2:34 |
-| 32 | [Melhor do Ano](https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:33 |
-| 33 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 |
+| 32 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 |
+| 33 | [Melhor do Ano](https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:33 |
 | 34 | [Girlgang](https://open.spotify.com/track/6b9BbNiHZkmGCXkSzTls5I) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Girlgang](https://open.spotify.com/album/2YCY4UZq39Q6IXI1wJBrBJ) | 3:55 |
 | 35 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
 | 36 | [Drip do Gaza](https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Calado Beats](https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN) | [Drip do Gaza](https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9) | 2:02 |
 | 37 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
-| 38 | [Porta Malas](https://open.spotify.com/track/4oYbNX6n4aVdyNrLalcjo4) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Porta Mala](https://open.spotify.com/album/6PRJZZi5iupZTLCklur4bs) | 2:01 |
+| 38 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 39 | [Molinha](https://open.spotify.com/track/4l9eU058jn4MM9EEBA4hIo) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV) | [ÀTÚNWA](https://open.spotify.com/album/05F9ReKiKZ3SVxNpmQd0qL) | 4:14 |
 | 40 | [Segredo](https://open.spotify.com/track/1vQXkWFnyhotk8WhS7gRxA) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [Segredo](https://open.spotify.com/album/1ASqKOHKRjm5j0qQlSCGz3) | 2:58 |
 | 41 | [Malandrona](https://open.spotify.com/track/5CNE1OG4dUufkO8NrKlfxF) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Malandrona](https://open.spotify.com/album/2zMrmtd5uzAjLO83Fr2pVc) | 3:24 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 43 | [FREESTYLE DAS FAIXA ROSA](https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL) | 2:35 |
 | 44 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 |
 | 45 | [Difere](https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J) | [Difere](https://open.spotify.com/album/1CqyxG4xsl7HoqBPGwWVhQ) | 2:12 |
-| 46 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
+| 46 | [Porta Malas](https://open.spotify.com/track/4oYbNX6n4aVdyNrLalcjo4) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Porta Mala](https://open.spotify.com/album/6PRJZZi5iupZTLCklur4bs) | 2:01 |
 | 47 | [Tonight](https://open.spotify.com/track/7kuYGMg1bWRI9qhAh1sAWq) | [Pérola kenia](https://open.spotify.com/artist/3NWZS5KLAa68c19lUTHtui), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS), [Lady Ebony](https://open.spotify.com/artist/6o9CjwTAQKA8G0UE2KEJFS) | [Tonight](https://open.spotify.com/album/5JWiLjK3ldDHbGBGxsJ1xA) | 3:00 |
 | 48 | [Gloss da Fenty](https://open.spotify.com/track/0DjukObSYMD9NkhKJlB01i) | [ADH4RAA](https://open.spotify.com/artist/5b6HkQI2FG6VyL7ZnK9t1e), [Ayla On The Beat](https://open.spotify.com/artist/6k595dcIJDVjfgANp2VgTV), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Gloss da Fenty](https://open.spotify.com/album/6CeFh6CSzKy1bc26R0155q) | 2:30 |
 | 49 | [Ritmada e Pixadona](https://open.spotify.com/track/3ulPHMUKYGIkaAuKMeCQvY) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [L3OZIN](https://open.spotify.com/artist/3xbUtkAk7Bbhwosg3mI3ez) | [Ritmada e Pixadona](https://open.spotify.com/album/202zAHkreptTG0EXvqNNfb) | 3:25 |
 | 50 | [Muito Calma](https://open.spotify.com/track/484fU778Jn6fDeULn8idei) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Muito Calma](https://open.spotify.com/album/4VJMzjxx8vs1mJTbpJazrN) | 3:02 |
 
-Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMDllYjA3YWEzODRlYjg4YmZmMWJhYzg2YzFlNTZkNmJl`
+Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMGFmMDU1MzE1YWQ1Njg3M2I5NWIyZjdhODY2NjZmMzNj`

@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 101182,
+  "num_followers": 101242,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MjcyNCwwMDAwMDAwMDhmYzZmNDYzNGZiMDM5ZTU2NDQ4OGI5NTQ4Y2JiZTI1",
+  "snapshot_id": "MTY2MDg4MjcyNCwwMDAwMDAwMDkxODI5ZjIyZTBmNjE2MDY5MDQ1NmM5MDgxYmM0MTcz",
   "tracks": [
     {
       "added_at": "2022-08-19 04:18:44",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
+    },
+    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Wake Up, Get Down",
@@ -755,22 +771,6 @@
       "duration_ms": 259816,
       "name": "Wake Up, Get Down",
       "url": "https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "EL SUR",
-        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "BOMBAY",
-      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "The Lion King: The Gift [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Melo-X",
-          "url": "https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE"
-        }
-      ],
-      "duration_ms": 216339,
-      "name": "FIND YOUR WAY BACK - MELO-X Remix",
-      "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 178218,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "The Lion King: The Gift [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Melo-X",
+          "url": "https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE"
+        }
+      ],
+      "duration_ms": 216339,
+      "name": "FIND YOUR WAY BACK - MELO-X Remix",
+      "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
     },
     {
       "added_at": "2022-05-02 22:05:00",

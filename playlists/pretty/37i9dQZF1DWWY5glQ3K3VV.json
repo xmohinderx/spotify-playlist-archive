@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove",
-  "num_followers": 58081,
+  "num_followers": 58157,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDlhYzc3ZGM2OTg0N2Y1YTJhNzAzM2IyMTZmMDI2MDFl",
+  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDVmODQ1Y2UwZjNhYmRiMGNmYWI5NjQyYWE3Yjk2MGEy",
   "tracks": [
     {
       "added_at": "2022-08-04 22:01:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
+        "name": "Sottozero",
+        "url": "https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 171839,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/0D7gNQErvyNXUo8fwhJtiA"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
         "name": "No y No",
         "url": "https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 132587,
       "name": "Corso Europa",
       "url": "https://open.spotify.com/track/5uzsoxwEGHQe1xcUTrn55e"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
-        "name": "Sottozero",
-        "url": "https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 171839,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/0D7gNQErvyNXUo8fwhJtiA"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1031,22 +1031,22 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
+        "name": "Michelle Pfeiffer (feat. Tony Effe)",
+        "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
       },
       "artists": [
         {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
         },
         {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         }
       ],
-      "duration_ms": 152440,
-      "name": "Twerk (con Boro Boro)",
-      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
+      "duration_ms": 180774,
+      "name": "Michelle Pfeiffer (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Michelle Pfeiffer (feat. Tony Effe)",
-        "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
       },
       "artists": [
         {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
         },
         {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
         }
       ],
-      "duration_ms": 180774,
-      "name": "Michelle Pfeiffer (feat. Tony Effe)",
-      "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
+      "duration_ms": 152440,
+      "name": "Twerk (con Boro Boro)",
+      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 201160,
       "name": "C'EST PAS FACIL",
       "url": "https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1407,22 +1407,18 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
         }
       ],
-      "duration_ms": 191869,
-      "name": "Hollywood (feat. Diplo)",
-      "url": "https://open.spotify.com/track/1gnKOz6FFFOcP3DqvDz0Rt"
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     }
   ],
   "unique_name": "Club Rap ",

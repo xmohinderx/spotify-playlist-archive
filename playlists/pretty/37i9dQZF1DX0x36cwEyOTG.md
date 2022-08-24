@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,310 likes - 110 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,364 likes - 110 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 29 | [Alright](https://open.spotify.com/track/7EqB4Si62qbT1P8Yf3ZPKH) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Kindly Now](https://open.spotify.com/album/2STN4lLvNNRsO0FuatKqVI) | 4:39 |
 | 30 | [Wrapped In Piano Strings](https://open.spotify.com/track/4zCKcMys29lH8xOYeiDYod) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 3:37 |
 | 31 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
-| 32 | [Husks And Shells](https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Unmap](https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3) | 3:43 |
-| 33 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
+| 32 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
+| 33 | [Husks And Shells](https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Unmap](https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3) | 3:43 |
 | 34 | [Caves](https://open.spotify.com/track/6WPtRyhuxR2g4q6fMZi6Xx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 3:53 |
 | 35 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 |
 | 36 | [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 71 | [Cloud Speed](https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S) | [Sad Souls](https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte) | [Apeiron](https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6) | 3:05 |
 | 72 | [Regenerative Being](https://open.spotify.com/track/7kmdM9DytC01GsvctF6beZ) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/3dMHJ1fnsUNjt8LtH8IjMS) | 7:21 |
 | 73 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
-| 74 | [Made of Gold](https://open.spotify.com/track/2HdZcT7RL1cgVz5sbvmyQ5) | [Albert af Ekenstam](https://open.spotify.com/artist/4c6Qf7d1Zjv5ChEK9TTztG) | [Ashes](https://open.spotify.com/album/16NqLbiucfHH7W7yzDUNSA) | 3:49 |
-| 75 | [First Rain](https://open.spotify.com/track/3RoMEppHj4Q80lHLwFx0lp) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Themes for Dying Earth](https://open.spotify.com/album/23g4cu8Pp9yY2vTp3Wf96y) | 3:57 |
+| 74 | [First Rain](https://open.spotify.com/track/3RoMEppHj4Q80lHLwFx0lp) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Themes for Dying Earth](https://open.spotify.com/album/23g4cu8Pp9yY2vTp3Wf96y) | 3:57 |
+| 75 | [Made of Gold](https://open.spotify.com/track/2HdZcT7RL1cgVz5sbvmyQ5) | [Albert af Ekenstam](https://open.spotify.com/artist/4c6Qf7d1Zjv5ChEK9TTztG) | [Ashes](https://open.spotify.com/album/16NqLbiucfHH7W7yzDUNSA) | 3:49 |
 | 76 | [Fire\-scene](https://open.spotify.com/track/3gMm2hNU0B9vMiJJGSMWfk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Range of Light](https://open.spotify.com/album/1vZXJuVIRT18sZjea6ME2H) | 4:35 |
 | 77 | [Strange Darling](https://open.spotify.com/track/6wzbsVJ4qH3pdzYqm8hVXk) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Strange Darling \- EP](https://open.spotify.com/album/1olv4rODurd0yqk8qMh091) | 3:42 |
 | 78 | [Slack Jaw \- Echo Mountain Sessions](https://open.spotify.com/track/2tgzwqArTmTiVD76fbHlWs) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Echo Mountain Sessions EP](https://open.spotify.com/album/7iMZ2wghJOguDaRo8Pn1DU) | 3:30 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 80 | [Big Light](https://open.spotify.com/track/6Brl1KblZxDsOSgEuSHBuO) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [A Quiet Darkness](https://open.spotify.com/album/0PERfSHIEXbw9sNTxL4qgo) | 4:48 |
 | 81 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 82 | [Meadow Song](https://open.spotify.com/track/1XDGbnepd3c3kqYsy6E0fx) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:56 |
-| 83 | [Bones](https://open.spotify.com/track/0C9X3O7dYZ36kTtyF4RDQi) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE), [Jófríõur Ákadóttir](https://open.spotify.com/artist/2gNKNQJFNtwUAi7IH4HA2V) | [Bones](https://open.spotify.com/album/76PbBNOBUO3BcyTx3ltuUR) | 2:49 |
-| 84 | [Baiulus](https://open.spotify.com/track/4WrMtEJz0usjxG5ZbHe8HW) | [The Black Atlantic](https://open.spotify.com/artist/33kge1mmCkHoYWJ4kJe6BC) | [Reverence for Fallen Trees](https://open.spotify.com/album/5oWfY3VNTnAJzSauzsn2Qh) | 1:36 |
+| 83 | [Baiulus](https://open.spotify.com/track/4WrMtEJz0usjxG5ZbHe8HW) | [The Black Atlantic](https://open.spotify.com/artist/33kge1mmCkHoYWJ4kJe6BC) | [Reverence for Fallen Trees](https://open.spotify.com/album/5oWfY3VNTnAJzSauzsn2Qh) | 1:36 |
+| 84 | [Bones](https://open.spotify.com/track/0C9X3O7dYZ36kTtyF4RDQi) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE), [Jófríõur Ákadóttir](https://open.spotify.com/artist/2gNKNQJFNtwUAi7IH4HA2V) | [Bones](https://open.spotify.com/album/76PbBNOBUO3BcyTx3ltuUR) | 2:49 |
 | 85 | [Our Love's Funeral](https://open.spotify.com/track/4AXklvY4icjXZQf3vFAZug) | [Racoon Racoon](https://open.spotify.com/artist/2xon3zKeNiNsmdRs2bNK04) | [Our Love's Funeral](https://open.spotify.com/album/1jG0JzLRYJR4odNdlfHOmm) | 2:45 |
 | 86 | [Better Man](https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Better Man](https://open.spotify.com/album/16Qyxh5RzD90SCLNazBqQr) | 4:55 |
 | 87 | [Dark Clouds](https://open.spotify.com/track/0cVVoj6Iik6TTogJgcWJnJ) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Dark Clouds](https://open.spotify.com/album/42WblGGFxS4DtbpJLl8Ih8) | 3:30 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [My Dove, My Lamb](https://open.spotify.com/track/2XhWwcxr9BJCZsCqVyeswH) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Pride](https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX) | 9:25 |
 | 110 | [Please](https://open.spotify.com/track/09C592kGYvxDfJSBnzufCU) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Please](https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ) | 3:33 |
 
-Snapshot ID: `MTYwMjc5Mzk0MiwwMDAwMDAwMDVjYjEyYjRjZDBmNDI1NmNhNmFmODI3ZjUzNTVhYjA5`
+Snapshot ID: `MTYwMjc5Mzk0MiwwMDAwMDAwMDg5MGFkMWFlZjc0NTJhNmU5NjEwMTllNDE5YjJlNzhk`

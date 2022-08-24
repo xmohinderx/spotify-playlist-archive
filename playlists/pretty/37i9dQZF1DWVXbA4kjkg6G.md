@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,880 likes - 75 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,174 likes - 75 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 36 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
 | 37 | [Turquoise Hexagon Sun](https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:07 |
 | 38 | [Unreal](https://open.spotify.com/track/0vkxviQkVKdgxEdmDncedH) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 5:08 |
-| 39 | [Bug Powder Dust \- Kruder & Dorfmeister Dub](https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Peter Kruder](https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC), [Richard Dorfmeister](https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h) | [Lifestyle2 \- Chill Lounge Vol 1](https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9) | 6:14 |
-| 40 | [Chocolate Elvis](https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Opera](https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC) | 5:02 |
+| 39 | [Chocolate Elvis](https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Opera](https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC) | 5:02 |
+| 40 | [Bug Powder Dust \- Kruder & Dorfmeister Dub](https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Peter Kruder](https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC), [Richard Dorfmeister](https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h) | [Lifestyle2 \- Chill Lounge Vol 1](https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9) | 6:14 |
 | 41 | [Trigger Hippie](https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Who Can You Trust? / Beats & B\-Sides](https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr) | 5:32 |
 | 42 | [Deep Shit, Pt\. 1 & 2](https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:21 |
 | 43 | [The Rhyme Goes On](https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB) | [Poets of Thought](https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ) | [Earth, Vol\. 1](https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y) | 4:15 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 66 | [The Next Shit](https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [USSR Repertoire / The Theory Of Verticality](https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv) | 2:09 |
 | 67 | [No Government](https://open.spotify.com/track/20Wu65TWDvjqRK4Rrzsmp8) | [Nicolette](https://open.spotify.com/artist/0ZC2lg6yD32OG48YKBi7Id) | [Trip Hop Classics By Kid Loco](https://open.spotify.com/album/7oJnqZrIB4VhuJJAb73KHC) | 5:32 |
 | 68 | [Dieu Reconnaitra Les Siens](https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 6:02 |
-| 69 | [City Lights \- City of Starsigns](https://open.spotify.com/track/7w2ETRLrBKR5j8HaWvbKTX) | [Patrick Pulsinger](https://open.spotify.com/artist/3MXePESrFifdxyENQfsaid) | [Dogmatic Sequences, Vol\. 2](https://open.spotify.com/album/0dVkLBFLNIIyOT3kSL0oEi) | 5:58 |
-| 70 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 |
+| 69 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 |
+| 70 | [City Lights \- City of Starsigns](https://open.spotify.com/track/7w2ETRLrBKR5j8HaWvbKTX) | [Patrick Pulsinger](https://open.spotify.com/artist/3MXePESrFifdxyENQfsaid) | [Dogmatic Sequences, Vol\. 2](https://open.spotify.com/album/0dVkLBFLNIIyOT3kSL0oEi) | 5:58 |
 | 71 | [ESSENTIAL DUB](https://open.spotify.com/track/7HMSAvaWG8k1BDHidNBIEd) | [MAJOR FORCE PRODUCTIONS](https://open.spotify.com/artist/5Z99aXhW98nAr8Y6SLF08c) | [MAJOR FORCE RARE TRACKS](https://open.spotify.com/album/2iwcIsLMS4YqlW0h4OwgDd) | 4:58 |
 | 72 | [Bug Powder Dust \- Kruder & Dorfmeister Session](https://open.spotify.com/track/2LPJmgAK8YNvIIa8ue58rI) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Justin Warfield](https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA) | [Trip Hop Classics](https://open.spotify.com/album/0SatpsNu81KdWzit0pmCb3) | 7:27 |
 | 73 | [Long Road](https://open.spotify.com/track/2b1E782QABZaTux77fwlbV) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:01 |
-| 74 | [Galactic Funk](https://open.spotify.com/track/5DRfoGTpzVbyddq2LMe6ZD) | [DJ Spooky](https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm) | [This Is Home Entertainment](https://open.spotify.com/album/3evzzoWZxpu1buDbcSc2fn) | 6:07 |
-| 75 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
+| 74 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
+| 75 | [Galactic Funk](https://open.spotify.com/track/5DRfoGTpzVbyddq2LMe6ZD) | [DJ Spooky](https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm) | [This Is Home Entertainment](https://open.spotify.com/album/3evzzoWZxpu1buDbcSc2fn) | 6:07 |
 
-Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDQzODIxYTg0ZGZlZmU1ZjZlMDg1MjE1NWI2MTg1NjMx`
+Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDdkNmRjNDVhMmJkNTdjNTkzMDZhNTczYjgyZmMzYmQ5`

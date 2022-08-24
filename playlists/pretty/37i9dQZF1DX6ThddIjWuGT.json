@@ -1,12 +1,12 @@
 {
   "description": "Timeless Latin pop hits through the decades! Cover: Juanes",
-  "num_followers": 1855451,
+  "num_followers": 1855816,
   "original_name": "Latin Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzc0NCwwMDAwMDAwMDBhMTA5MDZiOWY2NzU1NGFlOGQ5ZWI3NjQ0NWIxMjY4",
+  "snapshot_id": "MTY1OTcxNzc0NCwwMDAwMDAwMGYxYjkzZTkxZjMyNDM1Njk2YTE0MWE1OTk4OTU1MmVj",
   "tracks": [
     {
       "added_at": "2022-08-05 16:42:24",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX"
+    },
+    {
+      "added_at": "2022-08-05 16:42:24",
+      "album": {
         "name": "Latina",
         "url": "https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 227693,
       "name": "Desde Esa Noche (feat. Maluma)",
       "url": "https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E"
-    },
-    {
-      "added_at": "2022-08-05 16:42:24",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX"
     },
     {
       "added_at": "2022-08-05 16:42:24",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
-    },
-    {
-      "added_at": "2022-08-05 16:42:24",
-      "album": {
         "name": "Des/Amor",
         "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 199920,
       "name": "Voy a Olvidarte",
       "url": "https://open.spotify.com/track/6UwB2R8I5LoUmmYc0mphdl"
+    },
+    {
+      "added_at": "2022-08-05 16:42:24",
+      "album": {
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
     },
     {
       "added_at": "2022-08-05 16:42:24",
@@ -1511,22 +1511,18 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
-        "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
-        "url": "https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a"
+        "name": "Depende",
+        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 220116,
-      "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
-      "url": "https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l"
+      "duration_ms": 265160,
+      "name": "Depende",
+      "url": "https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9"
     },
     {
       "added_at": "2022-08-05 16:42:24",
@@ -1547,18 +1543,22 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
-        "name": "Depende",
-        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
+        "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
+        "url": "https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a"
       },
       "artists": [
         {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 265160,
-      "name": "Depende",
-      "url": "https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9"
+      "duration_ms": 220116,
+      "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
+      "url": "https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l"
     },
     {
       "added_at": "2022-08-05 16:42:24",

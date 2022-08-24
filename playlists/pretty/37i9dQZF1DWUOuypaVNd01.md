@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nochica, Vitin, SD9, JEFFRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,835 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,888 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 34 | [Me liga](https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Me liga](https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7) | 2:30 |
 | 35 | [Rumo ao Estrelato](https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Rumo ao Estrelato](https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9) | 2:49 |
 | 36 | [CHELSEA](https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [BRIME!](https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979) | 2:30 |
-| 37 | [Ruas Perigosas](https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Pepito](https://open.spotify.com/artist/27agYrHqpHeDP8mI0gtw7N) | [Ruas Perigosas](https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV) | 3:15 |
+| 37 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
 | 38 | [Encomenda](https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:37 |
-| 39 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
+| 39 | [Ruas Perigosas](https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Pepito](https://open.spotify.com/artist/27agYrHqpHeDP8mI0gtw7N) | [Ruas Perigosas](https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV) | 3:15 |
 | 40 | [Serenata](https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [O Peso das Barra](https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL) | 2:38 |
 | 41 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 |
 | 42 | [Dez e Faixa](https://open.spotify.com/track/6IL4ZRTz8QlJ6VuSg3F3Rv) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [TONCALi](https://open.spotify.com/artist/3enZVLaByIf1A6appp41gc) | [Dez e Faixa](https://open.spotify.com/album/0soK3TwSlDh53P3q48WPdK) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Filho Do Mundo](https://open.spotify.com/track/34QqggQ2otat4LswT24f8k) | [Bruttu](https://open.spotify.com/artist/6lBNxnxa6HBQskmiPZTwGQ), [Rafinha No Beat](https://open.spotify.com/artist/6zM44V7R04R6uVZFvUkWWG) | [Filho Do Mundo](https://open.spotify.com/album/5ewti4gLg9xquF9aUTedCo) | 2:00 |
 | 50 | [Herança](https://open.spotify.com/track/533AKJNxbvkYCOP0M0jB7g) | [Òggi](https://open.spotify.com/artist/5pzvzy77au5p2HzOrndp3P), [FelpsDead.](https://open.spotify.com/artist/03axc9aM7P1oy73zT1Atjm) | [Herança](https://open.spotify.com/album/4RHNwCYaQw31hTBpBI0Lmr) | 2:16 |
 
-Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMDA3MTcwZTI4NjU2NTc2NmQxODdjOTIwNmU3MjgyOGQz`
+Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMGJkMDA3NzBjMzA3MWUzYTNkMjk0YzQ0MGRkYmRhNjZm`

@@ -4,7 +4,7 @@
 
 > Rave season is upon us\. Cover: Jeremy Olander
 
-116 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+117 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Out of Focus \(feat\. Zoot Woman\) \- Âme Remix](https://open.spotify.com/track/3jc7WSwiPPAjdokdwVflJk) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Zoot Woman](https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 6:24 | 2022-08-18 |  |
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-08-18 | 2022-08-20 |
 | [Papillon](https://open.spotify.com/track/1vpOY0slxNwm6EO7ykjsfZ) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Papillon](https://open.spotify.com/album/2ExOArPbBauMUMJsfxFRaT) | 7:06 | 2022-08-19 |  |
-| [Poke Bowl](https://open.spotify.com/track/3C7sz0HzEs8NGsHbNC5clu) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Poke Bowl](https://open.spotify.com/album/4aQY42XWlHFFOYeDLQXuJ0) | 3:14 | 2022-08-18 |  |
+| [Poke Bowl](https://open.spotify.com/track/3C7sz0HzEs8NGsHbNC5clu) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Poke Bowl](https://open.spotify.com/album/4aQY42XWlHFFOYeDLQXuJ0) | 3:14 | 2022-08-18 | 2022-08-24 |
+| [Rise Again](https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Rise Again](https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi) | 3:03 | 2022-08-18 |  |
 | [Run](https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [U](https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf) | 5:59 | 2022-08-18 |  |
 | [Rush](https://open.spotify.com/track/1gwAzMEi7n9fovhhHwZ1MW) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Rush](https://open.spotify.com/album/0dLuDCa81WZsmU68WQbYUx) | 3:36 | 2022-08-18 |  |
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2022-08-18 |  |

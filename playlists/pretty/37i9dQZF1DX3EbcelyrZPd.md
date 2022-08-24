@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,813 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,859 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 |
 | 2 | [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 |
-| 3 | [Hadithi \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn) | [Barnaba](https://open.spotify.com/artist/6Ln31lD7imGAPW0HV00IiT), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 2:38 |
+| 3 | [Hadithi \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 2:38 |
 | 4 | [Closer](https://open.spotify.com/track/4tcINUMLwOk74IJqeoTv8W) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Closer](https://open.spotify.com/album/0w6C76lbJGFdiKQlwfYNPm) | 3:18 |
 | 5 | [Naogopa](https://open.spotify.com/track/7dpCzGxbcTzSL3j6mKdSuG) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Naogopa](https://open.spotify.com/album/0YkcJmRaaQwGjs5BPoQaP5) | 4:00 |
 | 6 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 |

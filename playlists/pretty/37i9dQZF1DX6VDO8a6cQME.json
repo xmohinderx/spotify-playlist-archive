@@ -1,12 +1,12 @@
 {
   "description": "The '90s had an amazing soundtrack. Let's reminisce with these R&B jams!",
-  "num_followers": 2939384,
+  "num_followers": 2940142,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTA4MTMyMCwwMDAwMDAwMGEzYzE1ZmZiYWUxMDJjNjJlODRjYzMxZGNlZDFjYjE2",
+  "snapshot_id": "MTY2MTIyMzQ5MCwwMDAwMDAwMDBmNmZiZjViNmE0MGJmODRjOThhODMyNjRkZjE5MDVj",
   "tracks": [
     {
       "added_at": "2022-07-28 15:25:39",
@@ -389,6 +389,22 @@
       "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
     },
     {
+      "added_at": "2022-08-23 02:58:10",
+      "album": {
+        "name": "Love Soul",
+        "url": "https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m"
+      },
+      "artists": [
+        {
+          "name": "MoKenStef",
+          "url": "https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "He's Mine",
+      "url": "https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn"
+    },
+    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "The Best of Tevin Campbell",
@@ -589,30 +605,6 @@
       "url": "https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG"
     },
     {
-      "added_at": "2022-07-28 15:25:39",
-      "album": {
-        "name": "One In A Million",
-        "url": "https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 275250,
-      "name": "Hot Like Fire (Timbaland's Groove Mix) (feat. Missy Elliott & Timbaland) - Bonus",
-      "url": "https://open.spotify.com/track/0AVpYUg9VAvkOqlqfCyn30"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Share My World",
@@ -647,6 +639,30 @@
       "duration_ms": 260066,
       "name": "Every Little Thing I Do",
       "url": "https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07"
+    },
+    {
+      "added_at": "2022-07-28 15:25:39",
+      "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 275250,
+      "name": "Hot Like Fire (Timbaland's Groove Mix) (feat. Missy Elliott & Timbaland) - Bonus",
+      "url": "https://open.spotify.com/track/0AVpYUg9VAvkOqlqfCyn30"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -775,22 +791,6 @@
       "duration_ms": 281880,
       "name": "Can't You See",
       "url": "https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 349560,
-      "name": "Be Happy",
-      "url": "https://open.spotify.com/track/5X82VFLvjpeWQlTSShqqj0"
     }
   ],
   "unique_name": "I Love My '90s R&B",

@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 32497,
+  "num_followers": 32552,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTU3NDUxNCwwMDAwMDAwMDU3NDZiN2VlMjRjY2ZkMzM0ZTI3NDQwZWJhOWM0ZjBm",
+  "snapshot_id": "MTYyOTU3NDUxNCwwMDAwMDAwMGU3ZWI3MjE5NGYxZDVhZGRiODk3NTgwOWE2MGI1ZTk4",
   "tracks": [
     {
       "added_at": "2021-08-21 19:35:14",
@@ -339,6 +339,22 @@
     {
       "added_at": "2021-08-21 19:35:14",
       "album": {
+        "name": "Char",
+        "url": "https://open.spotify.com/album/1YwI8GobyuUmdxaOLIODKp"
+      },
+      "artists": [
+        {
+          "name": "Char",
+          "url": "https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf"
+        }
+      ],
+      "duration_ms": 355666,
+      "name": "Shinin\u2019 You, Shinin\u2019 Day",
+      "url": "https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC"
+    },
+    {
+      "added_at": "2021-08-21 19:35:14",
+      "album": {
         "name": "WE ARE JUST TAKING OFF",
         "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2021-08-21 19:35:14",
       "album": {
-        "name": "Char",
-        "url": "https://open.spotify.com/album/1YwI8GobyuUmdxaOLIODKp"
-      },
-      "artists": [
-        {
-          "name": "Char",
-          "url": "https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf"
-        }
-      ],
-      "duration_ms": 355666,
-      "name": "Shinin\u2019 You, Shinin\u2019 Day",
-      "url": "https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC"
-    },
-    {
-      "added_at": "2021-08-21 19:35:14",
-      "album": {
         "name": "Let's Do It",
         "url": "https://open.spotify.com/album/3XaoPCKp7aRJN8666rx394"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-08-21 19:35:14",
       "album": {
-        "name": "\u30c7\u30c3\u30c9\u30ea\u30a4\u30fb\u30c9\u30e9\u30a4\u30d6 (40\u5468\u5e74\u8a18\u5ff5\u30c7\u30e9\u30c3\u30af\u30b9\u30fb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
-        "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
-      },
-      "artists": [
-        {
-          "name": "Ginji Ito",
-          "url": "https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY"
-        }
-      ],
-      "duration_ms": 354746,
-      "name": "\u3053\u306c\u304b\u96e8",
-      "url": "https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0"
-    },
-    {
-      "added_at": "2021-08-21 19:35:14",
-      "album": {
         "name": "City Lights by the Moonlight",
         "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2021-08-21 19:35:14",
       "album": {
-        "name": "\u30ad\u30e3\u30e9\u30e1\u30eb\u30fb\u30de\u30de",
-        "url": "https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG"
+        "name": "\u30c7\u30c3\u30c9\u30ea\u30a4\u30fb\u30c9\u30e9\u30a4\u30d6 (40\u5468\u5e74\u8a18\u5ff5\u30c7\u30e9\u30c3\u30af\u30b9\u30fb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
       },
       "artists": [
         {
-          "name": "\u30c6\u30a3\u30f3\u30fb\u30d1\u30f3\u30fb\u30a2\u30ec\u30fc",
-          "url": "https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ"
+          "name": "Ginji Ito",
+          "url": "https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY"
         }
       ],
-      "duration_ms": 209053,
-      "name": "\u30bd\u30d0\u30ab\u30b9\u306e\u3042\u308b\u5c11\u5973",
-      "url": "https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx"
+      "duration_ms": 354746,
+      "name": "\u3053\u306c\u304b\u96e8",
+      "url": "https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0"
     },
     {
       "added_at": "2021-08-21 19:35:14",
@@ -535,6 +519,22 @@
     {
       "added_at": "2021-08-21 19:35:14",
       "album": {
+        "name": "\u30ad\u30e3\u30e9\u30e1\u30eb\u30fb\u30de\u30de",
+        "url": "https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a3\u30f3\u30fb\u30d1\u30f3\u30fb\u30a2\u30ec\u30fc",
+          "url": "https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "\u30bd\u30d0\u30ab\u30b9\u306e\u3042\u308b\u5c11\u5973",
+      "url": "https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx"
+    },
+    {
+      "added_at": "2021-08-21 19:35:14",
+      "album": {
         "name": "SUMMER KNOWS",
         "url": "https://open.spotify.com/album/2gjQ3FxHHiYyjzn634Si1c"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 281680,
       "name": "\u30d4\u30f3\u30af\u30fb\u30b7\u30e3\u30c9\u30a6",
       "url": "https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS"
-    },
-    {
-      "added_at": "2021-08-21 19:35:14",
-      "album": {
-        "name": "\u30c7\u30c3\u30c9\u30ea\u30a4\u30fb\u30c9\u30e9\u30a4\u30d6 (40\u5468\u5e74\u8a18\u5ff5\u30c7\u30e9\u30c3\u30af\u30b9\u30fb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
-        "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
-      },
-      "artists": [
-        {
-          "name": "Ginji Ito",
-          "url": "https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "\u98a8\u306b\u306a\u308c\u308b\u306a\u3089 - Single Version",
-      "url": "https://open.spotify.com/track/6nk9e6hnN2pGJocWoWgE7f"
     },
     {
       "added_at": "2021-08-21 19:35:14",
@@ -603,6 +587,22 @@
     {
       "added_at": "2021-08-21 19:35:14",
       "album": {
+        "name": "\u30c7\u30c3\u30c9\u30ea\u30a4\u30fb\u30c9\u30e9\u30a4\u30d6 (40\u5468\u5e74\u8a18\u5ff5\u30c7\u30e9\u30c3\u30af\u30b9\u30fb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
+      },
+      "artists": [
+        {
+          "name": "Ginji Ito",
+          "url": "https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "\u98a8\u306b\u306a\u308c\u308b\u306a\u3089 - Single Version",
+      "url": "https://open.spotify.com/track/6nk9e6hnN2pGJocWoWgE7f"
+    },
+    {
+      "added_at": "2021-08-21 19:35:14",
+      "album": {
         "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
         "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 299160,
       "name": "LETTER TO NEW YORK",
       "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
+    },
+    {
+      "added_at": "2021-08-21 19:35:14",
+      "album": {
+        "name": "BAND WAGON (Remastered 2017)",
+        "url": "https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt"
+      },
+      "artists": [
+        {
+          "name": "Shigeru Suzuki",
+          "url": "https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Suna no Onna",
+      "url": "https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc"
     },
     {
       "added_at": "2021-08-21 19:35:14",
@@ -651,22 +667,6 @@
     {
       "added_at": "2021-08-21 19:35:14",
       "album": {
-        "name": "BAND WAGON (Remastered 2017)",
-        "url": "https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt"
-      },
-      "artists": [
-        {
-          "name": "Shigeru Suzuki",
-          "url": "https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Suna no Onna",
-      "url": "https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc"
-    },
-    {
-      "added_at": "2021-08-21 19:35:14",
-      "album": {
         "name": "SOUTH OF THE BORDER",
         "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
       },
@@ -699,6 +699,22 @@
     {
       "added_at": "2021-08-21 19:35:14",
       "album": {
+        "name": "HORO",
+        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
+      },
+      "artists": [
+        {
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
+        }
+      ],
+      "duration_ms": 233186,
+      "name": "\u6d41\u661f\u90fd\u5e02",
+      "url": "https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7"
+    },
+    {
+      "added_at": "2021-08-21 19:35:14",
+      "album": {
         "name": "Heart To Heart",
         "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 367000,
       "name": "\u3053\u306e\u8efd\u3044\u611f\u3058\u304c\u2026",
       "url": "https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE"
-    },
-    {
-      "added_at": "2021-08-21 19:35:14",
-      "album": {
-        "name": "HORO",
-        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "duration_ms": 233186,
-      "name": "\u6d41\u661f\u90fd\u5e02",
-      "url": "https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7"
     },
     {
       "added_at": "2021-08-21 19:35:14",

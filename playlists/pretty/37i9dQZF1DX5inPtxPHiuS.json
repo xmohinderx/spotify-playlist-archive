@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Oh'laville",
-  "num_followers": 78216,
+  "num_followers": 78237,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMGZlNDYyNTFiNWJmMTFkNDZiNmJhNmU1OTZlYWU1ZTJk",
+  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMGRmMTNkM2EwMGQ2NTdlNWJkMGEzZTgxODczMzFkYWYy",
   "tracks": [
     {
       "added_at": "2022-06-24 05:15:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
+        "name": "Polvo Eres",
+        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
+      },
+      "artists": [
+        {
+          "name": "La Derecha",
+          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
+        }
+      ],
+      "duration_ms": 227665,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
         "name": "Delirio",
         "url": "https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 210378,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
-        "name": "Polvo Eres",
-        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
-      },
-      "artists": [
-        {
-          "name": "La Derecha",
-          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
-        }
-      ],
-      "duration_ms": 227665,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Ma\u0301s Alla\u0301 del Tiempo",
-        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
       },
       "artists": [
         {
-          "name": "Los Rolling Ruanas",
-          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
+          "name": "Los Maricas",
+          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
         }
       ],
-      "duration_ms": 217640,
-      "name": "Ma\u0301s Alla\u0301 del Tiempo",
-      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
+      "duration_ms": 147453,
+      "name": "Ning\u00fan Lugar",
+      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
+        "name": "Ma\u0301s Alla\u0301 del Tiempo",
+        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
       },
       "artists": [
         {
-          "name": "Los Maricas",
-          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
+          "name": "Los Rolling Ruanas",
+          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
         }
       ],
-      "duration_ms": 147453,
-      "name": "Ning\u00fan Lugar",
-      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
+      "duration_ms": 217640,
+      "name": "Ma\u0301s Alla\u0301 del Tiempo",
+      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
     },
     {
       "added_at": "2022-06-24 05:15:00",

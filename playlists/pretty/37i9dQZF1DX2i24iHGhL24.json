@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Avril Lavigne",
-  "num_followers": 71753,
+  "num_followers": 71887,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGU1MjNiMzcwMTVhOWVjYjRhMjNlYzQwYWNhYWU2ZjE2",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDRhNjA2MTA1ZGM3ODQyZjRlNmVmZTk0ZjQzMzczOTY1",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Sing 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 201885,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "fingers crossed",
         "url": "https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 163090,
       "name": "fingers crossed",
       "url": "https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 201885,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/6LN1YVc2JOrc7yYWTbbONh"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 180117,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/7jolSfE1rnsBLg0DMWuTkm"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Shut up and Dance",
         "url": "https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/6LN1YVc2JOrc7yYWTbbONh"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
         }
       ],
-      "duration_ms": 274830,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
+      "duration_ms": 180117,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/7jolSfE1rnsBLg0DMWuTkm"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 195920,
       "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 274830,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I"
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Neneh Cherry",
-          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+          "name": "SADBOii",
+          "url": "https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/1v8bDsrquS2MbPcY0rXnCl"
+      "duration_ms": 190605,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1495,22 +1491,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "A Thousand Miles",
-        "url": "https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs"
-      },
-      "artists": [
-        {
-          "name": "SADBOii",
-          "url": "https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "When You Love Someone",
         "url": "https://open.spotify.com/album/2zC9v0aYykenekxCJD9DRd"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 225186,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/7bxcHHBpto3NgHAMeGCKFH"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Neneh Cherry",
+          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/1v8bDsrquS2MbPcY0rXnCl"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Wedding Songs",
         "url": "https://open.spotify.com/album/3e2GfHTpoxEbCUdCj5TRzl"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 231308,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "I'm With You",
+        "url": "https://open.spotify.com/album/3Omupu2Y8hvpJk9cinOi4a"
+      },
+      "artists": [
+        {
+          "name": "Alex Goot",
+          "url": "https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux"
+        },
+        {
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
+        }
+      ],
+      "duration_ms": 173334,
+      "name": "I'm With You",
+      "url": "https://open.spotify.com/track/3zLsU8qJbhTnd2QUu7pLtJ"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Another Bundle of Tantrums",
         "url": "https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB"
       },
@@ -1759,22 +1779,6 @@
       "duration_ms": 247816,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "No Letting Go",
-        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
-      },
-      "artists": [
-        {
-          "name": "Dan Caplen",
-          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "No Letting Go - Acoustic",
-      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1799,22 +1803,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "I'm With You",
-        "url": "https://open.spotify.com/album/3Omupu2Y8hvpJk9cinOi4a"
+        "name": "No Letting Go",
+        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
       },
       "artists": [
         {
-          "name": "Alex Goot",
-          "url": "https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux"
-        },
-        {
-          "name": "Madilyn Bailey",
-          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
+          "name": "Dan Caplen",
+          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
         }
       ],
-      "duration_ms": 173334,
-      "name": "I'm With You",
-      "url": "https://open.spotify.com/track/3zLsU8qJbhTnd2QUu7pLtJ"
+      "duration_ms": 200000,
+      "name": "No Letting Go - Acoustic",
+      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Montero (Call Me By Your Name)",
-        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 141880,
-      "name": "Montero (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
         "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 149189,
       "name": "Solar Power - Spotify Singles",
       "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Montero (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 141880,
+      "name": "Montero (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 266280,
-      "name": "Hold On, We're Going Home",
-      "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Into You",
         "url": "https://open.spotify.com/album/4gzNs2NUQpmboWO7CTbHGM"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 286506,
       "name": "Into You",
       "url": "https://open.spotify.com/track/0mzTvUqyQuXJ3J9KuVNFah"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 266280,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Dynamite (from \"Emily in Paris\" Soundtrack)",
-        "url": "https://open.spotify.com/album/2XEBvWxf5c5LQwAJTINM7Q"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 122822,
-      "name": "Dynamite - from \"Emily in Paris\" Soundtrack",
-      "url": "https://open.spotify.com/track/2kWMnHc8iORF5b8BctKxpU"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 243562,
       "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Dynamite (from \"Emily in Paris\" Soundtrack)",
+        "url": "https://open.spotify.com/album/2XEBvWxf5c5LQwAJTINM7Q"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "duration_ms": 122822,
+      "name": "Dynamite - from \"Emily in Paris\" Soundtrack",
+      "url": "https://open.spotify.com/track/2kWMnHc8iORF5b8BctKxpU"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -2791,6 +2791,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "I\u2019m With You",
+        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "I\u2019m With You",
+      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "You And I",
         "url": "https://open.spotify.com/album/0avKRT69O6IzBHiMNiAGr0"
       },
@@ -2919,22 +2935,6 @@
       "duration_ms": 145961,
       "name": "positions",
       "url": "https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "I\u2019m With You",
-        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "I\u2019m With You",
-      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
     },
     {
       "added_at": "2022-08-19 04:01:00",

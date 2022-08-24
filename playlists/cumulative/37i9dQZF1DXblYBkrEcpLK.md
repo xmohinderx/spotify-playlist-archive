@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Ado
 
-340 songs - 23 hr 33 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
+341 songs - 23 hr 37 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [ファイナルイルミネーション](https://open.spotify.com/track/6XkDGw7J1fUxQyKW1pgwh5) | [林 鼓子](https://open.spotify.com/artist/48FlBTybQEyJfkXYrfMzhR), [久保田未夢](https://open.spotify.com/artist/0ykN2PFFtkO76Y0tngyeuD), [厚木那奈美](https://open.spotify.com/artist/79ijkR9hKpwUOnTMxtFkFP), [山下七海](https://open.spotify.com/artist/5TVOIVInTUsSZRvfUgJTdL) | [キラッとプリ☆チャン♪ミュージックコレクション \(Season.3\)](https://open.spotify.com/album/1ahQmVOLhIBfFYtUatA2iC) | 3:30 | 2022-07-19 | 2022-07-24 |
 | [ブルーバード \- from CrosSing](https://open.spotify.com/track/3RyEG3799H7k2e5METVPAK) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [ブルーバード \- from CrosSing](https://open.spotify.com/album/4ZgQScgNNY1OR9trtEx8yl) | 3:38 | 2022-06-09 | 2022-07-29 |
 | [プラチナ](https://open.spotify.com/track/55VpwoQcMWJxXuqqtH6hUY) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 4:10 | 2022-06-24 | 2022-06-29 |
+| [プラチナ \- from CrosSing](https://open.spotify.com/track/0AmatthIisAg466qau2Oab) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [プラチナ \- from CrosSing](https://open.spotify.com/album/655NcCoweylwkXHPkYvD2V) | 4:09 | 2022-08-23 |  |
 | [メルティランドナイトメア](https://open.spotify.com/track/3T1BWwO2SfbpbS0NIfFIXO) | [工藤晴香](https://open.spotify.com/artist/0U9bZHBbrFVL4T4NShSvdc) | [KDHRemix](https://open.spotify.com/album/4sC38kMulQdvKywiBcdGPQ) | 4:29 | 2022-07-07 | 2022-07-20 |
 | [ユメシンデレラ](https://open.spotify.com/track/7qHbrMNzQX1axXypfdSEn2) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0), [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [シャッフル \-Bright 3 Waves\-](https://open.spotify.com/album/6jpr8lf8u9QH2NDp22ksIw) | 4:45 | 2022-06-24 | 2022-07-06 |
 | [ユメノキオク](https://open.spotify.com/track/4FrBlrkRfa5fuvQq2aOb3Q) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/4vgrD1wu1asFlSdtuUnPIX) | 3:52 | 2022-06-12 | 2022-07-01 |
@@ -284,7 +285,7 @@
 | [君の笑顔見たいから](https://open.spotify.com/track/5fLTbqoI4bCk3IjbjWE54U) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡 EP](https://open.spotify.com/album/3pUOZE8RaohXsrTbegRjHq) | 4:02 | 2022-06-24 | 2022-07-27 |
 | [四角運命](https://open.spotify.com/track/004jQqW1CdYt5d6wZJX3Gn) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [四角運命](https://open.spotify.com/album/4z7WKUveJzhx19jG4G1EWK) | 3:40 | 2022-06-09 | 2022-08-17 |
 | [境界の彼方](https://open.spotify.com/track/29YSKt01a9wGNJkPLQG0Kw) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [NEO FANTASIA](https://open.spotify.com/album/2ss0ot5DfEZbYtZccWs4CM) | 4:52 | 2022-06-09 | 2022-07-29 |
-| [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 | 2022-06-09 |  |
+| [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 | 2022-06-09 | 2022-08-24 |
 | [夜空](https://open.spotify.com/track/7q1QFyrWDoUsTUq9NZV7XL) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [2nd アルバム 上ミノ](https://open.spotify.com/album/7pcXlp17zWFKLfsgc791fO) | 4:35 | 2022-06-24 | 2022-07-21 |
 | [夢が僕らの太陽さ](https://open.spotify.com/track/56T729MtBKjclAQx3rOeBK) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [夢が僕らの太陽さ](https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T) | 4:26 | 2022-06-14 | 2022-07-09 |
 | [夢よりも早くこの恋が覚めても](https://open.spotify.com/track/6vUCeKFR6Kb1AGODIT7yYL) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [あじゅじゅと夜と音楽と](https://open.spotify.com/album/2wC9ZGJSE7IwWJZjLd1Tqb) | 3:42 | 2022-06-09 | 2022-07-28 |

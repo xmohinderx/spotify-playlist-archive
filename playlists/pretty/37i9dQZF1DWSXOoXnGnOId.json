@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 13785,
+  "num_followers": 13800,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDEyMDBmMzA5MTg3ZGJmNDA4YmMyZmU2ODkyODBhYThl",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGUxNDI4ZTlkYmU1YmI2YmRhN2E4NDdkZWM3MDM2ZTJm",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Summer 91 (Looking Back) [220 KID Remix]",
-        "url": "https://open.spotify.com/album/4h1ag771LJ1N6A41WKJD9L"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Summer 91 (Looking Back) - 220 KID Remix",
-      "url": "https://open.spotify.com/track/1FbXgPKatKyAIz9hgBZhnx"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "One By One (Remixes)",
         "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 215000,
       "name": "One By One - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Summer 91 (Looking Back) [220 KID Remix]",
+        "url": "https://open.spotify.com/album/4h1ag771LJ1N6A41WKJD9L"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Summer 91 (Looking Back) - 220 KID Remix",
+      "url": "https://open.spotify.com/track/1FbXgPKatKyAIz9hgBZhnx"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
-        "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Jarvis Cocker",
-          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
-      "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Stars Align (The Remixes)",
         "url": "https://open.spotify.com/album/3GxU98ArKcm5NVeANn9QSX"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 174759,
       "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
       "url": "https://open.spotify.com/track/5XXNwkFGSRcv8Gw2hOngBB"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
+        "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Jarvis Cocker",
+          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
+      "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Rise (twocolors Remix)",
+        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Rise - twocolors Remix",
+      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Wasted Love (feat. Lagique) [Remixes]",
         "url": "https://open.spotify.com/album/76nwXh66BDZT9SVEDCAB9b"
       },
@@ -1863,50 +1883,6 @@
       "duration_ms": 240000,
       "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
       "url": "https://open.spotify.com/track/3kHaYCI60ExyeSh4I9MVEv"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Rise (twocolors Remix)",
-        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Rise - twocolors Remix",
-      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Nobody (Devault Remix)",
-        "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Catello",
-          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
-        },
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 259286,
-      "name": "Nobody - Devault Remix",
-      "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1943,26 +1919,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Paradise (Wh0 Remix)",
-        "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
+        "name": "Nobody (Devault Remix)",
+        "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         },
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Catello",
+          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
         },
         {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Paradise - Wh0 Remix",
-      "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
+      "duration_ms": 259286,
+      "name": "Nobody - Devault Remix",
+      "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1991,6 +1967,30 @@
       "duration_ms": 225967,
       "name": "Desire - Vintage Culture & Kiko Franco Remix (Edit)",
       "url": "https://open.spotify.com/track/0aSG0K0gRv69dRro1kKtfx"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Paradise (Wh0 Remix)",
+        "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Paradise - Wh0 Remix",
+      "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2195,26 +2195,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Purple Hat (KC Lights Remix)",
-        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        }
-      ],
-      "duration_ms": 209959,
-      "name": "Purple Hat - KC Lights Remix",
-      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Lifetime Remixes",
         "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
       },
@@ -2231,6 +2211,26 @@
       "duration_ms": 194755,
       "name": "Lifetime - Jayda G Baleen Mix",
       "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Purple Hat (KC Lights Remix)",
+        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "duration_ms": 209959,
+      "name": "Purple Hat - KC Lights Remix",
+      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
     },
     {
       "added_at": "2021-07-30 04:00:00",

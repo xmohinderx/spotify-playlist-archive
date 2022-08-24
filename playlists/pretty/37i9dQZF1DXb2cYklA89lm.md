@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,521 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,600 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 11 | [Dig Up Her Bones](https://open.spotify.com/track/5gHeUcDVjnDda7TABO9RYv) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [American Psycho](https://open.spotify.com/album/636aBJi9ifGPSPacQ0fYCF) | 3:01 |
 | 12 | [Nature Calls](https://open.spotify.com/track/1p1RgiJTvoaWFnkM1M0JFH) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Nude Casino](https://open.spotify.com/album/3ikzXiKu90dwjhX3kz6gWV) | 3:48 |
 | 13 | [Mayhem](https://open.spotify.com/track/0kxkgi1SRDFaX9dqwdhdgk) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR) | 2:46 |
-| 14 | [Victory Lap](https://open.spotify.com/track/1vVF4BT9Khi5wuO9fwBMj3) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Rev](https://open.spotify.com/album/7vTpOzMO04lY6z62reNXaL) | 3:23 |
+| 14 | [Mind Control](https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB) | [Snash](https://open.spotify.com/artist/34vKcVb8KHcZzOJgokh0Y4) | [Mind Control](https://open.spotify.com/album/1MFwVDPT3hggfu3WWWTeZ0) | 2:14 |
 | 15 | [Miss Take](https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Hell Yeah!](https://open.spotify.com/album/0VOcNE4u7ADFpWm5AG7gDC) | 3:58 |
-| 16 | [Mind Control](https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB) | [Snash](https://open.spotify.com/artist/34vKcVb8KHcZzOJgokh0Y4) | [Mind Control](https://open.spotify.com/album/1MFwVDPT3hggfu3WWWTeZ0) | 2:14 |
+| 16 | [Victory Lap](https://open.spotify.com/track/1vVF4BT9Khi5wuO9fwBMj3) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Rev](https://open.spotify.com/album/7vTpOzMO04lY6z62reNXaL) | 3:23 |
 | 17 | [Who Killed The Cheerleader](https://open.spotify.com/track/3Ero9C3m7RlEf1xu5XhFDC) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 4:09 |
 | 18 | [Bodies in the Basement](https://open.spotify.com/track/3wZXkoUcXsTP3iRf6UIH0C) | [Demented Are Go](https://open.spotify.com/artist/7fvToIpjDfwtLhAoZdVF5W) | [Welcome Back To Insanity Hall](https://open.spotify.com/album/5pYc0q0qCPcASzOLi03U9k) | 2:28 |
-| 19 | [Kiss me now](https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez) | [Batmobile](https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ) | [Bail set at $6M](https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL) | 3:15 |
-| 20 | [Decompose](https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Necrophaze](https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q) | 4:25 |
+| 19 | [Decompose](https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Necrophaze](https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q) | 4:25 |
+| 20 | [Kiss me now](https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez) | [Batmobile](https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ) | [Bail set at $6M](https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL) | 3:15 |
 | 21 | [Nightmare on Elm Street](https://open.spotify.com/track/3GeIm6HhGv6k6yBxoFqQy4) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Friday The 13th](https://open.spotify.com/album/5lWhwbVAq6NJY1FkRcIybm) | 2:53 |
 | 22 | [Last Ride](https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 3:16 |
 | 23 | [The Way Of The Road](https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9) | [Koffin Kats](https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf) | [Our Way & The Highway](https://open.spotify.com/album/3csHpaafwVPG118KJFaibU) | 2:24 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 26 | [Death at My Door](https://open.spotify.com/track/3YY9GOjWTzEYwptFfomE1L) | [The Creepshow](https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt) | [Death at My Door](https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu) | 2:10 |
 | 27 | [A Night to Dismember](https://open.spotify.com/track/6Oz1iTAMTFQiOVxHZhNlYQ) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:18 |
 | 28 | [Stars Are Falling](https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii) | [The Rosedales](https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU) | [Stereoghost](https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l) | 4:03 |
-| 29 | [Monster Mutant Boogie](https://open.spotify.com/track/52DIHgGz4qDzxIYBS1EzmS) | [Bloodsucking Zombies from outer Space](https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9) | [Decade of Decay – the Gravest Hits of Bzfos](https://open.spotify.com/album/7Lvr4EH8brRQ2iO2MGA3IE) | 3:47 |
-| 30 | [Rebirth](https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E) | [The Crimson Ghosts](https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam) | [Yet Not Human](https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn) | 3:05 |
+| 29 | [Rebirth](https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E) | [The Crimson Ghosts](https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam) | [Yet Not Human](https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn) | 3:05 |
+| 30 | [Monster Mutant Boogie](https://open.spotify.com/track/52DIHgGz4qDzxIYBS1EzmS) | [Bloodsucking Zombies from outer Space](https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9) | [Decade of Decay – the Gravest Hits of Bzfos](https://open.spotify.com/album/7Lvr4EH8brRQ2iO2MGA3IE) | 3:47 |
 | 31 | [Red Sky](https://open.spotify.com/track/0G3PNHYZlGdGqL2AUGjNip) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Red Sky](https://open.spotify.com/album/3ZjHe6g42gDQcvCzGB56LI) | 3:13 |
 | 32 | [Beyond The Veil](https://open.spotify.com/track/5wW50T3h2AnaQXp6rUALtg) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 2:38 |
 | 33 | [Graveyard Girlfriend](https://open.spotify.com/track/4hyBfSiH8h6xe5MagKN9Aw) | [Kepi Ghoulie & The Copyrights](https://open.spotify.com/artist/07ilVTX7rWZkHA8IIEwogC) | [Re\-Animation Festival](https://open.spotify.com/album/4wTOb6aleIGvVYywjfavKe) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Rockin' at the House of Strange](https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8) | [The Meteors](https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9) | [The Power of 3](https://open.spotify.com/album/2gnRgPZJ0OqctKSfiap17y) | 3:01 |
 | 50 | [When Oskar Fische Comes to Town](https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDUwM2FhZGZiNzkyMzA1MDYyOWMzOGUxZmYyMGNkNGU2`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDk5ZDAwZDI4ODI2YmU4MmYyZTFlZThlNWZjZmFmM2Zi`

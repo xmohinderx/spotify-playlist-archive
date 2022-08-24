@@ -1,12 +1,12 @@
 {
   "description": "Pop Latino de los 80 y 90. Canciones que quedar\u00e1n para siempre. Foto: Luis Miguel",
-  "num_followers": 420957,
+  "num_followers": 421451,
   "original_name": "Cl\u00e1sicos del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzMxNjE2MiwwMDAwMDAwMDJlNDVkMmQyNzhkZjI4MzRiM2IwY2M2ZDVkZjlhYzBi",
+  "snapshot_id": "MTY0NzMxNjE2MiwwMDAwMDAwMDJkMjNlODI5ZGMwNTVhNzBkODNlMzUzNGJhYzNmMTRj",
   "tracks": [
     {
       "added_at": "2022-03-15 03:49:22",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "El Que Busca Encuentra",
         "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 310146,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Muchacha Triste",
-      "url": "https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "La Chica Dorada",
         "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 225866,
       "name": "M\u00edo",
       "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Muchacha Triste",
+      "url": "https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni"
     },
     {
       "added_at": "2022-03-15 03:49:22",

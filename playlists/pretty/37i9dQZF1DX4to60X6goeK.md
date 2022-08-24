@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,021 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,039 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 40 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
 | 41 | [Spotlight](https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Spotlight](https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa) | 3:45 |
 | 42 | [Free](https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl) | [Free](https://open.spotify.com/album/6GMcUsOe9eqEtlm1KAkFIR) | 3:00 |
-| 43 | [Infinity](https://open.spotify.com/track/29SdwNBM9Veq6dM04W2JKN) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Infinity](https://open.spotify.com/album/38qsNzezB0gCCk8N74lPJV) | 4:09 |
-| 44 | [All Night](https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [All Night](https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt) | 4:41 |
+| 43 | [All Night](https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [All Night](https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt) | 4:41 |
+| 44 | [Infinity](https://open.spotify.com/track/29SdwNBM9Veq6dM04W2JKN) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Infinity](https://open.spotify.com/album/38qsNzezB0gCCk8N74lPJV) | 4:09 |
 | 45 | [Break It Down](https://open.spotify.com/track/5pg0g6o6ePcRHiQOxgzDMd) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Break It Down](https://open.spotify.com/album/3Wexk9iIasCfB4h57xcFzw) | 3:23 |
 | 46 | [Kickons](https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7) | 3:55 |
 | 47 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Operator](https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 4:27 |
 | 55 | [Grape](https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [Five A DAY](https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB) | 4:27 |
 
-Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMGNkMzhlZDU4NzQxNjFkZWM4ODA3MTYzNGI5MDBhYzk2`
+Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMDc1ODM5OTQ1N2YzNDdlOTQ0NjMxZTBlMzJhZTZiZTY2`

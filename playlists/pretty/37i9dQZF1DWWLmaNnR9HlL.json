@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 335092,
+  "num_followers": 335120,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTM2NTIzOCwwMDAwMDAwMDJmODY3ZjFkMmNiNjVkODk3OWFmNDRmNjFlYTZlZmUz",
+  "snapshot_id": "MTYyOTM2NTIzOCwwMDAwMDAwMGU1ZDkxM2ExMjM2NGE0ZjIzYTQxZjU3Nzk0ZDM2N2Q1",
   "tracks": [
     {
       "added_at": "2021-01-19 12:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 354880,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "Double Fantasy Stripped Down",
         "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 212933,
       "name": "Woman - Remastered 2010",
       "url": "https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 354880,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "Compact Jazz: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "MTV Unplugged In New York",
         "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 218000,
       "name": "About A Girl",
       "url": "https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Compact Jazz: Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
     },
     {
       "added_at": "2021-01-19 12:00:00",

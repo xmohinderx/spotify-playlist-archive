@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,713 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,775 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 35 | [Fantastic Man](https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 6:26 |
 | 36 | [Dancing Time](https://open.spotify.com/track/6T0o9t2gBrFKic4mvGpZhU) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time](https://open.spotify.com/album/126myrNmHl3SNiRcmN22Co) | 3:21 |
 | 37 | [Kokro\-Ko \(Hide and Seek\)](https://open.spotify.com/track/3qRVMQ4NopQIr8tFFKL6SD) | [The Actions](https://open.spotify.com/artist/6zVPjXxvk8RmPKjhOONids) | [Next Stop Soweto 4: Zulu Rock, Afro\-Disco & Mbaqanga 1975\-1985](https://open.spotify.com/album/6mthYemYv5h7k6XwIo9R8F) | 6:08 |
-| 38 | [Djonsinho cabral](https://open.spotify.com/track/5r4EQ9mw1gtbwu0GKYeION) | [Os Tubarões](https://open.spotify.com/artist/7k1xtKMpdzF4wUttO6nv1f) | [Djonsinha cabral](https://open.spotify.com/album/7yPOisIuVr5BJjTGfkobVX) | 5:45 |
+| 38 | [Djonsinho Cabral](https://open.spotify.com/track/3o6gc8f9D97n96WfUMKpuv) | [Os Tubarões](https://open.spotify.com/artist/7k1xtKMpdzF4wUttO6nv1f) | [Djonsinho Cabral](https://open.spotify.com/album/46Hgkni19D3rYUCI5qoyPj) | 5:45 |
 | 39 | [We Live In Peace](https://open.spotify.com/track/4l8N1IPZW1NpL4RnWbCiAj) | [Marijata](https://open.spotify.com/artist/1zlDVq7isxuxMGTueub0K3) | [This Is Marijata](https://open.spotify.com/album/5NgqwPu0hiNGTzltEHUTC0) | 4:09 |
 | 40 | [Musicawi Silt](https://open.spotify.com/track/2qo7XWwu0l0IJ29Ybf5Mqh) | [The Daktaris](https://open.spotify.com/artist/42ccKlw9sHnNr29o6gqnsv) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 3:04 |
 | 41 | [Birth of Ghana](https://open.spotify.com/track/0HFYcmjhjWUOb5DC0uA36t) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Calypso Romeo](https://open.spotify.com/album/2AFff6hOOBPky0XrsjHYB3) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 49 | [Disco Hi \- Life](https://open.spotify.com/track/7LRRSTX1m4CzW8MXnfoxa0) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/3imgLN3LrdTmKN5ZyoDBxU) | 8:55 |
 | 50 | [Obaa Sima](https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 5:38 |
 
-Snapshot ID: `MTU2NTc3NTg1OSwwMDAwMDAwMDc1NmQ3Y2M2YmYzZTFhZTFhYThmZGVjYzFhZmU4NGJh`
+Snapshot ID: `MTU2NTc3NTg1OSwwMDAwMDAwMGFhMjc0ZjUwNTU0NjExM2Y3MmU3OTM2MTExYjhjYzc2`

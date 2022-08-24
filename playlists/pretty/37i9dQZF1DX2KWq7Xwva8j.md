@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,353 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,361 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 9 | [Mi Manera de Vivir](https://open.spotify.com/track/1kLfjR7DKezovtAhOTqdbF) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Mi Manera de Vivir](https://open.spotify.com/album/4MOWH9XXjmmQcflfPb7nie) | 2:14 |
 | 10 | [Cosas Que Dijimos De Hacer](https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [Cosas Que Dijimos De Hacer](https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH) | 2:55 |
 | 11 | [Entre Tejados](https://open.spotify.com/track/2l9l2sUyStglyl5nsJ2lde) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Entre Tejados](https://open.spotify.com/album/0LmAWZNlPluZIv6LUjPcdA) | 2:50 |
-| 12 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 |
-| 13 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 |
+| 12 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 |
+| 13 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 |
 | 14 | [Alex Turner](https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Alex Turner](https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j) | 2:39 |
 | 15 | [Angelina](https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Angelina](https://open.spotify.com/album/44JFYpj25UIPlZ7Ez0U3rX) | 2:46 |
 | 16 | [Por Encima Del Dinero](https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Por Encima Del Dinero](https://open.spotify.com/album/66iGloWgw25I54sLlRNEUf) | 2:14 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 28 | [A Contraluz](https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [A Contraluz](https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9) | 3:07 |
 | 29 | [100tas](https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [100tas](https://open.spotify.com/album/3UXz1qRHI73JmsNYvklh9W) | 2:28 |
 | 30 | [Pablo](https://open.spotify.com/track/3RyLLnuLXce8JUdnaSyJNE) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Pablo](https://open.spotify.com/album/3JbYVEqXpE1CbYyVl3t2Zg) | 3:07 |
-| 31 | [A W](https://open.spotify.com/track/4mLDXE5bvaYcblXYmmtSu6) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [A W](https://open.spotify.com/album/48LBK4hbxM0RmMD0ywK5vL) | 2:15 |
-| 32 | [AMARILLO MI CORAZÓN](https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [AMARILLO MI CORAZÓN](https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu) | 3:06 |
+| 31 | [AMARILLO MI CORAZÓN](https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [AMARILLO MI CORAZÓN](https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu) | 3:06 |
+| 32 | [A W](https://open.spotify.com/track/4mLDXE5bvaYcblXYmmtSu6) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [A W](https://open.spotify.com/album/48LBK4hbxM0RmMD0ywK5vL) | 2:15 |
 | 33 | [un poco sí...](https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [un poco sí...](https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD) | 2:59 |
 | 34 | [La Lluvia](https://open.spotify.com/track/5aM5QibidKdtMMB8YzGhtR) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [La Lluvia](https://open.spotify.com/album/0WL9vGpQb9rw1coTXvz6o0) | 2:34 |
 | 35 | [Disneyland Paris](https://open.spotify.com/track/2AeMKItKccbghNb24kruJB) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Disneyland Paris](https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [Ojalá Fuéramos Amigos \(Buffetlibre Remix\)](https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Buffetlibre](https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh) | [Dime Algo \(bonito\) \(True Fans Edition\)](https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g) | 3:22 |
 | 50 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Paloma Rollán](https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 |
 
-Snapshot ID: `MTY1OTA0ODIxNiwwMDAwMDAwMDI1NjUyYTkxMzA5ZjVhYmEzNWQ0NTdmZmEyMjNiOWNl`
+Snapshot ID: `MTY1OTA0ODIxNiwwMDAwMDAwMDE3YmQwYTBjMDYzZGUxYzNiNzEyYWYxYzA5ZDExNzgx`

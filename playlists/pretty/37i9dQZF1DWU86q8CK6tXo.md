@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Female\-identifying only tunes, with some of  <a href=“spotify:artist:5rZUNweztKBI1Xy3XhYHoJ”>Danielle Ponder's</a> personal picks\. Cover: Danielle Ponder
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,831 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,845 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 32 | [Dolía](https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Dolía](https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA) | 2:47 |
 | 33 | [No One Dies From Love \(DJ\_Dave Edit\)](https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [No One Dies From Love \(The Remixes\)](https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi) | 3:51 |
 | 34 | [The Only Problem Is](https://open.spotify.com/track/41Q02iK1KtjflVNuUBXPsq) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Sugar Spice](https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME) | 3:41 |
-| 35 | [Human Condition](https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Human Condition](https://open.spotify.com/album/74ITqOAxrBRws1DJty5e85) | 3:50 |
-| 36 | [How’d You Go out Like That](https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [How’d You Go out Like That](https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia) | 2:42 |
+| 35 | [How’d You Go out Like That](https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [How’d You Go out Like That](https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia) | 2:42 |
+| 36 | [Human Condition](https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Human Condition](https://open.spotify.com/album/74ITqOAxrBRws1DJty5e85) | 3:50 |
 | 37 | [Crunk](https://open.spotify.com/track/4wiMZbsTLDkvaNZC3UL2GT) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Crunk](https://open.spotify.com/album/5KWVMGP2OROAfjWgu07uAe) | 3:33 |
 | 38 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 |
 | 39 | [Jealousy](https://open.spotify.com/track/1ioUAJiIHAoimp2QGhWXXM) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Jealousy](https://open.spotify.com/album/61T3geiuTQFQXmYWWLMGjk) | 2:30 |
-| 40 | [Whatever Fits Together](https://open.spotify.com/track/7E9xLaEn82sboW3CLJCO9X) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Whatever Fits Together](https://open.spotify.com/album/5cpmLPqkR7Kw66HNO3QWlS) | 3:45 |
-| 41 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 |
+| 40 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 |
+| 41 | [Whatever Fits Together](https://open.spotify.com/track/7E9xLaEn82sboW3CLJCO9X) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Whatever Fits Together](https://open.spotify.com/album/5cpmLPqkR7Kw66HNO3QWlS) | 3:45 |
 | 42 | [I Love Me](https://open.spotify.com/track/0OcqrGvV8xKtSxF3dFWDWJ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I Love Me](https://open.spotify.com/album/64M2KhX64Qgcd4xBoVV3Gm) | 3:10 |
 | 43 | [Call Me](https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Call Me](https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb) | 3:06 |
 | 44 | [Direct Me](https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Direct Me](https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [I Hope You're Right](https://open.spotify.com/track/3MW6Nrv1iaFPgwlxWTyoDH) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 3:18 |
 | 50 | [Prima Materia](https://open.spotify.com/track/0KR1fIsVTVSh0lv88KWzX6) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Prima Materia](https://open.spotify.com/album/1v3UC61wKMgUC9oWwYPUtZ) | 5:12 |
 
-Snapshot ID: `MTY2MDI1MTYxNywwMDAwMDAwMGQ4ODlkZTM4NTg0YjI2ZmE5ZmRiOGZhOTkxYjE5YjE1`
+Snapshot ID: `MTY2MDI1MTYxNywwMDAwMDAwMDViMGZhMjZlZGY0NTQyZDY5YzUyYzM1NGNkNTFiZTEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,436 likes - 282 songs - 13 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,623,081 likes - 282 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 11 | [Reunion](https://open.spotify.com/track/57IlqBXnuaKI854KSBkeIQ) | [Belle Bardot](https://open.spotify.com/artist/6gvhAzNtzWKlXLxWhSJBo9) | [Reunion](https://open.spotify.com/album/3NQk2ASP9xsbRjUtlA92vx) | 2:22 |
 | 12 | [Upon a Painted Ocean](https://open.spotify.com/track/3Iv7EalVhriKHE8uHVJmsS) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:53 |
 | 13 | [Lull](https://open.spotify.com/track/2HBNfSLfBwKWiaSL5bg5jF) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Lull](https://open.spotify.com/album/7AszZgmEpOii7z6oSTqgac) | 2:59 |
-| 14 | [Praiseworthy](https://open.spotify.com/track/6UDUV0eh8K04FTxhfpOEdR) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:27 |
-| 15 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 |
-| 16 | [Ionosphere](https://open.spotify.com/track/4TItjggHGUClo9prDawdHq) | [Elias Mía](https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY) | [Ionosphere](https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx) | 3:19 |
-| 17 | [Turiya](https://open.spotify.com/track/0LpC3dt5L0hw2FT6aModNK) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Turiya](https://open.spotify.com/album/7gHrv87n4GoqcFZ7foXlLu) | 2:00 |
-| 18 | [This Now](https://open.spotify.com/track/6bcf6i4amFipG1r2ScmfHL) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [This Now](https://open.spotify.com/album/4hhWJQREZiGh7OJ0EcPFxa) | 2:09 |
+| 14 | [Sanam](https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG) | [Idamal](https://open.spotify.com/artist/1oQ1F81sAYsBvHvZL3ACWu) | [Sanam](https://open.spotify.com/album/0lYU4WGw36TjLhOxf3yl7i) | 2:22 |
+| 15 | [Praiseworthy](https://open.spotify.com/track/6UDUV0eh8K04FTxhfpOEdR) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:27 |
+| 16 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 |
+| 17 | [Ionosphere](https://open.spotify.com/track/4TItjggHGUClo9prDawdHq) | [Elias Mía](https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY) | [Ionosphere](https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx) | 3:19 |
+| 18 | [Turiya](https://open.spotify.com/track/0LpC3dt5L0hw2FT6aModNK) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Turiya](https://open.spotify.com/album/7gHrv87n4GoqcFZ7foXlLu) | 2:00 |
 | 19 | [Similarities](https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Similarities](https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb) | 2:38 |
 | 20 | [At the Gate](https://open.spotify.com/track/6K5knPLmHce6GxU3L55K5R) | [Insomnia Curator](https://open.spotify.com/artist/2KOGEdahm8S9YknCwiUIHf) | [Entering Dreamland](https://open.spotify.com/album/0w6WmSVjZstlSJaAvab2Sd) | 2:57 |
 | 21 | [Brief Moment](https://open.spotify.com/track/5OfZLjDUzrke9xWALBYVD7) | [Megan Elofius](https://open.spotify.com/artist/5L1XP5AqWWx7KskdRSiYFo) | [Brief Moment](https://open.spotify.com/album/2aDP4doHSJRMY2ldK185fD) | 3:04 |
@@ -291,4 +291,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 281 | [Liven](https://open.spotify.com/track/1C5muG3s6lQuIExxm1jItV) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [LiKKma](https://open.spotify.com/album/5SNYbkLmRHm1LnLqxq302d) | 3:42 |
 | 282 | [Magnetic View](https://open.spotify.com/track/6ZF8463e4x5adudYv6VPMp) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Delta Dreams](https://open.spotify.com/album/7FNZSjLNWtEFWfv7FJkaQf) | 3:37 |
 
-Snapshot ID: `MTY2MDU4ODM5NCwwMDAwMDAwMDljOWI1NTczNDcwNWQwMzBmZDY1YTI4N2I2MmMwNzcz`
+Snapshot ID: `MTY2MTI2Nzk1MSwwMDAwMDAwMGMwNGYwMmMyYjY2YzMxOGE3NDk2ODhjNDUzMjY0MDEy`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Jarabe de Palo.",
-  "num_followers": 516849,
+  "num_followers": 517059,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MDAwMCwwMDAwMDAwMDg3ZTlhN2Q0ZDI1ZDhhY2Q2Y2JiZDlmNDA2MDJkMjA2",
+  "snapshot_id": "MTY2MDg2MDAwMCwwMDAwMDAwMDQyNDU3MDkyYmQxN2U2ZDA5MjQxNzVhNWJkOTdiNzVl",
   "tracks": [
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
-      },
-      "artists": [
-        {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "Todo Tiene Su Fin",
-      "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
-    },
-    {
-      "added_at": "2022-08-18 22:00:00",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 400480,
       "name": "Por verte sonre\u00edr",
       "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
+    },
+    {
+      "added_at": "2022-08-18 22:00:00",
+      "album": {
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+      },
+      "artists": [
+        {
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "Todo Tiene Su Fin",
+      "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-08-18 22:00:00",
       "album": {
-        "name": "Todos los Gatos Son Pardos",
-        "url": "https://open.spotify.com/album/6ALMyNUewyCdW4QgrlTLmZ"
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
       },
       "artists": [
         {
-          "name": "Gato Ventura",
-          "url": "https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ"
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
         }
       ],
-      "duration_ms": 173293,
-      "name": "Todos los Gatos Son Pardos",
-      "url": "https://open.spotify.com/track/5hzeePzx39dRlrIeOpRCXR"
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

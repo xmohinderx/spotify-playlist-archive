@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > ur favorite queer bedroom club
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,153 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,250 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 11 | [GOOD PUSS](https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [GOOD PUSS](https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn) | 3:40 |
 | 12 | [Throat Goat](https://open.spotify.com/track/2eKFa10K8Hu1VCTLm3DUkO) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:20 |
 | 13 | [Guud Gurls](https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Hott Boyz](https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV) | 3:10 |
-| 14 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 |
-| 15 | [Sour Candy \(with BLACKPINK\) \- Shygirl & Mura Masa Remix](https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:45 |
+| 14 | [Sour Candy \(with BLACKPINK\) \- Shygirl & Mura Masa Remix](https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:45 |
+| 15 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 |
 | 16 | [H2hoe](https://open.spotify.com/track/3fAiq5yzGtjJAbUgT85EBh) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [H2hoe](https://open.spotify.com/album/6u5FhXSdp1WghOwHmQSRWf) | 3:05 |
 | 17 | [damn Right](https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [damn Right](https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B) | 2:44 |
 | 18 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 47 | [BUY ME NOW](https://open.spotify.com/track/0TObe8QnOyojmnDAwjNRQK) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [BUY ME NOW](https://open.spotify.com/album/0bHvRDHpYMYwqHu7PLOXmI) | 3:35 |
 | 48 | [Megalomaniac](https://open.spotify.com/track/0bY1YyjwCbsXnFYcwRIVqI) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [MOLG](https://open.spotify.com/album/0zgXgVJ4DWmbrKpWkwqBIR) | 3:47 |
 | 49 | [P.M.P](https://open.spotify.com/track/1VA0mnllvpmDA9bnRAuTXL) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [P.M.P](https://open.spotify.com/album/6g1CyzJuejx3AVopNeS1aX) | 3:22 |
-| 50 | [Straight To Hell \- Gendered Dekonstruktion Remix](https://open.spotify.com/track/43JiMaIgefeHRVWHuqbfjm) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz), [Gendered Dekonstruktion](https://open.spotify.com/artist/0nz2g4E7Wed11mnTcxR4TN) | [Straight To Hell: The Remixes](https://open.spotify.com/album/4HgwlIclMQ7JSx9MdzO1p4) | 4:25 |
+| 50 | [FMU \(feat\. Rico Nasty\)](https://open.spotify.com/track/0t9vp7ewak5yJtOuG2gQyr) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [FMU \(feat\. Rico Nasty\)](https://open.spotify.com/album/7BJjpeYl0FAb0xq65bEwPs) | 2:58 |
 
-Snapshot ID: `MTY2MDY1NzgyNCwwMDAwMDAwMGJmM2FkYzU3NWI5N2E2MTc5MzgzYzI1NTAzYjdlZjc5`
+Snapshot ID: `MTY2MDY1NzgyNCwwMDAwMDAwMGUzOGQ2OTJlNGI0NTYxMDI0YmZiYjg4MTgzYWFkZTBm`

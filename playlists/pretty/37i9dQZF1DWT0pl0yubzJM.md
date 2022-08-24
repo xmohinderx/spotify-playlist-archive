@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,715 likes - 35 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,714 likes - 35 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,15 +15,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 5 | [Kanishka](https://open.spotify.com/track/54hZ4XVJ0xdp6teJVyHgn8) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [Fin De Semana Salvaje](https://open.spotify.com/album/2IUqHJOcTUpX8xXdjnpcdo) | 2:38 |
 | 6 | [Secuencia Inicial \- Remasterizado 2007](https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:26 |
 | 7 | [Trece](https://open.spotify.com/track/5aVlOkWLnXtFGeoTQxv48E) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 2:20 |
-| 8 | [Siempre Acampa](https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp) | [Peligrosos Gorriones](https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i) | [Peligrosos Gorriones](https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S) | 3:44 |
-| 9 | [Río Paraná](https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 3:08 |
+| 8 | [Río Paraná](https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 3:08 |
+| 9 | [Siempre Acampa](https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp) | [Peligrosos Gorriones](https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i) | [Peligrosos Gorriones](https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S) | 3:44 |
 | 10 | [Viva Satana](https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Dopadromo](https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl) | 3:51 |
 | 11 | [Vida Modelo](https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Vida Modelo](https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ) | 2:45 |
 | 12 | [Marea de Venus](https://open.spotify.com/track/0SPPSkIttUSFTmHbyLmLUG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:22 |
 | 13 | [Desaparecedor](https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Emporio Bizarro](https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC) | 2:49 |
-| 14 | [Príncipe Oscuro](https://open.spotify.com/track/42tVa3K9P6LrWxCStRlVXL) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [A Un Millón De Años Blues](https://open.spotify.com/album/3MCGoXzDyQPl6rvbFwerHI) | 2:47 |
+| 14 | [Escafandra](https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1) | [Peligrosos Gorriones](https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i) | [Peligrosos Gorriones](https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S) | 2:53 |
 | 15 | [Mate](https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 3:11 |
-| 16 | [Escafandra](https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1) | [Peligrosos Gorriones](https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i) | [Peligrosos Gorriones](https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S) | 2:53 |
+| 16 | [Príncipe Oscuro](https://open.spotify.com/track/42tVa3K9P6LrWxCStRlVXL) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [A Un Millón De Años Blues](https://open.spotify.com/album/3MCGoXzDyQPl6rvbFwerHI) | 2:47 |
 | 17 | [La Bomba](https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [San Cipriano](https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9) | 2:43 |
 | 18 | [Tarde de Cansancio](https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 4:08 |
 | 19 | [Agujeros Negros](https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Revolución](https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O) | 2:38 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 34 | [Marmota](https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 4:42 |
 | 35 | [Manzana de Metal](https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Nada Es Exacto Salvo la Medida de los Sueños](https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM) | 5:18 |
 
-Snapshot ID: `MTU4NDEwNTY4OCwwMDAwMDAwMDlhY2YwMTI0NWViMmVkMjA4ZDA5NzA3OTIwNmFjMDJm`
+Snapshot ID: `MTU4NDEwNTY4OCwwMDAwMDAwMGRjMTIyZTdkMmRmNmY0M2I5NGNiYjc1Nzc5YmViNDVh`

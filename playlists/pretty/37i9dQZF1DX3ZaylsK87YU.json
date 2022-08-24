@@ -1,12 +1,12 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 18544,
+  "num_followers": 18556,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNzYxNzcyMCwwMDAwMDAwMDg1NzQ4ODhlMjI3YmQ2ZTg4MDJhNTE3ODczZDkyMTFj",
+  "snapshot_id": "MTYyNzYxNzcyMCwwMDAwMDAwMDI0NzMyM2VlYTM4MzQ4OWE3NWE3MGU1MDhmN2I4NzA2",
   "tracks": [
     {
       "added_at": "2021-07-30 04:02:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
+        "name": "Tow'rs",
+        "url": "https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8"
+      },
+      "artists": [
+        {
+          "name": "Tow'rs",
+          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+        }
+      ],
+      "duration_ms": 381467,
+      "name": "Belly of the Deepest Love",
+      "url": "https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn"
+    },
+    {
+      "added_at": "2021-07-30 04:02:00",
+      "album": {
         "name": "The Worship Initiative, Vol. 6",
         "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 271766,
       "name": "Great Is Thy Faithfulness",
       "url": "https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX"
-    },
-    {
-      "added_at": "2021-07-30 04:02:00",
-      "album": {
-        "name": "Tow'rs",
-        "url": "https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8"
-      },
-      "artists": [
-        {
-          "name": "Tow'rs",
-          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
-        }
-      ],
-      "duration_ms": 381467,
-      "name": "Belly of the Deepest Love",
-      "url": "https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
-        "name": "The Worship Initiative, Vol. 5",
-        "url": "https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 228330,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH"
-    },
-    {
-      "added_at": "2021-07-30 04:02:00",
-      "album": {
         "name": "The Good King",
         "url": "https://open.spotify.com/album/1LTSHnMYH04nF5rl6nmnHC"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 320400,
       "name": "Head to the Heart (Live)",
       "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
+    },
+    {
+      "added_at": "2021-07-30 04:02:00",
+      "album": {
+        "name": "The Worship Initiative, Vol. 5",
+        "url": "https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 228330,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Andrea Marie",
+          "url": "https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS"
+        }
+      ],
+      "duration_ms": 490453,
+      "name": "Let It Happen (Live) [feat. Andrea Marie]",
+      "url": "https://open.spotify.com/track/1MCxM27lS1cDA7py53mqRt"
+    },
+    {
+      "added_at": "2021-07-30 04:02:00",
+      "album": {
         "name": "Counting Every Blessing",
         "url": "https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq"
       },
@@ -1347,26 +1367,6 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        },
-        {
-          "name": "Andrea Marie",
-          "url": "https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS"
-        }
-      ],
-      "duration_ms": 490453,
-      "name": "Let It Happen (Live) [feat. Andrea Marie]",
-      "url": "https://open.spotify.com/track/1MCxM27lS1cDA7py53mqRt"
-    },
-    {
-      "added_at": "2021-07-30 04:02:00",
-      "album": {
         "name": "Be Thou My Vision",
         "url": "https://open.spotify.com/album/27ZlsmMgJgbtLM7XzQQXKv"
       },
@@ -1395,6 +1395,26 @@
       "duration_ms": 249360,
       "name": "As The Deer",
       "url": "https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf"
+    },
+    {
+      "added_at": "2021-07-30 04:02:00",
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Brandon Hampton",
+          "url": "https://open.spotify.com/artist/5dC9jxV6hFvZpUmxvEKyQQ"
+        }
+      ],
+      "duration_ms": 482386,
+      "name": "Since Your Love (Live) [feat. Brandon Hampton]",
+      "url": "https://open.spotify.com/track/0XPZo7uag05Vi90Tz0G8ry"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -1515,26 +1535,6 @@
       "duration_ms": 297125,
       "name": "The Stand",
       "url": "https://open.spotify.com/track/2JwkJmy6oO38biks4DHDfK"
-    },
-    {
-      "added_at": "2021-07-30 04:02:00",
-      "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        },
-        {
-          "name": "Brandon Hampton",
-          "url": "https://open.spotify.com/artist/5dC9jxV6hFvZpUmxvEKyQQ"
-        }
-      ],
-      "duration_ms": 482386,
-      "name": "Since Your Love (Live) [feat. Brandon Hampton]",
-      "url": "https://open.spotify.com/track/0XPZo7uag05Vi90Tz0G8ry"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
-        "name": "Come Behold the Wondrous Mystery - Single",
-        "url": "https://open.spotify.com/album/28AvjBNITOjVYY283l9kWr"
-      },
-      "artists": [
-        {
-          "name": "Matt Boswell",
-          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Come Behold the Wondrous Mystery",
-      "url": "https://open.spotify.com/track/191TpctWpKVr86es9Q2heJ"
-    },
-    {
-      "added_at": "2021-07-30 04:02:00",
-      "album": {
         "name": "Even So Come: A Worship Album",
         "url": "https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 318566,
       "name": "You Are My All In All",
       "url": "https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9"
+    },
+    {
+      "added_at": "2021-07-30 04:02:00",
+      "album": {
+        "name": "Come Behold the Wondrous Mystery - Single",
+        "url": "https://open.spotify.com/album/28AvjBNITOjVYY283l9kWr"
+      },
+      "artists": [
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Come Behold the Wondrous Mystery",
+      "url": "https://open.spotify.com/track/191TpctWpKVr86es9Q2heJ"
     },
     {
       "added_at": "2021-07-30 04:02:00",

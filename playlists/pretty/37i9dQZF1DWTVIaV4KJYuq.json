@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 641181,
+  "num_followers": 641299,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMDdkYjI2ZThkYWNmMjA4M2RkMWMyMzQ3MzRkZDM5YjI5",
+  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMDY2ZTRjNTUzMDVmMDRiMGEyZmRlMzYxYmNhNWY1MWJi",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Elvis Now",
-        "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 346373,
       "name": "Harvest Moon - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Elvis Now",
+        "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Brandy (You're a Fine Girl)",
         "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 208198,
       "name": "Brandy (You're a Fine Girl)",
       "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Gun Shy",
-        "url": "https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 251889,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Portfolio",
         "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 207240,
       "name": "What's up",
       "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Gun Shy",
+        "url": "https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 251889,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love (Bonus)",
-      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 227600,
       "name": "I Won't Back Down - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus)",
+      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 308756,
-      "name": "Love and Happiness",
-      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Sunday Night Sessions",
         "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 296152,
       "name": "And It Stoned Me (Cover)",
       "url": "https://open.spotify.com/track/2sRkcqgxX11ylhpatCauqC"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 308756,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
     },
     {
       "added_at": "2022-02-04 05:02:00",

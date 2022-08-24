@@ -4,7 +4,7 @@
 
 > Just chill.
 
-319 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+320 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Supalonely \(Lownely\)](https://open.spotify.com/track/0hVZCUZKWsWFU6i5zlRZZr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Supalonely \(Lownely\)](https://open.spotify.com/album/7lkrgPpSZTMcgNi2yHdQ7E) | 3:19 | 2020-05-08 | 2022-08-20 |
 | [Surf's Up, I'm Drowning](https://open.spotify.com/track/3hsBnnID20GgUjgY2nqkue) | [Jesse Aicher](https://open.spotify.com/artist/4fpOVrO6DmQdxQJSqiGIqQ), [Westerns](https://open.spotify.com/artist/4dYYNJWW0gqWLVGIfrxEsl) | [Surf's Up, I'm Drowning](https://open.spotify.com/album/0SxR5giaDLkKsmFLYTSXgP) | 2:45 | 2020-02-28 | 2022-01-22 |
 | [Table for Two](https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa) | 3:22 | 2022-04-29 |  |
+| [Tag](https://open.spotify.com/track/0LrVtzdvd2ojEuFMUURlA1) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Tag](https://open.spotify.com/album/66ULdjZjnE8Dbq6XBLzPt0) | 3:10 | 2022-08-23 |  |
 | [Talk](https://open.spotify.com/track/3oWRlVyOfJwk7E1QQlLe64) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Talk](https://open.spotify.com/album/1ycofWQcLpIUlSZsdJU2iW) | 4:03 | 2020-01-13 | 2022-01-22 |
 | [TECTONIC PLATES](https://open.spotify.com/track/5dy9zUa1y7I15hEyC2LSPj) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [TECTONIC PLATES](https://open.spotify.com/album/6wEFrGy4VbXGZidDfPQ8JQ) | 3:40 | 2021-08-27 |  |
 | [Tell Me](https://open.spotify.com/track/0ndV1KbJuiFxPuZ4cJZZi8) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy), [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [Tell Me](https://open.spotify.com/album/1irZ1TS0B9d4Imzn6SSg1J) | 3:06 | 2020-12-11 |  |
@@ -298,7 +299,7 @@
 | [walk but in a garden](https://open.spotify.com/track/37bzRWttPZDNdJs24NZaUG) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/0iHcSeWJa1zUgnCPA9DO7j) | 1:50 | 2020-05-29 | 2022-07-29 |
 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 | 2022-06-10 |  |
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 | 2020-10-16 | 2022-08-06 |
-| [Water Theme](https://open.spotify.com/track/3teH1kAL5KrlUYosdt2nJI) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Winter Flower](https://open.spotify.com/album/259OLvPj1qoZpCXXQRavBx) | 1:49 | 2021-11-19 |  |
+| [Water Theme](https://open.spotify.com/track/3teH1kAL5KrlUYosdt2nJI) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Winter Flower](https://open.spotify.com/album/259OLvPj1qoZpCXXQRavBx) | 1:49 | 2021-11-19 | 2022-08-24 |
 | [waves](https://open.spotify.com/track/05ohEiCZLo3IFITyHJ2liE) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [waves](https://open.spotify.com/album/3JXSGI5O9Li35NYBMfgeJm) | 3:03 | 2022-08-19 |  |
 | [Way Out](https://open.spotify.com/track/1hQ6kSmwbBGLLAjihto6x8) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Way Out](https://open.spotify.com/album/0cFhFaP7KvGdUhvb9g1Iwl) | 3:20 | 2022-04-29 | 2022-07-29 |
 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-06-10 |  |

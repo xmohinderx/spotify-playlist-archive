@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 442280,
+  "num_followers": 442313,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NzYzNiwwMDAwMDAwMDk4ZDY2OGI3MThiZjU2MDg4YjdiMTY2NWZkNzY2ZWUw",
+  "snapshot_id": "MTY2MDI0NzYzNiwwMDAwMDAwMGY4MTI2ZjI0ODA3MGI5OGM3MzYxMjk5ZjY4YzdkYmY0",
   "tracks": [
     {
       "added_at": "2022-08-11 19:53:56",
@@ -979,6 +979,26 @@
     {
       "added_at": "2022-08-11 19:53:56",
       "album": {
+        "name": "De Vuelta Pa' La Vuelta",
+        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "De Vuelta Pa' La Vuelta",
+      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "added_at": "2022-08-11 19:53:56",
+      "album": {
         "name": "Barranquilla Bajo Cero",
         "url": "https://open.spotify.com/album/0TDGIoXeKDPhp1LpU4RMvf"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 246214,
       "name": "Barranquilla Bajo Cero",
       "url": "https://open.spotify.com/track/02mhtclidb7Jpf1gwEasJh"
-    },
-    {
-      "added_at": "2022-08-11 19:53:56",
-      "album": {
-        "name": "De Vuelta Pa' La Vuelta",
-        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "De Vuelta Pa' La Vuelta",
-      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
     },
     {
       "added_at": "2022-08-11 19:53:56",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-08-11 19:53:56",
       "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+    },
+    {
+      "added_at": "2022-08-11 19:53:56",
+      "album": {
         "name": "Un Ratito",
         "url": "https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 194906,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
-    },
-    {
-      "added_at": "2022-08-11 19:53:56",
-      "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 152080,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
     },
     {
       "added_at": "2022-08-11 19:53:56",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2022-08-11 19:53:56",
       "album": {
-        "name": "Tacones Rojos (With John Legend)",
-        "url": "https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 188746,
-      "name": "Tacones Rojos - With John Legend",
-      "url": "https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W"
-    },
-    {
-      "added_at": "2022-08-11 19:53:56",
-      "album": {
         "name": "Mal de Amores",
         "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 188333,
       "name": "Mal de Amores",
       "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
+    },
+    {
+      "added_at": "2022-08-11 19:53:56",
+      "album": {
+        "name": "Tacones Rojos (With John Legend)",
+        "url": "https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 188746,
+      "name": "Tacones Rojos - With John Legend",
+      "url": "https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W"
     },
     {
       "added_at": "2022-08-11 19:53:56",

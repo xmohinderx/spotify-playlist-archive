@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: The Knocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,267 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,434 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 41 | [Never Enough](https://open.spotify.com/track/3SPR0vmGBKczy7976CLTQ6) | [DSCOSTU](https://open.spotify.com/artist/4vg4AC4wgDKwGNV1xemLr1), [Victor Perry](https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE) | [Never Enough](https://open.spotify.com/album/5LcrQlu6U8Y55Sv7NWXJOo) | 3:28 |
 | 42 | [Better When You're Gone](https://open.spotify.com/track/2BoA9kgubZHEio7mK4EIxs) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [Sash Sings](https://open.spotify.com/artist/2vN55dx634ecSvLDhXxF6N) | [Better When You're Gone](https://open.spotify.com/album/7vJ6q3MwQF2aj4Zbgq44gz) | 2:58 |
 | 43 | [Instant Sunshine \- Luke Million Remix](https://open.spotify.com/track/751PUhAgj41GvTjm4HOLc6) | [LAU](https://open.spotify.com/artist/3i1ZPTMkrfR7cAHBY77Bz4), [Luke Million](https://open.spotify.com/artist/1khu4DLsGK5MWLbUlfKkgz) | [Circumstance \(The Remixes\)](https://open.spotify.com/album/0ukEAfhs8KPDWlDx8TlzbI) | 3:53 |
-| 44 | [too good to be true](https://open.spotify.com/track/3fdpFnoBfov64278JqhDHX) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [r u sure?](https://open.spotify.com/album/16S9K4WiAG8JTcq4fbGU63) | 2:49 |
+| 44 | [too good to be true](https://open.spotify.com/track/3fdpFnoBfov64278JqhDHX) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [R U Sure?](https://open.spotify.com/album/16S9K4WiAG8JTcq4fbGU63) | 2:49 |
 | 45 | [Imagine You](https://open.spotify.com/track/02zo8sphd3hpK65FyJolj9) | [Jennifer Jess](https://open.spotify.com/artist/5DoU3HuEcF6GTXe7CzYY7U) | [Imagine You](https://open.spotify.com/album/5NzJP5J3nsrxSCcKhMjphI) | 3:36 |
 | 46 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:26 |
 | 47 | [Retro Magic](https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF) | [Donhowe](https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Retro Magic](https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5) | 2:44 |

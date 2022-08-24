@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-131 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+133 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2022-03-17 |  |
 | [Grat](https://open.spotify.com/track/3C7ln1fvOInfVLWe1uOWso) | [Daniel O'Rhys](https://open.spotify.com/artist/4eb20k06iiAcR95q6sp8RD) | [The Winterstein Suite](https://open.spotify.com/album/6npZLJ2zQD5TnSRRdimKFN) | 4:39 | 2022-03-17 | 2022-07-27 |
 | [Haze](https://open.spotify.com/track/6UJ0KvITqhY27liXdg9lrh) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [Haze](https://open.spotify.com/album/5WM84Dwbzex3zgFjqjR9Iu) | 2:08 | 2022-08-19 |  |
-| [I Hold Dearly \(For Miles\)](https://open.spotify.com/track/215BxshjyTy3SRuaeb4KBE) | [Fuubutsushi](https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj) | [Natsukashii](https://open.spotify.com/album/10gqYl87tFtJOpp3wkJfEc) | 5:17 | 2022-03-17 |  |
+| [I Hold Dearly \(For Miles\)](https://open.spotify.com/track/215BxshjyTy3SRuaeb4KBE) | [Fuubutsushi](https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj) | [Natsukashii](https://open.spotify.com/album/10gqYl87tFtJOpp3wkJfEc) | 5:17 | 2022-03-17 | 2022-08-24 |
 | [I Know We Promised](https://open.spotify.com/track/5KUYsVRILcXhs2C5mwe8O5) | [ANQUETIL](https://open.spotify.com/artist/3yfN35BfrYCb1nRojr9k2O) | [I Know We Promised](https://open.spotify.com/album/1utZ4FvOpJto27aOpa7EBo) | 3:02 | 2022-03-17 | 2022-07-29 |
 | [Ikigai](https://open.spotify.com/track/3JTxj4orzPrDjQFKBM2QAN) | [Le Motel](https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd) | [Ikigai](https://open.spotify.com/album/1O3jxw1VI6uYIT7BRrLpBi) | 4:55 | 2022-05-18 |  |
 | [Iniss](https://open.spotify.com/track/6iKmkAjS7frYZsAgTZA7tw) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Drifting](https://open.spotify.com/album/0TR3j5R8ecFuefaB6xgAi4) | 7:20 | 2022-05-18 | 2022-07-22 |
@@ -62,7 +62,7 @@
 | [Knowledge](https://open.spotify.com/track/2LEqtjDn1k4ZI7xwgheNI7) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Sphere](https://open.spotify.com/album/7LqeayMSLKMDHFkGkk5TTM) | 4:54 | 2022-05-18 |  |
 | [La tristeza de una ciudad](https://open.spotify.com/track/5RhexhsWN9cboUH9Qo1EuK) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Honne \(本 音\)](https://open.spotify.com/album/3UAS7VNUKdxLx6GB1Gabpw) | 4:15 | 2022-03-17 | 2022-07-29 |
 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-03-17 |  |
-| [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 | 2022-03-17 |  |
+| [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 | 2022-03-17 | 2022-08-24 |
 | [Lil Bub's Story](https://open.spotify.com/track/6910PssSMId7YtYot1aI43) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Nothing Much Happens](https://open.spotify.com/album/67fSoRFG74IY2PfXeFkhGH) | 7:02 | 2022-03-17 | 2022-08-11 |
 | [Love Is The Tune](https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Love Is The Tune](https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ) | 3:40 | 2022-03-17 |  |
 | [Lumi](https://open.spotify.com/track/4JwgaqEc7cFmKsBxhNqRSt) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Lumi](https://open.spotify.com/album/0PaJNCdv9ME8mJkrI1OX0W) | 2:44 | 2022-08-05 |  |
@@ -89,6 +89,7 @@
 | [Ozu](https://open.spotify.com/track/0RTRJxsKOSWzmfLnrsgW4i) | [Arp](https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX) | [Zebra](https://open.spotify.com/album/7fMlt5bR4ddUnzLnMR91Qf) | 2:18 | 2022-03-30 | 2022-07-29 |
 | [Ozu](https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK) | [Arp](https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX) | [ZEBRA](https://open.spotify.com/album/5trQl5XvIPRgpl2zjmIBb0) | 2:18 | 2022-07-08 | 2022-08-18 |
 | [Passage](https://open.spotify.com/track/1O9RWAwUb7MhiohlNpM4vp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Antarctican Dream Machine](https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz) | 3:23 | 2022-08-11 |  |
+| [Phase 10](https://open.spotify.com/track/6sDe8RA7VqWfBUYg3fiBwD) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Meditation: You Are Relaxed](https://open.spotify.com/album/4QL5klSQaSxjr5ahXU4Mex) | 3:00 | 2022-08-19 |  |
 | [Prue Lewarne](https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB) | [Aix Em Klemm](https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma) | [Aix Em Klemm](https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ) | 7:19 | 2022-03-30 |  |
 | [Resolve](https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Resolve](https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [rest](https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 2:53 | 2022-03-30 | 2022-07-27 |
@@ -102,6 +103,7 @@
 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 | 2022-03-17 |  |
 | [Slipping the Mooring/Pond](https://open.spotify.com/track/62X9DAVP5ZH2A5Yzn5Rzdt) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:55 | 2022-03-17 | 2022-07-29 |
 | [Smooth Sailing](https://open.spotify.com/track/3PgXYJK9SqK9vO0qSVNB9i) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6), [Tomas Johan Kristian](https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ) | [Smooth Sailing](https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa) | 1:47 | 2022-05-06 | 2022-07-28 |
+| [Solar](https://open.spotify.com/track/3GYZJXSAt8ojUjsNSXkrTW) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Orchestral Tape Studies](https://open.spotify.com/album/1YPb5GHEbDyd6unbqP9nAP) | 6:07 | 2022-08-19 |  |
 | [Space 5](https://open.spotify.com/track/3hj4aPlRreailkV20LbAYK) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:00 | 2022-03-17 |  |
 | [Spinnaker on a Southerly](https://open.spotify.com/track/6zrdZQiLJvaIMWzuCOyyIC) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:07 | 2022-03-17 | 2022-08-23 |
 | [Spring Consolation](https://open.spotify.com/track/7eB3y89enbULLgbXi3aN62) | [Jessica Gallo](https://open.spotify.com/artist/0AUXT7h44snL3V6J0jBame), [Kenji Azuma](https://open.spotify.com/artist/0mXX3f6gHD2LPwHv6n5E2D) | [Spring Consolation](https://open.spotify.com/album/5lRJRm17mkKZvZMyBgKetr) | 4:15 | 2022-06-24 |  |

@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Anumita Nadesan
 
-169 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+170 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Go Grow](https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Go Grow](https://open.spotify.com/album/2m0HEB5QkPWqeaf4V133JM) | 3:47 | 2022-01-10 |  |
 | [Grip](https://open.spotify.com/track/6T6I79tFf1Zc9h5Piy0gV9) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Landslands](https://open.spotify.com/artist/4I4rUfCqitzhA0WpTmwZvf) | [Grip](https://open.spotify.com/album/1tM6K9limY633ujoAagEuf) | 3:32 | 2022-01-10 |  |
 | [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 | 2021-12-06 | 2022-04-06 |
-| [Guzarish](https://open.spotify.com/track/524ovLWFCWeMbMlMQWp5Zf) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Guzarish](https://open.spotify.com/album/5KH94qpVVG6IEMrkJvJmSJ) | 4:18 | 2022-04-05 |  |
+| [Guzarish](https://open.spotify.com/track/524ovLWFCWeMbMlMQWp5Zf) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Guzarish](https://open.spotify.com/album/5KH94qpVVG6IEMrkJvJmSJ) | 4:18 | 2022-04-05 | 2022-08-24 |
 | [Hua Mera](https://open.spotify.com/track/52rCzPVc4qHUqAN7nfJOB5) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Hua Mera](https://open.spotify.com/album/3nGM067kh5hi5AYzJWgloe) | 3:53 | 2021-12-06 | 2022-07-09 |
 | [Hum Chal Rahe Hain](https://open.spotify.com/track/63Vx8wbVFhSIuvRdNQzMo2) | [Sheherazaad](https://open.spotify.com/artist/7pHput1tbvgyLsIYu7GM1p) | [Khwaabistan](https://open.spotify.com/album/6Wq0QDsS81FQHOQujprKVP) | 2:17 | 2021-12-06 | 2022-01-11 |
 | [Humse Khafa](https://open.spotify.com/track/5JbvDBWAFvOnlr53Q9cD5P) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Humse Khafa](https://open.spotify.com/album/1MMpS9n2JdNIN1q4Fr3K1H) | 4:00 | 2021-12-06 |  |
@@ -118,6 +118,7 @@
 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 | 2022-07-11 |  |
 | [Na Tum Saamne](https://open.spotify.com/track/1oCkc96iBiOiyydlbiHRGE) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Na Tum Saamne](https://open.spotify.com/album/5TACPWAxlXxjGPIKbHOYA9) | 3:00 | 2021-12-06 | 2022-01-11 |
 | [Nowhere to Stand](https://open.spotify.com/track/1pikKqZnF7anajMEEYn4Hf) | [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Nowhere to Stand](https://open.spotify.com/album/13jDAstKcOUTGO7YTYHtXT) | 3:52 | 2021-12-06 | 2022-01-11 |
+| [Nusrat](https://open.spotify.com/track/2YQNdxjJRl7AY9Xx76lkna) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R), [Subir Malik](https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW), [Jasmine Kaur](https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G) | [Nusrat](https://open.spotify.com/album/1L6vJZTwWfVV2ZEkVKy7sY) | 4:26 | 2022-08-23 |  |
 | [Obituary](https://open.spotify.com/track/3CWra93RrBwL4NIesLZ2yC) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Book of I](https://open.spotify.com/album/2Yz0NqYcoPvEcFPf7jwx1Z) | 3:36 | 2021-12-06 | 2022-02-09 |
 | [obsessive](https://open.spotify.com/track/0TxjLkMYm98aKVcpRsu2ux) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [obsessive](https://open.spotify.com/album/4ULtY8eKrBarUAA4qKaS58) | 2:52 | 2021-12-06 | 2022-01-28 |
 | [Ocean](https://open.spotify.com/track/7kjxJeYKpqNGmJDSEqJkX6) | [Mosambee](https://open.spotify.com/artist/0rzJyg4AjdVg7BPaFVOUxZ), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Ocean](https://open.spotify.com/album/7ByIOSoMLB33Kzjt6SENHc) | 3:00 | 2021-12-06 | 2022-02-01 |

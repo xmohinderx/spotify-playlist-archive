@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 6787,
+  "num_followers": 6789,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NDEyNDU2MiwwMDAwMDAwMDI5MGNiYjY0ZmNiMmQ4NDM2MmMxYTFhM2YyM2UxZGQ1",
+  "snapshot_id": "MTU0NDEyNDU2MiwwMDAwMDAwMDVlOWE5ZDU5MThlMTllZDE1MjQ1OGI0MDUxYzIzYzI0",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -615,22 +615,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Judy Collins Sings Leonard Cohen: Democracy",
-        "url": "https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ"
-      },
-      "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "A Thousand Kisses Deep - New Recording",
-      "url": "https://open.spotify.com/track/0DYMn3FBYloHiTqiCTDIB9"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Tower Of Song - The Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 199600,
       "name": "Sisters Of Mercy",
       "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Judy Collins Sings Leonard Cohen: Democracy",
+        "url": "https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "A Thousand Kisses Deep - New Recording",
+      "url": "https://open.spotify.com/track/0DYMn3FBYloHiTqiCTDIB9"
     },
     {
       "added_at": "2018-12-06 19:29:22",

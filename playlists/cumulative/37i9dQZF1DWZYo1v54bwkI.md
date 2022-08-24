@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-149 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
+151 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2022-07-15 |  |
 | [always](https://open.spotify.com/track/5Nusgvqw46McIdfuqrvM4c) | [Florence Adame](https://open.spotify.com/artist/0OyLeqzC9Bd1d8uc5DgYCz) | [always](https://open.spotify.com/album/1Zqgnlwg96XIvVOrvYATK4) | 2:56 | 2022-07-15 |  |
 | [Angel Dust](https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:10 | 2022-07-15 |  |
+| [Apricus](https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Apricus](https://open.spotify.com/album/2rk6uIsjnpHpOFYHmx8Emk) | 2:39 | 2022-08-23 |  |
 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 | 2022-07-15 |  |
 | [Argentum](https://open.spotify.com/track/0ShvmWyYcjf8nbCBBhVjPW) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Argentum](https://open.spotify.com/album/3bRb9n1DDvfT2cHbqnsGp4) | 2:42 | 2022-07-15 |  |
 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 | 2022-07-15 |  |
@@ -72,6 +73,7 @@
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-07-15 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-07-15 |  |
 | [Intentional State](https://open.spotify.com/track/0PTyLUmKBZpnxOGl1t5elw) | [Ella Drake](https://open.spotify.com/artist/0O76d5oDfMqnPoxRN29bpx) | [Intentional State](https://open.spotify.com/album/3cRUAysRl6uKb5EYyqetOu) | 3:40 | 2022-07-15 |  |
+| [Invisible Currents](https://open.spotify.com/track/58F2NUnMXH9VKWESwi05Z1) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Sunrise](https://open.spotify.com/album/4isWOKOddFFaUGOApJL8uK) | 2:32 | 2022-08-23 |  |
 | [Iridium \(Alpha 8 hz\)](https://open.spotify.com/track/4klPTHZuYtEDzKcL9Mi4dn) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Iridium \(Alpha 8 hz\)](https://open.spotify.com/album/1xhIrmmpbdMtXHK92Npdks) | 3:30 | 2022-07-15 |  |
 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 |  |
 | [Je continue d'apprendre](https://open.spotify.com/track/0ts0VElEurDclsFS8FLFwA) | [Roar Martinsen](https://open.spotify.com/artist/4IWKt1IRlTbunWA0Ge9MIN) | [Je continue d'apprendre](https://open.spotify.com/album/0hBjqma2rfsY0IZEDkUZD0) | 1:40 | 2022-07-15 |  |

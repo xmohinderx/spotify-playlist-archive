@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,952 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,958 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 84 | [El Balcón \- En Vivo](https://open.spotify.com/track/7ywbpggu1JZHDKCK153aTf) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 5:46 |
 | 85 | [Felicidad](https://open.spotify.com/track/6maz5qNXcVL8PG8UP99QcK) | [Nagual](https://open.spotify.com/artist/0EHTNOyiEIqOIkE5tlnV4u) | [Pacto de Sangre](https://open.spotify.com/album/5hbILog4k1bsYkJTnnLDcT) | 4:03 |
 | 86 | [Mar de Fueguitos](https://open.spotify.com/track/0I1Jv5I1GzddNRwXSomPEI) | [La Chancha Muda](https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T) | [Ya no Queda más Lugar Bajo la Alfombra](https://open.spotify.com/album/5RnZm5xS1oZ3QEaz5qvPkF) | 4:59 |
-| 87 | [Aguas Turbulentas](https://open.spotify.com/track/7GXEbrbXdBi3v3KHFzZYc3) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [222 BIOGRAMA](https://open.spotify.com/album/6R8WKBSETdBft1jXtbvBmo) | 3:30 |
-| 88 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 |
+| 87 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 |
+| 88 | [Aguas Turbulentas](https://open.spotify.com/track/7GXEbrbXdBi3v3KHFzZYc3) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [222 BIOGRAMA](https://open.spotify.com/album/6R8WKBSETdBft1jXtbvBmo) | 3:30 |
 | 89 | [Sábado](https://open.spotify.com/track/20qY3fMWpcMN0lWIeMRvXz) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 4:16 |
 | 90 | [Picante](https://open.spotify.com/track/5VB2lmH2J2tnJBjMURSN6r) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Picante](https://open.spotify.com/album/2vM4XgkyBTi7kKpxFvrpdl) | 3:07 |
 | 91 | [Todo el Día](https://open.spotify.com/track/7vX3ImcbaAn5VW18HrXm76) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Todo el Día](https://open.spotify.com/album/0DRQAO4xwdVD2o6jD08AcJ) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 99 | [Fijate](https://open.spotify.com/track/07o3nk0mDAspJ2qgU0qOtn) | [Micky Rodriguez](https://open.spotify.com/artist/0QXzxmIHIeQEYvRCOmJ0vB) | [Fijate](https://open.spotify.com/album/3E6wu3CunRtERaWHh3klj8) | 3:54 |
 | 100 | [Banda de Garage \- Antes \- Ferro 2014 en Vivo](https://open.spotify.com/track/6VeDyMhky3csClQ1jABaCB) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Qué Placer Verte Otra Vez \(Ferro 2014 En Vivo\)](https://open.spotify.com/album/2ZyM4nbcyK6UlPZfxdqQ0m) | 4:26 |
 
-Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMDdkZDU2NmE4Zjc5YWU0OTcxNTNmYjllOWI2NDIwZWQ3`
+Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMGVhODZkYjE5ZjBiYzVkZDU3MDgzMTYzYmQ2ZTFkYWU2`

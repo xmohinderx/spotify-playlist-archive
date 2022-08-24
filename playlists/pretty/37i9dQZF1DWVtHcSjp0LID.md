@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,696 likes - 80 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,724 likes - 80 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 28 | [Clouds](https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW) | [Aemone](https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d) | [Caturne V \- EP](https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1) | 4:12 |
 | 29 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
 | 30 | [Bocuma](https://open.spotify.com/track/4Hmc81ZS9s2WlTvOsuoiTQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:35 |
-| 31 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 |
-| 32 | [Letters \- NTO Remix](https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [A Magic World \(Remixes\)](https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS) | 6:05 |
+| 31 | [Letters \- NTO Remix](https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [A Magic World \(Remixes\)](https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS) | 6:05 |
+| 32 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 |
 | 33 | [Never Forget](https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [See You When You Get There](https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr) | 6:04 |
 | 34 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 |
 | 35 | [Knowing We'll Be Here](https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 5:42 |
@@ -63,23 +63,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 53 | [Bonder](https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR) | [Rocket Empire](https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82), [Amber Sparks](https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf) | [Sky Float Sun](https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb) | 5:31 |
 | 54 | [Moons](https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moons](https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb) | 3:37 |
 | 55 | [As Long as There's Sunset](https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Aerial](https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89) | 6:09 |
-| 56 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
-| 57 | [Miracle Of The Rose](https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Miracle Of The Rose EP](https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC) | 5:31 |
-| 58 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
-| 59 | [like me](https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76) | [paleboi](https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe) | [like me](https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup) | 5:11 |
-| 60 | [Breathing Underwater](https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL) | [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Breathing Underwater](https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL) | 5:13 |
+| 56 | [Miracle Of The Rose](https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Miracle Of The Rose EP](https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC) | 5:31 |
+| 57 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
+| 58 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
+| 59 | [Breathing Underwater](https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL) | [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Breathing Underwater](https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL) | 5:13 |
+| 60 | [like me](https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76) | [paleboi](https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe) | [like me](https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup) | 5:11 |
 | 61 | [Backstabber](https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Backstabber EP](https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu) | 6:47 |
-| 62 | [Excess](https://open.spotify.com/track/5XwKGsHvBI5c7cSJh3qTLY) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Excess EP](https://open.spotify.com/album/7qi7DRAYNMj9K1lTDHjACE) | 7:12 |
-| 63 | [Godt Begyndt](https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Nature Boy](https://open.spotify.com/album/4SJLeiw3U7Dw4Gj9sp9yUB) | 6:41 |
+| 62 | [Godt Begyndt](https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Nature Boy](https://open.spotify.com/album/4SJLeiw3U7Dw4Gj9sp9yUB) | 6:41 |
+| 63 | [Excess](https://open.spotify.com/track/5XwKGsHvBI5c7cSJh3qTLY) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Excess EP](https://open.spotify.com/album/7qi7DRAYNMj9K1lTDHjACE) | 7:12 |
 | 64 | [Vasudeva](https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Vasudeva](https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G) | 6:16 |
 | 65 | [Orbital Hypnosis \- Erly Tepshi Remix](https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Erly Tepshi](https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj) | [Passengers](https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP) | 6:06 |
 | 66 | [Immortal](https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Carlos Pérez](https://open.spotify.com/artist/6L9nhBLgFJjNsV6BJDhqRr) | [Thunderstorm EP](https://open.spotify.com/album/6R30YrcG8zrQwb5IpPsmWS) | 6:57 |
-| 67 | [Lefty's Bar](https://open.spotify.com/track/4cNAVxOssXmb8Xl4yZ8QNO) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Kill Frenzy EP](https://open.spotify.com/album/3wDVTkC3IBNjlRHRs2iZUW) | 5:55 |
-| 68 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 |
-| 69 | [Everything](https://open.spotify.com/track/0UYh6IZU6VI8xTvupNWdWh) | [A Forest Mighty Black](https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y) | [Mellowdramatic](https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3) | 7:58 |
-| 70 | [Beirut](https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [A Slice of'' Heaven'' EP](https://open.spotify.com/album/2pU6NoEXYQq2bv27p82faA) | 7:27 |
+| 67 | [Trivia](https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [The Two of Us](https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29) | 5:44 |
+| 68 | [Lefty's Bar](https://open.spotify.com/track/4cNAVxOssXmb8Xl4yZ8QNO) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Kill Frenzy EP](https://open.spotify.com/album/3wDVTkC3IBNjlRHRs2iZUW) | 5:55 |
+| 69 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 |
+| 70 | [Everything](https://open.spotify.com/track/0UYh6IZU6VI8xTvupNWdWh) | [A Forest Mighty Black](https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y) | [Mellowdramatic](https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3) | 7:58 |
 | 71 | [Clarity](https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO) | [Kettel](https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp) | [Ibb & Obb \(Original Soundtrack\)](https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6) | 2:34 |
-| 72 | [Trivia](https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [The Two of Us](https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29) | 5:44 |
+| 72 | [Beirut](https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [A Slice of'' Heaven'' EP](https://open.spotify.com/album/2pU6NoEXYQq2bv27p82faA) | 7:27 |
 | 73 | [Witness](https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF) | [Foans](https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb) | [Foans](https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn) | 4:36 |
 | 74 | [Deepart 8.0](https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI) | [Async](https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t) | [Frekk EP](https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE) | 7:54 |
 | 75 | [Shift II \- Original Mix](https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [Shift I \- II](https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX) | 5:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 79 | [Heading North](https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Flu](https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi) | [Endless Sacrifice](https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J) | 7:17 |
 | 80 | [Confiscate \- Drumcomplex Remix](https://open.spotify.com/track/4DbaGKcHx7WHdgHwTsNQ8P) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU), [Drumcomplex](https://open.spotify.com/artist/15uHboHn4dMAVjqSBMSnId) | [Confiscate / Elucidate](https://open.spotify.com/album/2jwS9VvHOISz2oWF5z9rSb) | 6:46 |
 
-Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMDRhNDViMWRiZWVkMTRhNTI0OTZmZTYwOTYyMWY2ZGZj`
+Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMDNlMjFiNzdhYjllMWJjNzQyMWViZDgwZDBiMDYwODhm`

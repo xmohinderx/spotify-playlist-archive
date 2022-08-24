@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-305 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+306 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Runic Inscriptions on Parapets](https://open.spotify.com/track/5Zlpz6ITS8QTfmFY9RUT4F) | [Old Norse](https://open.spotify.com/artist/0mF2EOEFiENizRK7E4ybuX) | [Hall in Bonn](https://open.spotify.com/album/6pTkaZaATdn52njMTppf6u) | 3:12 | 2021-11-10 |  |
 | [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-03-24 |  |
 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 | 2022-06-24 |  |
+| [Sanam](https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG) | [Idamal](https://open.spotify.com/artist/1oQ1F81sAYsBvHvZL3ACWu) | [Sanam](https://open.spotify.com/album/0lYU4WGw36TjLhOxf3yl7i) | 2:22 | 2022-08-23 |  |
 | [Santonana](https://open.spotify.com/track/0r60hv2JqbAk5SsaIrFu7r) | [Kai Carney](https://open.spotify.com/artist/3auOPI2xcAVuyR6ULTIlqM) | [Santonana](https://open.spotify.com/album/7x5QB5SscxxWlaHm5zEWqS) | 3:30 | 2022-06-16 |  |
 | [Saturated Evenings](https://open.spotify.com/track/7oigJ0Iei2PLS2vwA3gnib) | [Mao\-Li](https://open.spotify.com/artist/2qIOoLj6ilaacPexeiw7RW) | [Saturated Evenings](https://open.spotify.com/album/7eJEukYUhvEnLJMH9z3e9c) | 3:37 | 2021-11-10 |  |
 | [Scenery In Dreams](https://open.spotify.com/track/7A9Y0w3bfhnc4YLAlmiKcc) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Scenery In Dreams](https://open.spotify.com/album/7h6Acv69Aso0ihWXIfYsou) | 2:38 | 2021-11-10 |  |
@@ -289,7 +290,7 @@
 | [The Riddle of Dreams](https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg) | [Carligo](https://open.spotify.com/artist/6rcMboN5jrM7OzqcqIfLwd) | [The Riddle of Dreams](https://open.spotify.com/album/5gBFJ8RLzPdObOk4pQTiKj) | 2:27 | 2021-11-10 |  |
 | [The Road Back](https://open.spotify.com/track/75awJg9Xgn3cRJrPFihiV4) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [The Road Back](https://open.spotify.com/album/6yXBd5kQQujRewckYFsupC) | 4:06 | 2022-01-21 |  |
 | [The Surname of Penton](https://open.spotify.com/track/4KjUpdQieoX0475pPHZBum) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [The Surname of Penton](https://open.spotify.com/album/5J4VHqcgcFTFpnyZwR9V8g) | 3:37 | 2021-11-10 |  |
-| [This Now](https://open.spotify.com/track/6bcf6i4amFipG1r2ScmfHL) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [This Now](https://open.spotify.com/album/4hhWJQREZiGh7OJ0EcPFxa) | 2:09 | 2022-03-04 |  |
+| [This Now](https://open.spotify.com/track/6bcf6i4amFipG1r2ScmfHL) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [This Now](https://open.spotify.com/album/4hhWJQREZiGh7OJ0EcPFxa) | 2:09 | 2022-03-04 | 2022-08-24 |
 | [Through Your Eyes](https://open.spotify.com/track/1DERFIlUdiUtFCoLQIGdLj) | [Don Mazuck](https://open.spotify.com/artist/45zt0raIfZd0fb6yzSneno) | [Through Your Eyes](https://open.spotify.com/album/5yaMmCGAb7Auv5ZbX0flBQ) | 2:49 | 2021-11-10 |  |
 | [Tirana Wolves](https://open.spotify.com/track/6RsZg0rFSlLWqy5AKiny95) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [On the Davenport](https://open.spotify.com/album/5jnoMpc62TVfL6v8ljsdwf) | 3:26 | 2021-11-10 |  |
 | [Turiya](https://open.spotify.com/track/0LpC3dt5L0hw2FT6aModNK) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Turiya](https://open.spotify.com/album/7gHrv87n4GoqcFZ7foXlLu) | 2:00 | 2022-07-01 |  |

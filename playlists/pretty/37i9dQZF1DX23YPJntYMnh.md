@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: King's X
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,820 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,887 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 53 | [Who Really Are the Monsters?](https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH) | 5:19 |
 | 54 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
 | 55 | [Vinnie](https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5) | [Screaming Headless Torsos](https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb) | [1995](https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN) | 4:24 |
-| 56 | [Stranger Danger \(In The Streets Of Life\)](https://open.spotify.com/track/1s01iznKh85A0zJ3Yy3hsI) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/6Hd2U9xPomEmLfKHekr9pG) | 4:06 |
-| 57 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
-| 58 | [Politicalamity](https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [III Sides To Every Story](https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd) | 5:04 |
+| 56 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
+| 57 | [Politicalamity](https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [III Sides To Every Story](https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd) | 5:04 |
+| 58 | [Stranger Danger \(In The Streets Of Life\)](https://open.spotify.com/track/1s01iznKh85A0zJ3Yy3hsI) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/6Hd2U9xPomEmLfKHekr9pG) | 4:06 |
 | 59 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 |
 | 60 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 |
 
-Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMGNkZGIwYmE4ZDM0MzRjZmEwYWY3OTU1ZjhlYTYzZTVk`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDZjYmQ3YWZmY2Y2ZTNlMjRlYjYzZDc4ZmJkNTkyODQx`

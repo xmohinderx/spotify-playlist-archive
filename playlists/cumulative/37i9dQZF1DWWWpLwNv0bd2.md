@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Thiruchitrambalam
 
-77 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+78 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Mudhal Nee Mudivum Nee Title Track](https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Mudhal Nee Mudivum Nee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3r6JhF3T7IkDvhWWJSux9y) | 5:32 | 2022-01-21 |  |
 | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/2R8F4wxJzpyQuN6fxUUwT1) | 4:03 | 2022-01-03 |  |
 | [Naanum \- From "Navarasa"](https://open.spotify.com/track/2S5GlyMhp7tUbOFU4Kf1kJ) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Naanum \(From "Navarasa"\)](https://open.spotify.com/album/1A1DHdbo5BcG2JqNKB88iB) | 3:34 | 2021-11-29 |  |
+| [Natchathiram Nagargirathu](https://open.spotify.com/track/1vzOAqyprXwN1Yw5vxBaQV) | [Tenma](https://open.spotify.com/artist/2DrwyYWGYEu3ULzRzEGajY), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Natchathiram Nagargirathu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QgQOj0xKEHOEQzHvjj2ml) | 4:53 | 2022-08-23 |  |
 | [Neethanadi](https://open.spotify.com/track/0zeN1wmbeITrxoPNrcOjHL) | [Mervin Solomon](https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv) | [Neethanadi \(From "Enna Solla Pogirai"\)](https://open.spotify.com/album/0WtJQoUW14v8LbJNb4yIJg) | 3:55 | 2022-01-08 |  |
 | [Nenjorama](https://open.spotify.com/track/4NmfmCIrKi0Atun3VyScwk) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Malvi Sundaresan](https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp) | [Nenjorama \(From "Madhil Mel Kaadhal"\)](https://open.spotify.com/album/6V93wLuFLRyv73BM4Rkvx4) | 3:38 | 2022-03-03 |  |
 | [Neruppa Irupaan \- From "Sivakumarin Sabadham"](https://open.spotify.com/track/11zRluoNe3Wusm9jyBaln9) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Neruppa Irupaan \(From "Sivakumarin Sabadham"\)](https://open.spotify.com/album/1CpyWotW6RjWLfbZKVIsol) | 2:56 | 2021-11-29 |  |

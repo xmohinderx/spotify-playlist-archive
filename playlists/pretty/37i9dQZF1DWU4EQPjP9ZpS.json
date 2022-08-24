@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 195554,
+  "num_followers": 195692,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMGNmMGMyYWE1ZWEzOTg1NzE5NzM3NjJmOWZmYTg1YWUw",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDBlZjgxM2ZjZTg0ZGI3ZmJhYWJhNTM4NTRiMGNkY2I1",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2LeTvZCJrcgloOlJz7SBv7"
+      },
+      "artists": [
+        {
+          "name": "bl00dwave",
+          "url": "https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH"
+        },
+        {
+          "name": "Riverwave",
+          "url": "https://open.spotify.com/artist/1cEFUFZiMoCQsX4ufDMAVi"
+        }
+      ],
+      "duration_ms": 146181,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4cuFOiOerVc7Ectr2qLKKb"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Ocean Breeze",
         "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
       },
@@ -663,26 +683,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2LeTvZCJrcgloOlJz7SBv7"
-      },
-      "artists": [
-        {
-          "name": "bl00dwave",
-          "url": "https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH"
-        },
-        {
-          "name": "Riverwave",
-          "url": "https://open.spotify.com/artist/1cEFUFZiMoCQsX4ufDMAVi"
-        }
-      ],
-      "duration_ms": 146181,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4cuFOiOerVc7Ectr2qLKKb"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Miami Virtual",
         "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 253727,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/44K1lRG5aUFLQkIKWYbjzQ"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "VaporLoops, Vol. 1",
-        "url": "https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 229269,
-      "name": "Misty Reflections",
-      "url": "https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -731,6 +715,22 @@
       "duration_ms": 269538,
       "name": "Us Ephemeral (George Clanton Remix)",
       "url": "https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "VaporLoops, Vol. 1",
+        "url": "https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 229269,
+      "name": "Misty Reflections",
+      "url": "https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "On the Promenade",
-        "url": "https://open.spotify.com/album/7uzedVpcTqvncbJdeXKibS"
+        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
       },
       "artists": [
         {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
         }
       ],
-      "duration_ms": 209999,
-      "name": "On the Promenade",
-      "url": "https://open.spotify.com/track/4dlCKHP7YzgKoVh9X27hKf"
+      "duration_ms": 277570,
+      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
+        "name": "On the Promenade",
+        "url": "https://open.spotify.com/album/7uzedVpcTqvncbJdeXKibS"
       },
       "artists": [
         {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
         }
       ],
-      "duration_ms": 277570,
-      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
+      "duration_ms": 209999,
+      "name": "On the Promenade",
+      "url": "https://open.spotify.com/track/4dlCKHP7YzgKoVh9X27hKf"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "\u30b7 \u30e7 \u30c3 \u30d7 @ \u30d8 \u30eb \u30b7 \u30f3 \u30ad",
+        "url": "https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl"
+      },
+      "artists": [
+        {
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "\u90fd \u5e02 \u30d5 \u30a9 \u30fc \u30e9 \u30e0 Consumer [kahvi]",
+      "url": "https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Escapism",
         "url": "https://open.spotify.com/album/5U4O2ClEbqHFXEOoWvuKXD"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "\u30b7 \u30e7 \u30c3 \u30d7 @ \u30d8 \u30eb \u30b7 \u30f3 \u30ad",
-        "url": "https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl"
+        "name": "Strangers Who Know Every Secret",
+        "url": "https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk"
       },
       "artists": [
         {
-          "name": "\u732b \u30b7 Corp.",
-          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+          "name": "Designed Intervention",
+          "url": "https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT"
         }
       ],
-      "duration_ms": 354000,
-      "name": "\u90fd \u5e02 \u30d5 \u30a9 \u30fc \u30e9 \u30e0 Consumer [kahvi]",
-      "url": "https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG"
+      "duration_ms": 156613,
+      "name": "Strangers Who Know Every Secret",
+      "url": "https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 163019,
       "name": "mirror gallery (Windows 96 Remix)",
       "url": "https://open.spotify.com/track/1qnb5BWjEyWNOw06UWpMNH"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Strangers Who Know Every Secret",
-        "url": "https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk"
-      },
-      "artists": [
-        {
-          "name": "Designed Intervention",
-          "url": "https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT"
-        }
-      ],
-      "duration_ms": 156613,
-      "name": "Strangers Who Know Every Secret",
-      "url": "https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Bad Baby (Satin Sheets Remix)",
-        "url": "https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9"
-      },
-      "artists": [
-        {
-          "name": "Neggy Gemmy",
-          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
-        }
-      ],
-      "duration_ms": 297142,
-      "name": "Bad Baby (Satin Sheets Remix)",
-      "url": "https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Dr. ROM",
         "url": "https://open.spotify.com/album/3GWrjC0VhYuLYQuLMU6Kr4"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 164000,
       "name": "Home Workout VHS",
       "url": "https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Bad Baby (Satin Sheets Remix)",
+        "url": "https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9"
+      },
+      "artists": [
+        {
+          "name": "Neggy Gemmy",
+          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
+        }
+      ],
+      "duration_ms": 297142,
+      "name": "Bad Baby (Satin Sheets Remix)",
+      "url": "https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Psycho Geography",
-        "url": "https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh"
-      },
-      "artists": [
-        {
-          "name": "Memorex Memories",
-          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
-        }
-      ],
-      "duration_ms": 201081,
-      "name": "Psycho Geography",
-      "url": "https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 232473,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Psycho Geography",
+        "url": "https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh"
+      },
+      "artists": [
+        {
+          "name": "Memorex Memories",
+          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "Psycho Geography",
+      "url": "https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Dxys Xff",
-        "url": "https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d"
-      },
-      "artists": [
-        {
-          "name": "Teams",
-          "url": "https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ"
-        }
-      ],
-      "duration_ms": 326373,
-      "name": "Stunts",
-      "url": "https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "The New Beginning",
-        "url": "https://open.spotify.com/album/6ocanOmHYJ0PucHvWjIpzA"
-      },
-      "artists": [
-        {
-          "name": "Lost Traveler \u30ed\u30b9\u30c8",
-          "url": "https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Liberty",
-      "url": "https://open.spotify.com/track/7e3wRk18PN3K5quuGkz00d"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Swing Tournament",
         "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Dxys Xff",
+        "url": "https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d"
+      },
+      "artists": [
+        {
+          "name": "Teams",
+          "url": "https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ"
+        }
+      ],
+      "duration_ms": 326373,
+      "name": "Stunts",
+      "url": "https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Aeris",
         "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
       },
@@ -1459,30 +1443,6 @@
       "duration_ms": 226500,
       "name": "Oneirataxia",
       "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Astral Projection+",
-        "url": "https://open.spotify.com/album/6GQo05Hc0b936PtEJe1r3u"
-      },
-      "artists": [
-        {
-          "name": "Stux.Io",
-          "url": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
-        },
-        {
-          "name": "Vaporwavez",
-          "url": "https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3"
-        },
-        {
-          "name": "Celestial Sleeper",
-          "url": "https://open.spotify.com/artist/1SvNGNeeTpyO8TH48KvcEA"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "NP Hard",
-      "url": "https://open.spotify.com/track/4AbZu2JUrQ28Z5W5O9BE5y"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1519,6 +1479,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "The New Beginning",
+        "url": "https://open.spotify.com/album/6ocanOmHYJ0PucHvWjIpzA"
+      },
+      "artists": [
+        {
+          "name": "Lost Traveler \u30ed\u30b9\u30c8",
+          "url": "https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/7e3wRk18PN3K5quuGkz00d"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Miami Virtual",
         "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
@@ -1531,6 +1507,50 @@
       "duration_ms": 234013,
       "name": "\u4eca\u591c",
       "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Astral Projection+",
+        "url": "https://open.spotify.com/album/6GQo05Hc0b936PtEJe1r3u"
+      },
+      "artists": [
+        {
+          "name": "Stux.Io",
+          "url": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
+        },
+        {
+          "name": "Vaporwavez",
+          "url": "https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3"
+        },
+        {
+          "name": "Celestial Sleeper",
+          "url": "https://open.spotify.com/artist/1SvNGNeeTpyO8TH48KvcEA"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "NP Hard",
+      "url": "https://open.spotify.com/track/4AbZu2JUrQ28Z5W5O9BE5y"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "New Wares New Heirs New Game Plus (Remix)",
+        "url": "https://open.spotify.com/album/0n5L2gvBD4ySFDlhvpmPqN"
+      },
+      "artists": [
+        {
+          "name": "R23X",
+          "url": "https://open.spotify.com/artist/3IPek7qktTBeCtaGB0ZAmr"
+        },
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "New Wares New Heirs New Game Plus - Remix",
+      "url": "https://open.spotify.com/track/2VvDGxDybgST5iEulmG6EV"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1575,22 +1595,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "New Wares New Heirs New Game Plus (Remix)",
-        "url": "https://open.spotify.com/album/0n5L2gvBD4ySFDlhvpmPqN"
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
       },
       "artists": [
         {
-          "name": "R23X",
-          "url": "https://open.spotify.com/artist/3IPek7qktTBeCtaGB0ZAmr"
-        },
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
         }
       ],
-      "duration_ms": 226640,
-      "name": "New Wares New Heirs New Game Plus - Remix",
-      "url": "https://open.spotify.com/track/2VvDGxDybgST5iEulmG6EV"
+      "duration_ms": 170379,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
+        "name": "Glass Prism",
+        "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
       },
       "artists": [
         {
-          "name": "oDDling",
-          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
         }
       ],
-      "duration_ms": 170379,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
+      "duration_ms": 210895,
+      "name": "Glass Prism",
+      "url": "https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1639,22 +1655,6 @@
       "duration_ms": 221864,
       "name": "Freedom Airways",
       "url": "https://open.spotify.com/track/6eVP45Uxmf0VUSqhZKxjVX"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Glass Prism",
-        "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        }
-      ],
-      "duration_ms": 210895,
-      "name": "Glass Prism",
-      "url": "https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/1Y7egcgeNjvWjC8Dc0OFJZ"
-      },
-      "artists": [
-        {
-          "name": "GammaFlow",
-          "url": "https://open.spotify.com/artist/2Ue6zDPwPsdCxRVy3IoZ3S"
-        }
-      ],
-      "duration_ms": 220055,
-      "name": "Lido",
-      "url": "https://open.spotify.com/track/4AYTzUgvfvYgzm4zdIAqKu"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Music: Here To Stay",
         "url": "https://open.spotify.com/album/3HFjXBJKFh4m3aniQCVQAA"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 242817,
       "name": "3rD BEST",
       "url": "https://open.spotify.com/track/11w7UNvU8VAqssbgXqEYpp"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
     }
   ],
   "unique_name": "vaporwave",

@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 133806,
       "name": "360 flip",
       "url": "https://open.spotify.com/track/3XluTZpovHAGuhh9N8dyhw"
@@ -29894,6 +29894,24 @@
     },
     {
       "album": {
+        "name": "Lost South",
+        "url": "https://open.spotify.com/album/5jvSfVd4lV2z7SHOA6uGgD"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102464,
+      "name": "Lost South",
+      "url": "https://open.spotify.com/track/2HXuY0auvAFIBqQX5lwV05"
+    },
+    {
+      "album": {
         "name": "Loto",
         "url": "https://open.spotify.com/album/6tHuu1rHSEc7VyeUX1xLp2"
       },
@@ -35449,7 +35467,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 87159,
       "name": "New music",
       "url": "https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5"
@@ -37546,6 +37564,28 @@
     },
     {
       "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/6Fkuddn4nKT70yhKRjrDOC"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        },
+        {
+          "name": "Adrian Planitz",
+          "url": "https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101162,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/2qcaBkKJbTEqi6QeemAP4s"
+    },
+    {
+      "album": {
         "name": "One Mo' Nite",
         "url": "https://open.spotify.com/album/07lV3tMtJns8NV6qQX864X"
       },
@@ -38241,7 +38281,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 141646,
       "name": "Outlands",
       "url": "https://open.spotify.com/track/55qLhh9X1MS3cB0wwbFUDs"
@@ -43697,6 +43737,28 @@
       "duration_ms": 159562,
       "name": "Safehouse",
       "url": "https://open.spotify.com/track/7J9DIL1Tzsy1a4TuMowZKM"
+    },
+    {
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0yUfisoNdH3sQrVz0GEPZ3"
+      },
+      "artists": [
+        {
+          "name": "yosev",
+          "url": "https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/0VuLT2iRu3ne9XBBtqAqWw"
     },
     {
       "album": {

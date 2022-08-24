@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-468 songs - 1 day 3 hr 8 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+470 songs - 1 day 3 hr 12 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Mývatn](https://open.spotify.com/track/4BLroGG5pTJwGui3vurqql) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [Hvítserkur](https://open.spotify.com/album/5yEeoWMXD3Z1GNC6ADnhO6) | 2:39 | 2022-03-24 |  |
 | [Narrowed Eyes](https://open.spotify.com/track/6PQ5MG7nZpZRpSi19qb02l) | [Mattia Cupelli](https://open.spotify.com/artist/7aMMDRtoKETQscQlRZ7IFp) | [Narrowed Eyes](https://open.spotify.com/album/1O6kizJdIQbKb0TIqn4lUz) | 2:33 | 2019-06-19\* | 2019-08-13 |
 | [Near Light](https://open.spotify.com/track/5ykXsKJqx0GE0dsogxjylG) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:28 | 2019-05-26\* | 2020-08-07 |
+| [neck of the woods](https://open.spotify.com/track/5SSvRUwuAGPz7vDEIcq4LA) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [neck of the woods](https://open.spotify.com/album/6bb1mYSKI8PPihbDKOR6yu) | 2:26 | 2022-08-23 |  |
 | [Needless to Say](https://open.spotify.com/track/3JPbOyccVz2HJDNaXfehiX) | [Elkoo](https://open.spotify.com/artist/0IBTVnAY3xjxeJagPZxVCk) | [Needless to Say](https://open.spotify.com/album/0vVDu2K6hAuu0VuJwkvSIn) | 2:13 | 2022-04-21 |  |
 | [Never Let Go](https://open.spotify.com/track/4pPQehDJIPMstBLVCzouTs) | [Galvic](https://open.spotify.com/artist/3uJ54ctF087JwTAxL783il) | [Never Let Go](https://open.spotify.com/album/6qUkti8iaY5YyPnrazmB7b) | 2:39 | 2019-07-31 | 2021-09-14 |
 | [Night After Sidewalk](https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Everybody Loves You](https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L) | 3:30 | 2019-05-26\* | 2019-08-13 |
@@ -368,6 +369,7 @@
 | [Squaric](https://open.spotify.com/track/5vUaPsEVEsmv5J11CTgjBA) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Squaric](https://open.spotify.com/album/3weidR9AlIh3zsaHcR5tzH) | 2:33 | 2020-09-17 | 2022-07-09 |
 | [Stairwell](https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Drifting Ever Shifting](https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb) | 5:08 | 2019-05-26\* | 2019-06-27 |
 | [Starlights](https://open.spotify.com/track/2tSlohCLetwQRpA71jbnrB) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 5:13 | 2019-05-26\* | 2019-06-19 |
+| [Steady Walk](https://open.spotify.com/track/1eEHpyWT5AOAFbgqAGSMns) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [Steady Walk](https://open.spotify.com/album/54sj8psc72yZlgWhIyxvyP) | 1:59 | 2022-08-23 |  |
 | [Stillness Within](https://open.spotify.com/track/4TOJ3cjdXI3Mbj5Scd0XGg) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Stillness Within](https://open.spotify.com/album/1f3Ddyah41RiBNg8hVM4Vd) | 2:55 | 2021-12-17 |  |
 | [Stormy Weather](https://open.spotify.com/track/7oXWUVH2t0UR11AvhhY8GQ) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Stormy Weather](https://open.spotify.com/album/1t7Ug7j82OYRPdvhzt1Ijg) | 2:30 | 2019-09-14 |  |
 | [Strangeworks](https://open.spotify.com/track/0ADfdoBwxcK2eUuOQciInH) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/0a2yGkTrEviUUZNBolAUXL) | 4:23 | 2019-05-26\* | 2019-06-19 |

@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 00s. Cover: Linkin Park",
-  "num_followers": 4343939,
+  "num_followers": 4345276,
   "original_name": "00s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQxOTQ2MCwwMDAwMDAwMDc0ZDcxNDQ4MDQ5N2I1ZjA2ZWQzM2YzOGEzOWI4NzVl",
+  "snapshot_id": "MTY1ODQxOTQ2MCwwMDAwMDAwMGNmYjdjZTA4ZWMwYThmOGQ2MDFhNDcwMjkxNmEwOWIy",
   "tracks": [
     {
       "added_at": "2022-04-17 17:19:54",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
-    },
-    {
-      "added_at": "2022-04-17 17:19:54",
-      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
@@ -667,18 +651,34 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
       "artists": [
         {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 208106,
-      "name": "Paralyzer",
-      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+    },
+    {
+      "added_at": "2022-04-17 17:19:54",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2022-04-17 17:19:54",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
         }
       ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+      "duration_ms": 208106,
+      "name": "Paralyzer",
+      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
     },
     {
       "added_at": "2022-04-17 17:19:54",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
+        "name": "Come What(ever) May [10th Anniversary Edition]",
+        "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 282946,
+      "name": "Through Glass",
+      "url": "https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"
+    },
+    {
+      "added_at": "2022-04-17 17:19:54",
+      "album": {
         "name": "Black Ice",
         "url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 316733,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
-    },
-    {
-      "added_at": "2022-04-17 17:19:54",
-      "album": {
-        "name": "Come What(ever) May [10th Anniversary Edition]",
-        "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 282946,
-      "name": "Through Glass",
-      "url": "https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"
     },
     {
       "added_at": "2022-04-17 17:19:54",

@@ -1,12 +1,12 @@
 {
   "description": "The essential indie dance, featuring Little Dragon",
-  "num_followers": 806026,
+  "num_followers": 806115,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyNTQ3MCwwMDAwMDAwMGZiZTYzMzc1ODhhNTIzZjJmOTAwNzQ3Yzc3MDYxYzA1",
+  "snapshot_id": "MTY2MTI4NTc2OSwwMDAwMDAwMDhmZTFjNGNlYWI2NDQxMGQ0YzM5NmE4MTNhYWIxZmFk",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -569,6 +569,26 @@
       "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
     },
     {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Loved By U",
+        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Loved By U",
+      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Waterfall (TOKiMONSTA Remix)",
@@ -591,26 +611,6 @@
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Loved By U",
-        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Loved By U",
-      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -725,26 +725,6 @@
       "url": "https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "From a World to Another",
-        "url": "https://open.spotify.com/album/0rWma4mIzxjq7TEmsN56nK"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Jacques",
-          "url": "https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh"
-        }
-      ],
-      "duration_ms": 287002,
-      "name": "From a World to Another",
-      "url": "https://open.spotify.com/track/09XQ9G55yMCNyKdVjpEyp4"
-    },
-    {
       "added_at": "2021-09-17 15:29:19",
       "album": {
         "name": "EXCEPTIONAL",
@@ -763,6 +743,26 @@
       "duration_ms": 137739,
       "name": "EXCEPTIONAL",
       "url": "https://open.spotify.com/track/2zg3Y2hKzNeo2qIVXkbKUf"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "From a World to Another",
+        "url": "https://open.spotify.com/album/0rWma4mIzxjq7TEmsN56nK"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Jacques",
+          "url": "https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh"
+        }
+      ],
+      "duration_ms": 287002,
+      "name": "From a World to Another",
+      "url": "https://open.spotify.com/track/09XQ9G55yMCNyKdVjpEyp4"
     },
     {
       "added_at": "2022-03-18 13:56:10",
@@ -941,38 +941,6 @@
       "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Can't Do Without (My Baby)",
-        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Can't Do Without (My Baby)",
-      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Love Brand New",
-        "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "Love Brand New",
-      "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Change / Take My Time",
@@ -997,6 +965,22 @@
       "url": "https://open.spotify.com/track/09KmIUMlvTx7TZQrrSKCgl"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
       "added_at": "2022-03-04 05:00:00",
       "album": {
         "name": "Better Now (feat. MARO)",
@@ -1015,6 +999,22 @@
       "duration_ms": 194110,
       "name": "Better Now (feat. MARO)",
       "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Love Brand New",
+        "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "Love Brand New",
+      "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
     },
     {
       "added_at": "2021-05-28 21:12:16",
@@ -1113,6 +1113,22 @@
       "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
     },
     {
+      "added_at": "2021-06-25 04:00:00",
+      "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p"
+    },
+    {
       "added_at": "2022-08-05 04:00:00",
       "album": {
         "name": "Riverbed (feat. Birdy)",
@@ -1131,22 +1147,6 @@
       "duration_ms": 249326,
       "name": "Riverbed (feat. Birdy)",
       "url": "https://open.spotify.com/track/6GaWzv1cSgyUCuncicStu5"
-    },
-    {
-      "added_at": "2021-06-25 04:00:00",
-      "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -1417,42 +1417,6 @@
       "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "All Around The World (with Duckwrth)",
-        "url": "https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 167540,
-      "name": "All Around The World (with Duckwrth)",
-      "url": "https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Passion (feat. Nile Rodgers)",
@@ -1473,6 +1437,42 @@
       "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
     },
     {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "All Around The World (with Duckwrth)",
+        "url": "https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 167540,
+      "name": "All Around The World (with Duckwrth)",
+      "url": "https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx"
+    },
+    {
       "added_at": "2021-11-26 07:27:00",
       "album": {
         "name": "2gether",
@@ -1487,26 +1487,6 @@
       "duration_ms": 191074,
       "name": "2gether",
       "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "NIMMO",
-          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
-        }
-      ],
-      "duration_ms": 227543,
-      "name": "OnlyL",
-      "url": "https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -1527,6 +1507,26 @@
       "duration_ms": 153500,
       "name": "Bang My Line (feat. Tkay Maidza)",
       "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
+    },
+    {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "NIMMO",
+          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+        }
+      ],
+      "duration_ms": 227543,
+      "name": "OnlyL",
+      "url": "https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD"
     },
     {
       "added_at": "2021-07-12 15:18:44",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/36kCSJg8ZBwiSCUECFKGUy"
     },
     {
-      "added_at": "2021-06-25 04:00:00",
-      "album": {
-        "name": "Strike",
-        "url": "https://open.spotify.com/album/4ohoCzlYl56hEpCjBBY4Jz"
-      },
-      "artists": [
-        {
-          "name": "Little Monarch",
-          "url": "https://open.spotify.com/artist/1zeHZCkBteZhJHsRI9qv29"
-        }
-      ],
-      "duration_ms": 173290,
-      "name": "Strike",
-      "url": "https://open.spotify.com/track/66mRLX5KLp69nz6oAcvTLQ"
-    },
-    {
       "added_at": "2021-07-30 04:25:17",
       "album": {
         "name": "I Found You (feat. Benjamin Ingrosso)",
@@ -1619,6 +1603,38 @@
       "duration_ms": 152195,
       "name": "I Found You (feat. Benjamin Ingrosso)",
       "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
+    },
+    {
+      "added_at": "2021-06-25 04:00:00",
+      "album": {
+        "name": "Strike",
+        "url": "https://open.spotify.com/album/4ohoCzlYl56hEpCjBBY4Jz"
+      },
+      "artists": [
+        {
+          "name": "Little Monarch",
+          "url": "https://open.spotify.com/artist/1zeHZCkBteZhJHsRI9qv29"
+        }
+      ],
+      "duration_ms": 173290,
+      "name": "Strike",
+      "url": "https://open.spotify.com/track/66mRLX5KLp69nz6oAcvTLQ"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "BMW Track / So U Kno",
+        "url": "https://open.spotify.com/album/08Vp7WDcv1r8dVMjyJaVOt"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 343506,
+      "name": "So U Kno",
+      "url": "https://open.spotify.com/track/1IhY2i0jpvR5hGY9jdFvxv"
     },
     {
       "added_at": "2021-04-12 16:53:01",
@@ -1641,22 +1657,6 @@
       "url": "https://open.spotify.com/track/2VNR4FAD2u60AeJDXL8a9x"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "BMW Track / So U Kno",
-        "url": "https://open.spotify.com/album/08Vp7WDcv1r8dVMjyJaVOt"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 343506,
-      "name": "So U Kno",
-      "url": "https://open.spotify.com/track/1IhY2i0jpvR5hGY9jdFvxv"
-    },
-    {
       "added_at": "2021-06-11 15:49:59",
       "album": {
         "name": "Nabi",
@@ -1677,22 +1677,6 @@
       "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Eleanor",
-        "url": "https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 233469,
-      "name": "Eleanor - Edit",
-      "url": "https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Shake",
@@ -1709,24 +1693,20 @@
       "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"
     },
     {
-      "added_at": "2022-03-25 04:00:00",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner"
+        "name": "Eleanor",
+        "url": "https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx"
       },
       "artists": [
         {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 259972,
-      "name": "Cameo",
-      "url": "https://open.spotify.com/track/5FazJBNgurMEDrVaUqqliH"
+      "duration_ms": 233469,
+      "name": "Eleanor - Edit",
+      "url": "https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU"
     },
     {
       "added_at": "2021-06-15 15:40:23",
@@ -1747,6 +1727,26 @@
       "duration_ms": 239274,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 259972,
+      "name": "Cameo",
+      "url": "https://open.spotify.com/track/5FazJBNgurMEDrVaUqqliH"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -1789,22 +1789,6 @@
       "url": "https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Dance When You Cry",
-        "url": "https://open.spotify.com/album/5SYrSxBRPN8VDdzDf2IshW"
-      },
-      "artists": [
-        {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
-        }
-      ],
-      "duration_ms": 172204,
-      "name": "Dance When You Cry",
-      "url": "https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T"
-    },
-    {
       "added_at": "2021-10-15 20:09:37",
       "album": {
         "name": "The Way You Make Me Feel",
@@ -1829,24 +1813,40 @@
       "url": "https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P"
     },
     {
-      "added_at": "2021-05-21 18:23:13",
+      "added_at": "2022-05-20 04:01:00",
       "album": {
-        "name": "bb u ok?",
-        "url": "https://open.spotify.com/album/046wH7DEfUumC5h9ykIEkd"
+        "name": "Dance When You Cry",
+        "url": "https://open.spotify.com/album/5SYrSxBRPN8VDdzDf2IshW"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
         }
       ],
-      "duration_ms": 311625,
-      "name": "you\u2019ve changed, i\u2019ve changed",
-      "url": "https://open.spotify.com/track/3LnoLo62GjfKDYIN7eJpPB"
+      "duration_ms": 172204,
+      "name": "Dance When You Cry",
+      "url": "https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Fade (feat. SHELLS)",
+        "url": "https://open.spotify.com/album/3kXaZDvNkarO4hu03IuX1y"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 223396,
+      "name": "Fade (feat. Shells)",
+      "url": "https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN"
     }
   ],
   "unique_name": "metropolis",

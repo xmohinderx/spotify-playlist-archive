@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 188728,
       "name": "fidget",
       "url": "https://open.spotify.com/track/5IBxylEZWVQ0dnPeqVkTmK"
@@ -4026,6 +4026,24 @@
     },
     {
       "album": {
+        "name": "shiboufuragu wo tatenaide",
+        "url": "https://open.spotify.com/album/76w257U3luBps7VnbQ2ozc"
+      },
+      "artists": [
+        {
+          "name": "UchikubiGokumonDoukoukai",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275480,
+      "name": "shiboufuragu wo tatenaide",
+      "url": "https://open.spotify.com/track/6jDtEDmFInvxR4Ga7vff7X"
+    },
+    {
+      "album": {
         "name": "SHINOBI TOP SECRET",
         "url": "https://open.spotify.com/album/2BErghmne06N5sK33vJUno"
       },
@@ -4149,7 +4167,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 268826,
       "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
       "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"
@@ -6141,7 +6159,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 285213,
       "name": "\u30aa\u30c8\u30ca\u30ce\u30b9\u30b9\u30e1",
       "url": "https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903"

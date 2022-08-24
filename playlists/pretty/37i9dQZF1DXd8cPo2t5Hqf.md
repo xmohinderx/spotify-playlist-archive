@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,318 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,497 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 33 | [初音ミクの激唱 \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/2Tpd2eHx7LT60o7BwZlqr3) | [Storyteller \(GAiA x cosMo@Bousou P\)](https://open.spotify.com/artist/5ti01KXPy9ZV9Gw7qvZtXU) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:12 |
 | 34 | [Common World Domination](https://open.spotify.com/track/1A0k6cjkrCxH3Hx7Awb2G2) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Obscure Questions](https://open.spotify.com/album/2xvhRorWCrTSC5Uv44ARa6) | 3:20 |
 | 35 | [DECORATOR](https://open.spotify.com/track/68cGngZvXl6qKGLH3joVpZ) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [DECORATOR EP](https://open.spotify.com/album/5LkJe8cxJuHd0akGg5SaTV) | 3:25 |
-| 36 | [メルト \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/6nWONiqCJwFxKKfAJSKaev) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 4:44 |
-| 37 | [カンタレラ](https://open.spotify.com/track/5nvcwCiRhUMHPSSUZCUqbz) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [カンタレラ](https://open.spotify.com/album/3EqhWMBLgBl30dhOvLvn2K) | 2:59 |
+| 36 | [カンタレラ](https://open.spotify.com/track/5nvcwCiRhUMHPSSUZCUqbz) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [カンタレラ](https://open.spotify.com/album/3EqhWMBLgBl30dhOvLvn2K) | 2:59 |
+| 37 | [メルト \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/6nWONiqCJwFxKKfAJSKaev) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 4:44 |
 | 38 | [Brain Revolution Girl 2016 ver.](https://open.spotify.com/track/0yb2qOhzja2F2KMuIgcr6L) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:40 |
 | 39 | [FREELY TOMORROW](https://open.spotify.com/track/2JgyM0s5hTINiVaqJNMkVq) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [グレイテスト・アイドル](https://open.spotify.com/album/0Pj2RT0PsvryvBrC8B0tS4) | 4:00 |
 | 40 | [Amazing Dolce](https://open.spotify.com/track/7JucHvsSRuhHMIPvLEbfil) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [VersuS](https://open.spotify.com/album/2DWNJqjSMxk1CJbXPOppkw) | 3:57 |
@@ -92,15 +92,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 82 | [キャットフード \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2gNtSUrrJSgWgQUxsFKoxn) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 5:15 |
 | 83 | [ねこみみスイッチ](https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Neko seT](https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y) | 3:54 |
 | 84 | [リンちゃんなう!](https://open.spotify.com/track/6SbEHBJnDWhzCEBbRUNnVz) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス\\\(^o^\)/](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:47 |
-| 85 | [SING&SMILE](https://open.spotify.com/track/7holX2kLEbDCNgN5pqkkJy) | [Re:nG](https://open.spotify.com/artist/5Ua6rqltTYOracDNoMsg3L) | [period 1](https://open.spotify.com/album/2WJRGYOctQEqfFFaxiKmf3) | 3:41 |
-| 86 | [Last Night, Good Night](https://open.spotify.com/track/3rYSsIpkwI11kkBhAYvDSO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Package](https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu) | 6:20 |
+| 85 | [Last Night, Good Night](https://open.spotify.com/track/3rYSsIpkwI11kkBhAYvDSO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Package](https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu) | 6:20 |
+| 86 | [SING&SMILE](https://open.spotify.com/track/7holX2kLEbDCNgN5pqkkJy) | [Re:nG](https://open.spotify.com/artist/5Ua6rqltTYOracDNoMsg3L) | [period 1](https://open.spotify.com/album/2WJRGYOctQEqfFFaxiKmf3) | 3:41 |
 | 87 | [WORLD'S END UMBRELLA \- ORIGINAL](https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 5:28 |
-| 88 | [Lol \(Lots of Laugh\)](https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj) | [Mikumix](https://open.spotify.com/artist/7FBbBNwWOBvGBh4RT3kyHH) | [Lots of Love \(feat\. 初音ミク\)](https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn) | 3:35 |
-| 89 | [Ai Kotoba](https://open.spotify.com/track/5w8RYioPTG1IARJ35ka1MM) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Sou Ai Sei Ri Ron](https://open.spotify.com/album/3sWLH9nyphF2oJqTTeE6GT) | 4:24 |
+| 88 | [Ai Kotoba](https://open.spotify.com/track/5w8RYioPTG1IARJ35ka1MM) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Sou Ai Sei Ri Ron](https://open.spotify.com/album/3sWLH9nyphF2oJqTTeE6GT) | 4:24 |
+| 89 | [Lol \(Lots of Laugh\)](https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj) | [Mikumix](https://open.spotify.com/artist/7FBbBNwWOBvGBh4RT3kyHH) | [Lots of Love \(feat\. 初音ミク\)](https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn) | 3:35 |
 | 90 | [サンドリヨン](https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
 | 91 | [moon](https://open.spotify.com/track/4EJhAyhkO1vToMNLM9RVIx) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [moon](https://open.spotify.com/album/5PDWbuNnJa04B3c9n9AwTd) | 5:35 |
-| 92 | [紅一葉](https://open.spotify.com/track/1rnEmMcOAdQckPj3mRDkmH) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [紅一葉](https://open.spotify.com/album/5iUqJLkuT2hV1xcWswJi7d) | 4:12 |
-| 93 | [Nice To Meet You, Mr\. Earthling](https://open.spotify.com/track/18WrQK5FPIQkOWc5fTtlG4) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [SHI\-BOU](https://open.spotify.com/album/5OU1Uy9GB4fnL6604OeV5b) | 3:58 |
+| 92 | [Nice To Meet You, Mr\. Earthling](https://open.spotify.com/track/18WrQK5FPIQkOWc5fTtlG4) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [SHI\-BOU](https://open.spotify.com/album/5OU1Uy9GB4fnL6604OeV5b) | 3:58 |
+| 93 | [紅一葉](https://open.spotify.com/track/1rnEmMcOAdQckPj3mRDkmH) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [紅一葉](https://open.spotify.com/album/5iUqJLkuT2hV1xcWswJi7d) | 4:12 |
 | 94 | [壊セ壊セ](https://open.spotify.com/track/06AJbMq7KMewWZmJuzuPgS) | [E.L.V.N](https://open.spotify.com/artist/219XzPMmtHGUDe8bJeWo6M) | [壊セ壊セ](https://open.spotify.com/album/1K6bz5XZya2k1t21LAUk5F) | 3:37 |
 | 95 | [テレカクシ思春期](https://open.spotify.com/track/5n7KTWl0A7Zbb3au8PTSHW) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [テレカクシ思春期](https://open.spotify.com/album/2xIPHUU6LqDneqJA8sI603) | 3:27 |
 | 96 | [Streaming Heart](https://open.spotify.com/track/28DyuhrsEP2mBlAVSTJPBg) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Conti New](https://open.spotify.com/album/2oSy4DbxYUqDp4sie8LvFw) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 99 | [E? Aa, Sou.](https://open.spotify.com/track/4laMKU1xcpbFdsX3LnA1Xb) | [Chouchou\-P](https://open.spotify.com/artist/13p1b6oCr8TusEButZxHZL) | [Exit Tunes Academy Best 3](https://open.spotify.com/album/67LlLI8CaW8avwTaoZDTHl) | 3:27 |
 | 100 | [StargazeR](https://open.spotify.com/track/2AJeqUXKxkJorjdAdiU15g) | [Kots Beirne](https://open.spotify.com/artist/0bBNxdKfD4SOpqZfiUt9Bm) | [No Image](https://open.spotify.com/album/6GQA7kq777VzJxKr4ezJqp) | 3:29 |
 
-Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMGY1NDI2NjcxNDZkMGRlZjMxNzBlZWMyYWFkYzg0ZTU1`
+Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMDQ2ZGQxYWU4ZjYyNDY4N2U0ZGUyZjFmYjA0ZmE0ZDAx`

@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4422,
+  "num_followers": 4447,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMxMTI2NCwwMDAwMDAwMGEwOTgyNGU0ZWY4MzM4OGZiYTkzNDMyNmM5MGEwODRk",
+  "snapshot_id": "MTY2MDMxMTI2NCwwMDAwMDAwMGJjZGI2ZmM0MjY2MzAzM2EyOTg4OWIwMDQxMGZlODc3",
   "tracks": [
     {
       "added_at": "2022-08-12 13:34:24",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-08-12 13:34:24",
       "album": {
+        "name": "VYZEE",
+        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 202531,
+      "name": "VYZEE",
+      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
+    },
+    {
+      "added_at": "2022-08-12 13:34:24",
+      "album": {
         "name": "SEXORCISM",
         "url": "https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 157374,
       "name": "Cum (feat. Iggy Azalea)",
       "url": "https://open.spotify.com/track/2Mf7bd1QURmFyQCZTsMPjI"
-    },
-    {
-      "added_at": "2022-08-12 13:34:24",
-      "album": {
-        "name": "VYZEE",
-        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 202531,
-      "name": "VYZEE",
-      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
     },
     {
       "added_at": "2022-08-12 13:34:24",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-08-12 13:34:24",
       "album": {
+        "name": "Amore Hardcore",
+        "url": "https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Cicciolina",
+      "url": "https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90"
+    },
+    {
+      "added_at": "2022-08-12 13:34:24",
+      "album": {
         "name": "Variations",
         "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 429000,
       "name": "Parola - Rework",
       "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
-    },
-    {
-      "added_at": "2022-08-12 13:34:24",
-      "album": {
-        "name": "Amore Hardcore",
-        "url": "https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Cicciolina",
-      "url": "https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90"
     },
     {
       "added_at": "2022-08-12 13:34:24",

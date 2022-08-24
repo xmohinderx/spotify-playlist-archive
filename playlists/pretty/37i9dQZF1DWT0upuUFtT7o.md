@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: The Dare, Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,116 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,153 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 20 | [Rain Language](https://open.spotify.com/track/4OSyo1j9n3gSjMDEGMYUmi) | [Ayo River](https://open.spotify.com/artist/0ZYU5RCC1trSNeIpwBorlL) | [Rain Language](https://open.spotify.com/album/2AppSXk8yGeEyngrx3kN53) | 3:33 |
 | 21 | [Never Been so Fine](https://open.spotify.com/track/6DHOd5WttU8RvcHfqoUZhl) | [King Ibis](https://open.spotify.com/artist/3ciAz4U6O3iW2wpUZqeVZb) | [Never Been so Fine](https://open.spotify.com/album/2VLOseHIDCAT6X77ElkODy) | 4:03 |
 | 22 | [Trust Me](https://open.spotify.com/track/1vWGRKPv90Fg2i8iUtsGhb) | [Eliza Niemi](https://open.spotify.com/artist/6UntKZ32JDgJV35Nmk5gDi) | [Staying Mellow Blows](https://open.spotify.com/album/3aGj95AYpFM8g4kdkAHzHc) | 2:47 |
-| 23 | [Green Demo](https://open.spotify.com/track/25dpaDA95KE9LjR0vPfQH4) | [Reid Hosp](https://open.spotify.com/artist/6lYj0y4JvWlFrha8vD1Hxn) | [Green Demo](https://open.spotify.com/album/0rJi1VVNj4gNAMhB1ZQBzO) | 2:52 |
+| 23 | [Green Demo](https://open.spotify.com/track/25dpaDA95KE9LjR0vPfQH4) | [Walter The Producer](https://open.spotify.com/artist/0fvbxtklhv6N9JBpnvRgBa) | [Green Demo](https://open.spotify.com/album/0rJi1VVNj4gNAMhB1ZQBzO) | 2:52 |
 | 24 | [move on](https://open.spotify.com/track/4o5TrwYb3eJFmwfZqafcnk) | [Zac Crook](https://open.spotify.com/artist/77a6pibaYeq6Ol2zJ2cSaC) | [move on](https://open.spotify.com/album/2vGFCuAMSmlHOGmTuRNv6S) | 3:22 |
 | 25 | [I've Been Down](https://open.spotify.com/track/6s348P3lE2BG407uh6O14O) | [Forever Honey](https://open.spotify.com/artist/4Cb3ba0NtoWqbwygQNCyjN) | [I've Been Down](https://open.spotify.com/album/2Y2JywTnozozQlbCT3pHby) | 4:18 |
 | 26 | [Dance Call](https://open.spotify.com/track/7D1Z6nYt1QVaWz8rGV5fbm) | [Sam Tudor](https://open.spotify.com/artist/4s7wRrRsAQMuLQlkRo2Khk) | [Two Half Words](https://open.spotify.com/album/0nMtD0yWK1Kagp8tlMHxWk) | 3:47 |

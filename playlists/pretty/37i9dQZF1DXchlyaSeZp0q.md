@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 
 > The sad side of soul\. Cover: Harold Melvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,030 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,149 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 18 | [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 |
 | 19 | [It Should Have Been Me](https://open.spotify.com/track/3lQNVAMwqcxFCJj8mI1izh) | [Yvonne Fair](https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8) | [The Bitch Is Black](https://open.spotify.com/album/0ehXIeOOjIrlCFXv7Bv8CS) | 3:33 |
 | 20 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
-| 21 | [Why Can't We Live Together](https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together](https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO) | 4:37 |
+| 21 | [The Dark End of the Street](https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [You Got My Mind Messed Up](https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j) | 2:33 |
 | 22 | [Don't Give Up On Me](https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Don't Give Up On Me](https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK) | 3:45 |
-| 23 | [The Dark End of the Street](https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [You Got My Mind Messed Up](https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j) | 2:33 |
+| 23 | [Why Can't We Live Together](https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together](https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO) | 4:37 |
 | 24 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 |
 | 25 | [Sad Girl](https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 1:57 |
 | 26 | [Hurry Up This Way Again](https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Hurry Up This Way Again](https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK) | 5:53 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 39 | [Cry to Me](https://open.spotify.com/track/4nukRzBYAvqhLP1OfHpEOk) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Cry to Me](https://open.spotify.com/album/2P97oP8M7OkYP7r8vlcUXD) | 5:48 |
 | 40 | [Living All Alone](https://open.spotify.com/track/4nugpdIdJurNQXCDVei9WS) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 5:07 |
 
-Snapshot ID: `MTYzNjYzOTMzOCwwMDAwMDAwMDFkNzMyZWZlMTc3YWUwZTJjYTk0MDcwNDRlNzBjZWM5`
+Snapshot ID: `MTYzNjYzOTMzOCwwMDAwMDAwMDc5OTM2NDBlNWExNTUyZWUzY2IzMWY2Zjk5NWY5YmE2`

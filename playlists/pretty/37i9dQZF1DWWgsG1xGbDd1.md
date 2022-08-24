@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,803 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,908 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 5 | [Rudie Bam Bam](https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Winner Of My Heart \- Reggae](https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5) | 2:21 |
 | 6 | [People Make the World Go Round](https://open.spotify.com/track/5VsZxcRWnfX9b4SNH0KjuK) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy) | 3:18 |
 | 7 | [Poco Tempo \(aka Pocco Tempo\)](https://open.spotify.com/track/3XsdL4mKkygWZpOcyt4vfp) | [Pablove Black and The New Establishment](https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq) | [Natural High: The Bongo Man Collection](https://open.spotify.com/album/09ThsD4R0KOVguZBScQH3S) | 4:10 |
-| 8 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
-| 9 | [Never Give Your Heart Away](https://open.spotify.com/track/22LNaj7qU9BC1nlylGVaKt) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/6xagSz2uBot6PdYytMZxxi) | 3:05 |
+| 8 | [Never Give Your Heart Away](https://open.spotify.com/track/22LNaj7qU9BC1nlylGVaKt) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/6xagSz2uBot6PdYytMZxxi) | 3:05 |
+| 9 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
 | 10 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |
 | 11 | [Addis Ababa](https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ) | 2:24 |
 | 12 | [Declaration of Rights](https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Rougher Yet](https://open.spotify.com/track/1NumiJgifR6HwMqasRRqpZ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 3:06 |
 | 60 | [Jericho Skank](https://open.spotify.com/track/3TJ7zlTrUnssanybZDirCu) | [Jackie Mittoo & Ernest Ranglin](https://open.spotify.com/artist/3qqbVqjun4ZUlWsjwg8tQq) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:57 |
 
-Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMGI2MmM1YzZlZDIzMzdlZWFkYTdlMWYyYTY3MzVlODE0`
+Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDg2MjAwMzE0ZmE5NGM1NzYzYTRjMWVjNTk4NmFiZTQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,600 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,667 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 3 | [Trust in the Blue](https://open.spotify.com/track/0fzpLt2rI73GWQSiMfHs7w) | [Ram Dass](https://open.spotify.com/artist/0qXTvVI7Tgb1eA1fTgdxGk) | [Trust in the Blue](https://open.spotify.com/album/77dYW0aAyRB2Nevl1SLgk8) | 3:20 |
 | 4 | [Hey Violet](https://open.spotify.com/track/3wtJr6QAJaMjH2IqBzQ4XY) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Hey Violet](https://open.spotify.com/album/3g8a0S9HAFSyz62YeIqpHu) | 2:53 |
 | 5 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 |
-| 6 | [Money, Love & Death](https://open.spotify.com/track/6SNbZkTjHMCLninZRWTjbJ) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Money, Love & Death](https://open.spotify.com/album/7oWB6Lfleo2iNyMXtYjBut) | 2:44 |
+| 6 | [Money, Love & Death](https://open.spotify.com/track/6SNbZkTjHMCLninZRWTjbJ) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Money, Love & Death](https://open.spotify.com/album/7oWB6Lfleo2iNyMXtYjBut) | 2:44 |
 | 7 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 |
 | 8 | [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 |
 | 9 | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/track/79MW6Qm22GDnUJ3i2vttxp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/album/6DtyHq5JfijIBqWvDdPtKw) | 2:26 |

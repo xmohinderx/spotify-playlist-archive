@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Lizzy McAlpine",
-  "num_followers": 133023,
+  "num_followers": 133081,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMDg5OTA1NTA2OGViN2NlMDIxMTBlNWU2ODQzODNjNzBl",
+  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMDQwZDZkNDE1NzgwZTI3OWE5MjhmNDIxZDkzMjgxNzFm",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -531,18 +531,22 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "By The Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+        },
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
         }
       ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
+      "duration_ms": 197526,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -563,22 +567,18 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
       "artists": [
         {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
-        },
-        {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 197526,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "After a Time",
         "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 231408,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "Queen of Silver Linings",
         "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 212964,
       "name": "Queen of Silver Linings",
       "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
     },
     {
       "added_at": "2021-03-02 01:07:20",

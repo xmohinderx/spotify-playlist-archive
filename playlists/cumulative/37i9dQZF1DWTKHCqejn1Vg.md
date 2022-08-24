@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-195 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
+196 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Extraordinary \(feat\. Yescoba\)](https://open.spotify.com/track/0y4qgb9SmTnyBPAqaEztJN) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:52 | 2022-05-03 | 2022-07-28 |
 | [FALL IN LUST](https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [FALL IN LUST](https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8) | 3:19 | 2022-05-03 |  |
 | [Feature \(feat\. Cha Cha Malone\)](https://open.spotify.com/track/5m86qdISRdAeksZ1pSzI5h) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:50 | 2022-05-03 | 2022-07-19 |
+| [Fire](https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr) | [Fire](https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL) | 2:21 | 2022-08-19 |  |
 | [First Time \(Feat\. BAYLEE\)](https://open.spotify.com/track/0nSTyJgjxiHSYwH0G4y0E9) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [First Time](https://open.spotify.com/album/1w5EGv4ZgwhqGX0cTBdoOC) | 3:04 | 2022-05-03 | 2022-07-24 |
 | [FOR YOU](https://open.spotify.com/track/6ka6rd0mjjn0tAbbHZIm3U) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [BIPOLAR](https://open.spotify.com/album/7jfWOLdcSrB7Q4TgRFDwXZ) | 3:43 | 2022-05-03 | 2022-07-29 |
 | [free](https://open.spotify.com/track/3FnIchDsti3r9sRyYOOiRt) | [h3re](https://open.spotify.com/artist/0smznozh1LvtEPKuUunm6c) | [myworld](https://open.spotify.com/album/3TCvBEad5CTLvGNDQQIyo4) | 2:52 | 2022-05-03 | 2022-07-28 |
@@ -80,7 +81,7 @@
 | [Gunner](https://open.spotify.com/track/2s6mnu51NafM2OLVgdRhlF) | [Sasha](https://open.spotify.com/artist/6avsZQ2pnMpzZimJAn5dFN) | [Gunner](https://open.spotify.com/album/7bVEPchL7QCLHtcnqG8dwm) | 2:56 | 2022-05-03 | 2022-07-29 |
 | [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 | 2022-07-08 |  |
 | [Harujongil](https://open.spotify.com/track/67TFGDlhk2GQ9ALDjqPWlE) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/6CFhQLoXy665joV93vkgU4) | 3:44 | 2022-05-03 | 2022-07-29 |
-| [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-03 |  |
+| [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-03 | 2022-08-24 |
 | [haze](https://open.spotify.com/track/5tk3TXsF2wumsj8Cq24v5g) | [GRACY 그레씨](https://open.spotify.com/artist/58u1UWevJvtHatOoupz6bD) | [haze](https://open.spotify.com/album/4UFQ9QaMbdSfCgSZeFNXwM) | 2:50 | 2022-05-03 | 2022-07-14 |
 | [Heart is](https://open.spotify.com/track/1ausSMkofY5DUmCPvmO4F2) | [OA](https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A) | [Fly me away](https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ) | 3:11 | 2022-05-03 | 2022-07-29 |
 | [Henny](https://open.spotify.com/track/5hTcZKCWKGIH6ykVvNYqYX) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:46 | 2022-05-03 | 2022-06-05 |

@@ -4,7 +4,7 @@
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-162 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
+164 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Sola](https://open.spotify.com/track/2dTF9YQQT27wzJMZnaCcYh) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Goteo](https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24) | 4:09 | 2022-07-29 |  |
 | [Spit](https://open.spotify.com/track/0VdPYJhbF0rM8WERx45Z2x) | [Perc](https://open.spotify.com/artist/4iyqyvWXO734GUNLTTnrPQ), [Aja Ireland](https://open.spotify.com/artist/656FqtMXkVEBNycUDorpPx) | [Bitter Music \- Complete Edition](https://open.spotify.com/album/1qb1RqfAYwjFtJY803A00y) | 5:54 | 2022-02-18 | 2022-07-29 |
 | [step 2](https://open.spotify.com/track/6UVvYJhTB82Iqr7QsB0Rcw) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [step 2](https://open.spotify.com/album/5slZHTVqY1wbCgUycpYKi8) | 4:35 | 2022-02-18 | 2022-07-30 |
+| [Subroutines](https://open.spotify.com/track/63mxkfFKoOlZclXgs7IbMs) | [Ctrls](https://open.spotify.com/artist/5PM5HE3CFA2qdDnVucPMRc) | [Your Data](https://open.spotify.com/album/6zZxNXfiYxofTYciOsGbYD) | 5:03 | 2022-08-23 |  |
 | [SUCKLING GROWN](https://open.spotify.com/track/3wLS3cMQNQX08rf2RhtSI7) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [SUCKLING GROWN](https://open.spotify.com/album/2bvQsuR5li3vroOA0Wgtdl) | 5:19 | 2022-02-18 | 2022-07-30 |
 | [Super Super Super](https://open.spotify.com/track/6V9xwB1kcOTmKBJRZRBZu6) | [FKOFF1963](https://open.spotify.com/artist/3EyGhcFA4SvnSkgDACAYot) | [Super Super Super](https://open.spotify.com/album/19CCY9vPrSgFE6rNBvTUTX) | 2:04 | 2022-02-18 | 2022-07-29 |
 | [Sylph](https://open.spotify.com/track/20XLvRLUpKvD4cHwScEemQ) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [KABLAM](https://open.spotify.com/artist/5NIwUZbLiRHu7rOFeDkKeX) | [ERIKA JANE](https://open.spotify.com/album/1mhpsVl1cwUzc55K5H92jQ) | 3:13 | 2022-05-23 |  |
@@ -143,6 +144,7 @@
 | [Take It](https://open.spotify.com/track/523lrzeEmdmBqnipKgqkvq) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Take It](https://open.spotify.com/album/1ekfWjbHV0tnWxyDy2n4P4) | 5:23 | 2022-02-18 | 2022-07-30 |
 | [Tekyan](https://open.spotify.com/track/0i8HqDlTZYAjn4PX1w1pOj) | [Gabber Modus Operandi](https://open.spotify.com/artist/4z8y2MjTFwLa73dABYP1io) | [HOXXXYA](https://open.spotify.com/album/5EUXlXcQMU1WOQm2p27kYe) | 3:24 | 2022-02-18 | 2022-07-30 |
 | [Terror \- Jensen Interceptor Remix](https://open.spotify.com/track/11ZbrrdQQmdB6R1LHwNsri) | [SALOME](https://open.spotify.com/artist/6r27qPL5CdAwLszXNgpRPV), [Jensen Interceptor](https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e) | [Terror \(Jensen Interceptor Remix\)](https://open.spotify.com/album/3AD8HbMNDRyKtb99XFr9YQ) | 5:16 | 2022-02-18 | 2022-07-30 |
+| [Tessa Drive](https://open.spotify.com/track/2E2m43YG0IeM63KOghJCll) | [Mary Lake](https://open.spotify.com/artist/5bhoVKF8eORLen5Ls4ErRq) | [Askim](https://open.spotify.com/album/5DaaejX6Rn8CaMvjDokzEB) | 5:01 | 2022-08-23 |  |
 | [That Dance On That Moon](https://open.spotify.com/track/5sE3NhROflPCBHOwLsxq3K) | [Sonia Calico](https://open.spotify.com/artist/7yZgyvPwZiP9D6ZvGrH1oB) | [Simulation of an Overloaded World](https://open.spotify.com/album/1zcpCVfO2XTFSKrrIYysww) | 4:30 | 2022-02-18 | 2022-07-29 |
 | [The 90s Called \(And They Want Their Gabber Back\)](https://open.spotify.com/track/4iKAUVp7WsKQbm5hldx8s1) | [Geck\-O](https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB) | [The 90s Called \(And They Want Their Gabber Back\)](https://open.spotify.com/album/6D81SW8aOzjUZtuHYV1a6V) | 5:22 | 2022-02-18 | 2022-07-30 |
 | [THE Bells](https://open.spotify.com/track/6FTxRKytmE0pe3O6cD8f0i) | [BEARCAT](https://open.spotify.com/artist/78FV10vQ4A7bDAvR6oPBjr) | [Spell](https://open.spotify.com/album/4vDniXqeQPnnDRJDGk13Lu) | 2:16 | 2022-02-18 | 2022-07-29 |

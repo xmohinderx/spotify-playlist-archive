@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,028 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,068 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 17 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
 | 18 | [80s In My Blood](https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE) | [VIGI](https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o) | [Rhodes Island](https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc) | 4:34 |
 | 19 | [Lemonade \- The Magician Italo '85' remix](https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lemonade \(The Magician Italo '85' Remix\)](https://open.spotify.com/album/5KYMm8CqIacDxfisj3A16B) | 3:15 |
-| 20 | [Queen of Hearts](https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Queen of Hearts](https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque) | 3:56 |
+| 20 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 |
 | 21 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 |
-| 22 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 |
+| 22 | [Queen of Hearts](https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Queen of Hearts](https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque) | 3:56 |
 | 23 | [Giving Up On \- Alan Dixon Remix](https://open.spotify.com/track/54SGVJ4xSCRha8ViDwy7MU) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Giving Up On \(Alan Dixon Remix\)](https://open.spotify.com/album/1DBWInKdDJNULdOigOID9t) | 7:32 |
 | 24 | [Blue Tuesday](https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt) | [Delphi](https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe) | [Unleashed Tapes Vol\. 1](https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG) | 6:25 |
 | 25 | [Nefertiti \- Red Axes Remix](https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN), [Neysa May](https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ), [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Nefertiti \(Red Axes Remix\)](https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd) | 4:48 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Accidentally We Rushed](https://open.spotify.com/track/6jYu8ME42CQX7IsQuJToe1) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym) | [Nothing Stays in One Place for Long](https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9) | 5:18 |
 | 45 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDlhNTViZmYwMjU4OTliNThiNThkZWE1NmNkMWMwN2Qx`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDYzMjcxOWZjMmYwMjBhNGQ5Y2Q5MmFmMzBmYjJkNjQz`

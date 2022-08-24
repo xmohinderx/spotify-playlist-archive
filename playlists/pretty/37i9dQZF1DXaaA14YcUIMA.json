@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Bukis en portada. ",
-  "num_followers": 267571,
+  "num_followers": 267807,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3NjM4NywwMDAwMDAwMDk0NWJhM2I5NTkwZjZhMDUyMmNkMTA5NjNiNDA5YzUy",
+  "snapshot_id": "MTY0NzQ3NjM4NywwMDAwMDAwMDc5OTA4NTU3MmNjNjk1YmMyZTliMTM4MTJmYTYwOGU3",
   "tracks": [
     {
       "added_at": "2022-03-17 00:19:47",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "Puras Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        }
+      ],
+      "duration_ms": 206913,
+      "name": "Del Signo Libra",
+      "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 193880,
       "name": "Amor Sin Palabras",
       "url": "https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Puras Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 206913,
-      "name": "Del Signo Libra",
-      "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/47BG0SjWkoyPPCYbEGF8gM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "A Mentir A La Calle",
+      "url": "https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Contigo O Sin Ti",
         "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 218066,
       "name": "Contigo O Sin Ti",
       "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Lo Mejor De Guardianes Del Amor",
-        "url": "https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx"
-      },
-      "artists": [
-        {
-          "name": "Guardianes Del Amor",
-          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "El Perro, el Gato y Yo",
-      "url": "https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/47BG0SjWkoyPPCYbEGF8gM"
+        "name": "Lo Mejor De Guardianes Del Amor",
+        "url": "https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx"
       },
       "artists": [
         {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+          "name": "Guardianes Del Amor",
+          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
         }
       ],
-      "duration_ms": 210976,
-      "name": "A Mentir A La Calle",
-      "url": "https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2"
+      "duration_ms": 217293,
+      "name": "El Perro, el Gato y Yo",
+      "url": "https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Lo Mas Romantico De Ayer Con Los Mas Romanticos De Hoy",
-        "url": "https://open.spotify.com/album/3It5f5lrSbIRS97VcFfJZc"
-      },
-      "artists": [
-        {
-          "name": "Guardianes Del Amor",
-          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "Dame un Beso y Dime Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Morir Contigo",
         "url": "https://open.spotify.com/album/1o45pgbPbUoZsLltuRVUYR"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 149706,
       "name": "Hay Otro Amor En Tu Lugar",
       "url": "https://open.spotify.com/track/4sGuUITG73yQwLliCuibQv"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Lo Mas Romantico De Ayer Con Los Mas Romanticos De Hoy",
+        "url": "https://open.spotify.com/album/3It5f5lrSbIRS97VcFfJZc"
+      },
+      "artists": [
+        {
+          "name": "Guardianes Del Amor",
+          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Dame un Beso y Dime Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP"
     },
     {
       "added_at": "2022-03-17 00:19:47",

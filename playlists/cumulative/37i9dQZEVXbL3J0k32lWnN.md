@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-762 songs - 1 day 16 hr 1 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+763 songs - 1 day 16 hr 4 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,8 @@
 | [Lille Store Verden](https://open.spotify.com/track/4ZmaxcxpEmzZgsMZPRdLIG) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [Verden Ka' Vente](https://open.spotify.com/album/4HUawJHoVJpBSAU0HcBjNU) | 3:28 | 2021-11-14 | 2021-12-29 |
 | [Little Bit of Love](https://open.spotify.com/track/3Iba59sFmGhQ4kbCY5L8AX) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:46 | 2021-06-10 | 2021-08-31 |
 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 | 2022-05-21 | 2022-06-05 |
-| [Livstegn](https://open.spotify.com/track/2r9XlaCgwoflge9TxWVME1) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [Livstegn](https://open.spotify.com/album/2XeTcOAnwY6MkRYrl6JkSy) | 3:33 | 2022-05-29 |  |
+| [Livstegn](https://open.spotify.com/track/0YWa7stUSTPrqjoB6NhoxU) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [4 Til Gulvet](https://open.spotify.com/album/251r5Jv5psSP10WVu4eSyD) | 3:33 | 2022-08-23 |  |
+| [Livstegn](https://open.spotify.com/track/2r9XlaCgwoflge9TxWVME1) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [Livstegn](https://open.spotify.com/album/2XeTcOAnwY6MkRYrl6JkSy) | 3:33 | 2022-05-29 | 2022-08-24 |
 | [Lo Lo](https://open.spotify.com/track/2oSFHZk3n4gAbPdNbCgZLQ) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Lo Lo](https://open.spotify.com/album/2gDXKJ5tTmEil4q77Z3mAj) | 2:22 | 2021-03-27\* | 2021-04-11 |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:29 | 2021-03-27\* | 2021-04-18 |
 | [Looking For Love](https://open.spotify.com/track/6FsZlxF0yLO434i3GJQYgv) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Looking For Love](https://open.spotify.com/album/0qEUsdb7akyiQiiXuVxgC0) | 2:34 | 2022-06-04 | 2022-06-19 |

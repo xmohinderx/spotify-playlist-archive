@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: Tsatsamis
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,817 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,807 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 44 | [Sooner Or Later](https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sooner Or Later](https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt) | 3:20 |
 | 45 | [My Kink is Karma](https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [My Kink is Karma](https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N) | 3:42 |
 | 46 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
-| 47 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 |
+| 47 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
 | 48 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
-| 49 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
+| 49 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 |
 | 50 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 |
 | 51 | [She Can Dance](https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [She Can Dance](https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR) | 3:04 |
 | 52 | [I Wanna Be a Boy](https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw) | 3:19 |
 | 53 | [just another song](https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [just another song](https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj) | 2:48 |
-| 54 | [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 |
-| 55 | [I THINK YOU TURNED ME](https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [I THINK YOU TURNED ME](https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl) | 2:12 |
+| 54 | [I THINK YOU TURNED ME](https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [I THINK YOU TURNED ME](https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl) | 2:12 |
+| 55 | [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 |
 | 56 | [Palladium](https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/2YyWyMCjuegqxsrfo1672e) | 4:07 |
 | 57 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 |
 | 58 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 74 | [stupid games](https://open.spotify.com/track/3wHX2s10YcSPt6ftT9qKwv) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [homecoming!](https://open.spotify.com/album/6oxQZpgS63Ah61H7fjsGHC) | 3:12 |
 | 75 | [Lesbionic](https://open.spotify.com/track/35Kejpttob4ICouzMYjZg1) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Lesbionic](https://open.spotify.com/album/6SnfGH3zgu3MILSTpPMHhu) | 2:41 |
 
-Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMGVlNjJjZjY3ZGM4NGQ1NDJkMjFiMDM2YjhjN2VjZDI5`
+Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMGM2MTFjNjU1ZjRhOWM3ZmJjYWI0ZDdhOTRjMjViMzg0`

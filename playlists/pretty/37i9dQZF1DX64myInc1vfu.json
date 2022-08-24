@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era just for you. Los boleritos de hoy. Cover: Yoss Bones",
-  "num_followers": 46479,
+  "num_followers": 46544,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjcxNSwwMDAwMDAwMDFhMTIyZDNhODMzNTg1M2IzY2JlYTdiNzYxNWE5NWI4",
+  "snapshot_id": "MTY1OTcxNjcxNSwwMDAwMDAwMGQyYjMxMWM2ZGI2OTg1ZmFjZGVmN2ZlMDQ2ZDM1MmNm",
   "tracks": [
     {
       "added_at": "2022-08-05 16:25:15",
@@ -431,26 +431,6 @@
     {
       "added_at": "2022-08-05 16:25:15",
       "album": {
-        "name": "Ojitos de Aceituna",
-        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        },
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 167221,
-      "name": "Ojitos de Aceituna",
-      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
-    },
-    {
-      "added_at": "2022-08-05 16:25:15",
-      "album": {
         "name": "A Color",
         "url": "https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 170520,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY"
+    },
+    {
+      "added_at": "2022-08-05 16:25:15",
+      "album": {
+        "name": "Ojitos de Aceituna",
+        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 167221,
+      "name": "Ojitos de Aceituna",
+      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
     },
     {
       "added_at": "2022-08-05 16:25:15",

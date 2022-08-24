@@ -4,7 +4,7 @@
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-82 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
+83 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Chasing Bliss](https://open.spotify.com/track/2D3aVWaHfXemcFgn9T50AK) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Chasing Bliss](https://open.spotify.com/album/4VvRpBgvISZ3DcSZp4fNqV) | 3:15 | 2022-07-29 |  |
 | [City Looks Different](https://open.spotify.com/track/73Q1ftTv3Id2YlIylUQdsK) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U) | [City Looks Different](https://open.spotify.com/album/6ml8hgQ7FjIOC305LOc5gH) | 2:32 | 2022-07-29 |  |
 | [Crystal Clear](https://open.spotify.com/track/5x6klKhKveWNJvg4n9iWPZ) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Anthony Meyer](https://open.spotify.com/artist/1vy2gxHoaHJhUQgQaJjHKh) | [Crystal Clear](https://open.spotify.com/album/1m37XnUy8Rv0VKiSa05Xcj) | 3:44 | 2022-07-29 |  |
+| [Dancing](https://open.spotify.com/track/44x1qfLCPkSgEvzzqXSrnr) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Vicman Romero & Mike Sildavia](https://open.spotify.com/artist/1wAZ4sU7fRc00JC3zs6XXg), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Dancing](https://open.spotify.com/album/1lu4GB49fN2Mn29qgcqwbx) | 2:54 | 2022-08-23 |  |
 | [Dancing With Tears In My Eyes](https://open.spotify.com/track/4rNuVWdkLkT6x175WXMteB) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Dancing With Tears In My Eyes](https://open.spotify.com/album/68zbIj55wIO2jErFc060Wr) | 3:08 | 2022-07-29 |  |
 | [Dive In](https://open.spotify.com/track/1WPTlwzEsggW9XoAih2oa5) | [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [Roy Orion](https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk), [Xtina Louise](https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN) | [Dive In](https://open.spotify.com/album/4nptbGAc6p5WCISLHOyqse) | 3:20 | 2022-07-29 |  |
 | [Don't Miss Out](https://open.spotify.com/track/05KOPCjuI41iWJeoaRuIrI) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Don't Miss Out](https://open.spotify.com/album/24kJEQZi1LrPPg86WxBilA) | 3:15 | 2022-07-29 |  |

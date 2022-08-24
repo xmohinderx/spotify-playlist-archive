@@ -1,12 +1,12 @@
 {
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
-  "num_followers": 19196,
+  "num_followers": 19202,
   "original_name": "Tango Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA5NDkzOCwwMDAwMDAwMGUxMjUzZGE5MjAwMjQ1Njk2Yjc2ZGFiOTlkOWMxZTkx",
+  "snapshot_id": "MTY1NjA5NDkzOCwwMDAwMDAwMDQxOWUwODY0ZDM2MGMzMjFmNWEzNWM2MzZiZDljOWY5",
   "tracks": [
     {
       "added_at": "2022-06-24 18:22:18",
@@ -555,26 +555,18 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Avellaneda",
-        "url": "https://open.spotify.com/album/49Xq9ybXE17iQoJox5qegK"
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
       "artists": [
         {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
-        },
-        {
-          "name": "Fito P\u00e1ez",
-          "url": "https://open.spotify.com/artist/4ZgWNQWb0Qz9QeF67IUVk8"
-        },
-        {
-          "name": "Paula Pomeraniek",
-          "url": "https://open.spotify.com/artist/31dHfRj6P93GP3be6JsYIe"
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
         }
       ],
-      "duration_ms": 279706,
-      "name": "La Despedida (feat. Fito P\u00e1ez & Paula Pomeraniek)",
-      "url": "https://open.spotify.com/track/3p9ebspnr6evao7kZ99BpH"
+      "duration_ms": 172880,
+      "name": "Laura Va",
+      "url": "https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -595,18 +587,26 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+        "name": "Avellaneda",
+        "url": "https://open.spotify.com/album/49Xq9ybXE17iQoJox5qegK"
       },
       "artists": [
         {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        },
+        {
+          "name": "Fito P\u00e1ez",
+          "url": "https://open.spotify.com/artist/4ZgWNQWb0Qz9QeF67IUVk8"
+        },
+        {
+          "name": "Paula Pomeraniek",
+          "url": "https://open.spotify.com/artist/31dHfRj6P93GP3be6JsYIe"
         }
       ],
-      "duration_ms": 172880,
-      "name": "Laura Va",
-      "url": "https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo"
+      "duration_ms": 279706,
+      "name": "La Despedida (feat. Fito P\u00e1ez & Paula Pomeraniek)",
+      "url": "https://open.spotify.com/track/3p9ebspnr6evao7kZ99BpH"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -763,18 +763,22 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "De Amores y Pasiones",
-        "url": "https://open.spotify.com/album/1gqPjw0a1BMHZr2UuTf8Dr"
+        "name": "Fisura Expuesta",
+        "url": "https://open.spotify.com/album/3xMB06xJvBVJJeEnmC4VC3"
       },
       "artists": [
         {
-          "name": "Miguel Cantilo",
-          "url": "https://open.spotify.com/artist/4MTd9MHb33LFgRKqWG0jZi"
+          "name": "Juan Subira",
+          "url": "https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 297480,
-      "name": "Tanguito Era Gardel",
-      "url": "https://open.spotify.com/track/6NF7NL01DBuPpbopdEc0Ku"
+      "duration_ms": 404853,
+      "name": "Salvavidas de Plomo",
+      "url": "https://open.spotify.com/track/7vfkvaLx1g6b8iWJoWrOaI"
     }
   ],
   "unique_name": "Tango Rock",

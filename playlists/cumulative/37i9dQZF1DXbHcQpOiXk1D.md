@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Kokoroko
 
-313 songs - 23 hr 5 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+314 songs - 23 hr 9 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 | 2021-12-17 | 2022-04-29 |
 | [Much Better \(Suitcase\)](https://open.spotify.com/track/3zNK6buz7vo1Kkp0yGCbES) | [Halfpenny](https://open.spotify.com/artist/5VjfZxLgu20M5RiLtSn8q3) | [Much Better \(Suitcase\)](https://open.spotify.com/album/4uPaDfrZnYmcvxMCGzH2vN) | 5:12 | 2022-03-08 | 2022-04-18 |
 | [My Life \(feat\. James Coleman\)](https://open.spotify.com/track/3b4LQJFtUKK1Ax947YouHl) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [James Coleman](https://open.spotify.com/artist/5WOmgJ1aLsF878tbEMpSD9) | [My Life \(feat\. James Coleman\)](https://open.spotify.com/album/3nXnB05LKorXxehY5QevoA) | 7:47 | 2021-12-17 | 2022-07-29 |
+| [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 | 2022-08-18 |  |
 | [Never Odd or Even](https://open.spotify.com/track/15CgvAuQAy0FOPJYiJ2yTG) | [Maliki](https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk) | [Never Odd or Even](https://open.spotify.com/album/3F96mitDz79X98YVBgbe9B) | 4:31 | 2021-12-17 | 2022-07-16 |
 | [Never Stopped for the Sun 'till Now](https://open.spotify.com/track/20afoEqLRHin6E8mm4o4Lq) | [Gabriel Gifford](https://open.spotify.com/artist/7ceIRf4Nyq04yXCq4HXLgj) | [Arrows](https://open.spotify.com/album/0uECWXCJ3VUg3TG1oltcqs) | 3:26 | 2021-12-17 | 2022-08-05 |
 | [Next Stop](https://open.spotify.com/track/0xWvC0sXy50OhLr2f8lZTV) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Next Stop](https://open.spotify.com/album/5PnsHCt16798AKmngcZMBP) | 6:41 | 2022-03-24 | 2022-07-26 |
@@ -209,7 +210,7 @@
 | [piano joint](https://open.spotify.com/track/7bz6B6gqfRRiCI34j3JzCI) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [piano joint](https://open.spotify.com/album/0sl4wd2G6qzT8viRkFWDXV) | 2:55 | 2022-02-18 | 2022-07-29 |
 | [Pigalle](https://open.spotify.com/track/2wxTz9nx62j9usQRJDKZD8) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Wu Hen](https://open.spotify.com/album/04kN5iKwGoYMSkr9cPZrWp) | 6:14 | 2021-12-17 | 2022-03-25 |
 | [PJFC](https://open.spotify.com/track/5WJFkmVH7DzzcSFl7l4xhH) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [PJFC](https://open.spotify.com/album/0eTuZF5sklHArepTZQkZdc) | 5:02 | 2021-12-17 | 2022-01-11 |
-| [Pray \- Edit](https://open.spotify.com/track/1BZqxYM0Q365Q62FlvigIq) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Pray](https://open.spotify.com/album/4WkxDBmv1Sd3PnQPt3HNC3) | 4:51 | 2021-12-17 |  |
+| [Pray \- Edit](https://open.spotify.com/track/1BZqxYM0Q365Q62FlvigIq) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Pray](https://open.spotify.com/album/4WkxDBmv1Sd3PnQPt3HNC3) | 4:51 | 2021-12-17 | 2022-08-24 |
 | [Prelude \(Jazz Drill\)](https://open.spotify.com/track/3fbbGDvD3tYaLJAELgLDCZ) | [Xvngo](https://open.spotify.com/artist/5NfAu0hQTsfoDiQajHsply), [Master Mac](https://open.spotify.com/artist/6FPkCzHPEN4Qr7AoAfoSNz) | [Prelude \(Jazz Drill\)](https://open.spotify.com/album/03VVPmXpdYnE0rWKOf2Ozy) | 3:39 | 2021-12-17 | 2022-04-20 |
 | [PROMISE](https://open.spotify.com/track/46KtAhtCoDViV6YoA4vsFh) | [Kemi Ade](https://open.spotify.com/artist/6KDipZITiq5yiYakmv11UP), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [PROMISE](https://open.spotify.com/album/3RoLY5Nm0SiWd8zY4dRx8g) | 3:49 | 2022-03-24 | 2022-04-20 |
 | [rainy day](https://open.spotify.com/track/4gNZbJwt2oJ08xoHVSZfm9) | [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [rainy day](https://open.spotify.com/album/0nX72jBDLi2espmtOndvZZ) | 3:08 | 2022-03-08 | 2022-07-12 |

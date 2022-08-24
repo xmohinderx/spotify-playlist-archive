@@ -4,14 +4,15 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-103 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
+104 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Spaceman Came Travelling](https://open.spotify.com/track/6JRVgGubYFxk9zHPSlZtrL) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Missing You \- The Collection](https://open.spotify.com/album/7pg4CJpscrhrWXTOb6iH1A) | 5:07 | 2021-12-06 | 2022-07-29 |
 | [A Spaceman Came Travelling](https://open.spotify.com/track/5hO2SJYP4vsO6h7ms8Rvyg) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Spanish Train And Other Stories](https://open.spotify.com/album/2VKCa7HezfKgbB51cAEyW7) | 5:11 | 2021-12-06 |  |
 | [Alien Song](https://open.spotify.com/track/31r6Z0TpaubNBwIiierrvU) | [ITS MUSIC](https://open.spotify.com/artist/3NyP1fZR8VjQF7n3eoZACn) | [Alien Song](https://open.spotify.com/album/1UpBpiojXAGp1v7DOe1klx) | 1:32 | 2021-12-06 |  |
-| [Astronaut](https://open.spotify.com/track/6XeMqpT25vjQ9Hwddp5oTe) | [Big Block Singsong](https://open.spotify.com/artist/5wXiTCNvj4JL6cJzQT5Ncp) | [Greatest Hits, Vol\. 3](https://open.spotify.com/album/4UZOosqqh80rHEGUhpfKNt) | 1:50 | 2021-12-06 |  |
+| [Astronaut](https://open.spotify.com/track/4qaPOGubnrK1oSbGFVV8QL) | [Big Block Singsong](https://open.spotify.com/artist/5wXiTCNvj4JL6cJzQT5Ncp) | [Greatest Hits, Vol\. 3](https://open.spotify.com/album/66zjIwZchPpv2UIIZ7L3eZ) | 1:50 | 2021-12-06 |  |
+| [Astronaut](https://open.spotify.com/track/6XeMqpT25vjQ9Hwddp5oTe) | [Big Block Singsong](https://open.spotify.com/artist/5wXiTCNvj4JL6cJzQT5Ncp) | [Greatest Hits, Vol\. 3](https://open.spotify.com/album/4UZOosqqh80rHEGUhpfKNt) | 1:50 | 2021-12-06 | 2022-08-24 |
 | [Astronaut](https://open.spotify.com/track/6mWRNfxUOCFs5rBU9bNWKK) | [Kyle Riley](https://open.spotify.com/artist/1nRy44nxv0wegKJjswHXPY) | [Sing to Me](https://open.spotify.com/album/7gcMHIKp8ttQCr3CADtEEm) | 2:53 | 2021-12-06 |  |
 | [Astronauts](https://open.spotify.com/track/0pXtG6G9Ue2KfhEfp1u9co) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Kids Songs](https://open.spotify.com/album/0iSrS0QaUXaJjR5GXDncC2) | 2:37 | 2021-12-06 |  |
 | [Astronauts Love \(feat\. Danny Weinkauf\)](https://open.spotify.com/track/3pOYii0WpO0YoBfWlnqi18) | [Jumpin' jamie](https://open.spotify.com/artist/2xrfLcoMMhihcXbCHl7Ytt), [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [Astronauts Love \(feat\. Danny Weinkauf\)](https://open.spotify.com/album/5tCUh4kGTfSThNipxSBWXe) | 2:42 | 2021-12-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 > The top 100 best love songs of this moment\. Dream away with the best love songs of right now\. ❤️
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 517,550 likes - 100 songs - 6 hr 1 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 517,521 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 66 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 |
 | 67 | [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Adriana Proenza](https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP) | [Can We Kiss Forever?](https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb) | 3:07 |
 | 68 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
-| 69 | [Lights Down Low](https://open.spotify.com/track/60vvp6UXG2KmLmrNvcVHa8) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Lights Down Low \- EP](https://open.spotify.com/album/6GIArZJaqTMv2x3xjJTsVl) | 3:45 |
+| 69 | [Lights Down Low](https://open.spotify.com/track/60vvp6UXG2KmLmrNvcVHa8) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Lights Down Low \- EP](https://open.spotify.com/album/6GIArZJaqTMv2x3xjJTsVl) | 3:45 |
 | 70 | [More of You](https://open.spotify.com/track/5YIDGLa5vsAMdzDW6jnAKk) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [More of You](https://open.spotify.com/album/3eLtBqvmjRkAjicP140Aec) | 2:34 |
 | 71 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 |
 | 72 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 99 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 |
 | 100 | [Half As Good As You \(feat\. Alice Merton\)](https://open.spotify.com/track/13XbTTKabl4zIeqvgwkNaU) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Half As Good As You \(feat\. Alice Merton\)](https://open.spotify.com/album/5bXH6L17xho74DMOmbKiSQ) | 3:30 |
 
-Snapshot ID: `NDUxNixkYTgxMmExMThiZjExYjVjZjE3NDE1OGIzMTgzMGNlZDc5OTM3MDkz`
+Snapshot ID: `NDUxOCw1N2I2NzZkNTYxMzlhMDY1OGRjZmVhOTI2NTZhMjhjOTQyMGU1NjY0`

@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17073,
+  "num_followers": 17083,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMDNhNWVkMjVmZmZhYjJhMTRjODQ1NjBlNGU4M2ZhN2Q2",
+  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMGE0ODZjNjZmMTYyNzRkNjVjYTRlZGQ2YTYxN2JiYTUz",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -187,18 +187,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Their Satanic Majesties' Second Request",
-        "url": "https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi"
+        "name": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
+        "url": "https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn"
       },
       "artists": [
         {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 334466,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
+      "duration_ms": 270400,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -219,18 +219,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
-        "url": "https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn"
+        "name": "Their Satanic Majesties' Second Request",
+        "url": "https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
         }
       ],
-      "duration_ms": 270400,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS"
+      "duration_ms": 334466,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 233146,
-      "name": "Creep in a T-Shirt",
-      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Bass Drum of Death",
         "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 229946,
       "name": "Crawling After You",
       "url": "https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "Creep in a T-Shirt",
+      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Lullabies To Paralyze",
-        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 114386,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Black Moon Spell",
         "url": "https://open.spotify.com/album/0XOhWOI7URvE4SmmGLTYop"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 293280,
       "name": "Black Moon Spell",
       "url": "https://open.spotify.com/track/6V3zT1j43wmQU8Mk2rT35K"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 114386,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE"
     },
     {
       "added_at": "2021-04-09 06:19:31",

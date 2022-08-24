@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 50720,
+  "num_followers": 50747,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMGNhODE3ZmEzOWExYjc4NTkwOWY4OTYwNjIwZDY1ZTQ0",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMGQwYzEzMjNmZWY1OGIwNDg4NDhiNWZlMTdiNjczMGQy",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "nu love",
+        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 209513,
+      "name": "nu love",
+      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "A Hero's Death (Soulwax Remix)",
         "url": "https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 269540,
       "name": "A Hero's Death - Soulwax Remix",
       "url": "https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "nu love",
-        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 209513,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "Might Forgive You / Tkm",
+        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 249638,
+      "name": "Migth Forgive You",
+      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "Moving Men (Remixes)",
         "url": "https://open.spotify.com/album/5A2w5utoGuiOXncW0DdnzB"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 240853,
       "name": "Moving Men - Metronomy Remix",
       "url": "https://open.spotify.com/track/20MuUSddGA8EnELcd52EP3"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Might Forgive You / Tkm",
-        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 249638,
-      "name": "Migth Forgive You",
-      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
     },
     {
       "added_at": "2022-07-29 05:00:00",

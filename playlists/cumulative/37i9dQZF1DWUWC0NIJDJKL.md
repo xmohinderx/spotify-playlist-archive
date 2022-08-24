@@ -4,7 +4,7 @@
 
 > Perfect sunshiney indie tracks for summer.
 
-214 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
+215 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [sunday](https://open.spotify.com/track/3QysXZ7h7NIsi8WAusDCBR) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [spaceships mixtape](https://open.spotify.com/album/2sJpAWgdzITssIX4qeuifw) | 3:21 | 2020-01-31 | 2022-06-11 |
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2022-06-10 |  |
 | [Sunlight](https://open.spotify.com/track/6XpJw6mIuTQ7tPYTvjYyVX) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Sunlight](https://open.spotify.com/album/73G6WLLpF5yejKrJCYwidT) | 3:32 | 2020-01-31 | 2022-07-29 |
+| [Sunscreen](https://open.spotify.com/track/2bMaGaVedzuLragkMjbPeS) | [Booshell](https://open.spotify.com/artist/1gFHHF3QyQxjbbKXV3qLu9), [Charm on the beat](https://open.spotify.com/artist/2PAputxnXRLw2RtF8MIrFD) | [Sunscreen](https://open.spotify.com/album/77OpzfBjErs49FzgegI6cZ) | 3:18 | 2022-08-23 |  |
 | [Supalonely \(feat\. Gus Dapperton\)](https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:43 | 2022-06-10 | 2022-08-23 |
 | [Super Rich Kids](https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 5:04 | 2022-06-10 |  |
 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 | 2020-01-31 |  |
@@ -194,7 +195,7 @@
 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 | 2022-06-10 | 2022-07-22 |
 | [The Bottom of It](https://open.spotify.com/track/4bva6j9FaGs1rdCzScAqLk) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [The Bottom of It](https://open.spotify.com/album/1k4JXPaKc4ZSZPalFAoWRA) | 3:01 | 2020-01-31 | 2022-07-29 |
 | [The Ceiling](https://open.spotify.com/track/7GQFqo7uDoOkTXrVBpARME) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [AUGUST](https://open.spotify.com/album/0f6br7CLoGXr5WhM4ZS23K) | 2:54 | 2022-06-10 | 2022-06-22 |
-| [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 | 2020-01-31 |  |
+| [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 | 2020-01-31 | 2022-08-24 |
 | [The Joke \- Bayonne Remix](https://open.spotify.com/track/51BzuUGYPrKP9j1kG64OQ3) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP), [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [The Joke \(Bayonne Remix\)](https://open.spotify.com/album/4QfgH4IG1WDCxwN3dwluWJ) | 4:27 | 2020-01-31 | 2022-06-17 |
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2022-06-10 | 2022-07-29 |
 | [The Loop](https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 4:01 | 2022-06-10 | 2022-07-20 |

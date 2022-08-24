@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-164 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
+165 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2017-12-03 |  |
 | [How Long Will I Love You \- Bonus Track](https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 2:34 | 2017-12-03 |  |
 | [How Long Will I Love You \- Bonus Track](https://open.spotify.com/track/7CFQrZR4WeKEg4vweqp8Gv) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/2Dw4fYqDQnxsgoXDdMbqh3) | 2:34 | 2017-12-03 | 2022-07-29 |
-| [Howling At The Moon](https://open.spotify.com/track/0lj2nJSYWe41NhF07SRAtI) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Howling At The Moon](https://open.spotify.com/album/0gOshFXSYvZTpAYL5sPH7h) | 3:05 | 2017-12-03 |  |
+| [Howling At The Moon](https://open.spotify.com/track/0lj2nJSYWe41NhF07SRAtI) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Howling At The Moon](https://open.spotify.com/album/0gOshFXSYvZTpAYL5sPH7h) | 3:05 | 2017-12-03 | 2022-08-24 |
+| [Howling at the Moon](https://open.spotify.com/track/34Yx1C3PBF986YzL3jfuuR) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Modern Heart](https://open.spotify.com/album/3U1AZauAd7pqx4GitFLTjY) | 3:05 | 2017-12-03 |  |
 | [Howling at the Moon](https://open.spotify.com/track/5uhD79zVjkKdzmzTjqHXgo) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Modern Heart](https://open.spotify.com/album/0iILGOWECbPUX0QudcogNg) | 3:05 | 2017-12-03 | 2022-07-29 |
 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation Stadium Tour Surprise Song Playlist](https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8) | 4:07 | 2017-12-03 |  |
 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\) \- From "Fifty Shades Darker \(Original Motion Picture Soundtrack\)"](https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/5MxXY7DbFMUiHFTPUabgJJ) | 4:05 | 2017-12-03 | 2022-07-29 |

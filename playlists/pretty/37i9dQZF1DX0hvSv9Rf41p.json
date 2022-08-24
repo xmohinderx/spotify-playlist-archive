@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Ace Aura.",
-  "num_followers": 957277,
+  "num_followers": 957310,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkxNjkyNCwwMDAwMDAwMDFkZWI3ZDEyYTNkNmI5ZTBmZjgzOGQxYWEyYTM3YzU5",
+  "snapshot_id": "MTY2MDkxNjkyNCwwMDAwMDAwMDhhMDAyODdiYTgwYjg5OGYwN2MzMjAyNzJlZTk1YmMw",
   "tracks": [
     {
       "added_at": "2022-08-12 10:58:30",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "All We Needed",
+        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "All We Needed",
+      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Badman",
         "url": "https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "All We Needed",
-        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/4WqGw8t5ubuDHl5buqK5ln"
       },
       "artists": [
         {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+          "name": "4URA",
+          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
         }
       ],
-      "duration_ms": 241600,
-      "name": "All We Needed",
-      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
+      "duration_ms": 202285,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6EsYB6iqDXHlOgTTdKihxH"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -943,18 +959,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/4WqGw8t5ubuDHl5buqK5ln"
+        "name": "Valley Of Violence",
+        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
       },
       "artists": [
         {
-          "name": "4URA",
-          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
         }
       ],
-      "duration_ms": 202285,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6EsYB6iqDXHlOgTTdKihxH"
+      "duration_ms": 238443,
+      "name": "Valley Of Violence",
+      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -979,22 +995,6 @@
       "duration_ms": 225000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1gs7LWmkKWpJ8M6cnWkK5e"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Valley Of Violence",
-        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 238443,
-      "name": "Valley Of Violence",
-      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Take You Home (feat. Dia Frampton)",
-        "url": "https://open.spotify.com/album/0YrmV2q7mqsDbcjY0jpH95"
-      },
-      "artists": [
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        },
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        },
-        {
-          "name": "Dia Frampton",
-          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
-        }
-      ],
-      "duration_ms": 218322,
-      "name": "Take You Home (feat. Dia Frampton)",
-      "url": "https://open.spotify.com/track/7dUeGRu9gaXSjkjKO4I8F3"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "No Limit",
         "url": "https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0"
       },
@@ -1083,6 +1059,46 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Take You Home (feat. Dia Frampton)",
+        "url": "https://open.spotify.com/album/0YrmV2q7mqsDbcjY0jpH95"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "duration_ms": 218322,
+      "name": "Take You Home (feat. Dia Frampton)",
+      "url": "https://open.spotify.com/track/7dUeGRu9gaXSjkjKO4I8F3"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 233046,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
       },
@@ -1099,30 +1115,6 @@
       "duration_ms": 230344,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Reason For Fighting (feat. ERV ELLO)",
-        "url": "https://open.spotify.com/album/1Cauh0pJOIIMFZU7eCOALc"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        },
-        {
-          "name": "ERV ELLO",
-          "url": "https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Reason For Fighting (feat. ERV ELLO)",
-      "url": "https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1147,18 +1139,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
+        "name": "Reason For Fighting (feat. ERV ELLO)",
+        "url": "https://open.spotify.com/album/1Cauh0pJOIIMFZU7eCOALc"
       },
       "artists": [
         {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        {
+          "name": "ERV ELLO",
+          "url": "https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn"
         }
       ],
-      "duration_ms": 233046,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
+      "duration_ms": 238285,
+      "name": "Reason For Fighting (feat. ERV ELLO)",
+      "url": "https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "FRACTALS",
-        "url": "https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Boogie T",
-          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "Gummy Worm (feat. Boogie T)",
-      "url": "https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "RELOAD",
         "url": "https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC"
       },
@@ -1435,6 +1415,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "FRACTALS",
+        "url": "https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Gummy Worm (feat. Boogie T)",
+      "url": "https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Fear Of Dying",
         "url": "https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 187800,
       "name": "Fear Of Dying",
       "url": "https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "(Never Gonna) Be Alone",
-        "url": "https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 198399,
-      "name": "(Never Gonna) Be Alone",
-      "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Bang Harder",
-        "url": "https://open.spotify.com/album/244J1SCEVhFlmilwONiEL4"
+        "name": "(Never Gonna) Be Alone",
+        "url": "https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba"
       },
       "artists": [
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         }
       ],
-      "duration_ms": 164842,
-      "name": "Bang Harder",
-      "url": "https://open.spotify.com/track/6TokZjKiCwAFSmA7pdWTaK"
+      "duration_ms": 198399,
+      "name": "(Never Gonna) Be Alone",
+      "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1515,6 +1499,22 @@
       "duration_ms": 201931,
       "name": "Bullet",
       "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Bang Harder",
+        "url": "https://open.spotify.com/album/244J1SCEVhFlmilwONiEL4"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Bang Harder",
+      "url": "https://open.spotify.com/track/6TokZjKiCwAFSmA7pdWTaK"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Spacetime (feat. NEVVE)",
+        "url": "https://open.spotify.com/album/4rrf2a5ZbaHXpC1s85oJTM"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Spacetime (feat. NEVVE)",
+      "url": "https://open.spotify.com/track/39Hpybgua0RgOciVl1C4Sy"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Cheat Code",
         "url": "https://open.spotify.com/album/41N4WEXPbcLCJ5rgOQc6FC"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 199275,
       "name": "Affliction",
       "url": "https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Spacetime (feat. NEVVE)",
-        "url": "https://open.spotify.com/album/4rrf2a5ZbaHXpC1s85oJTM"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Spacetime (feat. NEVVE)",
-      "url": "https://open.spotify.com/track/39Hpybgua0RgOciVl1C4Sy"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1787,18 +1787,38 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "\u00c6ON:ONE",
-        "url": "https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND"
+        "name": "Think Of Me (feat. SOUNDR)",
+        "url": "https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O"
       },
       "artists": [
         {
           "name": "Blanke",
           "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "SOUNDR",
+          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
         }
       ],
-      "duration_ms": 195862,
-      "name": "Polaris",
-      "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
+      "duration_ms": 232000,
+      "name": "Think Of Me (feat. SOUNDR)",
+      "url": "https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Blicky",
+        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1823,22 +1843,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Blicky",
-        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
-      },
-      "artists": [
-        {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Blicky",
-      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Ding Dong",
         "url": "https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp"
       },
@@ -1851,6 +1855,26 @@
       "duration_ms": 177656,
       "name": "Ding Dong",
       "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Prismata (Dark)",
+        "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/6YZg6R747lU5gYZhUB4OQg"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1875,6 +1899,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "\u00c6ON:ONE",
+        "url": "https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
       },
@@ -1887,46 +1927,6 @@
       "duration_ms": 247500,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Think Of Me (feat. SOUNDR)",
-        "url": "https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "SOUNDR",
-          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Think Of Me (feat. SOUNDR)",
-      "url": "https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Prismata (Dark)",
-        "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
-      },
-      "artists": [
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/6YZg6R747lU5gYZhUB4OQg"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Worst Enemy",
-        "url": "https://open.spotify.com/album/7d5WbnusZ9Gnku3Z92yphk"
-      },
-      "artists": [
-        {
-          "name": "Borgeous",
-          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Worst Enemy",
-      "url": "https://open.spotify.com/track/1ZASppQGfipnlhwfXooTdy"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Dawn Of The Dead",
         "url": "https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV"
       },
@@ -2047,6 +2027,26 @@
       "duration_ms": 222400,
       "name": "Dawn Of The Dead - Radio Edit",
       "url": "https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Worst Enemy",
+        "url": "https://open.spotify.com/album/7d5WbnusZ9Gnku3Z92yphk"
+      },
+      "artists": [
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Worst Enemy",
+      "url": "https://open.spotify.com/track/1ZASppQGfipnlhwfXooTdy"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2127,18 +2127,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Eat Your Soul",
-        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
+        "name": "Back From The Future",
+        "url": "https://open.spotify.com/album/3yw5rSDBVerE54pq9cMuFm"
       },
       "artists": [
         {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+          "name": "Manic Focus",
+          "url": "https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz"
         }
       ],
-      "duration_ms": 159622,
-      "name": "Eat Your Soul",
-      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
+      "duration_ms": 156065,
+      "name": "Back From The Future",
+      "url": "https://open.spotify.com/track/5nMDi53vEJa86XBrZC5Ti9"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Back From The Future",
-        "url": "https://open.spotify.com/album/3yw5rSDBVerE54pq9cMuFm"
+        "name": "Eat Your Soul",
+        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
       },
       "artists": [
         {
-          "name": "Manic Focus",
-          "url": "https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         }
       ],
-      "duration_ms": 156065,
-      "name": "Back From The Future",
-      "url": "https://open.spotify.com/track/5nMDi53vEJa86XBrZC5Ti9"
+      "duration_ms": 159622,
+      "name": "Eat Your Soul",
+      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Here For You",
+        "url": "https://open.spotify.com/album/3JGqBNtMILRIPmLTbyqusL"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "duration_ms": 221750,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Trip To Mars",
         "url": "https://open.spotify.com/album/5Er1tnoWX3ER2XPeDFmQLq"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 212935,
       "name": "Trip To Mars",
       "url": "https://open.spotify.com/track/3jMtndFPgcjtKHuUnGHf9E"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Here For You",
-        "url": "https://open.spotify.com/album/3JGqBNtMILRIPmLTbyqusL"
-      },
-      "artists": [
-        {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
-        }
-      ],
-      "duration_ms": 221750,
-      "name": "Here For You",
-      "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
     },
     {
       "added_at": "2022-08-12 10:58:30",

@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 46395,
+  "num_followers": 46476,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk4ODMyOSwwMDAwMDAwMGY5MWJhOWQzMTdmNjMwYzRkNzQ2ZjlhMjFlOThhMDA3",
+  "snapshot_id": "MTY1Mjk4ODMyOSwwMDAwMDAwMGY1M2M2YTVmODNhOGFmNGQ1ZGI5NTE0MjgyZTkyZmIz",
   "tracks": [
     {
       "added_at": "2022-05-19 19:25:29",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
+        "name": "Prime Chops",
+        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
+      },
+      "artists": [
+        {
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
         "name": "Fantastic Negrito Deluxe EP",
         "url": "https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 160453,
       "name": "Night Has Turned to Day",
       "url": "https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Gone to Texas",
-        "url": "https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 247906,
-      "name": "Death Row",
-      "url": "https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "Prime Chops",
-        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
+        "name": "Gone to Texas",
+        "url": "https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ"
       },
       "artists": [
         {
-          "name": "Roy Rogers",
-          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
         }
       ],
-      "duration_ms": 275066,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
+      "duration_ms": 247906,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd"
     },
     {
       "added_at": "2022-05-19 19:25:29",

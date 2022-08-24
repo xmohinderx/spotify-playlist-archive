@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Apricus",
+        "url": "https://open.spotify.com/album/2rk6uIsjnpHpOFYHmx8Emk"
+      },
+      "artists": [
+        {
+          "name": "John Caelo",
+          "url": "https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159676,
+      "name": "Apricus",
+      "url": "https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp"
+    },
+    {
+      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/0g3jCPVm6E6dkbepOlFUft"
       },
@@ -599,6 +617,24 @@
       "duration_ms": 162118,
       "name": "Blue Sphere",
       "url": "https://open.spotify.com/track/3aQ46BOZ8C3fOfSFfyEcwq"
+    },
+    {
+      "album": {
+        "name": "Blume",
+        "url": "https://open.spotify.com/album/7moo1Qd1CWo8DIcTLrZLqr"
+      },
+      "artists": [
+        {
+          "name": "Forsintha",
+          "url": "https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149518,
+      "name": "Blume",
+      "url": "https://open.spotify.com/track/1HOuETpEjrYbU5Azt6iKjZ"
     },
     {
       "album": {
@@ -1981,7 +2017,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 196363,
       "name": "Garden Charm",
       "url": "https://open.spotify.com/track/6TkkTtMH7X4E8B4GDIYznl"
@@ -2762,6 +2798,24 @@
     },
     {
       "album": {
+        "name": "Miuys",
+        "url": "https://open.spotify.com/album/1yoIxMWtpZxCUrFysAZ1Ll"
+      },
+      "artists": [
+        {
+          "name": "Calma Interiore",
+          "url": "https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180352,
+      "name": "Miuys",
+      "url": "https://open.spotify.com/track/6gM3YgCJV3tBzbnYG2ydge"
+    },
+    {
+      "album": {
         "name": "Mo Chroidhe",
         "url": "https://open.spotify.com/album/4d0cCBHVGlmqCqqW3dffzg"
       },
@@ -2809,7 +2863,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 155202,
       "name": "Moment To Moment",
       "url": "https://open.spotify.com/track/4vOHJJO8fJudz8JVVG9av6"
@@ -4113,7 +4167,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 138177,
       "name": "Stimmung",
       "url": "https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx"

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. beabadoobee on the cover.
 
-928 songs - 1 day 23 hr 28 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+929 songs - 1 day 23 hr 31 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [anxiety attack](https://open.spotify.com/track/2Oj715ybhG38EebNVWWqKJ) | [Marina Lin](https://open.spotify.com/artist/56z9WF9quDfA4U6kcQrfQh) | [anxiety attack](https://open.spotify.com/album/0Pkua5zinGMobGeboWwjlt) | 2:49 | 2021-08-14 | 2021-10-02 |
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-04-30 | 2021-07-17 |
 | [Apricots](https://open.spotify.com/track/4x8WXoZxlAF5EOCLLcTKQ3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/27Ha0SgjvEraXK4aYEumkw) | 3:12 | 2020-10-29\* | 2021-02-06 |
+| [Architect](https://open.spotify.com/track/4cshL9bJESsW1PlqPeBgTw) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Architect](https://open.spotify.com/album/7JR4EkR8kGsQSpDm3xWh5k) | 3:04 | 2022-08-23 |  |
 | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-23 | 2022-02-19 |
 | [ARIZONA](https://open.spotify.com/track/2aA86ZJwbNDQYnMLCLC8kW) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1), [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [ARIZONA](https://open.spotify.com/album/13uEXPLANR6eShZMvkxC6W) | 3:35 | 2020-10-29\* | 2021-01-21 |
 | [Arthur](https://open.spotify.com/track/1EdTbKWP1qUfrVWpEgUBCv) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Arthur](https://open.spotify.com/album/21m9iSX3X6JeCJpY7l1kXr) | 3:14 | 2021-02-13 | 2021-02-27 |
@@ -645,7 +646,7 @@
 | [Producer Man](https://open.spotify.com/track/5BArc3UpONi77FMkNT4LYU) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Producer Man](https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4) | 2:21 | 2020-11-04 | 2021-02-06 |
 | [psycho killa](https://open.spotify.com/track/6tFsTN9jmdz4DACp1P7nO1) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [psycho killa](https://open.spotify.com/album/0ww50BVFC2aM2pHSd5MFbD) | 3:37 | 2021-12-24 | 2022-01-08 |
 | [psychopath](https://open.spotify.com/track/4SLf7FubdEBcxUrdX6X04B) | [Marina Lin](https://open.spotify.com/artist/56z9WF9quDfA4U6kcQrfQh) | [psychopath](https://open.spotify.com/album/6VcoJIsctDA4WFoKAQwyLH) | 2:51 | 2021-10-16 | 2021-11-20 |
-| [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-17 |  |
+| [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-17 | 2022-08-24 |
 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2021-04-10 | 2021-05-22 |
 | [Push It Down](https://open.spotify.com/track/2x8n3P1a78GjCtMDQfnwrW) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Push It Down](https://open.spotify.com/album/44jqOG7z7RVwI9WBXpOMe0) | 3:03 | 2021-07-31 | 2021-10-16 |
 | [Push Me Away](https://open.spotify.com/track/2o1JACZB8lpw7lkXlE3QYf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Push Me Away](https://open.spotify.com/album/4hlNGJ1p7zNa009uiFFFSQ) | 2:44 | 2021-04-24 | 2021-06-12 |

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Wade Bowen
 
-341 songs - 20 hr 24 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+342 songs - 20 hr 27 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [But Me](https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [But Me](https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1) | 3:55 | 2022-07-22 |  |
 | [Buzzed Brain](https://open.spotify.com/track/28BlOyCL7tkzuc9xWwTPFI) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Buzzed Brain, Pt\. 2](https://open.spotify.com/album/04Z0wNec76yBlauZ0gabJ3) | 4:26 | 2021-12-17 | 2022-07-24 |
 | [Calling Your Bluff](https://open.spotify.com/track/2KBsnRFMKnPkjjQNuVhClj) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol \- EP](https://open.spotify.com/album/1hEQhjpGQpqDjLE9iYt1bH) | 3:23 | 2022-06-10 | 2022-07-29 |
-| [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 | 2022-05-06 |  |
+| [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 | 2022-05-06 | 2022-08-24 |
 | [Change Your Mind](https://open.spotify.com/track/0pGMmBw3aXGWGR32ydIZMU) | [Nathan Perry](https://open.spotify.com/artist/0GNySaIRzLXcOfWpKlRv3w) | [Change Your Mind](https://open.spotify.com/album/3SavsOcLJAxYDGWUvgo4e1) | 4:10 | 2022-03-25 | 2022-07-09 |
 | [Cheap Seats](https://open.spotify.com/track/20pXH2n3JK80FTqcSjq6iS) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 3:53 | 2022-07-22 |  |
 | [Cheap Seats](https://open.spotify.com/track/2iMyXbr0uNggwmJMobab0s) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/7uyT7ndhraNB58aoPyFhU0) | 3:53 | 2022-04-22 | 2022-07-29 |
@@ -96,6 +96,7 @@
 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 | 2022-03-04 |  |
 | [Dancing Around The Truth](https://open.spotify.com/track/3q41hamYDHE4lcRptEfUrz) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:14 | 2022-06-17 |  |
 | [Darlin'](https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Cowboys Don't Change](https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K) | 3:32 | 2022-06-17 |  |
+| [Daylight](https://open.spotify.com/track/5OwSp5FmqDZBRujGW3PmSs) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG) | [Cheating On A Memory Chapter 2](https://open.spotify.com/album/5oowEIqLmL9uBRPzXfPBXr) | 3:34 | 2022-08-19 |  |
 | [Deconstruction of a Heartache](https://open.spotify.com/track/22OAfJb7n2uHuUkyfhBnk0) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Amanda Kate](https://open.spotify.com/album/5gyxMSvCLHNeS8IPLBAXQ1) | 3:34 | 2021-12-17 | 2022-08-14 |
 | [Devil's Den](https://open.spotify.com/track/3lBvbmPoXdmlDZrHYxxnu0) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Devil's Den](https://open.spotify.com/album/5y65PMxRxf3VIgrC0BBViv) | 3:52 | 2022-02-04 | 2022-03-19 |
 | [Different Now](https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Different Now](https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7) | 3:09 | 2022-08-05 |  |

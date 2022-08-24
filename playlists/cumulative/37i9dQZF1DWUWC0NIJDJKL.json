@@ -3212,6 +3212,28 @@
     },
     {
       "album": {
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/77OpzfBjErs49FzgegI6cZ"
+      },
+      "artists": [
+        {
+          "name": "Booshell",
+          "url": "https://open.spotify.com/artist/1gFHHF3QyQxjbbKXV3qLu9"
+        },
+        {
+          "name": "Charm on the beat",
+          "url": "https://open.spotify.com/artist/2PAputxnXRLw2RtF8MIrFD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198181,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/2bMaGaVedzuLragkMjbPeS"
+    },
+    {
+      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -3483,7 +3505,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 232200,
       "name": "The High Road",
       "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"

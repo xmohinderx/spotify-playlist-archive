@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 429200,
+  "num_followers": 429435,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkxMDQwMCwwMDAwMDAwMGM1M2YxYmJiNjZlODlmYTZjOGU3NmFjZjg4MDljMmUz",
+  "snapshot_id": "MTY2MDkxMDQwMCwwMDAwMDAwMGM2YzcxOGZhMWZhMWQ3YWU5NTE0OTBiNzE4N2VhMGUx",
   "tracks": [
     {
       "added_at": "2022-08-19 12:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "This I Promise You",
-      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
         "name": "Like I'm Gonna Lose You",
         "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 232338,
       "name": "Like I'm Gonna Lose You",
       "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "This I Promise You",
+      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
+        "name": "Melancholic",
+        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 170830,
+      "name": "Lay By Me",
+      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
-        "name": "Melancholic",
-        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 170830,
-      "name": "Lay By Me",
-      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 141757,
-      "name": "Honey (with Muni Long)",
-      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
         "name": "Take It All Away (U.S. Version)",
         "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 223213,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 141757,
+      "name": "Honey (with Muni Long)",
+      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Flashlight - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
         "name": "Edges Run",
         "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "Looking 4 Myself (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g"
+        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         }
       ],
-      "duration_ms": 232906,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/5pyVqlqThcxI7tPDjHIzPh"
+      "duration_ms": 209560,
+      "name": "Flashlight - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -983,18 +967,18 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+        "name": "Looking 4 Myself (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 235666,
-      "name": "Save Room",
-      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
+      "duration_ms": 232906,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/5pyVqlqThcxI7tPDjHIzPh"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -1027,6 +1011,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
+        "name": "everytime we fall",
+        "url": "https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ"
+      },
+      "artists": [
+        {
+          "name": "noui",
+          "url": "https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B"
+        },
+        {
+          "name": "Heiakim",
+          "url": "https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1"
+        }
+      ],
+      "duration_ms": 189497,
+      "name": "everytime we fall",
+      "url": "https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
         "name": "Amari' SZN 1",
         "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
       },
@@ -1911,26 +1931,6 @@
       "duration_ms": 178246,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
-        "name": "everytime we fall",
-        "url": "https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ"
-      },
-      "artists": [
-        {
-          "name": "noui",
-          "url": "https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B"
-        },
-        {
-          "name": "Heiakim",
-          "url": "https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1"
-        }
-      ],
-      "duration_ms": 189497,
-      "name": "everytime we fall",
-      "url": "https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "Heights",
-        "url": "https://open.spotify.com/album/6mfFBO0ksZJTg3mNc4wfjf"
-      },
-      "artists": [
-        {
-          "name": "Only Girl",
-          "url": "https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt"
-        }
-      ],
-      "duration_ms": 226750,
-      "name": "Heights",
-      "url": "https://open.spotify.com/track/4HhiuiQftydGvLIIzM8tn5"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
         "name": "The More",
         "url": "https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 230947,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
+        "name": "Heights",
+        "url": "https://open.spotify.com/album/6mfFBO0ksZJTg3mNc4wfjf"
+      },
+      "artists": [
+        {
+          "name": "Only Girl",
+          "url": "https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt"
+        }
+      ],
+      "duration_ms": 226750,
+      "name": "Heights",
+      "url": "https://open.spotify.com/track/4HhiuiQftydGvLIIzM8tn5"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS"
-      },
-      "artists": [
-        {
-          "name": "Parker Louis",
-          "url": "https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD"
-        }
-      ],
-      "duration_ms": 243784,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
         "name": "Sex + Hennessy",
         "url": "https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 155744,
       "name": "Sex + Hennessy",
       "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS"
+      },
+      "artists": [
+        {
+          "name": "Parker Louis",
+          "url": "https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD"
+        }
+      ],
+      "duration_ms": 243784,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -2279,6 +2279,22 @@
       "duration_ms": 204333,
       "name": "If the Creek Don't Rise",
       "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/7mQHiL0qIDYoHqUiBQ5ImB"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/0bW7J4hzno0eMC5TFZfDou"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -2383,22 +2399,6 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "Part Time Lover (Radio Edit)",
-        "url": "https://open.spotify.com/album/0FXr7SgdUgSXzEBE0JxLWf"
-      },
-      "artists": [
-        {
-          "name": "ELIAS",
-          "url": "https://open.spotify.com/artist/5w3XaqHR4hMMy1MWyO26TY"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "Part Time Lover - Radio Edit",
-      "url": "https://open.spotify.com/track/3RT0FdCEeCTTPbFY5Qk5pk"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/62ayDuTyQGhZY8pVLQi31M"
       },
@@ -2415,6 +2415,22 @@
       "duration_ms": 147000,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/56iXZRQbMCTypiDsZXM6I0"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
+        "name": "Part Time Lover (Radio Edit)",
+        "url": "https://open.spotify.com/album/0FXr7SgdUgSXzEBE0JxLWf"
+      },
+      "artists": [
+        {
+          "name": "ELIAS",
+          "url": "https://open.spotify.com/artist/5w3XaqHR4hMMy1MWyO26TY"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Part Time Lover - Radio Edit",
+      "url": "https://open.spotify.com/track/3RT0FdCEeCTTPbFY5Qk5pk"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -2467,22 +2483,6 @@
       "duration_ms": 194634,
       "name": "Something Like This",
       "url": "https://open.spotify.com/track/71RHfbbUVoYNKNFtRomycM"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
-        "name": "Don't Judge Me",
-        "url": "https://open.spotify.com/album/6Ny9NQi1tvteQHFcXkJX9T"
-      },
-      "artists": [
-        {
-          "name": "Kish",
-          "url": "https://open.spotify.com/artist/4Vo0o5cMw8x1cIdbMCzE9L"
-        }
-      ],
-      "duration_ms": 200672,
-      "name": "Don't Judge Me",
-      "url": "https://open.spotify.com/track/4CdrEw76dPI0QyurNUjklR"
     }
   ],
   "unique_name": "Spooning",

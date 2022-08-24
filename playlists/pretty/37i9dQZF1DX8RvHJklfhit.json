@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics. Cover: Salt Cathedral, Ximena Sari\u00f1ana",
-  "num_followers": 126929,
+  "num_followers": 126956,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMGQzZTk0ZGM4MjdjN2VkNTI3ZjZiZTJiMGU5OTNlZWYw",
+  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMDliZWM0NDQzM2IyZWVhYTlhODg1ZmJlYzdiNzYwZTdh",
   "tracks": [
     {
       "added_at": "2022-08-05 16:11:36",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Am\u00e9rica Supers\u00f3nica",
-        "url": "https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Lo Mejor, Lo Peor",
-      "url": "https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Black Lipstick",
         "url": "https://open.spotify.com/album/7hedlsiDZmoOdynJeOqGbs"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 229381,
       "name": "Black Lipstick",
       "url": "https://open.spotify.com/track/2wsW7FXHByxfP6Qzwf4iaj"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Am\u00e9rica Supers\u00f3nica",
+        "url": "https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Lo Mejor, Lo Peor",
+      "url": "https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "El Chapo (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Vienen A Verme - Theme from \"El Chapo\"",
-      "url": "https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Destellos",
         "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 237786,
       "name": "Popscuro",
       "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "El Chapo (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Vienen A Verme - Theme from \"El Chapo\"",
+      "url": "https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
+        "name": "En Cantos",
+        "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 212957,
+      "name": "En Cantos",
+      "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
         "name": "Gratitud",
         "url": "https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 204585,
       "name": "Explotar Contigo",
       "url": "https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
-        "name": "En Cantos",
-        "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "En Cantos",
-      "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Raffolution",
-        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Latino & Proud",
-      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "HU HU HU",
         "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 267840,
       "name": "Cursis Melod\u00edas",
       "url": "https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Raffolution",
+        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "Latino & Proud",
+      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
+        "name": "Land Of Aloha",
+        "url": "https://open.spotify.com/album/5JKHmRXRC91d5zyNVGRAaw"
+      },
+      "artists": [
+        {
+          "name": "Miss Garrison",
+          "url": "https://open.spotify.com/artist/6KW0KNqfkuSKryF7e7hONY"
+        }
+      ],
+      "duration_ms": 244125,
+      "name": "Land Of Aloha",
+      "url": "https://open.spotify.com/track/1RUds23AaBMhgRO5ospAsh"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 166583,
       "name": "Lejos (feat. Coco Santos)",
       "url": "https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
-        "name": "Land Of Aloha",
-        "url": "https://open.spotify.com/album/5JKHmRXRC91d5zyNVGRAaw"
-      },
-      "artists": [
-        {
-          "name": "Miss Garrison",
-          "url": "https://open.spotify.com/artist/6KW0KNqfkuSKryF7e7hONY"
-        }
-      ],
-      "duration_ms": 244125,
-      "name": "Land Of Aloha",
-      "url": "https://open.spotify.com/track/1RUds23AaBMhgRO5ospAsh"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Verano Panor\u00e1mico",
-        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 127704,
-      "name": "That's Playa",
-      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Canta Lechuza",
         "url": "https://open.spotify.com/album/3wFgawqwjWBQxGseSIchGt"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
+        "name": "Verano Panor\u00e1mico",
+        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 127704,
+      "name": "That's Playa",
+      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
         "name": "Every Third Thought",
         "url": "https://open.spotify.com/album/5EkUotvrlGXnq8rdkT1Pju"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 169200,
       "name": "Internet Blues",
       "url": "https://open.spotify.com/track/3rlxHAv1NgtDhE9lCjK1rI"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Month One",
+        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
+      },
+      "artists": [
+        {
+          "name": "Marr\u00f3n",
+          "url": "https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5"
+        }
+      ],
+      "duration_ms": 310090,
+      "name": "Week 4",
+      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1479,22 +1495,6 @@
       "duration_ms": 279693,
       "name": "La Capacidad",
       "url": "https://open.spotify.com/track/6vDe4MLOQJP5IErm6SGD6s"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
-        "name": "Month One",
-        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
-      },
-      "artists": [
-        {
-          "name": "Marr\u00f3n",
-          "url": "https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5"
-        }
-      ],
-      "duration_ms": 310090,
-      "name": "Week 4",
-      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
     },
     {
       "added_at": "2022-08-05 16:11:36",

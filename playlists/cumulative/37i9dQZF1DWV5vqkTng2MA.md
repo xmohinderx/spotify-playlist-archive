@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-194 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/4ZYc49bP2BhIE0m0JrNtAT)
+195 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/4ZYc49bP2BhIE0m0JrNtAT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Irene](https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se) | 3:46 | 2022-06-01 |  |
 | [Irene](https://open.spotify.com/track/3t5z0GJujIwvfvxwRjPug0) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/2mhiWcz2YEe2lMZ66V4Ofk) | 3:46 | 2021-10-01 | 2022-07-29 |
 | [Jack of Fools](https://open.spotify.com/track/1Fx7t6OvcoswWDtOlh1NcL) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Jack of Fools](https://open.spotify.com/album/3roREPgmhlZx06ZxDn7vyR) | 4:48 | 2021-10-01 | 2022-07-29 |
+| [Jack of Fools](https://open.spotify.com/track/2K3tyFoVNYUwIjwHqmsB5W) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/61RWLc1ytbWD3XRHbGWkIw) | 4:48 | 2022-08-02 |  |
 | [Jackie and Wilson](https://open.spotify.com/track/0PywzrV955BnXDC8FHAf0n) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:43 | 2021-10-01 |  |
 | [Katchi](https://open.spotify.com/track/09uXepY9uC1cUlvZ6kbOy6) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Never Twice](https://open.spotify.com/album/1gzWphTk6PqMZ5qWbVaBk4) | 3:40 | 2022-06-01 |  |
 | [Katchi \(feat\. Leon Bridges\)](https://open.spotify.com/track/4wbLYn8eKiW46ZisorkhDf) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Never Twice](https://open.spotify.com/album/61BIEbjXo6eRjzFV3cNXFk) | 3:40 | 2021-10-01 | 2022-07-03 |
@@ -177,7 +178,7 @@
 | [Starlight](https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 5:21 | 2021-10-01 |  |
 | [Sugaree](https://open.spotify.com/track/5Ps9NQ2BDA6ezezEaKuOM0) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Day of the Dead \(album preview\)](https://open.spotify.com/album/2QxmW3XSPrBWrR1pB8j26T) | 4:59 | 2021-10-01 | 2022-07-29 |
 | [Sugaree](https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED), [Friends](https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:59 | 2022-06-01 |  |
-| [Summer Sun](https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [All My Shades Of Blue](https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ) | 3:21 | 2021-10-01 |  |
+| [Summer Sun](https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [All My Shades Of Blue](https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ) | 3:21 | 2021-10-01 | 2022-08-24 |
 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 | 2021-10-01 |  |
 | [Tell the Falling Sun](https://open.spotify.com/track/247qxelzjSgKDWINzRJ7Pf) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 4:00 | 2021-10-01 | 2022-07-28 |
 | [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 | 2022-06-01 |  |

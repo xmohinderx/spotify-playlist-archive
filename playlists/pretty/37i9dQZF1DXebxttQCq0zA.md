@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,234 likes - 240 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,489 likes - 240 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 16 | [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 |
 | 17 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 |
 | 18 | [Buscando](https://open.spotify.com/track/57MvDY3DeE9Iz7MtW7CI8n) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Buscando](https://open.spotify.com/album/5nDBzOcYoN9cvUvjsqMmCn) | 2:25 |
-| 19 | [Your Echo](https://open.spotify.com/track/6LPw6rbpwC63tQqYK2SWOW) | [Rania Lees](https://open.spotify.com/artist/6pYz2qzA7QjTB03XMd9cdJ) | [Your Echo](https://open.spotify.com/album/7Ilig6sB0IcdM5LPwhcY63) | 2:16 |
-| 20 | [Another Galaxy](https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Another Galaxy](https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl) | 2:26 |
-| 21 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 |
-| 22 | [This Now](https://open.spotify.com/track/6bcf6i4amFipG1r2ScmfHL) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [This Now](https://open.spotify.com/album/4hhWJQREZiGh7OJ0EcPFxa) | 2:09 |
-| 23 | [Simple Gestures](https://open.spotify.com/track/0mDOLrtw3BiHeGfv4J0KA2) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:58 |
+| 19 | [Miuys](https://open.spotify.com/track/6gM3YgCJV3tBzbnYG2ydge) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Miuys](https://open.spotify.com/album/1yoIxMWtpZxCUrFysAZ1Ll) | 3:00 |
+| 20 | [Your Echo](https://open.spotify.com/track/6LPw6rbpwC63tQqYK2SWOW) | [Rania Lees](https://open.spotify.com/artist/6pYz2qzA7QjTB03XMd9cdJ) | [Your Echo](https://open.spotify.com/album/7Ilig6sB0IcdM5LPwhcY63) | 2:16 |
+| 21 | [Another Galaxy](https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Another Galaxy](https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl) | 2:26 |
+| 22 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 |
+| 23 | [This Now](https://open.spotify.com/track/6bcf6i4amFipG1r2ScmfHL) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [This Now](https://open.spotify.com/album/4hhWJQREZiGh7OJ0EcPFxa) | 2:09 |
 | 24 | [Angalalluarina](https://open.spotify.com/track/7HMqoo6TbtoZLHwqkfp7Lw) | [Søren Jeremiassen](https://open.spotify.com/artist/54h5UZPx5rj7dEDGaofoaj) | [Angalalluarina](https://open.spotify.com/album/0Oi2WtaSEaPXedHjY4bbV2) | 4:00 |
 | 25 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 |
 | 26 | [Mandala](https://open.spotify.com/track/5xe5oU9NJYyUTL2THo1TPy) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Mandala](https://open.spotify.com/album/4QCv678G6eTUG92CwBuwnA) | 3:02 |
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 239 | [Fantasia Suave](https://open.spotify.com/track/1XeEpMLnB0dwTo1XAqiqbr) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:15 |
 | 240 | [Incan](https://open.spotify.com/track/5UjkShFEMrLqwajnpkzrL6) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Incan](https://open.spotify.com/album/0CmlUS7MiiPSxfP7qlmwzK) | 3:55 |
 
-Snapshot ID: `MTY2MDU4ODMyMSwwMDAwMDAwMDE2NmEzNTU4MjU0YjQyMjdiMmNkZjU1OWQ4M2Y3OTIx`
+Snapshot ID: `MTY2MTI2NzgyOSwwMDAwMDAwMDY4ODdmZTQ0NzhhOWYxODJlYmNjMWJlMTY1YTVmYzNm`

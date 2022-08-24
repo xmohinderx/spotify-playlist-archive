@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Via Vallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,601 likes - 59 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,663 likes - 59 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

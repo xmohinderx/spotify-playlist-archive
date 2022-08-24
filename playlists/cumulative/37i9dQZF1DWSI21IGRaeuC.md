@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-103 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
+105 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-06-03 |  |
 | [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 | 2022-07-19 |  |
 | [Applaud](https://open.spotify.com/track/04wE6fWx2qMQUoA6EFBG8l) | [Santé](https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE) | [Applaud](https://open.spotify.com/album/0YgUgNFFGKN2fiivbh2wmn) | 6:05 | 2022-07-22 | 2022-07-29 |
+| [Back To Me](https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Back To Me](https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU) | 3:26 | 2022-08-19 |  |
 | [Back2back \- Edit](https://open.spotify.com/track/2TQuTY3ojJAqhN9SS5J0Fs) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Back2bacK](https://open.spotify.com/album/4Oxxv1zaRCJ67XiFFoLewD) | 2:46 | 2022-06-03 | 2022-07-29 |
 | [BAD \(Böser Als Du\)](https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Secret Weapons Part 14 V/VI](https://open.spotify.com/album/7smz91AWUGFZvQs1U7gusR) | 7:07 | 2022-06-24 | 2022-08-05 |
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Bigger Than Prince](https://open.spotify.com/album/5MEqbC6zcLtZY1OFeL7nPR) | 6:35 | 2022-06-03 | 2022-08-13 |
@@ -37,7 +38,7 @@
 | [Fuck The Regs](https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Fuck The Regs EP](https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy) | 3:24 | 2022-07-29 |  |
 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 | 2022-07-22 |  |
 | [Go To Sleep](https://open.spotify.com/track/1hgRPboYDiw2HYC4BOmuGp) | [Alexander Aurel](https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF) | [Fall in Love EP](https://open.spotify.com/album/2h67Mn5VvLUWVNQnkUcTXg) | 6:25 | 2022-06-03 | 2022-06-12 |
-| [God Complex](https://open.spotify.com/track/00mSaiMr71bGUagR5GoRX1) | [E.R.N.E.S.T.O](https://open.spotify.com/artist/4qztljP89fI8SLn3GTJgqX), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Get Familiar](https://open.spotify.com/album/0aJbbIFZGntiHELBrsohJN) | 4:51 | 2022-07-15 |  |
+| [God Complex](https://open.spotify.com/track/00mSaiMr71bGUagR5GoRX1) | [E.R.N.E.S.T.O](https://open.spotify.com/artist/4qztljP89fI8SLn3GTJgqX), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Get Familiar](https://open.spotify.com/album/0aJbbIFZGntiHELBrsohJN) | 4:51 | 2022-07-15 | 2022-08-24 |
 | [Handy Work](https://open.spotify.com/track/1AXDyDxGiXpAUQb5UmTLu8) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Handy Work](https://open.spotify.com/album/2G67wbm29gUteqjfqEFxhL) | 6:11 | 2022-06-03 | 2022-06-11 |
 | [Hate Me Now](https://open.spotify.com/track/55HPPAg1jdeeP4Cffppm5A) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Hate Me Now](https://open.spotify.com/album/4B3DYsWhpBCEh1zxFkPVp4) | 6:12 | 2022-07-15 |  |
 | [Heart Of Jazz](https://open.spotify.com/track/1BbKe9iPRe5ZNFKdhzv82N) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Heart Of Jazz](https://open.spotify.com/album/70DEmkfKbQq971gDSdXo3r) | 6:00 | 2022-07-08 | 2022-07-26 |
@@ -82,7 +83,7 @@
 | [Rock Your Body](https://open.spotify.com/track/5EUwuAkfYwO25Yq9lJWjQO) | [Scarda](https://open.spotify.com/artist/0IDb0RLWCibAJ6hV7By04g) | [Rock Your Body](https://open.spotify.com/album/1l0T2RCpVpDhfJV5jRbdpQ) | 6:57 | 2022-07-08 | 2022-07-26 |
 | [Rok The House](https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Rok The House](https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1) | 4:15 | 2022-06-03 | 2022-08-15 |
 | [Roll Play](https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Roll Play](https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s) | 3:23 | 2022-06-03 |  |
-| [Roxy's Sweat \- Original Mix](https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Roxy's Sweat EP](https://open.spotify.com/album/3s740hEDYRuSEjwnuw385t) | 5:07 | 2022-07-01 |  |
+| [Roxy's Sweat \- Original Mix](https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Roxy's Sweat EP](https://open.spotify.com/album/3s740hEDYRuSEjwnuw385t) | 5:07 | 2022-07-01 | 2022-08-24 |
 | [Rudeboi](https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:01 | 2022-06-24 |  |
 | [Samba Drone \- Paco Osuna Remix](https://open.spotify.com/track/69pq8Gkwg6IeqfyhbgqESi) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3) | [Samba Drone](https://open.spotify.com/album/6YXJp70sOxhBtGJ1xjZ0xa) | 7:10 | 2022-07-15 |  |
 | [Sativa Jazz \- Detlef Remix](https://open.spotify.com/track/1EZcxkIogFFysvmyxSOZDI) | [Abana](https://open.spotify.com/artist/50IriuukwhBFpJS9WOk2a1), [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Sativa Jazz \(Detlef Remix\)](https://open.spotify.com/album/1qfo60yjGAwfXQ9CUK1uz2) | 6:02 | 2022-08-12 |  |
@@ -96,6 +97,7 @@
 | [Summer Of Love](https://open.spotify.com/track/0HMWBMDhQiMcuBH8PQmZqq) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Summer Of Love](https://open.spotify.com/album/7duYShW24ZnlYT08ovEadQ) | 5:41 | 2022-06-17 | 2022-07-29 |
 | [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-10 |  |
 | [Take Me Back](https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Take Me Back](https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq) | 3:17 | 2022-06-17 |  |
+| [Take My Hand](https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Take My Hand](https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj) | 5:17 | 2022-08-19 |  |
 | [Testimony](https://open.spotify.com/track/702TT2q83VQlC75h807I1J) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Testimony](https://open.spotify.com/album/000z99zZbT9Gfabqyw1THb) | 6:41 | 2022-06-03 | 2022-07-29 |
 | [That's Right](https://open.spotify.com/track/4DQQw8ILU9DUpkXhfVJYtQ) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [That's Right / The Maze](https://open.spotify.com/album/4Ea6xrbMghxpsECU18mqBS) | 5:58 | 2022-06-03 | 2022-07-28 |
 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 3:48 | 2022-06-24 |  |

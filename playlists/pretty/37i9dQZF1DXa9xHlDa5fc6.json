@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites.",
-  "num_followers": 414781,
+  "num_followers": 414865,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc3MDc1MSwwMDAwMDAwMDdiOGZiOTAwYjE4Y2IzNTU0OTU3ZGIyNWQ4NWFlY2U0",
+  "snapshot_id": "MTY2MDc3MDc1MSwwMDAwMDAwMGE5Mjc3NGQ5NWFmNDY1MDNhZTk3OTQyYTMwZmE5ODc4",
   "tracks": [
     {
       "added_at": "2022-08-17 21:12:30",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Desert Snow",
-        "url": "https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Desert Snow",
-      "url": "https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Puffer",
         "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 152998,
       "name": "Puffer",
       "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Desert Snow",
+        "url": "https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Desert Snow",
+      "url": "https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 262346,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
         "name": "Falling In",
         "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 289165,
       "name": "Spinning the Truth Around",
       "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 262346,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
       "artists": [
         {
@@ -1052,25 +1052,9 @@
           "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 248399,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
-        "name": "Stars Are on Your Side",
-        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
-      },
-      "artists": [
-        {
-          "name": "Ross Copperman",
-          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "Stars Are on Your Side",
-      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
+      "duration_ms": 232360,
+      "name": "Graveyard Whistling",
+      "url": "https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1087,6 +1071,22 @@
       "duration_ms": 218760,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Stars Are on Your Side",
+        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "Stars Are on Your Side",
+      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 232360,
-      "name": "Graveyard Whistling",
-      "url": "https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0"
+      "duration_ms": 248399,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
+        "name": "Love Gloom",
+        "url": "https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt"
+      },
+      "artists": [
+        {
+          "name": "Night Riots",
+          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
+        }
+      ],
+      "duration_ms": 235334,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
-        "name": "Love Gloom",
-        "url": "https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt"
-      },
-      "artists": [
-        {
-          "name": "Night Riots",
-          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
-        }
-      ],
-      "duration_ms": 235334,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Smoke",
-        "url": "https://open.spotify.com/album/4QhthLfnfq02ux4FPpcALI"
-      },
-      "artists": [
-        {
-          "name": "Mosa Wild",
-          "url": "https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc"
-        }
-      ],
-      "duration_ms": 227121,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/7HkD4vJjuVbCyL9dxaGmmd"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Friends I Barely Know",
         "url": "https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 179946,
       "name": "Friends I Barely Know",
       "url": "https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/4QhthLfnfq02ux4FPpcALI"
+      },
+      "artists": [
+        {
+          "name": "Mosa Wild",
+          "url": "https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc"
+        }
+      ],
+      "duration_ms": 227121,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/7HkD4vJjuVbCyL9dxaGmmd"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "I Remember Way Too Much (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 222540,
-      "name": "I Remember Way Too Much - Acoustic Version",
-      "url": "https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Age Of Everything",
         "url": "https://open.spotify.com/album/6UgPtnHxknhli434khaImD"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 204120,
       "name": "Dead Century",
       "url": "https://open.spotify.com/track/1PBe6S0vnjl6patUrlKeAP"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "I Remember Way Too Much (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 222540,
+      "name": "I Remember Way Too Much - Acoustic Version",
+      "url": "https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Here's To Moving On",
-        "url": "https://open.spotify.com/album/10JjmdD5wrOGh3Apj0osje"
+        "name": "Method to the Madness",
+        "url": "https://open.spotify.com/album/2BfgmQ3MxlmFV0lIYCTf4Q"
       },
       "artists": [
         {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 257040,
-      "name": "Here's To Moving On",
-      "url": "https://open.spotify.com/track/5CR0GYilasGkYkXUqCQNEr"
+      "duration_ms": 273671,
+      "name": "Method to the Madness",
+      "url": "https://open.spotify.com/track/5ICD9s4DNvkv7vgDZIc0TZ"
     }
   ],
   "unique_name": "License To Chill",

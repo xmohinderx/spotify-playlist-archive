@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,342 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,340 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 22 | [Western Stars](https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 4:38 |
 | 23 | [Until The Hurting Is Gone](https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:17 |
 | 24 | [Let Me Know](https://open.spotify.com/track/0HT2pC2Wcl2GGyDTcCWpLU) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [CLOSURE](https://open.spotify.com/album/6ujQJTTGKCCPdFjeTI4bIh) | 2:56 |
-| 25 | [Run Away from It All \- Acoustic](https://open.spotify.com/track/7MOTCiY8t7HHBwaBb2CafC) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Run Away from It All \(Acoustic\)](https://open.spotify.com/album/67YBhDZbe4OOZNwMdXGT4e) | 4:27 |
-| 26 | [Ahimsa](https://open.spotify.com/track/588dEScku8LSP1Ubp2wyaG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ahimsa](https://open.spotify.com/album/7N2UQW7AWRh40cWqlB7JvL) | 3:50 |
+| 25 | [Ahimsa](https://open.spotify.com/track/588dEScku8LSP1Ubp2wyaG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ahimsa](https://open.spotify.com/album/7N2UQW7AWRh40cWqlB7JvL) | 3:50 |
+| 26 | [Run Away from It All \- Acoustic](https://open.spotify.com/track/7MOTCiY8t7HHBwaBb2CafC) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Run Away from It All \(Acoustic\)](https://open.spotify.com/album/67YBhDZbe4OOZNwMdXGT4e) | 4:27 |
 | 27 | [Blind Leading the Blind](https://open.spotify.com/track/0rxQm3nLcecMGkpqDTH77K) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading the Blind](https://open.spotify.com/album/07axYwrFUra9cfBF0pNZ8X) | 3:44 |
 | 28 | [Tomorrow](https://open.spotify.com/track/7I9BiCs8uTFfGkj02W1gxZ) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [My Name Is Michael Holbrook](https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc) | 3:49 |
 | 29 | [Everybody's Someone \(with Olivia Newton\-John\)](https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Rise Up](https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o) | 3:45 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 51 | [Fuck The Rain](https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ) | 3:33 |
 | 52 | [If You See Her, Say Hello \- Take 1](https://open.spotify.com/track/6cLewsHaYRcexjUMJapSdR) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [More Blood, More Tracks: The Bootleg Series, Vol\. 14 \(Sampler\)](https://open.spotify.com/album/5faKzawYFUfk3IRRe6ERXl) | 3:57 |
 | 53 | [Four Leaf Clover \- Edit](https://open.spotify.com/track/7aq4RmtNftNpqUaeoZb5ao) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Four Leaf Clover \(Edit\)](https://open.spotify.com/album/1oCxUmpYZvKbka1mENWf4C) | 3:11 |
-| 54 | [Story Of Everything](https://open.spotify.com/track/6exGzQG7704sf82TorgroD) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Chuck D](https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 6:22 |
-| 55 | [Another One Down](https://open.spotify.com/track/5YPyp1Xshf0JpoAQ7iagns) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Another One Down](https://open.spotify.com/album/7amoi3AjgTtQqybl8VsAvI) | 3:12 |
+| 54 | [Another One Down](https://open.spotify.com/track/5YPyp1Xshf0JpoAQ7iagns) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Another One Down](https://open.spotify.com/album/7amoi3AjgTtQqybl8VsAvI) | 3:12 |
+| 55 | [Story Of Everything](https://open.spotify.com/track/6exGzQG7704sf82TorgroD) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Chuck D](https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 6:22 |
 | 56 | [One Man's Ceiling Is Another Man's Floor](https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [In the Blue Light](https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY) | 4:00 |
 | 57 | [Fuh You](https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Fuh You](https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U) | 3:23 |
 | 58 | [Remember to Breathe](https://open.spotify.com/track/3WopNrzzNTuCr0QXVRhWUQ) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Streets of You](https://open.spotify.com/album/55TITZzyt9c9nDAljqL1l0) | 3:13 |
 | 59 | [Amazing](https://open.spotify.com/track/0JahrDBriRtoaO473f00rk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [These Days](https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6) | 4:01 |
 | 60 | [Every One of Us](https://open.spotify.com/track/5b6zAh5CNRv6dN5JrMNtmk) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Every One of Us](https://open.spotify.com/album/4hlmMOWqxno6iFYi54UKYN) | 3:06 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMGRmOGNjY2U5NGZkMWI5OWVjOTRjMzkyZGY0YzcyZjc1`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDlhNDJjOTgxN2UyYjJmNmMwMDhjOGVlNDUyYWQ5NzU3`

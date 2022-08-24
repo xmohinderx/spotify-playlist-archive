@@ -2,9 +2,9 @@
 
 ### [Mollywood Gold](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
 
-> An exclusive collection of Malayalam super hit songs.<br/>Cover: Aarattu
+> An exclusive collection of Malayalam super hit songs.<br/>Cover: Kaduva
 
-75 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/10m0BYH7vx3vQP94cQIjSm)
+76 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/10m0BYH7vx3vQP94cQIjSm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Raftaara \- From "Lucifer"](https://open.spotify.com/track/4BnwmUfcnypLs5EGGCljIR) | [Deepak Dev](https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3), [Jyotsna Radhakrishnan](https://open.spotify.com/artist/4PGsgCRwejakZOHdf36Xum) | [Raftaara \(From "Lucifer"\)](https://open.spotify.com/album/6DyWpQpggHBivSY6Ya5kmG) | 6:16 | 2022-05-17 |  |
 | [Thalayude Vilayattu \(Theme Song\) \(From "Aaraattu"\)](https://open.spotify.com/track/6e2AfDMyrTQ8noB8qovVhl) | [Rahul Raj](https://open.spotify.com/artist/0MwKUn6Qzq43hK5EbvOLw4), [M\. G\. Sreekumar](https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Thalayude Vilayattu \(Theme Song\) \(From "Aaraattu"\)](https://open.spotify.com/album/1SGbPtLfrUV4nn44noZCsK) | 4:14 | 2022-05-17 |  |
 | [Thallumaala Paattu](https://open.spotify.com/track/1JGdOSXhyXpAu7xUpoygxW) | [Hrithik Jayakish](https://open.spotify.com/artist/1uyEDo5vVeOUdz0xbLBKb4), [Neha Girish](https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv), [Eshaan Sanil](https://open.spotify.com/artist/1zdLDvuJcKyCtgrPAKwEIQ), [Thejas Krishna](https://open.spotify.com/artist/485YsYvNnyDA6LZOq4BGA2), [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p) | [Thallumaala Paattu \(From "Thallumaala"\)](https://open.spotify.com/album/2SJjygAl0nTOitVhhBmhNn) | 3:03 | 2022-08-10 |  |
+| [Thallumaala Paattu \- From "Thallumaala"](https://open.spotify.com/track/3iH9MTX6mSGgSNlw9Q2T6t) | [Hrithik Jayakish](https://open.spotify.com/artist/1uyEDo5vVeOUdz0xbLBKb4), [Neha Girish](https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv), [Eshaan Sanil](https://open.spotify.com/artist/1zdLDvuJcKyCtgrPAKwEIQ), [Thejas Krishna](https://open.spotify.com/artist/485YsYvNnyDA6LZOq4BGA2), [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p) | [Thallumaala](https://open.spotify.com/album/09coDJ0hDNRUkN3qJnGfIy) | 3:03 | 2022-08-23 |  |
 | [Thee Minnal](https://open.spotify.com/track/0MazZtniHdlLigR01rpKEI) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Minnal Murali](https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x) | 2:12 | 2022-05-17 |  |
 | [Theerame](https://open.spotify.com/track/3UHB6erVvDNX0OaqX3ncO3) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Malik \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nEDUHDqYhwz2OqBzCIHZV) | 4:23 | 2022-05-17 |  |
 | [Uyire](https://open.spotify.com/track/60N3SoK4oWcF0jLU27CRBf) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV) | [Gauthamante Radham](https://open.spotify.com/album/4zWNhzZELsqulV8Y2aSZeq) | 3:19 | 2022-05-17 |  |

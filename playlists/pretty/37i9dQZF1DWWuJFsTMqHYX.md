@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,505 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,692 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 17 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 |
 | 18 | [Fadma](https://open.spotify.com/track/7MAA4bp5bTd3bO5m2uJea7) | [TASUTA N\-IMAL](https://open.spotify.com/artist/5FTU4No8pkcpeybO0CeVXz) | [Fadma](https://open.spotify.com/album/0Z9wLDw2m6M5EvfTpdCWQp) | 4:09 |
 | 19 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 |
-| 20 | [Tadieu Bone](https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw) | 4:23 |
+| 20 | [Ligh Ezzaman](https://open.spotify.com/track/6mt39wFHY6nUuK669HlIa6) | [Tikoubaouine](https://open.spotify.com/artist/17xaWJCjB31SyiRaZwru3n) | [Dirhane](https://open.spotify.com/album/6gGE5VKnj8K6hMR7Xx3muA) | 5:01 |
 | 21 | [Tarha Tadagh](https://open.spotify.com/track/2LQwuRI1h4Q4qk4HzK9zE2) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 3:06 |
-| 22 | [Ligh Ezzaman](https://open.spotify.com/track/6mt39wFHY6nUuK669HlIa6) | [Tikoubaouine](https://open.spotify.com/artist/17xaWJCjB31SyiRaZwru3n) | [Dirhane](https://open.spotify.com/album/6gGE5VKnj8K6hMR7Xx3muA) | 5:01 |
+| 22 | [Tadieu Bone](https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw) | 4:23 |
 | 23 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
 | 24 | [Il n'est jamais trop tard](https://open.spotify.com/track/2YEs2mLzFu8RcdAHFQghhv) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 4:30 |
 | 25 | [Rachid Ouiguini](https://open.spotify.com/track/6py8BqF0Lk1P8YoXXTRw5P) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Penda Djiga](https://open.spotify.com/track/0ra3K6wNCFVYTu2AFsmiR7) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Penda Djiga](https://open.spotify.com/album/4eIINnCLgKF5hUcXyk0dIE) | 4:32 |
 | 50 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
 
-Snapshot ID: `MTY1MzUwNjc1MywwMDAwMDAwMDk1NmFiMDY3OTU1NTU0OWY5NjAxY2M3YTlhNDkzZDA2`
+Snapshot ID: `MTY1MzUwNjc1MywwMDAwMDAwMGExN2ZhMmM1YzI5NTk1NGFjM2NhMzBlMzMzNzNhNWI2`

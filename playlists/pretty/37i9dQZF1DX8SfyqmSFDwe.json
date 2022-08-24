@@ -1,12 +1,12 @@
 {
   "description": "The movement\u2019s roots. Los cl\u00e1sicos del Reggaeton. Cover: Nicky Jam",
-  "num_followers": 2613522,
+  "num_followers": 2614423,
   "original_name": "Reggaeton Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzc3MiwwMDAwMDAwMDdkNjdmMzVlODY5Y2M2ZGIyNTM3NzVmZDFmMGIyNjI4",
+  "snapshot_id": "MTY1OTcxNzc3MiwwMDAwMDAwMDZhMTYzY2YyYTVmMTUwN2RiZTY3N2Q5ODY4ZjAzZGFh",
   "tracks": [
     {
       "added_at": "2022-08-05 16:42:52",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Igual Que Ayer",
-      "url": "https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
         "name": "Esc\u00e1pate Conmigo (Remix)",
         "url": "https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Igual Que Ayer",
+      "url": "https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
       },
@@ -1159,42 +1159,6 @@
       "duration_ms": 195573,
       "name": "5 Letras",
       "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "YO LE LLEGO",
-      "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -1219,6 +1183,42 @@
       "duration_ms": 240200,
       "name": "Quizas - Remix",
       "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "YO LE LLEGO",
+      "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Tego Calderon",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 156560,
-      "name": "M\u00edrala Bien",
-      "url": "https://open.spotify.com/track/04uA3BJ1Rj8DBKkpKCABJx"
+      "duration_ms": 252693,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
       },
       "artists": [
         {
-          "name": "Tego Calderon",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 252693,
-      "name": "Dominicana",
-      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
+      "duration_ms": 156560,
+      "name": "M\u00edrala Bien",
+      "url": "https://open.spotify.com/track/04uA3BJ1Rj8DBKkpKCABJx"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
-        "name": "M.I.A.M.I.",
-        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
+        "name": "La Historia De El D\u00fao (Vol.1)",
+        "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
+      "duration_ms": 227280,
+      "name": "Pam Pam",
+      "url": "https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -1463,18 +1459,22 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
-        "name": "La Historia De El D\u00fao (Vol.1)",
-        "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
+        "name": "M.I.A.M.I.",
+        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 227280,
-      "name": "Pam Pam",
-      "url": "https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n"
+      "duration_ms": 219080,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
     },
     {
       "added_at": "2022-08-05 16:42:52",

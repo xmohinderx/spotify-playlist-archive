@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 39021,
+  "num_followers": 39039,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMGNkMzhlZDU4NzQxNjFkZWM4ODA3MTYzNGI5MDBhYzk2",
+  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDc1ODM5OTQ1N2YzNDdlOTQ0NjMxZTBlMzJhZTZiZTY2",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        }
+      ],
+      "duration_ms": 281379,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/38qsNzezB0gCCk8N74lPJV"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 249655,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/29SdwNBM9Veq6dM04W2JKN"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        }
-      ],
-      "duration_ms": 281379,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs"
     },
     {
       "added_at": "2022-08-12 16:34:51",

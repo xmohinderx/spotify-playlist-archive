@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-178 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
+179 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Black Punk](https://open.spotify.com/track/00mQ7YTqP92vZU4jW4Zdxh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Black Punk](https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX) | 2:30 | 2022-06-16 | 2022-07-01 |
 | [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 | 2022-06-02 | 2022-06-17 |
 | [Breakaway](https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:43 | 2022-06-08 | 2022-07-08 |
+| [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2022-08-23 |  |
 | [Broken](https://open.spotify.com/track/3tnKdIkmqLiL9UKxxqjM8C) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Broken](https://open.spotify.com/album/1ADbmheBGdOcaAIF44h4Yu) | 3:10 | 2022-05-19 | 2022-06-10 |
 | [Cage](https://open.spotify.com/track/5PRqhBkoni3TrJSUqpnyKa) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Cage](https://open.spotify.com/album/7uRq2XCxf2m2tVEexsSCyJ) | 2:48 | 2022-08-18 |  |
 | [Charcoal](https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [TAN](https://open.spotify.com/album/5CaUwC3aR3rdy325CtWPLH) | 5:14 | 2022-05-06 |  |

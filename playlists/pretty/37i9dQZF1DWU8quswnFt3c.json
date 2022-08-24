@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Nazia Hassan",
-  "num_followers": 843094,
+  "num_followers": 843036,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUyNjk4MSwwMDAwMDAwMDM2MGVmNTI3NzJlZDljYjRjMGFlYWRiY2ZmY2MzNmE0",
+  "snapshot_id": "MTY1OTUyNjk4MSwwMDAwMDAwMGIzMTNlNTkwMmExYTIzNmZlZGYyMmVjM2I5MDg5OGYx",
   "tracks": [
     {
       "added_at": "2022-08-03 04:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/71731qzxZ81ePINkeiylQG"
+      },
+      "artists": [
+        {
+          "name": "Jada",
+          "url": "https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB"
+        }
+      ],
+      "duration_ms": 213319,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/07dQsW9w1DgUFPtcBx14BP"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
         "name": "1 C\u1ecdng T\u00f3c Mai",
         "url": "https://open.spotify.com/album/2xDiBqg4K8nxhYDsi4Aes5"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 197052,
       "name": "1 C\u1ecdng T\u00f3c Mai",
       "url": "https://open.spotify.com/track/5i17rzCuZfYVzoP441PXGu"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/71731qzxZ81ePINkeiylQG"
-      },
-      "artists": [
-        {
-          "name": "Jada",
-          "url": "https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB"
-        }
-      ],
-      "duration_ms": 213319,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/07dQsW9w1DgUFPtcBx14BP"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "\u0627\u0644\u0648\u0631\u062f\u0629 \u0627\u0644\u0628\u064a\u0636\u0627",
-        "url": "https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO"
-      },
-      "artists": [
-        {
-          "name": "Zena Emad",
-          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
-        }
-      ],
-      "duration_ms": 237418,
-      "name": "\u0627\u0644\u0648\u0631\u062f\u0629 \u0627\u0644\u0628\u064a\u0636\u0627",
-      "url": "https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Eh Para a Frente, Eh Para tr\u00e1s",
         "url": "https://open.spotify.com/album/3srSDFJhgwBetFxmT1nvgM"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 211591,
       "name": "Eh Para a Frente, Eh Para tr\u00e1s",
       "url": "https://open.spotify.com/track/3elqH6YbzTGQtlYdlmIbZC"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "\u0627\u0644\u0648\u0631\u062f\u0629 \u0627\u0644\u0628\u064a\u0636\u0627",
+        "url": "https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO"
+      },
+      "artists": [
+        {
+          "name": "Zena Emad",
+          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+        }
+      ],
+      "duration_ms": 237418,
+      "name": "\u0627\u0644\u0648\u0631\u062f\u0629 \u0627\u0644\u0628\u064a\u0636\u0627",
+      "url": "https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
+        "name": "\u0633\u0645 \u0641\u0627\u0644\u0643\u0627\u0646\u062f\u064a",
+        "url": "https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX"
+      },
+      "artists": [
+        {
+          "name": "Almas",
+          "url": "https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0"
+        }
+      ],
+      "duration_ms": 147049,
+      "name": "\u0633\u0645 \u0641\u0627\u0644\u0643\u0627\u0646\u062f\u064a",
+      "url": "https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
         "name": "Call Mi",
         "url": "https://open.spotify.com/album/0tbVf3hH9dl7nH7ExGKrAA"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 195000,
       "name": "Call Mi",
       "url": "https://open.spotify.com/track/2nYYjc3qevJl4pd1XXVhcg"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "\u0633\u0645 \u0641\u0627\u0644\u0643\u0627\u0646\u062f\u064a",
-        "url": "https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX"
-      },
-      "artists": [
-        {
-          "name": "Almas",
-          "url": "https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0"
-        }
-      ],
-      "duration_ms": 147049,
-      "name": "\u0633\u0645 \u0641\u0627\u0644\u0643\u0627\u0646\u062f\u064a",
-      "url": "https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Girl From A Movie",
-        "url": "https://open.spotify.com/album/6t5K3cKJCLqT6OTj5dhLO8"
-      },
-      "artists": [
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        }
-      ],
-      "duration_ms": 256437,
-      "name": "Girl From A Movie",
-      "url": "https://open.spotify.com/track/4JaEvhhoQmAHSGwRWzKNrD"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/0D8HrT2FaWgG6PBLxT6amn"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 226933,
       "name": "Binary",
       "url": "https://open.spotify.com/track/3gUUMVRtNe9hxD2JzJ6J4v"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Girl From A Movie",
+        "url": "https://open.spotify.com/album/6t5K3cKJCLqT6OTj5dhLO8"
+      },
+      "artists": [
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 256437,
+      "name": "Girl From A Movie",
+      "url": "https://open.spotify.com/track/4JaEvhhoQmAHSGwRWzKNrD"
     },
     {
       "added_at": "2022-08-03 04:00:00",

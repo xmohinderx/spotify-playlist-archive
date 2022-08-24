@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18574,
+  "num_followers": 18572,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5NjgxMiwwMDAwMDAwMDdjNTAzYzdkNmFjZTMzOTc2MDk1ZTc4NTZhODI5ZmQy",
+  "snapshot_id": "MTY1OTQ5NjgxMiwwMDAwMDAwMDY1NWJmZmQzYzRhNzQ5ZDM1NjZjM2NhZWI3MDM0YzMz",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -779,18 +779,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+        "name": "Beautiful You",
+        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
         }
       ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+      "duration_ms": 283200,
+      "name": "Dwellberry",
+      "url": "https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -811,34 +811,38 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Beautiful You",
-        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
       "artists": [
         {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 283200,
-      "name": "Dwellberry",
-      "url": "https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG"
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Jardin au fou",
-        "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
+        "name": "Mixing Colours",
+        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
       "artists": [
         {
-          "name": "Roedelius",
-          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 268400,
-      "name": "Le jardin",
-      "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
+      "duration_ms": 262920,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
     }
   ],
   "unique_name": "Morning First Light",

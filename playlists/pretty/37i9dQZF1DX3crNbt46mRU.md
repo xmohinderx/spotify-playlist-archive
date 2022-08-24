@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Aitch
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,004 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,005 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 6 | [Spla](https://open.spotify.com/track/6WucieMjmj7sIBqKkkg5IL) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [Spla](https://open.spotify.com/album/2Sn47yK9Ud2cG0effGcedW) | 2:36 |
 | 7 | [Make You Say](https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Make You Say](https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2) | 3:26 |
 | 8 | [Boum Boum](https://open.spotify.com/track/2XstsXzqwfc2jQ4E4n6uQr) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Boum Boum](https://open.spotify.com/album/1q509IKPQ6HBnzlCopgkCS) | 2:40 |
-| 9 | [I Hate You, I Love You](https://open.spotify.com/track/3afGvPVtN7lML561w6VoNi) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [I Hate You, I Love You](https://open.spotify.com/album/7n6E0xqw6Jz1dePWua4m0f) | 2:22 |
+| 9 | [I Hate You, I Love You](https://open.spotify.com/track/18RK0e1rjXAF7sPE8h3IBn) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [I Hate You, I Love You](https://open.spotify.com/album/7lKYxMi5eKpAtoEHDfBwEj) | 2:22 |
 | 10 | [Weekend On A Tuesday](https://open.spotify.com/track/2vluroRO5pYzzeMwUxpXkq) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [Weekend On A Tuesday](https://open.spotify.com/album/5BMHBdGc7YOLKruY8C4Sl0) | 2:19 |
 | 11 | [Lobby](https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Lobby](https://open.spotify.com/album/5gmkGLh7wtVd7LQat5sWbu) | 2:37 |
 | 12 | [Mami Freestyle](https://open.spotify.com/track/0xdTwXMHYli9KaAvGtw9fA) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [Mami Freestyle](https://open.spotify.com/album/5ChgMD1RdTdXZjB664PwXU) | 2:20 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 101 | [Der Sommer](https://open.spotify.com/track/2Nx444lC4zPFr54h4FVHrx) | [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr), [Palast Orchester](https://open.spotify.com/artist/4hpBGJOuoxk3ePwhtlrkWh), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg) | [Der Sommer](https://open.spotify.com/album/0XQg7cECw9VUCMPDXC6Mtp) | 2:35 |
 | 102 | [Ich habe keine Angst davor, dass die Welt sich weiterdreht](https://open.spotify.com/track/1U3oLZlWvYmN4grKaP96PZ) | [Frida Gold](https://open.spotify.com/artist/1Q229kIsASlkUb3VBeQmIL) | [Ich habe keine Angst davor, dass die Welt sich weiterdreht](https://open.spotify.com/album/1fQdWPlzIJBXT6D1JVIxY3) | 5:15 |
 
-Snapshot ID: `MTY2MDg4ODc5NiwwMDAwMDAwMGFjYmVmOTcxZmQ1OTU2NTgzZDhiMTY3N2YzYjRkZjU4`
+Snapshot ID: `MTY2MDg4ODc5NiwwMDAwMDAwMDk4YmFlNWUzNThkMTE3OTUxMjJjNzlmZmNmMDFhNDM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,557 likes - 60 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,588 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 33 | [Make Money](https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Make Money](https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH) | 3:17 |
 | 34 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 |
 | 35 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
-| 36 | [Bongo Jam \- Club Mix](https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Bongo Jam](https://open.spotify.com/album/6xWb3uW2YtedtmnBWYKUMN) | 7:41 |
-| 37 | [WYWD \- Remix](https://open.spotify.com/track/4hFi1gI6EUBHoi9FjtvCKN) | [Girl Unit](https://open.spotify.com/artist/3Jq7bBEptoqWjGQwrkLTWp), [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [WYWD \(Remix\)](https://open.spotify.com/album/59jfLC0bogTno4bbYdyLgR) | 3:30 |
+| 36 | [WYWD \- Remix](https://open.spotify.com/track/4hFi1gI6EUBHoi9FjtvCKN) | [Girl Unit](https://open.spotify.com/artist/3Jq7bBEptoqWjGQwrkLTWp), [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [WYWD \(Remix\)](https://open.spotify.com/album/59jfLC0bogTno4bbYdyLgR) | 3:30 |
+| 37 | [Bongo Jam \- Club Mix](https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Bongo Jam](https://open.spotify.com/album/6xWb3uW2YtedtmnBWYKUMN) | 7:41 |
 | 38 | [Bayeke \- Prace Remix](https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Prace](https://open.spotify.com/artist/2K5oIzqUzZKO738h7GT3iv) | [Bayeke \(Prace Remix\)](https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP) | 5:54 |
 | 39 | [Stuck On You](https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5) | [PEDRO](https://open.spotify.com/artist/0itKTaTB3xwSl5Na3TdXM5), [Bryte](https://open.spotify.com/artist/3l3kDKYrIrWoPDA5R0VWEO) | [Da Linha](https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh) | 2:50 |
 | 40 | [My Circle \- Remix](https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp), [Cadet](https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [My Circle \(Remix\)](https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS) | 4:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 59 | [Lush \- Fuzzy Logik Remix](https://open.spotify.com/track/70sPvzZcGOYK0CnxzYrGC7) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Fuzzy Logik](https://open.spotify.com/artist/4piotdMysykYFW82NqRaLy) | [Lush](https://open.spotify.com/album/3ECz7PCncaV9aWNA9XVWVv) | 4:44 |
 | 60 | [Funky Flex vs Pulse](https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Funky Flex vs Pulse](https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf) | 6:01 |
 
-Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMDdkODI2ZDIzYjljZTZiMzJmZjVjOWYxZWQ5ZTk1YjEz`
+Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMGI3ODY2ZDlkMDZhZmIzMDYwZTkzN2Q0NTAwZjY3NmEw`

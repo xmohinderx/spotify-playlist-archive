@@ -1,12 +1,12 @@
 {
   "description": "Rave season is upon us. Cover: Jeremy Olander",
-  "num_followers": 9506,
+  "num_followers": 9565,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkxMjg1NywwMDAwMDAwMDc0NDdlYWEwZmQyOGQyM2JlNzQ4YjZiN2E1MjllMjI4",
+  "snapshot_id": "MTY2MDkxMjg1NywwMDAwMDAwMDdjODQ4ZDdkZTEwNjMwMzViNGY1YWQ5ODg3N2VhZjMx",
   "tracks": [
     {
       "added_at": "2022-08-18 22:01:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "Banho de Folhas (Maz Remix)",
+        "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Banho de Folhas - Maz Remix",
+      "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Touch (feat. Rromarin)",
         "url": "https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 369461,
       "name": "Linked",
       "url": "https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Banho de Folhas (Maz Remix)",
-        "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Maz (BR)",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Banho de Folhas - Maz Remix",
-      "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Alive (Remixes)",
-        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
+        "name": "Surrender (Remixes)",
+        "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
       },
       "artists": [
         {
@@ -1164,13 +1164,13 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         },
         {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
         }
       ],
-      "duration_ms": 534954,
-      "name": "Alive - Solomun Remix",
-      "url": "https://open.spotify.com/track/41QaOln9qjWg6dTENPmujr"
+      "duration_ms": 462978,
+      "name": "Wildfire - Colyn Remix",
+      "url": "https://open.spotify.com/track/6l4DAumg138A324aTQfXUi"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Lost Island",
-        "url": "https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 273844,
-      "name": "Lost Island",
-      "url": "https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf"
       },
@@ -1263,22 +1247,18 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Don't Hold Back (Yotto Remix)",
-        "url": "https://open.spotify.com/album/5My0fkE62bGdDTe0IXMYC4"
+        "name": "Lost Island",
+        "url": "https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         }
       ],
-      "duration_ms": 356097,
-      "name": "Don't Hold Back - Yotto Remix",
-      "url": "https://open.spotify.com/track/63ebHHCzHnakkKlDdQxb7Q"
+      "duration_ms": 273844,
+      "name": "Lost Island",
+      "url": "https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1295,6 +1275,26 @@
       "duration_ms": 267750,
       "name": "On Call",
       "url": "https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Don't Hold Back (Yotto Remix)",
+        "url": "https://open.spotify.com/album/5My0fkE62bGdDTe0IXMYC4"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 356097,
+      "name": "Don't Hold Back - Yotto Remix",
+      "url": "https://open.spotify.com/track/63ebHHCzHnakkKlDdQxb7Q"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1331,8 +1331,8 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Surrender (Remixes)",
-        "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
+        "name": "Alive (Remixes)",
+        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
       },
       "artists": [
         {
@@ -1340,13 +1340,13 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         },
         {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         }
       ],
-      "duration_ms": 462978,
-      "name": "Wildfire - Colyn Remix",
-      "url": "https://open.spotify.com/track/6l4DAumg138A324aTQfXUi"
+      "duration_ms": 534954,
+      "name": "Alive - Solomun Remix",
+      "url": "https://open.spotify.com/track/41QaOln9qjWg6dTENPmujr"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1471,6 +1471,42 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "Sumatra",
+        "url": "https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2"
+      },
+      "artists": [
+        {
+          "name": "Bonsaye",
+          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
+        }
+      ],
+      "duration_ms": 197047,
+      "name": "Sumatra",
+      "url": "https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "FUN (yun\u00e8 pinku Remix)",
+        "url": "https://open.spotify.com/album/69fs5PB0bHIQ8UTUzUWpWo"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 171477,
+      "name": "FUN - yun\u00e8 pinku Remix",
+      "url": "https://open.spotify.com/track/7dUL7g3m05OdcGLcs3V0uS"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Ah Oh Uh",
         "url": "https://open.spotify.com/album/5PyaZzom3Pfl2jNZZOh8Q0"
       },
@@ -1509,26 +1545,6 @@
       "url": "https://open.spotify.com/track/1vpOY0slxNwm6EO7ykjsfZ"
     },
     {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/0dLuDCa81WZsmU68WQbYUx"
-      },
-      "artists": [
-        {
-          "name": "Glimji",
-          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
-        },
-        {
-          "name": "jamesjamesjames",
-          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
-        }
-      ],
-      "duration_ms": 216848,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1gwAzMEi7n9fovhhHwZ1MW"
-    },
-    {
       "added_at": "2022-08-19 12:40:57",
       "album": {
         "name": "In Mindibu",
@@ -1563,18 +1579,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Sumatra",
-        "url": "https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2"
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/0dLuDCa81WZsmU68WQbYUx"
       },
       "artists": [
         {
-          "name": "Bonsaye",
-          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
         }
       ],
-      "duration_ms": 197047,
-      "name": "Sumatra",
-      "url": "https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3"
+      "duration_ms": 216848,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1gwAzMEi7n9fovhhHwZ1MW"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1631,22 +1651,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "FUN (yun\u00e8 pinku Remix)",
-        "url": "https://open.spotify.com/album/69fs5PB0bHIQ8UTUzUWpWo"
+        "name": "White Rooms",
+        "url": "https://open.spotify.com/album/7kmGbHAj62nkW4eBO0gz77"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
         },
         {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+          "name": "Teologen",
+          "url": "https://open.spotify.com/artist/4M1LcFlXnn95AquXVUfHx8"
         }
       ],
-      "duration_ms": 171477,
-      "name": "FUN - yun\u00e8 pinku Remix",
-      "url": "https://open.spotify.com/track/7dUL7g3m05OdcGLcs3V0uS"
+      "duration_ms": 401311,
+      "name": "White Rooms",
+      "url": "https://open.spotify.com/track/74qpax6CFMftabGXj3zFmm"
     },
     {
       "added_at": "2022-08-19 12:40:57",
@@ -1667,22 +1687,18 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "White Rooms",
-        "url": "https://open.spotify.com/album/7kmGbHAj62nkW4eBO0gz77"
+        "name": "About My Dreams",
+        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
       },
       "artists": [
         {
-          "name": "Rafael Cerato",
-          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
-        },
-        {
-          "name": "Teologen",
-          "url": "https://open.spotify.com/artist/4M1LcFlXnn95AquXVUfHx8"
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
         }
       ],
-      "duration_ms": 401311,
-      "name": "White Rooms",
-      "url": "https://open.spotify.com/track/74qpax6CFMftabGXj3zFmm"
+      "duration_ms": 320000,
+      "name": "About My Dreams",
+      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1707,18 +1723,34 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "About My Dreams",
-        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi"
       },
       "artists": [
         {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+          "name": "Adelphi Music Factory",
+          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
         }
       ],
-      "duration_ms": 320000,
-      "name": "About My Dreams",
-      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
+      "duration_ms": 183112,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "La Fille aux Cheveux de Lin (Model Man Rework)",
+        "url": "https://open.spotify.com/album/6gydvdUe3QkrhxPG2Uf7QB"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 230605,
+      "name": "La Fille aux Cheveux de Lin - Model Man Rework",
+      "url": "https://open.spotify.com/track/4mjcIL4i2NnwPKt7OxfNSd"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1739,22 +1771,6 @@
       "duration_ms": 141853,
       "name": "all the bands",
       "url": "https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "La Fille aux Cheveux de Lin (Model Man Rework)",
-        "url": "https://open.spotify.com/album/6gydvdUe3QkrhxPG2Uf7QB"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 230605,
-      "name": "La Fille aux Cheveux de Lin - Model Man Rework",
-      "url": "https://open.spotify.com/track/4mjcIL4i2NnwPKt7OxfNSd"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1811,38 +1827,6 @@
     {
       "added_at": "2022-08-19 12:40:57",
       "album": {
-        "name": "Volar La Pluma",
-        "url": "https://open.spotify.com/album/7l7RHfQTsMJ23yDq15KZ1i"
-      },
-      "artists": [
-        {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        }
-      ],
-      "duration_ms": 294198,
-      "name": "Volar La Pluma",
-      "url": "https://open.spotify.com/track/3hkp1bFwGrAAHbSTYnw2Bc"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Poke Bowl",
-        "url": "https://open.spotify.com/album/4aQY42XWlHFFOYeDLQXuJ0"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 194523,
-      "name": "Poke Bowl",
-      "url": "https://open.spotify.com/track/3C7sz0HzEs8NGsHbNC5clu"
-    },
-    {
-      "added_at": "2022-08-19 12:40:57",
-      "album": {
         "name": "Hunger for Your Vibe",
         "url": "https://open.spotify.com/album/214rxKKvsoEgvjDgZ7aUDk"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 392624,
       "name": "Hunger For Your Vibe - Moonwalk Remix",
       "url": "https://open.spotify.com/track/4YUM6w6KqQLEwxi3ShRA8T"
+    },
+    {
+      "added_at": "2022-08-19 12:40:57",
+      "album": {
+        "name": "Volar La Pluma",
+        "url": "https://open.spotify.com/album/7l7RHfQTsMJ23yDq15KZ1i"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        }
+      ],
+      "duration_ms": 294198,
+      "name": "Volar La Pluma",
+      "url": "https://open.spotify.com/track/3hkp1bFwGrAAHbSTYnw2Bc"
     }
   ],
   "unique_name": "Open Air",

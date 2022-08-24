@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-233 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+234 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Morning Light \(feat\. Alicia Keys\)](https://open.spotify.com/track/3KnLHwhRhJGuQM822JVSoI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:03 | 2021-11-10 |  |
 | [Morning Sun](https://open.spotify.com/track/0nruobjhKItGHfkH3VbTXy) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Morning Sun](https://open.spotify.com/album/2l5jrbQaw9la2srKsDt7D6) | 3:30 | 2022-06-03 |  |
 | [Morning Sun](https://open.spotify.com/track/7KkuctUqjeSusfbhKOAlvn) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Morning Sun](https://open.spotify.com/album/3qIR7bmYmL0SgF0FGQO8Qo) | 3:30 | 2021-11-10 | 2022-07-29 |
-| [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 | 2022-03-24 |  |
+| [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 | 2022-03-24 | 2022-08-24 |
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2022-05-11 |  |
 | [My God Has A Telephone](https://open.spotify.com/track/0Njsdm3fZvEqAveqcgDISP) | [The Flying Stars Of Brooklyn NY](https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm) | [My God Has a Telephone](https://open.spotify.com/album/1mUZg3cuUcwifewwTCewbM) | 2:55 | 2021-11-10 | 2022-07-29 |
 | [My God Has A Telephone](https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx) | [The Flying Stars Of Brooklyn NY](https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [My God Has a Telephone](https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk) | 2:55 | 2022-06-03 |  |
@@ -165,6 +165,7 @@
 | [Poison](https://open.spotify.com/track/4S4JuY7JIOQHdVwkg9kIh4) | [Garrett Zoukis](https://open.spotify.com/artist/4JM1oVSS9tdfBwIZMWfAgC) | [MINT](https://open.spotify.com/album/4QGpoKRniUZO5sJ0njLxGF) | 3:15 | 2022-04-28 | 2022-07-29 |
 | [Questions](https://open.spotify.com/track/1Rd3q29I4tEwQKQudWh0Jd) | [The Midnight Hour](https://open.spotify.com/artist/1S5jf5XWhQTMjGZQxCH0AJ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Questions](https://open.spotify.com/album/0UyQpKX2zrfifx4pfWYwm0) | 3:27 | 2022-06-03 |  |
 | [Questions](https://open.spotify.com/track/6dLpEd8yvQmLgVFXnDf0Kn) | [The Midnight Hour](https://open.spotify.com/artist/1S5jf5XWhQTMjGZQxCH0AJ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Midnight Hour](https://open.spotify.com/album/2D67AgXVKjql7tniG3jQKl) | 3:27 | 2021-11-10 | 2022-07-29 |
+| [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2022-08-23 |  |
 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 | 2021-11-10 | 2022-07-29 |
 | [Rich Girl](https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Fun Machine EP](https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z) | 3:37 | 2021-11-10 |  |
 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 3:46 | 2021-11-10 |  |

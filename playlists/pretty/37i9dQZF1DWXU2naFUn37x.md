@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Zefe
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,944 likes - 45 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,046 likes - 45 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 32 | [Blauer](https://open.spotify.com/track/3Nu1xzgGX1tTyMaw8VdyGa) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Blauer](https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK) | 2:56 |
 | 33 | [Click](https://open.spotify.com/track/4RXh5hSHOujWqnbYNcqL4m) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Click](https://open.spotify.com/album/4sqgiuAro7E7ULVcZd1UnR) | 2:51 |
 | 34 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 |
-| 35 | [Benefit](https://open.spotify.com/track/5llcUAP6bmNBYEb3mssCqA) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Benefit](https://open.spotify.com/album/2QEXRSejARYPvcDfQmXENK) | 2:37 |
+| 35 | [Wroom Wroom](https://open.spotify.com/track/4xtSgGX5CQgVXTCRhagLf1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Wroom Wroom](https://open.spotify.com/album/1jVXH8SRRkuLIgLXn9JsD1) | 2:28 |
 | 36 | [aka DOLCE&GABBANA](https://open.spotify.com/track/3UbG721DOAQ0mO3Vgrnnwa) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [aka DOLCE&GABBANA](https://open.spotify.com/album/0OTeSPwWYq1Bw9jLcxAsKZ) | 1:53 |
 | 37 | [No wallet \(feat\. Marracash\)](https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:02 |
-| 38 | [JEANS \(feat\. Capo Plaza\)](https://open.spotify.com/track/1pjSpXlkz4iqFIesJIPZU7) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [ERROR 442](https://open.spotify.com/album/3WHbkZf28MHGTiAYH2rnjs) | 3:16 |
-| 39 | [ItalGarage](https://open.spotify.com/track/43CigdSvQSNuQs1ccxS7V1) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [ItalGarage](https://open.spotify.com/album/2wA2lNv7d0fsO7sxTFpdap) | 2:24 |
-| 40 | [FUCK THE INDUSTRY \(feat\. Rondodasosa, Central Cee, Nko\)](https://open.spotify.com/track/0lWbTtEZCeej46pYi4LJMu) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 3:08 |
-| 41 | [QUATTERI \#2](https://open.spotify.com/track/2mhjSMEAbReJIguSuAUP0Y) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [QUATTERI \#2](https://open.spotify.com/album/5rwB4fDaWfORiDU7KOhmuT) | 1:38 |
-| 42 | [Street Fight](https://open.spotify.com/track/0RfsPdWv4vmccAVm17aYvS) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Street Fight](https://open.spotify.com/album/7LyS71YF8VLbGIcFZsmGOf) | 3:07 |
+| 38 | [Benefit](https://open.spotify.com/track/5llcUAP6bmNBYEb3mssCqA) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Benefit](https://open.spotify.com/album/2QEXRSejARYPvcDfQmXENK) | 2:37 |
+| 39 | [JEANS \(feat\. Capo Plaza\)](https://open.spotify.com/track/1pjSpXlkz4iqFIesJIPZU7) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [ERROR 442](https://open.spotify.com/album/3WHbkZf28MHGTiAYH2rnjs) | 3:16 |
+| 40 | [ItalGarage](https://open.spotify.com/track/43CigdSvQSNuQs1ccxS7V1) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [ItalGarage](https://open.spotify.com/album/2wA2lNv7d0fsO7sxTFpdap) | 2:24 |
+| 41 | [FUCK THE INDUSTRY \(feat\. Rondodasosa, Central Cee, Nko\)](https://open.spotify.com/track/0lWbTtEZCeej46pYi4LJMu) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 3:08 |
+| 42 | [QUATTERI \#2](https://open.spotify.com/track/2mhjSMEAbReJIguSuAUP0Y) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [QUATTERI \#2](https://open.spotify.com/album/5rwB4fDaWfORiDU7KOhmuT) | 1:38 |
 | 43 | [Freestyle](https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle](https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad) | 1:28 |
 | 44 | [BALLAS RMX \(feat\. MamboLosco, Janga ODT\)](https://open.spotify.com/track/61Tc6VFFrxANwYbKp9ZYWT) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Janga ODT](https://open.spotify.com/artist/3JHgtfIOYtS7US0NC0CRzZ), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [BALLAS RMX \(feat\. MamboLosco, Janga ODT\)](https://open.spotify.com/album/7EsYWxFYeTdJp2Ncf1HTHE) | 2:34 |
 | 45 | [Speranza e Fame](https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Speranza e Fame](https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ) | 2:48 |
 
-Snapshot ID: `MTY2MDg2MDA2MCwwMDAwMDAwMDMwZmE1NGE3ODE4NTBlOWM1YzQwOGYwNjIwMDZmZDM3`
+Snapshot ID: `MTY2MTI0MjkxOCwwMDAwMDAwMDM3NTNmYWRjNDBhZmRkMGI3OGIyOWRhNjJlMjIwNWIy`

@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the jazz played in the background in the bar.",
-  "num_followers": 13983,
+  "num_followers": 14058,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDczOTk3MCwwMDAwMDAwMDkwZDFmMmZmZmQ2OTZlNmViZWU2MmJiOTZhOTJiNmVm",
+  "snapshot_id": "MTY2MDczOTk3MCwwMDAwMDAwMGEzN2ZlZGY3MDhmMGMxN2IxNWM2ZjE5N2EyYzJkOGY5",
   "tracks": [
     {
       "added_at": "2022-08-17 12:39:30",
@@ -511,22 +511,18 @@
     {
       "added_at": "2022-08-17 12:39:30",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
-        "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
+        "name": "My Gentleman Friend",
+        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
       },
       "artists": [
         {
-          "name": "Dinah Shore",
-          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 204866,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
+      "duration_ms": 357320,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7"
     },
     {
       "added_at": "2022-08-17 12:39:30",
@@ -547,18 +543,22 @@
     {
       "added_at": "2022-08-17 12:39:30",
       "album": {
-        "name": "My Gentleman Friend",
-        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
+        "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
+        "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Dinah Shore",
+          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
         }
       ],
-      "duration_ms": 357320,
-      "name": "Someone To Watch Over Me",
-      "url": "https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7"
+      "duration_ms": 204866,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
     },
     {
       "added_at": "2022-08-17 12:39:30",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-08-17 12:39:30",
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+        "name": "Ella Swings Gently With Nelson",
+        "url": "https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
+      "duration_ms": 195493,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/1n2TLZb9zziMtg7loNQO7P"
     },
     {
       "added_at": "2022-08-17 12:39:30",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2022-08-17 12:39:30",
       "album": {
-        "name": "Ella Swings Gently With Nelson",
-        "url": "https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG"
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 195493,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/1n2TLZb9zziMtg7loNQO7P"
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": "2022-08-17 12:39:30",

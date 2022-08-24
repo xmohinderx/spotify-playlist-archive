@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 114818,
+  "num_followers": 114915,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMGZkNzk0MGVkZTYyNDI0MzA3MWIyMjQxMjQ3YjE2MTI2",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMGIzYzZhMGE1MjA4MWRiYzk2MzY1YmU4ODNlOGFiY2Rh",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "The Adventures Of Panama Red",
-        "url": "https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY"
-      },
-      "artists": [
-        {
-          "name": "New Riders of the Purple Sage",
-          "url": "https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Lonesome L.A. Cowboy",
-      "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Manassas",
         "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 172533,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "The Adventures Of Panama Red",
+        "url": "https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY"
+      },
+      "artists": [
+        {
+          "name": "New Riders of the Purple Sage",
+          "url": "https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Lonesome L.A. Cowboy",
+      "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
     },
     {
       "added_at": "2020-08-05 15:52:11",

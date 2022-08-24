@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 182243,
+  "num_followers": 182294,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjI3MTkxOCwwMDAwMDAwMGRlODNlM2IxYWEzZDQ2MzQ0MzM5ZDI5MDJkYmVhODIy",
+  "snapshot_id": "MTY1MjI3MTkxOCwwMDAwMDAwMGVjNWM2YzAxOWE5NTEwNDJkMGE4OTVlY2EzMDhiZTJm",
   "tracks": [
     {
       "added_at": "2022-05-11 12:25:18",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 296266,
       "name": "Every Time I Close My Eyes (with Kenny G)",
       "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "After Midnight (Expanded Version)",
+        "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "After Midnight (Expanded Version)",
-        "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 281853,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 438706,
-      "name": "No Ordinary Love - Remastered",
-      "url": "https://open.spotify.com/track/1tV7RXsTGdwxAvEo8Rv9pp"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 317400,
       "name": "Do Me Baby",
       "url": "https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 438706,
+      "name": "No Ordinary Love - Remastered",
+      "url": "https://open.spotify.com/track/1tV7RXsTGdwxAvEo8Rv9pp"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "Love X Love",
-      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Drew\u2019s Famous Presents Pop Hits Of The 80's & 90's",
         "url": "https://open.spotify.com/album/6ogTqhiNpHqOcwHj5WvFUR"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 221426,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0HiHOHBdV0JCpSWxfVPVMq"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "Love X Love",
+      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Al Wilson",
         "url": "https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 211786,
       "name": "Show and Tell - Rerecorded",
       "url": "https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Meeting In The Ladies Room",
-        "url": "https://open.spotify.com/album/4yREKisDPQ6LFcHT1gpbqQ"
-      },
-      "artists": [
-        {
-          "name": "Klymaxx",
-          "url": "https://open.spotify.com/artist/2wh5Qu35PjDbJBqAv65RGa"
-        }
-      ],
-      "duration_ms": 333266,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/3d6UefBBvhqHxJLZdm8scF"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Jewels In The Crown",
         "url": "https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 310480,
       "name": "Ever Changing Times (feat. Michael McDonald)",
       "url": "https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Meeting In The Ladies Room",
+        "url": "https://open.spotify.com/album/4yREKisDPQ6LFcHT1gpbqQ"
+      },
+      "artists": [
+        {
+          "name": "Klymaxx",
+          "url": "https://open.spotify.com/artist/2wh5Qu35PjDbJBqAv65RGa"
+        }
+      ],
+      "duration_ms": 333266,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/3d6UefBBvhqHxJLZdm8scF"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "The Best Of Atlantic Starr",
-        "url": "https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D"
-      },
-      "artists": [
-        {
-          "name": "Atlantic Starr",
-          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
-        }
-      ],
-      "duration_ms": 336533,
-      "name": "Am I Dreaming",
-      "url": "https://open.spotify.com/track/6HHlyBUx4YGVE95GF0orTe"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
       },
@@ -2399,18 +2383,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Homegrown",
-        "url": "https://open.spotify.com/album/6D701PBk88ecP19udi4EJj"
+        "name": "The Best Of Atlantic Starr",
+        "url": "https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D"
       },
       "artists": [
         {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+          "name": "Atlantic Starr",
+          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
         }
       ],
-      "duration_ms": 222293,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/4Jsqi44IrfUjdigUfZiaqr"
+      "duration_ms": 336533,
+      "name": "Am I Dreaming",
+      "url": "https://open.spotify.com/track/6HHlyBUx4YGVE95GF0orTe"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2427,6 +2411,22 @@
       "duration_ms": 333453,
       "name": "Cry Together",
       "url": "https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Homegrown",
+        "url": "https://open.spotify.com/album/6D701PBk88ecP19udi4EJj"
+      },
+      "artists": [
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/4Jsqi44IrfUjdigUfZiaqr"
     },
     {
       "added_at": "2022-05-11 12:25:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Gazo au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,883 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,475 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 30 | [Fais de l'argent](https://open.spotify.com/track/5a96UhbVvqjmI4dEXr7wLb) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Fais de l'argent](https://open.spotify.com/album/12vTC7BH3Scluv2woieacw) | 2:25 |
 | 31 | [Chic choc](https://open.spotify.com/track/1mPommdCgPxwWW1pkoUkes) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [VOL 169 ATTERRISSAGE](https://open.spotify.com/album/7u3TOtAemTZ2eXT7JjNBCh) | 3:11 |
 | 32 | [NEYMAR JR](https://open.spotify.com/track/3ejRaW9IZCWkr15JN2OpQO) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [NOSTALGIA+](https://open.spotify.com/album/6ZINcIMQXxeGL6hvC7nG75) | 2:45 |
-| 33 | [Full black](https://open.spotify.com/track/7DPQMoNUREqcRjlnbFh2cN) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/2QZYxEoqTwj45Ajifa0hxg) | 2:29 |
+| 33 | [Full black](https://open.spotify.com/track/1WcBhct7iVXliYorbEKTql) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 2:29 |
 | 34 | [Stars](https://open.spotify.com/track/4prkPuGjkzgYvdREsNw27F) | [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Stars](https://open.spotify.com/album/4vtDzCPmcZMDJ1VgkUzzcx) | 3:09 |
 | 35 | [A la base](https://open.spotify.com/track/0VJwgZkDmZZLZygKnPj2s6) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 4:26 |
 | 36 | [Laisse tomber](https://open.spotify.com/track/7se1NifxbOkGCvwwq4Ca7V) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Laisse tomber](https://open.spotify.com/album/0IGKWLGZBR7EqrRxkrK4jn) | 3:11 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 |
 | 40 | [Parapluie \(feat\. Maes\)](https://open.spotify.com/track/7AXGvNJ6kcnMuNhE9KhvaI) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [A l'aube](https://open.spotify.com/album/09ObghqbDSf17hSctgsO2Z) | 3:14 |
 
-Snapshot ID: `MTY2MDg2MDA2MCwwMDAwMDAwMDZmYzAxYWI4ZjllY2NjM2E3MzlhYTRmY2I2YzAzYzUw`
+Snapshot ID: `MTY2MDg2MDA2MCwwMDAwMDAwMDY0OWJhNTE5MzM0N2U3MTEyM2M0ZjI1MzljM2I4YTI2`

@@ -1067,7 +1067,7 @@
       },
       "artists": [
         {
-          "name": "Harucha",
+          "name": "Harutya",
           "url": "https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs"
         },
         {
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 245400,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 183434,
       "name": "MERA MERA",
       "url": "https://open.spotify.com/track/3Y5q0JDCRzjNlMRRrLK0RF"
@@ -3419,7 +3419,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 173866,
       "name": "\u30b0\u30c3\u30d0\u30a4\u5ba3\u8a00",
       "url": "https://open.spotify.com/track/3dRhZApPNSUPmzQfV5sezx"
@@ -4329,7 +4329,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 301319,
       "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/7xk7RN5lLRzJVcu0m8Y65O"
@@ -5213,7 +5213,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 139693,
       "name": "\u56da\u4ebaB - feat. R+...",
       "url": "https://open.spotify.com/track/0q0owFoTdtkmkczk4LcyEa"
@@ -5271,6 +5271,24 @@
       "duration_ms": 172753,
       "name": "\u56de\u308b\u7a7a\u3046\u3055\u304e",
       "url": "https://open.spotify.com/track/5NITYjCmkHJEm03GUor1R1"
+    },
+    {
+      "album": {
+        "name": "\u56de\u308b\u7a7a\u3046\u3055\u304e (Cover)",
+        "url": "https://open.spotify.com/album/7o7pXU7SQCw8QnNwLbvW43"
+      },
+      "artists": [
+        {
+          "name": "R+...",
+          "url": "https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174001,
+      "name": "\u56de\u308b\u7a7a\u3046\u3055\u304e - Cover",
+      "url": "https://open.spotify.com/track/7Bo8EsJFGpRt3P7ohJIQDS"
     },
     {
       "album": {
@@ -6109,7 +6127,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 265803,
       "name": "\u6708\u306b\u5420\u3048\u308b",
       "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
@@ -6273,7 +6291,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "\u6843\u6e90\u90f7",
       "url": "https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm"

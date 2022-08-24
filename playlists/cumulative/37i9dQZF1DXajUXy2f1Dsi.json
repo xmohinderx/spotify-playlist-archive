@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 253800,
       "name": "10 Melodias vascas: Amorosa",
       "url": "https://open.spotify.com/track/3YYul2wdr2DYdhpYwX1Lxd"
@@ -2423,7 +2423,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 201253,
       "name": "Il neige",
       "url": "https://open.spotify.com/track/7bLZo27yK3Z0ezI472Phe5"
@@ -5193,6 +5193,24 @@
     {
       "album": {
         "name": "Francisco Mignone - Piano Music",
+        "url": "https://open.spotify.com/album/29uFYN2lowUQbnEGqPtkyA"
+      },
+      "artists": [
+        {
+          "name": "Clelia Iruzun",
+          "url": "https://open.spotify.com/artist/2DI5xad8sDfLriaSRzIDEA"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77680,
+      "name": "Valsa-Choro no.11",
+      "url": "https://open.spotify.com/track/1kqgmb772bPDWmdEAXl64M"
+    },
+    {
+      "album": {
+        "name": "Francisco Mignone - Piano Music",
         "url": "https://open.spotify.com/album/3IANUezSoVobkjrCTwyxtA"
       },
       "artists": [
@@ -5263,6 +5281,36 @@
       "duration_ms": 189186,
       "name": "Yo Soy Mexicano",
       "url": "https://open.spotify.com/track/0y2u79EB8B5ugcJWu2rZ4f"
+    },
+    {
+      "album": {
+        "name": "Sarasate: Virtuoso Works for Violin, Carmen Fantasy, Zapateado",
+        "url": "https://open.spotify.com/album/467zLQ6hu8kOKoVzWvQz4U"
+      },
+      "artists": [
+        {
+          "name": "Pablo de Sarasate",
+          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Alejandro Posada",
+          "url": "https://open.spotify.com/artist/6BEMkFMOQ3b7QJkhMfU5Y0"
+        },
+        {
+          "name": "Orquesta Sinf\u00f3nica de Castilla y Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1UAH2pWty0pESrc780QOqs"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501306,
+      "name": "Zigeunerweisen, Op. 20",
+      "url": "https://open.spotify.com/track/5hZpVvAm1axkOiypPuzbwB"
     },
     {
       "album": {

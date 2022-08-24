@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-148 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
+149 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Me Piden Que Cante](https://open.spotify.com/track/07zHQ6Gg5f1sUeeN3PlsDv) | [Shoren](https://open.spotify.com/artist/6MRCWn4BaMCrfxzseImRuN) | [Me Piden Que Cante](https://open.spotify.com/album/4ZazTf8XfDWVyctUKqMfGQ) | 2:16 | 2022-01-21 | 2022-05-28 |
 | [Mercury](https://open.spotify.com/track/4ieZaJ1d5lmei3GOZqtfv3) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Selecta](https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ) | [Mercury](https://open.spotify.com/album/3X6RtqeOhtrUJKtfO84nMc) | 3:16 | 2022-03-16 |  |
 | [Mi Condena](https://open.spotify.com/track/0RSpDN3ywn433Ax7AEmciT) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx), [Luani](https://open.spotify.com/artist/5y7twJ6XIWnxkh9sArNf5M) | [Mi Condena](https://open.spotify.com/album/0DtcJk7CoznzFlCp5DFld3) | 2:44 | 2022-03-16 |  |
-| [Modo Abuso](https://open.spotify.com/track/5K5Pu8XivpLcXjrkvJhl0z) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [EL NIÑO DE LA PENA](https://open.spotify.com/artist/3ZpK1P7BobQwh3KF47HHoh), [Heiss](https://open.spotify.com/artist/0daOLoNu2PsJMuYnjkcBmB) | [Modo Abuso](https://open.spotify.com/album/43V9JJGZFP0eVV9IxEOQIG) | 3:15 | 2022-08-04 |  |
+| [Modo Abuso](https://open.spotify.com/track/5K5Pu8XivpLcXjrkvJhl0z) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [EL NIÑO DE LA PENA](https://open.spotify.com/artist/3ZpK1P7BobQwh3KF47HHoh), [Heiss](https://open.spotify.com/artist/0daOLoNu2PsJMuYnjkcBmB) | [Modo Abuso](https://open.spotify.com/album/43V9JJGZFP0eVV9IxEOQIG) | 3:15 | 2022-08-04 | 2022-08-24 |
 | [Mortales](https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Siempre](https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo) | 2:55 | 2022-01-21 |  |
 | [Más Alcohol](https://open.spotify.com/track/0g1U66Dqir9TUBdRpgy0UB) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Más Alcohol](https://open.spotify.com/album/73aizn6KMyjpQM59JjpiBo) | 4:00 | 2022-01-21 | 2022-03-17 |
 | [Más X Menos](https://open.spotify.com/track/0xGUIUpbQlGUfZeYRDl5U3) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Más X Menos](https://open.spotify.com/album/0tqoxrOOgv2WJsZhz6ArfG) | 3:22 | 2022-01-21 | 2022-02-05 |
@@ -142,6 +142,7 @@
 | [Tirando de Bic](https://open.spotify.com/track/61ujXkJyYEAjXamtbS4eFl) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD) | [Tirando de Bic](https://open.spotify.com/album/3cL774NEgpLROW1t7A9fmo) | 2:32 | 2022-01-21 | 2022-08-05 |
 | [To' Pelao de Frío](https://open.spotify.com/track/5UjKON0W43MXVzX2c5FZKU) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW) | [Cachitos de Mi Cora](https://open.spotify.com/album/13U39sti555PIUZA7VGUJu) | 2:30 | 2022-07-19 |  |
 | [To' Pelao de Frío](https://open.spotify.com/track/7Lw5va0i0GbSSFkrtlAzTh) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW) | [Cachitos de Mi Cora](https://open.spotify.com/album/1DAUQCHm1bN01Jzr2ndxmT) | 2:30 | 2022-04-21 | 2022-07-29 |
+| [Todo bien](https://open.spotify.com/track/1WicXfvMtWi6FRMaTFyLH7) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Todo bien](https://open.spotify.com/album/62mQJHMs4CqvrO38sgb64S) | 3:59 | 2022-08-23 |  |
 | [Tranquilito](https://open.spotify.com/track/5FgfH1x2CWUsUYPyzP3g7h) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Alejandro Deese](https://open.spotify.com/artist/1EpK5uMCE7aUAyCQ7l1505) | [Tranquilito](https://open.spotify.com/album/5l5ITl4xVnAL3UKtGNGa4X) | 3:04 | 2022-01-21 | 2022-08-11 |
 | [Tranquilito \(feat\. Alejandro Deese\)](https://open.spotify.com/track/3nm1q5QYFIatMWkX1SHYem) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Alejandro Deese](https://open.spotify.com/artist/1EpK5uMCE7aUAyCQ7l1505) | [Tranquilito \(feat\. Alejandro Deese\)](https://open.spotify.com/album/5DYLT9b1Qts0G43GNrUEHP) | 3:05 | 2022-08-04 |  |
 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 | 2022-01-21 |  |

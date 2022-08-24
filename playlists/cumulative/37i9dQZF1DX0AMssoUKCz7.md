@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-485 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+486 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Live It Up](https://open.spotify.com/track/0zNShOZDiH8tXFTx349ZQp) | [Nito](https://open.spotify.com/artist/3jBJp0ZqRnwgrdVsn05QEc) | [Live It Up](https://open.spotify.com/album/3OP9K1kIS1q8diIsupNBAQ) | 2:44 | 2022-05-20 | 2022-07-29 |
 | [Live Love Learn \(feat\. Peg Parnevik\)](https://open.spotify.com/track/6Nm0PIjQHqW8OxQlNB2ze9) | [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Live Love Learn \(feat\. Peg Parnevik\)](https://open.spotify.com/album/1eG36CcEerM5nrZUNgnwH7) | 3:04 | 2022-02-18 | 2022-04-16 |
 | [Living \(feat\. Alex Clare\)](https://open.spotify.com/track/63Qco1ncI5U4qEUnxL1DsH) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl) | [Living \(feat\. Alex Clare\)](https://open.spotify.com/album/0dHBCgs7zfH2mQXHTghume) | 3:17 | 2022-02-18 | 2022-04-17 |
+| [Living The Life](https://open.spotify.com/track/0U4BsTlcGsdLldHE7wnniA) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Finding Sounds](https://open.spotify.com/album/4rq5ZRLwtLjCWqKveXQ6Nn) | 3:38 | 2022-08-19 |  |
 | [Looking For Love](https://open.spotify.com/track/3CIzp3oPhSkSMZjANQPtVV) | [Nick Martin](https://open.spotify.com/artist/7qVyaRDqZ0T20SW7l1VzMX), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [Looking For Love](https://open.spotify.com/album/1N2ut8wr12FaRimMYk6RTx) | 3:34 | 2022-01-14 | 2022-07-20 |
 | [Lose Control](https://open.spotify.com/track/6GeA0vtzjoAwgH8IXlBTjW) | [Zist](https://open.spotify.com/artist/0DH8z0bMj7KS2oJq6rKXxR), [Sam Rendina](https://open.spotify.com/artist/2vTsgwtZQXNvWuDNB5dtIK) | [Lose Control](https://open.spotify.com/album/4TzuTj5wDa3GvMMKkn0ZVS) | 3:10 | 2022-05-27 | 2022-06-22 |
 | [Lose You](https://open.spotify.com/track/1XX4oZtcrjrzI4lK6CXMiZ) | [Kaleeh](https://open.spotify.com/artist/2dDW0JX4DMEXU4ud3aiBYu), [David Petre](https://open.spotify.com/artist/0DJLPeAQ7EijOnpEgMi1E3) | [Lose You](https://open.spotify.com/album/79m85X0YEXYE2uHlWfRK0I) | 3:09 | 2022-04-01 | 2022-05-12 |
@@ -335,7 +336,7 @@
 | [Own the Night](https://open.spotify.com/track/0DHUariIorcAgunTr0GTy2) | [Tropixx](https://open.spotify.com/artist/4ys2PrxCuTjrYcU4mxtOSF), [Marcella Precise](https://open.spotify.com/artist/0ZR1QT9DoVMVyD9w6RzJS0) | [Own the Night](https://open.spotify.com/album/7bHsGrx65iJ4TQOA8MZViy) | 3:30 | 2022-01-14 | 2022-07-19 |
 | [Oxas](https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [Oxas](https://open.spotify.com/album/0u8v6tjFwtiVkbt0MwqfrN) | 5:01 | 2022-01-14 |  |
 | [Pacific Coast](https://open.spotify.com/track/2NlmT21qfh9nohiaYkecRy) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Pacific Coast](https://open.spotify.com/album/7LD54uSzY4Q6LfzSDQQezv) | 2:33 | 2022-01-14 | 2022-08-09 |
-| [Pacing](https://open.spotify.com/track/6cWZQNgaL8yLtezJvag9Y9) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Pacing](https://open.spotify.com/album/4JYJ6EUsCHzaTTmaUin4fP) | 3:56 | 2022-01-14 |  |
+| [Pacing](https://open.spotify.com/track/6cWZQNgaL8yLtezJvag9Y9) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Pacing](https://open.spotify.com/album/4JYJ6EUsCHzaTTmaUin4fP) | 3:56 | 2022-01-14 | 2022-08-24 |
 | [Panamalu](https://open.spotify.com/track/6RxxunHQUOtYojwJGDLB51) | [Fabio Carry](https://open.spotify.com/artist/4sPjRX7FKfMvfa5tPQC64C) | [Panamalu](https://open.spotify.com/album/3s8rlfuQO7p5TR7x3VLsTo) | 3:37 | 2022-01-14 | 2022-05-16 |
 | [Part of Me](https://open.spotify.com/track/7i6bGz9lcLzT1TA7Oi6rCC) | [LittleKings](https://open.spotify.com/artist/7pSOgeenBhBEN5a5yHzxIS), [Kreem](https://open.spotify.com/artist/1bJgqusUIvjC3XVlGcdLdD) | [Part of Me](https://open.spotify.com/album/1fqCw1wJoJltXN65GhcxZc) | 3:18 | 2022-04-01 | 2022-04-16 |
 | [Perfect Strangers](https://open.spotify.com/track/1Te8WIfLudxjHTr66BL0JK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/3unvtEoEI6Ga2FMKotI20p) | 3:16 | 2022-04-01 | 2022-04-19 |

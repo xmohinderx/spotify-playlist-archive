@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Joe Bonamassa",
-  "num_followers": 138626,
+  "num_followers": 138690,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAwMDcyOTYxOWVjNzU1YjNlZDVkOWViNzVlMTQwOTJmODdm",
+  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAwMDAwYmNlODBlNDU1ODE1ZTA2YzcxNTIxMzU3ODY3NmRj",
   "tracks": [
     {
       "added_at": "2022-05-20 04:02:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live...With A Little Help From Our Friends",
-        "url": "https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 549933,
-      "name": "Soulshine",
-      "url": "https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Touch My Blues Away",
         "url": "https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 544640,
       "name": "Touch My Blues Away - Live",
       "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live...With A Little Help From Our Friends",
+        "url": "https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 549933,
+      "name": "Soulshine",
+      "url": "https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/2QyLRyrciztL0CQ7CeXK2p"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Live In San Diego '74",
-        "url": "https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 571280,
-      "name": "I Wonder Who - Live At The San Diego Civic Center, CA, USA / 1974",
-      "url": "https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y"
-    },
-    {
       "added_at": "2020-10-30 17:47:12",
       "album": {
         "name": "Songs from the Road",
@@ -459,6 +443,22 @@
       "duration_ms": 437358,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Live In San Diego '74",
+        "url": "https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 571280,
+      "name": "I Wonder Who - Live At The San Diego Civic Center, CA, USA / 1974",
+      "url": "https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Dyin' To Know (Live)",
-        "url": "https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 192638,
-      "name": "Dyin' To Know - Live",
-      "url": "https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8"
-    },
-    {
       "added_at": "2020-10-30 17:47:12",
       "album": {
         "name": "Recorded Live in Lafayette",
@@ -923,6 +907,22 @@
       "duration_ms": 272160,
       "name": "Soul Salvation - Live",
       "url": "https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Dyin' To Know (Live)",
+        "url": "https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 192638,
+      "name": "Dyin' To Know - Live",
+      "url": "https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8"
     },
     {
       "added_at": "2020-10-30 17:47:12",

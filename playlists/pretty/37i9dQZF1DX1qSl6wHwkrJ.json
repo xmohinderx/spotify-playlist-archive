@@ -1,12 +1,12 @@
 {
   "description": "Christmas classics from your favourite Blues artists. ",
-  "num_followers": 4768,
+  "num_followers": 4767,
   "original_name": "Christmas Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ4MjEyMiwwMDAwMDAwMGIxMzA3NzQyZWFhODgwNDlmMjNlZjJlNmNmZjMwNDBh",
+  "snapshot_id": "MTYzOTQ4MjEyMiwwMDAwMDAwMDBlMjUxZTI2NWNhNDZkOTI5ZTM3YmRiMWI0ODQwNGRl",
   "tracks": [
     {
       "added_at": "2021-12-14 11:42:02",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-12-14 11:42:02",
       "album": {
-        "name": "Southern Rock Christmas",
-        "url": "https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO"
-      },
-      "artists": [
-        {
-          "name": "Charlie Daniels",
-          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
-        }
-      ],
-      "duration_ms": 292023,
-      "name": "It's Bad to Have the Blues (At Christmas Time)",
-      "url": "https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l"
-    },
-    {
-      "added_at": "2021-12-14 11:42:02",
-      "album": {
         "name": "Putumayo Presents Blues Christmas",
         "url": "https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 262320,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/0OcoKrsmrFxA2P17Jw3xk2"
+    },
+    {
+      "added_at": "2021-12-14 11:42:02",
+      "album": {
+        "name": "Southern Rock Christmas",
+        "url": "https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO"
+      },
+      "artists": [
+        {
+          "name": "Charlie Daniels",
+          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
+        }
+      ],
+      "duration_ms": 292023,
+      "name": "It's Bad to Have the Blues (At Christmas Time)",
+      "url": "https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l"
     },
     {
       "added_at": "2021-12-14 11:42:02",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-12-14 11:42:02",
       "album": {
-        "name": "A Blues Christmas",
-        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 262119,
-      "name": "Stay A Little Longer, Santa",
-      "url": "https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0"
-    },
-    {
-      "added_at": "2021-12-14 11:42:02",
-      "album": {
         "name": "Cadillac Baby's Bea & Baby Records Definitive Collection, Vol. 3",
         "url": "https://open.spotify.com/album/3zGpMiCx2Xu4ErHOzZRvTv"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 154640,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/0CfPJZkCUwH0VKIqA4v7RX"
+    },
+    {
+      "added_at": "2021-12-14 11:42:02",
+      "album": {
+        "name": "A Blues Christmas",
+        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 262119,
+      "name": "Stay A Little Longer, Santa",
+      "url": "https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0"
     },
     {
       "added_at": "2021-12-14 11:42:02",
@@ -575,6 +575,22 @@
     {
       "added_at": "2021-12-14 11:42:02",
       "album": {
+        "name": "The Alligator Records Christmas Collection",
+        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
+      },
+      "artists": [
+        {
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "Please Let Me Be Your Santa Claus",
+      "url": "https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ"
+    },
+    {
+      "added_at": "2021-12-14 11:42:02",
+      "album": {
         "name": "Putumayo Presents Blues Christmas",
         "url": "https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh"
       },
@@ -607,6 +623,38 @@
     {
       "added_at": "2021-12-14 11:42:02",
       "album": {
+        "name": "Death Might Be Your Santa Claus",
+        "url": "https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg"
+    },
+    {
+      "added_at": "2021-12-14 11:42:02",
+      "album": {
+        "name": "Alligator Records' Genuine Houserockin' Christmas",
+        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
+      },
+      "artists": [
+        {
+          "name": "Coco Montoya",
+          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
+        }
+      ],
+      "duration_ms": 268520,
+      "name": "A Bluesman's Christmas",
+      "url": "https://open.spotify.com/track/7tjI7zKXCOVHS7cfaMMnLY"
+    },
+    {
+      "added_at": "2021-12-14 11:42:02",
+      "album": {
         "name": "The Alligator Records Christmas Collection",
         "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
       },
@@ -628,38 +676,6 @@
       },
       "artists": [
         {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "Please Let Me Be Your Santa Claus",
-      "url": "https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ"
-    },
-    {
-      "added_at": "2021-12-14 11:42:02",
-      "album": {
-        "name": "Death Might Be Your Santa Claus",
-        "url": "https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Santa",
-      "url": "https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg"
-    },
-    {
-      "added_at": "2021-12-14 11:42:02",
-      "album": {
-        "name": "The Alligator Records Christmas Collection",
-        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
-      },
-      "artists": [
-        {
           "name": "Little Charlie & The Nightcats",
           "url": "https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl"
         }
@@ -667,38 +683,6 @@
       "duration_ms": 177000,
       "name": "Santa Claus",
       "url": "https://open.spotify.com/track/3lkLhmTRgijn96O9wWTWTZ"
-    },
-    {
-      "added_at": "2021-12-14 11:42:02",
-      "album": {
-        "name": "Roy Milton And His Solid Senders",
-        "url": "https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO"
-      },
-      "artists": [
-        {
-          "name": "Roy Milton",
-          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "Christmas Time Blues",
-      "url": "https://open.spotify.com/track/0bAEpMET7y6XlLqkm1eyrj"
-    },
-    {
-      "added_at": "2021-12-14 11:42:02",
-      "album": {
-        "name": "Alligator Records' Genuine Houserockin' Christmas",
-        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
-      },
-      "artists": [
-        {
-          "name": "Coco Montoya",
-          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
-        }
-      ],
-      "duration_ms": 268520,
-      "name": "A Bluesman's Christmas",
-      "url": "https://open.spotify.com/track/7tjI7zKXCOVHS7cfaMMnLY"
     },
     {
       "added_at": "2021-12-14 11:42:02",
@@ -719,6 +703,22 @@
     {
       "added_at": "2021-12-14 11:42:02",
       "album": {
+        "name": "Roy Milton And His Solid Senders",
+        "url": "https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO"
+      },
+      "artists": [
+        {
+          "name": "Roy Milton",
+          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "Christmas Time Blues",
+      "url": "https://open.spotify.com/track/0bAEpMET7y6XlLqkm1eyrj"
+    },
+    {
+      "added_at": "2021-12-14 11:42:02",
+      "album": {
         "name": "Blues for Christmas",
         "url": "https://open.spotify.com/album/4A7Siy7BMXiXQyzGBhR4Dc"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 348040,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/1zAJrTZdszRzt12vxc0GN3"
-    },
-    {
-      "added_at": "2021-12-14 11:42:02",
-      "album": {
-        "name": "Alligator Records' Genuine Houserockin' Christmas",
-        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
-      },
-      "artists": [
-        {
-          "name": "Little Charlie & The Nightcats",
-          "url": "https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "It's Christmas Time Again (Spend, Spend, Spend)",
-      "url": "https://open.spotify.com/track/4DthSTvpxJUpbTWaZWGjgG"
     },
     {
       "added_at": "2021-12-14 11:42:02",
@@ -767,22 +751,6 @@
     {
       "added_at": "2021-12-14 11:42:02",
       "album": {
-        "name": "A Blues Christmas",
-        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
-      },
-      "artists": [
-        {
-          "name": "Roomful Of Blues",
-          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
-        }
-      ],
-      "duration_ms": 202532,
-      "name": "Santa Claus, Do You Ever Get The Blues?",
-      "url": "https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC"
-    },
-    {
-      "added_at": "2021-12-14 11:42:02",
-      "album": {
         "name": "Alligator Records' Genuine Houserockin' Christmas",
         "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
       },
@@ -795,6 +763,22 @@
       "duration_ms": 208986,
       "name": "Really Been Good This Year",
       "url": "https://open.spotify.com/track/0vEVoUboMf7x6j2SEplQ8O"
+    },
+    {
+      "added_at": "2021-12-14 11:42:02",
+      "album": {
+        "name": "A Blues Christmas",
+        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
+      },
+      "artists": [
+        {
+          "name": "Roomful Of Blues",
+          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
+        }
+      ],
+      "duration_ms": 202532,
+      "name": "Santa Claus, Do You Ever Get The Blues?",
+      "url": "https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC"
     },
     {
       "added_at": "2021-12-14 11:42:02",
@@ -815,6 +799,22 @@
       "duration_ms": 320053,
       "name": "One Day Till Christmas",
       "url": "https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e"
+    },
+    {
+      "added_at": "2021-12-14 11:42:02",
+      "album": {
+        "name": "Alligator Records' Genuine Houserockin' Christmas",
+        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
+      },
+      "artists": [
+        {
+          "name": "Little Charlie & The Nightcats",
+          "url": "https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "It's Christmas Time Again (Spend, Spend, Spend)",
+      "url": "https://open.spotify.com/track/4DthSTvpxJUpbTWaZWGjgG"
     }
   ],
   "unique_name": "Christmas Blues",

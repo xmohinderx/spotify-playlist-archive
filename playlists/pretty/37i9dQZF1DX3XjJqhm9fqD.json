@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier.",
-  "num_followers": 69174,
+  "num_followers": 69198,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMGUyZWJiMjlhYjcwMjhjZTQxYjdjODg5NTIzMDg5ZmMy",
+  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMGNkZDgzYzgxYTkyMjY0ODY0NzQ5Yjk3YmQ3ODRkN2Rk",
   "tracks": [
     {
       "added_at": "2022-07-14 21:35:16",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "Sammy Sosa",
         "url": "https://open.spotify.com/album/2Q7DoT2zK1cBY0MLvCdNjp"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 151475,
       "name": "Sammy Sosa",
       "url": "https://open.spotify.com/track/085w8MDcFkxBi1yZ0frfUr"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
     },
     {
+      "added_at": "2022-08-12 11:01:43",
+      "album": {
+        "name": "K\u00c8M",
+        "url": "https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 165624,
+      "name": "K\u00c8M",
+      "url": "https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG"
+    },
+    {
       "added_at": "2022-07-14 21:35:16",
       "album": {
         "name": "Troubadour",
@@ -971,22 +987,6 @@
       "duration_ms": 286840,
       "name": "Flanm",
       "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
-    },
-    {
-      "added_at": "2022-08-12 11:01:43",
-      "album": {
-        "name": "K\u00c8M",
-        "url": "https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 165624,
-      "name": "K\u00c8M",
-      "url": "https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG"
     },
     {
       "added_at": "2022-07-14 21:35:16",

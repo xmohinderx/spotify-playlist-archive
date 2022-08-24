@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: SINCE\(신스\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,460 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,539 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HIGH RISK HIGH RETURN \(Feat\. Polodared\)](https://open.spotify.com/track/5MnjjRXp2huzCdVXkGpU2I) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:09 |
 | 2 | [MR\. BAD \(Feat\. Woo\)](https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [MR\. BAD](https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a) | 3:05 |
-| 3 | [BUST IT \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/track/2rAjakCurnu8UBGCX4MTQM) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [BUST IT](https://open.spotify.com/album/0T5O8zzBxemSL7BIL6jJAu) | 3:33 |
+| 3 | [BUST IT \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/track/2rAjakCurnu8UBGCX4MTQM) | [CROWN J](https://open.spotify.com/artist/0MRiOTUJTYnn2DFzdKwRPH), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [BUST IT](https://open.spotify.com/album/0T5O8zzBxemSL7BIL6jJAu) | 3:33 |
 | 4 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 |
 | 5 | [Mr.Crooked \(Feat\. Kim Seungmin, Han Yo Han\)](https://open.spotify.com/track/0XGRwNXqZ5Aao3r5ACoPAz) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Mr.Crooked](https://open.spotify.com/album/7fqLcDodbP3uYIkzJwZM7I) | 3:35 |
 | 6 | [Dream](https://open.spotify.com/track/6gVtv8uLQgzSEu5pRu3jNP) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Dream](https://open.spotify.com/album/1phlVVm4LeVx4K6HKJ6BLk) | 2:20 |

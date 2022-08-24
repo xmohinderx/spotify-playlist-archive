@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-283 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+284 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,13 +257,14 @@
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2021-12-17 |  |
 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 | 2021-12-17 |  |
 | [Surrounded By Olive](https://open.spotify.com/track/31nLFWrGtgYilBGgTKLuyW) | [Joseph Martins](https://open.spotify.com/artist/3MR09XZH0Q5cRnennqCE2z) | [Surrounded By Olive](https://open.spotify.com/album/08kCIdkAdWiQpc313VHIGg) | 3:06 | 2021-12-17 |  |
+| [Susurrus](https://open.spotify.com/track/3Vo0VwSMPICUf7rLnmyEEv) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Susurrus](https://open.spotify.com/album/0m0uWRNgIyjjTrZGJAlnAJ) | 2:15 | 2022-08-23 |  |
 | [Swear on this Life](https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux) | [Fabienne Willis](https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9) | [Swear on this Life](https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw) | 2:12 | 2021-12-17 | 2022-04-22 |
 | [Swerving](https://open.spotify.com/track/67sHA0PewCor6HdDer5Nxv) | [Kinship Networks](https://open.spotify.com/artist/6JKJopFXDFKfLkA6rrgQQh) | [Swerving](https://open.spotify.com/album/1nwBBL77j2FBEip4k2fI4G) | 2:43 | 2021-12-17 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
 | [The Day is Done](https://open.spotify.com/track/5cVKlN0vdJiXiwc3F4HcYX) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [The Day is Done](https://open.spotify.com/album/5cC2JD0wxNRmC5fdRnCn0U) | 3:31 | 2022-07-15 |  |
 | [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 | 2021-12-17 |  |
 | [The Endless Frontier](https://open.spotify.com/track/2ltLj6TQczrt4tbWmKE8EP) | [Aulin Heras](https://open.spotify.com/artist/5IoiWICcLlfWh4K4VBQcDu) | [The Endless Frontier](https://open.spotify.com/album/5LaAaevE64mdJq1pFkW7lG) | 3:07 | 2022-06-16 |  |
-| [The Only Thing Left](https://open.spotify.com/track/3l2aKoxhYUlv9THMneynIu) | [kwajbasket](https://open.spotify.com/artist/33Ce3TUIc2sa9ZsGXbj6dZ) | [Fireside Chats](https://open.spotify.com/album/3XBlONAGEWfCBEReet9otW) | 3:27 | 2021-12-17 |  |
+| [The Only Thing Left](https://open.spotify.com/track/3l2aKoxhYUlv9THMneynIu) | [kwajbasket](https://open.spotify.com/artist/33Ce3TUIc2sa9ZsGXbj6dZ) | [Fireside Chats](https://open.spotify.com/album/3XBlONAGEWfCBEReet9otW) | 3:27 | 2021-12-17 | 2022-08-24 |
 | [There Is Hope](https://open.spotify.com/track/3EyQhfgL9QWapu9AQtstRw) | [Sub\-City Keys](https://open.spotify.com/artist/3yLwXiZTWsRCxJ0yHVTWNw) | [There Is Hope](https://open.spotify.com/album/0OvYxdnmAhkst7oiniEy4o) | 3:13 | 2021-12-17 | 2022-04-22 |
 | [Thoughts about the Past](https://open.spotify.com/track/3mT4rBTlHe90bcKv7Vq38T) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 2:44 | 2021-12-17 | 2022-04-22 |
 | [Through Your Eyes](https://open.spotify.com/track/1DERFIlUdiUtFCoLQIGdLj) | [Don Mazuck](https://open.spotify.com/artist/45zt0raIfZd0fb6yzSneno) | [Through Your Eyes](https://open.spotify.com/album/5yaMmCGAb7Auv5ZbX0flBQ) | 2:49 | 2021-12-17 |  |

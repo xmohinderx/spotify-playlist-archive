@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez, Jessie Uribe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,250 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,256 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 59 | [El Mejor Regalo](https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Mejor Regalo](https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd) | 2:43 |
 | 60 | [Qué Bonito](https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:05 |
 | 61 | [Amor y Veneno](https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Amor y Veneno](https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn) | 3:29 |
-| 62 | [Te Seguiré Queriendo \- Versión Mariachi](https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Te Seguiré Queriendo \(Versión Mariachi\)](https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX) | 3:12 |
+| 62 | [Si Hay Otra Vida](https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Hay Otra Vida](https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa) | 3:24 |
 | 63 | [Desde Que Llegaste](https://open.spotify.com/track/2Eg0Cg1vWx6URPbEAuUJIh) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Desde Que Llegaste](https://open.spotify.com/album/2pj6a8DjAlEYpndmS85YVa) | 3:21 |
-| 64 | [Si Hay Otra Vida](https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Hay Otra Vida](https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa) | 3:24 |
-| 65 | [Te Lo Dije](https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Te Lo Dije](https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt) | 2:33 |
+| 64 | [Te Lo Dije](https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Te Lo Dije](https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt) | 2:33 |
+| 65 | [Te Seguiré Queriendo \- Versión Mariachi](https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Te Seguiré Queriendo \(Versión Mariachi\)](https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX) | 3:12 |
 | 66 | [Se Te Olvidó](https://open.spotify.com/track/3iFlXPKEoIKgQJtryXvL28) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Invasión De Éxitos](https://open.spotify.com/album/6qsI958YYa8aS6KY8E7MEe) | 2:56 |
 | 67 | [Hazme Tuya](https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Hazme Tuya](https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI) | 2:24 |
 | 68 | [Pídeme](https://open.spotify.com/track/0BIdwub6gFNtiRe6NEGBtj) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Pídeme](https://open.spotify.com/album/6QRBG30LYs5knvpB9bZ3HK) | 3:32 |
 | 69 | [El privilegio de amar \- En vivo](https://open.spotify.com/track/50AcR2LB8UPRJ6hGQHcnH2) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Sinfónico Desde el Palacio de Bellas Artes \(En Vivo\)](https://open.spotify.com/album/2SyOyd1McFv5i3m58pU1iD) | 4:11 |
-| 70 | [Por Esa Calle Vive](https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:03 |
-| 71 | [Mi Meta Contigo \- Versión Mariachi](https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Meta Contigo \(Versión Mariachi\)](https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg) | 3:08 |
+| 70 | [Mi Meta Contigo \- Versión Mariachi](https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Meta Contigo \(Versión Mariachi\)](https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg) | 3:08 |
+| 71 | [Por Esa Calle Vive](https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:03 |
 | 72 | [Hoy Te Manifiesto \- En Vivo](https://open.spotify.com/track/2UQ5SfMKJHuSTc3lKu5PnD) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Hoy Te Manifiesto \(En Vivo\)](https://open.spotify.com/album/62XufSGztVePCTjjVcsHKZ) | 5:35 |
 | 73 | [Con Todo y Mi Tristeza \- Live](https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Con Todo y Mi Tristeza \(Live\)](https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL) | 4:18 |
 | 74 | [Olvídalo](https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Olvídalo](https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt) | 3:16 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 81 | [Quiero \- Mariachi](https://open.spotify.com/track/7hIwQgldC4w99nPtZyScgN) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 3:00 |
 | 82 | [Qué Ironía](https://open.spotify.com/track/3PlkHEhFeVPH3IM1OY9N3Y) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:48 |
 | 83 | [Amarlas Es Un Placer](https://open.spotify.com/track/79TGd2i6kti3xxiVP5wDWU) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Quinto Elemento \(Deluxe\)](https://open.spotify.com/album/2202BXQpm7R0eKyyZk5BlX) | 3:17 |
-| 84 | [El Diluvio](https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [El Diluvio](https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP) | 2:28 |
-| 85 | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/track/0LPpHtoUCbSLEXno1CF1kW) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb) | 2:53 |
+| 84 | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/track/0LPpHtoUCbSLEXno1CF1kW) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb) | 2:53 |
+| 85 | [El Diluvio](https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [El Diluvio](https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP) | 2:28 |
 | 86 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
 | 87 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 |
 | 88 | [Tu Adiós Como Tequila \- Versión Mariachi](https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Tu Adiós Como Tequila \(Versión Mariachi\)](https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH) | 3:35 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 126 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 |
 | 127 | [Probablemente](https://open.spotify.com/track/3WVloZ8Z5h6vgKQ7wFhi2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Festivo](https://open.spotify.com/album/5dpj0D8wTg7QFG5VMashbU) | 3:53 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGU4MjFhZjkzZTkyODgwMGExNzIzZmRiZWYxOTM4MDhj`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGE4ZTM4MmMxYzA1NTc2OWRhNmM1ZmFkZGNhMWRhMzU2`

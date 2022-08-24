@@ -1416,6 +1416,24 @@
     },
     {
       "album": {
+        "name": "Distant Sunrise",
+        "url": "https://open.spotify.com/album/4isWOKOddFFaUGOApJL8uK"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152462,
+      "name": "Invisible Currents",
+      "url": "https://open.spotify.com/track/58F2NUnMXH9VKWESwi05Z1"
+    },
+    {
+      "album": {
         "name": "Islets",
         "url": "https://open.spotify.com/album/1xs3ykLMsmz9KYiAMTXOjL"
       },

@@ -1722,6 +1722,24 @@
     },
     {
       "album": {
+        "name": "Korbag",
+        "url": "https://open.spotify.com/album/5bNkoDJ2IKDVJu6sNcgzXt"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Korbag",
+      "url": "https://open.spotify.com/track/0gBY3xJ8eig3YWnbASh5Xy"
+    },
+    {
+      "album": {
         "name": "La Zhar La Mektoub",
         "url": "https://open.spotify.com/album/3N6L8BP1VU8RceCFRx5Miz"
       },
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 272727,
       "name": "Ma vie en rose",
       "url": "https://open.spotify.com/track/715kOmrDKM2vM0szYl2Ba4"

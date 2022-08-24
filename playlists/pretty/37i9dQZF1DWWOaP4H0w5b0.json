@@ -1,12 +1,12 @@
 {
   "description": "Want some metal? Better to start with the essentials. Cover: Metallica",
-  "num_followers": 1551518,
+  "num_followers": 1552039,
   "original_name": "Metal Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMGU1YzRkYzc4NzQwMDEzNTYwOGUyOWVlZmFiNGM5OWFm",
+  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMDU5OTUyZTFkNDdkZTNjNzhhM2Q4MWMyOWQ0MmZlOTg0",
   "tracks": [
     {
       "added_at": "2022-08-12 13:00:00",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
     },
     {
-      "added_at": "2022-08-12 13:00:00",
-      "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "Breaking the Law",
-      "url": "https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT"
-    },
-    {
       "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Slipknot (10th Anniversary Edition)",
@@ -311,6 +295,22 @@
       "duration_ms": 147840,
       "name": "Wait and Bleed",
       "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 153840,
+      "name": "Breaking the Law",
+      "url": "https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT"
     },
     {
       "added_at": "2022-08-12 13:00:00",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
     },
     {
-      "added_at": "2022-08-12 13:00:00",
-      "album": {
-        "name": "Holy Diver",
-        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 353786,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
-    },
-    {
       "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Twilight Of The Thunder God",
@@ -839,6 +823,22 @@
       "duration_ms": 248746,
       "name": "Twilight Of The Thunder God",
       "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "duration_ms": 353786,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
     },
     {
       "added_at": "2022-08-12 13:00:00",

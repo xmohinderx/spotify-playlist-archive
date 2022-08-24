@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "album": {
         "name": "Alcohol-Free",
         "url": "https://open.spotify.com/album/55KZPPx9Ep8QrYqdBcn8aE"
       },
@@ -3399,7 +3417,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
@@ -5563,7 +5581,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 270750,
       "name": "\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9"
@@ -7473,7 +7491,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 217787,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e48\u0e19 \u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19 (Just Being Friendly)",
       "url": "https://open.spotify.com/track/3YN1Qgpgt5xVurl2mUFA4y"

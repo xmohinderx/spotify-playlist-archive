@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 303152,
+  "num_followers": 303192,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDNlNjAyYjQ2ZWEyNjhjMzcyZjUxNWFkYzRhMGQzZTNm",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDM5ZmQ0ZDM4Y2MyMTA1NTQ4NjQwN2FjNTE2NjIzODMy",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 280146,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 139906,
       "name": "No Discutamos",
       "url": "https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 280146,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Juan Gabriel y Lo Mas Romantico De",
-        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 179400,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG"
+      "duration_ms": 193733,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+        "name": "Juan Gabriel y Lo Mas Romantico De",
+        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 193733,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
+      "duration_ms": 179400,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG"
     },
     {
       "added_at": "2021-12-29 23:38:25",

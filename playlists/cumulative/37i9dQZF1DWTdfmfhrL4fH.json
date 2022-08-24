@@ -7321,6 +7321,24 @@
     {
       "album": {
         "name": "Blunderbuss",
+        "url": "https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155720,
+      "name": "Sixteen Saltines",
+      "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
+    },
+    {
+      "album": {
+        "name": "Blunderbuss",
         "url": "https://open.spotify.com/album/5Khz5tP9sdilu9YwlX8AE3"
       },
       "artists": [
@@ -8927,7 +8945,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 230240,
       "name": "Wetsuit",
       "url": "https://open.spotify.com/track/2sqtkSLyuo3hdpnp0gyVCq"

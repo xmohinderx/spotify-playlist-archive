@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-191 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+192 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Brazilian Samurai](https://open.spotify.com/track/6ITLE7JzvrfBwsFqbGtWoL) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Brazilian Samurai](https://open.spotify.com/album/4lotT58cTAdgciKcWdSl8W) | 2:41 | 2022-04-15 | 2022-07-29 |
 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 | 2022-04-15 |  |
 | [Casino Space Gun](https://open.spotify.com/track/2p83a4H9M3lElGRga9nEgm) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Casino Space Gun](https://open.spotify.com/album/7KmciSq3fci8jZvxpiY46i) | 2:20 | 2022-04-15 | 2022-07-29 |
-| [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 |  |
+| [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 | 2022-08-24 |
 | [Cerveza](https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Cerveza](https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel) | 2:59 | 2022-04-15 | 2022-07-07 |
 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 | 2022-04-15 |  |
 | [Clouds on My Bed](https://open.spotify.com/track/1pab9zVbWB1AsOknBXifbd) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Motel Lazy](https://open.spotify.com/album/1j3DSMGxqDAukUT52VLShV) | 2:32 | 2022-04-15 | 2022-07-04 |
@@ -143,6 +143,7 @@
 | [Smooth](https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Smooth](https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N) | 2:02 | 2022-04-15 |  |
 | [Snow Profile](https://open.spotify.com/track/62zZi1Yk6I4DlUrN5PSpKW) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Snow Profile](https://open.spotify.com/album/2ovh6aY8qeOJNSq0QweDhM) | 3:21 | 2022-04-15 | 2022-07-29 |
 | [Snowfall](https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:56 | 2022-04-15 | 2022-08-05 |
+| [Snowfall](https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ) | 2:56 | 2022-04-15 |  |
 | [Solitude](https://open.spotify.com/track/6trLPOBjf8nWjMtl5PibbV) | [leaf beach](https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh) | [Solitude](https://open.spotify.com/album/2dYxugKzxoX6phylPQ2I2x) | 1:50 | 2022-04-15 |  |
 | [Soul Surf](https://open.spotify.com/track/5BmFmLnVz4iHJUltXYoXpl) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb), [Abkountry](https://open.spotify.com/artist/5aqQNbKTyAIbtWysPRhF2S) | [Hello Mr.Goodvibe](https://open.spotify.com/album/6mq3p1dQeJYMUZHx7zFcGn) | 1:59 | 2022-04-15 | 2022-07-29 |
 | [Soulful](https://open.spotify.com/track/6CKMbke67ujzy1R7xYdQz2) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Playtime](https://open.spotify.com/album/6CzAUWwXyMbD437lg1E7jL) | 3:40 | 2022-04-15 |  |

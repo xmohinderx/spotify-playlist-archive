@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mari Fernandez e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,805 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,911 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 40 | [Tantão assim \- Ao vivo](https://open.spotify.com/track/3BQcRwHRHc2iZEmW0IxQZ5) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Tantão assim \(Ao vivo\)](https://open.spotify.com/album/1qtB8uFoOXClCkAwI1jj7X) | 3:02 |
 | 41 | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/track/01O7f0N2slitGFBcuBuIZM) | [Suellen & Francielly](https://open.spotify.com/artist/52WZ6GkSnEZxJ5iZUGBVGm) | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/album/6Oi6FNT4RzOOjKFDBSrXuz) | 2:36 |
 | 42 | [Coração Zero Bala](https://open.spotify.com/track/5IqQNVGxTFTJnu7gCWDYmz) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:06 |
-| 43 | [Coração Mal Dividido](https://open.spotify.com/track/7iw0Ao9yZgeEWY5lSYvaq0) | [Natália & Laura](https://open.spotify.com/artist/3YrRhr09dqXwCCszvnwqLr) | [Coração Mal Dividido](https://open.spotify.com/album/1HrxOHLaUyKTBtKZvzrOAP) | 2:36 |
-| 44 | [Sinto Muito](https://open.spotify.com/track/13otgR4JFCnq6xIhOw7X3z) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [May & Karen em Goiânia](https://open.spotify.com/album/3eTxrL0EnUdm3JkNrqv30U) | 2:40 |
+| 43 | [Sinto Muito](https://open.spotify.com/track/13otgR4JFCnq6xIhOw7X3z) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [May & Karen em Goiânia](https://open.spotify.com/album/3eTxrL0EnUdm3JkNrqv30U) | 2:40 |
+| 44 | [Coração Mal Dividido](https://open.spotify.com/track/7iw0Ao9yZgeEWY5lSYvaq0) | [Natália & Laura](https://open.spotify.com/artist/3YrRhr09dqXwCCszvnwqLr) | [Coração Mal Dividido](https://open.spotify.com/album/1HrxOHLaUyKTBtKZvzrOAP) | 2:36 |
 | 45 | [Cangote](https://open.spotify.com/track/5uDLHpMY6TJqhO26n9sOYs) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Cangote](https://open.spotify.com/album/5mRTWt02sSP9zenBGrhXit) | 3:09 |
 | 46 | [Taça de Gin](https://open.spotify.com/track/63GftAXrzvoH8dMQBvrGeR) | [Luna & Vitória](https://open.spotify.com/artist/5XB4U23lGtbayHASvSQn2q) | [Taça de Gin](https://open.spotify.com/album/2eATSE0WDv61PyoymxMBN9) | 2:41 |
 | 47 | [Cerveja Nela \- Ao Vivo](https://open.spotify.com/track/3q1Bl0oz0ZzedTmbdLeg99) | [Débora & Daniela](https://open.spotify.com/artist/3O4oCrI8bsnuk5X6mrjjb7) | [De Goiânia Pro Mundo \(Ao Vivo\)](https://open.spotify.com/album/5YlMGMSqYNqlB9n5Rcuxjs) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Eu Não](https://open.spotify.com/track/4LoEqYbhvAsOihCKJBfEP0) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:30 |
 | 50 | [A de Casa Ou a da Rua \- Ao Vivo](https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 2:49 |
 
-Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMDkxNzY3YjY4MDYyZWI2Y2M5MjZlZjIxNzg3MjZmYzY4`
+Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMDVmODc2YzViNmQxODJhYWE4ODA2NjNhMmVjMWEyOTg4`

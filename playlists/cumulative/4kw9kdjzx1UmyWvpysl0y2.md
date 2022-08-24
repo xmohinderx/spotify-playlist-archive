@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-242 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+243 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Drive You Crazy](https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Drive You Crazy](https://open.spotify.com/album/1zetX8KIFc1L4WmDm23uxb) | 2:58 | 2022-07-08 |  |
 | [Droids](https://open.spotify.com/track/14jlkBcHSBOdGLeei57uEH) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Droids](https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0) | 3:40 | 2022-06-09 | 2022-08-23 |
 | [Echoes Of Silence](https://open.spotify.com/track/1MgjRb4bfIktunmJS6rqBN) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Echoes Of Silence](https://open.spotify.com/album/3bAbk8cVmDJ5Q7J1IT6lVU) | 3:53 | 2022-07-15 |  |
-| [Elixir](https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Elixir / Nectar](https://open.spotify.com/album/6mrI14TDv5H4SKoYvcEPYA) | 3:03 | 2022-06-10 |  |
+| [Elixir](https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Elixir / Nectar](https://open.spotify.com/album/6mrI14TDv5H4SKoYvcEPYA) | 3:03 | 2022-06-10 | 2022-08-24 |
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
 | [Fall](https://open.spotify.com/track/4zh4Xvbh2FXYbWgY3eYm5C) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [Fall](https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE) | 3:00 | 2021-11-25 | 2022-03-02 |
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-01-21 | 2022-03-31 |
@@ -244,6 +244,7 @@
 | [Wheel Of Life](https://open.spotify.com/track/2ZZVvGeE3M8dfRBUy7khPH) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [Wheel Of Life](https://open.spotify.com/album/4vHjXmcYrtyS3TsJvsspuR) | 3:50 | 2022-01-19 | 2022-03-26 |
 | [When The Sun Goes Down](https://open.spotify.com/track/6FH2pCTCx5HkevdqH1P20D) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [When The Sun Goes Down](https://open.spotify.com/album/2u43o2x6oU5twBqN0DiNqI) | 3:48 | 2022-05-18 | 2022-07-29 |
 | [Wild Time](https://open.spotify.com/track/0YX38wDVtPkk7FAOO3wU64) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Wild Time](https://open.spotify.com/album/1ye5cB0yJ8wLlGoNv4s2qN) | 3:51 | 2022-05-12 | 2022-07-23 |
+| [Without You](https://open.spotify.com/track/5KuMYx5VncjdS6CSuurWlk) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [Without You](https://open.spotify.com/album/1PS4HKWlVVopci1ElsHCoc) | 2:30 | 2022-08-23 |  |
 | [Won't Make A Sound](https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Won't Make A Sound](https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg) | 4:36 | 2022-05-17 | 2022-07-28 |
 | [Won't Stop](https://open.spotify.com/track/6oS0xGbxzpkHh3f7ODXImB) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Won't Stop](https://open.spotify.com/album/3NXkqxY34ICPVZdMKl0CPO) | 4:38 | 2022-04-19 | 2022-06-30 |
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |

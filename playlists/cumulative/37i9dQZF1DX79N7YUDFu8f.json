@@ -843,10 +843,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 185783,
       "name": "Howling At The Moon",
       "url": "https://open.spotify.com/track/0lj2nJSYWe41NhF07SRAtI"
+    },
+    {
+      "album": {
+        "name": "Modern Heart",
+        "url": "https://open.spotify.com/album/3U1AZauAd7pqx4GitFLTjY"
+      },
+      "artists": [
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185783,
+      "name": "Howling at the Moon",
+      "url": "https://open.spotify.com/track/34Yx1C3PBF986YzL3jfuuR"
     },
     {
       "album": {
@@ -1219,6 +1237,24 @@
       "duration_ms": 223846,
       "name": "Lights Down Low",
       "url": "https://open.spotify.com/track/5brHijrNA7UAFw74p4f5v3"
+    },
+    {
+      "album": {
+        "name": "Little Birds",
+        "url": "https://open.spotify.com/album/3pwDJLTeuu2f1JAkWS6Vnj"
+      },
+      "artists": [
+        {
+          "name": "Midas",
+          "url": "https://open.spotify.com/artist/7eNngegCrDK76btqeQ78wD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199484,
+      "name": "Little Birds",
+      "url": "https://open.spotify.com/track/3mgFa4MC92Q6iaT1fLKJkm"
     },
     {
       "album": {
@@ -2531,7 +2567,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 201288,
       "name": "Till The Sun Comes Up",
       "url": "https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3"

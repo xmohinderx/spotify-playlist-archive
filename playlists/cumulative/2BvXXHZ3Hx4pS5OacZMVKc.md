@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-175 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+176 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dead Of Night \(VIP\) \- Remix](https://open.spotify.com/track/3z3wBalHCvpnAO63d6na7v) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Dead Of Night \(VIP\) \[Remix\]](https://open.spotify.com/album/1kuliqL1e3KkvuPbFvQ31X) | 4:02 | 2022-02-03 |  |
 | [Dioma](https://open.spotify.com/track/3waXln508ZnlKkmIdq0Y83) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Dioma](https://open.spotify.com/album/7KvJ8JfpKz9VN6ZutfoOhd) | 3:52 | 2022-02-03 |  |
 | [Dioma \(Demo\)](https://open.spotify.com/track/700JJvwxvnn8kykvp3nZqb) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Dioma \(Demo\)](https://open.spotify.com/album/3F6ynVYGAxoIgFPB4jvbff) | 2:17 | 2022-07-08 |  |
+| [Don't Know Why](https://open.spotify.com/track/3vyTl0rNX1xxW1XLeeMcmu) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Don't Know Why](https://open.spotify.com/album/5H2icnX0IBaEd2mp3B3w4E) | 2:04 | 2022-08-23 |  |
 | [Don't Surrender \- Abandoned Remix](https://open.spotify.com/track/30YkaFXxirvZO9JWGYVGkW) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x) | [The Revolution \(Remixed\)](https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g) | 3:12 | 2022-02-03 |  |
 | [Dreaming of Me \(feat\. Jaime Deraz\)](https://open.spotify.com/track/7gDmGpWuB7ghdzW09HfMx9) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Dreaming of Me \(feat\. Jaime Deraz\)](https://open.spotify.com/album/3mxgOh0vQDgYNobCZMveoz) | 3:19 | 2022-02-03 |  |
 | [Dreams pt\. II](https://open.spotify.com/track/6hwF25W29VOWw1nZ76EAXY) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Sara Skinner](https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y) | [Dreams pt\. II](https://open.spotify.com/album/3T9xfxcHKA1tXjPVULySWq) | 3:35 | 2022-02-03 |  |

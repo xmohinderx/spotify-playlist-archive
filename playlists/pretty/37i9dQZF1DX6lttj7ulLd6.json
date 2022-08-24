@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 23288,
+  "num_followers": 23546,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY0OTUyNSwwMDAwMDAwMDk0MTk3MjQ0M2U1ODc0NDMyYzhkODMyOGJjMTg0OTFk",
+  "snapshot_id": "MTY2MDY0OTUyNSwwMDAwMDAwMDRkZGY0ZmI4YWY5Y2MyZWQxMDI1MGVlZTcyODljNGMy",
   "tracks": [
     {
       "added_at": "2022-08-16 11:32:05",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
+        "name": "Sweet Thing",
+        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/2vqAgia9rMUeivicDvIdRI"
+    },
+    {
+      "added_at": "2022-08-16 11:32:05",
+      "album": {
         "name": "South Beach",
         "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 292120,
       "name": "Never Without You",
       "url": "https://open.spotify.com/track/7G212RN10A9CTozYwBXbNq"
-    },
-    {
-      "added_at": "2022-08-16 11:32:05",
-      "album": {
-        "name": "Sweet Thing",
-        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/2vqAgia9rMUeivicDvIdRI"
     },
     {
       "added_at": "2022-08-16 11:32:05",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
+        "name": "Playin' Favorites",
+        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
+    },
+    {
+      "added_at": "2022-08-16 11:32:05",
+      "album": {
         "name": "Just What You Need",
         "url": "https://open.spotify.com/album/7bUsoIHRz3zFdeJeBGhg1z"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 277437,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/621sF1DBkZAr5mtbtjE8El"
-    },
-    {
-      "added_at": "2022-08-16 11:32:05",
-      "album": {
-        "name": "Playin' Favorites",
-        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
     },
     {
       "added_at": "2022-08-16 11:32:05",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+        "name": "Perfect Moment",
+        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Can't Stop Now",
-      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
+      "duration_ms": 285626,
+      "name": "Perfect Moment",
+      "url": "https://open.spotify.com/track/3GP271M8xEpmtEFEfC56df"
     },
     {
       "added_at": "2022-08-16 11:32:05",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Can't Stop Now",
+      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
+    },
+    {
+      "added_at": "2022-08-16 11:32:05",
+      "album": {
         "name": "Still Euge",
         "url": "https://open.spotify.com/album/6gf9Ao9Aj6I96lgqVAzMDg"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 371773,
       "name": "Love, Passion And Joy",
       "url": "https://open.spotify.com/track/61vLZ0obeH8oxz68RVOQNY"
-    },
-    {
-      "added_at": "2022-08-16 11:32:05",
-      "album": {
-        "name": "Perfect Moment",
-        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 285626,
-      "name": "Perfect Moment",
-      "url": "https://open.spotify.com/track/3GP271M8xEpmtEFEfC56df"
     },
     {
       "added_at": "2022-08-16 11:32:05",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+        "name": "Kisses In The Rain",
+        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 262800,
-      "name": "Read Between the Lines",
-      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
+      "duration_ms": 222706,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/5dKyIGGTiQ8xqyvhHfg1Sf"
     },
     {
       "added_at": "2022-08-16 11:32:05",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
-        "name": "Kisses In The Rain",
-        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/5dKyIGGTiQ8xqyvhHfg1Sf"
-    },
-    {
-      "added_at": "2022-08-16 11:32:05",
-      "album": {
         "name": "In The Moment",
         "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 325373,
       "name": "Night Calls",
       "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
+    },
+    {
+      "added_at": "2022-08-16 11:32:05",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Read Between the Lines",
+      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
     },
     {
       "added_at": "2022-08-16 11:32:05",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
+        "name": "Sessions (Volume 1)",
+        "url": "https://open.spotify.com/album/0RrijXnO1sop1L0Wkmc9lR"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 399200,
+      "name": "Nightwalk",
+      "url": "https://open.spotify.com/track/10eKeT50gEcWHtf5lKKOTp"
+    },
+    {
+      "added_at": "2022-08-16 11:32:05",
+      "album": {
         "name": "Kickin' It Up",
         "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 265466,
       "name": "To The Max",
       "url": "https://open.spotify.com/track/5fZWvZlO3SddhtKE6p57b4"
-    },
-    {
-      "added_at": "2022-08-16 11:32:05",
-      "album": {
-        "name": "Influences",
-        "url": "https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "When You Love Somebody",
-      "url": "https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt"
     },
     {
       "added_at": "2022-08-16 11:32:05",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
+        "name": "Influences",
+        "url": "https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "When You Love Somebody",
+      "url": "https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt"
+    },
+    {
+      "added_at": "2022-08-16 11:32:05",
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 279040,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
-    },
-    {
-      "added_at": "2022-08-16 11:32:05",
-      "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/0L3yaukGbiP8X9BGHMGNOt"
-      },
-      "artists": [
-        {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
-        }
-      ],
-      "duration_ms": 289813,
-      "name": "The Only One For Me",
-      "url": "https://open.spotify.com/track/1dBhgZ40Qf8EVTZ61prtIJ"
     },
     {
       "added_at": "2022-08-16 11:32:05",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/0L3yaukGbiP8X9BGHMGNOt"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        }
+      ],
+      "duration_ms": 289813,
+      "name": "The Only One For Me",
+      "url": "https://open.spotify.com/track/1dBhgZ40Qf8EVTZ61prtIJ"
+    },
+    {
+      "added_at": "2022-08-16 11:32:05",
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
       },
@@ -1279,34 +1295,18 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
+        "name": "Another Door Opens",
+        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
       },
       "artists": [
         {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
         }
       ],
-      "duration_ms": 265493,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j"
-    },
-    {
-      "added_at": "2022-08-16 11:32:05",
-      "album": {
-        "name": "Sessions (Volume 1)",
-        "url": "https://open.spotify.com/album/0RrijXnO1sop1L0Wkmc9lR"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 399200,
-      "name": "Nightwalk",
-      "url": "https://open.spotify.com/track/10eKeT50gEcWHtf5lKKOTp"
+      "duration_ms": 284200,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
     },
     {
       "added_at": "2022-08-16 11:32:05",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
-        "name": "Another Door Opens",
-        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
       },
       "artists": [
         {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
         }
       ],
-      "duration_ms": 284200,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
+      "duration_ms": 265493,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j"
     },
     {
       "added_at": "2022-08-16 11:32:05",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-08-16 11:32:05",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
-      },
-      "artists": [
-        {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
-        }
-      ],
-      "duration_ms": 305026,
-      "name": "A Short Walk From Home",
-      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
-    },
-    {
-      "added_at": "2022-08-16 11:32:05",
-      "album": {
         "name": "Last Look",
         "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 303106,
       "name": "Ocean Way",
       "url": "https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx"
+    },
+    {
+      "added_at": "2022-08-16 11:32:05",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
+      },
+      "artists": [
+        {
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
+        }
+      ],
+      "duration_ms": 305026,
+      "name": "A Short Walk From Home",
+      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
     }
   ],
   "unique_name": "Smooth Jazz Chill",

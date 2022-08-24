@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,021 songs - 2 day 4 hr 49 min - [published](https://open.spotify.com/playlist/5Tz3j6NeYOoWmHXBAGiazZ)
+1,022 songs - 2 day 4 hr 52 min - [published](https://open.spotify.com/playlist/5Tz3j6NeYOoWmHXBAGiazZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,11 +514,12 @@
 | [Like No One Does](https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Like No One Does](https://open.spotify.com/album/7dXSckW6VGuZlmCiK14Go2) | 2:38 | 2020-06-13 | 2020-07-22 |
 | [Like That](https://open.spotify.com/track/1Edv7BraLaIMY6qCZNIPLj) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Like That](https://open.spotify.com/album/1MYGmteJMNaOjmx4xdiNLS) | 2:54 | 2021-05-08 | 2022-04-13 |
 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-04-30 | 2021-08-28 |
-| [Lil Bit \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/33aow0AcXYvT1FoWNzMcqN) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 3:15 | 2021-08-28 |  |
+| [Lil Bit \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/33aow0AcXYvT1FoWNzMcqN) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 3:15 | 2021-08-28 | 2022-08-24 |
 | [Lion King On Ice](https://open.spotify.com/track/1ZvBVbsaNqHEP6ymXaPGlj) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 3:30 | 2020-07-25 | 2020-07-29 |
 | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6XemQkX3lgqDC21nNdbdVw) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/3WsN9dZsEjTvA1bBQF0nZc) | 2:46 | 2019-06-08 | 2019-07-03 |
 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 | 2021-05-03 | 2022-04-13 |
 | [LMK](https://open.spotify.com/track/4s0hDz7zGgZUav9EvzyLsB) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [LMK](https://open.spotify.com/album/0TBztHupwqjak5J0ugWBxQ) | 3:08 | 2020-06-13 | 2020-08-05 |
+| [Lobby](https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Lobby](https://open.spotify.com/album/5gmkGLh7wtVd7LQat5sWbu) | 2:37 | 2022-08-19 |  |
 | [Loco Contigo \(with J\. Balvin & Tyga\)](https://open.spotify.com/track/1f38Gx6xQz6r4H1jGVNBJo) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Loco Contigo \(with J\. Balvin & Tyga\)](https://open.spotify.com/album/3HXHo0qkSUO4M9p6PEnA01) | 3:05 | 2019-06-15 | 2019-08-13 |
 | [Lois](https://open.spotify.com/track/2Kki4MvKJuZJgB6UPCpKJB) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Nonsuch Park \(sa\)](https://open.spotify.com/album/1hghzbtni8r1JTLHlAlPDm) | 2:54 | 2020-09-05 | 2021-04-30 |
 | [lonely anthem](https://open.spotify.com/track/0TtGNEFv8hTSTFJDXUA7lp) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [lonesome](https://open.spotify.com/album/5tvGgatnybABXI9xao61yZ) | 3:36 | 2019-07-27 | 2019-07-30 |

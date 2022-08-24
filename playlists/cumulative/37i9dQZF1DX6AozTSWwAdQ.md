@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-140 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
+141 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Not Your B](https://open.spotify.com/track/3DnBeUKpyH4mFtfSWlvQjQ) | [Vandetta](https://open.spotify.com/artist/2zJyoM4BKp0Aufq8QIpexd), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Chok Kerong](https://open.spotify.com/artist/1IOS1SiiBsCWWjebFzynOh), [Tim De Cotta](https://open.spotify.com/artist/0SFCGvh4sE1t6b2mTgpQ5D) | [Not Your B](https://open.spotify.com/album/6AOGxyQ5oWdQv7PP8K8EuC) | 3:39 | 2022-06-06 | 2022-07-29 |
 | [On My Way](https://open.spotify.com/track/30w9SEmvLQTrWf9LFxA7IO) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [On My Way](https://open.spotify.com/album/3ezCvHQlNEaFkZflL2FXIh) | 3:23 | 2022-06-06 | 2022-07-29 |
 | [Peer Pressure \(feat\. Julia Michaels\)](https://open.spotify.com/track/4JWQC6gyYoPRnxRxk0ta2M) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Peer Pressure \(feat\. Julia Michaels\)](https://open.spotify.com/album/4pPJ0Hwrvadty8bGsg4Msg) | 2:56 | 2022-06-27 | 2022-07-04 |
+| [Phoenix](https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA) | 3:17 | 2022-08-22 |  |
 | [Physical \(feat\. Hwa Sa\)](https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Physical \(feat\. Hwa Sa\)](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) | 3:13 | 2022-06-20 | 2022-06-24 |
 | [Radioactive Rain](https://open.spotify.com/track/2MPkM6BASRAxetDtmG9xHo) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Radioactive Rain](https://open.spotify.com/album/3Rq4ccDxBiquN4CmJ7c0iZ) | 3:31 | 2022-06-06 | 2022-07-23 |
 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 | 2022-07-25 |  |
@@ -134,7 +135,7 @@
 | [Twinkle Twinkle Little Bitch](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle Little Bitch](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-06-27 | 2022-07-05 |
 | [Unconditional](https://open.spotify.com/track/6WuVqsLi3eUp08vBgdEZmB) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Unconditional](https://open.spotify.com/album/2vrOVWbygbxGa5Y0qfE5p7) | 3:13 | 2022-06-06 | 2022-07-29 |
 | [UwU](https://open.spotify.com/track/7CNUEREC4jtFB6fRvqaEzX) | [The Sundown](https://open.spotify.com/artist/48iq3dtGs3M8P66dZtJ6Mu) | [UwU](https://open.spotify.com/album/6uHem5ARqIuNCCvtvLxqsI) | 3:20 | 2022-06-06 | 2022-07-29 |
-| [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-07-25 |  |
+| [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-07-25 | 2022-08-24 |
 | [We'll be fine \- English Version](https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [We'll be fine \(English Version\)](https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi) | 3:17 | 2022-06-06 | 2022-07-29 |
 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2022-07-25 |  |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-06-06 |  |

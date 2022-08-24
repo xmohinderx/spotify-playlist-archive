@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: AKIKO
 
-212 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+213 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Your Eyes](https://open.spotify.com/track/4goXqBKlrjVDFdABSEYItt) | [Yulie](https://open.spotify.com/artist/7yH3sjveHQuOWB8eZRKk3k), [Blue Bone](https://open.spotify.com/artist/5hW5sCvcnV65dARCSETrkC) | [Your Eyes](https://open.spotify.com/album/5yolu7ryMRLvq8ZG0fpou7) | 3:04 | 2022-07-28 |  |
 | [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-08-18 |  |
 | [一圈](https://open.spotify.com/track/0euVgrqM2KLX4MF3AI3OR9) | [HLau](https://open.spotify.com/artist/7qLp47GBWXHfOnXFhVBMiJ) | [一圈](https://open.spotify.com/album/04v5MzEvR5kcChMMClQHkY) | 3:58 | 2022-05-26 | 2022-06-10 |
-| [下雨的瞬間](https://open.spotify.com/track/7jgLHmHySzZbLZCf1cIr5d) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/3CKdp6n2D977N3AhN71W82) | 3:38 | 2022-08-04 |  |
+| [下雨的瞬間](https://open.spotify.com/track/7jgLHmHySzZbLZCf1cIr5d) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/3CKdp6n2D977N3AhN71W82) | 3:38 | 2022-08-04 | 2022-08-24 |
+| [下雨的瞬間 Raining Moment](https://open.spotify.com/track/3mRBZkUKakcjrlCegUU2J7) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/1DcyRtz8g3mvwFy1AsmVhY) | 3:38 | 2022-08-18 |  |
 | [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 |  |
 | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/album/1zWBngiKyE91gjT0MR0IaV) | 4:00 | 2022-08-04 |  |
 | [二話都說](https://open.spotify.com/track/6cpqG1kjoSbe9wgaSlvMEW) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [二話都說](https://open.spotify.com/album/4qzCwbSnrKcsJHfoPT6Lx1) | 4:44 | 2022-05-26 | 2022-06-10 |

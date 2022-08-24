@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,565 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,686 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 47 | [Ladra de Moletom](https://open.spotify.com/track/4GvMezy9QsvAfNfkazPdyy) | [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3) | [Ladra de Moletom](https://open.spotify.com/album/6jA3l0XIWZkcY0vVZByq7T) | 3:08 |
 | 48 | [Cê tá bem \(Remix\)](https://open.spotify.com/track/5WZ5MJyJTUgPC0oSVRzxHX) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [Cê tá bem \(Remix\)](https://open.spotify.com/album/59XmINGEHdizIVZLyz5NVD) | 3:11 |
 | 49 | [Química](https://open.spotify.com/track/5ibpnsWL2cbPHZryVdZtHF) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:24 |
-| 50 | [Nuvens](https://open.spotify.com/track/0iAOW4OvdJ851fMsBetwDg) | [Khauan](https://open.spotify.com/artist/7nbtGMD04rSRQSFwTZrPfx), [Ceejay SDB](https://open.spotify.com/artist/3GYBSj5XeeGqWbgOLIXQn9) | [Nuvens](https://open.spotify.com/album/3CONsQp5OceeRQ4yVmDP0M) | 3:17 |
+| 50 | [Nuvens](https://open.spotify.com/track/0iAOW4OvdJ851fMsBetwDg) | [Khauan](https://open.spotify.com/artist/7nbtGMD04rSRQSFwTZrPfx), [Ceejay SDB](https://open.spotify.com/artist/3GYBSj5XeeGqWbgOLIXQn9), [Frxtx](https://open.spotify.com/artist/44NQMnUQrjIlbQZILjcj45) | [Nuvens](https://open.spotify.com/album/3CONsQp5OceeRQ4yVmDP0M) | 3:17 |
 | 51 | [Amor Espacial](https://open.spotify.com/track/0wcUKYS8PIpaYIVsQZsmmf) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6) | [Amor Espacial](https://open.spotify.com/album/5XZhBHLbBp1xUwmz5A86rJ) | 3:43 |
 | 52 | [Me Negaram Amor](https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Me Negaram Amor](https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7) | 4:48 |
 | 53 | [O Show Tem Que Continuar](https://open.spotify.com/track/7pkEYbWOeET1BI3SQ76XsH) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [O Show Tem Que Continuar](https://open.spotify.com/album/1fxxfFbWZIdRsKybeAmLTu) | 2:39 |

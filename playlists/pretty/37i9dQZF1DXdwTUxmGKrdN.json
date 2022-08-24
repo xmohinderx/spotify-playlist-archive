@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 357287,
+  "num_followers": 357459,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzNTM1OSwwMDAwMDAwMDJmNTNkOGY2ZDM4YTZjNWY5MTAzZDMxNDExMWUxMDFi",
+  "snapshot_id": "MTY2MDUzNTM1OSwwMDAwMDAwMDdiMmM5ZDQyODc3MTViYzJlNWFmODYxYmRmNjhjYjBk",
   "tracks": [
     {
       "added_at": "2022-08-15 03:49:19",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-08-15 03:49:19",
       "album": {
-        "name": "Revolving Door",
-        "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
-        }
-      ],
-      "duration_ms": 347013,
-      "name": "Revolving Door",
-      "url": "https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73"
-    },
-    {
-      "added_at": "2022-08-15 03:49:19",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 293533,
       "name": "Undun",
       "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
+    },
+    {
+      "added_at": "2022-08-15 03:49:19",
+      "album": {
+        "name": "Revolving Door",
+        "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
+        }
+      ],
+      "duration_ms": 347013,
+      "name": "Revolving Door",
+      "url": "https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73"
     },
     {
       "added_at": "2022-08-15 03:49:19",
@@ -523,26 +523,6 @@
     {
       "added_at": "2022-08-15 03:49:19",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/2HPhFHjp8sp4q06IxjLyxH"
-      },
-      "artists": [
-        {
-          "name": "Chris \"Big Dog\" Davis",
-          "url": "https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "It's All Love",
-      "url": "https://open.spotify.com/track/5popJgopB341MpiXxfmFB5"
-    },
-    {
-      "added_at": "2022-08-15 03:49:19",
-      "album": {
         "name": "Lip Service",
         "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 246237,
       "name": "Let It Shine",
       "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
+    },
+    {
+      "added_at": "2022-08-15 03:49:19",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/2HPhFHjp8sp4q06IxjLyxH"
+      },
+      "artists": [
+        {
+          "name": "Chris \"Big Dog\" Davis",
+          "url": "https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "It's All Love",
+      "url": "https://open.spotify.com/track/5popJgopB341MpiXxfmFB5"
     },
     {
       "added_at": "2022-08-15 03:49:19",
@@ -715,18 +715,22 @@
     {
       "added_at": "2022-08-15 03:49:19",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
+        "name": "Magic Hour",
+        "url": "https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz"
       },
       "artists": [
         {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
         }
       ],
-      "duration_ms": 278200,
-      "name": "My Song for You",
-      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
+      "duration_ms": 255348,
+      "name": "Magic Hour",
+      "url": "https://open.spotify.com/track/1AbQCUGbvIbO2NUen6tVAg"
     },
     {
       "added_at": "2022-08-15 03:49:19",
@@ -747,6 +751,22 @@
     {
       "added_at": "2022-08-15 03:49:19",
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "My Song for You",
+      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
+    },
+    {
+      "added_at": "2022-08-15 03:49:19",
+      "album": {
         "name": "Fluid",
         "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 265875,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
-    },
-    {
-      "added_at": "2022-08-15 03:49:19",
-      "album": {
-        "name": "Magic Hour",
-        "url": "https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz"
-      },
-      "artists": [
-        {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 255348,
-      "name": "Magic Hour",
-      "url": "https://open.spotify.com/track/1AbQCUGbvIbO2NUen6tVAg"
     },
     {
       "added_at": "2022-08-15 03:49:19",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-15 03:49:19",
       "album": {
-        "name": "Finger Painting",
-        "url": "https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "Let\u2019s Get Serious",
-      "url": "https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm"
-    },
-    {
-      "added_at": "2022-08-15 03:49:19",
-      "album": {
         "name": "Personal Touch",
         "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 224626,
       "name": "Personal Touch",
       "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+    },
+    {
+      "added_at": "2022-08-15 03:49:19",
+      "album": {
+        "name": "Finger Painting",
+        "url": "https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "Let\u2019s Get Serious",
+      "url": "https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm"
     },
     {
       "added_at": "2022-08-15 03:49:19",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-08-15 03:49:19",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
-      },
-      "artists": [
-        {
-          "name": "Phil Denny",
-          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
-        }
-      ],
-      "duration_ms": 260746,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
-    },
-    {
-      "added_at": "2022-08-15 03:49:19",
-      "album": {
         "name": "Goin' All Out",
         "url": "https://open.spotify.com/album/119TqT324LissrAdkAKxf9"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 247360,
       "name": "Be Without You",
       "url": "https://open.spotify.com/track/5JQbLxZhpnc1YvLTMKACzy"
+    },
+    {
+      "added_at": "2022-08-15 03:49:19",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
+      },
+      "artists": [
+        {
+          "name": "Phil Denny",
+          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
     },
     {
       "added_at": "2022-08-15 03:49:19",
@@ -995,34 +995,18 @@
     {
       "added_at": "2022-08-15 03:49:19",
       "album": {
-        "name": "Out Of The Shadows",
-        "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
       },
       "artists": [
         {
-          "name": "Spur Of The Moment",
-          "url": "https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe"
+          "name": "Jacob Webb",
+          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
         }
       ],
-      "duration_ms": 281413,
-      "name": "In Key",
-      "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
-    },
-    {
-      "added_at": "2022-08-15 03:49:19",
-      "album": {
-        "name": "After 8",
-        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
+      "duration_ms": 266145,
+      "name": "Groovin' J",
+      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
     },
     {
       "added_at": "2022-08-15 03:49:19",
@@ -1047,18 +1031,34 @@
     {
       "added_at": "2022-08-15 03:49:19",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
+        "name": "After 8",
+        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
       },
       "artists": [
         {
-          "name": "Jacob Webb",
-          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
         }
       ],
-      "duration_ms": 266145,
-      "name": "Groovin' J",
-      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
+      "duration_ms": 252333,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
+    },
+    {
+      "added_at": "2022-08-15 03:49:19",
+      "album": {
+        "name": "Out Of The Shadows",
+        "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
+      },
+      "artists": [
+        {
+          "name": "Spur Of The Moment",
+          "url": "https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe"
+        }
+      ],
+      "duration_ms": 281413,
+      "name": "In Key",
+      "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
     },
     {
       "added_at": "2022-08-15 03:49:19",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-08-15 03:49:19",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
-    },
-    {
-      "added_at": "2022-08-15 03:49:19",
-      "album": {
         "name": "Shine!",
         "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2022-08-15 03:49:19",
       "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
+    },
+    {
+      "added_at": "2022-08-15 03:49:19",
+      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/7BYmR4CnsUcPtLrUyy5b4H"
       },
@@ -1159,38 +1159,6 @@
       "duration_ms": 257933,
       "name": "Say What's on Your Mind",
       "url": "https://open.spotify.com/track/0JKzJAkRRdqrfT7qjkp9Bx"
-    },
-    {
-      "added_at": "2022-08-15 03:49:19",
-      "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Sweet Kisses",
-      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
-    },
-    {
-      "added_at": "2022-08-15 03:49:19",
-      "album": {
-        "name": "Bass Trap",
-        "url": "https://open.spotify.com/album/7wsE5XmD3gfXiitBYGghqM"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        }
-      ],
-      "duration_ms": 282547,
-      "name": "Bass Trap",
-      "url": "https://open.spotify.com/track/7JvhchmlEIuIe3khtfXp3q"
     },
     {
       "added_at": "2022-08-15 03:49:19",
@@ -1215,18 +1183,34 @@
     {
       "added_at": "2022-08-15 03:49:19",
       "album": {
-        "name": "Rite of Passage",
-        "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
+        "name": "Bass Trap",
+        "url": "https://open.spotify.com/album/7wsE5XmD3gfXiitBYGghqM"
       },
       "artists": [
         {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
+      "duration_ms": 282547,
+      "name": "Bass Trap",
+      "url": "https://open.spotify.com/track/7JvhchmlEIuIe3khtfXp3q"
+    },
+    {
+      "added_at": "2022-08-15 03:49:19",
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Sweet Kisses",
+      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
     },
     {
       "added_at": "2022-08-15 03:49:19",
@@ -1243,6 +1227,22 @@
       "duration_ms": 212613,
       "name": "Open Skies",
       "url": "https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo"
+    },
+    {
+      "added_at": "2022-08-15 03:49:19",
+      "album": {
+        "name": "Rite of Passage",
+        "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
     },
     {
       "added_at": "2022-08-15 03:49:19",

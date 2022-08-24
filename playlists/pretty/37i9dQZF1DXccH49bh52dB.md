@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,520 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,786 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 92 | [Let You Love Me \- Möwe Remix](https://open.spotify.com/track/4M0pT9kNYndhyPw15ZDR8C) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy) | [Let You Love Me \(Möwe Remix\)](https://open.spotify.com/album/4OAnWD1IinbLW6ZTKehAh2) | 3:06 |
 | 93 | [Lie](https://open.spotify.com/track/3O1uhWkr42NesFnVloLq2a) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:35 |
 | 94 | [I Was Wrong \- Robin Schulz Remix](https://open.spotify.com/track/4RNpfZR9Zm7efzuMghkPKb) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [I Was Wrong \(Remixes\)](https://open.spotify.com/album/5k8iqv5tY2xuPLspfa9xBY) | 3:40 |
-| 95 | [Show Me Love](https://open.spotify.com/track/2UsnjLHBKPaaRjZiWYUCpj) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt) | [Show Me Love](https://open.spotify.com/album/2TLZzh2JoU0hiQKEpFPxrW) | 3:01 |
-| 96 | [Cold Water \- Lost Frequencies Remix](https://open.spotify.com/track/4HMfSzk0UsiRhulF0eb1M9) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Cold Water \(Remixes\)](https://open.spotify.com/album/33Td2oa2lLAeblqViPpEVL) | 3:56 |
+| 95 | [Cold Water \- Lost Frequencies Remix](https://open.spotify.com/track/4HMfSzk0UsiRhulF0eb1M9) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Cold Water \(Remixes\)](https://open.spotify.com/album/33Td2oa2lLAeblqViPpEVL) | 3:56 |
+| 96 | [Show Me Love](https://open.spotify.com/track/2UsnjLHBKPaaRjZiWYUCpj) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt) | [Show Me Love](https://open.spotify.com/album/2TLZzh2JoU0hiQKEpFPxrW) | 3:01 |
 | 97 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\) \- Thomas Rasmus Chill Mix](https://open.spotify.com/track/122AOGwKIrI40hLGYRwirG) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Thomas Rasmus](https://open.spotify.com/artist/6WmpHA7d0S6aRf9H2WzION) | [Rockabye \(feat\. Sean Paul & Anne\-Marie\) \[Remixes\]](https://open.spotify.com/album/37fZHLKGbcQE79BhxMCMWc) | 3:38 |
 | 98 | [What I Might Do](https://open.spotify.com/track/2K34h28laoZsRtXP8EjVrD) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [Happy Deep House](https://open.spotify.com/album/1fXJPISF4pjl2EAO4IVSUu) | 3:15 |
 | 99 | [Eyes Shut \- Sam Feldt Remix](https://open.spotify.com/track/6k9iH2ZS4jMREnU33rjpS2) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Chilled Dance Classics](https://open.spotify.com/album/3GRRFmCreE0OfhK0VN3vkn) | 5:10 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Raging \(feat\. Kodaline\)](https://open.spotify.com/track/2Vhd5uZB4brKHmM0MNxkZo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:44 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDQ5MDEwNDIzY2NkNjgwYmZlN2ZlMTY4ODBhNjA2ODhi`
+Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMGVjNzdhNDI3Yzc4MWJkZDM4MDdjMDNkZTZiNzk2MGYz`

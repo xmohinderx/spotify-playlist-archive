@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Big Boss Vette
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,891 likes - 49 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,991 likes - 49 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 19 | [Tomorrow](https://open.spotify.com/track/2RkyV0KXNLstEKn2qb1KZ6) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 1:53 |
 | 20 | [Girls in the Hood](https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:34 |
 | 21 | [Seduce & Scheme \(RAP SH!T: Soundtrack From The Max Original Series\)](https://open.spotify.com/track/7soX1jrCsDhZdwikQiiibk) | [Shawna & Mia](https://open.spotify.com/artist/1IbE7R5bQCSBeMhVRbWnU7), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Seduce & Scheme \(RAP SH!T: Soundtrack From The Max Original Series\)](https://open.spotify.com/album/1Vv0VzKUziAaDRqZyJteBh) | 2:24 |
-| 22 | [BIA BIA \(feat\. Lil Jon\)](https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:05 |
+| 22 | [Trick](https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:07 |
 | 23 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
 | 24 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
-| 25 | [Trick](https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:07 |
-| 26 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 |
-| 27 | [BAFWM](https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Redemption](https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er) | 2:47 |
+| 25 | [BIA BIA \(feat\. Lil Jon\)](https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:05 |
+| 26 | [BAFWM](https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Redemption](https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er) | 2:47 |
+| 27 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 |
 | 28 | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M) | 2:49 |
 | 29 | [Hunnit Dolla Hiccup](https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Hunnit Dolla Hiccup](https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB) | 3:37 |
 | 30 | [Record Straight](https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 1:56 |
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 46 | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ) | [Girll Codee](https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO), [HoodCelebrityy](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v) | 3:05 |
 | 47 | [Talk](https://open.spotify.com/track/1r1s3410xYexj6RHM670dc) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Talk](https://open.spotify.com/album/6SJDmsoNuteasF86EPiZQK) | 2:01 |
 | 48 | [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 |
-| 49 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 |
+| 49 | [11:11](https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [11:11](https://open.spotify.com/album/7goPUFOOsxCg5WNxUpsILS) | 1:33 |
 
-Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMGUzODgzNzk0ZTE2ZGJhNTVlNzRhYTdiZjc0OGI4NDgy`
+Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMDQ5ZTkzY2I3N2U0YjBjNjc0MDIxM2Y3YzFkODhlMzIz`

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: VF7",
-  "num_followers": 503745,
+  "num_followers": 503782,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4NjcyNSwwMDAwMDAwMDEyYTQxMTQxZjk0MzVmOTBiMzUyMDhkYjdkODliZTg2",
+  "snapshot_id": "MTY2MDg4NjcyNSwwMDAwMDAwMGU5MjE4NmRmMWZiM2VjNTZhNzNkMGY1MzcyZjEwNjg3",
   "tracks": [
     {
       "added_at": "2022-08-19 05:25:25",
@@ -627,42 +627,6 @@
     {
       "added_at": "2022-08-19 05:25:25",
       "album": {
-        "name": "Mojadero",
-        "url": "https://open.spotify.com/album/7ptOOr9s01AaepOVD7ACOl"
-      },
-      "artists": [
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Revol",
-          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "Mojadero",
-      "url": "https://open.spotify.com/track/6CuLgRNyiHtWcRCqFeZA8i"
-    },
-    {
-      "added_at": "2022-08-19 05:25:25",
-      "album": {
-        "name": "El Pibe (Vol.1)",
-        "url": "https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA"
-    },
-    {
-      "added_at": "2022-08-19 05:25:25",
-      "album": {
         "name": "Racks On Me",
         "url": "https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc"
       },
@@ -683,6 +647,42 @@
     {
       "added_at": "2022-08-19 05:25:25",
       "album": {
+        "name": "El Pibe (Vol.1)",
+        "url": "https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA"
+    },
+    {
+      "added_at": "2022-08-19 05:25:25",
+      "album": {
+        "name": "Mojadero",
+        "url": "https://open.spotify.com/album/7ptOOr9s01AaepOVD7ACOl"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "Mojadero",
+      "url": "https://open.spotify.com/track/6CuLgRNyiHtWcRCqFeZA8i"
+    },
+    {
+      "added_at": "2022-08-19 05:25:25",
+      "album": {
         "name": "Diskreto",
         "url": "https://open.spotify.com/album/0KEX9eiLQbH9188yR9DWqd"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 177752,
       "name": "Diskreto",
       "url": "https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc"
-    },
-    {
-      "added_at": "2022-08-19 05:25:25",
-      "album": {
-        "name": "Contacto",
-        "url": "https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL"
-      },
-      "artists": [
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Contacto",
-      "url": "https://open.spotify.com/track/60UZ3rIcDkjoN5i2aZalNh"
     },
     {
       "added_at": "2022-08-19 05:25:25",
@@ -731,6 +715,22 @@
       "duration_ms": 212608,
       "name": "ea diache",
       "url": "https://open.spotify.com/track/3nQmKjtOfpfc5UGE7eA08u"
+    },
+    {
+      "added_at": "2022-08-19 05:25:25",
+      "album": {
+        "name": "Contacto",
+        "url": "https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Contacto",
+      "url": "https://open.spotify.com/track/60UZ3rIcDkjoN5i2aZalNh"
     },
     {
       "added_at": "2022-08-19 05:25:25",

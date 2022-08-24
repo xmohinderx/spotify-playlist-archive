@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> Dance and electronic Arabic songs\. Cover: Khaled & DJ Snake.
+> Dance and electronic Arabic songs\. Cover: Jad Halal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,503 likes - 54 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,529 likes - 54 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 53 | [Raina Rai](https://open.spotify.com/track/6uXkNygGn4fIMSitwP47wa) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Raina Rai](https://open.spotify.com/album/2kPkBpH8Mnu89fomCSUPfP) | 3:34 |
 | 54 | [Kun](https://open.spotify.com/track/38p1aFLLRYT8XbNal1PbWT) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 4:45 |
 
-Snapshot ID: `MTY2MTE2MTgyNiwwMDAwMDAwMGJkNGFiYTU1OGZlNjVmOTMwMGFkZTYwZjFiZGE5NTY1`
+Snapshot ID: `MTY2MTI1ODMxMCwwMDAwMDAwMDhjODQ4MmQ3NDNiYTM4Y2YxYzU4ZjAxNTg4NjU4MTlh`

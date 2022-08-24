@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Luan Santana com Luísa Sonza e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,813,701 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,815,137 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [A Maior Saudade \- Ao Vivo](https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [A Maior Saudade \(Ao Vivo\)](https://open.spotify.com/album/5t3C6hF6FRHj0kHJOT9vKW) | 3:10 |
 | 50 | [Gatilho \- Ao Vivo](https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Se Melhorar Estraga \(Ao Vivo\)](https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6) | 2:35 |
 
-Snapshot ID: `MTY2MDgzNDgwMCwwMDAwMDAwMDQzMWIxM2NjZjkyMDcwZTU4MGEyMGJhMmE5NDdhYjVm`
+Snapshot ID: `MTY2MTI3ODE2MiwwMDAwMDAwMDgyNDY1NThmNmVkNzY3M2QzYTY2MjQ4ZDY1YjMxZDc5`

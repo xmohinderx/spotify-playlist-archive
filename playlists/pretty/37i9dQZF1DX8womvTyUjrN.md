@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Pau Laggies
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,972 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,025 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 13 | [guerra fría](https://open.spotify.com/track/2DixC7X56VnSsQfxlP6m7w) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [guerra fría](https://open.spotify.com/album/0WpDxNe3deBqXNBOAy7rFc) | 3:04 |
 | 14 | [Byemalandra](https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Byemalandra](https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf) | 2:45 |
 | 15 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
-| 16 | [No Estamos Tan Locos](https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [No Estamos Tan Locos](https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3) | 3:26 |
-| 17 | [solo x ti](https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [solo x ti](https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe) | 3:18 |
+| 16 | [solo x ti](https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [solo x ti](https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe) | 3:18 |
+| 17 | [No Estamos Tan Locos](https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [No Estamos Tan Locos](https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3) | 3:26 |
 | 18 | [Fino](https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:25 |
 | 19 | [Dolía](https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Dolía](https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA) | 2:47 |
 | 20 | [Cuando Te Veo](https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Cuando Te Veo](https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5) | 3:19 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 42 | [Tq para mi ✨](https://open.spotify.com/track/1wBM6bZWmwr0Wtq3S4SRDr) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM), [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [Tq para mi ✨](https://open.spotify.com/album/1VWrrII4gcdo9tr3wEak1t) | 3:36 |
 | 43 | [Fuckin' Cupido </3](https://open.spotify.com/track/0LsoBe7x8VCHCdgPFxe7db) | [Jean Kala](https://open.spotify.com/artist/4fHIspqJ3qTfWvK3UAbOl9), [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Ndrey Botto](https://open.spotify.com/artist/5iOU7GvWyx3JiaxjJxesd9) | [Fuckin' Cupido </3](https://open.spotify.com/album/7kybS1WpOJk8MBniNTzjVK) | 3:46 |
 | 44 | [Más Allá](https://open.spotify.com/track/17WGo3851h6lRAU8GFV9uR) | [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy) | [Más Allá](https://open.spotify.com/album/5NlFJJVCJkquplO5wotAlT) | 2:51 |
-| 45 | [toxic](https://open.spotify.com/track/0hNFItiR6gG6HggDP8yxyj) | [Lenay](https://open.spotify.com/artist/4NGQEs8rzLgKe5VbNqiV3D) | [toxic](https://open.spotify.com/album/4M9iAW1b6ko9riHb1utBDD) | 2:41 |
-| 46 | [sin tu fuego](https://open.spotify.com/track/0Kwclo1cdzghNqwyKpHX2a) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH), [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [Hasta en los sueños...](https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL) | 4:18 |
-| 47 | [Party](https://open.spotify.com/track/69xB9y3BNxx9oCHXL86f3b) | [Séssi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Party](https://open.spotify.com/album/0sqJ5bv1E0u9OXKF5PP6mm) | 2:36 |
+| 45 | [Party](https://open.spotify.com/track/69xB9y3BNxx9oCHXL86f3b) | [Séssi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Party](https://open.spotify.com/album/0sqJ5bv1E0u9OXKF5PP6mm) | 2:36 |
+| 46 | [toxic](https://open.spotify.com/track/0hNFItiR6gG6HggDP8yxyj) | [Lenay](https://open.spotify.com/artist/4NGQEs8rzLgKe5VbNqiV3D) | [toxic](https://open.spotify.com/album/4M9iAW1b6ko9riHb1utBDD) | 2:41 |
+| 47 | [sin tu fuego](https://open.spotify.com/track/0Kwclo1cdzghNqwyKpHX2a) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH), [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [Hasta en los sueños...](https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL) | 4:18 |
 | 48 | [Solos](https://open.spotify.com/track/7vEPWsovwnkHa2fN5I3tST) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Solos](https://open.spotify.com/album/128JK5zcSwTC1kSNvQqCbS) | 2:59 |
 | 49 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 |
 | 50 | [FWEGO](https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [FWEGO](https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt) | 3:07 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 54 | [Huracan](https://open.spotify.com/track/3qJ26P2dLkSp5PxxGWVKBF) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Huracan](https://open.spotify.com/album/4FPzcCgliOsV62ZYXk9xqi) | 3:04 |
 | 55 | [Apodos](https://open.spotify.com/track/6j3eHgouvrPZsc195RkHGd) | [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Apodos](https://open.spotify.com/album/1QUaGILRvCs7Iqo8h9ysBP) | 2:39 |
 
-Snapshot ID: `MTY2MDIzMjg4MiwwMDAwMDAwMDYwMDY2ODhmMmE3Zjk1ODFmZTk2YzRlNmE4Y2RmZjYx`
+Snapshot ID: `MTY2MDIzMjg4MiwwMDAwMDAwMGU1MzgyYTE1NDFkZTgzMTRhOGQxOWFiMDlkZjM2NTk1`

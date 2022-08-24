@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: IF
 
-445 songs - 1 day 0 hr 20 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+446 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Farley](https://open.spotify.com/track/0dB07HuKQLWljnWFXkGAyM) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [The Awakening](https://open.spotify.com/album/48i9AxpSUaDGw2OJQTXmjR) | 2:58 | 2022-07-21 | 2022-08-19 |
 | [Feelin'](https://open.spotify.com/track/6YoicaJPVCpHvMmOZWksON) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Feelin'](https://open.spotify.com/album/3vBc37jVJlgaHKhcavhDg3) | 2:36 | 2022-05-12 | 2022-07-29 |
 | [FELLOWS](https://open.spotify.com/track/3JMibBDmgWFfaovh0c0hPm) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [証](https://open.spotify.com/album/5ytodu6cQWyhNzotNTWuzo) | 3:48 | 2022-05-19 | 2022-07-29 |
-| [fidget](https://open.spotify.com/track/5IBxylEZWVQ0dnPeqVkTmK) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/24NqXrbilncITglWtThf9l) | 3:08 | 2022-08-18 | 2022-08-20 |
+| [fidget](https://open.spotify.com/track/5IBxylEZWVQ0dnPeqVkTmK) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/24NqXrbilncITglWtThf9l) | 3:08 | 2022-08-18 |  |
 | [Find us if you can](https://open.spotify.com/track/0cLqyioxeUmOuzsp5UbMSp) | [MINAMIS](https://open.spotify.com/artist/1cb518s8hpdR2Dba0WkrtZ) | [BRIGHT PUNK E.P.](https://open.spotify.com/album/39MGoo2PZWWN4PX0AuoRVQ) | 0:56 | 2022-05-17 | 2022-07-23 |
 | [Find You](https://open.spotify.com/track/0CLc9IYuyOoMkZK8lmS9yG) | [Your Last Diary](https://open.spotify.com/artist/3naxNIZotcqCdf2Q50oxgV) | [Zero Division Vol.02 \- Single](https://open.spotify.com/album/79a338u2eyram2On4ALARx) | 3:34 | 2022-05-12 | 2022-07-25 |
 | [Find Your Toy](https://open.spotify.com/track/5iOCpYeaWZmJCJk3UgLja2) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [Find Your Toy](https://open.spotify.com/album/4qXhMjhi2IYsLvSKQ2rfII) | 4:26 | 2022-06-14 | 2022-07-26 |
@@ -229,13 +229,14 @@
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
 | [set it off](https://open.spotify.com/track/2l3aBqXOsmgqEZN1DB0x9P) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:23 | 2022-08-19 |  |
+| [shiboufuragu wo tatenaide](https://open.spotify.com/track/6jDtEDmFInvxR4Ga7vff7X) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [shiboufuragu wo tatenaide](https://open.spotify.com/album/76w257U3luBps7VnbQ2ozc) | 4:35 | 2022-08-23 |  |
 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 | 2022-06-07 |  |
 | [SHOOTING STAR](https://open.spotify.com/track/0cRhcha9tHeClPWA4Gpf4y) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [SUPER DELICIOUS](https://open.spotify.com/album/6l4tkHQQ6pwyAcG57BTXL8) | 2:22 | 2022-05-19 | 2022-07-27 |
 | [Silent spear](https://open.spotify.com/track/3smaYm50Ivw3v7TVIFtAEo) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/0kO8GOTSHLSriErXdLQhus) | 3:55 | 2022-05-12 | 2022-07-29 |
 | [Silent spear](https://open.spotify.com/track/5l5O5zu4Vnmse6SHbxORDM) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/1mCJDxhi1kXBQcrz4wv18J) | 3:55 | 2022-07-21 |  |
 | [Simp](https://open.spotify.com/track/31vkkcXzYE3A7bSKfxemS6) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [Simp](https://open.spotify.com/album/31hzFNxPq3yCYKhIZTa4Pd) | 2:02 | 2022-05-17 | 2022-07-05 |
 | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/track/713QsTBsZ0YQbWrAbZ31Pq) | [For A Reason](https://open.spotify.com/artist/7xKhPv4ap1useGKUaLLh7q) | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/album/3GgSgMFsq1TUV0zYT9tcqo) | 2:50 | 2022-05-12 | 2022-07-23 |
-| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2022-05-12 |  |
+| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2022-05-12 | 2022-08-24 |
 | [Sleep](https://open.spotify.com/track/6QeU2s3F49pefIGevH0Xcv) | [KICKASSRAY](https://open.spotify.com/artist/3kDn7aNNfO1sfrK5oCeI36) | [Hold Water EP](https://open.spotify.com/album/2tyiEdraFvdGSigC1dD0ZE) | 3:34 | 2022-06-07 | 2022-07-20 |
 | [Slow and steady](https://open.spotify.com/track/3eoivmlvkK9jtgnbAajU4B) | [39degrees](https://open.spotify.com/artist/2sA5clRvdaIZg82RoKYJfy) | [Singles\(June,2022\)](https://open.spotify.com/album/6jZML5zhuUhpybwu4ul8V7) | 3:01 | 2022-06-28 | 2022-07-29 |
 | [Smiles For Miles](https://open.spotify.com/track/6pVvomIJKjAe25SswHayZn) | [COUNTRY YARD](https://open.spotify.com/artist/7zAPELMruolERj0vMJGp76) | [Greatest Not Hits](https://open.spotify.com/album/3Dp7XOglofCbvlgXGP8Wc7) | 2:45 | 2022-05-12 | 2022-07-24 |
@@ -345,7 +346,7 @@
 | [アンダイイングロックンロール](https://open.spotify.com/track/0CuGdMFTSacKYJuZEIzxMK) | [AIR SWELL](https://open.spotify.com/artist/0k1XY7YS3ggrZu8UeyNlUo) | [アンダイイングロックンロール](https://open.spotify.com/album/09iqf2C8Gw5JvChHnC8otU) | 2:49 | 2022-05-19 | 2022-07-28 |
 | [イエスマン](https://open.spotify.com/track/3QEjFMdEio9xXI9ovRMCMB) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [イエスマン](https://open.spotify.com/album/0PmeaCohxjFdC7wyzQc8S1) | 2:54 | 2022-05-24 | 2022-07-21 |
 | [エンドロール](https://open.spotify.com/track/34leYne4zziRmoUEj82Jlc) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [エンドロール / コマンドバトル!](https://open.spotify.com/album/3VZI9J4WFixloKbFyuaSnF) | 4:47 | 2022-08-16 |  |
-| [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 | 2022-05-24 |  |
+| [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 | 2022-05-24 | 2022-08-24 |
 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 | 2022-05-12 |  |
 | [グッドバイ](https://open.spotify.com/track/7nMbUWh4wAmdVPy5FWW7Aa) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [MIGHTY MOUNTAINS](https://open.spotify.com/album/3meQjVI8X0PezEQtkhJ1rS) | 2:42 | 2022-05-19 | 2022-07-03 |
 | [サラバ!](https://open.spotify.com/track/52UewcDEkdImgLW0C3F6L0) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [サラバ!](https://open.spotify.com/album/1NyAWXMA2vd5IJegmhQppV) | 3:11 | 2022-05-12 | 2022-07-25 |

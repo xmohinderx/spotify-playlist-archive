@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,515 songs - 2 day 20 hr 41 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,516 songs - 2 day 20 hr 43 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,7 +811,7 @@
 | [Matin](https://open.spotify.com/track/1TWlhhICPR0UpyIJhxPiEx) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Matin](https://open.spotify.com/album/0HVGfqOjUcn2HKQcND27hR) | 1:54 | 2022-07-27 |  |
 | [Matterhorn](https://open.spotify.com/track/3DOEU2JeQxRdunMgI9eGEf) | [Eliah Strasser](https://open.spotify.com/artist/7k6liG1nuVEqrkvLyEGgyd) | [Matterhorn](https://open.spotify.com/album/3X9ZyH7TurXP4DkowUmn64) | 2:05 | 2021-12-13 | 2022-04-12 |
 | [Maurice](https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Maurice](https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3) | 2:47 | 2021-03-26 | 2022-07-29 |
-| [Me Donner Un Essai](https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Me Donner Un Essai](https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue) | 1:57 | 2022-07-27 |  |
+| [Me Donner Un Essai](https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Me Donner Un Essai](https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue) | 1:57 | 2022-07-27 | 2022-08-24 |
 | [Meadow Mornings](https://open.spotify.com/track/5QcpXwGONi7bKyphLwySs5) | [Samuel Lindon](https://open.spotify.com/artist/5nJRL0Qfseg7ZJGbT2eVrA) | [Meadow Mornings](https://open.spotify.com/album/0hxGGQWr0hLognc8tlFPLx) | 2:18 | 2021-03-09 | 2021-05-22 |
 | [Meaning](https://open.spotify.com/track/2Aqo6XAVu7jQAPYEubxwaJ) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Meaning](https://open.spotify.com/album/2pmu77y9s1ou2j6iLPCim5) | 4:00 | 2021-03-07 | 2022-06-10 |
 | [Melancholy](https://open.spotify.com/track/25kDEZNeYdOa61StT88v4G) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Emotional State](https://open.spotify.com/album/7chN0A9m3xKUja0y0zzVpb) | 4:24 | 2021-03-07 | 2022-07-29 |
@@ -923,6 +923,7 @@
 | [Old Habit](https://open.spotify.com/track/4FoGnUdmnEsTxrsvRofMZr) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Old Habit](https://open.spotify.com/album/1jOnTWP253diSiCFev3UKJ) | 2:03 | 2021-05-03 | 2022-04-19 |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2021-10-31 | 2022-06-21 |
 | [Olyan szép vagy](https://open.spotify.com/track/7ejRYgcT2XCiYVCvjvCzmj) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Olyan szép vagy](https://open.spotify.com/album/6Wv0Ot23GCHzLmU8H58iFw) | 2:05 | 2021-04-23 | 2022-04-13 |
+| [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 | 2022-08-17 |  |
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2022-03-29 |  |
 | [On the Other Side](https://open.spotify.com/track/7GhkhTL5VK9Co25CbiBf9T) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [On the Other Side](https://open.spotify.com/album/633hqMGhBHeMIyTOFfNzm7) | 2:50 | 2021-03-07 | 2022-04-14 |
 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 | 2022-03-08 | 2022-07-24 |

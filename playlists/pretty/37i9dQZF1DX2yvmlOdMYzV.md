@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > just chill..\. respectfully
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,987 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,362 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 67 | [Yesterday](https://open.spotify.com/track/0Vg1lQpk2IHk2JU8UfAa5d) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Love Japan](https://open.spotify.com/album/1JKqsdbwfOK1233EOT67ZM) | 1:11 |
 | 68 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 |
 | 69 | [Hard Work](https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Travel Light](https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y) | 3:27 |
-| 70 | [Smoke](https://open.spotify.com/track/3KdqW7vrStW0VIp1Pfk0cq) | [vbnd](https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Daughter of the Sun](https://open.spotify.com/album/3rQaTiH5vbjKcI0KoL1olN) | 3:42 |
+| 70 | [Avalanche](https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Avalanche](https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1) | 2:28 |
 | 71 | [Good Good](https://open.spotify.com/track/02adJbZO7bHXJjboTwph45) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Good Good](https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI) | 3:45 |
-| 72 | [Avalanche](https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Avalanche](https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1) | 2:28 |
+| 72 | [Smoke](https://open.spotify.com/track/3KdqW7vrStW0VIp1Pfk0cq) | [vbnd](https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Daughter of the Sun](https://open.spotify.com/album/3rQaTiH5vbjKcI0KoL1olN) | 3:42 |
 | 73 | [Relax](https://open.spotify.com/track/2WFLsBTMjMMWBLOiTGvFFq) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Baw Baw Black Sheep](https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k) | 3:51 |
 | 74 | [KMS \- A COLORS SHOW](https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [KMS \- A COLORS SHOW](https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt) | 2:26 |
 | 75 | [Easy Baby](https://open.spotify.com/track/3trAHivkszyC0kFTGQ7Bf4) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/0x7hOg2zE7GSphEDmwI7Ct) | 3:19 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 86 | [Drifty](https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Demos](https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp) | 3:57 |
 | 87 | [LăVĭNDŭR](https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [TheKAMAUU\-CASSETTE: ŭRTH GōLD](https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq) | 4:00 |
 | 88 | [Please Don't Make Me Cry \- Jordan Rakei Remix](https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Please Don't Make Me Cry \(Jordan Rakei Remix\)](https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s) | 4:22 |
-| 89 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 |
+| 89 | [I'm Thru](https://open.spotify.com/track/25AA0A6Qvq9leS9zyeWbln) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [I'm Thru](https://open.spotify.com/album/2R1NiiIPRBp4Jou2BGS0Mu) | 3:11 |
 | 90 | [Caged Bird](https://open.spotify.com/track/2dzEIMnXj4bRiRMoax1xE4) | [Myles Cameron](https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF) | [Caged Bird](https://open.spotify.com/album/1jtKoTIOnGlTuw9Vamp0qc) | 3:55 |
-| 91 | [I'm Thru](https://open.spotify.com/track/25AA0A6Qvq9leS9zyeWbln) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [I'm Thru](https://open.spotify.com/album/2R1NiiIPRBp4Jou2BGS0Mu) | 3:11 |
+| 91 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 |
 | 92 | [Dying in the Subtlety](https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Dying in the Subtlety](https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP) | 2:19 |
 | 93 | [PATTERNS](https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [PATTERNS](https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4) | 3:44 |
 | 94 | [No Romance](https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [No Romance](https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet) | 3:57 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 97 | [Table for Two](https://open.spotify.com/track/4QcoLNjHgwDIoMvKeIm6aK) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP), [Bran Mazz](https://open.spotify.com/artist/2gAvPf7H37Rbp6B4DimriZ) | [Table for Two](https://open.spotify.com/album/2n5GM1tmlT3LwTicApBbUG) | 3:27 |
 | 98 | [Party On Mars](https://open.spotify.com/track/71Z9IsCkGbbMmVMatELPXa) | [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju) | [Protection](https://open.spotify.com/album/5c1ExU1WZbSUBRRaF9vF1F) | 2:58 |
 | 99 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 |
-| 100 | [Later](https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Later](https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC) | 4:30 |
+| 100 | [Alone](https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh) | [Eddy Rock](https://open.spotify.com/artist/2aIU0jOzhmc75mFgJYfPbz) | [Alone](https://open.spotify.com/album/7LUc0gybyjAx0gC7hdT08e) | 2:12 |
 
-Snapshot ID: `MTY2MDE2OTA2NSwwMDAwMDAwMDA0OWM5MTU1M2JlNDk4MGIyMzE1NmNiMjJjYmQ0YmYz`
+Snapshot ID: `MTY2MDE2OTA2NSwwMDAwMDAwMGRlZmI1NjVlYTRjYjQxOGQ1NjM2OWExNThmMjcwZGMz`

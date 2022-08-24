@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 242442,
+  "num_followers": 242481,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzI2NzcyNCwwMDAwMDAwMDUxODBjODFmYTI0MzlkNjE4ZjYyNjE2MDYzYjNjZTY0",
+  "snapshot_id": "MTYzNzI2NzcyNCwwMDAwMDAwMGY4NmQ2ZDFmNGQzODc4MjEwMDUxMWE1OGZmNTRiN2Mz",
   "tracks": [
     {
       "added_at": "2021-11-12 05:00:00",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/2PMo0BYsGBY2TgHJ5Gm4oT"
     },
     {
-      "added_at": "2021-11-18 20:35:24",
-      "album": {
-        "name": "Fun House",
-        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 173303,
-      "name": "Just to Hear You (feat. Perfume Genius)",
-      "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
-    },
-    {
       "added_at": "2021-11-12 05:00:00",
       "album": {
         "name": "Something American",
@@ -455,6 +439,22 @@
       "duration_ms": 182827,
       "name": "Something American",
       "url": "https://open.spotify.com/track/3UATWsUyES5Nkcqo22NUG5"
+    },
+    {
+      "added_at": "2021-11-18 20:35:24",
+      "album": {
+        "name": "Fun House",
+        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 173303,
+      "name": "Just to Hear You (feat. Perfume Genius)",
+      "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 229501,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 229501,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
     },
     {
       "added_at": "2021-11-12 05:00:00",

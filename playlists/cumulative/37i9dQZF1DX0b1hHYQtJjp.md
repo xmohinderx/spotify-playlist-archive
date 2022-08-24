@@ -4,7 +4,7 @@
 
 > Ease into these recent hits and new songs from your favorite artists\. Cover: John Legend
 
-911 songs - 2 day 2 hr 13 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
+913 songs - 2 day 2 hr 19 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Got the Love](https://open.spotify.com/track/5dw56JFFfeLtdhLBFLL5pQ) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Got The Love](https://open.spotify.com/album/28EIhCrtH484KEQakJ2SVd) | 3:03 | 2021-07-27 | 2021-09-18 |
 | [Grand Canyon](https://open.spotify.com/track/0rhDtHrdZoW9UaS8M9RgzZ) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Grand Canyon](https://open.spotify.com/album/5vKW0HV6JFOV7h6FnftWBz) | 2:55 | 2020-10-23 | 2021-02-12 |
 | [Great Unknown \- From The Motion Picture “The Call Of The Wild"](https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Great Unknown \(From The Motion Picture “The Call Of The Wild”\)](https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu) | 3:06 | 2020-02-21 | 2020-04-18 |
-| [Greatest Of All Time](https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m) | 3:39 | 2022-05-20 |  |
+| [Greatest Of All Time](https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m) | 3:39 | 2022-05-20 | 2022-08-24 |
 | [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2019-05-26\* | 2019-10-18 |
 | [Habit](https://open.spotify.com/track/3As9Uyx1ZYKbdcEn3d7zma) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Walls](https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9) | 3:03 | 2020-01-31 | 2020-03-06 |
 | [Handle Me Gently](https://open.spotify.com/track/5tjST4iUvp86eyMeSIgy5l) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Self Explanatory](https://open.spotify.com/album/01Uup2bu0jcnyaNmHjgTF4) | 3:01 | 2022-07-20 | 2022-08-20 |
@@ -455,6 +455,7 @@
 | [Lady](https://open.spotify.com/track/3K1vIE8FlvmEy2oCPLQ1UZ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lady](https://open.spotify.com/album/6d83Yypl0Vd8oJFeAMLlmP) | 4:02 | 2019-06-14 | 2019-10-18 |
 | [Lady Like](https://open.spotify.com/track/33UI8dgfkDOf32DWBH1GL0) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/3l0QTUgr0CKXgpQb9PAdmH) | 3:14 | 2019-05-26\* | 2019-06-21 |
 | [Last Call](https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Last Call](https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn) | 3:11 | 2022-03-04 | 2022-04-29 |
+| [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-08-23 |  |
 | [Last Time I Say Sorry](https://open.spotify.com/track/3gAaDDoBipWZzGBMwK194e) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Last Time I Say Sorry](https://open.spotify.com/album/1nYnm2JXB13BYcsOnjGwGs) | 3:14 | 2020-03-27 | 2020-05-16 |
 | [Last Train Home](https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home](https://open.spotify.com/album/0N81gHRK0RnJY0vMAOKVyi) | 3:07 | 2021-06-05 | 2021-08-28 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-20 |  |
@@ -565,7 +566,7 @@
 | [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 | 2022-05-06 | 2022-06-25 |
 | [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 | 2021-08-21 | 2021-09-18 |
 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG) | 4:37 | 2021-04-10 | 2021-05-15 |
-| [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 | 2022-07-22 |  |
+| [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 | 2022-07-22 | 2022-08-24 |
 | [Must Have Been The Wind](https://open.spotify.com/track/1PsMieVYFXrSeXMxuE2SbG) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Must Have Been The Wind](https://open.spotify.com/album/0A5GgdYeE7UJDnBeXuZWma) | 2:59 | 2019-06-14 | 2019-09-20 |
 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 | 2020-07-31 | 2020-08-14 |
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-11 | 2022-06-25 |
@@ -708,6 +709,7 @@
 | [slow summer](https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [slow summer](https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D) | 2:48 | 2020-10-23 | 2021-06-16 |
 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 | 2020-07-10 | 2020-07-24 |
 | [smiling when i die](https://open.spotify.com/track/7yCyhsU75MYdbeqRLhLY51) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [smiling when i die](https://open.spotify.com/album/5bHqzyMbrdJTLui0HQdRG0) | 3:26 | 2020-01-31 | 2020-06-12 |
+| [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-08-23 |  |
 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/3X3TlieuOl8aWzw2HeigUo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [So Done \(feat\. Khalid\)](https://open.spotify.com/album/062XA53aUGExhE7e8ngYQO) | 3:55 | 2020-08-14 | 2020-09-04 |
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-06-10 |  |
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-10-23 | 2021-12-04 |

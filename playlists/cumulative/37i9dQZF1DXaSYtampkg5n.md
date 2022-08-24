@@ -4,7 +4,7 @@
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-90 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/41r1TwzS2DsY8J0laGzpi0)
+91 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/41r1TwzS2DsY8J0laGzpi0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Disco Hi \- Life](https://open.spotify.com/track/7LRRSTX1m4CzW8MXnfoxa0) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/3imgLN3LrdTmKN5ZyoDBxU) | 8:55 | 2018-07-02 |  |
 | [Disco Hi \-Life](https://open.spotify.com/track/6youyUcVG2gttyQadZiCIl) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/3cUO83PVpSoMFOXQjmmvpC) | 8:55 | 2018-07-02 | 2022-07-29 |
 | [Dissan Na M bera](https://open.spotify.com/track/58npysd8ChDhTD4fqtdZhv) | [Super Mama Djombo](https://open.spotify.com/artist/38WRvRXIOeefhY4vRxEGrr) | [Golden Afrique, vol\. 1 \(Bolibana Collection\)](https://open.spotify.com/album/7mJvBakyfrHS1HAgCmn8tH) | 5:12 | 2018-07-02 |  |
-| [Djonsinho cabral](https://open.spotify.com/track/5r4EQ9mw1gtbwu0GKYeION) | [Os Tubarões](https://open.spotify.com/artist/7k1xtKMpdzF4wUttO6nv1f) | [Djonsinha cabral](https://open.spotify.com/album/7yPOisIuVr5BJjTGfkobVX) | 5:45 | 2018-07-02 |  |
+| [Djonsinho Cabral](https://open.spotify.com/track/3o6gc8f9D97n96WfUMKpuv) | [Os Tubarões](https://open.spotify.com/artist/7k1xtKMpdzF4wUttO6nv1f) | [Djonsinho Cabral](https://open.spotify.com/album/46Hgkni19D3rYUCI5qoyPj) | 5:45 | 2018-07-02 |  |
+| [Djonsinho cabral](https://open.spotify.com/track/5r4EQ9mw1gtbwu0GKYeION) | [Os Tubarões](https://open.spotify.com/artist/7k1xtKMpdzF4wUttO6nv1f) | [Djonsinha cabral](https://open.spotify.com/album/7yPOisIuVr5BJjTGfkobVX) | 5:45 | 2018-07-02 | 2022-08-24 |
 | [E Go Betta](https://open.spotify.com/track/4oYuAdRxIVLed4LxpLH4Bn) | [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [You No Fit Touch Am](https://open.spotify.com/album/6Vtz6LOM6FKcxNW7vMkKeK) | 6:09 | 2018-07-02 |  |
 | [Enjoy Yourself](https://open.spotify.com/track/7oYSpa5cP4N9Ri4DA2sWxa) | [Sahara All Stars Band Jos](https://open.spotify.com/artist/2IY8SmR9pxmS7tOFAa8JFd) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf) | 5:59 | 2018-07-02 | 2022-07-29 |
 | [Enjoy Yourself](https://open.spotify.com/track/7BgOdtjbfgvip4BJRn9NmI) | [Sahara All Stars Band Jos.](https://open.spotify.com/artist/11E58RQVNMMzzBWpi8J2rW) | [Enjoy Yourself](https://open.spotify.com/album/7gypen6SPcpqjxwc7CAoJA) | 6:02 | 2018-07-02 |  |

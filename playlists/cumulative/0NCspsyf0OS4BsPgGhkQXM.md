@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-433 songs - 23 hr 22 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+434 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Worth It](https://open.spotify.com/track/2SlQJGn5ZR0ZNO7M9sV7UT) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [Worth It](https://open.spotify.com/album/18xBXYF9HMCYwH97Ib4YUI) | 3:15 | 2022-01-14 | 2022-07-02 |
 | [Worth It \- if found Remix](https://open.spotify.com/track/1BXqJQ8A3RylGQFuR4nR9L) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Pieces \(Remixes\)](https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9) | 4:12 | 2022-07-01 |  |
 | [Would U](https://open.spotify.com/track/7o1ulcm2H97iqMMZo8gYY0) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Would U](https://open.spotify.com/album/1HF7ZHo81mkE9mah9y19xl) | 2:35 | 2022-03-25 |  |
+| [Xenogenesis](https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Xenogenesis](https://open.spotify.com/album/07ej3OfHDl0ppyUrK7bTUF) | 3:53 | 2022-08-23 |  |
 | [Yeah!](https://open.spotify.com/track/1L9Ap8KcIC7oiwVISVW4If) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Tommy Rage](https://open.spotify.com/artist/4o5B573iIdWZIcoObwx11j), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Yeah!](https://open.spotify.com/album/016KUKMAlAj8UifThxO0aK) | 3:10 | 2022-03-25 | 2022-04-30 |
 | [Yesterday](https://open.spotify.com/track/76pR2Xb4rDq3oD3ZvKz3oG) | [Yohan Gerber](https://open.spotify.com/artist/0KxXlISC2jglmPDAGGBlra), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Johnny Chicago](https://open.spotify.com/artist/3zvkVa6tS4vVWltR4CLNV4) | [Yesterday](https://open.spotify.com/album/6wJukX3Sv3jeTNB7Y0SaLe) | 2:17 | 2022-02-15 | 2022-03-19 |
 | [You & Me](https://open.spotify.com/track/6x0AOtecjYmJrIXoenPYez) | [Jordan Comolli](https://open.spotify.com/artist/0OirGRY55NlQeqOHKhvpbm) | [You & Me](https://open.spotify.com/album/220ZycntNAIw9Wrj3tbvLs) | 2:52 | 2022-01-14 | 2022-02-17 |

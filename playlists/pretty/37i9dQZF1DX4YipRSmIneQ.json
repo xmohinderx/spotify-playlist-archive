@@ -1,12 +1,12 @@
 {
   "description": "ur favorite queer bedroom club ",
-  "num_followers": 24153,
+  "num_followers": 24250,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY1NzgyNCwwMDAwMDAwMGJmM2FkYzU3NWI5N2E2MTc5MzgzYzI1NTAzYjdlZjc5",
+  "snapshot_id": "MTY2MDY1NzgyNCwwMDAwMDAwMGUzOGQ2OTJlNGI0NTYxMDI0YmZiYjg4MTgzYWFkZTBm",
   "tracks": [
     {
       "added_at": "2022-08-16 13:50:24",
@@ -247,26 +247,6 @@
     {
       "added_at": "2022-08-09 20:39:20",
       "album": {
-        "name": "Work It (Soulwax Remix)",
-        "url": "https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT"
-      },
-      "artists": [
-        {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
-        },
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        }
-      ],
-      "duration_ms": 286080,
-      "name": "Work It - Soulwax Remix",
-      "url": "https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P"
-    },
-    {
-      "added_at": "2022-08-09 20:39:20",
-      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 225325,
       "name": "Sour Candy (with BLACKPINK) - Shygirl & Mura Masa Remix",
       "url": "https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL"
+    },
+    {
+      "added_at": "2022-08-09 20:39:20",
+      "album": {
+        "name": "Work It (Soulwax Remix)",
+        "url": "https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        },
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 286080,
+      "name": "Work It - Soulwax Remix",
+      "url": "https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P"
     },
     {
       "added_at": "2022-08-09 20:39:20",
@@ -879,26 +879,26 @@
     {
       "added_at": "2022-08-09 20:39:20",
       "album": {
-        "name": "Straight To Hell: The Remixes",
-        "url": "https://open.spotify.com/album/4HgwlIclMQ7JSx9MdzO1p4"
+        "name": "FMU (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/7BJjpeYl0FAb0xq65bEwPs"
       },
       "artists": [
         {
-          "name": "Chippy Nonstop",
-          "url": "https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS"
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
         },
         {
-          "name": "dj genderfluid",
-          "url": "https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz"
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         },
         {
-          "name": "Gendered Dekonstruktion",
-          "url": "https://open.spotify.com/artist/0nz2g4E7Wed11mnTcxR4TN"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         }
       ],
-      "duration_ms": 265500,
-      "name": "Straight To Hell - Gendered Dekonstruktion Remix",
-      "url": "https://open.spotify.com/track/43JiMaIgefeHRVWHuqbfjm"
+      "duration_ms": 178666,
+      "name": "FMU (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/0t9vp7ewak5yJtOuG2gQyr"
     }
   ],
   "unique_name": "Sweat.",

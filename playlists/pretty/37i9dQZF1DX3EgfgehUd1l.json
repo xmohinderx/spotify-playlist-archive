@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 137513,
+  "num_followers": 137564,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMDI0ZjM5MjIyNzBjYmZiZTY4NmE0MTdjOWYyMDk0N2Jk",
+  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMGFjZGVjZTJhYjQxNmYyMjU2NWYxN2UzOTJiMTZkOGU1",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -911,22 +911,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Kitty Kallen's Coloring Book",
-        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
-      },
-      "artists": [
-        {
-          "name": "Kitty Kallen",
-          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Little Things Mean a Lot",
-      "url": "https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "What Do You Want to Make Those Eyes At Me For?",
         "url": "https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 124200,
       "name": "What Do You Want to Make Those Eyes at Me for",
       "url": "https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Kitty Kallen's Coloring Book",
+        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
+      },
+      "artists": [
+        {
+          "name": "Kitty Kallen",
+          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Little Things Mean a Lot",
+      "url": "https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 124640,
-      "name": "Whatever Will Be, Will Be (Que Sera, Sera) - Single Version",
-      "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Essential Classics, Vol. 84: Frankie Lymon (Remastered 2022)",
         "url": "https://open.spotify.com/album/4QsBxPnLNULZRDrYPsKWX2"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 140746,
       "name": "Why Do Fools Fall in Love (Remastered 2022)",
       "url": "https://open.spotify.com/track/7nlPZ4gBK2JCRPuhmi3aOE"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 124640,
+      "name": "Whatever Will Be, Will Be (Que Sera, Sera) - Single Version",
+      "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
     },
     {
       "added_at": "2020-07-08 17:36:08",

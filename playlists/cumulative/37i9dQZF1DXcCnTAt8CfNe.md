@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-224 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+225 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2021-12-09 |  |
 | [Blank Page](https://open.spotify.com/track/4CE7Fygc6DSOeC4Uw8cKxI) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [Blank Page](https://open.spotify.com/album/53jWtt7iHYe1CyVIcwk5Em) | 3:30 | 2022-06-16 |  |
 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 | 2021-12-09 |  |
-| [Breathe](https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Breathe](https://open.spotify.com/album/3HsM90jTIVTM3tkInTSxqC) | 3:06 | 2022-04-20 |  |
+| [Breathe](https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Breathe](https://open.spotify.com/album/3HsM90jTIVTM3tkInTSxqC) | 3:06 | 2022-04-20 | 2022-08-24 |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2021-12-09 | 2022-06-17 |
 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 | 2021-12-09 |  |
 | [Calm](https://open.spotify.com/track/7x8dZcTysEL2ugS7Gj7eMJ) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Calm](https://open.spotify.com/album/4lPUDTcfykVSSj7YFmC8yw) | 3:37 | 2021-12-09 |  |
@@ -90,6 +90,7 @@
 | [In Bloom](https://open.spotify.com/track/60nhoUdtsUq4FOwts7B2bM) | [Zoé de Vera](https://open.spotify.com/artist/0ojIbBfm8uH68CpwcwoxGJ) | [In Bloom](https://open.spotify.com/album/1JdYFFVhnjTmj0lOXGwzZy) | 2:59 | 2021-12-09 |  |
 | [In the deep](https://open.spotify.com/track/0KCrx98nbNZoy4y0GYA4l1) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [In the deep](https://open.spotify.com/album/3zUScCSyKqXMIGVrOrz1Bt) | 2:56 | 2022-02-03 |  |
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-02-03 |  |
+| [Into the light](https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Into the light](https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id) | 2:26 | 2022-08-23 |  |
 | [Jupiter](https://open.spotify.com/track/0X4MfCEzXp28yrhUKpOadD) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Jupiter](https://open.spotify.com/album/4MOIk31rXkeM3VYy6Dt72L) | 2:02 | 2021-12-09 | 2022-08-13 |
 | [Jupiter Sunrise](https://open.spotify.com/track/1tQKUYjY3h950XByYm0ZAf) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:58 | 2021-12-09 | 2022-03-22 |
 | [Kaprifol](https://open.spotify.com/track/6ibcCbsk0xLgLzU5iWgUhf) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Kaprifol](https://open.spotify.com/album/4sM4dk1tO71zcuRSKwBPJG) | 4:29 | 2021-12-09 |  |

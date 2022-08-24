@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,192 likes - 40 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,237 likes - 40 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,18 +26,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 16 | [Ala Babee Waqef Qamaren](https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts) | [Melhem Barakat](https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS) | [Badak Maleoun Seneh](https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va) | 15:54 |
 | 17 | [Wahashtini](https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:16 |
 | 18 | [Baatereflek](https://open.spotify.com/track/7CtrUBl2322AbN94u1aWSl) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Baatereflek](https://open.spotify.com/album/3Lj06yHKqsunUo5fGurHsr) | 9:05 |
-| 19 | [Kellon Aanik Sa'alouni \(Live\)](https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ossit Helem](https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH) | 6:05 |
-| 20 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 |
+| 19 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 |
+| 20 | [Kellon Aanik Sa'alouni \(Live\)](https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ossit Helem](https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH) | 6:05 |
 | 21 | [Ya habibi \(Live\)](https://open.spotify.com/track/1INnlvFJuB1nCfKznHzILE) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 4:56 |
 | 22 | [Ashka We Ghalbana](https://open.spotify.com/track/20hX2SNY7z2Eesit48jH1p) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Tarab Hits](https://open.spotify.com/album/0OgTQ6y9BY3fZ4RaCsM6wJ) | 3:33 |
 | 23 | [Al\-Hobbi Koullou](https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:29 |
 | 24 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 |
 | 25 | [Ma Tehun](https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ma Tehun](https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf) | 4:57 |
 | 26 | [Tair ya hawa \(Live\)](https://open.spotify.com/track/2szi0ZqkBtU4GyRuCz65Pz) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 4:53 |
-| 27 | [Debna Aa Ghiyabak \(Live\)](https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ossit Helem](https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH) | 5:03 |
+| 27 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
 | 28 | [Ibaati Gawab](https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 7:29 |
 | 29 | [Nesseit El Noum](https://open.spotify.com/track/150RdQBL2CroFPlEEXXMtg) | [Rida](https://open.spotify.com/artist/2fDV7WMHe1Wj7FZ8rVfnwp) | [Nesseit El Noum](https://open.spotify.com/album/16jh51MRSnPk4OWxnHZ688) | 4:50 |
-| 30 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
+| 30 | [Debna Aa Ghiyabak \(Live\)](https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ossit Helem](https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH) | 5:03 |
 | 31 | [Mali \(Live\)](https://open.spotify.com/track/24BrV1miOAkvzwVBjRwrwp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 3:54 |
 | 32 | [El Zakah](https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [El Zakah](https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc) | 1:59 |
 | 33 | [Baghdad Choby](https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF) | [Tarabband](https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA) | [Ya Sidi](https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv) | 4:37 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 39 | [Enta Omri](https://open.spotify.com/track/6Q8gmAggkS9GFlVLbjIzsS) | [Adam](https://open.spotify.com/artist/38hkUvMOhAhRSNGfd402SF) | [Sahrat Tarab](https://open.spotify.com/album/72iiKUrgjejSb61GMtZmEy) | 9:05 |
 | 40 | [Akdeb Alik](https://open.spotify.com/track/1ZsMhxFNAJwPNDBbTNF0Hr) | [Adam](https://open.spotify.com/artist/38hkUvMOhAhRSNGfd402SF) | [Sahrat Tarab](https://open.spotify.com/album/72iiKUrgjejSb61GMtZmEy) | 6:04 |
 
-Snapshot ID: `MTYwNjAzNzU2NSwwMDAwMDAwMDAyNzI4Njg3NDY1MzcwNzI5ZjMxNGZlZWE5ZjM5ZTBm`
+Snapshot ID: `MTYwNjAzNzU2NSwwMDAwMDAwMDdmMjMwZWFmZTQwMDk0Nzc1MWMwYjM2MjRjMzE2MWEy`

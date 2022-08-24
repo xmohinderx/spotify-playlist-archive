@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Salaga, Clara Lima",
-  "num_followers": 53569,
+  "num_followers": 53691,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5Mzk3NCwwMDAwMDAwMGE5ZGI1YWE2YWUyNTkyZTE2Y2I3YjFlYmYzMzU0NmYw",
+  "snapshot_id": "MTY2MTE5Mzk3NCwwMDAwMDAwMGRiYTNhYzczNTJlN2E5Y2ViOGJiYmFhYWNmNWVhZTE5",
   "tracks": [
     {
       "added_at": "2022-08-22 18:46:14",
@@ -803,30 +803,6 @@
     {
       "added_at": "2022-08-22 18:46:14",
       "album": {
-        "name": "Nois faz a moda",
-        "url": "https://open.spotify.com/album/35PHjpGIk3ICMNWOJ1GcXv"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        }
-      ],
-      "duration_ms": 183272,
-      "name": "Nois faz a moda",
-      "url": "https://open.spotify.com/track/29cJDWOBQqeDPdYbu4kwki"
-    },
-    {
-      "added_at": "2022-08-22 18:46:14",
-      "album": {
         "name": "Intoc\u00e1vel",
         "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 174303,
       "name": "Contando Dinheiro",
       "url": "https://open.spotify.com/track/1jeg6gX21ljllOryvi9SJh"
+    },
+    {
+      "added_at": "2022-08-22 18:46:14",
+      "album": {
+        "name": "Nois faz a moda",
+        "url": "https://open.spotify.com/album/35PHjpGIk3ICMNWOJ1GcXv"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        }
+      ],
+      "duration_ms": 183272,
+      "name": "Nois faz a moda",
+      "url": "https://open.spotify.com/track/29cJDWOBQqeDPdYbu4kwki"
     },
     {
       "added_at": "2022-08-22 18:46:14",

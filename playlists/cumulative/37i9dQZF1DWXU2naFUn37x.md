@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Zefe
 
-118 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+119 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [SPACCIATORE \(feat\. Gazo, Vale Pain, Keta, Nko\)](https://open.spotify.com/track/61CX76RLIHI1RELTfVT0mM) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:46 | 2022-05-26 | 2022-06-03 |
 | [Speranza e Fame](https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Speranza e Fame](https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ) | 2:48 | 2022-07-21 |  |
 | [Star \(feat\. Shiva\)](https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:01 | 2022-05-11 |  |
-| [Street Fight](https://open.spotify.com/track/0RfsPdWv4vmccAVm17aYvS) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Street Fight](https://open.spotify.com/album/7LyS71YF8VLbGIcFZsmGOf) | 3:07 | 2022-07-14 |  |
+| [Street Fight](https://open.spotify.com/track/0RfsPdWv4vmccAVm17aYvS) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Street Fight](https://open.spotify.com/album/7LyS71YF8VLbGIcFZsmGOf) | 3:07 | 2022-07-14 | 2022-08-24 |
 | [STURDY](https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [STURDY](https://open.spotify.com/album/368Ku2KAei8qwbELqc1Rzl) | 3:57 | 2022-05-11 |  |
 | [SUITE HOTEL](https://open.spotify.com/track/1NRnu8LjiJM3cHcPYy6rs9) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [CRIMI](https://open.spotify.com/album/0A6H9ZeitwXVP5FpsY8Vud) | 2:19 | 2022-05-17 | 2022-06-10 |
 | [TARANTELLE](https://open.spotify.com/track/29DqUutD7L3OEy3Og8Yyss) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [TARANTELLE](https://open.spotify.com/album/0rN3nLra0OmI3Z7gA5d6YU) | 2:08 | 2022-05-11 | 2022-06-10 |
@@ -125,6 +125,7 @@
 | [Una Chance](https://open.spotify.com/track/5brevnJdMxziQov6zyaQ1f) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Dbackinyahead](https://open.spotify.com/artist/2aAamzcgx2XyPGJevTZRzz) | [Una Chance](https://open.spotify.com/album/1Wv5KsADpXa3sXUlff0tzy) | 2:53 | 2022-05-19 | 2022-05-27 |
 | [VITA PUTTANA](https://open.spotify.com/track/0haJKf3qe6DkJziBdEG7o4) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [VITA PUTTANA](https://open.spotify.com/album/0bfend4tdsLrwhdPMyGorA) | 3:31 | 2022-06-23 | 2022-07-22 |
 | [WAKANDA](https://open.spotify.com/track/4ApTJO5GLmci7uNivte6mE) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [WAKANDA](https://open.spotify.com/album/65snFdLpTuZB0dYzHscNpg) | 2:16 | 2022-05-12 | 2022-06-03 |
+| [Wroom Wroom](https://open.spotify.com/track/4xtSgGX5CQgVXTCRhagLf1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Wroom Wroom](https://open.spotify.com/album/1jVXH8SRRkuLIgLXn9JsD1) | 2:28 | 2022-08-23 |  |
 | [X Sempre](https://open.spotify.com/track/5Vw9le6wrmCUwmrYnu56Gl) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 3:25 | 2022-06-23 |  |
 
 \*This playlist was first scraped on 2022-05-12. Prior content cannot be recovered.

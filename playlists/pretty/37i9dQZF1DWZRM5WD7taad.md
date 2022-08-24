@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,844 likes - 91 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,882 likes - 91 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

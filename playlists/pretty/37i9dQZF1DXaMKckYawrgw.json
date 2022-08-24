@@ -1,12 +1,12 @@
 {
   "description": "Ska con cuadritos blancos, negros, y tricolores. Los de Abajo en portada.",
-  "num_followers": 5718,
+  "num_followers": 5762,
   "original_name": "Ska Mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDM0OTcwMiwwMDAwMDAwMDQ2NTRhOTMyZmZmM2U5YWE5MGZiNTQ1MjJhZGE0ZmRj",
+  "snapshot_id": "MTY2MDM0OTcwMiwwMDAwMDAwMGQ4MjNlMThhZTA2NjQ3OTdlM2RmZjIzY2I3MzZkMzhk",
   "tracks": [
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1037,24 +1037,20 @@
       "url": "https://open.spotify.com/track/0lOTlOKnmUEDphNpmpj4LQ"
     },
     {
-      "added_at": "2022-05-17 23:24:25",
+      "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/6FvczgJQ93Surwfpn4Q9ba"
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
       "artists": [
         {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        },
-        {
-          "name": "Jorge Serrano",
-          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
         }
       ],
-      "duration_ms": 243333,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/5cq7ipR7yzdxINynEQAHrw"
+      "duration_ms": 249026,
+      "name": "Ruperta",
+      "url": "https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1073,20 +1069,24 @@
       "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
     },
     {
-      "added_at": "2022-03-18 06:00:00",
+      "added_at": "2022-05-17 23:24:25",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/6FvczgJQ93Surwfpn4Q9ba"
       },
       "artists": [
         {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        },
+        {
+          "name": "Jorge Serrano",
+          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
         }
       ],
-      "duration_ms": 249026,
-      "name": "Ruperta",
-      "url": "https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM"
+      "duration_ms": 243333,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/5cq7ipR7yzdxINynEQAHrw"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "La Ultima Noche",
-        "url": "https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT"
-      },
-      "artists": [
-        {
-          "name": "Pachecos Orchestra",
-          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
-        }
-      ],
-      "duration_ms": 248888,
-      "name": "La Ultima Noche",
-      "url": "https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "El Mundo No Esta Listo",
         "url": "https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 172872,
       "name": "El Mundo No Esta Listo",
       "url": "https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "La Ultima Noche",
+        "url": "https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT"
+      },
+      "artists": [
+        {
+          "name": "Pachecos Orchestra",
+          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
+        }
+      ],
+      "duration_ms": 248888,
+      "name": "La Ultima Noche",
+      "url": "https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n"
     },
     {
       "added_at": "2022-03-18 06:00:00",

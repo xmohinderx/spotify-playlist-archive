@@ -63,7 +63,7 @@
     {
       "album": {
         "name": "Greatest Hits, Vol. 3",
-        "url": "https://open.spotify.com/album/4UZOosqqh80rHEGUhpfKNt"
+        "url": "https://open.spotify.com/album/66zjIwZchPpv2UIIZ7L3eZ"
       },
       "artists": [
         {
@@ -74,6 +74,24 @@
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 110031,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/4qaPOGubnrK1oSbGFVV8QL"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 3",
+        "url": "https://open.spotify.com/album/4UZOosqqh80rHEGUhpfKNt"
+      },
+      "artists": [
+        {
+          "name": "Big Block Singsong",
+          "url": "https://open.spotify.com/artist/5wXiTCNvj4JL6cJzQT5Ncp"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
       "duration_ms": 110031,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/6XeMqpT25vjQ9Hwddp5oTe"

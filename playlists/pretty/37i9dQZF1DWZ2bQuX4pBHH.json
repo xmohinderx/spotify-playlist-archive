@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan all in one playlist",
-  "num_followers": 185466,
+  "num_followers": 185562,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODEyNDY5NCwwMDAwMDAwMGNjYmM4NGRmMWRiZjUyZGY3M2RhYTcxMmJkMjZlNGI2",
+  "snapshot_id": "MTY1ODEyNDY5NCwwMDAwMDAwMGU4MTRkZDI5OTBhOTMwZDc2NDEzZmQ5MjZiMmY0NjU4",
   "tracks": [
     {
       "added_at": "2022-07-18 06:11:34",
@@ -463,22 +463,26 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+        "name": "Dil Se (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
       },
       "artists": [
         {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Anuradha",
+          "url": "https://open.spotify.com/artist/2Q0ItURCGZd8c7JF8kbjvY"
+        },
+        {
+          "name": "Anupama",
+          "url": "https://open.spotify.com/artist/1mMKKbLFrIqfOzLqFuGBRt"
         }
       ],
-      "duration_ms": 459266,
-      "name": "Baazigar O Baazigar",
-      "url": "https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF"
+      "duration_ms": 405706,
+      "name": "Dil Se Re",
+      "url": "https://open.spotify.com/track/30yySOIXHZYx94sLAySy2j"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -511,26 +515,22 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Dil Se (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
+        "name": "Baazigar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
         },
         {
-          "name": "Anuradha",
-          "url": "https://open.spotify.com/artist/2Q0ItURCGZd8c7JF8kbjvY"
-        },
-        {
-          "name": "Anupama",
-          "url": "https://open.spotify.com/artist/1mMKKbLFrIqfOzLqFuGBRt"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 405706,
-      "name": "Dil Se Re",
-      "url": "https://open.spotify.com/track/30yySOIXHZYx94sLAySy2j"
+      "duration_ms": 459266,
+      "name": "Baazigar O Baazigar",
+      "url": "https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -683,22 +683,30 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Yes Boss (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
       },
       "artists": [
         {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
         },
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
         }
       ],
-      "duration_ms": 266066,
-      "name": "Ek Din Aap",
-      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
+      "duration_ms": 427781,
+      "name": "Aisa Des Hai Mera",
+      "url": "https://open.spotify.com/track/4M7pu2MwyGysZM4deGXueq"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -735,30 +743,22 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Veer - Zaara",
-        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+        "name": "Yes Boss (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
       },
       "artists": [
         {
-          "name": "Madan Mohan",
-          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
         },
         {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Javed Akhtar",
-          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 427781,
-      "name": "Aisa Des Hai Mera",
-      "url": "https://open.spotify.com/track/4M7pu2MwyGysZM4deGXueq"
+      "duration_ms": 266066,
+      "name": "Ek Din Aap",
+      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
     },
     {
       "added_at": "2022-07-18 06:11:34",
@@ -903,46 +903,6 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Anu Malik",
-          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
-        }
-      ],
-      "duration_ms": 468293,
-      "name": "Ye Kaali Kaali Aankhen",
-      "url": "https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG"
-    },
-    {
-      "added_at": "2022-07-18 06:11:34",
-      "album": {
-        "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Shafqat Amanat Ali",
-          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Tere Naina",
-      "url": "https://open.spotify.com/track/3hoXhwP0ub9LdSJV4olDIc"
-    },
-    {
-      "added_at": "2022-07-18 06:11:34",
-      "album": {
         "name": "Veer - Zaara",
         "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
       },
@@ -967,6 +927,46 @@
       "duration_ms": 343066,
       "name": "Yeh Hum Aa Gaye Hain Kahaan",
       "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
+    },
+    {
+      "added_at": "2022-07-18 06:11:34",
+      "album": {
+        "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Tere Naina",
+      "url": "https://open.spotify.com/track/3hoXhwP0ub9LdSJV4olDIc"
+    },
+    {
+      "added_at": "2022-07-18 06:11:34",
+      "album": {
+        "name": "Baazigar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "duration_ms": 468293,
+      "name": "Ye Kaali Kaali Aankhen",
+      "url": "https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG"
     },
     {
       "added_at": "2022-07-18 06:11:34",

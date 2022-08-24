@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: NIKI.",
-  "num_followers": 244600,
+  "num_followers": 244652,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDA2YzVkMzg2ZGUzNDEzYjcyZDM3MjE2M2VhM2IyZDli",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDYyNWYyYzZhZTUwNTU1MDljYWFkYmRjOGRiOGY5ZjU3",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -672,17 +672,13 @@
       },
       "artists": [
         {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 161146,
-      "name": "In The Dark (with Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
+      "duration_ms": 201786,
+      "name": "Fire In The Sky",
+      "url": "https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -708,13 +704,17 @@
       },
       "artists": [
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 201786,
-      "name": "Fire In The Sky",
-      "url": "https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474"
+      "duration_ms": 161146,
+      "name": "In The Dark (with Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 133897,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+      "duration_ms": 186432,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 173308,
       "name": "One Last Dance (feat. Milky Day)",
       "url": "https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 186432,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1319,6 +1319,38 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "playing tricks",
+        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 184257,
+      "name": "playing tricks",
+      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
+      },
+      "artists": [
+        {
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "Hello 2.0 (Legends Only) [feat. \u00d8ZI]",
         "url": "https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ"
       },
@@ -1347,18 +1379,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
+        "name": "Go Higher",
+        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
       },
       "artists": [
         {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 145173,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
+      "duration_ms": 208264,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1379,22 +1411,6 @@
       "duration_ms": 106819,
       "name": "Grade A (feat. JAWNY)",
       "url": "https://open.spotify.com/track/6ek40cFUiRjxA2KrOHNfi3"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "playing tricks",
-        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 184257,
-      "name": "playing tricks",
-      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Go Higher",
-        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 208264,
-      "name": "Go Higher",
-      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 143181,
       "name": "friends",
       "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "EXPIRED",
+        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
+      },
+      "artists": [
+        {
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+        }
+      ],
+      "duration_ms": 146739,
+      "name": "EXPIRED",
+      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "EXPIRED",
-        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
-      },
-      "artists": [
-        {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
-        }
-      ],
-      "duration_ms": 146739,
-      "name": "EXPIRED",
-      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "see u dance",
+        "url": "https://open.spotify.com/album/5VCAaf0fq3UNdPVytW2aS1"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Boyfriend",
+          "url": "https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "see u dance",
+      "url": "https://open.spotify.com/track/4zxZb0IQoUuT2FSqaOPYpi"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "Bones & The Boy",
         "url": "https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT"
       },
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "see u dance",
-        "url": "https://open.spotify.com/album/5VCAaf0fq3UNdPVytW2aS1"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
       "artists": [
         {
-          "name": "Hong Kong Boyfriend",
-          "url": "https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 138000,
-      "name": "see u dance",
-      "url": "https://open.spotify.com/track/4zxZb0IQoUuT2FSqaOPYpi"
+      "duration_ms": 173482,
+      "name": "so into you - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1723,22 +1739,6 @@
       "duration_ms": 250016,
       "name": "Someday (feat. Sam Kim)",
       "url": "https://open.spotify.com/track/3qLB2wOemocrMXmjoL1QQw"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 173482,
-      "name": "so into you - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Postman b/w Magazine",
-        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 160704,
-      "name": "Postman",
-      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "let's run away",
         "url": "https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 205094,
       "name": "let's run away",
       "url": "https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Postman b/w Magazine",
+        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 160704,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Apollo 8",
-        "url": "https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df"
-      },
-      "artists": [
-        {
-          "name": "Alann8h",
-          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
-        }
-      ],
-      "duration_ms": 173008,
-      "name": "Rings of Saturn",
-      "url": "https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Old Her",
         "url": "https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 181574,
       "name": "Old Her",
       "url": "https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Apollo 8",
+        "url": "https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df"
+      },
+      "artists": [
+        {
+          "name": "Alann8h",
+          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
+        }
+      ],
+      "duration_ms": 173008,
+      "name": "Rings of Saturn",
+      "url": "https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "blood lotus diary",
-        "url": "https://open.spotify.com/album/4T5JLOW9gRpehumgIQfzRK"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "holly's ego",
-      "url": "https://open.spotify.com/track/4Xu8VjkVCix7ypRJWW5OQZ"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Silver Into Rain",
         "url": "https://open.spotify.com/album/6JlD7QPsUqPZQDoiYmENzd"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "blood lotus diary",
+        "url": "https://open.spotify.com/album/4T5JLOW9gRpehumgIQfzRK"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "holly's ego",
+      "url": "https://open.spotify.com/track/4Xu8VjkVCix7ypRJWW5OQZ"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Can We Have A Conversation?",
-        "url": "https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 154969,
-      "name": "Can We Have A Conversation?",
-      "url": "https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "i'm having a hard time being myself",
         "url": "https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 176000,
       "name": "i'm having a hard time being myself",
       "url": "https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Can We Have A Conversation?",
+        "url": "https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "Can We Have A Conversation?",
+      "url": "https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Get Well Soon",
-        "url": "https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ"
-      },
-      "artists": [
-        {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
-        }
-      ],
-      "duration_ms": 154346,
-      "name": "Get Well Soon",
-      "url": "https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "a liquid breakfast DELUXE",
         "url": "https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj"
       },
@@ -2575,6 +2559,42 @@
       "duration_ms": 124440,
       "name": "changes",
       "url": "https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "I AM U",
+        "url": "https://open.spotify.com/album/52cZAcrw0TQpiQSMlW8Bfq"
+      },
+      "artists": [
+        {
+          "name": "ShiGGa Shay",
+          "url": "https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV"
+        },
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Mercury (feat. \u00d8ZI)",
+      "url": "https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Get Well Soon",
+        "url": "https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ"
+      },
+      "artists": [
+        {
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+        }
+      ],
+      "duration_ms": 154346,
+      "name": "Get Well Soon",
+      "url": "https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2599,26 +2619,6 @@
       "duration_ms": 162000,
       "name": "Ready For Love",
       "url": "https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "I AM U",
-        "url": "https://open.spotify.com/album/52cZAcrw0TQpiQSMlW8Bfq"
-      },
-      "artists": [
-        {
-          "name": "ShiGGa Shay",
-          "url": "https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV"
-        },
-        {
-          "name": "\u00d8ZI",
-          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Mercury (feat. \u00d8ZI)",
-      "url": "https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM"
     },
     {
       "added_at": "2022-08-19 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Welcome to my museum of brutality! Like this, you'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover:  Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,819 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,934 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 83 | [Fool Me Once](https://open.spotify.com/track/2ceMvjyfDeGVFmscZY438U) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Fool Me Once](https://open.spotify.com/album/698iFXTopBZ2T9TRQnh0hV) | 3:15 |
 | 84 | [Ripped Up T\-Shirts](https://open.spotify.com/track/2CK4P116Q5fc1QlvZTM4D3) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Ripped Up T\-Shirts](https://open.spotify.com/album/3lbqV25ud1OAok1D5dIR4E) | 2:45 |
 | 85 | [Bullet](https://open.spotify.com/track/3DMq9xe5H8TTwi1FQfvcDF) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/132gMGh5RhiR5XC0jkc4nD) | 3:23 |
-| 86 | [24H](https://open.spotify.com/track/5cCasykCztP1ZRVxAcAGXu) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/4Z49iUB2QmUAvMPIss85vb) | 2:57 |
+| 86 | [24H](https://open.spotify.com/track/1CxQcyS4bkhevuCU0QdD46) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA) | 2:57 |
 | 87 | [Platinum Megamix](https://open.spotify.com/track/2Z9agUb5fMyvfVeSA4r9rX) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Platinum Megamix](https://open.spotify.com/album/4aa7wGbwqJya9N3HtO6Shb) | 7:19 |
 | 88 | [SloMo \- Eurovision's Dancebreak Edit](https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo \(Eurovision's Dancebreak Edit\)](https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA) | 3:00 |
 | 89 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3) | 3:01 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 98 | [Bruxelles je t’aime](https://open.spotify.com/track/0iqk44gA8PaId0Fwa6eesN) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:48 |
 | 99 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
 
-Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMDE3ZDM5MDk2NzJhODk4YjMwYTY5MjdiOTljYzczMDcx`
+Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMGFlMTQ5ZDU1ZWZiZmMxMWJlZDE1OTQyY2MxYTQ5OWJi`

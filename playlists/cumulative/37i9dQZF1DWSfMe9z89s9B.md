@@ -4,7 +4,7 @@
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Steve Lacy
 
-566 songs - 1 day 6 hr 57 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+567 songs - 1 day 6 hr 59 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [NTWFL](https://open.spotify.com/track/5os9QmT7EZmtPBBypqB42g) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [NTWFL](https://open.spotify.com/album/67yqGJaYgMvkXi5J1YQcio) | 2:59 | 2021-03-19 | 2022-07-29 |
 | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv) | 3:51 | 2022-04-01 | 2022-07-16 |
 | [OCCASION](https://open.spotify.com/track/3f8qaN6X27sLRXlYwf3UKC) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [OCCASION](https://open.spotify.com/album/7vBidH3RRrzZt7CqkhTFgV) | 4:05 | 2022-07-15 | 2022-07-27 |
+| [Old News](https://open.spotify.com/track/7huFhrT6BWxA6pPAg2AaiN) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Old News](https://open.spotify.com/album/7iXWOtu0pJOlHht5Ev0t8s) | 2:10 | 2022-08-12 |  |
 | [On A Wave](https://open.spotify.com/track/4MDXu1BLDQ1ohHSCkl1AeE) | [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz), [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [On A Wave](https://open.spotify.com/album/5eAUBYI8HfXSV0WQCMD4Vz) | 2:46 | 2021-03-19 | 2022-01-19 |
 | [On God](https://open.spotify.com/track/6kW8TpvXiTp3Hwlx1JEpct) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Before I Speak](https://open.spotify.com/album/3ugySzNaCgNHNsxJXcqBa5) | 2:32 | 2021-03-19 | 2022-01-15 |
 | [On My Way](https://open.spotify.com/track/3RhEOUwqyGU0nKZ0AYgWSe) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [On My Way](https://open.spotify.com/album/1t75KQZ01Bh6YrmBuqrLQs) | 2:43 | 2022-07-15 | 2022-08-20 |
@@ -488,7 +489,7 @@
 | [Suppress](https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Suppress \(Original\)](https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb) | 3:12 | 2022-04-01 | 2022-07-27 |
 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2021-06-25 | 2022-06-08 |
 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 | 2021-03-19 | 2022-04-26 |
-| [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI) | 2:57 | 2022-07-29 |  |
+| [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI) | 2:57 | 2022-07-29 | 2022-08-24 |
 | [Switch](https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju), [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Switch](https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC) | 2:46 | 2022-04-01 | 2022-04-12 |
 | [switch up](https://open.spotify.com/track/5iGV0NmZl6EbBZneq02hWT) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [switch up](https://open.spotify.com/album/56dzvS4wbAYpQgpEhtD5M1) | 3:23 | 2021-03-19 | 2022-07-17 |
 | [SYNCOPATE](https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SYNCOPATE](https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL) | 1:58 | 2021-09-17 |  |

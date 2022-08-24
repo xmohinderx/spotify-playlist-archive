@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,811 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,988 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 44 | [Conflicted](https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Higher Life](https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg) | 3:06 |
 | 45 | [Blessings](https://open.spotify.com/track/4RQmD3QilYPTo0rL9SctoW) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Blessings](https://open.spotify.com/album/05vAjr5Ya7OdDuivg8xHk6) | 3:04 |
 | 46 | [Efficient](https://open.spotify.com/track/2RFl6yLQk6qZNJ1if9LW7o) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Efficient](https://open.spotify.com/album/18HwWXrgptkhI2krmkHav2) | 2:44 |
-| 47 | [THANK GOD](https://open.spotify.com/track/1zMORse6eODeibmofSgrxS) | [Waconzy](https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm) | [THANK GOD](https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg) | 2:10 |
-| 48 | [Jo](https://open.spotify.com/track/0uJbjemXz5f4n9dxu3Nn8H) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [24ldz](https://open.spotify.com/artist/25otQtaZjbQieePYfYNLrg), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Jo](https://open.spotify.com/album/1SOZ93jmZqYyS9GNu0COEr) | 2:30 |
+| 47 | [Jo](https://open.spotify.com/track/0uJbjemXz5f4n9dxu3Nn8H) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [24ldz](https://open.spotify.com/artist/25otQtaZjbQieePYfYNLrg), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Jo](https://open.spotify.com/album/1SOZ93jmZqYyS9GNu0COEr) | 2:30 |
+| 48 | [THANK GOD](https://open.spotify.com/track/1zMORse6eODeibmofSgrxS) | [Waconzy](https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm) | [THANK GOD](https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg) | 2:10 |
 | 49 | [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 |
 | 50 | [Keep You](https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc) | [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Keep You](https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh) | 2:51 |
 | 51 | [Belongs to You \- EDM Remix](https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS) | [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT), [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6) | [Belongs to You \(EDM Remix\)](https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8) | 3:07 |
 | 52 | [No Play](https://open.spotify.com/track/3LP9gtouosFKgwQw3KkrWb) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [No Play](https://open.spotify.com/album/3Op5W7Mf4IAD8jLEBynDeh) | 2:30 |
 
-Snapshot ID: `MTY2MDYwOTAwNiwwMDAwMDAwMDFlMTAxMDA1MDNkYmM2M2NhOGE1ZTU0MmE5ODQ3OWQ1`
+Snapshot ID: `MTY2MDYwOTAwNiwwMDAwMDAwMDA0MGI3NDI4ZDVhOTg1MTg2YTRiNmUyZWI3MGRlZjBh`

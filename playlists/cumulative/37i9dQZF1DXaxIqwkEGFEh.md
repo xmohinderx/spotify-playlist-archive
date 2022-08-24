@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-433 songs - 20 hr 14 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
+434 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Lurkin \(feat\. Polo G\) \- Remix](https://open.spotify.com/track/777evZve3OzCbGOVaVAGiU) | [Funk Flex](https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Lurkin \(feat\. Polo G\) \(Remix\)](https://open.spotify.com/album/1aEluL4QV9hP3smy9LdHHx) | 2:28 | 2021-09-03 | 2022-01-15 |
 | [M&M \(with Future feat\. Lil Baby\)](https://open.spotify.com/track/4rmXVKUSU0PIblRyYFZHHi) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [M&M \(with Future feat\. Lil Baby\)](https://open.spotify.com/album/1qY5LCrtZDIsh6A86N2Yo2) | 3:12 | 2021-12-17 | 2022-04-09 |
 | [Made Me \(feat\. NoCap\)](https://open.spotify.com/track/3Vgihc6vWAzDroeW43oB6O) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Street Poetry](https://open.spotify.com/album/424KidkXx9YRSRIEqJwQzy) | 3:00 | 2022-03-04 | 2022-04-23 |
+| [Major League](https://open.spotify.com/track/75DBnjEjZ9c7mF6x9ZTKoe) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Major League](https://open.spotify.com/album/0Yv55JmV86gGO9NBgHlpLu) | 2:51 | 2022-08-19 |  |
 | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6fDlAcex9PxMcvw4eiZjLq) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/album/4HFKc1vf00ooiAXuPIf5xv) | 2:17 | 2022-06-17 |  |
 | [Make No Sense \(feat\. Babyface Ray\)](https://open.spotify.com/track/53ysMUPpl1Sq6FwWy0GGtA) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Make No Sense \(feat\. Babyface Ray\)](https://open.spotify.com/album/4A4dU69Y25b6pfIJnomRaj) | 2:39 | 2021-09-24 | 2022-02-26 |
 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/album/6SEeNB2xGW1kmysKSvWYqC) | 3:45 | 2021-11-29 | 2022-03-05 |

@@ -4,7 +4,7 @@
 
 > Mellow songs from the 2010s.
 
-393 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/0GlX4cdlG7EraWNs6wkYYs)
+394 songs - 1 day 0 hr 28 min - [published](https://open.spotify.com/playlist/0GlX4cdlG7EraWNs6wkYYs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 | 2021-02-17 |  |
 | [7 Years](https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:57 | 2022-07-09 |  |
 | [7 Years](https://open.spotify.com/track/7129iqBafaphfc3WPCGC0L) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(Blue Album\)](https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24) | 3:57 | 2021-02-17 | 2022-07-29 |
-| [85%](https://open.spotify.com/track/5teOR8KU4XNWY2WlVUDiIR) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [lost](https://open.spotify.com/album/0hc021mB0QDSF4uCTr3Ki7) | 2:54 | 2021-06-15 |  |
+| [85%](https://open.spotify.com/track/5teOR8KU4XNWY2WlVUDiIR) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [lost](https://open.spotify.com/album/0hc021mB0QDSF4uCTr3Ki7) | 2:54 | 2021-06-15 |  |
 | [A closeness](https://open.spotify.com/track/0xVrusjXiWhqSQ5dPoiiWX) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Doves & Ravens](https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf) | 4:11 | 2022-01-05 |  |
 | [A Thousand Years](https://open.spotify.com/track/07uZmxnxzr0t6Csga6uQtw) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [100 Greatest Acoustic & Chill Songs](https://open.spotify.com/album/2SqiA8X7KdVWQB2dyYGjTf) | 4:45 | 2021-02-17 | 2022-07-29 |
 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2022-07-09 |  |
@@ -48,7 +48,7 @@
 | [Boys Like You \- Acoustic](https://open.spotify.com/track/51xRMJFRBrW9C1RI1qW4S0) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Boys Like You \(Acoustic\)](https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to) | 3:58 | 2021-06-25 |  |
 | [Break My Heart Again](https://open.spotify.com/track/2is19a6HY7ZdWP654IMhEE) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Break My Heart Again](https://open.spotify.com/album/3vh5Rvh2LVovpYKhrnSndx) | 3:58 | 2021-06-15 |  |
 | [Breathe](https://open.spotify.com/track/267nfLfaSSDa9ivHncHynh) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Take Shelter](https://open.spotify.com/album/2dzxJbiJKhQo2aqUrtjZP0) | 3:53 | 2021-08-10 | 2022-05-31 |
-| [Broken](https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 4:07 | 2022-01-05 |  |
+| [Broken](https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 4:07 | 2022-01-05 | 2022-08-24 |
 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 | 2021-02-17 |  |
 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 | 2021-02-17 |  |
 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2021-08-13 |  |
@@ -138,9 +138,10 @@
 | [I Feel It Coming](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:29 | 2022-01-05 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-07-09 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 | 2021-02-17 | 2022-07-29 |
-| [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 | 2021-02-17 |  |
+| [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 | 2021-02-17 |  |
 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 | 2021-02-17 |  |
 | [I See Fire \- From "The Hobbit \- The Desolation Of Smaug"](https://open.spotify.com/track/3B7udSGy2PfgoCniMSb523) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The Hobbit \- The Desolation Of Smaug \(Original Motion Picture Soundtrack / Special Edition\)](https://open.spotify.com/album/2nsRpsb5aeOhNEWV1MoiHB) | 5:00 | 2022-01-05 | 2022-04-21 |
+| [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2022-08-23 |  |
 | [I Want You Around](https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:32 | 2022-01-05 |  |
 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 | 2021-02-17 |  |
 | [I Won't Let You Go](https://open.spotify.com/track/2TUzU4IkfH8kcvY2MUlsd2) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [The Awakening](https://open.spotify.com/album/7poZ9Yjx1nBxpTrUAm7feN) | 3:49 | 2021-02-17 |  |

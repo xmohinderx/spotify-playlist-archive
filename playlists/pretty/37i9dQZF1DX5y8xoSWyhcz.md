@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. beabadoobee on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,750 likes - 115 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,807 likes - 115 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,23 +26,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 16 | [GROWN UP](https://open.spotify.com/track/5QwLklxCtdCBnSMBXt1Vmz) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [GROWN UP](https://open.spotify.com/album/1PAJFnuUntrH4qzJpLI33s) | 3:15 |
 | 17 | [so simple](https://open.spotify.com/track/5b7MYbOXA9FRKvyElEBaLF) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [so simple](https://open.spotify.com/album/1FHFev1IpkEljd1n6T6Qdv) | 2:58 |
 | 18 | [Let Go](https://open.spotify.com/track/1DtdX9FfsysjfOXhVfGySB) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Let Go](https://open.spotify.com/album/0nanElKiXhl3gLEyluduzv) | 3:10 |
-| 19 | [3am in nyc](https://open.spotify.com/track/6gyTRWKIQ9XFjZrxrslFsg) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [3am in nyc](https://open.spotify.com/album/24eFlf4LVYWjP2ytw8CC8M) | 3:09 |
-| 20 | [‎whiskey](https://open.spotify.com/track/0bRq2UOu3CNuH0dvwukfMc) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/6Rfaj1WW6a9B1wjjP77fpC) | 2:25 |
-| 21 | [Come Around](https://open.spotify.com/track/4UsWjHgX1TBmBv9CiVjcSR) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6tWDOvv8CoaWYBdnP11RBn) | 3:38 |
-| 22 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
-| 23 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
-| 24 | [Hurricane](https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Hurricane](https://open.spotify.com/album/5ktsvvarrUwWYE33hgPWw9) | 3:13 |
-| 25 | [Designated Driver](https://open.spotify.com/track/2sAUIlFLzyDMMI17TtohBf) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Designated Driver](https://open.spotify.com/album/3U7ZF5UANVBDXSOiSSHXhl) | 3:58 |
-| 26 | [Heartache & LSD](https://open.spotify.com/track/0KA6rBL9yNsGFBmujt1FZy) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Heartache & LSD: Act II](https://open.spotify.com/album/7J5HDaAmLrKiecP8Qb9cGu) | 1:52 |
-| 27 | [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 |
-| 28 | [Summertime](https://open.spotify.com/track/0WBBh6JTY5ckeZI2f6SIbz) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Summertime](https://open.spotify.com/album/6ybhLR9ftltyxSig8KsDXy) | 3:29 |
-| 29 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 |
-| 30 | [Waste My Time](https://open.spotify.com/track/2qDMEgMtjFbsQnnRigRBuu) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Waste My Time](https://open.spotify.com/album/6x5ktAlJxev8IvJhWDuMZn) | 3:13 |
-| 31 | [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 |
-| 32 | [on fridays](https://open.spotify.com/track/7aNXk8TsrtAoNHRXg9DHwq) | [Colin Carbonera](https://open.spotify.com/artist/730ZZ5nFuueEYwTdNhn0eS) | [on fridays](https://open.spotify.com/album/1vU3U4pczRtIZfuYiVRpUq) | 3:42 |
-| 33 | [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 |
-| 34 | [Lately](https://open.spotify.com/track/2Q6KT9dtkAPbT5uOltm6Tg) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Lately](https://open.spotify.com/album/0XSvrTwDa3fNbgaVm30XHO) | 3:14 |
-| 35 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 |
+| 19 | [Architect](https://open.spotify.com/track/4cshL9bJESsW1PlqPeBgTw) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Architect](https://open.spotify.com/album/7JR4EkR8kGsQSpDm3xWh5k) | 3:04 |
+| 20 | [3am in nyc](https://open.spotify.com/track/6gyTRWKIQ9XFjZrxrslFsg) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [3am in nyc](https://open.spotify.com/album/24eFlf4LVYWjP2ytw8CC8M) | 3:09 |
+| 21 | [‎whiskey](https://open.spotify.com/track/0bRq2UOu3CNuH0dvwukfMc) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/6Rfaj1WW6a9B1wjjP77fpC) | 2:25 |
+| 22 | [Come Around](https://open.spotify.com/track/4UsWjHgX1TBmBv9CiVjcSR) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6tWDOvv8CoaWYBdnP11RBn) | 3:38 |
+| 23 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
+| 24 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
+| 25 | [Hurricane](https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Hurricane](https://open.spotify.com/album/5ktsvvarrUwWYE33hgPWw9) | 3:13 |
+| 26 | [Designated Driver](https://open.spotify.com/track/2sAUIlFLzyDMMI17TtohBf) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Designated Driver](https://open.spotify.com/album/3U7ZF5UANVBDXSOiSSHXhl) | 3:58 |
+| 27 | [Heartache & LSD](https://open.spotify.com/track/0KA6rBL9yNsGFBmujt1FZy) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Heartache & LSD: Act II](https://open.spotify.com/album/7J5HDaAmLrKiecP8Qb9cGu) | 1:52 |
+| 28 | [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 |
+| 29 | [Summertime](https://open.spotify.com/track/0WBBh6JTY5ckeZI2f6SIbz) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Summertime](https://open.spotify.com/album/6ybhLR9ftltyxSig8KsDXy) | 3:29 |
+| 30 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 |
+| 31 | [Waste My Time](https://open.spotify.com/track/2qDMEgMtjFbsQnnRigRBuu) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Waste My Time](https://open.spotify.com/album/6x5ktAlJxev8IvJhWDuMZn) | 3:13 |
+| 32 | [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 |
+| 33 | [on fridays](https://open.spotify.com/track/7aNXk8TsrtAoNHRXg9DHwq) | [Colin Carbonera](https://open.spotify.com/artist/730ZZ5nFuueEYwTdNhn0eS) | [on fridays](https://open.spotify.com/album/1vU3U4pczRtIZfuYiVRpUq) | 3:42 |
+| 34 | [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 |
+| 35 | [Lately](https://open.spotify.com/track/2Q6KT9dtkAPbT5uOltm6Tg) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Lately](https://open.spotify.com/album/0XSvrTwDa3fNbgaVm30XHO) | 3:14 |
 | 36 | [Don't You Want Me](https://open.spotify.com/track/38X5UR1bKeg85ocjyPNAcl) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Celine Autumn](https://open.spotify.com/artist/6Pp0HjTuD5G0IfcHXqpusQ) | [Don't You Want Me](https://open.spotify.com/album/2eg78jugnXfoMypTi5fpus) | 3:33 |
 | 37 | [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 |
 | 38 | [Coat Check](https://open.spotify.com/track/1B5TgBX9UxelP09rjBHEIU) | [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Coat Check](https://open.spotify.com/album/3BUrGZn9S2edYQJVAV1hWG) | 2:56 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 114 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 |
 | 115 | [Instabeat](https://open.spotify.com/track/4vH7mM5XBFyKXwDFbryT3r) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Instabeat](https://open.spotify.com/album/3kIQGJjwncGJkq2z09vN24) | 3:37 |
 
-Snapshot ID: `MTY2MTE3MjY3MiwwMDAwMDAwMGUxOTFkN2MzYzg2YmNiNGFhMWUzYmQwMjM2ZjY2ZDA5`
+Snapshot ID: `MTY2MTI1ODg1NCwwMDAwMDAwMGJiZjQ5YWQ1NTYzOTBiYmFhOGRlMTc1Y2I3MDcyMzM5`

@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Cover: my bloody valentine",
-  "num_followers": 432738,
+  "num_followers": 432976,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTg2OTc1MywwMDAwMDAwMDdhYzk0ZDdiNDY3MTY0NjQyMmRjNjFiYzU5Y2QwZmYw",
+  "snapshot_id": "MTY0MTg2OTc1MywwMDAwMDAwMDY4YTVhNzc4NjdjYTM0MjU0YWEwNDY3N2NmZmYwYzE0",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -395,6 +395,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Skin Game",
+      "url": "https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 231226,
       "name": "Time Baby III",
       "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "Skin Game",
-      "url": "https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Back to Land",
-        "url": "https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV"
-      },
-      "artists": [
-        {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
-        }
-      ],
-      "duration_ms": 318560,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Dead Cities, Red Seas & Lost Ghosts",
         "url": "https://open.spotify.com/album/44Sy39wQjQFX0jJOufXTvv"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 249426,
       "name": "Run Into Flowers",
       "url": "https://open.spotify.com/track/5Y8sPOwWupGEGM7ifBDR7F"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Back to Land",
+        "url": "https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "duration_ms": 318560,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Brickbat",
-        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
-      },
-      "artists": [
-        {
-          "name": "Piroshka",
-          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
-        }
-      ],
-      "duration_ms": 269747,
-      "name": "Everlastingly Yours",
-      "url": "https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Hover",
         "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 297813,
       "name": "Dark Star",
       "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Brickbat",
+        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
+      },
+      "artists": [
+        {
+          "name": "Piroshka",
+          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
+        }
+      ],
+      "duration_ms": 269747,
+      "name": "Everlastingly Yours",
+      "url": "https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Altered Perception",
-        "url": "https://open.spotify.com/album/35FaV3DMDOI7LplP3GDFWo"
-      },
-      "artists": [
-        {
-          "name": "The Telescopes",
-          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "The Perfect Needle",
-      "url": "https://open.spotify.com/track/17dCSc5Vq1riorH10dNqAS"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Mouth By Mouth",
         "url": "https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 179533,
       "name": "Lip",
       "url": "https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Altered Perception",
+        "url": "https://open.spotify.com/album/35FaV3DMDOI7LplP3GDFWo"
+      },
+      "artists": [
+        {
+          "name": "The Telescopes",
+          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "The Perfect Needle",
+      "url": "https://open.spotify.com/track/17dCSc5Vq1riorH10dNqAS"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "The Seaside - Edit",
-      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Dust and Disquiet",
         "url": "https://open.spotify.com/album/2m4KwsPpsNAenV6ImBv71I"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 344586,
       "name": "Echo and Abyss",
       "url": "https://open.spotify.com/track/3GPEflNyiBz1c1iveD7J5b"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "The Seaside - Edit",
+      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo"
-      },
-      "artists": [
-        {
-          "name": "Leave the Planet",
-          "url": "https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk"
-        }
-      ],
-      "duration_ms": 219669,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "In Ribbons",
         "url": "https://open.spotify.com/album/0VmunE358t7BiH4hOint6k"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 238226,
       "name": "Ordeal",
       "url": "https://open.spotify.com/track/2ve1LxvPazqDfcr92eL9UL"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo"
+      },
+      "artists": [
+        {
+          "name": "Leave the Planet",
+          "url": "https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk"
+        }
+      ],
+      "duration_ms": 219669,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "A Gilded Eternity",
-        "url": "https://open.spotify.com/album/6EnYB0SzDQeAUN7qLgCIPs"
-      },
-      "artists": [
-        {
-          "name": "Loop",
-          "url": "https://open.spotify.com/artist/0ReGrqp2iQLy9fySkDCIDh"
-        }
-      ],
-      "duration_ms": 367973,
-      "name": "Vapour",
-      "url": "https://open.spotify.com/track/1PsqU9ouv5JaRpdygiv6eu"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 253013,
       "name": "A House Wife Love Song",
       "url": "https://open.spotify.com/track/57oNds15RN6allNb0YIPSD"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "A Gilded Eternity",
+        "url": "https://open.spotify.com/album/6EnYB0SzDQeAUN7qLgCIPs"
+      },
+      "artists": [
+        {
+          "name": "Loop",
+          "url": "https://open.spotify.com/artist/0ReGrqp2iQLy9fySkDCIDh"
+        }
+      ],
+      "duration_ms": 367973,
+      "name": "Vapour",
+      "url": "https://open.spotify.com/track/1PsqU9ouv5JaRpdygiv6eu"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "The Comforts of Madness (30th Anniversary Reissue)",
-        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
-      },
-      "artists": [
-        {
-          "name": "Pale Saints",
-          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
-        }
-      ],
-      "duration_ms": 112265,
-      "name": "She Rides the Waves - John Peel Sessions",
-      "url": "https://open.spotify.com/track/04pPgXeGkAxAvyhvh09hqc"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Almost Paradise",
         "url": "https://open.spotify.com/album/0tjeEeo7BpHqdgPujxeu3y"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 257068,
       "name": "Lovely Times",
       "url": "https://open.spotify.com/track/6sskntaT7RFHNjSu6Y437c"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "The Comforts of Madness (30th Anniversary Reissue)",
+        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "duration_ms": 112265,
+      "name": "She Rides the Waves - John Peel Sessions",
+      "url": "https://open.spotify.com/track/04pPgXeGkAxAvyhvh09hqc"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Stereo Musicale",
-        "url": "https://open.spotify.com/album/0EFJm468BAgpImJ3yJGQSP"
+        "name": "Flying Saucer Attack",
+        "url": "https://open.spotify.com/album/19EG2Pg9TBTTmXsAYmrvsc"
       },
       "artists": [
         {
-          "name": "Blind Mr. Jones",
-          "url": "https://open.spotify.com/artist/1rlDsPo1oKph7bAtq4Pxr9"
+          "name": "Flying Saucer Attack",
+          "url": "https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Regular Disease",
-      "url": "https://open.spotify.com/track/4YAQckxDe7qBmoIpjisNNf"
+      "duration_ms": 372400,
+      "name": "My Dreaming Hill",
+      "url": "https://open.spotify.com/track/4xVb769QQHzWlGR9L9Flbl"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Flying Saucer Attack",
-        "url": "https://open.spotify.com/album/19EG2Pg9TBTTmXsAYmrvsc"
+        "name": "Stereo Musicale",
+        "url": "https://open.spotify.com/album/0EFJm468BAgpImJ3yJGQSP"
       },
       "artists": [
         {
-          "name": "Flying Saucer Attack",
-          "url": "https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A"
+          "name": "Blind Mr. Jones",
+          "url": "https://open.spotify.com/artist/1rlDsPo1oKph7bAtq4Pxr9"
         }
       ],
-      "duration_ms": 372400,
-      "name": "My Dreaming Hill",
-      "url": "https://open.spotify.com/track/4xVb769QQHzWlGR9L9Flbl"
+      "duration_ms": 250933,
+      "name": "Regular Disease",
+      "url": "https://open.spotify.com/track/4YAQckxDe7qBmoIpjisNNf"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Outside (briefly)",
-        "url": "https://open.spotify.com/album/4M2Au76G2kkk7jGELIy50T"
-      },
-      "artists": [
-        {
-          "name": "Froth",
-          "url": "https://open.spotify.com/artist/1KtOqfwCbclwg7bgvsUJ5U"
-        }
-      ],
-      "duration_ms": 291739,
-      "name": "Passing Thing",
-      "url": "https://open.spotify.com/track/2BTHDJlCQb689vMYU8f8sd"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Slow Burner",
         "url": "https://open.spotify.com/album/2ea3sE9QzbjsvD4P3G1OmY"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 318560,
       "name": "Slow Burner",
       "url": "https://open.spotify.com/track/5wqU8tT3obRDTmqLp1D0Qy"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Outside (briefly)",
+        "url": "https://open.spotify.com/album/4M2Au76G2kkk7jGELIy50T"
+      },
+      "artists": [
+        {
+          "name": "Froth",
+          "url": "https://open.spotify.com/artist/1KtOqfwCbclwg7bgvsUJ5U"
+        }
+      ],
+      "duration_ms": 291739,
+      "name": "Passing Thing",
+      "url": "https://open.spotify.com/track/2BTHDJlCQb689vMYU8f8sd"
     },
     {
       "added_at": "2021-06-03 02:39:04",

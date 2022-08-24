@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,007 likes - 150 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,998 likes - 150 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 112 | [Let's Have a Drink](https://open.spotify.com/track/26GfPMUuBToGLUlEmjE2Go) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [ATELIER](https://open.spotify.com/album/4SBAMHsdBsKeyDb7EqzUV6) | 3:30 |
 | 113 | [My regards](https://open.spotify.com/track/1E7lMFb6c4p60DEJ8te3Be) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [My regards](https://open.spotify.com/album/6cHha0CTnBym1jW7xhcRJl) | 3:51 |
 | 114 | [Family Portrait \(2020\)](https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Family Portrait \(2020\)](https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu) | 6:43 |
-| 115 | [You Don't Know Men](https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [fuzz?buzz](https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux) | 4:14 |
+| 115 | [You Don't Know Men](https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [fuzz·buzz](https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux) | 4:14 |
 | 116 | [The Way To Say Goodbye](https://open.spotify.com/track/70a9hCn5BMXNDROcckHmAO) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [The Way To Say Goodbye](https://open.spotify.com/album/123HZKvdhxbDBSkRgWYCHz) | 5:07 |
 | 117 | [Enough](https://open.spotify.com/track/5TCgUf31UGoFXQkpgINv9j) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:52 |
 | 118 | [Every moment of you 너의 모든 순간](https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV) | 4:03 |

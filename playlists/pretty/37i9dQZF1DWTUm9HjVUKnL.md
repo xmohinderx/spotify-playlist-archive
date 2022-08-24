@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Glass Animals, Arooj Aftab, and The Kid LAROI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,814 likes - 776 songs - 1 day 23 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,815 likes - 776 songs - 1 day 23 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -676,7 +676,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 666 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 |
 | 667 | [Born Again \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Spotify Singles](https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ) | 3:51 |
 | 668 | [Something About Us \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7GdwIsiVLKrsvwFsdBK9Cy) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Spotify Singles](https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ) | 4:03 |
-| 669 | [Lights Down Low \(feat\. gnash\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Rtifv6FRk9rgLR2ZZa5S2) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Spotify Singles](https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX) | 4:02 |
+| 669 | [Lights Down Low \(feat\. gnash\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Rtifv6FRk9rgLR2ZZa5S2) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Spotify Singles](https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX) | 4:02 |
 | 670 | [Buy U A Drank \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Spotify Singles](https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX) | 2:43 |
 | 671 | [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 |
 | 672 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 |

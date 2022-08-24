@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Chloe Moriondo
 
-1,325 songs - 2 day 21 hr 35 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,326 songs - 2 day 21 hr 39 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Dead Dear \(Deer\)](https://open.spotify.com/track/36tSVRFlsdxAUtWODAAIpx) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Dead Dear \(Deer\)](https://open.spotify.com/album/56QKLIjO5nur7Z4ekgQzwG) | 2:46 | 2021-09-24 | 2022-04-16 |
 | [Death Wish](https://open.spotify.com/track/4A11c7LR0Nr2ENq2v6cXri) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Death Wish](https://open.spotify.com/album/7b7ry1Asg4hDM5yAsg64UH) | 3:08 | 2022-02-25 | 2022-07-03 |
 | [decide to be happy](https://open.spotify.com/track/4npip0lZeQAbj1epad3oCu) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [decide to be happy](https://open.spotify.com/album/1PO9x34QK39yLrs0zZtOk4) | 3:27 | 2020-10-20 | 2021-06-03 |
+| [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 |  |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-06-17 |  |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-06-02 | 2022-07-28 |
 | [Demons](https://open.spotify.com/track/08qsZgJlJnSbeAeLMtUHkn) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Demons](https://open.spotify.com/album/4UNIH2A9TMk030j12KQOIa) | 2:43 | 2020-10-16 | 2021-05-26 |
@@ -1113,7 +1114,7 @@
 | [Stuck Here Without You](https://open.spotify.com/track/2KmjwOAUJUs7UG1Z1zzoOy) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Stuck Here Without You](https://open.spotify.com/album/1oXM6adtUwiPaKbvHmgqZ2) | 2:07 | 2021-02-22 | 2022-04-12 |
 | [Stuck In A Bubble](https://open.spotify.com/track/1bSJ2FDSYUQHbg4hpnF4Li) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Stuck In A Bubble](https://open.spotify.com/album/23suzHFs2RSiknQtTOGIJi) | 2:38 | 2020-10-20 | 2020-10-21 |
 | [Stuck in the Middle](https://open.spotify.com/track/0kJkiYAvGPwxcMgVznuS8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:21 | 2022-05-06 | 2022-06-20 |
-| [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 | 2022-03-18 |  |
+| [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 | 2022-03-18 | 2022-08-24 |
 | [Stupid Boys](https://open.spotify.com/track/3VVTR5byzYX15kSLhENnVN) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Stupid Boys](https://open.spotify.com/album/0njsUW4yb3wviV0Ulopvfk) | 2:13 | 2020-10-13\* | 2021-02-27 |
 | [Subject](https://open.spotify.com/track/2jI4keyUwCmnn6kqA4GlAc) | [Fran Vasilić](https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm) | [The Very Last Thoughts on Earth](https://open.spotify.com/album/0dDAfkBPnOP70LE5IhqoPY) | 3:35 | 2022-07-22 | 2022-08-06 |
 | [Sucker Punch](https://open.spotify.com/track/0y0xWEzCRBY47WRw67r4Ab) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [Sucker Punch](https://open.spotify.com/album/1hB7OK8nNlPLslFuHoeC5e) | 2:26 | 2020-10-13\* | 2020-11-20 |

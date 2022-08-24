@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Jay Wheeler
 
-2,008 songs - 4 day 10 hr 43 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,009 songs - 4 day 10 hr 47 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1875,7 +1875,8 @@
 | [Tú y yo](https://open.spotify.com/track/0cUp7d3a6DHzAuSKBn1NZJ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tú y yo](https://open.spotify.com/album/5To3JjtIkghGay545iV2wf) | 2:43 | 2022-06-17 | 2022-06-25 |
 | [Tú y Yo \(feat\. Vanesa Martín\)](https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Tú y Yo \(feat\. Vanesa Martín\)](https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9) | 3:29 | 2022-06-24 | 2022-07-02 |
 | [Uh Huh](https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Uh Huh](https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf) | 2:43 | 2022-08-19 |  |
-| [Ulayeh](https://open.spotify.com/track/3sQbevoTIy6yFNeCV7HK3S) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ulayeh](https://open.spotify.com/album/72u2MD55xrMVn0sElwLl0J) | 3:27 | 2022-08-19 |  |
+| [Ulayeh](https://open.spotify.com/track/1T1aVbASxrPmX7OJdxzx8g) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ulayeh](https://open.spotify.com/album/1doeHs7TAzYxsq0BYIcab5) | 3:27 | 2022-08-19 |  |
+| [Ulayeh](https://open.spotify.com/track/3sQbevoTIy6yFNeCV7HK3S) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ulayeh](https://open.spotify.com/album/72u2MD55xrMVn0sElwLl0J) | 3:27 | 2022-08-19 | 2022-08-24 |
 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 | 2022-06-17 | 2022-06-25 |
 | [Un Beso](https://open.spotify.com/track/007UTWXFgD65IDRcoVvQx9) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Astrallbass](https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t) | [Un Beso](https://open.spotify.com/album/4wT4HRcRMowd3m2smj8NfI) | 3:43 | 2022-02-18 | 2022-02-26 |
 | [Un Buen Día](https://open.spotify.com/track/1KC3qyAfUfZ3k3Z1cwGGaP) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Un Buen Día](https://open.spotify.com/album/64E3yJ3INx57PYE8qJnGZK) | 2:46 | 2022-03-11 | 2022-03-18 |

@@ -4,7 +4,7 @@
 
 > 
 
-170 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/4hCSnoct0qgbc2W4GKc86U)
+171 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/4hCSnoct0qgbc2W4GKc86U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2019-01-11 |  |
 | [Drowning \- Original Mix](https://open.spotify.com/track/1LJFkBJ1vjJKlVx5z7qtdk) | [Singularity](https://open.spotify.com/artist/3CHdEhu3z3OYck1hZNusWz) | [Rift EP](https://open.spotify.com/album/0oUaF0znpsJQQzJiUZfwcw) | 4:28 | 2016-10-01 |  |
 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK) | 2:53 | 2018-11-12 |  |
+| [El Mañana](https://open.spotify.com/track/0dcMqjeDpwqB2xhzMsld0p) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:55 | 2022-08-23 |  |
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2019-11-07 |  |
 | [Elise \(Hit Rewind\)](https://open.spotify.com/track/0F5uDInBfzqzpvOgH4sjdG) | [Resonata](https://open.spotify.com/artist/0DPxk01Zpe39U3H7gTBj4H) | [Full Circle](https://open.spotify.com/album/5jaudo7OCpJTvkJ7scAaDz) | 6:57 | 2016-09-04 |  |
 | [Endorphins \- Sub Focus Vs\. Fred V & Grafix Remix](https://open.spotify.com/track/7IvgViHYDXeWa2CILskhUX) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl), [N Douwma](https://open.spotify.com/artist/6GskrsOe5wAKXOgRfpsIM7), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY) | [Endorphins](https://open.spotify.com/album/14HygQjdmJBRk3qFTLDtRB) | 4:35 | 2016-01-15 |  |

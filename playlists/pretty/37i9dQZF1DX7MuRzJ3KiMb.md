@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,550 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,613 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 46 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
 | 47 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
 | 48 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 |
-| 49 | [Eres Tú \(Cap\. 6: Miedo a la Soledad\)](https://open.spotify.com/track/0D259G1Rm5x1r0YWept67t) | [Kari](https://open.spotify.com/artist/4g995OkDaX98GUjFyZyuRu) | [Eres Tú \(Cap\. 6: Miedo a la Soledad\)](https://open.spotify.com/album/41a1fgIzvZXpIas6XdsxsZ) | 3:02 |
+| 49 | [El Mejor Lugar](https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [El Mejor Lugar](https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme) | 2:55 |
 | 50 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
-| 51 | [El Mejor Lugar](https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [El Mejor Lugar](https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme) | 2:55 |
+| 51 | [Eres Tú \(Cap\. 6: Miedo a la Soledad\)](https://open.spotify.com/track/0D259G1Rm5x1r0YWept67t) | [Kari](https://open.spotify.com/artist/4g995OkDaX98GUjFyZyuRu) | [Eres Tú \(Cap\. 6: Miedo a la Soledad\)](https://open.spotify.com/album/41a1fgIzvZXpIas6XdsxsZ) | 3:02 |
 | 52 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
 | 53 | [NTDDP](https://open.spotify.com/track/2qcwhO9GA5CgOtgtvWW0Wa) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [NTDDP](https://open.spotify.com/album/0VO1hYeausUaErYssR77vQ) | 2:56 |
 | 54 | [Para la Eternidad](https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [45 RPM](https://open.spotify.com/album/7A8QtKKDMM2Rs91Sq5fcfr) | 4:23 |
-| 55 | [Nada Me Falta \(Welcome To Tijuana\)](https://open.spotify.com/track/09jNjdtBWKxSFLaIMN85mv) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Flor De Michoacán](https://open.spotify.com/album/71f7JogsMnad5Leg4XeZr9) | 3:01 |
-| 56 | [Lagrimón](https://open.spotify.com/track/2jXkchCKJP645dRwqohTLz) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre](https://open.spotify.com/album/15yeAN5L3PVuz0LkvOrwmL) | 3:43 |
+| 55 | [Lagrimón](https://open.spotify.com/track/2jXkchCKJP645dRwqohTLz) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre](https://open.spotify.com/album/15yeAN5L3PVuz0LkvOrwmL) | 3:43 |
+| 56 | [Nada Me Falta \(Welcome To Tijuana\)](https://open.spotify.com/track/09jNjdtBWKxSFLaIMN85mv) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Flor De Michoacán](https://open.spotify.com/album/71f7JogsMnad5Leg4XeZr9) | 3:01 |
 | 57 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
 | 58 | [La Del Campo De Fresas](https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG) | [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [Navegando](https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy) | 3:56 |
 | 59 | [Suéltate](https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD) | [Daniel Craft](https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb) | [Dimittas](https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [Tiempo](https://open.spotify.com/track/08S8EziI1G7mKlpLppezs1) | [César Iván](https://open.spotify.com/artist/0FbElMinO7597uQdQNvIIR) | [Tiempo](https://open.spotify.com/album/5CsywNE84L0cjfi7pr2K5B) | 3:09 |
 | 75 | [Aurana Espérame](https://open.spotify.com/track/0JwJElZzKXF4TnzN30uxZw) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:03 |
 
-Snapshot ID: `MTY1ODI1Mjk4NCwwMDAwMDAwMDg0MWUyNTQ0ZDE3Mzg2OGNlMDkwYzlkMmZmMzVkNWFl`
+Snapshot ID: `MTY1ODI1Mjk4NCwwMDAwMDAwMGM0M2NjYzYwZDk2MGE0YWFhMDNkNjBlYjM3MTAzNjJj`

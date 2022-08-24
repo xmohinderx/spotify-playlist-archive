@@ -966,6 +966,24 @@
     },
     {
       "album": {
+        "name": "Seraphic",
+        "url": "https://open.spotify.com/album/02qMMW9PBraKOzi3fYGrj5"
+      },
+      "artists": [
+        {
+          "name": "Logan Docherty",
+          "url": "https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212486,
+      "name": "Seraphic",
+      "url": "https://open.spotify.com/track/6hEVztDYBzkGSEIcebdjiK"
+    },
+    {
+      "album": {
         "name": "Silverhearts",
         "url": "https://open.spotify.com/album/763n56FRXMTLlU1RrWDvCD"
       },

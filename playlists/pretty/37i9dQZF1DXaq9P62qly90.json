@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMGZiZWI4OTEyZDk5MGNiZTIxOTlkYjZlNzE5ZjE3ZDcx",
+  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMGQ2ZWFhMGE1M2I4ZTFhNzcwM2ZmOTc4Y2RiYzFmN2Y1",
   "tracks": [
     {
       "added_at": "2020-11-25 03:15:55",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "These Are My Roots",
-        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
-      },
-      "artists": [
-        {
-          "name": "Mike Love",
-          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
-        }
-      ],
-      "duration_ms": 234061,
-      "name": "These Are My Roots",
-      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Low Tide",
         "url": "https://open.spotify.com/album/4giRNp31F4b7g7jjR7I9Jp"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 234000,
       "name": "Warm Under the Light",
       "url": "https://open.spotify.com/track/6Z9x4QynHfLwNAXAzn9X1Z"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "You're It!",
+        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
+      },
+      "artists": [
+        {
+          "name": "Wookiefoot",
+          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Don't Hold Your Breath",
+      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -467,18 +467,18 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "You're It!",
-        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
+        "name": "These Are My Roots",
+        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
       },
       "artists": [
         {
-          "name": "Wookiefoot",
-          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
+          "name": "Mike Love",
+          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Don't Hold Your Breath",
-      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
+      "duration_ms": 234061,
+      "name": "These Are My Roots",
+      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
     },
     {
       "added_at": "2020-11-25 03:15:55",

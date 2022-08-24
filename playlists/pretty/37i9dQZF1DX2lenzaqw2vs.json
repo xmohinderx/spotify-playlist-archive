@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123913,
+  "num_followers": 123906,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDNlYzJhYjgwZGRhODc3ZTU2MDQ3NTA0ZTFiMjgwOWJm",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGU1NDliZDZhNDgzOTczNzU2MjdlMzJiZDM2NGNlMDQ5",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Clich\u00e9s",
+        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "El Derecho de Vivir en Paz",
         "url": "https://open.spotify.com/album/72TMw0zavcWwbzU8j2gOmg"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 227444,
       "name": "El Derecho de Vivir en Paz",
       "url": "https://open.spotify.com/track/2xuYcmQW7sFoVHygnyP2k1"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Clich\u00e9s",
-        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/7lpn9dwub9H2eRq2PoYBIe"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Cicatrices",
-      "url": "https://open.spotify.com/track/7dC3AUYIYAJTCk5n2AkfJV"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Puerto Rican Mami",
         "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 199627,
       "name": "Puerto Rican Mami",
       "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/7lpn9dwub9H2eRq2PoYBIe"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/7dC3AUYIYAJTCk5n2AkfJV"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1791,38 +1791,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "La Cumbia Feminazi",
-        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
-      },
-      "artists": [
-        {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "La Cumbia Feminazi",
-      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "hebilla",
         "url": "https://open.spotify.com/album/3GxYLJZd0U74GvLipaMa7F"
       },
@@ -1851,6 +1819,38 @@
       "duration_ms": 223000,
       "name": "hebilla",
       "url": "https://open.spotify.com/track/0W1x3Q875nkNUM0386f1Ha"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "La Cumbia Feminazi",
+        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
+      },
+      "artists": [
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "La Cumbia Feminazi",
+      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Pill\u00e1ndome",
-        "url": "https://open.spotify.com/album/7g5KQmVTD7mtQSNWoO9S94"
-      },
-      "artists": [
-        {
-          "name": "Bearoid",
-          "url": "https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Pill\u00e1ndome",
-      "url": "https://open.spotify.com/track/6VOTtgE47gLBcaAradlOmk"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "TODOELORO",
         "url": "https://open.spotify.com/album/6i7YAlim3n93EXo4UQj8YD"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 171500,
       "name": "TODOELORO",
       "url": "https://open.spotify.com/track/3jSwGrzDjeTIgCEsxSCUkl"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Pill\u00e1ndome",
+        "url": "https://open.spotify.com/album/7g5KQmVTD7mtQSNWoO9S94"
+      },
+      "artists": [
+        {
+          "name": "Bearoid",
+          "url": "https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Pill\u00e1ndome",
+      "url": "https://open.spotify.com/track/6VOTtgE47gLBcaAradlOmk"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2487,6 +2487,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/1fTA11dukn2IrHiFyNb3qD"
+      },
+      "artists": [
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt"
+        },
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        }
+      ],
+      "duration_ms": 206739,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/5ZbZqPiTSQJzKvkMHyZoYi"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Feeling Good (Pauza Remix)",
         "url": "https://open.spotify.com/album/7EOBTLrvjTNFnD5Oil88v1"
       },
@@ -2511,22 +2531,18 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/1fTA11dukn2IrHiFyNb3qD"
+        "name": "Amor, Locura & Otros Vicios",
+        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
       },
       "artists": [
         {
-          "name": "ARIA",
-          "url": "https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt"
-        },
-        {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
         }
       ],
-      "duration_ms": 206739,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/5ZbZqPiTSQJzKvkMHyZoYi"
+      "duration_ms": 168640,
+      "name": "Sorpresa",
+      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2543,22 +2559,6 @@
       "duration_ms": 297544,
       "name": "Ruido",
       "url": "https://open.spotify.com/track/1MQsLLmZ6tyJ88Fuwjwcx8"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Amor, Locura & Otros Vicios",
-        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Sorpresa",
-      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
     },
     {
       "added_at": "2022-07-05 19:20:04",

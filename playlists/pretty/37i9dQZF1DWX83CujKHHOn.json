@@ -1,12 +1,12 @@
 {
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
-  "num_followers": 3141517,
+  "num_followers": 3142617,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE0Mzg4MSwwMDAwMDAwMGFkYWM5ZWY2NDhmZmViZjExNjkxZjMwZGY5ZThlZDk4",
+  "snapshot_id": "MTY2MTE0Mzg4MSwwMDAwMDAwMGM2N2ZlNzM5ODI5OWJmNTVmZjA5ZjRjODYyNGVjNGRi",
   "tracks": [
     {
       "added_at": "2022-08-19 12:00:00",
@@ -328,7 +328,7 @@
       },
       "artists": [
         {
-          "name": "Garrett Nash",
+          "name": "gnash",
           "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
         },
         {
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
         "name": "The Pains Of Growing",
         "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 227693,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "Bridges",
-        "url": "https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 212950,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/5sPaFuUttXaGeMhq1HKJG5"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
         "name": "Unbroken",
         "url": "https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 221293,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/4B3RmT3cGvh8By3WY9pbIx"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 212950,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/5sPaFuUttXaGeMhq1HKJG5"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 203300,
       "name": "Is It Just Me? (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "Crying in the Rain",
-        "url": "https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "Crying in the Rain",
-      "url": "https://open.spotify.com/track/134G2m5YsPiZXFOduHEfSJ"
-    },
-    {
-      "added_at": "2022-08-19 12:00:00",
-      "album": {
         "name": "Handwritten (Revisited)",
         "url": "https://open.spotify.com/album/11fLgnq2LE8p5hzo8urweI"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 200560,
       "name": "Heart Like Yours",
       "url": "https://open.spotify.com/track/1ym2ZnNbIV6TB4YUjAl2Z5"
+    },
+    {
+      "added_at": "2022-08-19 12:00:00",
+      "album": {
+        "name": "Crying in the Rain",
+        "url": "https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/134G2m5YsPiZXFOduHEfSJ"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -2123,22 +2123,18 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "half a world away",
-        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
       "artists": [
         {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 207954,
-      "name": "half a world away",
-      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
+      "duration_ms": 253959,
+      "name": "Drowning Shadows",
+      "url": "https://open.spotify.com/track/4dtU73n96G2Qutw4rJ7cOc"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -2159,18 +2155,22 @@
     {
       "added_at": "2022-08-19 12:00:00",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+        "name": "half a world away",
+        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 253959,
-      "name": "Drowning Shadows",
-      "url": "https://open.spotify.com/track/4dtU73n96G2Qutw4rJ7cOc"
+      "duration_ms": 207954,
+      "name": "half a world away",
+      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
     },
     {
       "added_at": "2022-08-19 12:00:00",
@@ -2244,7 +2244,7 @@
       },
       "artists": [
         {
-          "name": "Garrett Nash",
+          "name": "gnash",
           "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
         },
         {

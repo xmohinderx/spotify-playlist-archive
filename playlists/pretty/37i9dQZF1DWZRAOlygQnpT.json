@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 50296,
+  "num_followers": 50324,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTY3OTUyMiwwMDAwMDAwMDdmYWQ3NDYwZWQwMWJhZTYzYzA4MDg3YWNmMGIxY2M5",
+  "snapshot_id": "MTY1MTY3OTUyMiwwMDAwMDAwMGZkY2M0YzYzODEwMTBiYjFlNWFhN2IwNDNkMjljMjYz",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -891,22 +891,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Historia de un Amor",
-        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 156395,
-      "name": "Historia de Tommy",
-      "url": "https://open.spotify.com/track/3fCWiuel6FcFwWKV4RTmdh"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 157400,
       "name": "Tequila Con Lim\u00f3n",
       "url": "https://open.spotify.com/track/2FYdec3yREDp9gIoaWMOxn"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 156395,
+      "name": "Historia de Tommy",
+      "url": "https://open.spotify.com/track/3fCWiuel6FcFwWKV4RTmdh"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors",
-          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "A Trav\u00e9s De Los A\u00f1os",
-      "url": "https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "100 A\u00f1os de Musica",
         "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 145110,
       "name": "El Juego de Simon",
       "url": "https://open.spotify.com/track/6zviEOLUAWV9fRxPJBPWfu"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors",
+          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "A Trav\u00e9s De Los A\u00f1os",
+      "url": "https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi"
     },
     {
       "added_at": "2020-04-17 21:51:59",

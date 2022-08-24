@@ -1,12 +1,12 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 2913294,
+  "num_followers": 2913931,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE4NDMyNCwwMDAwMDAwMDdlMjFlZmE4NjdjMWQ4MGM3NDIwZDQwYzMwMzQyZWQx",
+  "snapshot_id": "MTY1NDE4NDMyNCwwMDAwMDAwMGZkOTFiNTIyNmZiZTNmNTZkYTNjYjllNWEwOGQ0Njgw",
   "tracks": [
     {
       "added_at": "2022-06-02 15:38:44",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 212481,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
         "name": "El Ruise\u00f1or de America",
         "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 180733,
       "name": "Volver Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 212481,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
+        "name": "Al Norte Del Sur",
+        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
         "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
         "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 191306,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
-        "name": "Al Norte Del Sur",
-        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
-        "name": "2 (Remasterizado 2017)",
-        "url": "https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr"
-      },
-      "artists": [
-        {
-          "name": "Miguel Gallardo",
-          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "Hoy tengo ganas de ti",
-      "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 192213,
       "name": "Frente a Frente",
       "url": "https://open.spotify.com/track/38sK8PSXXgZMLZujwgvNUH"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
+        "name": "2 (Remasterizado 2017)",
+        "url": "https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr"
+      },
+      "artists": [
+        {
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
+        }
+      ],
+      "duration_ms": 245560,
+      "name": "Hoy tengo ganas de ti",
+      "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
-        "name": "Y... sigo mi camino",
-        "url": "https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Como yo te amo",
-      "url": "https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
         "name": "El Sonido Vol. 1",
         "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 166731,
       "name": "Hagamos Un Trato",
       "url": "https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
+        "name": "Y... sigo mi camino",
+        "url": "https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Como yo te amo",
+      "url": "https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
-        "name": "Mi Vida. Historia Musical De Un Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/6VvOYxN8hECTjvqUHbD0ce"
-      },
-      "artists": [
-        {
-          "name": "Miguel Gallardo",
-          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
-        }
-      ],
-      "duration_ms": 210546,
-      "name": "Otro Ocupa Mi Lugar",
-      "url": "https://open.spotify.com/track/2i7oFlgafYTgri8LvGueYt"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
         "name": "Tiempo De Vals",
         "url": "https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 258626,
       "name": "Completamente Enamorados",
       "url": "https://open.spotify.com/track/3pz19CAY4yX7FSnTWDu3La"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
+        "name": "Mi Vida. Historia Musical De Un Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/6VvOYxN8hECTjvqUHbD0ce"
+      },
+      "artists": [
+        {
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
+        }
+      ],
+      "duration_ms": 210546,
+      "name": "Otro Ocupa Mi Lugar",
+      "url": "https://open.spotify.com/track/2i7oFlgafYTgri8LvGueYt"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
-      },
-      "artists": [
-        {
-          "name": "Roberto Jordan",
-          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
-      "url": "https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
         "name": "Grandes exitos 1997-2004",
         "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 290973,
       "name": "Amiga m\u00eda",
       "url": "https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
+      "url": "https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
-        "name": "16 \u00c9xitos: Baladas",
-        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
-      },
-      "artists": [
-        {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
-        }
-      ],
-      "duration_ms": 200045,
-      "name": "El Pecador",
-      "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
         "name": "Los Hombres No Deben Llorar",
         "url": "https://open.spotify.com/album/3B9ucoKy0j4V20ANOXmlCr"
       },
@@ -1771,6 +1755,38 @@
       "duration_ms": 197717,
       "name": "Los Hombres No Deben Llorar",
       "url": "https://open.spotify.com/track/705pAm0eXVhL5YDprwYqbQ"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
+        }
+      ],
+      "duration_ms": 130066,
+      "name": "Amor de Estudiante",
+      "url": "https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "El Pecador",
+      "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -1823,22 +1839,6 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
-      },
-      "artists": [
-        {
-          "name": "Roberto Jordan",
-          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
-        }
-      ],
-      "duration_ms": 130066,
-      "name": "Amor de Estudiante",
-      "url": "https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
         "name": "Coleccion definitiva (Deluxe)",
         "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
       },
@@ -1851,22 +1851,6 @@
       "duration_ms": 299840,
       "name": "Mi soledad y yo",
       "url": "https://open.spotify.com/track/7nY8fkDi2zmlQQHGSN9U9m"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/4OFqUGVCznz7kSWhdpSkN4"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 272360,
-      "name": "No Basta",
-      "url": "https://open.spotify.com/track/3dvw72c1XCh2oznmecISzA"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -1887,6 +1871,22 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/4OFqUGVCznz7kSWhdpSkN4"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 272360,
+      "name": "No Basta",
+      "url": "https://open.spotify.com/track/3dvw72c1XCh2oznmecISzA"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
         "name": "Alma, coraz\u00f3n y vida",
         "url": "https://open.spotify.com/album/4eiylM6nVpoQYl7kIkcKrY"
       },
@@ -1899,22 +1899,6 @@
       "duration_ms": 198000,
       "name": "Coraz\u00f3n m\u00e1gico",
       "url": "https://open.spotify.com/track/2LGNlsFbufs6T6no1w8kfZ"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 217129,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -1935,22 +1919,18 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
-        "name": "Natalie Cole En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/6X7BJSaM624cWdm4GQjZx5"
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
         }
       ],
-      "duration_ms": 242200,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/0qLqqJYI7wW8w93fgqd2LN"
+      "duration_ms": 217129,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -1967,6 +1947,26 @@
       "duration_ms": 231967,
       "name": "Mudanzas",
       "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
+        "name": "Natalie Cole En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/6X7BJSaM624cWdm4GQjZx5"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/0qLqqJYI7wW8w93fgqd2LN"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
-        "name": "Exitos Con Trio",
-        "url": "https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 207146,
-      "name": "Sombras - Versi\u00f3n Tr\u00edo",
-      "url": "https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
         "name": "Marinero De Luces",
         "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 182826,
       "name": "Marinero de Luces",
       "url": "https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
+        "name": "Exitos Con Trio",
+        "url": "https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 207146,
+      "name": "Sombras - Versi\u00f3n Tr\u00edo",
+      "url": "https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
+        "name": "\"Miguel\"",
+        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 251226,
+      "name": "Morir de Amor",
+      "url": "https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
         "name": "Nana Latina",
         "url": "https://open.spotify.com/album/7JQTy0hkipHuGpG9KsGAwl"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 262800,
       "name": "Se Que Volveras",
       "url": "https://open.spotify.com/track/6cy5hG9A8uYZiDeEIILLkB"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
-        "name": "\"Miguel\"",
-        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 251226,
-      "name": "Morir de Amor",
-      "url": "https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8"
     },
     {
       "added_at": "2022-06-02 15:38:44",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2022-06-02 15:38:44",
       "album": {
-        "name": "Marinero De Luces",
-        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Hoy Quiero Confesarme",
-      "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
-    },
-    {
-      "added_at": "2022-06-02 15:38:44",
-      "album": {
         "name": "Pra Sempre Em Espanhol - Vol. 1",
         "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 194906,
       "name": "Amante a la Antigua",
       "url": "https://open.spotify.com/track/5C7wTCd20Ftl6bbW70qOA4"
+    },
+    {
+      "added_at": "2022-06-02 15:38:44",
+      "album": {
+        "name": "Marinero De Luces",
+        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Hoy Quiero Confesarme",
+      "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
     },
     {
       "added_at": "2022-06-02 15:38:44",

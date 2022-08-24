@@ -840,6 +840,42 @@
     },
     {
       "album": {
+        "name": "mixtapes",
+        "url": "https://open.spotify.com/album/2rMzwSfdnPKcThZRB77Lp1"
+      },
+      "artists": [
+        {
+          "name": "Garden Collective",
+          "url": "https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129312,
+      "name": "mixtapes",
+      "url": "https://open.spotify.com/track/6e9hqBIQzF9q0M1tqp8mqj"
+    },
+    {
+      "album": {
+        "name": "Modeling Structures",
+        "url": "https://open.spotify.com/album/3Rf2n1WL2wEFfa6N58nygc"
+      },
+      "artists": [
+        {
+          "name": "Akustique",
+          "url": "https://open.spotify.com/artist/2AOnQvebnP4UuohgsdRJ6A"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141904,
+      "name": "Modeling Structures",
+      "url": "https://open.spotify.com/track/5j69T9lwivG9Uf452qRu6l"
+    },
+    {
+      "album": {
         "name": "Narrowed Down",
         "url": "https://open.spotify.com/album/4K2mMpyONR4MpBYbHBCe7T"
       },
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 169045,
       "name": "Western Wishes Intro",
       "url": "https://open.spotify.com/track/476KeGkyl75OZKcHqRZPvf"

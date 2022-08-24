@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 639421,
+  "num_followers": 639531,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk4Mjc4OSwwMDAwMDAwMDU1MjM5MmFiNjVmMzFmOTUxMzM3NmIxYjU1NjlkYmQx",
+  "snapshot_id": "MTY0Nzk4Mjc4OSwwMDAwMDAwMDMwMmU1N2I0NTFlZGY4OWIzNTg1ZGNlYjA5ZjcwNTUy",
   "tracks": [
     {
       "added_at": "2022-03-22 20:59:49",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 463653,
-      "name": "Away From The Mire",
-      "url": "https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 190560,
       "name": "Can't Fight",
       "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 463653,
+      "name": "Away From The Mire",
+      "url": "https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
       },
@@ -895,38 +911,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Lost Track",
-        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Lost Track",
-      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Juniper",
-      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "On The Road Again",
         "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 173969,
       "name": "On The Road Again",
       "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Lost Track",
+        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Lost Track",
+      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "B61",
         "url": "https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 221842,
       "name": "B61",
       "url": "https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 165106,
       "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
       "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "The Pet Parade",
-        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 248925,
-      "name": "The Balcony",
-      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "Now is the Time",
         "url": "https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 215493,
       "name": "Now is the Time",
       "url": "https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "The Pet Parade",
+        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 248925,
+      "name": "The Balcony",
+      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
     },
     {
       "added_at": "2022-03-22 20:59:49",

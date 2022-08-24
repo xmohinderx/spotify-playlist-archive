@@ -1,6 +1,6 @@
 {
   "description": "centuries-old sailor songs gone viral - it's sea shanty season, baby.",
-  "num_followers": 389916,
+  "num_followers": 390133,
   "original_name": "Sea Shanties",
   "owner": {
     "name": "Spotify",
@@ -240,6 +240,10 @@
       },
       "artists": [
         {
+          "name": "Original Cast of Tell Tale Harbour",
+          "url": "https://open.spotify.com/artist/770wvYDLgcP4XyvlmUq1HY"
+        },
+        {
           "name": "Alan Doyle",
           "url": "https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL"
         },
@@ -250,14 +254,6 @@
         {
           "name": "Alana Hibbert",
           "url": "https://open.spotify.com/artist/5PwYRKSiUP0uoN8Sx297jt"
-        },
-        {
-          "name": "Bob Foster",
-          "url": "https://open.spotify.com/artist/3mwBLqFP3annV3WpUDb4Xv"
-        },
-        {
-          "name": "Kendel Carson",
-          "url": "https://open.spotify.com/artist/2W8FruCxhU62g9jJ8cJESg"
         }
       ],
       "duration_ms": 95000,

@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Apricus",
+        "url": "https://open.spotify.com/album/2rk6uIsjnpHpOFYHmx8Emk"
+      },
+      "artists": [
+        {
+          "name": "John Caelo",
+          "url": "https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159676,
+      "name": "Apricus",
+      "url": "https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp"
+    },
+    {
+      "album": {
         "name": "Are We Still Here",
         "url": "https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi"
       },
@@ -1157,6 +1175,24 @@
       "duration_ms": 220235,
       "name": "Intentional State",
       "url": "https://open.spotify.com/track/0PTyLUmKBZpnxOGl1t5elw"
+    },
+    {
+      "album": {
+        "name": "Distant Sunrise",
+        "url": "https://open.spotify.com/album/4isWOKOddFFaUGOApJL8uK"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152462,
+      "name": "Invisible Currents",
+      "url": "https://open.spotify.com/track/58F2NUnMXH9VKWESwi05Z1"
     },
     {
       "album": {

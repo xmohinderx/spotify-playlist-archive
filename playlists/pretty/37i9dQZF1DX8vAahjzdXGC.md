@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,727 likes - 92 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,746 likes - 92 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

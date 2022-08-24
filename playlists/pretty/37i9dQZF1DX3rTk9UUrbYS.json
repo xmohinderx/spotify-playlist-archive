@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 34481,
+  "num_followers": 34501,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDc3NmQ1NzgwYmRjMTI4YmJhOWM4ZTFkNjVlYmFkNTgy",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDE4NzdlZWMwZTgzNDliMWQ4MjNjN2FhMmE5YzE5OTkx",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -181,22 +181,6 @@
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Bugatti (\u00e9tude)",
-        "url": "https://open.spotify.com/album/3judRd8KJgyP9NVUDdGLJl"
-      },
-      "artists": [
-        {
-          "name": "Jameszoo",
-          "url": "https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Bugatti (\u00e9tude)",
-      "url": "https://open.spotify.com/track/1qt0cGs4U8qDpuhbJ0NxeW"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Kasumi",
@@ -215,6 +199,22 @@
       "duration_ms": 122142,
       "name": "Kasumi",
       "url": "https://open.spotify.com/track/4TY0ywSa4bGblUa4rGZmkU"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Bugatti (\u00e9tude)",
+        "url": "https://open.spotify.com/album/3judRd8KJgyP9NVUDdGLJl"
+      },
+      "artists": [
+        {
+          "name": "Jameszoo",
+          "url": "https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Bugatti (\u00e9tude)",
+      "url": "https://open.spotify.com/track/1qt0cGs4U8qDpuhbJ0NxeW"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -457,6 +457,22 @@
       "url": "https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
+        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
+      },
+      "artists": [
+        {
+          "name": "Sam Newsome",
+          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
+        }
+      ],
+      "duration_ms": 151946,
+      "name": "Straight Horns of Plenty",
+      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
+    },
+    {
       "added_at": "2020-10-23 19:03:00",
       "album": {
         "name": "Supersense",
@@ -475,22 +491,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
-        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
-      },
-      "artists": [
-        {
-          "name": "Sam Newsome",
-          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
-        }
-      ],
-      "duration_ms": 151946,
-      "name": "Straight Horns of Plenty",
-      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "The Piano Equation",
         "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
       },
@@ -503,6 +503,30 @@
       "duration_ms": 314786,
       "name": "Piano Equation",
       "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Lebroba",
+        "url": "https://open.spotify.com/album/66E7lHOxjQyIjtx5P9EYHQ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Cyrille",
+          "url": "https://open.spotify.com/artist/47hexMV8ZbDWZ9MSwSWD50"
+        },
+        {
+          "name": "Wadada Leo Smith",
+          "url": "https://open.spotify.com/artist/1eE9oB7Z69NzfALiUJYKUm"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 344453,
+      "name": "Lebroba",
+      "url": "https://open.spotify.com/track/5Uiofafr14TDphDMDeqxIz"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -535,30 +559,6 @@
       "duration_ms": 430053,
       "name": "The Unidentifiable",
       "url": "https://open.spotify.com/track/0dOzyVjUdcgQAUxcw8LJsx"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Lebroba",
-        "url": "https://open.spotify.com/album/66E7lHOxjQyIjtx5P9EYHQ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Cyrille",
-          "url": "https://open.spotify.com/artist/47hexMV8ZbDWZ9MSwSWD50"
-        },
-        {
-          "name": "Wadada Leo Smith",
-          "url": "https://open.spotify.com/artist/1eE9oB7Z69NzfALiUJYKUm"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 344453,
-      "name": "Lebroba",
-      "url": "https://open.spotify.com/track/5Uiofafr14TDphDMDeqxIz"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -619,34 +619,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Prometheus",
-        "url": "https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw"
+        "name": "Albert Mangelsdorff and His Friends",
+        "url": "https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k"
       },
       "artists": [
         {
-          "name": "Dejan Terzic",
-          "url": "https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065"
-        },
-        {
-          "name": "Axiom",
-          "url": "https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS"
-        },
-        {
-          "name": "Chris Speed",
-          "url": "https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO"
-        },
-        {
-          "name": "Matt Penman",
-          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
-        },
-        {
-          "name": "Bojan Zulfikarpa\u0161i\u0107",
-          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
+          "name": "Albert Mangelsdorff",
+          "url": "https://open.spotify.com/artist/6smduqXQTpYLxA6MKAJ7pw"
         }
       ],
-      "duration_ms": 334762,
-      "name": "Prometheus",
-      "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
+      "duration_ms": 347092,
+      "name": "Way Beyond Cave",
+      "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -683,18 +667,34 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Albert Mangelsdorff and His Friends",
-        "url": "https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k"
+        "name": "Prometheus",
+        "url": "https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw"
       },
       "artists": [
         {
-          "name": "Albert Mangelsdorff",
-          "url": "https://open.spotify.com/artist/6smduqXQTpYLxA6MKAJ7pw"
+          "name": "Dejan Terzic",
+          "url": "https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065"
+        },
+        {
+          "name": "Axiom",
+          "url": "https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS"
+        },
+        {
+          "name": "Chris Speed",
+          "url": "https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
+        },
+        {
+          "name": "Bojan Zulfikarpa\u0161i\u0107",
+          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
         }
       ],
-      "duration_ms": 347092,
-      "name": "Way Beyond Cave",
-      "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
+      "duration_ms": 334762,
+      "name": "Prometheus",
+      "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Poetry in Motion",
-        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
-      },
-      "artists": [
-        {
-          "name": "Conference Call",
-          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
-    },
-    {
       "added_at": "2020-10-02 04:02:00",
       "album": {
         "name": "On Common Ground",
@@ -771,6 +755,42 @@
       "duration_ms": 476000,
       "name": "Equation",
       "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Poetry in Motion",
+        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
+      },
+      "artists": [
+        {
+          "name": "Conference Call",
+          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "After Fallen Leaves",
+        "url": "https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2"
+      },
+      "artists": [
+        {
+          "name": "Roscoe Mitchell",
+          "url": "https://open.spotify.com/artist/6DR6ugRdVaVi7lyqooqJov"
+        },
+        {
+          "name": "Brus Trio",
+          "url": "https://open.spotify.com/artist/0brD6EfLudasLGmL0JVIJY"
+        }
+      ],
+      "duration_ms": 291066,
+      "name": "And Then There Was Peace",
+      "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -827,46 +847,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "After Fallen Leaves",
-        "url": "https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2"
-      },
-      "artists": [
-        {
-          "name": "Roscoe Mitchell",
-          "url": "https://open.spotify.com/artist/6DR6ugRdVaVi7lyqooqJov"
-        },
-        {
-          "name": "Brus Trio",
-          "url": "https://open.spotify.com/artist/0brD6EfLudasLGmL0JVIJY"
-        }
-      ],
-      "duration_ms": 291066,
-      "name": "And Then There Was Peace",
-      "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Ljubljana",
-        "url": "https://open.spotify.com/album/0Kc2J1LkoauNJ56CBt91Jd"
-      },
-      "artists": [
-        {
-          "name": "Mats Gustafson",
-          "url": "https://open.spotify.com/artist/2qRWLwq1tDqtBRl9wtgY7u"
-        },
-        {
-          "name": "Craig Taborn",
-          "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
-        }
-      ],
-      "duration_ms": 1224332,
-      "name": "The Eyes Moving. Slowly.",
-      "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Captain Black",
         "url": "https://open.spotify.com/album/6Y9L6mLq2dhTWWDx9CNEGX"
       },
@@ -911,30 +891,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "In Cahoots",
-        "url": "https://open.spotify.com/album/0STbF1O34unFR85y3dX67B"
-      },
-      "artists": [
-        {
-          "name": "Ned Rothenberg",
-          "url": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
-        },
-        {
-          "name": "Mark Feldman",
-          "url": "https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA"
-        },
-        {
-          "name": "Sylvie Courvoisier",
-          "url": "https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3"
-        }
-      ],
-      "duration_ms": 227346,
-      "name": "Shudder to Think",
-      "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Morph",
         "url": "https://open.spotify.com/album/2CntvAcghtXnF36M3dmwKe"
       },
@@ -955,6 +911,50 @@
       "duration_ms": 210440,
       "name": "Blue Threads",
       "url": "https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Ljubljana",
+        "url": "https://open.spotify.com/album/0Kc2J1LkoauNJ56CBt91Jd"
+      },
+      "artists": [
+        {
+          "name": "Mats Gustafson",
+          "url": "https://open.spotify.com/artist/2qRWLwq1tDqtBRl9wtgY7u"
+        },
+        {
+          "name": "Craig Taborn",
+          "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
+        }
+      ],
+      "duration_ms": 1224332,
+      "name": "The Eyes Moving. Slowly.",
+      "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "In Cahoots",
+        "url": "https://open.spotify.com/album/0STbF1O34unFR85y3dX67B"
+      },
+      "artists": [
+        {
+          "name": "Ned Rothenberg",
+          "url": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "name": "Mark Feldman",
+          "url": "https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA"
+        },
+        {
+          "name": "Sylvie Courvoisier",
+          "url": "https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Shudder to Think",
+      "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
     },
     {
       "added_at": "2021-02-27 05:01:00",

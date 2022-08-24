@@ -730,6 +730,24 @@
     },
     {
       "album": {
+        "name": "Chasing",
+        "url": "https://open.spotify.com/album/3mNWyf9QBXfnuXJCYeImt1"
+      },
+      "artists": [
+        {
+          "name": "EMY",
+          "url": "https://open.spotify.com/artist/60fG6DGeN38kRBsBaokPNG"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "Chasing",
+      "url": "https://open.spotify.com/track/7sGKEO3p8Bcr83ije4BoFK"
+    },
+    {
+      "album": {
         "name": "Cherubim",
         "url": "https://open.spotify.com/album/0NdoxejwhbuGuAVUmK3fgL"
       },
@@ -3469,6 +3487,24 @@
       "duration_ms": 255094,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh"
+    },
+    {
+      "album": {
+        "name": "Something Over Nothing",
+        "url": "https://open.spotify.com/album/3vqrSwAIb9U6c8Wxc98anH"
+      },
+      "artists": [
+        {
+          "name": "ILLAJOY",
+          "url": "https://open.spotify.com/artist/3BJiuXnkcmBxcLYfEiCGjj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229241,
+      "name": "Something Over Nothing",
+      "url": "https://open.spotify.com/track/51sP9J4HvAAGeFvJA9518Z"
     },
     {
       "album": {

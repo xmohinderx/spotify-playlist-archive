@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-358 songs - 21 hr 19 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+359 songs - 21 hr 23 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Manicomio Club](https://open.spotify.com/track/6ki9A4FyiZdQkrr9zv7Pa3) | [Los Bluyines](https://open.spotify.com/artist/6jKw6K5IkTpPYKAtq30vMY) | [Rockdelia Guitarra](https://open.spotify.com/album/6SDFQG8WmJ3cmH04zphC7M) | 4:19 | 2022-07-01 | 2022-07-06 |
 | [Manos](https://open.spotify.com/track/4DeI38iEDWvVFK6c5ZgOc6) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Manos](https://open.spotify.com/album/78z4lZfzLSpj8jHXJTblCC) | 3:35 | 2022-07-01 | 2022-07-29 |
 | [Mantra](https://open.spotify.com/track/3MLndDZtxRXBdtzfdRLiKd) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Mantra](https://open.spotify.com/album/2L62ofrt1QOsE8dNSuRAxH) | 5:12 | 2022-06-03 | 2022-07-29 |
+| [Mas o Menos Bien](https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:13 | 2022-07-15 |  |
 | [Mejor Sin Miedo](https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Mejor Sin Miedo](https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs) | 3:08 | 2022-07-15 |  |
 | [Melodia de extrañar](https://open.spotify.com/track/2LLqpGXCDOaCFq6kGxqdD7) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El bosque del recuerdo](https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q) | 2:46 | 2022-07-15 | 2022-08-04 |
 | [Melodía de Extrañar](https://open.spotify.com/track/5R332yPmr1HnfvevX73Tb0) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Melodía de Extrañar](https://open.spotify.com/album/6iwm50gytq0b0BMuWcXNiR) | 2:46 | 2022-06-03 | 2022-07-27 |
@@ -269,7 +270,7 @@
 | [Perdón Por No Saber Qué Decir](https://open.spotify.com/track/280r54CN6u5BKJclxsDRP2) | [Rayos De La Niñez](https://open.spotify.com/artist/724hYZbdcWXKfVIEJ4bEVr) | [Perdón Por No Saber Qué Decir](https://open.spotify.com/album/38fYnaI1N9ofsf2Uo11jaX) | 3:56 | 2022-07-01 | 2022-07-29 |
 | [Periferia](https://open.spotify.com/track/1CY1iQFjmW1m64qXSEtB8d) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Periferia](https://open.spotify.com/album/6YgO7igOx9TKfZ8rKBQ0y0) | 3:05 | 2022-06-03 | 2022-07-23 |
 | [Perla](https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Ahora](https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs) | 3:26 | 2022-06-03 |  |
-| [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 | 2022-06-03 |  |
+| [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 | 2022-06-03 | 2022-08-24 |
 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 | 2022-07-01 | 2022-08-22 |
 | [PIYAMAPARY](https://open.spotify.com/track/5Hn5ZjIOpIcUs6csVGFc2d) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [NADIR](https://open.spotify.com/artist/7cWSMkLz0GgI72r8OWUrEC) | [PIYAMAPARY](https://open.spotify.com/album/40cZpwYEqi3l8D7JlCccZz) | 2:41 | 2022-07-01 | 2022-07-12 |
 | [Pizza](https://open.spotify.com/track/25ozvB4exLomeSMNCKHxM6) | [Las Piñas](https://open.spotify.com/artist/7zKaxLmOXQAoSqtu2Ck93e) | [Espanto Caribe](https://open.spotify.com/album/5oWKNvRZJ9616naxtq9OgZ) | 1:28 | 2022-06-03 | 2022-07-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118666,
+  "num_followers": 118663,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDA2MTI2YTQzYThiODYwYTY2YWU1M2FiNWE2NjQ5NGUz",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDk1MWRhZDg2ZDFlZmYzN2QzYTUyMzAzNzIyYzRkYzJh",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -503,6 +503,30 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "THE SCOTTS",
+        "url": "https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus"
+      },
+      "artists": [
+        {
+          "name": "THE SCOTTS",
+          "url": "https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 165977,
+      "name": "THE SCOTTS",
+      "url": "https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
         "url": "https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 195428,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "THE SCOTTS",
-        "url": "https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus"
-      },
-      "artists": [
-        {
-          "name": "THE SCOTTS",
-          "url": "https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 165977,
-      "name": "THE SCOTTS",
-      "url": "https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "Banco",
+        "url": "https://open.spotify.com/album/60iZnmmLOgY1LpkCinkELW"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        }
+      ],
+      "duration_ms": 254734,
+      "name": "Banco",
+      "url": "https://open.spotify.com/track/7MPQNyAX02uIEQCRsC4sgc"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "The Big Day",
         "url": "https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 145222,
       "name": "Rodeo - feat. Nas",
       "url": "https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Banco",
-        "url": "https://open.spotify.com/album/60iZnmmLOgY1LpkCinkELW"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "Predella",
-          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
-        }
-      ],
-      "duration_ms": 254734,
-      "name": "Banco",
-      "url": "https://open.spotify.com/track/7MPQNyAX02uIEQCRsC4sgc"
     },
     {
       "added_at": "2020-10-20 20:23:39",

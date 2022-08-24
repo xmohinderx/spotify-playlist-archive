@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 58 likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 60 | [Holiday Wishing](https://open.spotify.com/track/6lpbbBPLuPDlnOSzGnsqYJ) | [Bree Doster](https://open.spotify.com/artist/1jVHjJ0stNNMYT1o2ATomU) | [Holiday Wishing](https://open.spotify.com/album/0AY3Fn36rRb6xGKcqxehok) | 3:31 |
 | 61 | [Make Up My Mind](https://open.spotify.com/track/3W4g24a8AoYpG1FFhKH3ls) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 3:13 |
 | 62 | [Wild Thoughts](https://open.spotify.com/track/3zKHLE9q6vcmg0ZFnvkCcM) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [Way Back When](https://open.spotify.com/album/3VPqcQjuGUSlHz8ThfntyN) | 3:15 |
-| 63 | [Old Love New](https://open.spotify.com/track/4NsgNG9MNSeuN5jbHdCAsl) | [Makenzie Schriner](https://open.spotify.com/artist/5Z9ZOYc8dwjeD054CUqbBu) | [Old Love New](https://open.spotify.com/album/4XViFfHuuvDAHUCZIqWyQ6) | 3:06 |
-| 64 | [Who Do You Think You Are?](https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Who Do You Think You Are?](https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W) | 3:15 |
+| 63 | [Who Do You Think You Are?](https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Who Do You Think You Are?](https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W) | 3:15 |
+| 64 | [Old Love New](https://open.spotify.com/track/4NsgNG9MNSeuN5jbHdCAsl) | [Makenzie Schriner](https://open.spotify.com/artist/5Z9ZOYc8dwjeD054CUqbBu) | [Old Love New](https://open.spotify.com/album/4XViFfHuuvDAHUCZIqWyQ6) | 3:06 |
 | 65 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 66 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `Mjc2ODY5NjIsMDAwMDAwMDA3ZTZmMWZjMmYyOTljZDI0YWMxNjIwN2JlZDFjNmFmYw==`
+Snapshot ID: `Mjc2ODg0MDIsMDAwMDAwMDA5YjNkODcyMGFhYzQ1MzlkM2M4YjUwOGM5MTAyYzI0MA==`

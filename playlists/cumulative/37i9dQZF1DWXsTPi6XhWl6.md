@@ -4,7 +4,7 @@
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-111 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/4QEboiTQ5FZpURd879PG5r)
+112 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/4QEboiTQ5FZpURd879PG5r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Nothing No\. 1](https://open.spotify.com/track/4l9VMZjlMEb6tmlAAPid8m) | [Skyway Man](https://open.spotify.com/artist/5QaXPOeFBhSwhLxrmU2ghj), [Andy Jenkins](https://open.spotify.com/artist/7grGoDIxuUQFN3OwCuPXmN), [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Nothing No\. 1](https://open.spotify.com/album/6srxOnrouewRU6qafieOTF) | 3:56 | 2022-06-17 | 2022-07-29 |
 | [On the Road](https://open.spotify.com/track/0Ja8hGjNaq22wMUmLYhSxm) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [From the Hills Below the City](https://open.spotify.com/album/2eaQyM7iQvIuvNlyj1QSrC) | 2:26 | 2020-01-14 | 2022-07-29 |
 | [Our Hearts Are Wrong](https://open.spotify.com/track/6Wf0dbrqvBkEUSe12cRsps) | [Jessica Lea Mayfield](https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5) | [Tell Me](https://open.spotify.com/album/61X8msx06YFzh8cKZosD5X) | 3:06 | 2020-01-14 | 2022-07-29 |
-| [Penny, Heads Up](https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 3:27 | 2020-01-14 |  |
+| [Penny, Heads Up](https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 3:27 | 2020-01-14 | 2022-08-24 |
 | [People Need A Melody](https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 4:12 | 2020-01-14 |  |
 | [Perfect Strangers](https://open.spotify.com/track/6BriGq45wGqLitzgM2nhXV) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Tender](https://open.spotify.com/album/2hFkBGKPx001HO3CQuPG4e) | 3:07 | 2022-06-17 | 2022-06-20 |
 | [Ragged Wood](https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 5:07 | 2022-06-17 |  |
@@ -111,6 +111,7 @@
 | [Twenty Miles](https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [The Black Dirt Sessions](https://open.spotify.com/album/2XsWRPltTHzmdDtzwevG0w) | 3:43 | 2020-01-14 | 2022-07-24 |
 | [Wakin On A Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 | 2022-03-08 |  |
 | [When My Time Comes](https://open.spotify.com/track/0kzfqqvipRSBQchrB3xX8D) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/58XLXjaWRukUeT2GGQkNDf) | 5:08 | 2020-01-14 | 2022-07-29 |
+| [When My Time Comes](https://open.spotify.com/track/2bit43ZeiBbbiHUtyWuthM) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/2s8TW0yZCpVQkfMP9ceR7Z) | 5:08 | 2022-06-17 |  |
 | [When My Time Comes](https://open.spotify.com/track/6y9Jj7NVcBOCsnn9Ps2CPN) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/3ca8rTTGzriBOcq2JnHchZ) | 5:08 | 2022-06-17 | 2022-08-01 |
 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 | 2022-03-08 |  |
 | [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 | 2020-01-14 | 2022-07-29 |

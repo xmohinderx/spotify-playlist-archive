@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Idle Labor",
+        "url": "https://open.spotify.com/album/3BTFGccaSVYAHsgBTOL423"
+      },
+      "artists": [
+        {
+          "name": "Craft Spells",
+          "url": "https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240608,
+      "name": "After the Moment",
+      "url": "https://open.spotify.com/track/6OONiDEd0JW4K5wcWxnRX7"
+    },
+    {
+      "album": {
         "name": "Alemania",
         "url": "https://open.spotify.com/album/6omb0Celi5La2laiUoweog"
       },
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 174586,
       "name": "Out In The Country",
       "url": "https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT"

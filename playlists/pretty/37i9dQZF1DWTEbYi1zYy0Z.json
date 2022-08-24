@@ -1,12 +1,12 @@
 {
   "description": "The freshest smooth jazz. Cover: Nick Colionne",
-  "num_followers": 35364,
+  "num_followers": 35366,
   "original_name": "Nu-Smooth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGM2NThkNTU3MzVhMDc1Nzk1ZGYwMjMzN2EwM2YyZDZi",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDkzYWEyMjFmY2M3NjQ0ODVmNzVmODAyZTM5ZWNjOWZm",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -397,26 +397,6 @@
       "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
-        "url": "https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a"
-      },
-      "artists": [
-        {
-          "name": "Jesse Thompson",
-          "url": "https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5"
-        },
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
-        }
-      ],
-      "duration_ms": 293280,
-      "name": "Weekend Groove",
-      "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Movin' N Groovin",
@@ -435,6 +415,26 @@
       "duration_ms": 264640,
       "name": "Movin' N Groovin",
       "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
+        "url": "https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a"
+      },
+      "artists": [
+        {
+          "name": "Jesse Thompson",
+          "url": "https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5"
+        },
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+        }
+      ],
+      "duration_ms": 293280,
+      "name": "Weekend Groove",
+      "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/2K2gljzDjOevU44AWPKoNb"
     },
     {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Slingshot",
-        "url": "https://open.spotify.com/album/0YocPxGvt5sccdAsZKqvgX"
-      },
-      "artists": [
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 232719,
-      "name": "Slingshot",
-      "url": "https://open.spotify.com/track/4nEwNR21Iycvix4l5opfmM"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Summertime in Nyc (Instrumental Mix)",
@@ -667,6 +651,22 @@
       "duration_ms": 210179,
       "name": "Summertime in Nyc (Instrumental Mix)",
       "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
+    },
+    {
+      "added_at": "2021-10-15 04:01:00",
+      "album": {
+        "name": "Slingshot",
+        "url": "https://open.spotify.com/album/0YocPxGvt5sccdAsZKqvgX"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 232719,
+      "name": "Slingshot",
+      "url": "https://open.spotify.com/track/4nEwNR21Iycvix4l5opfmM"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 374536,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
-    },
-    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Feet First",
@@ -925,6 +909,26 @@
       "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
     },
     {
+      "added_at": "2021-07-02 04:01:00",
+      "album": {
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/5Q3khADDwTMYXoPkVBrBdZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Bradley",
+          "url": "https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3"
+        },
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        }
+      ],
+      "duration_ms": 222253,
+      "name": "Mystical Moment",
+      "url": "https://open.spotify.com/track/2MZPzcULtHa17kQaM0OGmT"
+    },
+    {
       "added_at": "2022-01-28 05:02:00",
       "album": {
         "name": "Soul to Soul",
@@ -939,6 +943,22 @@
       "duration_ms": 228102,
       "name": "Soul to Soul - 2022 Version",
       "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 374536,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
     },
     {
       "added_at": "2021-09-17 04:02:00",
@@ -975,26 +995,6 @@
       "duration_ms": 249813,
       "name": "A to Z",
       "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
-    },
-    {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/5Q3khADDwTMYXoPkVBrBdZ"
-      },
-      "artists": [
-        {
-          "name": "Willie Bradley",
-          "url": "https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3"
-        },
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        }
-      ],
-      "duration_ms": 222253,
-      "name": "Mystical Moment",
-      "url": "https://open.spotify.com/track/2MZPzcULtHa17kQaM0OGmT"
     },
     {
       "added_at": "2021-07-12 13:18:29",
@@ -1061,6 +1061,58 @@
       "url": "https://open.spotify.com/track/3SpVmdLcEGAu5YSu7eq1IK"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Simply Worship",
+        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
+      },
+      "artists": [
+        {
+          "name": "Uriel Vega",
+          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "I Wanna Be Down",
+        "url": "https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ"
+      },
+      "artists": [
+        {
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
+        }
+      ],
+      "duration_ms": 294252,
+      "name": "I Wanna Be Down",
+      "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
+    },
+    {
+      "added_at": "2021-11-12 04:00:00",
+      "album": {
+        "name": "Legacy [Feat. \"The Sound\u201d of Stan Getz]",
+        "url": "https://open.spotify.com/album/0DUGnTHNjvNAM2BEJEAahu"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "Legacy [Feat. \"The Sound\u201d of Stan Getz]",
+      "url": "https://open.spotify.com/track/5qerN3vnJd2zLapuo3F4Qr"
+    },
+    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Run Through the Urban City",
@@ -1085,58 +1137,6 @@
       "url": "https://open.spotify.com/track/5gOXsqoOraGd2mqEMj0LIw"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "I Wanna Be Down",
-        "url": "https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ"
-      },
-      "artists": [
-        {
-          "name": "Nathan Allen",
-          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
-        }
-      ],
-      "duration_ms": 294252,
-      "name": "I Wanna Be Down",
-      "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Simply Worship",
-        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
-      },
-      "artists": [
-        {
-          "name": "Uriel Vega",
-          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
-    },
-    {
-      "added_at": "2021-11-12 04:00:00",
-      "album": {
-        "name": "Legacy [Feat. \"The Sound\u201d of Stan Getz]",
-        "url": "https://open.spotify.com/album/0DUGnTHNjvNAM2BEJEAahu"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "Legacy [Feat. \"The Sound\u201d of Stan Getz]",
-      "url": "https://open.spotify.com/track/5qerN3vnJd2zLapuo3F4Qr"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Set Sail",
@@ -1155,6 +1155,22 @@
       "duration_ms": 209727,
       "name": "Set Sail",
       "url": "https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 216550,
+      "name": "Dig It",
+      "url": "https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 249529,
       "name": "Radio Vibe - radio single",
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 216550,
-      "name": "Dig It",
-      "url": "https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1317,26 +1317,6 @@
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "A Sunny Day",
-        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
-      },
-      "artists": [
-        {
-          "name": "WaKaNa",
-          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
-        },
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "Fika Talk",
-      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "SOLO",
@@ -1357,20 +1337,24 @@
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
+      "added_at": "2022-05-20 04:02:00",
       "album": {
-        "name": "Piano Tales",
-        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
+        "name": "A Sunny Day",
+        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
       },
       "artists": [
+        {
+          "name": "WaKaNa",
+          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
+        },
         {
           "name": "Jonathan Fritz\u00e9n",
           "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
         }
       ],
-      "duration_ms": 248712,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
+      "duration_ms": 255466,
+      "name": "Fika Talk",
+      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1387,6 +1371,22 @@
       "duration_ms": 231285,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Piano Tales",
+        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+        }
+      ],
+      "duration_ms": 248712,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
     },
     {
       "added_at": "2022-03-18 05:00:00",

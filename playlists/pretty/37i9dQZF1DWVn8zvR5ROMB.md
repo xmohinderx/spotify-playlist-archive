@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Blake Shelton, Tyler Hubbard, Maddie & Tae and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,843 likes - 61 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,171 likes - 61 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,134 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,136 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 65 | [Keep Raving](https://open.spotify.com/track/0IJQeY73GsMXqwA5EBzYuP) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Keep Raving](https://open.spotify.com/album/1gsAfjoIcdd8M6XZ9wKpDS) | 2:52 |
 | 66 | [The Evil Folk](https://open.spotify.com/track/2Hdz3K7Nj21JyKdgtOvGIY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [The Evil Folk](https://open.spotify.com/album/1RpZGs7XhczTcZJzduxD0k) | 2:37 |
 | 67 | [The Killer](https://open.spotify.com/track/2Nq9cw839Rz6zLxGYP1YaR) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Bret James](https://open.spotify.com/artist/04NseFrg9L1BHlCQa8tiBl), [RNSOM](https://open.spotify.com/artist/0PDXIBsT4ZOJyqrF1MYnxh) | [The Killer](https://open.spotify.com/album/0L017iQBu2DM0eFfVZchtK) | 3:01 |
-| 68 | [ON FIRE](https://open.spotify.com/track/4EDod7XFs8N9Fy1iG5RD4H) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [HARD Summer 2022](https://open.spotify.com/album/3T9vrVG0d2PegXSpJNULvb) | 3:23 |
+| 68 | [ON FIRE](https://open.spotify.com/track/2vHOCV5YErCA8ypUwHozcA) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:23 |
 | 69 | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/track/1axYKkAUrZbB1axBahVM2J) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/album/2X04eOH1El0sUzp5Ivvp2a) | 4:28 |
 | 70 | [Night Whispers](https://open.spotify.com/track/0yDFdJpx8eP0GN7dAF4uK2) | [RQntz](https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO), [Loudtech](https://open.spotify.com/artist/2oGd93cmIbD559RjQHpLhr) | [Night Whispers](https://open.spotify.com/album/77zU91YOZiWp4q3hM9VlY1) | 3:20 |
 | 71 | [Till The Day I Die](https://open.spotify.com/track/5SpA4lQsheBoigqIEgE2bX) | [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/3jnwP47WGWGwop55Uvj0S7) | 2:30 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 76 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 77 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MTYzNTM5MzYwMCwwMDAwMDAwMDA4ZjZlMWY0ODc5YjA1ZjI3NmE0YjJjYjBkYWYyZDlh`
+Snapshot ID: `MTYzNTM5MzYwMCwwMDAwMDAwMGUzMjgzMGY4NWExYjNiYTJhNWI5OGI2YmE2YjVjMmYw`

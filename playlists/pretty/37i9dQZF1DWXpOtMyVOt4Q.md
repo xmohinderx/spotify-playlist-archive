@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Soundtrack your gaming with these atmospheric beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,793 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,806 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 28 | [So Long, Lonesome](https://open.spotify.com/track/74wvfHTVIQaBQ1KWRQaLWx) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/2BkhGv48TtChjKBwkC67eo) | 3:40 |
 | 29 | [A Beautiful Mine](https://open.spotify.com/track/7aRJmzl622nk2qhnUxc1fV) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/5GBO4ql3H9w2UV00RAFApk) | 5:29 |
 | 30 | [It Was Warmer Then](https://open.spotify.com/track/0fJKwnxypaBAMEGEfCgEhQ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Yume](https://open.spotify.com/album/34CpMn9yU8iDcXDaSkrqXu) | 5:18 |
-| 31 | [In The Twilight](https://open.spotify.com/track/5wfgLASWmbbLjNkbXsbs8t) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [The Cold in You](https://open.spotify.com/album/0vNplpx6d7yYXn4k6coarh) | 6:26 |
+| 31 | [What You Love You Must Love Now](https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5) | 5:22 |
 | 32 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
 | 33 | [We Can Be Ghosts Now](https://open.spotify.com/track/4buZVQ9wDGXk8AbVeGM5E6) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Parklands](https://open.spotify.com/album/1NhIMd6O3u6F9Opm7skw9N) | 4:18 |
-| 34 | [What You Love You Must Love Now](https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5) | 5:22 |
+| 34 | [In The Twilight](https://open.spotify.com/track/5wfgLASWmbbLjNkbXsbs8t) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [The Cold in You](https://open.spotify.com/album/0vNplpx6d7yYXn4k6coarh) | 6:26 |
 | 35 | [Another Day \(revised\)](https://open.spotify.com/track/6Xr3Ii4HyMcatwsQgq1iOD) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 4:21 |
 | 36 | [A Song That Will Help You Remember to Forget](https://open.spotify.com/track/0itMKInovica9ugQZRTx5p) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound of Lights When Dim](https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP) | 6:14 |
 | 37 | [Fanshawe](https://open.spotify.com/track/4p0Yp2fnqydGVEgIE2p60X) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW) | 5:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 59 | [Sleeper](https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 5:32 |
 | 60 | [Pleasure Centre](https://open.spotify.com/track/331tP1ALdrmjioH4RznvwC) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [On Vacation](https://open.spotify.com/album/5glo8zTL4koRq4BmOCdapU) | 5:47 |
 
-Snapshot ID: `MTY0ODc1ODk0NSwwMDAwMDAwMDRiMTdmNjkwNTQ3MmI5NGFkN2NiMjFmMmRmZGNkNTQz`
+Snapshot ID: `MTY0ODc1ODk0NSwwMDAwMDAwMDVhNDIzYmVlMjFmZjA4ZmYxYWZlYzc0ZWFhODJjNzdm`

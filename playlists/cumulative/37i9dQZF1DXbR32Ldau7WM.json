@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: MASS OF THE FERMENTING DREGS",
+  "description": "The biggest rock artists in Japan right now! Cover: 9mm Parabellum Bullet",
   "name": "Big in Japan",
   "published_playlist_ids": [
     "58cr9qiZRcBgGXeUmGq6P3"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 162880,
       "name": "All We Need Is Summer Day",
       "url": "https://open.spotify.com/track/4qtgwiStMnnZjDDAvCayeV"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
@@ -337,6 +337,24 @@
       "duration_ms": 202052,
       "name": "Boots",
       "url": "https://open.spotify.com/track/6Rn05EymASLxmDsQ1gVzIC"
+    },
+    {
+      "album": {
+        "name": "BOY 2022",
+        "url": "https://open.spotify.com/album/3PGIfAOfGxRg5jTvZRXC8s"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Furukawa",
+          "url": "https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285452,
+      "name": "BOY 2022",
+      "url": "https://open.spotify.com/track/0xK0rCpjfmmmdPdbpyfMqg"
     },
     {
       "album": {
@@ -459,7 +477,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 150614,
       "name": "Crap Shit",
       "url": "https://open.spotify.com/track/66KwfIC541C6M7oBUnAAos"
@@ -1460,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "LOVE LETTER FROM A DEAD END",
+        "url": "https://open.spotify.com/album/6TnLHPMsBHQm0BFfbaSuSN"
+      },
+      "artists": [
+        {
+          "name": "Seikima-II",
+          "url": "https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258333,
+      "name": "LOVE LETTER FROM A DEAD END",
+      "url": "https://open.spotify.com/track/39mgx6DZ7yCF2u0ygKkYjZ"
+    },
+    {
+      "album": {
         "name": "SCAFULL KING",
         "url": "https://open.spotify.com/album/2jULdN2D4jZOMca3abkOMk"
       },
@@ -1641,6 +1677,56 @@
       "duration_ms": 230542,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
+    },
+    {
+      "album": {
+        "name": "Move on Fast",
+        "url": "https://open.spotify.com/album/7K2ZkG0HJFCwpSoozDJ8oV"
+      },
+      "artists": [
+        {
+          "name": "Yoko Ono & Plastic Ono Super Band",
+          "url": "https://open.spotify.com/artist/2s7B7uO33VlnxIUk7OhQ6f"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        },
+        {
+          "name": "Steve Khan",
+          "url": "https://open.spotify.com/artist/59SNrXVA519VMDpAktiSk3"
+        },
+        {
+          "name": "Andy Muson",
+          "url": "https://open.spotify.com/artist/0a3E0bgMlBDw0HppxrkFuG"
+        },
+        {
+          "name": "Rick Marotta",
+          "url": "https://open.spotify.com/artist/24KsY9DrfNKXOVYH8MOMsK"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        },
+        {
+          "name": "Don Grolnick",
+          "url": "https://open.spotify.com/artist/0Ssqhquy8WFuqz7ZnZuBkR"
+        },
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        },
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237712,
+      "name": "Move on Fast",
+      "url": "https://open.spotify.com/track/5W3EUo8Exi8WlAoSjuOeZ6"
     },
     {
       "album": {
@@ -1959,6 +2045,24 @@
       "duration_ms": 223118,
       "name": "PARADISE (Kill The Silence)",
       "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
+    },
+    {
+      "album": {
+        "name": "\"Psycho flowers\" \"Summer rain\"",
+        "url": "https://open.spotify.com/album/1anvZ9uXENT23a2jg5I3kC"
+      },
+      "artists": [
+        {
+          "name": "OUTRAGE",
+          "url": "https://open.spotify.com/artist/0olIu1jyt7RrXOQVAdc5LG"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232040,
+      "name": "Psycho flowers",
+      "url": "https://open.spotify.com/track/7ojiNfzXOK27Uy2nXKovfE"
     },
     {
       "album": {
@@ -2526,6 +2630,24 @@
     },
     {
       "album": {
+        "name": "Tear Down",
+        "url": "https://open.spotify.com/album/6EfehHNU5IdlduY7lX9QZU"
+      },
+      "artists": [
+        {
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232959,
+      "name": "Tear Down",
+      "url": "https://open.spotify.com/track/2XMkoCqatTSUnpLmyOdQ4Q"
+    },
+    {
+      "album": {
         "name": "THE GREAT ESCAPE",
         "url": "https://open.spotify.com/album/5KXP25lpqzX9MZ7xIG3CBn"
       },
@@ -2681,7 +2803,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 305100,
       "name": "Treasure hunting",
       "url": "https://open.spotify.com/track/3p9K3VmLDSFBuOU0UYnhBC"
@@ -2927,7 +3049,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 241535,
       "name": "You To You",
       "url": "https://open.spotify.com/track/66GEPhYAtcsWI7GThQcixQ"
@@ -3446,6 +3568,24 @@
     },
     {
       "album": {
+        "name": "coordinate SIX",
+        "url": "https://open.spotify.com/album/6RJ0eXwDJgen7QuU6eBBG9"
+      },
+      "artists": [
+        {
+          "name": "brainchild's",
+          "url": "https://open.spotify.com/artist/1uQnzELUyiex7pt1EpCDtE"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269200,
+      "name": "\u30af\u30c1\u30ca\u30b7\u306e\u82b1",
+      "url": "https://open.spotify.com/track/6PQ3orVQCO2V6UFB2m22J5"
+    },
+    {
+      "album": {
         "name": "\u4eca\u3001\u4f55\u51e6",
         "url": "https://open.spotify.com/album/5ZTjkUoIxLVyyILhfXAyQM"
       },
@@ -3624,6 +3764,24 @@
     },
     {
       "album": {
+        "name": "TIGHTROPE",
+        "url": "https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc"
+      },
+      "artists": [
+        {
+          "name": "9mm Parabellum Bullet",
+          "url": "https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255186,
+      "name": "\u30bf\u30a4\u30c8\u30ed\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/0CwB5GNF5HihvrxGlYhyvD"
+    },
+    {
+      "album": {
         "name": "\u30bf\u30bf\u30ab\u30a8\u30d6\u30ea\u30d0\u30c7\u30a3",
         "url": "https://open.spotify.com/album/1F6ZHIzZ37d6AmY6OyOaV0"
       },
@@ -3725,7 +3883,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 217693,
       "name": "\u30ca\u30ab\u30de",
       "url": "https://open.spotify.com/track/38Xae6a4lqhRxVPhwpQdu8"
@@ -3858,6 +4016,24 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30e9\u30c3\u30af\u30de\u3068\u904a\u5712\u5730 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (NETFLIX\u30b7\u30ea\u30fc\u30ba)",
+        "url": "https://open.spotify.com/album/5HvNkX9xldX0mO6ioV5LPN"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339866,
+      "name": "\u30dd\u30b1\u30c3\u30c8\u306e\u4e2d",
+      "url": "https://open.spotify.com/track/4ujFJVwK2M8c8SblmNlpv0"
+    },
+    {
+      "album": {
         "name": "\u30de\u30a4\u8349\u5c65 feat. \u306b\u3083\u3093\u5317\u671d\u6642\u4ee3",
         "url": "https://open.spotify.com/album/1BXP1xh1EFU9sMJRsHY9on"
       },
@@ -3985,6 +4161,24 @@
       "duration_ms": 202240,
       "name": "\u4e16\u754c\u306f\u5909\u308f\u308b",
       "url": "https://open.spotify.com/track/6uUXrI5TQTnrDgWj08OuoL"
+    },
+    {
+      "album": {
+        "name": "Tough Layer",
+        "url": "https://open.spotify.com/album/0kl03FkY6GYsty7uak2aJz"
+      },
+      "artists": [
+        {
+          "name": "Scoobie Do",
+          "url": "https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "\u4eca\u65e5\u306e\u7d9a\u304d\u3092",
+      "url": "https://open.spotify.com/track/6eJqGKAaGIWQZ4zHZwhmI0"
     },
     {
       "album": {
@@ -4446,6 +4640,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u3092\u53eb\u3073\u305f\u3044",
+        "url": "https://open.spotify.com/album/3xpqNxKyFoO3BoX7nPZTtM"
+      },
+      "artists": [
+        {
+          "name": "WANDS",
+          "url": "https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251800,
+      "name": "\u611b\u3092\u53eb\u3073\u305f\u3044",
+      "url": "https://open.spotify.com/track/6JM4qxZKnnCaiVmhGMiZRI"
+    },
+    {
+      "album": {
         "name": "\u611b\u5f4c\u3005",
         "url": "https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv"
       },
@@ -4551,7 +4763,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 216760,
       "name": "\u661f\u8def (\u307f\u3061)",
       "url": "https://open.spotify.com/track/0TWwbu3qo6fglRBJerQ068"
@@ -5081,7 +5293,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 206471,
       "name": "\u8056\u8005",
       "url": "https://open.spotify.com/track/517o2A0yrq1wb0yZN6K8MB"
@@ -5189,7 +5401,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 265466,
       "name": "\u9583\u5149 - English ver.",
       "url": "https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe"

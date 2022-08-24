@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 679771,
+  "num_followers": 680078,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU4ODIwNywwMDAwMDAwMGUzZmZkNzZiZjU5NmJmYTg3MmE3OTM2NzZmNTZhZDc5",
+  "snapshot_id": "MTY2MDU4ODIwNywwMDAwMDAwMGNjMjI5ZDE1ODI5NjcwNTM3YmEwNzE1MzA1M2JiYTky",
   "tracks": [
     {
       "added_at": "2022-08-15 18:30:07",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
-        "name": "Make It Last",
-        "url": "https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2"
-      },
-      "artists": [
-        {
-          "name": "Samira Tesfay",
-          "url": "https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
         "name": "Nasal Bones",
         "url": "https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 200000,
       "name": "Carnivoran",
       "url": "https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
+        "name": "Make It Last",
+        "url": "https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2"
+      },
+      "artists": [
+        {
+          "name": "Samira Tesfay",
+          "url": "https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
-        "name": "Apesanteur",
-        "url": "https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39"
-      },
-      "artists": [
-        {
-          "name": "Elodie Acy",
-          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Apesanteur",
-      "url": "https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
         "name": "Peaceful Illusions",
         "url": "https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 177875,
       "name": "Shapes of Solitude",
       "url": "https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
+        "name": "Apesanteur",
+        "url": "https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39"
+      },
+      "artists": [
+        {
+          "name": "Elodie Acy",
+          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Apesanteur",
+      "url": "https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
-        "name": "Atmospheres For Yoga And Meditation",
-        "url": "https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8"
+        "name": "Another Galaxy",
+        "url": "https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl"
       },
       "artists": [
         {
-          "name": "Sweet Dreamer",
-          "url": "https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7"
+          "name": "Astro.Not",
+          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Equilibrium - Loopable with No Fade",
-      "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
+      "duration_ms": 146966,
+      "name": "Another Galaxy",
+      "url": "https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -747,6 +747,22 @@
       "duration_ms": 183750,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
+        "name": "Atmospheres For Yoga And Meditation",
+        "url": "https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8"
+      },
+      "artists": [
+        {
+          "name": "Sweet Dreamer",
+          "url": "https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Equilibrium - Loopable with No Fade",
+      "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -783,22 +799,6 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
-        "name": "Another Galaxy",
-        "url": "https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl"
-      },
-      "artists": [
-        {
-          "name": "Astro.Not",
-          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "Another Galaxy",
-      "url": "https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
         "name": "Neda",
         "url": "https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
-        "name": "Everything is Different",
-        "url": "https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX"
-      },
-      "artists": [
-        {
-          "name": "Nadia Pugh",
-          "url": "https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Everything is Different",
-      "url": "https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
         "name": "C\u00edes",
         "url": "https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
+        "name": "Everything is Different",
+        "url": "https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX"
+      },
+      "artists": [
+        {
+          "name": "Nadia Pugh",
+          "url": "https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Everything is Different",
+      "url": "https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
         "name": "Luminescence",
         "url": "https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 128764,
       "name": "Luminescence",
       "url": "https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
+        "name": "Skymning",
+        "url": "https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70"
+      },
+      "artists": [
+        {
+          "name": "Signe Golin",
+          "url": "https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z"
+        }
+      ],
+      "duration_ms": 154550,
+      "name": "Skymning",
+      "url": "https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -923,22 +939,6 @@
       "duration_ms": 199106,
       "name": "Stilhed",
       "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
-        "name": "Skymning",
-        "url": "https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70"
-      },
-      "artists": [
-        {
-          "name": "Signe Golin",
-          "url": "https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z"
-        }
-      ],
-      "duration_ms": 154550,
-      "name": "Skymning",
-      "url": "https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
+        "name": "Eudaimonia",
+        "url": "https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 185895,
+      "name": "Eudaimonia",
+      "url": "https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
         "name": "Vi m\u00f8tes igjen",
         "url": "https://open.spotify.com/album/7pfvZelJPPsQL4FG7yKO1n"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 184186,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/1jap0U96d4528KaolN2nnz"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
-        "name": "Eudaimonia",
-        "url": "https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 185895,
-      "name": "Eudaimonia",
-      "url": "https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
-        "name": "Bela adormecida",
-        "url": "https://open.spotify.com/album/68lqrfMKELldWPve5nu9he"
-      },
-      "artists": [
-        {
-          "name": "Solid\u00e3o",
-          "url": "https://open.spotify.com/artist/2BeDT71gJ5Qecfvu8v0aEV"
-        }
-      ],
-      "duration_ms": 145475,
-      "name": "Bela adormecida",
-      "url": "https://open.spotify.com/track/1S252DWEYC5Fy7WfwFeRZF"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
         "name": "Incondizionatamente",
         "url": "https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 170624,
       "name": "Incondizionatamente",
       "url": "https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
+        "name": "Bela adormecida",
+        "url": "https://open.spotify.com/album/68lqrfMKELldWPve5nu9he"
+      },
+      "artists": [
+        {
+          "name": "Solid\u00e3o",
+          "url": "https://open.spotify.com/artist/2BeDT71gJ5Qecfvu8v0aEV"
+        }
+      ],
+      "duration_ms": 145475,
+      "name": "Bela adormecida",
+      "url": "https://open.spotify.com/track/1S252DWEYC5Fy7WfwFeRZF"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd"
-      },
-      "artists": [
-        {
-          "name": "JOMALU",
-          "url": "https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Silent Motion",
-      "url": "https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
         "name": "Penumbra",
         "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 260038,
       "name": "Penumbra",
       "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd"
+      },
+      "artists": [
+        {
+          "name": "JOMALU",
+          "url": "https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Silent Motion",
+      "url": "https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
-        "name": "Vignette",
-        "url": "https://open.spotify.com/album/2O4tAZRw0PyCiZyXcaQh56"
-      },
-      "artists": [
-        {
-          "name": "General Relativity",
-          "url": "https://open.spotify.com/artist/6HRIFfrVvgBZsdLPj2IVlc"
-        }
-      ],
-      "duration_ms": 160285,
-      "name": "Vignette",
-      "url": "https://open.spotify.com/track/2V5Gsfe6YrRWQRFKgCXevF"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx"
       },
@@ -1387,22 +1371,6 @@
       "duration_ms": 193636,
       "name": "Collide",
       "url": "https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82"
-      },
-      "artists": [
-        {
-          "name": "SUND",
-          "url": "https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL"
-        }
-      ],
-      "duration_ms": 166161,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -1423,6 +1391,38 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82"
+      },
+      "artists": [
+        {
+          "name": "SUND",
+          "url": "https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL"
+        }
+      ],
+      "duration_ms": 166161,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
+        "name": "Vignette",
+        "url": "https://open.spotify.com/album/2O4tAZRw0PyCiZyXcaQh56"
+      },
+      "artists": [
+        {
+          "name": "General Relativity",
+          "url": "https://open.spotify.com/artist/6HRIFfrVvgBZsdLPj2IVlc"
+        }
+      ],
+      "duration_ms": 160285,
+      "name": "Vignette",
+      "url": "https://open.spotify.com/track/2V5Gsfe6YrRWQRFKgCXevF"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
         "name": "Aphelion",
         "url": "https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 200555,
       "name": "Aphelion",
       "url": "https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
-        "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
-        "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
-      },
-      "artists": [
-        {
-          "name": "Hana Maldonado",
-          "url": "https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
-      "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
-        "name": "Rest Now",
-        "url": "https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7"
+        "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
+        "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
       },
       "artists": [
         {
-          "name": "Gemma Casimaty",
-          "url": "https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC"
+          "name": "Hana Maldonado",
+          "url": "https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Rest Now",
-      "url": "https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp"
+      "duration_ms": 217250,
+      "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
+      "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
-        "name": "Through it All",
-        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
+        "name": "Rest Now",
+        "url": "https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7"
       },
       "artists": [
         {
-          "name": "Iselinn",
-          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
+          "name": "Gemma Casimaty",
+          "url": "https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC"
         }
       ],
-      "duration_ms": 186559,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
+      "duration_ms": 162000,
+      "name": "Rest Now",
+      "url": "https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
+        "name": "Through it All",
+        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
+      },
+      "artists": [
+        {
+          "name": "Iselinn",
+          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
+        }
+      ],
+      "duration_ms": 186559,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
         "name": "Bertrand of the Ringing",
         "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 198000,
       "name": "Ceremonial Stone",
       "url": "https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji"
-    },
-    {
-      "added_at": "2022-08-15 18:30:07",
-      "album": {
-        "name": "Moonchild's First Flight",
-        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
-      },
-      "artists": [
-        {
-          "name": "Amos Stremann",
-          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
-        }
-      ],
-      "duration_ms": 172372,
-      "name": "Moonchild's First Flight",
-      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2022-08-15 18:30:07",
       "album": {
-        "name": "The Birth of Solitude",
-        "url": "https://open.spotify.com/album/6NJcJj1yGCs08pnlJgjwpk"
+        "name": "Moonchild's First Flight",
+        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
       },
       "artists": [
         {
-          "name": "Lei Chini",
-          "url": "https://open.spotify.com/artist/5EbnxTdPMZFVLDh810uYj5"
+          "name": "Amos Stremann",
+          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
         }
       ],
-      "duration_ms": 114949,
-      "name": "The Birth of Solitude",
-      "url": "https://open.spotify.com/track/463ddcbIg2jpNkk8JoVmJQ"
+      "duration_ms": 172372,
+      "name": "Moonchild's First Flight",
+      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
     },
     {
       "added_at": "2022-08-15 18:30:07",
@@ -1611,6 +1595,22 @@
       "duration_ms": 223653,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
+    },
+    {
+      "added_at": "2022-08-15 18:30:07",
+      "album": {
+        "name": "The Birth of Solitude",
+        "url": "https://open.spotify.com/album/6NJcJj1yGCs08pnlJgjwpk"
+      },
+      "artists": [
+        {
+          "name": "Lei Chini",
+          "url": "https://open.spotify.com/artist/5EbnxTdPMZFVLDh810uYj5"
+        }
+      ],
+      "duration_ms": 114949,
+      "name": "The Birth of Solitude",
+      "url": "https://open.spotify.com/track/463ddcbIg2jpNkk8JoVmJQ"
     }
   ],
   "unique_name": "Dreamy Vibes",

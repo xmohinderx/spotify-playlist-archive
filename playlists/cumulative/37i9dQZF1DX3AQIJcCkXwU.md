@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-116 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+117 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Reflection](https://open.spotify.com/track/6htEm5TojHcHv4eRWSedAY) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Reverie](https://open.spotify.com/album/3YGjIM9DblIObRjp1hOKua) | 2:28 | 2022-04-04 | 2022-07-29 |
 | [Reflection](https://open.spotify.com/track/7fJLwrHhGduNo7AuiNbHJB) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Reverie](https://open.spotify.com/album/4S1faFQc9P8F6FNEWaH5za) | 2:28 | 2022-07-18 |  |
 | [Remote](https://open.spotify.com/track/5IrLLzBYXza3WcB89KjioW) | [Om Lighthouse](https://open.spotify.com/artist/5AzmHIExEw7ULbdoni3rif) | [Remote](https://open.spotify.com/album/2rGJ64xAX9hUmaapGFRCGD) | 5:15 | 2022-04-04 |  |
+| [Restful Dream](https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Dream](https://open.spotify.com/album/6wZFjc47KdhamOOPBMrSHL) | 6:06 | 2022-08-23 |  |
 | [Road to Asarganj](https://open.spotify.com/track/0CGvs9ThJYRe9fE2cEVfAm) | [Shanti Kapil](https://open.spotify.com/artist/49UVawvMt5wKFBt7FPRT35) | [Bekhudi](https://open.spotify.com/album/2yCK96ne1ESoQGSrFHXyE8) | 5:43 | 2022-04-04 | 2022-04-21 |
 | [Road to Pune](https://open.spotify.com/track/0IqyKkvBpfkwWQMQW0pYTV) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Peace From Within](https://open.spotify.com/album/3xyPN8gruwFwGpIu3y4uRz) | 3:04 | 2022-07-18 |  |
 | [Sachetan](https://open.spotify.com/track/6nDSQdvkVHIWW9ga17UUnL) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 3:01 | 2022-05-23 |  |

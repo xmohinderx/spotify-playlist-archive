@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 851044,
+  "num_followers": 851235,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGMzNzc2MzQyYTgzZDk4NmRlMzc1MTRlZDU1YzQ2ODU2",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDI4ZjQzYjFmZWYzMTNkNzBmYmE0ZDgyZmU3N2VjNTYz",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -183,26 +183,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "No Piensa",
-        "url": "https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA"
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         },
         {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "Boaz van de Beatz",
-          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
         }
       ],
-      "duration_ms": 149268,
-      "name": "No Piensa",
-      "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
+      "duration_ms": 247896,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -223,22 +219,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
+        "name": "No Piensa",
+        "url": "https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         },
         {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Boaz van de Beatz",
+          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
         }
       ],
-      "duration_ms": 247896,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
+      "duration_ms": 149268,
+      "name": "No Piensa",
+      "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Magic Carpet",
-        "url": "https://open.spotify.com/album/0ChRkheFcAH3Zu3OOfPKVa"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "MAY BBY",
-          "url": "https://open.spotify.com/artist/6Lo8eDoMJqDyDBKENRlPMU"
-        }
-      ],
-      "duration_ms": 168170,
-      "name": "Magic Carpet",
-      "url": "https://open.spotify.com/track/7nEJrG2KIiH6PoDL1Ae5at"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 165120,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Magic Carpet",
+        "url": "https://open.spotify.com/album/0ChRkheFcAH3Zu3OOfPKVa"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "MAY BBY",
+          "url": "https://open.spotify.com/artist/6Lo8eDoMJqDyDBKENRlPMU"
+        }
+      ],
+      "duration_ms": 168170,
+      "name": "Magic Carpet",
+      "url": "https://open.spotify.com/track/7nEJrG2KIiH6PoDL1Ae5at"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 142193,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Gotta Let U Go",
-        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Dominica",
-          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
-        }
-      ],
-      "duration_ms": 149219,
-      "name": "Gotta Let U Go",
-      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Make a Living",
         "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 177798,
       "name": "Make a Living",
       "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Gotta Let U Go",
+        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "duration_ms": 149219,
+      "name": "Gotta Let U Go",
+      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1155,6 +1155,22 @@
       "duration_ms": 215090,
       "name": "Something's about to go down",
       "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1251,22 +1267,6 @@
       "duration_ms": 135483,
       "name": "Sad Boy (feat. Ava Max & Kylie Cantrall) - Cat Dealers Remix",
       "url": "https://open.spotify.com/track/7KewOaneu1MC9RRrky8Oxc"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Cheque",
-        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cheque",
-      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "shit i like",
+        "url": "https://open.spotify.com/album/26tPz3DGl0Hno8muVnjfx3"
+      },
+      "artists": [
+        {
+          "name": "Gwyn Love",
+          "url": "https://open.spotify.com/artist/4o5ZquVPYCsS90FQYPkGzN"
+        },
+        {
+          "name": "La+ch",
+          "url": "https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG"
+        }
+      ],
+      "duration_ms": 230046,
+      "name": "shit i like",
+      "url": "https://open.spotify.com/track/7iBx3dJNTfXWf5vOJ9Vqg0"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Whisper (with James Yuill) [John Summit Remix]",
         "url": "https://open.spotify.com/album/2Lp800ReDqK18AxCzCaT24"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 184271,
       "name": "Whisper (with James Yuill) - John Summit Remix",
       "url": "https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "shit i like",
-        "url": "https://open.spotify.com/album/26tPz3DGl0Hno8muVnjfx3"
-      },
-      "artists": [
-        {
-          "name": "Gwyn Love",
-          "url": "https://open.spotify.com/artist/4o5ZquVPYCsS90FQYPkGzN"
-        },
-        {
-          "name": "La+ch",
-          "url": "https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG"
-        }
-      ],
-      "duration_ms": 230046,
-      "name": "shit i like",
-      "url": "https://open.spotify.com/track/7iBx3dJNTfXWf5vOJ9Vqg0"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "hiiigh",
-        "url": "https://open.spotify.com/album/54gkNTtJTRzBgZnhakwQR9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Trash",
-          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
-        },
-        {
-          "name": "Daisy Guttridge",
-          "url": "https://open.spotify.com/artist/2tUq6RAxkUzZPf2WWLXMa4"
-        }
-      ],
-      "duration_ms": 175552,
-      "name": "hiiigh",
-      "url": "https://open.spotify.com/track/2vQ6kg5hPJiFx2lctuBtju"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/2d2ED1cEdtypHWeJR9RxOl"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 176632,
       "name": "Time",
       "url": "https://open.spotify.com/track/55f2O4I6eZ8GLCinoWRF6y"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "hiiigh",
+        "url": "https://open.spotify.com/album/54gkNTtJTRzBgZnhakwQR9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "Daisy Guttridge",
+          "url": "https://open.spotify.com/artist/2tUq6RAxkUzZPf2WWLXMa4"
+        }
+      ],
+      "duration_ms": 175552,
+      "name": "hiiigh",
+      "url": "https://open.spotify.com/track/2vQ6kg5hPJiFx2lctuBtju"
     },
     {
       "added_at": "2022-08-12 04:00:00",

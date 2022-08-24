@@ -622,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
+    },
+    {
+      "album": {
         "name": "Esencial Estopa",
         "url": "https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK"
       },
@@ -2933,7 +2951,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 173293,
       "name": "Todos los Gatos Son Pardos",
       "url": "https://open.spotify.com/track/5hzeePzx39dRlrIeOpRCXR"

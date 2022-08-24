@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "Truthfully Speaking",
+        "url": "https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0"
+      },
+      "artists": [
+        {
+          "name": "Truth Hurts",
+          "url": "https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226440,
+      "name": "Addictive",
+      "url": "https://open.spotify.com/track/36jSIOSE72neBbKntCthqw"
+    },
+    {
+      "album": {
         "name": "Mars/Venus",
         "url": "https://open.spotify.com/album/5I8dujSQv3pxhJo6n2ifWv"
       },
@@ -461,7 +483,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 242866,
       "name": "Delirious",
       "url": "https://open.spotify.com/track/0nH3kN1WXrbxZSptazFX1r"
@@ -921,7 +943,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 253040,
       "name": "He's Mine",
       "url": "https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn"
@@ -1023,6 +1045,28 @@
       "duration_ms": 257333,
       "name": "I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster",
       "url": "https://open.spotify.com/track/2yr2HnFYl7XvqJk4fXoQBt"
+    },
+    {
+      "album": {
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "I Invented Sex (feat. Drake)",
+      "url": "https://open.spotify.com/track/1Ug1mV9h5qVSs4rvvnQWux"
     },
     {
       "album": {

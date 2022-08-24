@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a! \u063a\u0644\u0627\u0641: \u0639\u0641\u0631\u0648\u062a\u0648",
+  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a! \u063a\u0644\u0627\u0641: \u0645\u0631\u0648\u0627\u0646 \u0645\u0648\u0633\u0649",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "published_playlist_ids": [
     "6yEdqmm0KWZqYgvxTRioiU"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 188846,
       "name": "3latol",
       "url": "https://open.spotify.com/track/3BW4QtHR5ExFrgD1YzcvCx"
@@ -85,6 +85,24 @@
       "duration_ms": 181392,
       "name": "Adriana Lima",
       "url": "https://open.spotify.com/track/615yIBsABjpxbMLVXqYQgt"
+    },
+    {
+      "album": {
+        "name": "Santa El Gded",
+        "url": "https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151603,
+      "name": "Ahmed Santa",
+      "url": "https://open.spotify.com/track/6GJQiSob1lScp9tnlTvMfp"
     },
     {
       "album": {
@@ -171,7 +189,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 242608,
       "name": "BIG MOOD",
       "url": "https://open.spotify.com/track/788ZucIemZrlzHQ6WGdhGY"
@@ -407,10 +425,28 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 189000,
       "name": "Feeha La Khfeeha",
       "url": "https://open.spotify.com/track/5IadhJSL2h9WKI6ChfTTgj"
+    },
+    {
+      "album": {
+        "name": "Fish Wa2t",
+        "url": "https://open.spotify.com/album/5dI5JMzymMU1ZAbXT12hOn"
+      },
+      "artists": [
+        {
+          "name": "El Joker",
+          "url": "https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156990,
+      "name": "Fish Wa2t",
+      "url": "https://open.spotify.com/track/5CARpixYK1xzYkfTl1cvOJ"
     },
     {
       "album": {
@@ -566,6 +602,24 @@
     },
     {
       "album": {
+        "name": "MESAMA3EEN",
+        "url": "https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo"
+      },
+      "artists": [
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "LOGAN",
+      "url": "https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO"
+    },
+    {
+      "album": {
         "name": "LOKLOK",
         "url": "https://open.spotify.com/album/7rMduOQflk9P9TnxwRjs4X"
       },
@@ -715,7 +769,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 216710,
       "name": "MAREED",
       "url": "https://open.spotify.com/track/2Mv3lhZmdcCFjSWpMKf70i"
@@ -843,7 +897,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 240000,
       "name": "Msh Ha7el",
       "url": "https://open.spotify.com/track/225Xi790QAtTbuMfjW6fyR"
@@ -861,7 +915,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 144793,
       "name": "NAPALM",
       "url": "https://open.spotify.com/track/4EG5yjXnXCDcjBxOfKXNez"
@@ -937,7 +991,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 187444,
       "name": "QESA HAZENA",
       "url": "https://open.spotify.com/track/2mBLOKrLsZbVfFKWjKadqe"
@@ -1237,7 +1291,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 157402,
       "name": "VALENTINO",
       "url": "https://open.spotify.com/track/1Mtf8OuYCofl0H4p9HI6o7"
