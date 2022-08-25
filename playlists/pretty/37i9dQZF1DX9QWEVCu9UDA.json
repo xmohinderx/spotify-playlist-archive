@@ -1,12 +1,12 @@
 {
   "description": "Discover new music while you game.",
-  "num_followers": 208767,
+  "num_followers": 208822,
   "original_name": "Gaming Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI1NzE5MywwMDAwMDAwMDhlNWJkYTc5OTQ1ZDg4NmQ4YzNkNWE2MTU4YWYyMGVi",
+  "snapshot_id": "MTY1ODI1NzE5MywwMDAwMDAwMDFkZjcyZWVjNTU2NWExZjMyMDdjODk5ODNhN2I5N2Iy",
   "tracks": [
     {
       "added_at": "2022-07-19 18:59:53",
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/4H4txT4dMDknveR0RjAw83"
+      },
+      "artists": [
+        {
+          "name": "27Delly",
+          "url": "https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5chWJTznLQVlRCVbwxaB5N"
+    },
+    {
+      "added_at": "2022-07-19 18:59:53",
+      "album": {
         "name": "Redo",
         "url": "https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7"
       },
@@ -235,18 +251,22 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/4H4txT4dMDknveR0RjAw83"
+        "name": "Bag on a Bag",
+        "url": "https://open.spotify.com/album/3TibjtwgLoAqPw515d6jRA"
       },
       "artists": [
         {
-          "name": "27Delly",
-          "url": "https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT"
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        },
+        {
+          "name": "Kakuyon",
+          "url": "https://open.spotify.com/artist/256Ali73Vwxggm4o4yq78F"
         }
       ],
-      "duration_ms": 112000,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5chWJTznLQVlRCVbwxaB5N"
+      "duration_ms": 172000,
+      "name": "Bag on a Bag",
+      "url": "https://open.spotify.com/track/7BN37yVlX2XQYCPTbtGeGD"
     },
     {
       "added_at": "2022-07-19 18:59:53",
@@ -279,26 +299,6 @@
       "duration_ms": 169160,
       "name": "Fresh Water",
       "url": "https://open.spotify.com/track/2UbdtdpOW3URCTqKsPATJg"
-    },
-    {
-      "added_at": "2022-07-19 18:59:53",
-      "album": {
-        "name": "Bag on a Bag",
-        "url": "https://open.spotify.com/album/3TibjtwgLoAqPw515d6jRA"
-      },
-      "artists": [
-        {
-          "name": "Spence Lee",
-          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
-        },
-        {
-          "name": "Kakuyon",
-          "url": "https://open.spotify.com/artist/256Ali73Vwxggm4o4yq78F"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Bag on a Bag",
-      "url": "https://open.spotify.com/track/7BN37yVlX2XQYCPTbtGeGD"
     },
     {
       "added_at": "2022-07-19 18:59:53",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
+        "name": "delgado",
+        "url": "https://open.spotify.com/album/7oByVFfxbGEzEZIOwvRHkR"
+      },
+      "artists": [
+        {
+          "name": "Eddy I.",
+          "url": "https://open.spotify.com/artist/1JqLCp7PYQfZQNoCPHvLAP"
+        }
+      ],
+      "duration_ms": 158630,
+      "name": "Dear Gemini",
+      "url": "https://open.spotify.com/track/0hkfcnIuNWHqgZArp9RrIG"
+    },
+    {
+      "added_at": "2022-07-19 18:59:53",
+      "album": {
         "name": "welcome to chili's",
         "url": "https://open.spotify.com/album/7fALdtEaBGDmT5shlk5hEV"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
-        "name": "delgado",
-        "url": "https://open.spotify.com/album/7oByVFfxbGEzEZIOwvRHkR"
+        "name": "THE DEATH OF ROBERT SCOTT",
+        "url": "https://open.spotify.com/album/5d0Xx0ZsYFQDmy0VCnesRF"
       },
       "artists": [
         {
-          "name": "Eddy I.",
-          "url": "https://open.spotify.com/artist/1JqLCp7PYQfZQNoCPHvLAP"
+          "name": "T:ME",
+          "url": "https://open.spotify.com/artist/0JTYV7vcKAjuhUdQlAWJ5F"
         }
       ],
-      "duration_ms": 158630,
-      "name": "Dear Gemini",
-      "url": "https://open.spotify.com/track/0hkfcnIuNWHqgZArp9RrIG"
+      "duration_ms": 143810,
+      "name": "GOD FORBID",
+      "url": "https://open.spotify.com/track/53vvGZ1WXzPFhz1YhXPvC7"
     },
     {
       "added_at": "2022-07-19 18:59:53",
@@ -591,30 +607,6 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
-        "name": "No Rules",
-        "url": "https://open.spotify.com/album/6ZF8IENxzoK3TPb1LOulct"
-      },
-      "artists": [
-        {
-          "name": "IG",
-          "url": "https://open.spotify.com/artist/5S7NZYWk7BZtpClFiG8g0O"
-        },
-        {
-          "name": "Jase",
-          "url": "https://open.spotify.com/artist/3uygII24RQxzzzxIyFA1Mu"
-        },
-        {
-          "name": "YGTUT",
-          "url": "https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU"
-        }
-      ],
-      "duration_ms": 156143,
-      "name": "No Rules",
-      "url": "https://open.spotify.com/track/51Z0ANmJ0SYyNSLhUUC6PU"
-    },
-    {
-      "added_at": "2022-07-19 18:59:53",
-      "album": {
         "name": "On Read",
         "url": "https://open.spotify.com/album/5ZV2mOXze7s9k3PA8kGMve"
       },
@@ -659,6 +651,30 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
+        "name": "No Rules",
+        "url": "https://open.spotify.com/album/6ZF8IENxzoK3TPb1LOulct"
+      },
+      "artists": [
+        {
+          "name": "IG",
+          "url": "https://open.spotify.com/artist/5S7NZYWk7BZtpClFiG8g0O"
+        },
+        {
+          "name": "Jase",
+          "url": "https://open.spotify.com/artist/3uygII24RQxzzzxIyFA1Mu"
+        },
+        {
+          "name": "YGTUT",
+          "url": "https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU"
+        }
+      ],
+      "duration_ms": 156143,
+      "name": "No Rules",
+      "url": "https://open.spotify.com/track/51Z0ANmJ0SYyNSLhUUC6PU"
+    },
+    {
+      "added_at": "2022-07-19 18:59:53",
+      "album": {
         "name": "TEAM",
         "url": "https://open.spotify.com/album/1DRmWkMm4MGyTeYgO0Y720"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 154397,
       "name": "TEAM",
       "url": "https://open.spotify.com/track/3C1Y2ufbDRDQXFl1sIF6Eu"
-    },
-    {
-      "added_at": "2022-07-19 18:59:53",
-      "album": {
-        "name": "THE DEATH OF ROBERT SCOTT",
-        "url": "https://open.spotify.com/album/5d0Xx0ZsYFQDmy0VCnesRF"
-      },
-      "artists": [
-        {
-          "name": "T:ME",
-          "url": "https://open.spotify.com/artist/0JTYV7vcKAjuhUdQlAWJ5F"
-        }
-      ],
-      "duration_ms": 143810,
-      "name": "GOD FORBID",
-      "url": "https://open.spotify.com/track/53vvGZ1WXzPFhz1YhXPvC7"
     },
     {
       "added_at": "2022-07-19 18:59:53",
@@ -807,38 +807,6 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
-        "name": "U P P E R H A N D",
-        "url": "https://open.spotify.com/album/7grsMK70ZDz1D34nVMhwxT"
-      },
-      "artists": [
-        {
-          "name": "indie tribe",
-          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
-        },
-        {
-          "name": "DJ Mykael V",
-          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
-        },
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "Mogli the Iceburg",
-          "url": "https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy"
-        }
-      ],
-      "duration_ms": 173269,
-      "name": "CLEAR",
-      "url": "https://open.spotify.com/track/3mVq27OXpmeldieDWOP2gx"
-    },
-    {
-      "added_at": "2022-07-19 18:59:53",
-      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/5s7WAcvW7eIOme2nMrNe2F"
       },
@@ -907,6 +875,38 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
+        "name": "U P P E R H A N D",
+        "url": "https://open.spotify.com/album/7grsMK70ZDz1D34nVMhwxT"
+      },
+      "artists": [
+        {
+          "name": "indie tribe",
+          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
+        },
+        {
+          "name": "DJ Mykael V",
+          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Mogli the Iceburg",
+          "url": "https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy"
+        }
+      ],
+      "duration_ms": 173269,
+      "name": "CLEAR",
+      "url": "https://open.spotify.com/track/3mVq27OXpmeldieDWOP2gx"
+    },
+    {
+      "added_at": "2022-07-19 18:59:53",
+      "album": {
         "name": "The Chauncey Hollis Project",
         "url": "https://open.spotify.com/album/0I2yQISctaHfFJW34W23zD"
       },
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
+        "name": "Show Stop",
+        "url": "https://open.spotify.com/album/1XcjUvabEhf1xDvgs1mUgR"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "duration_ms": 181522,
+      "name": "Show Stop",
+      "url": "https://open.spotify.com/track/779bZ6dEbYnVU7gMmEtgFP"
+    },
+    {
+      "added_at": "2022-07-19 18:59:53",
+      "album": {
         "name": "Need to Know",
         "url": "https://open.spotify.com/album/6mtBr3uZQEUrrywkvUaHS7"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 172800,
       "name": "Energy",
       "url": "https://open.spotify.com/track/1phleqiI5SJ7rc1hdLjkkT"
-    },
-    {
-      "added_at": "2022-07-19 18:59:53",
-      "album": {
-        "name": "Show Stop",
-        "url": "https://open.spotify.com/album/1XcjUvabEhf1xDvgs1mUgR"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        }
-      ],
-      "duration_ms": 181522,
-      "name": "Show Stop",
-      "url": "https://open.spotify.com/track/779bZ6dEbYnVU7gMmEtgFP"
     },
     {
       "added_at": "2022-07-19 18:59:53",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/38S31ZBBtiu5rKBz7sbRIZ"
+      },
+      "artists": [
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "duration_ms": 220695,
+      "name": "Pass By",
+      "url": "https://open.spotify.com/track/5pivvXODUHrySXqmHmGv7W"
+    },
+    {
+      "added_at": "2022-07-19 18:59:53",
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/5NKvLYonbBZWUqIyQSmbxt"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 165000,
       "name": "Just The Same",
       "url": "https://open.spotify.com/track/4u2wYkQG7mQ4X5YcMiO6fG"
-    },
-    {
-      "added_at": "2022-07-19 18:59:53",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/38S31ZBBtiu5rKBz7sbRIZ"
-      },
-      "artists": [
-        {
-          "name": "Pell",
-          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
-        }
-      ],
-      "duration_ms": 220695,
-      "name": "Pass By",
-      "url": "https://open.spotify.com/track/5pivvXODUHrySXqmHmGv7W"
     },
     {
       "added_at": "2022-07-19 18:59:53",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
+        "name": "COLUMBIA",
+        "url": "https://open.spotify.com/album/13hsWzSOISWHF9Iv9wcdJq"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "duration_ms": 187896,
+      "name": "COLUMBIA",
+      "url": "https://open.spotify.com/track/1L8GpP1KURUrF8Ewj7B7qI"
+    },
+    {
+      "added_at": "2022-07-19 18:59:53",
+      "album": {
         "name": "DRINK MORE WATER",
         "url": "https://open.spotify.com/album/6OaC5YTyO7PyWqSuOlWNVc"
       },
@@ -1419,18 +1435,34 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
-        "name": "COLUMBIA",
-        "url": "https://open.spotify.com/album/13hsWzSOISWHF9Iv9wcdJq"
+        "name": "Til Infinity",
+        "url": "https://open.spotify.com/album/2aQTWsO2PR764AMOAqomgE"
       },
       "artists": [
         {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+          "name": "Moh Flow",
+          "url": "https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p"
         }
       ],
-      "duration_ms": 187896,
-      "name": "COLUMBIA",
-      "url": "https://open.spotify.com/track/1L8GpP1KURUrF8Ewj7B7qI"
+      "duration_ms": 188737,
+      "name": "Til Infinity",
+      "url": "https://open.spotify.com/track/7I8GVZWFtrTzvHO0nAyLwY"
+    },
+    {
+      "added_at": "2022-07-19 18:59:53",
+      "album": {
+        "name": "Fetti",
+        "url": "https://open.spotify.com/album/6WhaO7l8geXM4a0MApJq4i"
+      },
+      "artists": [
+        {
+          "name": "Mir Fontane",
+          "url": "https://open.spotify.com/artist/53VAKbI2fXRs1PwG6DVToP"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Fetti",
+      "url": "https://open.spotify.com/track/7EKvaYorWWn9ZyKMDjQvhi"
     },
     {
       "added_at": "2022-07-19 18:59:53",
@@ -1455,34 +1487,26 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
-        "name": "Fetti",
-        "url": "https://open.spotify.com/album/6WhaO7l8geXM4a0MApJq4i"
+        "name": "TRUTH (feat. Sam Truth and redveil)",
+        "url": "https://open.spotify.com/album/169yl4T0ip7hzkC4e51iHp"
       },
       "artists": [
         {
-          "name": "Mir Fontane",
-          "url": "https://open.spotify.com/artist/53VAKbI2fXRs1PwG6DVToP"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "Fetti",
-      "url": "https://open.spotify.com/track/7EKvaYorWWn9ZyKMDjQvhi"
-    },
-    {
-      "added_at": "2022-07-19 18:59:53",
-      "album": {
-        "name": "Til Infinity",
-        "url": "https://open.spotify.com/album/2aQTWsO2PR764AMOAqomgE"
-      },
-      "artists": [
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        },
         {
-          "name": "Moh Flow",
-          "url": "https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p"
+          "name": "Sam Truth",
+          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
+        },
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
         }
       ],
-      "duration_ms": 188737,
-      "name": "Til Infinity",
-      "url": "https://open.spotify.com/track/7I8GVZWFtrTzvHO0nAyLwY"
+      "duration_ms": 190038,
+      "name": "TRUTH (feat. Sam Truth and redveil)",
+      "url": "https://open.spotify.com/track/3hQrIF803GxbmRcWFJr7lc"
     },
     {
       "added_at": "2022-07-19 18:59:53",
@@ -1499,22 +1523,6 @@
       "duration_ms": 118700,
       "name": "MAKE LOVE",
       "url": "https://open.spotify.com/track/2ZhnzM9V0Lq2NxP39SFt3u"
-    },
-    {
-      "added_at": "2022-07-19 18:59:53",
-      "album": {
-        "name": "REBORN",
-        "url": "https://open.spotify.com/album/5gfsXQZKTy5SN6ttk5w1rM"
-      },
-      "artists": [
-        {
-          "name": "Akinyemi",
-          "url": "https://open.spotify.com/artist/6B4zXBfxCQ7ztcBfkNngsH"
-        }
-      ],
-      "duration_ms": 145891,
-      "name": "GLACIERS",
-      "url": "https://open.spotify.com/track/3IZUv1baTXfwM2UVZCz2LM"
     },
     {
       "added_at": "2022-07-19 18:59:53",
@@ -1551,6 +1559,22 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/5gfsXQZKTy5SN6ttk5w1rM"
+      },
+      "artists": [
+        {
+          "name": "Akinyemi",
+          "url": "https://open.spotify.com/artist/6B4zXBfxCQ7ztcBfkNngsH"
+        }
+      ],
+      "duration_ms": 145891,
+      "name": "GLACIERS",
+      "url": "https://open.spotify.com/track/3IZUv1baTXfwM2UVZCz2LM"
+    },
+    {
+      "added_at": "2022-07-19 18:59:53",
+      "album": {
         "name": "Quoted",
         "url": "https://open.spotify.com/album/04r8mpVK4j7TeMMEHlLrA8"
       },
@@ -1567,30 +1591,6 @@
       "duration_ms": 158334,
       "name": "On the Loose",
       "url": "https://open.spotify.com/track/5s8b9TuTp1omlmCDaKBI3W"
-    },
-    {
-      "added_at": "2022-07-19 18:59:53",
-      "album": {
-        "name": "TRUTH (feat. Sam Truth and redveil)",
-        "url": "https://open.spotify.com/album/169yl4T0ip7hzkC4e51iHp"
-      },
-      "artists": [
-        {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
-        },
-        {
-          "name": "Sam Truth",
-          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
-        },
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 190038,
-      "name": "TRUTH (feat. Sam Truth and redveil)",
-      "url": "https://open.spotify.com/track/3hQrIF803GxbmRcWFJr7lc"
     },
     {
       "added_at": "2022-07-19 18:59:53",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2022-07-19 18:59:53",
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/4L9pGV9WaPtiHcQize1gQz"
+      },
+      "artists": [
+        {
+          "name": "Trent the HOOLiGAN",
+          "url": "https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9"
+        }
+      ],
+      "duration_ms": 230551,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/2cwlWYwFAMzEy0FcG0Cs16"
+    },
+    {
+      "added_at": "2022-07-19 18:59:53",
+      "album": {
         "name": "Spilled Milk 1",
         "url": "https://open.spotify.com/album/5L0fqBCRKpkOHDNiwTgJbZ"
       },
@@ -1699,6 +1715,22 @@
       "duration_ms": 165953,
       "name": "Nirvana (with Falcons & B. Lewis)",
       "url": "https://open.spotify.com/track/7LjRPqtlYb2qyqUmKOwKuz"
+    },
+    {
+      "added_at": "2022-07-19 18:59:53",
+      "album": {
+        "name": "Middle School",
+        "url": "https://open.spotify.com/album/1APaIiDsD9NbwjgJQW646O"
+      },
+      "artists": [
+        {
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
+        }
+      ],
+      "duration_ms": 148498,
+      "name": "Middle School",
+      "url": "https://open.spotify.com/track/2d4UOvvcPXJNeOUEi61vLN"
     },
     {
       "added_at": "2022-07-19 18:59:53",
@@ -1735,38 +1767,6 @@
       "duration_ms": 146635,
       "name": "Tiramisu",
       "url": "https://open.spotify.com/track/0tdVtUBz2jLHwXYiJmqBjM"
-    },
-    {
-      "added_at": "2022-07-19 18:59:53",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/4L9pGV9WaPtiHcQize1gQz"
-      },
-      "artists": [
-        {
-          "name": "Trent the HOOLiGAN",
-          "url": "https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9"
-        }
-      ],
-      "duration_ms": 230551,
-      "name": "My Friends",
-      "url": "https://open.spotify.com/track/2cwlWYwFAMzEy0FcG0Cs16"
-    },
-    {
-      "added_at": "2022-07-19 18:59:53",
-      "album": {
-        "name": "Middle School",
-        "url": "https://open.spotify.com/album/1APaIiDsD9NbwjgJQW646O"
-      },
-      "artists": [
-        {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
-        }
-      ],
-      "duration_ms": 148498,
-      "name": "Middle School",
-      "url": "https://open.spotify.com/track/2d4UOvvcPXJNeOUEi61vLN"
     },
     {
       "added_at": "2022-07-19 18:59:53",

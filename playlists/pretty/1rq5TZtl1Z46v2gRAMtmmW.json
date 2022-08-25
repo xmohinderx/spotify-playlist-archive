@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 26835,
+  "num_followers": 26839,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzEyNCw1MDZhMjBkY2E1ODY5MTU5OTU2MjVjM2QyZTcwNmU2N2NkMTRiMzU2",
+  "snapshot_id": "MzEyNyw2ZDZmYjQ0MzJiNDQ5MTEwNGNlOThjMTA4MjVjOWJiNjE4YWMyZjcz",
   "tracks": [
+    {
+      "added_at": "2022-08-24 17:18:03",
+      "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Hey Baby - Edit",
+      "url": "https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE"
+    },
     {
       "added_at": "2022-08-03 16:11:16",
       "album": {
@@ -595,22 +611,6 @@
       "duration_ms": 192859,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/51vIyYq0fS8oZbIX0jGwuX"
-    },
-    {
-      "added_at": "2022-04-29 17:18:26",
-      "album": {
-        "name": "Time Goes",
-        "url": "https://open.spotify.com/album/3QXhljB4WyuQRD5LNdh1zv"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 276668,
-      "name": "March On",
-      "url": "https://open.spotify.com/track/3sd9QKIResfhBak1dgZyap"
     },
     {
       "added_at": "2022-04-09 00:30:57",

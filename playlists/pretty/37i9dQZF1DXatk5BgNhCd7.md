@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Migrantes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,138 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,167 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 43 | [Pideme la Luna \- En Vivo](https://open.spotify.com/track/0UGAaP2x9Z8EH6I22iwwsn) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Session \(En Vivo\)](https://open.spotify.com/album/7ciYF2POsgSJ6SeVem9mbH) | 1:34 |
 | 44 | [Cumbia Buena](https://open.spotify.com/track/6TtHG0o2xFQVK5Fa0ezxD0) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Cumbia Buena](https://open.spotify.com/album/1f52IsroVx1rLdJ1KRDhxp) | 3:35 |
 | 45 | [Lo Dudo](https://open.spotify.com/track/7GYGdhTBzgYbYaLudFZwG2) | [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Lo Dudo](https://open.spotify.com/album/26KsNQjD22tJOpMujEFi3k) | 4:06 |
-| 46 | [Gracias a Ti](https://open.spotify.com/track/19loQRUU43A6PYXMK2Ufhb) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Gracias a Ti](https://open.spotify.com/album/6papcvhOLRiYqq67L5PQpS) | 3:41 |
+| 46 | [Gracias a Ti](https://open.spotify.com/track/19loQRUU43A6PYXMK2Ufhb) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Gracias a Ti](https://open.spotify.com/album/6papcvhOLRiYqq67L5PQpS) | 2:25 |
 | 47 | [El Dolor De Mi Vida \- Versión Salsa](https://open.spotify.com/track/3WSAA6uLjnYNAnYACNa5F7) | [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Dolor De Mi Vida \(Versión Salsa\)](https://open.spotify.com/album/0ZN7GfXpjhltsNAgaYum5U) | 3:56 |
 | 48 | [Amor de Colegio \- Cositas \- Acercate](https://open.spotify.com/track/6JOc10gt6yqqau3j7Al8vD) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Amor de Colegio \- Cositas \- Acercate](https://open.spotify.com/album/1RkWEeRFHYi5mUreSOzxGO) | 5:02 |
 | 49 | [Cuatro Palabras](https://open.spotify.com/track/5vpiTOI6ZLW7Xln8ua0jzf) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Cuatro Palabras](https://open.spotify.com/album/4scENuMvXODp3Uzi54qLqc) | 3:56 |

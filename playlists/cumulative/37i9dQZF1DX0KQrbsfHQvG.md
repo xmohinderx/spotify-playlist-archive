@@ -4,7 +4,7 @@
 
 > Get up\. Stand up\. Be the revolution.
 
-128 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/3LESta3mpzYXIV0Vy0jKwT)
+129 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/3LESta3mpzYXIV0Vy0jKwT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [21st Century Liability](https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:09 | 2022-07-01 |  |
 | [6:00](https://open.spotify.com/track/3PTBfw2zgvY9HjpBU8VoFz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 4:26 | 2020-08-19 | 2022-07-29 |
 | [A Dying Plea Vol\. 1](https://open.spotify.com/track/0NlxbDDwdVSQm1DQz2EZUo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Marcia Richards](https://open.spotify.com/artist/1I1Psp3G5rPd9Wz4uBE3Zu), [Jálise Della Gary](https://open.spotify.com/artist/0f5kdcCaSt4HSPvBKuXvYv), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [A Dying Plea Vol\. 1](https://open.spotify.com/album/0ippbK45L6BKnSfpaAFf4V) | 3:26 | 2020-11-04 | 2022-07-29 |
-| [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 | 2020-08-19 | 2022-08-16 |
+| [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 | 2020-08-19 |  |
 | [American Dreams](https://open.spotify.com/track/2BljDCCL2GPYOXNSY0DEfU) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/3Ubxq3xl0xzgKTyetggqbm) | 3:23 | 2020-08-19 | 2022-07-29 |
 | [American Dreams](https://open.spotify.com/track/4CTgCROhytFCN0o8t4CYAO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:23 | 2022-07-01 |  |
 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 | 2020-08-19 |  |
@@ -26,6 +26,7 @@
 | [Blood / / Water](https://open.spotify.com/track/1rFAG22RkvaM6BlpWQoZ47) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Blood / / Water](https://open.spotify.com/album/3XqbSGmm923aESZ9tVzg3b) | 3:36 | 2020-08-19 | 2022-07-29 |
 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 | 2022-07-01 |  |
 | [Bodied](https://open.spotify.com/track/3C7fssc2tiauEx2Z82evXo) | [Honors](https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp) | [Bodied](https://open.spotify.com/album/7ERlNRuvXzjBAHHJyKNrCE) | 2:58 | 2020-08-19 | 2022-07-24 |
+| [Bodied](https://open.spotify.com/track/5CoFI2sgWxWACu15DhE3fY) | [Honors](https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp) | [Bodied](https://open.spotify.com/album/5KG3In8LsszpAsPSh3OOH7) | 2:58 | 2022-07-01 |  |
 | [Bullet \- Single Version](https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Bullet](https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h) | 2:53 | 2020-08-19 |  |
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2020-08-19 |  |
 | [BURN IT](https://open.spotify.com/track/5YVMcqVtrNuy41qRyu55ag) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [BURN IT](https://open.spotify.com/album/3xQ3UT8MXWNHi6ze8TGQ5p) | 3:51 | 2020-08-19 | 2022-07-29 |
@@ -76,7 +77,7 @@
 | [Mercy](https://open.spotify.com/track/1QmhRaPMEMuYKRutxt9ond) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Mercy](https://open.spotify.com/album/1pw5musYA2A2FWpswW9rzK) | 3:25 | 2021-02-05 | 2022-07-29 |
 | [Mercy](https://open.spotify.com/track/4OSWIup9gKCkIdVvdkLEOE) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Child Of The State](https://open.spotify.com/album/7GGIqGci2fE3pMFdD8dI1y) | 3:25 | 2022-07-01 |  |
 | [Middle Fingers](https://open.spotify.com/track/1RgvTl4vQN4qECtnO1guEp) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Loner](https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M) | 3:35 | 2020-08-19 |  |
-| [Mirrors](https://open.spotify.com/track/4oFyfXZgrirMQCwjhXGnj6) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:06 | 2020-08-19 |  |
+| [Mirrors](https://open.spotify.com/track/4oFyfXZgrirMQCwjhXGnj6) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:06 | 2020-08-19 | 2022-08-25 |
 | [Music in My Head](https://open.spotify.com/track/4K5DVRPZZ1ODCwHSNhIshu) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year](https://open.spotify.com/album/4pT7zvZRbbZa20c3JVbIAI) | 3:23 | 2021-04-16 | 2022-06-01 |
 | [N.I.G.G.a\. \(Not OK\)](https://open.spotify.com/track/3GgT9XmJMThUxcRYaI58Kg) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Cat & Mouse](https://open.spotify.com/album/5qEZVA8hye6yQrSXZY5WGO) | 3:54 | 2022-01-14 | 2022-05-31 |
 | [National Anthem](https://open.spotify.com/track/0A216B18ZRLYOrFVBeFbt4) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [STAINS](https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG) | 2:27 | 2022-07-01 |  |
@@ -101,7 +102,7 @@
 | [Revolution](https://open.spotify.com/track/0ueQD7R66pzETMuAdKHKAc) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/4IvMdTOYrnKv0a5edr6vVu) | 4:04 | 2020-08-19 | 2022-07-29 |
 | [Revolution](https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 4:04 | 2022-07-01 |  |
 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 | 2020-08-19 |  |
-| [Riot!](https://open.spotify.com/track/0RLasXfUaq0alAJVYhQ9s8) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:24 | 2020-08-19 |  |
+| [Riot!](https://open.spotify.com/track/0RLasXfUaq0alAJVYhQ9s8) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:24 | 2020-08-19 | 2022-08-25 |
 | [Rise](https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7) | 3:53 | 2020-08-19 |  |
 | [Rise Up](https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Rise Up](https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a) | 3:50 | 2020-08-19 |  |
 | [Save Us](https://open.spotify.com/track/2Y4lgpOT0sPU1TiTmsbpZh) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Save Us](https://open.spotify.com/album/6K7LntaUHeQnHdQZbOYWGT) | 2:21 | 2020-10-23 |  |

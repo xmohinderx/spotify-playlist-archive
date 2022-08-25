@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 541308,
+  "num_followers": 541648,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg3MjU2NSwwMDAwMDAwMGEwMDY2NmRhNjYxNTlhNzdmMDgzYmRmNWIwMWI4YzNh",
+  "snapshot_id": "MTYzODg3MjU2NSwwMDAwMDAwMDA1Y2I1ZDVhYTRiZjc3ZTZhNDAzYmRlZTgzMTRlZmNm",
   "tracks": [
     {
       "added_at": "2021-12-07 10:22:45",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "No Remorse",
-        "url": "https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Killed by Death",
-      "url": "https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Hunted",
         "url": "https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 173398,
       "name": "Hunted",
       "url": "https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "No Remorse",
+        "url": "https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 279306,
+      "name": "Killed by Death",
+      "url": "https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt"
     },
     {
       "added_at": "2021-12-07 10:22:45",

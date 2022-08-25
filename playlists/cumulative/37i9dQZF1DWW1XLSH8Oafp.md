@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring PinkPantheress and Sam Gellaitry
 
-351 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+352 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,8 @@
 | [Purify Me](https://open.spotify.com/track/4QLLA4OVStBaxNsz5sm0gA) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR) | [Purify Me](https://open.spotify.com/album/46QdqZz8b7VqKmIYLRp4Jh) | 3:01 | 2022-08-12 |  |
 | [Pushed You Away](https://open.spotify.com/track/4NNgRuXULfXbj6IYVzPK64) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [TDJ123](https://open.spotify.com/album/2uAAN1I8OYWOMyWjBN84Jq) | 4:21 | 2022-06-17 |  |
 | [Pxldll](https://open.spotify.com/track/6pEnZAADKscJTfkE74wtfu) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [Pxldll](https://open.spotify.com/album/6IPh3D7OG3TMi4quUJgypv) | 2:26 | 2022-08-19 |  |
-| [Pyramid](https://open.spotify.com/track/1Up1XBkxqdtu2BMP8iJr48) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Alchemy](https://open.spotify.com/album/7Cy7mBf9lW1eDCc8XVYD4D) | 3:53 | 2022-03-17 |  |
+| [Pyramid](https://open.spotify.com/track/1Up1XBkxqdtu2BMP8iJr48) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Alchemy](https://open.spotify.com/album/7Cy7mBf9lW1eDCc8XVYD4D) | 3:53 | 2022-03-17 | 2022-08-25 |
+| [Pyramid](https://open.spotify.com/track/1dl8w8jWWN8c00TUKH6vwh) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Pyramid](https://open.spotify.com/album/5nKhJceSqh4VzzHM6tKW3p) | 3:53 | 2022-03-17 |  |
 | [r u ok?](https://open.spotify.com/track/0VFmlXQMAON7gUfTsufMop) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [r u ok?](https://open.spotify.com/album/5XYq4QZnzSocz2SWjfwx4O) | 3:03 | 2022-02-18 | 2022-04-15 |
 | [Raingurl](https://open.spotify.com/track/5z1wOyEyoRu0HTkXYvuqiH) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/0LVHebiLemk6H6Djzi5NVf) | 3:57 | 2021-07-23 | 2022-04-16 |
 | [Rash Devices](https://open.spotify.com/track/2mubBWUJIr8yYo3NlNs9g8) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Us Ephemeral](https://open.spotify.com/album/25s8VKOfdaccZaD2VRv8Z5) | 5:02 | 2022-04-13 | 2022-06-04 |

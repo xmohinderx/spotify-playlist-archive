@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQFf8ygD236.md) - [plain]
 
 > Celebrate South Asian Heritage Month with Asim Azhar's favorite South Asian tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 875 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 879 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

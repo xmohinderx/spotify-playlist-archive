@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-104 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/2NQLrFSoKR34tgxbFWZBgI)
+105 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/2NQLrFSoKR34tgxbFWZBgI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Mi Amor](https://open.spotify.com/track/6gHBmW8qoHfbMagrkgCeBK) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Mi Amor](https://open.spotify.com/album/7FpmHyaVwir21jhEICHbJ7) | 3:49 | 2022-02-10 |  |
 | [Moi, je prouve.](https://open.spotify.com/track/3EF6LVr4vCyxu66HBe8pGO) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M) | [NYXIA\. Tome III](https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca) | 3:10 | 2022-02-10 |  |
 | [Mpita Njia](https://open.spotify.com/track/0yPp2dCmjWnA7H9wjHUDXP) | [Alicios](https://open.spotify.com/artist/4uYpJ2jKc6127fK6y3Km2x), [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Alfa](https://open.spotify.com/album/4FnMISjKBEp87QlLHW43dC) | 4:06 | 2022-02-10 |  |
-| [Na Wewe Milele](https://open.spotify.com/track/1Ytwf25YZz90rJlDljEHUs) | [Ray C](https://open.spotify.com/artist/5Z0z4Dno7vlHGTw35vO66O) | [Na Wewe Milele](https://open.spotify.com/album/5Y8kt7pGgxX49WnAarqvtv) | 4:53 | 2022-02-10 |  |
+| [Na Wewe Milele](https://open.spotify.com/track/1Ytwf25YZz90rJlDljEHUs) | [Ray C](https://open.spotify.com/artist/5Z0z4Dno7vlHGTw35vO66O) | [Na Wewe Milele](https://open.spotify.com/album/5Y8kt7pGgxX49WnAarqvtv) | 4:53 | 2022-02-10 | 2022-08-25 |
+| [NA WEWE MILELE](https://open.spotify.com/track/6FXngxda5ylUIIcFLQqqLb) | [Ray C](https://open.spotify.com/artist/3Dgejeu7lJ0wsom5Q06W0U) | [NA WEWE MILELE](https://open.spotify.com/album/7urOXTfV19PHfPKgk4IoRk) | 4:53 | 2022-02-10 |  |
 | [Naksh Naksh Mrembo](https://open.spotify.com/track/3bEUcbgCWnyuXKrjR9OLnn) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Hakeem 5](https://open.spotify.com/artist/1kE23z6YUfh9fBj1kWeohZ) | [CINDERELLA](https://open.spotify.com/album/0QSQibBpOOzPpiZcR54iY8) | 5:24 | 2022-02-10 |  |
 | [Naogopa](https://open.spotify.com/track/0vybWIHJOFMSwMVJQpAFxv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers](https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW) | 3:43 | 2022-02-10 |  |
 | [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 | 2022-02-10 |  |
@@ -79,7 +80,7 @@
 | [Nyota Yako](https://open.spotify.com/track/2IxodVxAhukQQskh0KW1Y9) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [T I D Singles](https://open.spotify.com/album/2M8BcYuMxICp6yaB7VeRIr) | 4:51 | 2022-02-10 |  |
 | [Odo](https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv) | 3:06 | 2022-02-10 |  |
 | [Odo nwom](https://open.spotify.com/track/7oTOQksidsMI5biGbCS0hB) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:57 | 2022-02-10 |  |
-| [Olufunmi](https://open.spotify.com/track/5oBMwr31HDA5zW0LKC5RVD) | [STYL\-PLUS](https://open.spotify.com/artist/0cN4aE1sxzn1o2Q86NdT3m) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 5:11 | 2022-02-10 |  |
+| [Olufunmi](https://open.spotify.com/track/5oBMwr31HDA5zW0LKC5RVD) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 5:11 | 2022-02-10 |  |
 | [One Naira \(feat\. Waje\)](https://open.spotify.com/track/0bLZL4todDFcGFxMDUIb4d) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Waje](https://open.spotify.com/artist/5GmW6T8IndFL45lifEqpEv) | [MI 2: The Movie](https://open.spotify.com/album/59TsiGBCbEeGOkKSkifF4m) | 4:32 | 2022-02-10 |  |
 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 | 2022-02-10 |  |
 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 | 2022-02-10 |  |

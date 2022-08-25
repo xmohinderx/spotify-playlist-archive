@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-405 songs - 1 day 1 hr 26 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+406 songs - 1 day 1 hr 29 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 | 2022-01-27 |  |
 | [Not Today](https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 4:21 | 2022-07-08 |  |
 | [Not Today \- From "Me Before You" Soundtrack](https://open.spotify.com/track/3EJPT32ZJdZkml81KqHrO5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Not Today \(From "Me Before You" Soundtrack\)](https://open.spotify.com/album/1JLNmnLzT4MDYrsXh918Wp) | 4:21 | 2022-05-02 | 2022-06-21 |
+| [Now & Then](https://open.spotify.com/track/6XcfREZnkvLzUF7FmCIViL) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Now & Then](https://open.spotify.com/album/3mCGjbVFyBxj3FO8BuakBI) | 3:02 | 2022-08-19 |  |
 | [OK](https://open.spotify.com/track/0fSrMPwErHXvwzcsFZvVXH) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [OK](https://open.spotify.com/album/7sTuh30QQXqIZggwFc7ikE) | 3:32 | 2022-05-11 | 2022-07-29 |
 | [OK](https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [OK](https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A) | 3:32 | 2022-07-08 |  |
 | [One Day I'll Fly Away](https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Now We May Begin](https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG) | 4:58 | 2022-01-27 |  |
@@ -401,7 +402,7 @@
 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 | 2022-01-27 |  |
 | [Words](https://open.spotify.com/track/2dNjHVd9urrtILcZBK70r1) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj) | 4:01 | 2022-01-27 |  |
 | [Worldstop](https://open.spotify.com/track/2x2sIzphml58Tkb6IN6FEA) | [Roy English](https://open.spotify.com/artist/1m42JiZ7Rv8D7Lc7FTSWAR) | [Worldstop](https://open.spotify.com/album/1pddhwGmsFULQ4nNlpwI2b) | 3:33 | 2022-01-27 | 2022-07-29 |
-| [Wrong Team](https://open.spotify.com/track/0TK1Kui4cCaHR0avKjKXzC) | [Sture Zetterberg](https://open.spotify.com/artist/00GQFQMePsK6tyPSJkBJZG) | [14 Washburn St](https://open.spotify.com/album/6ILwS4fTqO8N32MS4y7ehN) | 3:25 | 2022-01-27 |  |
+| [Wrong Team](https://open.spotify.com/track/0TK1Kui4cCaHR0avKjKXzC) | [Sture Zetterberg](https://open.spotify.com/artist/00GQFQMePsK6tyPSJkBJZG) | [14 Washburn St](https://open.spotify.com/album/6ILwS4fTqO8N32MS4y7ehN) | 3:25 | 2022-01-27 | 2022-08-25 |
 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2022-07-08 |  |
 | [You Give Me Something](https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered \(International Version\)](https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ) | 3:33 | 2022-01-27 | 2022-07-29 |
 | [You Might Need Somebody](https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Much Love](https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz) | 4:51 | 2022-08-05 |  |

@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-186 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
+187 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Hawaiiya](https://open.spotify.com/track/6d1HS0a3QkOH82CWCc5h8f) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Poom](https://open.spotify.com/album/7pbDDSvoSkldVRyLZ27gGH) | 3:31 | 2022-05-11 | 2022-07-27 |
 | [heowoojeog \(Feat\. Curren\)](https://open.spotify.com/track/5Ic9AAaaGl73otooQP5Gyg) | [LLANO](https://open.spotify.com/artist/61vo1oAMWvmdRIJYdeCzrd), [Curren](https://open.spotify.com/artist/1oKl2IxHi8Dwx4iTaBGVob) | [duL](https://open.spotify.com/album/1cloUGhbWriqDkuh5mm7wW) | 2:54 | 2022-05-11 | 2022-07-20 |
 | [Hmm](https://open.spotify.com/track/68G3FJrF1DAFhHnpM905QF) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:06 | 2022-05-11 | 2022-07-27 |
-| [How About You?](https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [How About You?](https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87) | 3:18 | 2022-05-11 |  |
+| [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 | 2022-08-19 |  |
+| [How About You?](https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [How About You?](https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87) | 3:18 | 2022-05-11 | 2022-08-25 |
 | [How Can I Forget You](https://open.spotify.com/track/3TaiV9q4DCeGkMKABR1VF9) | [CROQ](https://open.spotify.com/artist/0PHcPKpUIBAYJigtZdtgM9) | [Goldilocks \(Part.2\) : Melody](https://open.spotify.com/album/4moQf1HSn11uvkPPDueAZF) | 3:51 | 2022-06-09 | 2022-06-18 |
 | [How could you](https://open.spotify.com/track/6umRZbdpiKppnoaaXg3A9x) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NASON](https://open.spotify.com/artist/1vh78yjQeZmPN9a5qLlBpi), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Love Has a Limit](https://open.spotify.com/album/3OG247ZpvgEx93sC5Szv7d) | 3:00 | 2022-05-11 | 2022-07-27 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 |  |

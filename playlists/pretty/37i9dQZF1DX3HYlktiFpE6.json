@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 93358,
+  "num_followers": 93391,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGJmM2ExMWQ0NzUzYTUyOWU2Njc5ZmZkYzhjMmJhNmY5",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDQ4MjI4MmM2ZmYxMGE2NDkwOTgxMWQ4MTVhNTA4YzVi",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Anthem Lights Covers",
-        "url": "https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7"
-      },
-      "artists": [
-        {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
-        }
-      ],
-      "duration_ms": 216087,
-      "name": "Give Your Heart a Break",
-      "url": "https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Pitch Perfect (More Music From The Motion Picture) EP",
         "url": "https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 75360,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Anthem Lights Covers",
+        "url": "https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "duration_ms": 216087,
+      "name": "Give Your Heart a Break",
+      "url": "https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The Sing-Off: Season 4, Episode 1- The Sing-Off Is Back",
-        "url": "https://open.spotify.com/album/2v7S6K26bvlGpKP35MLF9j"
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV"
       },
       "artists": [
         {
-          "name": "Home Free",
-          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+          "name": "Rockapella",
+          "url": "https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix"
         }
       ],
-      "duration_ms": 100026,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh"
+      "duration_ms": 141341,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV"
+        "name": "The Sing-Off: Season 4, Episode 1- The Sing-Off Is Back",
+        "url": "https://open.spotify.com/album/2v7S6K26bvlGpKP35MLF9j"
       },
       "artists": [
         {
-          "name": "Rockapella",
-          "url": "https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix"
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
         }
       ],
-      "duration_ms": 141341,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga"
+      "duration_ms": 100026,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh"
     }
   ],
   "unique_name": "All A Cappella",

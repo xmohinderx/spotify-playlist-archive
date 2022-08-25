@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:5I5o3vDgR1eCtGcyW2IYZR">I Coccodrilli</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,163 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,204 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 8 | [Funko](https://open.spotify.com/track/3rmiFsLYdS4IBecoOH1kNs) | [Fuck Pop](https://open.spotify.com/artist/2EOQo8wyiH2Td1VVXgTKGW), [LÆRA](https://open.spotify.com/artist/2f8dshecm7JYrsbUshHzW1), [Supernino](https://open.spotify.com/artist/1qOclNcsOrRniIPNXpvl9I), [Faax](https://open.spotify.com/artist/6dsk4mOCGw333gLlmvnunz), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Fuck Pop](https://open.spotify.com/album/2I9OQRqMr5HCOxId5EbqRV) | 3:19 |
 | 9 | [Baby stai con me](https://open.spotify.com/track/1YRkrzo34kTUQq8jSfnSoA) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Baby stai con me](https://open.spotify.com/album/0qdIghkVBG0SB2iKAccsY7) | 3:15 |
 | 10 | [AU REVOIR](https://open.spotify.com/track/5saimMS1xQ1K6pMKnwWAjp) | [Ilypocomale](https://open.spotify.com/artist/6Gxu96uCNDRK67SqWA7KIj), [coffi](https://open.spotify.com/artist/6jLdUX0GBA4b413D9PVhnP), [PiccoloKappa!](https://open.spotify.com/artist/5mhLgRTZcKZr29mC8aau2Q) | [POCOMALE](https://open.spotify.com/album/3Zo5EsJGkSlbrxSRcQXFD6) | 2:29 |
-| 11 | [Malemalemale](https://open.spotify.com/track/2cTjmfXzhBa5HPhF1qYbW9) | [Tommi](https://open.spotify.com/artist/21hv3VURB1Om4Czpqg3f9B) | [Malemalemale](https://open.spotify.com/album/23NRskPb1PiTYLAv7fuH7h) | 2:27 |
+| 11 | [Malemalemale](https://open.spotify.com/track/2cTjmfXzhBa5HPhF1qYbW9) | [iosonotommi](https://open.spotify.com/artist/21hv3VURB1Om4Czpqg3f9B) | [Malemalemale](https://open.spotify.com/album/23NRskPb1PiTYLAv7fuH7h) | 2:27 |
 | 12 | [Pornolesbo](https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e) | [Baobab!](https://open.spotify.com/artist/0P9V5EdqoioSs6GYNliMTt) | [Pornolesbo](https://open.spotify.com/album/4YpQqDBJkMlpTPWBExpk03) | 2:24 |
 | 13 | [McRione](https://open.spotify.com/track/4Bv58XK0LLfMbY4OCYzIEl) | [Fuck Pop](https://open.spotify.com/artist/2EOQo8wyiH2Td1VVXgTKGW), [Ciko](https://open.spotify.com/artist/1avlWZZBKsFFxfgRENccBn), [Inkiostro](https://open.spotify.com/artist/5jeEXySnPyzHkNJ7K7ZcLx), [Mr Monty](https://open.spotify.com/artist/7JcNTjkikbcE2kXFdlEySZ), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc), [LowJohn](https://open.spotify.com/artist/4MdghOBjPSyLrz2DHlebGT) | [Fuck Pop](https://open.spotify.com/album/2I9OQRqMr5HCOxId5EbqRV) | 2:48 |
 | 14 | [Never Give Up](https://open.spotify.com/track/78NMcHvRHLhHKXFy4pZ8y7) | [Neo blu](https://open.spotify.com/artist/6yC534o6ugobyNUPY00cOu) | [Never Give Up](https://open.spotify.com/album/5VGxRUq6bmn5wwTr4jIt7K) | 2:52 |

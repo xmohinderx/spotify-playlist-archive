@@ -4894,6 +4894,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u865f\u7a2e\u7c7d",
+        "url": "https://open.spotify.com/album/5vdDXo15V2KaVH8lDpY0SI"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237774,
+      "name": "\u4e00\u865f\u7a2e\u7c7d",
+      "url": "https://open.spotify.com/track/3i804ijVjXeLrMKGIiVCHm"
+    },
+    {
+      "album": {
         "name": "\u4e00\u8868\u4eba\u624d",
         "url": "https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs"
       },
@@ -6175,7 +6193,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 241062,
       "name": "\u62fc\u547d\u7121\u6059 in Bb major",
       "url": "https://open.spotify.com/track/24tzRRz8r26gOmQB8PEZwv"

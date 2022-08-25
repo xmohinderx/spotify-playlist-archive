@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-204 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+205 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [blue \- Jai Wolf Remix](https://open.spotify.com/track/4FWzhh5B1rowe3qWKId1x3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [blue \(Jai Wolf Remix\)](https://open.spotify.com/album/5AvH3NBw1t9GiYKWC9Si0Q) | 3:22 | 2021-12-03 | 2022-07-29 |
 | [Borderline](https://open.spotify.com/track/2EE9mbf0apCytvK4cq8qSl) | [Camp Kubrick](https://open.spotify.com/artist/3RCqYRekSt6ttwZdkFhmnk), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Borderline](https://open.spotify.com/album/35QBNIbrgjMWlMu6B2WDbU) | 2:54 | 2021-12-03 | 2022-02-12 |
 | [Break The Same](https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Break The Same](https://open.spotify.com/album/5H5YKFjy1FRbo5TCN1MDvZ) | 3:16 | 2022-04-29 |  |
-| [Broken](https://open.spotify.com/track/7En6WS40qUdd9NMWLnOKiz) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Pieces](https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB) | 3:48 | 2021-12-03 |  |
+| [Broken](https://open.spotify.com/track/5hXuLtstJptYmLodghFa8V) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Pieces](https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb) | 3:48 | 2022-07-15 |  |
+| [Broken](https://open.spotify.com/track/7En6WS40qUdd9NMWLnOKiz) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Pieces](https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB) | 3:48 | 2021-12-03 | 2022-08-25 |
 | [Broken Mirror](https://open.spotify.com/track/44oPs8vjsT9v6Hjt50TvVh) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Innerlight EP](https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7) | 3:08 | 2021-12-03 |  |
 | [Broken Parts](https://open.spotify.com/track/1TS3hIyeGdWqeBQyj5HgoT) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:56 | 2021-12-03 | 2022-02-12 |
 | [Can't Forget You](https://open.spotify.com/track/726GMkrLFseCdHebF8LdVU) | [Briron Gauri](https://open.spotify.com/artist/2Aydybx286zfOnz7DQXw7N), [Estie](https://open.spotify.com/artist/6wWfHA1CxWIjDRF4FOFb5o), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2) | [Can't Forget You](https://open.spotify.com/album/2lRF3otwcBQFr4EfJRLp2C) | 2:46 | 2021-12-03 | 2022-05-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Cory Henry",
-  "num_followers": 419466,
+  "num_followers": 419551,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMDcxNDQ5ZTRjOTk1OTc2NzcwYmNkOGUwZTIyNjM0N2M2",
+  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMGQwMmU0ZWFlY2Y1NmQzMTQwMDc1NGM5MDgxNzhmNDRk",
   "tracks": [
     {
       "added_at": "2022-07-28 22:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Wish The Love Never Died",
-        "url": "https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP"
-      },
-      "artists": [
-        {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
-        }
-      ],
-      "duration_ms": 181599,
-      "name": "Wish The Love Never Died",
-      "url": "https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Wanna Love You",
         "url": "https://open.spotify.com/album/2ROfHzFMBfzgvx6IsQIgZB"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 170263,
       "name": "Wanna Love You",
       "url": "https://open.spotify.com/track/09xccZVuNwd9vP7abwZkyu"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Wish The Love Never Died",
+        "url": "https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 181599,
+      "name": "Wish The Love Never Died",
+      "url": "https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Don't Forget to Look Up",
-        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 210873,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Overflowing",
         "url": "https://open.spotify.com/album/0ilXUNsylR92wlv7dtQMzp"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 146266,
       "name": "Overflowing",
       "url": "https://open.spotify.com/track/7euLcL9UPbxVvjlQNhCDJj"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -959,42 +959,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "These Ways",
-        "url": "https://open.spotify.com/album/1BAvPtcPcurtLpH9WgCsrq"
-      },
-      "artists": [
-        {
-          "name": "Das Sound Kollektiv",
-          "url": "https://open.spotify.com/artist/2bKpcqe6vWzB9YvzoLVm2B"
-        },
-        {
-          "name": "Ntjam Rosie",
-          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
-        }
-      ],
-      "duration_ms": 235081,
-      "name": "Nothing Can Tear Us Apart",
-      "url": "https://open.spotify.com/track/7AU4jI516r2a9ZxnoCmA5k"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Vehicle - From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Operation Funk",
         "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
       },
@@ -1007,22 +971,6 @@
       "duration_ms": 276401,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Never Forget My Love",
-        "url": "https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 221173,
-      "name": "Never Forget My Love",
-      "url": "https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1043,6 +991,58 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "These Ways",
+        "url": "https://open.spotify.com/album/1BAvPtcPcurtLpH9WgCsrq"
+      },
+      "artists": [
+        {
+          "name": "Das Sound Kollektiv",
+          "url": "https://open.spotify.com/artist/2bKpcqe6vWzB9YvzoLVm2B"
+        },
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        }
+      ],
+      "duration_ms": 235081,
+      "name": "Nothing Can Tear Us Apart",
+      "url": "https://open.spotify.com/track/7AU4jI516r2a9ZxnoCmA5k"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Never Forget My Love",
+        "url": "https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 221173,
+      "name": "Never Forget My Love",
+      "url": "https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 175086,
+      "name": "Vehicle - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Last One Standing (Radio Edit)",
         "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 203589,
       "name": "Last One Standing - Radio Edit",
       "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Loving You Is Easy",
-        "url": "https://open.spotify.com/album/0pAufedG5sDBUANDnE7IAX"
-      },
-      "artists": [
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Loving You Is Easy",
-      "url": "https://open.spotify.com/track/4fARowx7Swbgt8TYaKhK2a"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+        "name": "Loving You Is Easy",
+        "url": "https://open.spotify.com/album/0pAufedG5sDBUANDnE7IAX"
       },
       "artists": [
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
         }
       ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+      "duration_ms": 209500,
+      "name": "Loving You Is Easy",
+      "url": "https://open.spotify.com/track/4fARowx7Swbgt8TYaKhK2a"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 139630,
       "name": "Here With Me (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/67JwJPsnpTB6jVwXgARZAn"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "My Favourite",
-        "url": "https://open.spotify.com/album/3yoSTA4NQDOJAVfdvLPMNA"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        }
-      ],
-      "duration_ms": 194724,
-      "name": "My Favourite",
-      "url": "https://open.spotify.com/track/4jTDyGLrDTt0nj7kjNVTaJ"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Trippin",
         "url": "https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 190438,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/6hURVOp7JtavNu11tfl912"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "My Favourite",
+        "url": "https://open.spotify.com/album/3yoSTA4NQDOJAVfdvLPMNA"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "duration_ms": 194724,
+      "name": "My Favourite",
+      "url": "https://open.spotify.com/track/4jTDyGLrDTt0nj7kjNVTaJ"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE"
-      },
-      "artists": [
-        {
-          "name": "Leela James",
-          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
-        }
-      ],
-      "duration_ms": 231592,
-      "name": "Put It On Me",
-      "url": "https://open.spotify.com/track/1nNNpSfFghv8HnWM4sOseS"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/2egh3XuO9dNyAEacxCxDD7"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 204592,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/6rpTnGgNgmWnFAU7yzZnJY"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE"
+      },
+      "artists": [
+        {
+          "name": "Leela James",
+          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
+        }
+      ],
+      "duration_ms": 231592,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/1nNNpSfFghv8HnWM4sOseS"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/0GlHeseuowxs1NOGdPm3nI"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 238577,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/3NBweAfNWhU9Zu1xDLHAR8"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1647,18 +1647,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/36CwJiqhcAgsrtnqWZizkV"
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
       "artists": [
         {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
         }
       ],
-      "duration_ms": 269709,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5LWQ5zef4xx39dIcOOeqUI"
+      "duration_ms": 291715,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1695,6 +1703,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/36CwJiqhcAgsrtnqWZizkV"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 269709,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5LWQ5zef4xx39dIcOOeqUI"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Never Forget My Love",
         "url": "https://open.spotify.com/album/2SwBlWsPDm0zPkZHAN3Lae"
       },
@@ -1707,30 +1731,6 @@
       "duration_ms": 254653,
       "name": "You're My Girl",
       "url": "https://open.spotify.com/track/6XUS2tbVCPfpn2hmMf3vy3"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        },
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        },
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        }
-      ],
-      "duration_ms": 291715,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z"
     },
     {
       "added_at": "2022-07-28 22:00:00",

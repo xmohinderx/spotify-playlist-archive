@@ -1,12 +1,12 @@
 {
   "description": "New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series. \u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 59699,
+  "num_followers": 59762,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDg2Nzg4MCwwMDAwMDAwMDg4MzQxZDNkNTVmZWQ2MjY5MjBjNGJiNTEyNTY2Nzkw",
+  "snapshot_id": "MTYxNDg2Nzg4MCwwMDAwMDAwMGUzZjRhYWFiMjU0ZDY3ZWI5N2E0MDcxOTA5YThkMDk1",
   "tracks": [
     {
       "added_at": "2021-03-04 14:24:40",
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
         }
       ],
-      "duration_ms": 234893,
-      "name": "Full Speed Ahead",
-      "url": "https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1"
+      "duration_ms": 229600,
+      "name": "Paradigm Shift",
+      "url": "https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Paradigm Shift",
-      "url": "https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem"
+      "duration_ms": 234893,
+      "name": "Full Speed Ahead",
+      "url": "https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -879,6 +879,22 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
+        "name": "Chocobo's Dungeon 2(Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB"
+      },
+      "artists": [
+        {
+          "name": "\u5ddd\u4e0a \u6cf0\u5e83",
+          "url": "https://open.spotify.com/artist/0i4WzcDJUxEP87qiDTKwj6"
+        }
+      ],
+      "duration_ms": 89973,
+      "name": "Shirma's Theme",
+      "url": "https://open.spotify.com/track/4kqGwLAACGAWsQTzyStHLk"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
         "name": "FINAL FANTASY Type-0 HD Original Soundtrack",
         "url": "https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 267000,
       "name": "The Beginning of the End",
       "url": "https://open.spotify.com/track/1GhottKACE62L2Sq24LFmW"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
-      },
-      "artists": [
-        {
-          "name": "frances maya",
-          "url": "https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Serah's Theme - Memories -",
-      "url": "https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -959,18 +959,18 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "Chocobo's Dungeon 2(Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB"
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
       },
       "artists": [
         {
-          "name": "\u5ddd\u4e0a \u6cf0\u5e83",
-          "url": "https://open.spotify.com/artist/0i4WzcDJUxEP87qiDTKwj6"
+          "name": "frances maya",
+          "url": "https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT"
         }
       ],
-      "duration_ms": 89973,
-      "name": "Shirma's Theme",
-      "url": "https://open.spotify.com/track/4kqGwLAACGAWsQTzyStHLk"
+      "duration_ms": 167613,
+      "name": "Serah's Theme - Memories -",
+      "url": "https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "FINAL FANTASY XIII Original Soundtrack",
-        "url": "https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g"
-      },
-      "artists": [
-        {
-          "name": "Sayuri Sugawara",
-          "url": "https://open.spotify.com/artist/5GpBU9V9SOJoWjZ6l1VMNa"
-        }
-      ],
-      "duration_ms": 382413,
-      "name": "Kimi ga Irukara - Long Version",
-      "url": "https://open.spotify.com/track/1imcmfDpv4X4MO2tbYxMaY"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
         "name": "FINAL FANTASY TACTICS Original Soundtrack",
         "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 157400,
       "name": "Trisection",
       "url": "https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
+        "name": "FINAL FANTASY XIII Original Soundtrack",
+        "url": "https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g"
+      },
+      "artists": [
+        {
+          "name": "Sayuri Sugawara",
+          "url": "https://open.spotify.com/artist/5GpBU9V9SOJoWjZ6l1VMNa"
+        }
+      ],
+      "duration_ms": 382413,
+      "name": "Kimi ga Irukara - Long Version",
+      "url": "https://open.spotify.com/track/1imcmfDpv4X4MO2tbYxMaY"
     },
     {
       "added_at": "2021-03-04 14:24:40",

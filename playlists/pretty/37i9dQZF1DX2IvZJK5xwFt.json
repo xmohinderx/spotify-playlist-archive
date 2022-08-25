@@ -1,12 +1,12 @@
 {
   "description": "Only the best rock in the world. Cover: M\u00e5neskin",
-  "num_followers": 114509,
+  "num_followers": 114618,
   "original_name": "Just Rock!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTI5OTA1MywwMDAwMDAwMDg3MzM0NDgxMzE0N2VlMjBjNWQ0ZDAxZmM2ZGY5YjU4",
+  "snapshot_id": "MTY2MTMxMzk5MCwwMDAwMDAwMGQzZThiMTg4MWYzNmY4N2MyNzViMzk4OTNjNmE3ODRm",
   "tracks": [
     {
       "added_at": "2022-08-11 17:00:00",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
     },
     {
-      "added_at": "2022-08-11 17:00:00",
-      "album": {
-        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
-    },
-    {
       "added_at": "2022-08-18 17:00:00",
       "album": {
         "name": "Cage",
@@ -55,6 +39,22 @@
       "duration_ms": 168669,
       "name": "Cage",
       "url": "https://open.spotify.com/track/5PRqhBkoni3TrJSUqpnyKa"
+    },
+    {
+      "added_at": "2022-08-11 17:00:00",
+      "album": {
+        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
     },
     {
       "added_at": "2022-08-18 17:00:00",
@@ -135,22 +135,6 @@
       "duration_ms": 300413,
       "name": "CORALINE",
       "url": "https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"
-    },
-    {
-      "added_at": "2022-08-18 17:00:00",
-      "album": {
-        "name": "So Long",
-        "url": "https://open.spotify.com/album/72DcA98uNwQxTP5ECaeFPu"
-      },
-      "artists": [
-        {
-          "name": "Leatherette",
-          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
-        }
-      ],
-      "duration_ms": 151623,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/38Klg16zOlVdoCcVY17pVC"
     },
     {
       "added_at": "2022-08-11 17:00:00",

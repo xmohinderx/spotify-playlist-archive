@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Phạm Nguyên Ngọc; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,453 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,467 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 26 | [Con Nhà Gia Giáo](https://open.spotify.com/track/5P6alxp1qF3z5kcARWbriK) | [Woni](https://open.spotify.com/artist/0bTZ4h4TZrOB8cHsqeW0sm), [Vy Dương](https://open.spotify.com/artist/72LLiDCylhkxp2NQnesTAE), [LUNY](https://open.spotify.com/artist/7oqfBry2GPU5vnXNH2f5Sd) | [Con Nhà Gia Giáo](https://open.spotify.com/album/7tkSorQL6ApgjHszJcZ5ie) | 4:18 |
 | 27 | [Vô Cực Nhớ Em](https://open.spotify.com/track/1WS11AeGT9BQ7nrrKHT9GS) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Vô Cực Nhớ Em](https://open.spotify.com/album/01fM98W1HGDAZRTC6YoMW7) | 4:00 |
 | 28 | [Suy Tư](https://open.spotify.com/track/4pYARIArR9kMKaxOuJbEkE) | [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [Suy Tư](https://open.spotify.com/album/5Cfj6clIxufUbTh9N9G3x1) | 3:31 |
-| 29 | [Mái Đầu Xanh](https://open.spotify.com/track/3NVfiol7PcXixaKlVIUvgQ) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB) | [Mái Đầu Xanh](https://open.spotify.com/album/7r4aSczGvspZVxg9GOtFYF) | 3:56 |
+| 29 | [Mái Đầu Xanh](https://open.spotify.com/track/3NVfiol7PcXixaKlVIUvgQ) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Kiper T](https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz) | [Mái Đầu Xanh](https://open.spotify.com/album/7r4aSczGvspZVxg9GOtFYF) | 3:56 |
 | 30 | [buông tay để làm gì](https://open.spotify.com/track/0mPRjwgebzm1k7ocnu1MGp) | [Ell.B](https://open.spotify.com/artist/5kNGTASgbyhUVaGnj0RU4M), [SimonC](https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ) | [buông tay để làm gì](https://open.spotify.com/album/0ftHP8sOQAp8dXC1mDsoZ0) | 4:28 |
 | 31 | [Đêm Đầy Sao](https://open.spotify.com/track/1c4fRHXswMWJV4PxU2wrxt) | [Flow X](https://open.spotify.com/artist/4PnACALAr2D6czajb9XKqj), [Helen](https://open.spotify.com/artist/4jXObtlQAITs69PECntRAP) | [Đêm Đầy Sao](https://open.spotify.com/album/639EeqT7L9rqFCJU09sGWQ) | 4:01 |
 | 32 | [cơn mưa hôm ấy](https://open.spotify.com/track/30fYixEFvTlBU6FXfIOdZn) | [Thái Thanh Nhàn](https://open.spotify.com/artist/0FOTQAZjUcHvp7oIsC8khc), [SinKra](https://open.spotify.com/artist/2T5dRhMqYYZCEx7zwRd9yP) | [cơn mưa hôm ấy](https://open.spotify.com/album/6zLHFlAl3ie13I6jjDPTdm) | 3:27 |

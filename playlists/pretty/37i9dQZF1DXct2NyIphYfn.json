@@ -1,12 +1,12 @@
 {
   "description": "Some of the most beautiful French love songs. ",
-  "num_followers": 52472,
+  "num_followers": 52505,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDljMWQ0YmFhNTQzNzg4ZjIwOWQzMzMyM2EzYjkxYWY1",
+  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDkyOGRmZjY1ODlkOTFlOWEwNmMwYWRhYjhlMzRmNThi",
   "tracks": [
     {
       "added_at": "2022-01-18 23:00:02",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn"
     },
     {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "Brigitte Bardot",
-        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "La madrague",
-      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
-    },
-    {
       "added_at": "2022-01-18 23:00:02",
       "album": {
         "name": "Ni rancoeur ni col\u00e8re",
@@ -635,6 +619,22 @@
       "duration_ms": 169226,
       "name": "L'amour \u00e0 la plage (with Alice on the roof)",
       "url": "https://open.spotify.com/track/0n1GxWrgNWZKfmDdpuAJUf"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/0GRKjWdbLYWnnts6LbUE43"
     },
     {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "Comme j'ai toujours envie d'aimer",
-        "url": "https://open.spotify.com/album/4zRTAGVOXT4kpqfEFjNcNH"
-      },
-      "artists": [
-        {
-          "name": "Marc Hamilton",
-          "url": "https://open.spotify.com/artist/4tSPtm10lKqc2KYps8Hslm"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "Comme j'ai toujours envie d'aimer (version 2001)",
-      "url": "https://open.spotify.com/track/5E3wkDtNAPeqMNJHwczB55"
-    },
-    {
       "added_at": "2022-01-18 23:00:02",
       "album": {
         "name": "No Place In Heaven (Special Edition)",
@@ -731,6 +715,22 @@
       "duration_ms": 206333,
       "name": "Boum Boum Boum",
       "url": "https://open.spotify.com/track/0h1yRXb0VDMH64xCsXoxaj"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Comme j'ai toujours envie d'aimer",
+        "url": "https://open.spotify.com/album/4zRTAGVOXT4kpqfEFjNcNH"
+      },
+      "artists": [
+        {
+          "name": "Marc Hamilton",
+          "url": "https://open.spotify.com/artist/4tSPtm10lKqc2KYps8Hslm"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "Comme j'ai toujours envie d'aimer (version 2001)",
+      "url": "https://open.spotify.com/track/5E3wkDtNAPeqMNJHwczB55"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Tu m'aimes-tu",
-        "url": "https://open.spotify.com/album/3FsxgvoKpBzi9jgySKoF8f"
-      },
-      "artists": [
-        {
-          "name": "Richard Desjardins",
-          "url": "https://open.spotify.com/artist/2zZ8py1CLFzH10bc2unTpn"
-        }
-      ],
-      "duration_ms": 289285,
-      "name": "Tu m'aimes-tu",
-      "url": "https://open.spotify.com/track/57perXY58eWG2ImKYyxyLJ"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "On ne change pas",
         "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 214600,
       "name": "S'il suffisait d'aimer",
       "url": "https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Tu m'aimes-tu",
+        "url": "https://open.spotify.com/album/3FsxgvoKpBzi9jgySKoF8f"
+      },
+      "artists": [
+        {
+          "name": "Richard Desjardins",
+          "url": "https://open.spotify.com/artist/2zZ8py1CLFzH10bc2unTpn"
+        }
+      ],
+      "duration_ms": 289285,
+      "name": "Tu m'aimes-tu",
+      "url": "https://open.spotify.com/track/57perXY58eWG2ImKYyxyLJ"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -911,6 +911,22 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "J'attendais",
+      "url": "https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
         "name": "La Belle Epoque - EMI's French Girls 1965-68",
         "url": "https://open.spotify.com/album/5etrwdUj5I4qj9rlGNPJR1"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 230986,
       "name": "Dis, quand reviendras-tu ?",
       "url": "https://open.spotify.com/track/69VtPeUVg5gBtaPOZWxSHC"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "J'attendais",
-      "url": "https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c"
     },
     {
       "added_at": "2022-01-18 23:00:02",

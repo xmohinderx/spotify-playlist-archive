@@ -4,7 +4,7 @@
 
 > Make room for these R&B/Soul artists on the rise! Photo: Thuy
 
-309 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+310 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Bé Bé](https://open.spotify.com/track/3oz2KZeJsrqHpEpcroZs9e) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Why Not?](https://open.spotify.com/album/0RhPi7Bz28OoKKJnnOndPe) | 2:50 | 2022-05-20 | 2022-07-16 |
 | [C.L.O.U.D.S](https://open.spotify.com/track/080R3EkXAvys9GD2aLf3wB) | [CAMP](https://open.spotify.com/artist/5WlBS3np27mk4KGGU0mONt) | [Process](https://open.spotify.com/album/3CRUA1fGG4vUqOOfdrNoDe) | 2:59 | 2022-03-11 | 2022-05-07 |
 | [Caliber](https://open.spotify.com/track/1Okha0BLoXlC6iXrIWLVFk) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Caliber](https://open.spotify.com/album/0zwvnPJUZqs4nlSieXuM8X) | 3:02 | 2022-03-25 |  |
-| [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 | 2022-06-03 |  |
+| [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 | 2022-06-03 | 2022-08-25 |
+| [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 | 2022-06-03 |  |
 | [Call Me](https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Call Me](https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb) | 3:06 | 2022-07-01 |  |
 | [Call On Me](https://open.spotify.com/track/1m8aLC8QjGPK4ZZPraw7BE) | [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb) | [Call On Me](https://open.spotify.com/album/0lBeSg0kqvdbMpEgVhjI83) | 2:15 | 2022-05-06 | 2022-07-10 |
 | [Can We Talk?](https://open.spotify.com/track/0kIfgyxCSBueXYMLpS8j0I) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [Devvon Terrell](https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH) | [Can We Talk?](https://open.spotify.com/album/4kFnBcn3BoAH98AgkoNTdf) | 2:25 | 2022-07-22 | 2022-08-13 |

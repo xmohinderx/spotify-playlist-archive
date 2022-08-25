@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: EST Gee
 
-372 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
+373 songs - 17 hr 51 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [DO NOT KNOW YOU](https://open.spotify.com/track/7uVNWO2CAqAnGWDm9ipczc) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [DO NOT KNOW YOU](https://open.spotify.com/album/5O4I4RUSGTurL6VKPCMeJJ) | 2:00 | 2022-07-15 | 2022-07-30 |
 | [Doja](https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Doja](https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o) | 2:51 | 2022-02-04 | 2022-03-26 |
 | [Don't Get Hit](https://open.spotify.com/track/1egaPOAa20HfQaaueGlmzK) | [VV$ KEN](https://open.spotify.com/artist/2FelUywHDci70FpLOHGghU), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Don't Get Hit](https://open.spotify.com/album/2DkdMqF3c9vjelvdoAFrsB) | 3:23 | 2022-02-04 | 2022-03-26 |
-| [Don't Look At Numbers \- Lost Kids Edition](https://open.spotify.com/track/5CfWNBwDYZfurQCrQUzWa7) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Lost Kids Edition\)](https://open.spotify.com/album/63nYWwU4DroL9w3eXbRwB2) | 3:37 | 2022-08-19 |  |
+| [Don't Look At Numbers \- Lost Kids Edition](https://open.spotify.com/track/5CfWNBwDYZfurQCrQUzWa7) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Lost Kids Edition\)](https://open.spotify.com/album/63nYWwU4DroL9w3eXbRwB2) | 3:37 | 2022-08-19 | 2022-08-25 |
+| [Don't Look At Numbers \- Remix](https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Remix\)](https://open.spotify.com/album/0mHLJmZeGCgDW4yh4M4MdO) | 3:37 | 2022-08-19 |  |
 | [Don't Miss](https://open.spotify.com/track/4lR5He1ObQeQ1immUSL8oW) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Don't Miss](https://open.spotify.com/album/5STr775eXjmZqssJIYBQCd) | 3:06 | 2022-01-28 | 2022-02-12 |
 | [Drop Shit](https://open.spotify.com/track/416XBAqBQECEjtMS8dlPQM) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Drop Shit](https://open.spotify.com/album/56WJxTl9A4F6Sr5ibUsW0g) | 3:19 | 2021-12-17 | 2022-01-29 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-06 | 2022-06-11 |

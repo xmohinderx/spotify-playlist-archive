@@ -1,28 +1,44 @@
 {
-  "description": "is grandma's EP in the room with us right now ",
-  "num_followers": 929046,
+  "description": "because a little left of center is best. cover: grandma ",
+  "num_followers": 929158,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyNTIxNiwwMDAwMDAwMDBjZDMwYzUxZjYwMmNmNDg5NjQzYThiYWUzY2UzZWE5",
+  "snapshot_id": "MTY2MTM3ODU0MCwwMDAwMDAwMGE5MTE4N2FmNmUyMGMwMzc4ZDQ3NDM2YjIwMmIzY2Ix",
   "tracks": [
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-24 19:01:53",
       "album": {
-        "name": "Angelhood",
-        "url": "https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
       },
       "artists": [
         {
-          "name": "grandma",
-          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 193200,
-      "name": "soft-glow",
-      "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
+    },
+    {
+      "added_at": "2022-08-24 22:02:20",
+      "album": {
+        "name": "All You Do",
+        "url": "https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 268374,
+      "name": "All You Do",
+      "url": "https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -41,24 +57,36 @@
       "url": "https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId"
     },
     {
-      "added_at": "2022-08-18 15:56:09",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Shotgun (Magdalena Bay Remix)",
-        "url": "https://open.spotify.com/album/1ADuxT0WV9GAkcEdtNJxCB"
+        "name": "Angelhood",
+        "url": "https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        },
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "grandma",
+          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
         }
       ],
-      "duration_ms": 239864,
-      "name": "Shotgun - Magdalena Bay Remix",
-      "url": "https://open.spotify.com/track/5m4EJmInvHQJ1wvPx2Qs36"
+      "duration_ms": 193200,
+      "name": "soft-glow",
+      "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
+    },
+    {
+      "added_at": "2022-08-24 19:01:53",
+      "album": {
+        "name": "Before Dawn",
+        "url": "https://open.spotify.com/album/1yXSX2NYq0beXees0O5EXg"
+      },
+      "artists": [
+        {
+          "name": "Unflirt",
+          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
+        }
+      ],
+      "duration_ms": 257614,
+      "name": "Before Dawn",
+      "url": "https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4"
     },
     {
       "added_at": "2022-08-18 17:28:11",
@@ -157,22 +185,6 @@
       "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
     },
     {
-      "added_at": "2022-08-17 20:15:52",
-      "album": {
-        "name": "Surfer Girl (Remastered)",
-        "url": "https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 148533,
-      "name": "Surfer Girl - Remastered 2001",
-      "url": "https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Picture in my mind",
@@ -239,6 +251,26 @@
       "duration_ms": 258818,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/4jr4dG2kr1A5iQHX6s9C0q"
+    },
+    {
+      "added_at": "2022-08-18 15:56:09",
+      "album": {
+        "name": "Shotgun (Magdalena Bay Remix)",
+        "url": "https://open.spotify.com/album/1ADuxT0WV9GAkcEdtNJxCB"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        },
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 239864,
+      "name": "Shotgun - Magdalena Bay Remix",
+      "url": "https://open.spotify.com/track/5m4EJmInvHQJ1wvPx2Qs36"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -719,22 +751,6 @@
       "duration_ms": 164500,
       "name": "Favors",
       "url": "https://open.spotify.com/track/1BBZlU3fsvpVRiwLO16Aoe"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Turnham Green",
-        "url": "https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Turnham Green",
-      "url": "https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW"
     },
     {
       "added_at": "2022-07-15 12:08:06",
@@ -1259,22 +1275,6 @@
       "duration_ms": 192000,
       "name": "Wait for Something Better",
       "url": "https://open.spotify.com/track/1I9CYgnoP99PAgTqkPPO4o"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "MY DREAM",
-        "url": "https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
-        }
-      ],
-      "duration_ms": 215132,
-      "name": "MY DREAM",
-      "url": "https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6"
     },
     {
       "added_at": "2022-06-03 04:00:00",

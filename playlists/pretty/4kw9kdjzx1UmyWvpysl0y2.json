@@ -6,8 +6,24 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU4OSwwOWU2NzI2YmI3OWM2NzQ2NzI3ODM4NTE4ZDhlODE3MmJkNTI5ODZi",
+  "snapshot_id": "MzU5MSw2ZWM4OGJlMmY3NTVmOGE0ZTIxYmZlY2ZmODY4NzgzYzRlNmNlMjIx",
   "tracks": [
+    {
+      "added_at": "2022-08-24 16:41:39",
+      "album": {
+        "name": "Falling Off",
+        "url": "https://open.spotify.com/album/78xun5sbV7gLxfc2bRMz1L"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Falling Off",
+      "url": "https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au"
+    },
     {
       "added_at": "2022-08-23 16:50:44",
       "album": {
@@ -1107,30 +1123,6 @@
       "duration_ms": 176051,
       "name": "Falling Apart - Acoustic",
       "url": "https://open.spotify.com/track/5hdxWJkiBKH6STOH7na5zB"
-    },
-    {
-      "added_at": "2022-06-13 15:23:44",
-      "album": {
-        "name": "Subliminal (Even the Ghosts are Laughing)",
-        "url": "https://open.spotify.com/album/1lKKwA4RJ6xoOomuiOQ7EB"
-      },
-      "artists": [
-        {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
-        },
-        {
-          "name": "CRaymak",
-          "url": "https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm"
-        },
-        {
-          "name": "AFTERMYFALL",
-          "url": "https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK"
-        }
-      ],
-      "duration_ms": 318428,
-      "name": "Subliminal (Even the Ghosts are Laughing)",
-      "url": "https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Stefflon Don, Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,684 likes - 96 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,739 likes - 96 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 11 | [SPETA](https://open.spotify.com/track/7f9YEwrmfVGHkmZP72Py9l) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [SPETA](https://open.spotify.com/album/2HOXUFzQ5fEtnCuYlJyzUL) | 2:52 |
 | 12 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 |
 | 13 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 |
-| 14 | [Sweet One \(with Verbb\)](https://open.spotify.com/track/1IJr2iSVIayK6coEJRUPUO) | [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd) | [Sweet One \(with Verbb\)](https://open.spotify.com/album/78y891HPIrNnSixK5sPQtD) | 3:27 |
+| 14 | [Sweet One](https://open.spotify.com/track/1IJr2iSVIayK6coEJRUPUO) | [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd), [Verbb](https://open.spotify.com/artist/5W54k3Jf0X9uBRCdW8EEXO) | [Sweet One](https://open.spotify.com/album/78y891HPIrNnSixK5sPQtD) | 3:27 |
 | 15 | [PRETTY SUIT](https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [OUT:SIDE](https://open.spotify.com/album/3rPlEhJ2xkEM1zqrYczjzn) | 2:48 |
 | 16 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 |
 | 17 | [Be Mine](https://open.spotify.com/track/6s7My7fMOhYiAl3XGhr4vp) | [Bvg Boi Jay](https://open.spotify.com/artist/3kT1Y27lqDx35NbU1jGR5J), [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Be Mine](https://open.spotify.com/album/6DQgQrSLYTat76WqutBPUI) | 3:45 |

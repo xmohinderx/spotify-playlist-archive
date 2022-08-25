@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,909 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,945 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 61 | [Nos Matamos](https://open.spotify.com/track/1CzOTrHcKV9nJov0wQytlA) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Nos Matamos](https://open.spotify.com/album/38rKm1PY26o3u2Q7GXDJLV) | 4:30 |
 | 62 | [Magnum](https://open.spotify.com/track/5fDMDKHhVCpUmAvTPJrYNh) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:02 |
 | 63 | [AL CAPONE](https://open.spotify.com/track/4igzqj5TrceDGrJcZYM0pl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [AL CAPONE](https://open.spotify.com/album/3iYh7Zx5MpbgVttrY0JBaC) | 2:42 |
-| 64 | [Paz y Bendiciones](https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Proyecto Z](https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ) | 3:19 |
-| 65 | [Santa Diabla](https://open.spotify.com/track/2xeOY98taPuzh6XZWVKiKK) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Santa Diabla](https://open.spotify.com/album/4bUKgMoGPN3i7Z6ea3sU76) | 4:43 |
+| 64 | [Santa Diabla](https://open.spotify.com/track/2xeOY98taPuzh6XZWVKiKK) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Santa Diabla](https://open.spotify.com/album/4bUKgMoGPN3i7Z6ea3sU76) | 4:43 |
+| 65 | [Paz y Bendiciones](https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Proyecto Z](https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ) | 3:19 |
 | 66 | [Jangueo](https://open.spotify.com/track/6mgNiJ6pJS5SwvqxhEiMHj) | [Arkey\-O](https://open.spotify.com/artist/4IiSkchFzuQDd1Y5gOQozC), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Jangueo](https://open.spotify.com/album/5IlQPzzI4ighOkZCiCWwmi) | 3:32 |
 | 67 | [Tu Favorito](https://open.spotify.com/track/3eqxzZ4BIGeyvmqbg49LFe) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Tu Favorito](https://open.spotify.com/album/5VoWV7iYUp5SbfiELfpARp) | 3:06 |
 | 68 | [Puerto Rican Mami](https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Puerto Rican Mami](https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy) | 3:19 |
 | 69 | [Tranquiland \- Remix](https://open.spotify.com/track/0Rz577RvXWx6lREwNYVeD4) | [SuperJavi](https://open.spotify.com/artist/767xdXp2KQvncNCEs0efDx), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa) | [Hasta los Marcian](https://open.spotify.com/album/0rCApGMrGvLEnDKnH9269A) | 6:20 |
 | 70 | [Philliecito](https://open.spotify.com/track/0oWjcsqU11f12QCUSIHiI5) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Philliecito](https://open.spotify.com/album/73SIbYRDMPhMpu90ecbm7D) | 4:11 |
 
-Snapshot ID: `MTY2MDc2MDY4MiwwMDAwMDAwMGY5ZDk4M2JkZGY4MDg3OTE3OWRlOGIzM2VkNTg3YzY5`
+Snapshot ID: `MTY2MDc2MDY4MiwwMDAwMDAwMGY2MDVlNzZkMjY5M2U0ZGU5M2MxOTFhNGM3Y2Y5ZmNi`

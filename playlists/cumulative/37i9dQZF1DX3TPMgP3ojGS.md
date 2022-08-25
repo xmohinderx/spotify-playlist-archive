@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,516 songs - 2 day 20 hr 43 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,517 songs - 2 day 20 hr 46 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,7 @@
 | [Epenthesis](https://open.spotify.com/track/1n4aWKep4lJeeDMkmkfJav) | [Lauren Hawley](https://open.spotify.com/artist/5UDWPRjs2Qvdp65nqY3f2r) | [Epenthesis](https://open.spotify.com/album/0aH8bPdKkSPIAyTGi7mM3D) | 2:51 | 2021-03-17 | 2022-07-29 |
 | [Episode](https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 2:30 | 2021-03-07 | 2021-05-25 |
 | [Erin's Waltz](https://open.spotify.com/track/7CzyIeMXvK2BFc9rc6wqJf) | [Per Magnusson](https://open.spotify.com/artist/6r9azAnNoGhtJ4ljPU4a2U) | [Erin's Waltz](https://open.spotify.com/album/3mAciq9EYfuFTLUVarqP6L) | 3:17 | 2021-03-11 | 2022-04-17 |
-| [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2022-03-29 |  |
+| [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2022-03-29 | 2022-08-25 |
 | [Ernestine](https://open.spotify.com/track/21EkhHVDKtaHawLN4NVwxG) | [Daniel Daecher](https://open.spotify.com/artist/10m0FXVWKgzBLEJteDQN41) | [Ernestine](https://open.spotify.com/album/2DHWxYznTTDXMKoeiimKO1) | 2:49 | 2021-03-21 | 2022-04-10 |
 | [Escaping Reality](https://open.spotify.com/track/7yMHwH6DywcjlVhTWtjlvs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Escaping Reality](https://open.spotify.com/album/0fBSqtlGo2gheiYkSZqdjV) | 3:02 | 2021-03-10 | 2022-04-15 |
 | [Eselsbrücke](https://open.spotify.com/track/230vejrWpxzH8YQmEQZS3K) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Eselsbrücke](https://open.spotify.com/album/7kGv4jUzQ3yus7kMOsqbzi) | 2:21 | 2022-04-14 | 2022-04-19 |
@@ -525,6 +525,7 @@
 | [Guarda](https://open.spotify.com/track/55pNaqKviMlFxtBbqWCMqH) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 1:38 | 2021-03-20 | 2022-04-07 |
 | [Guiding Light](https://open.spotify.com/track/1yifgXa6NhUmUayr78flWm) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Guiding Light](https://open.spotify.com/album/020aZCrrAmqQQ7TIobHAZN) | 2:10 | 2021-03-06\* | 2022-04-08 |
 | [Habito](https://open.spotify.com/track/48v3esP9iVCc7HBX0zGKpk) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Habito](https://open.spotify.com/album/2iDCKPyudOHhPufR4rC9BF) | 3:32 | 2021-11-14 | 2022-07-29 |
+| [Halcyon](https://open.spotify.com/track/7nEWerH9vQDQ1wNoH8J3K6) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Halcyon](https://open.spotify.com/album/5XudyMlsXOobZTCBPmqzB8) | 2:30 | 2022-08-17 |  |
 | [Halcyon](https://open.spotify.com/track/2PEiFFvNyMykLb2wxnvBfv) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Halcyon & Safe Havens](https://open.spotify.com/album/0nl8ijx6L3t2QVaA05GLCp) | 3:02 | 2022-04-12 | 2022-04-18 |
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2022-03-15 | 2022-05-14 |
 | [Harbinger](https://open.spotify.com/track/1VJFcuWEwolF6y5fS1J98x) | [Global Hum](https://open.spotify.com/artist/3lifXuRT69XpJuFvuml4iu) | [Harbinger](https://open.spotify.com/album/36gPNCQYHXSHGpl5FQ2GnC) | 2:49 | 2021-09-25 | 2022-04-01 |

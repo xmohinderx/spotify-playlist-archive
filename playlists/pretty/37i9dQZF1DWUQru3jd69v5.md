@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: Icy Subzero
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,082 likes - 45 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,100 likes - 45 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

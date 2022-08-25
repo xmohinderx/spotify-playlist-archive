@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-207 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
+208 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Bédi Beat](https://open.spotify.com/track/7qaYhfTkekBcIm8q9Mewjd) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:20 | 2022-07-22 |  |
 | [Cafuné](https://open.spotify.com/track/2nWJnSQDPD3ZnzgZ7rdQM4) | [Igor Liberato](https://open.spotify.com/artist/55HEu5rWRxthkFWt05pi2d) | [Gato](https://open.spotify.com/album/6MPbNNSaRG040qbYEXxIGC) | 3:23 | 2022-02-04 | 2022-07-29 |
 | [Café Com Leite](https://open.spotify.com/track/1OriutnwFLClBgWMYJIKEg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Café Com Leite](https://open.spotify.com/album/5EGAwvjPxPFutIi3R5c88v) | 4:22 | 2022-03-22 | 2022-04-15 |
-| [Caju](https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:02 | 2022-02-04 |  |
+| [Caju](https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:02 | 2022-02-04 | 2022-08-25 |
 | [Calafrio](https://open.spotify.com/track/33sjMToZ0G476SJIixKWG5) | [Califrê](https://open.spotify.com/artist/515mPwX4bpcVcTEZYKGVkg) | [Calafrio](https://open.spotify.com/album/3XXSRPhUUZrzuMddjWVCYF) | 3:47 | 2022-04-01 | 2022-07-09 |
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2022-02-04 |  |
 | [Cansar De Dançar](https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Cansar De Dançar](https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK) | 2:37 | 2022-05-06 |  |
@@ -115,6 +115,7 @@
 | [Lá Vem os Homens](https://open.spotify.com/track/6h1C2xxnuSkmlERRD0AyYC) | [Rabo de Galo](https://open.spotify.com/artist/24ZoZillGXp904OBleohIj), [Ubunto](https://open.spotify.com/artist/5jCuYiMEooO3wIxXhzCquh), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Ainda Atrás do Pôr do Sol](https://open.spotify.com/album/6LrYdWiPIT35E4wk11pPKd) | 3:56 | 2022-03-14 | 2022-07-20 |
 | [Maceió](https://open.spotify.com/track/30sg1pdAXLKpKvrrQOaF9z) | [Túlio](https://open.spotify.com/artist/1hQUeaDm4mZ5lMHlg82TiD) | [Maceió](https://open.spotify.com/album/7ePrwAIxXvhV9Id9Wia836) | 3:03 | 2022-02-04 | 2022-07-29 |
 | [Mais de Nós](https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Mais de Nós](https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC) | 2:54 | 2022-02-04 |  |
+| [Mais Uma de Carnaval](https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [O Funk Mais Triste da Cidade](https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs) | 2:50 | 2022-08-19 |  |
 | [Mais uma de Carnaval](https://open.spotify.com/track/6k8PAIzeAC6wcyaptR2j1B) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [Mais uma de Carnaval](https://open.spotify.com/album/7m6keRuXSLhirRhf4PHQq3) | 2:50 | 2022-02-04 | 2022-07-27 |
 | [Mantra \(Feat\. Emicida\)](https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 4:54 | 2022-02-04 |  |
 | [Masculino e Feminino](https://open.spotify.com/track/6VBHnaEuCH37LFsFjtdrTl) | [Baby Do Brasil](https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls), [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Masculino e Feminino](https://open.spotify.com/album/1Q39jXJ5DrFtBbim0HqxOb) | 4:21 | 2022-04-08 | 2022-07-25 |

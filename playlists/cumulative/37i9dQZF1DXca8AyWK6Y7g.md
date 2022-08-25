@@ -4,7 +4,7 @@
 
 > living life in your 250 sq ft micro apt\. Cover: Hailee Steinfeld
 
-1,235 songs - 2 day 15 hr 56 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,236 songs - 2 day 15 hr 58 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-01 |  |
 | [asshole](https://open.spotify.com/track/5XF5930PecOpR4E60wmkK8) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [asshole](https://open.spotify.com/album/4Ne1eeeJkUdQ45hGlmtW87) | 2:36 | 2021-03-20 | 2021-05-28 |
 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 | 2021-03-07 | 2021-10-10 |
-| [Athena](https://open.spotify.com/track/7GgO1gxHBjmnMGTkv5RlKX) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Athena](https://open.spotify.com/album/1u6z7qZdHPtBF4eKGMA5Z9) | 3:58 | 2022-08-01 |  |
+| [Athena](https://open.spotify.com/track/7GgO1gxHBjmnMGTkv5RlKX) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Athena](https://open.spotify.com/album/1u6z7qZdHPtBF4eKGMA5Z9) | 3:58 | 2022-08-01 | 2022-08-25 |
 | [Automatic Driver \- Tyler, The Creator Remix](https://open.spotify.com/track/59S3SiDxj914oyXd25zt3j) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Automatic Driver \(Tyler, The Creator Remix\)](https://open.spotify.com/album/57PHygGtLqa9kJRE3rUy15) | 3:30 | 2021-02-26 | 2021-07-31 |
 | [autumn](https://open.spotify.com/track/6MaZfHpY4EbxiLcEoZMjtO) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [autumn](https://open.spotify.com/album/2prJ7eqFdaGHq95cJdDjzj) | 2:47 | 2021-02-22 | 2021-12-04 |
 | [avoiding](https://open.spotify.com/track/33n7ILhPNDsTjksq15o4qJ) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [avoiding](https://open.spotify.com/album/2O8CTOf7Urxw9curxCraoY) | 4:07 | 2019-07-27 | 2020-04-15 |
@@ -724,7 +724,7 @@
 | [Misunderstood](https://open.spotify.com/track/3WCazNGYD5CuKY4a3iE5Y0) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Misunderstood](https://open.spotify.com/album/64zLsMCveMzRStFqhg4rkH) | 2:57 | 2021-05-08 | 2021-11-20 |
 | [Model Student](https://open.spotify.com/track/0io3G1JEQNfmjZnsu6h3nw) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Model Student](https://open.spotify.com/album/3A6RPevX8tKIQKjT53vQiL) | 2:44 | 2019-05-26\* | 2019-09-14 |
 | [Modern Animal](https://open.spotify.com/track/5CHJ1Rnx7hAjabV9VEngVs) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Modern Animal](https://open.spotify.com/album/19YTne3weLY8M3oUmi2YCr) | 4:20 | 2019-06-27 | 2020-02-19 |
-| [Mom Jeans](https://open.spotify.com/track/4Q2ccX0e7grpqZal3OuTuX) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Mom Jeans](https://open.spotify.com/album/6a2gZjOyZD9Qg8SaLKLbtt) | 1:59 | 2022-07-19 |  |
+| [Mom Jeans](https://open.spotify.com/track/4Q2ccX0e7grpqZal3OuTuX) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Mom Jeans](https://open.spotify.com/album/6a2gZjOyZD9Qg8SaLKLbtt) | 1:59 | 2022-07-19 | 2022-08-25 |
 | [Mommy Issues](https://open.spotify.com/track/1Wijb40j4KaoASJ3S5peRl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Mommy Issues](https://open.spotify.com/album/1bH2Fwvfe1b6qC11rt2Ihd) | 2:49 | 2022-03-18 | 2022-04-21 |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-03-26 |
 | [Money](https://open.spotify.com/track/7dW77OTAuGxwlz4QDHUFUa) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Money / Sleeping In](https://open.spotify.com/album/5oGDO55PqgzbHBu4Z7CJQY) | 3:10 | 2019-09-06 | 2021-03-20 |
@@ -1137,7 +1137,7 @@
 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-04-08 | 2022-05-07 |
 | [Treehouse](https://open.spotify.com/track/2H9f4gzQxCzTf8mHtNnpBd) | [More Giraffes](https://open.spotify.com/artist/1SKIyebAAhyPaaFp4x1Vp0) | [Treehouse](https://open.spotify.com/album/3pxdWDr2Mt6v16blV8DNwm) | 2:52 | 2019-09-06 | 2020-03-16 |
 | [TROJAN HORSE](https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [TROJAN HORSE](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB) | 4:26 | 2021-03-07 | 2021-10-16 |
-| [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 | 2022-04-22 | 2022-08-22 |
+| [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 | 2022-04-22 |  |
 | [Trophy](https://open.spotify.com/track/5igLTHeeq84I50vFL4ZS2j) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/3DcH7VLRiXxiuWu91XjJy7) | 2:40 | 2022-04-22 | 2022-04-29 |
 | [Trust Issues](https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/45yZQnazJjAbDlJyIkGEQ9) | 2:20 | 2022-08-19 |  |
 | [try to try](https://open.spotify.com/track/3NkEARkGgDV2i8AWiyctQt) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [try to try](https://open.spotify.com/album/43mYpwbwMHnpDMpLQFiDqJ) | 2:16 | 2021-04-17 | 2021-11-20 |
@@ -1222,6 +1222,7 @@
 | [Winter's Coming](https://open.spotify.com/track/2aOrJTA8AUVWPBjSB4negX) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Winter's Coming](https://open.spotify.com/album/2eZcgp7ogQushYjwFegmmi) | 2:55 | 2021-07-16 | 2022-01-22 |
 | [wish we never happened](https://open.spotify.com/track/5c9DWtkq7J4mwsTrUZXqoZ) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [wish we never happened](https://open.spotify.com/album/2XqBbRJa4AbY9z9vnqjNwz) | 3:04 | 2022-07-22 |  |
 | [Wish You the Worst](https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/3CJXPqgGd9igKie4C0YyiJ) | 2:23 | 2022-05-20 | 2022-08-19 |
+| [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 | 2022-05-20 |  |
 | [With You With Me](https://open.spotify.com/track/3Y0rnBBAxCWab8Y8CsayUg) | [YUMI](https://open.spotify.com/artist/3xZnNKEKJLFSv7kP7NdWj5) | [With You With Me](https://open.spotify.com/album/2tOCOjZOZltoT7eRcoUErx) | 3:51 | 2019-05-26\* | 2019-08-13 |
 | [WITHOUT ME](https://open.spotify.com/track/07U3HKqYqyeSM1PTCnaqlM) | [Robokid](https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3) | [WITHOUT ME](https://open.spotify.com/album/1IOwyKItig1kQXSHAX8X5J) | 2:57 | 2021-10-10 | 2021-10-11 |
 | [Wolves](https://open.spotify.com/track/5Agqr1d0H8GGQXZ9WHNvWL) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Wolves](https://open.spotify.com/album/4Wqj1ArIoMgCER5EKZYr1h) | 3:37 | 2022-07-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with some upbeat party jazz.",
-  "num_followers": 10901,
+  "num_followers": 10933,
   "original_name": "Party Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDczMDMwOSwwMDAwMDAwMDQ1NjMzZTVmOWEwNTAxYzRiMzBhZmI4ZWFlNzkzYmJi",
+  "snapshot_id": "MTY2MDczMDMwOSwwMDAwMDAwMGI4MTUwOWQzNjE0YWM4MDZmNzhlY2Y1MmNhZTkyYmQ0",
   "tracks": [
     {
       "added_at": "2022-08-17 09:58:29",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
+        "name": "Rollin' With Leo (Remastered)",
+        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
+      },
+      "artists": [
+        {
+          "name": "Leo Parker",
+          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
+        }
+      ],
+      "duration_ms": 294906,
+      "name": "The Lion's Roar - Remastered",
+      "url": "https://open.spotify.com/track/33gArMdTPHENYZFGLyGDXg"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
         "name": "More Blues And The Abstract Truth",
         "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 139133,
       "name": "The Critic's Choice",
       "url": "https://open.spotify.com/track/67cJY01l5qsL6ckW0OgyHK"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
-        "name": "Rollin' With Leo (Remastered)",
-        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
-      },
-      "artists": [
-        {
-          "name": "Leo Parker",
-          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
-        }
-      ],
-      "duration_ms": 294906,
-      "name": "The Lion's Roar - Remastered",
-      "url": "https://open.spotify.com/track/33gArMdTPHENYZFGLyGDXg"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
-        }
-      ],
-      "duration_ms": 487720,
-      "name": "Groovesville",
-      "url": "https://open.spotify.com/track/6lUzqx7U1Ll4ddwqFwL3lK"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
         "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 530840,
       "name": "Blues Up And Down",
       "url": "https://open.spotify.com/track/22IK0azgagib3S51e9AIOF"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+        }
+      ],
+      "duration_ms": 487720,
+      "name": "Groovesville",
+      "url": "https://open.spotify.com/track/6lUzqx7U1Ll4ddwqFwL3lK"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Look Out! (Remastered)",
-        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 376800,
-      "name": "Tin Tin Deo - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1ppOQ5KApUrYgFzc9kAENZ"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Time To Swing",
         "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 105880,
       "name": "The Best Thing For You",
       "url": "https://open.spotify.com/track/1yjzd95OQScmbSEiq8wv3Z"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Look Out! (Remastered)",
+        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 376800,
+      "name": "Tin Tin Deo - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1ppOQ5KApUrYgFzc9kAENZ"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Jubilee Shout!!!",
-        "url": "https://open.spotify.com/album/2CGSc6ZbHcGWjWYl07KCd4"
+        "name": "The New Boss Guitar",
+        "url": "https://open.spotify.com/album/2QXUodUhkZtTbIrN4FNmB5"
       },
       "artists": [
         {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 332386,
-      "name": "You Said It",
-      "url": "https://open.spotify.com/track/4W38vgh0XfXD19ZCfB9t6J"
+      "duration_ms": 277173,
+      "name": "The Sweet Alice Blues",
+      "url": "https://open.spotify.com/track/5ln0JF17xZud7mxqoFOrY9"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1451,22 +1451,6 @@
       "duration_ms": 376933,
       "name": "Jodie's Cha Cha",
       "url": "https://open.spotify.com/track/4ZVApZkVB7D0hYWfrGHXeb"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
-        "name": "The New Boss Guitar",
-        "url": "https://open.spotify.com/album/2QXUodUhkZtTbIrN4FNmB5"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "The Sweet Alice Blues",
-      "url": "https://open.spotify.com/track/5ln0JF17xZud7mxqoFOrY9"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1535,22 +1519,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Sonic Boom",
-        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 347133,
-      "name": "Sneaky Pete",
-      "url": "https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "A Jazz Message",
         "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
       },
@@ -1563,6 +1531,22 @@
       "duration_ms": 306533,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/4WfkGjSphCIt0bGUUqWdrX"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Jubilee Shout!!!",
+        "url": "https://open.spotify.com/album/2CGSc6ZbHcGWjWYl07KCd4"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 332386,
+      "name": "You Said It",
+      "url": "https://open.spotify.com/track/4W38vgh0XfXD19ZCfB9t6J"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1631,30 +1615,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Hank Mobley With Donald Byrd And Lee Morgan",
-        "url": "https://open.spotify.com/album/5GWLy8xqPwGP3VPZFNqNuT"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        },
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        },
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 682866,
-      "name": "Barrel Of Funk",
-      "url": "https://open.spotify.com/track/6VNKBFvnIP1BJdXSGnYpKP"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "The Hard Swing",
         "url": "https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz"
       },
@@ -1667,6 +1627,22 @@
       "duration_ms": 275520,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/6DaExxnrF56oEF0qHR3Izl"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 347133,
+      "name": "Sneaky Pete",
+      "url": "https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1699,6 +1675,22 @@
       "duration_ms": 344013,
       "name": "Move - Remastered 2006 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2R7C1RjOxwXW7gI4QQPZEA"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "The Congregation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 387653,
+      "name": "Latin Quarter - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/7L83qErlLHeb6n1CR9lqXk"
     },
     {
       "added_at": "2022-08-17 09:58:29",

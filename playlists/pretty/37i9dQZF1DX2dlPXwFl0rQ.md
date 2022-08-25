@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Janely Rosa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,573 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,610 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 70 | [La Que Sigue de Mi](https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:15 |
 | 71 | [Say Something](https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Say Something](https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm) | 3:33 |
 | 72 | [Siempre Vuelvo Contigo](https://open.spotify.com/track/5lWViFRs52ZHJr8LK6fOb5) | [Rocio Reyna](https://open.spotify.com/artist/35IdmDZL2acYsC86sLEUbK) | [Siempre Vuelvo A Ti](https://open.spotify.com/album/2dIhh5rHaiCNx3OZGIG35w) | 3:02 |
-| 73 | [Perdóname](https://open.spotify.com/track/0VGHUbRgbbiMNcsE5QErKG) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Perdóname](https://open.spotify.com/album/70k3vqW5xmIMhKMzSRzG1a) | 2:24 |
+| 73 | [Ya Viví El Desamor](https://open.spotify.com/track/5SZcsfj451HOgs3GYxOHgj) | [La Martita](https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz) | [Ya Viví El Desamor](https://open.spotify.com/album/54rgpyfRluG3hRXR7CQdPi) | 1:41 |
 | 74 | [Lo Mal Que Me Trataste](https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Cinco Razones](https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ) | 3:40 |
-| 75 | [Ya Viví El Desamor](https://open.spotify.com/track/5SZcsfj451HOgs3GYxOHgj) | [La Martita](https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz) | [Ya Viví El Desamor](https://open.spotify.com/album/54rgpyfRluG3hRXR7CQdPi) | 1:41 |
+| 75 | [Perdóname](https://open.spotify.com/track/0VGHUbRgbbiMNcsE5QErKG) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Perdóname](https://open.spotify.com/album/70k3vqW5xmIMhKMzSRzG1a) | 2:24 |
 | 76 | [No Te Dejes Engañar](https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Dejes Engañar](https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME) | 3:13 |
 | 77 | [De Ti No Lo Esperaba](https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [De Ti No Lo Esperaba](https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0) | 3:13 |
 | 78 | [Ojalá Que No Puedas](https://open.spotify.com/track/2KtO9NfY8sY3gJyEKdUhFr) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [No Le Lloro A Cabrones](https://open.spotify.com/album/1yb6Tix7xyNRTrWOqEGgqc) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 | 100 | [Cielo Rojo \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/4oEEJNX2pRZGS9AYhHPATV) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 4:18 |
 
-Snapshot ID: `MTY1OTA3NDkzMCwwMDAwMDAwMDI1NTYyODgxNjJlMmMxZDI0ZmQ1YjhlYjY5NTIyODUw`
+Snapshot ID: `MTY1OTA3NDkzMCwwMDAwMDAwMDFiODQ1OTAwODg4YzI2NmViMDQwNGQzMjdlMzIyYjYw`

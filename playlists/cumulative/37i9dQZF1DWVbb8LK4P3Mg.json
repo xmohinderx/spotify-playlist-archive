@@ -2530,6 +2530,28 @@
     },
     {
       "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/1dK8iMaUFTMEHmRfcwb2zi"
+      },
+      "artists": [
+        {
+          "name": "The Barberettes",
+          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
+        },
+        {
+          "name": "GB9",
+          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212352,
+      "name": "White Blanket (feat. Gilgu Bongu)",
+      "url": "https://open.spotify.com/track/7GXU0kLoZmYq1fFoDfxGtm"
+    },
+    {
+      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/5dAGDyJZlGs5q734ZoVQYM"
       },
@@ -2649,7 +2671,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 199708,
       "name": "Winter Wind",
       "url": "https://open.spotify.com/track/7LO6Xn1lEEWAcMAFyJL0Jw"

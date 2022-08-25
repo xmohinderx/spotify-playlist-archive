@@ -1,12 +1,12 @@
 {
   "description": "Female-identifying only tunes, with some of  <a href=\u201cspotify:artist:5rZUNweztKBI1Xy3XhYHoJ\u201d>Danielle Ponder's</a> personal picks. Cover: Danielle Ponder",
-  "num_followers": 19845,
+  "num_followers": 19853,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1MTYxNywwMDAwMDAwMDViMGZhMjZlZGY0NTQyZDY5YzUyYzM1NGNkNTFiZTEx",
+  "snapshot_id": "MTY2MDI1MTYxNywwMDAwMDAwMDVkNDc0ZTU4ZTkxOGRmN2VkOTU5YmU1YTI1NmViZWY5",
   "tracks": [
     {
       "added_at": "2022-08-03 04:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Post Party Trauma",
-        "url": "https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Post Party Trauma",
-      "url": "https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 201541,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Post Party Trauma",
+        "url": "https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Post Party Trauma",
+      "url": "https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb"
-      },
-      "artists": [
-        {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
-        }
-      ],
-      "duration_ms": 186685,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Direct Me",
         "url": "https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "firstborn",
-        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb"
       },
       "artists": [
         {
-          "name": "Nicolle Galyon",
-          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
         }
       ],
-      "duration_ms": 192008,
-      "name": "tendencies.",
-      "url": "https://open.spotify.com/track/6AIAtvZ7dBr06SmhrPRTSQ"
+      "duration_ms": 186685,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 208941,
       "name": "Waste Your Time",
       "url": "https://open.spotify.com/track/7yw9BW04q6sVQ2VkI67rIa"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "firstborn",
+        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "duration_ms": 192008,
+      "name": "tendencies.",
+      "url": "https://open.spotify.com/track/6AIAtvZ7dBr06SmhrPRTSQ"
     },
     {
       "added_at": "2022-08-03 04:00:00",

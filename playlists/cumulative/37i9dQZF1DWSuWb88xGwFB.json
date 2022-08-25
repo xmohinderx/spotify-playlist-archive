@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 377773,
       "name": "Give A Little Love - Photon's Deep Vocal Mix",
       "url": "https://open.spotify.com/track/6xIov8kouD1IwbquXX1tYF"
@@ -1072,24 +1072,6 @@
     },
     {
       "album": {
-        "name": "Morel's Grooves (Pt. 4)",
-        "url": "https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A"
-      },
-      "artists": [
-        {
-          "name": "George Morel",
-          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
-        }
-      ],
-      "date_added": "2022-03-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 417336,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq"
-    },
-    {
-      "album": {
         "name": "Morel's Grooves 4",
         "url": "https://open.spotify.com/album/5ngw90ZPnAE2l689ayRWQb"
       },
@@ -1105,6 +1087,24 @@
       "duration_ms": 417466,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/0DJMpeEsZqOhkS7rrNu694"
+    },
+    {
+      "album": {
+        "name": "Morel's Grooves (Pt. 4)",
+        "url": "https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A"
+      },
+      "artists": [
+        {
+          "name": "George Morel",
+          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417466,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq"
     },
     {
       "album": {
@@ -1257,6 +1257,28 @@
       "duration_ms": 938546,
       "name": "Master Blaster (Turn It Up)",
       "url": "https://open.spotify.com/track/2J03eGRK7Ns3OpBUFhGXbw"
+    },
+    {
+      "album": {
+        "name": "Move Your Body (feat. LaVette) [Mixes]",
+        "url": "https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH"
+      },
+      "artists": [
+        {
+          "name": "Chicago Syndicate",
+          "url": "https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK"
+        },
+        {
+          "name": "LaVette",
+          "url": "https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228238,
+      "name": "Move Your Body (feat. LaVette) - Radio Mix",
+      "url": "https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > The hits of tomorrow are on Spotify today\. Cover: Jax
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,642,930 likes - 87 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,644,082 likes - 87 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Alternative electronic gems\. Cover: Dusky
 
-397 songs - 1 day 5 hr 39 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+398 songs - 1 day 5 hr 45 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2021-11-24\* | 2022-02-26 |
 | [Avalanche](https://open.spotify.com/track/2ZqYiWW6yqG1vjjOyR6LE6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Avalanche](https://open.spotify.com/album/1XAmPzzpxTCnowBOyiNf5X) | 5:24 | 2022-04-22 | 2022-07-15 |
 | [AZD SURF](https://open.spotify.com/track/15RXHgm7esKYvPcHGTelUI) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [AZD SURF](https://open.spotify.com/album/4vorYlWcWYeKPGIf1OIFUR) | 4:11 | 2022-08-04 |  |
-| [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/6WQ4c9jQ6MWXav30bqlGir) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) / Move To The](https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR) | 5:57 | 2022-06-23 |  |
+| [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/6WQ4c9jQ6MWXav30bqlGir) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) / Move To The](https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR) | 5:57 | 2022-06-23 | 2022-08-25 |
+| [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 | 2022-08-19 |  |
 | [Baby, We're Ascending \- Edit](https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz) | 4:12 | 2022-05-06 | 2022-07-29 |
 | [Baby, We're Ascending \- Edit](https://open.spotify.com/track/381kpaTALpjSXdzfUoFU20) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/5C2OE4duZUCuR4EEahyUPT) | 4:12 | 2022-07-28 |  |
 | [Back Tae Ayr](https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Back Tae Ayr](https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27) | 5:32 | 2021-11-24\* | 2022-02-12 |

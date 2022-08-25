@@ -4,7 +4,7 @@
 
 > next gen pop cover: Bella Poarch
 
-1,078 songs - 2 day 4 hr 20 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,079 songs - 2 day 4 hr 23 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-03-31 | 2022-07-09 |
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-08 | 2021-08-14 |
 | [AT LEAST I'M GOOD AT IT](https://open.spotify.com/track/1KrLtIuOgZ1QiIxBqGb4NF) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [AT LEAST I'M GOOD AT IT](https://open.spotify.com/album/3ALTi5aB725LhPjGikjG4Z) | 2:28 | 2022-04-22 | 2022-07-23 |
+| [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-24 |  |
 | [Baby Blue](https://open.spotify.com/track/4FSIfpGQEdJsLXIbufqvOo) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [When Facing the Things We Turn Away From](https://open.spotify.com/album/5T1HI88OceUlUExSsAM3GQ) | 3:43 | 2021-08-14 | 2021-10-09 |
 | [Baby Why](https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Baby Why](https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu) | 2:44 | 2022-07-29 | 2022-08-13 |
 | [baby4u](https://open.spotify.com/track/2vs1BE8VC5NRm2IKjxFNOn) | [georgee](https://open.spotify.com/artist/27RSBwbjahAvMQOP2aoqSs) | [baby4u](https://open.spotify.com/album/5S78UC3LUcxnj1UXGGdngj) | 2:29 | 2021-07-31 | 2021-08-21 |

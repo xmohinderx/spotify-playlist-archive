@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: カネヨリマサル \(Kaneyorimasaru\)
 
-541 songs - 1 day 10 hr 55 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+542 songs - 1 day 10 hr 58 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [I AM](https://open.spotify.com/track/67H1KwP0HfDMXVjPQCaU7a) | [synker](https://open.spotify.com/artist/5bLY5Gyf91l2LyW7FNkAWe) | [I AM](https://open.spotify.com/album/4BJVyDhj2eTQZiaB1ZfndJ) | 5:47 | 2022-06-14 | 2022-06-22 |
 | [i care](https://open.spotify.com/track/0IBP1gSpcGwj5ohApd2gqa) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [i care](https://open.spotify.com/album/31CPw73XmVhdQJzjkZrNMD) | 4:24 | 2022-05-26 | 2022-07-29 |
 | [I Want Your Love feat.MAINAMIND](https://open.spotify.com/track/36WG4mSwY4IRDjOf7W9Rw8) | [いちろー](https://open.spotify.com/artist/6idpgGJuJlaFZsNLsmXCQ4), [MAINAMIND](https://open.spotify.com/artist/0Wb9L1Td4VaESjo37vN9z4) | [I Want Your Love feat.MAINAMIND](https://open.spotify.com/album/09AxYNKiKcBOrfLmIDOf89) | 3:35 | 2022-06-21 | 2022-06-24 |
-| [I was](https://open.spotify.com/track/446kz2FTk5LGJm4CwXYbaT) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [I was](https://open.spotify.com/album/3OKX8cZpn4wI4qgkwWoBmt) | 3:26 | 2022-08-23 |  |
+| [I was](https://open.spotify.com/track/446kz2FTk5LGJm4CwXYbaT) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [I was](https://open.spotify.com/album/3OKX8cZpn4wI4qgkwWoBmt) | 3:26 | 2022-08-23 | 2022-08-25 |
+| [I was](https://open.spotify.com/track/7t1vX4bSTlw830w6j17Um0) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [I was](https://open.spotify.com/album/7IHhcmqk7OOgrl2LHIkCcQ) | 3:26 | 2022-08-23 |  |
 | [I'm Sure](https://open.spotify.com/track/5du5ogPoLZjOBHxyrSCEHL) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [I'm sure](https://open.spotify.com/album/7jJlrOPsCrLHoZvZ0eVrcn) | 2:46 | 2022-05-26 | 2022-07-14 |
 | [I.B.U](https://open.spotify.com/track/56tm9FNBbxDrBxMb6anX04) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [I.B.U](https://open.spotify.com/album/722JwCrXNMAFJBSrUzqtfp) | 3:28 | 2022-06-07 | 2022-06-09 |
 | [Ideals](https://open.spotify.com/track/0m0XrQzGh9sjDIJYL0CXJx) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [Ideals](https://open.spotify.com/album/70ENwTNE8LEAUN4KHAIgi2) | 2:55 | 2022-05-26 | 2022-06-07 |

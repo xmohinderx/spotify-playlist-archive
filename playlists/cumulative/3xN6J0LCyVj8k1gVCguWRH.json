@@ -5178,6 +5178,24 @@
     },
     {
       "album": {
+        "name": "Chasing",
+        "url": "https://open.spotify.com/album/3mNWyf9QBXfnuXJCYeImt1"
+      },
+      "artists": [
+        {
+          "name": "EMY",
+          "url": "https://open.spotify.com/artist/60fG6DGeN38kRBsBaokPNG"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "Chasing",
+      "url": "https://open.spotify.com/track/7sGKEO3p8Bcr83ije4BoFK"
+    },
+    {
+      "album": {
         "name": "Checkin In",
         "url": "https://open.spotify.com/album/18ZKLVz0rYc9FQYLpGyiNl"
       },

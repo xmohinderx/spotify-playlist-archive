@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,704 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,710 likes - 75 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 8 | [Elegia \- 2015 Remaster](https://open.spotify.com/track/2Xs7CP4Gw8wJ8qX8fkrCAB) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Low\-Life](https://open.spotify.com/album/6ls958BLJbeFT3OqAYTvQB) | 4:56 |
 | 9 | [Do Matter](https://open.spotify.com/track/6ZQ3XvLBrmwnoNFtU0c2X5) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [The Digging Remedy](https://open.spotify.com/album/0UoUjQNjDBpBGsuTpIEIz4) | 3:40 |
 | 10 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
-| 11 | [you must wake](https://open.spotify.com/track/7JTrxeaS7ejzDsQdUeP1w0) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU), [The Focus Group](https://open.spotify.com/artist/1rBMmvtO1VqLH4kSpe5oaU) | [Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age](https://open.spotify.com/album/43Y7JtQBJlB8wwMypodS6S) | 1:35 |
+| 11 | [Flux](https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Flux](https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR) | 1:41 |
 | 12 | [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 |
 | 13 | [A World Of Madness](https://open.spotify.com/track/2GMeVXL0JQFLmAIJJa8K2n) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:47 |
 | 14 | [Woven Planet](https://open.spotify.com/track/4ijTCzm7YXnjRWCE2x3UTV) | [Craig Padilla](https://open.spotify.com/artist/5lloFkGFSO4m4XAgOpTAg1) | [Below the Mountain](https://open.spotify.com/album/0moWiLCjBdOtMSLk9YjAb4) | 4:50 |
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 32 | [Gemini](https://open.spotify.com/track/3FrhNWIcRxrPFFcqFernIp) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:56 |
 | 33 | [In McDonalds](https://open.spotify.com/track/0WxZZUJuDXZlxfrWaqp1DG) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 2:07 |
 | 34 | [The Experience Of Swimming \- 2003 Digital Remaster](https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Gentlemen Take Polaroids](https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW) | 4:04 |
-| 35 | [Now Night Her Course Began](https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE) | [Sephiroth](https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo) | [Draconian Poetry](https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp) | 9:03 |
+| 35 | [Ones Atop the Unknown](https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Onyx](https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS) | 5:37 |
 | 36 | [Exile on Ærø](https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(II\)](https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG) | 4:25 |
-| 37 | [Silent Messenger](https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF) | [Desiderii Marginis](https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX) | [Procession](https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV) | 7:35 |
+| 37 | [Now Night Her Course Began](https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE) | [Sephiroth](https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo) | [Draconian Poetry](https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp) | 9:03 |
 | 38 | [\#4](https://open.spotify.com/track/0FxUnU4EjDoDGRiFuVjyBH) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:39 |
-| 39 | [Ones Atop the Unknown](https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Onyx](https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS) | 5:37 |
+| 39 | [Silent Messenger](https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF) | [Desiderii Marginis](https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX) | [Procession](https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV) | 7:35 |
 | 40 | [The Price of Failure](https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [I Am the Night](https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd) | 6:21 |
 | 41 | [A Curved Blade](https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [Void](https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj) | 6:03 |
-| 42 | [Delia Derbyshire](https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1) | 6:10 |
-| 43 | [A Room Between the Rooms](https://open.spotify.com/track/6aAfkcsiO7rerTy6kHJ6V4) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [The Starwheel](https://open.spotify.com/album/5Dh3rhalDH2MPXTS2yhIOG) | 6:33 |
+| 42 | [A Room Between the Rooms](https://open.spotify.com/track/6aAfkcsiO7rerTy6kHJ6V4) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [The Starwheel](https://open.spotify.com/album/5Dh3rhalDH2MPXTS2yhIOG) | 6:33 |
+| 43 | [Delia Derbyshire](https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1) | 6:10 |
 | 44 | [Babel](https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7) | [The Word as Power](https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy) | 10:01 |
 | 45 | [Neon Dawn](https://open.spotify.com/track/0YJLN3gnRNoPJ2S9FEpSPV) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Dreamrider](https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V) | 5:22 |
 | 46 | [Sick Times](https://open.spotify.com/track/3smDJCcylq9ghblaXmslo8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:16 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 71 | [Ambulance Chase](https://open.spotify.com/track/7mOxAfHsYo0SsmPhVKEWVD) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 2:58 |
 | 72 | [Sticks and Stones](https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:02 |
 | 73 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |
-| 74 | [Day 20 \- I Made It](https://open.spotify.com/track/6BT0wAaIh0lIuwlzSlIV9y) | [Thomas Barrandon](https://open.spotify.com/artist/5HaHjEOMBZBDiMXP7Wz1Zr) | [Tin Can](https://open.spotify.com/album/1lIg6bQCZihDmxs83MUsrd) | 4:17 |
-| 75 | [Slipping Away \(In a Dream\)](https://open.spotify.com/track/7puJT8Dq180XAnVWs0wLAA) | [Don](https://open.spotify.com/artist/2ldH4h3nkIuOio5BW1KWUs) | [Distanced](https://open.spotify.com/album/19EnpeDNAmXtZrSnMBPcc8) | 1:31 |
+| 74 | [you must wake](https://open.spotify.com/track/7JTrxeaS7ejzDsQdUeP1w0) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU), [The Focus Group](https://open.spotify.com/artist/1rBMmvtO1VqLH4kSpe5oaU) | [Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age](https://open.spotify.com/album/43Y7JtQBJlB8wwMypodS6S) | 1:35 |
+| 75 | [Day 20 \- I Made It](https://open.spotify.com/track/6BT0wAaIh0lIuwlzSlIV9y) | [Thomas Barrandon](https://open.spotify.com/artist/5HaHjEOMBZBDiMXP7Wz1Zr) | [Tin Can](https://open.spotify.com/album/1lIg6bQCZihDmxs83MUsrd) | 4:17 |
 
-Snapshot ID: `MTY1Nzg2MTY0NCwwMDAwMDAwMGQ5NmUxZDc0NTQzNzcwNDM0Y2YyZjAxMWY3ZDIwNDdj`
+Snapshot ID: `MTY2MTMwNTEwOSwwMDAwMDAwMGU5OWY1NDU2ZDFkYmVjNTMxYzQ4MDY2NDIxMTNjYzMw`

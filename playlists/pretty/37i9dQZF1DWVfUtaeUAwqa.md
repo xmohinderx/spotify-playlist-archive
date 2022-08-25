@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,111 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,114 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 14 | [Ballin' The Jack](https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [The Fabulous Sidney Bechet](https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS) | 3:52 |
 | 15 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 |
 | 16 | [Bill Bailey, Won't You Please Come Home?](https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [The Al Hirt Collection](https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp) | 3:30 |
-| 17 | [By and By](https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb) | [Turk Murphy](https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM) | [Favorites](https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES) | 3:00 |
-| 18 | [South Rampart Street Parade](https://open.spotify.com/track/1iz1K5LJL5FpXAUGXNAIQE) | [Bob Crosby & His Orchestra](https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4) | [South Rampart Street Parade](https://open.spotify.com/album/6ZlaNBrehRvuDtOb9mXVG1) | 3:33 |
+| 17 | [South Rampart Street Parade](https://open.spotify.com/track/1iz1K5LJL5FpXAUGXNAIQE) | [Bob Crosby & His Orchestra](https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4) | [South Rampart Street Parade](https://open.spotify.com/album/6ZlaNBrehRvuDtOb9mXVG1) | 3:33 |
+| 18 | [By and By](https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb) | [Turk Murphy](https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM) | [Favorites](https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES) | 3:00 |
 | 19 | [Struttin' with Some Barbecue \- 78 rpm Version](https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 2](https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v) | 3:03 |
 | 20 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [New Orleans Preservation, Vol\. 1](https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd) | 4:26 |
 | 21 | [Maple Leaf Rag](https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf) | [Sidney Bechet and his New Orleans Feetwarmers](https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5) | [The Essential Sidney Bechet](https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA) | 2:53 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Dixie](https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP) | [Billy Randolph](https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF), [The High Hatters](https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u) | [Roaring' 20's](https://open.spotify.com/album/6yGyFKhtYmeatToldl421e) | 3:02 |
 | 55 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
 
-Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMGQwZmVmNWZlYzE4Zjg4NWIzYmM4MDM1ZWRjNThiMGQ0`
+Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMDQxMDdhMDZlOTc0Mzk3OTkzNzk2NTA2YzM0NmRlYTk4`

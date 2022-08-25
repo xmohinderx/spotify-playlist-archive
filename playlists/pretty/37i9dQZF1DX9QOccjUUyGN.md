@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Nanno, Budah, CALIFFA
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,422 likes - 69 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,444 likes - 69 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 4 | [Ontem](https://open.spotify.com/track/4ub33dXwwV4pSLMsfy8wqv) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Ontem](https://open.spotify.com/album/1fM60WYCiwVdzItKBMQxrJ) | 2:43 |
 | 5 | [Não Sai da Minha Mente \(feat\. Lionel\)](https://open.spotify.com/track/10BAfuVOPB5C1ed1ZQCfkq) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA) | [Não Sai da Minha Mente \(feat\. Lionel\)](https://open.spotify.com/album/5qpJt1uCoons7XTDQXp29Q) | 3:10 |
 | 6 | [Nada Sério](https://open.spotify.com/track/4vdiQFF7p9GxeM08YB1Mym) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Errijorge](https://open.spotify.com/artist/5qIaSdndIosiPsZOmkHipG), [Maquiny](https://open.spotify.com/artist/0ixIqccVXNU45qPhq3kWex) | [Nada Sério](https://open.spotify.com/album/795iA4zmp650r0Bc5LgdtB) | 3:09 |
-| 7 | [O Tempo Voou](https://open.spotify.com/track/4texMzdORevp7zRklcZCwG) | [M4rlon](https://open.spotify.com/artist/1Uu98iQHQCWgky5Cwv02JU), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Knust](https://open.spotify.com/artist/5LWcLFra02j03larKtWmlX), [7Segundos](https://open.spotify.com/artist/0Eg199So7jitEYDoYWx7zB) | [O Tempo Voou](https://open.spotify.com/album/6WHQoRJQH8XB0NMqtC6DcY) | 3:44 |
+| 7 | [O Tempo Voou](https://open.spotify.com/track/4texMzdORevp7zRklcZCwG) | [M4rlon](https://open.spotify.com/artist/1Uu98iQHQCWgky5Cwv02JU), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [7Segundos](https://open.spotify.com/artist/0Eg199So7jitEYDoYWx7zB) | [O Tempo Voou](https://open.spotify.com/album/6WHQoRJQH8XB0NMqtC6DcY) | 3:44 |
 | 8 | [Não fiz só por mim](https://open.spotify.com/track/0IlaOJtwoeprlNwrke0wYc) | [Apollo](https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6) | [Não fiz só por mim](https://open.spotify.com/album/2AsrM9S5Zme59BsbOuCp4E) | 2:32 |
 | 9 | [Brisa](https://open.spotify.com/track/6tZFMedApXkYV3mtrkmawN) | [Eltin](https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq), [Zion Lab](https://open.spotify.com/artist/24CySMbwkbaCkVEplcXNDN), [Duace](https://open.spotify.com/artist/2SsXx3dW4xOoDQ1TxOCE4S) | [Brisa](https://open.spotify.com/album/0PzDO7w9X2c5xuFRSzXVef) | 3:31 |
 | 10 | [Romântico](https://open.spotify.com/track/55n7iMgbpJXlRPniqv47An) | [M4 Music](https://open.spotify.com/artist/5LwBAQySQWohBYpVgbrOUV) | [Romântico](https://open.spotify.com/album/0xhkr5CbzcWp6jfjYFMx5A) | 3:24 |

@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 226543,
+  "num_followers": 226641,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDI2NGJiOWIxMTNlYTBkNTM1MTNjZjIwN2UxNWM0MjNh",
+  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMGRmZTRkN2JhNjVkM2ZlZWU4ZjlmN2VlMmU0MDhhZGQ1",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -639,6 +639,26 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "You Cannot Be Stopped",
+        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "You Cannot Be Stopped",
+      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Housefires + Friends (Live)",
         "url": "https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 477513,
       "name": "Lift You High - Live",
       "url": "https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "You Cannot Be Stopped",
-        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "You Cannot Be Stopped",
-      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Fire in My Bones",
-        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
+        "name": "Even The Impossible (Live)",
+        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Fire in My Bones",
-      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+      "duration_ms": 290133,
+      "name": "Even The Impossible - Live",
+      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Even The Impossible (Live)",
-        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
+        "name": "Fire in My Bones",
+        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
       },
       "artists": [
         {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
         }
       ],
-      "duration_ms": 290133,
-      "name": "Even The Impossible - Live",
-      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
+      "duration_ms": 272000,
+      "name": "Fire in My Bones",
+      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 266620,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "The Songs We Sing",
         "url": "https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD"
       },
@@ -1379,18 +1395,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Insatiable",
-        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
+        "name": "Miracles (Studio Version)",
+        "url": "https://open.spotify.com/album/69QFZTaRSOvyEsVREdUxaa"
       },
       "artists": [
         {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
         }
       ],
-      "duration_ms": 266620,
-      "name": "Insatiable",
-      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
+      "duration_ms": 319293,
+      "name": "Miracles - Studio Version",
+      "url": "https://open.spotify.com/track/5QL5pIVHYuewm4G3gsjE1j"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1415,26 +1435,6 @@
       "duration_ms": 225876,
       "name": "Awake My Soul (With Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/31hmy3Djo43cIjZptFN5xs"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Miracles (Studio Version)",
-        "url": "https://open.spotify.com/album/69QFZTaRSOvyEsVREdUxaa"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 319293,
-      "name": "Miracles - Studio Version",
-      "url": "https://open.spotify.com/track/5QL5pIVHYuewm4G3gsjE1j"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Better Word (Live)",
-        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+        "name": "A Thousand More",
+        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
       },
       "artists": [
         {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
         }
       ],
-      "duration_ms": 351213,
-      "name": "Inhabit - Live",
-      "url": "https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd"
+      "duration_ms": 359710,
+      "name": "A Thousand More - Live",
+      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "A Thousand More",
-        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
+        "name": "Better Word (Live)",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
       },
       "artists": [
         {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
         }
       ],
-      "duration_ms": 359710,
-      "name": "A Thousand More - Live",
-      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
+      "duration_ms": 351213,
+      "name": "Inhabit - Live",
+      "url": "https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "I Stand Here",
+      "url": "https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Love Makes Us Strong (Live)",
         "url": "https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 448719,
       "name": "Jesus, You're Beautiful (Live)",
       "url": "https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "I Stand Here",
-      "url": "https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd"
     },
     {
       "added_at": "2020-06-26 04:02:00",

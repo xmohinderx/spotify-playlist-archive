@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: CARSTN &amp; GoldFish
 
-220 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+221 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Wish It Was You](https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Wish It Was You](https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb) | 3:12 | 2022-06-09 |  |
 | [Won't Forget You \- Edit](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2022-06-09 |  |
 | [Wounded](https://open.spotify.com/track/3NQ2JBHK5OAzblu8z5KUVj) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Wounded](https://open.spotify.com/album/7xZ0s3f04T77DRVHJFtfjP) | 3:11 | 2022-06-09 |  |
+| [Yes or No](https://open.spotify.com/track/2rqTZrpsqlbzIz3wQ7s2Q1) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Yes or No](https://open.spotify.com/album/7ckpPsScRSsxRcMDoEAwL2) | 2:55 | 2022-08-24 |  |
 | [You Can't Stop Me](https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [You Can't Stop Me](https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf) | 3:09 | 2022-08-18 |  |
 | [You Got Me Calling](https://open.spotify.com/track/0DE977kfUvSfnPtwl8P9t3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [You Got Me Calling](https://open.spotify.com/album/63IP36b0gsQzP3S8hAUvY4) | 2:39 | 2022-06-09 |  |
 | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421) | 4:13 | 2022-06-09 | 2022-07-22 |

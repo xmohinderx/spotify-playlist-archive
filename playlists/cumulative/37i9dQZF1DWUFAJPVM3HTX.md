@@ -4,7 +4,7 @@
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Annahstasia
 
-623 songs - 1 day 8 hr 53 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+624 songs - 1 day 8 hr 56 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 1:56 | 2022-03-11 | 2022-05-27 |
 | [Bé Bé](https://open.spotify.com/track/3oz2KZeJsrqHpEpcroZs9e) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Why Not?](https://open.spotify.com/album/0RhPi7Bz28OoKKJnnOndPe) | 2:50 | 2022-05-26 | 2022-07-02 |
 | [C.L.O.U.D.S](https://open.spotify.com/track/080R3EkXAvys9GD2aLf3wB) | [CAMP](https://open.spotify.com/artist/5WlBS3np27mk4KGGU0mONt) | [Process](https://open.spotify.com/album/3CRUA1fGG4vUqOOfdrNoDe) | 2:59 | 2022-03-11 | 2022-05-12 |
-| [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 | 2022-06-02 |  |
+| [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 | 2022-06-02 | 2022-08-25 |
+| [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 | 2022-06-02 |  |
 | [Call Me](https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Call Me](https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb) | 3:06 | 2022-07-01 | 2022-08-20 |
 | [call me](https://open.spotify.com/track/08LM7R14M7xXvi7KJcF3WS) | [Tatianna Maenza](https://open.spotify.com/artist/66yAasJrE9lxWvbqIXDF3K) | [call me](https://open.spotify.com/album/6uUlEbUkTNxw324AZBhIbB) | 3:13 | 2022-02-23 | 2022-03-24 |
 | [Call On Me](https://open.spotify.com/track/1m8aLC8QjGPK4ZZPraw7BE) | [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb) | [Call On Me](https://open.spotify.com/album/0lBeSg0kqvdbMpEgVhjI83) | 2:15 | 2022-05-04 | 2022-07-02 |

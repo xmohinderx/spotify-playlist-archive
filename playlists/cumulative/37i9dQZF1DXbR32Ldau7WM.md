@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: 9mm Parabellum Bullet
 
-295 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+298 songs - 19 hr 48 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [I feel free](https://open.spotify.com/track/291g88i6GvDEZjMRGRtaEA) | [Michiya Haruhata](https://open.spotify.com/artist/6B3JbWQ1eamId6N5y09gzg), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [I feel free](https://open.spotify.com/album/1MwejdU3E2kxJ9BeeHNIvv) | 4:03 | 2022-05-12 | 2022-07-21 |
 | [Imagine](https://open.spotify.com/track/7oRBCFo22NQjZxzhUCFq78) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [Imagine](https://open.spotify.com/album/1MZJ05fQaeiw1hjoVi8MUW) | 3:48 | 2022-05-10 | 2022-07-17 |
 | [In The Sun](https://open.spotify.com/track/6k7NdIO13fOUQIKlG0rDF0) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [In The Sun](https://open.spotify.com/album/0i1IFwKiJhNCctxSfn6UKv) | 3:40 | 2022-05-12 | 2022-06-21 |
+| [In Your Pocket](https://open.spotify.com/track/7zVLnfbwom5vEHhHfNjv8c) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Rilakkuma's Theme Park Adventure Original Soundtrack \(NETFLIX SERIES\)](https://open.spotify.com/album/0dtLFEATqgCBNRVrrneqj0) | 5:39 | 2022-08-23 |  |
 | [Is It Too Late?](https://open.spotify.com/track/2hIkxugVJfPd8FjXzLpOrt) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Is It Too Late?](https://open.spotify.com/album/2HbIJbRXMAsMLvKaESkrli) | 3:50 | 2022-05-12 |  |
 | [ISOLATION](https://open.spotify.com/track/0dr8G20Tls20sjfHdX10x0) | [SKYE](https://open.spotify.com/artist/49sJZCQvc3KN6s9VCMnbUa) | [ISOLATION / Dear M](https://open.spotify.com/album/4vpCa6WiJAStwqwI93kXgF) | 3:08 | 2022-05-17 | 2022-05-19 |
 | [It's not too late](https://open.spotify.com/track/6msygryLZFEN7Fw7laGcAA) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [It's not too late](https://open.spotify.com/album/03Dx5bwpehJewD0236CHfe) | 4:33 | 2022-07-19 | 2022-07-27 |
@@ -84,6 +85,7 @@
 | [KABUKI](https://open.spotify.com/track/1kwYacRt7TdEyoWWIRdpbK) | [Jam Fuzz Kid](https://open.spotify.com/artist/6GQODml23klZ80TrKLUOfv) | [KABUKI](https://open.spotify.com/album/3ftXHTshutmnvZa20VSAjh) | 3:25 | 2022-06-14 | 2022-06-20 |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-31 |  |
 | [KARMA](https://open.spotify.com/track/4DIVVUgITYlu9P2tzzUUcN) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [KARMA](https://open.spotify.com/album/01LOAVkFBEV0p1GuH5mc8L) | 4:05 | 2022-05-12 | 2022-07-22 |
+| [Kyo no Tsuzuki o](https://open.spotify.com/track/3GUxnsyhw0sBlHB5w0Y01o) | [Scoobie Do](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/7g8uOemIk4xT5HqaKEtPX5) | 3:32 | 2022-08-23 |  |
 | [LET JERRY ROLL](https://open.spotify.com/track/0JZktsU7GvVhhvbmmcqA7Y) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [LET JERRY ROLL](https://open.spotify.com/album/2p65OHZz45jCO2lTAhMlUE) | 3:23 | 2022-05-12 | 2022-07-26 |
 | [Live or Die](https://open.spotify.com/track/6I1eiMvVLb4xS5TgSdfa2O) | [RIZE](https://open.spotify.com/artist/36wyiJipzsPL3IHMe7JzPX) | [Live or Die](https://open.spotify.com/album/4a4v5WK42X49fBKtWcUtpE) | 2:57 | 2022-06-14 | 2022-06-20 |
 | [Lonely Girl, Dreaming Girl](https://open.spotify.com/track/6oHJLXkgQIlpoTD0vMbX0r) | [PORTABLE ROCK](https://open.spotify.com/artist/1vKnlXAnuztfdvpAsZ3yDg) | [Lonely Girl, Dreaming Girl](https://open.spotify.com/album/6TaeLymFoZzPRnxBgSzkSy) | 3:43 | 2022-05-10 | 2022-05-18 |
@@ -147,7 +149,8 @@
 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 | 2022-07-26 |  |
 | [Talk To You \- Prototype PGM Ver](https://open.spotify.com/track/1xDQCYeYMobil20w3vVyPH) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [MILAD \#2](https://open.spotify.com/album/4n9vbVhcs7u64Hcz10NgRu) | 2:58 | 2022-05-31 | 2022-06-02 |
 | [TATSUMAKI](https://open.spotify.com/track/6ecdsPGuG6q1j5JLX9TWsl) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ABANDONSYSTEM\_\_ \(Your Voice Edition\)](https://open.spotify.com/album/3wfb79DFElCAaEztckudhl) | 4:13 | 2022-05-19 | 2022-06-21 |
-| [Tear Down](https://open.spotify.com/track/2XMkoCqatTSUnpLmyOdQ4Q) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Tear Down](https://open.spotify.com/album/6EfehHNU5IdlduY7lX9QZU) | 3:52 | 2022-08-23 |  |
+| [Tear Down](https://open.spotify.com/track/03gSWDA9k6VJD6IJRMVjyB) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Tear Down](https://open.spotify.com/album/1vpH5sFlWAf0JnXEhsDWkt) | 3:52 | 2022-08-23 |  |
+| [Tear Down](https://open.spotify.com/track/2XMkoCqatTSUnpLmyOdQ4Q) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Tear Down](https://open.spotify.com/album/6EfehHNU5IdlduY7lX9QZU) | 3:52 | 2022-08-23 | 2022-08-25 |
 | [THE GREAT ESCAPE](https://open.spotify.com/track/529hG2KRGHFeZoVg9fe20G) | [トライセラトップス](https://open.spotify.com/artist/00J5DWQel4eH9qQnDS6qrn) | [THE GREAT ESCAPE](https://open.spotify.com/album/5KXP25lpqzX9MZ7xIG3CBn) | 3:46 | 2022-05-19 | 2022-06-09 |
 | [The Perfume of Sins \(Radio Edit Ver.\)](https://open.spotify.com/track/30iV9AL1mSkP1j9vKe4li7) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [The Perfume of Sins \(Radio Edit Ver.\)](https://open.spotify.com/album/1BQkjRsbHYI1tlPWzuzlww) | 3:19 | 2022-06-14 | 2022-07-06 |
 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 | 2022-05-10 | 2022-06-17 |
@@ -222,7 +225,7 @@
 | [プログレッシブ](https://open.spotify.com/track/10v3G61N0AiAdSKH9r3h7m) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [YF 下](https://open.spotify.com/album/2K5jyDDqgCrrdZgsLps6Pl) | 3:44 | 2022-05-19 | 2022-06-10 |
 | [ペンペン](https://open.spotify.com/track/30AYmvC7pCwHKJZFnPE0Mp) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [ペンペン](https://open.spotify.com/album/4KvWjVts1YRnAB3CrXVOyw) | 4:21 | 2022-07-05 | 2022-07-13 |
 | [ボクだけのもの](https://open.spotify.com/track/1aCb1rBREFcEg2AxohiDT5) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ボクだけのもの](https://open.spotify.com/album/5CbGQF3FSum5qLoyhzncSX) | 6:28 | 2022-05-12 | 2022-06-17 |
-| [ポケットの中](https://open.spotify.com/track/4ujFJVwK2M8c8SblmNlpv0) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [リラックマと遊園地 オリジナル・サウンドトラック \(NETFLIXシリーズ\)](https://open.spotify.com/album/5HvNkX9xldX0mO6ioV5LPN) | 5:39 | 2022-08-23 |  |
+| [ポケットの中](https://open.spotify.com/track/4ujFJVwK2M8c8SblmNlpv0) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [リラックマと遊園地 オリジナル・サウンドトラック \(NETFLIXシリーズ\)](https://open.spotify.com/album/5HvNkX9xldX0mO6ioV5LPN) | 5:39 | 2022-08-23 | 2022-08-25 |
 | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/track/4WhjnX6kLVNQb7MwnZcdfJ) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [にゃん北朝時代](https://open.spotify.com/artist/42ANsGZCydh06cNyDJTZHf) | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/album/1BXP1xh1EFU9sMJRsHY9on) | 4:36 | 2022-05-10 | 2022-07-29 |
 | [ユートピア](https://open.spotify.com/track/1ZDfoPSqnc8MR9Nm745oeq) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [ユートピア](https://open.spotify.com/album/1s56BN4GPeE76OX7QavXxO) | 3:39 | 2022-05-12 | 2022-07-29 |
 | [ラブソングが聴こえる](https://open.spotify.com/track/55ZWVNxqbjlnBWax4MpTcD) | [浅井健一＆THE INTERCHANGE KILLS](https://open.spotify.com/artist/7xCHsljGzMqjkBfUFWYSKr) | [ラブソングが聴こえる](https://open.spotify.com/album/7z6xNJ50H3nSIQ78oH096n) | 3:41 | 2022-05-10 | 2022-06-22 |
@@ -230,7 +233,7 @@
 | [三叉路のふたり](https://open.spotify.com/track/2dxI9SqqEO00D4RyHeCKEz) | [Moonriders](https://open.spotify.com/artist/01o8KYRik9Eb3RbAm4T2hh) | [It's the moooonriders](https://open.spotify.com/album/0S2eED52dbq75kYgRghQuc) | 2:56 | 2022-05-12 | 2022-05-18 |
 | [世界の真昼](https://open.spotify.com/track/7CvhO8yF4Xw0mbrBLQXrSB) | [割礼](https://open.spotify.com/artist/4BrmvqrDvcagflvt6lFNJ1) | [セカイノマヒル](https://open.spotify.com/album/7keZGSUJVc4X1Dbfcxro6m) | 4:12 | 2022-05-12 | 2022-06-06 |
 | [世界は変わる](https://open.spotify.com/track/6uUXrI5TQTnrDgWj08OuoL) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [世界は変わる](https://open.spotify.com/album/5LdgdWiTXcrbTI5qkUh244) | 3:22 | 2022-06-09 | 2022-07-14 |
-| [今日の続きを](https://open.spotify.com/track/6eJqGKAaGIWQZ4zHZwhmI0) | [Scoobie Do](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/0kl03FkY6GYsty7uak2aJz) | 3:32 | 2022-08-23 |  |
+| [今日の続きを](https://open.spotify.com/track/6eJqGKAaGIWQZ4zHZwhmI0) | [Scoobie Do](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/0kl03FkY6GYsty7uak2aJz) | 3:32 | 2022-08-23 | 2022-08-25 |
 | [会いに行く](https://open.spotify.com/track/1WAl0QDIFiNELLu2ecJdBs) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:04 | 2022-06-14 | 2022-06-22 |
 | [俺たちのサーカス](https://open.spotify.com/track/4eZLDzDwnAX5pKkSiUPHTE) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [俺たちのサーカス](https://open.spotify.com/album/5ZR7eUDgrRZMwySTFG12qS) | 4:22 | 2022-05-10 | 2022-07-05 |
 | [俺様バカ一代・改 \(2021 Mix\)](https://open.spotify.com/track/5QsUPtSbursmJkZTWttlqm) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [リズム&ビートニク ’21 & ヤングデイズソング](https://open.spotify.com/album/5gi2XlxABHsg6ztt6sHn2H) | 4:39 | 2022-05-19 | 2022-06-10 |

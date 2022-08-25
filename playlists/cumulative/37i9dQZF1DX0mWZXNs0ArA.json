@@ -1260,6 +1260,24 @@
     },
     {
       "album": {
+        "name": "WARNING (Sped Up)",
+        "url": "https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3"
+      },
+      "artists": [
+        {
+          "name": "MC ORSEN",
+          "url": "https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108671,
+      "name": "WARNING - Sped Up",
+      "url": "https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz"
+    },
+    {
+      "album": {
         "name": "Wasted (Nightcore)",
         "url": "https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4"
       },

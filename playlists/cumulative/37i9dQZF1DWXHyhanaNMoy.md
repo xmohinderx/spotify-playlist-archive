@@ -4,7 +4,7 @@
 
 > De playlist voor magic, motion en summer vibes! Cover: KATNUF
 
-128 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+130 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Love Me](https://open.spotify.com/track/1k9sNbjyxxB0uzB4Z3eXDl) | [Alex Euro](https://open.spotify.com/artist/1btts0oj1pH2inP7TKYiLL), [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Love Me](https://open.spotify.com/album/2iUCn646cvtZ0EHW1CFzFT) | 2:21 | 2022-07-14 |  |
 | [Love Me](https://open.spotify.com/track/26hyxyMtZ99UdcF0BCFCgf) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo), [Sico Vox](https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP), [LPACA](https://open.spotify.com/artist/0VrVe3wy9bP3D51Lo3AxrN) | [Love Me](https://open.spotify.com/album/5ZhEV8tgdNoJhEWVMU8PWJ) | 2:28 | 2022-07-28 |  |
 | [MALO](https://open.spotify.com/track/6rrvp92Tq5z4BgZp7fCyA2) | [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG) | [MALO](https://open.spotify.com/album/1mGgtzDE8CO86ApVNvKUVN) | 2:39 | 2022-08-18 |  |
+| [Mamacita](https://open.spotify.com/track/1aMBEPxu04bm2IE2B9dfKQ) | [Latu](https://open.spotify.com/artist/4R6hvBrUMsQVBoKJv2tLFz), [Nordin](https://open.spotify.com/artist/6IdSqpFPyjKzO3z56xzoaK) | [Mamacita](https://open.spotify.com/album/155ZliUPSgXIl5Z4lFl5KK) | 2:12 | 2022-08-24 |  |
 | [Mamasita](https://open.spotify.com/track/1FtkAvphTDUzGKfSZvV8Kw) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Deeper X \(Part 1\)](https://open.spotify.com/album/2UgN9DlIqhTRvKK6qhJSVW) | 2:40 | 2022-07-14 | 2022-07-22 |
 | [Maria](https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Maria](https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy) | 2:33 | 2022-07-14 | 2022-07-29 |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-07-14 | 2022-07-28 |
@@ -84,6 +85,7 @@
 | [Miss U](https://open.spotify.com/track/0i0s0NHxwwiDpW3qB7sVmn) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Miss U](https://open.spotify.com/album/10E2ZYMAAJ24JFgZRxIXRK) | 2:26 | 2022-07-21 |  |
 | [Misschien](https://open.spotify.com/track/5iE99n7oHIf7P0Tz8X8md7) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Misschien](https://open.spotify.com/album/0XiRN6vxsMUktjP00J77MX) | 1:57 | 2022-07-14 | 2022-07-29 |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-07-14 |  |
+| [Mood](https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA) | 2:31 | 2022-08-24 |  |
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-07-14 |  |
 | [Na De Na](https://open.spotify.com/track/3mp4K8l13oqI01AkDkiOsI) | [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i), [Aire Urbano](https://open.spotify.com/artist/1RQjLf5STI8eoaAEWYllz7) | [Na De Na](https://open.spotify.com/album/33IJNocRCgGO2dJ5Tya2o8) | 2:46 | 2022-07-14 |  |
 | [Naar De Getver](https://open.spotify.com/track/40y4pVuBIevboi72NU23HM) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Naar De Getver](https://open.spotify.com/album/2t2v0F7hjQAHUJmGTHiHp2) | 2:51 | 2022-07-28 |  |

@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "album": {
         "name": "The Best Album \u2018Needle & Bubble\u2019",
         "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
       },
@@ -1024,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "Do",
+        "url": "https://open.spotify.com/album/5PtHgUgCylutOvncJSFePO"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137751,
+      "name": "Do",
+      "url": "https://open.spotify.com/track/0gPPo7G20xgVqgFy8cqUmp"
+    },
+    {
+      "album": {
         "name": "NO ONE ELSE LIKE ME",
         "url": "https://open.spotify.com/album/10dnagRmizwHIlV0METcCv"
       },
@@ -1089,7 +1125,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 149130,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/6Qiky2QbBGortgiF9NlR48"
@@ -2795,7 +2831,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 194373,
       "name": "Love Note!",
       "url": "https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF"
@@ -3023,7 +3059,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 236829,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
@@ -3449,7 +3485,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 150442,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4dY8EDpzU1RavTcPBzZMiL"
@@ -4488,6 +4524,28 @@
     },
     {
       "album": {
+        "name": "Super Happy",
+        "url": "https://open.spotify.com/album/25fMfhirVYqXXnIIhxkTaF"
+      },
+      "artists": [
+        {
+          "name": "Su Lee",
+          "url": "https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Super Happy (feat. Ariza)",
+      "url": "https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu"
+    },
+    {
+      "album": {
         "name": "Superwoman",
         "url": "https://open.spotify.com/album/2TE6FMZoC19KLaUNb89ChV"
       },
@@ -5489,7 +5547,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 220546,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/59yoeKUIiRIFNxlA13AlDt"

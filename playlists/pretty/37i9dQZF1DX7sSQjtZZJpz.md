@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sSQjtZZJpz.md) - [plain]
 
 > Songs to help your kids learn in English and Spanish!
 
-[Spotify](https://open.spotify.com/user/spotify) - 638 likes - 65 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 639 likes - 65 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sSQjtZZJpz.md) - [plain]
 | 4 | [Popurrí de animales \(El señor don Gato \- La cucaracha \- Pollito chicken\) \- Remasterizado 2016](https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 5:37 |
 | 5 | [Math Rock](https://open.spotify.com/track/1BtyMTwHG9Hul83lnmwlwt) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte) | 3:14 |
 | 6 | [Moles, Hounds, Bears, Bees and Hares](https://open.spotify.com/track/1OKkJX79kSL5RYB0A0c5zi) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Why?](https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK) | 2:06 |
-| 7 | [Little Miss Count Along](https://open.spotify.com/track/1IeCKu6vTiR0gyeoRhpFJK) | [Count Von Count](https://open.spotify.com/artist/1oDbLbJSRUBBOp9SU6NOjI), [Zoe](https://open.spotify.com/artist/2ssMAH1zhNUAwxBNvESHnA), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [N Is for Numbers!](https://open.spotify.com/album/2adtSJ5NVSnB3YPNfValJ0) | 2:05 |
+| 7 | [Little Miss Count Along](https://open.spotify.com/track/1IeCKu6vTiR0gyeoRhpFJK) | [Count Von Count](https://open.spotify.com/artist/1oDbLbJSRUBBOp9SU6NOjI), [Zoe](https://open.spotify.com/artist/4t8Z2cp7ogUDJcmOjDoEpe), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [N Is for Numbers!](https://open.spotify.com/album/2adtSJ5NVSnB3YPNfValJ0) | 2:05 |
 | 8 | [Bingo Song \- ABCs and 123s](https://open.spotify.com/track/17Tyq0AeUiFrV5RiXBtjGd) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learning Songs, Vol\. 1 \- Counting!](https://open.spotify.com/album/1zKvQCMJ57vF2jaz8LmEUw) | 2:03 |
 | 9 | [Bingo \(El Abecedario y los Números\)](https://open.spotify.com/track/48CyJpHXn5eedkqy5roU07) | [Little Baby Bum Rima Niños Amigos](https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm) | [¡Diversión en la Granja de Animales!](https://open.spotify.com/album/3NTKOcn4UI6ukm4p26aTSU) | 2:04 |
 | 10 | [La Galaxia de las Letras](https://open.spotify.com/track/5vVUAIQzdknDiqgwurh0de) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [¡Viva Mi Planeta! \(Versión Audio\)](https://open.spotify.com/album/0cMtQQ0cRiBFqWyoXMp6K9) | 2:04 |

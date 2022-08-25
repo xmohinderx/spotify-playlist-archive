@@ -4,7 +4,7 @@
 
 > From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Fally Ipupa
 
-100 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+101 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [Diemba \(Balançoire\) \- Générique](https://open.spotify.com/track/423bpv5RaWC3xEm2j2iAjv) | [Werrason](https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU) | [7 jours de la semaine](https://open.spotify.com/album/2rmeu6hYfpX84iyOKLjzsy) | 5:31 | 2022-06-30 |  |
 | [Dindon](https://open.spotify.com/track/6qPNkMZwvdlUUD3s1fXDQs) | [Love Lokombe](https://open.spotify.com/artist/1oiTM6RUjVUAmDXDpbv6ob), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [Dindon](https://open.spotify.com/album/0GqeIb1eJrv7ihFpVb0y7z) | 4:05 | 2022-06-30 |  |
 | [Dior \- Remix](https://open.spotify.com/track/0qMTefNvgkvCO9cQ4feQSe) | [IDPizzle](https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC) | [Dior \(Remix\)](https://open.spotify.com/album/6sZZqxemLuzmPWZiW6PFGu) | 3:46 | 2022-06-30 |  |
-| [Do Me Like](https://open.spotify.com/track/5VmdiCzEP9SCU2cpiPOMIE) | [AFROWAVETO](https://open.spotify.com/artist/7rlNBe6IerXXD6HTOaC9Q2), [Kris Hans](https://open.spotify.com/artist/3pV4mFQfwj3coygDws7OTd), [Cloclo claudel](https://open.spotify.com/artist/4mHCo8XXxd4a2mSVAQwrxV), [Teebee](https://open.spotify.com/artist/29oxPTcfjSkPeXI3P5eP7B) | [AFROWAVETO, Vol\. 1](https://open.spotify.com/album/0g90kMBEocx11P01p23fCK) | 3:45 | 2022-07-15 |  |
+| [Do Me Like](https://open.spotify.com/track/5VmdiCzEP9SCU2cpiPOMIE) | [AFROWAVETO](https://open.spotify.com/artist/7rlNBe6IerXXD6HTOaC9Q2), [Kris Hans](https://open.spotify.com/artist/3pV4mFQfwj3coygDws7OTd), [Cloclo claudel](https://open.spotify.com/artist/4mHCo8XXxd4a2mSVAQwrxV), [Teebee](https://open.spotify.com/artist/29oxPTcfjSkPeXI3P5eP7B) | [AFROWAVETO, Vol\. 1](https://open.spotify.com/album/0g90kMBEocx11P01p23fCK) | 3:45 | 2022-07-15 | 2022-08-25 |
 | [Do Me Like](https://open.spotify.com/track/4Z0xpDU4rwRu6V4Pb6PvCl) | [AFROWAVETO](https://open.spotify.com/artist/7rlNBe6IerXXD6HTOaC9Q2), [Teebee](https://open.spotify.com/artist/3vj8PyXk3xuw5Xn9SgFPO5), [Kris Hans](https://open.spotify.com/artist/3pV4mFQfwj3coygDws7OTd), [Cloclo claudel](https://open.spotify.com/artist/4mHCo8XXxd4a2mSVAQwrxV) | [Do Me Like](https://open.spotify.com/album/0eojqDucaxfoR6fyyoRCgX) | 3:45 | 2022-06-30 | 2022-07-29 |
+| [Do Me Like](https://open.spotify.com/track/4nQxcx1puImaEuSbglXFvt) | [AFROWAVETO](https://open.spotify.com/artist/7rlNBe6IerXXD6HTOaC9Q2), [Teebee](https://open.spotify.com/artist/29oxPTcfjSkPeXI3P5eP7B), [Kris Hans](https://open.spotify.com/artist/3pV4mFQfwj3coygDws7OTd), [Cloclo claudel](https://open.spotify.com/artist/4mHCo8XXxd4a2mSVAQwrxV) | [Do Me Like](https://open.spotify.com/album/0OqBGMazZrMYgRmmhPuvTO) | 3:45 | 2022-08-19 |  |
 | [Duda](https://open.spotify.com/track/2fCkFI19Md79sMg9lyZSxq) | [Tito Monako](https://open.spotify.com/artist/0QjXhvnUioV2bhmMRcOvPE) | [Duda](https://open.spotify.com/album/1ZZpj2GgG8vw6Gj4Jo2OAD) | 5:40 | 2022-07-15 |  |
 | [Dépenser](https://open.spotify.com/track/0PaTtFEQVVzknrmkAxpEk9) | [Monroe Djoboke](https://open.spotify.com/artist/419F5ECudqV2Ek9qMdyC4I) | [Escapade](https://open.spotify.com/album/2i3fdjcO4bn4XSfrfqdyXl) | 3:35 | 2022-06-30 |  |
 | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/track/0TBRFyidKDV8Gswfc4haxh) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/album/1u1FkfGwN92at9xyF791nf) | 4:05 | 2022-06-30 |  |

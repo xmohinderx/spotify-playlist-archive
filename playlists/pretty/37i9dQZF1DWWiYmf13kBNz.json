@@ -1,12 +1,12 @@
 {
   "description": "Feels like falling in love in the 50s ",
-  "num_followers": 14188,
+  "num_followers": 14331,
   "original_name": "Black & White Flick",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1MTk3MSwwMDAwMDAwMDNiMzIwNjE1MDg4ZDk1MWViZjcyMDRjYmRkMGI5NTU2",
+  "snapshot_id": "MTY2MDI1MTk3MSwwMDAwMDAwMGE2NzQ1Y2RkZTcyYmZhOTE2NzQ2MDNiZjNhNzFlOTdk",
   "tracks": [
     {
       "added_at": "2022-05-03 15:35:07",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-05-03 15:35:07",
       "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
-    },
-    {
-      "added_at": "2022-05-03 15:35:07",
-      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 280000,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
+    },
+    {
+      "added_at": "2022-05-03 15:35:07",
+      "album": {
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
     },
     {
       "added_at": "2022-05-03 15:35:07",

@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 34413,
+  "num_followers": 34425,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc3NzMwOSwwMDAwMDAwMDkyZTljZTU0NjM3MDg3NmJmZGU3NjE4MzRjYTU4ZDkz",
+  "snapshot_id": "MTY0Mjc3NzMwOSwwMDAwMDAwMDBkYzRjYWYwMDAwZWM3M2Y4OTk2MGJhZDA4NTUzNmNj",
   "tracks": [
     {
       "added_at": "2022-01-21 15:01:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Waves of Blue",
-        "url": "https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Waves of Blue",
-      "url": "https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Waves of Blue",
+        "url": "https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Waves of Blue",
+      "url": "https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Rocks (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 172910,
-      "name": "For Keeps",
-      "url": "https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 175508,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Rocks (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 172910,
+      "name": "For Keeps",
+      "url": "https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "The Hurt You Gave Me",
-        "url": "https://open.spotify.com/album/2wPivRcli0y1oCdOg7ONlN"
-      },
-      "artists": [
-        {
-          "name": "Robert Grace",
-          "url": "https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "The Hurt You Gave Me",
-      "url": "https://open.spotify.com/track/1UCN2LmSOqXYUPTZfiOSzv"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Heartbeat Changes",
         "url": "https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 199920,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/4MfcEgAhzIzkNfBuacn6zT"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "The Hurt You Gave Me",
+        "url": "https://open.spotify.com/album/2wPivRcli0y1oCdOg7ONlN"
+      },
+      "artists": [
+        {
+          "name": "Robert Grace",
+          "url": "https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "The Hurt You Gave Me",
+      "url": "https://open.spotify.com/track/1UCN2LmSOqXYUPTZfiOSzv"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "New Wave EP",
-        "url": "https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "New Wave",
-      "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "LUCID",
         "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 218108,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "New Wave EP",
+        "url": "https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "New Wave",
+      "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
     },
     {
       "added_at": "2022-01-21 15:01:49",

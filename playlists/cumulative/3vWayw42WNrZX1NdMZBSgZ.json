@@ -2907,6 +2907,28 @@
     {
       "album": {
         "name": "Miami",
+        "url": "https://open.spotify.com/album/3R3Kay5sDK4v3931l4evLG"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225161,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/0969BXUHWVqlmZa7zhuuRV"
+    },
+    {
+      "album": {
+        "name": "Miami",
         "url": "https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,752 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,775 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 35 | [Something Good](https://open.spotify.com/track/2unr8CLDdBMKRtff7lhcEr) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [The Sound Of Music \(50th Anniversary Edition\)](https://open.spotify.com/album/6p9jUvfQvXHAzStDArgYj5) | 3:33 |
 | 36 | [You're the Top](https://open.spotify.com/track/5poMgcmtczmFfC38ayOdlw) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Colin Donnell](https://open.spotify.com/artist/2j8GWQrHlJn97fuS5IPBtb) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 5:01 |
 | 37 | [Maria](https://open.spotify.com/track/6ZzVcf5w9RMS4iqIhVQeHe) | [Matt Cavenaugh](https://open.spotify.com/artist/6WiZX2e7EGamztEoz3w8nX) | [West Side Story \(New Broadway Cast Recording \(2009\)\)](https://open.spotify.com/album/2tMSkFy27VIZjBum94KbpD) | 3:02 |
-| 38 | [The Next Ten Minutes](https://open.spotify.com/track/6TP9uOq1QhcphZHSPfrwzS) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [The Last Five Years \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VZ5lJSFcHOKkpVZrxu8ie) | 7:37 |
-| 39 | [Camelot: If Ever I Would Leave You](https://open.spotify.com/track/6ypbXs9QrUv2EJuV7I1pP8) | [Frederick Loewe](https://open.spotify.com/artist/6vSV6SDf1vteodhgV83AJ6), [Robert Goulet](https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR), [Franz Allers](https://open.spotify.com/artist/6WdfiLSbnrKRLINWsG1UCe) | [Camelot \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5Fp6Y3gNufwzUeEBxuOZpo) | 3:11 |
-| 40 | [As Long As He Needs Me](https://open.spotify.com/track/5U08WCE89uN4otg1RJvfep) | [Sally Dexter](https://open.spotify.com/artist/6EYopXpSuAk852aUix9YvR) | [Oliver! \(1994 London Palladium Cast Recording\)](https://open.spotify.com/album/6zAJfB7geKqidKaRiu574H) | 3:16 |
+| 38 | [Camelot: If Ever I Would Leave You](https://open.spotify.com/track/6ypbXs9QrUv2EJuV7I1pP8) | [Frederick Loewe](https://open.spotify.com/artist/6vSV6SDf1vteodhgV83AJ6), [Robert Goulet](https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR), [Franz Allers](https://open.spotify.com/artist/6WdfiLSbnrKRLINWsG1UCe) | [Camelot \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5Fp6Y3gNufwzUeEBxuOZpo) | 3:11 |
+| 39 | [As Long As He Needs Me](https://open.spotify.com/track/5U08WCE89uN4otg1RJvfep) | [Sally Dexter](https://open.spotify.com/artist/6EYopXpSuAk852aUix9YvR) | [Oliver! \(1994 London Palladium Cast Recording\)](https://open.spotify.com/album/6zAJfB7geKqidKaRiu574H) | 3:16 |
+| 40 | [The Next Ten Minutes](https://open.spotify.com/track/6TP9uOq1QhcphZHSPfrwzS) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [The Last Five Years \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VZ5lJSFcHOKkpVZrxu8ie) | 7:37 |
 | 41 | [Goodnight My Someone](https://open.spotify.com/track/09kRTnc2HceP9PssB7uAEQ) | [Barbara Cook](https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP) | [The Music Man \(Original Broadway Cast\)](https://open.spotify.com/album/4O0zo2ULebkZ7PKZpFdPLJ) | 2:45 |
 | 42 | [What I Did for Love](https://open.spotify.com/track/4Buem5eQxc1reIeNE4fuIp) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD), [Priscilla Lopez](https://open.spotify.com/artist/6CUIkKr2kYg6rvDK3DxWXV), [A Chorus Line Ensemble](https://open.spotify.com/artist/2Mk3pJkCCcKqp5UZOAPb1x), [Don Pippin](https://open.spotify.com/artist/5fVJ5nk8d5S5ZzcxQbCQGO) | [A Chorus Line \- 40th Anniversary Celebration \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0mC8o2B80XRt0nUgTWZ3zu) | 3:46 |
 | 43 | [Changing My Major](https://open.spotify.com/track/6jgLIGTcVtQl9Q4r0otEMW) | [Emily Skeggs](https://open.spotify.com/artist/4pFb5Ycz7oHBhVS623cMdf) | [Fun Home \(A New Broadway Musical\)](https://open.spotify.com/album/2GKE26bq2o8qoukpNlZnrh) | 4:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 69 | [The Best Thing That Ever Has Happened \(with Alec Baldwin\)](https://open.spotify.com/track/6FMrzmKlLzrXKGp3qvQT1f) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Alec Baldwin](https://open.spotify.com/artist/6gDUFIEcDsus6j7kudW0Oa) | [Encore: Movie Partners Sing Broadway](https://open.spotify.com/album/5w4GRGWJFNFGmzPgMsvK9w) | 3:12 |
 | 70 | [I'll Be Here](https://open.spotify.com/track/6BmTGKJDphlIUEwGTUVBIG) | [Taye Diggs](https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT) | [The Wild Party \(Original Off\-Broadway Cast Recording\)](https://open.spotify.com/album/4XKzW9Ykl81o6LnAR12xkc) | 2:33 |
 
-Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMDAyMjk4ZDQ4ZDExNjEzZDIzYjQ3ZjMwMWRjOGQ4MjUx`
+Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMGYyZWQ2ODQ5ZDQ3Y2RlMmFkMWQ0Mjc5MmQ3YmVjZWYx`

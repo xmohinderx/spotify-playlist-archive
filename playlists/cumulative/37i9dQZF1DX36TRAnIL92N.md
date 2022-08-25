@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-100 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/0HPVZryw84KNhQatZ72i3g)
+101 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/0HPVZryw84KNhQatZ72i3g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 | 2022-07-11 |  |
 | [In Trance](https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [In Trance](https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7) | 5:57 | 2022-07-29 |  |
 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 | 2022-07-05 | 2022-08-11 |
+| [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 | 2022-08-15 |  |
 | [Journey To The Underworld](https://open.spotify.com/track/0O4H5enNBIDR3k0ibZBKa2) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Journey To The Underworld EP](https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB) | 7:39 | 2022-07-11 | 2022-07-27 |
 | [Katarze](https://open.spotify.com/track/47HUapTIiVAORkL3Eu04Su) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Katarze](https://open.spotify.com/album/5oadbRzPuGPkHAy3sRSINV) | 6:11 | 2022-07-05 | 2022-07-27 |
 | [Life](https://open.spotify.com/track/0hgBCww9bE8ufZPndRdURi) | [2088](https://open.spotify.com/artist/4m1zEw1eweA16IcRBIWxNo) | [Life](https://open.spotify.com/album/7lViivbC59hJG6hr6aYuJj) | 6:09 | 2022-07-05 | 2022-07-12 |
@@ -61,14 +62,14 @@
 | [ME/AN](https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [ME/AN](https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR) | 3:49 | 2022-07-11 |  |
 | [Mental Wall](https://open.spotify.com/track/13jLcyLqDBl4aWz8Lmbami) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Mental Wall](https://open.spotify.com/album/6su07aveL7ZmTQCasR6w3t) | 6:11 | 2022-07-11 | 2022-07-26 |
 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 | 2022-07-05 |  |
-| [Morphing](https://open.spotify.com/track/6Y2OimS3u5eKd0LLco0Vlq) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Morphing](https://open.spotify.com/album/4l2yMnT07CAmWjFRBtYeFQ) | 4:52 | 2022-07-05 |  |
+| [Morphing](https://open.spotify.com/track/6Y2OimS3u5eKd0LLco0Vlq) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Morphing](https://open.spotify.com/album/4l2yMnT07CAmWjFRBtYeFQ) | 4:52 | 2022-07-05 | 2022-08-25 |
 | [Mother Earth](https://open.spotify.com/track/4U29PAbl99xuzW3JWSX0u0) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Mother Earth](https://open.spotify.com/album/53QRJHTMekJCG5l7K1fbHZ) | 3:38 | 2022-07-05 | 2022-07-27 |
 | [Nebula](https://open.spotify.com/track/1qiwGjqqbZRspdySeVVZhQ) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Nebula](https://open.spotify.com/album/2W8ALGP69QJp6RZ6dG91iF) | 4:44 | 2022-07-05 | 2022-07-24 |
 | [Nothingness \- Original Mix](https://open.spotify.com/track/0pFes2owZmkuuYoUXWQ0pL) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Voices In My Head EP](https://open.spotify.com/album/2sngmJvA4Vz8k4GLtdwyPj) | 6:25 | 2022-07-05 | 2022-07-10 |
 | [Nova](https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Nova](https://open.spotify.com/album/5KtMtbhmpG2mqjJepSttRA) | 6:16 | 2022-07-11 | 2022-08-16 |
 | [Obsession](https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Obsession](https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp) | 6:22 | 2022-07-05 |  |
 | [Omen](https://open.spotify.com/track/4kC2zk1YArAcIq7K68EYok) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Beirut](https://open.spotify.com/album/0lStXpuiJROUxFgjRGKZOp) | 5:47 | 2022-08-15 |  |
-| [Open Up \- Original Mix](https://open.spotify.com/track/4LQ0pqAmV9SHFG617KpwtI) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Open Up](https://open.spotify.com/album/0f8gsdHHUzesyF8rDqUcU5) | 7:12 | 2022-07-05 |  |
+| [Open Up \- Original Mix](https://open.spotify.com/track/4LQ0pqAmV9SHFG617KpwtI) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Open Up](https://open.spotify.com/album/0f8gsdHHUzesyF8rDqUcU5) | 7:12 | 2022-07-05 | 2022-08-25 |
 | [Overlord](https://open.spotify.com/track/1EQNQoNTxAhzj62OJ6z4q9) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj) | [Overlord](https://open.spotify.com/album/0Hz3KBcbbqPFTTxC5MJRzr) | 4:15 | 2022-07-05 | 2022-07-29 |
 | [Platia](https://open.spotify.com/track/6wbYCyePXvS1XCsMigiZTI) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Platia](https://open.spotify.com/album/392IhxcdGrDfekRvmCREOl) | 3:12 | 2022-07-05 | 2022-08-03 |
 | [Point of No Return](https://open.spotify.com/track/4AVjVPLrElTPP4JIDY8QPv) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Point of No Return](https://open.spotify.com/album/5cgMOLRkAZ1DJNbR6qWeOM) | 5:54 | 2022-08-15 |  |
@@ -76,7 +77,7 @@
 | [Portal](https://open.spotify.com/track/3mwpXrMLka70VsDLn1hunw) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/5n4aScv2NiUPaLnNGeZrWt) | 6:24 | 2022-07-05 | 2022-07-29 |
 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 | 2022-07-05 |  |
 | [Rave Nation \- Radio](https://open.spotify.com/track/5hhkzvkDqJEPVpDV6tolDf) | [Waztoo](https://open.spotify.com/artist/0MP4QHK5BlSbmwJxOncnfB) | [Rave Nation](https://open.spotify.com/album/32DBhQoPK7eYWA2vqEnwmW) | 5:37 | 2022-07-11 | 2022-07-29 |
-| [Rebirth](https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p) | 6:40 | 2022-07-05 | 2022-08-23 |
+| [Rebirth](https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p) | 6:40 | 2022-07-05 |  |
 | [Ritual](https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Umbilicis Universalis](https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy) | 7:00 | 2022-07-05 | 2022-07-24 |
 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 | 2022-07-05 |  |
 | [Rush](https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Rush](https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo) | 6:36 | 2022-07-05 |  |

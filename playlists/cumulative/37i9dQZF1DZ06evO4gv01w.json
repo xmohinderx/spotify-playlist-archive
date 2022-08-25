@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Georgia Off My Mind",
+        "url": "https://open.spotify.com/album/7oUCaDFalrYoXSNFASHgOl"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234211,
+      "name": "Georgia off My Mind",
+      "url": "https://open.spotify.com/track/2FB5zzkM1KLBMPZ0il54lF"
+    },
+    {
+      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
       },

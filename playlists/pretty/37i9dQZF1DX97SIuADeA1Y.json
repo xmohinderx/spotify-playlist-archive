@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 279827,
+  "num_followers": 279946,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkxNDE2NiwwMDAwMDAwMDMzYjc1NzljNDJkMGE5ZGUzOTE2NTdlMTRiODY0MmFj",
+  "snapshot_id": "MTY2MDkxNDE2NiwwMDAwMDAwMDQ2NWExNTgyNzcxZjk2Y2NiMzUzNGQ1YzkzNDRhZDky",
   "tracks": [
     {
       "added_at": "2022-08-19 13:02:46",
@@ -319,26 +319,6 @@
     {
       "added_at": "2022-08-19 13:02:46",
       "album": {
-        "name": "Nobody To Love (with Loren Gray)",
-        "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
-      },
-      "artists": [
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Loren Gray",
-          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
-        }
-      ],
-      "duration_ms": 146372,
-      "name": "Nobody To Love (with Loren Gray)",
-      "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
-    },
-    {
-      "added_at": "2022-08-19 13:02:46",
-      "album": {
         "name": "Keep on Moving",
         "url": "https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 177187,
       "name": "Keep on Moving",
       "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
+    },
+    {
+      "added_at": "2022-08-19 13:02:46",
+      "album": {
+        "name": "Nobody To Love (with Loren Gray)",
+        "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Loren Gray",
+          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
+        }
+      ],
+      "duration_ms": 146372,
+      "name": "Nobody To Love (with Loren Gray)",
+      "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
     },
     {
       "added_at": "2022-08-19 13:02:46",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-08-19 13:02:46",
       "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"
-    },
-    {
-      "added_at": "2022-08-19 13:02:46",
-      "album": {
         "name": "World in Your Eyes",
         "url": "https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E"
       },
@@ -1139,22 +1123,18 @@
     {
       "added_at": "2022-08-19 13:02:46",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH"
       },
       "artists": [
         {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
         }
       ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+      "duration_ms": 142000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"
     },
     {
       "added_at": "2022-08-19 13:02:46",
@@ -1175,6 +1155,26 @@
       "duration_ms": 138536,
       "name": "Like You Mean It",
       "url": "https://open.spotify.com/track/76QVxIrCN9n49o1QWE9Be2"
+    },
+    {
+      "added_at": "2022-08-19 13:02:46",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
     },
     {
       "added_at": "2022-08-19 13:02:46",
@@ -1223,30 +1223,18 @@
     {
       "added_at": "2022-08-19 13:02:46",
       "album": {
-        "name": "Superpowers (Dimitri Vegas Edit)",
-        "url": "https://open.spotify.com/album/54HQWyhWLuDZ9rtNvgf1Cl"
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
       },
       "artists": [
         {
-          "name": "Ilkay Sencan",
-          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Yoelle",
-          "url": "https://open.spotify.com/artist/12dRVeXA0qQ3jiHQYFHKI6"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
         }
       ],
-      "duration_ms": 167015,
-      "name": "Superpowers - Dimitri Vegas Edit",
-      "url": "https://open.spotify.com/track/1eWsKIHgYzYCMRwSwnNVE9"
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
     }
   ],
   "unique_name": "SLAP!",

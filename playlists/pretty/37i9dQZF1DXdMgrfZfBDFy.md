@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMgrfZfBDFy.md) - [plain]
 
 > Höj volymen och happy EuroPride 2018!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,596 likes - 47 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,594 likes - 47 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMgrfZfBDFy.md) - [plain]
 | 18 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 |
 | 19 | [Last Dance](https://open.spotify.com/track/0cbQXCWA8A17cZ9gm158Pz) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Last Dance](https://open.spotify.com/album/6TSkCNB8OQwbfSg12ewJAR) | 3:25 |
 | 20 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 |
-| 21 | [As I Lay Me Down](https://open.spotify.com/track/1RNAAIqorcSpk3nY2dxLRB) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/3aLrYDY9T8OObu2IY3sC90) | 3:09 |
+| 21 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
 | 22 | [Stronger](https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:23 |
 | 23 | [För Evigt](https://open.spotify.com/track/14xZtVbG1Ue1Bv8fbVVSl5) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [För Evigt](https://open.spotify.com/album/66gGBaMEf92Tt8mPpGxTMx) | 3:23 |
 | 24 | [Love Yourself \(feat\. Jwl B\)](https://open.spotify.com/track/7E9u6QGRKRqQRqnpE4bIHb) | [House of Wallenberg](https://open.spotify.com/artist/6ZpU1XfAwdZID8oGwwxx2v), [Jwl B.](https://open.spotify.com/artist/3azkuacqkJcffwcF2pPUe8) | [My House Is Your House](https://open.spotify.com/album/6uHBGv1eCvfGV4H69WWTKP) | 3:34 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMgrfZfBDFy.md) - [plain]
 | 46 | [Harder Faster](https://open.spotify.com/track/3izPmEmmH8aMp33FSwHMHj) | [Hampus Nessvold](https://open.spotify.com/artist/0qUCR9pTeRAxEQO1Kcqjqp) | [Be a Man](https://open.spotify.com/album/0tTwi8qnOs6kA7e0RIRFuA) | 3:51 |
 | 47 | [Stay The Night](https://open.spotify.com/track/1T8FnxihBxRwXz1n9SfDf3) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/2phG2BnzBWJBU9ST6RRHmK) | 3:02 |
 
-Snapshot ID: `MTUzNDE1MDM5MiwwMDAwMDAwMDgzYTMxMjA5ODdkZjQwNWZkMzk5MTFhYmQwMjUxNWRi`
+Snapshot ID: `MTUzNDE1MDM5MiwwMDAwMDAwMDZkZGE0YzA1MDcyMjYzOTc2ZjExNTAwMmM5NWVlNWU2`

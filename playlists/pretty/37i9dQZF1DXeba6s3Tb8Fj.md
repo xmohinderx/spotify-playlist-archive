@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,017 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,035 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 35 | [Dounia](https://open.spotify.com/track/36tIPdhTe49U4gvp6mwCaU) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Tchamantché](https://open.spotify.com/album/7fzlbT0KWe5H0fI0zO1f8Q) | 6:20 |
 | 36 | [Karkar / Vincent](https://open.spotify.com/track/0tLfhiNrN6tyZrDrnpDUeI) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Kongo Magni](https://open.spotify.com/album/0aYCT3cI8cb4q3iRFx8oAe) | 5:23 |
 | 37 | [Sahara](https://open.spotify.com/track/0oh6nHFPCxP2reKoRjuI6Q) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG) | 3:03 |
-| 38 | [Tenere wer tat zinchegh](https://open.spotify.com/track/2ublmuB6ysxXMtb64UOIjk) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Ishumar: Musique touarègue de résistance](https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX) | 7:00 |
-| 39 | [Station Blues](https://open.spotify.com/track/3EslkE2cZXvv4oiNDZbh3W) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Mississippi To Mali](https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T) | 3:29 |
+| 38 | [Station Blues](https://open.spotify.com/track/3EslkE2cZXvv4oiNDZbh3W) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Mississippi To Mali](https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T) | 3:29 |
+| 39 | [Tenere wer tat zinchegh](https://open.spotify.com/track/2ublmuB6ysxXMtb64UOIjk) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Ishumar: Musique touarègue de résistance](https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX) | 7:00 |
 | 40 | [Mississippi\-Mali Blues](https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 3:17 |
 | 41 | [Mansana Blues](https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY) | [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [Mansana Blues](https://open.spotify.com/album/7kuJ2YGGNVdt2wAFY2D0D6) | 6:48 |
 | 42 | [Dune Blues](https://open.spotify.com/track/6QqzGQfDnaQDwHGVnPkz6u) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [The West African Blues Project](https://open.spotify.com/album/2qmkovxkB5dMiploF5sI2Y) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 49 | [Tenhert](https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Imidiwan: Companions](https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL) | 5:28 |
 | 50 | [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 |
 
-Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMGJjZmYxZDBmMjU2NzI5ODNhMmQ3N2Q0ZGE0OGVlODNm`
+Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDUwZjFjYjEwYTI2OWIzMTZlM2IxMWYxZGY1ZWVmZWY3`

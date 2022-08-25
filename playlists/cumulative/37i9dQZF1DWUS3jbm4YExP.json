@@ -2014,6 +2014,24 @@
     },
     {
       "album": {
+        "name": "Doone Doone",
+        "url": "https://open.spotify.com/album/7mdIUHlz8Pmu4uPRAtT9rX"
+      },
+      "artists": [
+        {
+          "name": "Liraz",
+          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278680,
+      "name": "Doone Doone",
+      "url": "https://open.spotify.com/track/2LMsEc6igAKXA5pBFRwpMP"
+    },
+    {
+      "album": {
         "name": "DooWooDooWoo",
         "url": "https://open.spotify.com/album/0wNjbGAiqK5ftZ9b2ayAlk"
       },
@@ -3693,7 +3711,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 179567,
       "name": "I'm Gonna Make It",
       "url": "https://open.spotify.com/track/5oeL6Qnnlg4x789IMHQyl3"
@@ -5767,7 +5785,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 224394,
       "name": "Ojos Negros",
       "url": "https://open.spotify.com/track/0E34QOEIpfSEvwkWOUi16T"
@@ -7363,7 +7381,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272375,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/1R2g3aWdOv9BOUjqMgZTic"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,519 likes - 95 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,523 likes - 95 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 81 | [Prélude in C Minor](https://open.spotify.com/track/2Bl7sr1Nuc92CmSz1xg9mQ) | [Bengt Hallberg](https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J) | [Hallberg's Surprise or Not Even The Old Masters Can Feel Safe \(Remastered\)](https://open.spotify.com/album/419wHxrrixrGZsk2N6bhfb) | 3:57 |
 | 82 | [Sai Fora](https://open.spotify.com/track/6SZ3dFYThX7pYRdvEf33ZZ) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc) | [Imprints](https://open.spotify.com/album/5VQ3VPsu1ZfA7qjBaUykQp) | 4:42 |
 | 83 | [After You're Gone](https://open.spotify.com/track/7bdJdZNUa15haUvqHAmXh9) | [Rebecka Törnqvist](https://open.spotify.com/artist/563fbLxFoPNypwvAbgNPhd), [Per 'Texas' Johansson](https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T) | [The Stockholm Kaza Session](https://open.spotify.com/album/0ptHMJPjWFnyFSIYg0VpBy) | 4:59 |
-| 84 | [Ma](https://open.spotify.com/track/5gKTtGBur3s7n5FBePUYZn) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:45 |
+| 84 | [Ma](https://open.spotify.com/track/5gKTtGBur3s7n5FBePUYZn) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:47 |
 | 85 | [Lochiel's warning](https://open.spotify.com/track/5cJPtbO8KZ8T9E8QNztPto) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [Lochiel's Warning](https://open.spotify.com/album/4yihAq3PVW53MrJ1sjsTdO) | 5:48 |
 | 86 | [Oslo](https://open.spotify.com/track/5cAHupL3mv1dNstR0IXbyC) | [Fredrik Ljungkvist and the Yun Kan 5](https://open.spotify.com/artist/3PeIu9Iid94d06zGuE99xa) | [Badaling](https://open.spotify.com/album/5FLgahjtdZpbijATZ7IwUZ) | 7:01 |
 | 87 | [Bereden väg för Herran \(Psalm 103\)](https://open.spotify.com/track/5ByxDTuCTKA07FhevL1ISz) | [Anders Widmark Trio](https://open.spotify.com/artist/74lV0oMFa3sSpDxUlfZ5yI) | [Psalmer](https://open.spotify.com/album/58TQrEfi5T1bi5KQVhRJ9r) | 3:15 |

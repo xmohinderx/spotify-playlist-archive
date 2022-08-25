@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 214520,
       "name": "Debajo De Aquel \u00c1rbol",
       "url": "https://open.spotify.com/track/36KaZfJWJnupwYWgKFReQy"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 154493,
       "name": "Hasta Que Te Perd\u00ed",
       "url": "https://open.spotify.com/track/5RHnofPA7oYmF4L6jEdpcf"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 177826,
       "name": "Me Sacaron Del Tenampa",
       "url": "https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi"
@@ -1193,6 +1193,24 @@
       "duration_ms": 161253,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
+    },
+    {
+      "album": {
+        "name": "Triste Recuerdo (Aferrado Por Ti)",
+        "url": "https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185266,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg"
     },
     {
       "album": {

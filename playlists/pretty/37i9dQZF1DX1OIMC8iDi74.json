@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 865299,
+  "num_followers": 865442,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGZkZDc5YjRjZWYwMzRkN2FlYThlNWZmOThiMDZlOTZi",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDQ4ZWNmZGQ0M2M5Yzk5ZmM5ODNmYTBkOWM5ODMxZmYw",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -331,26 +331,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Arena",
-        "url": "https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR"
-      },
-      "artists": [
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Arena",
-      "url": "https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
       },
@@ -391,22 +371,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Harlem Shake",
-        "url": "https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 196664,
-      "name": "Harlem Shake",
-      "url": "https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Westcoast G-House Compilation",
         "url": "https://open.spotify.com/album/1gAz4AJT5hAhSM86RruUn8"
       },
@@ -423,6 +387,22 @@
       "duration_ms": 201642,
       "name": "Gangsta Gangsta (feat. Baby Eazy-E)",
       "url": "https://open.spotify.com/track/5w6rgrtYFhC6NkUknX1exC"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Harlem Shake",
+        "url": "https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 196664,
+      "name": "Harlem Shake",
+      "url": "https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -667,26 +647,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Cartel II",
-        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Reese LAFLARE",
-          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Fatal Attraction (feat. Reese LAFLARE)",
-      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt"
       },
@@ -703,6 +663,26 @@
       "duration_ms": 224017,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Cartel II",
+        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Fatal Attraction (feat. Reese LAFLARE)",
+      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -831,6 +811,26 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        }
+      ],
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Blood For Mercy",
         "url": "https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb"
       },
@@ -859,26 +859,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "People I Know",
-        "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 216428,
-      "name": "People I Know",
-      "url": "https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Jungle Juice",
         "url": "https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 274966,
       "name": "Jungle Juice",
       "url": "https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "People I Know",
+        "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 216428,
+      "name": "People I Know",
+      "url": "https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -927,26 +927,6 @@
       "duration_ms": 208285,
       "name": "Only Be Me",
       "url": "https://open.spotify.com/track/6WXZyYSwlXS5qXISwsKYXE"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
-        }
-      ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1095,22 +1075,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "OCCULT CLASSIC",
         "url": "https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw"
       },
@@ -1127,6 +1091,22 @@
       "duration_ms": 226973,
       "name": "I Do Coke",
       "url": "https://open.spotify.com/track/3PvhJcV5xv7E1ImIfbRYeM"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1527,6 +1507,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Fresh Outta Japan",
+        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
+      },
+      "artists": [
+        {
+          "name": "Yasko",
+          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+        }
+      ],
+      "duration_ms": 116050,
+      "name": "Fresh Outta Japan",
+      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "It's Our Destiny",
         "url": "https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF"
       },
@@ -1543,22 +1539,6 @@
       "duration_ms": 153600,
       "name": "It's Our Destiny",
       "url": "https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Fresh Outta Japan",
-        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
-      },
-      "artists": [
-        {
-          "name": "Yasko",
-          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
-        }
-      ],
-      "duration_ms": 116050,
-      "name": "Fresh Outta Japan",
-      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1583,26 +1563,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Matangi",
-        "url": "https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Matangi",
-      "url": "https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Stinger",
         "url": "https://open.spotify.com/album/0nXwYZwtzmke8C5VlMQDY3"
       },
@@ -1619,6 +1579,26 @@
       "duration_ms": 230204,
       "name": "Stinger",
       "url": "https://open.spotify.com/track/0yrSc38VgNvTRVfzD01oDE"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Matangi",
+      "url": "https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1687,22 +1667,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Issa Bounce",
         "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
       },
@@ -1735,6 +1699,22 @@
       "duration_ms": 165350,
       "name": "Twitter",
       "url": "https://open.spotify.com/track/45NRSkN11nKunCO8gwswug"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1847,18 +1827,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "futura",
-        "url": "https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND"
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/4G9owMlxWUofZIN4kwNMDq"
       },
       "artists": [
         {
-          "name": "Knapsack",
-          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         }
       ],
-      "duration_ms": 206086,
-      "name": "Nothing Less",
-      "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
+      "duration_ms": 161279,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1887,18 +1867,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Casper",
-        "url": "https://open.spotify.com/album/4G9owMlxWUofZIN4kwNMDq"
+        "name": "futura",
+        "url": "https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND"
       },
       "artists": [
         {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+          "name": "Knapsack",
+          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
         }
       ],
-      "duration_ms": 161279,
-      "name": "Casper",
-      "url": "https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8"
+      "duration_ms": 206086,
+      "name": "Nothing Less",
+      "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1971,6 +1951,22 @@
       "duration_ms": 210253,
       "name": "All Through the Night",
       "url": "https://open.spotify.com/track/5MLNm8nsvpCWJ2YpurIGLp"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "REDloop",
+        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "REDloop",
+      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
     }
   ],
   "unique_name": "Trap Mojito",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6S5xTXudxisQUeWkyU4H74">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 107 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 244 likes - 107 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 46 | [Question](https://open.spotify.com/track/6FHukarWlx7lSrlaN17OkP) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4) | [Question](https://open.spotify.com/album/2q7r92YA7Hy4VlxrohdOFc) | 3:45 |
 | 47 | [Who's with Me](https://open.spotify.com/track/5u6Yl2Z6E2NLQ7hx9Y0Vfq) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [My House](https://open.spotify.com/album/01q5k781PdqqKUWFizFjjh) | 3:30 |
 | 48 | [Fire](https://open.spotify.com/track/11fPH8NoSw15IG5hWk5zLL) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:22 |
-| 49 | [So Real \(Warriors\) \(feat\. Jess Glynne\)](https://open.spotify.com/track/5ElvxQOgTTUTjVfa1uhhFv) | [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr), [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [So Real \(Warriors\) \(feat\. Jess Glynne\)](https://open.spotify.com/album/08wVcFCxBwLdeODnKPcPjp) | 2:49 |
-| 50 | [Rather Be Alone](https://open.spotify.com/track/3OtK6JOnTe7kGdlmUtSEYf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nick Martin](https://open.spotify.com/artist/7qVyaRDqZ0T20SW7l1VzMX), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [IIII](https://open.spotify.com/album/2QC9gnxGo0MnJ98mLTOf6c) | 2:51 |
+| 49 | [Rather Be Alone](https://open.spotify.com/track/3OtK6JOnTe7kGdlmUtSEYf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nick Martin](https://open.spotify.com/artist/7qVyaRDqZ0T20SW7l1VzMX), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [IIII](https://open.spotify.com/album/2QC9gnxGo0MnJ98mLTOf6c) | 2:51 |
+| 50 | [So Real \(Warriors\) \(feat\. Jess Glynne\)](https://open.spotify.com/track/5ElvxQOgTTUTjVfa1uhhFv) | [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr), [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [So Real \(Warriors\) \(feat\. Jess Glynne\)](https://open.spotify.com/album/08wVcFCxBwLdeODnKPcPjp) | 2:49 |
 | 51 | [Change Your Mind](https://open.spotify.com/track/74age2cUBw5mdUhGGbAtiM) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga](https://open.spotify.com/album/6MUwfeWeo93ZO0WhDFmt6T) | 3:42 |
 | 52 | [Pray](https://open.spotify.com/track/0QiUEowZX0wzCOePBOHgs6) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:47 |
 | 53 | [Nothing Is Stopping You](https://open.spotify.com/track/2YhBJbeXBz2VsthtV5O4bY) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 5:03 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 106 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 107 | [Outro](https://open.spotify.com/track/0cM6hV1yTWwaG7KaELa4wg) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 0:57 |
 
-Snapshot ID: `Mjc2ODgzODUsMDAwMDAwMDBiOGRkZGQ4MGZjZjM4ZTRjNDEyZTAwOWNmY2MxYmEwMQ==`
+Snapshot ID: `Mjc2ODk4MjUsMDAwMDAwMDA3MjI5OTBiZjIzNThjOWI0NjU1MTE5ODI0ZDgxNWEwOA==`

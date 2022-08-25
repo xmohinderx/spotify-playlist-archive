@@ -1,32 +1,28 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Knats Artwork: Joy Yamusangie",
-  "num_followers": 23238,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: J. White Artwork: Joy Yamusangie",
+  "num_followers": 23398,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDcwODgwMCwwMDAwMDAwMGVlN2JlNGY2MTlmZjY0MjMwMmZmYzIzMTcxNjAwYTQx",
+  "snapshot_id": "MTY2MTM1Mjk2MywwMDAwMDAwMDRmNjBmYmJiNDk4ZDljM2UwZjU3NDRlNDNiYmVmNzI1",
   "tracks": [
     {
       "added_at": "2022-08-17 04:00:00",
       "album": {
-        "name": "Endless Summer Drops",
-        "url": "https://open.spotify.com/album/6zAltOBOL1TefoawcGdvKV"
+        "name": "Medianoche",
+        "url": "https://open.spotify.com/album/12RWuSnuC2okLqeoIYV2uz"
       },
       "artists": [
         {
-          "name": "EXOTIC SKATES",
-          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
-        },
-        {
-          "name": "MONKY",
-          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
         }
       ],
-      "duration_ms": 286378,
-      "name": "Endless Summer Drops",
-      "url": "https://open.spotify.com/track/2Jjo4ixfRhLfmoqCUYbVR3"
+      "duration_ms": 300026,
+      "name": "Medianoche",
+      "url": "https://open.spotify.com/track/52VNjB57vCYM7SNQWURgjv"
     },
     {
       "added_at": "2022-08-10 04:00:00",
@@ -49,6 +45,58 @@
       "url": "https://open.spotify.com/track/0uJu52vDlIrwwoYdD62TkU"
     },
     {
+      "added_at": "2022-08-24 14:56:03",
+      "album": {
+        "name": "KEIYAKU",
+        "url": "https://open.spotify.com/album/3nrR9vM7hoVskcS1SB00UD"
+      },
+      "artists": [
+        {
+          "name": "oysm",
+          "url": "https://open.spotify.com/artist/6dXAZQsIiCI1RRQ3PUfbT8"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "KEIYAKU",
+      "url": "https://open.spotify.com/track/7q39lenl9MmGH461Kp8cvt"
+    },
+    {
+      "added_at": "2022-08-17 04:00:00",
+      "album": {
+        "name": "Endless Summer Drops",
+        "url": "https://open.spotify.com/album/6zAltOBOL1TefoawcGdvKV"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        }
+      ],
+      "duration_ms": 286378,
+      "name": "Endless Summer Drops",
+      "url": "https://open.spotify.com/track/2Jjo4ixfRhLfmoqCUYbVR3"
+    },
+    {
+      "added_at": "2022-08-24 14:56:03",
+      "album": {
+        "name": "A Certain Sandal",
+        "url": "https://open.spotify.com/album/2DqqWksOjJJLHjsQNyIGPp"
+      },
+      "artists": [
+        {
+          "name": "YUSUKE NAKAMURA",
+          "url": "https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG"
+        }
+      ],
+      "duration_ms": 142733,
+      "name": "A Certain Sandal",
+      "url": "https://open.spotify.com/track/0SP7TYSC06bA4Awz99eERW"
+    },
+    {
       "added_at": "2022-08-17 04:00:00",
       "album": {
         "name": "Ale\u00efa",
@@ -69,20 +117,20 @@
       "url": "https://open.spotify.com/track/4EAkaRPN8v90UuqXjMlq6Y"
     },
     {
-      "added_at": "2022-08-10 04:00:00",
+      "added_at": "2022-08-24 14:56:03",
       "album": {
-        "name": "In the Pitt",
-        "url": "https://open.spotify.com/album/11FPqXHzm58CxFOH7ayU7E"
+        "name": "Summer cafeteria",
+        "url": "https://open.spotify.com/album/2E8R11qKuxoxXhtTzPy1Yi"
       },
       "artists": [
         {
-          "name": "Knats",
-          "url": "https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7"
+          "name": "Tomo",
+          "url": "https://open.spotify.com/artist/27rHIZf4IZrzHtfFr3gitX"
         }
       ],
-      "duration_ms": 400865,
-      "name": "In the Pitt",
-      "url": "https://open.spotify.com/track/1CeIWMMKtypWgyDTHrS9k9"
+      "duration_ms": 238954,
+      "name": "Summer cafeteria",
+      "url": "https://open.spotify.com/track/7cU0lYFCpCxJFjsetrjU7h"
     },
     {
       "added_at": "2022-08-17 04:00:00",
@@ -99,6 +147,38 @@
       "duration_ms": 225500,
       "name": "Subject to change",
       "url": "https://open.spotify.com/track/09WDDXXdAK2vR9CWIu9T3V"
+    },
+    {
+      "added_at": "2022-08-17 04:00:00",
+      "album": {
+        "name": "Volta ao Catop\u00ea",
+        "url": "https://open.spotify.com/album/5U8aAX0S20zjuYegd4052K"
+      },
+      "artists": [
+        {
+          "name": "Pedro Gomes",
+          "url": "https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ"
+        }
+      ],
+      "duration_ms": 257428,
+      "name": "Volta ao Catop\u00ea",
+      "url": "https://open.spotify.com/track/4eW3zVWI4PJbIVsV4i39wI"
+    },
+    {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "In the Pitt",
+        "url": "https://open.spotify.com/album/11FPqXHzm58CxFOH7ayU7E"
+      },
+      "artists": [
+        {
+          "name": "Knats",
+          "url": "https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7"
+        }
+      ],
+      "duration_ms": 400865,
+      "name": "In the Pitt",
+      "url": "https://open.spotify.com/track/1CeIWMMKtypWgyDTHrS9k9"
     },
     {
       "added_at": "2022-08-17 04:00:00",
@@ -137,38 +217,6 @@
       "url": "https://open.spotify.com/track/03M5Iz8gx0YMCjm3iD90i9"
     },
     {
-      "added_at": "2022-08-17 04:00:00",
-      "album": {
-        "name": "Volta ao Catop\u00ea",
-        "url": "https://open.spotify.com/album/5U8aAX0S20zjuYegd4052K"
-      },
-      "artists": [
-        {
-          "name": "Pedro Gomes",
-          "url": "https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ"
-        }
-      ],
-      "duration_ms": 257428,
-      "name": "Volta ao Catop\u00ea",
-      "url": "https://open.spotify.com/track/4eW3zVWI4PJbIVsV4i39wI"
-    },
-    {
-      "added_at": "2022-08-17 04:00:00",
-      "album": {
-        "name": "Medianoche",
-        "url": "https://open.spotify.com/album/12RWuSnuC2okLqeoIYV2uz"
-      },
-      "artists": [
-        {
-          "name": "J. White",
-          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Medianoche",
-      "url": "https://open.spotify.com/track/52VNjB57vCYM7SNQWURgjv"
-    },
-    {
       "added_at": "2022-08-10 04:00:00",
       "album": {
         "name": "Heart Exam",
@@ -203,18 +251,54 @@
     {
       "added_at": "2022-08-10 04:00:00",
       "album": {
-        "name": "You Were Probably Younger Then",
-        "url": "https://open.spotify.com/album/7svc0aRNic3e5NQFpMQwZ9"
+        "name": "Sunday Groove",
+        "url": "https://open.spotify.com/album/6ERH67q7FHzepxAGmw9UFn"
       },
       "artists": [
         {
-          "name": "FLOCKS",
-          "url": "https://open.spotify.com/artist/3kK43vMqAED76AbsEzQssM"
+          "name": "Michael Benedikt",
+          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
         }
       ],
-      "duration_ms": 314668,
-      "name": "you were probably younger then",
-      "url": "https://open.spotify.com/track/02YXJJZ5xQrFIRhqe62PTi"
+      "duration_ms": 111627,
+      "name": "Sunday Groove",
+      "url": "https://open.spotify.com/track/4caIWm345tzxUtYulUh7WG"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/1QlfcmVKPbg1b9h5oQwLHA"
+      },
+      "artists": [
+        {
+          "name": "Lily Lyons",
+          "url": "https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/5IWUCCibOBMdSa9expuO7C"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Winterspring",
+        "url": "https://open.spotify.com/album/6Sqps6Ivj9YZm59i7wNCZM"
+      },
+      "artists": [
+        {
+          "name": "Allison Wheeler",
+          "url": "https://open.spotify.com/artist/69WneXo9aoAeXaJCaPzJ6k"
+        },
+        {
+          "name": "David Dor\u016f\u017eka",
+          "url": "https://open.spotify.com/artist/2FOnLwDbujuoPHDp1OXQw5"
+        }
+      ],
+      "duration_ms": 442693,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5tJ21wHKBuj9KtzaCwDxZ5"
     },
     {
       "added_at": "2022-08-10 04:00:00",
@@ -231,6 +315,70 @@
       "duration_ms": 172048,
       "name": "Jolly Good Fela",
       "url": "https://open.spotify.com/track/3pEmh34X9EDZWgstVtNoki"
+    },
+    {
+      "added_at": "2022-07-27 04:00:00",
+      "album": {
+        "name": "Leon Keys - EP",
+        "url": "https://open.spotify.com/album/1XQvDS7AHe0nIDWKkDlyCj"
+      },
+      "artists": [
+        {
+          "name": "Lee Pardini",
+          "url": "https://open.spotify.com/artist/3pA2WY9BtYThcYxuNlmnNx"
+        },
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/4iNYRfmoCR9S3tzjiUChxq"
+        },
+        {
+          "name": "Joe Dart",
+          "url": "https://open.spotify.com/artist/18owIvdJK8AXBZU9eYGkNY"
+        }
+      ],
+      "duration_ms": 382135,
+      "name": "158 and Riverside (feat. Sam Ryder & Joe Dart)",
+      "url": "https://open.spotify.com/track/7lhTJRLaVSPILWhaWDgYrm"
+    },
+    {
+      "added_at": "2022-08-03 16:00:00",
+      "album": {
+        "name": "Anaphora | Lexicon I",
+        "url": "https://open.spotify.com/album/1ap3yA9c6HSrqvx0XeNulH"
+      },
+      "artists": [
+        {
+          "name": "Filippo Deorsola",
+          "url": "https://open.spotify.com/artist/66kHxyTIUOs93YAmcjDIve"
+        },
+        {
+          "name": "Jonathan Ho-Chin Kiat",
+          "url": "https://open.spotify.com/artist/5M8DBQcZPQmnanPt67wZHt"
+        },
+        {
+          "name": "Ap Verhoeven",
+          "url": "https://open.spotify.com/artist/2F3U0YXatIFF6IaFsF9pZB"
+        }
+      ],
+      "duration_ms": 354867,
+      "name": "F.S.A.",
+      "url": "https://open.spotify.com/track/00lmXvlszo2R8Wv4pNUh2x"
+    },
+    {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "You Were Probably Younger Then",
+        "url": "https://open.spotify.com/album/7svc0aRNic3e5NQFpMQwZ9"
+      },
+      "artists": [
+        {
+          "name": "FLOCKS",
+          "url": "https://open.spotify.com/artist/3kK43vMqAED76AbsEzQssM"
+        }
+      ],
+      "duration_ms": 314668,
+      "name": "you were probably younger then",
+      "url": "https://open.spotify.com/track/02YXJJZ5xQrFIRhqe62PTi"
     },
     {
       "added_at": "2022-08-10 04:00:00",
@@ -303,22 +451,6 @@
       "duration_ms": 299653,
       "name": "Memory Man",
       "url": "https://open.spotify.com/track/6FDzNWCiLLYrZB0QRPbvde"
-    },
-    {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
-        "name": "Sunday Groove",
-        "url": "https://open.spotify.com/album/6ERH67q7FHzepxAGmw9UFn"
-      },
-      "artists": [
-        {
-          "name": "Michael Benedikt",
-          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
-        }
-      ],
-      "duration_ms": 111627,
-      "name": "Sunday Groove",
-      "url": "https://open.spotify.com/track/4caIWm345tzxUtYulUh7WG"
     },
     {
       "added_at": "2022-08-10 04:00:00",
@@ -479,42 +611,6 @@
     {
       "added_at": "2022-08-03 16:00:00",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/1QlfcmVKPbg1b9h5oQwLHA"
-      },
-      "artists": [
-        {
-          "name": "Lily Lyons",
-          "url": "https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/5IWUCCibOBMdSa9expuO7C"
-    },
-    {
-      "added_at": "2022-08-03 16:00:00",
-      "album": {
-        "name": "Winterspring",
-        "url": "https://open.spotify.com/album/6Sqps6Ivj9YZm59i7wNCZM"
-      },
-      "artists": [
-        {
-          "name": "Allison Wheeler",
-          "url": "https://open.spotify.com/artist/69WneXo9aoAeXaJCaPzJ6k"
-        },
-        {
-          "name": "David Dor\u016f\u017eka",
-          "url": "https://open.spotify.com/artist/2FOnLwDbujuoPHDp1OXQw5"
-        }
-      ],
-      "duration_ms": 442693,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5tJ21wHKBuj9KtzaCwDxZ5"
-    },
-    {
-      "added_at": "2022-08-03 16:00:00",
-      "album": {
         "name": "Shug",
         "url": "https://open.spotify.com/album/3fQwJZiRj4qONagwBrPKBg"
       },
@@ -631,22 +727,6 @@
       "duration_ms": 316000,
       "name": "Identity - Radio Edit",
       "url": "https://open.spotify.com/track/5FboMPDQoRXjxIPAZQlWqc"
-    },
-    {
-      "added_at": "2022-08-03 16:00:00",
-      "album": {
-        "name": "Swappin\u2019 Lies",
-        "url": "https://open.spotify.com/album/0paNKNoqjTi0BYv2wHOMZq"
-      },
-      "artists": [
-        {
-          "name": "Taurey Butler",
-          "url": "https://open.spotify.com/artist/4Y6KKYAVP5qjB5v4V4IQFQ"
-        }
-      ],
-      "duration_ms": 160526,
-      "name": "Swappin\u2019 Lies",
-      "url": "https://open.spotify.com/track/7e9A8tZgDYrTVz5KElcd77"
     },
     {
       "added_at": "2022-07-27 04:00:00",
@@ -985,50 +1065,6 @@
       "url": "https://open.spotify.com/track/1iNq0Uxm0FGaIRkaIqkCRS"
     },
     {
-      "added_at": "2022-07-27 04:00:00",
-      "album": {
-        "name": "Leon Keys - EP",
-        "url": "https://open.spotify.com/album/1XQvDS7AHe0nIDWKkDlyCj"
-      },
-      "artists": [
-        {
-          "name": "Lee Pardini",
-          "url": "https://open.spotify.com/artist/3pA2WY9BtYThcYxuNlmnNx"
-        },
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/4iNYRfmoCR9S3tzjiUChxq"
-        },
-        {
-          "name": "Joe Dart",
-          "url": "https://open.spotify.com/artist/18owIvdJK8AXBZU9eYGkNY"
-        }
-      ],
-      "duration_ms": 382135,
-      "name": "158 and Riverside (feat. Sam Ryder & Joe Dart)",
-      "url": "https://open.spotify.com/track/7lhTJRLaVSPILWhaWDgYrm"
-    },
-    {
-      "added_at": "2022-07-27 04:00:00",
-      "album": {
-        "name": "ROLEPLAYER",
-        "url": "https://open.spotify.com/album/34wggQxKdsMy7UKJuJ2wZ4"
-      },
-      "artists": [
-        {
-          "name": "Hokage Simon",
-          "url": "https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R"
-        },
-        {
-          "name": "Tyler Lauren",
-          "url": "https://open.spotify.com/artist/6SsJjCvJ9juy5EpW8NH4VZ"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "ROLEPLAYER",
-      "url": "https://open.spotify.com/track/4HXBbooAJBt5tJypc5aF2Z"
-    },
-    {
       "added_at": "2022-08-03 16:00:00",
       "album": {
         "name": "Ekpe",
@@ -1103,30 +1139,6 @@
       "duration_ms": 195378,
       "name": "Driving Me Insane",
       "url": "https://open.spotify.com/track/4bbmKQSab2j4wRVvhQGJ3v"
-    },
-    {
-      "added_at": "2022-08-03 16:00:00",
-      "album": {
-        "name": "Live It Again",
-        "url": "https://open.spotify.com/album/4DWzQtTL52q0JmZJdA07MK"
-      },
-      "artists": [
-        {
-          "name": "Addison Frei",
-          "url": "https://open.spotify.com/artist/4NfMAQV9vkPudAdPGTDKSq"
-        },
-        {
-          "name": ".Dallas Louis",
-          "url": "https://open.spotify.com/artist/1T1gbLC3rg0XWN94EBAdms"
-        },
-        {
-          "name": "Wayne Tucker",
-          "url": "https://open.spotify.com/artist/7yx2PV5XJ94vQsNgQhHEBW"
-        }
-      ],
-      "duration_ms": 289898,
-      "name": "Live It Again",
-      "url": "https://open.spotify.com/track/5torj6NykYCTHDphXWXMAc"
     },
     {
       "added_at": "2022-07-27 04:00:00",
@@ -1211,22 +1223,6 @@
       "duration_ms": 329728,
       "name": "Llavors",
       "url": "https://open.spotify.com/track/6CF1B8Rc1ZVaz7RdX3Mg94"
-    },
-    {
-      "added_at": "2022-07-20 04:00:00",
-      "album": {
-        "name": "Mirror People",
-        "url": "https://open.spotify.com/album/7bpsmsU3aHYj2CUR6ib4hs"
-      },
-      "artists": [
-        {
-          "name": "Antares Flare",
-          "url": "https://open.spotify.com/artist/4paLJfwXTCGA5ltNR290vQ"
-        }
-      ],
-      "duration_ms": 302302,
-      "name": "Mirror People",
-      "url": "https://open.spotify.com/track/4B8P2ipLZwtAqARc9p27Bt"
     },
     {
       "added_at": "2022-07-20 04:00:00",
@@ -1413,22 +1409,6 @@
       "url": "https://open.spotify.com/track/6GwtYzv1vXn45VbGIFIs4x"
     },
     {
-      "added_at": "2022-07-27 04:00:00",
-      "album": {
-        "name": "SOUNDS FROM THE STREET: LIVE",
-        "url": "https://open.spotify.com/album/7pV9eJkOmSHIeUp2531JCk"
-      },
-      "artists": [
-        {
-          "name": "SNACKTIME",
-          "url": "https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr"
-        }
-      ],
-      "duration_ms": 320983,
-      "name": "LITTENHOUSE",
-      "url": "https://open.spotify.com/track/2r9Uuq5GW60pklm4oqUsBW"
-    },
-    {
       "added_at": "2022-08-03 16:00:00",
       "album": {
         "name": "Lumumba",
@@ -1487,46 +1467,34 @@
     {
       "added_at": "2022-08-03 16:00:00",
       "album": {
-        "name": "Anaphora | Lexicon I",
-        "url": "https://open.spotify.com/album/1ap3yA9c6HSrqvx0XeNulH"
+        "name": "Swappin\u2019 Lies",
+        "url": "https://open.spotify.com/album/0paNKNoqjTi0BYv2wHOMZq"
       },
       "artists": [
         {
-          "name": "Filippo Deorsola",
-          "url": "https://open.spotify.com/artist/66kHxyTIUOs93YAmcjDIve"
-        },
-        {
-          "name": "Jonathan Ho-Chin Kiat",
-          "url": "https://open.spotify.com/artist/5M8DBQcZPQmnanPt67wZHt"
-        },
-        {
-          "name": "Ap Verhoeven",
-          "url": "https://open.spotify.com/artist/2F3U0YXatIFF6IaFsF9pZB"
+          "name": "Taurey Butler",
+          "url": "https://open.spotify.com/artist/4Y6KKYAVP5qjB5v4V4IQFQ"
         }
       ],
-      "duration_ms": 354867,
-      "name": "F.S.A.",
-      "url": "https://open.spotify.com/track/00lmXvlszo2R8Wv4pNUh2x"
+      "duration_ms": 160526,
+      "name": "Swappin\u2019 Lies",
+      "url": "https://open.spotify.com/track/7e9A8tZgDYrTVz5KElcd77"
     },
     {
-      "added_at": "2022-08-03 16:00:00",
+      "added_at": "2022-07-20 04:00:00",
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/7DVu6ayiZhHKQudrW114A5"
+        "name": "Mirror People",
+        "url": "https://open.spotify.com/album/7bpsmsU3aHYj2CUR6ib4hs"
       },
       "artists": [
         {
-          "name": "Veronika Harcsa",
-          "url": "https://open.spotify.com/artist/5nN4R7oxXwUsVpHfqUryfM"
-        },
-        {
-          "name": "B\u00e1lint Gy\u00e9m\u00e1nt",
-          "url": "https://open.spotify.com/artist/0mCibLE17OGnRjWVLcWWO2"
+          "name": "Antares Flare",
+          "url": "https://open.spotify.com/artist/4paLJfwXTCGA5ltNR290vQ"
         }
       ],
-      "duration_ms": 173463,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/3dkpb7KcnuQtRb5RvALROA"
+      "duration_ms": 302302,
+      "name": "Mirror People",
+      "url": "https://open.spotify.com/track/4B8P2ipLZwtAqARc9p27Bt"
     },
     {
       "added_at": "2022-07-20 04:00:00",
@@ -1543,6 +1511,26 @@
       "duration_ms": 149912,
       "name": "Mallscape",
       "url": "https://open.spotify.com/track/62SyFkYuSbRwhaJbtJESrd"
+    },
+    {
+      "added_at": "2022-07-27 04:00:00",
+      "album": {
+        "name": "ROLEPLAYER",
+        "url": "https://open.spotify.com/album/34wggQxKdsMy7UKJuJ2wZ4"
+      },
+      "artists": [
+        {
+          "name": "Hokage Simon",
+          "url": "https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R"
+        },
+        {
+          "name": "Tyler Lauren",
+          "url": "https://open.spotify.com/artist/6SsJjCvJ9juy5EpW8NH4VZ"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "ROLEPLAYER",
+      "url": "https://open.spotify.com/track/4HXBbooAJBt5tJypc5aF2Z"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

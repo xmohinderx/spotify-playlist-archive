@@ -4724,6 +4724,24 @@
     },
     {
       "album": {
+        "name": "Yes or No",
+        "url": "https://open.spotify.com/album/7ckpPsScRSsxRcMDoEAwL2"
+      },
+      "artists": [
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175570,
+      "name": "Yes or No",
+      "url": "https://open.spotify.com/track/2rqTZrpsqlbzIz3wQ7s2Q1"
+    },
+    {
+      "album": {
         "name": "You Can't Stop Me",
         "url": "https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf"
       },

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-244 songs - 20 hr 48 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
+245 songs - 20 hr 56 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Adagio I \- Mut](https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Nothing Lasts Forever](https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC) | 4:46 | 2022-02-11 |  |
 | [Affiliate](https://open.spotify.com/track/3ibSQOkXDoVtr5o5izWwC9) | [Tangent](https://open.spotify.com/artist/1Ad0cOIi5d9YkVsRMLWegv), [Dryft](https://open.spotify.com/artist/15XyOjcwHR1BLzZDpcja9f) | [Acquiesce](https://open.spotify.com/album/7brmSCmB5orSsJgGJULcqx) | 4:08 | 2021-12-26 | 2022-07-25 |
 | [Afterglow](https://open.spotify.com/track/1tvrdTMUPrL5QAAUu2mBpL) | [Tim Angrave](https://open.spotify.com/artist/6y9JXfBjqfOAql3YYLaNJm) | [Afterglow](https://open.spotify.com/album/0Bp2qglhyUtYpSwCII3ayZ) | 5:52 | 2022-03-25 | 2022-07-26 |
+| [Agalma V](https://open.spotify.com/track/6pwsr8MsXAGYWHeJirQyRW) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Agalma](https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6) | 7:30 | 2022-08-19 |  |
 | [Agalma V \(ft\. Kali Malone\)](https://open.spotify.com/track/6NwJpEnFkWdCYst3iBYCcn) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Agalma V \(ft\. Kali Malone\)](https://open.spotify.com/album/0mbSK7lbwq2Rgfv352bAQv) | 7:30 | 2021-12-26 | 2022-07-24 |
 | [Air](https://open.spotify.com/track/46Q4GzVpSvS9gxLcoZiXlc) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf) | [Air](https://open.spotify.com/album/5rB8CO9WSynmwkAT6Cv56S) | 5:56 | 2022-01-07 |  |
 | [Alabaster](https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [Remember Rainbow Bridge](https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy) | 3:59 | 2022-04-01 |  |
@@ -98,7 +99,7 @@
 | [Ghosts and All](https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG) | 8:32 | 2021-12-26 |  |
 | [Glimmer](https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj) | [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Burst / Glimmer](https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb) | 5:16 | 2022-03-18 |  |
 | [God's Country](https://open.spotify.com/track/7pa7G9qszdLfdkrFIdhgIw) | [Feral](https://open.spotify.com/artist/5DsrGhHrqGPbRsU93R9H5A) | [God's Country](https://open.spotify.com/album/4doG8lWaRW1488oZwTA6Z9) | 3:27 | 2021-12-26 |  |
-| [Gold](https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 2:13 | 2021-12-26 |  |
+| [Gold](https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 2:13 | 2021-12-26 | 2022-08-25 |
 | [Govenek](https://open.spotify.com/track/3HT7p7MSUFJwD9MlAA4kaP) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Claire's Lane](https://open.spotify.com/album/5fcy2JXXX8xhJdtsobGnzh) | 1:28 | 2022-05-06 |  |
 | [GRV Tr 5](https://open.spotify.com/track/1ynoJzY6xN6eKr9kR7IGYu) | [TV Victor](https://open.spotify.com/artist/0djRJ1zrkgq8sN17i9NysU) | [GRV, Vol\. 3](https://open.spotify.com/album/4AtCjI23fzcNJopMAyye7w) | 5:44 | 2022-01-14 | 2022-07-26 |
 | [Hello Planta](https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hello Planta](https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG) | 2:08 | 2022-03-25 |  |

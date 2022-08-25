@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Migrantes en portada.
 
-313 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/1A3UHUVNXWpYmJZRAxzxtE)
+313 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/1A3UHUVNXWpYmJZRAxzxtE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [FOR SALE](https://open.spotify.com/track/68Pz7iMzCrCoHQcocNwvAi) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [FOR SALE](https://open.spotify.com/album/4MYIOezZeoePIZ8LAS084W) | 4:43 | 2022-07-08 | 2022-08-13 |
 | [Fue un Error \- Sesión de Exitos](https://open.spotify.com/track/3peFDcJ0B3YBs4TIs050ta) | [Grupo Green](https://open.spotify.com/artist/3OSozwQXzKD9PY3M4hfkEW) | [Sesion de Éxitos](https://open.spotify.com/album/28NNXRCXsi7O6x2dj8XI9g) | 3:39 | 2022-06-24 | 2022-07-02 |
 | [Fuera](https://open.spotify.com/track/34QE9OSoB5EMflRXe6n0uo) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 5:05 | 2022-05-27 | 2022-06-11 |
-| [Gracias a Ti](https://open.spotify.com/track/19loQRUU43A6PYXMK2Ufhb) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Gracias a Ti](https://open.spotify.com/album/6papcvhOLRiYqq67L5PQpS) | 3:41 | 2022-08-12 |  |
+| [Gracias a Ti](https://open.spotify.com/track/19loQRUU43A6PYXMK2Ufhb) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Gracias a Ti](https://open.spotify.com/album/6papcvhOLRiYqq67L5PQpS) | 2:25 | 2022-08-12 |  |
 | [Hacer el Bien](https://open.spotify.com/track/5nTSf3R8djGo9FJBl43x3Y) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [MAYKEL](https://open.spotify.com/artist/7Gd7D8evygezZAFemifKMC) | [Hacer el Bien](https://open.spotify.com/album/7Gu4pPSMPTbec35g4pPU0S) | 3:11 | 2022-07-22 | 2022-08-06 |
 | [Hasta Que Llegaste Tú](https://open.spotify.com/track/1yOnu9VofpipJnv4rSYwdU) | [Juan Miguel](https://open.spotify.com/artist/3qqO8BNDCDevpb5OUlUAHJ), [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Hasta Que Llegaste Tú](https://open.spotify.com/album/5eE5zfGVZu6axedEIEEAek) | 3:46 | 2022-06-17 | 2022-08-06 |
 | [Historias de Barrio](https://open.spotify.com/track/5JTRlStwUjOsrkCKTKggkE) | [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Historias de Barrio](https://open.spotify.com/album/5Dn1Ub8vS2RpRtLQaNGklG) | 3:01 | 2022-06-24 | 2022-07-09 |

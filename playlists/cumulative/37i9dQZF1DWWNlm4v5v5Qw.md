@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Cover: Ari Lennox
 
-214 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
+215 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Build](https://open.spotify.com/track/74UZhtXbSWHjIPVCQ0ty76) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Rap Like The Rent Due](https://open.spotify.com/album/5XvUkeONfDOpUzN9Ppb4Il) | 2:13 | 2022-02-18 | 2022-04-02 |
 | [Butterflies](https://open.spotify.com/track/3GC0Rbf7JP9TEtTrCgCc3v) | [Tmcthedon](https://open.spotify.com/artist/2Oq48y2ccWDR5IepmZnnXH) | [Butterflies](https://open.spotify.com/album/3bu2hCBDxrV8w7ja7xA0KT) | 2:30 | 2022-03-11 | 2022-04-02 |
 | [C.L.O.U.D.S](https://open.spotify.com/track/080R3EkXAvys9GD2aLf3wB) | [CAMP](https://open.spotify.com/artist/5WlBS3np27mk4KGGU0mONt) | [Process](https://open.spotify.com/album/3CRUA1fGG4vUqOOfdrNoDe) | 2:59 | 2022-03-11 | 2022-05-21 |
-| [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 | 2022-06-07 |  |
+| [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 | 2022-06-07 | 2022-08-25 |
+| [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 | 2022-06-07 |  |
 | [Came From Nothing](https://open.spotify.com/track/0yzniXyPfB25MPSe6yhOib) | [Young E Class](https://open.spotify.com/artist/4cwxNO7R8kJYFeDzsR1FoA), [Yg Teck](https://open.spotify.com/artist/26hDmlgTbg7wseM7YmoyO6) | [Came From Nothing](https://open.spotify.com/album/3BaVTaJtXCJ1KZZQD10cWz) | 3:05 | 2022-05-20 | 2022-08-13 |
 | [CAN'T EEM U TELL WHY](https://open.spotify.com/track/5htM1C5NozSJLuNWil7MYi) | [YTK](https://open.spotify.com/artist/4QsNZ1JTLzhVSAzMxjLe7b) | [CAN'T EEM U TELL WHY](https://open.spotify.com/album/3OFACZUGe31bHXqdHDMUVM) | 1:34 | 2022-02-25 | 2022-04-02 |
 | [CANCER BABY](https://open.spotify.com/track/0QS7oQekZNrtFjSJroHVA2) | [Babyxsosa](https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ) | [CANCER BABY](https://open.spotify.com/album/4AB65PNSlnXCMwaQoIyb2F) | 2:17 | 2021-10-15 | 2022-02-26 |

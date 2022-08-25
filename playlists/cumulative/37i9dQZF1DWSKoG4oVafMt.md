@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-500 songs - 1 day 3 hr 1 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+502 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Faasley](https://open.spotify.com/track/0b3tzxd1B1lbHkfS82aS8m) | [Hazoor](https://open.spotify.com/artist/2w2KXsKbBqfvok1KfOxETo) | [Faasley](https://open.spotify.com/album/5YvfUWclwYzDXijLAkSmkn) | 3:24 | 2022-06-21 | 2022-07-06 |
 | [Fake Love](https://open.spotify.com/track/6QFfwKbcMI37vdK5NtnCGf) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/2lB3Md9Te4NO7FMVJJE3bh), [Amar Sandhu](https://open.spotify.com/artist/3nHrG4Rydw3kRroBjwwGhp), [Royal Maan](https://open.spotify.com/artist/6MHxMEFX5cIIcXFzpycr09) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:32 | 2022-08-22 |  |
 | [Fallin Star](https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Fallin Star](https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI) | 2:45 | 2022-06-28 |  |
+| [Falling 4 U](https://open.spotify.com/track/5UlSBJhLu85mlwXnLaJtIy) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Falling 4 U](https://open.spotify.com/album/5zLxii8804NDr2sjfUkpP1) | 4:40 | 2022-08-24 |  |
 | [Faraar](https://open.spotify.com/track/3QDL9HK2SdbQK600Uoz6St) | [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Faraar](https://open.spotify.com/album/2nz8h9fxrMfl5ZLtWBLFzF) | 3:12 | 2021-12-02 | 2022-04-06 |
 | [Feel Safe](https://open.spotify.com/track/4m268S7e5ttPQQbFRM8Ah0) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Feel Safe](https://open.spotify.com/album/6ZR6Il83UooDKFMUqR7QnT) | 2:41 | 2022-08-19 |  |
 | [Feelinga](https://open.spotify.com/track/3Z3LWu6W9E64D1PuyNqlWD) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Kamal Longwal](https://open.spotify.com/artist/3oZRmK1lNVPMjKck5cdOgR) | [Feelinga](https://open.spotify.com/album/1Dg0h9qaMvlQd9CrWqOhve) | 2:30 | 2022-07-15 |  |
@@ -372,6 +373,7 @@
 | [Saada Pyaar](https://open.spotify.com/track/5gSVKG0R4xc8qtDIoyDNy8) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 3:33 | 2021-12-02 | 2022-07-06 |
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2022-03-07 | 2022-04-06 |
 | [Saah](https://open.spotify.com/track/7HffX1reE0a6KPbiAndrZ4) | [Kevvy Saage](https://open.spotify.com/artist/7lPPioms8qtMrlwBjCVhhi) | [Saah](https://open.spotify.com/album/20S28a9GLuSxQu66IVZ5HE) | 2:46 | 2022-02-18 | 2022-03-11 |
+| [Sab Kuchh \(From "MOH"\)](https://open.spotify.com/track/7HV84VsK9HDX1XJh3mxwaW) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Sab Kuchh \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6FII2by2pqBRs4ooDQIpI2) | 4:20 | 2022-08-24 |  |
 | [Sab Ton Sohna](https://open.spotify.com/track/6mAovKYMzKh2GXjRxf1MBs) | [Mehtab Virk](https://open.spotify.com/artist/6npKsb0CeJMFX3FwjKybfD), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u), [Diljot Singh](https://open.spotify.com/artist/5tVnXYsdGvaQUw5dGP0Jzi) | [Sab Ton Sohna](https://open.spotify.com/album/2ZDlFSF66TFDLE7aO8JdQJ) | 2:01 | 2022-04-18 | 2022-04-29 |
 | [Sadi Goodluck \(feat\. Aman Hayer\)](https://open.spotify.com/track/1vpHo0efrA4MknIfSilvFB) | [K.S Makhan](https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3), [Aman Hayer](https://open.spotify.com/artist/2BbbmzjRFPhzLWrLQxvlus) | [Sadi Goodluck \(feat\. Aman Hayer\)](https://open.spotify.com/album/7ogfUS96zWyJNJDDLmgfHB) | 3:25 | 2022-02-08 | 2022-02-12 |
 | [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/37moX1cdAtkbIh9Harf3TN) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 2:24 | 2022-02-25 | 2022-03-11 |

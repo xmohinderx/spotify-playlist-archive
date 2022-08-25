@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Kay9ine
 
-128 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/05XcV66yrFwpM4y0Nurpue)
+130 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/05XcV66yrFwpM4y0Nurpue)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Better With You Than On My Own](https://open.spotify.com/track/32M9aAAuuhybp33wiLWtes) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Better With You Than On My Own](https://open.spotify.com/album/7L5a0opz3RoRKg7e3683D7) | 2:20 | 2022-04-05 |  |
 | [Bobby & Rowdy \(feat\. Knucks\)](https://open.spotify.com/track/61cml5GtNpau6KAsVjxvcV) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Bobby & Rowdy \(feat\. Knucks\)](https://open.spotify.com/album/4fkUSbK3YP5nSUf8RAKlPv) | 4:21 | 2022-04-05 | 2022-05-11 |
 | [Brasileiro](https://open.spotify.com/track/0Va1ocTchf8fzw7BFBdgI8) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Danny Sanchez](https://open.spotify.com/artist/73Urm8TgtoYR7Iavs8UTRL), [Kxmel](https://open.spotify.com/artist/2mUasKldelggtKWyP5qYFm) | [Brasileiro](https://open.spotify.com/album/38bxQJ2e8FDcWXfbvC7Xxz) | 3:34 | 2022-04-05 | 2022-05-25 |
-| [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 | 2022-04-05 |  |
+| [Broken Hearted Crook](https://open.spotify.com/track/0WQhEX03KEWDKi14HKr23H) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/4l05CxNJBHiUqOW1Mo3lHk) | 2:47 | 2022-08-02 |  |
+| [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 | 2022-04-05 | 2022-08-25 |
 | [Can’t Feel My Face](https://open.spotify.com/track/58soKhQRucM4TZa4fpKfxY) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Can’t Feel My Face](https://open.spotify.com/album/1GtsUPgOszu46D4XeSfnr9) | 2:42 | 2022-04-05 |  |
 | [Champagne Shots](https://open.spotify.com/track/7dbyaRWWFvB9UG2vcwTd3J) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Local Mvp](https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN) | 2:24 | 2022-04-05 |  |
 | [Champions League](https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [In my head](https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4) | 2:35 | 2022-04-05 |  |
@@ -131,7 +132,8 @@
 | [War](https://open.spotify.com/track/7M5MRJOlIBklSmQBWpPbSP) | [BRANDEUS](https://open.spotify.com/artist/0n1lswLFJqzzAbBfSJYJYI), [Shiloh Dynasty](https://open.spotify.com/artist/6e4vYHwawq5koEqTjlS2ko) | [War](https://open.spotify.com/album/7qfVeHh7Z6Eysap29pdko9) | 3:12 | 2022-04-05 | 2022-05-25 |
 | [What's the Point \- Radio Edit](https://open.spotify.com/track/24sWJqJEiYdycQnA62uys6) | [Dylan Beddz](https://open.spotify.com/artist/1ANzFoaiP7gNsQjJUDX5Hs) | [What's the Point](https://open.spotify.com/album/32gux56jMFcP8i5aNBxd72) | 3:21 | 2022-04-05 | 2022-05-25 |
 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 | 2022-08-02 |  |
-| [Why you gotta lie?](https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7) | 2:36 | 2022-04-05 |  |
+| [Why you gotta lie?](https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7) | 2:36 | 2022-04-05 | 2022-08-25 |
+| [Why you gotta lie?](https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE) | 2:36 | 2022-08-02 |  |
 | [Whym I High](https://open.spotify.com/track/5FpbqE2b8aPIBhbgE5ZBDh) | [ARTAN](https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2) | [Chasing Dragons](https://open.spotify.com/album/61xjNjyzWfl9XwOxJYAYvS) | 3:54 | 2022-04-05 | 2022-04-27 |
 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 | 2022-05-10 |  |
 | [Woolwich Arsenal \(DLR\)](https://open.spotify.com/track/6OJafQ0Wani47osF2yNCKv) | [KwolleM](https://open.spotify.com/artist/5SFnJjOMV4N33wEpGvDwik), [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD) | [c2c](https://open.spotify.com/album/27sSI2AzVhhO1ldaekF2Wz) | 1:39 | 2022-04-05 | 2022-08-03 |

@@ -536,6 +536,24 @@
     },
     {
       "album": {
+        "name": "Isteri",
+        "url": "https://open.spotify.com/album/31hFm4Jh0q1LS4oQSO7EhN"
+      },
+      "artists": [
+        {
+          "name": "Alif Satar & The Locos",
+          "url": "https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164127,
+      "name": "Isteri",
+      "url": "https://open.spotify.com/track/1H50k7ZiylQVuuVOYIvlZr"
+    },
+    {
+      "album": {
         "name": "Jangan Menangis Cinta",
         "url": "https://open.spotify.com/album/6g8SiSsDDK79vqzTgYwRll"
       },
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 227595,
       "name": "Terlukis Indah",
       "url": "https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa"

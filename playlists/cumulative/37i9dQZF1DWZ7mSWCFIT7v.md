@@ -4,7 +4,7 @@
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-260 songs - 21 hr 16 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
+261 songs - 21 hr 19 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 | 2021-10-06 |  |
 | [Anxi.](https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Kelly Lee Owens](https://open.spotify.com/album/0aol42apbylFf2POjiAOeP) | 3:47 | 2021-10-06 |  |
 | [Anxi.](https://open.spotify.com/track/4IEPy8Qp4PJT2gHFYdTbnW) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Kelly Lee Owens](https://open.spotify.com/album/3Zx14dyUjtZcEas89nZZfn) | 3:47 | 2021-10-06 | 2022-04-20 |
-| [APOPHENIA](https://open.spotify.com/track/6xogUp1sNiUs2qQMTLrwjB) | [Out Of Place Artefacts](https://open.spotify.com/artist/7agTRlVVHyy6v5TjyDuxyL), [Vril](https://open.spotify.com/artist/1nOi03kPUAMbOCl4lX9Avp), [Rødhåd](https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h) | [Vril & Rødhåd Presents Out Of Place Artefacts](https://open.spotify.com/album/4eVEuSJZiFT5bIvkHzS78w) | 5:50 | 2021-10-06 |  |
+| [APOPHENIA](https://open.spotify.com/track/6xogUp1sNiUs2qQMTLrwjB) | [Out Of Place Artefacts](https://open.spotify.com/artist/7agTRlVVHyy6v5TjyDuxyL), [Vril](https://open.spotify.com/artist/1nOi03kPUAMbOCl4lX9Avp), [Rødhåd](https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h) | [Vril & Rødhåd Presents Out Of Place Artefacts](https://open.spotify.com/album/4eVEuSJZiFT5bIvkHzS78w) | 5:50 | 2021-10-06 | 2022-08-25 |
 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 | 2022-02-25 |  |
 | [Archaeans](https://open.spotify.com/track/1kHbjqdVYRQZHwI1abKgEj) | [Domingæ](https://open.spotify.com/artist/43UALB725slLtqdyze6RZp) | [Archaeans](https://open.spotify.com/album/0bUfKOHhJQGTEn59ZatDFy) | 4:22 | 2021-10-06 | 2022-07-27 |
 | [Arpeggi](https://open.spotify.com/track/5c30Lqd4zY3dpMK2usb9yU) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7) | 4:45 | 2021-10-06 | 2022-07-29 |
@@ -86,6 +86,7 @@
 | [Ephemera](https://open.spotify.com/track/0lPuVl7IOARj1HFFL5t5yK) | [Cameron Morse](https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl) | [Ephemera](https://open.spotify.com/album/3aCr59wGtaSDunfN6J0PPF) | 2:58 | 2022-01-21 | 2022-07-17 |
 | [Eucalyptus](https://open.spotify.com/track/4CFX1ahXjEL4aE0KdtuVOs) | [Dadras](https://open.spotify.com/artist/7BImjgEzTuDG9xyCRepmEY) | [Holy Wind](https://open.spotify.com/album/122Og5x68k4EnTaK4ETH4Q) | 5:12 | 2021-10-06 | 2022-07-29 |
 | [Eutow](https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 4:15 | 2021-10-06 |  |
+| [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 | 2022-08-24 |  |
 | [Every Since And Then](https://open.spotify.com/track/1RNe4viqCD97PgAChQers4) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Glass Bird Movement](https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm) | 5:38 | 2021-10-06 |  |
 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 | 2022-02-25 |  |
 | [F7](https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 5:56 | 2021-10-06 |  |

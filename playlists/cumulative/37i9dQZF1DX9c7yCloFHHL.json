@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 256926,
       "name": "Alzheimer's Disease (Floor 1)",
       "url": "https://open.spotify.com/track/644RtTy8O2hT4zpF5BSVTA"
@@ -2005,16 +2005,12 @@
       },
       "artists": [
         {
-          "name": "Carsten Nicolai",
-          "url": "https://open.spotify.com/artist/3aJZxbrbxP5qfQ755XurHS"
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         },
         {
           "name": "Ryuichi Sakamoto",
           "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        },
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         }
       ],
       "date_added": "2022-08-19",
@@ -6407,7 +6403,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 164826,
       "name": "Music For Growing Flowers - Pt. 5",
       "url": "https://open.spotify.com/track/1HoCiBasSm8HLDQ6TIyZlL"

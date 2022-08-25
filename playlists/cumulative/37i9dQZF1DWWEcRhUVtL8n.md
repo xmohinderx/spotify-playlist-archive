@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Chloe Moriondo
 
-1,326 songs - 2 day 21 hr 39 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,327 songs - 2 day 21 hr 41 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Fuck June](https://open.spotify.com/track/6zIjeRxHPybvw7ZjWsEa8i) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Fuck June](https://open.spotify.com/album/2HXUqQUzY12VNpdlEmyLvK) | 2:58 | 2021-06-11 | 2022-04-12 |
 | [fuck sex](https://open.spotify.com/track/2aBd3rkEzBc35myxSkEzQS) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [fuck sex](https://open.spotify.com/album/1WziZgKNvFgY3nkQVcvosw) | 3:19 | 2022-01-07 | 2022-04-20 |
 | [Fuck What People Say](https://open.spotify.com/track/374oRsbKs0t6GWDKJorPt6) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Fuck What People Say](https://open.spotify.com/album/4VUAWpsRiLFjrFXU6SzzQT) | 2:46 | 2020-10-20 | 2021-10-12 |
+| [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 | 2022-08-19 |  |
 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 | 2021-02-22 | 2021-05-26 |
 | [Furniture](https://open.spotify.com/track/5hwCVRrBvFOkH3oK0LB7Fc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Furniture](https://open.spotify.com/album/62JRLwlRIdkFkFs22DnE51) | 2:36 | 2020-10-20 | 2021-02-01 |
 | [Furniture](https://open.spotify.com/track/6Yw8OzTprQU3pqwnBRodi3) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Furniture](https://open.spotify.com/album/4ESA2feUF3VJ5tWpFmbgwB) | 2:36 | 2021-01-23 | 2022-06-15 |
@@ -920,7 +921,7 @@
 | [Peppermint](https://open.spotify.com/track/3ctqg4MEmlXWYFmVOS3scN) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Peppermint](https://open.spotify.com/album/60pOtoZi07EpHXeae4G9tp) | 3:18 | 2022-04-29 | 2022-07-01 |
 | [Perfect Timing](https://open.spotify.com/track/2OwLOjsJ7HTWQtnkInjHdL) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Perfect Timing](https://open.spotify.com/album/0xYhsSyXjDVBw2NtxkDYfu) | 2:13 | 2022-06-17 | 2022-07-29 |
 | [Perfume](https://open.spotify.com/track/3wJAk2rKEEoYlXSLpLVrkU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Perfume](https://open.spotify.com/album/1vDtewM5wjw6WzUHS3aZqz) | 3:52 | 2021-08-27 | 2022-07-23 |
-| [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 |  |
+| [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 | 2022-08-25 |
 | [PFC](https://open.spotify.com/track/0UHe6dSc0GrbuB6BlNXZZF) | [CRITTER](https://open.spotify.com/artist/7arvE5qBEbW7UgwoaJhpOM) | [PFC](https://open.spotify.com/album/0ECVeURUW3ZFLSMLErSs1V) | 3:06 | 2021-02-28 | 2021-05-27 |
 | [Pick Me Up](https://open.spotify.com/track/77d7t7SYR0YAXgXePYo8t5) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [Pick Me Up](https://open.spotify.com/album/5V5x9zEi6XCVnn15qjpDRP) | 2:44 | 2020-11-13 | 2021-01-15 |
 | [Pick Up Your Phone](https://open.spotify.com/track/5jDpJZ4AV0YVV8o9Ez2U9s) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Pick Up Your Phone](https://open.spotify.com/album/2ZrT2t1qTMcRD9Q1Uy9sx3) | 2:49 | 2020-10-13\* | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Queen B
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,513 likes - 67 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,835 likes - 67 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

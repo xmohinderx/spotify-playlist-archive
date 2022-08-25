@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Jess Bays & Leah Guest
 
-301 songs - 18 hr 16 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+302 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [All About Love \- Edit](https://open.spotify.com/track/6MPAQZTnBh5NvR9cH0qCJS) | [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5), [India Jordan](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [All About Love](https://open.spotify.com/album/6E1oO7l6NAQYVXk1cJyCk7) | 3:38 | 2021-12-17 | 2022-04-08 |
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-06-23 |  |
 | [Anywhere With You](https://open.spotify.com/track/0RG81CtArQ6WWE5W7cGocf) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Anywhere With You EP](https://open.spotify.com/album/5So0sPYfpNBhyNpvQOjnVi) | 2:42 | 2022-08-05 |  |
-| [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/7M1125M74qeHedad25bx4U) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) / Move To The](https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR) | 3:46 | 2022-06-16 |  |
+| [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-08-18 |  |
+| [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/7M1125M74qeHedad25bx4U) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) / Move To The](https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR) | 3:46 | 2022-06-16 | 2022-08-25 |
 | [Back & Forth \(feat\. Lily McKenzie\)](https://open.spotify.com/track/5SR4zjjTJkE4JrPePimo0S) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Lily Mckenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Back & Forth \(feat\. Lily McKenzie\)](https://open.spotify.com/album/1TaQuOSMld01fVFoaZPukO) | 2:54 | 2022-03-08 | 2022-03-10 |
 | [Back Tae Ayr](https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Back Tae Ayr](https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27) | 5:32 | 2021-12-17 | 2022-04-02 |
 | [Back To The Sound](https://open.spotify.com/track/3c8Nv4TXZlOD608H4tI5RD) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Back To The Sound](https://open.spotify.com/album/4rSDxcYD1aEKUEePGFtprf) | 2:44 | 2022-03-11 | 2022-07-08 |

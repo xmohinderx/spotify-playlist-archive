@@ -1,12 +1,12 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 35560,
+  "num_followers": 35579,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzE4MjkyMCwwMDAwMDAwMGU3NzMwNjJhN2Q1ZDAyZDMwMWYzOWFhZjBhMjNkMzcw",
+  "snapshot_id": "MTY1NzE4MjkyMCwwMDAwMDAwMDRiZGNjZmJmYjEyNTQ4N2QwYmY4M2RhNzQxNGU3MmNl",
   "tracks": [
     {
       "added_at": "2022-07-07 08:35:20",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
+        "name": "Veenai Jayanthi Kumaresh",
+        "url": "https://open.spotify.com/album/4kUGwkHXKBbaLwnqTIrg0J"
+      },
+      "artists": [
+        {
+          "name": "Jayanthi Kumaresh",
+          "url": "https://open.spotify.com/artist/3Zbm5f0WBZM9ChNuTBbLsT"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Varnam",
+      "url": "https://open.spotify.com/track/4ZFM5yFsjEzvZ1XmP27L5r"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
         "name": "Chinnajiru Kiliye (Live)",
         "url": "https://open.spotify.com/album/7APbQUf3zF9aXR4wVFXcia"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 255720,
       "name": "Kurai Onrum Illai - Ragamalika - Adi (Live)",
       "url": "https://open.spotify.com/track/1OmHmuOvobYHUPrxXcR9HY"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Veenai Jayanthi Kumaresh",
-        "url": "https://open.spotify.com/album/4kUGwkHXKBbaLwnqTIrg0J"
-      },
-      "artists": [
-        {
-          "name": "Jayanthi Kumaresh",
-          "url": "https://open.spotify.com/artist/3Zbm5f0WBZM9ChNuTBbLsT"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Varnam",
-      "url": "https://open.spotify.com/track/4ZFM5yFsjEzvZ1XmP27L5r"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Bharatiyaar Songs - Veena",
-        "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
-      },
-      "artists": [
-        {
-          "name": "Rajhesh Vaidhya",
-          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
-        }
-      ],
-      "duration_ms": 167366,
-      "name": "Senthamizh",
-      "url": "https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Annapoorne Visalakshi - Sikkil Mala Chandrasekhar",
         "url": "https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 341080,
       "name": "Annapoorne Visalakshi (Raga: Sama; Tala: Adi)",
       "url": "https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Bharatiyaar Songs - Veena",
+        "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "duration_ms": 167366,
+      "name": "Senthamizh",
+      "url": "https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Apoorva Thillanas",
-        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
       },
       "artists": [
         {
-          "name": "Apoorva Krishna",
-          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
         }
       ],
-      "duration_ms": 384704,
-      "name": "Charukesi (Violin Solo)",
-      "url": "https://open.spotify.com/track/7sbj3epB23VijBZxq8FgNs"
+      "duration_ms": 257561,
+      "name": "Enna Thavam Seithanai - Instrumental",
+      "url": "https://open.spotify.com/track/2Hn8wghPZIGwluTF0feE9o"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
-        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+        "name": "Apoorva Thillanas",
+        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
       },
       "artists": [
         {
-          "name": "Ramachandra Murthy",
-          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
         }
       ],
-      "duration_ms": 257561,
-      "name": "Enna Thavam Seithanai - Instrumental",
-      "url": "https://open.spotify.com/track/2Hn8wghPZIGwluTF0feE9o"
+      "duration_ms": 384704,
+      "name": "Charukesi (Violin Solo)",
+      "url": "https://open.spotify.com/track/7sbj3epB23VijBZxq8FgNs"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -615,34 +615,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Apoorva Thillanas",
-        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
       },
       "artists": [
         {
-          "name": "Apoorva Krishna",
-          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
         }
       ],
-      "duration_ms": 404551,
-      "name": "Hamir Kalyani (Violin Solo)",
-      "url": "https://open.spotify.com/track/5EQTrn2xIK4ZZACJjDOAXn"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Pancharatna Kritis - A Flute Duet",
-        "url": "https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ"
-      },
-      "artists": [
-        {
-          "name": "Flute J A Jayant",
-          "url": "https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP"
-        }
-      ],
-      "duration_ms": 527000,
-      "name": "Saadhinchane - Aarabhi",
-      "url": "https://open.spotify.com/track/3agk4o0xCN0MH2yRmpKHsq"
+      "duration_ms": 324878,
+      "name": "Nagavulu Nijamani - Instrumental",
+      "url": "https://open.spotify.com/track/5zmKyzppUB4Lv2DIzLV9j4"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -679,6 +663,22 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
+        "name": "Pancharatna Kritis - A Flute Duet",
+        "url": "https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ"
+      },
+      "artists": [
+        {
+          "name": "Flute J A Jayant",
+          "url": "https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP"
+        }
+      ],
+      "duration_ms": 527000,
+      "name": "Saadhinchane - Aarabhi",
+      "url": "https://open.spotify.com/track/3agk4o0xCN0MH2yRmpKHsq"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
         "name": "South Indian Classical Music",
         "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 459173,
       "name": "Ramabhirama Darbar Misrachappu",
       "url": "https://open.spotify.com/track/0dhXKFpfhZMFeEPgdbIGGn"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Keeravani - Ragam, Thaanam, Pallavai",
+        "url": "https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN"
+      },
+      "artists": [
+        {
+          "name": "Akkarai Subhalakshmi",
+          "url": "https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn"
+        }
+      ],
+      "duration_ms": 1169093,
+      "name": "Raagam Keeravani - Aalapanai",
+      "url": "https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -715,70 +731,6 @@
       "duration_ms": 851586,
       "name": "Sri Kantimateem: Kriti",
       "url": "https://open.spotify.com/track/4hg9XXjCehm0dJTXQkAfWj"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Keeravani - Ragam, Thaanam, Pallavai",
-        "url": "https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN"
-      },
-      "artists": [
-        {
-          "name": "Akkarai Subhalakshmi",
-          "url": "https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn"
-        }
-      ],
-      "duration_ms": 1169093,
-      "name": "Raagam Keeravani - Aalapanai",
-      "url": "https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Apoorva Thillanas",
-        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
-      },
-      "artists": [
-        {
-          "name": "Apoorva Krishna",
-          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Vasantha (Violin Solo)",
-      "url": "https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
-        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
-      },
-      "artists": [
-        {
-          "name": "Ramachandra Murthy",
-          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
-        }
-      ],
-      "duration_ms": 324878,
-      "name": "Nagavulu Nijamani - Instrumental",
-      "url": "https://open.spotify.com/track/5zmKyzppUB4Lv2DIzLV9j4"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Pancharatna Kritis - A Flute Duet",
-        "url": "https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ"
-      },
-      "artists": [
-        {
-          "name": "Flute J A Jayant",
-          "url": "https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP"
-        }
-      ],
-      "duration_ms": 712750,
-      "name": "Endharo Mahanubhavulu - Sri - Adi",
-      "url": "https://open.spotify.com/track/0qguzzX3NPA54HNDXpIhtE"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -811,22 +763,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Mahathi Melodies",
-        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
+        "name": "Apoorva Thillanas",
+        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
       },
       "artists": [
         {
-          "name": "Tyagaraja",
-          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
-        },
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
         }
       ],
-      "duration_ms": 390635,
-      "name": "Sriganesa Thilang Adi",
-      "url": "https://open.spotify.com/track/1Oievd5Y3lAwGxuxHGXSM5"
+      "duration_ms": 404551,
+      "name": "Hamir Kalyani (Violin Solo)",
+      "url": "https://open.spotify.com/track/5EQTrn2xIK4ZZACJjDOAXn"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -847,6 +795,26 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
+        "name": "Mahathi Melodies",
+        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
+      },
+      "artists": [
+        {
+          "name": "Tyagaraja",
+          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
+        },
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "duration_ms": 390635,
+      "name": "Sriganesa Thilang Adi",
+      "url": "https://open.spotify.com/track/1Oievd5Y3lAwGxuxHGXSM5"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
         "name": "Jugalbandi",
         "url": "https://open.spotify.com/album/1bPHAPrh72uPGIiNnKcije"
       },
@@ -863,6 +831,54 @@
       "duration_ms": 3604133,
       "name": "Alaap & Melody: Ragaabheri (Rupaka - Aditala) / Raga Bhimplasi (Ektaal - Teentaal)",
       "url": "https://open.spotify.com/track/7hriryGOJZMeeIO9DITSOJ"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Pancharatna Kritis - A Flute Duet",
+        "url": "https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ"
+      },
+      "artists": [
+        {
+          "name": "Flute J A Jayant",
+          "url": "https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP"
+        }
+      ],
+      "duration_ms": 712750,
+      "name": "Endharo Mahanubhavulu - Sri - Adi",
+      "url": "https://open.spotify.com/track/0qguzzX3NPA54HNDXpIhtE"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Apoorva Thillanas",
+        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Vasantha (Violin Solo)",
+      "url": "https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "The Best of Carnatic Instrumental",
+        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+      },
+      "artists": [
+        {
+          "name": "Doraiswamy Iyengar",
+          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+        }
+      ],
+      "duration_ms": 309968,
+      "name": "Ghana Ragamalika Tanam",
+      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -899,22 +915,6 @@
       "duration_ms": 344581,
       "name": "Maha Ganapathim Nata Chatusraekam - original",
       "url": "https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "The Best of Carnatic Instrumental",
-        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
-      },
-      "artists": [
-        {
-          "name": "Doraiswamy Iyengar",
-          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
-        }
-      ],
-      "duration_ms": 309968,
-      "name": "Ghana Ragamalika Tanam",
-      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
+        "name": "Classical Icons - U. Srinivas",
+        "url": "https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi"
+      },
+      "artists": [
+        {
+          "name": "U. Srinivas",
+          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
+        },
+        {
+          "name": "S. D. Shreedhar",
+          "url": "https://open.spotify.com/artist/4dxOpsI4hcEO0T6LSAAY2v"
+        }
+      ],
+      "duration_ms": 1609960,
+      "name": "Srikanthimati - Raga Hemavati - Adi",
+      "url": "https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
         "name": "Navaragini",
         "url": "https://open.spotify.com/album/4xFc6V2upugP7RI3hSKhYa"
       },
@@ -1075,22 +1095,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Classical Icons - U. Srinivas",
-        "url": "https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi"
+        "name": "Laya Vinyas",
+        "url": "https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn"
       },
       "artists": [
         {
-          "name": "U. Srinivas",
-          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
-        },
-        {
-          "name": "S. D. Shreedhar",
-          "url": "https://open.spotify.com/artist/4dxOpsI4hcEO0T6LSAAY2v"
+          "name": "Trichy Sankaran",
+          "url": "https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd"
         }
       ],
-      "duration_ms": 1609960,
-      "name": "Srikanthimati - Raga Hemavati - Adi",
-      "url": "https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt"
+      "duration_ms": 233693,
+      "name": "Kriti: Padavini with Vina and Mrdangam",
+      "url": "https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Laya Vinyas",
-        "url": "https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn"
+        "name": "Compositions Of Papanasam Sivam",
+        "url": "https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5"
       },
       "artists": [
         {
-          "name": "Trichy Sankaran",
-          "url": "https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd"
+          "name": "U. Srinivas",
+          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
         }
       ],
-      "duration_ms": 233693,
-      "name": "Kriti: Padavini with Vina and Mrdangam",
-      "url": "https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q"
+      "duration_ms": 457360,
+      "name": "Thatwamaria - Reeti Gowla - Adi",
+      "url": "https://open.spotify.com/track/1PJmg2Y59CRBhT6wzrAdzl"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -1163,22 +1179,6 @@
       "duration_ms": 200400,
       "name": "Nravadhi Sugadha",
       "url": "https://open.spotify.com/track/7a3ZnJVKO66APNbbV9a18g"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Compositions Of Papanasam Sivam",
-        "url": "https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5"
-      },
-      "artists": [
-        {
-          "name": "U. Srinivas",
-          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
-        }
-      ],
-      "duration_ms": 457360,
-      "name": "Thatwamaria - Reeti Gowla - Adi",
-      "url": "https://open.spotify.com/track/1PJmg2Y59CRBhT6wzrAdzl"
     },
     {
       "added_at": "2022-07-07 08:35:20",

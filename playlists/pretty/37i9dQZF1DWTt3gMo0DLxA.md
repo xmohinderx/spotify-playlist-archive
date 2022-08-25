@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,632 likes - 52 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,659 likes - 52 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 35 | [Tring Tring](https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 4:20 |
 | 36 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 |
 | 37 | [Vaaru Veeru](https://open.spotify.com/track/2os5ZEWZ2lwGRh4aBYOAE4) | [Anurag Kulkarni, Anjana Sowmya](https://open.spotify.com/artist/3TZcSiEaHTHSMUbSd76J8J) | [Devadas](https://open.spotify.com/album/0xcDSSJZtVGNIOFch0L99D) | 4:26 |
-| 38 | [Ninnu Chudakunda Undalekapothunnanu](https://open.spotify.com/track/52753ylTtO0sbDo6Is2Pxu) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Check](https://open.spotify.com/album/0MdbUcs1RFozb1oEXgh0kA) | 3:35 |
-| 39 | [Rowdy Baby](https://open.spotify.com/track/7i0Fee6bIqMcj4VyO4gnPN) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Maari 2 \[Telugu\] \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22RsOcEtNYmdBQlCJ45SeQ) | 4:41 |
+| 38 | [Rowdy Baby](https://open.spotify.com/track/7i0Fee6bIqMcj4VyO4gnPN) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Maari 2 \[Telugu\] \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22RsOcEtNYmdBQlCJ45SeQ) | 4:41 |
+| 39 | [Ninnu Chudakunda Undalekapothunnanu](https://open.spotify.com/track/52753ylTtO0sbDo6Is2Pxu) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Check](https://open.spotify.com/album/0MdbUcs1RFozb1oEXgh0kA) | 3:35 |
 | 40 | [Alludu Adhurs](https://open.spotify.com/track/5nP5Y7qkiiWi70QueS3qF8) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Vaishnavi](https://open.spotify.com/artist/6EvZzYQvYz8M9s2JOXpe9e) | [Alludu Adhurs](https://open.spotify.com/album/3kus7s3pIDVtyckV59gkKs) | 4:01 |
 | 41 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 |
 | 42 | [Girra Girra](https://open.spotify.com/track/5GQ5gYGmIXeACMJk5E1RQR) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [F2](https://open.spotify.com/album/0CkMSLqE73UxkDdF2zGMeO) | 4:55 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
 | 52 | [Puttene Prema](https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs) | 3:46 |
 
-Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDE2MzZiZTA3NmE2Mzk2M2NkNThmZjJjOGU5NzVhMGVj`
+Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDFhNTM0OWQyM2M1MzVmNTZiMzM1OTgzNWEzYTA3OTcx`

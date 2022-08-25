@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-498 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+499 songs - 1 day 2 hr 10 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Slam \(Angel Miners\)](https://open.spotify.com/track/7CyFol088Z8iL4mDsSrgXA) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Slam \(Angel Miners\)](https://open.spotify.com/album/1QQG3ERdrTV7vQvNQh1sXG) | 4:48 | 2022-03-24 | 2022-04-18 |
 | [slowdown](https://open.spotify.com/track/3VMMl848gC3L3OqCXwl1uF) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [simulation](https://open.spotify.com/album/4Y49Day8mdKqVqhFoVJFRX) | 2:43 | 2022-03-24 | 2022-04-21 |
 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 | 2022-03-24 | 2022-04-19 |
+| [so what!](https://open.spotify.com/track/1UTnLtgadp10wkFrDWXn3u) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [so what!](https://open.spotify.com/album/600i38QcfI9f9rZZUNzRiA) | 2:04 | 2022-08-19 |  |
 | [Sober/Hungover \(feat\. Arizona Zervas\)](https://open.spotify.com/track/4yfQyGR61s7Mc5898V1BE6) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [Sober/Hungover \(feat\. Arizona Zervas\)](https://open.spotify.com/album/7eZqdxIfr07B8Vr02Ijd5K) | 2:49 | 2022-03-17 | 2022-07-27 |
 | [Something Unreal](https://open.spotify.com/track/0eL459KLWfWjAJswx9MysK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Last Time](https://open.spotify.com/album/3hB121yuKWnt1sRyJV9UK3) | 3:31 | 2022-03-24 | 2022-04-12 |
 | [Sometimes](https://open.spotify.com/track/0uDsj6KuyEjlFoqQvBcpD4) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Sometimes](https://open.spotify.com/album/0pBAd71oIWyzc7hNeUxbXG) | 3:48 | 2022-03-24 | 2022-04-19 |
@@ -478,7 +479,7 @@
 | [W.A.I.S.T.D\. \(what am I supposed to do\)](https://open.spotify.com/track/5xIpDXjT1Dq3IHnQVXPuLi) | [Kristin Sesselja](https://open.spotify.com/artist/5cCNyLzR6LfXj5GXjWnN7B) | [W.A.I.S.T.D\. \(what am I supposed to do\)](https://open.spotify.com/album/2Q7csZfS4J7NyclxV9BcVG) | 2:58 | 2022-03-24 | 2022-04-12 |
 | [Wake Me up When My 20's End](https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Wake Me up When My 20's End](https://open.spotify.com/album/7cNEaCkk9aR3DeTXxyYgID) | 3:14 | 2022-04-14 | 2022-06-11 |
 | [Walk Away](https://open.spotify.com/track/5VjkLpmGmWsbEZMgrvuamt) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Walk Away](https://open.spotify.com/album/5y83Nst94Qnc0TC3Thlk7J) | 3:03 | 2022-03-24 | 2022-04-21 |
-| [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2022-03-17 |  |
+| [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2022-03-17 | 2022-08-25 |
 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 | 2022-03-17 | 2022-07-15 |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-03-17 | 2022-07-29 |
 | [Wasting Time](https://open.spotify.com/track/5xTObgZhZ8WaKy0Zb0yCwZ) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Dizzyonatightrope](https://open.spotify.com/album/1uYnR6GP38pTjEOIMccjcF) | 3:43 | 2022-03-24 | 2022-04-17 |

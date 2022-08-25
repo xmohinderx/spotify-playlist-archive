@@ -4,7 +4,7 @@
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Steve Lacy
 
-567 songs - 1 day 6 hr 59 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+568 songs - 1 day 7 hr 3 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Grown](https://open.spotify.com/track/1ThVOUDQwQsgeSdoxrkPGc) | [Brahny](https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX) | [Grown](https://open.spotify.com/album/6R6dEkUpLr7wUuYBKpUpxy) | 3:16 | 2022-04-01 | 2022-04-14 |
 | [Guilty Conscience](https://open.spotify.com/track/50aTwBKhPD3D3BW04UtjmA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Guilty Conscience](https://open.spotify.com/album/7atL3NBAVjqASdyz6Pcw5V) | 3:33 | 2021-03-19 | 2022-04-14 |
 | [haircut](https://open.spotify.com/track/2TAPDfBVQU50hNcbGUq9Q8) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [haircut](https://open.spotify.com/album/6DDPra9LW0x5iQCdV84HXV) | 2:57 | 2021-06-11 | 2022-07-22 |
+| [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-08-19 |  |
 | [HAZY](https://open.spotify.com/track/6zlIN2RRLiNzitagYR44m0) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [HAZY](https://open.spotify.com/album/0UnN9OMzVQv5lO3yo7tWGN) | 2:48 | 2022-02-08 |  |
 | [HEADLINE](https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [HEADLINE](https://open.spotify.com/album/3FhtDmAzJe8t8RveMcmNJb) | 3:16 | 2021-07-23 | 2022-07-30 |
 | [Hearing Voices](https://open.spotify.com/track/46xL5K2FYBjmz9BlWPxuoH) | [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF) | [Hearing Voices](https://open.spotify.com/album/7gu4c1AfxRS9a9FXsliws8) | 2:17 | 2022-08-19 |  |
@@ -450,7 +451,7 @@
 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 | 2021-03-19 | 2022-06-29 |
 | [Shy Dancer](https://open.spotify.com/track/6rIXjTkphb5RB5cXGz6CyX) | [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [Shy Dancer](https://open.spotify.com/album/6qk0iK3VpzfcnlZDNlBAPz) | 2:51 | 2021-03-19 | 2022-07-30 |
 | [Signal Down](https://open.spotify.com/track/6MXXwCvDKQBBNjR0RIKOhY) | [Daniel Hex](https://open.spotify.com/artist/05vHPIc91srHZA2JhBQzeX) | [Signal Down / Sideways](https://open.spotify.com/album/7K1r3n9CcH7fEbQMmctX86) | 2:01 | 2021-03-19 | 2022-01-21 |
-| [Simon Says](https://open.spotify.com/track/4QGITEzvSZ77PQCAp9XIkR) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:47 | 2022-08-05 |  |
+| [Simon Says](https://open.spotify.com/track/4QGITEzvSZ77PQCAp9XIkR) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:47 | 2022-08-05 | 2022-08-25 |
 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2022-07-24 |  |
 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 | 2021-03-19 | 2022-07-23 |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-25 | 2022-06-15 |

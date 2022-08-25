@@ -4,7 +4,7 @@
 
 > The best tunes in jazz history\. Cover: Louis Armstrong
 
-319 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/4TeJWp2FnWT3w9IWQNn7Hv)
+319 songs - 1 day 3 hr 55 min - [published](https://open.spotify.com/playlist/4TeJWp2FnWT3w9IWQNn7Hv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Cottontail](https://open.spotify.com/track/0gutl81vbXX1JGp5M0OoiE) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Once Upon A Time](https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY) | 3:13 | 2021-12-02 |  |
 | [Cristo Redentor \- Remastered](https://open.spotify.com/track/0Xfq6BeOHdzf16gk9y8a1P) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [A New Perspective \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3LG1c3DYgaEtCxea2z7ZSa) | 5:43 | 2022-04-08 |  |
 | [Crystal Silence](https://open.spotify.com/track/5F8rPLt2c52p0SK7kiH26b) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Return To Forever](https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc) | 6:55 | 2021-12-02 |  |
-| [Danny's Dream](https://open.spotify.com/track/13hLjPatKentvawsFceF9a) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:29 | 2021-12-02 |  |
+| [Danny's Dream](https://open.spotify.com/track/13hLjPatKentvawsFceF9a) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:38 | 2021-12-02 |  |
 | [Dedicated To You](https://open.spotify.com/track/0IxLWzmafWC5VTnpnvykJq) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Artistry Of Freddie Hubbard / The Body And The Soul](https://open.spotify.com/album/5oz9KYLyfXwjOLr2HxPoGx) | 3:22 | 2022-01-04 | 2022-07-29 |
 | [Dedicated To You](https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Body & The Soul](https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH) | 3:22 | 2022-06-28 |  |
 | [Dedicated To You](https://open.spotify.com/track/1GhDF8jJYkDtwH4NYXsDuh) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane & Johnny Hartman](https://open.spotify.com/album/3nmLPoLaRsN7cj9XkkDq2r) | 5:30 | 2021-12-02 | 2022-07-29 |

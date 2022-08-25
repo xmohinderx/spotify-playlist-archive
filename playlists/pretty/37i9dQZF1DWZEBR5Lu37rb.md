@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,097 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,113 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 30 | [Mapenzi](https://open.spotify.com/track/2e2dNpszZC0sCEuvfKVyQu) | [Kidum Kibido](https://open.spotify.com/artist/78NwwxOZkV9sNsdIYDWN9D) | [The Best Of Kidum Kibido](https://open.spotify.com/album/0W8soVwIq910Q2NYsDSZd7) | 5:53 |
 | 31 | [Lazizi](https://open.spotify.com/track/0AD7RuUTp8pwK5NIKaa30X) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:52 |
 | 32 | [Katapot](https://open.spotify.com/track/4aKKaiFsEifwr2CCcWJBy4) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Katapot](https://open.spotify.com/album/4vnplVs4Cposx5AUQ10kQ8) | 4:02 |
-| 33 | [Na Wewe Milele](https://open.spotify.com/track/1Ytwf25YZz90rJlDljEHUs) | [Ray C](https://open.spotify.com/artist/5Z0z4Dno7vlHGTw35vO66O) | [Na Wewe Milele](https://open.spotify.com/album/5Y8kt7pGgxX49WnAarqvtv) | 4:53 |
+| 33 | [NA WEWE MILELE](https://open.spotify.com/track/6FXngxda5ylUIIcFLQqqLb) | [Ray C](https://open.spotify.com/artist/3Dgejeu7lJ0wsom5Q06W0U) | [NA WEWE MILELE](https://open.spotify.com/album/7urOXTfV19PHfPKgk4IoRk) | 4:53 |
 | 34 | [Zeze](https://open.spotify.com/track/0SopH24w1T4KFqDSF7ZObO) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Girlfriend](https://open.spotify.com/album/3paXpDLkQ42bCZM2XNI223) | 4:03 |
 | 35 | [Queen](https://open.spotify.com/track/6jaAEpzi900M0MA1vRzfdG) | [Longombas](https://open.spotify.com/artist/06hcKIysyVVRvDn8IfZYes) | [Queen](https://open.spotify.com/album/0ZYhdNjWGxWqEKUBfULLs6) | 3:38 |
 | 36 | [Nota](https://open.spotify.com/track/5tPauDRDmFoM8GMEGRQPnt) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nota](https://open.spotify.com/album/6kLwbk0ix5h8oDblXNkImY) | 2:20 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 63 | [Ghanama](https://open.spotify.com/track/0AZxr9dlswnn6TNxIMyijH) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [African Queen](https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s) | 4:53 |
 | 64 | [Bye Bye](https://open.spotify.com/track/0cqStpyp4fqgMweeuDuyg3) | [Asem](https://open.spotify.com/artist/4b5hKyZcqBYGfSFhqOMyyZ), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Solid Ground](https://open.spotify.com/album/1SwHH5FFGEsoj428xaUU9k) | 5:05 |
 | 65 | [Asibe Happy](https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Asibe Happy](https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA) | 7:38 |
-| 66 | [Olufunmi](https://open.spotify.com/track/5oBMwr31HDA5zW0LKC5RVD) | [STYL\-PLUS](https://open.spotify.com/artist/0cN4aE1sxzn1o2Q86NdT3m) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 5:11 |
+| 66 | [Olufunmi](https://open.spotify.com/track/5oBMwr31HDA5zW0LKC5RVD) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 5:11 |
 | 67 | [Sinzia](https://open.spotify.com/track/4mJmoECoteOkbB8BBn1M6Y) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf) | [Nameless Re\-Invented \(2006\-2014\)](https://open.spotify.com/album/2Jd8SpLLLOS8Yz9Tvt08bY) | 4:28 |
 | 68 | [Nomvula](https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/2PGgRx2PWQEGzs9Eu2SM0A) | 4:37 |
 | 69 | [2 Bob](https://open.spotify.com/track/1gWk3Nj3bDPlRLBUlmoEco) | [Malaika](https://open.spotify.com/artist/4MGdpmr2NJjQdJYkkimg7b) | [The Essential](https://open.spotify.com/album/3jVO6qDEwzKmcA7RWvAIlL) | 6:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 100 | [Haiwihaiwi \(feat\. Bienaime\)](https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT), [Bien Aime](https://open.spotify.com/artist/7F39RDj6PGoOTLqSxWcScL) | [My Essence](https://open.spotify.com/album/0zGiZdTgKFSRLVWd0XLeFi) | 3:29 |
 
-Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMGFkODA2ODY5MjFhNDgzMGQ1ODQ4OTU5ODU2M2RhNzY5`
+Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMDBlOGQwODJjYWJmNjhmMWM5ZjY5N2NlNTAyMDczZDRi`

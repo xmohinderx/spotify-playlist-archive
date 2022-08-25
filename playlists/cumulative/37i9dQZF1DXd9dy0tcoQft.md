@@ -4,12 +4,13 @@
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-113 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
+114 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [23](https://open.spotify.com/track/4jeUxze0mlpF0DzpyW8bCp) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [23](https://open.spotify.com/album/6dCV8A0XbZ0gcK6L27Se0o) | 2:58 | 2021-12-16 | 2022-07-18 |
 | [9](https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [9](https://open.spotify.com/album/52Of3CIb4EXdoyldUFg7An) | 4:31 | 2021-12-16 | 2022-08-13 |
+| [9](https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:31 | 2022-05-20 |  |
 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/04Kzi0STDwBvJm58evTrHa) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Ain't Gonna Let You Drown](https://open.spotify.com/album/5r7wkL2bFu44UQYzWCeoND) | 4:17 | 2021-12-16 | 2022-07-28 |
 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 | 2021-12-16 |  |
 | [Amnesia](https://open.spotify.com/track/1j06OXU6qM6Bq5n9d1s0xD) | [OCEAN](https://open.spotify.com/artist/6dZZqFC0UROpJL1eDyGV01) | [Amnesia](https://open.spotify.com/album/2dWlnRCDYED83zngRSSyJ8) | 3:02 | 2021-12-22 | 2022-05-28 |
@@ -117,7 +118,7 @@
 | [Wildflowers & Wine](https://open.spotify.com/track/4FfPM0arYBqMsA6kMwU4sg) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Wildflowers & Wine](https://open.spotify.com/album/0sux3uGG7mJ2BPmKPGzG7a) | 4:48 | 2021-12-16 | 2022-07-28 |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2021-12-22 | 2021-12-28 |
 | [Yes I Am](https://open.spotify.com/track/5dygCpuOvgXkSWB7hPEwEI) | [Michelle David & the Gospel Sessions](https://open.spotify.com/artist/2O2cy4YGu7HV9GwkvjIQCs) | [Yes I Am](https://open.spotify.com/album/3gN5NETExLN0RtCJ4KtiQP) | 3:56 | 2021-12-16 | 2022-07-29 |
-| [Yes I Am](https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [The Gospel Sessions, Vol\. 4](https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8) | 3:56 | 2022-05-20 |  |
+| [Yes I Am](https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [The Gospel Sessions, Vol\. 4](https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8) | 3:56 | 2022-05-20 | 2022-08-25 |
 | [Yes I Do](https://open.spotify.com/track/6oTbxrszNWRsLdwFkGeHy6) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 5:10 | 2022-05-06 |  |
 | [Yes I Know](https://open.spotify.com/track/5HGdUDNax7PRir0ctxsY3q) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Yes I Know](https://open.spotify.com/album/3oM0byn09fUkSQDO0MdYLo) | 3:42 | 2021-12-16 | 2022-07-29 |
 | [You Live In My Phone](https://open.spotify.com/track/1eNf04Rj2ongsgK8ErzZv7) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE) | [You Live In My Phone](https://open.spotify.com/album/6i13Syc3mQBIl0A7xd3hjX) | 4:33 | 2021-12-16 | 2022-07-28 |

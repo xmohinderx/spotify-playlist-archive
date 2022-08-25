@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-394 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
+395 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [Mad World](https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 3:35 | 2018-12-12 |  |
 | [Mad World](https://open.spotify.com/track/0fW13W2PZe6zq87vqUBR66) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3lP0Pu6a0jUWGPM83XYPip) | 3:35 | 2018-12-12 | 2022-07-29 |
 | [Madam Butterfly \(Un Bel Di Vedremo\)](https://open.spotify.com/track/75SqjGbzUnlQzytV5UzKER) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Fans](https://open.spotify.com/album/3dzKtfxhjj4HpmSZfDYwnH) | 6:29 | 2019-08-02 | 2022-07-29 |
-| [Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [Major Tom](https://open.spotify.com/album/5lmdOsyfRU4v6FLXtUcqdU) | 4:33 | 2021-10-17 |  |
+| [Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [Major Tom](https://open.spotify.com/album/5lmdOsyfRU4v6FLXtUcqdU) | 4:33 | 2021-10-17 | 2022-08-25 |
+| [Major Tom](https://open.spotify.com/track/2epRW3O5YLwiqcxOdaI4Mm) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [Fehler Im System](https://open.spotify.com/album/5E0cSbYbLM7roXOBKbhvGC) | 4:59 | 2021-10-17 |  |
 | [Major Tom \(Völlig Losgelöst\)](https://open.spotify.com/track/2qZQtey4lTwvvABVMrO4h8) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [Major Tom \[Voellig Losgeloest\]](https://open.spotify.com/album/1qLcqJlAWG6z7JV65EUFS6) | 4:33 | 2021-10-17 | 2022-06-24 |
 | [Making Plans For Nigel](https://open.spotify.com/track/3ey3YMZLdl1tQjbz7EJkKG) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [The Compact XTC](https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA) | 3:53 | 2018-12-12 | 2022-07-19 |
 | [Mandinka](https://open.spotify.com/track/3Dz0kDM3Er8kGrPGx03PqV) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion And The Cobra](https://open.spotify.com/album/67nJgLgseykZPC5J5xnU4F) | 3:47 | 2019-08-01 | 2022-07-29 |

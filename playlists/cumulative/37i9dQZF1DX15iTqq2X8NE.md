@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-104 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
+105 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Habibi Taal](https://open.spotify.com/track/0Y0dnRnYmG8VhtWthghsXV) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Silt](https://open.spotify.com/album/4aeGmrILBa4zvOb3wt2x3G) | 3:18 | 2021-12-09 |  |
 | [Habsha \(feat\. Flippter\)](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha \(feat\. Flippter\)](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 | 2022-07-29 |  |
 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 | 2021-12-09 |  |
+| [Honey Butter](https://open.spotify.com/track/5M1qJ55WcgLKPlVuufaWJF) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [Honey Butter](https://open.spotify.com/album/6h4XKVixD373Cup55t3RYj) | 3:41 | 2022-08-24 |  |
 | [Ia Sudan Ma'alesh](https://open.spotify.com/track/33U53mkczIUGC8kmaIZ0A0) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Let Me Be](https://open.spotify.com/album/2b8jkXLchoqaLrY2tHFNxG) | 4:33 | 2021-12-09 | 2022-07-28 |
 | [Igd Allooli \(The Pearl Necklace\)](https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ) | [Saied Khalifa](https://open.spotify.com/artist/4mlKHZfOm6Zl3t8tpprMXy) | [Two Niles to Sing a Melody: The Violins & Synths of Sudan](https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ) | 4:27 | 2021-12-09 | 2022-07-29 |
 | [III IV V](https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [III IV V](https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY) | 3:12 | 2022-07-29 |  |
@@ -83,7 +84,7 @@
 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh) | 8:15 | 2021-12-09 |  |
 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [WalGz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 | 2022-03-18 |  |
 | [Sabbinaha](https://open.spotify.com/track/6UGE712uTwR6rg7yB8vjph) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Sabbinaha](https://open.spotify.com/album/44DSwuiWuFXwGHJ3xsQxyH) | 3:02 | 2021-12-09 | 2022-07-30 |
-| [Salimmik](https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7) | [Maha AJ](https://open.spotify.com/artist/2b2pd5yYGRTqvCRzgg1xsz), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX), [Nijeery](https://open.spotify.com/artist/481yBm7CxhRBaMPeQLq7KC) | [Salimmik](https://open.spotify.com/album/6EJM5YoCfhGRbNgRBGkB7d) | 3:22 | 2021-12-09 |  |
+| [Salimmik](https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7) | [Maha AJ](https://open.spotify.com/artist/2b2pd5yYGRTqvCRzgg1xsz), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX), [Nijeery](https://open.spotify.com/artist/481yBm7CxhRBaMPeQLq7KC) | [Salimmik](https://open.spotify.com/album/6EJM5YoCfhGRbNgRBGkB7d) | 3:22 | 2021-12-09 | 2022-08-25 |
 | [Salmly Ala A'azar](https://open.spotify.com/track/5sAUicg8TjuZohrSHxfx9S) | [Karim Heraje](https://open.spotify.com/artist/24PZ8fjUktJhu10XJ7PphZ), [Eslam Farouk](https://open.spotify.com/artist/2xahQ0NAD1DKzz0ObtSbUo) | [Salmly Ala A'azar](https://open.spotify.com/album/7jwNq4kvH7mOC2oVvw9f3F) | 3:35 | 2021-12-09 | 2022-07-29 |
 | [Sam7a](https://open.spotify.com/track/5mcwBrNKtFF444czlqeIoh) | [Lil Freeny](https://open.spotify.com/artist/5ABYsKceqqiCJoBADKpC26), [Maman](https://open.spotify.com/artist/3gzyZvEZZ3IgxQuo90IErA) | [Sam7a](https://open.spotify.com/album/7mvcTHWJDf5ZS99PKVa8tn) | 3:09 | 2021-12-09 | 2022-07-01 |
 | [Silsila](https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5) | [ElKhaleefa](https://open.spotify.com/artist/3tREMnMFWzcm8nzHIPXnBG) | [Silsila](https://open.spotify.com/album/1P1feiWIo2Mtl6HGDS0Gqz) | 3:45 | 2022-07-29 |  |

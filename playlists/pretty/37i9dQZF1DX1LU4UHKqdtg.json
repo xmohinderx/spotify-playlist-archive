@@ -1,12 +1,12 @@
 {
   "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: BLACKPINK",
-  "num_followers": 228535,
+  "num_followers": 229197,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTI2NjgwMCwwMDAwMDAwMDg3MGRmODliOWY3Y2FlYWE3MDEwNjRiMDZkMjliODJh",
+  "snapshot_id": "MTY2MTI2NjgwMCwwMDAwMDAwMGIyYjRiZjY2YzM1MDhlNWVjNTU2NDgwZDA1NDVkODUx",
   "tracks": [
     {
       "added_at": "2022-08-23 15:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-08-23 15:00:00",
       "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX"
+    },
+    {
+      "added_at": "2022-08-23 15:00:00",
+      "album": {
         "name": "Mixtape : Time Out",
         "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
       },
@@ -368,7 +384,7 @@
       "added_at": "2022-08-23 15:00:00",
       "album": {
         "name": "Stand up!",
-        "url": "https://open.spotify.com/album/5N7p81PrhjsvkICINxnQXf"
+        "url": "https://open.spotify.com/album/5NvK8EDgRXrTNhYbSDKQ5j"
       },
       "artists": [
         {
@@ -378,7 +394,7 @@
       ],
       "duration_ms": 185200,
       "name": "Drive",
-      "url": "https://open.spotify.com/track/7N2ZqlzoDqXB7xMzUHevJ5"
+      "url": "https://open.spotify.com/track/0TNYF3NLy6FgYs8jM10mwi"
     },
     {
       "added_at": "2022-08-23 15:00:00",

@@ -4,7 +4,7 @@
 
 > 
 
-648 songs - 1 day 19 hr 35 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+649 songs - 1 day 19 hr 39 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [I Choose Me](https://open.spotify.com/track/064I7lnHPQP68nbVZpS9K7) | [3rd Secret](https://open.spotify.com/artist/4atj4MLAMFKMwu4PG1zzb7) | [3rd Secret](https://open.spotify.com/album/6bhdV9FIncMze0E0ElvsTr) | 4:30 | 2022-04-20 |  |
 | [I Don't Know](https://open.spotify.com/track/6mbGky48xfrJuhfsWMJn5B) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 4:36 | 2020-03-06 |  |
 | [I Don't Mind](https://open.spotify.com/track/6gApxKLPWosPjjm2tSpQXF) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Ever Fallen In Love? Buzzcocks Finest](https://open.spotify.com/album/2fEo8f9CUTtyf65VJgMWpb) | 2:20 | 2019-09-30 |  |
+| [I Don't Remember](https://open.spotify.com/track/6m3yuXdLzDTgwJ1y1VnNaH) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 3: Melt \(Remastered Version\)](https://open.spotify.com/album/0LF0vWmmKRVPXoikpNkO5W) | 4:42 | 2022-08-24 |  |
 | [I Don't Wanna Grow Up](https://open.spotify.com/track/2fkJwO4xeYkGy0x3VXK70k) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bone Machine](https://open.spotify.com/album/5blxyZRgkA735vO40p56MA) | 2:31 | 2019-10-23 |  |
 | [I Have Not Been to Oxford Town](https://open.spotify.com/track/1tpsjUnkj8ESAwLY9rlkVY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [1\. Outside \(The Nathan Adler Diaries: A Hyper Cycle\) \[Expanded Edition\]](https://open.spotify.com/album/0pUursvGUAgcDiEqYlnZ0q) | 3:49 | 2020-01-29 |  |
 | [I Sat By The Ocean](https://open.spotify.com/track/7oXRMDUzBPekkLRTJhSGvC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq) | 3:55 | 2019-02-13 |  |

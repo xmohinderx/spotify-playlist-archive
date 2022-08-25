@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,070 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,107 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 25 | [El Siquisiri](https://open.spotify.com/track/5AaFV9x2mCYc0xOaOq2t8a) | [Sones Jarochos](https://open.spotify.com/artist/19wDbhvttV6xZQWf8pmxux), [Los Nacionales De Jacinto Gatica](https://open.spotify.com/artist/03evbzgK4Uoo1IpSm551pr) | [Sones Jarochos \- Los Nacionales De Jacinto Gatica \- Feria Mexicana](https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS) | 2:10 |
 | 26 | [Grítenme Piedras Del Campo \- En Vivo Desde La Ciudad De México, 2017](https://open.spotify.com/track/5kjPnaA0MRdjsNNgwsU18c) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Grítenme Piedras Del Campo \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/40EsqK8Wk2WkpZSjP3TK2y) | 3:28 |
 | 27 | [Los machetes](https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:34 |
-| 28 | [El chuchumbe](https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW) | [Grupo Mono Blanco Y Stone Lips](https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu) | [Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar](https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz) | 3:28 |
-| 29 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
+| 28 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
+| 29 | [El chuchumbe](https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW) | [Grupo Mono Blanco Y Stone Lips](https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu) | [Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar](https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz) | 3:28 |
 | 30 | [Adiós Mariquita Linda](https://open.spotify.com/track/6sFEBrEEtj5nQqR17KFq1L) | [Juan Torres](https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY) | [15 Éxitos Al Estilo Ranchero De Juan Torres](https://open.spotify.com/album/4eJxF67PdhW7DGjq1f21gF) | 3:32 |
 | 31 | [Camino A San Miguel](https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 2:12 |
 | 32 | [El Balajú](https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Caribe Mar Sincopado](https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx) | 4:54 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 39 | [El Jarabe Jalisciense](https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm) | 4:22 |
 | 40 | [El polvorete](https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 4:05 |
 | 41 | [San Cristobal](https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb) | [San Cristobal](https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V) | 2:21 |
-| 42 | [El fandanguito \- The Little Fandango](https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG) | [Los Camperos de Valles](https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE) | [El ave de mi soñar: Mexican Sones Huastecos](https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk) | 3:18 |
-| 43 | [Juarez](https://open.spotify.com/track/1kohPiTbyDD9Hdt2KWLxZ9) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 1:52 |
+| 42 | [Juarez](https://open.spotify.com/track/1kohPiTbyDD9Hdt2KWLxZ9) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 1:52 |
+| 43 | [El fandanguito \- The Little Fandango](https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG) | [Los Camperos de Valles](https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE) | [El ave de mi soñar: Mexican Sones Huastecos](https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk) | 3:18 |
 | 44 | [Musica De Mi Tierra\-Mexico Lindo Y Querido\-Cielito Lindo\-La Pajarera\-Allá En El Rancho Grande\-La Raspa\-Mexico Lindo Y Querido](https://open.spotify.com/track/6454lzNH5DaY3jP570hrJ2) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm) | [Nuestro Mexico](https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF) | 5:42 |
 | 45 | [Camotal](https://open.spotify.com/track/4s7qx83G1CKhSHCcnHV0lC) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:21 |
 | 46 | [La raspa](https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 99 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 | 100 | [Un Tequila y Una Rubia](https://open.spotify.com/track/3E6GSxnXLIXgsxxhnnFvKd) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 1:47 |
 
-Snapshot ID: `MTY0MzE1MzI5MiwwMDAwMDAwMGI3MjBhNWIyZTEzMjhjZjhjYjgyZjhmNGNhZWJkMTli`
+Snapshot ID: `MTY0MzE1MzI5MiwwMDAwMDAwMGE1OWI1YmRmZjkxYTRlMjU5YzllMDk2NWRhMmFjODA4`

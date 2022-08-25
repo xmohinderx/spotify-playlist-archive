@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: mekakushe
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,462 likes - 81 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,481 likes - 81 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 32 | [パンドラコール](https://open.spotify.com/track/4BIcwWZ1rhpYYq8YiiDDqF) | [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U) | [パンドラコール](https://open.spotify.com/album/2JvdmCeV2O1E5ihhVXuG4S) | 3:37 |
 | 33 | [Birthday!](https://open.spotify.com/track/6m1zjEbjB9SMcE4J2fk8bb) | [からくりごっこ](https://open.spotify.com/artist/07cSxamWHryr28hmS0SYbo) | [Birthday!](https://open.spotify.com/album/0gRMMSftWKZKqueuM2WYGC) | 2:50 |
 | 34 | [未だ、青い](https://open.spotify.com/track/75SBhLDSKkyTZDMj3eYBH2) | [湊あくあ](https://open.spotify.com/artist/6GHr4rGFHGRUuzuCuxJA0f) | [未だ、青い](https://open.spotify.com/album/22fnrIRWsVjWF7a2gh7NQd) | 3:41 |
-| 35 | [SMILE SPLASH!!](https://open.spotify.com/track/4Kikql86bWbpFnQtgOsQh1) | [スマイリー \(CV.釘宮理恵\)](https://open.spotify.com/artist/3NsFefgM0Pmg5KdTUIPOch), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [SMILE SPLASH!!](https://open.spotify.com/album/0OWPqdId9mqq2oojAG5Xdj) | 3:07 |
+| 35 | [SMILE SPLASH!!](https://open.spotify.com/track/4Kikql86bWbpFnQtgOsQh1) | [スマイリー \(CV.釘宮理恵\)](https://open.spotify.com/artist/3NsFefgM0Pmg5KdTUIPOch), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [SMILE SPLASH!!](https://open.spotify.com/album/0OWPqdId9mqq2oojAG5Xdj) | 3:07 |
 | 36 | [Candle](https://open.spotify.com/track/5OJIOcsJFtqrwPCrXjdEjO) | [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [Candle](https://open.spotify.com/album/4bwKHBY57ygTVfPGtL0LSD) | 4:05 |
 | 37 | [Void](https://open.spotify.com/track/3cEHTGugMjJ9qxqZS0sIWX) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [Void](https://open.spotify.com/album/3qVUhzrrFHX5tCDCoWmDom) | 2:51 |
 | 38 | [Do the Dive](https://open.spotify.com/track/4xw5O13YjHdY2uR1GhnV49) | [Call of Artemis](https://open.spotify.com/artist/3ImdLg693SdamxDHeeGfIE) | [Do the Dive](https://open.spotify.com/album/7mRJ2vzyQtbeFgG8NbLV0c) | 4:21 |

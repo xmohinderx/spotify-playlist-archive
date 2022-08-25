@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: SINCE\(신스\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,539 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,634 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

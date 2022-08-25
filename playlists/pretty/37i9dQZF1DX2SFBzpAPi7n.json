@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LUCY) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 187300,
+  "num_followers": 187330,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg5NDY3OSwwMDAwMDAwMDI4NDc4M2RiZGMwYjcyOTBkN2QyYjZmMTdjODZkM2Q0",
+  "snapshot_id": "MTY2MDg5NDY3OSwwMDAwMDAwMDk5YzJiZDU5NzkwZmUzMjljNDg5N2U3NGM0M2UwYjQ3",
   "tracks": [
     {
       "added_at": "2022-08-19 07:37:59",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
-        "name": "[Dystopia : Lose Myself]",
-        "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "BOCA",
-      "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
+        "name": "[Dystopia : Lose Myself]",
+        "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "BOCA",
+      "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
     },
     {
       "added_at": "2022-08-19 07:37:59",

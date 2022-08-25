@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 228872,
       "name": "Fann El Lom",
       "url": "https://open.spotify.com/track/0XUEmwVAJWrPce0maZBS1l"
@@ -2901,24 +2901,6 @@
       "duration_ms": 193596,
       "name": "Meen Bint Sgheeri \u0645\u064a\u0646 \u0628\u0646\u062a \u0635\u063a\u064a\u0631\u0629",
       "url": "https://open.spotify.com/track/0NdTGMo7HIf4tjFCT0vHVh"
-    },
-    {
-      "album": {
-        "name": "mehtag bosat",
-        "url": "https://open.spotify.com/album/0Nf9o2JVSlpFLAvllnL9bN"
-      },
-      "artists": [
-        {
-          "name": "Nagwan",
-          "url": "https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou"
-        }
-      ],
-      "date_added": "2022-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147428,
-      "name": "mehtag bosat",
-      "url": "https://open.spotify.com/track/1D4qNDL64nDuCwOI9spXI9"
     },
     {
       "album": {
@@ -5236,6 +5218,24 @@
     },
     {
       "album": {
+        "name": "\u0645\u062d\u062a\u0627\u062c \u0628\u0633\u0627\u0637",
+        "url": "https://open.spotify.com/album/0Nf9o2JVSlpFLAvllnL9bN"
+      },
+      "artists": [
+        {
+          "name": "Nagwan",
+          "url": "https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "\u0645\u062d\u062a\u0627\u062c \u0628\u0633\u0627\u0637",
+      "url": "https://open.spotify.com/track/1D4qNDL64nDuCwOI9spXI9"
+    },
+    {
+      "album": {
         "name": "\u0645\u0633\u0631\u062d \u062c\u0631\u064a\u0645\u0629",
         "url": "https://open.spotify.com/album/2F5th84z3aSD96wUZqBDXe"
       },
@@ -5399,7 +5399,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 262857,
       "name": "\u064a\u0627 \u0635\u0628\u0631 \u0627\u0644\u0644\u064a\u0644",
       "url": "https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy"

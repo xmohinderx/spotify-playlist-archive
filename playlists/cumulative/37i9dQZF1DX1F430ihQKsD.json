@@ -564,28 +564,6 @@
     },
     {
       "album": {
-        "name": "Ce n'est que de l'eau",
-        "url": "https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei"
-      },
-      "artists": [
-        {
-          "name": "Clay and Friends",
-          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
-        },
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "date_added": "2022-05-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220856,
-      "name": "Ce n'est que de l'eau",
-      "url": "https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99"
-    },
-    {
-      "album": {
         "name": "Choker",
         "url": "https://open.spotify.com/album/795cwI0M8cjrFb86T2dcqf"
       },
@@ -623,6 +601,28 @@
       "duration_ms": 209423,
       "name": "CLOSER TO MY DREAMS",
       "url": "https://open.spotify.com/track/5Do0RgImAao120hKTxnhW8"
+    },
+    {
+      "album": {
+        "name": "CNQDL",
+        "url": "https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei"
+      },
+      "artists": [
+        {
+          "name": "Clay and Friends",
+          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220856,
+      "name": "CNQDL",
+      "url": "https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99"
     },
     {
       "album": {

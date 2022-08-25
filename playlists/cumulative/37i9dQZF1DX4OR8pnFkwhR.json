@@ -3450,6 +3450,24 @@
     },
     {
       "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4U9TfKHxuKyPdFO5emYrfH"
+      },
+      "artists": [
+        {
+          "name": "Ako",
+          "url": "https://open.spotify.com/artist/3OZH8bAVViRcIjo4vUuIRz"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209017,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/11Gi13v5tOergV1LjEbbDT"
+    },
+    {
+      "album": {
         "name": "EGO APARTMENT",
         "url": "https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB"
       },
@@ -3780,6 +3798,24 @@
     },
     {
       "album": {
+        "name": "madonohotorideni",
+        "url": "https://open.spotify.com/album/3oyJRMN60xgIKH3G7Av7Nh"
+      },
+      "artists": [
+        {
+          "name": "BENTENLAND",
+          "url": "https://open.spotify.com/artist/0nTlWJFZcdMTeoOGLZUw7e"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "YOU & PURE",
+      "url": "https://open.spotify.com/track/2Kb2aRIv9f57R4E0KnvqxC"
+    },
+    {
+      "album": {
         "name": "\u7a93\u306e\u307b\u3068\u308a\u3067\u306b",
         "url": "https://open.spotify.com/album/6dNVd2LHaHjSm3CHjtQMSq"
       },
@@ -3791,7 +3827,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 162000,
       "name": "YOU & PURE",
       "url": "https://open.spotify.com/track/6R4zo0vwf2GYo8j8EwwiJK"
@@ -5631,7 +5667,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 209017,
       "name": "\u592a\u967d",
       "url": "https://open.spotify.com/track/7aRxiKCYo9xsF96roJNco2"

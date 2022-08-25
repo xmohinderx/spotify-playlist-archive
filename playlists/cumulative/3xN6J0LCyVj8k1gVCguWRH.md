@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,617 songs - 3 day 22 hr 18 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,618 songs - 3 day 22 hr 21 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Chances](https://open.spotify.com/track/4FXRVxvHtiF3DwsqE1jIGP) | [F1 of FMG](https://open.spotify.com/artist/2KzsvQpIXnQCEyvSS53h5W) | [Chances](https://open.spotify.com/album/5xrKsmZbP2sYWH5Xug8WfM) | 2:59 | 2022-02-13 | 2022-03-01 |
 | [Change](https://open.spotify.com/track/19wEdcAOc7CW3atVhWkIEY) | [Asha Musica](https://open.spotify.com/artist/4pqusCcSXoxjHG5C2ldoMx) | [Change](https://open.spotify.com/album/09AFNFpM93JnlVxoz7fndo) | 1:52 | 2022-01-21 | 2022-02-06 |
 | [chase you](https://open.spotify.com/track/2CNAkELTZQY2P52Rl3VvYt) | [twentylove](https://open.spotify.com/artist/127dIIzj6Y2mnEJdvlEMzj) | [chase you](https://open.spotify.com/album/2YPCjW0Tpd9ZD26SqnWUkc) | 2:50 | 2021-05-14 | 2021-05-30 |
+| [Chasing](https://open.spotify.com/track/7sGKEO3p8Bcr83ije4BoFK) | [EMY](https://open.spotify.com/artist/60fG6DGeN38kRBsBaokPNG) | [Chasing](https://open.spotify.com/album/3mNWyf9QBXfnuXJCYeImt1) | 2:38 | 2022-08-24 |  |
 | [Checkin In](https://open.spotify.com/track/4lZJpPaUABHLTkSoKGVO7l) | [CRiDDLE](https://open.spotify.com/artist/5QzC2vzduboBCqDgcxh8tr) | [Checkin In](https://open.spotify.com/album/18ZKLVz0rYc9FQYLpGyiNl) | 3:19 | 2021-02-26 | 2021-03-14 |
 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 | 2022-07-26 |  |
 | [Child of A Blind Man](https://open.spotify.com/track/4vR7TrXh7mZOsyFIVSsbUe) | [Hazmat Modine](https://open.spotify.com/artist/1b7O4uNUwsdXeX4LzlNfU2), [Gangbé Brass Band](https://open.spotify.com/artist/3zvZ5BnwWGi3cx1Z3qbohe), [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Cicada](https://open.spotify.com/album/35aadwcGtXwuXBb8nNRHG4) | 4:12 | 2021-04-17 | 2021-05-03 |

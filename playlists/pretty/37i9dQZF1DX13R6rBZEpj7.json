@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 175493,
+  "num_followers": 175569,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjg4OCwwMDAwMDAwMDZmZjE1NDkyMWMzYTU1Y2Y1ODc1YzI0ZTE2Njc2MzZh",
+  "snapshot_id": "MTY2MDMyMjg4OCwwMDAwMDAwMDFhZDc2Yzk5NmI5NmQ0MTlkODAzZTcwZDA5YjY5MmE4",
   "tracks": [
     {
       "added_at": "2022-08-12 16:48:08",
@@ -815,30 +815,6 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
-        "name": "Mock Man (The VIP)",
-        "url": "https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Moda",
-          "url": "https://open.spotify.com/artist/2FTs2DgO1R1eDG14O0Fh0v"
-        },
-        {
-          "name": "KKoi",
-          "url": "https://open.spotify.com/artist/67Op2PSJg4SjmqfWNIaQwC"
-        }
-      ],
-      "duration_ms": 229639,
-      "name": "Mock Man (The VIP)",
-      "url": "https://open.spotify.com/track/2WCpgTEYu5cgIIokqQhqzW"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
         "name": "Tune",
         "url": "https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 188160,
       "name": "Tune",
       "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
+        "name": "Mock Man (The VIP)",
+        "url": "https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Moda",
+          "url": "https://open.spotify.com/artist/2FTs2DgO1R1eDG14O0Fh0v"
+        },
+        {
+          "name": "KKoi",
+          "url": "https://open.spotify.com/artist/67Op2PSJg4SjmqfWNIaQwC"
+        }
+      ],
+      "duration_ms": 229639,
+      "name": "Mock Man (The VIP)",
+      "url": "https://open.spotify.com/track/2WCpgTEYu5cgIIokqQhqzW"
     },
     {
       "added_at": "2022-08-12 16:48:08",

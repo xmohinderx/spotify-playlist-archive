@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 27872,
+  "num_followers": 27908,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMGNiZmMxNTUyNzAxMzU3N2ZlNjhmNjQ2OTI2YzJlNWU0",
+  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDg4YTMxNzJlZDM0NWMzNDgwNWU0YmVjNDVlZDk3MGEz",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/7ocvxAkixEXHnmw88mhBjH"
+      },
+      "artists": [
+        {
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
+        }
+      ],
+      "duration_ms": 108559,
+      "name": "Jasmin",
+      "url": "https://open.spotify.com/track/4TtBKEv55BOjuAGgcctDj9"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "Betweenatna",
         "url": "https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 242155,
       "name": "Lay chafi",
       "url": "https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "The Order of Amenti",
-        "url": "https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01"
-      },
-      "artists": [
-        {
-          "name": "Crescent",
-          "url": "https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "The Twelfth Gate",
-      "url": "https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/7ocvxAkixEXHnmw88mhBjH"
+        "name": "The Order of Amenti",
+        "url": "https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01"
       },
       "artists": [
         {
-          "name": "Myrath",
-          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
+          "name": "Crescent",
+          "url": "https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz"
         }
       ],
-      "duration_ms": 108559,
-      "name": "Jasmin",
-      "url": "https://open.spotify.com/track/4TtBKEv55BOjuAGgcctDj9"
+      "duration_ms": 240000,
+      "name": "The Twelfth Gate",
+      "url": "https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog"
     },
     {
       "added_at": "2021-10-14 08:16:07",

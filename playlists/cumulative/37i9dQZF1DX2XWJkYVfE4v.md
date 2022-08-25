@@ -4,7 +4,7 @@
 
 > Soft, shimmering strings to help you relax.
 
-83 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/0b41CYN7TvxbbKquC8H1Qw)
+84 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/0b41CYN7TvxbbKquC8H1Qw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Massenet: Thaïs, Act 2: Méditation](https://open.spotify.com/track/6Rkb9ZW2YEvLLqKRmbk6nA) | [Jules Massenet](https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB), [Anne\-Sophie Mutter](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) | [Anne\-Sophie Mutter: A Portrait \- Bach, Massenet, Mozart, Sarasate, Vivaldi](https://open.spotify.com/album/5dvKq2dKtVmfqFwP7KVIS5) | 6:47 | 2021-12-17 |  |
 | [Midwinter](https://open.spotify.com/track/3U0Jz4y4SiseCKtL6jdDOZ) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [Midwinter](https://open.spotify.com/album/38fLpzIszQjCAZ2FTIuTi7) | 2:50 | 2022-02-25 |  |
 | [momentary \- string quartet version](https://open.spotify.com/track/7jWnh5pAuh4v2ZQkQq8B3N) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member – string quartets](https://open.spotify.com/album/1stkFhYVIqUJGiahVaBMrV) | 2:10 | 2021-12-17 |  |
-| [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/1HoCiBasSm8HLDQ6TIyZlL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 2:44 | 2022-07-15 |  |
+| [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/1HoCiBasSm8HLDQ6TIyZlL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 2:44 | 2022-07-15 | 2022-08-25 |
+| [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/6Ud2eoIWr1PlHZjBulf0fG) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 2:44 | 2022-07-15 |  |
 | [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/7JDWgXllpyJqPlxGnaY80u) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers – Pt\. 5](https://open.spotify.com/album/3KTMP9GcFuVttRKCzWf3T6) | 2:44 | 2022-07-01 | 2022-08-11 |
 | [Musik zur Nacht: Siziliano \(Carl Orff\) für Violine und Violoncello, Klavier\-Übung I, Nr\. 7, 1933](https://open.spotify.com/track/49iOUdXkwZeYtPaYvazDIt) | [Carl Orff](https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze), [Karl Peinkofer Percussion Ensemble](https://open.spotify.com/artist/5w6G3f80G50o2sktPdb2pL) | [Orff\-Schulwerk, Vol\. 1: Musica Poetica](https://open.spotify.com/album/3ybwlLIILt1Ojow4PHS10j) | 1:34 | 2022-01-25 |  |
 | [Near Light](https://open.spotify.com/track/49kvaxWkvLCNHka049HuVF) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Hakon Samuelsen](https://open.spotify.com/artist/0PveFynDT0XrxSZFPnm40C), [TrondheimSolistene](https://open.spotify.com/artist/7rXCWLNIVc3gBq0DhhffbQ) | [Nordic Noir](https://open.spotify.com/album/3S914IqSilV9a7671uKIJG) | 2:59 | 2021-12-17 |  |

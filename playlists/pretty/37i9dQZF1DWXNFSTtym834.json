@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s.",
-  "num_followers": 760965,
+  "num_followers": 761832,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMDNjMWE0MTdlY2Q3MzI4NDQ2NjI4NzFiMTBlZjVjOTNh",
+  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMDEwY2E4MTI3OGUyNTIxZDVjMDYyMWJkNWFkYmI2NDRj",
   "tracks": [
     {
       "added_at": "2022-04-13 21:11:09",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "Babylon (Revised Online Music)",
-        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 236013,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
-    },
-    {
       "added_at": "2022-07-13 14:03:23",
       "album": {
         "name": "Two",
@@ -1019,6 +1003,22 @@
       "duration_ms": 187960,
       "name": "Carrion",
       "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "Friede sei mit Dir",
-        "url": "https://open.spotify.com/album/235X3eQimRVyGnP71WBT5a"
-      },
-      "artists": [
-        {
-          "name": "Die Apokalyptischen Reiter",
-          "url": "https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn"
-        }
-      ],
-      "duration_ms": 211095,
-      "name": "Ghostriders in the Sky",
-      "url": "https://open.spotify.com/track/3D9X47VTRPVT6aAuK7bPvf"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
         "name": "An Ocean Between Us",
         "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 223653,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/2zy79BntQ1kumEUeqM5O84"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Friede sei mit Dir",
+        "url": "https://open.spotify.com/album/235X3eQimRVyGnP71WBT5a"
+      },
+      "artists": [
+        {
+          "name": "Die Apokalyptischen Reiter",
+          "url": "https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn"
+        }
+      ],
+      "duration_ms": 211095,
+      "name": "Ghostriders in the Sky",
+      "url": "https://open.spotify.com/track/3D9X47VTRPVT6aAuK7bPvf"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1451,22 +1451,6 @@
       "duration_ms": 209066,
       "name": "Destroy Everything",
       "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/4QWLhGVitrCCysR3ugX9Xw"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
       "artists": [
         {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 245573,
-      "name": "Enjoy the Silence - cover version",
-      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
+      "duration_ms": 240440,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/4QWLhGVitrCCysR3ugX9Xw"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1531,6 +1515,22 @@
       "duration_ms": 234266,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/3WeWaUyTww9gLKmimlwm5w"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Enjoy the Silence - cover version",
+      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 231933,
       "name": "Fall Into Sleep",
       "url": "https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
     }
   ],
   "unique_name": "00s Metal Classics",

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 31552,
+  "num_followers": 31612,
   "original_name": "Dalkom Mukbang (\ub2ec\ucf64\uba39\ubc29)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzMDUyOCwwMDAwMDAwMDI4ODQ1ZjE1ZTVjNzIzZTE3ZjE3NzUzOWRmNDBmMWEw",
+  "snapshot_id": "MTY2MDMzMDUyOCwwMDAwMDAwMDc2YjYyYWM5ZDVjMjg4NTRiYzBhZjFjNWI5MjA3YTIz",
   "tracks": [
     {
       "added_at": "2022-08-12 18:55:28",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-08-12 18:55:28",
       "album": {
+        "name": "ADAMAS, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Darling You",
+      "url": "https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml"
+    },
+    {
+      "added_at": "2022-08-12 18:55:28",
+      "album": {
         "name": "Da Ra Da",
         "url": "https://open.spotify.com/album/5AQgoMCw6ioH1YphjOgjYN"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 237369,
       "name": "Da Ra Da",
       "url": "https://open.spotify.com/track/5oBCC0WlEcwvFb2m0vtqr3"
-    },
-    {
-      "added_at": "2022-08-12 18:55:28",
-      "album": {
-        "name": "ADAMAS, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k"
-      },
-      "artists": [
-        {
-          "name": "Bernard Park",
-          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Darling You",
-      "url": "https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml"
     },
     {
       "added_at": "2022-08-12 18:55:28",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-08-12 18:55:28",
       "album": {
-        "name": "Tailor",
-        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
-      },
-      "artists": [
-        {
-          "name": "The BLANK Shop",
-          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
-        },
-        {
-          "name": "WONPIL",
-          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
-        }
-      ],
-      "duration_ms": 300317,
-      "name": "Love song (Feat. WONPIL(DAY6))",
-      "url": "https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe"
-    },
-    {
-      "added_at": "2022-08-12 18:55:28",
-      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -663,18 +643,22 @@
     {
       "added_at": "2022-08-12 18:55:28",
       "album": {
-        "name": "Re - Feel",
-        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
+        "name": "Tailor",
+        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
       },
       "artists": [
         {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+          "name": "The BLANK Shop",
+          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
+        },
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
         }
       ],
-      "duration_ms": 245159,
-      "name": "I drink again",
-      "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
+      "duration_ms": 300317,
+      "name": "Love song (Feat. WONPIL(DAY6))",
+      "url": "https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe"
     },
     {
       "added_at": "2022-08-12 18:55:28",
@@ -695,6 +679,22 @@
     {
       "added_at": "2022-08-12 18:55:28",
       "album": {
+        "name": "Re - Feel",
+        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "duration_ms": 245159,
+      "name": "I drink again",
+      "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
+    },
+    {
+      "added_at": "2022-08-12 18:55:28",
+      "album": {
         "name": "Sweeet",
         "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 177999,
       "name": "Sugardance",
       "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
-    },
-    {
-      "added_at": "2022-08-12 18:55:28",
-      "album": {
-        "name": "Spring Is You",
-        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
-      },
-      "artists": [
-        {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
-        }
-      ],
-      "duration_ms": 225647,
-      "name": "Spring Is You",
-      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
     },
     {
       "added_at": "2022-08-12 18:55:28",
@@ -743,22 +727,18 @@
     {
       "added_at": "2022-08-12 18:55:28",
       "album": {
-        "name": "Re - Feel",
-        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
+        "name": "Spring Is You",
+        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
       },
       "artists": [
         {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        },
-        {
-          "name": "Jang Hye Jin",
-          "url": "https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH"
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
         }
       ],
-      "duration_ms": 272875,
-      "name": "The man and the woman",
-      "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
+      "duration_ms": 225647,
+      "name": "Spring Is You",
+      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
     },
     {
       "added_at": "2022-08-12 18:55:28",
@@ -867,6 +847,42 @@
     {
       "added_at": "2022-08-12 18:55:28",
       "album": {
+        "name": "Re - Feel",
+        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        },
+        {
+          "name": "Jang Hye Jin",
+          "url": "https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH"
+        }
+      ],
+      "duration_ms": 272875,
+      "name": "The man and the woman",
+      "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
+    },
+    {
+      "added_at": "2022-08-12 18:55:28",
+      "album": {
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
+    },
+    {
+      "added_at": "2022-08-12 18:55:28",
+      "album": {
         "name": "Modern Times \u2013 Epilogue",
         "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2022-08-12 18:55:28",
       "album": {
-        "name": "It's Real",
-        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
-    },
-    {
-      "added_at": "2022-08-12 18:55:28",
-      "album": {
         "name": "Candy Pianist",
         "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
       },
@@ -971,6 +971,34 @@
       "duration_ms": 259640,
       "name": "Awake (Feat. Sam Kim)",
       "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
+    },
+    {
+      "added_at": "2022-08-12 18:55:28",
+      "album": {
+        "name": "SEOULVIBES, GROCERY",
+        "url": "https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX"
+      },
+      "artists": [
+        {
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+        },
+        {
+          "name": "DA:ON",
+          "url": "https://open.spotify.com/artist/6vdOplmzMU7t1fGRRzTZcY"
+        },
+        {
+          "name": "Gunjae",
+          "url": "https://open.spotify.com/artist/4i1Cf2H3jiYAaA8iJznkRt"
+        },
+        {
+          "name": "H!",
+          "url": "https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0"
+        }
+      ],
+      "duration_ms": 171204,
+      "name": "Let's Go (feat. DA:ON, Gunjae & H!)",
+      "url": "https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE"
     },
     {
       "added_at": "2022-08-12 18:55:28",
@@ -1003,34 +1031,6 @@
       "duration_ms": 174856,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
-    },
-    {
-      "added_at": "2022-08-12 18:55:28",
-      "album": {
-        "name": "SEOULVIBES, GROCERY",
-        "url": "https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX"
-      },
-      "artists": [
-        {
-          "name": "KozyPop",
-          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
-        },
-        {
-          "name": "DA:ON",
-          "url": "https://open.spotify.com/artist/6vdOplmzMU7t1fGRRzTZcY"
-        },
-        {
-          "name": "Gunjae",
-          "url": "https://open.spotify.com/artist/4i1Cf2H3jiYAaA8iJznkRt"
-        },
-        {
-          "name": "H!",
-          "url": "https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0"
-        }
-      ],
-      "duration_ms": 171204,
-      "name": "Let's Go (feat. DA:ON, Gunjae & H!)",
-      "url": "https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE"
     },
     {
       "added_at": "2022-08-12 18:55:28",

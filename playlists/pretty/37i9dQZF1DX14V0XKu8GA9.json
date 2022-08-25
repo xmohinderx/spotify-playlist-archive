@@ -1,12 +1,12 @@
 {
   "description": "The wave of U.S. Latinos in Hip-Hop. Cover: Coyote",
-  "num_followers": 15124,
+  "num_followers": 15130,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDI2MTgwMmYzYjRjOWVhNTc5NWE1NjgyNzRlMGNkZjQx",
+  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMGY0ZmEzOWY1NWE4OTNiM2Q2NWU3YzdlODhhOTRkN2Ez",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/6xj392AMIzR0EzSekdHqxK"
+      },
+      "artists": [
+        {
+          "name": "Bodega Bamz",
+          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
+        }
+      ],
+      "duration_ms": 163474,
+      "name": "The King",
+      "url": "https://open.spotify.com/track/1euN0rIeFyQkY85BFnT7Rm"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Hail Mary",
         "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 159653,
       "name": "Hail Mary",
       "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/6xj392AMIzR0EzSekdHqxK"
-      },
-      "artists": [
-        {
-          "name": "Bodega Bamz",
-          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
-        }
-      ],
-      "duration_ms": 163474,
-      "name": "The King",
-      "url": "https://open.spotify.com/track/1euN0rIeFyQkY85BFnT7Rm"
     },
     {
       "added_at": "2022-07-15 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Nat King Cole",
-  "num_followers": 454267,
+  "num_followers": 454254,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMDgxNGVjMzkwZmUzNTJjMzA2MDkwYTBjNjYwNmIwYzdl",
+  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMDM1ZmJiZjk4NzIwNzBlY2E5NjZiNjY5MDZkNzZhMjk0",
   "tracks": [
     {
       "added_at": "2021-11-12 15:48:58",
@@ -663,6 +663,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Big Band Christmas",
+        "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
+      },
+      "artists": [
+        {
+          "name": "John Tesh",
+          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
+        }
+      ],
+      "duration_ms": 133893,
+      "name": "We Wish You The Merriest",
+      "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Happy Holidays, Everyone",
         "url": "https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Big Band Christmas",
-        "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX"
       },
       "artists": [
         {
-          "name": "John Tesh",
-          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
+          "name": "The Eddie Higgins Trio",
+          "url": "https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK"
         }
       ],
-      "duration_ms": 133893,
-      "name": "We Wish You The Merriest",
-      "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
+      "duration_ms": 222000,
+      "name": "Dech The Hall Boughs Of Holly",
+      "url": "https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -715,22 +731,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX"
-      },
-      "artists": [
-        {
-          "name": "The Eddie Higgins Trio",
-          "url": "https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Dech The Hall Boughs Of Holly",
-      "url": "https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Crescent City Christmas Card",
         "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas in the Rockies",
-        "url": "https://open.spotify.com/album/4jfBNIB9fPR9tZLalMMIxu"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 226917,
-      "name": "Christmas Time is Here",
-      "url": "https://open.spotify.com/track/5zgSvriujXdqbP0kyEhZvS"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Jazz Christmas Songs By The Fire",
         "url": "https://open.spotify.com/album/0F8Aw2DVnhQNINV62SYtqg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 201375,
       "name": "Have Yourself A Merry Little Christmas - Fireplace",
       "url": "https://open.spotify.com/track/3aZemyBU6kMjsqVGTWQ0v4"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Christmas in the Rockies",
+        "url": "https://open.spotify.com/album/4jfBNIB9fPR9tZLalMMIxu"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 226917,
+      "name": "Christmas Time is Here",
+      "url": "https://open.spotify.com/track/5zgSvriujXdqbP0kyEhZvS"
     },
     {
       "added_at": "2021-11-12 15:48:58",

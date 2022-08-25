@@ -1,12 +1,12 @@
 {
   "description": "good vibes only.",
-  "num_followers": 998617,
+  "num_followers": 998812,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDAwZjM1MWVkM2ZkMDU4NWRkZGE5MDFkYjczMTc1Mzk3",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGM0NDY2MDRjMTNjMGQxNmQzNjY3ZmMyMWMzYjUxZGFk",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 238810,
       "name": "World on Fire (feat. Slightly Stoopid)",
       "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "They Might've Even Loved Me",
-        "url": "https://open.spotify.com/album/4DYlqTiUl96D7ZTXiqn3t1"
-      },
-      "artists": [
-        {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
-        }
-      ],
-      "duration_ms": 235653,
-      "name": "Milk & Coffee",
-      "url": "https://open.spotify.com/track/6vWaOUGVNbe7wx6X3EddAF"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 134946,
       "name": "Solamente",
       "url": "https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "They Might've Even Loved Me",
+        "url": "https://open.spotify.com/album/4DYlqTiUl96D7ZTXiqn3t1"
+      },
+      "artists": [
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "Milk & Coffee",
+      "url": "https://open.spotify.com/track/6vWaOUGVNbe7wx6X3EddAF"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 203912,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Palm Reader",
         "url": "https://open.spotify.com/album/0QdTN7cbQCSTyzZqLQubCI"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 203912,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Live It Up",
         "url": "https://open.spotify.com/album/6fTrc7CxLHco921W4qT3u2"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/1aN1BvqkohdINxEHf83z3u"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 153680,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/4ARoMobdw8Pv6idjmbQUjJ"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Follow Your Heart",
         "url": "https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 190288,
       "name": "Good Day for a Good Day",
       "url": "https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/1aN1BvqkohdINxEHf83z3u"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 153680,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/4ARoMobdw8Pv6idjmbQUjJ"
     },
     {
       "added_at": "2022-07-29 04:02:00",

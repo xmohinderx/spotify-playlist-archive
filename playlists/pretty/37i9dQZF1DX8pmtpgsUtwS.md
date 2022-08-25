@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,664 likes - 66 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,681 likes - 66 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mere Yaar](https://open.spotify.com/track/1OUXH35gQqdsZzrdGEkqkN) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 3:45 |
 | 2 | [Bandish Blues \(Live\)](https://open.spotify.com/track/3UAPWTHJrFE3WH5yGqiK9d) | [The Darshan Doshi Trio](https://open.spotify.com/artist/4cw437ehAoUfzyWoeSYzn7), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Avishek Dey](https://open.spotify.com/artist/66ZhGsImLYamCk5CYirr8p), [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [Live on Tour 2021](https://open.spotify.com/album/4675BHgjXPBAvMi1VtY2oA) | 5:19 |
 | 3 | [Saajan More \(Secret Sessions X Collab Stories\)](https://open.spotify.com/track/2mOZsknA6l7qTGDy8wELeU) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa), [Air Devi](https://open.spotify.com/artist/49HEYP8DQrHDQmdBCU4MSD), [Purani](https://open.spotify.com/artist/0bnKXCAkZoRV3qmPrFMN30) | [Saajan More \(Secret Sessions X Collab Stories\)](https://open.spotify.com/album/3JjXXx7QML49r6T0WOUToC) | 1:54 |
-| 4 | [HUES Of DAWN](https://open.spotify.com/track/0Vpe8MGbNeVD5dRIPY3gZa) | [Keshav Mohankumar](https://open.spotify.com/artist/5G29sllOnlnqJf5SGyEP1u), [sai shiv](https://open.spotify.com/artist/1bYiS5Rw8rpm8JxDoEUWga), [Shamith S Gowda](https://open.spotify.com/artist/5f7jMNBP9S7osyGl7wPz7i), [Samrudh Srinivas](https://open.spotify.com/artist/5sm5js0tVo2wEgBVTmOwX7), [Sujayeendra Rao](https://open.spotify.com/artist/53sLC21LuaFVnLHAPk80FE) | [HUES Of DAWN](https://open.spotify.com/album/3vbnOOJa9AL5DXz0zSSbOX) | 4:10 |
+| 4 | [HUES Of DAWN](https://open.spotify.com/track/0Vpe8MGbNeVD5dRIPY3gZa) | [Keshav Mohankumar](https://open.spotify.com/artist/5G29sllOnlnqJf5SGyEP1u), [sai shiv](https://open.spotify.com/artist/1bYiS5Rw8rpm8JxDoEUWga), [Sujayeendra Rao](https://open.spotify.com/artist/53sLC21LuaFVnLHAPk80FE), [Samrudh Srinivas](https://open.spotify.com/artist/5sm5js0tVo2wEgBVTmOwX7), [Shamith S Gowda](https://open.spotify.com/artist/5f7jMNBP9S7osyGl7wPz7i) | [HUES Of DAWN](https://open.spotify.com/album/3vbnOOJa9AL5DXz0zSSbOX) | 4:10 |
 | 5 | [Mo Funk \(Indo\-Western Fusion\)](https://open.spotify.com/track/4C95pR86Pp1CiRDJQnGFWk) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:39 |
 | 6 | [Pata Nahin](https://open.spotify.com/track/6JclMezRpieefEcYchmSe5) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9) | [Pata Nahin](https://open.spotify.com/album/2YIzspPB4PB1fb7JWc5qlj) | 3:29 |
 | 7 | [Tum Sang](https://open.spotify.com/track/60uYhlD1Q5xJC4X1ThXgXl) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Tum Sang](https://open.spotify.com/album/5iFLWvbvg9JS5xy81LQHMl) | 3:04 |

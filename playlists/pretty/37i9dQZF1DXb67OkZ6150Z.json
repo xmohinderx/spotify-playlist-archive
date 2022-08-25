@@ -1,12 +1,12 @@
 {
   "description": "Indie takes on songs others make. Cover: Remi Wolf",
-  "num_followers": 271249,
+  "num_followers": 271272,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc3MjU3OCwwMDAwMDAwMGRiYWFhMjJhODZlMGE2OWRkMjU0OWU0YmJjNzc0ZjZk",
+  "snapshot_id": "MTY2MDc3MjU3OCwwMDAwMDAwMDMxMDRkOGZlMmMyMDkwMmM4YTNmNWZiNmZhOGU5MjZm",
   "tracks": [
     {
       "added_at": "2022-08-17 21:42:58",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Siamese Dream",
-        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 255633,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Siamese Dream",
+        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 255633,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "Ode",
         "url": "https://open.spotify.com/album/20e4uXVD8PBrziY0YtsTPi"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 136891,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "As I Rise",
+        "url": "https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 140741,
+      "name": "As I Rise",
+      "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Dweeb Tapes",
-        "url": "https://open.spotify.com/album/5YIN6swBDIybgewMSEpX54"
-      },
-      "artists": [
-        {
-          "name": "OCTAVIO the Dweeb",
-          "url": "https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/3SZ5m5GQyIKIhIoizDGTQg"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "Never Tear Us Apart",
         "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
       },
@@ -1215,18 +1199,34 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "I Try",
-        "url": "https://open.spotify.com/album/5ZwWwcH6Q2xWIJzC1n5WXI"
+        "name": "Dweeb Tapes",
+        "url": "https://open.spotify.com/album/5YIN6swBDIybgewMSEpX54"
       },
       "artists": [
         {
-          "name": "courtship.",
-          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
+          "name": "OCTAVIO the Dweeb",
+          "url": "https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt"
         }
       ],
-      "duration_ms": 147996,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr"
+      "duration_ms": 194786,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/3SZ5m5GQyIKIhIoizDGTQg"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7I4aB73LOtDFQhJQE6HmQc"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/5sKN6nGLcbfveIVEoejeoC"
     },
     {
       "added_at": "2022-08-09 20:20:41",

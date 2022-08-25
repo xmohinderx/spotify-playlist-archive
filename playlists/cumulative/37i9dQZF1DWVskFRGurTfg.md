@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica: Foto: Rels B.
 
-293 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
+294 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Panamera](https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Panamera](https://open.spotify.com/album/587dbQNUDsGAL4xMkNScm6) | 3:55 | 2022-04-29 | 2022-08-06 |
 | [Pantano](https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Pantano](https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad) | 3:20 | 2022-04-01 | 2022-08-06 |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-03-22 |  |
+| [Papá](https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:20 | 2022-08-25 |  |
 | [Par de Veces](https://open.spotify.com/track/2vZS65RIoFXGF4FpWqpMIR) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [El Casti](https://open.spotify.com/artist/2Dwsrv9EwfgB2tEFhUG7CA) | [Par de Veces](https://open.spotify.com/album/4zz7Q2jwt3I3PMd99K5XwL) | 3:57 | 2022-04-04 | 2022-06-07 |
 | [Parao](https://open.spotify.com/track/73uMMgJQUkEtn22y5vjr5W) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Parao](https://open.spotify.com/album/2P9lxQ2xbisFSyu2bsReHf) | 3:40 | 2021-12-17 | 2022-02-26 |
 | [Parcera](https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Parcera](https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j) | 3:33 | 2022-01-13 | 2022-02-26 |

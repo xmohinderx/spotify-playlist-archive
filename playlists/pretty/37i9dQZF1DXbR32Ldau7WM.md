@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: 9mm Parabellum Bullet
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,398 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,445 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 3 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 |
 | 4 | [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 |
 | 5 | [暁](https://open.spotify.com/track/1JXoBwo67DqPB1d5v1NPRC) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [暁](https://open.spotify.com/album/0jp4zHCCFZZ3v5RtzbgeMm) | 4:10 |
-| 6 | [Tear Down](https://open.spotify.com/track/2XMkoCqatTSUnpLmyOdQ4Q) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Tear Down](https://open.spotify.com/album/6EfehHNU5IdlduY7lX9QZU) | 3:52 |
+| 6 | [Tear Down](https://open.spotify.com/track/03gSWDA9k6VJD6IJRMVjyB) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Tear Down](https://open.spotify.com/album/1vpH5sFlWAf0JnXEhsDWkt) | 3:52 |
 | 7 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
 | 8 | [ピグマリオン](https://open.spotify.com/track/0rpOxMN9wo0iYdlT6q5yik) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ピグマリオン](https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC) | 4:38 |
 | 9 | [LOVE LETTER FROM A DEAD END](https://open.spotify.com/track/39mgx6DZ7yCF2u0ygKkYjZ) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [LOVE LETTER FROM A DEAD END](https://open.spotify.com/album/6TnLHPMsBHQm0BFfbaSuSN) | 4:18 |
 | 10 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
 | 11 | [BOY 2022](https://open.spotify.com/track/0xK0rCpjfmmmdPdbpyfMqg) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [BOY 2022](https://open.spotify.com/album/3PGIfAOfGxRg5jTvZRXC8s) | 4:45 |
 | 12 | [M八七](https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK) | 4:23 |
-| 13 | [ポケットの中](https://open.spotify.com/track/4ujFJVwK2M8c8SblmNlpv0) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [リラックマと遊園地 オリジナル・サウンドトラック \(NETFLIXシリーズ\)](https://open.spotify.com/album/5HvNkX9xldX0mO6ioV5LPN) | 5:39 |
+| 13 | [In Your Pocket](https://open.spotify.com/track/7zVLnfbwom5vEHhHfNjv8c) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Rilakkuma's Theme Park Adventure Original Soundtrack \(NETFLIX SERIES\)](https://open.spotify.com/album/0dtLFEATqgCBNRVrrneqj0) | 5:39 |
 | 14 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 |
-| 15 | [今日の続きを](https://open.spotify.com/track/6eJqGKAaGIWQZ4zHZwhmI0) | [Scoobie Do](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/0kl03FkY6GYsty7uak2aJz) | 3:32 |
+| 15 | [Kyo no Tsuzuki o](https://open.spotify.com/track/3GUxnsyhw0sBlHB5w0Y01o) | [Scoobie Do](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/7g8uOemIk4xT5HqaKEtPX5) | 3:32 |
 | 16 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 |
 | 17 | [Is It Too Late?](https://open.spotify.com/track/2hIkxugVJfPd8FjXzLpOrt) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Is It Too Late?](https://open.spotify.com/album/2HbIJbRXMAsMLvKaESkrli) | 3:50 |
 | 18 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 49 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 50 | [Move on Fast](https://open.spotify.com/track/5W3EUo8Exi8WlAoSjuOeZ6) | [Yoko Ono & Plastic Ono Super Band](https://open.spotify.com/artist/2s7B7uO33VlnxIUk7OhQ6f), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [Steve Khan](https://open.spotify.com/artist/59SNrXVA519VMDpAktiSk3), [Andy Muson](https://open.spotify.com/artist/0a3E0bgMlBDw0HppxrkFuG), [Rick Marotta](https://open.spotify.com/artist/24KsY9DrfNKXOVYH8MOMsK), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Don Grolnick](https://open.spotify.com/artist/0Ssqhquy8WFuqz7ZnZuBkR), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Move on Fast](https://open.spotify.com/album/7K2ZkG0HJFCwpSoozDJ8oV) | 3:57 |
 
-Snapshot ID: `MTY2MTI2NjgwMCwwMDAwMDAwMDFhNzRkZTdjODA0NjAzYzg4NDJkOWJmNTZlOWExZWNh`
+Snapshot ID: `MTY2MTI2NjgwMCwwMDAwMDAwMGFkN2UyMWI5NGVlZTYyNzRmMTY3OTJmYzZkMjg1NTIz`

@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 162429,
+  "num_followers": 162474,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMDE3MDk4NDAzY2I5MzBhYmE1ZDZlZDZkYWE5MzZhMTJh",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMGJhZjVmZWUzNzJiYTBjZjQ0MjdhNWFlNGIzZjlmZDVm",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "DOA [Feat. Joyner Lucas]",
         "url": "https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 218571,
       "name": "DOA [Feat. Joyner Lucas]",
       "url": "https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Riot!",
-      "url": "https://open.spotify.com/track/0RLasXfUaq0alAJVYhQ9s8"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Our House (The Mess We Made)",
         "url": "https://open.spotify.com/album/26sg6kzIjBRBeBV2dl6wzj"
       },
@@ -811,22 +795,6 @@
       "duration_ms": 233586,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 186475,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4oFyfXZgrirMQCwjhXGnj6"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1107,6 +1075,26 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Foreign Language",
+        "url": "https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        },
+        {
+          "name": "Frank Carter",
+          "url": "https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf"
+        }
+      ],
+      "duration_ms": 112305,
+      "name": "Power (feat. Frank Carter)",
+      "url": "https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
         "url": "https://open.spotify.com/album/0aMmyg5wDhpn0DDY7sjfyE"
       },
@@ -1135,26 +1123,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Foreign Language",
-        "url": "https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        },
-        {
-          "name": "Frank Carter",
-          "url": "https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf"
-        }
-      ],
-      "duration_ms": 112305,
-      "name": "Power (feat. Frank Carter)",
-      "url": "https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Can't Deny Me",
         "url": "https://open.spotify.com/album/7N3t4G1okTBsoQ6dBmPXAV"
       },
@@ -1171,22 +1139,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "The Disease",
-        "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "YUNGBLUD",
         "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
       },
@@ -1199,6 +1151,22 @@
       "duration_ms": 223043,
       "name": "Polygraph Eyes",
       "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "The Disease",
+        "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Disease",
+      "url": "https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1267,6 +1235,38 @@
       "duration_ms": 206373,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/0pu3lMc2n982gfrBOy5880"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "American Attraction",
+        "url": "https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "American Attraction",
+      "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Bodied",
+        "url": "https://open.spotify.com/album/5KG3In8LsszpAsPSh3OOH7"
+      },
+      "artists": [
+        {
+          "name": "Honors",
+          "url": "https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp"
+        }
+      ],
+      "duration_ms": 178592,
+      "name": "Bodied",
+      "url": "https://open.spotify.com/track/5CoFI2sgWxWACu15DhE3fY"
     }
   ],
   "unique_name": "Rise Up",

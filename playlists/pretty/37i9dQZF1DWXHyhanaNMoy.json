@@ -1,12 +1,12 @@
 {
   "description": "De playlist voor magic, motion en summer vibes! Cover: KATNUF",
-  "num_followers": 302695,
+  "num_followers": 302752,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTI1NjM3MCwwMDAwMDAwMGQzYTRkMWU2N2E5NDU3ZTYxMWY2YzI4NWY4Yzk5NGVl",
+  "snapshot_id": "MTY2MTM0MjU2MCwwMDAwMDAwMDI3ZjU5ZjgwM2YxZjA3YWI2MDM4OTljNDBmYmZiMTk1",
   "tracks": [
     {
       "added_at": "2022-08-23 11:40:08",
@@ -83,6 +83,22 @@
       "duration_ms": 120465,
       "name": "OK",
       "url": "https://open.spotify.com/track/1iOuMmgWQGonnhIwvow7Ac"
+    },
+    {
+      "added_at": "2022-08-24 12:01:42",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "duration_ms": 151690,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU"
     },
     {
       "added_at": "2022-08-23 11:40:08",
@@ -513,6 +529,26 @@
       "url": "https://open.spotify.com/track/40y4pVuBIevboi72NU23HM"
     },
     {
+      "added_at": "2022-08-24 12:01:42",
+      "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/155ZliUPSgXIl5Z4lFl5KK"
+      },
+      "artists": [
+        {
+          "name": "Latu",
+          "url": "https://open.spotify.com/artist/4R6hvBrUMsQVBoKJv2tLFz"
+        },
+        {
+          "name": "Nordin",
+          "url": "https://open.spotify.com/artist/6IdSqpFPyjKzO3z56xzoaK"
+        }
+      ],
+      "duration_ms": 132954,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/1aMBEPxu04bm2IE2B9dfKQ"
+    },
+    {
       "added_at": "2022-08-23 11:40:08",
       "album": {
         "name": "Bunda",
@@ -547,34 +583,6 @@
       "duration_ms": 161904,
       "name": "Digi Deng Dang (feat. Caza)",
       "url": "https://open.spotify.com/track/3V2cE4cuhzhpjQIi3H0tLG"
-    },
-    {
-      "added_at": "2022-08-23 11:40:08",
-      "album": {
-        "name": "Ghana Must Go",
-        "url": "https://open.spotify.com/album/6wWGSDH4HF7kacTVIBCzCi"
-      },
-      "artists": [
-        {
-          "name": "Nnelg",
-          "url": "https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP"
-        },
-        {
-          "name": "sor",
-          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
-        },
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        },
-        {
-          "name": "Amartey",
-          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
-        }
-      ],
-      "duration_ms": 180624,
-      "name": "Curvy Waistline",
-      "url": "https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw"
     },
     {
       "added_at": "2022-08-23 11:40:08",
@@ -747,6 +755,34 @@
       "duration_ms": 181957,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/2yqSgr8sMvM0jlFj4Aqx7B"
+    },
+    {
+      "added_at": "2022-08-23 11:40:08",
+      "album": {
+        "name": "Ghana Must Go",
+        "url": "https://open.spotify.com/album/6wWGSDH4HF7kacTVIBCzCi"
+      },
+      "artists": [
+        {
+          "name": "Nnelg",
+          "url": "https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP"
+        },
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "Amartey",
+          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
+        }
+      ],
+      "duration_ms": 180624,
+      "name": "Curvy Waistline",
+      "url": "https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw"
     },
     {
       "added_at": "2022-08-23 11:40:08",

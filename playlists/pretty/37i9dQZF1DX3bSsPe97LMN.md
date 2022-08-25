@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Ivonne Galaz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,760 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,802 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 63 | [Te Quise Olvidar](https://open.spotify.com/track/0jdSKCIcsJuIVeg39EevgT) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Te Quise Olvidar](https://open.spotify.com/album/01Jm1oH8OrOMtMQOI6UfUg) | 3:40 |
 | 64 | [El Fantasma](https://open.spotify.com/track/4Gqr2byRpTkarcyQ9Pye1h) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [El Fantasma](https://open.spotify.com/album/4gerOtayb9FjpowEUQgvz9) | 3:59 |
 | 65 | [Humo](https://open.spotify.com/track/5PnXwGXWNHK0jJhKpeyg88) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Humo](https://open.spotify.com/album/6U3xMwALsK9e4B8OFgVW92) | 3:24 |
-| 66 | [1942](https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [1942](https://open.spotify.com/album/1aYm3ShmR2KttTOJUUybKb) | 2:18 |
-| 67 | [Ya Los Miraron Pasar](https://open.spotify.com/track/04ETVcXvStIz96bDxqpr2S) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Ya Los Miraron Pasar](https://open.spotify.com/album/4L4RHzgMeqzU8LeXix4JLh) | 3:07 |
+| 66 | [Ya Los Miraron Pasar](https://open.spotify.com/track/04ETVcXvStIz96bDxqpr2S) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Ya Los Miraron Pasar](https://open.spotify.com/album/4L4RHzgMeqzU8LeXix4JLh) | 3:07 |
+| 67 | [1942](https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [1942](https://open.spotify.com/album/1aYm3ShmR2KttTOJUUybKb) | 2:18 |
 | 68 | [El Chivo](https://open.spotify.com/track/61l7b4tV5lhopAO25OaUhP) | [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W) | [El Chivo](https://open.spotify.com/album/7MPluGvg6suOskXTNg0W5i) | 2:54 |
 | 69 | [Tú También Eres De Barrio](https://open.spotify.com/track/24BbCLyggRqfIKpLbnPgAT) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Tú También Eres De Barrio](https://open.spotify.com/album/5Kkb8hbbFca8hKh0NnwQtM) | 2:49 |
 | 70 | [Es Pura Envidia](https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Es Pura Envidia](https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN) | 2:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [A Pesar De Todo](https://open.spotify.com/track/54v763MzxJoz7EtgoOkRnF) | [Max Wizard](https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme) | [A Pesar De Todo](https://open.spotify.com/album/7IU4tew0q0wwxXDM2zSJ0l) | 3:01 |
 | 75 | [Ando Bien Tumbado](https://open.spotify.com/track/3tQCYIGiq4ToBUIBCcI3mJ) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Ando Bien Tumbado](https://open.spotify.com/album/14dzMkIDXzmCA5vwm34zy7) | 3:05 |
 
-Snapshot ID: `MTY1OTcxMDg3NSwwMDAwMDAwMDY2MGY4ZmVmMTNhNmQ0Mjg0MzY2Y2NmNGI5ZGE1MzE4`
+Snapshot ID: `MTY1OTcxMDg3NSwwMDAwMDAwMGIzMmFlMGI5NzA0ZjUwYTExZTliYTRjYWU1MGI3MWFm`

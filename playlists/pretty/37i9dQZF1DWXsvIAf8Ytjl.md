@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,179 likes - 47 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,242 likes - 47 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 17 | [Stranglehold](https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Great Gonzos! The Best Of Ted Nugent](https://open.spotify.com/album/4xKPMSSynMM7hSqB5sXjCV) | 8:22 |
 | 18 | [Barracuda](https://open.spotify.com/track/38bHLl4pznhxzRJLuw1OA7) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Shaun White Snowboarding: Official Soundtrack](https://open.spotify.com/album/0QWjK3wGoCug92yQIeBdxu) | 4:22 |
 | 19 | [Hocus Pocus](https://open.spotify.com/track/2uzyiRdvfNI5WxUiItv1y9) | [Focus](https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR) | [The Best Of Focus / Hocus Pocus \(Incl WC 2010 Version of 'Hocus Pocus'\)](https://open.spotify.com/album/55zdxBeCPm7XmuZCeCdRbX) | 6:42 |
-| 20 | [Mississippi Queen](https://open.spotify.com/track/5Ny6yVg3LRfz3jicFcIMlm) | [Mountain](https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE) | [Drivin' South: Southern Rockin' Smash Hits](https://open.spotify.com/album/0V9g2VTjpNub0xcJkNxOLX) | 2:27 |
-| 21 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
+| 20 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
+| 21 | [Mississippi Queen](https://open.spotify.com/track/5Ny6yVg3LRfz3jicFcIMlm) | [Mountain](https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE) | [Drivin' South: Southern Rockin' Smash Hits](https://open.spotify.com/album/0V9g2VTjpNub0xcJkNxOLX) | 2:27 |
 | 22 | [Ride My See\-Saw](https://open.spotify.com/track/6tMNYGXJ1L6wjbSkAXWyHh) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [In Search Of The Lost Chord](https://open.spotify.com/album/3ZTNq36NEuAdPLwkey7z6C) | 3:39 |
 | 23 | [The Shape I'm In \- Remastered 2000](https://open.spotify.com/track/4Qs8uJL6dhsJJKl2rX8a9F) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Stage Fright \(Expanded Edition\)](https://open.spotify.com/album/4AxJWv0DDSY96U5ETJcCaY) | 4:00 |
 | 24 | [Skin It Back](https://open.spotify.com/track/4660oWp7DdhrJPcugJpKEQ) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 4:12 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 46 | [Wipeout](https://open.spotify.com/track/4KFCyusUzxTL8PwE0AH02f) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [100 Years of Surfing](https://open.spotify.com/album/33msQbGd76fYSd4imz3lbh) | 2:34 |
 | 47 | [The Oh Kee Pa Ceremony \- Live in Brooklyn](https://open.spotify.com/track/174K2TV5eQ2pxtr83emEVL) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 1:47 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDIwZDQxZWVlZTJmZjcxYjZmYjQxYzI4MzlkZDIzOTQ0`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDEzMzRmZjkwMzFiMzI5ZDJiOTYyZTZkZWU4MWQ4MjVj`

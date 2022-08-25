@@ -1563,7 +1563,7 @@
     {
       "album": {
         "name": "Stand up!",
-        "url": "https://open.spotify.com/album/5N7p81PrhjsvkICINxnQXf"
+        "url": "https://open.spotify.com/album/5NvK8EDgRXrTNhYbSDKQ5j"
       },
       "artists": [
         {
@@ -1574,6 +1574,24 @@
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185200,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/0TNYF3NLy6FgYs8jM10mwi"
+    },
+    {
+      "album": {
+        "name": "Stand up!",
+        "url": "https://open.spotify.com/album/5N7p81PrhjsvkICINxnQXf"
+      },
+      "artists": [
+        {
+          "name": "OMEGA X",
+          "url": "https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
       "duration_ms": 185200,
       "name": "Drive",
       "url": "https://open.spotify.com/track/7N2ZqlzoDqXB7xMzUHevJ5"
@@ -1865,6 +1883,24 @@
       "duration_ms": 188857,
       "name": "Fiore",
       "url": "https://open.spotify.com/track/4oIaItu2ULn7YZvHV80NuF"
+    },
+    {
+      "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183146,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX"
     },
     {
       "album": {

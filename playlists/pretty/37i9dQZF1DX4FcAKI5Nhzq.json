@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: THE BOYZ",
-  "num_followers": 705812,
+  "num_followers": 706023,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDcyMTQxNiwwMDAwMDAwMDNkZTQ3ZDMyYmNlMjdiN2M3YzJmZDFmMzcyMTgwMDFi",
+  "snapshot_id": "MTY2MTMxODA2OCwwMDAwMDAwMDVhMGU5YmJiNDJmOWNmYzcyOTBlNzJhOWViZTIzNTMw",
   "tracks": [
     {
       "added_at": "2022-08-17 07:30:16",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW"
     },
     {
+      "added_at": "2022-08-24 05:14:28",
+      "album": {
+        "name": "Piano man Op. 9",
+        "url": "https://open.spotify.com/album/195d5ogvtz69mSNRoNfuxP"
+      },
+      "artists": [
+        {
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/0KZZD2YdkvaIsGpMEVVKVD"
+        }
+      ],
+      "duration_ms": 191853,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/6CQpXk7EP1rZLD8jKCqhK9"
+    },
+    {
       "added_at": "2022-08-17 07:30:16",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
@@ -39,6 +55,22 @@
       "duration_ms": 180066,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "added_at": "2022-08-24 05:14:28",
+      "album": {
+        "name": "CIX 5th EP Album \u2018OK\u2019 Episode 1 : OK Not",
+        "url": "https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0"
+      },
+      "artists": [
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/5Yxizu2LeHTpSHvf3zANWY"
     },
     {
       "added_at": "2022-08-17 07:30:16",
@@ -595,22 +627,6 @@
     {
       "added_at": "2022-08-17 07:30:16",
       "album": {
-        "name": "The 2nd Mini Album 'Summer Vibe'",
-        "url": "https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "LOVEADE",
-      "url": "https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y"
-    },
-    {
-      "added_at": "2022-08-17 07:30:16",
-      "album": {
         "name": "Rain Day - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/58uFef7QCVv7hVQZDur3n0"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 190560,
       "name": "Rain Day",
       "url": "https://open.spotify.com/track/07lK6LoH13tGwxziXWIp16"
-    },
-    {
-      "added_at": "2022-08-17 07:30:16",
-      "album": {
-        "name": "Que Sera Sera",
-        "url": "https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF"
-      },
-      "artists": [
-        {
-          "name": "ILY:1",
-          "url": "https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Que Sera Sera",
-      "url": "https://open.spotify.com/track/4b9jE3ZlUCKhyg2Rd0ZjHp"
     },
     {
       "added_at": "2022-08-17 07:30:16",

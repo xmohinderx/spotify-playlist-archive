@@ -4002,20 +4002,24 @@
     },
     {
       "album": {
-        "name": "Sweet One (with Verbb)",
+        "name": "Sweet One",
         "url": "https://open.spotify.com/album/78y891HPIrNnSixK5sPQtD"
       },
       "artists": [
         {
           "name": "Elie G",
           "url": "https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd"
+        },
+        {
+          "name": "Verbb",
+          "url": "https://open.spotify.com/artist/5W54k3Jf0X9uBRCdW8EEXO"
         }
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207725,
-      "name": "Sweet One (with Verbb)",
+      "name": "Sweet One",
       "url": "https://open.spotify.com/track/1IJr2iSVIayK6coEJRUPUO"
     },
     {

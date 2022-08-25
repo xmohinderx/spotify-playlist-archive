@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists.
 
-144 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/1yyhOjEH9QwfpQn9ZYLpRJ)
+145 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/1yyhOjEH9QwfpQn9ZYLpRJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,13 +131,14 @@
 | [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3) | 3:05 | 2021-12-21 |  |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2021-12-21 |  |
 | [White Blanket](https://open.spotify.com/track/3QGu0a7mmrOBc8b4aB655K) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ), [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Seasons](https://open.spotify.com/album/5Dpd69pvi5PJfn5RXVcgpn) | 3:32 | 2021-12-21 | 2022-07-29 |
+| [White Blanket \(feat\. Gilgu Bongu\)](https://open.spotify.com/track/7GXU0kLoZmYq1fFoDfxGtm) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ), [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Season](https://open.spotify.com/album/1dK8iMaUFTMEHmRfcwb2zi) | 3:32 | 2021-12-21 |  |
 | [White Christmas](https://open.spotify.com/track/2fn95gdp0R3lYFCqRBAXVv) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [White Christmas](https://open.spotify.com/album/5dAGDyJZlGs5q734ZoVQYM) | 3:13 | 2021-12-21 |  |
 | [Will You Be My Home](https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Will You Be My Home](https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R) | 3:30 | 2021-12-21 |  |
 | [Winter Breath](https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:52 | 2021-12-21 |  |
 | [Winter Falls](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 3:55 | 2021-12-21 |  |
 | [Winter Falls](https://open.spotify.com/track/68JybsZc5XKAWxmHBL8z0U) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 3:55 | 2021-12-21 | 2022-07-29 |
 | [Winter Land](https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [The Christmas Book Page 2](https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3) | 3:59 | 2021-12-21 |  |
-| [Winter Wind](https://open.spotify.com/track/7LO6Xn1lEEWAcMAFyJL0Jw) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Santa is Busy](https://open.spotify.com/album/3Klxv71LYDsMhQ7wiAbzJF) | 3:19 | 2021-12-21 |  |
+| [Winter Wind](https://open.spotify.com/track/7LO6Xn1lEEWAcMAFyJL0Jw) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Santa is Busy](https://open.spotify.com/album/3Klxv71LYDsMhQ7wiAbzJF) | 3:19 | 2021-12-21 | 2022-08-25 |
 | [Winter Wonderland](https://open.spotify.com/track/3a80t6zePME9Xi72jg2jsa) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [The Barberettes Carol: Hun Hun Christmas](https://open.spotify.com/album/3rNQronWYbq9ccgplh8akp) | 4:36 | 2021-12-21 | 2022-07-29 |
 | [Winter Wonderland](https://open.spotify.com/track/45sxPvfsHzXddeuE7jFF2q) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [The Barberettes Carol : Hun Hun Christmas](https://open.spotify.com/album/0GSFgTuBL8tmDe4c0CxaJB) | 4:37 | 2021-12-21 |  |
 | [Wish me a merry Christmas \(I need somebody part.2\)](https://open.spotify.com/track/15lrRt7YJ9Y0qHGv7IQQjy) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Wish me a merry Christmas](https://open.spotify.com/album/11o0qsRA6brSkexADT8C5Q) | 4:03 | 2021-12-21 |  |

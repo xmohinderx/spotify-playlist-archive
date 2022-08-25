@@ -1469,10 +1469,28 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 206000,
       "name": "I was",
       "url": "https://open.spotify.com/track/446kz2FTk5LGJm4CwXYbaT"
+    },
+    {
+      "album": {
+        "name": "I was",
+        "url": "https://open.spotify.com/album/7IHhcmqk7OOgrl2LHIkCcQ"
+      },
+      "artists": [
+        {
+          "name": "Kaneyorimasaru",
+          "url": "https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "I was",
+      "url": "https://open.spotify.com/track/7t1vX4bSTlw830w6j17Um0"
     },
     {
       "album": {

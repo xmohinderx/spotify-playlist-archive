@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Wesley Safadão, Douglas & Vinicius, Demi Lovato e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,769,972 likes - 97 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,770,236 likes - 97 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 33 | [Taca a Rabona](https://open.spotify.com/track/599qFTex21lYTjNsg76Ncy) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Caon no Hit](https://open.spotify.com/album/1WFFfKmWBXhrJBI0D6dE8d) | 1:52 |
 | 34 | [SET Talarica](https://open.spotify.com/track/06pToHPq5MyaMJuG5sUZuA) | [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [MC Dede](https://open.spotify.com/artist/45Hr5etuwmSx4gSyn5qSeW), [MC Kapela](https://open.spotify.com/artist/2MKq3nQOfCRUwxtmmAOpqR), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT) | [100K, Pt.1](https://open.spotify.com/album/4JXlhljFFR3l3XApLyxJWh) | 5:52 |
 | 35 | [Eu Sou Iluminado](https://open.spotify.com/track/5ypnmxsJvnyiLtqDFv7nbO) | [Mc Miller](https://open.spotify.com/artist/3lPqoloT6yQMReUyZIkes6) | [Iluminado](https://open.spotify.com/album/6HQv3LN7oBn7irJL2GZ7kd) | 3:53 |
-| 36 | [Assumindo Saudade](https://open.spotify.com/track/6UA9gqexzJrP3f8vsKFXIh) | [Sudario](https://open.spotify.com/artist/6lzcI2dGSaJ7NbEFNooqXu) | [Sudário Atualizado \(EP02\)](https://open.spotify.com/album/51KIuAjJkhgL7UN1NiiWpL) | 3:10 |
+| 36 | [Assumindo Saudade](https://open.spotify.com/track/6UA9gqexzJrP3f8vsKFXIh) | [Sudario](https://open.spotify.com/artist/6lzcI2dGSaJ7NbEFNooqXu) | [Sudário Atualizado \(EP2\)](https://open.spotify.com/album/51KIuAjJkhgL7UN1NiiWpL) | 3:10 |
 | 37 | [As Onze Palavras](https://open.spotify.com/track/5AAg5PAor93wUTPdxoOWHw) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [As Onze Palavras](https://open.spotify.com/album/2uYbjqCKvgXR9doMORqe3L) | 4:07 |
 | 38 | [Olho de Girassol](https://open.spotify.com/track/3s0A8jRhbklln6u5eZFxSX) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Bráulio Bessa](https://open.spotify.com/artist/4G22JHSJnunUt8t3yMt46A) | [Olho de Girassol](https://open.spotify.com/album/6sFjAGgZMaQTYa4j5OlJhj) | 3:14 |
 | 39 | [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 |

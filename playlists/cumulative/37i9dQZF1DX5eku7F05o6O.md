@@ -4,7 +4,7 @@
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-154 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/1uamJwZjgxkyJHjt785hKa)
+155 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/1uamJwZjgxkyJHjt785hKa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Les Aurores](https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Mara Tremblay](https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6) | 4:05 | 2021-02-06 |  |
 | [Les derniers jours](https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Fleur](https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh) | 5:04 | 2021-02-06 |  |
 | [Les derniers jours](https://open.spotify.com/track/6MO1YfVjbvoM06tvisfth8) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Fleur](https://open.spotify.com/album/11eEzuYMF1QxGt8MbvJfZC) | 5:04 | 2021-02-06 | 2022-07-29 |
-| [Les terres de la couronne \(feat\. Ariane Moffatt\)](https://open.spotify.com/track/28YNG3DonL2by1hnk7haDy) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Almanach](https://open.spotify.com/album/1ahbJuD9ChsudB770UsZ51) | 4:03 | 2021-02-06 |  |
+| [Les terres de la Couronne](https://open.spotify.com/track/0yz1HfQpwmJch18CPQf9OY) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Almanach](https://open.spotify.com/album/4XESOXhwzs3hsoohu1IHFl) | 4:12 | 2021-02-06 |  |
+| [Les terres de la couronne \(feat\. Ariane Moffatt\)](https://open.spotify.com/track/28YNG3DonL2by1hnk7haDy) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Almanach](https://open.spotify.com/album/1ahbJuD9ChsudB770UsZ51) | 4:03 | 2021-02-06 | 2022-08-25 |
 | [Les terres de la couronne \(Feat\. Ariane Moffatt\)](https://open.spotify.com/track/4CPoOjxiFIhcppc6keC96T) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Almanach](https://open.spotify.com/album/3FkUgZeQvwuVwIKUQUNnSg) | 4:03 | 2021-02-06 | 2022-07-29 |
 | [Linoléum](https://open.spotify.com/track/4mh2UjI1muaqygRSlCUXE8) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Le cours des jours](https://open.spotify.com/album/5ofuvpieZ3jgTNb9WF1u6o) | 5:17 | 2021-02-06 |  |
 | [Loin de Disneyland](https://open.spotify.com/track/3mkhOd4lOuHlJSyUxpAtbj) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Le feu de chaque jour](https://open.spotify.com/album/6zxnT8yK3a048LsyekZigP) | 4:31 | 2021-02-06 | 2022-07-29 |

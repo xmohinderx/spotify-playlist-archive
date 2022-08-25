@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 108830,
+  "num_followers": 108854,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzODQwMCwwMDAwMDAwMDk0M2YzZTRhZDc3NzBkM2Y4ODdhODM1NGQzZmEwNTM0",
+  "snapshot_id": "MTY2MDgzODQwMCwwMDAwMDAwMGJkNTcwMDcyODlhOGM1OGIzZGI3MGRhNTI4NmE2NmRj",
   "tracks": [
     {
       "added_at": "2022-08-18 16:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-08-18 16:00:00",
       "album": {
+        "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
+        "url": "https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "duration_ms": 200287,
+      "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
+      "url": "https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh"
+    },
+    {
+      "added_at": "2022-08-18 16:00:00",
+      "album": {
         "name": "\u660e\u5929\u518d\u898b",
         "url": "https://open.spotify.com/album/1qcnrw6fl5BkdSkd5MNfhx"
       },
@@ -171,18 +187,18 @@
     {
       "added_at": "2022-08-18 16:00:00",
       "album": {
-        "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
-        "url": "https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK"
+        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
+        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
       },
       "artists": [
         {
-          "name": "G.E.M.",
-          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
         }
       ],
-      "duration_ms": 200287,
-      "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
-      "url": "https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh"
+      "duration_ms": 260958,
+      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
+      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
     },
     {
       "added_at": "2022-08-18 16:00:00",
@@ -199,22 +215,6 @@
       "duration_ms": 274022,
       "name": "\u6177\u6168",
       "url": "https://open.spotify.com/track/5JowA7cy6M1j3Wv6hhmKsC"
-    },
-    {
-      "added_at": "2022-08-18 16:00:00",
-      "album": {
-        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
-        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 260958,
-      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
-      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
     },
     {
       "added_at": "2022-08-18 16:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-08-18 16:00:00",
       "album": {
-        "name": "\u76f8\u53cd\u7684\u662f",
-        "url": "https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw"
-      },
-      "artists": [
-        {
-          "name": "Jess Lee",
-          "url": "https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n"
-        }
-      ],
-      "duration_ms": 247324,
-      "name": "\u597d\u5f37",
-      "url": "https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC"
-    },
-    {
-      "added_at": "2022-08-18 16:00:00",
-      "album": {
         "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
         "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 266286,
       "name": "\u5047\u7537\u53cb",
       "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
+    },
+    {
+      "added_at": "2022-08-18 16:00:00",
+      "album": {
+        "name": "\u76f8\u53cd\u7684\u662f",
+        "url": "https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw"
+      },
+      "artists": [
+        {
+          "name": "Jess Lee",
+          "url": "https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n"
+        }
+      ],
+      "duration_ms": 247324,
+      "name": "\u597d\u5f37",
+      "url": "https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC"
     },
     {
       "added_at": "2022-08-18 16:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-18 16:00:00",
       "album": {
-        "name": "\u96db\u5f62",
-        "url": "https://open.spotify.com/album/6sP1HwzA0iqkGjoroBgog4"
-      },
-      "artists": [
-        {
-          "name": "LaLa Hsu",
-          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
-        }
-      ],
-      "duration_ms": 239832,
-      "name": "\u96db\u5f62",
-      "url": "https://open.spotify.com/track/3mrkmWt803vSvGxTlW27YI"
-    },
-    {
-      "added_at": "2022-08-18 16:00:00",
-      "album": {
         "name": "\u539f\u4f86\u6211\u5f88\u611b\u4f60 (\u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u540c\u540d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 220032,
       "name": "\u539f\u4f86\u6211\u5f88\u611b\u4f60 - \u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u540c\u540d\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi"
+    },
+    {
+      "added_at": "2022-08-18 16:00:00",
+      "album": {
+        "name": "\u96db\u5f62",
+        "url": "https://open.spotify.com/album/6sP1HwzA0iqkGjoroBgog4"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "duration_ms": 239832,
+      "name": "\u96db\u5f62",
+      "url": "https://open.spotify.com/track/3mrkmWt803vSvGxTlW27YI"
     },
     {
       "added_at": "2022-08-18 16:00:00",

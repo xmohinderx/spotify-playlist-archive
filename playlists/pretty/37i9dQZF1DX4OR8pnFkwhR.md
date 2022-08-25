@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 秋山璃月
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,389 likes - 57 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,404 likes - 57 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 28 | [Pale Summer](https://open.spotify.com/track/3u8LTDwcLfCCtu7mTj9eT9) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [Pale Summer](https://open.spotify.com/album/2eShlYlfZ4t3hCfOLjKaNN) | 3:29 |
 | 29 | [This Way](https://open.spotify.com/track/3kvSdSr7h0KOn7FDFhAXLT) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 2:34 |
 | 30 | [陶芸](https://open.spotify.com/track/7HcufLjbzyaRauzRET8hfj) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Mining](https://open.spotify.com/album/7KvPSi87joIQXyTgPLoHe8) | 2:17 |
-| 31 | [太陽](https://open.spotify.com/track/7aRxiKCYo9xsF96roJNco2) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [太陽](https://open.spotify.com/album/5MfsRSyPjJ5BcufN5r6LEO) | 3:29 |
-| 32 | [YOU & PURE](https://open.spotify.com/track/6R4zo0vwf2GYo8j8EwwiJK) | [弁天ランド](https://open.spotify.com/artist/5b2XKPrpk1lCZlabEwUpjZ) | [窓のほとりでに](https://open.spotify.com/album/6dNVd2LHaHjSm3CHjtQMSq) | 2:42 |
+| 31 | [The Sun](https://open.spotify.com/track/11Gi13v5tOergV1LjEbbDT) | [Ako](https://open.spotify.com/artist/3OZH8bAVViRcIjo4vUuIRz) | [The Sun](https://open.spotify.com/album/4U9TfKHxuKyPdFO5emYrfH) | 3:29 |
+| 32 | [YOU & PURE](https://open.spotify.com/track/2Kb2aRIv9f57R4E0KnvqxC) | [BENTENLAND](https://open.spotify.com/artist/0nTlWJFZcdMTeoOGLZUw7e) | [madonohotorideni](https://open.spotify.com/album/3oyJRMN60xgIKH3G7Av7Nh) | 2:42 |
 | 33 | [minamisenju](https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 3:13 |
 | 34 | [zettaizetsumei](https://open.spotify.com/track/6x0WG2IIzpXkldDE1E7jtP) | [NOMAD POP](https://open.spotify.com/artist/2sggfxkeQ5OFGNPZpadSFZ) | [zettaizetsumei](https://open.spotify.com/album/4GT3kyFUUC3h093sN4H9Mu) | 3:53 |
 | 35 | [Loova](https://open.spotify.com/track/6CjOWkHBN8ZDUNcDrR1XGz) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Loova](https://open.spotify.com/album/49AVdl1YAYHYkZBqEsJLmG) | 3:31 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 56 | [星の国から](https://open.spotify.com/track/3UHXCkP4RSIG7X5FZPVdzB) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [星の国から](https://open.spotify.com/album/5UaD322rBb7sRPnPfhSEAY) | 3:34 |
 | 57 | [live for](https://open.spotify.com/track/2fCMmuCKN42oGQIsHUpPg4) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [live for](https://open.spotify.com/album/2Kd3QKMN5r9RIH7vS0ClHV) | 3:11 |
 
-Snapshot ID: `MTY2MTI2NjgwMCwwMDAwMDAwMGQ5OWFiZDQ4MjI0NmI4MTUxZGNiYmI3YWUxMWU1NTM2`
+Snapshot ID: `MTY2MTI2NjgwMCwwMDAwMDAwMGM1MWM5NmI3YjkyMzIzYzQ1NDUxYjkwMTllYTQ3YTRl`

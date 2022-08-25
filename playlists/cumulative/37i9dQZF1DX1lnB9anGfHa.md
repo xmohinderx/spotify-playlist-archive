@@ -4,15 +4,17 @@
 
 > A journey into the unknown, dark, and experimental.
 
-99 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+102 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4ÆM](https://open.spotify.com/track/3sqmHaUVKizwwoKsHMVc1U) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL) | 4:30 | 2020-10-20 | 2022-07-29 |
 | [4ÆM](https://open.spotify.com/track/4keclC0eBhQm8lFtYmX01K) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 4:30 | 2020-10-20 |  |
 | [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:42 | 2021-01-22 |  |
+| [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 | 2022-08-24 |  |
 | [An Interior of Strange Beauty](https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [An Interior of Strange Beauty / Incoming Call](https://open.spotify.com/album/38dsx6d80G3byvU4NoUUSN) | 6:34 | 2022-08-16 |  |
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-02-18 |  |
+| [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 | 2022-08-24 |  |
 | [Are You Doing This to Hurt Me](https://open.spotify.com/track/0cfDDqPuyrpyVuxMzdotk0) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [B\-Sides & Rarities: Volume 1](https://open.spotify.com/album/27sproEBf122MWgqS30BiI) | 3:48 | 2020-10-20 |  |
 | [Are You Doing This to Hurt Me](https://open.spotify.com/track/1q1Qr395Oi5gGpvFZ0Mxn3) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Are You Doing This to Hurt Me](https://open.spotify.com/album/2NJeqsoWnKj52Rr9IFYDRx) | 3:48 | 2020-10-20 | 2022-07-29 |
 | [AS Too Wrong](https://open.spotify.com/track/0rCbNEFbEJPWffx6BmRH9Z) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF) | [Another Life](https://open.spotify.com/album/5hS95DwA6vG0R5cHZPzg7h) | 4:14 | 2020-10-20 | 2022-07-29 |
@@ -82,6 +84,7 @@
 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 | 2021-01-22 |  |
 | [Tintoretto, It's for You](https://open.spotify.com/track/4hNlGoJ9rgKaMSBermXqwZ) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Tintoretto, It's for You](https://open.spotify.com/album/3pGqMfIDbb7rtdf4qiqDLE) | 3:05 | 2022-02-18 | 2022-07-29 |
 | [Tintoretto, It's for You](https://open.spotify.com/track/73miaQGwScM2m8qf7yg3EP) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [LABYRINTHITIS](https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU) | 3:05 | 2022-02-18 |  |
+| [To The Room](https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT) | [Gabe Gurnsey](https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu) | [To The Room](https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ) | 5:14 | 2022-08-24 |  |
 | [Todo Lo Que Pido](https://open.spotify.com/track/5ZD3VYewwI5s6wzPOZusxn) | [Rayotaser](https://open.spotify.com/artist/3RsgNEOhNLBPaFb2kJ3jmL) | [Robocops](https://open.spotify.com/album/1EzsCrkrSzuQtaA6yd6N0o) | 8:33 | 2020-10-20 |  |
 | [Tommy](https://open.spotify.com/track/5DIDBpv8X1eDO9v5b5IJn1) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/5c5i8rgLzFHNI5Y3Wc1C39) | 2:42 | 2020-10-20 |  |
 | [Tongues](https://open.spotify.com/track/3Jq8Aw4T4XZa4ieAbJ40qX) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/5rRSnfldLLZWYeksxKwHYP) | 3:22 | 2021-10-01 | 2022-07-29 |

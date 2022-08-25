@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover: 11th Hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,187 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,186 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 15 | [Calling All Prodigals](https://open.spotify.com/track/4jdJvWsnlNhFNeTbqgPVa1) | [Kenna Turner West](https://open.spotify.com/artist/2Xlx8qrPLqmZbifn6PE5s5) | [Calling All Prodigals](https://open.spotify.com/album/5LjtN5nPD49fmR5UrSwCA7) | 2:58 |
 | 16 | [Grace Ain't Fair \- Acoustic Version](https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Grace Ain't Fair \(Acoustic Version\)](https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17) | 3:34 |
 | 17 | [Everyday](https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA) | 3:45 |
-| 18 | [Jesus, The One](https://open.spotify.com/track/0TMGJmaXAKnUPmigOH5qrA) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/1vkIZ63AoFY6zRWyeQsZ0L) | 4:36 |
+| 18 | [Jesus, the One](https://open.spotify.com/track/1fFWNfVcCdPKwmY6CsKA1Z) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/4WzWtKW21wYQ6AbYQWlzIC) | 4:32 |
 | 19 | [The World Needs a Song](https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T) | [The Lore Family](https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94) | [The World Needs a Song](https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ) | 3:11 |
 | 20 | [Bloodline](https://open.spotify.com/track/4csB0M65mPjoCpo1g9EQiB) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Steppin' Out](https://open.spotify.com/album/0wzJOZsUHlbbxahsZQl2PM) | 3:15 |
 | 21 | [No Bones About It](https://open.spotify.com/track/7IdjRdGpf5aLXrZfh9cUFl) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/3KoNQ5R7a9Yz7MEzqyQtE7) | 2:51 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 69 | [If You Knew Him](https://open.spotify.com/track/4lWaLcpZhP7GgTqFgjc5t7) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Almost Morning](https://open.spotify.com/album/5iCQcKosR5DEcERoVT8Euu) | 4:49 |
 | 70 | [I'll Pray for You](https://open.spotify.com/track/1MzGa0yXkZhjUGDO7oxamj) | [The Whisnants](https://open.spotify.com/artist/4c7zlvrqio2WjtIIGTx1pm) | [Life Worth Living](https://open.spotify.com/album/6elC8eo9nVpB1mfxMHAoF2) | 2:49 |
 
-Snapshot ID: `MTYzNTUwNDI3NywwMDAwMDAwMDhmOWFmMWJlZmIxY2U2ZmYxYTU0ODA3MDBmYzU5YzBh`
+Snapshot ID: `MTYzNTUwNDI3NywwMDAwMDAwMGZkNWM2ZTdhNWMzYWRmZTJkNmMyZmExMWFiNzYyMmEy`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-980 songs - 2 day 1 hr 57 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
+981 songs - 2 day 2 hr 0 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [frmdghn](https://open.spotify.com/track/0PzeopMmDTeq6Zx65lrZk8) | [Pizzera & Jaus](https://open.spotify.com/artist/355ClqG0dW1RFLQ2kXloTp) | [frmdghn](https://open.spotify.com/album/3YBGuSTkkrgxzkvs6tZLaf) | 2:42 | 2021-05-09 | 2021-05-11 |
 | [Front 2 Back](https://open.spotify.com/track/21VhZw8GUbgWUD5SNwLPua) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [BACK 2 RAVE](https://open.spotify.com/album/70H5FZsAnpWZfLwZpJvogc) | 2:20 | 2022-06-14 | 2022-06-30 |
 | [Front 2 Back](https://open.spotify.com/track/7kbx13BGzXx2sfA31lmuGt) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Front 2 Back](https://open.spotify.com/album/3jiI4TNKBr9U6GXAECxWAR) | 2:20 | 2022-06-29 | 2022-07-16 |
-| [Frozen Tears](https://open.spotify.com/track/4yNNFapUZM7aTElXE2JveQ) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Frozen Tears](https://open.spotify.com/album/5pJiXMEhtyXo3v9wfJcDAA) | 3:28 | 2022-07-30 |  |
+| [Frozen Tears](https://open.spotify.com/track/4yNNFapUZM7aTElXE2JveQ) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Frozen Tears](https://open.spotify.com/album/5pJiXMEhtyXo3v9wfJcDAA) | 3:28 | 2022-07-30 | 2022-08-25 |
 | [Frühling im Viertel](https://open.spotify.com/track/1VR0PWcH2JV4Zt4JaWGB0G) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Frühling im Viertel](https://open.spotify.com/album/2LmBk1TwkIzHxmNnSsudf9) | 2:58 | 2022-04-16 | 2022-04-18 |
 | [FYM](https://open.spotify.com/track/0e5N4nfdmFiPvdXuEIqxx5) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [FYM](https://open.spotify.com/album/3h69wjI19Os00LI5Lb7NMj) | 2:35 | 2021-10-23 | 2021-10-26 |
 | [Für den Himmel durch die Hölle](https://open.spotify.com/track/0aR0Appf7lsVGExDPnbuVT) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Für den Himmel durch die Hölle](https://open.spotify.com/album/1d0A8xILJOmcPPyLztAZwF) | 3:00 | 2022-03-20 | 2022-03-26 |
@@ -720,6 +720,7 @@
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-05-10 | 2022-01-04 |
 | [RATCHET](https://open.spotify.com/track/1YLA2jrLroXemGxfiFsvoa) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [RATCHET](https://open.spotify.com/album/3ALbecApKIu8QUPmSsMFGf) | 2:29 | 2022-05-28 | 2022-05-30 |
 | [RATCHET RMX \(feat\. KC Rebell, reezy, Nimo & Dardan\)](https://open.spotify.com/track/7768gbTYBI5moR2Okfks1o) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [RATCHET RMX \(feat\. KC Rebell, reezy, Nimo & Dardan\)](https://open.spotify.com/album/2sMD3CgQ9yOfHhW8TlHrtU) | 2:36 | 2022-07-02 | 2022-07-04 |
+| [Rave Party](https://open.spotify.com/track/6gtsw6Mg7z6bMD0l2PtyCb) | [Musata](https://open.spotify.com/artist/3hzvLkXg07qMzHEEPHwzSp), [Rasoul Bahari](https://open.spotify.com/artist/4fJ648yFf9KJsNtX7LoCOu) | [Rave Party](https://open.spotify.com/album/5q8iM7RPTbVBgLfyeRYGqQ) | 3:07 | 2022-08-24 |  |
 | [READY](https://open.spotify.com/track/5QuFo1KkBS188f11OVrlxl) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [STAY HIGH](https://open.spotify.com/album/1d9hCDQ4QOwm88ZwUrSC2a) | 2:20 | 2021-05-03 | 2021-05-06 |
 | [Realität](https://open.spotify.com/track/0QfulZ9NDsfbSg5x2i0E2Q) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/47brL4n2IhoAlMIkwE4yHT) | 3:04 | 2021-07-30 | 2021-08-01 |
 | [Realität](https://open.spotify.com/track/4aCtiux4NfWF0Kx88YAA5e) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 3:04 | 2021-07-18 | 2021-08-05 |

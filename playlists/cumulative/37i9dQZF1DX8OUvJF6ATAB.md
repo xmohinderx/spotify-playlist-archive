@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-265 songs - 22 hr 46 min - [published](https://open.spotify.com/playlist/4jkUs66aepxZIx8eyJu8qK)
+266 songs - 22 hr 50 min - [published](https://open.spotify.com/playlist/4jkUs66aepxZIx8eyJu8qK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Cycles](https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Cycles](https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG) | 3:00 | 2021-10-06 |  |
 | [Das Unheimliche](https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Das Unheimliche](https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v) | 6:30 | 2021-10-06 |  |
 | [Dawn Chorus](https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7) | [HEAVY CHEST](https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5) | [Guidance in Dreams](https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ) | 2:11 | 2022-02-16 | 2022-07-23 |
+| [deaf](https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg) | [TAKA](https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm) | [Theory](https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy) | 3:58 | 2022-08-24 |  |
 | [Demetra](https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Hilja](https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe) | 5:21 | 2021-10-06 |  |
 | [Dietrofront](https://open.spotify.com/track/0pD3ZURkGEUYtFgB8DIgIk) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/1U9Bys0H6WOgZZNqUg0rgo) | 6:17 | 2021-10-06 |  |
 | [Difficile de te contredire](https://open.spotify.com/track/0LIm0dUJYSAmJ8vz3WYaXZ) | [Arbee](https://open.spotify.com/artist/4jO3BZbmJcXOlIrIsWPSqo) | [A Demi\-mot](https://open.spotify.com/album/6iwN3PuRteDpz8pTdfRyqx) | 3:32 | 2021-10-06 | 2022-06-30 |
@@ -128,7 +129,7 @@
 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 | 2021-10-06 |  |
 | [Lux1](https://open.spotify.com/track/5GWSvEJ9CLeg438Lc4h6gB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Starethrough EP](https://open.spotify.com/album/3zQKEOD2AsQDAzBPR2DVYD) | 6:03 | 2021-10-06 | 2022-07-15 |
 | [Ma germanes](https://open.spotify.com/track/2NDSJ3mZdo0tO9qvDkTACF) | [Ubaldo](https://open.spotify.com/artist/4gE3moa3VLhHqUrm1Rw5I3) | [Casa](https://open.spotify.com/album/22YaEKiumEvAKJesARqhfx) | 6:01 | 2021-12-15 | 2022-07-27 |
-| [Mammatus](https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Mammatus](https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5) | 3:54 | 2022-02-18 |  |
+| [Mammatus](https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Mammatus](https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5) | 3:54 | 2022-02-18 | 2022-08-25 |
 | [Melancholia II](https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 6:50 | 2021-10-06 |  |
 | [Melancholia II](https://open.spotify.com/track/2UZXQrEi0A8ySbDuyeuMt3) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2mDwgIyil7jUI192RqJ1Lm) | 6:50 | 2021-10-06 | 2022-07-29 |
 | [memorial park](https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha) | 2:31 | 2021-10-06 | 2022-07-28 |

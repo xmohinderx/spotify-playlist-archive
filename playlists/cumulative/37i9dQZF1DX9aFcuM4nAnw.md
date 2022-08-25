@@ -4,7 +4,7 @@
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-108 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/35JGd7xkZ4aXiacB1Wn3xh)
+109 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/35JGd7xkZ4aXiacB1Wn3xh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [ffarisees](https://open.spotify.com/track/2ZtgH6eaDvQakWM2HpjPfn) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:32 | 2022-07-06 | 2022-07-29 |
 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 | 2022-07-06 |  |
 | [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 | 2022-07-06 |  |
+| [Flux](https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Flux](https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR) | 1:41 | 2022-08-24 |  |
 | [Gemini](https://open.spotify.com/track/3FrhNWIcRxrPFFcqFernIp) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:56 | 2022-07-06 |  |
 | [Highlander](https://open.spotify.com/track/6MpebFD0mEP3j5n6tyh6Y8) | [Accura Dreams](https://open.spotify.com/artist/0flU3nmgMKaMKfe945tvpl) | [EP II](https://open.spotify.com/album/3Kzxz8fsUkEZie3mYTDz9e) | 2:13 | 2022-07-06 | 2022-07-24 |
 | [I Like Presents Too](https://open.spotify.com/track/2Ei2bVyQr07EUW6tlj9CXf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:26 | 2022-07-06 | 2022-07-19 |
@@ -86,7 +87,7 @@
 | [Sick Times](https://open.spotify.com/track/3smDJCcylq9ghblaXmslo8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:16 | 2022-07-06 |  |
 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 | 2022-07-06 |  |
 | [Silent Messenger](https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF) | [Desiderii Marginis](https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX) | [Procession](https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV) | 7:35 | 2022-07-06 |  |
-| [Slipping Away \(In a Dream\)](https://open.spotify.com/track/7puJT8Dq180XAnVWs0wLAA) | [Don](https://open.spotify.com/artist/2ldH4h3nkIuOio5BW1KWUs) | [Distanced](https://open.spotify.com/album/19EnpeDNAmXtZrSnMBPcc8) | 1:31 | 2022-07-06 |  |
+| [Slipping Away \(In a Dream\)](https://open.spotify.com/track/7puJT8Dq180XAnVWs0wLAA) | [Don](https://open.spotify.com/artist/2ldH4h3nkIuOio5BW1KWUs) | [Distanced](https://open.spotify.com/album/19EnpeDNAmXtZrSnMBPcc8) | 1:31 | 2022-07-06 | 2022-08-25 |
 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 | 2022-07-06 |  |
 | [Sticks and Stones](https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:02 | 2022-07-06 |  |
 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 | 2022-07-06 |  |

@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/2NGTqvtRN7EqnlSKWkjjVn"
+      },
+      "artists": [
+        {
+          "name": "Rosemary & Garlic",
+          "url": "https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194373,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/7ywlrwAu4bmxRmHlSK454v"
+    },
+    {
+      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/5AFR0ia3oPGsmYNK6fxZNu"
       },
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 210704,
       "name": "Everybody Needs Somebody",
       "url": "https://open.spotify.com/track/1uheNSEpSpLy6RQ9iJ0PXn"

@@ -4,7 +4,7 @@
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-89 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/2lh87IirFnHxX7KFcEgDYj)
+90 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/2lh87IirFnHxX7KFcEgDYj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [It's About the Cross](https://open.spotify.com/track/4VrSBQliLFkLvIB28wovQ5) | [The Ball Brothers](https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js) | [Breakthrough](https://open.spotify.com/album/51ycbHjIPZYsJAPDaUix4w) | 4:11 | 2021-08-13 |  |
 | [Jesus Is In The House](https://open.spotify.com/track/5o6MBQojqbL5XjtcZUN2NI) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Picture This](https://open.spotify.com/album/2DRejK2JNA48kw6MVqsutJ) | 3:03 | 2021-08-13 |  |
 | [Jesus Is In The House](https://open.spotify.com/track/5y2JfftrZzXKSNPd49uq1d) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Picture This](https://open.spotify.com/album/6ScjxrKC9sqMbiG93rIkro) | 3:03 | 2021-08-13 | 2022-07-29 |
-| [Jesus, The One](https://open.spotify.com/track/0TMGJmaXAKnUPmigOH5qrA) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/1vkIZ63AoFY6zRWyeQsZ0L) | 4:36 | 2021-08-13 |  |
+| [Jesus, the One](https://open.spotify.com/track/1fFWNfVcCdPKwmY6CsKA1Z) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/4WzWtKW21wYQ6AbYQWlzIC) | 4:32 | 2021-08-13 |  |
+| [Jesus, The One](https://open.spotify.com/track/0TMGJmaXAKnUPmigOH5qrA) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/1vkIZ63AoFY6zRWyeQsZ0L) | 4:36 | 2021-08-13 | 2022-08-25 |
 | [Let It Be Known](https://open.spotify.com/track/0EC4hbsJ82IO3aOuCf1Q49) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Let It Be Known](https://open.spotify.com/album/3Xo7HQAqrPJ8h32AZFA8He) | 2:42 | 2021-08-13 |  |
 | [Let It Be Known](https://open.spotify.com/track/5pS98JjD95Q2RykrG4LCG1) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Let It Be Known](https://open.spotify.com/album/1V9qEeIkHddPHNlBPPxgCB) | 2:42 | 2021-08-13 | 2022-07-29 |
 | [Mercy Walked In \- Live](https://open.spotify.com/track/5i2Cyf2lINQqz1i2IwTaT6) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Gordon Mote](https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG), [Sheri Easter](https://open.spotify.com/artist/5gGEvMumtP6WCNSMsFTOo5), [Charlotte Ritchie](https://open.spotify.com/artist/7yK16X5NeP0zuX9qXgcD12) | [Country Bluegrass Homecoming \(Vol\. 2 / Live\)](https://open.spotify.com/album/2QegcGhKqpVst8qu55lqIp) | 3:32 | 2021-08-13 |  |

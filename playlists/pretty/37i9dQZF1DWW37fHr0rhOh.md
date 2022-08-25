@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,958 likes - 58 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,967 likes - 58 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 39 | [Hidden Heroes](https://open.spotify.com/track/3KxtrZs43aVh8dYw8OwDL1) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [The Test of Time](https://open.spotify.com/album/0ZMz7PkeQjQGkBSN2TcYMY) | 4:15 |
 | 40 | [Don't You Wanna Go?](https://open.spotify.com/track/0TzF8KqMJsg6FGzoTcthOV) | [The Crabb Family](https://open.spotify.com/artist/2Fg4p216PH5hvVZWbWCguK) | [20 Years: Platinum Edition](https://open.spotify.com/album/1Fe5W3Vcrme8P0HH3kW4Ez) | 3:59 |
 | 41 | [Say Amen](https://open.spotify.com/track/2jMoBd2SMyipPWJum2Mpre) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [Unashamed](https://open.spotify.com/album/0d7pyEQyRk7xYrz3NKVi9m) | 4:33 |
-| 42 | [Jesus, The One](https://open.spotify.com/track/0TMGJmaXAKnUPmigOH5qrA) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/1vkIZ63AoFY6zRWyeQsZ0L) | 4:36 |
+| 42 | [Jesus, the One](https://open.spotify.com/track/1fFWNfVcCdPKwmY6CsKA1Z) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/4WzWtKW21wYQ6AbYQWlzIC) | 4:32 |
 | 43 | [No Bones About It](https://open.spotify.com/track/7IdjRdGpf5aLXrZfh9cUFl) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/3KoNQ5R7a9Yz7MEzqyQtE7) | 2:51 |
 | 44 | [From The Depths Of My Heart](https://open.spotify.com/track/7BrKXKtXrI1NrGWni5PK2S) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Favorites: Revisited By Request](https://open.spotify.com/album/0HNR2vlmIoaO6zXI0Q7JDo) | 4:59 |
 | 45 | [Preacher Tell Me Like It Is](https://open.spotify.com/track/5u8sJB6NIv1Ys11N7PvlG6) | [Greater Vision](https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG) | [For All He's Done](https://open.spotify.com/album/6uKWhpoywcK7YxjIu7zFmt) | 4:06 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 57 | [Amazing Grace](https://open.spotify.com/track/43Bq77lTBLMxEf5phduzKH) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Down Home Christmas](https://open.spotify.com/album/1hpnqLkobWtW7ZmufnofeA) | 2:03 |
 | 58 | [Your Ways Are Higher Than Mine](https://open.spotify.com/track/3AgH9cu0oUrVQUb99TyAEi) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc) | [Mercy & Love](https://open.spotify.com/album/5efaQ2tF2R8HkroQ9rB3ew) | 4:00 |
 
-Snapshot ID: `MTYyODgzNjQ2NywwMDAwMDAwMGU0MTc4YjJhZjNhYWYwYjk1NGY0ZTQ5ZDM1YTUxMWRm`
+Snapshot ID: `MTYyODgzNjQ2NywwMDAwMDAwMGYwN2U5YjIxZWFiZDY1ZTc0MTA3ZTZmYTlkMWViODg2`

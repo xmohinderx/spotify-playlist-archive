@@ -2,7 +2,7 @@
 
 ### [DOPE.](https://open.spotify.com/playlist/37i9dQZF1DWSrdTgewhgZq)
 
-> Hip\-hop hits\. Foto: Eminem
+> Hip\-hop hits\. Foto: Nicki Minaj
 
 105 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/5uxXRmYANYLYX4xEGWZNbz)
 

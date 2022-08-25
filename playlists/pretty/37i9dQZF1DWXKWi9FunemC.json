@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 179335,
+  "num_followers": 179357,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDc3YTUyMzg2NTUyYzBiNWVmOGE5NjQ3NmRiY2I1ZTA3",
+  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDlkNzcwNGY5NTJmZjNlMzI4YjAxM2RkNDJkMjEzZjcx",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -211,22 +211,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
-        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Haven't Seen It Yet - Acoustic",
-      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 312266,
       "name": "Remember",
       "url": "https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
+        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Haven't Seen It Yet - Acoustic",
+      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -359,6 +359,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "New Song (Psalm 40)",
+        "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
+      },
+      "artists": [
+        {
+          "name": "The Dodds",
+          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
+        }
+      ],
+      "duration_ms": 254787,
+      "name": "New Song (Psalm 40)",
+      "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "There Is More (Live)",
         "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 191920,
       "name": "Who You Say I Am - Live/Acoustic",
       "url": "https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "New Song (Psalm 40)",
-        "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
-      },
-      "artists": [
-        {
-          "name": "The Dodds",
-          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
-        }
-      ],
-      "duration_ms": 254787,
-      "name": "New Song (Psalm 40)",
-      "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -519,6 +519,26 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
+        "url": "https://open.spotify.com/album/7lD371T7NrKgCnOHQq42gk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "duration_ms": 211251,
+      "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
+      "url": "https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Be My Shalom",
         "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 380800,
       "name": "Saving Me Still",
       "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
-        "url": "https://open.spotify.com/album/7lD371T7NrKgCnOHQq42gk"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        },
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
-        }
-      ],
-      "duration_ms": 211251,
-      "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
-      "url": "https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/4vuVg0LWXyaxdtBusihvr3"
-      },
-      "artists": [
-        {
-          "name": "Vocal Few",
-          "url": "https://open.spotify.com/artist/4XNEA2zwGthyCOdS9znQGd"
-        }
-      ],
-      "duration_ms": 248671,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/08plw345uiLR5bQZNIsfMc"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "The Things We Did at First",
         "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 238478,
       "name": "When My Heart Became Aware",
       "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/4vuVg0LWXyaxdtBusihvr3"
+      },
+      "artists": [
+        {
+          "name": "Vocal Few",
+          "url": "https://open.spotify.com/artist/4XNEA2zwGthyCOdS9znQGd"
+        }
+      ],
+      "duration_ms": 248671,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/08plw345uiLR5bQZNIsfMc"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "A Dawn I Remember",
-        "url": "https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH"
-      },
-      "artists": [
-        {
-          "name": "Holly Arrowsmith",
-          "url": "https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X"
-        }
-      ],
-      "duration_ms": 254146,
-      "name": "Love Together",
-      "url": "https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "On Christ (House Church)",
         "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 264289,
       "name": "On Christ (House Church)",
       "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "A Dawn I Remember",
+        "url": "https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH"
+      },
+      "artists": [
+        {
+          "name": "Holly Arrowsmith",
+          "url": "https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X"
+        }
+      ],
+      "duration_ms": 254146,
+      "name": "Love Together",
+      "url": "https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -891,6 +891,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "The Narrow Sea",
+        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 313489,
+      "name": "O Rock Eternal",
+      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "How Can I",
         "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "The Narrow Sea",
-        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
       },
       "artists": [
         {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 313489,
-      "name": "O Rock Eternal",
-      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
+      "duration_ms": 277853,
+      "name": "Get Your Hopes Up",
+      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -959,22 +975,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 277853,
-      "name": "Get Your Hopes Up",
-      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
-        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "This Wild Earth",
-      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Holy Love",
         "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 247173,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
+        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "This Wild Earth",
+      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Albertine",
-        "url": "https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X"
-      },
-      "artists": [
-        {
-          "name": "Brooke Fraser",
-          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Shadowfeet",
-      "url": "https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "The Longing",
         "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
       },
@@ -1443,26 +1427,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Down Here and Up Above (feat. Ben Pasley & Karla Adolphe)",
-        "url": "https://open.spotify.com/album/5w3fMNLrbJiBqbUQQNNmdJ"
+        "name": "Albertine",
+        "url": "https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X"
       },
       "artists": [
         {
-          "name": "Enter The Worship Circle",
-          "url": "https://open.spotify.com/artist/3bMEwmvETOTYS7A53MmWms"
-        },
-        {
-          "name": "Ben Pasley",
-          "url": "https://open.spotify.com/artist/1s3W4h5q7HK0ZqgITQtuBP"
-        },
-        {
-          "name": "Karla Adolphe",
-          "url": "https://open.spotify.com/artist/3lINHrhs0GDu39etcqpMBp"
+          "name": "Brooke Fraser",
+          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
         }
       ],
-      "duration_ms": 277083,
-      "name": "Heavenly Things",
-      "url": "https://open.spotify.com/track/5JGZWUlNDO7ArFLmvK7MGD"
+      "duration_ms": 215400,
+      "name": "Shadowfeet",
+      "url": "https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1491,6 +1467,30 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Down Here and Up Above (feat. Ben Pasley & Karla Adolphe)",
+        "url": "https://open.spotify.com/album/5w3fMNLrbJiBqbUQQNNmdJ"
+      },
+      "artists": [
+        {
+          "name": "Enter The Worship Circle",
+          "url": "https://open.spotify.com/artist/3bMEwmvETOTYS7A53MmWms"
+        },
+        {
+          "name": "Ben Pasley",
+          "url": "https://open.spotify.com/artist/1s3W4h5q7HK0ZqgITQtuBP"
+        },
+        {
+          "name": "Karla Adolphe",
+          "url": "https://open.spotify.com/artist/3lINHrhs0GDu39etcqpMBp"
+        }
+      ],
+      "duration_ms": 277083,
+      "name": "Heavenly Things",
+      "url": "https://open.spotify.com/track/5JGZWUlNDO7ArFLmvK7MGD"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 317509,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Meadow",
-        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Meadow",
-      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "I Will Sing",
         "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 254488,
       "name": "I Will Sing",
       "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Magnified (Acoustic)",
-        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
-      },
-      "artists": [
-        {
-          "name": "Ginny Owens",
-          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Magnified (Acoustic)",
-      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Magnified (Acoustic)",
+        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
+      },
+      "artists": [
+        {
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Magnified (Acoustic)",
+      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "That's What I Call Free",
         "url": "https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb"
       },
@@ -1603,22 +1603,6 @@
       "duration_ms": 231438,
       "name": "That's What I Call Free",
       "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
+        }
+      ],
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Wrong",
         "url": "https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85"
       },
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Do It Again - EP",
-        "url": "https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 272914,
-      "name": "Do it Again (Acoustic)",
-      "url": "https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/2IeNCiNUv60xjYPqYVqBFB"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 219640,
       "name": "Low",
       "url": "https://open.spotify.com/track/6QItZ6weEG0JXFb0Lm714q"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Do It Again - EP",
+        "url": "https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 272914,
+      "name": "Do it Again (Acoustic)",
+      "url": "https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ"
     },
     {
       "added_at": "2020-08-31 15:19:19",

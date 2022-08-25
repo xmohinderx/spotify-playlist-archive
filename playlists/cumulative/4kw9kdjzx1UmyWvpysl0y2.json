@@ -1528,6 +1528,24 @@
     },
     {
       "album": {
+        "name": "Falling Off",
+        "url": "https://open.spotify.com/album/78xun5sbV7gLxfc2bRMz1L"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225953,
+      "name": "Falling Off",
+      "url": "https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au"
+    },
+    {
+      "album": {
         "name": "feeling",
         "url": "https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W"
       },
@@ -4071,7 +4089,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 318428,
       "name": "Subliminal (Even the Ghosts are Laughing)",
       "url": "https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm"

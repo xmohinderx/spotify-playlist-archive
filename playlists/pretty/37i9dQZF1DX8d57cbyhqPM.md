@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Fally Ipupa
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,949 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,006 likes - 85 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 70 | [Run](https://open.spotify.com/track/2wu0PnQQt12He8L2pQUS7w) | [PVPI STRZ](https://open.spotify.com/artist/11Cznn5Yl5mmlY3WRNsuFk) | [Run](https://open.spotify.com/album/1lLdivmzyjNWRMos5ttRKa) | 3:29 |
 | 71 | [Faya](https://open.spotify.com/track/4UuBi6buMUZ0kOlYHEIn1m) | [Dyss MK](https://open.spotify.com/artist/5omTTGUh0GnhAXY8ovFqDq), [DJ Jordan MasterBoy](https://open.spotify.com/artist/2xD0xzBe6BVwqLJDxliXd9) | [Faya](https://open.spotify.com/album/3xFXM7xa6al9Fgxn0m608C) | 3:38 |
 | 72 | [Tu M'as Tout Donné \- Extended Version](https://open.spotify.com/track/3jt07FhLh159y0nT9sjP7R) | [Luc Evarist](https://open.spotify.com/artist/46tjw4Tkvp0ZfQlC3OGmOJ) | [Tu M'as Tout Donné \(Extended Version\)](https://open.spotify.com/album/77PWsjBJ56uVOvjZDE1zIT) | 4:00 |
-| 73 | [Do Me Like](https://open.spotify.com/track/5VmdiCzEP9SCU2cpiPOMIE) | [AFROWAVETO](https://open.spotify.com/artist/7rlNBe6IerXXD6HTOaC9Q2), [Kris Hans](https://open.spotify.com/artist/3pV4mFQfwj3coygDws7OTd), [Cloclo claudel](https://open.spotify.com/artist/4mHCo8XXxd4a2mSVAQwrxV), [Teebee](https://open.spotify.com/artist/29oxPTcfjSkPeXI3P5eP7B) | [AFROWAVETO, Vol\. 1](https://open.spotify.com/album/0g90kMBEocx11P01p23fCK) | 3:45 |
+| 73 | [Do Me Like](https://open.spotify.com/track/4nQxcx1puImaEuSbglXFvt) | [AFROWAVETO](https://open.spotify.com/artist/7rlNBe6IerXXD6HTOaC9Q2), [Teebee](https://open.spotify.com/artist/29oxPTcfjSkPeXI3P5eP7B), [Kris Hans](https://open.spotify.com/artist/3pV4mFQfwj3coygDws7OTd), [Cloclo claudel](https://open.spotify.com/artist/4mHCo8XXxd4a2mSVAQwrxV) | [Do Me Like](https://open.spotify.com/album/0OqBGMazZrMYgRmmhPuvTO) | 3:45 |
 | 74 | [Affection](https://open.spotify.com/track/7mbjCt8jJCCdHJGiw8a9TL) | [J\. Amany](https://open.spotify.com/artist/0v1MvNe9B8eYtoZdfAPyAe) | [Affection](https://open.spotify.com/album/29rzeyxIjhDvwo5Ht5mezJ) | 4:11 |
 | 75 | [Pusana](https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [Pusana](https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD) | 3:25 |
 | 76 | [Oya Ngai](https://open.spotify.com/track/0fIrK7LNla8OK5QmIjTXP1) | [Moerson](https://open.spotify.com/artist/6I4CPoQeM3qI54JeCqySdW) | [Oya Ngai](https://open.spotify.com/album/3txMN0jWePWXPVvgxyMvOE) | 2:44 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 84 | [Kilulu](https://open.spotify.com/track/21EIqCWgU610VuoHSamaMu) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Spilulu](https://open.spotify.com/artist/0JXiPfPtSuON62oSTp4w7j), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [H\. Baraka](https://open.spotify.com/artist/1pDph1fdlguJKJPjAAeqvR) | [Kilulu](https://open.spotify.com/album/4PXi2QBQL40nhwlofLPM2w) | 3:54 |
 | 85 | [2xt](https://open.spotify.com/track/3OJsrBDnnP0KuMvHJbD2Xk) | [Big Molimo AK](https://open.spotify.com/artist/5rv1KON2TIHnOPhQYYDIEp) | [2xt](https://open.spotify.com/album/140TfqfjBZ0RrgdQHzpJjf) | 2:06 |
 
-Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDMxYmFjODY4OTQ1YzdhNmFiZDgxODMyZDU0OTgyMTA3`
+Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDk4MjM4OWRjMTBiYmMxN2JkNTY0Njc1ZjUzZDBlNzY3`

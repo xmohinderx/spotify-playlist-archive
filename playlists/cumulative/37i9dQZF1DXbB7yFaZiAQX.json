@@ -3627,10 +3627,28 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 273750,
       "name": "Major Tom",
       "url": "https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw"
+    },
+    {
+      "album": {
+        "name": "Fehler Im System",
+        "url": "https://open.spotify.com/album/5E0cSbYbLM7roXOBKbhvGC"
+      },
+      "artists": [
+        {
+          "name": "Peter Schilling",
+          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+        }
+      ],
+      "date_added": "2021-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299560,
+      "name": "Major Tom",
+      "url": "https://open.spotify.com/track/2epRW3O5YLwiqcxOdaI4Mm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Flippter x Soulja
 
-128 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+129 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [El Hob Ebn Wes5a](https://open.spotify.com/track/0RsGwcEEqxDMhNA0jahQFV) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El Hob Ebn Wes5a](https://open.spotify.com/album/1ihjowlX2eqrd1SakZzqqu) | 3:46 | 2022-05-08 |  |
 | [Ezayak](https://open.spotify.com/track/27az6aDS4zWJ3yRU7gXJVH) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Ezayak](https://open.spotify.com/album/2xl5oVu3n8v9nAZDbmgi41) | 3:14 | 2022-05-08 | 2022-08-24 |
 | [Fahmek](https://open.spotify.com/track/3EZxxyB3IcZGi7ALxkywRy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 3:03 | 2022-05-08 |  |
-| [Fan3](https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Fan3](https://open.spotify.com/album/0RTNur3c132jazOHMua1wU) | 2:19 | 2022-06-24 |  |
+| [Fan3](https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Fan3](https://open.spotify.com/album/0RTNur3c132jazOHMua1wU) | 2:19 | 2022-06-24 | 2022-08-25 |
 | [FAR2 KHEBRA](https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FAR2 KHEBRA](https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov) | 3:08 | 2022-05-08 |  |
 | [Fi Bali](https://open.spotify.com/track/5qQCl5LhHzUXOW8ngCsCjq) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd), [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Fi Bali](https://open.spotify.com/album/5NhcEhXwj3dMqIovtmkQg1) | 2:26 | 2022-05-08 |  |
 | [Floos](https://open.spotify.com/track/1y96NItQSfB8hH6pUSo99K) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [150](https://open.spotify.com/album/2x0sdVHs0nCq3Pr4Tm4Sr1) | 2:37 | 2022-05-08 | 2022-07-29 |
@@ -49,6 +49,7 @@
 | [Go There](https://open.spotify.com/track/30JrbvrpnPM14nTKrY4Dkt) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [Go There](https://open.spotify.com/album/52CoO1Dl01eN1hfEDOPUP9) | 3:07 | 2022-05-08 | 2022-06-18 |
 | [Habsha \(feat\. Flippter\)](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha \(feat\. Flippter\)](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 | 2022-07-28 |  |
 | [Haifa in a Tesla](https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Haifa in a Tesla](https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4) | 2:45 | 2022-05-08 |  |
+| [Hamdulilah](https://open.spotify.com/track/55AuNDR0b8EZCeCqMeKPRP) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Hamdulilah](https://open.spotify.com/album/014GFV5SvxywYplmNGON2c) | 2:03 | 2022-08-24 |  |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2022-05-08 | 2022-08-24 |
 | [Hattatack Battatack](https://open.spotify.com/track/3RzrCMppvv3cYLmAI1KdGp) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [PUBG MOBILE](https://open.spotify.com/artist/7q9bAXCK4bTiYigFMjvs3I) | [Hattatack Battatack](https://open.spotify.com/album/5KYIVbKwWrIyTlXfZr3bQs) | 2:25 | 2022-05-08 | 2022-07-05 |
 | [Inn Ann](https://open.spotify.com/track/4FTGTibd0V8qZOTMwx7lG7) | [Daboor](https://open.spotify.com/artist/7kYd4AxupgMona77xBcxXy), [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95) | [El Gad3ana](https://open.spotify.com/album/2ObAguu7dgbrezv0oK0492) | 3:13 | 2022-05-08 |  |

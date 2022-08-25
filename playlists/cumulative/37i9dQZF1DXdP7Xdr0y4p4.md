@@ -4,7 +4,7 @@
 
 > An essential list of recent hits of SoGo\.  Cover: 11th Hour
 
-95 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/0cTu18H5FuoqEK3v4T9BcB)
+96 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/0cTu18H5FuoqEK3v4T9BcB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [If You Knew Him](https://open.spotify.com/track/1zSc1jQYXfam46npX6aLdH) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Almost Morning](https://open.spotify.com/album/1jfwRHmsBUPjLoOVA3MEDl) | 4:49 | 2021-10-29 | 2022-07-29 |
 | [If You Knew Him](https://open.spotify.com/track/4lWaLcpZhP7GgTqFgjc5t7) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Almost Morning](https://open.spotify.com/album/5iCQcKosR5DEcERoVT8Euu) | 4:49 | 2021-10-29 |  |
 | [It's About the Cross](https://open.spotify.com/track/4VrSBQliLFkLvIB28wovQ5) | [The Ball Brothers](https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js) | [Breakthrough](https://open.spotify.com/album/51ycbHjIPZYsJAPDaUix4w) | 4:11 | 2021-10-29 |  |
-| [Jesus, The One](https://open.spotify.com/track/0TMGJmaXAKnUPmigOH5qrA) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/1vkIZ63AoFY6zRWyeQsZ0L) | 4:36 | 2021-10-29 |  |
+| [Jesus, the One](https://open.spotify.com/track/1fFWNfVcCdPKwmY6CsKA1Z) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/4WzWtKW21wYQ6AbYQWlzIC) | 4:32 | 2021-10-29 |  |
+| [Jesus, The One](https://open.spotify.com/track/0TMGJmaXAKnUPmigOH5qrA) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/1vkIZ63AoFY6zRWyeQsZ0L) | 4:36 | 2021-10-29 | 2022-08-25 |
 | [Just Preach Jesus](https://open.spotify.com/track/0KXbJXbFUByTOansdOsijJ) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/3KoNQ5R7a9Yz7MEzqyQtE7) | 2:45 | 2021-10-29 |  |
 | [Just Preach Jesus](https://open.spotify.com/track/3LaCjAi3TA2Pqlq1L3PptP) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/2mK1OSCYxXpeHgh4kUZm0D) | 2:45 | 2021-10-29 | 2022-07-29 |
 | [King of Kings](https://open.spotify.com/track/2ZbBnFvIivkLCMsAUFIVrU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/3Ty52esdbMGej9m3Fzb1hR) | 2:58 | 2021-10-29 |  |

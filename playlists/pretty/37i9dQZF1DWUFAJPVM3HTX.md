@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Annahstasia
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,185 likes - 101 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,443 likes - 101 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 80 | [Questions](https://open.spotify.com/track/075Vlu9vSFPbr15IVKPBro) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Questions](https://open.spotify.com/album/5L42oPqaQXz45v2Buz3x5W) | 3:15 |
 | 81 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 |
 | 82 | [Rollercoaster](https://open.spotify.com/track/4sciT4OOWK3iD41rtkrTYY) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/6bTIVYkJDjjsSakD5nfLNa) | 3:33 |
-| 83 | [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 |
+| 83 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 |
 | 84 | [One Call Away](https://open.spotify.com/track/7MbW4OnmwSpAvBBnKxXBR1) | [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7) | [One Call Away](https://open.spotify.com/album/7K2wZcw7Xonx3eGgcWHu63) | 2:29 |
 | 85 | [Summervibe](https://open.spotify.com/track/587VNUyNcdWHMlXz1xMcfV) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [But could the moments in between](https://open.spotify.com/album/5cHlpmNwKG3RbEv8DiEUoC) | 2:22 |
 | 86 | [GULLIBLE](https://open.spotify.com/track/6I7irVYBFdlSaiouU0KZiM) | [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R) | [GULLIBLE](https://open.spotify.com/album/5rhgri1NFjnssCKcb7qzmZ) | 3:46 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 100 | [I Want You](https://open.spotify.com/track/0Xk5Tc61jtbwYhEn8tfYXj) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [I Want You](https://open.spotify.com/album/7m8BVFA0i1OU39aSQ3oxbB) | 3:11 |
 | 101 | [whose fault](https://open.spotify.com/track/24bEwSczFXVlFyqfAHQfls) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [whose fault](https://open.spotify.com/album/5XcLFnMT5SBsTVfAwm5Vl0) | 2:06 |
 
-Snapshot ID: `MTY2MDkyMzQ3OSwwMDAwMDAwMDE4N2Q1Y2RlYjAyZDViOWU1YTRiNzRjNzliMzA4NTQ3`
+Snapshot ID: `MTY2MDkyMzQ3OSwwMDAwMDAwMDkxZGNkMWIzODgxYzlkYjJkZmQ2ZWFjMjFlZTA1YWRm`

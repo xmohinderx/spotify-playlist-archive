@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: Aitch, Ed Sheeran
 
-448 songs - 1 day 1 hr 16 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+449 songs - 1 day 1 hr 20 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Everything](https://open.spotify.com/track/7zkUj9idxLrvXOjJwEP7MV) | [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Ashleigh Eymann](https://open.spotify.com/artist/0UmgNp7YpF7kMs4qyziHsr) | [Everything](https://open.spotify.com/album/2kyFCmsasAE7wSajHk0mFU) | 3:46 | 2022-06-03 | 2022-07-23 |
 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 | 2022-02-18 | 2022-04-02 |
 | [EXCEPTIONAL](https://open.spotify.com/track/2zg3Y2hKzNeo2qIVXkbKUf) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/0YlIlMvnAz21BWyCeLYNDl) | 2:17 | 2022-02-18 | 2022-02-26 |
-| [EXCEPTIONAL \- warner case Remix](https://open.spotify.com/track/1gFCYmyeEI8VzgUyjN2m0P) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [EXCEPTIONAL \(warner case Remix\)](https://open.spotify.com/album/4Z5VM9OezQQavnccCftlUM) | 3:43 | 2022-07-22 |  |
+| [EXCEPTIONAL \- warner case Remix](https://open.spotify.com/track/1gFCYmyeEI8VzgUyjN2m0P) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [EXCEPTIONAL \(warner case Remix\)](https://open.spotify.com/album/4Z5VM9OezQQavnccCftlUM) | 3:43 | 2022-07-22 | 2022-08-25 |
+| [EXCEPTIONAL \- warner case Remix](https://open.spotify.com/track/29lSxmYiM0GMkhxhwLBZb8) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [EXCEPTIONAL \(warner case Remix\)](https://open.spotify.com/album/2DD5QtG7QQmC3YUrErPvAu) | 3:43 | 2022-08-19 |  |
 | [Explore](https://open.spotify.com/track/6sb1CGojNdNMiToRfSNwzY) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Explore](https://open.spotify.com/album/7DxTQ86fPK4BPoJ1RIeFos) | 4:46 | 2022-02-18 | 2022-03-12 |
 | [Fairy Tales](https://open.spotify.com/track/60FrGlqLx8PVlJKMnJzbPV) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL), [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [Fairy Tales](https://open.spotify.com/album/6E6z4ShjrNh5ko5f9gGltf) | 2:14 | 2022-03-25 | 2022-05-07 |
 | [Far Apart](https://open.spotify.com/track/4l9UNAcgLmxxknjV8ydjcR) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Far Apart](https://open.spotify.com/album/2XHYnTTmjpCcLPjJBEJbXl) | 2:56 | 2022-07-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Samuel Shikoba, SAMU\u00c9U",
-  "num_followers": 91278,
+  "num_followers": 91348,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDk1MDI5OSwwMDAwMDAwMDJhZmNlZWU0Y2RhNTFiMDhlMzA4NTRkZjhjODVlMWJi",
+  "snapshot_id": "MTY2MDk1MDI5OSwwMDAwMDAwMGUwNTNiNWM0YzUzZGJmYTY2ZmZjZWYxOTcyYTRhNDI5",
   "tracks": [
     {
       "added_at": "2022-08-19 23:04:59",
@@ -339,26 +339,6 @@
     {
       "added_at": "2022-08-19 23:04:59",
       "album": {
-        "name": "BREAKFAST",
-        "url": "https://open.spotify.com/album/10XLRM6E0iOrOGb6fReoSj"
-      },
-      "artists": [
-        {
-          "name": "Asaph",
-          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
-        },
-        {
-          "name": "BIG THE KIID",
-          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
-        }
-      ],
-      "duration_ms": 124857,
-      "name": "DE NADA",
-      "url": "https://open.spotify.com/track/5ijBpUO3w7kqTZj72ttyam"
-    },
-    {
-      "added_at": "2022-08-19 23:04:59",
-      "album": {
         "name": "Rei",
         "url": "https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 143530,
       "name": "Rei",
       "url": "https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD"
+    },
+    {
+      "added_at": "2022-08-19 23:04:59",
+      "album": {
+        "name": "BREAKFAST",
+        "url": "https://open.spotify.com/album/10XLRM6E0iOrOGb6fReoSj"
+      },
+      "artists": [
+        {
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
+        },
+        {
+          "name": "BIG THE KIID",
+          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
+        }
+      ],
+      "duration_ms": 124857,
+      "name": "DE NADA",
+      "url": "https://open.spotify.com/track/5ijBpUO3w7kqTZj72ttyam"
     },
     {
       "added_at": "2022-08-19 23:04:59",
@@ -415,6 +415,26 @@
     {
       "added_at": "2022-08-19 23:04:59",
       "album": {
+        "name": "Marionete",
+        "url": "https://open.spotify.com/album/1fCcpZjzGQLqjheVLLHhWE"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "SAMU\u00c9U",
+          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
+        }
+      ],
+      "duration_ms": 186245,
+      "name": "Marionete",
+      "url": "https://open.spotify.com/track/7gSXvricIaaFGw1MyklcBl"
+    },
+    {
+      "added_at": "2022-08-19 23:04:59",
+      "album": {
         "name": "Vai Ficar Tudo Bem",
         "url": "https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 220279,
       "name": "Vai Ficar Tudo Bem",
       "url": "https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH"
-    },
-    {
-      "added_at": "2022-08-19 23:04:59",
-      "album": {
-        "name": "Marionete",
-        "url": "https://open.spotify.com/album/1fCcpZjzGQLqjheVLLHhWE"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "SAMU\u00c9U",
-          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
-        }
-      ],
-      "duration_ms": 186245,
-      "name": "Marionete",
-      "url": "https://open.spotify.com/track/7gSXvricIaaFGw1MyklcBl"
     },
     {
       "added_at": "2022-08-19 23:04:59",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-08-19 23:04:59",
       "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5R1ZegDpgnJerbLgDjXUUi"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 120245,
+      "name": "C\u00e9u",
+      "url": "https://open.spotify.com/track/2gWJECcGcgrnlRdtdoTrvI"
+    },
+    {
+      "added_at": "2022-08-19 23:04:59",
+      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 294703,
       "name": "Ele \u00c9 Deus Em Mim",
       "url": "https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3"
-    },
-    {
-      "added_at": "2022-08-19 23:04:59",
-      "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5R1ZegDpgnJerbLgDjXUUi"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 120245,
-      "name": "C\u00e9u",
-      "url": "https://open.spotify.com/track/2gWJECcGcgrnlRdtdoTrvI"
     },
     {
       "added_at": "2022-08-19 23:04:59",
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2022-08-19 23:04:59",
       "album": {
-        "name": "Gospel Playground",
-        "url": "https://open.spotify.com/album/75Vtuqs4tWoYRQ5mUDZKtZ"
+        "name": "Iluminado",
+        "url": "https://open.spotify.com/album/6HQv3LN7oBn7irJL2GZ7kd"
       },
       "artists": [
         {
-          "name": "Azorap",
-          "url": "https://open.spotify.com/artist/6GGonHdpnl32PMkGKpV4mE"
-        },
-        {
-          "name": "AfroRagga",
-          "url": "https://open.spotify.com/artist/3rA5mfURBk7U3O4bjt3kV0"
+          "name": "Mc Miller",
+          "url": "https://open.spotify.com/artist/3lPqoloT6yQMReUyZIkes6"
         }
       ],
-      "duration_ms": 224584,
-      "name": "Gospel Playground",
-      "url": "https://open.spotify.com/track/0Yq4ih2o7CdgP40g5Sqdic"
+      "duration_ms": 233100,
+      "name": "Eu Sou Iluminado",
+      "url": "https://open.spotify.com/track/5ypnmxsJvnyiLtqDFv7nbO"
     },
     {
       "added_at": "2022-08-19 23:04:59",
@@ -1111,18 +1107,22 @@
     {
       "added_at": "2022-08-19 23:04:59",
       "album": {
-        "name": "Iluminado",
-        "url": "https://open.spotify.com/album/6HQv3LN7oBn7irJL2GZ7kd"
+        "name": "Gospel Playground",
+        "url": "https://open.spotify.com/album/75Vtuqs4tWoYRQ5mUDZKtZ"
       },
       "artists": [
         {
-          "name": "Mc Miller",
-          "url": "https://open.spotify.com/artist/3lPqoloT6yQMReUyZIkes6"
+          "name": "Azorap",
+          "url": "https://open.spotify.com/artist/6GGonHdpnl32PMkGKpV4mE"
+        },
+        {
+          "name": "AfroRagga",
+          "url": "https://open.spotify.com/artist/3rA5mfURBk7U3O4bjt3kV0"
         }
       ],
-      "duration_ms": 233100,
-      "name": "Eu Sou Iluminado",
-      "url": "https://open.spotify.com/track/5ypnmxsJvnyiLtqDFv7nbO"
+      "duration_ms": 224584,
+      "name": "Gospel Playground",
+      "url": "https://open.spotify.com/track/0Yq4ih2o7CdgP40g5Sqdic"
     },
     {
       "added_at": "2022-08-19 23:04:59",
@@ -1210,6 +1210,10 @@
         {
           "name": "Trindade Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
       "duration_ms": 162162,
@@ -1230,6 +1234,10 @@
         {
           "name": "Trindade Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
       "duration_ms": 140245,

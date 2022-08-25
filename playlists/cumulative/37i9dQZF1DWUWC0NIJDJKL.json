@@ -3570,6 +3570,28 @@
     },
     {
       "album": {
+        "name": "The Ring",
+        "url": "https://open.spotify.com/album/7cf8z97FmxtiztoxqZX69J"
+      },
+      "artists": [
+        {
+          "name": "Ev Bird",
+          "url": "https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "The Ring",
+      "url": "https://open.spotify.com/track/1anctgvz1HhbvrO6hb6fGa"
+    },
+    {
+      "album": {
         "name": "This Life / Unbearably White",
         "url": "https://open.spotify.com/album/6N1pLez4f6aCvIc4z1ipU6"
       },
@@ -3899,7 +3921,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 220706,
       "name": "Why Do You Feel So Down",
       "url": "https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w"

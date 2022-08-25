@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 37281,
+  "num_followers": 37314,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njg5NjIwMywwMDAwMDAwMGEwNDFhOTAxYTQwZjUxMGEyMTJjM2U5NDY0ODNiYTlj",
+  "snapshot_id": "MTY0Njg5NjIwMywwMDAwMDAwMDQ0MDQwNjVhNjUwMDQ0MWE0ZWVjZjUxMDdkMTYxYzE4",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Gnawa Fusion, Vol. 4",
+        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+        }
+      ],
+      "duration_ms": 534987,
+      "name": "La Illaha Illa Allah",
+      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Morocco: Traditional Songs & Music",
         "url": "https://open.spotify.com/album/72S0SzvMzdkUqTn7Xjcy1V"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 261000,
       "name": "Toura toura (arr. N. Eddine)",
       "url": "https://open.spotify.com/track/2MoMK1kkN7ojVqk1Us35mq"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Gnawa Fusion, Vol. 4",
-        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
-        }
-      ],
-      "duration_ms": 534987,
-      "name": "La Illaha Illa Allah",
-      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Fusion, Vol. 1",
-        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
+        "name": "Soir\u00e9es gnawa neurasys remaster, vol. 11",
+        "url": "https://open.spotify.com/album/7581mKSIQYjCi1PDIYt1iy"
       },
       "artists": [
         {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
         }
       ],
-      "duration_ms": 312581,
-      "name": "Soudani",
-      "url": "https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV"
+      "duration_ms": 259735,
+      "name": "Banwar",
+      "url": "https://open.spotify.com/track/3v1bN0te9KGmCHBtesBQPn"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Soir\u00e9es gnawa neurasys remaster, vol. 11",
-        "url": "https://open.spotify.com/album/7581mKSIQYjCi1PDIYt1iy"
+        "name": "Gnawa Fusion, Vol. 1",
+        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
       },
       "artists": [
         {
-          "name": "Hamid El Kasri",
-          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
         }
       ],
-      "duration_ms": 259735,
-      "name": "Banwar",
-      "url": "https://open.spotify.com/track/3v1bN0te9KGmCHBtesBQPn"
+      "duration_ms": 312581,
+      "name": "Soudani",
+      "url": "https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -475,74 +475,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Jah Gnawi",
-        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Impulse",
-          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
-        }
-      ],
-      "duration_ms": 353811,
-      "name": "Gnawi Baba Mimoun - Jan Rase Remix",
-      "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Makenba",
-        "url": "https://open.spotify.com/album/3JmCZbx58m7q30uQCzzRod"
-      },
-      "artists": [
-        {
-          "name": "Majid Bekkas",
-          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
-        }
-      ],
-      "duration_ms": 474186,
-      "name": "Ali ya ali",
-      "url": "https://open.spotify.com/track/67P3E8BYxF21HxQwQDcXbj"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Gnawa Or Never",
-        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
-      },
-      "artists": [
-        {
-          "name": "Maalem Said Damir & Gnawa Allstars",
-          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
-        }
-      ],
-      "duration_ms": 617000,
-      "name": "La Ilaha Illa Allah",
-      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
-      },
-      "artists": [
-        {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
-        }
-      ],
-      "duration_ms": 397333,
-      "name": "Chalaba",
-      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Gnawa Home Songs",
         "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
@@ -575,6 +507,74 @@
       "duration_ms": 569160,
       "name": "Sidi Koumy",
       "url": "https://open.spotify.com/track/15pwgz1YF0jYkXhGsZTCnD"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Jah Gnawi",
+        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Impulse",
+          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
+        }
+      ],
+      "duration_ms": 353811,
+      "name": "Gnawi Baba Mimoun - Jan Rase Remix",
+      "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Gnawa Or Never",
+        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
+      },
+      "artists": [
+        {
+          "name": "Maalem Said Damir & Gnawa Allstars",
+          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
+        }
+      ],
+      "duration_ms": 617000,
+      "name": "La Ilaha Illa Allah",
+      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Makenba",
+        "url": "https://open.spotify.com/album/3JmCZbx58m7q30uQCzzRod"
+      },
+      "artists": [
+        {
+          "name": "Majid Bekkas",
+          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
+        }
+      ],
+      "duration_ms": 474186,
+      "name": "Ali ya ali",
+      "url": "https://open.spotify.com/track/67P3E8BYxF21HxQwQDcXbj"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+      },
+      "artists": [
+        {
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+        }
+      ],
+      "duration_ms": 397333,
+      "name": "Chalaba",
+      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -655,6 +655,26 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+      },
+      "artists": [
+        {
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+        }
+      ],
+      "duration_ms": 541653,
+      "name": "Salat al Nabi",
+      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
         "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
       },
@@ -687,22 +707,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Exile",
-        "url": "https://open.spotify.com/album/6oHdyaxTfpSbA4791lwqkF"
-      },
-      "artists": [
-        {
-          "name": "Nuru Kane",
-          "url": "https://open.spotify.com/artist/5HwxklaAsHAD4xyK4SjGSg"
-        }
-      ],
-      "duration_ms": 179640,
-      "name": "Bambala",
-      "url": "https://open.spotify.com/track/1qTqSAyzkJwo1rIGOowx9x"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Africa Soyo",
         "url": "https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx"
       },
@@ -719,22 +723,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/6oHdyaxTfpSbA4791lwqkF"
       },
       "artists": [
         {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+          "name": "Nuru Kane",
+          "url": "https://open.spotify.com/artist/5HwxklaAsHAD4xyK4SjGSg"
         }
       ],
-      "duration_ms": 541653,
-      "name": "Salat al Nabi",
-      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
+      "duration_ms": 179640,
+      "name": "Bambala",
+      "url": "https://open.spotify.com/track/1qTqSAyzkJwo1rIGOowx9x"
     },
     {
       "added_at": "2022-03-10 07:10:03",

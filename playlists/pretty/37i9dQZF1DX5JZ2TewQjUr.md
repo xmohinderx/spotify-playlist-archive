@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: AKIKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,105 likes - 112 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,111 likes - 112 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 32 | [和暖的風](https://open.spotify.com/track/0lQyky5oqyrhyBqIdudekJ) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [和暖的風](https://open.spotify.com/album/6hb981Qe8zzsC9q3llvaz2) | 2:40 |
 | 33 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 |
 | 34 | [Edge of Desire](https://open.spotify.com/track/0cQtd5F6UurOj5WBojTuD1) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Edge of Desire](https://open.spotify.com/album/1jLC0DKxSoAxyVTSxT53Ft) | 5:31 |
-| 35 | [淚滴](https://open.spotify.com/track/52jPcpCLX9gCpyk3uZHMym) | [2K88](https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY) | [re](https://open.spotify.com/album/0ZilItnu4eIzaBdCz8CEsr) | 1:57 |
+| 35 | [淚滴](https://open.spotify.com/track/52jPcpCLX9gCpyk3uZHMym) | [dlwindle](https://open.spotify.com/artist/1UNh3VR67drIdOJaau0wOH) | [re](https://open.spotify.com/album/0ZilItnu4eIzaBdCz8CEsr) | 1:57 |
 | 36 | [FREE](https://open.spotify.com/track/4i4AX86CSIigRdVsU0yR8P) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [FREE](https://open.spotify.com/album/45TbgMtq1d6KxOhXdN3Sax) | 6:14 |
 | 37 | [1 puff 2 puff](https://open.spotify.com/track/43mJLfoJdfYR9y4kNlIOCe) | [李三鳩](https://open.spotify.com/artist/10AU7r92ACndtTFKsDJTVm) | [1 puff 2 puff](https://open.spotify.com/album/0OYN6aHLM2cpoyo5yNO7Q6) | 3:50 |
 | 38 | [Talking to You](https://open.spotify.com/track/5zxPEIu4SAsmYYaygyxzjf) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Talking to You](https://open.spotify.com/album/0HvlM2fAW2M6nxFZ7HWKqD) | 3:19 |

@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 134000,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/7ki5Zd8IydTM7m4uUauLVp"
@@ -631,6 +631,28 @@
       "duration_ms": 130080,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5cNtRdWHiLwedKKo0xrebh"
+    },
+    {
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/3nae8nex8etjw0c1zY0L7Y"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Teez",
+          "url": "https://open.spotify.com/artist/1CdH7hPovN32oz65xSnWHy"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130080,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/7tLXo5YmfBoyCYSNG62hJZ"
     },
     {
       "album": {

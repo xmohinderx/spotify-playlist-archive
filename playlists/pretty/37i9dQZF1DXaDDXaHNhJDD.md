@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: Kaduva
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,656 likes - 69 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,892 likes - 69 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Darshana \- From "Hridayam"](https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Darshana Rajendran](https://open.spotify.com/artist/5nfZOPYU4aFJii2PCGALu2) | [Darshana \(From "Hridayam"\)](https://open.spotify.com/album/6yvdx4kNq4Ui9gmD6guGfe) | 3:46 |
-| 2 | [Parudeesa](https://open.spotify.com/track/7v9H4CsUcaoeXSCkhv0xHa) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Bheeshma Parvam](https://open.spotify.com/album/6ouJQmuaymffyfNxWlQGZT) | 4:02 |
-| 3 | [Pala Palli \- From "Kaduva"](https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR) | [Pala Palli \(From "Kaduva"\)](https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk) | 4:30 |
+| 1 | [Pala Palli \- From "Kaduva"](https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR) | [Pala Palli \(From "Kaduva"\)](https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk) | 4:30 |
+| 2 | [Darshana \- From "Hridayam"](https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Darshana Rajendran](https://open.spotify.com/artist/5nfZOPYU4aFJii2PCGALu2) | [Darshana \(From "Hridayam"\)](https://open.spotify.com/album/6yvdx4kNq4Ui9gmD6guGfe) | 3:46 |
+| 3 | [Parudeesa](https://open.spotify.com/track/7v9H4CsUcaoeXSCkhv0xHa) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Bheeshma Parvam](https://open.spotify.com/album/6ouJQmuaymffyfNxWlQGZT) | 4:02 |
 | 4 | [Thallumaala Paattu \- From "Thallumaala"](https://open.spotify.com/track/3iH9MTX6mSGgSNlw9Q2T6t) | [Hrithik Jayakish](https://open.spotify.com/artist/1uyEDo5vVeOUdz0xbLBKb4), [Neha Girish](https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv), [Eshaan Sanil](https://open.spotify.com/artist/1zdLDvuJcKyCtgrPAKwEIQ), [Thejas Krishna](https://open.spotify.com/artist/485YsYvNnyDA6LZOq4BGA2), [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p) | [Thallumaala](https://open.spotify.com/album/09coDJ0hDNRUkN3qJnGfIy) | 3:03 |
 | 5 | [Uyiril Thodum](https://open.spotify.com/track/3bbzeZcfsK0ac7rdN2s7WX) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Anne Amie](https://open.spotify.com/artist/00PnAePD5EyBOROxnfX68x) | [Kumbalangi Nights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YYQL3f8f6rxowT4SO0eZ6) | 3:54 |
 | 6 | [Hemanthamen](https://open.spotify.com/track/2ZDD8iDJmB44AkoVCAAFxh) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Kohinoor](https://open.spotify.com/album/0c1uakRjUSIRVXhHHd5gB9) | 4:18 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 68 | [Mele Vaanil](https://open.spotify.com/track/3h1fJqE8XbN151jD9szk11) | [Rahul Subrahmanian](https://open.spotify.com/artist/6mJG2u6SOpg9gE7G8BXbi6), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Meppadiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CgSXUnFaGO1IobnYT6Qjf) | 4:20 |
 | 69 | [Kugramame](https://open.spotify.com/track/3xXGMn7VTB2Zg74PEN3P9M) | [Vipin Raveendran](https://open.spotify.com/artist/02U0IdqBzAwQdBE7LRhSB9), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Minnal Murali](https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x) | 1:38 |
 
-Snapshot ID: `MTY2MTI0NzM1MCwwMDAwMDAwMDRmMWNkMzc0OTA1M2YwMmQ5YzhiMWI3YjBjM2U3MWUx`
+Snapshot ID: `MTY2MTMyNDcwNSwwMDAwMDAwMGM4YWM3YjNmZTZiNjBhZWY1ZWY3MWE4OWMxMmFhOGZl`

@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 28855,
+  "num_followers": 28933,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyMjI2NiwwMDAwMDAwMGMzNzk2MjNiNmU4NWQzZjJjZDBmNDlkM2YxMGZkMDg0",
+  "snapshot_id": "MTY2MDgyMjI2NiwwMDAwMDAwMGYxYjI3NzI1NTI4ZDg4NmNlNjdhZjFhNTMxYzY5ZmQw",
   "tracks": [
     {
       "added_at": "2022-08-18 11:31:06",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-08-18 11:31:06",
       "album": {
-        "name": "The Very Best Of Albert King",
-        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
+        "name": "Messing With The Blues",
+        "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 154813,
-      "name": "Crosscut Saw",
-      "url": "https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke"
+      "duration_ms": 174560,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU"
     },
     {
       "added_at": "2022-08-18 11:31:06",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-08-18 11:31:06",
       "album": {
-        "name": "Messing With The Blues",
-        "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
+        "name": "The Very Best Of Albert King",
+        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU"
+      "duration_ms": 154813,
+      "name": "Crosscut Saw",
+      "url": "https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke"
     }
   ],
   "unique_name": "Blues Standards",
