@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Bryan Behr",
-  "num_followers": 321415,
+  "num_followers": 321493,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDk1MDc3MSwwMDAwMDAwMGE0Zjc3NTBjMzljMTkyMjYyNDMwNDkzNmZjNDIxNDIw",
+  "snapshot_id": "MTY2MDk1MDc3MSwwMDAwMDAwMGQyYjZmNDZkMzI4YTFjMjE1MGE3ODU5OTAwYjBmOGI1",
   "tracks": [
     {
       "added_at": "2022-08-19 23:12:51",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-08-19 23:12:51",
       "album": {
+        "name": "As Onze Palavras",
+        "url": "https://open.spotify.com/album/2uYbjqCKvgXR9doMORqe3L"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ramalho",
+          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
+        }
+      ],
+      "duration_ms": 247116,
+      "name": "As Onze Palavras",
+      "url": "https://open.spotify.com/track/5AAg5PAor93wUTPdxoOWHw"
+    },
+    {
+      "added_at": "2022-08-19 23:12:51",
+      "album": {
         "name": "Dia Branco",
         "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2022-08-19 23:12:51",
       "album": {
-        "name": "Ana Ca\u00f1as Canta Belchior",
-        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 322543,
-      "name": "Cora\u00e7\u00e3o Selvagem",
-      "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
-    },
-    {
-      "added_at": "2022-08-19 23:12:51",
-      "album": {
         "name": "Nu Com a Minha M\u00fasica",
         "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 216933,
       "name": "Quase um Segundo",
       "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
+    },
+    {
+      "added_at": "2022-08-19 23:12:51",
+      "album": {
+        "name": "Ana Ca\u00f1as Canta Belchior",
+        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 322543,
+      "name": "Cora\u00e7\u00e3o Selvagem",
+      "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
     },
     {
       "added_at": "2022-08-19 23:12:51",
@@ -879,22 +895,6 @@
       "duration_ms": 202549,
       "name": "Teimosa",
       "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
-    },
-    {
-      "added_at": "2022-08-19 23:12:51",
-      "album": {
-        "name": "As Onze Palavras",
-        "url": "https://open.spotify.com/album/2uYbjqCKvgXR9doMORqe3L"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ramalho",
-          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
-        }
-      ],
-      "duration_ms": 247116,
-      "name": "As Onze Palavras",
-      "url": "https://open.spotify.com/track/5AAg5PAor93wUTPdxoOWHw"
     },
     {
       "added_at": "2022-08-19 23:12:51",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-08-19 23:12:51",
       "album": {
-        "name": "Tenho Sede",
-        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 190468,
-      "name": "Tenho Sede",
-      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
-    },
-    {
-      "added_at": "2022-08-19 23:12:51",
-      "album": {
         "name": "Preciso Me Encontrar",
         "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 166706,
       "name": "BB (Garupa de Moto Amarela)",
       "url": "https://open.spotify.com/track/3e8kgXoSaW5MQkpjSw9nYk"
+    },
+    {
+      "added_at": "2022-08-19 23:12:51",
+      "album": {
+        "name": "Tenho Sede",
+        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 190468,
+      "name": "Tenho Sede",
+      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
     },
     {
       "added_at": "2022-08-19 23:12:51",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-19 23:12:51",
       "album": {
-        "name": "Sem Pensar No Amanh\u00e3",
-        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Sem Pensar No Amanh\u00e3",
-      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
-    },
-    {
-      "added_at": "2022-08-19 23:12:51",
-      "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/1BUJAgFFEA6ebbaFU8Fipc"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 224041,
       "name": "\u00d3rbita",
       "url": "https://open.spotify.com/track/686veWKRzmwYCFpisNUulz"
+    },
+    {
+      "added_at": "2022-08-19 23:12:51",
+      "album": {
+        "name": "Sem Pensar No Amanh\u00e3",
+        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "Sem Pensar No Amanh\u00e3",
+      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
     },
     {
       "added_at": "2022-08-19 23:12:51",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-08-19 23:12:51",
       "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 210030,
+      "name": "Rota\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
+    },
+    {
+      "added_at": "2022-08-19 23:12:51",
+      "album": {
         "name": "Alceu Valen\u00e7a e Paulo Rafael",
         "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 204873,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
-    },
-    {
-      "added_at": "2022-08-19 23:12:51",
-      "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 210030,
-      "name": "Rota\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
     },
     {
       "added_at": "2022-08-19 23:12:51",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2022-08-19 23:12:51",
       "album": {
+        "name": "Raio X (Baby Session)",
+        "url": "https://open.spotify.com/album/6iKf5qW2mCXzmCz4CyQICI"
+      },
+      "artists": [
+        {
+          "name": "BABY",
+          "url": "https://open.spotify.com/artist/1Epq0XVctV49bwVPujtKxp"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 247142,
+      "name": "Raio X (Baby Session)",
+      "url": "https://open.spotify.com/track/6dCtRnv9k1eKkIOwPPfaFN"
+    },
+    {
+      "added_at": "2022-08-19 23:12:51",
+      "album": {
         "name": "A Palo Seco (Radio Edit)",
         "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
       },
@@ -1427,26 +1447,6 @@
     {
       "added_at": "2022-08-19 23:12:51",
       "album": {
-        "name": "Raio X (Baby Session)",
-        "url": "https://open.spotify.com/album/6iKf5qW2mCXzmCz4CyQICI"
-      },
-      "artists": [
-        {
-          "name": "BABY",
-          "url": "https://open.spotify.com/artist/1Epq0XVctV49bwVPujtKxp"
-        },
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 247142,
-      "name": "Raio X (Baby Session)",
-      "url": "https://open.spotify.com/track/6dCtRnv9k1eKkIOwPPfaFN"
-    },
-    {
-      "added_at": "2022-08-19 23:12:51",
-      "album": {
         "name": "Chico Chico Ao Vivo na Macaco Gordo",
         "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-08-19 23:12:51",
       "album": {
-        "name": "Vinte Vinte (Adeus Brasil)",
-        "url": "https://open.spotify.com/album/5twbB9A8EvYKeVfTnqqxvl"
-      },
-      "artists": [
-        {
-          "name": "Renato Teixeira",
-          "url": "https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI"
-        }
-      ],
-      "duration_ms": 185756,
-      "name": "Vinte Vinte - Adeus Brasil",
-      "url": "https://open.spotify.com/track/5To7O0SazLAevNU9mcVLPt"
-    },
-    {
-      "added_at": "2022-08-19 23:12:51",
-      "album": {
         "name": "Alagados",
         "url": "https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 196614,
       "name": "Alagados",
       "url": "https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf"
+    },
+    {
+      "added_at": "2022-08-19 23:12:51",
+      "album": {
+        "name": "Vinte Vinte (Adeus Brasil)",
+        "url": "https://open.spotify.com/album/5twbB9A8EvYKeVfTnqqxvl"
+      },
+      "artists": [
+        {
+          "name": "Renato Teixeira",
+          "url": "https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI"
+        }
+      ],
+      "duration_ms": 185756,
+      "name": "Vinte Vinte - Adeus Brasil",
+      "url": "https://open.spotify.com/track/5To7O0SazLAevNU9mcVLPt"
     },
     {
       "added_at": "2022-08-19 23:12:51",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-08-19 23:12:51",
       "album": {
+        "name": "\u00c0deusdar\u00c1",
+        "url": "https://open.spotify.com/album/1DTQyqb5YW6aqf1q8ql6M6"
+      },
+      "artists": [
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        }
+      ],
+      "duration_ms": 216617,
+      "name": "\u00c0deusdar\u00c1",
+      "url": "https://open.spotify.com/track/3xxZ5ZUAiXocIEqXBG3WQx"
+    },
+    {
+      "added_at": "2022-08-19 23:12:51",
+      "album": {
         "name": "Tr\u00eas",
         "url": "https://open.spotify.com/album/2rs1t4jW9OQB4ESpTs8tMV"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 250602,
       "name": "Beira Do Mar",
       "url": "https://open.spotify.com/track/0kX5ljJYzOU7a0gnRNqBcx"
-    },
-    {
-      "added_at": "2022-08-19 23:12:51",
-      "album": {
-        "name": "\u00c0deusdar\u00c1",
-        "url": "https://open.spotify.com/album/1DTQyqb5YW6aqf1q8ql6M6"
-      },
-      "artists": [
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
-        }
-      ],
-      "duration_ms": 216617,
-      "name": "\u00c0deusdar\u00c1",
-      "url": "https://open.spotify.com/track/3xxZ5ZUAiXocIEqXBG3WQx"
     },
     {
       "added_at": "2022-08-19 23:12:51",

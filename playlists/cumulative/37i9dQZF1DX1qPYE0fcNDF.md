@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#1HappyHoliday](https://open.spotify.com/track/5pUHIx5GuvTyM5u9dmZ4DZ) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [\#1HappyHoliday](https://open.spotify.com/album/5GgEdbWST6YXBgwFz9O2RQ) | 3:00 | 2019-12-20 |  |
+| [\#1HappyHoliday](https://open.spotify.com/track/5pUHIx5GuvTyM5u9dmZ4DZ) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [\#1HappyHoliday](https://open.spotify.com/album/5GgEdbWST6YXBgwFz9O2RQ) | 3:00 | 2019-12-20 |  |
 | [12 Days of Christmas](https://open.spotify.com/track/6bE3npRCJW3wmy4NV44ZS2) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [East Atlanta Santa 3](https://open.spotify.com/album/41Mzki3Yox73btDc51evLi) | 1:52 | 2019-12-20 |  |
 | [3 Kings](https://open.spotify.com/track/2awA4tHY7SFlJZrvgWfdSP) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [A Very ROC Christmas](https://open.spotify.com/album/55mrxLIpf5AzhIEN43MSCh) | 2:55 | 2019-12-20 |  |
 | [A Christmas Fucking Miracle](https://open.spotify.com/track/54DmhgFHvYxqBEnOwklDml) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Run the Jewels](https://open.spotify.com/album/7BUlAwJBzKyllRuDTKV8Ae) | 4:21 | 2019-12-20 | 2022-07-29 |

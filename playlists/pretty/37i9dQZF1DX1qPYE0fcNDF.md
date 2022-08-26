@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,481 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,478 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 21 | [My Little Mama Trippin On Xmas](https://open.spotify.com/track/1nNMwW05wHul1lSYHmGM3m) | [Bad Lucc](https://open.spotify.com/artist/77kP3V3j9SPpyF5wem7tck) | [Christmas In The Dogghouse](https://open.spotify.com/album/6Yfaff9em7z9TmO9QQscpw) | 2:35 |
 | 22 | [Player's Ball](https://open.spotify.com/track/7LZDnTeLZK2OXnLsr8t8Tx) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [A Laface Family Christmas](https://open.spotify.com/album/4fzsNfn7gbyM2CiDF5vigi) | 4:22 |
 | 23 | [I Wish](https://open.spotify.com/track/0xm4ONa9AnzwVRAO1gIu4v) | [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT) | [Christmas On Death Row](https://open.spotify.com/album/2t6GxVRo0HhWuMFm0XWvL2) | 4:56 |
-| 24 | [\#1HappyHoliday](https://open.spotify.com/track/5pUHIx5GuvTyM5u9dmZ4DZ) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [\#1HappyHoliday](https://open.spotify.com/album/5GgEdbWST6YXBgwFz9O2RQ) | 3:00 |
+| 24 | [\#1HappyHoliday](https://open.spotify.com/track/5pUHIx5GuvTyM5u9dmZ4DZ) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [\#1HappyHoliday](https://open.spotify.com/album/5GgEdbWST6YXBgwFz9O2RQ) | 3:00 |
 | 25 | [Sleigh Ride](https://open.spotify.com/track/7DBIvPoaC3Wv69Qe5II7b3) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [A Laface Family Christmas](https://open.spotify.com/album/4fzsNfn7gbyM2CiDF5vigi) | 3:43 |
 | 26 | [Christmas In The Hood](https://open.spotify.com/track/4ZtbsYTOuF1hotmpNn8qpA) | [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [Deacon](https://open.spotify.com/artist/4481xuujVUcv4MH4TnHWoh) | [Christmas In The Dogghouse](https://open.spotify.com/album/6Yfaff9em7z9TmO9QQscpw) | 3:54 |
 | 27 | [Ballin' On Xmas](https://open.spotify.com/track/1atC80Kwb6gHOn27dG1qX1) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS) | 3:35 |

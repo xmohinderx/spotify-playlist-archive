@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Hot Chip
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,709 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,724 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 2 | [Broken](https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 3:24 |
 | 3 | [One Year Stand](https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [One Year Stand](https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d) | 2:35 |
 | 4 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/2qiYy5k1mDAOpegYqv00wG) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/53FpLc8sSUmGGb0OY6cZKG) | 2:45 |
-| 5 | [Crying in the Club](https://open.spotify.com/track/2i2ctngb7IE9IhoZ3AA1Ey) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Crying in the Club](https://open.spotify.com/album/0EAQUkyRH0RUBHzzt9Sr42) | 3:05 |
+| 5 | [Crying in the Club](https://open.spotify.com/track/440bHvLOgExwePapxmMtGI) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/3GuSAYm0w5TMJ6k0qeftwt) | 3:05 |
 | 6 | [As Time Goes By](https://open.spotify.com/track/47RX1LPonw1VQhreVJI4Dy) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i) | [Giving Up Air](https://open.spotify.com/album/69xg7EyoIwwyks0i390g5D) | 3:43 |
 | 7 | [Blue Summer](https://open.spotify.com/track/10ilkvsev313RMbRunvviF) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Blue Summer](https://open.spotify.com/album/6fOjzVA71a7vdOuOrDR2A4) | 2:27 |
 | 8 | [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Poodles Dancing](https://open.spotify.com/track/2Zi7DNAS7cUZ50ybfLjdf1) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Poodles Dancing](https://open.spotify.com/album/2izKf7I214u1QWVv7vY0dQ) | 3:05 |
 | 75 | [Nightsift](https://open.spotify.com/track/2zxT7iTshvhM9K3439Ka7Y) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Freewave Lucifer f<ck f^ck f>ck](https://open.spotify.com/album/3b98O4yCJhkj5iiGNYLe0p) | 4:40 |
 
-Snapshot ID: `MTY2MDg2NTczMCwwMDAwMDAwMGZhN2QzNWQ4OTJlZTQ2MGQzYzQ1NzI5MjZkOGE4YmFj`
+Snapshot ID: `MTY2MDg2NTczMCwwMDAwMDAwMGQxMGQ1YTQ4MTU3MDIzMjVmNTBkNDgyODFiMzcyZGU1`

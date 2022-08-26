@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Soccer Mommy",
-  "num_followers": 303909,
+  "num_followers": 304001,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDAwMDc2YmJhZjgxMzYyNTZkOGI1YzNmMTRlOWFlYzM0NThi",
+  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDAwMGUyMDc3OTE1NTc0N2RkZTVjNTA3MGE5ZWM0NzI5OTRk",
   "tracks": [
     {
       "added_at": "2022-05-20 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Digital Meadow",
-        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 275013,
       "name": "I Don't Recognise You",
       "url": "https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Digital Meadow",
+        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "to Perth, before the border closes",
-        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "to Perth, before the border closes",
-      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 300586,
       "name": "Cool Dry Place",
       "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "to Perth, before the border closes",
+        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "to Perth, before the border closes",
+      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "WINK",
-        "url": "https://open.spotify.com/album/105329tEvmR4S5ofi0EZig"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Donuts Mind If I Do",
-      "url": "https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Reinvent",
         "url": "https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 243381,
       "name": "Reinvent",
       "url": "https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "WINK",
+        "url": "https://open.spotify.com/album/105329tEvmR4S5ofi0EZig"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Donuts Mind If I Do",
+      "url": "https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Sugar & Spice",
-        "url": "https://open.spotify.com/album/6Wzwhd5VTklhTkqQPooIla"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 249021,
-      "name": "Sure",
-      "url": "https://open.spotify.com/track/38jmyQQhIpC6SP0zRF5WCu"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Sucker's Lunch",
         "url": "https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 283370,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Sugar & Spice",
+        "url": "https://open.spotify.com/album/6Wzwhd5VTklhTkqQPooIla"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 249021,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/38jmyQQhIpC6SP0zRF5WCu"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
+        "name": "The Greatest Part",
+        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 169257,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
         "name": "Let Me Do One More",
         "url": "https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 284809,
       "name": "u v v p (feat. Buck Meek)",
       "url": "https://open.spotify.com/track/3WjjfLHUHM2an4j5NkjGUa"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "The Greatest Part",
-        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 169257,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -2031,18 +2031,18 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Running with the Hurricane",
-        "url": "https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98"
+        "name": "Means To Me",
+        "url": "https://open.spotify.com/album/1GS9YuJnV8cNUZFJapg1AK"
       },
       "artists": [
         {
-          "name": "Camp Cope",
-          "url": "https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s"
+          "name": "Long Beard",
+          "url": "https://open.spotify.com/artist/3truyDimkGtu58fxQj9Xv9"
         }
       ],
-      "duration_ms": 255208,
-      "name": "Running with the Hurricane",
-      "url": "https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS"
+      "duration_ms": 334357,
+      "name": "Sweetheart",
+      "url": "https://open.spotify.com/track/4T7okh1A7MmqS7xXypO0wx"
     }
   ],
   "unique_name": "badass",

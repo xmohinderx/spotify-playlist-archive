@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 111107,
+  "num_followers": 111139,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDg4NTY1OWMyYTQ1YjliM2YzMWM3MmYwNjJkYTRkYmVj",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGZmNTMxYzBmYzE1MjY5Yjk1YWE0MzRiZjg2ODYxNTA2",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -195,38 +195,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO"
-      },
-      "artists": [
-        {
-          "name": "Kinga Glyk",
-          "url": "https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk"
-        }
-      ],
-      "duration_ms": 171440,
-      "name": "Let's Play Some Funky Groove",
-      "url": "https://open.spotify.com/track/1TPRQvysDFeNWTd65KPnxS"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Dr Hypenstein",
-        "url": "https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P"
-      },
-      "artists": [
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
-        }
-      ],
-      "duration_ms": 187276,
-      "name": "Funktionality",
-      "url": "https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Ostinato Bass",
         "url": "https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz"
       },
@@ -247,6 +215,38 @@
       "duration_ms": 253400,
       "name": "Inside My Memory",
       "url": "https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Dr Hypenstein",
+        "url": "https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        }
+      ],
+      "duration_ms": 187276,
+      "name": "Funktionality",
+      "url": "https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO"
+      },
+      "artists": [
+        {
+          "name": "Kinga Glyk",
+          "url": "https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk"
+        }
+      ],
+      "duration_ms": 171440,
+      "name": "Let's Play Some Funky Groove",
+      "url": "https://open.spotify.com/track/1TPRQvysDFeNWTd65KPnxS"
     },
     {
       "added_at": "2021-05-06 21:09:12",

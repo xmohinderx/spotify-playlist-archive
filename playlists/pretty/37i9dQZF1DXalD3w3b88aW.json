@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 10438,
+  "num_followers": 10448,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNzA2MjcwNCwwMDAwMDAwMDk0NDgwYmNlYWI3NTQ3MjBjNTkwYTU1NjQxMDNiM2Y0",
+  "snapshot_id": "MTYyNzA2MjcwNCwwMDAwMDAwMDgyMWFhMDhjMmM3MzE4NjZmNmExMGNkZDQ3MmFlMWYz",
   "tracks": [
     {
       "added_at": "2020-09-30 16:37:26",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Harlem World",
-        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
-      },
-      "artists": [
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        }
-      ],
-      "duration_ms": 100680,
-      "name": "Puff's Intro",
-      "url": "https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 110466,
       "name": "Maxine's Interlude",
       "url": "https://open.spotify.com/track/14gPCmJHuXrgGiytQGnv3Q"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Harlem World",
+        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
+      },
+      "artists": [
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "duration_ms": 100680,
+      "name": "Puff's Intro",
+      "url": "https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -655,22 +655,18 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
       },
       "artists": [
         {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
         }
       ],
-      "duration_ms": 57000,
-      "name": "The Roots (Interlude)",
-      "url": "https://open.spotify.com/track/1Qr9uLQz5Z8sq39zBUnNnE"
+      "duration_ms": 110466,
+      "name": "Sexy You (Interlude)",
+      "url": "https://open.spotify.com/track/7CBtCcTd3Zs6GS1RGKhOva"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -691,18 +687,22 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
       },
       "artists": [
         {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
         }
       ],
-      "duration_ms": 110466,
-      "name": "Sexy You (Interlude)",
-      "url": "https://open.spotify.com/track/7CBtCcTd3Zs6GS1RGKhOva"
+      "duration_ms": 57000,
+      "name": "The Roots (Interlude)",
+      "url": "https://open.spotify.com/track/1Qr9uLQz5Z8sq39zBUnNnE"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -751,6 +751,22 @@
       "duration_ms": 107533,
       "name": "Soul Intact - Interlude",
       "url": "https://open.spotify.com/track/5vVopvbZhMboQVNVDgLv7o"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 103995,
+      "name": "Why (Interlude)",
+      "url": "https://open.spotify.com/track/346GctLi0LBpPTjfTQRkvZ"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -827,22 +843,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 103995,
-      "name": "Why (Interlude)",
-      "url": "https://open.spotify.com/track/346GctLi0LBpPTjfTQRkvZ"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "Damita Jo",
         "url": "https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 89266,
       "name": "Looking For Love (Interlude)",
       "url": "https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 130693,
+      "name": "Room 454: De Vante's \" Inhermission\"",
+      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -905,6 +921,22 @@
       "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
     },
     {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 74173,
+      "name": "I Surrender - Interlude",
+      "url": "https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ"
+    },
+    {
       "added_at": "2021-07-23 17:51:44",
       "album": {
         "name": "Soul Of A Woman",
@@ -919,22 +951,6 @@
       "duration_ms": 76533,
       "name": "Don't Go Away (Interlude)",
       "url": "https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 130693,
-      "name": "Room 454: De Vante's \" Inhermission\"",
-      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -955,22 +971,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 116306,
-      "name": "Stay (Interlude)",
-      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "Still Ghetto",
         "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 48933,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 74173,
-      "name": "I Surrender - Interlude",
-      "url": "https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -1031,6 +1015,38 @@
       "duration_ms": 162240,
       "name": "Interlude 2 (Can't Stop)",
       "url": "https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Room 112",
+        "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 70733,
+      "name": "Anywhere (Interlude)",
+      "url": "https://open.spotify.com/track/62aa75nKO5orJZ1AIOeled"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 116306,
+      "name": "Stay (Interlude)",
+      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 61093,
-      "name": "Special Place - Interlude",
-      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "Acoustic Soul",
         "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
       },
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Room 112",
-        "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
       "artists": [
         {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 70733,
-      "name": "Anywhere (Interlude)",
-      "url": "https://open.spotify.com/track/62aa75nKO5orJZ1AIOeled"
+      "duration_ms": 61093,
+      "name": "Special Place - Interlude",
+      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 81133,
-      "name": "Ghetto (Interlude)",
-      "url": "https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "20 Y.O.",
         "url": "https://open.spotify.com/album/0mRIaVhwnvAblQaRkvGJBA"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 27146,
       "name": "20 - Pt. 2 / Interlude",
       "url": "https://open.spotify.com/track/1HI5kvBBvFKwyNqpaA63z0"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 81133,
+      "name": "Ghetto (Interlude)",
+      "url": "https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu"
     },
     {
       "added_at": "2020-09-30 16:37:26",

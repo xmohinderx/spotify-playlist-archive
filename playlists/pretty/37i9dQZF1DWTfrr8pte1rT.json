@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop  Cover: GG Magree \\m/",
-  "num_followers": 270627,
+  "num_followers": 270810,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGQyMGNkYjQ5MTVlNjQ3YjAxNzhjOTk5ZjJhMmE2ZDQ4",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGU4ZTBjYzRiNTcxZmNiNzdkYTlkN2ZkYjhlMjgwOWQz",
   "tracks": [
     {
       "added_at": "2022-06-24 04:01:00",
@@ -585,6 +585,26 @@
       "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
     },
     {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Black Velvet",
+        "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
+    },
+    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Kneel Before Me",
@@ -607,26 +627,6 @@
       "duration_ms": 201600,
       "name": "Kneel Before Me",
       "url": "https://open.spotify.com/track/0qwMoAstkTXlWE8lQJBRzY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Black Velvet",
-        "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        },
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -975,18 +975,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Death Of An Optimist",
-        "url": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
       "artists": [
         {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 168736,
-      "name": "We Did It!!!",
-      "url": "https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K"
+      "duration_ms": 201076,
+      "name": "Go on Then, Love",
+      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1015,22 +1019,18 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
+        "name": "Death Of An Optimist",
+        "url": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
       },
       "artists": [
         {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
         }
       ],
-      "duration_ms": 201076,
-      "name": "Go on Then, Love",
-      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
+      "duration_ms": 168736,
+      "name": "We Did It!!!",
+      "url": "https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1055,26 +1055,6 @@
       "duration_ms": 226440,
       "name": "demolition (Ruined by Glass Petals)",
       "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1119,6 +1099,26 @@
       "duration_ms": 175699,
       "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
       "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Searching For Nothing",
         "url": "https://open.spotify.com/album/3d4wTJ2uxT7wrZ13yhxZBa"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 221937,
       "name": "Searching For Nothing",
       "url": "https://open.spotify.com/track/5u1gJv6uwKGf9N4gF6iGKV"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1825,22 +1825,6 @@
       "url": "https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN"
     },
     {
-      "added_at": "2022-07-15 11:41:27",
-      "album": {
-        "name": "Electric Eye",
-        "url": "https://open.spotify.com/album/0wOIF81jYqP2a77QPJVbf3"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 165771,
-      "name": "Electric Eye - Single Edit",
-      "url": "https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH"
-    },
-    {
       "added_at": "2022-07-22 08:57:27",
       "album": {
         "name": "Throne",
@@ -1861,26 +1845,6 @@
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
     },
     {
-      "added_at": "2022-07-22 08:57:27",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
-    },
-    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Time Isn't Real",
@@ -1899,6 +1863,42 @@
       "duration_ms": 213560,
       "name": "Dying To Know You",
       "url": "https://open.spotify.com/track/58kTdDfCfgxi1EC8iq1HcO"
+    },
+    {
+      "added_at": "2022-07-15 11:41:27",
+      "album": {
+        "name": "Electric Eye",
+        "url": "https://open.spotify.com/album/0wOIF81jYqP2a77QPJVbf3"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 165771,
+      "name": "Electric Eye - Single Edit",
+      "url": "https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH"
+    },
+    {
+      "added_at": "2022-07-22 08:57:27",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/70t8YB2KAuCo4u1h0z5Ohz"
-      },
-      "artists": [
-        {
-          "name": "Decadon",
-          "url": "https://open.spotify.com/artist/7wwtIX6gh50Mn4UKJPB3Vf"
-        },
-        {
-          "name": "Hunter Avant",
-          "url": "https://open.spotify.com/artist/2A9xhxtuJFOKqd8YSXUTeN"
-        }
-      ],
-      "duration_ms": 185608,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/6t5jyZK7AGBkUBIOUQyEED"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Rain (Idris Elba Edit)",
         "url": "https://open.spotify.com/album/3WHV6xgHLbBCJ9iDdP7V1W"
       },
@@ -2051,6 +2031,26 @@
       "duration_ms": 208500,
       "name": "Rain (Idris Elba Edit)",
       "url": "https://open.spotify.com/track/7zTnfiIlfE8qUtXp9lSH97"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/70t8YB2KAuCo4u1h0z5Ohz"
+      },
+      "artists": [
+        {
+          "name": "Decadon",
+          "url": "https://open.spotify.com/artist/7wwtIX6gh50Mn4UKJPB3Vf"
+        },
+        {
+          "name": "Hunter Avant",
+          "url": "https://open.spotify.com/artist/2A9xhxtuJFOKqd8YSXUTeN"
+        }
+      ],
+      "duration_ms": 185608,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/6t5jyZK7AGBkUBIOUQyEED"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Understand",
         "url": "https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 223637,
       "name": "Understand (Feat. Brendan Yates)",
       "url": "https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2417,24 +2417,24 @@
       "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Raincheck",
-        "url": "https://open.spotify.com/album/2c6x9oEvqr61dvcx0sllik"
+        "name": "create together vol. 3",
+        "url": "https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2"
       },
       "artists": [
         {
-          "name": "Vastive",
-          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+          "name": "Scro",
+          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
         },
         {
-          "name": "Cypherize",
-          "url": "https://open.spotify.com/artist/3jPCSMVzSpYMHyEGFmpxD4"
+          "name": "whyislavndr",
+          "url": "https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Raincheck",
-      "url": "https://open.spotify.com/track/5me55gRNFuVem7yTLiG5WL"
+      "duration_ms": 241475,
+      "name": "i don\u2019t wanna write sad songs anymore",
+      "url": "https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2457,24 +2457,24 @@
       "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "create together vol. 3",
-        "url": "https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2"
+        "name": "Raincheck",
+        "url": "https://open.spotify.com/album/2c6x9oEvqr61dvcx0sllik"
       },
       "artists": [
         {
-          "name": "Scro",
-          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
         },
         {
-          "name": "whyislavndr",
-          "url": "https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E"
+          "name": "Cypherize",
+          "url": "https://open.spotify.com/artist/3jPCSMVzSpYMHyEGFmpxD4"
         }
       ],
-      "duration_ms": 241475,
-      "name": "i don\u2019t wanna write sad songs anymore",
-      "url": "https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4"
+      "duration_ms": 230400,
+      "name": "Raincheck",
+      "url": "https://open.spotify.com/track/5me55gRNFuVem7yTLiG5WL"
     },
     {
       "added_at": "2022-06-24 04:01:00",

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: eill
 
-649 songs - 1 day 18 hr 47 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+650 songs - 1 day 18 hr 52 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 | 2022-06-07 | 2022-08-11 |
 | [Lovin' time](https://open.spotify.com/track/0KQWGzw2zrJXrqqWTftJF1) | [南条采良](https://open.spotify.com/artist/5mTcbbKdzfbWwb45fx9xYG) | [Lovin' time](https://open.spotify.com/album/25cUgpem6lKrCg6G8TwkrJ) | 3:19 | 2022-06-25 | 2022-06-30 |
 | [Lucky feat.VivaOla](https://open.spotify.com/track/7Jdrn1vwz1upvs6dRl5TC9) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Lucky feat.VivaOla](https://open.spotify.com/album/4AG6qN7Qm9sDxLfZQLjKXW) | 3:18 | 2022-06-16 | 2022-07-20 |
-| [lullaby](https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [lullaby](https://open.spotify.com/album/124KAJ6yPCPMVOYQy60qzZ) | 3:32 | 2022-06-16 |  |
+| [lullaby](https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [lullaby](https://open.spotify.com/album/124KAJ6yPCPMVOYQy60qzZ) | 3:32 | 2022-06-16 | 2022-08-26 |
 | [Lunchtime Lover](https://open.spotify.com/track/0voYtFLM5Yr6ME6Wbfi0Eb) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Warui Onna EP](https://open.spotify.com/album/2EShlVYZ57EYvpFGrKQTdj) | 3:39 | 2022-07-28 | 2022-08-03 |
 | [Lycoris](https://open.spotify.com/track/0r8tGHTLV1XdNTNjrOhSg8) | [THE SxPLAY](https://open.spotify.com/artist/3buTqojSELwUcO2apjmpVi) | [Lycoris](https://open.spotify.com/album/6A7nUQ1vGlsz82s7bN1K0M) | 2:48 | 2022-05-29 | 2022-06-24 |
 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 | 2022-05-29 | 2022-06-01 |
@@ -329,6 +329,7 @@
 | [We are](https://open.spotify.com/track/3bfrNRRF94n5zrD0lDOsvk) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [We are](https://open.spotify.com/album/64IjHxJpoN3QeR5OWOanDa) | 3:33 | 2022-08-23 | 2022-08-25 |
 | [We Only Live Once](https://open.spotify.com/track/2TvCPgip8oF2Qk0GuIhLRJ) | [LOVE](https://open.spotify.com/artist/01qky80h3z8t7F1DrDufyu) | [We Only Live Once](https://open.spotify.com/album/3PvpnMnKzHtp7XNYEqgXS1) | 3:31 | 2022-07-26 | 2022-08-03 |
 | [WEEKEND](https://open.spotify.com/track/2AJNDcXp8IwJ48IL868i92) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [WEEKEND](https://open.spotify.com/album/6itx7fTirph9qbUKidhIoQ) | 3:28 | 2022-06-02 | 2022-07-20 |
+| [Who Am I](https://open.spotify.com/track/35X8bc2o33vDfitEWjXVJu) | [Abe mao](https://open.spotify.com/artist/693KkQwUKXRxGPNo5RtRzH) | [Who Am I](https://open.spotify.com/album/5drwYlTLTM7AeatiYTemgY) | 4:59 | 2022-08-25 |  |
 | [Who Are You](https://open.spotify.com/track/6l50VsBz2P3MaWBOiUUxac) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [Who Are You](https://open.spotify.com/album/0YNMv9mhlMRlC1haWTbYbH) | 4:03 | 2022-05-29 | 2022-07-27 |
 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 | 2022-07-20 | 2022-08-04 |
 | [Winding Road](https://open.spotify.com/track/7M9JmUQLDwU6iwhfIhMmBP) | [Riho Sayashi](https://open.spotify.com/artist/1YTdqGyGxK0qx14Yn4lDnh) | [Reflection](https://open.spotify.com/album/4FEl9oa81Tbgc8Vpg1hYTd) | 4:15 | 2022-06-07 | 2022-07-11 |

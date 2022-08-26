@@ -1,13 +1,33 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 7425,
+  "num_followers": 7437,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY5NTA5MCwwMDAwMDAwMDJkMmNjMzQxYmVmZjkwMjVhZmJkZmM1NTZmNzY0NDE3",
+  "snapshot_id": "MTY2MTQ2MTE0MCwwMDAwMDAwMGU4YTc4ZjZmOTQ5MDZlZjdkNTYyNmZlMzU4OGNmMWY0",
   "tracks": [
+    {
+      "added_at": "2022-08-25 20:59:00",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/2ts5wKcg6bvwzDutdpfFAj"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Nawekulo",
+          "url": "https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes"
+        }
+      ],
+      "duration_ms": 177245,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/44YtzfSlmFcDPozHlfeivt"
+    },
     {
       "added_at": "2022-08-05 10:24:50",
       "album": {
@@ -49,6 +69,22 @@
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
     },
     {
+      "added_at": "2022-08-25 20:59:00",
+      "album": {
+        "name": "Slow wine",
+        "url": "https://open.spotify.com/album/7EwzSy0JPsa4zzmYEWX4T5"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 123624,
+      "name": "Slow wine",
+      "url": "https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca"
+    },
+    {
       "added_at": "2022-01-27 20:59:00",
       "album": {
         "name": "Camille",
@@ -81,20 +117,20 @@
       "url": "https://open.spotify.com/track/4Ajby5KmiabXW8U22I6wKC"
     },
     {
-      "added_at": "2022-06-23 20:59:00",
+      "added_at": "2022-08-25 20:59:00",
       "album": {
-        "name": "An Alien in Minneapolis",
-        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
+        "name": "Kampala",
+        "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
       },
       "artists": [
         {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
         }
       ],
-      "duration_ms": 259607,
-      "name": "An Alien In Minneapolis - Edit",
-      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
+      "duration_ms": 189544,
+      "name": "Kampala",
+      "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
     },
     {
       "added_at": "2022-03-25 05:44:05",
@@ -111,82 +147,6 @@
       "duration_ms": 232967,
       "name": "Entebbe",
       "url": "https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E"
-    },
-    {
-      "added_at": "2022-06-24 08:58:58",
-      "album": {
-        "name": "Quick Fix",
-        "url": "https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV"
-      },
-      "artists": [
-        {
-          "name": "Matt Ngesa",
-          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
-        }
-      ],
-      "duration_ms": 193584,
-      "name": "Quick Fix",
-      "url": "https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub"
-    },
-    {
-      "added_at": "2022-05-19 20:59:00",
-      "album": {
-        "name": "Passenger 555",
-        "url": "https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS"
-      },
-      "artists": [
-        {
-          "name": "Jinku",
-          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
-        },
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        }
-      ],
-      "duration_ms": 195596,
-      "name": "Passenger 555",
-      "url": "https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ"
-    },
-    {
-      "added_at": "2022-07-08 07:28:44",
-      "album": {
-        "name": "Minutes",
-        "url": "https://open.spotify.com/album/6etqTIrfFLoRxslu3kbwZC"
-      },
-      "artists": [
-        {
-          "name": "Shully",
-          "url": "https://open.spotify.com/artist/4os0GkCkfwC8HUjKn7wULI"
-        },
-        {
-          "name": "Yuzko",
-          "url": "https://open.spotify.com/artist/2WkJBd6ga7SI7QTcQVydEG"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Minutes",
-      "url": "https://open.spotify.com/track/6f7KmU1InKkiW3UegkWj09"
-    },
-    {
-      "added_at": "2022-06-02 20:59:00",
-      "album": {
-        "name": "HERE THEY COME",
-        "url": "https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 139750,
-      "name": "HERE THEY COME",
-      "url": "https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu"
     },
     {
       "added_at": "2022-03-17 20:59:00",
@@ -243,6 +203,26 @@
       "duration_ms": 133537,
       "name": "Belinda",
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
+    },
+    {
+      "added_at": "2022-07-08 07:28:44",
+      "album": {
+        "name": "Minutes",
+        "url": "https://open.spotify.com/album/6etqTIrfFLoRxslu3kbwZC"
+      },
+      "artists": [
+        {
+          "name": "Shully",
+          "url": "https://open.spotify.com/artist/4os0GkCkfwC8HUjKn7wULI"
+        },
+        {
+          "name": "Yuzko",
+          "url": "https://open.spotify.com/artist/2WkJBd6ga7SI7QTcQVydEG"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Minutes",
+      "url": "https://open.spotify.com/track/6f7KmU1InKkiW3UegkWj09"
     },
     {
       "added_at": "2022-04-01 09:26:34",
@@ -355,6 +335,78 @@
       "duration_ms": 206769,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/4UHMy4KxMAAEu4dSSHMe8h"
+    },
+    {
+      "added_at": "2022-06-23 20:59:00",
+      "album": {
+        "name": "An Alien in Minneapolis",
+        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 259607,
+      "name": "An Alien In Minneapolis - Edit",
+      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
+    },
+    {
+      "added_at": "2022-06-24 08:58:58",
+      "album": {
+        "name": "Quick Fix",
+        "url": "https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV"
+      },
+      "artists": [
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        }
+      ],
+      "duration_ms": 193584,
+      "name": "Quick Fix",
+      "url": "https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub"
+    },
+    {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
+        "name": "Passenger 555",
+        "url": "https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "duration_ms": 195596,
+      "name": "Passenger 555",
+      "url": "https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ"
+    },
+    {
+      "added_at": "2022-06-02 20:59:00",
+      "album": {
+        "name": "HERE THEY COME",
+        "url": "https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 139750,
+      "name": "HERE THEY COME",
+      "url": "https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu"
     },
     {
       "added_at": "2022-06-02 20:59:00",
@@ -1033,22 +1085,6 @@
       "url": "https://open.spotify.com/track/3W7ZhocyMpK2b4MxwbpGu5"
     },
     {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Sky Up Above",
-        "url": "https://open.spotify.com/album/4BguiMoE15dCHo5mG2tMv0"
-      },
-      "artists": [
-        {
-          "name": "Michelle Gatuiku",
-          "url": "https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT"
-        }
-      ],
-      "duration_ms": 394613,
-      "name": "For Hawi",
-      "url": "https://open.spotify.com/track/0sa9IqP77NArCvVe1MkdBp"
-    },
-    {
       "added_at": "2021-12-09 20:59:00",
       "album": {
         "name": "Microwave",
@@ -1121,22 +1157,6 @@
       "url": "https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC"
     },
     {
-      "added_at": "2021-11-11 20:59:00",
-      "album": {
-        "name": "IFIEVERCANTMAKEIT.JPG",
-        "url": "https://open.spotify.com/album/5EUP2zubhoYrkO9kGFgIfd"
-      },
-      "artists": [
-        {
-          "name": "emawk",
-          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
-        }
-      ],
-      "duration_ms": 341785,
-      "name": "AMADOU.JPG",
-      "url": "https://open.spotify.com/track/4mchgg9m8p0F4pgTx2jD7C"
-    },
-    {
       "added_at": "2021-10-29 06:04:39",
       "album": {
         "name": "Echoes (Remix)",
@@ -1183,26 +1203,6 @@
       "duration_ms": 211612,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5mCGTPQcA0XK2ApGmIaXx2"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Terene",
-        "url": "https://open.spotify.com/album/5t5G9vRwwqqaloR0DxSOTD"
-      },
-      "artists": [
-        {
-          "name": "Blinky Bill",
-          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
-        },
-        {
-          "name": "Kommanda Obbs",
-          "url": "https://open.spotify.com/artist/1ZfZwBPYz6nAQK4H0Ybd2v"
-        }
-      ],
-      "duration_ms": 207276,
-      "name": "Terene",
-      "url": "https://open.spotify.com/track/7AWNG9r1Rlv8YdLUd09AKi"
     },
     {
       "added_at": "2021-11-11 20:59:00",

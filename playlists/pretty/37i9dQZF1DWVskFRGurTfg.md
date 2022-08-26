@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica: Foto: Rels B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,648,156 likes - 106 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,649,024 likes - 106 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Love songs from your favorite films!
 
-118 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/5n4bAfqXL1AIL7z3Ma3gPK)
+119 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/5n4bAfqXL1AIL7z3Ma3gPK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Can You Feel the Love Tonight \- End Title/ From "The Lion King"/Soundtrack Version](https://open.spotify.com/track/0EANX0OVKSCcmarY50Xa4p) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 4:01 | 2022-01-11 |  |
 | [Can't Fight The Moonlight](https://open.spotify.com/track/10FP9hm2aFfAIKEopqaG9D) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Coyote Ugly](https://open.spotify.com/album/0XxoyBssbnR7VB8YmtVzLD) | 3:35 | 2022-01-11 |  |
 | [Change the World](https://open.spotify.com/track/3jYr59dZBKzFa7Ji7be6fT) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Phenomenon \(Music From The Motion Picture\)](https://open.spotify.com/album/7lRLCWZAAi6GPBGllbmmuV) | 3:54 | 2022-01-11 |  |
-| [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 | 2022-01-11 |  |
+| [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 | 2022-01-11 | 2022-08-26 |
+| [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2022-01-11 |  |
 | [Colorblind](https://open.spotify.com/track/5ssj9xyYxA2TDlFu13fAkY) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Cruel Intentions](https://open.spotify.com/album/5H4t4yeimHOxZrPwcsdw2V) | 3:25 | 2022-01-11 |  |
 | [Come What May \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/5cCAnk1sHJDdqqNIScOkZU) | [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq), [Ewan McGregor](https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1) | [Moulin Rouge](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) | 4:48 | 2022-01-11 |  |
 | [Darlin'](https://open.spotify.com/track/3JmErgvRZYPf6eQi24VUR0) | [Bambi Lee Savage](https://open.spotify.com/artist/6Q3CyiDnJoQYwAjtzhsete) | [Sling Blade \(Music from the Motion Picture\)](https://open.spotify.com/album/5ZxB7uT6C3miZvvhCY5EIR) | 3:35 | 2022-01-11 |  |

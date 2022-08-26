@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,593 likes - 70 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,644 likes - 70 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 66 | [Big Rock Candy Mountain](https://open.spotify.com/track/3xZ0xSnBXCCnhANkmbg4YT) | [Maggie Griffin](https://open.spotify.com/artist/5TWIJoMCdZwMwGfBu3itIi) | [Country for Kids Volume 1 : I Like Folk Songs](https://open.spotify.com/album/6DTys0pk985arZ3te1NsBM) | 1:25 |
 | 67 | [Chicken Dinner Song](https://open.spotify.com/track/0RR5ogfmCy25MTo95n5kLA) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:19 |
 | 68 | [Skip to My Lou](https://open.spotify.com/track/5mbwoWoIUulWO7M8ojU3RV) | [Cisco Houston](https://open.spotify.com/artist/1N5hj4BNumkXa8D3fyfMYE) | [Cisco Houston](https://open.spotify.com/album/1PBjD5r7GmDGdXv47bQMZi) | 2:51 |
-| 69 | [The Tailor and the Mouse](https://open.spotify.com/track/2GROeDv4VmlGbM80k3KHX4) | [Glenn Yarbrough](https://open.spotify.com/artist/4GxVmha4ELBwUE4bPyChzS) | [Come and Sit by My Side](https://open.spotify.com/album/11ES2isDgMh7BpZTlKFU6a) | 1:34 |
+| 69 | [Pop! Goes the Weasle](https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [45 Nursery Rhymes](https://open.spotify.com/album/37LRo39cJ69EjKNKG0peTO) | 0:49 |
 | 70 | [Cloud Watching \(Sky's the Limit\)](https://open.spotify.com/track/66GZrUvch1MIDHrfQfIFSw) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 3:15 |
 
-Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMDUzZmIxMzhmNTBkMzEyZWE3ODIyZjY1MDQ3NzE5ZTA4`
+Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMDg0MmEzODJlNmVmMWZlYWRhNDcxZTk0Yjc1ZmYwNTg3`

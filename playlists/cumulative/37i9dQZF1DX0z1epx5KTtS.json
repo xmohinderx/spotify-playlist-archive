@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Serge Beynaud",
+  "description": "African dance party music from Paris to Abidjan. Photo : Bello Falcao",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "published_playlist_ids": [
     "05NUJhg2S8ET7TkDhLag5G"
@@ -546,6 +546,28 @@
     },
     {
       "album": {
+        "name": "Il est La",
+        "url": "https://open.spotify.com/album/6Y6MoYzQ5addwNF2LbrND1"
+      },
+      "artists": [
+        {
+          "name": "Indira",
+          "url": "https://open.spotify.com/artist/3CJLLE7BahDjeTeHVtdRdP"
+        },
+        {
+          "name": "Ks Bloom",
+          "url": "https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221647,
+      "name": "Il est La",
+      "url": "https://open.spotify.com/track/6zblCpRhFYqF3yP9HBdMKq"
+    },
+    {
+      "album": {
         "name": "Je n'ai rien fait",
         "url": "https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl"
       },
@@ -651,7 +673,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 207874,
       "name": "Kulumba",
       "url": "https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH"
@@ -705,7 +727,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 421013,
       "name": "La col\u00e8re du lion",
       "url": "https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC"
@@ -843,7 +865,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 172893,
       "name": "Mami Wata",
       "url": "https://open.spotify.com/track/07KaEXxno8BhXI6UKZcy1U"
@@ -1057,6 +1079,24 @@
       "duration_ms": 218286,
       "name": "Rebelotte",
       "url": "https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8"
+    },
+    {
+      "album": {
+        "name": "Retour \u00e0 l'envoyeur",
+        "url": "https://open.spotify.com/album/2WOzhUZkErZQG4s07tV8Sl"
+      },
+      "artists": [
+        {
+          "name": "Anderson 1er",
+          "url": "https://open.spotify.com/artist/2MF2HhouHc4XEbRl7N6Jpp"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233379,
+      "name": "Retour \u00e0 l'envoyeur",
+      "url": "https://open.spotify.com/track/1TPJuA1nHM2YoVQ1AAEJ4O"
     },
     {
       "album": {
@@ -1389,6 +1429,24 @@
       "duration_ms": 183669,
       "name": "Zendaka",
       "url": "https://open.spotify.com/track/7BlelZjPQgRSTPhKAEkauM"
+    },
+    {
+      "album": {
+        "name": "\u00c7a me fait",
+        "url": "https://open.spotify.com/album/44cCWmdLfoYuYLmWfhPfzE"
+      },
+      "artists": [
+        {
+          "name": "Chouchou Salvador",
+          "url": "https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222772,
+      "name": "\u00c7a me fait",
+      "url": "https://open.spotify.com/track/621YkVNvsCKXHh45xfsewd"
     },
     {
       "album": {

@@ -92,7 +92,7 @@
     },
     {
       "album": {
-        "name": "Adipoli",
+        "name": "Adipoli (From \"Think Originals\")",
         "url": "https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy"
       },
       "artists": [
@@ -113,7 +113,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172750,
-      "name": "Adipoli",
+      "name": "Adipoli (From \"Think Originals\")",
       "url": "https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4"
     },
     {
@@ -511,6 +511,24 @@
       "duration_ms": 286040,
       "name": "Chippi Kooptan",
       "url": "https://open.spotify.com/track/2axEkmBxTImc565wMJqw58"
+    },
+    {
+      "album": {
+        "name": "Crack",
+        "url": "https://open.spotify.com/album/3UM0gnmOYK7WzVtNUmLRsp"
+      },
+      "artists": [
+        {
+          "name": "NM Linges",
+          "url": "https://open.spotify.com/artist/7F1xpPdr8TnUyGcUJsbDVT"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248108,
+      "name": "Crack",
+      "url": "https://open.spotify.com/track/5G84D0D1IpS1zJrmdOYyBx"
     },
     {
       "album": {
@@ -3803,8 +3821,8 @@
           "url": "https://open.spotify.com/artist/0q8QdG0mSd53lLe86M72ix"
         },
         {
-          "name": "S. Subramanian",
-          "url": "https://open.spotify.com/artist/6SVbybcQvMWUq4UdqgJjki"
+          "name": "Santhosh Subramanian",
+          "url": "https://open.spotify.com/artist/7d4tFjDmt8IhOMtudYjIuu"
         }
       ],
       "date_added": "2022-08-12",

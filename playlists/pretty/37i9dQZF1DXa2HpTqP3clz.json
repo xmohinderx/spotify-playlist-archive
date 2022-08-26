@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Tray Wellington",
-  "num_followers": 109172,
+  "num_followers": 109217,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NzMwOSwwMDAwMDAwMDA0ZWYyN2FkZjcyYmJlODBiZjg0Mzk5YmM1ZDRiZWQy",
+  "snapshot_id": "MTY2MDI0NzMwOSwwMDAwMDAwMDM4Yzc5MmQwNDkxNTU5MTIwMTQwMGY0MDgyZjk0ZjVj",
   "tracks": [
     {
       "added_at": "2022-08-11 19:48:29",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-08-11 19:48:29",
       "album": {
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Edges Run",
+      "url": "https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x"
+    },
+    {
+      "added_at": "2022-08-11 19:48:29",
+      "album": {
         "name": "Echo In The Valley",
         "url": "https://open.spotify.com/album/4go0nUSCyfDJGPnN33FWhe"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 202053,
       "name": "If I Could Talk To A Younger Me",
       "url": "https://open.spotify.com/track/4QFM3QnPlyqDz0l5gdfeUs"
-    },
-    {
-      "added_at": "2022-08-11 19:48:29",
-      "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Edges Run",
-      "url": "https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x"
     },
     {
       "added_at": "2022-08-11 19:48:29",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-08-11 19:48:29",
       "album": {
-        "name": "North of Despair",
-        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
-      },
-      "artists": [
-        {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 216229,
-      "name": "Lies & Money",
-      "url": "https://open.spotify.com/track/1e3OLCYKGvvWpTB7KsUPj3"
-    },
-    {
-      "added_at": "2022-08-11 19:48:29",
-      "album": {
         "name": "Honey on My Tongue",
         "url": "https://open.spotify.com/album/05H2cjz5UyKcNXkZAVw0vn"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 203346,
       "name": "Honey on My Tongue",
       "url": "https://open.spotify.com/track/7dWU9dceisIvOkZuteFl1A"
+    },
+    {
+      "added_at": "2022-08-11 19:48:29",
+      "album": {
+        "name": "North of Despair",
+        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 216229,
+      "name": "Lies & Money",
+      "url": "https://open.spotify.com/track/1e3OLCYKGvvWpTB7KsUPj3"
     },
     {
       "added_at": "2022-08-11 19:48:29",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-08-11 19:48:29",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/3B6rXVRd0W6KkRpWNDSCdF"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/0yFEjOFIloELuqQZoYJZR1"
-    },
-    {
-      "added_at": "2022-08-11 19:48:29",
-      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2022-08-11 19:48:29",
       "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2022-08-11 19:48:29",
+      "album": {
         "name": "Laws Of Gravity",
         "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
       },
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-08-11 19:48:29",
       "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/3B6rXVRd0W6KkRpWNDSCdF"
       },
       "artists": [
         {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
         }
       ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/0yFEjOFIloELuqQZoYJZR1"
     },
     {
       "added_at": "2022-08-11 19:48:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-08-11 19:48:29",
       "album": {
-        "name": "Sidetrack My Engine",
-        "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
-    },
-    {
-      "added_at": "2022-08-11 19:48:29",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 153968,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
+    },
+    {
+      "added_at": "2022-08-11 19:48:29",
+      "album": {
+        "name": "Sidetrack My Engine",
+        "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
     },
     {
       "added_at": "2022-08-11 19:48:29",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-08-11 19:48:29",
       "album": {
-        "name": "Spirit to the Sea",
-        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
-      },
-      "artists": [
-        {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Last Chance",
-      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
-    },
-    {
-      "added_at": "2022-08-11 19:48:29",
-      "album": {
         "name": "Not Our First Goat Rodeo",
         "url": "https://open.spotify.com/album/4NDXeXypRq8YdFCKqg4sAn"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 219826,
       "name": "The Trappings",
       "url": "https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z"
+    },
+    {
+      "added_at": "2022-08-11 19:48:29",
+      "album": {
+        "name": "Spirit to the Sea",
+        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
+      },
+      "artists": [
+        {
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
     },
     {
       "added_at": "2022-08-11 19:48:29",
@@ -1611,34 +1611,18 @@
     {
       "added_at": "2022-08-11 19:48:29",
       "album": {
-        "name": "How It Ends",
-        "url": "https://open.spotify.com/album/2FftzfiRpzlPwSXpKgisJi"
+        "name": "John",
+        "url": "https://open.spotify.com/album/5pm6q0j3jSQAki4Oa2SjSV"
       },
       "artists": [
         {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
         }
       ],
-      "duration_ms": 199840,
-      "name": "How It Ends",
-      "url": "https://open.spotify.com/track/0QNGlcB83H133AoEFggtRP"
-    },
-    {
-      "added_at": "2022-08-11 19:48:29",
-      "album": {
-        "name": "Sister Sadie",
-        "url": "https://open.spotify.com/album/5ImW9Rgw0hvn5Sh1naKrur"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Unholy Water",
-      "url": "https://open.spotify.com/track/2oEXzg6PzHXQ3Mt6Ar4fYt"
+      "duration_ms": 175466,
+      "name": "John",
+      "url": "https://open.spotify.com/track/611n0K4uwT68HQSYUN7FQC"
     },
     {
       "added_at": "2022-08-11 19:48:29",
@@ -1663,18 +1647,34 @@
     {
       "added_at": "2022-08-11 19:48:29",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/7q9msRiLtqEhNAfBmyHc2e"
+        "name": "Sister Sadie",
+        "url": "https://open.spotify.com/album/5ImW9Rgw0hvn5Sh1naKrur"
       },
       "artists": [
         {
-          "name": "We Banjo 3",
-          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
         }
       ],
-      "duration_ms": 225504,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/4DlXQQanDfpRKxUSMOsxmL"
+      "duration_ms": 204826,
+      "name": "Unholy Water",
+      "url": "https://open.spotify.com/track/2oEXzg6PzHXQ3Mt6Ar4fYt"
+    },
+    {
+      "added_at": "2022-08-11 19:48:29",
+      "album": {
+        "name": "How It Ends",
+        "url": "https://open.spotify.com/album/2FftzfiRpzlPwSXpKgisJi"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 199840,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/0QNGlcB83H133AoEFggtRP"
     },
     {
       "added_at": "2022-08-11 19:48:29",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2022-08-11 19:48:29",
       "album": {
-        "name": "John",
-        "url": "https://open.spotify.com/album/5pm6q0j3jSQAki4Oa2SjSV"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/7q9msRiLtqEhNAfBmyHc2e"
       },
       "artists": [
         {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+          "name": "We Banjo 3",
+          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
         }
       ],
-      "duration_ms": 175466,
-      "name": "John",
-      "url": "https://open.spotify.com/track/611n0K4uwT68HQSYUN7FQC"
+      "duration_ms": 225504,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/4DlXQQanDfpRKxUSMOsxmL"
     },
     {
       "added_at": "2022-08-11 19:48:29",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2022-08-11 19:48:29",
       "album": {
-        "name": "Open The Road",
-        "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/64afIjMlFKOxbrkWT5rO12"
       },
       "artists": [
         {
-          "name": "We Banjo 3",
-          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
+          "name": "Carolina Blue",
+          "url": "https://open.spotify.com/artist/1MpKDPxi8FYXI0nffT057W"
         }
       ],
-      "duration_ms": 178182,
-      "name": "Alive With You",
-      "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
+      "duration_ms": 189853,
+      "name": "Too Wet to Plow",
+      "url": "https://open.spotify.com/track/5RtoqHi2cZGyKlojWxa0it"
     }
   ],
   "unique_name": "Grass Roots",

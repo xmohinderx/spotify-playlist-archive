@@ -4,7 +4,7 @@
 
 > Pop\-punk, emo, post\-hardcore, alternative \- it's whatever you want it to be\. Cover: Sueco
 
-799 songs - 1 day 18 hr 53 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+800 songs - 1 day 18 hr 55 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,7 @@
 | [Medicine](https://open.spotify.com/track/7EjQmae7fFXTXfQszaEewb) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [breathe](https://open.spotify.com/album/2F2RkJb7kGZitRS6C8O2XT) | 3:11 | 2021-12-10 | 2022-05-20 |
 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 | 2022-05-20 |  |
 | [MEMORY\_FRACTURE](https://open.spotify.com/track/0iTRaGiDId80CearDCsyLC) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [MEMORY\_FRACTURE](https://open.spotify.com/album/6ZMsqaNvqJTVLij2sNJfUc) | 4:18 | 2022-06-17 | 2022-08-03 |
-| [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU) | 2:19 | 2022-05-20 |  |
+| [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU) | 2:19 | 2022-05-20 | 2022-08-26 |
 | [Messed Up](https://open.spotify.com/track/0WuzhNWNs6HNXtEYMIfuyA) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Every Second](https://open.spotify.com/album/4jWzsoD0s0VHSkdIifg9QE) | 2:36 | 2021-12-10 | 2022-07-13 |
 | [Messed Up Summer](https://open.spotify.com/track/7sGY4Alflf7Y9RUhRFHo1b) | [Nevrlands](https://open.spotify.com/artist/1DNIohNOTsWcoNmp5sx3yx) | [Messed Up Summer](https://open.spotify.com/album/3yhBG5JKxaaH2XOigzL7gH) | 3:20 | 2021-12-10 | 2022-07-12 |
 | [Midnight Thoughts](https://open.spotify.com/track/0rJzsc89WVFLnFEeksmOZO) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Midnight Thoughts](https://open.spotify.com/album/4ArNx4hVW0qUGlLORpmnnE) | 2:57 | 2022-03-25 | 2022-04-20 |
@@ -735,6 +735,7 @@
 | [Twisted Tongues](https://open.spotify.com/track/3WEerYUbUTVFCWE3gcADiz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Twisted Tongues / Escape From Los Angeles](https://open.spotify.com/album/4VSk5cWQF6BfFOLkaJB7kE) | 4:01 | 2021-12-10 | 2022-07-29 |
 | [Two Graves](https://open.spotify.com/track/35XPeKsKcUuaEivFOasq0l) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Two Graves](https://open.spotify.com/album/4YHtQbxkr0JwuSwonHWN7E) | 3:52 | 2021-12-10 | 2022-07-22 |
 | [U 2](https://open.spotify.com/track/25akoaDy47WRQSHccLHzMf) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [U 2](https://open.spotify.com/album/67hXDTDFQJQFnG9BXtnOLW) | 3:31 | 2022-05-20 | 2022-07-25 |
+| [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 | 2022-08-22 |  |
 | [ultimatum](https://open.spotify.com/track/5hZnL59ovt3isPLAhPaLa0) | [Wolf Culture](https://open.spotify.com/artist/7tWnzObEKAJDApTe0OKs7X), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [ultimatum](https://open.spotify.com/album/1BhMfSlvy4ItxtoS2G8J2y) | 4:01 | 2022-02-04 | 2022-04-19 |
 | [Ultraviolet](https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 2:53 | 2022-05-20 | 2022-08-03 |
 | [UNCOMPLICATED](https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [UNCOMPLICATED](https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn) | 2:29 | 2021-12-10 |  |

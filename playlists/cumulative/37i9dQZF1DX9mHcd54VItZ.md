@@ -2,9 +2,9 @@
 
 ### [SA Rock Essentials](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO?si=O3eWhkVkSa6Frw6gZCvImw">Black Cat Bones</a>
+> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz?si=0Q0OnJy5StCjRQ68\-f\_T9A">Sold Ash</a>
 
-121 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
+126 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Awake](https://open.spotify.com/track/63y0EHsPzQ7BQSBgRVeFO7) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/5PIw46MHfW0Su1TWH3KrlH) | 4:20 | 2022-04-28 |  |
 | [Badluck](https://open.spotify.com/track/7kR0o7XKyLiKxqqu98bupO) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 0:52 | 2022-02-10 | 2022-02-18 |
 | [Begin Van Die Einde](https://open.spotify.com/track/7kfWuIVQ0vqTxBA5hAIbzG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Begin Van Die Einde](https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa) | 3:28 | 2021-02-25 |  |
-| [Believer](https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5) | [Fuzigish](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Believer](https://open.spotify.com/album/0MX2naV6uywiYfLqPEYyvK) | 4:20 | 2022-02-17 |  |
+| [Believer](https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Believer](https://open.spotify.com/album/0MX2naV6uywiYfLqPEYyvK) | 4:20 | 2022-02-17 |  |
 | [BLAH BLAH BLAH](https://open.spotify.com/track/5ncpsijPbqSkfej6b8PGjw) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [BLAH BLAH BLAH](https://open.spotify.com/album/282KDJUgTAO64N8HMeiUAR) | 1:52 | 2022-07-21 |  |
 | [Bones](https://open.spotify.com/track/0QFgIdxhhn6QzPT5Ndnm7E) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/2H1yVakFRyooDlWkX2o3on) | 3:43 | 2021-10-07 | 2022-08-04 |
 | [Bones](https://open.spotify.com/track/5xbhhW2S2vbfrhMrblZJ0l) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/5vJEmUbdVJJ38GzwpoJs52) | 3:43 | 2021-10-07 | 2022-08-09 |
@@ -33,6 +33,8 @@
 | [Demons](https://open.spotify.com/track/1ks9wTTBtoKDviVn0UzU0e) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk), [Bobby XX](https://open.spotify.com/artist/7M22xUpObTRyRjHa5b3frp) | [Demons](https://open.spotify.com/album/6E37QS4o6fWjdAQ6mHhaK8) | 2:05 | 2022-01-21 |  |
 | [Didn't Want To Fall In Love With You \- Radio Edit](https://open.spotify.com/track/1SLwPTrcTMwEDX2b7pQp8s) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Didn't Want To Fall In Love With You \(Radio Edit\)](https://open.spotify.com/album/6mxPuV54mjYg3kOYDNOkgh) | 2:55 | 2021-11-25 | 2022-07-29 |
 | [Doesn't Mean You](https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ) | [Gary Collocott](https://open.spotify.com/artist/0dO6phXesjIuCd0nr1EKvO) | [Doesn't Mean You](https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY) | 3:15 | 2021-06-24 | 2022-02-18 |
+| [Down \- Remastered](https://open.spotify.com/track/50lAUbTwVsGu97tj3j6cGi) | [Naranjo](https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R) | [Saints and Sinners \(Remastered\)](https://open.spotify.com/album/4kopPPmW09PGMnh85jojya) | 3:40 | 2022-08-25 |  |
+| [Drunk 'n Irate](https://open.spotify.com/track/25vGUFIheFaFNOdl0T8APH) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Drunk 'n Irate](https://open.spotify.com/album/5JyKQ7U1Cy5xucch8ZVFaF) | 2:33 | 2022-08-25 |  |
 | [Druppels](https://open.spotify.com/track/6jZR5jBiTTfWIlR0dIlZnc) | [Gevoel van Veiligheid](https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS) | [Druppels](https://open.spotify.com/album/719CSrqyLBVI2KKrr1hDeL) | 3:49 | 2022-03-03 |  |
 | [Eisbein](https://open.spotify.com/track/4dv4j1YkymrFPZEiEjyofL) | [Yndian Mynah](https://open.spotify.com/artist/5vPZcy1yojk3MN9D2g1c0C) | [Eisbein](https://open.spotify.com/album/1qbb2G6mIZsigTkoS9jR0U) | 5:12 | 2021-11-11 | 2022-08-05 |
 | [Electrosexual](https://open.spotify.com/track/3yLUIXM52P3jEj7AWLr5oz) | [Sulene](https://open.spotify.com/artist/3H0Mdkhat3ZJFgKxLHEymg) | [Electrosexual](https://open.spotify.com/album/3oOfRxQVNY46FgsNC3BT24) | 3:13 | 2022-03-24 |  |
@@ -45,6 +47,7 @@
 | [EX\-GIRLFRIEND](https://open.spotify.com/track/6z2gZVqlUUhl0ilSSDpFY8) | [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [EX\-GIRLFRIEND](https://open.spotify.com/album/6D5taPEIOdazo0DMHRRJnQ) | 2:25 | 2022-03-24 | 2022-08-05 |
 | [EX\-GIRLFRIEND \- Radio Edit](https://open.spotify.com/track/1gyaVHGHkYeyFcckiMZ3Zz) | [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [EX\-GIRLFRIEND \(Radio Edit\)](https://open.spotify.com/album/5jvtsz7stvqP9tjSNqGXUS) | 2:25 | 2022-03-17 |  |
 | [Fade](https://open.spotify.com/track/5d0j1i2GP8XwXbLqBUgkcz) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Fade](https://open.spotify.com/album/0ahHE8vBjPVQ1zr2tji7L0) | 5:11 | 2021-09-02 | 2022-07-22 |
+| [FAKE LOVE](https://open.spotify.com/track/4yCzdEiGPcpcDQ87fG4nHS) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [FAKE LOVE](https://open.spotify.com/album/2EuqxVxPLgeVGrIri3Tbhs) | 2:53 | 2022-08-25 |  |
 | [Feast Or Famine](https://open.spotify.com/track/6fKV6whgdABjr9iJBlhJAa) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Feast Or Famine](https://open.spotify.com/album/3E3xF6HFKSqhi9dT8hO1wq) | 4:33 | 2021-07-15 | 2022-07-29 |
 | [Fight Song for a Funeral](https://open.spotify.com/track/1RDxGpz9HVRfhc966hUCa2) | [Jake Bennett](https://open.spotify.com/artist/3chSPsmCBrOXJXD4o86p5Y) | [Fight Songs for a Funeral](https://open.spotify.com/album/7z250E9LHwElD5B7DmbZNN) | 2:41 | 2021-11-25 | 2022-05-27 |
 | [Flashlight](https://open.spotify.com/track/4Wyp39FezkRqfmm1m862ve) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Flashlight](https://open.spotify.com/album/6GfNLxzDAHsoYuVBylzslj) | 2:37 | 2021-07-01 |  |
@@ -54,7 +57,7 @@
 | [Hollow](https://open.spotify.com/track/629X30psE0HDVwMflpkOKm) | [Soul Suture](https://open.spotify.com/artist/1GKLeylQc3yEtf4ulo0fmA), [Fred Honig](https://open.spotify.com/artist/3BJIJ0jOquRFcoRJn5yPAf) | [The Art of Escape / The Escape of Art](https://open.spotify.com/album/3IdU7v0EYjbZgfztsrZCKl) | 4:03 | 2021-09-02 | 2022-03-18 |
 | [Hounds Loose](https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Hounds Loose](https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO) | 3:44 | 2021-11-25 | 2022-08-05 |
 | [How To Feel](https://open.spotify.com/track/1tj3R3NipqoiaWj4gVLoHT) | [Daniel Baron](https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl) | [City Of God & The Jungle Below](https://open.spotify.com/album/5yb4js7PRWrxekpSYLgW2x) | 4:29 | 2021-12-02 |  |
-| [Howl A Little Louder](https://open.spotify.com/track/1zZW0LFdXBHrF6iGhTxphL) | [Sold Ash](https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz) | [Howl A Little Louder](https://open.spotify.com/album/2DisJ8JCLVpMhxQJ1QmJ4P) | 3:15 | 2022-08-04 |  |
+| [Howl A Little Louder](https://open.spotify.com/track/1zZW0LFdXBHrF6iGhTxphL) | [Sold Ash](https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz) | [Howl A Little Louder](https://open.spotify.com/album/2DisJ8JCLVpMhxQJ1QmJ4P) | 3:15 | 2022-08-04 | 2022-08-26 |
 | [I Feel Fine](https://open.spotify.com/track/38vkHnCGWGvUaj6Y56Ejnj) | [Billy Inglish](https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC) | [I Feel Fine](https://open.spotify.com/album/51jmh9S7sUGP5j2oBtwmOv) | 3:08 | 2022-02-25 | 2022-08-05 |
 | [I Never Listen When You Speak](https://open.spotify.com/track/2mTWLZCUEbeivHDf1ssVos) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk) | [I Never Listen When You Speak](https://open.spotify.com/album/1h5If2qALyxObLZv9Wd7jN) | 2:35 | 2022-03-17 | 2022-07-22 |
 | [In Search of Better Days](https://open.spotify.com/track/3jywquF2vpOwQoKfQ5Nv2Y) | [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF) | [A World at Suicide](https://open.spotify.com/album/1qxiiW0tmFS9RtARMdxXXe) | 4:44 | 2021-09-23 | 2022-04-01 |
@@ -70,7 +73,7 @@
 | [Like Fire](https://open.spotify.com/track/03g3AEXXS0sVDkTWQv51eX) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:34 | 2022-02-03 |  |
 | [Lonely Road](https://open.spotify.com/track/7c5dtWi2N1DBmEwIBWangX) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Lonely Road](https://open.spotify.com/album/5O7lOQew1oBQHZ4ndqKESK) | 3:15 | 2021-05-05 | 2022-03-04 |
 | [Loveless](https://open.spotify.com/track/7iQui052V5iZA7cPzBJ98M) | [De Wallen](https://open.spotify.com/artist/3n6PF2KnptY1WuDGFguiXF) | [Street Fight Sonata](https://open.spotify.com/album/5fnZOHN3JZLNQ208awZyNk) | 3:11 | 2021-02-18 | 2022-01-22 |
-| [Man Down](https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3) | [Fuzigish](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Man Down](https://open.spotify.com/album/6yPesYP8A3zZWXKpc1s8PV) | 4:20 | 2022-04-07 |  |
+| [Man Down](https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Man Down](https://open.spotify.com/album/6yPesYP8A3zZWXKpc1s8PV) | 4:20 | 2022-04-07 |  |
 | [Mayhem](https://open.spotify.com/track/1MDc7PDmDGCmogKJO2OkjC) | [Alanna Joy](https://open.spotify.com/artist/4EVOaWmv3mIsrqm4Oxyo9k), [Lost//Youth](https://open.spotify.com/artist/4BdFQrwkW4xye28RMbrfOo) | [Mayhem](https://open.spotify.com/album/53wKblbUHvMxx3pUskWF74) | 4:05 | 2021-05-28 | 2022-01-22 |
 | [Monkey Mind](https://open.spotify.com/track/05PILc8wNotPdvMeukiElo) | [The Vast Oddity](https://open.spotify.com/artist/0s9M3dghDINHO5fCiS3SsO) | [Monkey Mind](https://open.spotify.com/album/5sk24XesYQp0EHH4HzBa0J) | 2:56 | 2021-11-11 | 2022-03-18 |
 | [My Favourite Place](https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [My Favourite Place](https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11) | 3:29 | 2021-12-02 |  |
@@ -93,6 +96,7 @@
 | [She's Got Soul](https://open.spotify.com/track/4NAUucEzZCxoZqSlX5mrXg) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [She's got Soul](https://open.spotify.com/album/6ensgFJIR7fQOtYDnKzUAq) | 3:09 | 2021-05-05 |  |
 | [She's My Prison](https://open.spotify.com/track/5RhOozvlBujH7KsRCTzxcy) | [L.A\. Cobra](https://open.spotify.com/artist/0zNNwyg2hDNqsmvxCyvHDs) | [She's My Prison](https://open.spotify.com/album/1nRv2ODqAVDimTiTHWGUvf) | 3:33 | 2022-03-31 | 2022-08-05 |
 | [Sick & Tired](https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF) | [Dyluded](https://open.spotify.com/artist/1cyrURNf08hhvsfg6nltEW) | [Sick & Tired](https://open.spotify.com/album/74orOdhwPWJdySoAUoQXYE) | 2:32 | 2021-11-11 |  |
+| [Silver Foyer](https://open.spotify.com/track/7z0kfDxyBzRkHxoEEjQxU7) | [Sold Ash](https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz) | [Howl A Little Louder Just Don't Spit In My Mouth](https://open.spotify.com/album/33Lu72KGrREZEPh7py0il7) | 3:53 | 2022-08-25 |  |
 | [Silwer](https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Silwer](https://open.spotify.com/album/6P5AWCkCPJyb3UPbeaoB2F) | 3:41 | 2021-09-02 |  |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-06 | 2022-07-22 |
 | [Slipping Away](https://open.spotify.com/track/2KgfOqr3H3Hh6cwaAQeWcy) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:17 | 2022-02-03 |  |
@@ -128,6 +132,7 @@
 | [Window](https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4) | [Moskitos](https://open.spotify.com/artist/1643brtMFWJOJSX9E3kEzY) | [Adieu Or Die](https://open.spotify.com/album/3T85yUoMOP2izbfZjpIBZt) | 3:12 | 2022-03-24 | 2022-08-05 |
 | [Wolves](https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ) | [Kat](https://open.spotify.com/artist/4rB9lKJyTJ6LI6mccmA5EW), [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Wolves](https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3) | 3:35 | 2022-01-21 |  |
 | [Woman of My Own Damn Mind](https://open.spotify.com/track/6F6gMyGT1L3uCEgaIIT8Nl) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [Woman of My Own Damn Mind](https://open.spotify.com/album/6SMEvTVAfvoQNTnRdJA2Bp) | 3:13 | 2022-08-04 |  |
+| [YOU2ME](https://open.spotify.com/track/6BeR3yIHr9O6ZjQzmpXN2Z) | [Lokaly](https://open.spotify.com/artist/2xMgbeCaxqn40elRsuLMf4) | [YOU2ME](https://open.spotify.com/album/5Y98Ocf2q2Y3i4Lkw1ap3x) | 2:51 | 2022-08-25 |  |
 | [Your Best Friend Hates Me 2](https://open.spotify.com/track/7tAo2VzcrgL4a0KAZsU2HV) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [Your Best Friend Hates Me 2](https://open.spotify.com/album/3cxN0iVrpeWaBHUJnVcaCu) | 2:45 | 2021-10-07 | 2022-05-27 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

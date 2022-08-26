@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Glass Animals, Arooj Aftab, and The Kid LAROI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,825 likes - 778 songs - 1 day 23 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,943 likes - 778 songs - 1 day 23 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -746,8 +746,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 736 | [Strange Fruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3RTDAzlEemeaQTGGLWCqZV) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Spotify Singles](https://open.spotify.com/album/56P9jRbQcFQ8KOBW17xI00) | 2:37 |
 | 737 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 |
 | 738 | [What's Going On \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:35 |
-| 739 | [Cash Machine \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3roqNPQr2sWy9I7nkdhR6h) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Spotify Singles](https://open.spotify.com/album/1N7l9Oc5FiLQhqQ7mJ66bm) | 3:36 |
-| 740 | [Special \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/672Yznm7YxhHVPHp4YbMja) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Spotify Singles](https://open.spotify.com/album/1N7l9Oc5FiLQhqQ7mJ66bm) | 2:41 |
+| 739 | [Cash Machine \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3roqNPQr2sWy9I7nkdhR6h) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Spotify Singles](https://open.spotify.com/album/1N7l9Oc5FiLQhqQ7mJ66bm) | 3:36 |
+| 740 | [Special \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/672Yznm7YxhHVPHp4YbMja) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Spotify Singles](https://open.spotify.com/album/1N7l9Oc5FiLQhqQ7mJ66bm) | 2:41 |
 | 741 | [cool girl \- Recorded at Spotify Studios, NYC / 2016](https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 3:24 |
 | 742 | [What I Want For The Night \(Bitches\) \- Recorded at Spotify Studios, NYC](https://open.spotify.com/track/2HSQ1gTnaziihf8TMnw5c7) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 2:28 |
 | 743 | [Higher \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6wZkI07C2wRQE2W3LkW9Uk) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/2ospU0wa9ux7r054JMFbEL) | 3:38 |

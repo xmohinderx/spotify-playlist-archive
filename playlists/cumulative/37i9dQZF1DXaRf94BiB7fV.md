@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Bharat Chauhan, Artwork: Isu Kim
+> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Aary, Artwork: Isu Kim
 
-544 songs - 1 day 8 hr 35 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
+545 songs - 1 day 8 hr 38 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Dastaan](https://open.spotify.com/track/1pVmV0lZ0vLzRLduyRxUqA) | [Shravan Mantri](https://open.spotify.com/artist/5KI5Muz5nOdv5V3DlkBonu) | [Dastaan](https://open.spotify.com/album/33VPepcqo3P788RBzh1bQw) | 3:36 | 2022-08-03 |  |
 | [Deedar E Khuda](https://open.spotify.com/track/69tialKK7peEbfsvO5yGuF) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Zaheed Damani](https://open.spotify.com/artist/4uKsp6zWZgIUiacEHQIQCr) | [Deedar E Khuda](https://open.spotify.com/album/0r2FIHY4qqZ3W14mhi59iG) | 5:38 | 2022-05-04 | 2022-06-23 |
 | [Deewani Mastani](https://open.spotify.com/track/1iqEEy8D4PCpMn0IGKqeSQ) | [Anurag Sahu](https://open.spotify.com/artist/0Z5kYwJk2YLVgwuE8TdGZZ) | [Deewani Mastani](https://open.spotify.com/album/1PhO0sVxlWDZ2yPXctuEL3) | 3:02 | 2022-06-15 |  |
-| [Dekho Wahaan Pe \- Four Lane](https://open.spotify.com/track/10pzp3sppIrKAi5ak31DPU) | [Gamak](https://open.spotify.com/artist/6qMwHOGfIumxsVWPQl5sfN) | [Dekho Wahaan Pe \(Four Lane\)](https://open.spotify.com/album/3pRNNflZfxEJNWS3IISp1d) | 3:09 | 2022-05-18 |  |
+| [Dekho Wahaan Pe \- Four Lane](https://open.spotify.com/track/10pzp3sppIrKAi5ak31DPU) | [Gamak](https://open.spotify.com/artist/6qMwHOGfIumxsVWPQl5sfN) | [Dekho Wahaan Pe \(Four Lane\)](https://open.spotify.com/album/3pRNNflZfxEJNWS3IISp1d) | 3:09 | 2022-05-18 | 2022-08-26 |
 | [destiny](https://open.spotify.com/track/703MCSYlznQHA5mcTQ2wB6) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [destiny](https://open.spotify.com/album/0cuqzPlbihVTYU4MYp8eMh) | 2:48 | 2022-02-16 | 2022-03-24 |
 | [Dhaage](https://open.spotify.com/track/1YHnsw5xO7w5eck4FrBPPW) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Dhaage](https://open.spotify.com/album/6UcteRSKERxRKaaAc6rHsX) | 3:16 | 2022-03-16 | 2022-07-21 |
 | [Diary](https://open.spotify.com/track/4eO3IqF9x7MWmW3rDYcPzt) | [Aakash Rijia](https://open.spotify.com/artist/41EGOwB47gkCtiDhfNRKqO), [Diptanshu Tiwari](https://open.spotify.com/artist/59mS8hSfhbkJoQNQ4BwaDk), [Waseem Kazi](https://open.spotify.com/artist/5sMYVVgiBFIijUPXsDxN37) | [Diary](https://open.spotify.com/album/0t8605FkHapnU78MDXeoB5) | 3:36 | 2022-08-03 |  |
@@ -120,6 +120,7 @@
 | [Dooron Dooron](https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Shiv Tandan](https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP), [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Dooron Dooron](https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6) | 3:35 | 2022-01-19 | 2022-03-10 |
 | [Dost](https://open.spotify.com/track/6mAS5MJosLoWmrHMbiV6op) | [Anant Gupta](https://open.spotify.com/artist/0nptmUtu2Q12lzvpMt34vE) | [Dost](https://open.spotify.com/album/7EdqspIC3VuNoFm0bf8acA) | 3:28 | 2022-02-16 | 2022-03-24 |
 | [dream of us](https://open.spotify.com/track/0l7VNbhj3a6scNGsJROtV1) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [dream of us](https://open.spotify.com/album/6t6ErqxYEVxfvDKWdGjVJU) | 5:21 | 2021-12-01 | 2022-01-13 |
+| [Drunk In The Afternoon](https://open.spotify.com/track/2p2bJ743WQpqcwhnD4MXDP) | [Aary](https://open.spotify.com/artist/2wo8VCzhPjs1ofWeIQ7fkM) | [Drunk In The Afternoon](https://open.spotify.com/album/1QTA4p5MoLa7AlSh0RgZhS) | 3:30 | 2022-08-25 |  |
 | [Drunk on Passion](https://open.spotify.com/track/18wCMBPAr6OUBpPoh4nYBa) | [Vandita Narayan](https://open.spotify.com/artist/6k6LdpUwieQgchelMoU4II), [wetgropes](https://open.spotify.com/artist/3HFBXat240jHTARqhawT0W), [Radon](https://open.spotify.com/artist/6Flb5sdDClY8CWNecFcJLy) | [Drunk on Passion](https://open.spotify.com/album/0C4KW1ZsRyW2gQqmbQgfNp) | 2:58 | 2021-12-01 | 2022-01-13 |
 | [Easily](https://open.spotify.com/track/5fdYOozo411bAafTNWX6DN) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9) | [Easily](https://open.spotify.com/album/4FSeQHEuHHlOVzk8VybLgQ) | 3:17 | 2022-07-20 |  |
 | [ecstasy](https://open.spotify.com/track/2tIpTQjjwfKvmyW6UbBq9v) | [shae](https://open.spotify.com/artist/20yaj5X7bXqTr7QY1q5VlB) | [ecstasy](https://open.spotify.com/album/1ovG3bOQvtbjNl9UC3dNcf) | 3:43 | 2022-08-10 |  |
@@ -369,7 +370,7 @@
 | [Pavlov's Web](https://open.spotify.com/track/3LnqEjI3ah1Zf6kkSCtgkq) | [Keshav Iyengar](https://open.spotify.com/artist/0UxdZGJNvgHfM9gFeEr99W) | [Seeing Faces](https://open.spotify.com/album/5cY4R5A00WBIz6m2bLRGi1) | 3:43 | 2022-01-19 | 2022-01-27 |
 | [Payaliya Jhankaar](https://open.spotify.com/track/0BOGGFXTMfUOfxrasa41hs) | [Anjali Gaikwad](https://open.spotify.com/artist/0moRS5SepzNxum0J5tpL1f), [Nandini Gaikwad](https://open.spotify.com/artist/78VN7vMgRbDesA3bL7Aokq) | [Payaliya Jhankaar](https://open.spotify.com/album/3WMKCc5jI7aYnxJEgwwMkn) | 6:05 | 2022-03-16 | 2022-04-07 |
 | [Peak of Sunshine](https://open.spotify.com/track/687zR2EMtvCYQPodugs344) | [Vernon Noronha](https://open.spotify.com/artist/6CWRHbheSR5BwvtjDP7S6T) | [Winds and the Murky Seas](https://open.spotify.com/album/70AlD14BSPK45IzXhedJ5A) | 2:51 | 2021-12-01 | 2022-01-13 |
-| [Pebbles In A River](https://open.spotify.com/track/5P2r0HMdmq7s14V0dtozhr) | [Nav's Hook](https://open.spotify.com/artist/5mzMIkIsGaD0PvwYvlHSqg) | [Pebbles In A River](https://open.spotify.com/album/6gYEeD6WdQdHYJWQGe5YhG) | 4:02 | 2022-06-22 |  |
+| [Pebbles In A River](https://open.spotify.com/track/5P2r0HMdmq7s14V0dtozhr) | [Nav's Hook](https://open.spotify.com/artist/5mzMIkIsGaD0PvwYvlHSqg) | [Pebbles In A River](https://open.spotify.com/album/6gYEeD6WdQdHYJWQGe5YhG) | 4:02 | 2022-06-22 | 2022-08-26 |
 | [Pedh Tum Darzi](https://open.spotify.com/track/5egECSQez9LtESVAe7lsE3) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Pedh Tum Darzi](https://open.spotify.com/album/64URP2n0IFONpGxyJf40kt) | 2:12 | 2022-04-27 | 2022-07-07 |
 | [Pehra](https://open.spotify.com/track/1MVhlOgfAGplNo91TmjSuA) | [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc) | [Pehra](https://open.spotify.com/album/2WsORAvfZc4ZwotHyQ6vOK) | 4:36 | 2021-12-01 | 2022-03-10 |
 | [Perfect World](https://open.spotify.com/track/3meBFy64QMATfZgIa9loka) | [Dot](https://open.spotify.com/artist/722IxdTOv0LDhowW0lT69r) | [Perfect World](https://open.spotify.com/album/0KIQ41yFqNUSu0klsEGl9g) | 4:34 | 2022-01-12 | 2022-01-20 |

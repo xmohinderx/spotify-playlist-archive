@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Hot Chip
 
-521 songs - 1 day 6 hr 39 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+522 songs - 1 day 6 hr 42 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [CRAY CRAY](https://open.spotify.com/track/4TWfqCndoNB9iXs9PNZ4qS) | [The Sulis Club](https://open.spotify.com/artist/27vU0dOcGeurMc8VYTSfsQ) | [CRAY CRAY](https://open.spotify.com/album/6N5p0VTqHdBmeQKgumUyx5) | 3:15 | 2022-06-24 | 2022-07-30 |
 | [Cruel](https://open.spotify.com/track/0SxQz5uPZ5cAGWzj6MvzrX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Cruel](https://open.spotify.com/album/2XVAjpwJNlbMQF5N7cGfIf) | 3:15 | 2022-07-29 |  |
 | [Crutch](https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Crutch](https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi) | 3:43 | 2021-12-16 | 2022-01-14 |
-| [Crying in the Club](https://open.spotify.com/track/2i2ctngb7IE9IhoZ3AA1Ey) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Crying in the Club](https://open.spotify.com/album/0EAQUkyRH0RUBHzzt9Sr42) | 3:05 | 2022-08-18 |  |
+| [Crying in the Club](https://open.spotify.com/track/2i2ctngb7IE9IhoZ3AA1Ey) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Crying in the Club](https://open.spotify.com/album/0EAQUkyRH0RUBHzzt9Sr42) | 3:05 | 2022-08-18 | 2022-08-26 |
+| [Crying in the Club](https://open.spotify.com/track/440bHvLOgExwePapxmMtGI) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/3GuSAYm0w5TMJ6k0qeftwt) | 3:05 | 2022-08-18 |  |
 | [Curious](https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Curious](https://open.spotify.com/album/6ostRuT5nyWNNuuaAE2FMX) | 2:49 | 2022-01-28 | 2022-03-11 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-10 | 2022-07-30 |
 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 | 2021-12-16 | 2022-04-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Chapter & Verse
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,516 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,716 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 18 | [We Make It Pop](https://open.spotify.com/track/4VH8x8g1v3BfERMMEHpudm) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [We Make It Pop](https://open.spotify.com/album/1xSKqKJAjZseHGYhBnVXgw) | 2:16 |
 | 19 | [In & Out \(feat\. Modern Lover\)](https://open.spotify.com/track/624KQ6MFOrY8q1EOH6YGzf) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Modern Lover](https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35) | [In & Out \(feat\. Modern Lover\)](https://open.spotify.com/album/1zcftBmZHr5Xczlc361Eza) | 3:47 |
 | 20 | [Come To Me](https://open.spotify.com/track/3e5WbxGdEKAjOeXtQdcBSX) | [Lauren Flax](https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7), [Chrissy](https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE) | [Come To Me](https://open.spotify.com/album/7LRKgJRwFnvplWWyFy7DuN) | 5:37 |
-| 21 | [Gettoblaster \- Edit](https://open.spotify.com/track/3xE2stSQacoD0Czsqvvvnw) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG) | [Watchout Now](https://open.spotify.com/album/7ejGwT8P1gs3EhN3qnNpjx) | 2:52 |
+| 21 | [Watchout Now \- Edit](https://open.spotify.com/track/3xE2stSQacoD0Czsqvvvnw) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG) | [Watchout Now](https://open.spotify.com/album/7ejGwT8P1gs3EhN3qnNpjx) | 2:52 |
 | 22 | [Pan Jabi](https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Pan Jabi](https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G) | 2:47 |
 | 23 | [Paradise](https://open.spotify.com/track/3I3SHcoEiaoLSgfdryn3Om) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Paradise](https://open.spotify.com/album/4nCUEhrKxJnDtDz63uY93h) | 2:43 |
 | 24 | [Take Flight](https://open.spotify.com/track/6FAGFcIJfSzuDDk2Rbz3pi) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb) | [Take Flight EP](https://open.spotify.com/album/5cPX28V6vYst2hq01jwxTR) | 4:07 |

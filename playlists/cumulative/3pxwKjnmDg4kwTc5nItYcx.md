@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Carla Wehbe
 
-615 songs - 1 day 9 hr 11 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+618 songs - 1 day 9 hr 20 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Hazel](https://open.spotify.com/track/5HG8in1JeRSmGCJPz0Sa7E) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Junk](https://open.spotify.com/album/6sid9RN71tWaLOSkmQ2x3d) | 3:21 | 2019-08-27\* | 2020-02-12 |
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2022-01-21 |  |
 | [Head To Toe](https://open.spotify.com/track/22vVXX39APvqsmNlNPOXtt) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Head To Toe](https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc) | 3:04 | 2022-06-02 |  |
+| [Headlines](https://open.spotify.com/track/3rCqxc1NxdXVDfQCszKuDL) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV) | [Where Do We Go When The World Ends](https://open.spotify.com/album/0DrmVqgUtt708fY8IY15TJ) | 3:52 | 2022-08-26 |  |
 | [Hearts Too Big \- Acoustic](https://open.spotify.com/track/4DtIPkAIeyRM2flxx3fHdI) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Bad At Love \(Acoustic EP\)](https://open.spotify.com/album/51jgDkeQPnZiZ8eayzwsUA) | 3:15 | 2020-09-11 | 2021-01-29 |
 | [Heaven](https://open.spotify.com/track/1NZLDZsqmvMVcZ02VT7ocP) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Heaven](https://open.spotify.com/album/6EuPz5zzV6JLMZKrb7LIsu) | 2:33 | 2022-08-19 |  |
 | [Heaven](https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:49 | 2021-02-12 |  |
@@ -371,6 +372,7 @@
 | [Must Have Been The Wind](https://open.spotify.com/track/1PsMieVYFXrSeXMxuE2SbG) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Must Have Been The Wind](https://open.spotify.com/album/0A5GgdYeE7UJDnBeXuZWma) | 2:59 | 2019-08-27\* | 2020-02-12 |
 | [My Bad](https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [My Bad](https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7) | 2:57 | 2021-03-19 |  |
 | [My Blood](https://open.spotify.com/track/5Kbs3VFeFt4VL9gWKyzvYI) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [My Blood](https://open.spotify.com/album/76IDokLpzr6w9FNGHD6GdN) | 2:42 | 2021-03-26 |  |
+| [MY CREW](https://open.spotify.com/track/69lA326spIjyXyQthnWnFO) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [MY CREW](https://open.spotify.com/album/04PdPm2Qws60W6OrgZ1xnM) | 2:32 | 2022-08-26 |  |
 | [My Cue To Leave](https://open.spotify.com/track/0yZg4i44jsRzHevuJYo5Wv) | [DOOLIE](https://open.spotify.com/artist/52IMdPUhmYfGU7daNnmHVA), [PNK FME](https://open.spotify.com/artist/2bgybpPNvCy5o5ZRVOo6wu) | [My Cue To Leave](https://open.spotify.com/album/5rT0fhZr2RU48auUg9QHGq) | 3:18 | 2020-11-10 | 2021-05-12 |
 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 | 2020-07-31 | 2021-05-12 |
 | [My Heart](https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Under the Surface](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) | 3:16 | 2019-08-27\* | 2019-11-11 |
@@ -616,6 +618,7 @@
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-08-07 |  |
 | [Witness](https://open.spotify.com/track/5M5EBLfvEqME293O0xchWX) | [Client Liaison](https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ) | [Divine Intervention](https://open.spotify.com/album/78DTvdE1hoKG6Dm7qA7sFS) | 4:15 | 2021-10-02 |  |
 | [Write It Down](https://open.spotify.com/track/0kPIrtp3youhat1nkmPACX) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Write It Down](https://open.spotify.com/album/04QYg0Crlk7ZQDEtUuR6zi) | 3:35 | 2019-11-01 | 2020-04-06 |
+| [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-26 |  |
 | [YOU \(feat\. New Zealand Symphony Orchestra\)](https://open.spotify.com/track/6UqVebsCryLzb2JNzTZ1xy) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM) | [Coming In From The Dark](https://open.spotify.com/album/0tjAAn3o0FPW3Fmqxf8ogq) | 4:44 | 2021-10-22 |  |
 | [You Can Run](https://open.spotify.com/track/14q8xNdQVRRjdUD9dmhNqu) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [You Can Run](https://open.spotify.com/album/2YK4GAgsaSuIPVYkIMuPh2) | 2:41 | 2022-08-12 |  |
 | [You Know Wassup](https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Know Wassup](https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt) | 3:21 | 2019-11-25 | 2020-03-25 |

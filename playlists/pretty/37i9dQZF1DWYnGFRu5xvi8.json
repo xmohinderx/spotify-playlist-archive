@@ -1,12 +1,12 @@
 {
   "description": "New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series. \u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 59762,
+  "num_followers": 59805,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDg2Nzg4MCwwMDAwMDAwMGUzZjRhYWFiMjU0ZDY3ZWI5N2E0MDcxOTA5YThkMDk1",
+  "snapshot_id": "MTYxNDg2Nzg4MCwwMDAwMDAwMDlhMThiMTFiYjhmZThiOWY4ZmUxY2QxZGRkNTU1Yjg5",
   "tracks": [
     {
       "added_at": "2021-03-04 14:24:40",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "DISSIDIA FINAL FANTASY Original Soundtrack",
-        "url": "https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw"
-      },
-      "artists": [
-        {
-          "name": "Bill Xtillidiex Muir",
-          "url": "https://open.spotify.com/artist/1sshOKBw5a0pPxCfyRbULD"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Otherworld",
-      "url": "https://open.spotify.com/track/094ROwNMso3g8wHYg89dAV"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
         "name": "FINAL FANTASY XIII-2 Original Soundtrack",
         "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 216480,
       "name": "Plains of Eternity",
       "url": "https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
+        "name": "DISSIDIA FINAL FANTASY Original Soundtrack",
+        "url": "https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw"
+      },
+      "artists": [
+        {
+          "name": "Bill Xtillidiex Muir",
+          "url": "https://open.spotify.com/artist/1sshOKBw5a0pPxCfyRbULD"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Otherworld",
+      "url": "https://open.spotify.com/track/094ROwNMso3g8wHYg89dAV"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
-        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
-      },
-      "artists": [
-        {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
-        }
-      ],
-      "duration_ms": 135186,
-      "name": "Why (CCFFVII Mix)",
-      "url": "https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
         "name": "FINAL FANTASY XV Original Soundtrack (Volume 2\u30102/2\u3011)",
         "url": "https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 199466,
       "name": "Welcome Home - Journey's End",
       "url": "https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
+        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
+        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
+      },
+      "artists": [
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        }
+      ],
+      "duration_ms": 135186,
+      "name": "Why (CCFFVII Mix)",
+      "url": "https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -783,8 +783,8 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+        "name": "FINAL FANTASY XIII Original Soundtrack",
+        "url": "https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt"
         }
       ],
-      "duration_ms": 116920,
-      "name": "FINAL FANTASY XIII-2 - Wishes -",
-      "url": "https://open.spotify.com/track/50BlgWI61TOVUE1Pc37yKm"
+      "duration_ms": 146053,
+      "name": "Lightning's Theme",
+      "url": "https://open.spotify.com/track/2yR1KxI9rCl28RsUjL5iJT"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
+        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
       },
       "artists": [
         {
-          "name": "David Whitaker",
-          "url": "https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q"
+          "name": "\u4e0a\u677e\u7bc4\u5eb7",
+          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Worlds Collide",
-      "url": "https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r"
+      "duration_ms": 147360,
+      "name": "Peaceful Village",
+      "url": "https://open.spotify.com/track/3dczGbKVYW0I8YAyn8fNOz"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
-        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
       },
       "artists": [
         {
-          "name": "\u4e0a\u677e\u7bc4\u5eb7",
-          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
+          "name": "David Whitaker",
+          "url": "https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q"
         }
       ],
-      "duration_ms": 147360,
-      "name": "Peaceful Village",
-      "url": "https://open.spotify.com/track/3dczGbKVYW0I8YAyn8fNOz"
+      "duration_ms": 202826,
+      "name": "Worlds Collide",
+      "url": "https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
+        "name": "FINAL FANTASY XI Original Soundtrack",
+        "url": "https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR"
+      },
+      "artists": [
+        {
+          "name": "Kumi Tanioka",
+          "url": "https://open.spotify.com/artist/5HL9S0Mswux7fri8YVxz3B"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Gustaberg",
+      "url": "https://open.spotify.com/track/7rlBWutBNvmMhEL0CToKY6"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
         "name": "FINAL FANTASY Type-0 HD Original Soundtrack",
         "url": "https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "FINAL FANTASY XI Original Soundtrack",
-        "url": "https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR"
-      },
-      "artists": [
-        {
-          "name": "Kumi Tanioka",
-          "url": "https://open.spotify.com/artist/5HL9S0Mswux7fri8YVxz3B"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Gustaberg",
-      "url": "https://open.spotify.com/track/7rlBWutBNvmMhEL0CToKY6"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
         "name": "FINAL FANTASY TACTICS Original Soundtrack",
         "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 180120,
       "name": "\u300cPrelude - menu -\u300d from DISSIDIA FINAL FANTASY",
       "url": "https://open.spotify.com/track/21yzCKqAqVaBYes3Gz8P9t"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
-        "name": "FINAL FANTASY Type-0 HD Original Soundtrack",
-        "url": "https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa"
-      },
-      "artists": [
-        {
-          "name": "Takeharu Ishimoto",
-          "url": "https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Vermilion Fire",
-      "url": "https://open.spotify.com/track/64pImaYYNBURfYutBLIB3o"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -1455,22 +1439,6 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "FINAL FANTASY XII Original Soundtrack",
-        "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
-      },
-      "artists": [
-        {
-          "name": "\u5d0e\u5143\u4ec1",
-          "url": "https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "The Dalmasca Estersand",
-      "url": "https://open.spotify.com/track/0J3xaF18seu4K8ULB7qHc4"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
         "name": "FINAL FANTASY TACTICS Original Soundtrack",
         "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
@@ -1487,6 +1455,38 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
+        "name": "FINAL FANTASY Type-0 HD Original Soundtrack",
+        "url": "https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa"
+      },
+      "artists": [
+        {
+          "name": "Takeharu Ishimoto",
+          "url": "https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Vermilion Fire",
+      "url": "https://open.spotify.com/track/64pImaYYNBURfYutBLIB3o"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
+        "name": "FINAL FANTASY XII Original Soundtrack",
+        "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
+      },
+      "artists": [
+        {
+          "name": "\u5d0e\u5143\u4ec1",
+          "url": "https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "The Dalmasca Estersand",
+      "url": "https://open.spotify.com/track/0J3xaF18seu4K8ULB7qHc4"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
         "name": "DISSIDIA FINAL FANTASY Original Soundtrack",
         "url": "https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 149080,
       "name": "\u300cBattle at the Big Bridge - arrange -\u300d from FINAL FANTASY V",
       "url": "https://open.spotify.com/track/4mhti55dmnpfcWliFxwyOV"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
-        "name": "FINAL FANTASY Type-0 HD Original Soundtrack",
-        "url": "https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa"
-      },
-      "artists": [
-        {
-          "name": "Takeharu Ishimoto",
-          "url": "https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9"
-        }
-      ],
-      "duration_ms": 382666,
-      "name": "UTAKATA",
-      "url": "https://open.spotify.com/track/6KBhmo3rW6tgIpKanqFpYw"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -1547,6 +1531,22 @@
       "duration_ms": 176800,
       "name": "Penelo's Theme",
       "url": "https://open.spotify.com/track/3JOMe1Euw73kqH2qb4dRJX"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
+        "name": "FINAL FANTASY Type-0 HD Original Soundtrack",
+        "url": "https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa"
+      },
+      "artists": [
+        {
+          "name": "Takeharu Ishimoto",
+          "url": "https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9"
+        }
+      ],
+      "duration_ms": 382666,
+      "name": "UTAKATA",
+      "url": "https://open.spotify.com/track/6KBhmo3rW6tgIpKanqFpYw"
     },
     {
       "added_at": "2021-03-04 14:24:40",

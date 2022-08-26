@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,332 likes - 68 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,339 likes - 68 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 6 | [Mornings](https://open.spotify.com/track/644y88i3U334LMhPoZTcDT) | [Jeff Kaale](https://open.spotify.com/artist/6HbFnvkO1zsyxqyyfbNRwL), [Pryces](https://open.spotify.com/artist/6e4SoZqhV4nKK3pT2JNrkx), [Tolan](https://open.spotify.com/artist/4YSua4qFdfh8JgRxOW9EoC) | [Pollen](https://open.spotify.com/album/3xGQfBTcwFldugMp29gTOw) | 3:26 |
 | 7 | [Beautiful Sight](https://open.spotify.com/track/1q7YLk9kfjT50SieSeaMGr) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps](https://open.spotify.com/album/0cxjSNYlOa8o8WlqVTwu8T) | 3:15 |
 | 8 | [Scootaloo](https://open.spotify.com/track/6pPdSiA17dUM773DCRFhUx) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sheep Rotation](https://open.spotify.com/album/6bFbqW19wGg6rdrrMkHowW) | 2:27 |
-| 9 | [simple.](https://open.spotify.com/track/5Gg98ul6huBLdp3KWjv6te) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [simple.](https://open.spotify.com/album/5STU3mX52ys78YiKuqhC0a) | 1:57 |
+| 9 | [simple.](https://open.spotify.com/track/0zDK7gAioDcF4g4eEpWYka) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [simple.](https://open.spotify.com/album/6dqUM4SWXJXrzd1lm2BJaG) | 1:57 |
 | 10 | [Dawn Chorus](https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Dawn Chorus](https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD) | 3:28 |
 | 11 | [Cloudy Sky](https://open.spotify.com/track/0Pu5tXngp1meWKE1uRSozW) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Lazy Days.](https://open.spotify.com/album/7wWP7n8LylYgQsrEz97fvp) | 2:43 |
 | 12 | [Good Night](https://open.spotify.com/track/2mh27Sd7puP6zYWE2dvxGL) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Good Night](https://open.spotify.com/album/1BxAOeGLqkXNZgEgfJSf5K) | 2:59 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 67 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 |
 | 68 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 
-Snapshot ID: `MTY1NzUyOTY0MywwMDAwMDAwMGNmOGUzOTI0ZDVhNWMxNzFkYjM5OTJmNDc1YzI1ODEz`
+Snapshot ID: `MTY1NzUyOTY0MywwMDAwMDAwMGFjZTZjODAyYWRiNzExOTZiY2FlNjZkNjRiNWU4NmRk`

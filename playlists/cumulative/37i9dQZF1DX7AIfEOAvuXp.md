@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-142 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
+143 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [\(BLACK\)PLANET](https://open.spotify.com/track/7oCnWqmhuAIDnjWnBIuucm) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [\(BLACK\)PLANET](https://open.spotify.com/album/1LNUG7AMp0nJtHxYY1ObAW) | 1:53 | 2020-12-07 |  |
 | [100 Rounds](https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [100 Rounds](https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp) | 2:12 | 2020-12-07 |  |
 | [777](https://open.spotify.com/track/5GfNUR8fEjBWVj7NDhFbSl) | [Skeleton Club](https://open.spotify.com/artist/0mOedQDhVFd4i2a69wDR2R) | [777](https://open.spotify.com/album/67xksZSESsdyA8fWQyeUy1) | 2:47 | 2020-12-07 |  |
-| [a little bit won't kill you but a lot of it sure will](https://open.spotify.com/track/0BYH5Od9fvSFPvpIhD3DlU) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [a little bit won't kill you but a lot of it sure will](https://open.spotify.com/album/7pkxkDX424EOeQAU13woLL) | 2:50 | 2020-12-07 |  |
+| [a little bit won't kill you but a lot of it sure will](https://open.spotify.com/track/0BYH5Od9fvSFPvpIhD3DlU) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [a little bit won't kill you but a lot of it sure will](https://open.spotify.com/album/7pkxkDX424EOeQAU13woLL) | 2:50 | 2020-12-07 | 2022-08-26 |
+| [a little bit won't kill you but a lot of it sure will](https://open.spotify.com/track/0mUJxZi2lZazzJ2tpNjhYH) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [a little bit won't kill you but a lot of it sure will](https://open.spotify.com/album/2m6ka5YftvSVvEIa4QRaXq) | 2:50 | 2020-12-07 |  |
 | [Afterglow](https://open.spotify.com/track/02b4Ndz5u5JY3Ve512vNqd) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Afterglow](https://open.spotify.com/album/6Q1KVHPwszH4q8o3yS6tt6) | 3:18 | 2020-12-07 | 2022-07-29 |
 | [Afterglow](https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:18 | 2020-12-07 |  |
 | [AMBER](https://open.spotify.com/track/29wrhqZUPQFPjREFM6vayu) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/1iIGc6gmBf9I0iWYPpjZLU) | 3:31 | 2020-12-07 |  |

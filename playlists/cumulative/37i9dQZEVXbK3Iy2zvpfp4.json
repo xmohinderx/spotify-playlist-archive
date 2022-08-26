@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 177524,
       "name": "Afraid To Feel",
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 195823,
       "name": "All the Things I Hate About You",
       "url": "https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW"
@@ -1412,6 +1412,24 @@
     },
     {
       "album": {
+        "name": "Ele Te Bota Soca Soca",
+        "url": "https://open.spotify.com/album/06SOrEJslEzlBWq2y2ixoX"
+      },
+      "artists": [
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181045,
+      "name": "Ele Te Bota Soca Soca",
+      "url": "https://open.spotify.com/track/6z7FLfYEQ5h2wkyEIgVibB"
+    },
+    {
+      "album": {
         "name": "KIDS (Bonus Edition)",
         "url": "https://open.spotify.com/album/2q5LInjIt8EqR4QNGxH6hq"
       },
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 198805,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
@@ -2439,7 +2457,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 103440,
       "name": "L$d",
       "url": "https://open.spotify.com/track/5sB488CAydCbJ8YWsBulnA"
@@ -2457,10 +2475,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 103440,
       "name": "L$d",
       "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
+    },
+    {
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "album": {
@@ -2573,7 +2609,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 162875,
       "name": "Love Lost",
       "url": "https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi"
@@ -3718,6 +3754,28 @@
     },
     {
       "album": {
+        "name": "RAGNAROK",
+        "url": "https://open.spotify.com/album/45pOAmgOLYGcAU9r4yscc9"
+      },
+      "artists": [
+        {
+          "name": "chyxz",
+          "url": "https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG"
+        },
+        {
+          "name": "SLOWYMANE",
+          "url": "https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195714,
+      "name": "RAGNAROK",
+      "url": "https://open.spotify.com/track/1sWb35nydLCjD71JGURDEv"
+    },
+    {
+      "album": {
         "name": "RAVE",
         "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
       },
@@ -4313,7 +4371,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 224727,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0fThlG4YBkCsRVSJkGpWAX"

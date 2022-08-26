@@ -1,13 +1,29 @@
 {
-  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO?si=O3eWhkVkSa6Frw6gZCvImw\">Black Cat Bones</a>",
-  "num_followers": 10800,
+  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz?si=0Q0OnJy5StCjRQ68-f_T9A\">Sold Ash</a>",
+  "num_followers": 10809,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDM0MCwwMDAwMDAwMDMyNTI1ZDIyNzZiODU4ZDA1ODAzNDIyYzAwNTdmYzUw",
+  "snapshot_id": "MTY2MTQ2NDc0MCwwMDAwMDAwMDc3ZjhmMjNjODhhOTI1MTU1YmQ3ZWY3NmZiOTYzYjg0",
   "tracks": [
+    {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
+        "name": "Howl A Little Louder Just Don't Spit In My Mouth",
+        "url": "https://open.spotify.com/album/33Lu72KGrREZEPh7py0il7"
+      },
+      "artists": [
+        {
+          "name": "Sold Ash",
+          "url": "https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz"
+        }
+      ],
+      "duration_ms": 233185,
+      "name": "Silver Foyer",
+      "url": "https://open.spotify.com/track/7z0kfDxyBzRkHxoEEjQxU7"
+    },
     {
       "added_at": "2022-07-28 21:59:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 204106,
       "name": "The Waltz",
       "url": "https://open.spotify.com/track/1o75mFZMjlWXDupelG6AM7"
+    },
+    {
+      "added_at": "2021-09-02 21:59:00",
+      "album": {
+        "name": "Silwer",
+        "url": "https://open.spotify.com/album/6P5AWCkCPJyb3UPbeaoB2F"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 221715,
+      "name": "Silwer",
+      "url": "https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs"
     },
     {
       "added_at": "2022-07-21 21:59:00",
@@ -55,22 +87,6 @@
       "duration_ms": 230186,
       "name": "Leech",
       "url": "https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5"
-    },
-    {
-      "added_at": "2021-09-02 21:59:00",
-      "album": {
-        "name": "Silwer",
-        "url": "https://open.spotify.com/album/6P5AWCkCPJyb3UPbeaoB2F"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 221715,
-      "name": "Silwer",
-      "url": "https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs"
     },
     {
       "added_at": "2021-11-18 21:59:00",
@@ -168,13 +184,29 @@
       },
       "artists": [
         {
-          "name": "Fuzigish",
+          "name": "FUZIGISH",
           "url": "https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v"
         }
       ],
       "duration_ms": 260000,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3"
+    },
+    {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
+        "name": "Drunk 'n Irate",
+        "url": "https://open.spotify.com/album/5JyKQ7U1Cy5xucch8ZVFaF"
+      },
+      "artists": [
+        {
+          "name": "Werner Bekker",
+          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
+        }
+      ],
+      "duration_ms": 153480,
+      "name": "Drunk 'n Irate",
+      "url": "https://open.spotify.com/track/25vGUFIheFaFNOdl0T8APH"
     },
     {
       "added_at": "2022-03-17 21:59:00",
@@ -195,6 +227,26 @@
       "duration_ms": 179368,
       "name": "brokeboy",
       "url": "https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg"
+    },
+    {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
+        "name": "FAKE LOVE",
+        "url": "https://open.spotify.com/album/2EuqxVxPLgeVGrIri3Tbhs"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "Brogan the band",
+          "url": "https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc"
+        }
+      ],
+      "duration_ms": 173770,
+      "name": "FAKE LOVE",
+      "url": "https://open.spotify.com/track/4yCzdEiGPcpcDQ87fG4nHS"
     },
     {
       "added_at": "2021-07-29 21:59:00",
@@ -300,7 +352,7 @@
       },
       "artists": [
         {
-          "name": "Fuzigish",
+          "name": "FUZIGISH",
           "url": "https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v"
         }
       ],
@@ -517,22 +569,6 @@
       "url": "https://open.spotify.com/track/1gyaVHGHkYeyFcckiMZ3Zz"
     },
     {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "Howl A Little Louder",
-        "url": "https://open.spotify.com/album/2DisJ8JCLVpMhxQJ1QmJ4P"
-      },
-      "artists": [
-        {
-          "name": "Sold Ash",
-          "url": "https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz"
-        }
-      ],
-      "duration_ms": 195714,
-      "name": "Howl A Little Louder",
-      "url": "https://open.spotify.com/track/1zZW0LFdXBHrF6iGhTxphL"
-    },
-    {
       "added_at": "2022-01-21 09:30:41",
       "album": {
         "name": "Wolves",
@@ -681,6 +717,22 @@
       "url": "https://open.spotify.com/track/0CnVzLrxK0iRXuCk6vPeOi"
     },
     {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
+        "name": "YOU2ME",
+        "url": "https://open.spotify.com/album/5Y98Ocf2q2Y3i4Lkw1ap3x"
+      },
+      "artists": [
+        {
+          "name": "Lokaly",
+          "url": "https://open.spotify.com/artist/2xMgbeCaxqn40elRsuLMf4"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "YOU2ME",
+      "url": "https://open.spotify.com/track/6BeR3yIHr9O6ZjQzmpXN2Z"
+    },
+    {
       "added_at": "2022-02-17 21:59:00",
       "album": {
         "name": "Vanilla Sky",
@@ -711,6 +763,22 @@
       "duration_ms": 189250,
       "name": "She's Got Soul",
       "url": "https://open.spotify.com/track/4NAUucEzZCxoZqSlX5mrXg"
+    },
+    {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
+        "name": "Saints and Sinners (Remastered)",
+        "url": "https://open.spotify.com/album/4kopPPmW09PGMnh85jojya"
+      },
+      "artists": [
+        {
+          "name": "Naranjo",
+          "url": "https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R"
+        }
+      ],
+      "duration_ms": 220525,
+      "name": "Down - Remastered",
+      "url": "https://open.spotify.com/track/50lAUbTwVsGu97tj3j6cGi"
     },
     {
       "added_at": "2022-08-04 21:59:00",

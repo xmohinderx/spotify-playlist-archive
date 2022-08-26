@@ -1391,12 +1391,8 @@
       },
       "artists": [
         {
-          "name": "Peke\u00f1o 77",
-          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
-        },
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+          "name": "Peke\u00f1o 77, Harry Nach",
+          "url": "https://open.spotify.com/artist/5vpqWXcT00uzdG9jtwk5fT"
         }
       ],
       "date_added": "2022-01-20",
@@ -2005,6 +2001,24 @@
       "duration_ms": 231746,
       "name": "Quienes Son",
       "url": "https://open.spotify.com/track/1BZLbcRroXQjhb3GaoYzeT"
+    },
+    {
+      "album": {
+        "name": "FINALMENTE RICO",
+        "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "RICO POBRE",
+      "url": "https://open.spotify.com/track/0nrh0zcIM5k1acOab9fzBe"
     },
     {
       "album": {
@@ -2657,7 +2671,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 163636,
       "name": "VILLANO",
       "url": "https://open.spotify.com/track/5Yoi4uDMs3HzVHUDjnLWyD"

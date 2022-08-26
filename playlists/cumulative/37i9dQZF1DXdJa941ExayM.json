@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "maybe it's punk, maybe it's not. Cover: Jean Dawson",
+  "description": "maybe it's punk, maybe it's not. Cover: WHOKILLEDXIX",
   "name": "unleashed",
   "published_playlist_ids": [
     "4Fx7H5bue0NPuMWQvcMhLl"
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "We Made Plans & God Laughed",
+        "url": "https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd"
+      },
+      "artists": [
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "A$$A$$IN",
+      "url": "https://open.spotify.com/track/3sA3QDurusOs0paKSUZ4I6"
+    },
+    {
+      "album": {
         "name": "AHHHH!",
         "url": "https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 144538,
       "name": "AHHHH!",
       "url": "https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q"
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 125830,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt"
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 221720,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/5B0cWUeFpYUGP50B7iGrHE"
@@ -189,6 +207,28 @@
       "duration_ms": 244877,
       "name": "Ann",
       "url": "https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ"
+    },
+    {
+      "album": {
+        "name": "antifreeze*",
+        "url": "https://open.spotify.com/album/0KcvKrAuuPIdpQmZpYx57o"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "Ryan Leahan",
+          "url": "https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122217,
+      "name": "antifreeze*",
+      "url": "https://open.spotify.com/track/4kUxJuInSVt8lNtcTGbjKD"
     },
     {
       "album": {
@@ -347,7 +387,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 184077,
       "name": "Better Each Day",
       "url": "https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL"
@@ -401,7 +441,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 208281,
       "name": "Boring",
       "url": "https://open.spotify.com/track/3FfxSDPqcaUuisrMQmiheD"
@@ -441,6 +481,24 @@
       "duration_ms": 262079,
       "name": "Broken Homes",
       "url": "https://open.spotify.com/track/3OGPJxSWbjASAj0iR7rOCw"
+    },
+    {
+      "album": {
+        "name": "burbank house",
+        "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
+      },
+      "artists": [
+        {
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101647,
+      "name": "burbank house",
+      "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
     },
     {
       "album": {
@@ -513,7 +571,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 184520,
       "name": "Cheater (feat. Tom The Mail Man)",
       "url": "https://open.spotify.com/track/3n0If8GidXp4KziBDoMe99"
@@ -531,7 +589,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 190909,
       "name": "Cherryade",
       "url": "https://open.spotify.com/track/1qlDUbGVlpxKSsCpI9VfsZ"
@@ -615,6 +673,24 @@
       "duration_ms": 119215,
       "name": "Date With Death",
       "url": "https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU"
+    },
+    {
+      "album": {
+        "name": "dedd barchetta",
+        "url": "https://open.spotify.com/album/1DOxrwCYqfxD5MRNRknxWY"
+      },
+      "artists": [
+        {
+          "name": "Sugs",
+          "url": "https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80029,
+      "name": "dedd barchetta",
+      "url": "https://open.spotify.com/track/6APgOMkG1jkeFZD3rfCpvp"
     },
     {
       "album": {
@@ -719,7 +795,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 233000,
       "name": "Enveloped",
       "url": "https://open.spotify.com/track/6JpNRJWABPoMCter1WlSlP"
@@ -889,7 +965,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 205854,
       "name": "Girl God Gun",
       "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
@@ -1145,7 +1221,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 170080,
       "name": "I WANNA DIE BUT I CAN\u2019T (CUZ I GOTTA KEEP LIVING)",
       "url": "https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv"
@@ -1181,10 +1257,28 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 126545,
       "name": "I'm a Moth!!",
       "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
+    },
+    {
+      "album": {
+        "name": "Overcast",
+        "url": "https://open.spotify.com/album/2fSq9tYVZHxi3lxub36rdA"
+      },
+      "artists": [
+        {
+          "name": "Beach Bums",
+          "url": "https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165965,
+      "name": "Idgaf",
+      "url": "https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb"
     },
     {
       "album": {
@@ -1217,7 +1311,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 196956,
       "name": "In the Dark Times",
       "url": "https://open.spotify.com/track/1uprgaMy777icaL9Jmir7X"
@@ -1271,7 +1365,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 199413,
       "name": "Katrina",
       "url": "https://open.spotify.com/track/7yrjPMQ4uRjV7cRYQczK2J"
@@ -1296,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x"
+      },
+      "artists": [
+        {
+          "name": "Talk Show",
+          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260506,
+      "name": "Leather",
+      "url": "https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl"
+    },
+    {
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/09PcwXJ6Kdt2M6ezSCYnQb"
       },
@@ -1307,7 +1419,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 142760,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/0FGRPpBeQxkGEpnIChlnf8"
@@ -1455,7 +1567,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 177340,
       "name": "Manners",
       "url": "https://open.spotify.com/track/5fl5itZwXCgYRFRvBFLWUK"
@@ -1509,7 +1621,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 195880,
       "name": "Meat Market",
       "url": "https://open.spotify.com/track/7efxGu7ux8hgeVBnoyJCa1"
@@ -1610,6 +1722,24 @@
     },
     {
       "album": {
+        "name": "MOTHERFUCKER",
+        "url": "https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt"
+      },
+      "artists": [
+        {
+          "name": "Billy Sane",
+          "url": "https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62270,
+      "name": "MOTHERFUCKER",
+      "url": "https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl"
+    },
+    {
+      "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/2o6CaxhzQScrGCSkIZ0N6q"
       },
@@ -1657,7 +1787,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 208000,
       "name": "NEW DREAM",
       "url": "https://open.spotify.com/track/78qp11wxzbx1rHB0sNavVu"
@@ -1823,7 +1953,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 125976,
       "name": "PLANT THE FANGS",
       "url": "https://open.spotify.com/track/6AKsTbsS7RJ3oBBlmrkss4"
@@ -1939,7 +2069,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 206744,
       "name": "Popular (feat. Matthew Caws of Nada Surf)",
       "url": "https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57"
@@ -1957,7 +2087,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 134880,
       "name": "Presidential Walk",
       "url": "https://open.spotify.com/track/5FxpA5miQTteOuMeIvL04r"
@@ -2041,7 +2171,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 209000,
       "name": "Queen Sophie for President",
       "url": "https://open.spotify.com/track/6EEdvLIM8kecYVtpA6Ug86"
@@ -2095,7 +2225,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 172891,
       "name": "Revolve",
       "url": "https://open.spotify.com/track/65SxZiGB2RDiTjNBhwj7qK"
@@ -2135,7 +2265,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 342551,
       "name": "Satanic Slumber Party Part 2 (Midnight In Sodom)",
       "url": "https://open.spotify.com/track/1uMcy6dDlrQby1nD6xwKOw"
@@ -2207,7 +2337,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 320522,
       "name": "Self-care 101",
       "url": "https://open.spotify.com/track/1tFWBZIc8TqcAi15EgMuhi"
@@ -2377,7 +2507,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 216000,
       "name": "Still Running (5K) (feat.DJ Lethal)",
       "url": "https://open.spotify.com/track/0ZVEWpBhZ5sJKD5ZWn8ieG"
@@ -2413,7 +2543,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 191684,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
@@ -2435,10 +2565,36 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 292200,
       "name": "Talking To Ourselves - IDLES Inner Monologue Remix",
       "url": "https://open.spotify.com/track/3tCihDQBzsGFRtfIn3KPG6"
+    },
+    {
+      "album": {
+        "name": "Tea Parties With Dale Earnhardt",
+        "url": "https://open.spotify.com/album/5cAvGgIqa9qtQE2IYocQSl"
+      },
+      "artists": [
+        {
+          "name": "Okayracer",
+          "url": "https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo"
+        },
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101075,
+      "name": "Tea Parties With Dale Earnhardt",
+      "url": "https://open.spotify.com/track/68CmROYNRCJWTJOx34pCSk"
     },
     {
       "album": {
@@ -2497,7 +2653,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 213906,
       "name": "The World Is You",
       "url": "https://open.spotify.com/track/7lqdh6P5XFsXXLvyOQhdzD"
@@ -2591,7 +2747,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 211321,
       "name": "Uzumaki",
       "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
@@ -2721,6 +2877,24 @@
       "duration_ms": 135063,
       "name": "Witch Slap (IOU)",
       "url": "https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq"
+    },
+    {
+      "album": {
+        "name": "honeybee table at the butterfly feast",
+        "url": "https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB"
+      },
+      "artists": [
+        {
+          "name": "Teen Suicide",
+          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "you can't blame me",
+      "url": "https://open.spotify.com/track/25qPKjzyzuWiXGmjLerWhU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0?si=yzhWyjrpQR2jiKd4ChFi4Q">Lolli Native</a>
 
-316 songs - 16 hr 44 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
+317 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Love Story](https://open.spotify.com/track/1MqcgGRsthQ3d52dGPrmUu) | [Dreamboi](https://open.spotify.com/artist/7FuiG7rAAe6DJsyWjew43V), [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [Love Story](https://open.spotify.com/album/3eP9ckPQSQMD7DxWOZA2Y2) | 3:44 | 2022-02-10 | 2022-03-25 |
 | [Love's A Conspiracy](https://open.spotify.com/track/4frcZxbHs4PagQTHBdTfWA) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Love's A Conspiracy](https://open.spotify.com/album/5OmVtGjKCHNnN0QBXSrKvx) | 1:35 | 2022-02-10 | 2022-03-11 |
 | [Loveday st](https://open.spotify.com/track/4mAdm9QVyFTGkNVLIy81Gj) | [Slim Dumpie](https://open.spotify.com/artist/7f9sPDjFkaIpFIuX8WZoH0) | [August](https://open.spotify.com/album/3HIUFjHwJ3DCBPLAotXmhl) | 3:07 | 2022-08-18 |  |
-| [MA](https://open.spotify.com/track/3NdV37jzx6noMQoQlxGuDx) | [Elliot Smalls](https://open.spotify.com/artist/6ee6gOLet09Kv10DhYzCQ2) | [The Archives](https://open.spotify.com/album/5cPJVSLbWrl1Y9CPWZ20V4) | 3:33 | 2022-03-31 |  |
+| [MA](https://open.spotify.com/track/2ifBdURvhsinej6bYIvaxo) | [Elliot Smalls](https://open.spotify.com/artist/6ee6gOLet09Kv10DhYzCQ2) | [THE ARCHIVES](https://open.spotify.com/album/48qFlCLoTJ8tHvgAZyuI44) | 3:33 | 2022-03-31 |  |
+| [MA](https://open.spotify.com/track/3NdV37jzx6noMQoQlxGuDx) | [Elliot Smalls](https://open.spotify.com/artist/6ee6gOLet09Kv10DhYzCQ2) | [The Archives](https://open.spotify.com/album/5cPJVSLbWrl1Y9CPWZ20V4) | 3:33 | 2022-03-31 | 2022-08-26 |
 | [MAHLANYENG](https://open.spotify.com/track/6IrlR6uViIIngnZz2PuPgs) | [Chad Da Don](https://open.spotify.com/artist/1RB5sQBUeyxeWQefDmdW3k) | [MAHLANYENG](https://open.spotify.com/album/7weilHsGU9tHfp6LXRkAbs) | 2:34 | 2022-03-17 | 2022-03-25 |
 | [mama’s boy](https://open.spotify.com/track/3xQXVKjgkJnIHBnF5A7HIq) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [mama's boy](https://open.spotify.com/album/1UWS5ywyO5HXFbka0KPCmV) | 2:27 | 2022-04-22 | 2022-04-30 |
 | [Mashamplane](https://open.spotify.com/track/5hwLsBPKvnHWidXOB00gHw) | [Young GInger](https://open.spotify.com/artist/3LBo85p6inX14TQba77J3E), [Mac Thaso](https://open.spotify.com/artist/6hbAhGI5M0Jw2aM64myG3m) | [Mashamplane](https://open.spotify.com/album/60FPSwQTmqVcXN0FpzEujM) | 2:28 | 2022-04-22 | 2022-05-06 |

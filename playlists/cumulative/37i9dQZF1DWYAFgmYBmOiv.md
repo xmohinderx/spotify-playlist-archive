@@ -4,7 +4,7 @@
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-81 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
+82 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Pink Moon](https://open.spotify.com/track/16qzGrIMWoxerw2gnW0zuv) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/7KyvfoQhqlNLPNb98yY0pf) | 2:03 | 2022-04-14 | 2022-07-08 |
 | [Rock With U](https://open.spotify.com/track/5ZHwIIszkgLcVT3CicIylm) | [Janet](https://open.spotify.com/artist/0LwySibLlyu9JUdUFN1ZoS) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 3:52 | 2022-07-07 |  |
 | [Same](https://open.spotify.com/track/15mRefIoRl2MGerbnNCZ9h) | [Overjoy](https://open.spotify.com/artist/5lEEsvqAnhjSr3p6jlbDwN) | [Parlay](https://open.spotify.com/album/1CH57K0bDqw8RaXiyMVGtG) | 5:49 | 2022-07-07 |  |
-| [Santa Monica](https://open.spotify.com/track/4x8GnM2L8jKmhVXwZsbpJY) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [Santa Monica](https://open.spotify.com/album/2tIhzdbx8VBXoAPylE1xsF) | 2:46 | 2022-07-07 |  |
+| [Santa Monica](https://open.spotify.com/track/4x8GnM2L8jKmhVXwZsbpJY) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [Santa Monica](https://open.spotify.com/album/2tIhzdbx8VBXoAPylE1xsF) | 2:46 | 2022-07-07 | 2022-08-26 |
+| [Santa Monica](https://open.spotify.com/track/5R4LHqbN7o4h4hIPKN5SCE) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [Santa Monica](https://open.spotify.com/album/4Tjv9KvSUIDKhDNtG1t4zm) | 2:46 | 2022-07-07 |  |
 | [Save Room](https://open.spotify.com/track/1h2LOOg8VaNIZoXxc2J9rk) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted/Once Again](https://open.spotify.com/album/6Fgfn4OyOWRsHd7m6DwMEz) | 3:55 | 2022-07-07 | 2022-07-29 |
 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 | 2022-07-07 |  |
 | [Set Sail](https://open.spotify.com/track/0VuFPUbrZXZX5eX0fFqIZV) | [Turf Club](https://open.spotify.com/artist/6N1cMPOKUEJfPv56YWM7y9) | [Set Sail](https://open.spotify.com/album/78JSYJrcVfje0FCciktQt2) | 2:15 | 2022-07-07 |  |

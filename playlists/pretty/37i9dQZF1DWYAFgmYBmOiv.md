@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 46 | [Set Sail](https://open.spotify.com/track/0VuFPUbrZXZX5eX0fFqIZV) | [Turf Club](https://open.spotify.com/artist/6N1cMPOKUEJfPv56YWM7y9) | [Set Sail](https://open.spotify.com/album/78JSYJrcVfje0FCciktQt2) | 2:15 |
 | 47 | [dayaway](https://open.spotify.com/track/6Fk8wkBXvJdjf6A2vcEZJa) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [dayaway](https://open.spotify.com/album/45bxPNY3YTYkQCvRjml7pn) | 3:29 |
 | 48 | [Same](https://open.spotify.com/track/15mRefIoRl2MGerbnNCZ9h) | [Overjoy](https://open.spotify.com/artist/5lEEsvqAnhjSr3p6jlbDwN) | [Parlay](https://open.spotify.com/album/1CH57K0bDqw8RaXiyMVGtG) | 5:49 |
-| 49 | [Santa Monica](https://open.spotify.com/track/4x8GnM2L8jKmhVXwZsbpJY) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [Santa Monica](https://open.spotify.com/album/2tIhzdbx8VBXoAPylE1xsF) | 2:46 |
+| 49 | [Santa Monica](https://open.spotify.com/track/5R4LHqbN7o4h4hIPKN5SCE) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [Santa Monica](https://open.spotify.com/album/4Tjv9KvSUIDKhDNtG1t4zm) | 2:46 |
 | 50 | [Lonely](https://open.spotify.com/track/4FnSCrqa0lzbJUF1TRoCkQ) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu), [Blossom Caldarone](https://open.spotify.com/artist/0BrUMx34x84azYCP7QvEU0) | [Lonely](https://open.spotify.com/album/7JYEia78Au9reCguu5Kjmn) | 3:05 |
 | 51 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 |
 | 52 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 
-Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDlmNWQwOTA2YmU4MGNiZTU3YzUzMzY0NzczNjNmYzY0`
+Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMGQwNGJlOGI1ZjRhMzM3YTBjMzQ2NGEyMTY1ZTFmNDVj`

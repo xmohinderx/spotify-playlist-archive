@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Perreo del bueno!\nCover: YoGambii, Luar La L",
-  "num_followers": 1266665,
+  "num_followers": 1266699,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGZjZWNkN2YwNGZkNzg5ZTRhYmRiZjk1YWUyNGExMjM0",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGRmZmE3MzA0NjI1NDJiNGU4M2FiNDk0ZDQzMjAzZTZl",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "NOS ENTENDEMOS",
-        "url": "https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3"
-      },
-      "artists": [
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "HIT$ MUSIC",
-          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
-        }
-      ],
-      "duration_ms": 205729,
-      "name": "NOS ENTENDEMOS",
-      "url": "https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "FR\u00cdO",
         "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 220000,
       "name": "PERDON TOI EN DINERO",
       "url": "https://open.spotify.com/track/2d75kmyVQm1L7Lasq0Hdkz"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "NOS ENTENDEMOS",
+        "url": "https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "HIT$ MUSIC",
+          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
+        }
+      ],
+      "duration_ms": 205729,
+      "name": "NOS ENTENDEMOS",
+      "url": "https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb"
     },
     {
       "added_at": "2022-08-19 04:00:00",

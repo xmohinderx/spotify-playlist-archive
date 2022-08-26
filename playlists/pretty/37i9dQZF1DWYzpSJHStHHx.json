@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 467258,
+  "num_followers": 467348,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxMzc1NywwMDAwMDAwMGU2NTIxMzNkOGYzMTQ3MGNkNDViZGIwMzg1ODVhNWE3",
+  "snapshot_id": "MTY1OTcxMzc1NywwMDAwMDAwMDY3MTVlZTRlODZhNzE5MDI4MmUxZjBmMzg1MzBkMjU2",
   "tracks": [
     {
       "added_at": "2022-08-05 15:35:57",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-08-05 15:35:57",
       "album": {
-        "name": "Great Big Blue",
-        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
-      },
-      "artists": [
-        {
-          "name": "Geowulf",
-          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
-        }
-      ],
-      "duration_ms": 247280,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
-    },
-    {
-      "added_at": "2022-08-05 15:35:57",
-      "album": {
         "name": "If You Know That I'm Lonely",
         "url": "https://open.spotify.com/album/3Yu98xOo5qwPjK7fN3gctY"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 166500,
       "name": "If You Know That I'm Lonely",
       "url": "https://open.spotify.com/track/5gCTgcvFfs0d9ShWLY2S1V"
+    },
+    {
+      "added_at": "2022-08-05 15:35:57",
+      "album": {
+        "name": "Great Big Blue",
+        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
+      },
+      "artists": [
+        {
+          "name": "Geowulf",
+          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
     },
     {
       "added_at": "2022-08-05 15:35:57",

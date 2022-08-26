@@ -4,7 +4,7 @@
 
 > Uplifting and energetic music that helps you stay motivated.
 
-519 songs - 1 day 2 hr 9 min - [published](https://open.spotify.com/playlist/3XaFMWO91TgKnSTalOxdvV)
+520 songs - 1 day 2 hr 12 min - [published](https://open.spotify.com/playlist/3XaFMWO91TgKnSTalOxdvV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Sahara Love \- Seven Lions Remix](https://open.spotify.com/track/6KjTXwntv8paBCL3El9TnV) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp) | [Sahara Love](https://open.spotify.com/album/6zEn5KmSSzphWTsPbfwL8L) | 5:22 | 2021-03-08 | 2021-03-23 |
 | [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 | 2022-06-16 |  |
 | [Sandstorm](https://open.spotify.com/track/1o6Wucld04vGF4UBeyHGwF) | [Freejak](https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11) | [Sandstorm](https://open.spotify.com/album/1on4DjUpgOCvULb3FTp9mO) | 2:39 | 2022-04-28 |  |
+| [Satisfaction](https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi) | 2:35 | 2022-08-25 |  |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-05-05 |  |
 | [Save Me Now](https://open.spotify.com/track/1gT4R71PKKWcd7kSqAmNWC) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Save Me Now](https://open.spotify.com/album/4vJT6er7II3CDCYZsOBoci) | 3:16 | 2022-06-23 |  |
 | [Save Me Now](https://open.spotify.com/track/496JeauhtGmpKSO6H6liYT) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Save Me Now](https://open.spotify.com/album/7JzDX8kdV2D5AURTptTcWr) | 3:16 | 2021-11-14 | 2022-07-29 |

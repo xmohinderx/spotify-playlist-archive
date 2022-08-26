@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,010 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,012 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 66 | [Hotel Walls](https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:26 |
 | 67 | [Lion](https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lion](https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG) | 3:36 |
 | 68 | [OK \- Ofenbach Remix](https://open.spotify.com/track/1iPWXMClLL4AZtBuMD0lh3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [OK \(The Remixes\)](https://open.spotify.com/album/2ridyWvBRA24PXySJ2qeSS) | 3:04 |
-| 69 | [Complicated \- Faustix Remix](https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Complicated \(Faustix Remix\)](https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du) | 2:27 |
-| 70 | [FOMO](https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Sylo Songs](https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR) | 2:07 |
+| 69 | [FOMO](https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Sylo Songs](https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR) | 2:07 |
+| 70 | [Complicated \- Faustix Remix](https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Complicated \(Faustix Remix\)](https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du) | 2:27 |
 | 71 | [Don't Worry \- Radio Edit](https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Don't Worry \(Radio Edit\)](https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5) | 3:10 |
 | 72 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 |
 | 73 | [Dynamite \(feat\. Pretty Sister\)](https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ), [Pretty Sister](https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza) | [Dynamite \(feat\. Pretty Sister\)](https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ) | 3:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Thorns](https://open.spotify.com/track/6DuE8kXIDJ3oiCibWXmgeN) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Thorns](https://open.spotify.com/album/57ATyOS7Gud3uEjzIbMp7Y) | 3:06 |
 | 80 | [Long Way Home](https://open.spotify.com/track/1zZPjx3m2M604sI7GpI2ZR) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Long Way Home](https://open.spotify.com/album/0gsRK96dxwHjosLKpHgns4) | 2:49 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDJmNjRlZjI4OWZkYmVmY2Q3NmUzOWM2ZmEzYjA4ZDUz`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGEwMWQxY2I3MzZhY2M4NjZlMmY1OGExNWFlZTA3ZTFl`

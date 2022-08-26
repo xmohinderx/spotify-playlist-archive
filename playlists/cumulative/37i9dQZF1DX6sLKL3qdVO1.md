@@ -2,7 +2,7 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: Feid
+> Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: Myke Towers, Jhayco
 
 207 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
 

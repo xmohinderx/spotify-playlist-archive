@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-137 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
+138 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,8 +47,9 @@
 | [Funky Bump \- Long Version](https://open.spotify.com/track/156s8wfCnvtom8DrT4zjww) | [Pino Presti](https://open.spotify.com/artist/0TXzV75amzLHeZueaodr9s) | [Funky Bump](https://open.spotify.com/album/0pqq5utZ2eLuqmhupGig93) | 5:12 | 2021-09-01 | 2022-06-23 |
 | [Get a Life \(feat\. Bobby Womack\) \- Regrind 09](https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Raiding the Vaults](https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6) | 3:57 | 2021-09-01 |  |
 | [Gigolo \- 12" Version](https://open.spotify.com/track/6VrvvrY32NT1QGtFTAve8J) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [In And Out Of Love \(Bonus Track Version\)](https://open.spotify.com/album/0ri0mljqik390Lk9FRRfAr) | 7:23 | 2021-09-01 | 2022-07-26 |
+| [Gonna Make You Mine](https://open.spotify.com/track/3x59bNHg2OwyaeHChaixaP) | [Loose Ends](https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo) | [Zagora](https://open.spotify.com/album/2ev6ZbefgaoveKnaVGJ6oD) | 4:30 | 2021-09-01 |  |
 | [Groovin' You](https://open.spotify.com/track/2I3SyLikESUH36WyEr1FZW) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 4:53 | 2021-09-01 | 2022-07-16 |
-| [Gymnastics \- Original Mix](https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Tears](https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv) | 4:50 | 2021-09-01 |  |
+| [Gymnastics \- Original Mix](https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Tears](https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv) | 4:50 | 2021-09-01 | 2022-08-26 |
 | [Haven't You Heard](https://open.spotify.com/track/0rgGwEybYIQvqHf5qEkFOB) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/3PgLKHkINPRRRA76eT6QJY) | 6:45 | 2021-09-01 | 2022-07-29 |
 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 | 2021-09-01 |  |
 | [High Times](https://open.spotify.com/track/4ZQF49Okowc4dUMme8xA3Y) | [Marcus Marr](https://open.spotify.com/artist/6l5dAUNRhHnRSPPmRJSKQr) | [Familiar Five](https://open.spotify.com/album/2HEPncsJHAbOXnWyj178oE) | 7:21 | 2021-09-01 | 2022-06-04 |

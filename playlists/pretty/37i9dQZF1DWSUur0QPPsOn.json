@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Issa Rae, Kamillion, Aida Osman & Jonica Booth #RapSh!t",
-  "num_followers": 215669,
+  "num_followers": 215766,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2ODY1NiwwMDAwMDAwMGI5MjdiNjUxMDcxYzMwODk5NDU0NTllNjcyYjI3Mjg1",
+  "snapshot_id": "MTY2MDA2ODY1NiwwMDAwMDAwMDhiMmRjZDZiYjFlYjcxMmZiY2U1ODU2ZTI3Yzg4NDk1",
   "tracks": [
     {
       "added_at": "2022-08-01 04:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-08-01 04:00:00",
       "album": {
+        "name": "Hood Bitch",
+        "url": "https://open.spotify.com/album/7wkI0tGOfXLdfP16Khkrvt"
+      },
+      "artists": [
+        {
+          "name": "Fam0us.Twinsss",
+          "url": "https://open.spotify.com/artist/5Nrl4fJ98iiMiTqhKjy8ZL"
+        }
+      ],
+      "duration_ms": 133067,
+      "name": "Hood Bitch",
+      "url": "https://open.spotify.com/track/1QncxlVV6UqA10Dh7pCcj9"
+    },
+    {
+      "added_at": "2022-08-01 04:00:00",
+      "album": {
         "name": "Jackboy",
         "url": "https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 178285,
       "name": "Like a Million (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC"
-    },
-    {
-      "added_at": "2022-08-01 04:00:00",
-      "album": {
-        "name": "Hood Bitch",
-        "url": "https://open.spotify.com/album/7wkI0tGOfXLdfP16Khkrvt"
-      },
-      "artists": [
-        {
-          "name": "Fam0us.Twinsss",
-          "url": "https://open.spotify.com/artist/5Nrl4fJ98iiMiTqhKjy8ZL"
-        }
-      ],
-      "duration_ms": 133067,
-      "name": "Hood Bitch",
-      "url": "https://open.spotify.com/track/1QncxlVV6UqA10Dh7pCcj9"
     },
     {
       "added_at": "2022-08-01 04:00:00",

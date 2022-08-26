@@ -588,6 +588,24 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r"
+      },
+      "artists": [
+        {
+          "name": "Sonny Cleveland",
+          "url": "https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162680,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q"
+    },
+    {
+      "album": {
         "name": "Inside Voice",
         "url": "https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof"
       },
@@ -751,7 +769,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 286253,
       "name": "Explore",
       "url": "https://open.spotify.com/track/15fow3n2T8cgsPH9FBItjL"

@@ -2,9 +2,9 @@
 
 ### [K\-Hip\-Hop +82](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: SINCE\(신스\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
+> Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: unofficialboyy\(언오피셜보이\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-548 songs - 1 day 7 hr 5 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+549 songs - 1 day 7 hr 7 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [365&7 \(Feat\. JAMIE\)](https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [365&7](https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL) | 2:49 | 2021-12-18 | 2022-07-08 |
 | [400km \(Feat\. Kid Milli\)](https://open.spotify.com/track/5PFqdHy3b9PGgfns2uVpE6) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Spirit Bomb](https://open.spotify.com/album/0RwKLOJGfjcG6MEu0EKJJh) | 3:31 | 2022-01-04 | 2022-05-21 |
 | [5 STARS \(To not die X Loopy, BLOO\)](https://open.spotify.com/track/3pIa8aJvOObCFLzRnKEmut) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [5 STARS \(To not die X Loopy, BLOO\)](https://open.spotify.com/album/7dNGt83chPpRyZaocO6tcS) | 2:43 | 2021-12-21 | 2022-07-01 |
+| [6 4\(N.W.A\) \[feat\. Swervy\]](https://open.spotify.com/track/69FQ06kg6kyU6eQ7Aqf2aW) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Bababa](https://open.spotify.com/artist/0rjtEpxCHJVfBahQU1X8Qz), [LGDNR HomeBoy](https://open.spotify.com/artist/2QDfa5cRnUZRWTiCfK2RaH), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [ㅇㅅㅇ](https://open.spotify.com/album/6TNmGaKD8BcJFI0p882xuk) | 2:22 | 2022-08-25 |  |
 | [8 bars game up](https://open.spotify.com/track/0L4djl0ggbJUEY1n2PuV4r) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8) | [Drop The Bit Final Pt\. 1](https://open.spotify.com/album/1CXbpk3AaBor9rY0XRVZMn) | 3:49 | 2022-07-04 | 2022-07-06 |
 | [9ucci REMIX \(Feat\. Paloalto, Jessi, UNEDUCATED KID, The Quiett\)](https://open.spotify.com/track/6o1qOsDj7z7WLnI4tz7HvW) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [9ucci REMIX \(Feat\. Paloalto, Jessi, UNEDUCATED KID, The Quiett\)](https://open.spotify.com/album/6QgI5MJSg9dV0ZmqjIZWGv) | 4:05 | 2021-12-21 | 2022-07-01 |
 | [@rollingloud](https://open.spotify.com/track/1BaPN9BN5zMTX9V7CYPc84) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [www.instagram.com/rollingloud/viceversartist](https://open.spotify.com/album/65iSrqbqW6EmtC9FeqdEfr) | 1:54 | 2022-06-09 | 2022-08-13 |

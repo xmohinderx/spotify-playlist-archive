@@ -2,7 +2,7 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> La casa dello street rap italiano\. Cover: Zefe
+> La casa dello street rap italiano\. Cover: Neima Ezza, L'allemand, Vale Pain, Sasso
 
 119 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 

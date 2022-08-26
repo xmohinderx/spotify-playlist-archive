@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-329 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+330 songs - 20 hr 30 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Hodre Hogli Anta \(From "Maha Purusha"\)](https://open.spotify.com/track/71cogjMivE2Klc7gXBTJuq) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Mahalingam](https://open.spotify.com/artist/2MPdHKsDL3AQ1dfKfCjbr0) | [Hodre Hogli Anta \(From "Maha Purusha"\)](https://open.spotify.com/album/4zgPxGjqCuGXTTGK53PXx4) | 3:23 | 2022-02-02 | 2022-02-16 |
 | [Honey Bunny \- From "Trivikrama"](https://open.spotify.com/track/68Ij3M9Ux9H2n5AXEDGPyj) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Honey Bunny \(From "Trivikrama"\)](https://open.spotify.com/album/3Duz11UbRxnWCYMsJHZzTq) | 3:41 | 2022-06-13 |  |
 | [Hoove Haaridanthe](https://open.spotify.com/track/2SxLem0pOHyc4YUIvWZW69) | [Harsha Uppar](https://open.spotify.com/artist/1mqDmKSRQU5bvew7qa6JMf), [Meghana Kulakarni Joshi](https://open.spotify.com/artist/2sBf72wmgd4KJUpDw5thlq) | [Ombatthane Dikku](https://open.spotify.com/album/5mSoumxlRkVC3EpmpwmgEf) | 1:46 | 2022-02-15 | 2022-04-28 |
+| [Hrudayada looti Ninnindale \- From "Mardini"](https://open.spotify.com/track/02KtANsTSZJEEXHsa3C1IX) | [Varun Ramachandra](https://open.spotify.com/artist/5UayLxcBFJpD03u2qihj84), [Hithan Hassan](https://open.spotify.com/artist/2MZXYynfCx4eRuQB2hh9jn), [Harshapriya](https://open.spotify.com/artist/124VVnT2v2M3Ucb5r099j2) | [Hrudayada looti Ninnindale \(From "Mardini"\)](https://open.spotify.com/album/18eH5hGdvSD5UDri9cL4bQ) | 3:17 | 2022-08-25 |  |
 | [Hudgi Ivalu \- Sha LA LA LA Love \(From "Chase \- In The Dark"\)](https://open.spotify.com/track/7CpOi5xk4d0yFhYRUrUPv2) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Karthik Aacharya](https://open.spotify.com/artist/7FSw22CMSia3V7Y1tMWldb) | [Hudgi Ivalu \- Sha LA LA LA Love \(From "Chase \- In The Dark"\)](https://open.spotify.com/album/7kKKi2990fxJaHPjhXFy5I) | 4:29 | 2022-02-14 | 2022-03-14 |
 | [I Hate Love](https://open.spotify.com/track/4gg06dKp1cu4RN9WdZhq8m) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [C.R.Bobby](https://open.spotify.com/artist/1WMMdHnsy7rwTnKmsu85z1) | [Bytwo Love](https://open.spotify.com/album/702fK0WHGmVF9bou7A6KLI) | 3:41 | 2022-02-15 | 2022-07-19 |
 | [I Love You \(From "Namma Hudugaru"\)](https://open.spotify.com/track/7I1PDlxV1Xo3kQvUnTHuCI) | [Puneeth Rajkumar](https://open.spotify.com/artist/45VcCRQRa6cyT9xkwvL6Uk), [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG), [Abhimann Roy](https://open.spotify.com/artist/5fyJuumOXQwePtPK9suY88) | [I Love You \(From "Namma Hudugaru"\)](https://open.spotify.com/album/5u9bwS4aQIW7Yu1z3JTqXy) | 3:32 | 2021-12-06 | 2022-01-12 |

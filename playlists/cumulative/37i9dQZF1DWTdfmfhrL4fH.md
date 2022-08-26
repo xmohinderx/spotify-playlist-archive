@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-515 songs - 1 day 8 hr 20 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+516 songs - 1 day 8 hr 24 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Higher](https://open.spotify.com/track/0sJ4NbFdEhgLOtInlbRmFl) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:34 | 2022-05-25 |  |
 | [Hold On Till May](https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Lindsey Stamey](https://open.spotify.com/artist/7lbX2TQTHawmdlhNuXDzHs) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:38 | 2022-05-25 |  |
 | [Hold Up Girl](https://open.spotify.com/track/2KLDpPfYxbYTu1rZs0A9S9) | [NGHBRS](https://open.spotify.com/artist/0lYVmNKXnsSRSrDcdhcJqD) | [Twenty One Rooms](https://open.spotify.com/album/4oklgCU1OUf6PDmmj3Ydhx) | 3:15 | 2022-05-25 | 2022-07-18 |
-| [Holding on for Life](https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [After the Disco](https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf) | 3:56 | 2022-05-25 |  |
+| [Holding on for Life](https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [After the Disco](https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf) | 3:56 | 2022-05-25 | 2022-08-26 |
 | [Holding on to You](https://open.spotify.com/track/3C3cr2JQwXIhqAHqOardVO) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:23 | 2022-05-25 |  |
 | [Hole in Your Heart](https://open.spotify.com/track/5Q6BEkgHxYuEJmHidFLy9L) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 3:46 | 2022-05-25 | 2022-07-29 |
 | [Hollow](https://open.spotify.com/track/536bkD2pabwDI6kHCzHv5T) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 3:51 | 2022-05-25 | 2022-07-28 |
@@ -335,6 +335,7 @@
 | [Now](https://open.spotify.com/track/0LBz07gAdgUukYvpFyW87y) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:10 | 2022-05-25 | 2022-07-29 |
 | [Now](https://open.spotify.com/track/2Mu4Ao7H9HgkOq02MKsu3z) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Staind](https://open.spotify.com/album/1MNV0Hm2aV2U9DahSK2oqR) | 3:44 | 2022-05-25 | 2022-07-29 |
 | [Nuclear Family](https://open.spotify.com/track/7cuckwTEbDhjOzhZkG6otN) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nuclear Family](https://open.spotify.com/album/2eNZY34FfJ6ZURgN3jw5ee) | 3:03 | 2022-05-25 | 2022-07-29 |
+| [October](https://open.spotify.com/track/09zDgbs5NQH1kKFXHppYhr) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:38 | 2022-05-25 |  |
 | [Oh Love](https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 5:03 | 2022-05-25 |  |
 | [Oh, What A Life](https://open.spotify.com/track/0ImkGucv1ID5EkuhslttfD) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:39 | 2022-05-25 | 2022-07-05 |
 | [On And On](https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:35 | 2022-05-25 | 2022-08-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: Mrs\. GREEN APPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,834 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,102 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [千輪花火](https://open.spotify.com/track/2kdTULbUI8JiWZVzcsALNr) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [千輪花火](https://open.spotify.com/album/7udq5BQzx96VgLhWjfiPJf) | 3:08 |
 | 50 | [HAVE A NICE DAY](https://open.spotify.com/track/0xY6JkJY1ltWdbx9YQJM84) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [HAVE A NICE DAY](https://open.spotify.com/album/2g0Rw5XYIxKqBkXVuU44E3) | 3:40 |
 
-Snapshot ID: `MTY2MTExODM5NywwMDAwMDAwMGFiNGJiYTdhNzVkMmExNjg3MWM5Yzk3NjgxYWEyZTEx`
+Snapshot ID: `MTY2MTQ3NTYwMCwwMDAwMDAwMGRkMjJjZWEwN2I1YWFjZGFlODVmNGQ5NGY1MDdjZTFk`

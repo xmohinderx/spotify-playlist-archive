@@ -2,9 +2,9 @@
 
 ### [The Other List](https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E)
 
-> The home of the best new alternative music\. Cover: Låpsley
+> The home of the best new alternative music\. Cover: Willow Kayne
 
-1,000 songs - 2 day 11 hr 25 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,005 songs - 2 day 11 hr 43 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [All Mine](https://open.spotify.com/track/3XeeOYNN8qxbwnqGbuAi8Q) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [All Mine](https://open.spotify.com/album/6eJYIt3yPUaSJ18OeoChNN) | 2:41 | 2021-09-03 | 2021-10-22 |
 | [All Of The Time](https://open.spotify.com/track/5cnsoV2GXggZXhC27SqYpv) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [All Of The Time](https://open.spotify.com/album/4r5R7JXV1JnuxLqEnXIGMR) | 3:02 | 2021-08-13 | 2021-10-08 |
 | [All These Dreams](https://open.spotify.com/track/28eC3Q6LQeP7ZJ4VYtpvMN) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [All These Dreams](https://open.spotify.com/album/6wIUAvOBQ6riiRHElALRGN) | 3:03 | 2022-03-18 | 2022-04-08 |
+| [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 | 2022-08-25 |  |
 | [Alone](https://open.spotify.com/track/4k4mhm30I8pOn2k7O19pms) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Alone](https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn) | 2:15 | 2020-11-27 | 2021-03-06 |
 | [Already Falling](https://open.spotify.com/track/2wuY9q7HFYnOYUHy7QHz2d) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Already Falling](https://open.spotify.com/album/0hmQO6qgPmxqL4kzszSl4C) | 4:15 | 2021-02-06 | 2021-04-23 |
 | [Amateur](https://open.spotify.com/track/39MzfwZjkbGSbnccjf5E5j) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Amateur](https://open.spotify.com/album/2ZSTag8VupMhvtzBg2R4aP) | 4:39 | 2021-03-14 | 2021-05-28 |
@@ -211,7 +212,8 @@
 | [crushed.zip](https://open.spotify.com/track/11ldKuHFoIe2onUknizn55) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [crushed.zip](https://open.spotify.com/album/0n8GkK9kfvRrOVwcPidyrs) | 3:34 | 2022-04-28 | 2022-07-08 |
 | [Crutch](https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Crutch](https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi) | 3:43 | 2021-10-16 | 2022-01-22 |
 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 | 2022-02-25 | 2022-04-15 |
-| [Crying in the Club](https://open.spotify.com/track/2i2ctngb7IE9IhoZ3AA1Ey) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Crying in the Club](https://open.spotify.com/album/0EAQUkyRH0RUBHzzt9Sr42) | 3:05 | 2022-08-18 |  |
+| [Crying in the Club](https://open.spotify.com/track/2i2ctngb7IE9IhoZ3AA1Ey) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Crying in the Club](https://open.spotify.com/album/0EAQUkyRH0RUBHzzt9Sr42) | 3:05 | 2022-08-18 | 2022-08-26 |
+| [Crying in the Club](https://open.spotify.com/track/440bHvLOgExwePapxmMtGI) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/3GuSAYm0w5TMJ6k0qeftwt) | 3:05 | 2022-08-25 |  |
 | [Cut](https://open.spotify.com/track/7sdQ5zwswFQOZIN5qqdaVF) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Fear Fear](https://open.spotify.com/album/5qKXYz1XhJhJV3BHJR3eq5) | 6:50 | 2022-07-14 |  |
 | [Dance on the Rain](https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Dance on the Rain](https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ) | 3:39 | 2022-02-11 | 2022-04-15 |
 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 | 2022-07-01 | 2022-08-19 |
@@ -282,6 +284,7 @@
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-04-28 | 2022-07-02 |
 | [Fabric](https://open.spotify.com/track/2oSG1lrQZHUSs4hhgv7Imu) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Act One](https://open.spotify.com/album/7hS3HK39ZkDsnKFfItdMRX) | 1:44 | 2022-07-21 |  |
 | [fade](https://open.spotify.com/track/3PSe334hTOP6fCxCobEP7B) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [fade](https://open.spotify.com/album/0TU5ALE3lgk8hwRxurMaMK) | 2:52 | 2022-04-14 | 2022-07-08 |
+| [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 | 2022-08-25 |  |
 | [Family Picture](https://open.spotify.com/track/3rVaqLrXEZTPK10Hepa1aA) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Get Me To A Nunnery](https://open.spotify.com/album/7d6Z9wwzXl8VQ04Jnz1nqT) | 3:48 | 2021-10-22 | 2021-10-29 |
 | [Famous Last Words](https://open.spotify.com/track/5sxh28l6HfDFvcV9rWsbot) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Famous Last Words](https://open.spotify.com/album/43s5sO4hiuDiovgKBOyYQu) | 4:16 | 2021-09-17 | 2021-09-24 |
 | [Famous Last Words](https://open.spotify.com/track/2WJNjsH9lloob83HQMmJvP) | [Malady](https://open.spotify.com/artist/6RIJbEJAkZ21AAbqrdztvh) | [Famous Last Words](https://open.spotify.com/album/1Kuo9Ahuq9R7bv1WPlr3iW) | 3:30 | 2021-05-14 | 2021-06-18 |
@@ -505,6 +508,7 @@
 | [Lagoon](https://open.spotify.com/track/3btdtLMTyYRF69baTCeTyQ) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lagoon](https://open.spotify.com/album/05BU6nCwg6DYnqwEqMnn7E) | 2:33 | 2022-01-28 | 2022-03-11 |
 | [Larabar](https://open.spotify.com/track/5wNVNjLNMX0jhefWFOqgT2) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Larabar](https://open.spotify.com/album/2HN00Up5QVROR1PGaqXEA4) | 2:55 | 2021-08-13 | 2021-10-08 |
 | [Lately](https://open.spotify.com/track/6iw3NfFyPpp9sQuuHhRhls) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Lately](https://open.spotify.com/album/1xnvzjGkz4iR6x8KOad9mM) | 2:28 | 2021-10-08 | 2022-01-08 |
+| [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-08-25 |  |
 | [Lemonade](https://open.spotify.com/track/0q6BSDsaOryg8o396XTC8g) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup) | [Lemonade](https://open.spotify.com/album/6HueWBXlOgr22O2ZLdnDOB) | 3:16 | 2021-01-29 | 2021-03-14 |
 | [Let Go](https://open.spotify.com/track/6GJA6CB0PWuqfM3b5K8lcc) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Let Go](https://open.spotify.com/album/4QvD9VCn7pCi7S9NXpMrnD) | 4:14 | 2021-06-25 | 2021-09-03 |
 | [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 | 2022-07-14 |  |
@@ -709,6 +713,7 @@
 | [Quiet Life](https://open.spotify.com/track/2YjiwHv4iwTcIZCbVXJ6iE) | [Child Of The Parish](https://open.spotify.com/artist/0Ts7cCLH53aCD2WE3PHdMn) | [Quiet Life](https://open.spotify.com/album/05xIHqvXOUPj34g9aeZ6oS) | 3:38 | 2022-03-25 | 2022-05-20 |
 | [Rae Street](https://open.spotify.com/track/6u5MwASLtlNlt9f7qUz4c3) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Rae Street](https://open.spotify.com/album/2sMfmZOgdIkr9m9nwautVA) | 4:31 | 2021-07-09 | 2021-09-10 |
 | [Rapture](https://open.spotify.com/track/1YujOVzHHRNWqurlssJIOx) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Zeros](https://open.spotify.com/album/4Q6Y35QnNj37hiXVs1Bbxn) | 3:59 | 2020-09-29\* | 2020-10-23 |
+| [Rat Race](https://open.spotify.com/track/4JIYMwRJwMjyMo6sjD9PbA) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Rat Race](https://open.spotify.com/album/6VWn9VsfNhGOpxdxsYDVpv) | 2:29 | 2022-08-25 |  |
 | [Reality](https://open.spotify.com/track/4UouUPNprfX62HM4iP06bh) | [Local Boy](https://open.spotify.com/artist/34Ze0nb54KG3gietZGFZIj) | [Reality](https://open.spotify.com/album/5fMeN4GDympJrP0XRuy2NS) | 3:17 | 2021-12-10 | 2022-02-11 |
 | [Reason](https://open.spotify.com/track/0REGWAoURfSLQe5hQhlsKK) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:11 | 2021-10-16 | 2021-10-29 |
 | [Red Stone](https://open.spotify.com/track/68uXJTiiZfSKL2KQrowXAL) | [Ed Dowie](https://open.spotify.com/artist/5fVWsyYSseyTctaZKbzYb5) | [Red Stone](https://open.spotify.com/album/1pLCw41U8oSFSIC37fsi00) | 4:14 | 2021-03-06 | 2021-05-14 |

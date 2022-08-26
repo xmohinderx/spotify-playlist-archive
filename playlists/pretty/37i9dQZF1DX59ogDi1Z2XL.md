@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Pressa
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,857 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,918 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 44 | [Legends Never Die](https://open.spotify.com/track/2brVCu8vXT1AaCXz7MFjC6) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Pressure](https://open.spotify.com/album/56Rs3X51PNd1VmiN16K5fM) | 3:25 |
 | 45 | [Closest Thing](https://open.spotify.com/track/05DAkeHRLToFzzB0tFNyyL) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Closest Thing](https://open.spotify.com/album/2QMaRfWsfU8PnVPfT11tuV) | 3:05 |
 | 46 | [MMembers](https://open.spotify.com/track/3pqRC2GopQ3rh1DkENPKfA) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE) | [MMembers](https://open.spotify.com/album/2Z6xIqT3VL7lD0S6184pU1) | 2:33 |
-| 47 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:11 |
+| 47 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:11 |
 | 48 | [City Of Serpents](https://open.spotify.com/track/1lgUY0CDC92SbaVwcpyaRn) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [City Of Serpents](https://open.spotify.com/album/5ih9wrmTQmzJR4G1aCpGfQ) | 2:07 |
 | 49 | [CAN'T TELL ME NOTHING](https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [CAN'T TELL ME NOTHING](https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi) | 2:59 |
 | 50 | [ME SIENTO FELIZ](https://open.spotify.com/track/3ejGPL3ZvGPjl2QutLRdae) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [ME SIENTO FELIZ](https://open.spotify.com/album/4IyZFTHWLcw8Sng47OMRR1) | 2:01 |

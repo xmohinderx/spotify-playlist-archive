@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,972 likes - 67 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,983 likes - 67 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 35 | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/track/5LWtYEKVLEpk4FBdGhZKxy) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/album/49ngLrp5ds0ZQT0WeVqSWP) | 2:56 |
 | 36 | [Ria](https://open.spotify.com/track/7Bx8NjcmtbItEVRqpaOdau) | [Rabbit Mac](https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7), [Deepak](https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3) | [Bruce Lee](https://open.spotify.com/album/2rB63Sy0Lbll94LSvqo0gE) | 4:04 |
 | 37 | [Ratthaalu](https://open.spotify.com/track/49bXxI5G1fTOuVRr56s5fr) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 4:22 |
-| 38 | [King Of The Crowd 'Title Song' \(From "Ramarao On Duty"\)](https://open.spotify.com/track/1X56oGyHaLQgOZxDVBJBo5) | [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv) | [King Of The Crowd 'Title Song' \(From "Ramarao On Duty"\)](https://open.spotify.com/album/37hM9dL91U4SDRksCn7kHJ) | 3:25 |
-| 39 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 |
-| 40 | [Family Party](https://open.spotify.com/track/2cOBMRGCQ3Qi7gHrTELdHn) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 4:00 |
+| 38 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 |
+| 39 | [Family Party](https://open.spotify.com/track/2cOBMRGCQ3Qi7gHrTELdHn) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 4:00 |
+| 40 | [King Of The Crowd 'Title Song' \(From "Ramarao On Duty"\)](https://open.spotify.com/track/1X56oGyHaLQgOZxDVBJBo5) | [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv) | [King Of The Crowd 'Title Song' \(From "Ramarao On Duty"\)](https://open.spotify.com/album/37hM9dL91U4SDRksCn7kHJ) | 3:25 |
 | 41 | [Ra Ra \(Roar of the Revengers\)](https://open.spotify.com/track/3bXNfFKUI9p5WKjjOgMqzs) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Bashermax](https://open.spotify.com/artist/11FBZoyhsRx6NeGzZA5DYb) | [Gang Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv) | 4:10 |
 | 42 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 |
 | 43 | [Break The Rules](https://open.spotify.com/track/57MKnLN5IqjuACXBm01saz) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Tholi Prema](https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb) | 4:06 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 66 | [Singilu Singilu DJ Song](https://open.spotify.com/track/5En5rG6YYgsZhXdc4a2Rmb) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [90ml \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FftqbTyf8wrm6PtogWefH) | 3:41 |
 | 67 | [Miami Dj Remix](https://open.spotify.com/track/1P6GZJqUtFQ2Wv2gXuSmf4) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga](https://open.spotify.com/album/6opwqr8TSIt91hqgN3aHE4) | 3:38 |
 
-Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMDRhMWE3MDZjODVkY2IxYWEzOGE2MjI0NGM2ZTZhOGZm`
+Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMGQwN2I2MTg5ZGUzYzc3MDg4NmNhMTFmYTM4OTRhMTll`

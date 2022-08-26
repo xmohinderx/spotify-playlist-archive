@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Ace Aura.
 
-324 songs - 19 hr 11 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
+325 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Everything All At Once](https://open.spotify.com/track/0wFUYqSo0uZisH1mpN8LTr) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A), [Sejo](https://open.spotify.com/artist/0KPmCqiU6iscwxQo62WBXN) | [Genesis](https://open.spotify.com/album/27YQYZo479KqhWWn1a5ZWz) | 4:09 | 2021-12-17 | 2022-02-19 |
 | [Everytime](https://open.spotify.com/track/2DRIlKYPYCa1SQTG14k3h5) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Everytime](https://open.spotify.com/album/1xou35hNGlK2FVb2SCMSwG) | 2:31 | 2021-12-17 | 2022-02-19 |
 | [Exodus](https://open.spotify.com/track/2CcbkWGUhEHDUPOxUZwKcV) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [phonon](https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y), [Oolacile](https://open.spotify.com/artist/3z8SEnYy9gIRNrSVNJieXx) | [Exodus](https://open.spotify.com/album/0Fp12z4zc4WxAoHGqBZZc8) | 5:05 | 2021-12-17 | 2022-02-17 |
-| [Fall Into Me \(feat\. Dylan Matthew\)](https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Fall Into Me \(feat\. Dylan Matthew\)](https://open.spotify.com/album/6PT8LbcXWPCVAk5Ixj2cu9) | 3:51 | 2022-03-18 |  |
+| [Fall Into Me](https://open.spotify.com/track/5y4mybqlVC1UxShjqkdjgF) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Fall Into Me](https://open.spotify.com/album/7pydg30ApU7ce5KzBeIiET) | 3:51 | 2022-08-12 |  |
+| [Fall Into Me \(feat\. Dylan Matthew\)](https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Fall Into Me \(feat\. Dylan Matthew\)](https://open.spotify.com/album/6PT8LbcXWPCVAk5Ixj2cu9) | 3:51 | 2022-03-18 | 2022-08-26 |
 | [Falling](https://open.spotify.com/track/7nc4yn0oktMNoRV1vaG1de) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Falling](https://open.spotify.com/album/5P9Te9AL9l7qphGAXne9rt) | 3:31 | 2021-12-17 | 2022-01-08 |
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-02-18 |  |
 | [falling down](https://open.spotify.com/track/1IZUM4WQOGO2jWY4FTug4Y) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [warning signs EP](https://open.spotify.com/album/1Gpy5HBgWRPm3oIf2DlETZ) | 3:29 | 2022-04-29 |  |

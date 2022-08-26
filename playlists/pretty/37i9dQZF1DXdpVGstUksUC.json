@@ -1,28 +1,28 @@
 {
-  "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Clutch",
-  "num_followers": 448318,
+  "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Celebrating 20 years of Songs For The Deaf",
+  "num_followers": 448558,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMDJiOWNiYmZjYzhhNTM2ZDE0ZTI3MWEyMWVhM2RkMTFm",
+  "snapshot_id": "MTY2MTQzMjQwMCwwMDAwMDAwMGExNWQ5M2I1MjI0MzY3NGQ1N2M1OGQ4YzBkY2U2NmMx",
   "tracks": [
     {
-      "added_at": "2022-07-22 15:27:44",
+      "added_at": "2022-08-25 13:00:00",
       "album": {
-        "name": "We Strive for Excellence",
-        "url": "https://open.spotify.com/album/1IntXQlFhAc2KcA2dWuPxG"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 175835,
-      "name": "We Strive for Excellence",
-      "url": "https://open.spotify.com/track/7Kjxo3ZGH9s2OzvxQIIhQ2"
+      "duration_ms": 278706,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
     },
     {
       "added_at": "2022-07-22 15:27:44",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/1rbeJWLIn7yfo7bupq36RN"
     },
     {
-      "added_at": "2022-07-22 15:27:44",
-      "album": {
-        "name": "Them Crooked Vultures",
-        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
-      },
-      "artists": [
-        {
-          "name": "Them Crooked Vultures",
-          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
-        }
-      ],
-      "duration_ms": 310376,
-      "name": "No One Loves Me and Neither Do I",
-      "url": "https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E"
-    },
-    {
       "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Are You Experienced",
@@ -71,6 +55,22 @@
       "duration_ms": 170813,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+    },
+    {
+      "added_at": "2022-07-22 15:27:44",
+      "album": {
+        "name": "We Strive for Excellence",
+        "url": "https://open.spotify.com/album/1IntXQlFhAc2KcA2dWuPxG"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 175835,
+      "name": "We Strive for Excellence",
+      "url": "https://open.spotify.com/track/7Kjxo3ZGH9s2OzvxQIIhQ2"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -105,20 +105,20 @@
       "url": "https://open.spotify.com/track/2FZ0yrA5aPClG5ZPBlV7n4"
     },
     {
-      "added_at": "2022-04-28 22:01:00",
+      "added_at": "2022-07-22 15:27:44",
       "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+        "name": "Them Crooked Vultures",
+        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Them Crooked Vultures",
+          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
         }
       ],
-      "duration_ms": 216013,
-      "name": "The Lost Art Of Keeping A Secret",
-      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
+      "duration_ms": 310376,
+      "name": "No One Loves Me and Neither Do I",
+      "url": "https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -135,6 +135,22 @@
       "duration_ms": 217906,
       "name": "Green Machine",
       "url": "https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "The Lost Art Of Keeping A Secret",
+      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -171,22 +187,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "From Beale Street to Oblivion",
-        "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 314746,
-      "name": "Electric Worry",
-      "url": "https://open.spotify.com/track/7mQgJx5mfCuI6o8elrYCKg"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "Sleep's Holy Mountain",
         "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
       },
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
+        "name": "From Beale Street to Oblivion",
+        "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 314746,
+      "name": "Electric Worry",
+      "url": "https://open.spotify.com/track/7mQgJx5mfCuI6o8elrYCKg"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
         "name": "Age of Winters",
         "url": "https://open.spotify.com/album/3s4TEYpm0Nl7csTO3NCQ1I"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 274400,
       "name": "Freya",
       "url": "https://open.spotify.com/track/5CocEvWeRX1VIMNAMwVdmk"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "Queens of the Stone Age",
-        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 277808,
-      "name": "Regular John",
-      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Vols. 11 & 12",
-        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
+        "name": "Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
       },
       "artists": [
         {
-          "name": "Desert Sessions",
-          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 104610,
-      "name": "Crucifire",
-      "url": "https://open.spotify.com/track/65pViNCJx3iVQBmi28FNqi"
+      "duration_ms": 277808,
+      "name": "Regular John",
+      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -295,6 +295,22 @@
       "duration_ms": 422533,
       "name": "Space Cadet",
       "url": "https://open.spotify.com/track/3iYermCTDOt4YfeCqf3sIn"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Vols. 11 & 12",
+        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
+      },
+      "artists": [
+        {
+          "name": "Desert Sessions",
+          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
+        }
+      ],
+      "duration_ms": 104610,
+      "name": "Crucifire",
+      "url": "https://open.spotify.com/track/65pViNCJx3iVQBmi28FNqi"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -331,22 +347,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Feel Good Hit Of The Summer",
-      "url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "Clutch",
         "url": "https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA"
       },
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
       },
       "artists": [
         {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
         }
       ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
+      "duration_ms": 267933,
+      "name": "Negasonic Teenage Warhead",
+      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
       },
       "artists": [
         {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
         }
       ],
-      "duration_ms": 267933,
-      "name": "Negasonic Teenage Warhead",
-      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -439,6 +439,22 @@
       "duration_ms": 311906,
       "name": "Demon Cleaner",
       "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Feel Good Hit Of The Summer",
+      "url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -491,6 +507,22 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
+        "name": "Godzilla's / Eatin' Dust",
+        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Eatin' Dust",
+      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
         "name": "Dig. Sow. Love. Grow.",
         "url": "https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2"
       },
@@ -523,6 +555,22 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Supa Scoopa and Mighty Scoop",
+      "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
         "name": "Dopethrone",
         "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
       },
@@ -537,36 +585,20 @@
       "url": "https://open.spotify.com/track/6DU1WKdUnR7OZkw7BZl9P0"
     },
     {
-      "added_at": "2022-04-28 22:01:00",
+      "added_at": "2022-08-25 13:00:00",
       "album": {
-        "name": "Godzilla's / Eatin' Dust",
-        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Eatin' Dust",
-      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Supa Scoopa and Mighty Scoop",
-      "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
+      "duration_ms": 352440,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -603,22 +635,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 301840,
-      "name": "I'll Cut You Down",
-      "url": "https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "Psychic Warfare",
         "url": "https://open.spotify.com/album/6lcvofLOkuwd6pxQxCE5iB"
       },
@@ -635,6 +651,22 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 301840,
+      "name": "I'll Cut You Down",
+      "url": "https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
         "name": "Witch",
         "url": "https://open.spotify.com/album/5y2SajUtaw9VZjkuKlMsJQ"
       },
@@ -647,6 +679,22 @@
       "duration_ms": 477920,
       "name": "Seer",
       "url": "https://open.spotify.com/track/4tjrhez9Jz2euetdgNqS7W"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Agents Of Ahriman",
+        "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
+      },
+      "artists": [
+        {
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Stray Bullit Woman",
+      "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -679,22 +727,6 @@
       "duration_ms": 392000,
       "name": "Look To Your Orb For The Warning",
       "url": "https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "Agents Of Ahriman",
-        "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
-      },
-      "artists": [
-        {
-          "name": "Greenleaf",
-          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Stray Bullit Woman",
-      "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -859,22 +891,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 320350,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "In The Future",
         "url": "https://open.spotify.com/album/6bFa0guTmFUo2DKGiVts6R"
       },
@@ -891,18 +907,34 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Son of Earth and Sky",
-        "url": "https://open.spotify.com/album/3Rt1KIZ02Onot7N0JZatFu"
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
       },
       "artists": [
         {
-          "name": "High Priest of Saturn",
-          "url": "https://open.spotify.com/artist/4oiMZnQMj43kMUA41Q1H1x"
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
         }
       ],
-      "duration_ms": 549640,
-      "name": "Ages Move the Earth",
-      "url": "https://open.spotify.com/track/4w6W7kTcv13sbJutJXoPYh"
+      "duration_ms": 320350,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Burning Village",
+        "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
+      },
+      "artists": [
+        {
+          "name": "Mountain Witch",
+          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
+        }
+      ],
+      "duration_ms": 282217,
+      "name": "The Dead Won't Sleep",
+      "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -923,6 +955,22 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
+        "name": "Son of Earth and Sky",
+        "url": "https://open.spotify.com/album/3Rt1KIZ02Onot7N0JZatFu"
+      },
+      "artists": [
+        {
+          "name": "High Priest of Saturn",
+          "url": "https://open.spotify.com/artist/4oiMZnQMj43kMUA41Q1H1x"
+        }
+      ],
+      "duration_ms": 549640,
+      "name": "Ages Move the Earth",
+      "url": "https://open.spotify.com/track/4w6W7kTcv13sbJutJXoPYh"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
         "name": "Repeater",
         "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
       },
@@ -935,22 +983,6 @@
       "duration_ms": 356824,
       "name": "Centurion",
       "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "Burning Village",
-        "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
-      },
-      "artists": [
-        {
-          "name": "Mountain Witch",
-          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
-        }
-      ],
-      "duration_ms": 282217,
-      "name": "The Dead Won't Sleep",
-      "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -1163,22 +1195,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Dead Rock Commandos",
-        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
-      },
-      "artists": [
-        {
-          "name": "Nightstalker",
-          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "Dead Rock Commandos",
-      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "Luciferian Towers",
         "url": "https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH"
       },
@@ -1191,6 +1207,22 @@
       "duration_ms": 279840,
       "name": "Bosses Hang, Pt. I",
       "url": "https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Dead Rock Commandos",
+        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
+      },
+      "artists": [
+        {
+          "name": "Nightstalker",
+          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "Dead Rock Commandos",
+      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -1467,22 +1499,6 @@
     {
       "added_at": "2022-04-28 22:01:00",
       "album": {
-        "name": "Buffalo Fuzz",
-        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Fuzz",
-          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
-        }
-      ],
-      "duration_ms": 325313,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2st5WC99waH8DaN3naNq32"
       },
@@ -1495,6 +1511,22 @@
       "duration_ms": 495093,
       "name": "Calm Before the Storm",
       "url": "https://open.spotify.com/track/4oZZ50a7sFUJdMhywCtAdA"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Buffalo Fuzz",
+        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Fuzz",
+          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
+        }
+      ],
+      "duration_ms": 325313,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
     },
     {
       "added_at": "2022-04-28 22:01:00",
@@ -1575,38 +1607,6 @@
       "duration_ms": 593386,
       "name": "Illusory Motion",
       "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "The Devil and the Almighty Blues",
-        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
-      },
-      "artists": [
-        {
-          "name": "The Devil and the Almighty Blues",
-          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
-        }
-      ],
-      "duration_ms": 466382,
-      "name": "The Ghosts of Charlie Barracuda",
-      "url": "https://open.spotify.com/track/2CeY0S8kVprPlCO4r5ffzx"
-    },
-    {
-      "added_at": "2022-04-28 22:01:00",
-      "album": {
-        "name": "All You Can Eat!!",
-        "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
-      },
-      "artists": [
-        {
-          "name": "Left Lane Cruiser",
-          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Putain!",
-      "url": "https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr"
     }
   ],
   "unique_name": "Stoner Rock",

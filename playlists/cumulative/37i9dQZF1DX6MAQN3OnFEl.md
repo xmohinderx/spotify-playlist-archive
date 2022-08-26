@@ -4,7 +4,7 @@
 
 > that's hot
 
-182 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/23bOsAGR1opaZnliocSEkf)
+183 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/23bOsAGR1opaZnliocSEkf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [As If \- Radio Version](https://open.spotify.com/track/6q5AAv5tGYScc7NF2kBoBi) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ) | [Blaque By Popular Demand](https://open.spotify.com/album/0pmfvjqGbIawZbUKonit0t) | 3:47 | 2021-07-08 | 2022-07-29 |
 | [Baby Come On Over](https://open.spotify.com/track/4PRB8Cs2ONx4VcVv0rFSwj) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [The Collection](https://open.spotify.com/album/6Tc50kI9Vo4F0AQiSMqGhH) | 3:04 | 2021-07-08 | 2022-07-25 |
 | [Back Here](https://open.spotify.com/track/6znv7i4Wif5fLwI6OjKHZ4) | [BBMAK](https://open.spotify.com/artist/7y1GT7SdgGiFLWoktv2TSw) | [Sooner Or Later](https://open.spotify.com/album/1vaydA93AMLnjddGnQM15Q) | 3:38 | 2021-07-08 | 2022-07-29 |
-| [Barbie Girl](https://open.spotify.com/track/2RSOzvKUnfDDrb2nQPfpQU) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium](https://open.spotify.com/album/7uYn7ZSrXOVlmITyocZs9F) | 3:17 | 2022-03-26 |  |
+| [Barbie Girl](https://open.spotify.com/track/2RSOzvKUnfDDrb2nQPfpQU) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium](https://open.spotify.com/album/7uYn7ZSrXOVlmITyocZs9F) | 3:17 | 2022-03-26 | 2022-08-26 |
+| [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 | 2022-03-26 |  |
 | [Be My Lover](https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Best Of La Bouche feat\. Melanie Thornton \(feat\. Melanie Thornton\)](https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN) | 4:00 | 2022-03-26 |  |
 | [Beautiful Soul](https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:34 | 2021-07-08 |  |
 | [Beep](https://open.spotify.com/track/5TXNLJ2EENAt3Tf9MX4kT2) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 3:49 | 2022-03-26 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > Music from Drake, Offset and 42 Dugg.
 
-1,318 songs - 2 day 19 hr 52 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,319 songs - 2 day 19 hr 56 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Ain't Got Time \(feat\. Fousheé\)](https://open.spotify.com/track/2bI8brahsTeGPHrM4kpqq4) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Ain't Got Time](https://open.spotify.com/album/4HegSq3iQnEmJMYwVsSVVE) | 3:30 | 2021-01-23 | 2021-01-29 |
 | [All Bad \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/021lWIHJrURZrmvYQ1xcM8) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:27 | 2020-05-15 | 2020-05-22 |
 | [All Dz Chainz \(feat\. Lil Baby\)](https://open.spotify.com/track/6f8nS2g21RNEL7gNG4WJVT) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [All Dz Chainz \(feat\. Lil Baby\)](https://open.spotify.com/album/6lXYbUYhqxR56YlzPe8NxW) | 2:18 | 2022-07-01 | 2022-07-23 |
+| [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/12PNcnMsjsZ3eHm62t8hiy) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Victory](https://open.spotify.com/album/1yX1ZzW6TBvQ1qeNpbiONH) | 3:52 | 2022-08-25 |  |
 | [All In](https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [All In](https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U) | 2:36 | 2020-04-24 | 2020-05-01 |
 | [All In](https://open.spotify.com/track/26nhZEbbCTj6fXTC92wdKD) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Tracks from Top](https://open.spotify.com/album/6afZMmVApwhscCl9iLcvzt) | 2:36 | 2020-09-11 | 2020-10-02 |
 | [All Week](https://open.spotify.com/track/3lIvm65ESTYtJ66VmIyJem) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [All Week](https://open.spotify.com/album/5MatJ1L9cyAZ8yOLfaqqPA) | 2:50 | 2020-11-13 | 2020-12-18 |

@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 22561,
+  "num_followers": 22990,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU3MTY5MSwwMDAwMDAwMGVkZGQ4ZTA0Yjc3M2EyOWQxM2Y4M2FiODU5MGM5MTAx",
+  "snapshot_id": "MTY2MDU3MTY5MSwwMDAwMDAwMDBkNWNkYjM4MmYzYjRlNzhiYTEwNzQ2OTFmMTUyNGU5",
   "tracks": [
     {
       "added_at": "2022-08-15 13:54:50",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-08-15 13:54:50",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
-    },
-    {
-      "added_at": "2022-08-15 13:54:50",
-      "album": {
         "name": "In Trance",
         "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 357305,
       "name": "In Trance",
       "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
+    },
+    {
+      "added_at": "2022-08-15 13:54:50",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     },
     {
       "added_at": "2022-08-15 13:54:50",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-08-15 13:54:50",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo"
-      },
-      "artists": [
-        {
-          "name": "Mario Ochoa",
-          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
-        }
-      ],
-      "duration_ms": 396992,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7"
-    },
-    {
-      "added_at": "2022-08-15 13:54:50",
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 384000,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd"
+    },
+    {
+      "added_at": "2022-08-15 13:54:50",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo"
+      },
+      "artists": [
+        {
+          "name": "Mario Ochoa",
+          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
+        }
+      ],
+      "duration_ms": 396992,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7"
     },
     {
       "added_at": "2022-08-15 13:54:50",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-08-15 13:54:50",
       "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 419164,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+    },
+    {
+      "added_at": "2022-08-15 13:54:50",
+      "album": {
         "name": "Tribal Space",
         "url": "https://open.spotify.com/album/4UeZWgfQSO0fsHpCDudHzs"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2022-08-15 13:54:50",
       "album": {
-        "name": "Inside My Head",
-        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 419164,
-      "name": "Inside My Head",
-      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
-    },
-    {
-      "added_at": "2022-08-15 13:54:50",
-      "album": {
         "name": "Hypnos",
         "url": "https://open.spotify.com/album/2cMqYqiJeFv7YfWwc1GF1P"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-08-15 13:54:50",
       "album": {
-        "name": "Vision of Thermodynamics, Pt. 2",
-        "url": "https://open.spotify.com/album/3XxDvy4NvoAEjaPKMXi3Lo"
+        "name": "Morphing",
+        "url": "https://open.spotify.com/album/4l2yMnT07CAmWjFRBtYeFQ"
       },
       "artists": [
         {
-          "name": "NoNameLeft",
-          "url": "https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT"
+          "name": "Ramon Tapia",
+          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
         }
       ],
-      "duration_ms": 380625,
-      "name": "The Second Law of Thermodynamics",
-      "url": "https://open.spotify.com/track/6RLQjhD5qpNkFbh3zd7KyK"
+      "duration_ms": 292989,
+      "name": "Morphing",
+      "url": "https://open.spotify.com/track/6Y2OimS3u5eKd0LLco0Vlq"
     }
   ],
   "unique_name": "Techno Workout",

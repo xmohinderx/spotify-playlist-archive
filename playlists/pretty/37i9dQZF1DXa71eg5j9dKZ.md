@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > Alternative electronic gems\. Cover: Dusky
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,924 likes - 116 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,984 likes - 116 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

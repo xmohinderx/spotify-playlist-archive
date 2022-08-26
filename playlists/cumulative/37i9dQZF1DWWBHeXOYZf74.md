@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Kaytranada
 
-1,633 songs - 3 day 19 hr 56 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,634 songs - 3 day 20 hr 0 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Flowerbug \(Interlude\)](https://open.spotify.com/track/2Nlscuog6PEPrWW4FWjKs8) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Flowerbug \(Interlude\)](https://open.spotify.com/album/5gmkOwuOghy5G8sowWgAiI) | 1:59 | 2021-12-10 | 2022-01-22 |
 | [Fluff](https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Friend Goals](https://open.spotify.com/album/3lyvbuaHTM8p1xEe9pqdXX) | 3:27 | 2020-11-20 | 2021-02-18 |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2019-10-26 | 2020-03-25 |
+| [Follow You](https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Follow You](https://open.spotify.com/album/1fliEPXtaZylODnCOuoHHE) | 4:04 | 2022-08-25 |  |
 | [Foolsong](https://open.spotify.com/track/2iyDTStpAS9b3BOpTJKREn) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately](https://open.spotify.com/album/41DorGE6V1bXIe6WzCte4c) | 2:53 | 2019-07-30\* | 2019-10-29 |
 | [For André](https://open.spotify.com/track/06zGFsJg11na4OPtQTbyvG) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [For André](https://open.spotify.com/album/45B4sMt3DT6X8RY5qvGhhU) | 3:05 | 2020-05-29 | 2020-08-21 |
 | [For Colored Boys](https://open.spotify.com/track/75vXX6rcJXnWInl9XQZUfp) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/4eosP6b4AHx0GA5Z9WVu0D) | 3:43 | 2020-06-02 | 2020-07-24 |

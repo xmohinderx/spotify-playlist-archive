@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-914 songs - 2 day 2 hr 52 min - [published](https://open.spotify.com/playlist/3Rgnj48dhQD0TIHePADQ4d)
+916 songs - 2 day 2 hr 59 min - [published](https://open.spotify.com/playlist/3Rgnj48dhQD0TIHePADQ4d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,11 +244,11 @@
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-11-30 | 2021-12-27 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-08-16 |  |
 | [Fimm](https://open.spotify.com/track/07pDiOE4MapRnzP6KdrRKX) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Kveðja, Bríet](https://open.spotify.com/album/3LSoEqFvR1Z4ichisNDAJT) | 4:37 | 2021-03-27\* | 2021-07-16 |
-| [Fimm](https://open.spotify.com/track/77GxNN9ZQKnASt4sLMnTxk) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Kveðja, Bríet](https://open.spotify.com/album/0TpuC67YQ11RHnMAUE0AZi) | 4:37 | 2022-08-22 |  |
+| [Fimm](https://open.spotify.com/track/77GxNN9ZQKnASt4sLMnTxk) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Kveðja, Bríet](https://open.spotify.com/album/0TpuC67YQ11RHnMAUE0AZi) | 4:37 | 2022-08-22 | 2022-08-26 |
 | [Fimm](https://open.spotify.com/track/7j218FtlsjEaqs6aNNX1cg) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Kveðja, Bríet](https://open.spotify.com/album/64w8wLYEFB8OXPkyI56wFf) | 4:37 | 2021-07-16 | 2021-10-31 |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-02-10 | 2022-04-30 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-06 | 2022-02-11 |
-| [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 |  |
+| [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-08-26 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 | 2022-05-08 |
 | [Fiðrildi](https://open.spotify.com/track/3Ccz2irf22WtQuoiAObolS) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Bushido](https://open.spotify.com/album/2IB1JhcHO9T94RYr0aO2fv) | 3:06 | 2021-10-17 | 2021-11-05 |
 | [Flight's Booked](https://open.spotify.com/track/23Z3bbYcl1PdcPJemLa4zc) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:14 | 2022-06-18 | 2022-06-26 |
@@ -811,6 +811,7 @@
 | [Töluvert Meir \(feat\. Floni\)](https://open.spotify.com/track/1KhiRUQ9yxo043l3mm2Xva) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4), [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7) | [KBE kynnir: Flottur Skrákur 2](https://open.spotify.com/album/3fhZVuHw3gbUOBJpzX8bxf) | 2:18 | 2021-09-02 | 2021-09-21 |
 | [Týnd og einmana](https://open.spotify.com/track/2lNCEYRbreAVKpAvrPe9Dp) | [Auður](https://open.spotify.com/artist/21SqAOtuXFpwygK1GNxjTm) | [Týnd og einmana](https://open.spotify.com/album/29kYjCbQqPBICo5SQgnHMx) | 2:52 | 2021-04-04 | 2021-04-11 |
 | [Týpan](https://open.spotify.com/track/5E1wbZJiMNBx79K4GPxAwT) | [Friðrik Dór](https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t) | [Dætur](https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o) | 2:45 | 2022-01-29 | 2022-03-14 |
+| [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-25 |  |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-11-28 | 2021-12-27 |
 | [UNGUR DRENGUR DRIPPIN](https://open.spotify.com/track/6APsKoj3WzGnctxf5fjqCh) | [FLUGFÉLAGIÐ](https://open.spotify.com/artist/1p1N9BGhaSQTspDjrV0xEL), [Gísli Pálmi](https://open.spotify.com/artist/4Sdxz1flOuRiXXi77nGzhG), [Yung Nigo Drippin'](https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG) | [UNGUR DRENGUR DRIPPIN](https://open.spotify.com/album/3L2WEVXnQwALOY2q56fffn) | 2:14 | 2021-12-31 | 2022-01-01 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-22 |
@@ -862,6 +863,7 @@
 | [WÁ](https://open.spotify.com/track/2lW3cXCN4f9wm5jfQ9wWtH) | [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [ANDI, LÍF, HJARTA, SÁL](https://open.spotify.com/album/7z3kzUHg0g0UuSsjAvog0m) | 2:40 | 2021-06-27 | 2021-07-11 |
 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2021-04-11 | 2021-04-16 |
 | [Yebba’s Heartbreak](https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:13 | 2021-09-05 | 2021-09-06 |
+| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-08-25 |  |
 | [Yfir fannhvíta jörð](https://open.spotify.com/track/0jse5Xyee8KhfsZYsib0WM) | [Pálmi Gunnarsson](https://open.spotify.com/artist/2tGETO39QXKpmeQMSzr5I6) | [100 íslensk jólalög](https://open.spotify.com/album/4o9fvc9DuQFKxqGcHM9g7Y) | 3:10 | 2021-11-28 | 2021-12-27 |
 | [YGM](https://open.spotify.com/track/2AbKSzqbYcbsBIQu7iiY5K) | [Haki](https://open.spotify.com/artist/0GgsByUesLksV7nP8Zlomi) | [Undrabarnið](https://open.spotify.com/album/7MslzMzNRYgE54paRQ0h8N) | 2:31 | 2021-10-03 | 2021-10-04 |
 | [You](https://open.spotify.com/track/56v18tsxDlSFF3bUzuk2Lu) | [Erd1](https://open.spotify.com/artist/3LszmpddOPySljVKFSmKl2), [Xhesika Polo](https://open.spotify.com/artist/6RWP7X43ngOWFnJIPVKoic) | [You](https://open.spotify.com/album/6H93Waa4pAuMoPHTyb0IB7) | 2:52 | 2022-03-09 | 2022-03-18 |

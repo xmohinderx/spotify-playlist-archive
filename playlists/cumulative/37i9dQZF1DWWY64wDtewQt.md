@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-265 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+266 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [Pulsar Pit](https://open.spotify.com/track/3H6iOC0kcOlfZ5wRt5Tkz3) | [Red Death Grave](https://open.spotify.com/artist/3KOuSp8MJzmMP7mu0cqg7w) | [Pulsar Pit](https://open.spotify.com/album/2mVLBBH6EsPXyl2yuAvBdO) | 1:30 | 2022-02-04 | 2022-07-30 |
 | [PURE MONSTROSITY](https://open.spotify.com/track/5P9317yVhHAtnriqWrcZtJ) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PURE MONSTROSITY](https://open.spotify.com/album/1GCVqsTt7X89UMhZrrLRXH) | 2:16 | 2022-02-18 | 2022-07-23 |
 | [Queen of Pain](https://open.spotify.com/track/5IJWadF9aEwG1H4iIrYyUz) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Lastfragment](https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A) | [Queen of Pain](https://open.spotify.com/album/4YFPxJZXuhPECSmw9kb5Cf) | 2:13 | 2022-05-20 |  |
-| [RAGNAROK](https://open.spotify.com/track/0sKnOjW5WWvzLVO2BAMPzd) | [chyxz](https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG), [SLOWYMANE](https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu) | [RAGNAROK](https://open.spotify.com/album/4gBN7mOkf23CU4xdZidzaH) | 3:15 | 2022-08-19 |  |
+| [RAGNAROK](https://open.spotify.com/track/0sKnOjW5WWvzLVO2BAMPzd) | [chyxz](https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG), [SLOWYMANE](https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu) | [RAGNAROK](https://open.spotify.com/album/4gBN7mOkf23CU4xdZidzaH) | 3:15 | 2022-08-19 | 2022-08-26 |
+| [RAGNAROK](https://open.spotify.com/track/1sWb35nydLCjD71JGURDEv) | [chyxz](https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG), [SLOWYMANE](https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu) | [RAGNAROK](https://open.spotify.com/album/45pOAmgOLYGcAU9r4yscc9) | 3:15 | 2022-08-19 |  |
 | [Rainy Night Drive](https://open.spotify.com/track/5gbzQN044AiB69UiVuc6qZ) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw), [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6) | [Rainy Night Drive](https://open.spotify.com/album/2VTQ3wglK5i3Lm6TK0ns6J) | 2:39 | 2021-10-15 | 2022-07-02 |
 | [RAISE DEMONS](https://open.spotify.com/track/6WdazWqd9nZmBFC8qQ7F8E) | [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm), [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6) | [RAISE DEMONS](https://open.spotify.com/album/2NWZn1FNTjWeD4R5KCEdaJ) | 2:11 | 2021-10-01 | 2022-04-07 |
 | [RAMPAGE](https://open.spotify.com/track/0Lc8YJO7LoZdVpJM07GNjK) | [X\-WAYNE](https://open.spotify.com/artist/4tPzVZIEJrvlkAk2auLZcK), [SH3TLVIZ](https://open.spotify.com/artist/6cxRauJcPDwlZhQAXBSaTk) | [RAMPAGE](https://open.spotify.com/album/1vW7RvxWgwcyvN2R88Lcdr) | 2:31 | 2022-08-12 |  |

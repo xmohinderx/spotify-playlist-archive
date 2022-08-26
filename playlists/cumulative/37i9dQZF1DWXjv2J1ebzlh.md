@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,579 songs - 4 day 10 hr 7 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,580 songs - 4 day 10 hr 12 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Bsslama Hbibti](https://open.spotify.com/track/6RCZxdXm7mMtPY2JOIyKIn) | [Fadoul](https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:53 | 2022-06-09 |  |
 | [Bucabu](https://open.spotify.com/track/6qmGk1FXKvAfrYqy327yJZ) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Feliz Dia Del nombre Teresa](https://open.spotify.com/album/75152bkDiq0YhA614CdJ8L) | 4:48 | 2022-07-12 |  |
 | [Budi Setahun Segunung Intan](https://open.spotify.com/track/0nOdB3pUYURDusotlSsMuN) | [Datuk Ahmad Jais](https://open.spotify.com/artist/5DR3x1kevrEtZGk2FSSsB7), [Kartina Dahari](https://open.spotify.com/artist/1fOzHIScKPXsUOugUL3KQ5) | [Memori Hit](https://open.spotify.com/album/3vFf8DTJaYSf40I1PtyJTb) | 2:34 | 2022-07-12 |  |
+| [Bumayé \- Voilaaa Disco Remix](https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL) | [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Bumayé \(Voilaaa Disco Remix\)](https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB) | 4:27 | 2022-08-25 |  |
 | [Butsana mama](https://open.spotify.com/track/5h0eXs2LfZYdxZYcIebDKa) | [Grand Kalle](https://open.spotify.com/artist/3BwtfrNuPmkwSSo8lwcHGc) | [1966 \- 1967](https://open.spotify.com/album/6He2nwFJ4KZhxK7EaphcFR) | 2:37 | 2022-07-27 |  |
 | [Butsana mama](https://open.spotify.com/track/63ltdmcCMUmjA4siGBi25X) | [Grand Kalle](https://open.spotify.com/artist/3BwtfrNuPmkwSSo8lwcHGc) | [Joseph Kabasele and the Creation of Modern Congolese Music, Vol\. 2 \(Le Grand Kallé: His Life, His Music\)](https://open.spotify.com/album/0uUjbit5N7oX4dbVf6Lt0S) | 2:39 | 2022-07-12 | 2022-07-29 |
 | [Ca'\-Ba'\-Dab](https://open.spotify.com/track/5ZsxcXFzJelvUskUo7BVRz) | [Soul Swingers](https://open.spotify.com/artist/1WhVD7a6nxjSuvyC6ypq7v), [Black On White Affair, Ron Buford, The Overton Berry Trio](https://open.spotify.com/artist/34xjTFNXh8K9dSajfKYLhh), [Cookin' Bag](https://open.spotify.com/artist/5Hmuegn36WfV5N9KBhRM7R) | [Wheedle's Groove \- Seattle's Finest in Funk & Soul 1965\-75](https://open.spotify.com/album/47LtDToMAiWFznI0BROaj6) | 2:56 | 2022-07-12 |  |

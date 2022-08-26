@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-104 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
+105 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Matterhorn](https://open.spotify.com/track/0aQvN8BkxMBGDhnT9uW6hj) | [Pawbeats](https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L) | [IN](https://open.spotify.com/album/20J0A1KRAt3KVT0isb4a1k) | 4:29 | 2022-04-13 |  |
 | [Motion](https://open.spotify.com/track/25kGCuGWAYfyoz7RozlTpO) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Motion](https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp) | 3:11 | 2022-01-05 |  |
 | [Moving Slowly](https://open.spotify.com/track/596oi0xDA9ZQIHTLJr1Zg6) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Moving Slowly](https://open.spotify.com/album/7lCtm2VoakicgPRDsjS72W) | 3:17 | 2022-05-11 |  |
-| [Music For Growing Flowers \- Pt\. 7](https://open.spotify.com/track/3I2zndi9j1FAt30rA8ZHaz) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 4:55 | 2022-08-05 |  |
+| [Music For Growing Flowers \- Pt\. 7](https://open.spotify.com/track/3I2zndi9j1FAt30rA8ZHaz) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 4:55 | 2022-08-05 | 2022-08-26 |
+| [Music For Growing Flowers \- Pt\. 7](https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 4:55 | 2022-08-05 |  |
 | [My Friend the Forest](https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Tripping with Nils Frahm](https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh) | 6:08 | 2022-01-05 |  |
 | [Never Too Late](https://open.spotify.com/track/0nZwwXId1hXXMViqAQhIDr) | [David Bertok](https://open.spotify.com/artist/4pUdozZloGXueDV9VWkbwT), [Kara Eldridge](https://open.spotify.com/artist/0Wy9FLo6Li9C4xFNzfGixv) | [Peace by Chocolate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/534ha4mkw4memvHFijb3Ys) | 3:31 | 2022-05-11 |  |
 | [Open Your Eyes](https://open.spotify.com/track/1xZO09sn3Z0bsY0CsUcQdH) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Open Your Eyes](https://open.spotify.com/album/0j6ScdFEOTSlIxQAe5oiAc) | 2:37 | 2022-04-13 |  |

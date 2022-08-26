@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Janely Rosa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,610 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,645 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 87 | [Se Te Olvidó](https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Se Te Olvidó](https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA) | 3:06 |
 | 88 | [Ay Qué Pena](https://open.spotify.com/track/5MK1eRhpOSJ0PRfoyTXHVV) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ay Qué Pena](https://open.spotify.com/album/0z2XVtdknOawHBcW4OK2rs) | 2:36 |
 | 89 | [Ya No Me Importa](https://open.spotify.com/track/12rkhRzMY5uTZHviXYyBRf) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Ya No Me Importa](https://open.spotify.com/album/7FZGLlJEMDpfGOS21YKLOR) | 3:43 |
-| 90 | [Lo Siento](https://open.spotify.com/track/4z3y40WAWyUdrBOlURhExY) | [La Martita](https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz) | [Lo Siento](https://open.spotify.com/album/0IGP6C5YqaQqwlwGwAlpgc) | 2:39 |
+| 90 | [Simplemente Amigos](https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt) | [Nicole Padilla](https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv) | [Simplemente Amigos](https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc) | 2:55 |
 | 91 | [Instinto Animal](https://open.spotify.com/track/2vbfgWG5Jc0jv6h4nVyO8b) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Instinto](https://open.spotify.com/album/7myOOiCNgD8ciBKoqqbVQo) | 4:31 |
-| 92 | [Simplemente Amigos](https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt) | [Nicole Padilla](https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv) | [Simplemente Amigos](https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc) | 2:55 |
+| 92 | [Lo Siento](https://open.spotify.com/track/4z3y40WAWyUdrBOlURhExY) | [La Martita](https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz) | [Lo Siento](https://open.spotify.com/album/0IGP6C5YqaQqwlwGwAlpgc) | 2:39 |
 | 93 | [Por Tu Perra Decisión](https://open.spotify.com/track/2fgpM626rTMByq9GYEAYC6) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Por Tu Perra Decisión](https://open.spotify.com/album/2hcjsoV8pRBNTyojGPE2xZ) | 2:56 |
 | 94 | [Jefe De La Plaza](https://open.spotify.com/track/7mXuZOGs63m6dipfm2D1M0) | [La Dama Brava](https://open.spotify.com/artist/1gih3S3zpg3aJz7Y9Q0v6K) | [Andan Hablando De Mi](https://open.spotify.com/album/5MxHjNgVXSaie2hDyMCb1c) | 2:49 |
 | 95 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 | 100 | [Cielo Rojo \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/4oEEJNX2pRZGS9AYhHPATV) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 4:18 |
 
-Snapshot ID: `MTY1OTA3NDkzMCwwMDAwMDAwMDFiODQ1OTAwODg4YzI2NmViMDQwNGQzMjdlMzIyYjYw`
+Snapshot ID: `MTY1OTA3NDkzMCwwMDAwMDAwMDlkM2U4MmFmMGZkNmQ1YmMxZWZhYjZkMDM4YmUwZjBi`

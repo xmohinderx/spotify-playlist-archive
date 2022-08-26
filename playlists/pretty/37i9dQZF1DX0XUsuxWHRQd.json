@@ -1,12 +1,12 @@
 {
   "description": "Music from Drake, Offset and 42 Dugg.",
-  "num_followers": 14621950,
+  "num_followers": 14624964,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MTY0OCwwMDAwMDAwMGNlZjNmNzZjZmI1M2QyYmIyZDkwMWNlMzIwMjgwOGVl",
+  "snapshot_id": "MTY2MTQwMDAwMCwwMDAwMDAwMGJjYjdhNzRkMDc1YmRmNjk3YjcyNzRiMDEwNmExZDg0",
   "tracks": [
     {
       "added_at": "2022-08-22 18:07:28",
@@ -185,20 +185,20 @@
       "url": "https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg"
     },
     {
-      "added_at": "2022-08-22 18:07:28",
+      "added_at": "2022-08-25 04:00:00",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/1yX1ZzW6TBvQ1qeNpbiONH"
       },
       "artists": [
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         }
       ],
-      "duration_ms": 138673,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY"
+      "duration_ms": 232506,
+      "name": "All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",
+      "url": "https://open.spotify.com/track/12PNcnMsjsZ3eHm62t8hiy"
     },
     {
       "added_at": "2022-08-22 18:07:28",
@@ -339,6 +339,22 @@
       "duration_ms": 192137,
       "name": "I KNOW",
       "url": "https://open.spotify.com/track/7N17JE5sPConOSeEIC5AnS"
+    },
+    {
+      "added_at": "2022-08-22 18:07:28",
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 138673,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY"
     },
     {
       "added_at": "2022-08-22 18:07:28",

@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Kappa Jotta entra na zona.
+> Plutonio entra na zona.
 
-98 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+101 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 | 2022-07-16 |  |
 | [Dona](https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s) | [Dona](https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo) | 4:05 | 2022-08-11 |  |
 | [Eqlibrio](https://open.spotify.com/track/3DBE7Y8iUKvBiTemUAVBxr) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Eqlibrio](https://open.spotify.com/album/0G6VzSlavGHhp2NCAWNbnz) | 4:31 | 2022-08-04 | 2022-08-12 |
+| [Errado Ou Certo](https://open.spotify.com/track/25mjzt2zSXWSMgOwliEaVW) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Errado Ou Certo](https://open.spotify.com/album/6Ldl8CFN2ekAROeSqSDKXZ) | 4:12 | 2022-08-25 |  |
 | [ES7ÁDIO](https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [ES7ÁDIO](https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq) | 3:37 | 2022-07-16 |  |
 | [Estadia](https://open.spotify.com/track/1ivRu9ANM1hYBgeNDZyRmX) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Estadia](https://open.spotify.com/album/7rHFACi1s7gKshBvKBCbDN) | 3:27 | 2022-07-16 |  |
 | [EUROPA \(feat\. Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [EUROPA \(feat\. Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 | 2022-07-16 |  |
@@ -52,7 +53,7 @@
 | [Filha Da Tuga](https://open.spotify.com/track/45xbI2zYwzO0eZRplOtn5b) | [Irma](https://open.spotify.com/artist/06bkZI3iWhUmFYWNovMkCp) | [Filha da Tuga](https://open.spotify.com/album/0Y02EPeDM8ULYof2SbV7aN) | 2:46 | 2022-07-21 | 2022-08-12 |
 | [Floating](https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Floating](https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW) | 3:06 | 2022-07-16 |  |
 | [GOD MODE](https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [GOD MODE](https://open.spotify.com/album/6y8APcv5ZwKstmaTBD5Jqf) | 4:14 | 2022-07-16 |  |
-| [Golo](https://open.spotify.com/track/3D2xdEo5tgemOTwIhBq7W4) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Noname](https://open.spotify.com/artist/6xf1SJx82RDLL6wdSDDZXI) | [Golo](https://open.spotify.com/album/6qKW4hsTZL2M2O9lj8jFBe) | 2:54 | 2022-08-04 |  |
+| [Golo](https://open.spotify.com/track/3D2xdEo5tgemOTwIhBq7W4) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Noname](https://open.spotify.com/artist/6xf1SJx82RDLL6wdSDDZXI) | [Golo](https://open.spotify.com/album/6qKW4hsTZL2M2O9lj8jFBe) | 2:54 | 2022-08-04 | 2022-08-26 |
 | [HGS](https://open.spotify.com/track/5Q0GBUZ8UAXkuBk3fs1Qzh) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [HGS](https://open.spotify.com/album/5PcvUawRRRaAEOJD3AGTIQ) | 2:53 | 2022-07-16 | 2022-08-02 |
 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 | 2022-07-16 |  |
 | [Kala Boka \(Freestyle\)](https://open.spotify.com/track/55XDPmIcLcO79LvrD2BVVM) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [Kala Boka \(Freestyle\)](https://open.spotify.com/album/4FqGp6VMERncBlCWHovVUB) | 2:49 | 2022-07-16 | 2022-07-22 |
@@ -76,12 +77,13 @@
 | [Nu Ta Camba Na Opp Block](https://open.spotify.com/track/6Fxjfyh1nE9So39sT8suXX) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [Nu Ta Camba Na Opp Block](https://open.spotify.com/album/3KrAGYhOmGbTr6aEHqk0cK) | 3:20 | 2022-08-18 |  |
 | [Nu Ta Txiga La](https://open.spotify.com/track/3oi9YkcoEbb0B0LpvT1xPM) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Nu Ta Txiga La](https://open.spotify.com/album/7x85yvxeZjbBFT1UzYpZWU) | 2:54 | 2022-08-01 |  |
 | [Não há impossíveis](https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Não há impossíveis](https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI) | 2:34 | 2022-07-16 |  |
-| [Não Se Apaga](https://open.spotify.com/track/0LiKroEN7hpEbN7rhhPOR6) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Não Se Apaga](https://open.spotify.com/album/7hbucpKi4oPK6OxIY8MVoi) | 2:55 | 2022-08-01 |  |
+| [Não Se Apaga](https://open.spotify.com/track/0LiKroEN7hpEbN7rhhPOR6) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Não Se Apaga](https://open.spotify.com/album/7hbucpKi4oPK6OxIY8MVoi) | 2:55 | 2022-08-01 | 2022-08-26 |
 | [O que é que tens feito?](https://open.spotify.com/track/5cGy4NKlMprapxERb9AZk6) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I) | [O que é que tens feito?](https://open.spotify.com/album/7o3GVre0rpEWG7309P7q6v) | 3:11 | 2022-07-16 |  |
 | [Oito Cinco Stilo \#5](https://open.spotify.com/track/2ol7cBavps3G6XVHskBQET) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Páchá](https://open.spotify.com/artist/4gkJgT80RY71b2GoeTs5cQ) | [Oito Cinco Stilo \#5](https://open.spotify.com/album/106e5P9QTJ7CWsNum1o5qe) | 3:05 | 2022-07-16 | 2022-08-02 |
 | [Oxigénio \(feat\. LON3R JOHNY & Piri\_bxd\)](https://open.spotify.com/track/1xZAXX6f4odgAXtd1zLvmo) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [D'ay](https://open.spotify.com/artist/65pBw5z7QlvhAGZvlzjmWA), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Piri\_bxd](https://open.spotify.com/artist/3ZS6P4TT29hji0nd1UM8pR) | [Oxigénio \(feat\. LON3R JOHNY & Piri\_bxd\)](https://open.spotify.com/album/1S0YjdOZZYAgwCz66yMQ8N) | 4:39 | 2022-07-16 |  |
 | [Papaia](https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:02 | 2022-07-16 |  |
 | [Peso](https://open.spotify.com/track/0jqh2tqBk2MSTP3E16ns2E) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Peso](https://open.spotify.com/album/5wDWNP3B0t6ptHtUGNIhza) | 2:52 | 2022-07-16 |  |
+| [Pinta Manta](https://open.spotify.com/track/3JQBiS1BHgoIQ8rerXQCcX) | [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi), [Mc Acondize](https://open.spotify.com/artist/39yq2GrGjYbLCZE4d2cRvZ) | [Pinta Manta](https://open.spotify.com/album/4h7VKfONb0AHBtOfOWv5w9) | 3:07 | 2022-08-25 |  |
 | [Popo](https://open.spotify.com/track/24QcmVdz7CwEYhohJxJ4EX) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Harley KSD](https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D) | [Popo](https://open.spotify.com/album/6V1YM7CbiOwqwIEa73riB3) | 3:19 | 2022-07-16 |  |
 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 | 2022-07-16 |  |
 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-07-16 |  |
@@ -93,6 +95,7 @@
 | [Rock](https://open.spotify.com/track/2tubwnOo6pAp2KvcwIWF02) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Rock](https://open.spotify.com/album/6wHyH4x6k4wmF410HE9RJH) | 2:59 | 2022-07-16 | 2022-08-19 |
 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 | 2022-07-16 |  |
 | [Sabi na Sabura](https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sabi na Sabura](https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7) | 3:06 | 2022-07-16 |  |
+| [Shin Chan](https://open.spotify.com/track/5RD8mlX4m6jRGgiW1BYU6h) | [PAULELSON](https://open.spotify.com/artist/2eAoYU1GFYA7zDRIALrJfq) | [Shin Chan](https://open.spotify.com/album/3dE59HkocFHQh031wtJE7o) | 2:58 | 2022-08-25 |  |
 | [Sincero](https://open.spotify.com/track/5lFPKg1V8SzUfnEcOnAytH) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Sincero](https://open.spotify.com/album/3diq45ijbp2PflUJlZZIRU) | 2:42 | 2022-08-18 |  |
 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 | 2022-07-16 |  |
 | [Stunka](https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Stunka](https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf) | 3:08 | 2022-07-16 |  |

@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-137 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
+138 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Lady Bird](https://open.spotify.com/track/27uhM2BAIaSi5OvtBbPdRk) | [DK Dineshkumar](https://open.spotify.com/artist/5JmvYaSYnC9N63aYd8GBOM), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW) | [Lady Bird](https://open.spotify.com/album/2b7qf3j0wgO9wSHiEgo9Bb) | 3:27 | 2021-12-01 |  |
 | [Lyrical Crime](https://open.spotify.com/track/1WnY7mnjjImeSb4FylOoN8) | [Slim KD](https://open.spotify.com/artist/09WwWdZUQKu1HHMfyYdLWI), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [King Oficl](https://open.spotify.com/artist/1G08xWMiSkFYWQBGFhm3wX) | [Lyrical Crime](https://open.spotify.com/album/6428QRh1hrjWuna1MNpWc3) | 4:29 | 2021-12-01 | 2022-08-24 |
 | [Ma Carrotz](https://open.spotify.com/track/2HdXZ7g9XuSYMX5C9dguE4) | [Rabbit Mac](https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7) | [Ma Carrotz](https://open.spotify.com/album/0og1Tkn9vVjSpKPZ1pRVAf) | 4:00 | 2021-12-01 | 2022-08-24 |
+| [Maari Mazhaiyila Thavala](https://open.spotify.com/track/20Laa9YU8RVHZ9iGKMeM7w) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF) | [Maari Mazhaiyila Thavala](https://open.spotify.com/album/754TTixoJkmxR8F8zt0XTa) | 3:31 | 2022-08-25 |  |
 | [Mami](https://open.spotify.com/track/2cjrn6oI6BAs3d1KqkpSxB) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Mami](https://open.spotify.com/album/7a4D0dQEbyuhfokz9cuvCI) | 2:58 | 2021-12-01 | 2022-06-09 |
 | [My Indian Girl](https://open.spotify.com/track/5budGGTak2cMuHm8XG9p3A) | [Switch \- Lock Up](https://open.spotify.com/artist/4JzjU9Er2Vd8k4HFNEFVC1) | [Savadi\(Individual Album Soundtrack\)](https://open.spotify.com/album/5tWjOWqOl4Sojh6j7V2DJJ) | 3:50 | 2021-12-01 |  |
 | [N.I.G.A](https://open.spotify.com/track/73ajgrXAIIMcRkkY8KI7Fk) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Dishonored](https://open.spotify.com/album/0Uwo5TPUBf1URumhDYPPrE) | 2:10 | 2022-01-05 | 2022-06-16 |

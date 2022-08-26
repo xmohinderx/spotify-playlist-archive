@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-2,991 songs - 4 day 19 hr 54 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+2,993 songs - 4 day 19 hr 58 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [August](https://open.spotify.com/track/7gN1MJGsdP0L2ENMjWw9zi) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [August](https://open.spotify.com/album/2XANU3KjgZaGcrncErOD1a) | 2:06 | 2020-09-26 | 2021-05-14 |
 | [August \- Vacant](https://open.spotify.com/track/0f9mCjcefox0H8ucJkvSqa) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [August \- Vacant](https://open.spotify.com/album/1b94gdhIXWmoj1RIwi3yXs) | 2:35 | 2019-08-30 | 2019-12-20 |
 | [auras](https://open.spotify.com/track/0c6yUkSXOx7GseW24IbS0V) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [auras](https://open.spotify.com/album/5hVjFNVS0blgqbkSt5efzh) | 1:45 | 2020-02-01 | 2020-05-12 |
-| [Aurora](https://open.spotify.com/track/37epo0IlVLqTNr6Ci8kLSq) | [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Aurora](https://open.spotify.com/album/1LMvx21eGyqHtp7HHkWSwq) | 1:55 | 2021-10-01 |  |
+| [Aurora](https://open.spotify.com/track/37epo0IlVLqTNr6Ci8kLSq) | [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Aurora](https://open.spotify.com/album/1LMvx21eGyqHtp7HHkWSwq) | 1:55 | 2021-10-01 | 2022-08-26 |
 | [Aurora](https://open.spotify.com/track/5QXvre4KBjK3eIIGLxxRU6) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Aurora](https://open.spotify.com/album/02ZPHbsCswRxYlrRSqP8dv) | 2:11 | 2021-09-25 | 2021-11-12 |
 | [Austice](https://open.spotify.com/track/0u2uxVKD5EBRoHmmxInQBU) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Austice](https://open.spotify.com/album/154TDZcefDN8qYc5z9Phyy) | 2:47 | 2022-04-07 | 2022-05-27 |
 | [Autobahn](https://open.spotify.com/track/6PZBrvLWFyNqR5dNygBtuf) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Autobahn](https://open.spotify.com/album/08waMmJCkz4y5BLadtQbpk) | 1:14 | 2021-03-26 | 2021-07-16 |
@@ -271,6 +271,7 @@
 | [Better Times](https://open.spotify.com/track/1Ku09oZae2A0jmznumSKWN) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Better Times](https://open.spotify.com/album/2cxoKTF3fhtaIl6clGW3B1) | 1:50 | 2021-06-25 | 2021-07-23 |
 | [Between Waves](https://open.spotify.com/track/7BlRx52vRmpTUXYLRiNZsR) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Between Waves](https://open.spotify.com/album/2MGgUdBvYITe0PU5kQB43M) | 2:37 | 2020-05-30 | 2020-08-07 |
 | [Beyond](https://open.spotify.com/track/6jDf8XD3fMm3P1vMLvHZ6w) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Beyond](https://open.spotify.com/album/3QCEvkw9ddTF5WOyL3nPkl) | 1:46 | 2022-07-21 | 2022-07-29 |
+| [beyond the pines](https://open.spotify.com/track/3eWpsLe9tMeSAAEnPN8OGA) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [beyond the pines](https://open.spotify.com/album/53go6havwrx2e6kqQVvoM8) | 1:51 | 2022-08-18 |  |
 | [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 | 2022-03-31 |  |
 | [Big City Vibe](https://open.spotify.com/track/6q04BcK0qYeu9XOHgVsPxV) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Big City Vibe](https://open.spotify.com/album/3fspqodqLIiUQceni8iSKN) | 2:56 | 2022-05-12 | 2022-05-26 |
 | [Big Time](https://open.spotify.com/track/6uEyAx80fBHRDPkVySJSZe) | [Max I Million](https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf) | [Big Time](https://open.spotify.com/album/2zpgBfbNMzSE3l0XCbcAPy) | 2:03 | 2021-02-06 | 2021-02-20 |
@@ -858,6 +859,7 @@
 | [Fireplace](https://open.spotify.com/track/4d8KIV6NeCmxzQ12ATE6x0) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [Fireplace](https://open.spotify.com/album/5IGYr3ediVd62FbU6yap8r) | 2:15 | 2020-05-25 | 2020-08-04 |
 | [First Date](https://open.spotify.com/track/7oHE4lQulc9fvVbOoGT5Np) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [First Date](https://open.spotify.com/album/7ufpwvaPyIOSnkiw7RFoQN) | 1:52 | 2022-03-24 |  |
 | [First Kiss at That Bridge](https://open.spotify.com/track/5NHLyPfsFus9tffkQfNRBp) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [First Kiss at That Bridge](https://open.spotify.com/album/6DczeJH1wnjhO2LusrxvEY) | 1:44 | 2021-05-29 | 2021-07-16 |
+| [Five Pants](https://open.spotify.com/track/0yBYOuWJ0ZvkKiYzq95otA) | [Bezzix](https://open.spotify.com/artist/7wHZfDkun9PmNEJuh9wh69), [Fonsey](https://open.spotify.com/artist/5rHzvi8pBFTMdWhVbeisRR) | [DAY 1](https://open.spotify.com/album/0FMKiC9HnUqHX56cUvEnC3) | 2:18 | 2022-08-18 |  |
 | [Flakes](https://open.spotify.com/track/0MgmmYnlrjM5UXsYKIRsbV) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Flakes](https://open.spotify.com/album/4aE8kXASUeG9wiH7Gx7xLz) | 1:54 | 2022-01-27 | 2022-07-15 |
 | [Flamingo Jazz](https://open.spotify.com/track/5VsQlsfxkqJebeGjLN8pEb) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Flamingo Jazz](https://open.spotify.com/album/25bXhiBEHi95DEjTIFONMA) | 1:57 | 2021-10-01 | 2022-05-13 |
 | [Flamingo Love](https://open.spotify.com/track/1Ndxg7ku5Scf5uQN3DAddR) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Márcio Tubino](https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s) | [Flamingo Love](https://open.spotify.com/album/5gCiTgxCJzLQXwFndrrIUQ) | 1:43 | 2021-07-08 | 2021-08-20 |
@@ -2269,7 +2271,7 @@
 | [Shibuya Station](https://open.spotify.com/track/16mlaFRQkpfUxlrg1OWWZa) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Shibuya Station](https://open.spotify.com/album/2Li1FntMdbzK1qT57uL90w) | 2:15 | 2022-07-14 |  |
 | [Shine](https://open.spotify.com/track/3KhuRg1cK2NSGFBG1D5SRg) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6) | [Shine](https://open.spotify.com/album/7Fs7MsqeMY4dlEKm2jrSVb) | 1:54 | 2020-06-05 | 2020-08-08 |
 | [Ship Has Sailed](https://open.spotify.com/track/28ZSHQYTUVoVVu3tMHf6Q3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 3:16 | 2021-07-04 | 2021-09-10 |
-| [Shipping Included](https://open.spotify.com/track/2N5acVYBPwXHVxcSJZhI0Y) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Shipping Included](https://open.spotify.com/album/4W520GUpPfXgx7O78dmJI0) | 1:44 | 2021-09-10 |  |
+| [Shipping Included](https://open.spotify.com/track/2N5acVYBPwXHVxcSJZhI0Y) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Shipping Included](https://open.spotify.com/album/4W520GUpPfXgx7O78dmJI0) | 1:44 | 2021-09-10 | 2022-08-26 |
 | [Shorebreak](https://open.spotify.com/track/7nOB52izsr8QCUP6IdvMZF) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Shorebreak](https://open.spotify.com/album/04cnaZIcMfSDc5EKbqOOdE) | 1:21 | 2022-08-04 |  |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2021-08-14 | 2021-11-26 |
 | [Signal](https://open.spotify.com/track/5lJ5yLyU2tpN7Y2fvEgN3a) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Signal](https://open.spotify.com/album/6MbqxLIUE4O6SMpRXWX1dw) | 2:36 | 2021-03-27 | 2021-08-27 |

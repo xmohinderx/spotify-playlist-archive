@@ -11651,6 +11651,32 @@
     {
       "album": {
         "name": "Magnets",
+        "url": "https://open.spotify.com/album/4NH32nwjRYSWACBV95Pm7j"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Dead Rose",
+          "url": "https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Magnets",
+      "url": "https://open.spotify.com/track/2VSPDYhB0070TTuL0ySE7b"
+    },
+    {
+      "album": {
+        "name": "Magnets",
         "url": "https://open.spotify.com/album/0zW1I56aQjsrJsGpxneROQ"
       },
       "artists": [
@@ -11669,7 +11695,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 219666,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/2qoVyX8fGrZezlqgmQxMxz"

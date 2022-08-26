@@ -4,7 +4,7 @@
 
 > Enjoy music from "BORUTO"! / 音楽で辿る「BORUTO\-ボルト\- NARUTO NEXT GENERATIONS」の世界。 ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-88 songs - 3 hr 58 min - not published yet
+89 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/1fKVvKbKG8fN7rLtOqoRGk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [VOLTAGE](https://open.spotify.com/track/1ochPJNz2afOUWuFKm18zm) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [VOLTAGE](https://open.spotify.com/album/3z5JK4QaE9LvXveYO5q695) | 3:49 | 2022-07-12 |  |
 | [Who are you?](https://open.spotify.com/track/2jjtyENFrV2g4XocVqjUGi) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [Who are you? / 星座して二人](https://open.spotify.com/album/3y24ZDMTWldEr0NASCKErU) | 3:29 | 2022-07-12 |  |
 | [Wish on](https://open.spotify.com/track/1ArUd4v4xfXbCbcJG6kuRy) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Wish on](https://open.spotify.com/album/0Psh6aWhxCMZEho0B0z8Kq) | 4:00 | 2022-07-12 |  |
+| [きらりらり](https://open.spotify.com/track/4GQjav2jvs9tmbC0KkYtCj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [きらりらり](https://open.spotify.com/album/7iXTH7HUVN26FCK1RoBiG4) | 3:42 | 2022-08-25 |  |
 | [はじまっていく たかまっていく](https://open.spotify.com/track/0YNCH9g8CqoCZ71lN49FKB) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [はじまっていく たかまっていく](https://open.spotify.com/album/6uPo4jZ8Sd08sw98VG5sP7) | 4:09 | 2022-07-12 |  |
 | [キミがいたしるし](https://open.spotify.com/track/0Fml1C5sidfN0tEYcQQ6L8) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [キミがいたしるし](https://open.spotify.com/album/7yJeoO13KSi7srzbdXWlnb) | 3:53 | 2022-07-12 |  |
 | [ゴールデンタイム](https://open.spotify.com/track/3LHMKncuCBFhHZTN306bgt) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [ゴールデンタイム](https://open.spotify.com/album/3q35n4SSD3aZ47kOVs7V3f) | 3:12 | 2022-07-12 |  |

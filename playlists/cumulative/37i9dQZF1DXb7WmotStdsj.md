@@ -4,7 +4,7 @@
 
 > The very best Rai hits\. Cover: Cheb Bello.
 
-59 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+60 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Homa Dayrine Haka](https://open.spotify.com/track/3I3ZjOzrVyyF3OS4MvOyy7) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Homa Dayrine Haka](https://open.spotify.com/album/17AqvRrbZYASiJnCT78qX0) | 4:26 | 2021-10-19 |  |
 | [I Am Crazy, Vol\. 1 \- La guerre de l'amour](https://open.spotify.com/track/581Q5vjsfwtJhZA1zXfCXd) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [I Am Crazy, Vol\. 1 \(La guerre de l'amour\)](https://open.spotify.com/album/5cYihB12ii8hF1VfueWwlV) | 3:19 | 2021-10-19 |  |
 | [Jabetli Ljah](https://open.spotify.com/track/7sIr0SWz4zeZRt8NuV112j) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Jabetli Ljah](https://open.spotify.com/album/5rHwMQTSEBYs2s2HRE7rcH) | 8:00 | 2021-10-19 |  |
+| [Jarima Electronia 2](https://open.spotify.com/track/270PYzhVwT8pdPyAZEGNRa) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Jarima Electronia 2](https://open.spotify.com/album/4bRkfEXwYPwzwPUDhQJW7W) | 4:10 | 2022-08-25 |  |
 | [Jarima Iliktrouniya](https://open.spotify.com/track/20tf9xOw4V0y0wHgoLfTE7) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Jarima Iliktrouniya](https://open.spotify.com/album/5SnCFCzvjA7TxYg8KHI7FO) | 4:41 | 2021-10-19 |  |
 | [Je t'aime Nabghik](https://open.spotify.com/track/0zfjT2rhnfNNU6fxU5VXZI) | [Cheb Nasro](https://open.spotify.com/artist/1qYpnd9rnstqqrGNYfwYNP) | [Je t'aime Nabghik](https://open.spotify.com/album/5REaPr2bCKjE4spQvIJDdX) | 5:01 | 2021-10-19 |  |
 | [Khada3a Spécialiste](https://open.spotify.com/track/2jD3erMPrQVxnVXRRGLutg) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Khada3a Spécialiste](https://open.spotify.com/album/51DtZ6PI6AjWTx6N8L6EYH) | 5:08 | 2021-10-19 |  |

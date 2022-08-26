@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Maya Hawke
 
-4,049 songs - 9 day 21 hr 59 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,050 songs - 9 day 22 hr 2 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -764,7 +764,8 @@
 | [Crying All the Time](https://open.spotify.com/track/1zWuklkqSiPQjcJB0PbBye) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Crying All the Time](https://open.spotify.com/album/53LIc7CtquRH8ftyok9Br0) | 3:30 | 2019-06-14 | 2019-08-13 |
 | [Crying at CVS](https://open.spotify.com/track/5Zci5CbR7aJftdHCPJVP0M) | [Kilder](https://open.spotify.com/artist/7DvSsGJcVuhweaoQu7nta0), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Crying at CVS](https://open.spotify.com/album/5G0T45PfRA7Mb2mKuU7Um2) | 3:16 | 2021-04-24 | 2021-06-26 |
 | [Crying In Public \- MUNA Remix](https://open.spotify.com/track/6ouu4XNaN3pQMRo6BUvsaV) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Crying In Public \(MUNA Remix\)](https://open.spotify.com/album/5CG5Hrcv8PYM6GMIbTGBkI) | 3:58 | 2021-11-05 | 2022-02-05 |
-| [Crying in the Club](https://open.spotify.com/track/2i2ctngb7IE9IhoZ3AA1Ey) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Crying in the Club](https://open.spotify.com/album/0EAQUkyRH0RUBHzzt9Sr42) | 3:05 | 2022-08-19 |  |
+| [Crying in the Club](https://open.spotify.com/track/2i2ctngb7IE9IhoZ3AA1Ey) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Crying in the Club](https://open.spotify.com/album/0EAQUkyRH0RUBHzzt9Sr42) | 3:05 | 2022-08-19 | 2022-08-26 |
+| [Crying in the Club](https://open.spotify.com/track/440bHvLOgExwePapxmMtGI) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/3GuSAYm0w5TMJ6k0qeftwt) | 3:05 | 2022-08-19 |  |
 | [Crying In The Club](https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:50 | 2021-11-06 | 2021-12-18 |
 | [Crying Laughing](https://open.spotify.com/track/1Or40PNuvot5Sd5ZQmA4GX) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Crying Laughing](https://open.spotify.com/album/3MQpRzIE09xol5Y1nKMrwD) | 3:34 | 2022-03-18 | 2022-05-07 |
 | [Crying On My Own](https://open.spotify.com/track/0RrsFlWwmBxPA96PIMwhsu) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Crying On My Own](https://open.spotify.com/album/0L8dLRDXS1neezbmE0QiVP) | 3:35 | 2020-09-25 | 2020-10-16 |

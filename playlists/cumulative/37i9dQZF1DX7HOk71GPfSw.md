@@ -4,7 +4,7 @@
 
 > new skaiwater
 
-1,385 songs - 2 day 15 hr 0 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,386 songs - 2 day 15 hr 3 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1066,6 +1066,7 @@
 | [sellout](https://open.spotify.com/track/082x0jRDbx8Zsme0enu32B) | [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf), [soupandreas](https://open.spotify.com/artist/5dPMuKQtWLLl1Thw1Bf8h9) | [sellout](https://open.spotify.com/album/4NXkykEZ2yDsCqgr1kAc9O) | 2:25 | 2022-07-01 | 2022-08-03 |
 | [Sent 2 Earth](https://open.spotify.com/track/0pL3zG5WLau7PuUioSdiNs) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze), [Bleachh](https://open.spotify.com/artist/08JIRTIjSUPGQduJFVDXU2) | [Sent 2 Earth](https://open.spotify.com/album/0rKbpFp229J0dA4RjNS3pO) | 2:24 | 2021-06-06 | 2021-07-15 |
 | [serialkilled](https://open.spotify.com/track/50BnBMAaNwlFcedkifEjxi) | [p4rkr](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [serialkilled](https://open.spotify.com/album/34C3EC4r4pof6IiZdRtemr) | 1:47 | 2021-05-17 | 2021-05-28 |
+| [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 | 2022-08-25 |  |
 | [Shade \- kmoe remix](https://open.spotify.com/track/1XmrSAn9lvlwhVvsHn0Jde) | [MOSSY](https://open.spotify.com/artist/2VWRHe5C0twed36GOerpK5), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Shade \(kmoe remix\)](https://open.spotify.com/album/3kD8EsAWdUbSmDhAXwFIPR) | 2:13 | 2021-09-23 | 2022-01-13 |
 | [Shame](https://open.spotify.com/track/2SGlRbQZwOID4xScKqF0lC) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Shame](https://open.spotify.com/album/6fO4Vk4VasFr0T7T0ioiOJ) | 1:28 | 2021-11-26 | 2022-02-26 |
 | [shattered](https://open.spotify.com/track/38ZzjQtDm7n5DujFxdavrQ) | [mental](https://open.spotify.com/artist/7rQMXIWKXSMkd7dK8LQ7a4), [blxty](https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p) | [shattered](https://open.spotify.com/album/2XkYVKwAFgIRciEf9h3VuG) | 2:31 | 2021-01-23 | 2021-09-21 |
@@ -1322,7 +1323,7 @@
 | [WASTE \(feat\. Iglooghost\)](https://open.spotify.com/track/468TzlkkafOS5PQdpD7N19) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [MiiRROR](https://open.spotify.com/album/4LOTHiQAhGiEMXMBHYev3N) | 5:01 | 2021-05-24 | 2021-09-18 |
 | [WASTE AWAY](https://open.spotify.com/track/2ILWsJi5dbibvQ0W3UDw4D) | [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd), [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [dejected, pt1](https://open.spotify.com/album/5Rq9bSZs7U3CJjphpET6i0) | 2:08 | 2021-01-08 | 2021-02-10 |
 | [waste uv time](https://open.spotify.com/track/5AbAAcoeb7TpLtC5DZSax5) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Lain](https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B) | [waste uv time](https://open.spotify.com/album/5pnfwq022bivb3FySGS8CX) | 1:54 | 2021-01-08 | 2021-02-10 |
-| [WASTED](https://open.spotify.com/track/3fPnvjoIrcyW6CILe5yT9Z) | [dev soter](https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy), [STEFAN THEV](https://open.spotify.com/artist/3kggahr7S6paKpAN6EMKVM) | [WASTED](https://open.spotify.com/album/3DKuUHJP5Ar7COGhm7g26i) | 2:06 | 2022-04-15 |  |
+| [WASTED](https://open.spotify.com/track/3fPnvjoIrcyW6CILe5yT9Z) | [dev soter](https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy), [STEFAN THEV](https://open.spotify.com/artist/3kggahr7S6paKpAN6EMKVM) | [WASTED](https://open.spotify.com/album/3DKuUHJP5Ar7COGhm7g26i) | 2:06 | 2022-04-15 | 2022-08-26 |
 | [Watch](https://open.spotify.com/track/7dXD5KXxYVTpAv6Bcsp85c) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 2:28 | 2021-02-10 | 2021-02-26 |
 | [Watch Me](https://open.spotify.com/track/26nkRghL4ROI2GdxjJ2ZQG) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/75mwsGyTLIsi3PnxFxz061) | 2:56 | 2020-10-13\* | 2021-01-08 |
 | [Watching Me](https://open.spotify.com/track/6W7YA3l991G0bQWAjfHacr) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Comedown](https://open.spotify.com/album/4lljkzrRgp46X68STKmJbj) | 1:58 | 2021-10-20 | 2022-01-29 |

@@ -1,13 +1,49 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy?si=WLk1KzhATZeeHy2pi-KrRw\"> NATIVE Sound System </a> ",
-  "num_followers": 62946,
+  "num_followers": 62987,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MTIwMCwwMDAwMDAwMDM1MzgxODZkZTJlNmFiM2YzMjkzMjk0ZjBhODY0MGJm",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDgyZjQ1YmU5MDA0NmE5Mjc3MTBiMGM2NmI4ZWEzOGRi",
   "tracks": [
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "duration_ms": 154615,
+      "name": "Soft Life",
+      "url": "https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "TSA",
+        "url": "https://open.spotify.com/album/0D2tnmncRftiOd4gHJPmde"
+      },
+      "artists": [
+        {
+          "name": "Ronehi",
+          "url": "https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv"
+        },
+        {
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "TSA",
+      "url": "https://open.spotify.com/track/6XdOjNrHqh1i0VXnk2lYnK"
+    },
     {
       "added_at": "2022-08-22 18:00:00",
       "album": {
@@ -23,6 +59,22 @@
       "duration_ms": 136800,
       "name": "In My Mind - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Guns&Roses (QuestionYaHeart)",
+        "url": "https://open.spotify.com/album/1Peac33r475KxGeggGxKvP"
+      },
+      "artists": [
+        {
+          "name": "Ay\u00fc\u00fc",
+          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Guns&Roses (QuestionYaHeart)",
+      "url": "https://open.spotify.com/track/0dbUId7P0gcHUvgroQm6Qj"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -143,6 +195,26 @@
       "duration_ms": 138260,
       "name": "Action",
       "url": "https://open.spotify.com/track/6GynhMpLIO4E0LtjIVyFWI"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Festival of the Sun",
+        "url": "https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -331,6 +403,30 @@
       "duration_ms": 180576,
       "name": "Henny On Ice",
       "url": "https://open.spotify.com/track/5eSmyzCde26A6AZgJ6KEF6"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/7Mg7s1UT9xl5u0n6EpBv6t"
+      },
+      "artists": [
+        {
+          "name": "Stevjazz",
+          "url": "https://open.spotify.com/artist/0iNiJWkRzmHunJnPPeP7ri"
+        },
+        {
+          "name": "Jujuboy Star",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
+        },
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        }
+      ],
+      "duration_ms": 114174,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/61ro0prgAjKysf8STfmP31"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -759,26 +855,6 @@
       "duration_ms": 160000,
       "name": "5STAR",
       "url": "https://open.spotify.com/track/2SbUl2NjInfY4DyeEzZS7d"
-    },
-    {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Bad S.L.U.T",
-        "url": "https://open.spotify.com/album/6DuWhnSyE8YAWbA8L7Qjtj"
-      },
-      "artists": [
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
-        },
-        {
-          "name": "Mowalola",
-          "url": "https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh"
-        }
-      ],
-      "duration_ms": 99136,
-      "name": "Bad S.L.U.T",
-      "url": "https://open.spotify.com/track/1kMTXy8EzI5ajckswMQ5C1"
     },
     {
       "added_at": "2022-07-28 23:00:00",

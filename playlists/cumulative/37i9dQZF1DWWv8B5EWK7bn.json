@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Liberdade \u00e9 Cara",
+        "url": "https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq"
+      },
+      "artists": [
+        {
+          "name": "Flak",
+          "url": "https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4"
+        },
+        {
+          "name": "Cachupa Psicadelica",
+          "url": "https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380973,
+      "name": "A Liberdade \u00e9 Cara",
+      "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
+    },
+    {
+      "album": {
         "name": "Adkrog",
         "url": "https://open.spotify.com/album/5RhEQC5P2yUwkSboIgMYrC"
       },
@@ -2115,7 +2137,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 240800,
       "name": "Setu (feat. Gareth Jones)",
       "url": "https://open.spotify.com/track/1A86VFnly66e3OGEpoNYsL"

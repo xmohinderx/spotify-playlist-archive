@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-1,647 songs - 3 day 17 hr 49 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
+1,648 songs - 3 day 17 hr 53 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [GREEKo FREAKo](https://open.spotify.com/track/2PSChERR09PP6NXXIwmLOW) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [GREEKo FREAKo](https://open.spotify.com/album/0Qm3bjooBoS38mEE6rQbN3) | 2:24 | 2022-07-22 |  |
 | [Green Lights \- Isolation Mix](https://open.spotify.com/track/5WQ7ISxDE8GBpE5HBlFaPx) | [Walden](https://open.spotify.com/artist/7IspetvXSZ5EjAymJEGJTF) | [Green Lights \(Isolation Mix\)](https://open.spotify.com/album/6LSiRMTf0JeU4U66QMo3eJ) | 3:37 | 2020-12-08 | 2021-02-06 |
 | [Greta](https://open.spotify.com/track/5BsxPxSsi4CxvozqdUBkM9) | [Sons of Med](https://open.spotify.com/artist/6xwTsD8X5wIKqhAaNNItM6) | [Greta](https://open.spotify.com/album/3mNYUjfW11wtpdX4YpwfQo) | 3:42 | 2021-04-24 | 2021-05-03 |
+| [Groundwork](https://open.spotify.com/track/6VBQuholHCe5LyCdyIWvzo) | [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Papoose](https://open.spotify.com/artist/0mbgkaYR8KNUb5s3s1yYHG) | [Groundwork](https://open.spotify.com/album/6N25MmXrrGmBV8ZlUW8cTv) | 3:28 | 2022-08-25 |  |
 | [Growing Pains](https://open.spotify.com/track/65rMGSa8sCfnbmlxqotlMM) | [Siobhan Cotchin](https://open.spotify.com/artist/4jq5AFfQNivtK0MQaPP7N3) | [Growing Pains](https://open.spotify.com/album/47FQ50b1y1X31IF9Bm9AgK) | 2:58 | 2022-06-03 | 2022-07-09 |
 | [Grubby](https://open.spotify.com/track/1qo7P91gSBq9u51Lbjpvji) | [Swift](https://open.spotify.com/artist/5xVULiv3wBC0T0lMG20mEC), [Deepee](https://open.spotify.com/artist/3Wm7360Oxqx7Fu4h3LfbHX), [Smoke Boys](https://open.spotify.com/artist/0ZnmpHEiVrHpbyRqDYjnTL) | [Grubby](https://open.spotify.com/album/57Wsj6ows45hGaU4vFYVou) | 2:56 | 2022-05-06 | 2022-06-11 |
 | [Gruesome](https://open.spotify.com/track/4V5er0Fzkjh4AZEFXoSTIr) | [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv) | [Gruesome](https://open.spotify.com/album/0Cm0NkaqxztDO54sJvpkmg) | 2:16 | 2022-08-05 |  |

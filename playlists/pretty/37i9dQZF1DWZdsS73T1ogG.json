@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: VF7",
-  "num_followers": 503822,
+  "num_followers": 503858,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4NjcyNSwwMDAwMDAwMDAxNWM3YzAzZWViNTk1MTZkNDliZDliNzVhMjRjMjBh",
+  "snapshot_id": "MTY2MDg4NjcyNSwwMDAwMDAwMGRjNmIyNTZmMzQ2OGExYzg5ZWFmYmJmNzA3ZWFkNjU2",
   "tracks": [
     {
       "added_at": "2022-08-19 05:25:25",
@@ -159,18 +159,26 @@
     {
       "added_at": "2022-08-19 05:25:25",
       "album": {
-        "name": "GIVENCHY",
-        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
+      "duration_ms": 195294,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
       "added_at": "2022-08-19 05:25:25",
@@ -283,26 +291,18 @@
     {
       "added_at": "2022-08-19 05:25:25",
       "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 195294,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
     },
     {
       "added_at": "2022-08-19 05:25:25",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-08-19 05:25:25",
       "album": {
+        "name": "Contacto",
+        "url": "https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Contacto",
+      "url": "https://open.spotify.com/track/60UZ3rIcDkjoN5i2aZalNh"
+    },
+    {
+      "added_at": "2022-08-19 05:25:25",
+      "album": {
         "name": "diamantes y espinas",
         "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 212608,
       "name": "ea diache",
       "url": "https://open.spotify.com/track/3nQmKjtOfpfc5UGE7eA08u"
-    },
-    {
-      "added_at": "2022-08-19 05:25:25",
-      "album": {
-        "name": "Contacto",
-        "url": "https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL"
-      },
-      "artists": [
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Contacto",
-      "url": "https://open.spotify.com/track/60UZ3rIcDkjoN5i2aZalNh"
     },
     {
       "added_at": "2022-08-19 05:25:25",
@@ -939,26 +939,6 @@
     {
       "added_at": "2022-08-19 05:25:25",
       "album": {
-        "name": "Fuiste Mala",
-        "url": "https://open.spotify.com/album/2SrmkNrGZYsYHKD44uQa4v"
-      },
-      "artists": [
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        },
-        {
-          "name": "MvP Boyi",
-          "url": "https://open.spotify.com/artist/5SVFX6A9E7vOBlgQObFsbj"
-        }
-      ],
-      "duration_ms": 200161,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/5k4ONoxlb2FwxcMwEpQBz8"
-    },
-    {
-      "added_at": "2022-08-19 05:25:25",
-      "album": {
         "name": "SUSANA",
         "url": "https://open.spotify.com/album/2to3l5blV24S95syzQg5Th"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 151076,
       "name": "SUSANA",
       "url": "https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS"
+    },
+    {
+      "added_at": "2022-08-19 05:25:25",
+      "album": {
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/2SrmkNrGZYsYHKD44uQa4v"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "MvP Boyi",
+          "url": "https://open.spotify.com/artist/5SVFX6A9E7vOBlgQObFsbj"
+        }
+      ],
+      "duration_ms": 200161,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/5k4ONoxlb2FwxcMwEpQBz8"
     },
     {
       "added_at": "2022-08-19 05:25:25",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-08-19 05:25:25",
       "album": {
-        "name": "Confundida",
-        "url": "https://open.spotify.com/album/3qh2ZmXjrgtuPrEnyGkdqp"
-      },
-      "artists": [
-        {
-          "name": "IVAN$ITO",
-          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Confundida",
-      "url": "https://open.spotify.com/track/6bTzVDkquLTnPhaBHL89pf"
-    },
-    {
-      "added_at": "2022-08-19 05:25:25",
-      "album": {
         "name": "Mata",
         "url": "https://open.spotify.com/album/3o0IVVfIDCT6QjayNaEPRB"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 141000,
       "name": "Mata",
       "url": "https://open.spotify.com/track/0T4MMlCKhE4vUPAWGdIEF0"
+    },
+    {
+      "added_at": "2022-08-19 05:25:25",
+      "album": {
+        "name": "Confundida",
+        "url": "https://open.spotify.com/album/3qh2ZmXjrgtuPrEnyGkdqp"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Confundida",
+      "url": "https://open.spotify.com/track/6bTzVDkquLTnPhaBHL89pf"
     },
     {
       "added_at": "2022-08-19 05:25:25",

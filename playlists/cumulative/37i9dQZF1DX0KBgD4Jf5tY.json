@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:5I5o3vDgR1eCtGcyW2IYZR\">I Coccodrilli</a>",
+  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:7pR2B1Mq25ns1ZTfFND45F\">Kahlo</a>",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -1352,6 +1352,24 @@
     },
     {
       "album": {
+        "name": "Cuore sporco",
+        "url": "https://open.spotify.com/album/4bwmxgnWdU2vUt6KtPGE0d"
+      },
+      "artists": [
+        {
+          "name": "Kahlo",
+          "url": "https://open.spotify.com/artist/7pR2B1Mq25ns1ZTfFND45F"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168808,
+      "name": "Cuore sporco",
+      "url": "https://open.spotify.com/track/1wI92huW17RYbTePnBVwV5"
+    },
+    {
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2KxMNtEBqTyzemxrEcrr2r"
       },
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 190080,
       "name": "Fiamme",
       "url": "https://open.spotify.com/track/2euyb7bOAP2flhP9N7NWnY"
@@ -3159,7 +3177,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 163250,
       "name": "Mani da cadavere",
       "url": "https://open.spotify.com/track/0Tm12YSJpAYcNPor6KLOeh"
@@ -3201,8 +3219,8 @@
           "url": "https://open.spotify.com/artist/5jeEXySnPyzHkNJ7K7ZcLx"
         },
         {
-          "name": "Mr Monty",
-          "url": "https://open.spotify.com/artist/7JcNTjkikbcE2kXFdlEySZ"
+          "name": "Mr. Monty",
+          "url": "https://open.spotify.com/artist/657Q410kl1yBPIjwZkzdn0"
         },
         {
           "name": "Damiank",
@@ -3960,6 +3978,24 @@
     },
     {
       "album": {
+        "name": "Noon",
+        "url": "https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi"
+      },
+      "artists": [
+        {
+          "name": "Nothing for Breakfast",
+          "url": "https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168705,
+      "name": "Noon",
+      "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
+    },
+    {
+      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/3dLLEeVAfEE1JzS4BM7F4q"
       },
@@ -3997,6 +4033,24 @@
       "duration_ms": 126201,
       "name": "Novembre Freestyle",
       "url": "https://open.spotify.com/track/6RVj3jhib9YeyCyrvIeY3Q"
+    },
+    {
+      "album": {
+        "name": "Obeye",
+        "url": "https://open.spotify.com/album/3B3LV9UZf4woDvs9SLmGRl"
+      },
+      "artists": [
+        {
+          "name": "Herva",
+          "url": "https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216898,
+      "name": "Obeye",
+      "url": "https://open.spotify.com/track/2cvMCOv9LHDgZHe9ivpXtK"
     },
     {
       "album": {
@@ -5575,7 +5629,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 179391,
       "name": "STRESS",
       "url": "https://open.spotify.com/track/52FZgfDkjdGX1EwREBtKj6"

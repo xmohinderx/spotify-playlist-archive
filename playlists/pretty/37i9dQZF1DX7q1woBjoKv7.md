@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,826 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,839 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 40 | [B's Up](https://open.spotify.com/track/2jZTMXtNZndhWBWxX0Plwn) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [El Perro 2](https://open.spotify.com/album/7iYz8Ja9mVsdBddU8Oqmzu) | 2:30 |
 | 41 | [Whatever It Takes](https://open.spotify.com/track/0T34xzq8gDVYOkVzweHB6d) | [Huey Briss](https://open.spotify.com/artist/1G6Gq9pcDT5OwZjEdKXBZm), [Remy Banks](https://open.spotify.com/artist/37dMe6EquztHIXOFF44iKZ) | [Whatever It Takes](https://open.spotify.com/album/3WSAxQP30JjykfMrU3YNGi) | 2:06 |
 | 42 | [Not the One \(feat\. Tempest\)](https://open.spotify.com/track/6K0jgAlcDaZhOF07wfsBou) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [Not the One](https://open.spotify.com/album/0j3KSRsrCVHVyPcGvvh1iF) | 3:19 |
-| 43 | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD) | 3:50 |
+| 43 | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD) | 3:50 |
 | 44 | [What You Sellin](https://open.spotify.com/track/5eXeZ6zBes2uEyycxqhqgx) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [What You Sellin](https://open.spotify.com/album/7pXCljjRvxq7VaB3upUpIm) | 2:09 |
 | 45 | [LET ME KNO SUM](https://open.spotify.com/track/3TzOCLcooFojGEQoysyM7i) | [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi), [CHILLITHESTEPPA](https://open.spotify.com/artist/5TWGGpSgdi0gHGKkD4nwJa) | [Trap Art II](https://open.spotify.com/album/4i3O9ullCI1gMGzcL7zDHz) | 2:48 |
 | 46 | [Luv Me Back](https://open.spotify.com/track/3IT44O4KU7gFFrnLYbLsUG) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 3:06 |

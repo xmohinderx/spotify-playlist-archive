@@ -2,7 +2,7 @@
 
 ### [Legends Only](https://open.spotify.com/playlist/37i9dQZF1DX5a39zUmS7Hn)
 
-> New music and timeless tracks from legends only\. Cover: Oasis
+> New music and timeless tracks from legends only\. Cover: Billy Idol
 
 202 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
 

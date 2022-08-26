@@ -1030,6 +1030,24 @@
     },
     {
       "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254322,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/0F3QlgOx1MR7JSvrWDWaz3"
+    },
+    {
+      "album": {
         "name": "IceWeed-Man",
         "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
       },
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 162007,
       "name": "Don Quijote",
       "url": "https://open.spotify.com/track/76IsXl3qjqwdi0i5T7JlYj"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 255306,
       "name": "El G.O.A.T.",
       "url": "https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO"
@@ -3358,6 +3376,24 @@
     },
     {
       "album": {
+        "name": "Ahora Tengo Todo Menos A Ti",
+        "url": "https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Santo Grial",
+      "url": "https://open.spotify.com/track/2Yf1mFq3vuZKGKwolRVqsJ"
+    },
+    {
+      "album": {
         "name": "Se Fue",
         "url": "https://open.spotify.com/album/5MXmmttCieaObXjTBpUfXt"
       },
@@ -3863,7 +3899,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 237500,
       "name": "Te Escondes",
       "url": "https://open.spotify.com/track/5bzIKQnnY1aM9evAj1sZiZ"

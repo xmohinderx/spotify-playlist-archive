@@ -4,7 +4,7 @@
 
 > Tudo o que está bombando e viralizando por aí!
 
-145 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+146 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-05-26 |  |
 | [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 | 2022-05-26 |  |
 | [All For Us](https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 3:11 | 2022-05-26 |  |
-| [Amiga](https://open.spotify.com/track/63Kaskt6dmoNKDifEeKtLX) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Amiga](https://open.spotify.com/album/4NTdTOPg1rzRrukME3IVk3) | 2:15 | 2022-05-26 |  |
+| [Amiga](https://open.spotify.com/track/63Kaskt6dmoNKDifEeKtLX) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Amiga](https://open.spotify.com/album/4NTdTOPg1rzRrukME3IVk3) | 2:15 | 2022-05-26 | 2022-08-26 |
 | [Antes](https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:49 | 2022-05-26 |  |
 | [Apita](https://open.spotify.com/track/5m2XYNroEL5ceFFPDngYe2) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Apita](https://open.spotify.com/album/7ECb1Hl5GRZKbf7DxdYvmv) | 3:53 | 2022-05-26 |  |
 | [Aqui Em BH Ninguém É de Ninguém](https://open.spotify.com/track/23vsRADpsucFPXZwRZtnU0) | [Dj Scar](https://open.spotify.com/artist/4TU81hdJFiCuzvaPsajuUo), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [MC TH DA SERRA](https://open.spotify.com/artist/4OKS4k4lBy2KOeftVHJDXu), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [Aqui Em BH Ninguém É de Ninguém](https://open.spotify.com/album/4MziE9em0P5p1sr35zj2OG) | 2:40 | 2022-05-26 |  |
@@ -80,6 +80,7 @@
 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes](https://open.spotify.com/album/2eEnzl61veDi3zQylslIap) | 4:39 | 2022-05-26 | 2022-07-29 |
 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 | 2022-05-26 | 2022-08-09 |
 | [Incrivel Jogando a Potranca](https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Incrivel Jogando a Potranca](https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5) | 1:50 | 2022-05-26 |  |
+| [Insônia \- Ao vivo](https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:01 | 2022-08-25 |  |
 | [Joga na Cara](https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8) | [Joga na Cara](https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC) | 1:49 | 2022-05-26 |  |
 | [Juliet E Chapelão \(Ao Vivo\)](https://open.spotify.com/track/46oPxSyS5ZZLg0EbqsKW4x) | [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Juliet E Chapelão \(Ao Vivo\)](https://open.spotify.com/album/152845bmhbpKy2v6Nb0l04) | 2:24 | 2022-05-26 |  |
 | [Latchika](https://open.spotify.com/track/6qAuIo2EJnJbnaL8FEVaZ0) | [Afinho do Fluxo](https://open.spotify.com/artist/2Q5VrODXSCgdp1UxJWAZbc), [Vinny Malvadeza](https://open.spotify.com/artist/0liNK1NH5Nr1VSGUhwLA4z), [Teeus](https://open.spotify.com/artist/6eAy4nN6UvzDb34zjWd54q) | [Latchika](https://open.spotify.com/album/7cPMAuFm7PJ0due5HHS1M3) | 2:31 | 2022-07-28 | 2022-08-19 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-860 songs - 1 day 22 hr 37 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+861 songs - 1 day 22 hr 40 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,6 +739,7 @@
 | [SUWOOP](https://open.spotify.com/track/3CwsxlvGuknex5Ortc2WMa) | [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [SUWOOP](https://open.spotify.com/album/7wXczuVSckKcge2T6tyEt8) | 2:20 | 2021-12-22 | 2021-12-24 |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 5:06 | 2021-05-16 | 2021-05-17 |
 | [T\-MAX](https://open.spotify.com/track/1gGIw749eBETqQPpOzTTWM) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [MADE UNDER PRESSURE](https://open.spotify.com/album/7LDIcqnXyqQtd3l6XUILwz) | 3:13 | 2022-02-23 | 2022-02-27 |
+| [T\-MAX](https://open.spotify.com/track/2lDJX08KgnN6fssdTbzFVx) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [OLPO](https://open.spotify.com/artist/4HjCvxU5oEogCfxaeDdtNa) | [T\-MAX](https://open.spotify.com/album/3currnqGEcbPELrrZJIg9r) | 2:46 | 2022-08-25 |  |
 | [Ta 84aria](https://open.spotify.com/track/4ci8w5oLWtGRzFjf9h6KY4) | [Dj Xquze](https://open.spotify.com/artist/7grhW6FUdVVeQwrM23vgW5) | [Giro Ap' Ola](https://open.spotify.com/album/6xjNMrEgJkokI4Xu79e4Zt) | 4:00 | 2022-05-06 | 2022-05-08 |
 | [Ta Kalytera Paidia](https://open.spotify.com/track/1Pl0khFV0USrnZevOC0dDE) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Ta Kalytera Paidia](https://open.spotify.com/album/0rEEzsaHss2A1QO1qa8qvD) | 3:07 | 2021-11-10 | 2021-11-20 |
 | [Ta Morissiotika \(Kappa\)](https://open.spotify.com/track/2cuZBrKoiENi3GdDtPfzIy) | [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX), [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1) | [Ta Morrisiotika \(Kappa\)](https://open.spotify.com/album/54FvNJfZKPxvaZlHt5Jxfi) | 3:25 | 2021-05-17 | 2021-05-21 |
@@ -774,7 +775,7 @@
 | [Ti Fovasai](https://open.spotify.com/track/5Gk1WhWoRgy9feTvLT9RWK) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale](https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G) | 4:18 | 2021-06-06 | 2021-10-17 |
 | [Ti Perimeneis](https://open.spotify.com/track/5myAiflrkMcI9XyCRHANHE) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale \(Deluxe Edition\)](https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8) | 3:03 | 2021-06-20 | 2021-06-22 |
 | [Ti Zitas](https://open.spotify.com/track/357Ces27QaK6BQ3W6cZUeE) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Ti Zitas](https://open.spotify.com/album/1DuLi4qFncYBLF6vbc9ecX) | 3:08 | 2022-03-30 | 2022-04-03 |
-| [Tilefono](https://open.spotify.com/track/7bohfOpcSFE5cE4zBpt0ST) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Tilefono](https://open.spotify.com/album/33YsXsjLwzvwNhBoniCTyC) | 3:11 | 2022-04-20 |  |
+| [Tilefono](https://open.spotify.com/track/7bohfOpcSFE5cE4zBpt0ST) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Tilefono](https://open.spotify.com/album/33YsXsjLwzvwNhBoniCTyC) | 3:11 | 2022-04-20 | 2022-08-26 |
 | [Timelapse](https://open.spotify.com/track/753Zxm3yOAgS5WJnjNcrNV) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Timelapse](https://open.spotify.com/album/6iE5O2KMXjo251MZ1mIOVv) | 4:15 | 2022-04-14 | 2022-04-18 |
 | [Tipota](https://open.spotify.com/track/7xCer4RU565CQ9FrtxDAq8) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Tipota](https://open.spotify.com/album/3fmpc9PM480kjDbTrD18H8) | 3:46 | 2021-04-18 | 2021-04-30 |
 | [Tipota Esi](https://open.spotify.com/track/3ZpaqJNpd9ejcW6IGdJZmp) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Tipota Esi](https://open.spotify.com/album/1YAZbRQ4gwzf3QAeaOAhYq) | 3:38 | 2022-01-09 | 2022-02-09 |

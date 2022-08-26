@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Cover: Icy Subzero",
+  "description": "La nuova generazione del rap italiano. Cover: Nabi",
   "name": "Raptopia",
   "published_playlist_ids": [
     "6nhHRG6xegRC3RJpPdvh9l"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 144056,
       "name": "Braquages",
       "url": "https://open.spotify.com/track/2PBzppfFYOLhyNcuosCLF9"
@@ -921,6 +921,32 @@
       "duration_ms": 148500,
       "name": "Cavalli",
       "url": "https://open.spotify.com/track/4nsxgwWnNxOKujoD5HpW4Y"
+    },
+    {
+      "album": {
+        "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
+        "url": "https://open.spotify.com/album/6lc13FhHLuHIq7WNIRBcgz"
+      },
+      "artists": [
+        {
+          "name": "Tuzzo",
+          "url": "https://open.spotify.com/artist/528N5RTsLKjSxsHOB9AyWr"
+        },
+        {
+          "name": "Nello Taver",
+          "url": "https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166406,
+      "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
+      "url": "https://open.spotify.com/track/4hLdjsSdCWlXKNgKg3KyWa"
     },
     {
       "album": {
@@ -1462,6 +1488,28 @@
     },
     {
       "album": {
+        "name": "Facile",
+        "url": "https://open.spotify.com/album/01eTjOeJSoT0b4QS9KEzTi"
+      },
+      "artists": [
+        {
+          "name": "Spinas",
+          "url": "https://open.spotify.com/artist/4Cox9N9TeGWWSfyvPEex5m"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Facile",
+      "url": "https://open.spotify.com/track/00bmaHVOEDarcvwlxxkHW9"
+    },
+    {
+      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/3iPxEJnlQ2BsvawA5gY4Jn"
       },
@@ -1963,7 +2011,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 219333,
       "name": "Immigrato",
       "url": "https://open.spotify.com/track/322fNeq8hTL7PXlB5XL3tv"
@@ -3114,6 +3162,24 @@
     },
     {
       "album": {
+        "name": "Plaquette",
+        "url": "https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158836,
+      "name": "Plaquette",
+      "url": "https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny"
+    },
+    {
+      "album": {
         "name": "PLAYA",
         "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
       },
@@ -3430,6 +3496,24 @@
     },
     {
       "album": {
+        "name": "RS6",
+        "url": "https://open.spotify.com/album/1g7JxBAsczHAacw7rFcayW"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132660,
+      "name": "RS6",
+      "url": "https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K"
+    },
+    {
+      "album": {
         "name": "Salto nel vuoto",
         "url": "https://open.spotify.com/album/4fUTP5dYBbYd0lraO7wwjv"
       },
@@ -3688,6 +3772,24 @@
     },
     {
       "album": {
+        "name": "SURF",
+        "url": "https://open.spotify.com/album/2ARaqKQWUJIiQMXtdwKLnl"
+      },
+      "artists": [
+        {
+          "name": "Friman",
+          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174272,
+      "name": "SURF",
+      "url": "https://open.spotify.com/track/0uXY2pYdHmZpmtk0wfICgJ"
+    },
+    {
+      "album": {
         "name": "SWAG! (Drip Margiela)",
         "url": "https://open.spotify.com/album/0GFSvxiK8TUQCkiFHmHFo6"
       },
@@ -3773,6 +3875,32 @@
       "duration_ms": 201901,
       "name": "TOO EASY",
       "url": "https://open.spotify.com/track/1Q2UkGQukIQeUnG93LD3WM"
+    },
+    {
+      "album": {
+        "name": "Immigrato",
+        "url": "https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ"
+      },
+      "artists": [
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        },
+        {
+          "name": "Speranza",
+          "url": "https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F"
+        },
+        {
+          "name": "Big Fish",
+          "url": "https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142602,
+      "name": "Tot\u00f2 Riina",
+      "url": "https://open.spotify.com/track/1tC2jyKepT8S8xd7vzBcPK"
     },
     {
       "album": {

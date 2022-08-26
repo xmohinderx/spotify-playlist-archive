@@ -2,7 +2,7 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Gera MX, Nanpa Básico
+> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Dharius
 
 115 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 

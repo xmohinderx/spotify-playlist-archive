@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: ROBI, Jay Wheeler",
-  "num_followers": 58268,
+  "num_followers": 58290,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MzY1MywwMDAwMDAwMDI3NjllZWU2Y2Y0Y2NkMDA1MjYzYTQxODUxNGY4Y2Zm",
+  "snapshot_id": "MTY2MTE5MzY1MywwMDAwMDAwMGExYjg0ZmY2Y2M0MGJhNjQ3ZGYzNjI0ZThlYTFmMjIy",
   "tracks": [
     {
       "added_at": "2022-08-22 18:40:53",
@@ -487,34 +487,6 @@
     {
       "added_at": "2022-08-22 18:40:53",
       "album": {
-        "name": "Combi Nueva",
-        "url": "https://open.spotify.com/album/3DbPnfLURW3fIHfnU2pyhI"
-      },
-      "artists": [
-        {
-          "name": "Papichamp",
-          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Blunted Vato",
-          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
-        },
-        {
-          "name": "Ecko",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Combi Nueva",
-      "url": "https://open.spotify.com/track/5hqAc7ZD21UREu9mNKuLhr"
-    },
-    {
-      "added_at": "2022-08-22 18:40:53",
-      "album": {
         "name": "Pasame la Botella (Remix)",
         "url": "https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN"
       },
@@ -543,6 +515,34 @@
       "duration_ms": 348013,
       "name": "Pasame la Botella - Remix",
       "url": "https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach"
+    },
+    {
+      "added_at": "2022-08-22 18:40:53",
+      "album": {
+        "name": "Combi Nueva",
+        "url": "https://open.spotify.com/album/3DbPnfLURW3fIHfnU2pyhI"
+      },
+      "artists": [
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Combi Nueva",
+      "url": "https://open.spotify.com/track/5hqAc7ZD21UREu9mNKuLhr"
     },
     {
       "added_at": "2022-08-22 18:40:53",

@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 129862,
+  "num_followers": 129920,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODc0MCwwMDAwMDAwMGNhYjRmYzVkNGU2ZThmODkxMmNiMGI0YjgxYzM0Y2M5",
+  "snapshot_id": "MTY2MDIzODc0MCwwMDAwMDAwMGVlNTNmY2Q2NTIzNzZkNWJlN2I5OTIwNzJjOTcxNTgz",
   "tracks": [
     {
       "added_at": "2021-12-22 23:31:50",
@@ -215,22 +215,6 @@
     {
       "added_at": "2021-12-22 23:31:50",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "It's Tricky",
-      "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
-    },
-    {
-      "added_at": "2021-12-22 23:31:50",
-      "album": {
         "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
         "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 218546,
       "name": "Jump Around - 30 Years Remaster",
       "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
+    },
+    {
+      "added_at": "2021-12-22 23:31:50",
+      "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
     },
     {
       "added_at": "2021-12-22 23:31:50",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2021-12-22 23:31:50",
       "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Lollipop (Candyman)",
+      "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
+    },
+    {
+      "added_at": "2021-12-22 23:31:50",
+      "album": {
         "name": "Supermodel of the World",
         "url": "https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2021-12-22 23:31:50",
       "album": {
-        "name": "You're the One For Me EP",
-        "url": "https://open.spotify.com/album/4cTvhKV4kfDfANADB5WtRw"
-      },
-      "artists": [
-        {
-          "name": "D-Train",
-          "url": "https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe"
-        }
-      ],
-      "duration_ms": 250635,
-      "name": "Youre the One for Me - Radio Mix",
-      "url": "https://open.spotify.com/track/3BneMfYdo9X8m90BRhMzSL"
-    },
-    {
-      "added_at": "2021-12-22 23:31:50",
-      "album": {
         "name": "Storyteller",
         "url": "https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 280466,
       "name": "100% Pure Love",
       "url": "https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71"
+    },
+    {
+      "added_at": "2021-12-22 23:31:50",
+      "album": {
+        "name": "You're the One For Me EP",
+        "url": "https://open.spotify.com/album/4cTvhKV4kfDfANADB5WtRw"
+      },
+      "artists": [
+        {
+          "name": "D-Train",
+          "url": "https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe"
+        }
+      ],
+      "duration_ms": 250635,
+      "name": "Youre the One for Me - Radio Mix",
+      "url": "https://open.spotify.com/track/3BneMfYdo9X8m90BRhMzSL"
     },
     {
       "added_at": "2021-12-22 23:31:50",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2021-12-22 23:31:50",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
-      },
-      "artists": [
-        {
-          "name": "Le Click",
-          "url": "https://open.spotify.com/artist/6MGQ2oUq4y55GDYyINkhnr"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "Tonight Is The Night",
-      "url": "https://open.spotify.com/track/0szxZG3QmQpMxrzmOjfDlm"
-    },
-    {
-      "added_at": "2021-12-22 23:31:50",
-      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn"
       },
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2021-12-22 23:31:50",
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
+      },
+      "artists": [
+        {
+          "name": "Le Click",
+          "url": "https://open.spotify.com/artist/6MGQ2oUq4y55GDYyINkhnr"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "Tonight Is The Night",
+      "url": "https://open.spotify.com/track/0szxZG3QmQpMxrzmOjfDlm"
+    },
+    {
+      "added_at": "2021-12-22 23:31:50",
+      "album": {
         "name": "Best Of Cappella",
         "url": "https://open.spotify.com/album/5WnAHnV4xlvxZXEDOtISxX"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 218906,
       "name": "U Got 2 Let The Music - Brescia Edit",
       "url": "https://open.spotify.com/track/7dIa8yS7HIPKkBvOmERSZ7"
-    },
-    {
-      "added_at": "2021-12-22 23:31:50",
-      "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/7uYn7ZSrXOVlmITyocZs9F"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Lollipop (Candyman)",
-      "url": "https://open.spotify.com/track/5tnqSEWM3EKoEtjSZpmHcH"
     },
     {
       "added_at": "2021-12-22 23:31:50",

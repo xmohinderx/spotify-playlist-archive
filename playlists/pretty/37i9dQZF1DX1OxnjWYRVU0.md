@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,498 likes - 322 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,649 likes - 322 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -329,6 +329,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 319 | [Lambada](https://open.spotify.com/track/1JyRjcUxnDd0TaR5Sd0V3c) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Manos](https://open.spotify.com/artist/0YpW5IBgyiQVWG7VpiyI62) | [Lambada](https://open.spotify.com/album/5NDn2gTfasa4rJd9QHhCQM) | 3:06 |
 | 320 | [Mr\. Saxobeat](https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Mr\. Saxobeat](https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz) | 2:31 |
 | 321 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
-| 322 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/4kpxST4KeexaqjgiSqwLgM) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/4NYrJXp5jmdSpfPZHvAKWQ) | 2:32 |
+| 322 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MTY2MDg2MDAwMCwwMDAwMDAwMGNjOGY5ZWU0NDUwNDA0MjBhMzFjZDIwNmUwMjI3MTBh`
+Snapshot ID: `MTY2MDg2MDAwMCwwMDAwMDAwMDhhNjg3MzNhNTk1OWI1NzVmMGQ1ZmZhODZmY2Y3ZTJm`

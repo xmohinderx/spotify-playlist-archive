@@ -466,6 +466,24 @@
     },
     {
       "album": {
+        "name": "Again & Again",
+        "url": "https://open.spotify.com/album/7DqEtsjq3NdksoSdvy9Q8k"
+      },
+      "artists": [
+        {
+          "name": "toothbrusher2000",
+          "url": "https://open.spotify.com/artist/3q9iFDEpawpnqcnsKikFpm"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Again After",
+      "url": "https://open.spotify.com/track/6aEw27jlxfAXYmAzaOioms"
+    },
+    {
+      "album": {
         "name": "Age Carry",
         "url": "https://open.spotify.com/album/1QgRX3fuZiewPQ5TyTT2Z9"
       },
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 144495,
       "name": "all day",
       "url": "https://open.spotify.com/track/6a0khAfkIHVBJbn5jeagIK"
@@ -5306,7 +5324,7 @@
       "artists": [
         {
           "name": "Walter The Producer",
-          "url": "https://open.spotify.com/artist/0fvbxtklhv6N9JBpnvRgBa"
+          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
         }
       ],
       "date_added": "2022-08-10",
@@ -7261,7 +7279,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 161460,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/5KqLQ5ESSvIE6Qw82vgiT6"
@@ -12626,6 +12644,28 @@
     },
     {
       "album": {
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/77OpzfBjErs49FzgegI6cZ"
+      },
+      "artists": [
+        {
+          "name": "Booshell",
+          "url": "https://open.spotify.com/artist/1gFHHF3QyQxjbbKXV3qLu9"
+        },
+        {
+          "name": "Charm on the beat",
+          "url": "https://open.spotify.com/artist/2PAputxnXRLw2RtF8MIrFD"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198181,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/2bMaGaVedzuLragkMjbPeS"
+    },
+    {
+      "album": {
         "name": "Sunset Blvd.",
         "url": "https://open.spotify.com/album/3Dld8zVEfqwx6hTF7bENg2"
       },
@@ -13460,6 +13500,24 @@
     },
     {
       "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/1A1An38fD4HI1icvarYgnA"
+      },
+      "artists": [
+        {
+          "name": "EVNTYD",
+          "url": "https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/6GdaH0cJswxjiU8PngVdje"
+    },
+    {
+      "album": {
         "name": "Thinking Of You",
         "url": "https://open.spotify.com/album/2ptJ2SyvUIuTkm6EtN8wK5"
       },
@@ -13471,7 +13529,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 222400,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/7MLhL0O3bzjU7hVcAc6lFQ"

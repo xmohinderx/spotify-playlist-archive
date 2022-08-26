@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 48022,
+  "num_followers": 48038,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMGU4YmQ2ZmI1ZjhiMzY0YmQ0YjUxYzYyOWRkZDQwZDg3",
+  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDRkMjNiZDZiMWZmNWI1N2U5OTY4YjM5NmNlYzI2ZjU3",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -547,6 +547,22 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Wide Mouth Mason",
+        "url": "https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E"
+      },
+      "artists": [
+        {
+          "name": "Wide Mouth Mason",
+          "url": "https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Cash Crop + Bonus Track",
         "url": "https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 247706,
       "name": "Northern Touch (feat. Kardinal Offishall, Thrust, Choclair & Checkmate)",
       "url": "https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Wide Mouth Mason",
-        "url": "https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E"
-      },
-      "artists": [
-        {
-          "name": "Wide Mouth Mason",
-          "url": "https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Hot Show",
-        "url": "https://open.spotify.com/album/586yBJiBN0KyDLAJFqPGwC"
-      },
-      "artists": [
-        {
-          "name": "Prozzak",
-          "url": "https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Sucks To Be You",
-      "url": "https://open.spotify.com/track/6NtKwJUIVl213jNPoPW95Q"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 230426,
       "name": "Push",
       "url": "https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Hot Show",
+        "url": "https://open.spotify.com/album/586yBJiBN0KyDLAJFqPGwC"
+      },
+      "artists": [
+        {
+          "name": "Prozzak",
+          "url": "https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Sucks To Be You",
+      "url": "https://open.spotify.com/track/6NtKwJUIVl213jNPoPW95Q"
     },
     {
       "added_at": "2021-09-21 20:57:50",

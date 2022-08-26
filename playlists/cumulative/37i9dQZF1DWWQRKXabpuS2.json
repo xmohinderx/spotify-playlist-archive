@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Bab Galbi",
+        "url": "https://open.spotify.com/album/2u55oUjufLaPJ90QnBT7a4"
+      },
+      "artists": [
+        {
+          "name": "Ahlam",
+          "url": "https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178132,
+      "name": "Bab Galbi",
+      "url": "https://open.spotify.com/track/0a0lQdJ6d1zdsSIZY5f6yl"
+    },
+    {
+      "album": {
         "name": "Bahjat ALkhater",
         "url": "https://open.spotify.com/album/4UmJoi5HlTPVDeWuDQWgpx"
       },

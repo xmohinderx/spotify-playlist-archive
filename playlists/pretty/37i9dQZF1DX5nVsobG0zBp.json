@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 29821,
+  "num_followers": 29868,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MDA2MCwwMDAwMDAwMGI4YWJiZmNiZTA5YTU2YzdiMDIxZTQwYmFmMTZkNjMz",
+  "snapshot_id": "MTY2MDg2MDA2MCwwMDAwMDAwMDdjYzM0YzE5MzU1OGVjZGM1MTc5NzIwNzc3MmVhMzUz",
   "tracks": [
     {
       "added_at": "2022-08-18 22:01:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 237679,
+      "name": "Somos Iguais",
+      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/2pKQrzkVd8J95Ehh0pgRU3"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 250169,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/19gFXFDAFUdsuaiAorKEbr"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "Somos Iguais",
-      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
     },
     {
       "added_at": "2022-08-18 22:01:00",

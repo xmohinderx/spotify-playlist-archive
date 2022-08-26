@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: UNIIQU3.",
-  "num_followers": 20498,
+  "num_followers": 20550,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU5NTY1MiwwMDAwMDAwMGQ4YWI0MTAzY2YwNGFlNDZiZDkzM2MwNGM2Nzg4N2Jk",
+  "snapshot_id": "MTY2MDU5NTY1MiwwMDAwMDAwMGY0NDVkY2I4MTA2MTNiOWY2Njk2ZDlmOWU3YThjODZi",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -391,26 +391,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Heartbroken Twenty Twenty",
-        "url": "https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4"
-      },
-      "artists": [
-        {
-          "name": "Mike Zombie",
-          "url": "https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 171940,
-      "name": "Heartbroken Twenty Twenty",
-      "url": "https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Level Up (feat. Missy Elliott & Fatman Scoop) [Remix]",
         "url": "https://open.spotify.com/album/13iiYB1fvhrxbybtxNYrxw"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 229629,
       "name": "Level Up (feat. Missy Elliott & Fatman Scoop) - Remix",
       "url": "https://open.spotify.com/track/0aBsXZLJDvn0QWfcIqBXq8"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Heartbroken Twenty Twenty",
+        "url": "https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4"
+      },
+      "artists": [
+        {
+          "name": "Mike Zombie",
+          "url": "https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        }
+      ],
+      "duration_ms": 171940,
+      "name": "Heartbroken Twenty Twenty",
+      "url": "https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Doin It Wrong (DJ iMarkkeyz Remix)",
-        "url": "https://open.spotify.com/album/1jzYhFvRhhtq62WoTnIfgb"
+        "name": "New Jersey Club EP",
+        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
       },
       "artists": [
         {
-          "name": "TeaMarrr",
-          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
-        },
-        {
-          "name": "iMarkkeyz",
-          "url": "https://open.spotify.com/artist/2B7xPcMn6lsriV26tb0K3R"
+          "name": "DJ Tray",
+          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
         }
       ],
-      "duration_ms": 177521,
-      "name": "Doin It Wrong - DJ iMarkkeyz Remix",
-      "url": "https://open.spotify.com/track/46FO1P5uDWs4DNoZTJ412F"
+      "duration_ms": 98208,
+      "name": "Nobody's Perfect - Original Mix",
+      "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -887,18 +883,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "New Jersey Club EP",
-        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
+        "name": "Doin It Wrong (DJ iMarkkeyz Remix)",
+        "url": "https://open.spotify.com/album/1jzYhFvRhhtq62WoTnIfgb"
       },
       "artists": [
         {
-          "name": "DJ Tray",
-          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        },
+        {
+          "name": "iMarkkeyz",
+          "url": "https://open.spotify.com/artist/2B7xPcMn6lsriV26tb0K3R"
         }
       ],
-      "duration_ms": 98208,
-      "name": "Nobody's Perfect - Original Mix",
-      "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
+      "duration_ms": 177521,
+      "name": "Doin It Wrong - DJ iMarkkeyz Remix",
+      "url": "https://open.spotify.com/track/46FO1P5uDWs4DNoZTJ412F"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Beat A Bitch Up Challenge",
-        "url": "https://open.spotify.com/album/3Ky1KT0KdbUkpDOSO2QdsA"
-      },
-      "artists": [
-        {
-          "name": "Mvntana",
-          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
-        },
-        {
-          "name": "dj Shawny",
-          "url": "https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx"
-        }
-      ],
-      "duration_ms": 72045,
-      "name": "Beat A Bitch Up Challenge",
-      "url": "https://open.spotify.com/track/3zl7WoKo2zhYWkbMLHSfXV"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Magnetic (Remixes)",
         "url": "https://open.spotify.com/album/3Kfgkz8I4XS2alTVzqMXab"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 180864,
       "name": "Magnetic - Remix",
       "url": "https://open.spotify.com/track/611DTJC3NW3ojN95CUPxef"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Beat A Bitch Up Challenge",
+        "url": "https://open.spotify.com/album/3Ky1KT0KdbUkpDOSO2QdsA"
+      },
+      "artists": [
+        {
+          "name": "Mvntana",
+          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
+        },
+        {
+          "name": "dj Shawny",
+          "url": "https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx"
+        }
+      ],
+      "duration_ms": 72045,
+      "name": "Beat A Bitch Up Challenge",
+      "url": "https://open.spotify.com/track/3zl7WoKo2zhYWkbMLHSfXV"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/3nae8nex8etjw0c1zY0L7Y"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Teez",
+          "url": "https://open.spotify.com/artist/1CdH7hPovN32oz65xSnWHy"
+        }
+      ],
+      "duration_ms": 130080,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/7tLXo5YmfBoyCYSNG62hJZ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Love Song (Remixes)",
         "url": "https://open.spotify.com/album/1qWGucN0AWEu5S0wdNOKPu"
       },
@@ -1863,22 +1883,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/3nae8nex8etjw0c1zY0L7Y"
+        "name": "Ryde Dat",
+        "url": "https://open.spotify.com/album/0vwFCu3RX5O8paW5Cg2mjV"
       },
       "artists": [
         {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Teez",
-          "url": "https://open.spotify.com/artist/1CdH7hPovN32oz65xSnWHy"
+          "name": "Leemz",
+          "url": "https://open.spotify.com/artist/5P1SmpifePa7JRQko1C9gN"
         }
       ],
-      "duration_ms": 130080,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/7tLXo5YmfBoyCYSNG62hJZ"
+      "duration_ms": 212531,
+      "name": "Ryde Dat",
+      "url": "https://open.spotify.com/track/40NRmZ9L2ZMv33VOiHecTA"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1895,22 +1911,6 @@
       "duration_ms": 139026,
       "name": "POP",
       "url": "https://open.spotify.com/track/6ZvZtgdc38dTaQ74WB9qUr"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Ryde Dat",
-        "url": "https://open.spotify.com/album/0vwFCu3RX5O8paW5Cg2mjV"
-      },
-      "artists": [
-        {
-          "name": "Leemz",
-          "url": "https://open.spotify.com/artist/5P1SmpifePa7JRQko1C9gN"
-        }
-      ],
-      "duration_ms": 212531,
-      "name": "Ryde Dat",
-      "url": "https://open.spotify.com/track/40NRmZ9L2ZMv33VOiHecTA"
     }
   ],
   "unique_name": "Jersey Club Heat",

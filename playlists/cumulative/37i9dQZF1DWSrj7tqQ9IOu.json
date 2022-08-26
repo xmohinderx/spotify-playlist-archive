@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Oscar Anton",
+  "description": "The best French indie tracks right now. Cover: SANTA",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -41,6 +41,24 @@
       "duration_ms": 141206,
       "name": "4D",
       "url": "https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V"
+    },
+    {
+      "album": {
+        "name": "a ride",
+        "url": "https://open.spotify.com/album/4KUa7MP6XTWP3qJfh4VPcT"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "a ride",
+      "url": "https://open.spotify.com/track/7zIynZNxk2CBmIkjp1CcjP"
     },
     {
       "album": {
@@ -439,7 +457,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 132284,
       "name": "come into my arms",
       "url": "https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z"
@@ -519,6 +537,28 @@
       "duration_ms": 246600,
       "name": "Cour Des Miracles",
       "url": "https://open.spotify.com/track/1LmmaY7vbIRD5qUnB507lz"
+    },
+    {
+      "album": {
+        "name": "Crush (feat. Ana\u00efs Demoustier)",
+        "url": "https://open.spotify.com/album/01XHesceKpZaMt3cmXVKHv"
+      },
+      "artists": [
+        {
+          "name": "Requin Chagrin",
+          "url": "https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g"
+        },
+        {
+          "name": "Ana\u00efs Demoustier",
+          "url": "https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198506,
+      "name": "Crush (feat. Ana\u00efs Demoustier)",
+      "url": "https://open.spotify.com/track/3dDwRbHzCvT2ToXjv8jkfQ"
     },
     {
       "album": {
@@ -963,7 +1003,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 229067,
       "name": "Hey Boy",
       "url": "https://open.spotify.com/track/28goX2uKr53LeijjP2waQV"
@@ -1071,7 +1111,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 141021,
       "name": "I Will Wait For You",
       "url": "https://open.spotify.com/track/0u53F1Zdk6xsknG1Uie2jL"
@@ -1621,7 +1661,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 175360,
       "name": "Mademoiselle",
       "url": "https://open.spotify.com/track/07yFYf562vEHlWVBaGXhCz"
@@ -2065,6 +2105,24 @@
       "duration_ms": 210146,
       "name": "Paris en ao\u00fbt",
       "url": "https://open.spotify.com/track/6R3xtNGXOTqp8Qzuf22jaW"
+    },
+    {
+      "album": {
+        "name": "Paris en Ao\u00fbt",
+        "url": "https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191693,
+      "name": "Paris en Ao\u00fbt",
+      "url": "https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd"
     },
     {
       "album": {
@@ -2781,6 +2839,24 @@
       "duration_ms": 331600,
       "name": "Un Peu d'Amour",
       "url": "https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW"
+    },
+    {
+      "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90127,
+      "name": "Unfold",
+      "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"
     },
     {
       "album": {

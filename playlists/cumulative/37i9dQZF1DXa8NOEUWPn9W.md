@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: FISHER
 
-395 songs - 1 day 0 hr 1 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
+396 songs - 1 day 0 hr 4 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq) | 2:44 | 2021-03-27\* | 2021-05-03 |
 | [It's A Killa](https://open.spotify.com/track/0bsdfTgzxOPN4RcZcGJJ3t) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [It's A Killa](https://open.spotify.com/album/49AE9IzLRAdoUU1ZGfYl7G) | 3:20 | 2022-03-11 | 2022-07-29 |
 | [It's A Killa](https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [It's A Killa](https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt) | 3:20 | 2022-05-27 |  |
-| [Its Time to Move](https://open.spotify.com/track/4qK9g7RGoHCUpfbGu3Mlf4) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/0oj8l35AnHn2buWFdhFHJy) | 4:00 | 2021-10-01 |  |
+| [Its Time to Move](https://open.spotify.com/track/4qK9g7RGoHCUpfbGu3Mlf4) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/0oj8l35AnHn2buWFdhFHJy) | 4:00 | 2021-10-01 | 2022-08-26 |
 | [I’ve Been Missing You](https://open.spotify.com/track/7tRNDdDcUQqrOPHfIIbzGd) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [I’ve Been Missing You](https://open.spotify.com/album/3Y614SkU3oFcKgfQmnzYCV) | 2:47 | 2021-07-25 | 2022-07-25 |
 | [Jack Machine](https://open.spotify.com/track/1239Sq2SqVR55dY3jrDMQx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Jack Machine](https://open.spotify.com/album/3kVnyuakYWhlGwZHrmIBn3) | 3:07 | 2022-01-12 | 2022-07-27 |
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2022-05-27 |  |
@@ -286,6 +286,7 @@
 | [Physically](https://open.spotify.com/track/5nQox2m73rp3d5jFmhCcrR) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/21U0Cv7Z0eeXkiPJqjCExl) | 2:55 | 2022-01-07 | 2022-04-20 |
 | [Place I Belong](https://open.spotify.com/track/56HvFN72Th5EHiDkluFtny) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Ollie Norton](https://open.spotify.com/artist/6P1ExGJjTHgOEWPTpg3gEp) | [Place I Belong](https://open.spotify.com/album/3qZHzhc1et18cJmhF3cZhH) | 3:34 | 2021-04-10 | 2021-08-07 |
 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 | 2021-03-27\* | 2021-07-10 |
+| [Poison](https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Poison](https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6) | 3:26 | 2022-08-23 |  |
 | [Pop It](https://open.spotify.com/track/3rAzWZSDHAOcwgv80ruxnc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Pop It](https://open.spotify.com/album/7bUj3gLtj1BPHFoCWZqcGH) | 3:34 | 2021-03-27\* | 2021-08-28 |
 | [Power](https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Power](https://open.spotify.com/album/0ZGfflZX2H16q4Omg1kraL) | 3:18 | 2021-09-07 |  |
 | [Pulling Me Apart](https://open.spotify.com/track/0uPe4dWgfeSBtaJD1QvzTX) | [Andrew Meller](https://open.spotify.com/artist/0kDJVZD3Kwg7YbFXqDI1Gm) | [Pulling Me Apart](https://open.spotify.com/album/5znnpMCOPnCKdk9e0T2M4C) | 6:14 | 2021-08-28 | 2022-04-17 |

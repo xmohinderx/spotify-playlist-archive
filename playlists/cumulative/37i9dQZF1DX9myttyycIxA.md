@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: flipturn
 
-576 songs - 1 day 8 hr 54 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+577 songs - 1 day 8 hr 58 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Dew ♥ \- Lo\-Fi Version](https://open.spotify.com/track/2kGsDdHM1S79pw9EUwo9qi) | [PYNKIE](https://open.spotify.com/artist/45GkpefZW8F5td5gkU8f29) | [Dew ♥ \(Lo\-Fi Version\)](https://open.spotify.com/album/4lTpONk7TsaPa3AayHVb1a) | 3:40 | 2021-06-02 | 2022-04-17 |
 | [Difficult](https://open.spotify.com/track/6TV5YIX27b0ewliqXo5gWx) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/5V68mtjh04q5DvhyYnmmBw) | 2:56 | 2021-03-05 | 2022-03-23 |
 | [Dig Your Hips](https://open.spotify.com/track/5aroHA8g1TCzTcMKSPdmgJ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Dig Your Hips](https://open.spotify.com/album/7wpDIL0q82nUS58eOyOZrh) | 3:18 | 2022-05-13 | 2022-07-29 |
-| [Dig Your Hips](https://open.spotify.com/track/60pbL1E7ekFuAwtW4UNAxv) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Hollywood Junkyard EP](https://open.spotify.com/album/3U9iSgIU0CJswpRQvcaVPk) | 3:18 | 2022-05-19 |  |
+| [Dig Your Hips](https://open.spotify.com/track/60pbL1E7ekFuAwtW4UNAxv) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Hollywood Junkyard EP](https://open.spotify.com/album/3U9iSgIU0CJswpRQvcaVPk) | 3:18 | 2022-05-19 | 2022-08-26 |
 | [Ding Dong Ditch](https://open.spotify.com/track/0H1HzSuaTWP8a8xVX5NBmE) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Natural Part](https://open.spotify.com/album/0ozxNaOvwaEpFcQDd8kRHd) | 2:42 | 2022-06-17 |  |
 | [Dipshit](https://open.spotify.com/track/4cIWpQMGFZWEuGW0TWMDjT) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Dipshit](https://open.spotify.com/album/06tbprIHnAibGPy6s6mkPI) | 2:37 | 2022-01-28 | 2022-02-27 |
 | [Dirtbag Transformation \(Still Dirty\)](https://open.spotify.com/track/22jIDSIjnT1lmW2zrMZR3v) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Dirtbag Transformation \(Still Dirty\)](https://open.spotify.com/album/5EZhEQ1p48myR6KLhO2Rl4) | 3:05 | 2022-05-20 | 2022-08-06 |
@@ -510,6 +510,7 @@
 | [THE MIDDLE](https://open.spotify.com/track/4wjpgioltZ2TGkN4h6kMqd) | [PHONY](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [THE MIDDLE](https://open.spotify.com/album/009SqNhfhKPDIfa6hQRV69) | 2:04 | 2022-07-29 |  |
 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 | 2022-03-26 | 2022-05-19 |
 | [The Perfect Life](https://open.spotify.com/track/0h3N07sZgc9rzDLfsOniri) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [The Perfect Life](https://open.spotify.com/album/5GqVTkArRf7qxyfEkvtYvR) | 2:42 | 2022-04-09 | 2022-05-06 |
+| [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 | 2022-08-25 |  |
 | [The Right Thing Is Hard To Do](https://open.spotify.com/track/0V1zBWOzQ8Y1qKFgedja6N) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [The Right Thing Is Hard To Do](https://open.spotify.com/album/2KojEkrwmfqvGW4XJAVB9F) | 3:46 | 2021-03-25 | 2022-04-29 |
 | [The Sway](https://open.spotify.com/track/40dIRHeWIhQNWflZKIemQI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:35 | 2021-10-02 | 2022-04-26 |
 | [The Wall & I](https://open.spotify.com/track/5qIOUorQ9AInP9UliORgCC) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk) | 5:04 | 2021-08-02 | 2022-04-28 |

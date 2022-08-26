@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Maya Hawke
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,080 likes - 145 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,494 likes - 145 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 19 | [Pretend](https://open.spotify.com/track/1h8dms5lJ4QcXB0tyguk4c) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Juliana Madrid EP](https://open.spotify.com/album/24kUFs20sObGQMAW7VgWso) | 3:07 |
 | 20 | [Wish You Well](https://open.spotify.com/track/7KuSHOqPEgLzE8UwSoaKX1) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Wish You Well](https://open.spotify.com/album/7DllxBuh4dcjrORcKNkyQf) | 2:46 |
 | 21 | [Make You Suffer](https://open.spotify.com/track/4aMQsZqDceCAyciMN6ln1W) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bleed Out](https://open.spotify.com/album/20KGjm5xRROTqP0UY1EVRg) | 3:29 |
-| 22 | [Crying in the Club](https://open.spotify.com/track/2i2ctngb7IE9IhoZ3AA1Ey) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Crying in the Club](https://open.spotify.com/album/0EAQUkyRH0RUBHzzt9Sr42) | 3:05 |
+| 22 | [Crying in the Club](https://open.spotify.com/track/440bHvLOgExwePapxmMtGI) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/3GuSAYm0w5TMJ6k0qeftwt) | 3:05 |
 | 23 | [new strategies for telemarketing through precognitive dreams](https://open.spotify.com/track/5LYZk0ObgdsnrW24vYBRug) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [new strategies for telemarketing through precognitive dreams](https://open.spotify.com/album/4d6Wp43YmBHcz7A6Mp6MIU) | 3:09 |
 | 24 | [Black Tar](https://open.spotify.com/track/0OAXqItnyxKQUVpJNILG2V) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Black Tar](https://open.spotify.com/album/3ribJK72rYHmbPFnAwA51N) | 2:57 |
 | 25 | [i think about you all the time](https://open.spotify.com/track/4HHqDiNjHlsWtxqXoTR00O) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [i think about you all the time](https://open.spotify.com/album/4qpShT4gBiHskC1qYcS9Qn) | 2:02 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 144 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
 | 145 | [Give You the World](https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:33 |
 
-Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDZiZTExMmE3ODJiNjU4ODkxY2IxZjgzNWQ0NDNjY2Fm`
+Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDU4Y2FkMWJjYmFkY2JkYTdhMTE1MTUzZjM5NTAyNGQ5`

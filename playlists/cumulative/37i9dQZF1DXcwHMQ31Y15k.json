@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Hendra Kumbara",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk, Dewa Budjana",
   "name": "Boso Jowo",
   "published_playlist_ids": [
     "6MWAwkgQhB2wRNopb9pKvS"
@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "Cerito Manis (Live)",
+        "url": "https://open.spotify.com/album/1aCqINnqJaGOzNZxc4Ne0U"
+      },
+      "artists": [
+        {
+          "name": "OMWAWES",
+          "url": "https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "Cerito Manis - Live",
+      "url": "https://open.spotify.com/track/0syX3hRXqhIrXlIkAvu3mp"
+    },
+    {
+      "album": {
         "name": "Cidro 2",
         "url": "https://open.spotify.com/album/72oOmFtjOGQNNM96ZUQ7fA"
       },
@@ -485,7 +503,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 274666,
       "name": "Kabur Kanginan",
       "url": "https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S"
@@ -659,6 +677,28 @@
       "duration_ms": 316000,
       "name": "Kuatno Atimu",
       "url": "https://open.spotify.com/track/5SsjDIA3DhUQXM9cDjQ5sI"
+    },
+    {
+      "album": {
+        "name": "Kudu Nangis",
+        "url": "https://open.spotify.com/album/4aFca7kL4Hp1y0hzYFZpBv"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Dewa Budjana",
+          "url": "https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304405,
+      "name": "Kudu Nangis",
+      "url": "https://open.spotify.com/track/1W6dPS3Fko21XHOkKQ2rMI"
     },
     {
       "album": {
@@ -1073,7 +1113,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 346320,
       "name": "Ojo Nangis - Keroncong Version",
       "url": "https://open.spotify.com/track/5eZ8DNqoPcJd1cTwkKzoEk"
@@ -1439,7 +1479,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 303078,
       "name": "Sampek Tuwek",
       "url": "https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO"
@@ -1869,7 +1909,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 280729,
       "name": "Wegah Kelangan",
       "url": "https://open.spotify.com/track/4Ocy0ZrGjryg45Yt7ssO9o"

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-434 songs - 1 day 2 hr 48 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
+435 songs - 1 day 2 hr 52 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,7 @@
 | [Switch Up](https://open.spotify.com/track/7xiDImB6EbVuYDgvp2iqKy) | [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [Switch Up](https://open.spotify.com/album/00plw9gSpFkqpce77VueKZ) | 3:41 | 2022-05-06 |  |
 | [Take Flight](https://open.spotify.com/track/1UMI25Bx7ZI7gTk2WlSUJ6) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h), [Greg Downey](https://open.spotify.com/artist/5g5gfQk7ayB806jZ9FFCjL) | [Take Flight](https://open.spotify.com/album/6oQpjA3NnTOPfz7tRBvkjH) | 3:56 | 2022-05-20 |  |
 | [Take Me Away](https://open.spotify.com/track/1GuGFUd89KWaMZHp7vUVJP) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Benjamin Duchenne](https://open.spotify.com/artist/4UJKe3JbVAObXrnURuUALb) | [Take Me Away](https://open.spotify.com/album/6Uko7MJpeALnJblYe8ccog) | 4:07 | 2022-04-08 |  |
-| [Take Me Up](https://open.spotify.com/track/4lC49uMbMLld4MFMRwgmX1) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Take Me Up](https://open.spotify.com/album/1Ht6TFfIOWRYxmNMJF0QdO) | 4:17 | 2022-04-22 |  |
+| [Take Me Up](https://open.spotify.com/track/4lC49uMbMLld4MFMRwgmX1) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Take Me Up](https://open.spotify.com/album/1Ht6TFfIOWRYxmNMJF0QdO) | 4:17 | 2022-04-22 | 2022-08-26 |
 | [Take This](https://open.spotify.com/track/3ipCyw9e4Hw4nI6xmx2HCi) | [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx), [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Take This](https://open.spotify.com/album/4pydWDq620SHUv13vyA08P) | 4:10 | 2022-04-29 |  |
 | [Tearful](https://open.spotify.com/track/5V1ZD8U3z0CUW7SNL2X2RN) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [Steven Z](https://open.spotify.com/artist/7qF7lzQcvhefsHgVWL743Z) | [Tearful](https://open.spotify.com/album/33QDpoSzPShSxdaIMgqGC0) | 3:39 | 2021-12-17 | 2022-01-08 |
 | [Tell Me Why](https://open.spotify.com/track/3lLQHqHJtOXWeJfqguiOd1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Tell Me Why](https://open.spotify.com/album/381UGyzBYLzq3ri1ajxB2t) | 2:59 | 2021-12-17 | 2022-01-08 |
@@ -393,6 +393,7 @@
 | [The Embrace](https://open.spotify.com/track/3OllKKXmJ3G6m3btllU7kO) | [StanV](https://open.spotify.com/artist/4jvbnqivEzQynSU0VeCXz4) | [The Embrace / Watershed](https://open.spotify.com/album/36yGUuYlgvKLpDG0B7wWJY) | 4:32 | 2022-04-22 | 2022-07-09 |
 | [The Essence](https://open.spotify.com/track/7J3WG5xqQoCl1nFsz7SR5i) | [Yoshi & Razner](https://open.spotify.com/artist/7EXEzZ7o5XKdbzEW6etnHl) | [The Essence](https://open.spotify.com/album/0Jz8H2DUUWDR9OlFHZESuP) | 3:22 | 2022-07-22 | 2022-07-30 |
 | [The Greater Light To Rule The Night](https://open.spotify.com/track/3cfMvE8xePwTp2L7gZyZqN) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [The Greater Light To Rule The Night](https://open.spotify.com/album/26rEogvIVvJQKypFIHK1KE) | 3:33 | 2021-12-17 | 2022-01-08 |
+| [The Hero In Me](https://open.spotify.com/track/7H1oWs5rXW2QemEppHT5k3) | [Darren Porter](https://open.spotify.com/artist/04b2pmUXaBL8wHacSaOplA), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [The Hero In Me](https://open.spotify.com/album/1F1hIIeukHDF4TnqBiCrzn) | 3:37 | 2022-08-19 |  |
 | [The Lone Ranger](https://open.spotify.com/track/12KMoAMzaeBFh91O5sxP2o) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [The Lone Ranger](https://open.spotify.com/album/3tkyV2SZsHRE8GZ9SkCIVP) | 2:36 | 2022-01-28 | 2022-04-23 |
 | [The New Megara](https://open.spotify.com/track/2FIwjTjcCuPIK2GjTxmghN) | [Megara vs DJ Lee](https://open.spotify.com/artist/2OkJp4gNSXYicLkBBGhcDd) | [The New Megara](https://open.spotify.com/album/3oSw5wsNyDaTeHqhsz8oa7) | 3:13 | 2022-06-10 | 2022-07-30 |
 | [The Other Side](https://open.spotify.com/track/4sgY77B5U5XtiTuSYLGqVi) | [Chris Schweizer](https://open.spotify.com/artist/2OEfOu8gvperJc2LcqGsjc) | [The Other Side](https://open.spotify.com/album/5yaFmn36b51PCPYhxzWH26) | 3:53 | 2022-02-04 |  |

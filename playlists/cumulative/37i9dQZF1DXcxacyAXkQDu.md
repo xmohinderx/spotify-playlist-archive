@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-760 songs - 1 day 21 hr 10 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+761 songs - 1 day 21 hr 14 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [It Wasn't Easy To Be Happy For You](https://open.spotify.com/track/2qhfWLkKqWripwiw8DJdGU) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:34 | 2022-07-08 |  |
 | [It Wasn't Easy To Be Happy For You](https://open.spotify.com/track/7cDe66xC16bLKEqqBgoYtd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [It Wasn't Easy To Be Happy For You](https://open.spotify.com/album/3KcAvJj74W48ZPCh10EpBX) | 3:34 | 2022-03-24 | 2022-04-20 |
 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 | 2021-12-21 | 2022-03-10 |
+| [jealous over you](https://open.spotify.com/track/2ldcIznpTSRjxoDsNpM3wF) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [logic mess](https://open.spotify.com/album/5O73HFP1TRW52nqawnv7iz) | 4:17 | 2022-08-22 |  |
 | [Jesus Couldn't Love Me](https://open.spotify.com/track/2u38U69ABazSHMawCWsXY6) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [Manic Pixie Dream](https://open.spotify.com/album/3CD0Ezfnm6kBDxTu2xgzUY) | 3:17 | 2022-03-24 | 2022-04-19 |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2021-12-21 |  |
 | [Kawai Desu](https://open.spotify.com/track/5ASue9VqTEjTrKFscUYOa6) | [London Calling](https://open.spotify.com/artist/2RcrJS14SI6DyMJ2r0Mi3D) | [Late Night Lovers \(Best Of 2014\-2016\)](https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm) | 4:30 | 2022-03-24 | 2022-04-20 |
@@ -619,7 +620,7 @@
 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 | 2021-12-21 |  |
 | [Take It Further](https://open.spotify.com/track/0rbT2Eihb1kA0XUOnYHnyS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Take It Further](https://open.spotify.com/album/1W0l2EpYKLQkD0MhVPwIHE) | 3:21 | 2022-05-19 | 2022-05-22 |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2022-08-05 | 2022-08-13 |
-| [Tear Me Down](https://open.spotify.com/track/2DPR5R6cFXS9gwo9u5cbZ1) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 2:57 | 2022-08-12 |  |
+| [Tear Me Down](https://open.spotify.com/track/2DPR5R6cFXS9gwo9u5cbZ1) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 2:57 | 2022-08-12 | 2022-08-26 |
 | [Tear Me Down](https://open.spotify.com/track/6hiv5wOQch8yn5VFW6hD8Z) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [What Good Is Love \(Acoustic\)](https://open.spotify.com/album/6nSgEmUzkS90nKOLEI89Rh) | 2:57 | 2022-01-07 | 2022-07-28 |
 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 | 2022-02-03 | 2022-07-26 |
 | [Tenerife Sea](https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:01 | 2021-12-21 |  |

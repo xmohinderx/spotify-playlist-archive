@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with some upbeat party jazz.",
-  "num_followers": 10933,
+  "num_followers": 10968,
   "original_name": "Party Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDczMDMwOSwwMDAwMDAwMGI4MTUwOWQzNjE0YWM4MDZmNzhlY2Y1MmNhZTkyYmQ0",
+  "snapshot_id": "MTY2MDczMDMwOSwwMDAwMDAwMGM4Njk2NmUwODVjODkxYTEwZjM0NDUzNjhkNWFmNzBl",
   "tracks": [
     {
       "added_at": "2022-08-17 09:58:29",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Shirley / Let's Face the Music",
-        "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
-      },
-      "artists": [
-        {
-          "name": "Shirley Bassey",
-          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "If I Were a Bell - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Additions To Further Definitions",
         "url": "https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 331386,
       "name": "Doozy - 1966 Album Version",
       "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Shirley / Let's Face the Music",
+        "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
+      },
+      "artists": [
+        {
+          "name": "Shirley Bassey",
+          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "If I Were a Bell - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "Look Out! (Remastered)",
-        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 376800,
-      "name": "Tin Tin Deo - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1ppOQ5KApUrYgFzc9kAENZ"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Talkin' Verve",
         "url": "https://open.spotify.com/album/2lhapGz7nbjmiJEil7iAFX"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 725293,
       "name": "Toccata",
       "url": "https://open.spotify.com/track/6hvJX50B4tL8JVNrjZ85Bm"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "Look Out! (Remastered)",
+        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 376800,
+      "name": "Tin Tin Deo - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1ppOQ5KApUrYgFzc9kAENZ"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
+        "name": "Shades Of Redd (Remastered)",
+        "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
+      },
+      "artists": [
+        {
+          "name": "Freddie Redd",
+          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
+        }
+      ],
+      "duration_ms": 382453,
+      "name": "Ole - Digital Remaster/2007",
+      "url": "https://open.spotify.com/track/539lbCBUmpYrXRdEMX7e1q"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
         "name": "Pepper Adams Plays The Compositions of Charlie Mingus",
         "url": "https://open.spotify.com/album/0oqwEDzBuX7wKNcLxskKI4"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 477880,
       "name": "Haitian Fight Song",
       "url": "https://open.spotify.com/track/4Red4KhaYnxkjo3osEbxl4"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
-        "name": "Shades Of Redd (Remastered)",
-        "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
-      },
-      "artists": [
-        {
-          "name": "Freddie Redd",
-          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
-        }
-      ],
-      "duration_ms": 382453,
-      "name": "Ole - Digital Remaster/2007",
-      "url": "https://open.spotify.com/track/539lbCBUmpYrXRdEMX7e1q"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 257866,
+      "name": "Cherokee - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2Gxqa5tSywDIreRacsNPZB"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
         "name": "Plus Four [Rudy Van Gelder edition]",
         "url": "https://open.spotify.com/album/2Sar8iOTRh2AazvaCzHC6O"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 426480,
       "name": "Kiss And Run",
       "url": "https://open.spotify.com/track/1hqa9kxKz6wKgNx9PP2Iwc"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 257866,
-      "name": "Cherokee - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2Gxqa5tSywDIreRacsNPZB"
     },
     {
       "added_at": "2022-08-17 09:58:29",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-08-17 09:58:29",
       "album": {
-        "name": "The Congregation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 387653,
-      "name": "Latin Quarter - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/7L83qErlLHeb6n1CR9lqXk"
-    },
-    {
-      "added_at": "2022-08-17 09:58:29",
-      "album": {
         "name": "Brass Bag",
         "url": "https://open.spotify.com/album/6rn3FShZAjVH7HHMV49Tmk"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 411733,
       "name": "Ow!",
       "url": "https://open.spotify.com/track/1Ju0Tsue7GTzlcx0y2kN2C"
+    },
+    {
+      "added_at": "2022-08-17 09:58:29",
+      "album": {
+        "name": "The Congregation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 387653,
+      "name": "Latin Quarter - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/7L83qErlLHeb6n1CR9lqXk"
     },
     {
       "added_at": "2022-08-17 09:58:29",

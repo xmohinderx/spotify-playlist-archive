@@ -2,9 +2,9 @@
 
 ### [Post Punk 2k](https://open.spotify.com/playlist/37i9dQZF1DWYwMzXER4RFF)
 
-> New no wave, post\-punk, and anything else\. Cover: Opus Kink
+> New no wave, post\-punk, and anything else\. Cover: Talk Show
 
-281 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+283 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/0QAEc5JBdaZMdxqU3xL64H) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/5uTI2HcpAywDP8Vo1DpJta) | 3:14 | 2021-12-06 | 2022-07-23 |
 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 3:14 | 2022-06-16 |  |
 | [American Dreaming](https://open.spotify.com/track/6qFP8XKvS3zHq8KwjfEPNT) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [American Dreaming](https://open.spotify.com/album/5VnCDYP1xurFM8OyJ1KPJp) | 3:20 | 2022-03-11 | 2022-04-19 |
+| [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 | 2022-08-25 |  |
 | [Another Night](https://open.spotify.com/track/3x2kMMjAMfZvgV9PacT3Mw) | [The Men](https://open.spotify.com/artist/30XB6UJMhn7v7ZDX2GlIsM) | [Tomorrow's Hits](https://open.spotify.com/album/2TY5pohPtUqu1c5fy7pW0F) | 5:28 | 2021-12-06 | 2022-07-26 |
 | [Avoidarama](https://open.spotify.com/track/1bFz0eOflEU0WOksVBDPA2) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Avoidarama](https://open.spotify.com/album/27NMHPWp3yDUSsrrHQoVRM) | 2:58 | 2021-12-06 | 2022-07-24 |
 | [B Boys Anthem](https://open.spotify.com/track/6RCJa37P65U7uCm6oyxY3J) | [B Boys](https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa) | [Dada](https://open.spotify.com/album/1YLqgmVidQ5seIyuBgaI50) | 1:23 | 2021-12-06 | 2022-07-21 |
@@ -115,7 +116,7 @@
 | [hollow scene](https://open.spotify.com/track/3yZZhCSCVioLeUVPKs9mLI) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [hollow scene](https://open.spotify.com/album/6s5a4fG731JST484ZAsl5m) | 3:03 | 2021-12-06 | 2022-07-28 |
 | [Hollywood](https://open.spotify.com/track/7nhHhAK4luQGM6yxIAZcF4) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Hollywood](https://open.spotify.com/album/5HBRejbP2IlsqHNQDQb2oy) | 3:51 | 2021-12-06 | 2022-07-24 |
 | [Holy Smoke](https://open.spotify.com/track/3h1pKCq82AzewJHdJisElO) | [SLAP RASH](https://open.spotify.com/artist/5QHruUgCAsZJ9SfzvcoogM) | [Holy Smoke](https://open.spotify.com/album/1nayzHyYXMdlJFX9bMqnMr) | 3:40 | 2022-03-11 | 2022-04-21 |
-| [Homo Sapien](https://open.spotify.com/track/4mflFeaji6SfBoJUaLuozF) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Sympathy for Life](https://open.spotify.com/album/3pimNTNgv34WFrdooDB0TT) | 2:55 | 2021-12-06 |  |
+| [Homo Sapien](https://open.spotify.com/track/4mflFeaji6SfBoJUaLuozF) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Sympathy for Life](https://open.spotify.com/album/3pimNTNgv34WFrdooDB0TT) | 2:55 | 2021-12-06 | 2022-08-26 |
 | [Horses](https://open.spotify.com/track/3FGdZPyBYvPVMen9m28Ula) | [Gag Salon](https://open.spotify.com/artist/2C3DYfvpYvOATMSMWL6lat) | [Horses](https://open.spotify.com/album/2WjI0m3MbKcBZciRqpiUZy) | 4:31 | 2022-03-11 | 2022-04-14 |
 | [Houseplants](https://open.spotify.com/track/3Q1Q4dftyBYbcCa0YFIhUD) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/2KYm30pFBJI0fwpCGcth3t) | 4:18 | 2021-12-06 |  |
 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 | 2021-12-06 |  |
@@ -125,7 +126,7 @@
 | [I Can Hear Them Too](https://open.spotify.com/track/7m0rOGURLsQ8hWeKVn9SB3) | [Bicurious](https://open.spotify.com/artist/3hg0uAz0P2tHrvqqHU4zzh) | [\(re\)constructed](https://open.spotify.com/album/6kNCgRGfMzTSm26IUaEr9J) | 4:53 | 2022-01-20 | 2022-07-29 |
 | [I Don't Belong](https://open.spotify.com/track/5cROm5vS1sK0gM3NQL5Gr6) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Don't Belong](https://open.spotify.com/album/4No1gKG4RlwBZEShVdOwUW) | 4:31 | 2021-12-06 | 2022-07-29 |
 | [I Don't Belong](https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3) | 4:31 | 2022-06-16 |  |
-| [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-11 |  |
+| [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-11 | 2022-08-26 |
 | [I Used to Win](https://open.spotify.com/track/5CTBH6Lg2BASDWMt9EqhBl) | [Atom](https://open.spotify.com/artist/6Rt03B0lMv0Hl5IfgRYREU) | [I Used to Win](https://open.spotify.com/album/7yzqw2U0D1tDVNRd5AXlLi) | 3:31 | 2021-12-06 | 2022-07-12 |
 | [Interrobang](https://open.spotify.com/track/78k9m5NAmexhRCHDlyqLr0) | [Headshrinkers](https://open.spotify.com/artist/4m073FqMiZ81NIcsfvrDLt) | [Interrobang](https://open.spotify.com/album/6dAjqEF01vfxMUACNYvyU8) | 3:04 | 2022-03-11 | 2022-04-13 |
 | [Into Strangeness](https://open.spotify.com/track/5t8AS8Q4Kz2JyzLrQESdth) | [Fear of Men](https://open.spotify.com/artist/0CRpYpI1sFle7hwVWdLOEd) | [Into Strangeness](https://open.spotify.com/album/7jJm499J2BSVNrvJCvSqg8) | 2:55 | 2022-02-11 | 2022-05-30 |
@@ -144,6 +145,7 @@
 | [Knife on the Platter](https://open.spotify.com/track/3ue21ZrK1pzDJXi0cicq7T) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Knife on the Platter](https://open.spotify.com/album/6ZS8LemGUtzs98174V98Ui) | 2:24 | 2021-12-06 | 2022-07-21 |
 | [Konichiwa Internet](https://open.spotify.com/track/1ECfCMGO2AO8kfWvm9OfrY) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Collector](https://open.spotify.com/album/1sIOFZNoxnybef3xu0n00M) | 3:11 | 2021-12-06 | 2022-07-25 |
 | [Last Breath](https://open.spotify.com/track/1ZMsAnynOVdPV4JXIDhfYu) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Last Breath](https://open.spotify.com/album/2O5SlD3mS0wiUtMkHdWd5B) | 2:59 | 2021-12-06 | 2022-07-29 |
+| [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-08-25 |  |
 | [Lentil Soup](https://open.spotify.com/track/5GEfgaRwaecTBa8UF8UTgz) | [Qlowski](https://open.spotify.com/artist/1IhMuqG9tnQDPmiOkdOaQ4) | [Quale Futuro?](https://open.spotify.com/album/0mXRNzNk4uopEWssIXOEAZ) | 3:37 | 2021-12-06 | 2022-07-27 |
 | [Letter](https://open.spotify.com/track/0FOtDyR1nTN9vMQs0jVGeU) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Letter](https://open.spotify.com/album/35fiLveqLZEkUeKbbtqdge) | 3:17 | 2021-12-06 | 2022-07-23 |
 | [Life Goes On](https://open.spotify.com/track/19PvZLD2TpIzc7JqcTRxa0) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [Life Goes On](https://open.spotify.com/album/0FIpV1nfMhHcdnYcxcgXlx) | 3:34 | 2021-12-06 | 2022-07-28 |

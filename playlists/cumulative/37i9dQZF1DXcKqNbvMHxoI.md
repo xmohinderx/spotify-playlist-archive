@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-139 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
+140 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [Eternal Light](https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:13 | 2022-07-19 | 2022-07-27 |
 | [Every Nigger is a Star](https://open.spotify.com/track/428Pr1wkAglLvbIlYTvlGt) | [Boris Gardiner](https://open.spotify.com/artist/2fV23bDf2vC1f49t5j6wtW) | [Every Nigger is a Star](https://open.spotify.com/album/69tXZGhSCMvibm1QmGenRR) | 3:18 | 2022-07-19 | 2022-07-27 |
 | [Fall](https://open.spotify.com/track/2ig2SCNvE1jtjzZhTWZjA5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:17 | 2022-02-04 |  |
+| [Fall Again](https://open.spotify.com/track/3DU0kVyL8d8DgINz9qBxPQ) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Help](https://open.spotify.com/album/3dfh1q4L1CJyyIC47Sinln) | 4:10 | 2022-07-26 |  |
 | [Fall Again](https://open.spotify.com/track/4S5KBWW3eO0Qec67AkP3iK) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Help](https://open.spotify.com/album/6XgC2zL6j2hrqrAbYsaGmN) | 4:10 | 2022-07-19 | 2022-07-27 |
-| [Fall Again](https://open.spotify.com/track/60vMLy9tlMQ3pjQsLPn5m8) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Fall Again](https://open.spotify.com/album/11ghUcZqVZfQYnV1vMFHdR) | 4:10 | 2022-02-04 |  |
+| [Fall Again](https://open.spotify.com/track/60vMLy9tlMQ3pjQsLPn5m8) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Fall Again](https://open.spotify.com/album/11ghUcZqVZfQYnV1vMFHdR) | 4:10 | 2022-02-04 | 2022-08-26 |
 | [Fall In Love](https://open.spotify.com/track/2KBo6O5rkNdtYT3wYjkEkq) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:55 | 2022-07-19 | 2022-07-27 |
 | [FHKD](https://open.spotify.com/track/2hVgZH9Q6XauqSLeMcl5fZ) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/0aWcnOSntyOxzNCxBksLW6) | 4:29 | 2022-02-04 | 2022-07-29 |
 | [FHKD](https://open.spotify.com/track/4XpLwRcfumQsZ0IxDNOP3f) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:29 | 2022-07-26 |  |

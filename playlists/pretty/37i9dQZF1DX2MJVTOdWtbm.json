@@ -1,12 +1,12 @@
 {
   "description": "Fresh R&B Latin tracks, solo lo nuevo del R&B Latino.  Cover: Destiny Rogers",
-  "num_followers": 99535,
+  "num_followers": 99571,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MjI5NCwwMDAwMDAwMGRjNDhkYzlhMDVhYjU1ZThmYTJlOThlZDFhNWU2MTBl",
+  "snapshot_id": "MTY2MDc2MjI5NCwwMDAwMDAwMGExM2E1YTkwZWUwY2JjZDBiNzU3MDBjMzAzYmI4YjYy",
   "tracks": [
     {
       "added_at": "2022-08-17 18:51:34",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
-        "name": "CON TAL",
-        "url": "https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm"
-      },
-      "artists": [
-        {
-          "name": "Marval",
-          "url": "https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM"
-        }
-      ],
-      "duration_ms": 174004,
-      "name": "CON TAL",
-      "url": "https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
         "name": "la vida viene y va",
         "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 215872,
       "name": "la vida viene y va",
       "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
+        "name": "CON TAL",
+        "url": "https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm"
+      },
+      "artists": [
+        {
+          "name": "Marval",
+          "url": "https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM"
+        }
+      ],
+      "duration_ms": 174004,
+      "name": "CON TAL",
+      "url": "https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
         "name": "Conoce",
         "url": "https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 219130,
       "name": "Conoce",
       "url": "https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
-        "name": "2 almas",
-        "url": "https://open.spotify.com/album/3yxy66R5JTr8IjKUxlZn7T"
-      },
-      "artists": [
-        {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
-        },
-        {
-          "name": "Nana Mendoza",
-          "url": "https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA"
-        }
-      ],
-      "duration_ms": 201743,
-      "name": "2 almas",
-      "url": "https://open.spotify.com/track/3x8wse8y39pB0hhu4MeEql"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
         "name": "Na Pa Ti (feat. Kofi)",
         "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 173098,
       "name": "Na Pa Ti (feat. Kofi)",
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
+        "name": "2 almas",
+        "url": "https://open.spotify.com/album/3yxy66R5JTr8IjKUxlZn7T"
+      },
+      "artists": [
+        {
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        },
+        {
+          "name": "Nana Mendoza",
+          "url": "https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA"
+        }
+      ],
+      "duration_ms": 201743,
+      "name": "2 almas",
+      "url": "https://open.spotify.com/track/3x8wse8y39pB0hhu4MeEql"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -939,6 +939,26 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
+        "name": "Direction",
+        "url": "https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM"
+      },
+      "artists": [
+        {
+          "name": "Aniya Teno",
+          "url": "https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW"
+        },
+        {
+          "name": "Ivan Orozco",
+          "url": "https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Direction",
+      "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 182337,
       "name": "desde dentro",
       "url": "https://open.spotify.com/track/0q6GyKJUROqHWYqT0wzGBx"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
-        "name": "Direction",
-        "url": "https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM"
-      },
-      "artists": [
-        {
-          "name": "Aniya Teno",
-          "url": "https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW"
-        },
-        {
-          "name": "Ivan Orozco",
-          "url": "https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Direction",
-      "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
+        "name": "mira bien",
+        "url": "https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg"
+      },
+      "artists": [
+        {
+          "name": "Nana Mendoza",
+          "url": "https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA"
+        }
+      ],
+      "duration_ms": 224904,
+      "name": "mira bien",
+      "url": "https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
         "name": "Lo Que Muere No Acaba",
         "url": "https://open.spotify.com/album/7CSLDt5x0jtwohF2QlGmUo"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
-        "name": "mira bien",
-        "url": "https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg"
-      },
-      "artists": [
-        {
-          "name": "Nana Mendoza",
-          "url": "https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA"
-        }
-      ],
-      "duration_ms": 224904,
-      "name": "mira bien",
-      "url": "https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
         "name": "Sensualidad",
         "url": "https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
-        "name": "Tu Boca",
-        "url": "https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2"
-      },
-      "artists": [
-        {
-          "name": "HAL\u00c9",
-          "url": "https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii"
-        }
-      ],
-      "duration_ms": 182281,
-      "name": "Tu Boca",
-      "url": "https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
         "name": "Deli\u0107",
         "url": "https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 273023,
       "name": "No Es Cierto",
       "url": "https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
+        "name": "Tu Boca",
+        "url": "https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2"
+      },
+      "artists": [
+        {
+          "name": "HAL\u00c9",
+          "url": "https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii"
+        }
+      ],
+      "duration_ms": 182281,
+      "name": "Tu Boca",
+      "url": "https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/3h8wbkxQjCDliRvRbWGPFs"
-      },
-      "artists": [
-        {
-          "name": "Fer Altuzar",
-          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/66La9NfMHL7hh34uj9iVeS"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
         "name": "IDWLH (I Don't Wanna Love Him)",
         "url": "https://open.spotify.com/album/5mfgYGWt86iLrLye6pJRSr"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 173156,
       "name": "IDWLH (I Don't Wanna Love Him)",
       "url": "https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/3h8wbkxQjCDliRvRbWGPFs"
+      },
+      "artists": [
+        {
+          "name": "Fer Altuzar",
+          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/66La9NfMHL7hh34uj9iVeS"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY"
+      },
+      "artists": [
+        {
+          "name": "EVAH",
+          "url": "https://open.spotify.com/artist/0Jq68za8AyaPdrI4NEuMni"
+        }
+      ],
+      "duration_ms": 243411,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa"
+    },
+    {
+      "added_at": "2022-08-17 18:51:34",
+      "album": {
         "name": "Beso Picor",
         "url": "https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2022-08-17 18:51:34",
       "album": {
-        "name": "Pausa",
-        "url": "https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY"
+        "name": "Experimento",
+        "url": "https://open.spotify.com/album/74gTwPmW6qHE5TpKh5kPud"
       },
       "artists": [
         {
-          "name": "EVAH",
-          "url": "https://open.spotify.com/artist/0Jq68za8AyaPdrI4NEuMni"
+          "name": "Sara Ontaneda",
+          "url": "https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC"
         }
       ],
-      "duration_ms": 243411,
-      "name": "Pausa",
-      "url": "https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa"
+      "duration_ms": 241034,
+      "name": "Cerezos II",
+      "url": "https://open.spotify.com/track/2yw2lAqQveFFWzr8Bu6uHG"
     },
     {
       "added_at": "2022-08-17 18:51:34",
@@ -1427,22 +1443,6 @@
       "duration_ms": 181253,
       "name": "Arrocito Frito",
       "url": "https://open.spotify.com/track/68BjkLhM0Sb0wGDd6w5jKU"
-    },
-    {
-      "added_at": "2022-08-17 18:51:34",
-      "album": {
-        "name": "Experimento",
-        "url": "https://open.spotify.com/album/74gTwPmW6qHE5TpKh5kPud"
-      },
-      "artists": [
-        {
-          "name": "Sara Ontaneda",
-          "url": "https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC"
-        }
-      ],
-      "duration_ms": 241034,
-      "name": "Cerezos II",
-      "url": "https://open.spotify.com/track/2yw2lAqQveFFWzr8Bu6uHG"
     },
     {
       "added_at": "2022-08-17 18:51:34",

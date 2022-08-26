@@ -1,13 +1,29 @@
 {
   "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Foals",
-  "num_followers": 1672,
+  "num_followers": 1670,
   "original_name": "Plugged In",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTYxNSxmNTg2MjNlYTNjMDg2YTJmNTIwZWI4NjZiZTU0Nzk4MjliYjZlNzBm",
+  "snapshot_id": "MTYxNiwyZmUzY2I3M2EwNzMzMDg0NGZkZWZhYjI2NzIwNjFhOTUwMDkxNGRj",
   "tracks": [
+    {
+      "added_at": "2022-08-26 01:01:45",
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 180302,
+      "name": "You Make Me Feel Like It\u2019s Halloween",
+      "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
+    },
     {
       "added_at": "2022-08-19 01:24:44",
       "album": {

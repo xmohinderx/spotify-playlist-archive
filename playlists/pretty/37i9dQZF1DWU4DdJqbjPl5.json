@@ -1,13 +1,29 @@
 {
-  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=rf-tDmCLTlWlZ5uU9GZA9g\" > Nikita Kering </a> ",
-  "num_followers": 119875,
+  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q?si=4gBG0OJuTc6mgRC9iQsNcg\" > Chike </a> ",
+  "num_followers": 120028,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkwODg1NiwwMDAwMDAwMGNhZmUwYjA1NDFiZmI3OTk2NGY2NjBjZWNjYzE1NmMy",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDc0NjllNzljZmNiMTc5OGE1ZTgxMzRkODQ1ZDk1OThh",
   "tracks": [
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "The Brother's Keeper",
+        "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
+      },
+      "artists": [
+        {
+          "name": "chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Pour Me a Drink",
+      "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
+    },
     {
       "added_at": "2022-07-22 04:35:32",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 138034,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -55,6 +87,26 @@
       "duration_ms": 121544,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Give Me Something (feat. Rowlene)",
+        "url": "https://open.spotify.com/album/4beeF1a8TR0ZAmHGbVmcjV"
+      },
+      "artists": [
+        {
+          "name": "Sha Sha",
+          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
+        },
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Give Me Something (feat. Rowlene)",
+      "url": "https://open.spotify.com/track/5cRuXf4RQjrNEGkTVNlBrv"
     },
     {
       "added_at": "2022-06-08 08:17:06",
@@ -211,6 +263,26 @@
       "duration_ms": 283934,
       "name": "Sundays Are For Lovers",
       "url": "https://open.spotify.com/track/3EgaEehSd9raC0RAUbwtQh"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "fluid",
+        "url": "https://open.spotify.com/album/0SNAWeX1JUnfbk0bL3UdhF"
+      },
+      "artists": [
+        {
+          "name": "MOONGA K.",
+          "url": "https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d"
+        },
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        }
+      ],
+      "duration_ms": 178075,
+      "name": "fluid",
+      "url": "https://open.spotify.com/track/7JmqcNJ3yqcSdmeL7Eft6a"
     },
     {
       "added_at": "2022-07-22 04:35:32",
@@ -881,7 +953,7 @@
         }
       ],
       "duration_ms": 164848,
-      "name": "Emiliana",
+      "name": "emiliana",
       "url": "https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I"
     },
     {

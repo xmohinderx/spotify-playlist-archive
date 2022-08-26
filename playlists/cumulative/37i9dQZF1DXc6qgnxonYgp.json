@@ -1386,6 +1386,24 @@
     },
     {
       "album": {
+        "name": "Maari Mazhaiyila Thavala",
+        "url": "https://open.spotify.com/album/754TTixoJkmxR8F8zt0XTa"
+      },
+      "artists": [
+        {
+          "name": "Ratty Adhiththan",
+          "url": "https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211846,
+      "name": "Maari Mazhaiyila Thavala",
+      "url": "https://open.spotify.com/track/20Laa9YU8RVHZ9iGKMeM7w"
+    },
+    {
+      "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/7a4D0dQEbyuhfokz9cuvCI"
       },

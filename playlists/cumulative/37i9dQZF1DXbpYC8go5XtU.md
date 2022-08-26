@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-144 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+145 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [H2O FRM Faucet](https://open.spotify.com/track/0j9EP5hsbpkPqLAmJc3nG5) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [mb\_s\_4\_ch](https://open.spotify.com/album/4lHznF2gzbSmLxQCf511SY) | 4:39 | 2022-07-08 | 2022-08-13 |
 | [H2O FRM Faucet](https://open.spotify.com/track/7xug23Y2R1XliELQ5a8jv6) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [mb\_s\_4\_ch](https://open.spotify.com/album/0redlBmPu1BWruATZuidTV) | 4:39 | 2021-12-22 | 2022-07-29 |
 | [Hayama Ambient 034](https://open.spotify.com/track/6ucVMSqO3QHvvBNMPOnCch) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Hayama Ambient 034](https://open.spotify.com/album/3BYHi87dcmiYFiCMbaDcoj) | 2:19 | 2021-12-22 |  |
-| [Heart of the Forest](https://open.spotify.com/track/5tEvfL7dJzS5EGTAsOKZZJ) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Heart of the Forest](https://open.spotify.com/album/4t91UuK4jqwLG7xU2kMdXV) | 5:56 | 2021-12-22 |  |
+| [Heart of the Forest](https://open.spotify.com/track/5jDXQNtNbPWMQvMW6iIyhT) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Heart of the Forest](https://open.spotify.com/album/6Sr2sLVQAosKrGZyB7kdaD) | 5:56 | 2022-08-17 |  |
+| [Heart of the Forest](https://open.spotify.com/track/5tEvfL7dJzS5EGTAsOKZZJ) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Heart of the Forest](https://open.spotify.com/album/4t91UuK4jqwLG7xU2kMdXV) | 5:56 | 2021-12-22 | 2022-08-26 |
 | [Honesty](https://open.spotify.com/track/5Yk87Sx5schJACOxYmyYkR) | [Desolate Horizons](https://open.spotify.com/artist/5y4oIz8eUC013rOK3AldFN) | [Inner Forests](https://open.spotify.com/album/2RLUDtP21qs0kXSpE9BQLe) | 3:39 | 2022-01-12 |  |
 | [Imaginary Soundscape I, Postcard Six](https://open.spotify.com/track/6fYIZYxVMbmmkwbT1Yc19y) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 2:50 | 2021-12-22 |  |
 | [Imaginary Soundscape II, Postcard Four](https://open.spotify.com/track/2lE2t3noIZ1WBa1Ekf4qcx) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:09 | 2021-12-22 |  |

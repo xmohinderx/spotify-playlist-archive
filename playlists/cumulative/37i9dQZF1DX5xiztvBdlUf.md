@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-262 songs - 1 day 1 hr 2 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
+263 songs - 1 day 1 hr 5 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-11-26 |  |
 | [Goldfish](https://open.spotify.com/track/0p1yLmb6wDNrLd5Hg9Yfuy) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Seasoul](https://open.spotify.com/artist/3Nqa6f1nJMRQYDd0JQdgh3) | [Goldfish](https://open.spotify.com/album/11Qe5JY6dIOIfee2spVcug) | 7:56 | 2021-11-26 | 2022-07-29 |
 | [Good Morning](https://open.spotify.com/track/2g7BwK58fPL8xOnMGVYz0K) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu) | [Good Morning](https://open.spotify.com/album/1h3RHWUd6FFwQ06aWO6dUj) | 8:40 | 2021-11-26 | 2022-07-29 |
+| [Gotta Do This, Gurl](https://open.spotify.com/track/1fiwPnzU3b50IhhhgDVorQ) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Gotta Do This, Gurl](https://open.spotify.com/album/5e2bl6tZIjQogNIy34S7c3) | 3:45 | 2022-08-12 |  |
 | [Hack Into Your Soul](https://open.spotify.com/track/7aeAQvMddQg6EOb0lQcieC) | [Blindsmyth](https://open.spotify.com/artist/316jj0bjhfXGHGBEraGy7P) | [Hack Into Your Soul](https://open.spotify.com/album/2b0Dy5XRH3H4jH0bzXEGV9) | 7:14 | 2022-02-04 | 2022-07-29 |
 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 | 2021-11-26 | 2022-02-17 |
 | [High Seas](https://open.spotify.com/track/3vIN77NsPlbqUOYC0DZBvo) | [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk) | [From Desolate Places and Forgotten Times](https://open.spotify.com/album/2o8Ggk3Fbgje1iIAw3hB1l) | 9:55 | 2021-11-26 | 2022-02-19 |
@@ -204,7 +205,7 @@
 | [Sezon](https://open.spotify.com/track/6xlfITFTlS8sley7cC9Uei) | [Angelov](https://open.spotify.com/artist/1gfKoKe7IlVgI1rL6qG7J2) | [Iliada EP](https://open.spotify.com/album/49OvMXscS6RSboc2blW3ci) | 7:19 | 2022-04-04 | 2022-04-17 |
 | [Shades](https://open.spotify.com/track/4SdBlOhE545Zr2ZH2oca3i) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Shades](https://open.spotify.com/album/2bbgXtnw9mpweJSSw4XOf5) | 4:05 | 2022-04-15 | 2022-07-27 |
 | [Shinsetsu](https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shinsetsu](https://open.spotify.com/album/6UqkzKbzEYtSYUtcA0Z2ED) | 8:03 | 2021-11-26 | 2022-07-29 |
-| [Shinsetsu](https://open.spotify.com/track/76aEsWbH7zSLICnB1YM049) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Bella Mar 08](https://open.spotify.com/album/5yiTh9hbFRyF4jp7bAiZQn) | 8:03 | 2022-08-12 |  |
+| [Shinsetsu](https://open.spotify.com/track/76aEsWbH7zSLICnB1YM049) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Bella Mar 08](https://open.spotify.com/album/5yiTh9hbFRyF4jp7bAiZQn) | 8:03 | 2022-08-12 | 2022-08-26 |
 | [Sign of the Times](https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Sign of the Times](https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB) | 3:13 | 2022-01-14 |  |
 | [Signal \- Anja Schneider Deep Code Remix](https://open.spotify.com/track/3k4fCO3h1bC7BpKGIvmTx2) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Signal \(Anja Schneider Deep Code Remix\)](https://open.spotify.com/album/44xVguYC2kioMvYoBrWWKT) | 6:11 | 2022-04-04 | 2022-04-14 |
 | [Signs Of A Swarm](https://open.spotify.com/track/4PJ1fHvANi7GC7JLsQNPmo) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Signs Of A Swarm](https://open.spotify.com/album/7cyPp6CjWCZZVZJF6xvS91) | 7:03 | 2021-11-26 | 2022-06-09 |

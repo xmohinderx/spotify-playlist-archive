@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Fateeha, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,903 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,914 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 5 | [Kulet](https://open.spotify.com/track/1LIHsueuahhzNWb1TRaZQf) | [Fateeha](https://open.spotify.com/artist/3UcBSssnznTxEyznb5C5z8) | [Kulet](https://open.spotify.com/album/6S7jTg2RjVsyXtOos0sEvr) | 3:24 |
 | 6 | [Man Down \(AcadArena\)](https://open.spotify.com/track/5GSyQY2ms6b1LRSOMHd01r) | [P:6](https://open.spotify.com/artist/4ixi3dhnHRpHqPmEXWJfUN) | [Man Down \(AcadArena\)](https://open.spotify.com/album/2vh0sIUfV5IWT8eJvRIptk) | 2:51 |
 | 7 | [No Way](https://open.spotify.com/track/4fT6TsqJuQcQvHSRKjLojz) | [Zeyonce](https://open.spotify.com/artist/2gGzQYe0yM4iTir2kk4Qkz) | [No Way](https://open.spotify.com/album/1u5JtOije88Qv9daWpfkTX) | 3:33 |
-| 8 | [EZPZ](https://open.spotify.com/track/5L9Pkf47stktbxBncgmk5p) | [Aurelius](https://open.spotify.com/artist/2Sinzznmvm6x6UamDkSB2u) | [EZPZ](https://open.spotify.com/album/0WxmtWbgzN87aSCwNXOrrk) | 2:57 |
+| 8 | [EZPZ](https://open.spotify.com/track/5L9Pkf47stktbxBncgmk5p) | [Aurelius](https://open.spotify.com/artist/4HbX5Lopc0KOdxLRdeWRai) | [EZPZ](https://open.spotify.com/album/0WxmtWbgzN87aSCwNXOrrk) | 2:57 |
 | 9 | [Back On Earth](https://open.spotify.com/track/3KaOfcOa3594I5hzidAcRv) | [NvrTHESAME](https://open.spotify.com/artist/74Mv4MaIzWjvSoJfhiTwnV), [Kid Andromeda](https://open.spotify.com/artist/68rt24QJbFg2BvlgbF5l0k), [MC KiM](https://open.spotify.com/artist/65xLjXr3jtJm1X4gnUml01) | [Back On Earth](https://open.spotify.com/album/45e10DdmVdLFfHlUn52tlj) | 3:31 |
 | 10 | [Awit](https://open.spotify.com/track/4iugZFedUgJKctspgYHGh7) | [Blast Beats](https://open.spotify.com/artist/7pMt6Qk3EGsIbHW2MySlGK), [Minic](https://open.spotify.com/artist/6aGub9c12l6rEBJAD412qx) | [Awit](https://open.spotify.com/album/4fU5Mhct3kPnexJYzVgeXx) | 3:43 |
 | 11 | [Gising](https://open.spotify.com/track/28Swkv2bWrIkPW77diwIws) | [Mejico Legal](https://open.spotify.com/artist/0Rf6qXeI20fxp70GIpwsSw) | [Gising](https://open.spotify.com/album/2aFsASszDCSHg6X2ppFg5l) | 3:01 |

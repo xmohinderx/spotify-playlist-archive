@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: HUNJIYA\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,354 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,373 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 41 | [GREEN](https://open.spotify.com/track/3gpLvfmxRFV7HjnC4iQPFb) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [GREEN](https://open.spotify.com/album/4V2QOe9G0YV5vXLHfY6b7J) | 2:54 |
 | 42 | [Fly](https://open.spotify.com/track/4kGovia8fjU4qTZp3mNMqX) | [Joyce Yoo](https://open.spotify.com/artist/4F0bWVpeEobe1Rtg9cIf5P) | [Fly](https://open.spotify.com/album/3wrxwHVd5In6JwAyQil9Rp) | 2:58 |
 | 43 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
-| 44 | [SESAME](https://open.spotify.com/track/3pUzXCDNb9Zt2W6WOqGEm2) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0), [Bell The Blu](https://open.spotify.com/artist/6pOhX5ApPPaAPPkBjsDMcp) | [SESAME](https://open.spotify.com/album/4RBVQrJucNKAx0LkutK7Vv) | 3:24 |
+| 44 | [SESAME](https://open.spotify.com/track/3pUzXCDNb9Zt2W6WOqGEm2) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0), [Bell the blu](https://open.spotify.com/artist/4OHNwCbAI5UPSb2gMZljAO) | [SESAME](https://open.spotify.com/album/4RBVQrJucNKAx0LkutK7Vv) | 3:24 |
 | 45 | [I Guess I Like You](https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Poong, the Joseon Psychiatrist OST Part.2](https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz) | 3:29 |
 | 46 | [Gardener \(feat\. Tamiz, SIM2\)](https://open.spotify.com/track/58QcQFi9oZX5jSpEddgG4L) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR) | [Gardener \(feat\. Tamiz, SIM2\)](https://open.spotify.com/album/3nPuyX4q23rvzaNoHUHEOs) | 3:02 |
 | 47 | [Sun Dance](https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [Sun Dance](https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd) | 3:37 |

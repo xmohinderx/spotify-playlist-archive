@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 211393,
       "name": "Anasasis (Xenophontis)",
       "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 347400,
       "name": "Blue and the Grey",
       "url": "https://open.spotify.com/track/0e30YEyFE4Yv1XJcPqEY3n"
@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/0P5on9gXrHkBXYdxCRhUN9"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410773,
+      "name": "Darker Still",
+      "url": "https://open.spotify.com/track/3vODx9YwmM8irt3vZBfzjJ"
+    },
+    {
+      "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 227332,
       "name": "Deadweight",
       "url": "https://open.spotify.com/track/3sLTYZzLqbV0sY9NnqL3tU"
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 211100,
       "name": "Gimme AD",
       "url": "https://open.spotify.com/track/6aiL3ftGl86lXUWkYuN05E"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 327013,
       "name": "The River",
       "url": "https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY"
@@ -909,7 +927,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 139473,
       "name": "Unrest",
       "url": "https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr"

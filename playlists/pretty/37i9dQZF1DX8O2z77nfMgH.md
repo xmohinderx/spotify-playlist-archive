@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,336 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,367 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 60 | [DEL1TOS](https://open.spotify.com/track/1P0B58QWjV72528AYo4wjF) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [DEL1TOS](https://open.spotify.com/album/6z4KCSoJR7YXx4Cs7nhH45) | 2:25 |
 | 61 | [Lado Nerd](https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Lado Nerd](https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N) | 1:45 |
 | 62 | [Lluvia](https://open.spotify.com/track/11Sju36Nle1KlBYbeL0Ff8) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Lluvia](https://open.spotify.com/album/2DPRxaeSKMBxtGLOsrA3NY) | 4:24 |
-| 63 | [Mago Báez](https://open.spotify.com/track/3FeFQTJw2oyyC2rWePEwY8) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv) | [El Puente](https://open.spotify.com/album/5a9n8b9B9wbI0JZQodLy5f) | 2:46 |
+| 63 | [Mago Báez](https://open.spotify.com/track/3FeFQTJw2oyyC2rWePEwY8) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Sison Beats/Nemesis](https://open.spotify.com/artist/1WtgnQniTZnkC1ep4OqIQy) | [El Puente](https://open.spotify.com/album/5a9n8b9B9wbI0JZQodLy5f) | 2:46 |
 | 64 | [Barulho de Chuva](https://open.spotify.com/track/1NpfKlm4c7JSNM7PkPSvHr) | [Lil Whind](https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr) | [Vivência](https://open.spotify.com/album/5NvmkNmpY7yiDDDMdLGenW) | 2:35 |
 | 65 | [Posturadão](https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Posturadão](https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO) | 2:42 |
 | 66 | [Guillao](https://open.spotify.com/track/16WqTGCulLA8aZBEEDlkJt) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Bdp Music](https://open.spotify.com/artist/4b7i6N8x84rGKrdzlPbNyt) | [Guillao](https://open.spotify.com/album/77T3tNzajCJ616BvwbPlDa) | 3:05 |

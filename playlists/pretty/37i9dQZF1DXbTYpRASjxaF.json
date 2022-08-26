@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Menor MC, DJ Matt D",
-  "num_followers": 75183,
+  "num_followers": 75393,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDBlNDAwNzcxN2E1NDA3MGE5ZTc0OTQ2MDBiZjI2N2Rm",
+  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDM1MDc2MjRjMmJjN2FjY2MyOWRlMTFiNTExZGY1ZjVm",
   "tracks": [
     {
       "added_at": "2022-08-12 03:01:00",
@@ -863,6 +863,30 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Ro\u00e7a Trap Toco a Xota Dela",
+        "url": "https://open.spotify.com/album/2TBIqyMl408tsPZP0ZWe34"
+      },
+      "artists": [
+        {
+          "name": "Omni Black",
+          "url": "https://open.spotify.com/artist/38JfrdJwSQMp4l0mpg7K8S"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "B.I.G Carter",
+          "url": "https://open.spotify.com/artist/4FfTbOUdugEh4aAUj2vM70"
+        }
+      ],
+      "duration_ms": 180105,
+      "name": "Ro\u00e7a Trap Toco a Xota Dela",
+      "url": "https://open.spotify.com/track/2uaVR9QxDvQjDh1yptbLrF"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Vivendo no Auge",
         "url": "https://open.spotify.com/album/2ue3fh5fhRh3iREWhHTPJj"
       },
@@ -927,30 +951,6 @@
       "duration_ms": 420000,
       "name": "Festa Linda",
       "url": "https://open.spotify.com/track/1KRMUEKZOh0x8GsaWBn339"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Ro\u00e7a Trap Toco a Xota Dela",
-        "url": "https://open.spotify.com/album/2TBIqyMl408tsPZP0ZWe34"
-      },
-      "artists": [
-        {
-          "name": "Omni Black",
-          "url": "https://open.spotify.com/artist/38JfrdJwSQMp4l0mpg7K8S"
-        },
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
-        {
-          "name": "B.I.G Carter",
-          "url": "https://open.spotify.com/artist/4FfTbOUdugEh4aAUj2vM70"
-        }
-      ],
-      "duration_ms": 180105,
-      "name": "Ro\u00e7a Trap Toco a Xota Dela",
-      "url": "https://open.spotify.com/track/2uaVR9QxDvQjDh1yptbLrF"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Rico Bem Novin",
+        "url": "https://open.spotify.com/album/5vGJ6Mgt5MWj5Y0ZXc0QJF"
+      },
+      "artists": [
+        {
+          "name": "Shoy",
+          "url": "https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "O Que Voc\u00ea Quer?",
+      "url": "https://open.spotify.com/track/5HdpRBA7H8i2dNHAY7aslT"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Set Dj Br da Tijuca",
         "url": "https://open.spotify.com/album/30Rici9GQYROvdO1MLaV9g"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 432000,
       "name": "Set Dj Br da Tijuca",
       "url": "https://open.spotify.com/track/7gjiDfXZTBIrh4VNvYE4rh"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Rico Bem Novin",
-        "url": "https://open.spotify.com/album/5vGJ6Mgt5MWj5Y0ZXc0QJF"
-      },
-      "artists": [
-        {
-          "name": "Shoy",
-          "url": "https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ"
-        },
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "O Que Voc\u00ea Quer?",
-      "url": "https://open.spotify.com/track/5HdpRBA7H8i2dNHAY7aslT"
     },
     {
       "added_at": "2022-08-12 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1000001,
+  "num_followers": 1000411,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NTg0NSwwMDAwMDAwMDBiZDBmYWMxOGVmNTg3YTllZjZhOWMxZDg2MTJjMWU0",
+  "snapshot_id": "MTY2MDc0NTg0NSwwMDAwMDAwMDY0NThkMGI2ZjhlMmViNDM2ZmY5MWNhNWNkYzY5NGEw",
   "tracks": [
     {
       "added_at": "2021-11-10 18:08:33",
@@ -383,6 +383,22 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
+        "name": "Light and Heavy/The Best of...",
+        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
+      },
+      "artists": [
+        {
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "In-A-Gadda-Da-Vida - Single Version",
+      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 312253,
       "name": "Venus In Furs",
       "url": "https://open.spotify.com/track/29engDqjmMr3VLqMm0c0WE"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Light and Heavy/The Best of...",
-        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
-      },
-      "artists": [
-        {
-          "name": "Iron Butterfly",
-          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "In-A-Gadda-Da-Vida - Single Version",
-      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
     },
     {
       "added_at": "2021-11-10 18:08:33",

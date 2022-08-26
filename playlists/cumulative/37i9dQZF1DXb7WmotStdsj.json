@@ -492,6 +492,24 @@
     },
     {
       "album": {
+        "name": "Jarima Electronia 2",
+        "url": "https://open.spotify.com/album/4bRkfEXwYPwzwPUDhQJW7W"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Benchenet",
+          "url": "https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250916,
+      "name": "Jarima Electronia 2",
+      "url": "https://open.spotify.com/track/270PYzhVwT8pdPyAZEGNRa"
+    },
+    {
+      "album": {
         "name": "Jarima Iliktrouniya",
         "url": "https://open.spotify.com/album/5SnCFCzvjA7TxYg8KHI7FO"
       },

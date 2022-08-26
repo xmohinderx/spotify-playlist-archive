@@ -4,7 +4,7 @@
 
 > Relax to the sound of jazz.
 
-231 songs - 21 hr 59 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+232 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Isadora](https://open.spotify.com/track/5bF6crgJa5Q58IWgbdUbuO) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Introducing Christian Scott](https://open.spotify.com/album/5dFfrmCWp4rYbggmhYhakl) | 6:16 | 2020-10-09 | 2022-07-29 |
 | [It Never Entered my Mind](https://open.spotify.com/track/58VcgWixvxnMdt4bj29PdQ) | [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Richie Goods](https://open.spotify.com/artist/3vIV7TBZyCi5dGGaaFB6G6), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [The Sequel](https://open.spotify.com/album/387kMuzWWMPFsmvxpemQbA) | 6:31 | 2020-10-09 | 2022-07-29 |
 | [It Never Entered My Mind](https://open.spotify.com/track/1vP5Ceh1SrfOalU8Yc3XE9) | [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Wingspan](https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd) | [The Sequel](https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum) | 6:32 | 2022-06-30 |  |
+| [It's Easy to Remember](https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Piero Odorici](https://open.spotify.com/artist/5rECEZfFS5a06goUq2vL1c), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Alessandro Buzzi](https://open.spotify.com/artist/6qOSfEAYQemTcpVwnyLKAu), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z) | [Ballads](https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi) | 4:36 | 2022-08-25 |  |
 | [It's In The Middle Of The Night](https://open.spotify.com/track/7yRKzNvEQz9cngBQhjJp7L) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Jazz at Night](https://open.spotify.com/album/7cjqOoWOgTfdrmTeUjvh4u) | 3:39 | 2022-02-04 |  |
 | [It's You I Like](https://open.spotify.com/track/78pcTFrKHHttuJedO00g8j) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [It's You I Like](https://open.spotify.com/album/0HndGWelRVWNQkdiPrhXna) | 4:46 | 2022-01-21 |  |
 | [Jackie Gets Out](https://open.spotify.com/track/12zuJhwGaqJu8fvgBWqYuy) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [David Pulphus](https://open.spotify.com/artist/02amhnCtIA62SbXmNashjW) | [The Comedian \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a1fkH8V57Wxm1cEVzRgxt) | 2:56 | 2020-10-09 |  |

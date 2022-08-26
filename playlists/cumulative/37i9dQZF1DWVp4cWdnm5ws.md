@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon.
 
-88 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+91 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [I'M FINE](https://open.spotify.com/track/6rD22TasmUeZMz4dX8VLku) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb), [Hijo](https://open.spotify.com/artist/5FKfbso0qRACpiLxHQ0Ad6) | [CHANGIN' Vol\. 1](https://open.spotify.com/album/4bXcecNzDmfAS8pTtxNKT9) | 3:47 | 2021-11-25 | 2022-03-25 |
 | [Isa lang](https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Isa lang](https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF) | 4:29 | 2022-03-24 |  |
 | [Iyong Iyo](https://open.spotify.com/track/6RUEFRLol05iSCzQaCHNK5) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Iyong Iyo](https://open.spotify.com/album/6Pa87VouOnvJGvSLYdAevR) | 3:22 | 2021-11-25 | 2022-03-25 |
+| [Kalimutan](https://open.spotify.com/track/1degd7Nhtw4z6zt8y6KwDZ) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Kalimutan](https://open.spotify.com/album/4abIbIvI6BG7uRdrUocI1D) | 3:29 | 2022-08-25 |  |
 | [kasmala](https://open.spotify.com/track/2BvybpTlqNdukJsQ6zKkmP) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kasmala](https://open.spotify.com/album/37PekLDyjr1AzDfJJaXwtR) | 3:01 | 2021-11-25 | 2022-03-25 |
 | [KAYA](https://open.spotify.com/track/4ggRHB5BGvMZxrguwEetCG) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [KAYA](https://open.spotify.com/album/4YMx09McQ7PzUpBufPTcit) | 3:34 | 2022-03-24 |  |
 | [Kaya](https://open.spotify.com/track/79o5nlwnNk8oiK1cR6YC5i) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kaya](https://open.spotify.com/album/1domLnNrgElxmpiDSSCYaC) | 4:28 | 2022-03-24 |  |
@@ -69,6 +70,7 @@
 | [Pagsamo](https://open.spotify.com/track/34YfLWuoxLEcvJQNxdI9P2) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/2a4tsCtI450vuuBKJ3nSP2) | 4:57 | 2021-11-25 | 2022-03-25 |
 | [Paraluman](https://open.spotify.com/track/7IWeNrIjl2QvobVaI9Wyk4) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Lika Na](https://open.spotify.com/album/32gHhEVce6B4IM3Du9xh89) | 3:44 | 2022-03-24 |  |
 | [paruparo](https://open.spotify.com/track/0oug9t7drnkDuDpiDatvei) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [paruparo](https://open.spotify.com/album/5yMcGhC4JxjcK3K0H8FRLD) | 3:47 | 2021-11-25 | 2022-03-25 |
+| [Patuloy Lang Ang Lipad \(Theme of "Darna"\)](https://open.spotify.com/track/6SCLUJuq19QSacE4oXqoqG) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Patuloy Lang Ang Lipad \(Theme of "Darna"\)](https://open.spotify.com/album/5ARQNT6Vq4Rvq5cXy8M8CQ) | 3:37 | 2022-08-25 |  |
 | [Pit A Pat](https://open.spotify.com/track/79KjJGfIVfbkwHBxHqohTT) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pit A Pat](https://open.spotify.com/album/6dFBPAA4Ip65F50LOKwwDD) | 3:40 | 2022-04-28 |  |
 | [Polaroid](https://open.spotify.com/track/3QL4l8VyhcwzvTpQkqktTY) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [No$ia](https://open.spotify.com/artist/75SAo69xbkQH9d5LfLwCeZ), [Leslie](https://open.spotify.com/artist/4ISAzgKYMuonWbDhueeoEq) | [Polaroid](https://open.spotify.com/album/0bIMhGqBeOGcu7R6LjsStY) | 4:17 | 2021-11-25 | 2022-03-25 |
 | [porque](https://open.spotify.com/track/0dyQp33F9CImZFoSrxaEEM) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [porque](https://open.spotify.com/album/6L93zJeOIQWTgnkJ6Xqj7R) | 4:52 | 2021-11-25 | 2022-03-25 |
@@ -84,6 +86,7 @@
 | [The Baddest](https://open.spotify.com/track/7q9NUxTI5vhWNBq94PYURo) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Baddest](https://open.spotify.com/album/686RAST484tdwr0GNYZRJA) | 3:16 | 2021-11-25 | 2022-03-25 |
 | [The Light](https://open.spotify.com/track/2ySkMWsWrVA7rvppQUTn8u) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/6Q8UbSdYcoTdMCayeAWMqY) | 3:12 | 2021-11-25 | 2022-03-25 |
 | [Tibay 'Yan](https://open.spotify.com/track/7l4NOgPCczq62tTtlhGR35) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Tibay 'Yan](https://open.spotify.com/album/1AM76pz4GPDyqOItxyECaB) | 4:10 | 2021-11-25 | 2022-03-25 |
+| [Tinatangi \(feat\. Chrstn\)](https://open.spotify.com/track/5Pgssd39LAfVsR9gvUVwU7) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Tinatangi \(feat\. Chrstn\)](https://open.spotify.com/album/2blX1IaoX5oHe8dNb06MbE) | 4:18 | 2022-08-25 |  |
 | [To Pick a Lock](https://open.spotify.com/track/2s0E9y9CCJhs9KqEcYtGx8) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [To Pick a Lock](https://open.spotify.com/album/27dbQwfPkrwR4Mn4JAH7CU) | 5:12 | 2021-11-25 | 2022-03-25 |
 | [Tumitigil Ang Mundo](https://open.spotify.com/track/5fuBcv4rZP0mtjNSj3UPsk) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Tumitigil Ang Mundo](https://open.spotify.com/album/2Jg15zG5g9QnXZT0O1Wjjj) | 4:07 | 2022-07-15 |  |
 | [Twin Flames](https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [Twin Flames](https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp) | 3:38 | 2022-03-24 |  |

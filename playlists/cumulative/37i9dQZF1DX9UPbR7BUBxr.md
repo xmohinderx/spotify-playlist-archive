@@ -4,7 +4,7 @@
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-74 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/7qhRYDL50AsB9exwnr99dR)
+75 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/7qhRYDL50AsB9exwnr99dR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Plant Based](https://open.spotify.com/track/5sZYbMFFIS4raZVntbfOfZ) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo) | [Plant Based](https://open.spotify.com/album/2Ep5JJmZhnzaWMK1K33QX2) | 1:57 | 2022-07-11 |  |
 | [Relief](https://open.spotify.com/track/1A0kkBkOz7kMyyaYegwysl) | [Midnight Sleep](https://open.spotify.com/artist/6FGYiM51juEWqEWi53MDYS) | [Relief](https://open.spotify.com/album/1JVTYybTxlKDYFs7VcxN8b) | 2:36 | 2022-06-17 |  |
 | [Scootaloo](https://open.spotify.com/track/6pPdSiA17dUM773DCRFhUx) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sheep Rotation](https://open.spotify.com/album/6bFbqW19wGg6rdrrMkHowW) | 2:27 | 2022-06-17 |  |
-| [simple.](https://open.spotify.com/track/5Gg98ul6huBLdp3KWjv6te) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [simple.](https://open.spotify.com/album/5STU3mX52ys78YiKuqhC0a) | 1:57 | 2022-06-17 |  |
+| [simple.](https://open.spotify.com/track/0zDK7gAioDcF4g4eEpWYka) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [simple.](https://open.spotify.com/album/6dqUM4SWXJXrzd1lm2BJaG) | 1:57 | 2022-07-11 |  |
+| [simple.](https://open.spotify.com/track/5Gg98ul6huBLdp3KWjv6te) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [simple.](https://open.spotify.com/album/5STU3mX52ys78YiKuqhC0a) | 1:57 | 2022-06-17 | 2022-08-26 |
 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 | 2022-06-17 |  |
 | [Soho](https://open.spotify.com/track/2JjaO8uAwauFFxlHrgq8cU) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Soho](https://open.spotify.com/album/4QXI7z0wGzQ8wwW4vMUdzU) | 2:59 | 2022-06-17 |  |
 | [solitude](https://open.spotify.com/track/2UonTNnl58lV6nvxQQ0Ly3) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc) | [magic](https://open.spotify.com/album/1jZz5EeVbLzHfhDLDQmPKZ) | 1:18 | 2022-06-17 |  |

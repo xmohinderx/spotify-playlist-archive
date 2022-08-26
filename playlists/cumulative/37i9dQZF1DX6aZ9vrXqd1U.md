@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。
 
-176 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/5csRzl68dHYFsVirM9G7Hj)
+177 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/5csRzl68dHYFsVirM9G7Hj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Coloring By G\-Reco \- "Reconguista in G IV / Love That Cries out in Battle" Ending Theme](https://open.spotify.com/track/5letgaj9Abw061fuVyiDqb) | [Daisuke Hasegawa](https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4) | [Coloring by G\-Reco \("Reconguista in G IV / Love That Cries out in Battle" Ending Theme\)](https://open.spotify.com/album/2xACiQZsWW9evKOYjCAQwG) | 3:54 | 2022-07-27 |  |
 | [Confession](https://open.spotify.com/track/6BECTfA1Rl1PqEt0Axu2e4) | [Mayu Wakisaka](https://open.spotify.com/artist/25Mwwt6SDgnDBMaq6xQrrd) | [Confession](https://open.spotify.com/album/6kFEqYbqMR84ZAEcdNHZNl) | 4:12 | 2022-07-27 |  |
 | [Core](https://open.spotify.com/track/16efoleNNHcCHRGnB0la99) | [Mille Face](https://open.spotify.com/artist/3nLAIBYf5Ebm44Y1re9Wyg) | [Core](https://open.spotify.com/album/4liHmwW0xaX3uJtnhhQRVx) | 4:43 | 2022-07-27 |  |
-| [Cucuruz Doan's Island MainTitle](https://open.spotify.com/track/3BY5YKqQe2mKHltIvPOSR3) | [Takayuki Hattori](https://open.spotify.com/artist/76bJYea3ZCMhhO8aF0iU5W) | [Mobile Suit GUNDAM Cucuruz Doan's Island \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Y26wT7yczFosDGnOi3Orj) | 1:59 | 2022-07-27 |  |
+| [Cucuruz Doan's Island MainTitle](https://open.spotify.com/track/3BY5YKqQe2mKHltIvPOSR3) | [Takayuki Hattori](https://open.spotify.com/artist/76bJYea3ZCMhhO8aF0iU5W) | [Mobile Suit GUNDAM Cucuruz Doan's Island \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Y26wT7yczFosDGnOi3Orj) | 1:59 | 2022-07-27 | 2022-08-26 |
 | [DAYBREAK'S BELL](https://open.spotify.com/track/0GapIKOkapTtO6cR6IM31x) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [KISS](https://open.spotify.com/album/3Cb9NZFOkVRqUjvhcggkSA) | 4:11 | 2022-07-27 | 2022-07-29 |
 | [DAYBREAK'S BELL](https://open.spotify.com/track/0zij3s5siX5jyS1Nbn2eil) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [KISS](https://open.spotify.com/album/4nruUov2XnxA0UU9vfkAvJ) | 4:11 | 2022-07-27 |  |
 | [Distance](https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Distance](https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl) | 4:07 | 2022-07-27 |  |
@@ -108,6 +108,7 @@
 | [THE BEYOND](https://open.spotify.com/track/6dl8M66EcAPoZQATKRi2yp) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [CROSS](https://open.spotify.com/album/0yGVq0iZ0Ej7OWcYxQzydi) | 5:33 | 2022-07-27 |  |
 | [THE BEYOND](https://open.spotify.com/track/40YK0ihNtoog79d9Y9LJf9) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 5:35 | 2022-07-27 | 2022-07-29 |
 | [THE WINNER](https://open.spotify.com/track/2dQh3viWNC3BQnGkuYRton) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [THE WINNER](https://open.spotify.com/album/4xQBkieKQeYJxSb0jSnqtc) | 4:09 | 2022-07-27 |  |
+| [Timeless Universe \(feat\. ShishiGami\)](https://open.spotify.com/track/2JmBFM0U6nuW8EQm2lWgaT) | [Powerless](https://open.spotify.com/artist/5utxGGhcP0Xs2NMvLOvXqh), [ShishiGami](https://open.spotify.com/artist/4zOJPXnfVmMPSgBUJHkFwe) | ["SD GUNDAM BATTLE ALLIANCE" Theme Songs](https://open.spotify.com/album/2qHFuoKDyCDX5rAjoWHmjv) | 4:29 | 2022-08-25 |  |
 | [TRACER](https://open.spotify.com/track/4bhPNXJUMNKHzvZlPVYYf6) | [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:22 | 2022-07-27 | 2022-07-29 |
 | [TRACER](https://open.spotify.com/track/5pZNL0ZqBQ9Z8hKPGLtVrl) | [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack](https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5) | 3:22 | 2022-07-27 |  |
 | [trust you](https://open.spotify.com/track/2GPHXW8PoRhtNGxjyQzbT0) | [Yuna Ito](https://open.spotify.com/artist/0yKgtrXFlFG2rbA5vamkC5) | [DREAM](https://open.spotify.com/album/4GbeKEc9Cu20nUMXCY8LEb) | 5:18 | 2022-07-27 |  |

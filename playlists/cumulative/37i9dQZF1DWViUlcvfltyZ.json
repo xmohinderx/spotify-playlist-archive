@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre pi\u00f9 o meno distorte (e in cover gli Antartica)",
+  "description": "Chitarre pi\u00f9 o meno distorte (e in cover i Leatherette)",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 237035,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3MGWaWeAl4XWovfBnZAGg3"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 199483,
       "name": "Buio",
       "url": "https://open.spotify.com/track/2lsKGcKe6FizRGPimPtBal"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 171688,
       "name": "Estate di Merda",
       "url": "https://open.spotify.com/track/2tKDMOvBIIP47ngRpHQsDl"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 216610,
       "name": "Fading into Day",
       "url": "https://open.spotify.com/track/27IYZNTtmNT7aZExGrJCzv"
@@ -951,6 +951,24 @@
       "duration_ms": 241493,
       "name": "Gent",
       "url": "https://open.spotify.com/track/4X0DLF1x69H8ybF2M3tkjl"
+    },
+    {
+      "album": {
+        "name": "Ghibli",
+        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235519,
+      "name": "Ghibli",
+      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
     },
     {
       "album": {
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 237500,
       "name": "I RAGAZZI COI GOMITI SUI TAVOLI",
       "url": "https://open.spotify.com/track/4Ul88N7v8tRU2PikQXMMcC"
@@ -1620,6 +1638,24 @@
     },
     {
       "album": {
+        "name": "Noon",
+        "url": "https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi"
+      },
+      "artists": [
+        {
+          "name": "Nothing for Breakfast",
+          "url": "https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168705,
+      "name": "Noon",
+      "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
+    },
+    {
+      "album": {
         "name": "YOGA, Pt. 1",
         "url": "https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe"
       },
@@ -1779,7 +1815,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 254746,
       "name": "Pi\u00f9 mi odi pi\u00f9 mi amo",
       "url": "https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi"
@@ -1970,6 +2006,24 @@
     },
     {
       "album": {
+        "name": "Scattaci una foto dai",
+        "url": "https://open.spotify.com/album/1B1CLdFA4LmD7aMnH45bTU"
+      },
+      "artists": [
+        {
+          "name": "Eleonora Toscani",
+          "url": "https://open.spotify.com/artist/77d3usyZLz9TS7PBxGRVaD"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Scattaci una foto dai",
+      "url": "https://open.spotify.com/track/6rVd9LImuHUlRH4m4jZobg"
+    },
+    {
+      "album": {
         "name": "Sereno",
         "url": "https://open.spotify.com/album/0TWE0Xja7UMMKQMwzihs3V"
       },
@@ -2017,7 +2071,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 281500,
       "name": "Shirly",
       "url": "https://open.spotify.com/track/7elf321mzsREI27HuwWWGC"
@@ -2281,7 +2335,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 162038,
       "name": "Tatuaggi",
       "url": "https://open.spotify.com/track/1Dffk5dsW3B9DPuTsU2XmB"

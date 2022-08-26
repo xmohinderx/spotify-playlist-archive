@@ -1,13 +1,29 @@
 {
   "description": "new skaiwater",
-  "num_followers": 342904,
+  "num_followers": 343041,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyNDQ2OCwwMDAwMDAwMGI2NGYxZjdmZTY0NTgyOTgxYmM0YmEwM2QyNzdjZDYz",
+  "snapshot_id": "MTY2MTQzODg0OSwwMDAwMDAwMDE5MmU2NGUzODA4MGMxNjAzMGZkYTUwN2Y5NjM0Zjhh",
   "tracks": [
+    {
+      "added_at": "2022-08-25 14:47:29",
+      "album": {
+        "name": "KicK iii",
+        "url": "https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 141364,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1"
+    },
     {
       "added_at": "2022-08-11 16:31:32",
       "album": {
@@ -1763,26 +1779,6 @@
       "duration_ms": 99422,
       "name": "So Sad",
       "url": "https://open.spotify.com/track/7btVxzWmEnBuxdunhWWhUI"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "WASTED",
-        "url": "https://open.spotify.com/album/3DKuUHJP5Ar7COGhm7g26i"
-      },
-      "artists": [
-        {
-          "name": "dev soter",
-          "url": "https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy"
-        },
-        {
-          "name": "STEFAN THEV",
-          "url": "https://open.spotify.com/artist/3kggahr7S6paKpAN6EMKVM"
-        }
-      ],
-      "duration_ms": 126813,
-      "name": "WASTED",
-      "url": "https://open.spotify.com/track/3fPnvjoIrcyW6CILe5yT9Z"
     }
   ],
   "unique_name": "hyperpop",

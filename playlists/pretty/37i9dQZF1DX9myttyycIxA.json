@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: flipturn",
-  "num_followers": 265466,
+  "num_followers": 265544,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTIwNjQ5NSwwMDAwMDAwMDBhMDUxZGRiNWIxNzdiYjIwZGJiNjFjMzZjMjBhYTMw",
+  "snapshot_id": "MTY2MTQzODk2NywwMDAwMDAwMGNkMjg3ZjQwMDdjMWMxNjhlNTU3NmE5YzJhYzQxZGM4",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -235,6 +235,22 @@
       "duration_ms": 210965,
       "name": "Car Crash",
       "url": "https://open.spotify.com/track/17BELTAKQdOdV0TC5vDnvY"
+    },
+    {
+      "added_at": "2022-08-25 14:49:27",
+      "album": {
+        "name": "The Rift",
+        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 228852,
+      "name": "The Rift",
+      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
       "added_at": "2022-08-17 21:44:57",
@@ -2023,22 +2039,6 @@
       "duration_ms": 204653,
       "name": "Once More",
       "url": "https://open.spotify.com/track/3pI9rsup0vcma9YE0PI10t"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Hollywood Junkyard EP",
-        "url": "https://open.spotify.com/album/3U9iSgIU0CJswpRQvcaVPk"
-      },
-      "artists": [
-        {
-          "name": "THE BOBBY LEES",
-          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
-        }
-      ],
-      "duration_ms": 198655,
-      "name": "Dig Your Hips",
-      "url": "https://open.spotify.com/track/60pbL1E7ekFuAwtW4UNAxv"
     }
   ],
   "unique_name": "undercurrents",

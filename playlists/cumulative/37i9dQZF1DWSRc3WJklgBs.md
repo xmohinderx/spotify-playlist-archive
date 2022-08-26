@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-977 songs - 2 day 9 hr 49 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+978 songs - 2 day 9 hr 52 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,7 +547,8 @@
 | [Lullaby](https://open.spotify.com/track/2c4dLyo3OqHdaej5tafhfR) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Lullaby](https://open.spotify.com/album/5O2uZU8F0jiMbUvWnXap9Q) | 4:56 | 2022-01-28 |  |
 | [Ma Luv](https://open.spotify.com/track/48RoCGs1FNlp8NF3HXW2Wt) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [Ma Luv](https://open.spotify.com/album/7CFZSyuqggIrBjyj86wP0A) | 2:50 | 2021-08-14 | 2021-10-09 |
 | [Magic](https://open.spotify.com/track/7GYLsGlCPqSkLBNDC5mVyl) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Magic](https://open.spotify.com/album/3sv4c3hqHP1ZO8Nj62W8TS) | 2:50 | 2019-08-09\* | 2019-08-27 |
-| [Magnets](https://open.spotify.com/track/2qoVyX8fGrZezlqgmQxMxz) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Magnets](https://open.spotify.com/album/0zW1I56aQjsrJsGpxneROQ) | 3:39 | 2022-06-24 |  |
+| [Magnets](https://open.spotify.com/track/2VSPDYhB0070TTuL0ySE7b) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Magnets](https://open.spotify.com/album/4NH32nwjRYSWACBV95Pm7j) | 3:39 | 2022-07-29 |  |
+| [Magnets](https://open.spotify.com/track/2qoVyX8fGrZezlqgmQxMxz) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Magnets](https://open.spotify.com/album/0zW1I56aQjsrJsGpxneROQ) | 3:39 | 2022-06-24 | 2022-08-26 |
 | [Make A Promise \(feat\. Elle Vee\)](https://open.spotify.com/track/7kCgycosmwcfZJmbXRseEa) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Make A Promise \(feat\. Elle Vee\)](https://open.spotify.com/album/33HydGeLxm2uFIqrm1Z39O) | 4:55 | 2019-08-09\* | 2020-03-29 |
 | [Make My Mind Go \(With Jonasu\)](https://open.spotify.com/track/2C5GXB81KtrqOrrkR0WSoC) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Make My Mind Go](https://open.spotify.com/album/5FJFsOFlMHXS7NTMH2P0q3) | 2:31 | 2021-06-16 | 2022-05-14 |
 | [Matches \(feat\. Aaron Richards\)](https://open.spotify.com/track/6k7wBCUsG2oGb8PT0WZL6n) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Stephen Walking](https://open.spotify.com/artist/0FvgCHaMG7KL6M83yJuhmL), [Aaron Richards](https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp) | [Matches \(feat\. Aaron Richards\)](https://open.spotify.com/album/1cEfEkMiLBiwCIydfzH3tj) | 3:53 | 2019-08-09\* | 2019-08-27 |

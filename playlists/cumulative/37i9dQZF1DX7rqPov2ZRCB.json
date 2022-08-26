@@ -2008,6 +2008,24 @@
     },
     {
       "album": {
+        "name": "60 \u00c9xitos",
+        "url": "https://open.spotify.com/album/49AtvL6fjFXMg8ckR7cFjm"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henriquez",
+          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168489,
+      "name": "La Correa",
+      "url": "https://open.spotify.com/track/09HW13Gn5zXFQnJlvt95n9"
+    },
+    {
+      "album": {
         "name": "Fogarat\u00e9",
         "url": "https://open.spotify.com/album/4mYGno93GSq2c3C0mkZcL3"
       },
@@ -2113,7 +2131,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 371586,
       "name": "La Culebra",
       "url": "https://open.spotify.com/track/6sjj7jg37ccG6jTjlqvJG3"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 494693,
       "name": "La Funda",
       "url": "https://open.spotify.com/track/75OFcipYCvVFui2YdNdfGc"
@@ -3909,7 +3927,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 305773,
       "name": "Tipico Caliente",
       "url": "https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE"
@@ -3963,7 +3981,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 231933,
       "name": "Un Hombre Nuevo",
       "url": "https://open.spotify.com/track/0RhMC8PTYKSP30ifulHocD"
@@ -4089,7 +4107,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 279474,
       "name": "Ya No Creo en Ti",
       "url": "https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl"

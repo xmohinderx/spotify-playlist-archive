@@ -4,7 +4,7 @@
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>怎麼先熾熱的卻先變冷了，慢熱的卻停不了還在沸騰著。
 
-134 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/2SCoxCvdP1evPUUya0Z55H)
+135 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/2SCoxCvdP1evPUUya0Z55H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [不在場祝福](https://open.spotify.com/track/4PQXO7o3LPdSetedTDDsZs) | [楊奇煜](https://open.spotify.com/artist/4mEiq1LqyqanaP13xovzEr) | [不在場祝福](https://open.spotify.com/album/3jpU9LGTmBdol6VS5fJtN9) | 3:53 | 2022-06-01 | 2022-07-20 |
 | [不想聽見的歌](https://open.spotify.com/track/6ZBWEbwzGrKZOcE2Hh2fZR) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [不想聽見的歌](https://open.spotify.com/album/39bMPyNcfUGGxHesBJGe1D) | 4:47 | 2022-06-01 | 2022-07-29 |
 | [不是我不明白](https://open.spotify.com/track/0sF71FvhMGSXzvn5WXq0k9) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [親親](https://open.spotify.com/album/28TOa9Lp4kuISBLOx3UtuV) | 4:41 | 2022-06-01 | 2022-07-29 |
+| [不是我不明白](https://open.spotify.com/track/22Dglcz1VwyXTCEBt6PIdG) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [親親](https://open.spotify.com/album/5Ua5ScQOBsSV3x7fKA57bF) | 4:41 | 2022-06-01 |  |
 | [人質](https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我要快樂 \(Deluxe Version\)](https://open.spotify.com/album/1fsechrfx3xbd80bQcXzyM) | 3:52 | 2022-06-01 |  |
 | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR) | 4:31 | 2022-06-01 | 2022-07-29 |
 | [以後別做朋友](https://open.spotify.com/track/3lfZCMECn27muRpluTuFWQ) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [以後別做朋友](https://open.spotify.com/album/0jxlAxLFkWE1ihRJp27Lcl) | 4:19 | 2022-06-01 | 2022-07-27 |
@@ -62,7 +63,7 @@
 | [後來的我們](https://open.spotify.com/track/13AruKdh8wJhWx6i5dV8X1) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [自傳](https://open.spotify.com/album/4hg4cR8QMbE0xuvoxoA6DX) | 5:46 | 2022-06-01 |  |
 | [後來的我們](https://open.spotify.com/track/4IuXOBMIhI8LgpJTSl7Cgo) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [後來的我們](https://open.spotify.com/album/6QuR78htEcKC7AULnM67Y1) | 5:46 | 2022-06-01 | 2022-07-14 |
 | [心動](https://open.spotify.com/track/2DglkgKB5UlwrCdwcHZjXE) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [重譯 陳潔儀](https://open.spotify.com/album/6EHpbRRFLV2AXe5rUAMvLH) | 3:50 | 2022-06-01 | 2022-07-29 |
-| [心動](https://open.spotify.com/track/2pKWbHvOcbqb14oNw3bZFd) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [重譯 陳潔儀·重奏](https://open.spotify.com/album/0EikZOl3JP9FECqaFyk6ah) | 3:51 | 2022-06-01 |  |
+| [心動](https://open.spotify.com/track/2pKWbHvOcbqb14oNw3bZFd) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [重譯 陳潔儀·重奏](https://open.spotify.com/album/0EikZOl3JP9FECqaFyk6ah) | 3:51 | 2022-06-01 | 2022-08-26 |
 | [怎麼能這樣](https://open.spotify.com/track/5CaJqFrwwETLGQmPlev1Ie) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [怎麼能這樣](https://open.spotify.com/album/1sLp5ljIf2EY9lFgpaJ3Bq) | 5:01 | 2022-06-01 | 2022-07-25 |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2022-06-01 |  |
 | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw) | 4:28 | 2022-06-01 | 2022-07-29 |

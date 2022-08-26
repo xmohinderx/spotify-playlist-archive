@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Wesley Safad\u00e3o, Douglas & Vinicius, Demi Lovato e mais!",
-  "num_followers": 1770236,
+  "num_followers": 1770438,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkxNzM3NiwwMDAwMDAwMDQ2MWJlNDhkMWM0MTY3YmI3ZDgxYmE2ZjhhMGI5MjM3",
+  "snapshot_id": "MTY2MDkxNzM3NiwwMDAwMDAwMDZiMDZkMzQxYTNlODgxMDZkY2RlODliMGVmNWM0ZTUw",
   "tracks": [
     {
       "added_at": "2022-08-19 13:56:16",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2022-08-19 13:56:16",
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/5Es3FdQxA4wM7eMQa1vfYs"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        }
+      ],
+      "duration_ms": 220053,
+      "name": "Everyday - Edit",
+      "url": "https://open.spotify.com/track/27NuLW6DhJkpfR8dhBmNwS"
+    },
+    {
+      "added_at": "2022-08-19 13:56:16",
+      "album": {
         "name": "dreamy...",
         "url": "https://open.spotify.com/album/0AcVp1MCLqCF80VXt9M6HG"
       },
@@ -1871,8 +1891,8 @@
     {
       "added_at": "2022-08-19 13:56:16",
       "album": {
-        "name": "Crying in the Club",
-        "url": "https://open.spotify.com/album/0EAQUkyRH0RUBHzzt9Sr42"
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/3GuSAYm0w5TMJ6k0qeftwt"
       },
       "artists": [
         {
@@ -1882,7 +1902,7 @@
       ],
       "duration_ms": 185394,
       "name": "Crying in the Club",
-      "url": "https://open.spotify.com/track/2i2ctngb7IE9IhoZ3AA1Ey"
+      "url": "https://open.spotify.com/track/440bHvLOgExwePapxmMtGI"
     }
   ],
   "unique_name": "Novidades da Semana",

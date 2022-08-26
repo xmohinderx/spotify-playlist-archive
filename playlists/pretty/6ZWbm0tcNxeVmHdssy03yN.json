@@ -1,13 +1,37 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 32891,
+  "num_followers": 32893,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "NTMzMCw3NjU1NzUyZWRjZjIyNDdlOWU2ZGZiYTA0NjQ0MTdlNGIwYjAxZWRi",
+  "snapshot_id": "NTMzMSxiNmY1MTRkMGMwNTViYjcxMjc4NmYxZmIxYjBhZWQ0YWU1MGJlZjQ5",
   "tracks": [
+    {
+      "added_at": "2022-08-25 17:26:00",
+      "album": {
+        "name": "Groundwork",
+        "url": "https://open.spotify.com/album/6N25MmXrrGmBV8ZlUW8cTv"
+      },
+      "artists": [
+        {
+          "name": "Big Narstie",
+          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Papoose",
+          "url": "https://open.spotify.com/artist/0mbgkaYR8KNUb5s3s1yYHG"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Groundwork",
+      "url": "https://open.spotify.com/track/6VBQuholHCe5LyCdyIWvzo"
+    },
     {
       "added_at": "2022-08-19 04:19:43",
       "album": {

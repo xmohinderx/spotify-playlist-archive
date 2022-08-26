@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-672 songs - 1 day 11 hr 40 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+673 songs - 1 day 11 hr 44 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Divine](https://open.spotify.com/track/5BGDIilZ6mNq413WtAU2FR) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [All Around Us](https://open.spotify.com/album/2wL1Qgbzh1v5NDF4kpMbQC) | 3:14 | 2019-05-26\* | 2020-07-11 |
 | [Divine](https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:49 | 2019-05-26\* | 2020-05-09 |
 | [Dream \#3 \[Energy Wav\]](https://open.spotify.com/track/2b3hEGm7tIWPyAH8EokVuq) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams](https://open.spotify.com/album/4WRQfwPfCYlhi45Iqh43iy) | 3:49 | 2019-05-26\* | 2020-01-03 |
-| [Dream \#5 \[Drifting Apart\]](https://open.spotify.com/track/2VkeXjrEyJ5dgeInRIdKIE) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams 2](https://open.spotify.com/album/29IRtnyLAfOzZFZHNl36kR) | 3:12 | 2019-10-26 |  |
+| [Dream \#5 \[Drifting Apart\]](https://open.spotify.com/track/2VkeXjrEyJ5dgeInRIdKIE) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams 2](https://open.spotify.com/album/29IRtnyLAfOzZFZHNl36kR) | 3:12 | 2019-10-26 | 2022-08-26 |
+| [Dream \#5 \[Drifting Apart\]](https://open.spotify.com/track/6SGSjM4QYE4CMgDQw2R1x0) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams 2](https://open.spotify.com/album/5wiG62jPFz5dDow7BPeAnJ) | 3:12 | 2022-08-23 |  |
 | [Dreaminess](https://open.spotify.com/track/6FTI1GirXye67U41XkzR2h) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Dreaminess](https://open.spotify.com/album/3KglVMFuTixkC48muX1fox) | 3:17 | 2021-10-06 |  |
 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 | 2020-05-09 |  |
 | [Dreaming \- Ethereal Piano](https://open.spotify.com/track/0MvigYTSmsu7AZxiLqNOCH) | [Celinia](https://open.spotify.com/artist/6FRBsqFVmuqnPj7qu9AqSk) | [Dreaming \- Ethereal Piano](https://open.spotify.com/album/0pEooqn17vDTrbXyu9kYHS) | 3:05 | 2020-07-11 |  |

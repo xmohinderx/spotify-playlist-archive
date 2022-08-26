@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-449 songs - 1 day 1 hr 14 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+450 songs - 1 day 1 hr 18 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Close To Me](https://open.spotify.com/track/15lfRMrep21MGvcVQGR4QN) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [Bold Enough](https://open.spotify.com/album/0Xy68sBBkha1600CX8aEUS) | 3:54 | 2019-07-29\* | 2019-08-02 |
 | [Closing Doors \(ft\. Astrid S\)](https://open.spotify.com/track/0s3HjSvDdHinLIZ7NqyEuq) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Closing Doors \(ft\. Astrid S\)](https://open.spotify.com/album/16FkBfjt19EEPzjdndSgZE) | 2:26 | 2020-09-25 | 2021-11-10 |
 | [Closure](https://open.spotify.com/track/0mKQl9k1EErmEPk11aWZEl) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Closure](https://open.spotify.com/album/7r0izRbbyoAQc3C2I4JO7K) | 3:16 | 2021-04-07 | 2022-04-29 |
+| [Colours Of You](https://open.spotify.com/track/0fgb9XN0RUp5phN8UADvsP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Colours Of You](https://open.spotify.com/album/41YkwGJXDZy4nVAoCipCY7) | 3:38 | 2022-08-25 |  |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-13 |  |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2019-08-02 | 2019-09-13 |
 | [Complicate](https://open.spotify.com/track/0tzYJI2WIwMOXZ1qCQVNfu) | [Harry Parsons](https://open.spotify.com/artist/4R3nttGDHeitw0h7llzHZv) | [Complicate](https://open.spotify.com/album/0Jz0be9m1FFSDem73dZQaU) | 3:15 | 2019-08-16 | 2019-10-11 |

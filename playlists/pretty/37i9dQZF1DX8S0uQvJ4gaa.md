@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Kolby Cooper
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,571 likes - 116 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,961 likes - 116 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

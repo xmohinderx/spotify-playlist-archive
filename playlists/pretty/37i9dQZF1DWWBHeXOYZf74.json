@@ -1,13 +1,33 @@
 {
   "description": "Genre-less. Quality first always. Cover: Kaytranada",
-  "num_followers": 1329722,
+  "num_followers": 1329760,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE4NTQzMywwMDAwMDAwMDY3MmJhMjU1ZmU4MThmNDcxZWEyYzExNmQyY2I2ODgx",
+  "snapshot_id": "MTY2MTQ1Nzc1OCwwMDAwMDAwMDk2ZjkzYTQzZDNiOTI4ZGNlNjQwNzdjZTc3ZjFmYTgw",
   "tracks": [
+    {
+      "added_at": "2022-08-25 20:02:38",
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/1fliEPXtaZylODnCOuoHHE"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 244262,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc"
+    },
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 130319,
+  "num_followers": 130440,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDAwMWZlYWJkZDU5N2I2MDdlM2UyYjc4Y2U5ZTJkNjJm",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMGM0Yzg1ZmZjZjRmNTcwYjU4MzlkNmQwMWM5ZmRhZGIy",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Kodomotachi",
+      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Bright Serpent",
         "url": "https://open.spotify.com/album/5qi4aoHpcDfsoTbVsjPXwI"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Kodomotachi",
-      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Themes for a New Earth",
-        "url": "https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 284705,
-      "name": "Kilika",
-      "url": "https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "No Home of the Mind",
         "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 340276,
       "name": "As Much as Possible",
       "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Themes for a New Earth",
+        "url": "https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 284705,
+      "name": "Kilika",
+      "url": "https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Ultravisitor",
+        "url": "https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 130440,
+      "name": "Tommib Help Buss",
+      "url": "https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Natura Sophia",
         "url": "https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Ultravisitor",
-        "url": "https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs"
+        "name": "Short And Sweet",
+        "url": "https://open.spotify.com/album/1ygH5nRn8pj7x5ym1WOIWS"
       },
       "artists": [
         {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+          "name": "Little annie",
+          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
         }
       ],
-      "duration_ms": 130440,
-      "name": "Tommib Help Buss",
-      "url": "https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654"
+      "duration_ms": 293306,
+      "name": "I Think Of You",
+      "url": "https://open.spotify.com/track/5qZhK2zu4yTO1kO1GJ25Gx"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1303,22 +1319,6 @@
       "duration_ms": 304144,
       "name": "Camille",
       "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Short And Sweet",
-        "url": "https://open.spotify.com/album/1ygH5nRn8pj7x5ym1WOIWS"
-      },
-      "artists": [
-        {
-          "name": "Little annie",
-          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "I Think Of You",
-      "url": "https://open.spotify.com/track/5qZhK2zu4yTO1kO1GJ25Gx"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Permanence",
         "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 229158,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Equal Amounts Afraid",
-        "url": "https://open.spotify.com/album/5dIqaxM2nT1kODBGnB67Wp"
-      },
-      "artists": [
-        {
-          "name": "LA Timpa",
-          "url": "https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC"
-        }
-      ],
-      "duration_ms": 252946,
-      "name": "Core",
-      "url": "https://open.spotify.com/track/53KxyoDip0dabA3jAq6RiV"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "I Will Make Room for You (Four Tet Remix)",
         "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 262813,
       "name": "Trade Winds, White Heat",
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Equal Amounts Afraid",
+        "url": "https://open.spotify.com/album/5dIqaxM2nT1kODBGnB67Wp"
+      },
+      "artists": [
+        {
+          "name": "LA Timpa",
+          "url": "https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC"
+        }
+      ],
+      "duration_ms": 252946,
+      "name": "Core",
+      "url": "https://open.spotify.com/track/53KxyoDip0dabA3jAq6RiV"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Virtual State",
-        "url": "https://open.spotify.com/album/5wNAn44g7RbdOrQS8jR8Ok"
-      },
-      "artists": [
-        {
-          "name": "Richard H. Kirk",
-          "url": "https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "The Feeling (Of Warmth And Beauty)",
-      "url": "https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Tiny Reminders",
         "url": "https://open.spotify.com/album/3HaeZlQ5SdtBwUPPGgkC99"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 397986,
       "name": "Passing By - 2019 remaster",
       "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Virtual State",
+        "url": "https://open.spotify.com/album/5wNAn44g7RbdOrQS8jR8Ok"
+      },
+      "artists": [
+        {
+          "name": "Richard H. Kirk",
+          "url": "https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "The Feeling (Of Warmth And Beauty)",
+      "url": "https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse"
     },
     {
       "added_at": "2022-02-03 02:43:26",

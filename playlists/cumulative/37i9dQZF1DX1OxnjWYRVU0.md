@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-350 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
+351 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Funky Town](https://open.spotify.com/track/4A7aOnpjE4yytIbXTg6BxT) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Funky Town](https://open.spotify.com/album/6oiwGJoWZv4EX7wknq8MyA) | 2:48 | 2022-01-13 |  |
 | [G Paradise](https://open.spotify.com/track/7y7LyqA3W6R6dmh1BoCHNS) | [Arnon](https://open.spotify.com/artist/5NvOktRLQaWY8N3R1VI18u), [Jonisa](https://open.spotify.com/artist/7IqPkDHe3rPcgFMpu3ukEL) | [G Paradise](https://open.spotify.com/album/6U83KgSyCZ3IDhtkWvgPJX) | 3:08 | 2022-01-13 |  |
 | [Ghost Town](https://open.spotify.com/track/41a6CsKEUrsi6ZVhLU9V0K) | [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw) | [Ghost Town](https://open.spotify.com/album/2y5myLy3NE00RyFtOSKuWx) | 3:14 | 2022-01-13 |  |
-| [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/4kpxST4KeexaqjgiSqwLgM) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/4NYrJXp5jmdSpfPZHvAKWQ) | 2:32 | 2022-01-13 |  |
+| [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 | 2022-08-18 |  |
+| [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/4kpxST4KeexaqjgiSqwLgM) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/4NYrJXp5jmdSpfPZHvAKWQ) | 2:32 | 2022-01-13 | 2022-08-26 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM) | 2:56 | 2022-03-17 | 2022-05-27 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg) | [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/2huyFjU98NZADNSnh7uerA) | 2:38 | 2022-01-13 |  |
 | [Girls Like You](https://open.spotify.com/track/2M2fvZZ8raF9w0gz3rF0zP) | [Mannymore](https://open.spotify.com/artist/4nJ7nW0IQpvHymuih4y6OC), [Kilian K](https://open.spotify.com/artist/04sHHRws8Q7apGxRnUnjQs) | [Girls Like You](https://open.spotify.com/album/6xZmJYQpaC5TaIYqNiYnAe) | 2:07 | 2022-03-17 |  |

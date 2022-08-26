@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 29658,
+  "num_followers": 29715,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI1Mjk4NCwwMDAwMDAwMDQ1NmU5MWVkM2IzZGVmOTc5NWRiNjJkNDBiM2I3NGZj",
+  "snapshot_id": "MTY1ODI1Mjk4NCwwMDAwMDAwMGU2NTc1ZGQ1ODYwMWMyMjU3MWUwMjg4NzlhZmI0NTg1",
   "tracks": [
     {
       "added_at": "2022-07-19 17:49:44",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
-        "name": "La Final",
-        "url": "https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "La Final",
-      "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
+        "name": "La Final",
+        "url": "https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "La Final",
+      "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
         "name": "A Mi Ritmo",
         "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+        "name": "El Mejor Lugar",
+        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Juan Vegas",
+          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
         }
       ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+      "duration_ms": 175214,
+      "name": "El Mejor Lugar",
+      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -855,22 +871,6 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
-        "name": "El Mejor Lugar",
-        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
-      },
-      "artists": [
-        {
-          "name": "Juan Vegas",
-          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
-        }
-      ],
-      "duration_ms": 175214,
-      "name": "El Mejor Lugar",
-      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/306wF31Hp5LNVkxfhDLOiV"
+        "name": "Manu",
+        "url": "https://open.spotify.com/album/1AHtUvxkQIQa1DoG2E12BX"
       },
       "artists": [
         {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+          "name": "Manu Negrete",
+          "url": "https://open.spotify.com/artist/5CEPxspt5POCY0oeaCdOEO"
+        },
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
         }
       ],
-      "duration_ms": 190609,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/2V0S6dvMHkjtif1rOQqtzA"
+      "duration_ms": 174301,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/3xTsbdwJXLYuIusD0gM2Ue"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
-        "name": "Manu",
-        "url": "https://open.spotify.com/album/1AHtUvxkQIQa1DoG2E12BX"
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/306wF31Hp5LNVkxfhDLOiV"
       },
       "artists": [
         {
-          "name": "Manu Negrete",
-          "url": "https://open.spotify.com/artist/5CEPxspt5POCY0oeaCdOEO"
-        },
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
         }
       ],
-      "duration_ms": 174301,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/3xTsbdwJXLYuIusD0gM2Ue"
+      "duration_ms": 190609,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/2V0S6dvMHkjtif1rOQqtzA"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
-        "name": "Contigo Me Quedo",
-        "url": "https://open.spotify.com/album/7LOGZuxzTIwBT4XnuwOxDV"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        }
-      ],
-      "duration_ms": 196384,
-      "name": "Contigo Me Quedo",
-      "url": "https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
         "name": "Lalal\u00e1",
         "url": "https://open.spotify.com/album/6LHfK1MmIEokFqkFBZ8r9S"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 181625,
       "name": "Lalal\u00e1",
       "url": "https://open.spotify.com/track/63KP70pPlQ7TMSwkdIP0jC"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
+        "name": "Contigo Me Quedo",
+        "url": "https://open.spotify.com/album/7LOGZuxzTIwBT4XnuwOxDV"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        }
+      ],
+      "duration_ms": 196384,
+      "name": "Contigo Me Quedo",
+      "url": "https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5"
     },
     {
       "added_at": "2022-07-19 17:49:44",

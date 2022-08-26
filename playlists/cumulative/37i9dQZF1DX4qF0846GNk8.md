@@ -2,7 +2,7 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر\. الغلاف: عصام صاصا
+> أجمد المهرجانات في مصر!  <br/> الغلاف: عصام صاصا
 
 89 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 

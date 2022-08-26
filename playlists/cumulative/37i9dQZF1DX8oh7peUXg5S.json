@@ -3272,6 +3272,24 @@
     },
     {
       "album": {
+        "name": "Silvio Rodriguez y Pablo Milanes",
+        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodriguez and Pablo Milanes",
+          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Te Doy Una Cancion",
+      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
+    },
+    {
+      "album": {
         "name": "Te sigo so\u00f1ando (feat. Luz Casal) [En Estudio Uno]",
         "url": "https://open.spotify.com/album/52nuQBcfmXxwM5LRXNscI9"
       },
@@ -3305,7 +3323,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 238386,
       "name": "Tierra",
       "url": "https://open.spotify.com/track/6mR0ZA4DxvAHBihaXgI3oD"

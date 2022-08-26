@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 254946,
       "name": "Dead Eyes See No Future",
       "url": "https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 132400,
       "name": "Despicable Heroes",
       "url": "https://open.spotify.com/track/7C1mBzRzBAK1iwxD8CEC5J"
@@ -451,10 +451,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 220426,
       "name": "House of Mirrors",
       "url": "https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR"
+    },
+    {
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220426,
+      "name": "House of Mirrors",
+      "url": "https://open.spotify.com/track/4mdop8Jx5BwspAQzvjF8pu"
     },
     {
       "album": {
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 96853,
       "name": "Mourning Star",
       "url": "https://open.spotify.com/track/3GEenHvrJMz0JplK0g6yqM"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 251586,
       "name": "Revolution Begins",
       "url": "https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 316306,
       "name": "Savage Messiah",
       "url": "https://open.spotify.com/track/2XhiaLljpaCG9nZomMpZol"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 242813,
       "name": "Symphony of Destruction - cover version",
       "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"

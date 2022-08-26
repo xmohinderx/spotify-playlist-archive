@@ -15778,6 +15778,28 @@
     },
     {
       "album": {
+        "name": "T-MAX",
+        "url": "https://open.spotify.com/album/3currnqGEcbPELrrZJIg9r"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "OLPO",
+          "url": "https://open.spotify.com/artist/4HjCvxU5oEogCfxaeDdtNa"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "T-MAX",
+      "url": "https://open.spotify.com/track/2lDJX08KgnN6fssdTbzFVx"
+    },
+    {
+      "album": {
         "name": "Giro Ap' Ola",
         "url": "https://open.spotify.com/album/6xjNMrEgJkokI4Xu79e4Zt"
       },
@@ -16491,7 +16513,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 191477,
       "name": "Tilefono",
       "url": "https://open.spotify.com/track/7bohfOpcSFE5cE4zBpt0ST"

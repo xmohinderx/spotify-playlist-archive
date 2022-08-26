@@ -4,7 +4,7 @@
 
 > Music From "Puella Magi Madoka Magica"! 音楽で辿る「魔法少女まどか☆マギカ」の世界! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
 
-80 songs - 4 hr 5 min - not published yet
+80 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/5Og264xkgbV6pHsvWifYt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

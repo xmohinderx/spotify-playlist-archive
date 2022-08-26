@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDdmYzc1YmI2ODE0YzUxZGVmZjlhYTk2NjExZmI4ZGNm",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDdkOTk4NThhNjcyNWM4ZjgyOTZiODY1NjVmMTQzZGZl",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Wonderful Time",
-        "url": "https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL"
-      },
-      "artists": [
-        {
-          "name": "NOVA WAV",
-          "url": "https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        }
-      ],
-      "duration_ms": 161157,
-      "name": "Wonderful Time",
-      "url": "https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Battle (Cause & Affect Jingle Bells Remix)",
         "url": "https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 157440,
       "name": "Battle - Cause & Affect Jingle Bells Remix",
       "url": "https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Wonderful Time",
+        "url": "https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL"
+      },
+      "artists": [
+        {
+          "name": "NOVA WAV",
+          "url": "https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "duration_ms": 161157,
+      "name": "Wonderful Time",
+      "url": "https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N"
     },
     {
       "added_at": "2021-12-17 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Yves V x Conor Maynard
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,195 likes - 29 songs - 1 hr 25 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,191 likes - 28 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,6 +36,5 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 26 | [Free](https://open.spotify.com/track/5zsEgQCTV8cXpqB9QRQYUO) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Silverland](https://open.spotify.com/artist/090yRJaMOpAEUwxTE00OM1) | [Free](https://open.spotify.com/album/45mBiiT250f0nGNqCWPbbV) | 3:30 |
 | 27 | [Come With Me](https://open.spotify.com/track/1h1IERBZcsq6HVYbvLkmoT) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Come With Me](https://open.spotify.com/album/2zv3qPvu34uzmNJjSdjQ7E) | 3:50 |
 | 28 | [Ancestors](https://open.spotify.com/track/6vaZwaI3J0msnoAhX06Nmx) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Takisha](https://open.spotify.com/artist/30Rdt43Y5gFs942coogfIz) | [Ancestors](https://open.spotify.com/album/7nYkvFN9KH9avY79NHJ5AU) | 2:35 |
-| 29 | [Always on My Mind \(feat\. Nelson Elle\)](https://open.spotify.com/track/4OI6bsOShVMUbPDJ0KeO7m) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU), [Nelson Elle](https://open.spotify.com/artist/2CAfNbxL6yeb9oQMhAWolr) | [Always on My Mind \(feat\. Nelson Elle\)](https://open.spotify.com/album/1gSP8rYqf9mhuejJ9hUhOq) | 2:44 |
 
-Snapshot ID: `NjIzNyw2NTM1NWIyYzc5NzRmNDY4MGI3MDI4NjA2OTc3MjBkZDNlYjkxY2Qz`
+Snapshot ID: `NjIzOCwyNjI4NDRjYjlkN2VjMWFmYWMxY2Y3NWNlNDk5NjNjNDFhYTVmMGI3`

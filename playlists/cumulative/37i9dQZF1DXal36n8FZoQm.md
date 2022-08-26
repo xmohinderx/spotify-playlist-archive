@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-132 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/0ndLkmHW7tKwbEqiyvylLh)
+133 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/0ndLkmHW7tKwbEqiyvylLh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 | 2022-01-07 |  |
 | [We’re Not Harming Anyone](https://open.spotify.com/track/1YyfiBy4RDLC9FPGHHFt28) | [Teddy Mac](https://open.spotify.com/artist/3Xn49Qihn5s2xmV3F8pO6N), [Midnight Swami](https://open.spotify.com/artist/1jQtOWiZrQWEei6yyCx53B), [Blake Blumenthal](https://open.spotify.com/artist/5vYRJLaZhqOVpaHL8Ow85Z) | [Noise Rock 2](https://open.spotify.com/album/4UdP6rUiljyhEuR9EJooRs) | 3:10 | 2022-01-06 |  |
 | [White Tape](https://open.spotify.com/track/70GFuDDRVEdi4Yasu2p9dS) | [Amazing Police](https://open.spotify.com/artist/4JBMBRwrP1lwnF7EM7fgRA) | [Amazing Police](https://open.spotify.com/album/0tmsIjtpvPOvQM7ppSXJLA) | 6:05 | 2022-01-07 |  |
-| [Wooly Bully](https://open.spotify.com/track/0SRkuudTEWe2HOloI1Nssq) | [Sam The Sham & The Pharaohs](https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL) | [The MGM Singles](https://open.spotify.com/album/5I2zgmTqg6qLVQ0j72BkZ3) | 2:18 | 2022-01-07 |  |
+| [Wooly Bully](https://open.spotify.com/track/0SRkuudTEWe2HOloI1Nssq) | [Sam The Sham & The Pharaohs](https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL) | [The MGM Singles](https://open.spotify.com/album/5I2zgmTqg6qLVQ0j72BkZ3) | 2:18 | 2022-01-07 | 2022-08-26 |
+| [Wooly Bully](https://open.spotify.com/track/4GNmvOYZW11lGzcZm0FKGY) | [Sam The Sham & The Pharaohs](https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL) | [Wooly Bully](https://open.spotify.com/album/43ohvLotIrT1cprKaXYMn8) | 2:21 | 2022-01-07 |  |
 | [Wooly Bully \- Remastered](https://open.spotify.com/track/2mlYLbSQjh5bdbLeZe3yB1) | [Sam The Sham & The Pharaohs](https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL) | [Wooly Bully \(Remastered\)](https://open.spotify.com/album/3r5kCjEmsRUmpCbxcIL4iu) | 2:19 | 2022-01-07 |  |
 | [Work Together](https://open.spotify.com/track/0E5z0Nen6gkcltoidnZv2a) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC) | 1:48 | 2022-01-07 |  |
 | [Yeah We Do It Like](https://open.spotify.com/track/3xkI9xyUrkl5UnQR8UpIus) | [Lee Richardson](https://open.spotify.com/artist/16BxOX67lWcQpiglrMa2HY), [Jonathan Murrill](https://open.spotify.com/artist/1koTy008UTQlXfupIGp0q5), [Tom Ford](https://open.spotify.com/artist/16Hec1v49TSJCAwuXYcPn1), [James Cocozza](https://open.spotify.com/artist/2MqahmsaUt6ZQhBDC4moBR) | [Perc Pop 2](https://open.spotify.com/album/3FIG7MhtpdvkjRlFX8TOU4) | 2:23 | 2022-01-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 13286,
+  "num_followers": 13302,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGU0ODQyMGY0MDkwNjc2NzdlNjhhODNlOTgyMzE4Y2Mw",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDk3MWZiZTdiNDRiMDUyMTAwZWM4NzVkYmE0Mzc3YjYy",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 300226,
-      "name": "Watch It Die",
-      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
+      "duration_ms": 207306,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 207306,
-      "name": "Dirty",
-      "url": "https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79"
+      "duration_ms": 300226,
+      "name": "Watch It Die",
+      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -853,20 +853,20 @@
       "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
+      "added_at": "2021-04-27 23:04:41",
       "album": {
-        "name": "Clawhammer",
-        "url": "https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS"
+        "name": "Raisin' Cain",
+        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
       },
       "artists": [
         {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+          "name": "Chris Cain",
+          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
         }
       ],
-      "duration_ms": 270370,
-      "name": "Clawhammer",
-      "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
+      "duration_ms": 200973,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
     }
   ],
   "unique_name": "Modern Blues Guitar",

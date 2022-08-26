@@ -1179,10 +1179,32 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 166486,
       "name": "Santa Monica",
       "url": "https://open.spotify.com/track/4x8GnM2L8jKmhVXwZsbpJY"
+    },
+    {
+      "album": {
+        "name": "Santa Monica",
+        "url": "https://open.spotify.com/album/4Tjv9KvSUIDKhDNtG1t4zm"
+      },
+      "artists": [
+        {
+          "name": "offrami",
+          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
+        },
+        {
+          "name": "Hoosh",
+          "url": "https://open.spotify.com/artist/451QYarjabz09nL2SSufeV"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166486,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/5R4LHqbN7o4h4hIPKN5SCE"
     },
     {
       "album": {

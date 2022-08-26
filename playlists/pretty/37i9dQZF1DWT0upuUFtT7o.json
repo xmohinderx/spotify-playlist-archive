@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks by independent artists and labels. Updates every Wednesday. Cover: The Dare, Artwork: Robin Clifford Ellis ",
-  "num_followers": 151332,
+  "num_followers": 151410,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM2NjQ0MSwwMDAwMDAwMDg5NjAyMTJjMjAwYWM4ODE5MzliNGNjMmVhZDk2MzYw",
+  "snapshot_id": "MTY2MTQ2MjYyMCwwMDAwMDAwMGJkNDZlNTgwOGZhMDdhMTQzNmU4MDQ5OGY4MmFkZWIz",
   "tracks": [
     {
       "added_at": "2022-08-24 18:40:41",
@@ -55,6 +55,22 @@
       "duration_ms": 144005,
       "name": "Wasting Away",
       "url": "https://open.spotify.com/track/5sIO0XAiMZtt5J9Xeaq8HI"
+    },
+    {
+      "added_at": "2022-08-25 21:23:40",
+      "album": {
+        "name": "Again & Again",
+        "url": "https://open.spotify.com/album/7DqEtsjq3NdksoSdvy9Q8k"
+      },
+      "artists": [
+        {
+          "name": "toothbrusher2000",
+          "url": "https://open.spotify.com/artist/3q9iFDEpawpnqcnsKikFpm"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Again After",
+      "url": "https://open.spotify.com/track/6aEw27jlxfAXYmAzaOioms"
     },
     {
       "added_at": "2022-08-24 18:40:41",
@@ -139,6 +155,26 @@
       "duration_ms": 303333,
       "name": "Turn Yourself Around",
       "url": "https://open.spotify.com/track/1vByRA3zNwWWbO4AXL59ug"
+    },
+    {
+      "added_at": "2022-08-25 21:23:40",
+      "album": {
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/77OpzfBjErs49FzgegI6cZ"
+      },
+      "artists": [
+        {
+          "name": "Booshell",
+          "url": "https://open.spotify.com/artist/1gFHHF3QyQxjbbKXV3qLu9"
+        },
+        {
+          "name": "Charm on the beat",
+          "url": "https://open.spotify.com/artist/2PAputxnXRLw2RtF8MIrFD"
+        }
+      ],
+      "duration_ms": 198181,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/2bMaGaVedzuLragkMjbPeS"
     },
     {
       "added_at": "2022-08-24 18:40:41",
@@ -253,6 +289,22 @@
       "url": "https://open.spotify.com/track/64HQsp3zKXosepSvPbJeaG"
     },
     {
+      "added_at": "2022-08-15 16:38:52",
+      "album": {
+        "name": "tabula rasa",
+        "url": "https://open.spotify.com/album/2Hq7n6DXelDafa3dX1grZ9"
+      },
+      "artists": [
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ"
+        }
+      ],
+      "duration_ms": 148840,
+      "name": "RUNNING ROUND",
+      "url": "https://open.spotify.com/track/0ojklgBmOO9vQ5DyMCuE6P"
+    },
+    {
       "added_at": "2022-08-24 18:40:41",
       "album": {
         "name": "Was it obvious?",
@@ -351,22 +403,6 @@
       "duration_ms": 229333,
       "name": "Taste",
       "url": "https://open.spotify.com/track/7JDuRLBN3O2OYdfRK7yjkg"
-    },
-    {
-      "added_at": "2022-08-15 16:38:52",
-      "album": {
-        "name": "tabula rasa",
-        "url": "https://open.spotify.com/album/2Hq7n6DXelDafa3dX1grZ9"
-      },
-      "artists": [
-        {
-          "name": "Mercury",
-          "url": "https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ"
-        }
-      ],
-      "duration_ms": 148840,
-      "name": "RUNNING ROUND",
-      "url": "https://open.spotify.com/track/0ojklgBmOO9vQ5DyMCuE6P"
     },
     {
       "added_at": "2022-08-10 01:50:47",
@@ -547,22 +583,6 @@
     {
       "added_at": "2022-08-10 01:50:47",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/06Y31oSzCPSZKYzxMkEA1Q"
-      },
-      "artists": [
-        {
-          "name": "Levi Evans",
-          "url": "https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX"
-        }
-      ],
-      "duration_ms": 161460,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/5KqLQ5ESSvIE6Qw82vgiT6"
-    },
-    {
-      "added_at": "2022-08-10 01:50:47",
-      "album": {
         "name": "New Year's' Resolution",
         "url": "https://open.spotify.com/album/5cqgvh7Iw1tozN51WNb294"
       },
@@ -649,7 +669,7 @@
       "artists": [
         {
           "name": "Walter The Producer",
-          "url": "https://open.spotify.com/artist/0fvbxtklhv6N9JBpnvRgBa"
+          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
         }
       ],
       "duration_ms": 172267,
@@ -833,20 +853,20 @@
       "url": "https://open.spotify.com/track/0D9CLVWQHoMcaghl8baO8A"
     },
     {
-      "added_at": "2022-08-03 16:46:11",
+      "added_at": "2022-07-27 15:35:54",
       "album": {
-        "name": "my mind",
-        "url": "https://open.spotify.com/album/6Ptt333VuQmvPxIRHV6Okx"
+        "name": "the actor",
+        "url": "https://open.spotify.com/album/16v4NJuFupxvWsCGOduCeC"
       },
       "artists": [
         {
-          "name": "Aisa",
-          "url": "https://open.spotify.com/artist/0YBEhX6xbkcMuhH3OD6D9L"
+          "name": "dynastic",
+          "url": "https://open.spotify.com/artist/1cfVy8MbRPuDJD7g9bR14z"
         }
       ],
-      "duration_ms": 144495,
-      "name": "all day",
-      "url": "https://open.spotify.com/track/6a0khAfkIHVBJbn5jeagIK"
+      "duration_ms": 192800,
+      "name": "seeker missile",
+      "url": "https://open.spotify.com/track/4lzb5MeRL9NrmW8WR11t1d"
     },
     {
       "added_at": "2022-07-20 18:09:28",
@@ -911,22 +931,6 @@
       "duration_ms": 204318,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/3z4NPELouK3sqqMp7f5yfW"
-    },
-    {
-      "added_at": "2022-07-27 15:35:54",
-      "album": {
-        "name": "the actor",
-        "url": "https://open.spotify.com/album/16v4NJuFupxvWsCGOduCeC"
-      },
-      "artists": [
-        {
-          "name": "dynastic",
-          "url": "https://open.spotify.com/artist/1cfVy8MbRPuDJD7g9bR14z"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "seeker missile",
-      "url": "https://open.spotify.com/track/4lzb5MeRL9NrmW8WR11t1d"
     },
     {
       "added_at": "2022-07-27 15:35:54",
@@ -1043,8 +1047,8 @@
     {
       "added_at": "2022-07-06 23:08:29",
       "album": {
-        "name": "Thinking Of You",
-        "url": "https://open.spotify.com/album/2ptJ2SyvUIuTkm6EtN8wK5"
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/1A1An38fD4HI1icvarYgnA"
       },
       "artists": [
         {
@@ -1053,8 +1057,8 @@
         }
       ],
       "duration_ms": 222400,
-      "name": "Thinking Of You",
-      "url": "https://open.spotify.com/track/7MLhL0O3bzjU7hVcAc6lFQ"
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/6GdaH0cJswxjiU8PngVdje"
     }
   ],
   "unique_name": "Fresh Finds Indie",

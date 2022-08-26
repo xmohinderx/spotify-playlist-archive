@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 6940,
+  "num_followers": 6962,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMDQ3MGM3YzUwZmE2MTBkMGFhMzU3ZjFlZjZiYzA4NmM2",
+  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMGM4ZWU1NTJkMmI1YWUwZmYyZjI3MGM0NTIxMzBiNjc3",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -931,26 +931,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Algo M\u00e1gico (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/1UC5jCthGQNO7vgtdLau7R"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 167884,
-      "name": "Algo M\u00e1gico - R3HAB Remix",
-      "url": "https://open.spotify.com/track/0AKJnGrZazPQbEoGamsQT9"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Contra La Pared (Remixes)",
         "url": "https://open.spotify.com/album/08jjrwkMiZboulzCz7fQwe"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 257274,
       "name": "Contra La Pared - GTA Remix",
       "url": "https://open.spotify.com/track/5RE2mMitKRWTQuh1jSzlBu"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Algo M\u00e1gico (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/1UC5jCthGQNO7vgtdLau7R"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 167884,
+      "name": "Algo M\u00e1gico - R3HAB Remix",
+      "url": "https://open.spotify.com/track/0AKJnGrZazPQbEoGamsQT9"
     },
     {
       "added_at": "2021-12-31 04:31:13",

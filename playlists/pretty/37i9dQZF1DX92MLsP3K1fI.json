@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Sofi Mata en portada.",
-  "num_followers": 48784,
+  "num_followers": 48862,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4NTIwMCwwMDAwMDAwMGVmN2IyOTgwNDQ2ZWIzNTA1MjhiNDUyMGQwOGNjODhh",
+  "snapshot_id": "MTY2MDg4NTIwMCwwMDAwMDAwMGNkYWMyNTI3ZmFjMzY4MDBhN2Q1NzEwNjEzNmE1NWE5",
   "tracks": [
     {
       "added_at": "2022-08-19 05:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "Dementes",
-        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
-      },
-      "artists": [
-        {
-          "name": "Alex Hoyer",
-          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
-        }
-      ],
-      "duration_ms": 176207,
-      "name": "Dementes",
-      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
         "name": "NO ERES T\u00da (feat. Gloria Trevi)",
         "url": "https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 229144,
       "name": "NO ERES T\u00da (feat. Gloria Trevi)",
       "url": "https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "Dementes",
+        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
+      },
+      "artists": [
+        {
+          "name": "Alex Hoyer",
+          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
+        }
+      ],
+      "duration_ms": 176207,
+      "name": "Dementes",
+      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "Brutal",
-        "url": "https://open.spotify.com/album/4bMwAGWco8vww47fDYsD9T"
-      },
-      "artists": [
-        {
-          "name": "Sharlene",
-          "url": "https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB"
-        },
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Brutal",
-      "url": "https://open.spotify.com/track/53A2Mrrj1EJmJIdfi7NFBu"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/1YLJe893LXBJ91Y9ZKOnfh"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 198000,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/2zvKyZEqzTHCFseMncakGl"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "Brutal",
+        "url": "https://open.spotify.com/album/4bMwAGWco8vww47fDYsD9T"
+      },
+      "artists": [
+        {
+          "name": "Sharlene",
+          "url": "https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB"
+        },
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Brutal",
+      "url": "https://open.spotify.com/track/53A2Mrrj1EJmJIdfi7NFBu"
     },
     {
       "added_at": "2022-08-19 05:00:00",

@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-234 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+235 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [In My Mind](https://open.spotify.com/track/0XQoOGwbUn930qZGji0885) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Nausea](https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj) | 3:06 | 2021-10-16 |  |
 | [Inner Balance](https://open.spotify.com/track/7eutjZvgO3DOz0HXbRvW6o) | [Sup Nasa](https://open.spotify.com/artist/4FlqZhoTqYt8tpct6QwgZR) | [Kula](https://open.spotify.com/album/5uHujIKsaQA1HFqt2cGCLM) | 2:06 | 2021-10-16 | 2022-07-29 |
 | [Islas Canarias](https://open.spotify.com/track/68s6d9iCLRhviPqL6NWA5U) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 3:10 | 2021-10-16 | 2022-07-29 |
-| [Jiyu](https://open.spotify.com/track/07Sx03dUY4jRXXtrM7zSs3) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Jiyu](https://open.spotify.com/album/6BU9l5h76Oei7yb2lmZIDf) | 2:18 | 2021-10-16 |  |
+| [Jiyu](https://open.spotify.com/track/07Sx03dUY4jRXXtrM7zSs3) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Jiyu](https://open.spotify.com/album/6BU9l5h76Oei7yb2lmZIDf) | 2:18 | 2021-10-16 | 2022-08-26 |
 | [June 15th](https://open.spotify.com/track/0KIRuP1CDEdn53hs0f0ich) | [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW), [The First Minute of a New Day](https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The First Minute of a New Day](https://open.spotify.com/album/0tC2JC67HViIMswO9iChcT) | 7:57 | 2021-10-16 | 2022-07-29 |
 | [June 21](https://open.spotify.com/track/2UTuWSjmIMSQDnvmV2et4U) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [June 21](https://open.spotify.com/album/4Hh8CxbhWH3nry86W2PHvX) | 2:09 | 2021-10-16 | 2022-07-29 |
 | [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 | 2021-10-16 |  |
@@ -149,6 +149,7 @@
 | [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 | 2022-01-07 |  |
 | [P a r a l l a x](https://open.spotify.com/track/5cWpQKs9O72HG4cYYZyiv9) | [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf) | [Parallax](https://open.spotify.com/album/40LaUfA7iILyLnjZOxnst0) | 4:16 | 2022-03-30 | 2022-07-29 |
 | [Parallel 9](https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 7:15 | 2021-10-16 |  |
+| [Passages](https://open.spotify.com/track/0d4eOwlQzOc5bmed9kqLQb) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Passages](https://open.spotify.com/album/2RIolYrKkkc3ZEGHSwUSCV) | 2:26 | 2021-10-16 |  |
 | [Passages](https://open.spotify.com/track/1GrJr1EYlUcB0dP8NTSbtT) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Passages](https://open.spotify.com/album/5hUHOgvbMrKcfaNs9pNRPL) | 2:26 | 2021-10-16 | 2022-07-13 |
 | [People On Sunday](https://open.spotify.com/track/6gsHs8YnmYgj14Seft55PN) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People on Sunday](https://open.spotify.com/album/5ia6LeaizcrUEwWs9koCcL) | 3:45 | 2021-10-16 |  |
 | [Peperomia Seedling](https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 3:43 | 2021-10-16 |  |

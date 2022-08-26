@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K?si=l71J8PpWRua6TAi1qSWMaA\">DJ Kabila</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=FJytl0JyTNi6zlVY2UK0ug\">Prince Kaybee</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -27,6 +27,28 @@
       "duration_ms": 345765,
       "name": "24Seven - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/2eDSiPA2s9WPQwO7KvwXWe"
+    },
+    {
+      "album": {
+        "name": "3 In The Morning",
+        "url": "https://open.spotify.com/album/1HgLqBJlhYGbOVQkXEKgkJ"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        },
+        {
+          "name": "Ben September",
+          "url": "https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307950,
+      "name": "3 In The Morning",
+      "url": "https://open.spotify.com/track/1uGivKy4r1xbPbxhI6Jp3q"
     },
     {
       "album": {
@@ -158,6 +180,28 @@
     },
     {
       "album": {
+        "name": "Idwala",
+        "url": "https://open.spotify.com/album/2nBnaZl4NHAOZWjB1V5GbS"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372213,
+      "name": "Abasiyeke",
+      "url": "https://open.spotify.com/track/027f4IovyxzazHUnCWUoO9"
+    },
+    {
+      "album": {
         "name": "Abonda",
         "url": "https://open.spotify.com/album/3bHvSUqf45x8xcQYmCrNfq"
       },
@@ -177,7 +221,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 276130,
       "name": "Abonda",
       "url": "https://open.spotify.com/track/5m6pyOJr0ByLut3cgYnO26"
@@ -1165,7 +1209,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 337786,
       "name": "BackGround - Main HT",
       "url": "https://open.spotify.com/track/79A2flkhEAPtIxuX4ZuKhR"
@@ -1867,7 +1911,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 218665,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/5l9P47axQgVYwdeTj2sXcj"
@@ -2857,7 +2901,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 193920,
       "name": "Emergency - Radio Edit",
       "url": "https://open.spotify.com/track/77S8SmK0gNGNRWjpkbdBId"
@@ -2923,7 +2967,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 472293,
       "name": "Espada",
       "url": "https://open.spotify.com/track/607ORYzuKPofnzNMJFpkSz"
@@ -2959,7 +3003,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 210720,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/6nAvF4vmANRj76sNX1du0C"
@@ -3123,7 +3167,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 419463,
       "name": "Falling",
       "url": "https://open.spotify.com/track/02EcHipDbDyuGkbbJGDy95"
@@ -4299,7 +4343,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 436000,
       "name": "iMali (Ft. Nana Atta)",
       "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
@@ -4399,7 +4443,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 336348,
       "name": "Impumelelo",
       "url": "https://open.spotify.com/track/2cPJ70rDO8Mt74vGImjiz3"
@@ -4757,7 +4801,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 208625,
       "name": "Issues",
       "url": "https://open.spotify.com/track/10IWxGZvMEXZRietINatt2"
@@ -4973,6 +5017,28 @@
       "duration_ms": 430564,
       "name": "Kandongueiro Voador - Extended Mix",
       "url": "https://open.spotify.com/track/7ITYhLCwizzy88TAvQijES"
+    },
+    {
+      "album": {
+        "name": "Ke Kero",
+        "url": "https://open.spotify.com/album/2BJQ2Mpj17IgaJDMqrJtQM"
+      },
+      "artists": [
+        {
+          "name": "Dr Moruti",
+          "url": "https://open.spotify.com/artist/6WAHtGMWHB0gss7ohbkvp9"
+        },
+        {
+          "name": "Dee Cee",
+          "url": "https://open.spotify.com/artist/4rVjLPF02DFPN3mSBMgPdt"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346028,
+      "name": "Ke Kero",
+      "url": "https://open.spotify.com/track/1o8WmQ62tcptHOOdULAV63"
     },
     {
       "album": {
@@ -5715,7 +5781,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 146855,
       "name": "Love Runs Out",
       "url": "https://open.spotify.com/track/2h9Mvr95ozvSARELLcfTri"
@@ -7022,6 +7088,32 @@
     },
     {
       "album": {
+        "name": "Nzara",
+        "url": "https://open.spotify.com/album/51YVpbXCfYIYsLfI9JZmNB"
+      },
+      "artists": [
+        {
+          "name": "Stones & Bones",
+          "url": "https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4"
+        },
+        {
+          "name": "Gino Brown",
+          "url": "https://open.spotify.com/artist/7hAFqypJQMJwOYdidATue1"
+        },
+        {
+          "name": "Ruvimbo",
+          "url": "https://open.spotify.com/artist/0H9hyTkCwELLroC9zTODuz"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238406,
+      "name": "Nzara",
+      "url": "https://open.spotify.com/track/11sXJamrz0EI2zf7wuwJF4"
+    },
+    {
+      "album": {
         "name": "Olere",
         "url": "https://open.spotify.com/album/6MeRc1VizJ8BzzF4aoEOMC"
       },
@@ -7112,7 +7204,7 @@
       "artists": [
         {
           "name": "Anrey",
-          "url": "https://open.spotify.com/artist/3Sw21ohKW3tbHvu0z7w1wv"
+          "url": "https://open.spotify.com/artist/7a2a36QkRDDOhyHWkDXYGw"
         },
         {
           "name": "Idd Aziz",
@@ -8486,6 +8578,28 @@
     },
     {
       "album": {
+        "name": "Fumbo",
+        "url": "https://open.spotify.com/album/75E9B79X1WmI5cojmqBEyu"
+      },
+      "artists": [
+        {
+          "name": "Jabzz Dimitri",
+          "url": "https://open.spotify.com/artist/4Eo18qlyb76spnDFlSc78c"
+        },
+        {
+          "name": "Dudu Makhoba",
+          "url": "https://open.spotify.com/artist/14SepfJXLOU2PqLsVT9Zyk"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453314,
+      "name": "Siyabonga",
+      "url": "https://open.spotify.com/track/7aD1gP83nhNeORZkh1nMqK"
+    },
+    {
+      "album": {
         "name": "Sky Is the Limit",
         "url": "https://open.spotify.com/album/7hRiYiFR1fzyHV6Fx5vLQR"
       },
@@ -8817,7 +8931,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 322391,
       "name": "Stingy",
       "url": "https://open.spotify.com/track/5jVDjYaYHP0silwrtOM0Rh"
@@ -9149,7 +9263,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 366497,
       "name": "Thath'isigubhu - Shimza Remix",
       "url": "https://open.spotify.com/track/4QdiYJFWyyQRrVFfC6B4aN"
@@ -9504,6 +9618,28 @@
     },
     {
       "album": {
+        "name": "Coast / Together",
+        "url": "https://open.spotify.com/album/7k8M4tm1mp1DfdVTcTtItQ"
+      },
+      "artists": [
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        },
+        {
+          "name": "Bound to Divide",
+          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1GPFWNzYJMZrrrspWyfzLn"
+    },
+    {
+      "album": {
         "name": "TOGOO",
         "url": "https://open.spotify.com/album/4a7mht1XdyFDGKvr6KoNBG"
       },
@@ -9753,7 +9889,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 414925,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/5uqKHMfE1iKfu0MtFz4LDi"
@@ -9819,6 +9955,24 @@
       "duration_ms": 196213,
       "name": "Two Monkeys",
       "url": "https://open.spotify.com/track/2cprut9Zu20P4cs1PyzYdF"
+    },
+    {
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/48X5Wnd47jDZ9fquyd56NN"
+      },
+      "artists": [
+        {
+          "name": "Dean Gouws",
+          "url": "https://open.spotify.com/artist/4oE3VLrMyD5JdqyCz0DOYn"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133269,
+      "name": "U",
+      "url": "https://open.spotify.com/track/0ASnSWkOtGOsu80y1zRF1Z"
     },
     {
       "album": {
@@ -10305,7 +10459,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 437000,
       "name": "We Belong",
       "url": "https://open.spotify.com/track/2PDjawR6el9LThbchXimFt"
@@ -10714,6 +10868,64 @@
     },
     {
       "album": {
+        "name": "You And Me",
+        "url": "https://open.spotify.com/album/4Hh5U3MF0CqrbYbgaJDbhb"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/7IHGC6y8NjBwwWhWCF2lKR"
+        },
+        {
+          "name": "Luc Rushmere",
+          "url": "https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/5DTTaRnwS2m4K7xQVzuvwv"
+    },
+    {
+      "album": {
+        "name": "You Can Have It",
+        "url": "https://open.spotify.com/album/0ast6FBVxrRz8mDjIouCe4"
+      },
+      "artists": [
+        {
+          "name": "Fairytales",
+          "url": "https://open.spotify.com/artist/4zVdTimXagkltfmZGswqby"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175191,
+      "name": "You Can Have It",
+      "url": "https://open.spotify.com/track/7dpaXOLqPd6G7OrCQVBEer"
+    },
+    {
+      "album": {
+        "name": "You My Remedy",
+        "url": "https://open.spotify.com/album/1UBpoNohHe0rPGNxaXdtEP"
+      },
+      "artists": [
+        {
+          "name": "Lazarus King",
+          "url": "https://open.spotify.com/artist/1jLTBw9t1VDE1Mk0EuAboN"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175275,
+      "name": "You My Remedy",
+      "url": "https://open.spotify.com/track/0ImvaMPEX47z4M7Ty7Vt1O"
+    },
+    {
+      "album": {
         "name": "Your Body Doesn't Lie",
         "url": "https://open.spotify.com/album/4eVQc65pAKkux2cWz6ufyV"
       },
@@ -10831,6 +11043,28 @@
       "duration_ms": 387369,
       "name": "Zimbali",
       "url": "https://open.spotify.com/track/4prJjAS96pnxqtRMANFALE"
+    },
+    {
+      "album": {
+        "name": "Amani EP",
+        "url": "https://open.spotify.com/album/3R9b7M812Z2wnN8p6fJtIQ"
+      },
+      "artists": [
+        {
+          "name": "Mzux Maen",
+          "url": "https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0"
+        },
+        {
+          "name": "Natasha M",
+          "url": "https://open.spotify.com/artist/2j18ZqJBvkcOVF35MWf2Lb"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320312,
+      "name": "Zimbi Iindaba (feat. Natasha M)",
+      "url": "https://open.spotify.com/track/0FngU0lVyh6dNPxN49Wo1B"
     },
     {
       "album": {

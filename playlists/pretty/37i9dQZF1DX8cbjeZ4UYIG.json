@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 226405,
+  "num_followers": 226600,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY4MTQ0OSwwMDAwMDAwMDI4NjY2NTgzNDE5ZWNiNDY4MjgzY2M4NWM0MzJlYmI5",
+  "snapshot_id": "MTYxOTY4MTQ0OSwwMDAwMDAwMGYwMGJhZTUwNTAyNGJmMGZkOThmMDliOWIxODcwNjc5",
   "tracks": [
     {
       "added_at": "2020-10-06 12:32:47",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq"
-      },
-      "artists": [
-        {
-          "name": "Joey Beltram",
-          "url": "https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0"
-        }
-      ],
-      "duration_ms": 350813,
-      "name": "Energy Flash",
-      "url": "https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Inner City Life",
         "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "The Very Best of Rozalla",
-        "url": "https://open.spotify.com/album/2xLMSSS0oFoJshrOIrvK7b"
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq"
       },
       "artists": [
         {
-          "name": "Rozalla",
-          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
+          "name": "Joey Beltram",
+          "url": "https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0"
         }
       ],
-      "duration_ms": 211733,
-      "name": "Everybody's Free (To Feel Good)",
-      "url": "https://open.spotify.com/track/4rkiST7hsHEuU5EMvApemD"
+      "duration_ms": 350813,
+      "name": "Energy Flash",
+      "url": "https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -411,6 +395,22 @@
       "duration_ms": 245173,
       "name": "Maximum Style (Lover To Lover)",
       "url": "https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "The Very Best of Rozalla",
+        "url": "https://open.spotify.com/album/2xLMSSS0oFoJshrOIrvK7b"
+      },
+      "artists": [
+        {
+          "name": "Rozalla",
+          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Everybody's Free (To Feel Good)",
+      "url": "https://open.spotify.com/track/4rkiST7hsHEuU5EMvApemD"
     },
     {
       "added_at": "2020-10-06 12:32:47",

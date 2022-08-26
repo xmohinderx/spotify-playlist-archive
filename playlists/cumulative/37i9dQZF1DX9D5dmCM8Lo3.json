@@ -1306,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "Pretty Cvnt",
+        "url": "https://open.spotify.com/album/3C7mweDprNNq2yJuWZm8iw"
+      },
+      "artists": [
+        {
+          "name": "swrslt",
+          "url": "https://open.spotify.com/artist/4hljLrM4LIIh85DLjURyS6"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220734,
+      "name": "Pretty Cvnt",
+      "url": "https://open.spotify.com/track/2CTcTL788DBaFLnc6QJSzv"
+    },
+    {
+      "album": {
         "name": "Velocity: Design: Comfort.",
         "url": "https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2"
       },
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 116363,
       "name": "RED ALERT",
       "url": "https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO"
