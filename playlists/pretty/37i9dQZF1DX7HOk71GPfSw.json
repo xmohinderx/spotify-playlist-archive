@@ -1,13 +1,61 @@
 {
-  "description": "new skaiwater",
-  "num_followers": 343041,
+  "description": "ft. Ninajirachi ",
+  "num_followers": 343170,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQzODg0OSwwMDAwMDAwMDE5MmU2NGUzODA4MGMxNjAzMGZkYTUwN2Y5NjM0Zjhh",
+  "snapshot_id": "MTY2MTUzOTkyNCwwMDAwMDAwMGVhNjI5MjhjY2M4Mjg3Nzc5ZTFlNmQxMDNkNDdiMWM2",
   "tracks": [
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "Petroleum / Hidden Land",
+        "url": "https://open.spotify.com/album/4Acs10QsYqpRF7wDvVWcK5"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 198769,
+      "name": "Petroleum",
+      "url": "https://open.spotify.com/track/3YRP6HZc1wRJiK30LYNekC"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "Overboard",
+        "url": "https://open.spotify.com/album/7xd5UrVDe2ZLL91ihCoTsC"
+      },
+      "artists": [
+        {
+          "name": "Highscores",
+          "url": "https://open.spotify.com/artist/64e54DGMmRzGW27junjD4T"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "Overboard",
+      "url": "https://open.spotify.com/track/5pMuhlkcQjtSnhm8rbiwCt"
+    },
     {
       "added_at": "2022-08-25 14:47:29",
       "album": {
@@ -41,36 +89,40 @@
       "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
     },
     {
-      "added_at": "2022-08-05 07:49:00",
+      "added_at": "2022-08-12 05:19:00",
       "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+        "name": "LOVEU/LOVESICK",
+        "url": "https://open.spotify.com/album/6rEBprf7aCll2zqEGJSp7q"
       },
       "artists": [
         {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+          "name": "yergurl",
+          "url": "https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo"
         }
       ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+      "duration_ms": 201000,
+      "name": "LOVEU/LOVESICK",
+      "url": "https://open.spotify.com/track/3ZSjiVsGwPqhUV9ZmZ14kl"
     },
     {
-      "added_at": "2022-08-05 07:49:00",
+      "added_at": "2022-08-26 05:41:00",
       "album": {
-        "name": "paralyzed",
-        "url": "https://open.spotify.com/album/6LAJ80K0n0WnFNdynaG3SD"
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1qmiDQd4RqnXtuCKgTZsXY"
       },
       "artists": [
         {
-          "name": "Senses",
-          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
+          "name": "CYPARISS",
+          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
+        },
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
         }
       ],
-      "duration_ms": 164734,
-      "name": "paralyzed",
-      "url": "https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34"
+      "duration_ms": 140852,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/7a6SZMO2mfBdeFJcAPiOTV"
     },
     {
       "added_at": "2022-08-12 05:19:00",
@@ -89,20 +141,164 @@
       "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
     },
     {
-      "added_at": "2022-08-12 05:19:00",
+      "added_at": "2022-01-14 18:09:29",
       "album": {
-        "name": "LOVEU/LOVESICK",
-        "url": "https://open.spotify.com/album/6rEBprf7aCll2zqEGJSp7q"
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
       },
       "artists": [
         {
-          "name": "yergurl",
-          "url": "https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo"
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
         }
       ],
-      "duration_ms": 201000,
-      "name": "LOVEU/LOVESICK",
-      "url": "https://open.spotify.com/track/3ZSjiVsGwPqhUV9ZmZ14kl"
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "Killer in Neverland",
+        "url": "https://open.spotify.com/album/6vOSP7R3SEdTMgZm90GunD"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "ring ring, you kill me",
+      "url": "https://open.spotify.com/track/7BDzU8Dcit2KqznktWxDHb"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "bugfood",
+        "url": "https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r"
+      },
+      "artists": [
+        {
+          "name": "Alissic",
+          "url": "https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "bugfood",
+      "url": "https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "nvr",
+        "url": "https://open.spotify.com/album/2Dx2EbRyuEnR6bSY7Bk8K6"
+      },
+      "artists": [
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        },
+        {
+          "name": "d0llywood1",
+          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
+        }
+      ],
+      "duration_ms": 164669,
+      "name": "nvr",
+      "url": "https://open.spotify.com/track/6RzQkHU58a2nkI8yTRFjoh"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/5lEUWsw23R7nZDJiveB8kC"
+      },
+      "artists": [
+        {
+          "name": "Himera",
+          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
+        }
+      ],
+      "duration_ms": 168413,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/1bdWyqURzJVKl4bRmm2eXq"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "broken",
+        "url": "https://open.spotify.com/album/4oJ1ESU2EWeepS9v2V5OYI"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 138017,
+      "name": "broken",
+      "url": "https://open.spotify.com/track/4i9cDKtznv2wd02wDJiIWO"
+    },
+    {
+      "added_at": "2022-06-28 14:12:15",
+      "album": {
+        "name": "All Nighter, Vol. 6",
+        "url": "https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS"
+      },
+      "artists": [
+        {
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "6FINGERDEATHPUNCH",
+      "url": "https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "TDJ123 DELUXE",
+        "url": "https://open.spotify.com/album/05VFDqT4WtekPdQn8o6V1a"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 173020,
+      "name": "Addictive/Predictive - blackwinterwells & 8485 Remix",
+      "url": "https://open.spotify.com/track/5XBgDnfX3HBQkHZ5yRuQgZ"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "Allsetalone",
+        "url": "https://open.spotify.com/album/0NMvxiqDG2G2iTkUgu6xiy"
+      },
+      "artists": [
+        {
+          "name": "717Phxntom",
+          "url": "https://open.spotify.com/artist/5yBNiKZzZHIcOjixAWd9i0"
+        }
+      ],
+      "duration_ms": 89391,
+      "name": "Allsetalone",
+      "url": "https://open.spotify.com/track/47uVpUtVp1BNmWggr5AyJX"
     },
     {
       "added_at": "2022-08-19 15:54:28",
@@ -143,22 +339,6 @@
       "duration_ms": 166437,
       "name": "i/o",
       "url": "https://open.spotify.com/track/4ggnthekytPDW8k0APUPVY"
-    },
-    {
-      "added_at": "2022-01-14 18:09:29",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2022-08-19 15:54:28",
@@ -231,22 +411,6 @@
       "duration_ms": 127999,
       "name": "Always",
       "url": "https://open.spotify.com/track/0NVdg0miEVWRALvwWaH9MD"
-    },
-    {
-      "added_at": "2022-06-28 14:12:15",
-      "album": {
-        "name": "All Nighter, Vol. 6",
-        "url": "https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS"
-      },
-      "artists": [
-        {
-          "name": "six impala",
-          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "6FINGERDEATHPUNCH",
-      "url": "https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3"
     },
     {
       "added_at": "2022-07-29 13:25:15",
@@ -1181,22 +1345,6 @@
       "url": "https://open.spotify.com/track/0thryZfIkjcK4HYSYxoKNn"
     },
     {
-      "added_at": "2022-05-13 04:17:00",
-      "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 198625,
-      "name": "Firefly",
-      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
-    },
-    {
       "added_at": "2022-07-08 04:45:00",
       "album": {
         "name": "die b4 u",
@@ -1327,22 +1475,6 @@
     {
       "added_at": "2022-07-01 06:27:00",
       "album": {
-        "name": "only1",
-        "url": "https://open.spotify.com/album/6nxeOHmPrLmXn2olKUWTAM"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 158550,
-      "name": "only1",
-      "url": "https://open.spotify.com/track/7xtgTLmkVw9MGWlELcAyc4"
-    },
-    {
-      "added_at": "2022-07-01 06:27:00",
-      "album": {
         "name": "bedroom",
         "url": "https://open.spotify.com/album/755NEywIEUsh0WHJeq9mBJ"
       },
@@ -1447,22 +1579,6 @@
       "duration_ms": 190695,
       "name": "verdant green",
       "url": "https://open.spotify.com/track/460h55NFlMCLiX1LWZKp5V"
-    },
-    {
-      "added_at": "2022-06-10 15:02:05",
-      "album": {
-        "name": "enclosed",
-        "url": "https://open.spotify.com/album/5gS7xx28s3dX66Hf2HuEDi"
-      },
-      "artists": [
-        {
-          "name": "Mixed Matches",
-          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "enclosed",
-      "url": "https://open.spotify.com/track/1iJLPw7uu2KP9Q6qqoZp2r"
     },
     {
       "added_at": "2022-05-27 07:02:00",
@@ -1763,22 +1879,6 @@
       "duration_ms": 182630,
       "name": "crazy",
       "url": "https://open.spotify.com/track/6C33GkwvrnW7kQbGeR16Pw"
-    },
-    {
-      "added_at": "2022-06-03 13:00:00",
-      "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/6wwYS0ioHc4aflATeHTaLG"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dusart",
-          "url": "https://open.spotify.com/artist/4SixvIlbUqTp1t2rwu3LNq"
-        }
-      ],
-      "duration_ms": 99422,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/7btVxzWmEnBuxdunhWWhUI"
     }
   ],
   "unique_name": "hyperpop",

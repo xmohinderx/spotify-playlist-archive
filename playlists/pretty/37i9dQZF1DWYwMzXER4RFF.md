@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 ### [Post Punk 2k](https://open.spotify.com/playlist/37i9dQZF1DWYwMzXER4RFF)
 
-> New no wave, post\-punk, and anything else\. Cover: Talk Show
+> New no wave, post\-punk, and anything else\. Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,705 likes - 55 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,767 likes - 55 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Scrappers](https://open.spotify.com/track/14IvWKgBAZojoDYvlI0MGd) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Enola Gay](https://open.spotify.com/album/4wqfGtPLQvvGSPdM7nr37q) | 2:58 |
 | 55 | [Concorde](https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Concorde](https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa) | 6:03 |
 
-Snapshot ID: `MTY2MTQ1OTc0OSwwMDAwMDAwMGU4NzE3NTI2ZjA3MDgyZjY1NzZlMjg2NjBjYjEwNjdm`
+Snapshot ID: `MTY2MTUxNzM4MCwwMDAwMDAwMDk5ZjdjZWM5OTRiOGVmNmFjYjA4ZTQ5NDdiYzQ2YWRm`

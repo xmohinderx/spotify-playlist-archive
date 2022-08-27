@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,251 likes - 100 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,583 likes - 100 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 99 | [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 |
 | 100 | [Solid Session \- Joris Voorn Remix](https://open.spotify.com/track/1SfYPB5V9LNTkCJn73u0Ua) | [Format](https://open.spotify.com/artist/7vpTOtQikXEZZNqBBwjClU), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Solid Session \(Joris Voorn Remix\)](https://open.spotify.com/album/4vDUZvONNMGYrXINpGaJWy) | 4:48 |
 
-Snapshot ID: `MTY2MTI3MzI0NywwMDAwMDAwMGQ1MjNkZWVjN2M1YmRjZWFlYWQ0NGMzYmE3NTkyMjQx`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGE2Y2M5YjU3NmQwNmQ2OGYwMTgxZDNiNTdkZmFkZTdl`

@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Bird Dog",
+        "url": "https://open.spotify.com/album/6kjkKqlGi96MSKcdP8Ayv8"
+      },
+      "artists": [
+        {
+          "name": "Hunter Phelps",
+          "url": "https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "Bird Dog",
+      "url": "https://open.spotify.com/track/27W4Reg4xwQIlQkDffGqc2"
+    },
+    {
+      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE"
       },
@@ -1673,6 +1691,24 @@
       "duration_ms": 194367,
       "name": "Just Like July",
       "url": "https://open.spotify.com/track/6AV8mVeFUk0seEUx9m04zL"
+    },
+    {
+      "album": {
+        "name": "Just Want My Love",
+        "url": "https://open.spotify.com/album/39JOX2Eoh0Hb6EBdbfpc3t"
+      },
+      "artists": [
+        {
+          "name": "Jack Harris",
+          "url": "https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "Just Want My Love",
+      "url": "https://open.spotify.com/track/7vr9z3BpXTnLrHthI9rVrg"
     },
     {
       "album": {

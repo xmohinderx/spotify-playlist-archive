@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Maluma
 
-78 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/6opAfCvVy9IGx107v1jCvA)
+79 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/6opAfCvVy9IGx107v1jCvA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Joseando](https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Joseando](https://open.spotify.com/album/710PNpZjGyqoN5iFB5QSuc) | 3:24 | 2021-10-15 |  |
 | [KFC](https://open.spotify.com/track/1BWNtvWOHNAC81mTV0dCRO) | [Strong Black](https://open.spotify.com/artist/3QRA3GKxUG3RdCWN4TXKbw) | [KFC](https://open.spotify.com/album/29hG1WQAGqbGjEXR7JoXj0) | 2:45 | 2021-10-15 |  |
 | [Kilo \- Remix](https://open.spotify.com/track/6kbjUcV48LAsO2GnmRnFe2) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Léo Rocatto](https://open.spotify.com/artist/1xK87HD8RdMvmHxdbtLOFS) | [Kilo \(Remix\)](https://open.spotify.com/album/6flM3quj0tXKRv4B5Cwpv0) | 3:49 | 2021-10-15 |  |
+| [Ko](https://open.spotify.com/track/0MtnjoP0LbTNncaOqmtV7t) | [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kapla](https://open.spotify.com/artist/6phuupLjcsUnYgRrY7BHSd), [Lil Dripavelli](https://open.spotify.com/artist/3p0i4P61vcbJpf3V8dcs1f) | [Ko](https://open.spotify.com/album/7HufcKIHl9VuzhTO8TeInt) | 4:09 | 2022-08-26 |  |
 | [La Cone](https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Cone](https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL) | 4:11 | 2021-10-15 |  |
 | [La Maluquera](https://open.spotify.com/track/5A7U0FjslKz2wq3Duh3A7i) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Goldo Funky](https://open.spotify.com/album/28TBy3fqYNUSp4CTzQSJJQ) | 3:50 | 2021-10-15 |  |
 | [La pasé cabrón](https://open.spotify.com/track/4rKM9EE3torp4wXfqEzzgZ) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [La pasé cabrón](https://open.spotify.com/album/6ElfLUNrxLvu0kGEBkCjHh) | 3:05 | 2021-10-15 | 2022-04-09 |
@@ -77,7 +78,7 @@
 | [Sométeme](https://open.spotify.com/track/51Jt04zgh7coezey8YlnRO) | [Stefficrown](https://open.spotify.com/artist/03kZtQufUPClcJ4y4jYTes), [Crabeats](https://open.spotify.com/artist/3N9ZDSxevGQn5u7D1nRlvN) | [Act II](https://open.spotify.com/album/30NxdbAihSxvSAeihvWw7i) | 3:31 | 2021-10-15 |  |
 | [Stupid Bitch](https://open.spotify.com/track/4CbECmRdlREUolSUceI6Yg) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Stupid Bitch](https://open.spotify.com/album/3hVnIIKriPcmwdCDt6JzUb) | 2:16 | 2021-10-15 | 2022-01-29 |
 | [Tinbo](https://open.spotify.com/track/5rd5rSUOMrA150vKFbpGHA) | [Crack Family](https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk), [L'Sai](https://open.spotify.com/artist/6JXRHKrqaEHlYQNYYK87xJ) | [Tinbo](https://open.spotify.com/album/0FH38RteediPKhlB12l7oD) | 2:56 | 2021-10-15 |  |
-| [Todo en Juego](https://open.spotify.com/track/2Yz1AdUZ0koYwz2SuLUpUg) | [Zurdo ZMZ](https://open.spotify.com/artist/3O9YoGuYAZmN6xX1Ka8j9o), [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [Todo en Juego](https://open.spotify.com/album/3lbvEWbAAfCOhfsW1yjoUb) | 2:15 | 2021-10-15 |  |
+| [Todo en Juego](https://open.spotify.com/track/2Yz1AdUZ0koYwz2SuLUpUg) | [Zurdo ZMZ](https://open.spotify.com/artist/3O9YoGuYAZmN6xX1Ka8j9o), [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [Todo en Juego](https://open.spotify.com/album/3lbvEWbAAfCOhfsW1yjoUb) | 2:15 | 2021-10-15 | 2022-08-27 |
 | [Todo o Nada](https://open.spotify.com/track/2zdHRQTOBDk8mM8xBzziFh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:39 | 2021-10-15 |  |
 | [Track 11](https://open.spotify.com/track/58Z2aR6MVBuQumxBru8Y40) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [574](https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns) | [Track 11](https://open.spotify.com/album/0c0HSLNtYbgOEOtHdUr70D) | 3:39 | 2021-10-15 | 2022-08-20 |
 | [Tyqc](https://open.spotify.com/track/4IX9LPTkilIwaVKhCjRofn) | [Cabaio](https://open.spotify.com/artist/0yIYD7cBLd9VdHEUQ0fqAJ) | [Tyqc](https://open.spotify.com/album/6gZ2Fz1C2Pmd91IOyerJIv) | 2:55 | 2021-10-15 |  |

@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 159248,
       "name": "En el Foco",
       "url": "https://open.spotify.com/track/5vLgLpGqtCUVXbYvbCfRGA"
@@ -2640,6 +2640,24 @@
     },
     {
       "album": {
+        "name": "Superpoderes",
+        "url": "https://open.spotify.com/album/1mcR90ap9C4fw4UihjXvNt"
+      },
+      "artists": [
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "Superpoderes",
+      "url": "https://open.spotify.com/track/4BHCQ6e9Ig5fpPqQuLMNHl"
+    },
+    {
+      "album": {
         "name": "Surfeando el Tsunami",
         "url": "https://open.spotify.com/album/6zeSnARpo1iYSwPhgdfKdv"
       },
@@ -2929,7 +2947,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 302537,
       "name": "TRAPPIST-1",
       "url": "https://open.spotify.com/track/3tyEOol8a0fP78HpdJ3mkS"

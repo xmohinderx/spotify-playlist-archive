@@ -1,12 +1,12 @@
 {
-  "description": "Pop, rock, funk, R&B, psychedelia\u2014the man from Minneapolis was a true original and earth-shattering performer. Hear <a href=\"spotify:artist:5a2EaR3hamoenG9rDuVn8j\">Prince Rogers Nelson</a>'s best right now.",
-  "num_followers": 743598,
+  "description": "Prince was a true original and earth-shattering performer. Hear Prince Rogers Nelson best right now.",
+  "num_followers": 743725,
   "original_name": "This Is Prince",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU0MDQ2MiwwMDAwMDAwMDg2OWVlMzJjMjdlN2IxMzAxZmU0NTMwMjU0ZTEyMzli",
+  "snapshot_id": "MTY2MTUwODU4OCwwMDAwMDAwMGRmOWYxNTE4MjEyZTY2NzEyMTQ3ZTdiN2Q5MDdjMzVi",
   "tracks": [
     {
       "added_at": "2021-04-09 21:22:12",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Sign O' The Times",
-        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 296497,
-      "name": "Sign O' The Times - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7CqFMR3yj95Yuwagq5XsLR"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "1999 (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 188373,
       "name": "Little Red Corvette - 7\" Edit - 2019 Remaster",
       "url": "https://open.spotify.com/track/4N1dFbXmRng8qJ3KdJrbLr"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Sign O' The Times",
+        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 296497,
+      "name": "Sign O' The Times - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7CqFMR3yj95Yuwagq5XsLR"
     },
     {
       "added_at": "2021-04-09 21:22:12",

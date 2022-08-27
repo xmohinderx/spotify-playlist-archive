@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-28",
-  "description": "The jam scene is alive and well. Cover: Derek Trucks & Susan Tedeschi",
+  "description": "The jam scene is alive and well. Cover: Papadosio",
   "name": "Modern Jam Band",
   "published_playlist_ids": [
     "1MZeQVXDEN8ttDWSeIbiNY"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 375939,
       "name": "Kinetic Bump",
       "url": "https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt"
@@ -755,6 +755,24 @@
       "duration_ms": 173105,
       "name": "New Eyes",
       "url": "https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ"
+    },
+    {
+      "album": {
+        "name": "Not Just a Word",
+        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338011,
+      "name": "Not Just a Word",
+      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
     },
     {
       "album": {
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 433720,
       "name": "The Road",
       "url": "https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8"
@@ -1083,6 +1101,24 @@
       "duration_ms": 513070,
       "name": "The World Is A Ghetto",
       "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
+    },
+    {
+      "album": {
+        "name": "Time Dilates",
+        "url": "https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29"
+      },
+      "artists": [
+        {
+          "name": "Lotus ",
+          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321688,
+      "name": "Time Dilates",
+      "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
     },
     {
       "album": {

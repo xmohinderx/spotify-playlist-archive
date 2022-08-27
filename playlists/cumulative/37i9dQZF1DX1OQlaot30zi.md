@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Guè, Nko, Shiva, Luchè e tanti altri.
 
-562 songs - 1 day 1 hr 58 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+563 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [Questa musica del...](https://open.spotify.com/track/59uvpEGUV66lWAuEgNFUDr) | [Marti Stone](https://open.spotify.com/artist/70aepVNcgjvgDZkVOqBVmQ) | [Marticolare](https://open.spotify.com/album/6Q7qcEUUH2bbXtOiw3CWAK) | 2:29 | 2022-08-18 |  |
 | [R&R](https://open.spotify.com/track/5s6YjPaL77P28PQqG7wVLO) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [YaluDream](https://open.spotify.com/artist/2p06NWAbxsP7iFmrq9Ny4J) | [R&R](https://open.spotify.com/album/17SGMxNqxsNMk0ZrFI24jQ) | 2:08 | 2022-05-10 | 2022-05-18 |
 | [Ragazzi tristi](https://open.spotify.com/track/1yL6WPvqXdgDbnHGsTtQ1z) | [Neediz](https://open.spotify.com/artist/0cKIYS5SG83ka3FZTLlj3m), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI), [VDN](https://open.spotify.com/artist/4aINMnSbwDnkR44YPqGqHx) | [Ragazzi tristi](https://open.spotify.com/album/77VRWDD2qWWhXDHFHUzVcm) | 3:16 | 2022-06-23 | 2022-07-01 |
+| [RainMan](https://open.spotify.com/track/0N02e1qf0mRMiJnRedzXKc) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [RainMan](https://open.spotify.com/album/5dYTGxy5K8H7RgD8xbxi5e) | 2:57 | 2022-08-26 |  |
 | [RAP \(feat\. Rondodasosa, Sacky, Neima Ezza\)](https://open.spotify.com/track/4M8YEPfCBxN3fsZkatCCLz) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:35 | 2022-05-26 | 2022-06-17 |
 | [RapStar](https://open.spotify.com/track/3Emty7Nc9QUIuHRPcwopjA) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 2:47 | 2022-06-02 | 2022-06-24 |
 | [Rebelde](https://open.spotify.com/track/3UNzocVUG1h0FI43jpTrP3) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Aurora](https://open.spotify.com/album/1RtfVjkDDIYDhIHOrL4MkV) | 2:32 | 2022-07-14 | 2022-07-29 |

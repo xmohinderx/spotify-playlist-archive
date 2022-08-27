@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-506 songs - 1 day 7 hr 1 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+507 songs - 1 day 7 hr 6 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,10 +496,11 @@
 | [Whatever Comes to Mind](https://open.spotify.com/track/0ntyYV99MFp7f7MGZlwYj4) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Whatever Comes to Mind](https://open.spotify.com/album/7i0hz2V6eKGFBqrvJANFsN) | 4:09 | 2020-10-16 | 2021-03-19 |
 | [Whatever Comes to Mind](https://open.spotify.com/track/3mSDOXph5bbX3YfFIJLi64) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Heaven's Only Wishful](https://open.spotify.com/album/0c9sWtTqYILWgEddwu4Qiv) | 4:09 | 2020-10-20 | 2022-04-19 |
 | [Whatever Tomorrow](https://open.spotify.com/track/7hI6O280FAYYtNBOH2o8qM) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Whatever Tomorrow](https://open.spotify.com/album/5V3AIqbOWsO3rf0W3cQMpt) | 4:23 | 2021-05-06 | 2022-07-29 |
+| [When the Night is Over](https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv) | 5:11 | 2022-08-26 |  |
 | [When the Night is Over](https://open.spotify.com/track/7GN6EEENu7xnl2lEipjN4X) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/1QBpyjJ4y0Yp0Aj8mOji5o) | 5:11 | 2020-10-20 | 2022-04-03 |
 | [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 | 2020-12-08 | 2022-07-20 |
 | [Where Were You](https://open.spotify.com/track/4lI4Q0EMFksyN79hx5DPbP) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/5RPP8SOWq7CJjwnkC1odTb) | 3:25 | 2021-10-15 | 2022-07-29 |
-| [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2021-06-21 |  |
+| [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2021-06-21 | 2022-08-27 |
 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 | 2020-10-16 |  |
 | [White Jeans](https://open.spotify.com/track/3XRYirzvskaVLlGS9s4lJd) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [White Jeans](https://open.spotify.com/album/7Ex8MOEEKoXumDQPAIf2v5) | 3:48 | 2020-10-16 | 2022-04-20 |
 | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/track/0OSXUt035Kkf1wFsmy33jX) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/album/3iXCkfY0J6eZJsE1jOlhcT) | 3:05 | 2021-08-27 | 2022-07-29 |

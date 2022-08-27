@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Ac\u00e1 hay letra. Foto: Brray.",
+  "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
   "name": "Rimas y Perreo",
   "published_playlist_ids": [
     "23mcGFZmewEpHERZOtSvTD"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 188580,
       "name": "Armao 100pre Andamos",
       "url": "https://open.spotify.com/track/127Q567KlWtlo1pLsiXr3h"
@@ -2104,6 +2104,24 @@
     },
     {
       "album": {
+        "name": "Mercedes Tintea",
+        "url": "https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Mercedes Tintea",
+      "url": "https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp"
+    },
+    {
+      "album": {
         "name": "Miami (Remix)",
         "url": "https://open.spotify.com/album/5b8fTmX1gRCU7YYS7QSOur"
       },
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 273013,
       "name": "Miami - Remix",
       "url": "https://open.spotify.com/track/6LjA5mwgRSSjIprVvbzGb6"
@@ -3443,6 +3461,36 @@
       "duration_ms": 244771,
       "name": "Sin Culpa (feat.DrefQuila)",
       "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
+    },
+    {
+      "album": {
+        "name": "SIN GOTEO",
+        "url": "https://open.spotify.com/album/4TntxQrt5dfhnYhrrvPoUo"
+      },
+      "artists": [
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Cauty",
+          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
+        },
+        {
+          "name": "La Exce",
+          "url": "https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235108,
+      "name": "SIN GOTEO",
+      "url": "https://open.spotify.com/track/5Ia3C578qS1NKygUINFbnC"
     },
     {
       "album": {

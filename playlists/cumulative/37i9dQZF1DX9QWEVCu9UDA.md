@@ -4,7 +4,7 @@
 
 > Discover new music while you game.
 
-196 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/1WIaiR237xVcOz8MRS6Z3O)
+197 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/1WIaiR237xVcOz8MRS6Z3O)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Last Sunday](https://open.spotify.com/track/22RtEG9lP1YxjMkJLsRhSh) | [Dex Channels](https://open.spotify.com/artist/0F09pD91CyzMWssVzc6Cvi) | [Guns Go Off in the Summertime \(EP\)](https://open.spotify.com/album/4eiDufQtFlsJRoRBqm3bsd) | 3:09 | 2022-05-09 | 2022-07-29 |
 | [Lean](https://open.spotify.com/track/3iAzPUhOmwNj4gEOca1SIV) | [Weaver Beats](https://open.spotify.com/artist/57KwqoERxpwlPmSMOKWjOP) | [Lean](https://open.spotify.com/album/0sM8MRauqp864JtrXkdD8X) | 2:42 | 2022-05-02 |  |
 | [LEAP!](https://open.spotify.com/track/3vl2uH4D2QItFFhzz5L06g) | [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO), [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [LEAP!](https://open.spotify.com/album/0nGVOy5b5uhlYFHf7nlbeB) | 3:25 | 2022-05-02 |  |
+| [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 | 2022-08-26 |  |
 | [Life Goes On](https://open.spotify.com/track/1rtaHauB4l1OFtD6thohhV) | [King Green](https://open.spotify.com/artist/3jivTPQnC8Vupqc3EFO33c), [Vanela](https://open.spotify.com/artist/1v3Hk0YPwZXnxnKKyXOrmu) | [Life Goes On](https://open.spotify.com/album/3vOzjE1upvGptrWs9usmoe) | 2:16 | 2022-05-02 | 2022-07-29 |
 | [longwayhome](https://open.spotify.com/track/5xOVRRvIkoI6xqfSAXLMew) | [lojii](https://open.spotify.com/artist/2N2l2BR0KlnQrFnOn7ntEN), [Alexander Spit](https://open.spotify.com/artist/6lx2eNLdx4ZkZwrjNubj8W) | [lo&behold](https://open.spotify.com/album/2usDuczD98n3Eqg79QAR4Y) | 2:28 | 2022-05-02 | 2022-07-20 |
 | [Love](https://open.spotify.com/track/6WGULFu1DyiSkxuo1l0cfs) | [tices](https://open.spotify.com/artist/4kfgtF7AKo4zGEaWP9xqHS), [Sika Deva](https://open.spotify.com/artist/3UsIngEd65pVgWQpwNjvqu) | [Love](https://open.spotify.com/album/6anZrvkEhxWUE1UCCNvRXZ) | 3:07 | 2022-05-02 | 2022-07-29 |
@@ -119,7 +120,7 @@
 | [Money Up](https://open.spotify.com/track/3AjcVMOBCmdqHciNuPmWhV) | [Billz Raw](https://open.spotify.com/artist/5rtWbKKiBOSJDWtvjI1V4k), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [The Legend Crew](https://open.spotify.com/album/0kfHbkgOiTwoty2z4xhSJm) | 3:47 | 2022-05-02 | 2022-06-29 |
 | [My Friends](https://open.spotify.com/track/2cwlWYwFAMzEy0FcG0Cs16) | [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9) | [Medusa](https://open.spotify.com/album/4L9pGV9WaPtiHcQize1gQz) | 3:50 | 2022-05-02 |  |
 | [My Lady](https://open.spotify.com/track/7eXqO8kYOQZTvl0TlVD7fJ) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ), [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Apt\. 505](https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf) | 4:14 | 2022-05-02 |  |
-| [NASCAR](https://open.spotify.com/track/02dK2GoARvsOTbqknpc0tn) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF), [WELL$](https://open.spotify.com/artist/0LHzh8WdqxdtnTzp0XIOyZ) | [ZAÏRE](https://open.spotify.com/album/2ipqq0qkzSqrdATDtgmpRM) | 3:38 | 2022-05-02 |  |
+| [NASCAR](https://open.spotify.com/track/02dK2GoARvsOTbqknpc0tn) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF), [WELL$](https://open.spotify.com/artist/0LHzh8WdqxdtnTzp0XIOyZ) | [ZAÏRE](https://open.spotify.com/album/2ipqq0qkzSqrdATDtgmpRM) | 3:38 | 2022-05-02 | 2022-08-27 |
 | [NASCAR](https://open.spotify.com/track/4ROzAiT7TDnLNwZm1LWepl) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF), [WELL$](https://open.spotify.com/artist/0LHzh8WdqxdtnTzp0XIOyZ) | [NASCAR](https://open.spotify.com/album/784yjlSv5rBCntYszZ8ijh) | 3:38 | 2022-05-09 | 2022-06-18 |
 | [NERD](https://open.spotify.com/track/4rg6TeIhQo6YvqyOk5KXUB) | [Lo Village](https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi) | [NERD](https://open.spotify.com/album/7uMU8Ih931hKxSu2z7phrl) | 3:34 | 2022-05-02 |  |
 | [Nirvana \(with Falcons & B\. Lewis\)](https://open.spotify.com/track/7LjRPqtlYb2qyqUmKOwKuz) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Falcons](https://open.spotify.com/artist/7lm68Uw3UZDD1vlAWpLeDL), [B\. Lewis](https://open.spotify.com/artist/6asmpfwwanm7jSQldjBu7y) | [Spilled Milk 1](https://open.spotify.com/album/5L0fqBCRKpkOHDNiwTgJbZ) | 2:45 | 2022-07-19 |  |

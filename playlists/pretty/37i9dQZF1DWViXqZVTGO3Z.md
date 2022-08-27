@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,716 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,726 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 54 | [This Is My Son](https://open.spotify.com/track/6SJfeaZlFuWGbpQXCHBJMQ) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [This Is My Son](https://open.spotify.com/album/4BPYMu3NFi2Fh9M1Kw1czK) | 3:52 |
 | 55 | [Away In a Manger](https://open.spotify.com/track/1lXmhrsTDe9QT7G5QYEnLr) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 3:35 |
 | 56 | [O Come, All You Unfaithful](https://open.spotify.com/track/6oVIdPUSnoGXiHe257iv0g) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [O Come, All You Unfaithful](https://open.spotify.com/album/0vtHWf69VplWq8pHiVC00u) | 3:52 |
-| 57 | [Seasons](https://open.spotify.com/track/5fpu3LhQlnuc60sjDbssjW) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM) | 4:34 |
+| 57 | [Seasons](https://open.spotify.com/track/5fpu3LhQlnuc60sjDbssjW) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM) | 4:34 |
 | 58 | [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 |
 | 59 | [Peace On Earth](https://open.spotify.com/track/5B2JNOIvKJgVAZleSsPO7q) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Peace On Earth](https://open.spotify.com/album/6ngtu2qz98gPt8FlJKYKQa) | 3:20 |
 | 60 | [Born A King](https://open.spotify.com/track/4NheMcbW4kXGqisZrbXf3z) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Born A King](https://open.spotify.com/album/7H8V9kMl38nY44DT1i2y6T) | 3:39 |

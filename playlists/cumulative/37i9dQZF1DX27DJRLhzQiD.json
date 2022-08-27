@@ -710,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Cari\u00f1o Loco",
+        "url": "https://open.spotify.com/album/2g3QVAasQuXmVPXmaWG6PT"
+      },
+      "artists": [
+        {
+          "name": "Agua Bella",
+          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250986,
+      "name": "Imposible Olvidarte",
+      "url": "https://open.spotify.com/track/28OYshVQTfw9ytKlXHjaqg"
+    },
+    {
+      "album": {
         "name": "Agua Bella y Sus Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/2SumbKIZjNFcn3EcxcF2iG"
       },
@@ -721,7 +739,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 251093,
       "name": "Imposible Olvidarte",
       "url": "https://open.spotify.com/track/0yPN0chyb4wxdGdlHKBDqm"

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1kQRulpEn.md) - [plain](/playlists/plain/37i9dQZF1DX9n1kQRulpEn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9n1kQRulpEn)
 
-### [Jazz Commute](https://open.spotify.com/playlist/37i9dQZF1DX9n1kQRulpEn)
+### [Jazz in the Car](https://open.spotify.com/playlist/37i9dQZF1DX9n1kQRulpEn)
 
-> A swinging jazz soundtrack for your commute.
+> A swinging jazz soundtrack for your drive time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,569 likes - 100 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,617 likes - 100 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1kQRulpEn.md) - [plain]
 | 99 | [Night Drive with Ornette](https://open.spotify.com/track/4jLv4eukwFEYArA4CehonQ) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Bastian Sjelberg](https://open.spotify.com/artist/3Rgg1JKEs7YEpXZYeEHa2z), [Mikkel Hess](https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq), [Jeppe Gram](https://open.spotify.com/artist/6HwPDkSUPabzWB8PyTPXdo) | [Night Drive with Ornette](https://open.spotify.com/album/6GPpsHGoQVFcaAwWQDKqJC) | 5:05 |
 | 100 | [Hoe Down](https://open.spotify.com/track/21yAA8fIZEYrfITyQqcL3U) | [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Friday the 13th](https://open.spotify.com/album/3sC8dI76VM7jMY8FiD8Mr6) | 6:38 |
 
-Snapshot ID: `MTY2MTE3NDc2MSwwMDAwMDAwMDhlYTBkOTBhMDMzMzg5YTAzZjUyNDYzYjUyNjRlM2I5`
+Snapshot ID: `MTY2MTUwODQ5OCwwMDAwMDAwMGEzMjQ3Yjg0NmI2NjA3OWZhNTZmNmIxMjM2NzZhMWUw`

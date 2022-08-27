@@ -5054,6 +5054,24 @@
     },
     {
       "album": {
+        "name": "Hegn",
+        "url": "https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386130,
+      "name": "Hegn",
+      "url": "https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK"
+    },
+    {
+      "album": {
         "name": "Here We Go",
         "url": "https://open.spotify.com/album/45g34pO040lSS6mKtrxRmG"
       },
@@ -8626,6 +8644,36 @@
     },
     {
       "album": {
+        "name": "Patterns (feat. Maria Uzor & Ralf Hildenbeutel) [Nicole Moudaber Remix]",
+        "url": "https://open.spotify.com/album/3VtuyLw9stI3qcNJfyvvJ9"
+      },
+      "artists": [
+        {
+          "name": "Chris Liebing",
+          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        {
+          "name": "Maria Uzor",
+          "url": "https://open.spotify.com/artist/7LJfvf563pUNTWVHv9iRuE"
+        },
+        {
+          "name": "Ralf Hildenbeutel",
+          "url": "https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf"
+        },
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 641221,
+      "name": "Patterns (feat. Maria Uzor & Ralf Hildenbeutel) - Nicole Moudaber Remix",
+      "url": "https://open.spotify.com/track/1AsyAiLjEVBbPtcIxnIYIn"
+    },
+    {
+      "album": {
         "name": "Patterns (Nicole Moudaber Remix)",
         "url": "https://open.spotify.com/album/6p5XOJxjB6sCYsNcRHUcc7"
       },
@@ -8649,7 +8697,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 641221,
       "name": "Patterns - Nicole Moudaber Remix",
       "url": "https://open.spotify.com/track/66rIZ8DrivbnTHgiHxyL1N"

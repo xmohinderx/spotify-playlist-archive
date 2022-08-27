@@ -4364,6 +4364,24 @@
     },
     {
       "album": {
+        "name": "Zamali",
+        "url": "https://open.spotify.com/album/2PFIkS3pTwyoj8AnwOJo5f"
+      },
+      "artists": [
+        {
+          "name": "mbogi genje",
+          "url": "https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Zamali",
+      "url": "https://open.spotify.com/track/2o0cwqpXOAl7yot2WT6vGw"
+    },
+    {
+      "album": {
         "name": "Zible",
         "url": "https://open.spotify.com/album/1CYuFPOLRRRNOiI4x5cmvO"
       },

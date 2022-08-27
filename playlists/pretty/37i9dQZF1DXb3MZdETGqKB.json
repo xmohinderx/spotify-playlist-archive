@@ -1,13 +1,85 @@
 {
   "description": "All new, all blues. Cover: Dylan Triplett",
-  "num_followers": 120672,
+  "num_followers": 120707,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGU2M2FkZTVjY2FlM2ZlOTE5YWEyYjlmYmFhZGZlZTc1",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDIwYWU5MWU0MDQxNzExZWUyYzc3OTA3ZGJhMjQ3YWUx",
   "tracks": [
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "The Ries Brothers",
+        "url": "https://open.spotify.com/album/09eneEPZDcWiWd2x8Mkhyw"
+      },
+      "artists": [
+        {
+          "name": "Ries Brothers",
+          "url": "https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
+        }
+      ],
+      "duration_ms": 235781,
+      "name": "On the Road (with G Love & Special Sauce and Cas Haley)",
+      "url": "https://open.spotify.com/track/0vM8fRYfCtW3VRbant8FnC"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "I'll Be Glad",
+        "url": "https://open.spotify.com/album/3R5MPBDv5WTid04LeVj2l6"
+      },
+      "artists": [
+        {
+          "name": "John N\u00e9meth",
+          "url": "https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "I'll Be Glad",
+      "url": "https://open.spotify.com/track/7kLR5l2d7Vz5kiJujbmY40"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "One Day Closer To Home",
+        "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+        }
+      ],
+      "duration_ms": 228832,
+      "name": "One Day Closer To Home",
+      "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Bees Making Honey",
+        "url": "https://open.spotify.com/album/2BIa0ZW6IpukvlDfRrhhH4"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 169356,
+      "name": "Bees Making Honey",
+      "url": "https://open.spotify.com/track/08VbstN22j4jlgMemYE2xk"
+    },
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
@@ -25,6 +97,30 @@
       "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Log On",
+        "url": "https://open.spotify.com/album/1T44hQdjRZwInVBSqUWA0m"
+      },
+      "artists": [
+        {
+          "name": "The 32 Golden Souls",
+          "url": "https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8"
+        },
+        {
+          "name": "Winston McAnuff",
+          "url": "https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt"
+        },
+        {
+          "name": "Lymie Murray",
+          "url": "https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Log On",
+      "url": "https://open.spotify.com/track/7v7NrUoc3pSV49qWdvFZxZ"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Need To Know Basis",
@@ -39,6 +135,22 @@
       "duration_ms": 119975,
       "name": "Need To Know Basis",
       "url": "https://open.spotify.com/track/03medhiG64fBChIiDBTNPK"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "She Ought To Be King",
+        "url": "https://open.spotify.com/album/46E1sMAkyBRoKmFOEoyNKq"
+      },
+      "artists": [
+        {
+          "name": "Lisa Morales",
+          "url": "https://open.spotify.com/artist/22HF78UQSmSTNtv4bsfUAI"
+        }
+      ],
+      "duration_ms": 334893,
+      "name": "She Ought to Be King",
+      "url": "https://open.spotify.com/track/44xJuf6ZyXmKZzACJqFBof"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -227,22 +339,6 @@
       "duration_ms": 236720,
       "name": "All Night",
       "url": "https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Rolling Around in It",
-        "url": "https://open.spotify.com/album/4NQBdWlyIvwhINkgBg2TD4"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Rolling Around in It",
-      "url": "https://open.spotify.com/track/5612f3JIJJmcUsauIUYdbP"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1017,22 +1113,6 @@
       "url": "https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG"
     },
     {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/135oWAJuXcsks6KD3lWox5"
-      },
-      "artists": [
-        {
-          "name": "Swamp",
-          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
-        }
-      ],
-      "duration_ms": 180719,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/4aLryRkYDCLq97mCoMYh3F"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Shining in the Half Light",
@@ -1113,74 +1193,6 @@
       "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Traveler's Blues",
-        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        },
-        {
-          "name": "Rita Wilson",
-          "url": "https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4"
-        },
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 269866,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0NAAqjvEBnGzbAw3LMk16G"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Under Your Spell",
-        "url": "https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i"
-      },
-      "artists": [
-        {
-          "name": "Tito Jackson",
-          "url": "https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        },
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        },
-        {
-          "name": "Marlon Jackson",
-          "url": "https://open.spotify.com/artist/5DG9htBpiEo5W6jUmYgbKF"
-        }
-      ],
-      "duration_ms": 183564,
-      "name": "Love One Another",
-      "url": "https://open.spotify.com/track/64eBuqWRATkq4dtgMtzGq0"
-    },
-    {
-      "added_at": "2021-07-26 19:02:12",
-      "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/2xx4wUH6WUi7JqAZORwSQZ"
-      },
-      "artists": [
-        {
-          "name": "Foreign Affairs",
-          "url": "https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR"
-        }
-      ],
-      "duration_ms": 146231,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/4GOm5E75Wqq3e3SzlbsGvr"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Control",
@@ -1211,22 +1223,6 @@
       "duration_ms": 213619,
       "name": "Until the Heat Leaves Town",
       "url": "https://open.spotify.com/track/1QjOBgzl45AYVVa4yWpZjA"
-    },
-    {
-      "added_at": "2021-07-26 19:02:12",
-      "album": {
-        "name": "Nothing but Rust",
-        "url": "https://open.spotify.com/album/0t4YmNYcOPAddk0G6RKr68"
-      },
-      "artists": [
-        {
-          "name": "Robert J Hunter",
-          "url": "https://open.spotify.com/artist/4SFHUtqBqmczfK36THRllG"
-        }
-      ],
-      "duration_ms": 257665,
-      "name": "Kind Hearted Woman",
-      "url": "https://open.spotify.com/track/2BUMJVgm9JM80VyYKkRzQK"
     }
   ],
   "unique_name": "Nu-Blue",

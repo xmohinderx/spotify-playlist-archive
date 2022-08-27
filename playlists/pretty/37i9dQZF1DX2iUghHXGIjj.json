@@ -1,12 +1,12 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Taj Mahal",
-  "num_followers": 669967,
+  "num_followers": 669980,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDk3NzU0ZTg0ZTI3ZDZhMWQ1ZGUwODM4ZTE3MjEyYTJi",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDQ0YTRmZjUwOTQ2ZWUyOTJjY2E3OTM5ZTdjYjA4ODFk",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Banty Rooster Blues",
+        "url": "https://open.spotify.com/album/3XLhfpwOjTnPqRLg9AiNMA"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Peyton's Big Damn Band",
+          "url": "https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK"
+        }
+      ],
+      "duration_ms": 246511,
+      "name": "Banty Rooster Blues",
+      "url": "https://open.spotify.com/track/4qTmr1QcPZNzj06rf0GA92"
+    },
+    {
       "added_at": "2022-02-11 05:02:00",
       "album": {
         "name": "Then & Now",
@@ -99,6 +115,22 @@
       "duration_ms": 154226,
       "name": "Other Side of Goodbye",
       "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "stripped back (deluxe) [Stripped Back]",
+        "url": "https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "in three years' time - Stripped Back",
+      "url": "https://open.spotify.com/track/3Vr5sIoub3YGiXWsZvnlmQ"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -1451,22 +1483,6 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Avalon: A Tribute To Mississippi John Hurt",
-        "url": "https://open.spotify.com/album/3Uu8fwYnYrRgbFiWoRxIJB"
-      },
-      "artists": [
-        {
-          "name": "Rory Block",
-          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
-        }
-      ],
-      "duration_ms": 282428,
-      "name": "Make Me A Pallet On Your Floor",
-      "url": "https://open.spotify.com/track/4iZ0tK27xu65GMDW2mvOmg"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
         "name": "Kokomo Kidd",
         "url": "https://open.spotify.com/album/3jS9ngQkhrfertgQCIqaLH"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 233933,
       "name": "Turtle Beach",
       "url": "https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Stripped Down & Surrendered",
-        "url": "https://open.spotify.com/album/4Clnz845KVZqqINWEsVZ7y"
-      },
-      "artists": [
-        {
-          "name": "Cee Cee James",
-          "url": "https://open.spotify.com/artist/6Y21yqal00z7As840atRpD"
-        }
-      ],
-      "duration_ms": 347533,
-      "name": "So Grateful",
-      "url": "https://open.spotify.com/track/1U236FYzQEdMWn1hMM0gQn"
     }
   ],
   "unique_name": "Acoustic Blues",

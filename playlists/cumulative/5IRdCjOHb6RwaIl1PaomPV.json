@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. New Deluxe album from Diplo, plus the latest cuts from Aluna, Carlita, TDJ, niina, Ayra Star, Noizu, and more.",
+  "description": "The latest tracks from Mad Decent and friends. New Deluxe album from Diplo, plus the latest cuts from Korn\u00e9l Kov\u00e1cs and Aluna, Lolahol, TDJ, niina, Ayra Star, Noizu, and more.",
   "name": "Mad Decent Weekly",
   "published_playlist_ids": [
     "1Yjpd6pirY2pY0xv9m96EC"
@@ -1390,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "Endless Sky",
+        "url": "https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159562,
+      "name": "Endless Sky",
+      "url": "https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM"
+    },
+    {
+      "album": {
         "name": "DOGMA II",
         "url": "https://open.spotify.com/album/51VY3xhCrVmJHrx9Ymvy3R"
       },
@@ -1565,10 +1583,32 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 244262,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc"
+    },
+    {
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/0iFsOlLzdWxq0VK78tunnM"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244262,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/5yFjyLryX1UPHfuLXPVxJz"
     },
     {
       "album": {
@@ -1625,6 +1665,40 @@
       "duration_ms": 336393,
       "name": "Forget About Me - Nite Version",
       "url": "https://open.spotify.com/track/6eyMRGyfWsQ4TID2b00Sxs"
+    },
+    {
+      "album": {
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Forget About Me - Nite Version (DJ Seinfeld Remix)",
+      "url": "https://open.spotify.com/track/6SBtkeGadB3yOKnwfGbGMG"
     },
     {
       "album": {
@@ -1755,6 +1829,24 @@
       "duration_ms": 243959,
       "name": "Gimme Your Love",
       "url": "https://open.spotify.com/track/18Oa0nSOPwrW8xObaYyaR2"
+    },
+    {
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
     },
     {
       "album": {
@@ -2075,7 +2167,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 240390,
       "name": "I've Been Waiting\ufeff\ufeff",
       "url": "https://open.spotify.com/track/25xGCpAKWRUth9UbxC1TOl"
@@ -2559,7 +2651,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 240250,
       "name": "Loved By U (George FitzGerald Remix)",
       "url": "https://open.spotify.com/track/1fBRJQDvNn7VTe1C0x7lm3"
@@ -2661,7 +2753,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 240758,
       "name": "Medium demons",
       "url": "https://open.spotify.com/track/00MJ6P1Z28lpwU6wxqG2MB"
@@ -2779,6 +2871,24 @@
       "duration_ms": 125763,
       "name": "Mosh O'Clock",
       "url": "https://open.spotify.com/track/5XKnUVBjVreAa44cZgqdzK"
+    },
+    {
+      "album": {
+        "name": "Moving Different",
+        "url": "https://open.spotify.com/album/1N8w6F2E0eTlqpabFcl942"
+      },
+      "artists": [
+        {
+          "name": "Jeron Braxton",
+          "url": "https://open.spotify.com/artist/1YI7WO55k3vGa13Nnw9EIO"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152330,
+      "name": "Moving Different",
+      "url": "https://open.spotify.com/track/3HOR2cytEQZqS1cIKBO8tC"
     },
     {
       "album": {
@@ -3914,6 +4024,24 @@
     },
     {
       "album": {
+        "name": "T.F.J.",
+        "url": "https://open.spotify.com/album/4xEyynWqk7k6B0E8yxQUGq"
+      },
+      "artists": [
+        {
+          "name": "Kai Whiston",
+          "url": "https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285103,
+      "name": "T.F.J.",
+      "url": "https://open.spotify.com/track/3Az2Q9Uineqw0fSwqM02wd"
+    },
+    {
+      "album": {
         "name": "Techno Face",
         "url": "https://open.spotify.com/album/1glUa7FzlJ9f2s6YJVK5w7"
       },
@@ -4307,7 +4435,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp"

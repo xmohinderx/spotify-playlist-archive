@@ -918,6 +918,24 @@
     },
     {
       "album": {
+        "name": "The Mik Maks",
+        "url": "https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0"
+      },
+      "artists": [
+        {
+          "name": "The MikMaks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110257,
+      "name": "I Love Dinosaurs",
+      "url": "https://open.spotify.com/track/0IB73Mtp2oC8bL8e5dOPf4"
+    },
+    {
+      "album": {
         "name": "The MikMaks",
         "url": "https://open.spotify.com/album/2y3WycvsBQ8DWyjerX7NmI"
       },
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 112546,
       "name": "I Love Dinosaurs",
       "url": "https://open.spotify.com/track/4VR721woI4keJB0FEexftt"

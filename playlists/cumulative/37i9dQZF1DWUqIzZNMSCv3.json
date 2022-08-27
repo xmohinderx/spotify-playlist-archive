@@ -766,6 +766,28 @@
     },
     {
       "album": {
+        "name": "Schumann : Kreisleriana, Op. 16: IV. Sehr langsam",
+        "url": "https://open.spotify.com/album/0aRCmGD4UnHLGP1EsR3Kub"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jean-Baptiste Doulcet",
+          "url": "https://open.spotify.com/artist/0UNH738aPkyYpDpcXO5ga5"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Kreisleriana, Op. 16: IV. Sehr langsam",
+      "url": "https://open.spotify.com/track/117UK0UdhuFikHiKUUquUp"
+    },
+    {
+      "album": {
         "name": "Mendelssohn, Felix: Songs Without Words, Vol. 1",
         "url": "https://open.spotify.com/album/4oPL5qL3uEurG2nu1MsVwT"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=FJytl0JyTNi6zlVY2UK0ug">Prince Kaybee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,066 likes - 70 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,102 likes - 70 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

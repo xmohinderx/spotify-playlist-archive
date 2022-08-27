@@ -1,13 +1,177 @@
 {
-  "description": "The newest, freshest R&B tunes.  Cover: Tank",
-  "num_followers": 919509,
+  "description": "The newest, freshest R&B tunes.  Cover: CKAY",
+  "num_followers": 919829,
   "original_name": "New Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTA4MjczMSwwMDAwMDAwMGU4YzRmNDk5NDQ5MzI1YjBjOTEzNmI5ZTYzMWY1YjQ0",
+  "snapshot_id": "MTY2MTQ4NjY1MiwwMDAwMDAwMDk1ZDdlNGM2OGEzZWJiNTMzMzRjZDhhZWMyNzEyYmQ0",
   "tracks": [
+    {
+      "added_at": "2022-08-26 04:04:12",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "you",
+      "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
+    },
+    {
+      "added_at": "2022-08-26 04:04:12",
+      "album": {
+        "name": "HEAT ft. Tinashe",
+        "url": "https://open.spotify.com/album/0T3FKOvUtfRSrJGq9HyFrx"
+      },
+      "artists": [
+        {
+          "name": "DIXSON",
+          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "HEAT ft. Tinashe",
+      "url": "https://open.spotify.com/track/36NukHQiatLeLFXI5eTP1L"
+    },
+    {
+      "added_at": "2022-08-26 04:04:12",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/1MqcGz8uF79zpVcH75JH19"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "duration_ms": 177396,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/1OcnAp6rB3ZbQbXw1ncAI3"
+    },
+    {
+      "added_at": "2022-08-26 04:04:12",
+      "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Bad Man Wicked",
+      "url": "https://open.spotify.com/track/7FMQObjJyy8iEOnhgrjRyb"
+    },
+    {
+      "added_at": "2022-08-26 04:04:12",
+      "album": {
+        "name": "Moon in Pisces",
+        "url": "https://open.spotify.com/album/2dqSwIbWxvfCk3QEwXheuV"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/3841O6AhDYs7YHxo5fb5VM"
+    },
+    {
+      "added_at": "2022-08-26 04:04:12",
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Future Lover",
+      "url": "https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z"
+    },
+    {
+      "added_at": "2022-08-26 04:04:12",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6"
+    },
+    {
+      "added_at": "2022-08-26 04:04:12",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2I0VwAeClbtch0ErYJbsDL"
+      },
+      "artists": [
+        {
+          "name": "Raiche",
+          "url": "https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI"
+        }
+      ],
+      "duration_ms": 211519,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/1IoUc7el8qPFVFOC5jSfl7"
+    },
+    {
+      "added_at": "2022-08-26 04:04:12",
+      "album": {
+        "name": "LOVERs PLAYBOOK",
+        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 269242,
+      "name": "THANK YOU 4 LOVIN\u2019 ME",
+      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
+    },
+    {
+      "added_at": "2022-08-26 04:04:12",
+      "album": {
+        "name": "superficial energy",
+        "url": "https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 175674,
+      "name": "superficial energy",
+      "url": "https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5"
+    },
     {
       "added_at": "2022-08-19 04:15:22",
       "album": {
@@ -439,30 +603,6 @@
     {
       "added_at": "2022-08-05 04:12:33",
       "album": {
-        "name": "While You Wait",
-        "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        },
-        {
-          "name": "DUSTY LOCANE",
-          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "Before I Let You Go",
-      "url": "https://open.spotify.com/track/1BoSVpo3dYgs0yuSaiDqTp"
-    },
-    {
-      "added_at": "2022-08-05 04:12:33",
-      "album": {
         "name": "Love Jones (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/6aMTYX9iwVfJjqZWypJj8I"
       },
@@ -539,26 +679,6 @@
       "duration_ms": 175071,
       "name": "Best Friends - Remix",
       "url": "https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i"
-    },
-    {
-      "added_at": "2022-08-05 04:12:33",
-      "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 232122,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
       "added_at": "2022-08-05 04:12:33",
@@ -653,26 +773,6 @@
       "url": "https://open.spotify.com/track/5vsi5OWrEj1J3MFzKD5GTJ"
     },
     {
-      "added_at": "2022-08-05 04:12:33",
-      "album": {
-        "name": "08105",
-        "url": "https://open.spotify.com/album/1TMVf0vAkU5Fxpytwt8O1k"
-      },
-      "artists": [
-        {
-          "name": "Remey Williams",
-          "url": "https://open.spotify.com/artist/5PjEH2MNklNpDLPVtUvH0i"
-        },
-        {
-          "name": "Susan Carol",
-          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
-        }
-      ],
-      "duration_ms": 199745,
-      "name": "All Bad",
-      "url": "https://open.spotify.com/track/3Zjrxns777sXCu9nHGpac8"
-    },
-    {
       "added_at": "2022-07-29 04:09:59",
       "album": {
         "name": "RENAISSANCE",
@@ -719,34 +819,6 @@
       "duration_ms": 156133,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/1klIcWCcdnwTI3fJlT5pcO"
-    },
-    {
-      "added_at": "2022-07-29 04:09:59",
-      "album": {
-        "name": "Rose (Stripped)",
-        "url": "https://open.spotify.com/album/5J7uK1xTiq5Osg6nNXOzwz"
-      },
-      "artists": [
-        {
-          "name": "Gemaine",
-          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
-        },
-        {
-          "name": "Charlie Heat",
-          "url": "https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw"
-        },
-        {
-          "name": "Ymtk",
-          "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
-        },
-        {
-          "name": "Gregory Edwards",
-          "url": "https://open.spotify.com/artist/6DZH1JLOEFPPxXUu5Gj1fD"
-        }
-      ],
-      "duration_ms": 227185,
-      "name": "Rose - Stripped",
-      "url": "https://open.spotify.com/track/6v7VKACk6oVhfX7vw4kVLo"
     },
     {
       "added_at": "2022-07-29 04:09:59",
@@ -1031,26 +1103,6 @@
       "duration_ms": 230680,
       "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
       "url": "https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct"
-    },
-    {
-      "added_at": "2022-07-15 04:17:47",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/7LQ1EmfKNJSvvWC5mCGuPE"
-      },
-      "artists": [
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 250644,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/6r5jZYV9v3Nt9sDD9RQCpE"
     },
     {
       "added_at": "2022-07-15 04:03:18",

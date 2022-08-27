@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Sangaku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,252 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,260 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Milo Manara](https://open.spotify.com/track/26bBVhxOyhr0CzCZujwS7y) | [Sangaku](https://open.spotify.com/artist/63pNQwY29jhgMnmqQUag9i) | [Milo Manara](https://open.spotify.com/album/5I85P6S9GjDwPHoV7LIPGw) | 2:16 |
 | 2 | [tecnorecuerdos](https://open.spotify.com/track/4vkRV2uhaLHtKahSBuGAnf) | [Lu Demie](https://open.spotify.com/artist/0UngCHHTGXq1hWlQCuqDmb) | [tecnorecuerdos](https://open.spotify.com/album/1NifEVg7ypOVYWS3mLhu08) | 2:27 |
 | 3 | [algo complicado](https://open.spotify.com/track/4cs0DepoQCU0JZrlX6Yd4x) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [algo complicado](https://open.spotify.com/album/1ln4zrzP8dH0UyKdwGydem) | 2:37 |
-| 4 | [Tu Jardín](https://open.spotify.com/track/7tZdrKGnyHyMnhnUuKdFQy) | [babynacho](https://open.spotify.com/artist/5smqaI0JgOrdyMwen6xLDt), [Robe Cid](https://open.spotify.com/artist/2DgJxqPmLui4xDXMKl3NmU) | [Tu Jardín](https://open.spotify.com/album/0jbLL94H99Ud138qyBiGWg) | 2:24 |
+| 4 | [Tu Jardín](https://open.spotify.com/track/7tZdrKGnyHyMnhnUuKdFQy) | [nech](https://open.spotify.com/artist/7InmU712DLlbf24ykiL1ea), [Robe Cid](https://open.spotify.com/artist/2DgJxqPmLui4xDXMKl3NmU) | [Tu Jardín](https://open.spotify.com/album/0jbLL94H99Ud138qyBiGWg) | 2:24 |
 | 5 | [Expectativa vs realidad](https://open.spotify.com/track/4odfKlMgwZwSlGgHga77Y2) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa) | [Expectativa vs realidad](https://open.spotify.com/album/5KshOa8wykpPaaYaS8NRn8) | 2:55 |
 | 6 | [COOL UROBOROS](https://open.spotify.com/track/644FONwMEIWRk1unYbMoJa) | [Juan Bonastre](https://open.spotify.com/artist/5dlHpjVTX4Hwy9vRlmso5t) | [COOL UROBOROS](https://open.spotify.com/album/190pGJMhIgQkPwh647Z4GU) | 2:49 |
 | 7 | [BENIDORM Love Bombing](https://open.spotify.com/track/08YeZMFZGgMMPrH1Ltndoj) | [Lekuona](https://open.spotify.com/artist/0ax5mWMnzP2cwetLJnMc4Q) | [BENIDORM Love Bombing](https://open.spotify.com/album/5Mmrwh0ymCDF65ICqyt4cn) | 3:57 |

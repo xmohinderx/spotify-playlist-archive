@@ -4,7 +4,7 @@
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: <a href="spotify:artist:69NjH5MsRLr0CX0zSlGmN3">Jake Shimabukuro</a>
 
-60 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/1jo88XDGrRdHEAZh0fJEh3)
+61 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/1jo88XDGrRdHEAZh0fJEh3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Haleakala Hula](https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Uluwehi Sings Na Mele Hula Aloha](https://open.spotify.com/album/6c8VrZiE7YDNRjpa7ciSGe) | 2:35 | 2022-05-02 |  |
 | [Hanalei I Ka Pilimoe](https://open.spotify.com/track/16AgooUpw2xG8OQqGepEJZ) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:09 | 2022-05-02 |  |
 | [Hawai'i '78 Introduction](https://open.spotify.com/track/6DynsXxu5oaCgkt4lXutoM) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:05 | 2022-05-02 |  |
+| [Heha Waipiʻo](https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:36 | 2022-08-26 |  |
 | [Hi'ilawe](https://open.spotify.com/track/7qTlRtGYNd9emAr8eB6xLk) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Pure Gabby](https://open.spotify.com/album/2Ta9PRl0lN9Bz2SDttccd1) | 4:08 | 2022-05-02 |  |
 | [Hilo Hula](https://open.spotify.com/track/2XctnPVkwBKFcRWf0QGaGF) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Hawaiian Island Breeze](https://open.spotify.com/album/2rOCJTDQKbDSxYWG930bMb) | 2:31 | 2022-05-02 |  |
 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 | 2022-05-02 |  |

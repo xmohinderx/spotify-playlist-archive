@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128581,
+  "num_followers": 128569,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU5MyxmYjhjOTA0OTViZTAxOWE4ZGM3NzdiYjA0YmMyNTZlODI4ZjY1N2Ni",
+  "snapshot_id": "MzU5Nyw5MGE0NjYzZDFiMWQ4ZDg5ZTgxN2IwOWRmOTdmYzRmYmI1ZWYxYzY5",
   "tracks": [
+    {
+      "added_at": "2022-08-26 16:55:41",
+      "album": {
+        "name": "clouds in my basement",
+        "url": "https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "easier",
+      "url": "https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM"
+    },
+    {
+      "added_at": "2022-08-26 16:55:24",
+      "album": {
+        "name": "Coast / Together",
+        "url": "https://open.spotify.com/album/7k8M4tm1mp1DfdVTcTtItQ"
+      },
+      "artists": [
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        },
+        {
+          "name": "miksklim",
+          "url": "https://open.spotify.com/artist/1PQT3gGx4JUciQyvvJUeVz"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/5Fcr8cxJhB5lzigrAO6zy3"
+    },
     {
       "added_at": "2022-08-25 17:11:46",
       "album": {
@@ -1079,46 +1115,6 @@
       "duration_ms": 193875,
       "name": "Jupiter & Saturn",
       "url": "https://open.spotify.com/track/5kihqmQ7LLDHK3nEbqyyqm"
-    },
-    {
-      "added_at": "2022-06-16 15:20:47",
-      "album": {
-        "name": "GODSP33D",
-        "url": "https://open.spotify.com/album/4zzDlOcgTKHR7QiA1I6VHv"
-      },
-      "artists": [
-        {
-          "name": "Godlands",
-          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "SCUMBAG",
-      "url": "https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9"
-    },
-    {
-      "added_at": "2022-06-15 15:44:50",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/1FVq6Cn1lfE7IILYwwZ4eX"
-      },
-      "artists": [
-        {
-          "name": "Skua",
-          "url": "https://open.spotify.com/artist/0VAx8r083HyvVoSSHhLyOM"
-        },
-        {
-          "name": "Cosmaks",
-          "url": "https://open.spotify.com/artist/6IH6wRrcnOpOOPkQxO4ry8"
-        },
-        {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        }
-      ],
-      "duration_ms": 258500,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/1GEzNwN8v6S1ZzDeV5yTT5"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

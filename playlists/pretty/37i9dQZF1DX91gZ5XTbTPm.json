@@ -1,12 +1,12 @@
 {
   "description": "The Midwest is always on time. Cover: Trippie Redd",
-  "num_followers": 87794,
+  "num_followers": 87831,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyNjI1MywwMDAwMDAwMDE1ZjIzMGQyODYxMjk0YWE0MTRkYzUxNTQ4NDliYjIw",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDE4ZTMwY2Q5M2JjZGFlODAwZGYxZTNiMjExNzE2ODhh",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -63,22 +63,38 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Keep Dissing 2 (with Lil Durk)",
-        "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
+        "name": "Cold Case",
+        "url": "https://open.spotify.com/album/0nSDLlBLuu5M6CIckq4Be9"
       },
       "artists": [
         {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+          "name": "BigKayBeezy",
+          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
         }
       ],
-      "duration_ms": 174131,
-      "name": "Keep Dissing 2 (with Lil Durk)",
-      "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
+      "duration_ms": 236878,
+      "name": "Blick Talk (with PGF Nuk)",
+      "url": "https://open.spotify.com/track/6zoaB04jczoxsgImwPBiXp"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "If I Want You",
+        "url": "https://open.spotify.com/album/18WeqJ2p0BOIcPBTKzYso8"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "duration_ms": 193101,
+      "name": "If I Want You",
+      "url": "https://open.spotify.com/track/4RTPe8icsISnFUp3IvEX4j"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -139,26 +155,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Cold Case",
-        "url": "https://open.spotify.com/album/0nSDLlBLuu5M6CIckq4Be9"
-      },
-      "artists": [
-        {
-          "name": "BigKayBeezy",
-          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
-        },
-        {
-          "name": "PGF Nuk",
-          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
-        }
-      ],
-      "duration_ms": 236878,
-      "name": "Blick Talk (with PGF Nuk)",
-      "url": "https://open.spotify.com/track/6zoaB04jczoxsgImwPBiXp"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Sleazy Flow (Remix)",
         "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
       },
@@ -195,6 +191,42 @@
       "duration_ms": 157900,
       "name": "SET IT OFF (feat. G Herbo)",
       "url": "https://open.spotify.com/track/7bS2y45GZ47gyQL1bbZkPW"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "India Me",
+        "url": "https://open.spotify.com/album/1vPxv5pAUpEJORNnjwogar"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "India Me",
+      "url": "https://open.spotify.com/track/3WWky2z2RbCuWmMJHJL5Rc"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Real Bitch (feat. Gloss Up)",
+        "url": "https://open.spotify.com/album/6MUUM532DEcR697rck5n90"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/0i5emUaPMWG7O3rAoXvvq8"
+        }
+      ],
+      "duration_ms": 124904,
+      "name": "Real Bitch (feat. Gloss Up)",
+      "url": "https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -495,26 +527,6 @@
       "duration_ms": 167000,
       "name": "Chase Em Down (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6nUKL13cbO4ngkiPSQveRP"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "MURDAMAN! (feat. Chief Keef)",
-        "url": "https://open.spotify.com/album/4MAiy2yUEGl1Pkx5arNtxO"
-      },
-      "artists": [
-        {
-          "name": "YungManny",
-          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
-        },
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 222798,
-      "name": "MURDAMAN! (feat. Chief Keef)",
-      "url": "https://open.spotify.com/track/32DFtWSM5SpEAHcyzW3m0A"
     },
     {
       "added_at": "2022-08-19 04:01:00",

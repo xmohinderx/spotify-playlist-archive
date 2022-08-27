@@ -1,13 +1,61 @@
 {
   "description": "The pulse of new indie rock. Cover: Alvvays\n",
-  "num_followers": 837795,
+  "num_followers": 837872,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5NDYzOCwwMDAwMDAwMGNmODRlMGMyNGE4YmY2NTBmYjMyODc4NDk0NGUxZDUw",
+  "snapshot_id": "MTY2MTQ5MDcyMCwwMDAwMDAwMDMyZjMyNTg4M2JhMTExNDdmNTQ3MGQxNzRkZmI3OThm",
   "tracks": [
+    {
+      "added_at": "2022-08-26 05:12:00",
+      "album": {
+        "name": "i want to die in your arms",
+        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
+    },
+    {
+      "added_at": "2022-08-26 05:12:00",
+      "album": {
+        "name": "biking to your house",
+        "url": "https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "biking to your house",
+      "url": "https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx"
+    },
+    {
+      "added_at": "2022-08-26 05:12:00",
+      "album": {
+        "name": "Martian Man",
+        "url": "https://open.spotify.com/album/2coz3m9rwxsZXdjJWdExI9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "duration_ms": 124564,
+      "name": "Martian Man",
+      "url": "https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ"
+    },
     {
       "added_at": "2022-08-12 04:20:00",
       "album": {
@@ -25,6 +73,86 @@
       "url": "https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47"
     },
     {
+      "added_at": "2022-08-26 05:12:00",
+      "album": {
+        "name": "The Other Way",
+        "url": "https://open.spotify.com/album/20k8V0vHdLxnkTaJjXGcFE"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 190916,
+      "name": "The Other Way",
+      "url": "https://open.spotify.com/track/72tFZO4vGmXJvjG62rnpWI"
+    },
+    {
+      "added_at": "2022-08-26 05:12:00",
+      "album": {
+        "name": "Figure You Out",
+        "url": "https://open.spotify.com/album/2Rx6PnJtokpPlAF1WQQYhw"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 184314,
+      "name": "Figure You Out",
+      "url": "https://open.spotify.com/track/0zcKU98jIjZAxGPQZ5sDpe"
+    },
+    {
+      "added_at": "2022-08-26 05:12:00",
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4hcOMat5yK68nRsEuCd4g4"
+      },
+      "artists": [
+        {
+          "name": "Nitefire",
+          "url": "https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/6O2n6dzWaaH4mAWbq0tMWu"
+    },
+    {
+      "added_at": "2022-08-26 05:12:00",
+      "album": {
+        "name": "All Of Us Flames",
+        "url": "https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l"
+      },
+      "artists": [
+        {
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+        }
+      ],
+      "duration_ms": 209409,
+      "name": "Dressed In Black",
+      "url": "https://open.spotify.com/track/644ntv39BJcKa0e9FNlWyI"
+    },
+    {
+      "added_at": "2022-08-26 05:12:00",
+      "album": {
+        "name": "DONNIE DARKO",
+        "url": "https://open.spotify.com/album/34NmkOQ5HylEjb8wSPoNXv"
+      },
+      "artists": [
+        {
+          "name": "steve breaux",
+          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
+        }
+      ],
+      "duration_ms": 157419,
+      "name": "DONNIE DARKO",
+      "url": "https://open.spotify.com/track/5a6Sd7VuMRuH6t2sYv3Gue"
+    },
+    {
       "added_at": "2022-08-12 04:20:00",
       "album": {
         "name": "SIDE B",
@@ -39,6 +167,22 @@
       "duration_ms": 172672,
       "name": "Singapore",
       "url": "https://open.spotify.com/track/6KYHEjY1Q6PskPAjQlzw6z"
+    },
+    {
+      "added_at": "2022-07-18 20:46:02",
+      "album": {
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-07-18 20:46:02",
@@ -71,22 +215,6 @@
       "duration_ms": 203434,
       "name": "Motels",
       "url": "https://open.spotify.com/track/0ZRvakrMLFVzfvR48dvTix"
-    },
-    {
-      "added_at": "2022-07-18 20:46:02",
-      "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-07-22 04:05:00",
@@ -185,22 +313,6 @@
       "url": "https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah"
     },
     {
-      "added_at": "2022-07-29 04:20:00",
-      "album": {
-        "name": "Gloom",
-        "url": "https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 120808,
-      "name": "Gloom",
-      "url": "https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW"
-    },
-    {
       "added_at": "2022-08-16 06:45:51",
       "album": {
         "name": "Wonderful Life",
@@ -263,6 +375,22 @@
       "duration_ms": 140080,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+    },
+    {
+      "added_at": "2022-07-29 04:20:00",
+      "album": {
+        "name": "Gloom",
+        "url": "https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 120808,
+      "name": "Gloom",
+      "url": "https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW"
     },
     {
       "added_at": "2022-07-29 04:20:00",
@@ -717,22 +845,6 @@
       "url": "https://open.spotify.com/track/6nqKsUL0Fd3BQsmQYbh8Zb"
     },
     {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "Ur Mum",
-        "url": "https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Ur Mum",
-      "url": "https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM"
-    },
-    {
       "added_at": "2022-07-29 04:20:00",
       "album": {
         "name": "Bite Me",
@@ -977,22 +1089,6 @@
       "url": "https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Liz (New York)",
-        "url": "https://open.spotify.com/album/1fv5jGrYUx7N8MWMLUGkNG"
-      },
-      "artists": [
-        {
-          "name": "Geskle",
-          "url": "https://open.spotify.com/artist/6vs7hYqS7v8KjGlZOv2DLN"
-        }
-      ],
-      "duration_ms": 194797,
-      "name": "Liz (New York)",
-      "url": "https://open.spotify.com/track/1QrUVQTmRV2gOmg8tby37B"
-    },
-    {
       "added_at": "2022-07-01 14:01:58",
       "album": {
         "name": "OH HEY",
@@ -1079,22 +1175,6 @@
       "duration_ms": 171428,
       "name": "paul blart mall cop",
       "url": "https://open.spotify.com/track/24EqBj3PZlN71flFEzXa9B"
-    },
-    {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/6tVjmW6pnVsd5HgntHDCOe"
-      },
-      "artists": [
-        {
-          "name": "Nitefire",
-          "url": "https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7cgOMe29XE860oSL4vEYQi"
     },
     {
       "added_at": "2022-07-29 04:20:00",
@@ -1277,22 +1357,6 @@
       "url": "https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA"
     },
     {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "Nicotine",
-        "url": "https://open.spotify.com/album/7mUy0fH5Ad2Fg5KnCKRp9N"
-      },
-      "artists": [
-        {
-          "name": "Jany Green",
-          "url": "https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv"
-        }
-      ],
-      "duration_ms": 170341,
-      "name": "Nicotine",
-      "url": "https://open.spotify.com/track/73CLiwzz9AopgAv3jnngyA"
-    },
-    {
       "added_at": "2022-07-22 21:16:04",
       "album": {
         "name": "Desert Snow",
@@ -1455,22 +1519,6 @@
     {
       "added_at": "2022-07-01 14:01:58",
       "album": {
-        "name": "Intake",
-        "url": "https://open.spotify.com/album/4uGHqV0Ltu4bnEOzxdrnIs"
-      },
-      "artists": [
-        {
-          "name": "Launder",
-          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
-        }
-      ],
-      "duration_ms": 244546,
-      "name": "Intake",
-      "url": "https://open.spotify.com/track/4h78x5FcSa6RZbnhkzDdP6"
-    },
-    {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
         "name": "Speeding 72",
         "url": "https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn"
       },
@@ -1499,54 +1547,6 @@
       "duration_ms": 183960,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR"
-    },
-    {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "Think Nothing",
-        "url": "https://open.spotify.com/album/1pW4u5dnjaMZVMJHR4oIZ6"
-      },
-      "artists": [
-        {
-          "name": "Sydney Sprague",
-          "url": "https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs"
-        }
-      ],
-      "duration_ms": 211554,
-      "name": "Think Nothing",
-      "url": "https://open.spotify.com/track/2beHFbJTzHSDZ9smRsq9TK"
-    },
-    {
-      "added_at": "2022-07-08 07:45:00",
-      "album": {
-        "name": "Pink Songs 2",
-        "url": "https://open.spotify.com/album/5Hss6ml2F35xoVJzFmnicV"
-      },
-      "artists": [
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 205182,
-      "name": "pretty funny",
-      "url": "https://open.spotify.com/track/6f9T8Q6xqWEWTvp3P87Wjm"
-    },
-    {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5Z04J4vKoqbTdcPMav6SPC"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 211138,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/7ItKJuyZQ1MZaj7poaKqiX"
     },
     {
       "added_at": "2022-07-01 14:01:58",

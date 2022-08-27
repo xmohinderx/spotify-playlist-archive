@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 174539,
       "name": "Fast Times",
       "url": "https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4"
@@ -2931,6 +2931,24 @@
       "duration_ms": 192428,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/3RnkPoduHhQX4FY9x2rEeY"
+    },
+    {
+      "album": {
+        "name": "See If I Care",
+        "url": "https://open.spotify.com/album/4aHIucrdo47tML4QIKXBle"
+      },
+      "artists": [
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159310,
+      "name": "See If I Care",
+      "url": "https://open.spotify.com/track/58QNQ1ZfZ2Ad1NUecBPKer"
     },
     {
       "album": {

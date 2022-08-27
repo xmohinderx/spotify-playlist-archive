@@ -958,6 +958,28 @@
     },
     {
       "album": {
+        "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
+        "url": "https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv"
+      },
+      "artists": [
+        {
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195386,
+      "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz"
+    },
+    {
+      "album": {
         "name": "Jackson Dean",
         "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
       },
@@ -1221,7 +1243,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 197440,
       "name": "Halos and Horns",
       "url": "https://open.spotify.com/track/44Yx0jcGJtgez04gBTea8R"
@@ -1351,7 +1373,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 270826,
       "name": "Highway Like Me (feat. Marcus King)",
       "url": "https://open.spotify.com/track/51PuIBYfGsXVFmnsv70Vr3"
@@ -1716,6 +1738,24 @@
     },
     {
       "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/3QFQRHFIQtlPKxzmBXNoyF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/2Q9oePSJXYu74fE3ZUR5XX"
+    },
+    {
+      "album": {
         "name": "Long Gone",
         "url": "https://open.spotify.com/album/5G67R5epM9ihMK9U6jEDlG"
       },
@@ -1951,7 +1991,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 233586,
       "name": "Old School\u2019s In",
       "url": "https://open.spotify.com/track/50wplGw8gfqUx04sZQOzve"
@@ -2021,6 +2061,24 @@
       "duration_ms": 197234,
       "name": "Outlaws & Outsiders",
       "url": "https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh"
+    },
+    {
+      "album": {
+        "name": "Over Me By Now",
+        "url": "https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161973,
+      "name": "Over Me By Now",
+      "url": "https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr"
     },
     {
       "album": {
@@ -3074,6 +3132,24 @@
     },
     {
       "album": {
+        "name": "Broken Heartland",
+        "url": "https://open.spotify.com/album/0TUS3VFkxFIvdUaranQAWC"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "When I Hear Your Name",
+      "url": "https://open.spotify.com/track/2gMaUDwmEVQe5lJqXCR0zU"
+    },
+    {
+      "album": {
         "name": "Whiskey Can't",
         "url": "https://open.spotify.com/album/4sERtXmIt0fusA9kmRcrNT"
       },
@@ -3247,7 +3323,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 213493,
       "name": "You Should Probably Leave",
       "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"

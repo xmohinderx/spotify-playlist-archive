@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Gabriel Elias
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,417 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,566 likes - 84 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 78 | [gostosa](https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [gostosa](https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK) | 2:34 |
 | 79 | [Fênix](https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV) | [Amanda Cadore](https://open.spotify.com/artist/1QzbQKoB7I3Z9GP4BlfZNA), [Dandara Manoela](https://open.spotify.com/artist/1lh8s7gXcq7nXaidv3OMt3), [Joana Castanheira](https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn) | [Fênix](https://open.spotify.com/album/3q7IXJZeH9uhFVlrmgGLYR) | 3:46 |
 | 80 | [Água Salgada](https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Água Salgada](https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv) | 3:21 |
+| 81 | [Tudo Teu](https://open.spotify.com/track/21bbR1glUbV7Vvo8hIMC2W) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tudo Teu](https://open.spotify.com/album/2ARdu9IuLvWhy0c6eQPSYS) | 3:33 |
+| 82 | [Existencial](https://open.spotify.com/track/5n6zkfOjjVkQPOhBKGNSAn) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4), [Garcia Gabé](https://open.spotify.com/artist/6fQFOL3N5uANNq4MYEVeGl) | [Existencial](https://open.spotify.com/album/1dLe3d2uFDp4bihR4ZW7XS) | 2:42 |
+| 83 | [Não Sou Boa Com Palavras](https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Mais Uma História de Amor](https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ) | 2:23 |
+| 84 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 |
 
-Snapshot ID: `MTY2MDkyMjQ4NywwMDAwMDAwMGJiMzE4NDQxZGQwZjZkMDAxNzJkODAyYjU0ODNiMzk3`
+Snapshot ID: `MTY2MTQ4MjgwMCwwMDAwMDAwMGE2MjU1YzY5ODAwNjFiNTU4M2NkYTgwMDA4YTczYWJk`

@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: southstar\n",
-  "num_followers": 265701,
+  "num_followers": 266249,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2NDg2MCwwMDAwMDAwMDhlNjE1YmU4NjU1MTIwZjRjMjNlYWNjNWRiZTJmZTEx",
+  "snapshot_id": "MTY2MTQ2NDg2MCwwMDAwMDAwMGNhYTYzN2U1NWI5OTM0MDAwMTM2MGUwMjgwNmNlYjY5",
   "tracks": [
     {
       "added_at": "2022-08-25 22:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
+        "name": "YUKON (INTERLUDE)",
+        "url": "https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 141093,
+      "name": "YUKON (INTERLUDE)",
+      "url": "https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
         "name": "ZUCKER",
         "url": "https://open.spotify.com/album/4DwIsVI6Ra9KC8zJX3A1v3"
       },
@@ -621,7 +637,7 @@
         }
       ],
       "duration_ms": 256107,
-      "name": "complex - demo",
+      "name": "complex (demo)",
       "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
     },
     {
@@ -644,7 +660,7 @@
       "added_at": "2022-08-25 22:01:00",
       "album": {
         "name": "Run Away to Mars",
-        "url": "https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W"
+        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
       },
       "artists": [
         {
@@ -654,7 +670,7 @@
       ],
       "duration_ms": 213753,
       "name": "Run Away to Mars",
-      "url": "https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w"
+      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
     },
     {
       "added_at": "2022-08-25 22:01:00",

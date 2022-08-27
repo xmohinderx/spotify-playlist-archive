@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Willow Kayne
 
-1,005 songs - 2 day 11 hr 43 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,006 songs - 2 day 11 hr 46 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -955,6 +955,7 @@
 | [Wanderlust](https://open.spotify.com/track/6OIsmDiDLf4j9BZJcAaES2) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Fallen Paradise](https://open.spotify.com/album/0Pq2CJXepTD3Tbl9jXhlhu) | 3:47 | 2022-07-07 | 2022-08-19 |
 | [Wannabe](https://open.spotify.com/track/36ODdTjOflEHu6vGHSpNYu) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Heart Ego](https://open.spotify.com/album/3OBMJU0p7YKR46QkDnNLTC) | 3:49 | 2021-10-22 | 2022-03-09 |
 | [WASTED DAYS \(INBETWEENS\)](https://open.spotify.com/track/1tfPHG8x4FHKQ2kTVPp6lS) | [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [WASTED DAYS \(INBETWEENS\)](https://open.spotify.com/album/3YbyEgS5rdb6WVzAbA7sQr) | 5:00 | 2020-11-06 | 2021-02-12 |
+| [Wasteman](https://open.spotify.com/track/6ZsWzKhxbkqwTqt72z1Lfi) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Wasteman](https://open.spotify.com/album/3HqUZzoYFbodugmeZhZuGt) | 3:28 | 2022-08-26 |  |
 | [Watching You Disappear](https://open.spotify.com/track/5QcZdMoxsvfXkK0TnlF0hn) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Watching You Disappear](https://open.spotify.com/album/00GvccCzssnxgeitqcLY2H) | 3:15 | 2020-09-29\* | 2020-11-20 |
 | [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 | 2021-04-02 | 2021-06-25 |
 | [We Are The Same](https://open.spotify.com/track/4zbcMhYBDIEhHBcYwxAH6B) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [We Are The Same](https://open.spotify.com/album/2iBEOVXBDhL99eAVqV8Oj3) | 3:58 | 2022-03-18 | 2022-05-20 |

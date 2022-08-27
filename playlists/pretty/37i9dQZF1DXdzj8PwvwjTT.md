@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzj8PwvwjTT.md) - [plain]
 | 69 | [We Sold Our Souls to Metal](https://open.spotify.com/track/1w3e2PaXebiLg4DjeVppxL) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Archangel](https://open.spotify.com/album/2bTqjppSlmN2iYlHhEhfAu) | 3:00 |
 | 70 | [My Eternal Dream](https://open.spotify.com/track/17zgOYQxfXGoXGm7T1Fqgf) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Eternal](https://open.spotify.com/album/04fBc9Bm4bq0CfCH4qoS1r) | 6:03 |
 | 71 | [Dystopia](https://open.spotify.com/track/5KoxT3w69A1cGjfbYAtgXl) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [Polaris](https://open.spotify.com/album/7aFuNkjumeRht9zAwLW7Mw) | 6:51 |
-| 72 | [Alpha](https://open.spotify.com/track/2aYccp0EYBgJfcGSSIIIFA) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Juggernaut: Alpha](https://open.spotify.com/album/5D1Iz1Za4y9WJoHSQlYRgt) | 5:30 |
+| 72 | [Alpha](https://open.spotify.com/track/2TipAy85MGsdUc4QgSrWjV) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Juggernaut: Alpha](https://open.spotify.com/album/5UaU32SWnH6fPoUa5WbbLM) | 5:30 |
 | 73 | [Dawn of Descent](https://open.spotify.com/track/0Rj07F6ReMIJJD58jwbwOS) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Ascendants](https://open.spotify.com/album/2RytWWQ3wiU5wgf3JeCfOf) | 4:28 |
 | 74 | [Sinne missä aamu sarastaa](https://open.spotify.com/track/0uYv1tNoIHUt6XPjLME4cA) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Elävien kirjoihin](https://open.spotify.com/album/0XyuDXhiIYfo2Zngt0oNeO) | 3:46 |
 | 75 | [The Black Plot](https://open.spotify.com/track/5AgOTMxGGMqefEWYOZVxwA) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Luminiferous](https://open.spotify.com/album/2tJvjwsVaqGDyQHhOOj3Rs) | 5:31 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzj8PwvwjTT.md) - [plain]
 | 117 | [Need No Saviour](https://open.spotify.com/track/3Iqkl4YsZDEkiklxqr6F1I) | [King Parrot](https://open.spotify.com/artist/1SUN3Jk6gB9lBElMNXVC0f) | [Dead Set](https://open.spotify.com/album/2z8rdN3kdjZUH2vV5f8Ire) | 3:45 |
 | 118 | [Hope Smasher](https://open.spotify.com/track/7gpXeUSWtW5MXCurUYt28E) | [Maruta](https://open.spotify.com/artist/5kDK4pGPn2gjDHEr0T47e5) | [Remain Dystopian](https://open.spotify.com/album/6QyFavbqlymNCdvt2cg8MO) | 2:19 |
 
-Snapshot ID: `MTQ5MTMwNzQ4OSwwMDAwMDAwMDZlOTdkMDI3Y2MxOTNjYzgzYmRiNjJjYzhiMzYyMDdj`
+Snapshot ID: `MTQ5MTMwNzQ4OSwwMDAwMDAwMGFlMmE3ZTllYmFmNWJlNjc0NWUzZDY3ZTQyYjc2YzIx`

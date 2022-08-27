@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 
 > Your queens are here Pink Panda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,481 likes - 134 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,505 likes - 134 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 | 72 | [SUNDAY MONDAY](https://open.spotify.com/track/6Z6lMNbl4SxxBVYLNS5ihz) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Blossom](https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o) | 3:34 |
 | 73 | [First Love](https://open.spotify.com/track/0lQGCgav6XMlJUIoe5v2zx) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [The Space](https://open.spotify.com/album/76L4Nk0YReykAK1z9sXh5x) | 3:37 |
 | 74 | [To\. Us](https://open.spotify.com/track/2qV8QVNlSKrdPSUNmKNM54) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Revolution](https://open.spotify.com/album/36DcKlfLytuKbpx4ELQKRf) | 3:34 |
-| 75 | [Break Up To Make Up](https://open.spotify.com/track/7H6h2rgc1bZo5Chkq7NmkO) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Jeong EunJi \(Apink\)](https://open.spotify.com/artist/3Y7kskm3Wc6XaVRHi9skaN) | ['A CUBE' FOR SEASON \# SKY BLUE](https://open.spotify.com/album/2uT5HsV4SIXnTCWcS4mwHJ) | 4:23 |
+| 75 | [Break Up To Make Up](https://open.spotify.com/track/7H6h2rgc1bZo5Chkq7NmkO) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Jeong EunJi \(Apink\)](https://open.spotify.com/artist/3Y7kskm3Wc6XaVRHi9skaN) | [A CUBE' FOR SEASON \# SKY BLUE](https://open.spotify.com/album/2uT5HsV4SIXnTCWcS4mwHJ) | 4:23 |
 | 76 | [Do You Miss Me?](https://open.spotify.com/track/246QFD4GqHTimYmrrWkG54) | [OH HAYOUNG](https://open.spotify.com/artist/3mTOjpZV1L0iW54wn90H8K) | [OH!](https://open.spotify.com/album/3Y5LqwodVtoyeRkWfzmlcE) | 3:42 |
 | 77 | [Crystal](https://open.spotify.com/track/7tSeC0XrsgyG2hvWHKPOWc) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Blossom](https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o) | 3:24 |
 | 78 | [Full Moon](https://open.spotify.com/track/2C1YJneWWxceGIdQz0drTh) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [The Space](https://open.spotify.com/album/76L4Nk0YReykAK1z9sXh5x) | 3:38 |

@@ -1,13 +1,29 @@
 {
-  "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Camilo & Grupo Firme en portada.",
-  "num_followers": 38233,
+  "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Mario Bautista en portada.",
+  "num_followers": 38636,
   "original_name": "MEXCLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE0MDgwOCwwMDAwMDAwMDY2MTQ3ZWMwOThhNzdmNTVjMjMwYmFkYjIwYjQ4NGQ0",
+  "snapshot_id": "MTY2MTQ5MDAwMCwwMDAwMDAwMDk5NWM4ZjQ1ODQ4ZjNhMzg2NmQ2MmJmNmZiY2YyNWIx",
   "tracks": [
+    {
+      "added_at": "2022-08-26 05:00:00",
+      "album": {
+        "name": "Cabr\u00f3n Yo Puedo",
+        "url": "https://open.spotify.com/album/48FTvOrTDP6bQb5gTIkDbN"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 187833,
+      "name": "Cabr\u00f3n Yo Puedo",
+      "url": "https://open.spotify.com/track/2HsBez6K2kkqzkxHQqRusL"
+    },
     {
       "added_at": "2022-08-18 19:00:00",
       "album": {

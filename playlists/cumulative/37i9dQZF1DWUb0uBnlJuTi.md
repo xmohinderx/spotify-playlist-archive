@@ -2,9 +2,9 @@
 
 ### [Jazz\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWUb0uBnlJuTi)
 
-> Jazz\. But funky\. Cover: Ezra Collective
+> Jazz\. But funky\. Cover: Unc D
 
-221 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/5YdwjD0Yo4VfktuMzWIUHY)
+222 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/5YdwjD0Yo4VfktuMzWIUHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Keep It Sexy](https://open.spotify.com/track/3Vghp0Dk0HDGKs54OM2Sfe) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Keep It Sexy](https://open.spotify.com/album/2P1f2vIxfFqHYOAvDYUNdp) | 4:39 | 2020-10-23 | 2022-08-06 |
 | [Kinshasa FC](https://open.spotify.com/track/0F09o824fRsItjCHV48Kk2) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Aspects](https://open.spotify.com/album/7hkJZ6OcdqRRFotfnz0fWt) | 5:05 | 2021-03-26 | 2022-07-29 |
 | [La Fachada](https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Step Down / La Fachada](https://open.spotify.com/album/63xgskVnY0hG9fxtcj0gk1) | 3:19 | 2022-01-14 | 2022-07-29 |
+| [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/album/6cEqbEv5wTsNkOGr7k3HTU) | 3:23 | 2022-08-26 |  |
 | [Life on Mars \- OPOLOPO Extended Remix](https://open.spotify.com/track/4H2LU89UYYHhy5CNkbNaaY) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Life on Mars \(OPOLOPO Remix\)](https://open.spotify.com/album/0gu7LOuWpnplQkrYonsNnk) | 10:04 | 2022-02-25 | 2022-07-17 |
 | [Lions Walk](https://open.spotify.com/track/1IjEo2Er7st6ML2DaOQxYU) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Lions Walk](https://open.spotify.com/album/4mE1hbSNlBouxBZpX0EOoX) | 4:19 | 2020-11-27 | 2022-07-23 |
 | [Little Miss Lover \(feat\. Gary Bartz & The Greyboy Allstars\)](https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm) | [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [Spirit of '70](https://open.spotify.com/album/7h3Pf3Yl1D7O4yggm5GuTk) | 4:17 | 2021-05-07 |  |
@@ -176,7 +177,7 @@
 | [Step Down](https://open.spotify.com/track/14URhGn28UzFkWmmlvSH5m) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Step Down](https://open.spotify.com/album/5LJBSDzkpOdSfnWDBa5amD) | 3:55 | 2021-11-19 | 2022-07-29 |
 | [STOP and SAVE](https://open.spotify.com/track/1hzzHl4YaAL1spIdSAC4su) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [STOP and SAVE](https://open.spotify.com/album/6uRy8mSfVUejTRx7rHV23e) | 2:46 | 2022-03-04 | 2022-07-29 |
 | [Straight Shooter](https://open.spotify.com/track/0SpHtxc7Uf0OwGhRMuziak) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Darryl Jones](https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [The Chicago Experiment](https://open.spotify.com/album/7o0lWWgGd7ZRLkbwKHFXxr) | 3:53 | 2022-01-28 | 2022-07-29 |
-| [Sunray Junonia](https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Sunray Junonia](https://open.spotify.com/album/6vJzBismVQ09YEfkGQg9k9) | 5:00 | 2021-02-05 |  |
+| [Sunray Junonia](https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Sunray Junonia](https://open.spotify.com/album/6vJzBismVQ09YEfkGQg9k9) | 5:00 | 2021-02-05 | 2022-08-27 |
 | [Sure Shot](https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o) | 4:01 | 2020-10-09 |  |
 | [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 | 2020-10-09 |  |
 | [Swing Praxis \- Kaidi Tatham Remix](https://open.spotify.com/track/37jXiMfAujPxIpblIl3EuO) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Swing Praxis \(Kaidi Tatham Remix\)](https://open.spotify.com/album/1yrVoalR2Bk3DSYKJb5gwl) | 5:26 | 2021-11-26 | 2022-07-27 |

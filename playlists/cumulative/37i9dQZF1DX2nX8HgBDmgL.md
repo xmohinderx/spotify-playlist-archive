@@ -4,7 +4,7 @@
 
 > Celebrating South Asian Heritage Month with Raja Kumari.
 
-123 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
+124 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Hope You Don't Mind \(feat\. The Rish\)](https://open.spotify.com/track/5UHLb8gtUcSk4JOOcRgtx2) | [QARAN](https://open.spotify.com/artist/0KDEADL3DeTLtENG3DliCd), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Hope You Don't Mind \(feat\. The Rish\)](https://open.spotify.com/album/5TLaiMzzkl5sSHvJSjLMRq) | 3:00 | 2021-11-11 | 2022-07-19 |
 | [Hor Labna](https://open.spotify.com/track/07fr8Qm6nFwUvIb2haXmni) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Hor Labna](https://open.spotify.com/album/294GhK2tVSJE8EqfW3ZiT5) | 3:01 | 2021-11-11 | 2022-07-19 |
 | [Husn Nawabi](https://open.spotify.com/track/3TPw0Ycu40YKYCZB59zhjA) | [Arpit G](https://open.spotify.com/artist/3q48iYNC4nyqiUlx24Eu1Y) | [Husn Nawabi](https://open.spotify.com/album/6EyTB1QYCvyC195MkHSIwZ) | 2:45 | 2021-11-11 | 2022-07-19 |
+| [I JUST WANT MONEY](https://open.spotify.com/track/4PphpJYOOGClMpYZHgkyMc) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [I JUST WANT MONEY](https://open.spotify.com/album/7h0jsIr2WAYUVmc0g49IpR) | 3:27 | 2022-08-26 |  |
 | [Illuminous](https://open.spotify.com/track/099SC5HFifJ4cOr9xTCEuc) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Illuminous](https://open.spotify.com/album/5tJE3R6o5gD1w1WSvvVrXt) | 2:46 | 2022-07-18 |  |
 | [Imported Asle](https://open.spotify.com/track/1bHcAZMzxTCmMSBnzBsaHt) | [BIAS](https://open.spotify.com/artist/2DnPkSVxSNs0a6CkrikNz4), [Ishant](https://open.spotify.com/artist/0eutG1GgoWQPMZFjk0j6JJ) | [Imported Asle](https://open.spotify.com/album/76iHyb2UYNr1c8StuWXoKH) | 3:51 | 2021-11-11 | 2022-07-19 |
 | [Jama Kar](https://open.spotify.com/track/0zyMXraAjJoqD7EWSnRqHS) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Jama Kar](https://open.spotify.com/album/63zSAE7el24bx7PvQKex5B) | 3:27 | 2022-07-18 |  |

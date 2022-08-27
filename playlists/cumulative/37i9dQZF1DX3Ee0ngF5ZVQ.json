@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Wade Bowen",
+  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Pat Green",
   "name": "Texas Country Now",
   "published_playlist_ids": [
     "4X9VlF1gslCvOG5f1Uvt9a"
@@ -1468,6 +1468,24 @@
     },
     {
       "album": {
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+    },
+    {
+      "album": {
         "name": "Crown and Coke",
         "url": "https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK"
       },
@@ -2177,6 +2195,24 @@
       "duration_ms": 162160,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/5bKQyXy47sy7xzcVZsMX8f"
+    },
+    {
+      "album": {
+        "name": "Get A Dog",
+        "url": "https://open.spotify.com/album/27GYFiztdGdz4Mh1zNiVgD"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198998,
+      "name": "Get A Dog",
+      "url": "https://open.spotify.com/track/4ojft2o33N13eHRlci1G4Z"
     },
     {
       "album": {
@@ -3054,6 +3090,24 @@
     },
     {
       "album": {
+        "name": "Miles and Miles of You",
+        "url": "https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "I'm Going Home",
+      "url": "https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw"
+    },
+    {
+      "album": {
         "name": "I'm Not Him",
         "url": "https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7"
       },
@@ -3859,7 +3913,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 208360,
       "name": "My First Rodeo",
       "url": "https://open.spotify.com/track/2hUnTBO3xdwXyB0Kwdmur5"
@@ -5049,7 +5103,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 228352,
       "name": "Sweet Irene",
       "url": "https://open.spotify.com/track/1E8oXata1MPMC78MAPWyLS"
@@ -5291,10 +5345,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 219529,
       "name": "The Old Man Said",
       "url": "https://open.spotify.com/track/11YK2L3U5Yr4SepKwX1yiE"
+    },
+    {
+      "album": {
+        "name": "The Old Man Said (Radio Edit)",
+        "url": "https://open.spotify.com/album/65ZBxEfMl4eG1DxhshPzVb"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194499,
+      "name": "The Old Man Said - Radio Edit",
+      "url": "https://open.spotify.com/track/0dSDsfaUbBAqoDw4zBkhYv"
     },
     {
       "album": {
@@ -6279,7 +6351,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 266783,
       "name": "With You",
       "url": "https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC"

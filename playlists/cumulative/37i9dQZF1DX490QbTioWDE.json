@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 198908,
       "name": "Gracias por Todo",
       "url": "https://open.spotify.com/track/3vZNBLqQQ3FK6gwZXsaQsI"
@@ -3180,6 +3180,24 @@
     },
     {
       "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/3K1B4I6SatIxr7AWb9Gr7E"
+      },
+      "artists": [
+        {
+          "name": "Diego Giannini",
+          "url": "https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198407,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/0lmE82dpxeGYlBzpz27CVJ"
+    },
+    {
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
       },
@@ -3489,6 +3507,24 @@
       "duration_ms": 219800,
       "name": "Quiereme",
       "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+    },
+    {
+      "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/7uPZWrXpKKSwyPvK9peRyh"
+      },
+      "artists": [
+        {
+          "name": "Diego Olmos",
+          "url": "https://open.spotify.com/artist/0HhAQGZNZAvnu9RZQOTetx"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/4ZVTz5LdINDFrBoUnDy8VK"
     },
     {
       "album": {
@@ -4139,7 +4175,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 184465,
       "name": "Tiroteo",
       "url": "https://open.spotify.com/track/1tBVgpPIp4JzLwsQwefgn9"

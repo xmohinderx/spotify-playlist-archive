@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Il meglio da Napoli e dalla scena campana\. Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,698 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,770 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 44 | [Emirates \(feat\. Rocco Hunt\)](https://open.spotify.com/track/0qDJ4qOa1xisB7oMmJhD2n) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:24 |
 | 45 | [Nun te rispongo cchiù](https://open.spotify.com/track/2bBenDA68EZXFqFgpPo6MZ) | [Bapevens](https://open.spotify.com/artist/6JqHvyMB6iSIaHkXbJ3KFB), [Eris Gacha](https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2) | [Nun te rispongo cchiù](https://open.spotify.com/album/3iJAfh63NVfCwq0MWCaowY) | 2:29 |
 | 46 | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/album/421OGAOihQdZuiXiVoCVV5) | 2:08 |
-| 47 | [NUN M FID E NISCIUN \(Con O'Tsunami\)](https://open.spotify.com/track/4Pi7YaKpU421V78gf8qFuu) | [Onivas](https://open.spotify.com/artist/7n7tzS8yl0ftRfgkSDZOtt), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [NUN M FID E NISCIUN \(Con O'Tsunami\)](https://open.spotify.com/album/6exDruFXOU3vcx82yUAj7m) | 2:20 |
-| 48 | [DON'T STOP](https://open.spotify.com/track/7phaQRCg0ws1d9mb9C9aTO) | [SPETRIX](https://open.spotify.com/artist/5TfIVdYlqjs9RmC4vyAesM), [DENEMI](https://open.spotify.com/artist/5wQUqEJMbi2INC969TwMXt) | [DON'T STOP / ACAL 'A VOCE](https://open.spotify.com/album/0IcpZncMY4qhuX44ocnJNr) | 2:30 |
-| 49 | [Penzier](https://open.spotify.com/track/4CFL4pIRkUkO8hkUQsP6xz) | [Priore](https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro) | [Penzier](https://open.spotify.com/album/4o6BO1Zqqk9lnSXLBPk3bG) | 2:44 |
+| 47 | [T Pens](https://open.spotify.com/track/65U8ZFmt7JSrLdwH93q363) | [O'CINES](https://open.spotify.com/artist/6drNYL1qof91qhlkhrIjlS) | [T Pens](https://open.spotify.com/album/4goIUzzouxxq3nYDL3xFnm) | 1:48 |
+| 48 | [NUN M FID E NISCIUN \(Con O'Tsunami\)](https://open.spotify.com/track/4Pi7YaKpU421V78gf8qFuu) | [Onivas](https://open.spotify.com/artist/7n7tzS8yl0ftRfgkSDZOtt), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [NUN M FID E NISCIUN \(Con O'Tsunami\)](https://open.spotify.com/album/6exDruFXOU3vcx82yUAj7m) | 2:20 |
+| 49 | [DON'T STOP](https://open.spotify.com/track/7phaQRCg0ws1d9mb9C9aTO) | [SPETRIX](https://open.spotify.com/artist/5TfIVdYlqjs9RmC4vyAesM), [DENEMI](https://open.spotify.com/artist/5wQUqEJMbi2INC969TwMXt) | [DON'T STOP / ACAL 'A VOCE](https://open.spotify.com/album/0IcpZncMY4qhuX44ocnJNr) | 2:30 |
+| 50 | [Penzier](https://open.spotify.com/track/4CFL4pIRkUkO8hkUQsP6xz) | [Priore](https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro) | [Penzier](https://open.spotify.com/album/4o6BO1Zqqk9lnSXLBPk3bG) | 2:44 |
 
 Snapshot ID: `MTY2MTQ2NDg2MCwwMDAwMDAwMDRiNTRmNGUzMmM2NDdiNzQ4YzhiZTUyZDM2MTIzMDU5`

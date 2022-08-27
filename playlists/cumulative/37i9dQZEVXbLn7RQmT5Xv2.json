@@ -532,6 +532,28 @@
     },
     {
       "album": {
+        "name": "Amira",
+        "url": "https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269231,
+      "name": "Amira",
+      "url": "https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB"
+    },
+    {
+      "album": {
         "name": "Amrikkka",
         "url": "https://open.spotify.com/album/6NE77IxMk4wzSQjFWlFAte"
       },
@@ -2547,7 +2569,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 188356,
       "name": "FAR2 KHEBRA",
       "url": "https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb"
@@ -4771,7 +4793,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -7013,7 +7035,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 186500,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/0htvkHTlXpui40I957NFUt"

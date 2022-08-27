@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-152 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+153 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 | 2021-11-12 |  |
 | [Winter Wonderland](https://open.spotify.com/track/3TqG0HDrk8zP3y7Mh3GyHe) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Christmas Time](https://open.spotify.com/album/5eP1FZIB34PXwas58LAPCl) | 3:10 | 2021-11-12 | 2022-07-28 |
 | [Wonderful Christmastime](https://open.spotify.com/track/0Tt1xLhzap2izxxttXZdk1) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Christmas Rules](https://open.spotify.com/album/7a9xlXxD82eQGXaExYrChG) | 2:26 | 2021-11-12 | 2022-07-29 |
-| [Wonderful Christmastime](https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:26 | 2021-11-12 |  |
+| [Wonderful Christmastime](https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:26 | 2021-11-12 | 2022-08-27 |
+| [Wonderful Christmastime](https://open.spotify.com/track/6g9jjIuFrgbVX8ahN7ejmQ) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Drunk Christmas Party 2022](https://open.spotify.com/album/2iup3SB38ceLUjOMHLrXfH) | 2:26 | 2021-11-12 |  |
 | [xmas break](https://open.spotify.com/track/7lqyR5szlPkt9sz3dqDZYf) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [xmas break](https://open.spotify.com/album/7GVLN36yynco60XmAYmuSQ) | 3:04 | 2022-01-07 | 2022-07-29 |
 | [Yellow Bike](https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge) | 3:53 | 2021-11-12 |  |
 | [Yellow Bike](https://open.spotify.com/track/7hfrRIQmymC8Otmm27BQdY) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Yellow Bike](https://open.spotify.com/album/5VIIDEGuRGBQ7Riy3sfATF) | 3:53 | 2021-11-12 | 2022-07-28 |

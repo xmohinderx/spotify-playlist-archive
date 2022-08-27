@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,085,131 likes - 200 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,085,591 likes - 200 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 | 199 | [I Follow](https://open.spotify.com/track/1OMFpwCfs1AgmT2hrkVv1P) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [I Follow](https://open.spotify.com/album/1SBx5Hh7eJFDiOrajWXud3) | 2:48 |
 | 200 | [You Are A Traveler](https://open.spotify.com/track/0WYyQGmQy979roTvrVwlTb) | [Tidal Waves](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Luca Aprile](https://open.spotify.com/artist/149gSkst4bm3PyT2CR7lht) | [You Are A Traveler](https://open.spotify.com/album/4PUk9aHXSLwTdxKjICqBxj) | 3:02 |
 
-Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMDNiZDNjZDJlZDM2NTZhMjBhZTBmZjMzYzU3NWU1YWUz`
+Snapshot ID: `MTY2MTQ4NjQ2MSwwMDAwMDAwMDhhNzRiZTQwNmQ5NjFkNjRmNDMwODkxMmExMTdlMGNm`

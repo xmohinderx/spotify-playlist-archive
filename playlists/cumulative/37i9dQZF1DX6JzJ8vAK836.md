@@ -2,7 +2,7 @@
 
 ### [This Is Prince](https://open.spotify.com/playlist/37i9dQZF1DX6JzJ8vAK836)
 
-> Pop, rock, funk, R&B, psychedelia—the man from Minneapolis was a true original and earth\-shattering performer\. Hear <a href="spotify:artist:5a2EaR3hamoenG9rDuVn8j">Prince Rogers Nelson</a>'s best right now.
+> Prince was a true original and earth\-shattering performer\. Hear Prince Rogers Nelson best right now.
 
 128 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
 

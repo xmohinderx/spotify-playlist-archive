@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: POCAH, BIN, Lionel
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,331 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,444 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 77 | [Te Fazer Vibrar](https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy) | [Megabaile Do Areias](https://open.spotify.com/artist/6EHs7rGH4jgLSNezIy9i3F), [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g) | [Te Fazer Vibrar](https://open.spotify.com/album/21v5Ucht2tu6yF0WmnjcFu) | 3:07 |
 | 78 | [Onça Sessions \#2 \- Sobe Adrenalina](https://open.spotify.com/track/4ohl1Edvlp5BNF03lAwGO7) | [Onça Sessions](https://open.spotify.com/artist/1xVwlSBWBrYAuwIBKIKUbr), [Raffa Mogi](https://open.spotify.com/artist/1GzNbVSgVruCtWjQAHVKYF), [Ronan Romma](https://open.spotify.com/artist/5Qq4LMkTlirnIjO16ZRdvt), [Bean](https://open.spotify.com/artist/5YgYMgQNJZPXatzG24aIhj), [Milani](https://open.spotify.com/artist/7E586myT1Oq6eZf8czh9qO), [Mc Arthur](https://open.spotify.com/artist/69IZAnKubpzMZlUG602sBN) | [Onça Sessions \#2 \- Sobe Adrenalina](https://open.spotify.com/album/5gVDwlM3V4T8Qzxt1fX2vG) | 5:25 |
 | 79 | [Carona](https://open.spotify.com/track/3JjvlmeaiwnZYzGG99SU20) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN) | [Carona](https://open.spotify.com/album/21SgYVxGOEd5csSA75Jzpy) | 2:38 |
-| 80 | [Sabor Uva](https://open.spotify.com/track/1lBdaxzlCO1NeeWpqeCU5r) | [João Zoli](https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz) | [Sabor Uva](https://open.spotify.com/album/52TWk831CN8A5j0n11wpEH) | 2:39 |
+| 80 | [Último Romântico do Mundo](https://open.spotify.com/track/7r24W0zWyGaLWktPK642gi) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Último Romântico do Mundo](https://open.spotify.com/album/4HxcId1MyFQi0XqXhxuPC3) | 3:06 |
 
-Snapshot ID: `MTY2MDkyMjY4MiwwMDAwMDAwMDkzOTVmZjU5Y2U0ZDRkNzFlZTUyOTMzNjk5NzdhNWQx`
+Snapshot ID: `MTY2MTQ4MjgwMCwwMDAwMDAwMDVjMjIyYzc4N2MwN2M1OGUyNTc1ZmU2MWY3MmNkODAy`

@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-192 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
+193 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Tale of Two Cities](https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Talk of the Town](https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7) | 4:15 | 2021-07-12 |  |
 | [Tender \- Remix](https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0) | [Daniel Chia](https://open.spotify.com/artist/6ntBTBKJKCqXEwDLevDm79), [Colin Watson](https://open.spotify.com/artist/0P4g915UEZLSjxKmVJwy3f) | [Tender \(Remix\)](https://open.spotify.com/album/3Hu6rLwI8Cqh4NciEwpfmX) | 5:03 | 2021-07-12 |  |
 | [The Bottom Line](https://open.spotify.com/track/1o1CuXwRdGmlmcpEiepgDQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [The Bottom Line](https://open.spotify.com/album/5LyajQP5gTpHwL9Xd1xM5S) | 3:52 | 2021-07-12 | 2022-07-29 |
-| [The Bottom Line](https://open.spotify.com/track/5ekn44iRRWaZhixvTDGetR) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:52 | 2021-07-12 |  |
+| [The Bottom Line](https://open.spotify.com/track/5ekn44iRRWaZhixvTDGetR) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:52 | 2021-07-12 | 2022-08-27 |
 | [The Goddess](https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The Goddess](https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO) | 4:06 | 2021-10-01 |  |
 | [The Lucky One](https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Play](https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4) | 4:52 | 2021-07-12 |  |
 | [The Lucky One](https://open.spotify.com/track/5DZG7foxuMefwnYHz14hLj) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Play](https://open.spotify.com/album/2p3hE6Y7dBrslBKAbripCm) | 4:52 | 2021-07-12 | 2022-07-28 |
@@ -184,6 +184,7 @@
 | [Today](https://open.spotify.com/track/2q31jbhT4UKTd0hD79yPJQ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Golden Hour](https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1) | 3:05 | 2021-07-12 |  |
 | [Together Again](https://open.spotify.com/track/7igzgZaMWs7r1YVCC3orR0) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [The Dance](https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb) | 4:15 | 2021-07-12 |  |
 | [Tonic](https://open.spotify.com/track/2MLsWnBmhbkyypQTJ7DFgw) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Tonic](https://open.spotify.com/album/5Px1CUSgIpdRpChsMAC0OE) | 4:17 | 2021-07-12 | 2022-07-29 |
+| [Tribute](https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Tribute](https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl) | 4:05 | 2022-08-26 |  |
 | [Trinity](https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Main Street Beat](https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N) | 4:13 | 2021-07-12 |  |
 | [Una Mas](https://open.spotify.com/track/1r9VLVwwqC1855WVhiZ5FX) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/7gIngG4EosUvE5vGczSe47) | 3:37 | 2021-07-12 | 2022-07-25 |
 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 | 2021-07-12 |  |

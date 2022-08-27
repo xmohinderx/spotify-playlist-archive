@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-231 songs - 14 hr 35 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+232 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Black Crow](https://open.spotify.com/track/6f8wMPrnGpIF6qU6afkOIZ) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Black Crow](https://open.spotify.com/album/3tLk6wfBk0xHptDaImOv8Y) | 4:30 | 2021-12-17 | 2022-07-29 |
 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 | 2021-12-17 |  |
 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 | 2022-01-28 |  |
+| [Blues Worse Than I Ever Had](https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Blues Worse Than I Ever Had](https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg) | 3:31 | 2022-08-26 |  |
 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 | 2021-12-17 |  |
 | [Boone](https://open.spotify.com/track/63KLrIZRl03tY9fmsfvvLw) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Soul Insight](https://open.spotify.com/album/0h098ekFkPPbeRbfBWrDcG) | 5:29 | 2021-12-17 |  |
 | [Breathing Bullets \- US Radio Mix](https://open.spotify.com/track/3afn6c2nBmPqogKrYO06qd) | [Owen Campbell](https://open.spotify.com/artist/3euYobDxHiDFZFGnVu23qe) | [Breathing Bullets \(US Radio Mix\)](https://open.spotify.com/album/3Kb4S90XjZF8qekzIc2Wbq) | 3:46 | 2021-12-17 |  |
@@ -196,7 +197,7 @@
 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-03-11 |  |
 | [The Perfect Parts](https://open.spotify.com/track/22ojTkfbwYxyMJwOPhDvUV) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:56 | 2022-07-22 |  |
 | [The Perfect Parts](https://open.spotify.com/track/5qN5bEU3LL1LroOla5FkaE) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [The Perfect Parts](https://open.spotify.com/album/3BpphwHZ3qPvBMQ8IaldMo) | 3:56 | 2021-12-17 | 2022-07-29 |
-| [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2021-12-17 |  |
+| [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2021-12-17 | 2022-08-27 |
 | [These American Blues](https://open.spotify.com/track/7dkCUjlfKdnpLGr6B1jhle) | [Levi Parham](https://open.spotify.com/artist/04ga4D3fLDKmqmxlo1ej4w) | [These American Blues](https://open.spotify.com/album/0LiMpTX5PlZHmRRs7bflQM) | 3:17 | 2021-12-17 |  |
 | [They Go Low](https://open.spotify.com/track/1ldOtL1REeAmYMQAA0HOoH) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:42 | 2022-06-03 |  |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Thinking 'Bout Myself](https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX) | 3:41 | 2021-12-17 |  |

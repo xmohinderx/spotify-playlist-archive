@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Maglore
+> Novidades e destaques do indie nacional\. Foto: Vanguart
 
-258 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+262 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [AMADA](https://open.spotify.com/track/6nEm0lC3exE9EnyZQLFzBQ) | [Ambivalente](https://open.spotify.com/artist/68sZEcd1SSqZyEE0qK5GUr), [Matheus Who](https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf) | [AMADA](https://open.spotify.com/album/75NHZbvpPsGxpXtQgoZTuJ) | 2:32 | 2022-01-14 | 2022-08-06 |
 | [Amor De Verão](https://open.spotify.com/track/55F2q4R6l1m5hxCJaqw96o) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Amor De Verão](https://open.spotify.com/album/4NovKLUlybz2zMuBiTcfiy) | 2:59 | 2022-05-20 | 2022-06-11 |
 | [Amor Fácil](https://open.spotify.com/track/2XLBexgFy4A9U2SEYNeiB9) | [Vivian Kuczynski](https://open.spotify.com/artist/08AEOtd5A5ubv8RUJIZ3H6) | [Amor Fácil](https://open.spotify.com/album/0rlnF3P0b2PGkfmMzoyZK2) | 2:13 | 2022-01-14 | 2022-07-23 |
+| [Amorosidade](https://open.spotify.com/track/14fslogHelQdWdRpo6jLuW) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Amorosidade](https://open.spotify.com/album/4BqXa4MSi963DMf41RfS4W) | 4:05 | 2022-08-26 |  |
 | [Ana Coqueóis](https://open.spotify.com/track/3UnzUXdK4pHhQcgxopfX7U) | [Sandyalê](https://open.spotify.com/artist/0S2198EHOgRJ1k1A8pnp3v) | [HI\-LOFI](https://open.spotify.com/album/304f1umIJClAaYNcnfPK1J) | 4:32 | 2022-04-01 | 2022-07-16 |
 | [Antes de Me Deixar](https://open.spotify.com/track/3HklnFAPRcIPQJcTEZ3VBs) | [Diego Tavares](https://open.spotify.com/artist/0YMMGm6r3OCnmN6z1PR42X), [Lara Aufranc](https://open.spotify.com/artist/6HOB0s5nvauJBT6mlaQeED) | [Antes de Me Deixar](https://open.spotify.com/album/2OlR1ABips2OgUWauHAwd5) | 1:56 | 2022-04-08 | 2022-04-29 |
 | [Aqueles Homens](https://open.spotify.com/track/546dLtXOOsyvEN6jBJSqYz) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL) | [Aqueles Homens](https://open.spotify.com/album/3UHBNu5gqCpsLJsKG6J7gH) | 4:43 | 2022-06-24 |  |
@@ -106,6 +107,7 @@
 | [Hit](https://open.spotify.com/track/1WFwgI3X9MUsNwv5LVEJi4) | [Ian Medeiros](https://open.spotify.com/artist/6NTsJGOS7l7yWJh5IOSn94) | [Varanda](https://open.spotify.com/album/16vCNvwG9Rj4dC8N8rRokI) | 2:56 | 2022-01-14 | 2022-02-12 |
 | [Hoje é Seu Dia](https://open.spotify.com/track/0UyfXjzCrwQuQZc5U90AKJ) | [Joe Silhueta](https://open.spotify.com/artist/11fmKZ9ffAhZeKK0CBGrd4) | [Sobre saltos y outras quedas](https://open.spotify.com/album/3LxRfT1WmtXlD5Q2R4nu8r) | 3:49 | 2022-07-15 | 2022-08-06 |
 | [holy motors](https://open.spotify.com/track/4qw9MqCDQ4SuP5JyVg32kX) | [brvnks](https://open.spotify.com/artist/3aiMnxQVc0OvFr5vv8g5VW) | [holy motors](https://open.spotify.com/album/1v8B6f6uLDx78zpSS5KzGg) | 3:15 | 2022-02-18 |  |
+| [Ideia Errada](https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ) | [Cigana](https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL) | [Ideia Errada](https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR) | 3:59 | 2022-08-26 |  |
 | [If You Are Leaving](https://open.spotify.com/track/2la1fLxdl0jCv02ZpFXFSn) | [The Zasters](https://open.spotify.com/artist/4ovkIXagFcpSh6q7zNriOt) | [What Comes Next?](https://open.spotify.com/album/3QpVX7aPIIYNx9PVvLmMz2) | 3:12 | 2022-01-14 | 2022-01-22 |
 | [Imperfeito](https://open.spotify.com/track/3bTkfTFNh90ZWsLwecx1JR) | [Arequipa](https://open.spotify.com/artist/0pnDB20LmxCVBhFuFAIcWw) | [Imperfeito](https://open.spotify.com/album/0QZGvE9vKVt8LvNqNQTRJy) | 3:24 | 2022-03-11 | 2022-07-09 |
 | [Isso Não Se Faz](https://open.spotify.com/track/6Quaofku66oYyMJ3m2bgyg) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Niska: Uma Mensagem para Os Tempos de Emergência](https://open.spotify.com/album/1DMLwp6NXaU3CxjPHL8el2) | 3:56 | 2022-01-14 | 2022-02-12 |
@@ -120,6 +122,7 @@
 | [Lobo](https://open.spotify.com/track/48AzQaxVmEx9HCu6jfagDd) | [Valentin](https://open.spotify.com/artist/25VoPjFx405WzNspA0BDw9), [Jair Naves](https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai) | [Lobo](https://open.spotify.com/album/5j0BG1bA5EcZwFieujIKhr) | 4:21 | 2022-07-15 |  |
 | [Love Song](https://open.spotify.com/track/2mbHhK2CvpS5dsxmOYFYnD) | [Gi Basito](https://open.spotify.com/artist/5TTRCZuJLSRUhIXIBjIFBJ) | [LOVE SONGS](https://open.spotify.com/album/7swFG1JHSEBu76Zxp73k8Q) | 4:22 | 2022-03-25 | 2022-04-09 |
 | [mais um lance](https://open.spotify.com/track/47eTiEGgeZwjdIrOiNgG8G) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [mais um lance](https://open.spotify.com/album/78Xvu1T8qRtUvMgix18ypT) | 3:01 | 2022-01-21 |  |
+| [Mal Danado](https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Distoppia](https://open.spotify.com/artist/7jGGTo263KTF3iF7ry7ee6) | [Mal Danado](https://open.spotify.com/album/7JBJUrjXVVn2cmCRrW6fL5) | 3:07 | 2022-08-26 |  |
 | [Mandando](https://open.spotify.com/track/02LpHb4Jij5FbiII3FApBu) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Mandando](https://open.spotify.com/album/7H8Mbrgu2IA7oEYtCE8W63) | 3:37 | 2022-01-14 | 2022-05-14 |
 | [Manhã](https://open.spotify.com/track/7IRFP25YUzoVPWuw9mN9KN) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Manhã](https://open.spotify.com/album/3DMOTpo9bk0QInn7SJrdD8) | 4:02 | 2022-01-28 |  |
 | [Mantra](https://open.spotify.com/track/62xWvqTKWo8h2UG9YWnA9g) | [Personas](https://open.spotify.com/artist/0mb0ogPa9MGn5LEWPI9MrQ) | [Mantra](https://open.spotify.com/album/2Xaylkmc4GnUZIItxxwFD1) | 3:02 | 2022-01-14 | 2022-07-16 |
@@ -264,6 +267,7 @@
 | [vou\-me embora de mim](https://open.spotify.com/track/1f8ZogeEUhm1Nv84LsoJxQ) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [vou\-me embora de mim](https://open.spotify.com/album/54ai34YMvhpux2FLnjWGsz) | 3:06 | 2022-01-14 |  |
 | [Vozes](https://open.spotify.com/track/3HiUwqHR8mma38Oq6dBZmS) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Zé Nigro](https://open.spotify.com/artist/2gPKUWOiCVJK5v1yJUHTpj), [Livia Nery](https://open.spotify.com/artist/2jgNIddZBgTiswbLmv91Qu) | [Vozes](https://open.spotify.com/album/03IpiS4Ezq1YgLAxjLeK1i) | 3:42 | 2022-03-18 | 2022-04-09 |
 | [Vênus](https://open.spotify.com/track/15aq8H2UxtbVCr5MEY37YO) | [Vítor Guima](https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe) | [Vênus](https://open.spotify.com/album/2ZMVEWBLpT3Dc4fsHZmROs) | 2:47 | 2022-01-21 |  |
+| [Zelo](https://open.spotify.com/track/3oMIke70o3excmdrw3e2g9) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f) | [Zelo](https://open.spotify.com/album/6KFN7xhPi1XJc30uvDJjBS) | 3:07 | 2022-08-26 |  |
 | [Ímpar](https://open.spotify.com/track/4Qo4YT6wQz4EkguY7KAINQ) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [ÍMPAR 60](https://open.spotify.com/album/4zqy15IdFuUcqBO1jEEuLN) | 3:00 | 2022-07-08 |  |
 | [Última Vez](https://open.spotify.com/track/4215lJTemWhVIkb47BMTwZ) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Última Vez](https://open.spotify.com/album/1IYWQ7VreE5z8uWCgbH59A) | 5:22 | 2022-06-10 |  |
 

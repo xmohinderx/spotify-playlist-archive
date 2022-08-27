@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 秋山璃月
 
-378 songs - 22 hr 47 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+379 songs - 22 hr 51 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Brain Scratch](https://open.spotify.com/track/1AzGq7oRfqR36LzaCWTiTI) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Brain Scratch](https://open.spotify.com/album/71tODak7A2364WwWyGhXcf) | 3:23 | 2022-08-16 |  |
 | [Burning Fuel](https://open.spotify.com/track/6g9fyqAjF8zk4QhNYkjdYL) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [SEVEN THIRTY ONE](https://open.spotify.com/album/1t40QHVlS8MF8ReiAz67xV) | 2:50 | 2022-03-29 | 2022-08-16 |
 | [Businessman](https://open.spotify.com/track/4pFT8B1n09iD1gMhcZnGcf) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Businessman](https://open.spotify.com/album/0VNDhYYxlpcvBLYJLFQ6dO) | 2:57 | 2022-07-28 | 2022-08-03 |
-| [BYE BYE](https://open.spotify.com/track/2x7yirzFtKkatyq3MiGNk0) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [BYE BYE](https://open.spotify.com/album/5QqEam7ebMRqT4Mf0xO0h0) | 3:41 | 2022-08-25 |  |
+| [BYE BYE](https://open.spotify.com/track/2x7yirzFtKkatyq3MiGNk0) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [BYE BYE](https://open.spotify.com/album/5QqEam7ebMRqT4Mf0xO0h0) | 3:41 | 2022-08-25 | 2022-08-27 |
+| [Bye Bye](https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Bye Bye](https://open.spotify.com/album/2oaPQosRx7EHt403lUQu07) | 3:41 | 2022-08-25 |  |
 | [Bジャンプ](https://open.spotify.com/track/4srFT0JT4zcoPv7YFfd53J) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [Bジャンプ](https://open.spotify.com/album/4gx6cVuTGWieuv6KlyucEj) | 3:32 | 2022-04-05 | 2022-05-18 |
 | [Call Center](https://open.spotify.com/track/49hsrqDA4uRLFqkrXPfsKR) | [ヨルガヲ](https://open.spotify.com/artist/5Didow9VrdyAn3On2AA5DB) | [Call Center](https://open.spotify.com/album/1qGSBYpUhhDsA34KBioqqD) | 3:18 | 2022-05-24 | 2022-07-06 |
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2022-03-08 | 2022-06-29 |

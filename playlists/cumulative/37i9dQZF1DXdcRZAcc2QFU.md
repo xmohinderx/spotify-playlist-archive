@@ -4,7 +4,7 @@
 
 > ‘90s melodies that hit the right spot! Cover: Udit Narayan
 
-60 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/1ULXHWPXGv5rFqwLpYY2CM)
+61 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/1ULXHWPXGv5rFqwLpYY2CM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Chura Ke Dil Mera](https://open.spotify.com/track/4P4NsWdqLziZpEteU1uFCI) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Main Khiladi Tu Anari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RS7g5vd7ohFf8dK2AFgcK) | 7:54 | 2021-11-26 |  |
 | [Chura Ke Dil Mera \(From "Main Khiladi Tu Anari"\)](https://open.spotify.com/track/2k2wbpYLNBmaI6o06KWOgN) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Legendary Hits of Kumar Sanu & Alka Yagnik](https://open.spotify.com/album/4SQPL01wN0WQG7wSgQSYlc) | 7:54 | 2021-11-26 | 2022-01-05 |
 | [Deewana Main Chala](https://open.spotify.com/track/025Y9d4a1rtJcfB8XInzRc) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Pyaar Kiya To Darna Kya](https://open.spotify.com/album/1qvXEHskZGV4XZVBFd7lFP) | 5:30 | 2021-11-26 |  |
-| [Didi Tera Devar Deewana](https://open.spotify.com/track/2WZwiepN5xXBzjJDBSOdUN) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Hum Aapke Hain Koun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58ZItMyvKgkScYBKLGlYuZ) | 8:05 | 2021-11-26 |  |
+| [Didi Tera Devar Deewana](https://open.spotify.com/track/2WZwiepN5xXBzjJDBSOdUN) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Hum Aapke Hain Koun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58ZItMyvKgkScYBKLGlYuZ) | 8:05 | 2021-11-26 | 2022-08-27 |
+| [Didi Tera Devar Deewana \(From "Hum Aapke Hain Koun"\)](https://open.spotify.com/track/5lnxK8H9ccEkliW73ksgW0) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 8:05 | 2022-01-04 |  |
 | [Duniya Mein Aaye](https://open.spotify.com/track/4dmWHeb5cqJyf9djA4N8IS) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Judwaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zFiPUXuvWvj01BpwH3Vi2) | 6:04 | 2021-11-26 |  |
 | [Ek Ho Gaye Hum Aur Tum \- Bombay / Soundtrack Version](https://open.spotify.com/track/6oRFw7tkc38QToqfoF7jVR) | [Remo Fernandes](https://open.spotify.com/artist/6Bthsls57GgYPQFdrY3eyw) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 5:15 | 2021-11-26 |  |
 | [Ek Ladki Ko Dekha](https://open.spotify.com/track/3bTPQ0LL3CVAnDvz1rNHVQ) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [1942 A Love Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6fZY9X2dlswuh0nYwv0X7j) | 4:35 | 2021-11-26 | 2022-07-29 |

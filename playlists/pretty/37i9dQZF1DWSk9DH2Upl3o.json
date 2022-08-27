@@ -1,13 +1,29 @@
 {
-  "description": "The jam scene is alive and well. Cover: Derek Trucks & Susan Tedeschi",
-  "num_followers": 5040,
+  "description": "The jam scene is alive and well. Cover: Papadosio",
+  "num_followers": 5133,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGVjMTdlYWY5NzMyOTY3ODBmMTFiYmRiNTczMzFmOWMy",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDAxMzkwMDMzOTM5ZDY5MWVmYWNlZGFmZmRjZWQ0YTgz",
   "tracks": [
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Not Just a Word",
+        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 338011,
+      "name": "Not Just a Word",
+      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
+    },
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
+        "name": "Time Dilates",
+        "url": "https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29"
       },
       "artists": [
         {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+          "name": "Lotus ",
+          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
         }
       ],
-      "duration_ms": 379640,
-      "name": "Ghost In The Machine",
-      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
+      "duration_ms": 321688,
+      "name": "Time Dilates",
+      "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -71,6 +87,22 @@
       "duration_ms": 478360,
       "name": "Jamflowman",
       "url": "https://open.spotify.com/track/2XyVlq12Nc38bJA22014Ts"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 379640,
+      "name": "Ghost In The Machine",
+      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -91,6 +123,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Dripfield",
+        "url": "https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 426602,
+      "name": "Hungersite",
+      "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Joyfell",
         "url": "https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj"
       },
@@ -107,22 +155,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Best in Show",
-        "url": "https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC"
-      },
-      "artists": [
-        {
-          "name": "Aqueous",
-          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
-        }
-      ],
-      "duration_ms": 485880,
-      "name": "Random Company",
-      "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Joyfunk Is Dead",
         "url": "https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7"
       },
@@ -135,26 +167,6 @@
       "duration_ms": 173105,
       "name": "New Eyes",
       "url": "https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Interludes For The Dead (feat. Neal Casal)",
-        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
-      },
-      "artists": [
-        {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
-        },
-        {
-          "name": "Neal Casal",
-          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
-        }
-      ],
-      "duration_ms": 565240,
-      "name": "Saturday's Children (feat. Neal Casal)",
-      "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -175,18 +187,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Dripfield",
-        "url": "https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV"
+        "name": "Interludes For The Dead (feat. Neal Casal)",
+        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
       },
       "artists": [
         {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        },
+        {
+          "name": "Neal Casal",
+          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
         }
       ],
-      "duration_ms": 426602,
-      "name": "Hungersite",
-      "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
+      "duration_ms": 565240,
+      "name": "Saturday's Children (feat. Neal Casal)",
+      "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -253,6 +269,22 @@
       "url": "https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM"
     },
     {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "I Am The Moon: III. The Fall",
+        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "Take Me As I Am",
+      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
+    },
+    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Tumbleweed",
@@ -315,22 +347,6 @@
       "duration_ms": 186763,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "I Am The Moon: III. The Fall",
-        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Take Me As I Am",
-      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -611,6 +627,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Best in Show",
+        "url": "https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC"
+      },
+      "artists": [
+        {
+          "name": "Aqueous",
+          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
+        }
+      ],
+      "duration_ms": 485880,
+      "name": "Random Company",
+      "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "The Werks",
         "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
@@ -623,38 +655,6 @@
       "duration_ms": 412707,
       "name": "Galactic Passport",
       "url": "https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Dopapod",
-        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
-      },
-      "artists": [
-        {
-          "name": "Dopapod",
-          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
-        }
-      ],
-      "duration_ms": 304826,
-      "name": "Nuff",
-      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Don't Say Goodnight Just Yet",
-        "url": "https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe"
-      },
-      "artists": [
-        {
-          "name": "Ghost Light",
-          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
-        }
-      ],
-      "duration_ms": 354127,
-      "name": "Don't Say Goodnight Just Yet",
-      "url": "https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Don't Say Goodnight Just Yet",
+        "url": "https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe"
+      },
+      "artists": [
+        {
+          "name": "Ghost Light",
+          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
+        }
+      ],
+      "duration_ms": 354127,
+      "name": "Don't Say Goodnight Just Yet",
+      "url": "https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Off Leash",
         "url": "https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU"
       },
@@ -687,6 +703,22 @@
       "duration_ms": 462830,
       "name": "Off Leash",
       "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Dopapod",
+        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
+      },
+      "artists": [
+        {
+          "name": "Dopapod",
+          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
+        }
+      ],
+      "duration_ms": 304826,
+      "name": "Nuff",
+      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -783,38 +815,6 @@
       "duration_ms": 346346,
       "name": "What'cha Gonna Do",
       "url": "https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Element",
-        "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
-      },
-      "artists": [
-        {
-          "name": "Backup Planet",
-          "url": "https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD"
-        }
-      ],
-      "duration_ms": 433720,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Jambands Ruined My Life",
-        "url": "https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU"
-      },
-      "artists": [
-        {
-          "name": "The Mantras",
-          "url": "https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji"
-        }
-      ],
-      "duration_ms": 375939,
-      "name": "Kinetic Bump",
-      "url": "https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt"
     }
   ],
   "unique_name": "Modern Jam Band",

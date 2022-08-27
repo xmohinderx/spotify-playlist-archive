@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,442,847 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,443,485 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 71 | [REDLIGHT \- VIP](https://open.spotify.com/track/76peqTD79xDzySA3SyWzs5) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [REDLIGHT \(VIP\)](https://open.spotify.com/album/5mczOUN0PKncHlSTvX8vVA) | 3:19 |
 | 72 | [RELOAD](https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [RELOAD](https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC) | 2:56 |
 | 73 | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J) | 2:40 |
-| 74 | [Heartbroken Twenty Twenty](https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Heartbroken Twenty Twenty](https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4) | 2:51 |
-| 75 | [Joker \(Gawm Remix\)](https://open.spotify.com/track/6MQjOwzFgivGZM7Ke30uhB) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Frequency Pusher](https://open.spotify.com/artist/3VCKNFd2r6bFaSK3DSyqUT), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT), [Luvaboy Tj](https://open.spotify.com/artist/7gE5hIAnB7EXgQUMhjfb92) | [Joker \(Gawm Remix\)](https://open.spotify.com/album/6rA8lYRLd9b0i4CSlhsoBR) | 3:24 |
+| 74 | [Joker \(Gawm Remix\)](https://open.spotify.com/track/6MQjOwzFgivGZM7Ke30uhB) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Frequency Pusher](https://open.spotify.com/artist/3VCKNFd2r6bFaSK3DSyqUT), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT), [Luvaboy Tj](https://open.spotify.com/artist/7gE5hIAnB7EXgQUMhjfb92) | [Joker \(Gawm Remix\)](https://open.spotify.com/album/6rA8lYRLd9b0i4CSlhsoBR) | 3:24 |
+| 75 | [Trap Anthem](https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Trap Anthem](https://open.spotify.com/album/2w12DfrAjOlweziwmo0W1P) | 2:27 |
 
-Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMGJhZDY1NjU1ZWQxMGJiYjk1NjAyZWJmNTVmNmY4MDA0`
+Snapshot ID: `MTY2MTUyMjMwNSwwMDAwMDAwMDcyNWIzMDY0ZjdlNjE0ZGUxNzkyZTJiYTRhYmRjZTdk`

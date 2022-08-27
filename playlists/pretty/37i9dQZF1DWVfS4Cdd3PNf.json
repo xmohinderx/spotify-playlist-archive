@@ -1,13 +1,49 @@
 {
   "description": "Masterpieces from the world of opera.",
-  "num_followers": 283154,
+  "num_followers": 283277,
   "original_name": "Opera Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGEzMzZkZTQ0OTBmODlkOWFlZDA0NGU0OWFjZmZhZjk2",
+  "snapshot_id": "MTY2MTUwNTA5OSwwMDAwMDAwMGI5OWI2Y2Y5MTIzNTZlNjEwOGEwMWM0ZDAxY2U1MDQw",
   "tracks": [
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Ileana Cotrubas",
+          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Chor der Bayerischen Staatsoper M\u00fcnchen",
+          "url": "https://open.spotify.com/artist/2WQOMWyQxqfd96VyU943Tx"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "La traviata / Act I: Libiamo ne'lieti calici",
+      "url": "https://open.spotify.com/track/41ujv4mhxlqR8nlnieDpDp"
+    },
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
@@ -71,42 +107,6 @@
       "duration_ms": 402040,
       "name": "Turandot / Act 3: Nessun dorma!",
       "url": "https://open.spotify.com/track/3b9Dae2aPvOGKNOcdhj9CP"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Ileana Cotrubas",
-          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Chor der Bayerischen Staatsoper M\u00fcnchen",
-          "url": "https://open.spotify.com/artist/2WQOMWyQxqfd96VyU943Tx"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "La traviata / Act I: Libiamo ne'lieti calici",
-      "url": "https://open.spotify.com/track/41ujv4mhxlqR8nlnieDpDp"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -231,6 +231,62 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Opera Chill & Relax",
+        "url": "https://open.spotify.com/album/0kUiwKyKt3FOXFIGII0y2K"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "duration_ms": 169880,
+      "name": "Gianni Schicchi: \"O mio babbino caro\"",
+      "url": "https://open.spotify.com/track/4ErQ9so16QNxy0srB7vJE7"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Mattei, Peter: Great Baritone Arias",
+        "url": "https://open.spotify.com/album/0G2GNH7l5xr3JdESHgJI0z"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Peter Mattei",
+          "url": "https://open.spotify.com/artist/18Bm1xs8qFr9pPiy6GONgu"
+        },
+        {
+          "name": "Royal Stockholm Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0"
+        },
+        {
+          "name": "Lawrence Renes",
+          "url": "https://open.spotify.com/artist/0SUKg85hFLu84BAUx3pNpf"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Il barbiere di Siviglia (The Barber of Seville), Act I: Cavatina: Largo al factotum della citta",
+      "url": "https://open.spotify.com/track/5p4BRlcUzvRpApjjEFAtUq"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Puccini: Tosca",
         "url": "https://open.spotify.com/album/2oEn5IklXZ1V64HTAW2XBF"
       },
@@ -259,34 +315,6 @@
       "duration_ms": 285733,
       "name": "Tosca / Act 2: \"Vissi d'arte, vissi d'amore\"",
       "url": "https://open.spotify.com/track/7llzoWbL1ToAHq9IL3F84D"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Opera Chill & Relax",
-        "url": "https://open.spotify.com/album/0kUiwKyKt3FOXFIGII0y2K"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Sir Charles Mackerras",
-          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
-        }
-      ],
-      "duration_ms": 169880,
-      "name": "Gianni Schicchi: \"O mio babbino caro\"",
-      "url": "https://open.spotify.com/track/4ErQ9so16QNxy0srB7vJE7"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -399,34 +427,6 @@
       "duration_ms": 248306,
       "name": "Pagliacci / Act 1: \"Recitar!...Vesti la giubba\"",
       "url": "https://open.spotify.com/track/1gcF7SWXRSlceY4AadLGN8"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Mattei, Peter: Great Baritone Arias",
-        "url": "https://open.spotify.com/album/0G2GNH7l5xr3JdESHgJI0z"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Peter Mattei",
-          "url": "https://open.spotify.com/artist/18Bm1xs8qFr9pPiy6GONgu"
-        },
-        {
-          "name": "Royal Stockholm Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0"
-        },
-        {
-          "name": "Lawrence Renes",
-          "url": "https://open.spotify.com/artist/0SUKg85hFLu84BAUx3pNpf"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Il barbiere di Siviglia (The Barber of Seville), Act I: Cavatina: Largo al factotum della citta",
-      "url": "https://open.spotify.com/track/5p4BRlcUzvRpApjjEFAtUq"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -571,6 +571,38 @@
       "duration_ms": 525933,
       "name": "Porgy and Bess / Act 1: \"Summertime\"",
       "url": "https://open.spotify.com/track/6KPHeapd7OZ6W0jEoOWT6L"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Bizet : Carmen",
+        "url": "https://open.spotify.com/album/249X9ZjhWATM2KlkcCh9pt"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Michel Plasson",
+          "url": "https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob"
+        },
+        {
+          "name": "Wolff",
+          "url": "https://open.spotify.com/artist/6QU20RnCPYe0CFYutfeq6D"
+        },
+        {
+          "name": "Orchestre National Du Capitole De Toulouse",
+          "url": "https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Carmen, Act I: No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigari\u00e8res/Jeunes gens/Dragons)",
+      "url": "https://open.spotify.com/track/3pzBD8BVdrv7VJ7glRYshl"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -811,38 +843,6 @@
       "duration_ms": 203613,
       "name": "Il Trovatore / Act 3: \"Di quella pira\"",
       "url": "https://open.spotify.com/track/0rzDX4x0oSI2Gs3mPEvoIl"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Bizet : Carmen",
-        "url": "https://open.spotify.com/album/249X9ZjhWATM2KlkcCh9pt"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Angela Gheorghiu",
-          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
-        },
-        {
-          "name": "Michel Plasson",
-          "url": "https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob"
-        },
-        {
-          "name": "Wolff",
-          "url": "https://open.spotify.com/artist/6QU20RnCPYe0CFYutfeq6D"
-        },
-        {
-          "name": "Orchestre National Du Capitole De Toulouse",
-          "url": "https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Carmen, Act I: No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigari\u00e8res/Jeunes gens/Dragons)",
-      "url": "https://open.spotify.com/track/3pzBD8BVdrv7VJ7glRYshl"
     },
     {
       "added_at": "2022-07-29 04:01:00",

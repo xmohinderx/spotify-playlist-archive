@@ -2,9 +2,9 @@
 
 ### [mint MX](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
 
-> Descubre lo más fresco de la electrónica mexicana\. Foto: Mr\. Pig
+> Descubre lo más fresco de la electrónica mexicana\. Steve Aoki, Santa Fe Klan y Snow Tha Product
 
-171 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/6ndsqys7EQOockTFuddjf1)
+172 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/6ndsqys7EQOockTFuddjf1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Slow Down](https://open.spotify.com/track/4abIT4XGykGVMWclOKTZC3) | [Mijangos](https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Slow Down](https://open.spotify.com/album/4KSw7LdRE05BtwuspdSzWM) | 5:54 | 2022-05-06 | 2022-07-22 |
 | [Slow Motion](https://open.spotify.com/track/2r8Wq7tUVdkIZpeuI8TBsE) | [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7) | [Tándem 003](https://open.spotify.com/album/71edUZkWDVsyQjUwC4Bb3d) | 8:00 | 2022-05-06 | 2022-07-26 |
 | [Sorry](https://open.spotify.com/track/0avt9Jr2hdNXeqaRWOv1SA) | [Youth In Circles](https://open.spotify.com/artist/35FbwufKDprqJfq8Qnk31b) | [Sorry](https://open.spotify.com/album/56XAoIyyXf4gbRyBO7uEur) | 3:49 | 2022-05-06 | 2022-07-16 |
-| [Space](https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3) | [NØRBY](https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Space](https://open.spotify.com/album/3r4UauxvbGR8am8API7124) | 2:58 | 2022-05-06 |  |
+| [Space](https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3) | [NØRBY](https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Space](https://open.spotify.com/album/3r4UauxvbGR8am8API7124) | 2:58 | 2022-05-06 | 2022-08-27 |
 | [Stereo Love](https://open.spotify.com/track/6X9hD9medguWs5mMGy6S0X) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ), [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Stereo Love](https://open.spotify.com/album/3G5JR3RJrRSVJTQv2QfcGH) | 3:07 | 2022-05-06 |  |
 | [Sunrise](https://open.spotify.com/track/63qjpIJeOAK2EW5IEFBv6M) | [VINIIUM](https://open.spotify.com/artist/01wEzy3mqT1ofEGTAz0Li8), [Cuish](https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Sunrise](https://open.spotify.com/album/30vmI1DiwumAQksOw5OqMm) | 2:48 | 2022-07-28 |  |
 | [Superhero](https://open.spotify.com/track/2Qs5tIbboAR14vYDIbuCRp) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Superhero](https://open.spotify.com/album/4cUZ6cXbaWqVbe3xJJmdWu) | 2:58 | 2022-05-06 |  |
@@ -163,6 +163,7 @@
 | [Trago a Trago](https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Trago a Trago](https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl) | 2:17 | 2022-05-06 |  |
 | [Tribu Latina](https://open.spotify.com/track/3d3XJIOhedhrt6UbU0KwQf) | [Elee Bermudez](https://open.spotify.com/artist/3XL83JdrAA1BDV1yVTcskW), [TOSCA](https://open.spotify.com/artist/4HNSfNTAFpn017tvAro6xx), [Kata Medina](https://open.spotify.com/artist/6bLbw7OKggYlORHhQcDxp0) | [Tribu Latina](https://open.spotify.com/album/0vzt5WFJsjVw5hCZLojiK9) | 3:22 | 2022-05-06 |  |
 | [Trouble](https://open.spotify.com/track/0UT4v8phNkia6bnZLX1ewM) | [Bandido Brothers](https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ) | [Trouble](https://open.spotify.com/album/3RbEJkFPtLRiu30qqKT4Me) | 3:37 | 2022-05-06 | 2022-07-29 |
+| [Ultimate \(ft\. Snow Tha Product\)](https://open.spotify.com/track/3cQo8Sz2SaYHcPFXrqBxGT) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Ultimate \(ft\. Snow Tha Product\)](https://open.spotify.com/album/4qGyc7iOQDVBlIrq1VXtu6) | 3:33 | 2022-08-26 |  |
 | [Up & Down](https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Up & Down](https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ) | 3:04 | 2022-05-06 |  |
 | [UP \(Bzars Remix\)](https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9) | [UP \(Bzars Remix\)](https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g) | 2:22 | 2022-05-06 |  |
 | [Water](https://open.spotify.com/track/6YKAHZmMh4kC38swSr9RdA) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Zavier Royal](https://open.spotify.com/artist/043Pu7AgQ1riiaa6hKaL3s) | [Water](https://open.spotify.com/album/1NkjoA2CZjQV3cbwdb9ld8) | 3:04 | 2022-05-06 | 2022-07-28 |

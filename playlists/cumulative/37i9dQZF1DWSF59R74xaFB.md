@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-349 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
+350 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 | 2021-10-21 | 2022-07-18 |
 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 | 2021-10-21 | 2022-04-21 |
 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 | 2022-02-18 | 2022-07-15 |
-| [Dime tú](https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dime tú](https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD) | 3:30 | 2021-10-21 |  |
+| [Dime tú](https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dime tú](https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD) | 3:30 | 2021-10-21 | 2022-08-27 |
 | [Dime Tú](https://open.spotify.com/track/4mhW4w0yVsi2rkHPHosexZ) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Dime Tú](https://open.spotify.com/album/77HT3gzMNDl9liyrWR2W3M) | 3:40 | 2022-05-18 | 2022-06-07 |
 | [Divina Maldición](https://open.spotify.com/track/1aA6CKLKDixBYE7W127mPs) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [Divina Maldición](https://open.spotify.com/album/5HS7kKjoCi150VzbgVCt5Y) | 2:40 | 2022-07-14 | 2022-08-12 |
 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 | 2022-01-24 |  |
@@ -229,6 +229,7 @@
 | [No Tengo Nada](https://open.spotify.com/track/2gXclup5H2J9dInrVLFs3n) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [No Tengo Nada](https://open.spotify.com/album/0sUMIXlf7GdaeiEibYJLml) | 3:45 | 2021-10-21 | 2022-04-20 |
 | [No Termino](https://open.spotify.com/track/3YjguG5v9vS5o8Cnciy76z) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [No Termino](https://open.spotify.com/album/55vHrdepEsedAK6Rw1HNnF) | 3:59 | 2021-10-21 | 2022-04-20 |
 | [Nunca](https://open.spotify.com/track/5hjxREyr8iSx5vrklm6C3H) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL) | [Nunca](https://open.spotify.com/album/3MxoI5PmOfU5Zil6xA2iVo) | 3:50 | 2021-10-21 | 2022-04-20 |
+| [Nunca Digas Jamás](https://open.spotify.com/track/40V8awZXT0DdTcYOzRHH61) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Nunca Digas Jamás](https://open.spotify.com/album/68eOK9YTfbG2IUEt3BH7Zm) | 3:33 | 2022-08-26 |  |
 | [Odiarte](https://open.spotify.com/track/1hlLbumptVAfOX712ErhxQ) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Odiarte](https://open.spotify.com/album/4iC9etdZ8TEi93oFbEtJqt) | 3:56 | 2021-10-21 | 2022-04-08 |
 | [Ojos noche](https://open.spotify.com/track/5OZvHebtk8FNXNHGYkYZKz) | [Andrea Grauzas](https://open.spotify.com/artist/0fdCZp1n2CC8irnQkGKEkh) | [Ojos noche](https://open.spotify.com/album/2lFDrJaRfqXPg01dtjpfMW) | 3:57 | 2022-03-18 | 2022-04-19 |
 | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV) | 4:14 | 2022-03-18 | 2022-07-29 |
@@ -293,7 +294,7 @@
 | [Tanto](https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:39 | 2021-10-21 |  |
 | [Tanto](https://open.spotify.com/track/3bCuNSiaBHqxdevMYEnGpe) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Tanto](https://open.spotify.com/album/3mBRgkagJKALFDxm5ptevT) | 3:39 | 2021-10-21 | 2022-07-29 |
 | [Tauro Con Leo](https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Tauro Con Leo](https://open.spotify.com/album/6Ad8wsibWtAhqaTwxBJFib) | 3:02 | 2022-03-11 | 2022-04-18 |
-| [Tauro Con Leo \- En Vivo Desde El Lunario](https://open.spotify.com/track/4uaUXp8CFU4XMIBgKCzYDk) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [En Vivo Desde El Lunario](https://open.spotify.com/album/246jrgfPP0a1I8yqsZL1SB) | 3:07 | 2022-08-19 |  |
+| [Tauro Con Leo \- En Vivo Desde El Lunario](https://open.spotify.com/track/4uaUXp8CFU4XMIBgKCzYDk) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [En Vivo Desde El Lunario](https://open.spotify.com/album/246jrgfPP0a1I8yqsZL1SB) | 3:11 | 2022-08-19 |  |
 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 | 2021-10-21 |  |
 | [Te Confieso](https://open.spotify.com/track/7AIy2SEjip6FKhlSNMoMac) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Te Confieso](https://open.spotify.com/album/7vzVWhQCU8ZMc8H4tVV9vy) | 3:15 | 2021-10-21 | 2022-07-28 |
 | [Te Doy la Vida](https://open.spotify.com/track/0QoIobc4b5ZZxD2taPV9uK) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Te Doy la Vida](https://open.spotify.com/album/5kfUlusVqzTyiM14TwpOlz) | 4:01 | 2021-10-21 | 2022-07-29 |

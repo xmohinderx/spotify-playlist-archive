@@ -396,6 +396,24 @@
     },
     {
       "album": {
+        "name": "Caravana",
+        "url": "https://open.spotify.com/album/5x3MyHjWLUHY8UtxLMwUAh"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110640,
+      "name": "Caravana",
+      "url": "https://open.spotify.com/track/59AqjQSvyD9MIuFV9i9Lmc"
+    },
+    {
+      "album": {
         "name": "Carnav\u00e1lia (Ao Vivo)",
         "url": "https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl"
       },
@@ -721,7 +739,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 197426,
       "name": "De Noite Na Cama",
       "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 244650,
       "name": "L\u00e1bios Que Beijei",
       "url": "https://open.spotify.com/track/4eCxHYt3VfiffuRSkydhgN"
@@ -1353,6 +1371,28 @@
       "duration_ms": 346266,
       "name": "Nem um Dia",
       "url": "https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta"
+    },
+    {
+      "album": {
+        "name": "Couvert Art\u00edstico JB FM: Fagner",
+        "url": "https://open.spotify.com/album/0bAb2GnNJrS8AQUOJJvpue"
+      },
+      "artists": [
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        },
+        {
+          "name": "JB FM",
+          "url": "https://open.spotify.com/artist/1xwN91NLLDytxVQkqclZRu"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276480,
+      "name": "Noturno (Cora\u00e7\u00e3o Alado)",
+      "url": "https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS"
     },
     {
       "album": {

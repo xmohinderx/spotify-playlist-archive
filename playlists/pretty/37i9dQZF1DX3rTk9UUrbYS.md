@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,558 likes - 50 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,578 likes - 50 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [Explain It To Me](https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL), [Ralph Bowen](https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX), [Tim Warfield](https://open.spotify.com/artist/6HliM51Oq8IMwZKXQbJr7v), [Antonio Hart](https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA), [Sam Newsome](https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke), [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Rodney Whitaker](https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv), [Ralph Peterson](https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7) | [Captain Black](https://open.spotify.com/album/6Y9L6mLq2dhTWWDx9CNEGX) | 7:48 |
 | 50 | [Suite 3320, Pt\. I \- Live](https://open.spotify.com/track/3yt7rjEyVLYWGZ2307OSNI) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7), [Tony Malaby](https://open.spotify.com/artist/6woeo15v4gYqiegGAknRm0), [Tom Rainey](https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO) | [Live at the 55 Bar](https://open.spotify.com/album/1ee4YOkRpLaauwDd7Ai8VH) | 16:53 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDBjYTI4NDI1MGM5NDQ0NjU5ODdmMjNjYWYyOWNiMjYw`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGExNmM3YmFjZGQzN2EyZmQyZWM5YTI3OWFlMzQ2Mzg2`

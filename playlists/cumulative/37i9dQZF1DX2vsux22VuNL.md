@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: POCAH, BIN, Lionel
 
-116 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/6jQhl9g0LTyG58hELgK7FX)
+117 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/6jQhl9g0LTyG58hELgK7FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Quando A Gente Briga](https://open.spotify.com/track/0xSYfmxbUMj2ZpkM8rQIlh) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Mahogany Beatz](https://open.spotify.com/artist/1Zqg6bGNN9aE96nM2fAz3T), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Quando A Gente Briga](https://open.spotify.com/album/36SoFfcNNZyNFYaPJuh9yF) | 4:37 | 2022-05-23 |  |
 | [Quanta Riqueza](https://open.spotify.com/track/5ducepktoljPO994NZQDGJ) | [Igor Sales](https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Quanta Riqueza](https://open.spotify.com/album/5eiWGVE6tFQiv4HhusuxWM) | 3:12 | 2022-05-23 | 2022-06-15 |
 | [Refém](https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Refém](https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0) | 3:00 | 2022-05-23 |  |
-| [Sabor Uva](https://open.spotify.com/track/1lBdaxzlCO1NeeWpqeCU5r) | [João Zoli](https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz) | [Sabor Uva](https://open.spotify.com/album/52TWk831CN8A5j0n11wpEH) | 2:39 | 2022-08-19 |  |
+| [Sabor Uva](https://open.spotify.com/track/1lBdaxzlCO1NeeWpqeCU5r) | [João Zoli](https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz) | [Sabor Uva](https://open.spotify.com/album/52TWk831CN8A5j0n11wpEH) | 2:39 | 2022-08-19 | 2022-08-27 |
 | [Salserin \#1 \- Para](https://open.spotify.com/track/4803QEhCk7Oq6J6sJEY9GB) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Klawss](https://open.spotify.com/artist/3I9C9CNau9mKZYUZk5E5MA) | [Salserin \#1 \- Para](https://open.spotify.com/album/375MzJOkgq1Dp7PNW0MOF9) | 3:30 | 2022-05-23 |  |
 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 | 2022-05-23 |  |
 | [Saturno](https://open.spotify.com/track/0NhspKUShMWkPz1RnFyNeX) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Saturno](https://open.spotify.com/album/1bUwo2rcqeWHbH1mRPHgmj) | 3:01 | 2022-06-03 | 2022-07-23 |
@@ -124,5 +124,6 @@
 | [Vale Nada](https://open.spotify.com/track/1HcptUOhD09D9Q61Y1eWTG) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Vale Nada](https://open.spotify.com/album/3znzrPr1akppdreErreNFU) | 2:44 | 2022-05-23 |  |
 | [War](https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial](https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U) | 2:32 | 2022-05-23 |  |
 | [Última Mensagem](https://open.spotify.com/track/0aiIX2aJenYmGFw1BWUyxc) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Última Mensagem](https://open.spotify.com/album/4qMQhFYLjAzYvFkxvVJOR4) | 2:54 | 2022-05-23 |  |
+| [Último Romântico do Mundo](https://open.spotify.com/track/7r24W0zWyGaLWktPK642gi) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Último Romântico do Mundo](https://open.spotify.com/album/4HxcId1MyFQi0XqXhxuPC3) | 3:06 | 2022-08-26 |  |
 
 \*This playlist was first scraped on 2022-05-27. Prior content cannot be recovered.

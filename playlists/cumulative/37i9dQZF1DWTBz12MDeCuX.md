@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: southstar
 
-296 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+298 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Cloud](https://open.spotify.com/track/3BzUXih3wwnalV34k1arHj) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Cloud](https://open.spotify.com/album/2pckppGAwqQM0KtrnS5Itc) | 3:07 | 2022-06-17 | 2022-06-24 |
 | [COACHELLA](https://open.spotify.com/track/3gyRaifTaAoQrwtYiQu9ur) | [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm), [Nullzweizwei](https://open.spotify.com/artist/0TVANDORspsd2X7Gg9rhcW) | [COACHELLA](https://open.spotify.com/album/3rKUse3bRNWC18dktsMnCX) | 2:46 | 2022-06-09 | 2022-08-05 |
 | [Commitment Issues](https://open.spotify.com/track/3tjoq1CMR4YtSUegC5sbU8) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Boys Do Cry](https://open.spotify.com/album/1lIjKOmyguCKZFuPyDZp6h) | 1:51 | 2022-07-14 |  |
-| [complex \- demo](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-25 |  |
+| [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-25 |  |
 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 | 2022-07-04 |  |
 | [Cool & Fresh](https://open.spotify.com/track/59MVohcr4ayOZvXW51QU4Z) | [Julien Bam](https://open.spotify.com/artist/5Jm4syNxe3BMFMlgPajszM), [Julia Beautx](https://open.spotify.com/artist/6j90FihrvT1wUrJlDRxZdk) | [Cool & Fresh](https://open.spotify.com/album/4UmB6WLI2AkD0ng2WHusNX) | 2:17 | 2022-06-20 | 2022-07-20 |
 | [coq au vin](https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [coq au vin](https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM) | 3:44 | 2022-08-11 |  |
@@ -213,7 +213,8 @@
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-06-09 | 2022-07-14 |
 | [Reich](https://open.spotify.com/track/22rr5JnP8tY34SK9FFfmqb) | [Young Lime](https://open.spotify.com/artist/0Jhs3BaasBkHVakrZFUB4Q), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Reich](https://open.spotify.com/album/04syqoVqubBNgMX8u2WAon) | 2:17 | 2022-08-11 | 2022-08-19 |
 | [Romantic Homicide](https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2) | 2:12 | 2022-08-18 |  |
-| [Run Away to Mars](https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W) | 3:33 | 2022-08-25 |  |
+| [Run Away to Mars](https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W) | 3:33 | 2022-08-25 | 2022-08-27 |
+| [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-08-25 |  |
 | [Runnin](https://open.spotify.com/track/1viUVY9PeeVu4kqwLjBOyB) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M), [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4) | [Runnin](https://open.spotify.com/album/2BQvv9Z7z5GeqZu07GM4G6) | 4:17 | 2022-08-11 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-09 | 2022-07-29 |
 | [s2](https://open.spotify.com/track/4GdBOEwLdKVZSrXIPxYR24) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [sms](https://open.spotify.com/album/1out4sjRLrZyugnlMqnPyi) | 1:41 | 2022-08-25 |  |
@@ -302,6 +303,7 @@
 | [World War 3](https://open.spotify.com/track/6UEsGMsL6vD77jqvjsmCOh) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:55 | 2022-08-11 |  |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-07-14 | 2022-07-26 |
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-07-25 | 2022-08-26 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-25 |  |
 | [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Fergy53](https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6) | [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/album/0LwhqOEMSOYTYJs3HluHrQ) | 2:14 | 2022-07-14 | 2022-07-26 |
 | [ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [ZUCKER](https://open.spotify.com/album/4DwIsVI6Ra9KC8zJX3A1v3) | 2:24 | 2022-07-21 |  |
 

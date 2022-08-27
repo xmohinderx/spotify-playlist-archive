@@ -4,7 +4,7 @@
 
 > Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.
 
-115 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/7npQPe6LEo683b5Sn0aaAj)
+116 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/7npQPe6LEo683b5Sn0aaAj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Piano Sonata No.14 in C\-Sharp Minor, Op\. 27 No\. 2 \- "Moonlight": II\. Allegretto](https://open.spotify.com/track/7lo7NTRhtbbiwKODiMRsR7) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Beethoven: The Piano Sonatas](https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U) | 2:12 | 2022-07-22 |  |
 | [Piano Sonata No.14 in C\-Sharp Minor, Op\. 27 No\. 2 \- "Moonlight": III\. Presto agitato](https://open.spotify.com/track/2OQzVmgl8WoNEYDdOLSEOf) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Beethoven: The Piano Sonatas](https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U) | 7:41 | 2022-07-22 |  |
 | [Piano Sonata No.14 in C\-Sharp Minor, Op\. 27 No\. 2 \- "Moonlight": III\. Presto agitato](https://open.spotify.com/track/1SryZ16iuLbxe6Nv58VgVG) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Beethoven: Mondschein\-Sonate – Meisterwerke](https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF) | 7:42 | 2021-06-17 | 2022-07-29 |
+| [Piano Trio No\. 5 in D Major, Op\. 70 No\. 1 "Geistertrio": I\. Allegro vivace e con brio \- Live](https://open.spotify.com/track/0N4mgaz975YMjRcbixYtHg) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9), [Ilya Gringolts](https://open.spotify.com/artist/0gr5W6FgzzoMwp7PhpMRqD), [Truls Mørk](https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1) | [Trifonov Plays Chamber Music \(Live\)](https://open.spotify.com/album/7E4JlzzswrUxb2wPDWji7r) | 10:31 | 2022-08-26 |  |
 | [Polonaise in C Major, Op\. 89](https://open.spotify.com/track/0nkW29HPGGR5mAdmGAz7Nr) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Matthias Kirschnereit](https://open.spotify.com/artist/48puMugH2PJXYjqzkRYlFd) | [Beethoven: Unknown Solo Piano Works](https://open.spotify.com/album/7DwSWi1dY5yeoVt8TarvyM) | 6:14 | 2021-06-17 |  |
 | [Rage Over A Lost Penny, Op\. 129](https://open.spotify.com/track/6KL1WBVvLnKRL7wOAyzF9j) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [Classical Pieces by Beethoven](https://open.spotify.com/album/3Eewb2sM07NiS6VQ9pKd76) | 6:13 | 2022-07-22 |  |
 | [Rage Over A Lost Penny, Op\. 129](https://open.spotify.com/track/3QnU25Zw23qOUugdtTWgsY) | [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [Beethoven: Rage Over A Lost Penny](https://open.spotify.com/album/6fJtiYktWi6VsiGnRTCwUd) | 6:13 | 2021-06-17 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-119 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/25GUqW5JgOJRI76d5fMAD3)
+120 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/25GUqW5JgOJRI76d5fMAD3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [For Your Love](https://open.spotify.com/track/7aQl0tl7Dcf6doXtTgixwh) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [For Your Love](https://open.spotify.com/album/6rvpybNWiLEhQOadkUPDZj) | 3:14 | 2022-03-10 |  |
 | [Forever Young](https://open.spotify.com/track/1YoOexv2qAxVZo5xnLlt5h) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Forever Young](https://open.spotify.com/album/5ETornmpL2uUmYDdtF0Oy4) | 3:39 | 2022-03-10 |  |
 | [Garota de Ipanema \(The Girl From Ipanema\)](https://open.spotify.com/track/0xYbaQtR9Nj1VbkPPIAUII) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Chill in Saint Tropez](https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT) | 3:23 | 2022-07-01 |  |
+| [Get Lucky](https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Get Lucky](https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ) | 3:51 | 2022-08-26 |  |
 | [Girls Like You](https://open.spotify.com/track/269KxTQgkQuL9m5BQDESZn) | [Belmira](https://open.spotify.com/artist/4wsZN1JHWi561Kqlgo2cS1) | [Girls Like You](https://open.spotify.com/album/1LnVYXf8KSGZOKOtjnKMdl) | 3:13 | 2022-03-10 | 2022-07-02 |
 | [God Only Knows](https://open.spotify.com/track/5Gns8npv1HmkQ5BzZzWS9d) | [Lilia Tracie](https://open.spotify.com/artist/14JPzuBcED5VkwQQZTvgbX) | [God Only Knows](https://open.spotify.com/album/7GjKFcuEOZZaMGJXn7sK81) | 2:38 | 2022-03-10 |  |
 | [Goodbyes](https://open.spotify.com/track/7M1wP7mlIZwtKTEwBunSjw) | [Lo Cabana](https://open.spotify.com/artist/3zyCvzirdRdVPVUeawuuwC) | [Goodbyes](https://open.spotify.com/album/6clGJ2qeydc7HuUlVPU6b7) | 2:10 | 2022-03-10 |  |

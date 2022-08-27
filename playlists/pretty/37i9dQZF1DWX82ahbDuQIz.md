@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: SIX
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,088 likes - 90 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,207 likes - 90 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 84 | [Rose's Turn](https://open.spotify.com/track/5g7Cop4WmcSpKN2Sadq3qv) | [Rose](https://open.spotify.com/artist/2z0IJ75fUUoHoO0MmqYAXC) | [Gypsy \- The 2008 Broadway Cast Recording](https://open.spotify.com/album/4dJ5ZnyEQ996ZqWRPyagwZ) | 4:19 |
 | 85 | [Not for the Life of Me](https://open.spotify.com/track/2CBlRiZjGJZ10y5FRyn2Vb) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G) | [Thoroughly Modern Millie \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6QtfyhxYrZIZMwTYjtcrH2) | 2:10 |
 | 86 | [Heart of Stone](https://open.spotify.com/track/3akeuMy9bqJbqDlfYevbwN) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Natalie Paris](https://open.spotify.com/artist/4rNKsg7PLOeJY6EFH2sW2u) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 5:11 |
-| 87 | [Waiting for Life](https://open.spotify.com/track/1XS2iQd8STgEwI7ptzXnT0) | [Hailey Kilgore](https://open.spotify.com/artist/2Ez1HC7Sl5tcLSyUdBxXrb), [Once On This Island Storytellers](https://open.spotify.com/artist/3CoXUJj9mSjynSVi2e9Ax4) | [Once on This Island \(New Broadway Cast Recording\)](https://open.spotify.com/album/4Gbxn6WBheHhcMXTC8jIQs) | 3:25 |
+| 87 | [Waiting for Life](https://open.spotify.com/track/1XS2iQd8STgEwI7ptzXnT0) | [Hailey Kilgore](https://open.spotify.com/artist/115mPxOV2kmLVd8a6tHsqb), [Once On This Island Storytellers](https://open.spotify.com/artist/3CoXUJj9mSjynSVi2e9Ax4) | [Once on This Island \(New Broadway Cast Recording\)](https://open.spotify.com/album/4Gbxn6WBheHhcMXTC8jIQs) | 3:25 |
 | 88 | [Aquarius](https://open.spotify.com/track/0WviwuG403gqtW6bZevBpP) | [Galt MacDermot](https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr), [Tom Pierson](https://open.spotify.com/artist/37pKA6kY6h4rcFUBwrrTDk) | [Hair](https://open.spotify.com/album/1llShsXxqoYFxKEX7JkKBj) | 4:48 |
 | 89 | [One Day](https://open.spotify.com/track/5s012FPLoqWYDI7XP0ypWG) | [Andy Karl](https://open.spotify.com/artist/09sZOsk9ujU8m4qRMRs6kl), [Barrett Doss](https://open.spotify.com/artist/1r45HCPG6bifaxWk2kPvIt), [Groundhog Day The Musical Company](https://open.spotify.com/artist/3KN3908mKsFRcNSQelGahl), [Tim Minchin](https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2) | [Groundhog Day The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0nv740XsW6ONByj7LLg9Xl) | 8:46 |
 | 90 | [Wig In A Box](https://open.spotify.com/track/3uKONypNuZ9BtjTWoU0oUR) | [Hedwig And The Angry Inch \- Original Broadway Cast](https://open.spotify.com/artist/5IQFLz9g7xdgHtw8BKa96y) | [Sugar Daddy](https://open.spotify.com/album/2YETp6z5NHErXVK1tzidmb) | 5:07 |

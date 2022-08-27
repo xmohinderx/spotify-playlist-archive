@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,629 songs - 3 day 22 hr 55 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,632 songs - 3 day 23 hr 7 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Heart Breaker](https://open.spotify.com/track/213LP7YIi0KpRkBYXQJRfs) | [Acebergtm](https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4) | [Heart Breaker](https://open.spotify.com/album/7mFHMPuInS5xSdI44ysXaG) | 3:06 | 2021-05-08 | 2021-05-23 |
 | [Heat](https://open.spotify.com/track/4OiapUuMeahMB05oDt5Sn0) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [Heat](https://open.spotify.com/album/0cpv2QhabsuvPisUlfMjpS) | 3:02 | 2022-03-18 | 2022-04-05 |
 | [Heatwave](https://open.spotify.com/track/1JngBtpUOVLqCo7pVijWv4) | [Moose & the Elephant](https://open.spotify.com/artist/5l3X1SeI5T3U2bLCY1JSjP) | [Heatwave](https://open.spotify.com/album/1ISazG8ePoEajdyHij4rRU) | 3:59 | 2021-07-10 | 2021-07-25 |
+| [Heaven, Torture](https://open.spotify.com/track/3lQ8xyTTQcinB8Tm4QGZsV) | [Rip Brothers](https://open.spotify.com/artist/0P3yl68vWG2HBjLylkesLH), [Talia Raquel](https://open.spotify.com/artist/09t9NVHJ4QniNJg1iVctBj) | [Heaven, Torture](https://open.spotify.com/album/3TugiMIfi5b6QD5cCwX86e) | 2:45 | 2022-08-26 |  |
 | [Heavy Heart](https://open.spotify.com/track/20KkIFpZP1ca0FdTtiPouR) | [Shaolinn](https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q) | [Heavy Heart](https://open.spotify.com/album/5stEVAGd484mEClh9jaNen) | 3:50 | 2021-09-01 | 2021-09-17 |
 | [Hello, Sun](https://open.spotify.com/track/4RqHv0L0qSHujiAopeUBUv) | [The Mellons](https://open.spotify.com/artist/5tPy3OL9V85Ud3TpxoZNcW) | [Hello, Sun](https://open.spotify.com/album/3EkoabkuwW12ampXP012jo) | 3:39 | 2022-07-29 | 2022-08-17 |
 | [Help Me I Drown Too Slowly \(Moana\)](https://open.spotify.com/track/6ibcUZXBCYZCHGxBMJGVBG) | [Lavai](https://open.spotify.com/artist/0cowTP1Le3YKrDV48ZnQkj) | [Help Me I Drown Too Slowly \(Moana\)](https://open.spotify.com/album/21tia2GhFFfDGRlmIzTwpg) | 3:17 | 2021-02-12 | 2021-02-27 |
@@ -848,6 +849,7 @@
 | [Like a Garden](https://open.spotify.com/track/51dGcyIKiDum7xc1pHNWEJ) | [Mojoe](https://open.spotify.com/artist/1P8vWCKNXt3W5eSyZQpTX1) | [Like a Garden](https://open.spotify.com/album/6qUCtqe9bsBBsKH9kB70bh) | 3:25 | 2021-09-04 | 2021-09-19 |
 | [Like Me](https://open.spotify.com/track/4JlRXVckYnpG3BZqqH9vFA) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Like Me](https://open.spotify.com/album/0EfDPslgOoF6Vf8RMkm8qr) | 2:55 | 2021-03-14 | 2021-03-27 |
 | [like we're an indie movie](https://open.spotify.com/track/22FgiWoUpBS1gdSikE7TLa) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [tiger lily](https://open.spotify.com/artist/5IhLkxFWYUxb9xrjp3Wqb0) | [like we're an indie movie](https://open.spotify.com/album/3LQV5S9PwcnBKe8veDhCbP) | 3:37 | 2021-11-11 | 2021-12-05 |
+| [Like You Did Before](https://open.spotify.com/track/0rJOQ6d4AXM3AwLVu71nx0) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Like You Did Before](https://open.spotify.com/album/12TfsdMiVEjMIQob6fPldj) | 5:38 | 2022-08-26 |  |
 | [Limelight Parade](https://open.spotify.com/track/75Tp4cKadVbrhVQOAdXYj4) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Future Wars](https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1) | 2:57 | 2022-04-30 | 2022-05-30 |
 | [Link Up](https://open.spotify.com/track/08X5UBSKOIAif07pGF8oWY) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Link Up](https://open.spotify.com/album/2jSL4oXbolN5EamWPu1nIC) | 2:42 | 2021-06-04 | 2021-06-20 |
 | [Link Up](https://open.spotify.com/track/4rHujwp0pIBH75zTzWwecV) | [Shani Rudeboy](https://open.spotify.com/artist/3U2CrmTAa7COGAQJcRXzXK) | [Yaad & B](https://open.spotify.com/album/2JKlBlkaxV7r27qSNAZDWV) | 3:47 | 2021-01-10 | 2021-01-26 |
@@ -1340,6 +1342,7 @@
 | [Stupid Me](https://open.spotify.com/track/3yl0hK8awY340PpLYGuwZg) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [NIIVA](https://open.spotify.com/album/4DoVWd6Ak9O9Qo5dUs8KEx) | 3:07 | 2021-02-19 | 2021-03-06 |
 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 | 2021-07-12 | 2021-11-19 |
 | [summer died](https://open.spotify.com/track/6JXhm0UL5WxP4P0UwkwEVL) | [Labit](https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea) | [summer died](https://open.spotify.com/album/2Q1KDKB2re98AMumPjVS24) | 2:58 | 2022-05-16 | 2022-06-17 |
+| [Summer Fling](https://open.spotify.com/track/7e4WCunNrl6i0ATIxd6ZwV) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [Summer Fling](https://open.spotify.com/album/7zedW3WK48nnB4UjiDoW98) | 3:26 | 2022-08-26 |  |
 | [Summer in September](https://open.spotify.com/track/4zkMIoLDJNjikGJxE1zHuR) | [Cam Be](https://open.spotify.com/artist/43Uz3wKgS1vaJ2xKCvEH8E) | [Summer in September](https://open.spotify.com/album/08ACbcnqHgZXsoYZqkQ3n8) | 4:13 | 2021-10-20 | 2021-11-06 |
 | [Summer Nights](https://open.spotify.com/track/6wugo04WKfKrP3yqA3q3RH) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Summer Nights](https://open.spotify.com/album/0DR9YcbOqzLOLmZ0oX1QKU) | 2:39 | 2021-10-01 | 2021-10-20 |
 | [Summer Of 21'](https://open.spotify.com/track/6yjeMfISrvInGUMtoT0Yak) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Summer Of 21'](https://open.spotify.com/album/09teGR79HLyPamFoBKyQve) | 3:09 | 2021-09-24 | 2021-11-19 |

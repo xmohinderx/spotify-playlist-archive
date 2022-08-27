@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: UNIIQU3.
 
-167 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
+168 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Heartbroken Twenty Twenty](https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Heartbroken Twenty Twenty](https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4) | 2:51 | 2022-02-11 |  |
 | [Her Favorite Song \- Jersey Club](https://open.spotify.com/track/0QKB5Qt9U0MfDtZeVqNVkD) | [DJ Get Bizzy](https://open.spotify.com/artist/5wiQ2svVeIsYb8cF82DLqh) | [Her Favorite Song \(Jersey Club\)](https://open.spotify.com/album/6to2jsbRDyBDOmjJLaNcNy) | 2:31 | 2022-07-22 | 2022-07-29 |
 | [Hey DJ](https://open.spotify.com/track/1At6Lri1BvcC92CWbX9RUd) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Hey DJ](https://open.spotify.com/album/0JQimmEMl5bl3Na6oyrOi0) | 2:20 | 2022-02-11 |  |
+| [Hips Real Sturdy \(Touch Dem Hips\) \- Sped Up Version](https://open.spotify.com/track/3jZPyE3RMZLTFfGoBrsK17) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Hips Real Sturdy \(Touch Dem Hips\) \[Sped Up Version\]](https://open.spotify.com/album/4D2FHFxy9ZgobqaAlxxEVS) | 1:25 | 2022-08-26 |  |
 | [Hit Dat Ass \(JERSEY CLUB\)](https://open.spotify.com/track/6sKRoplEWT13gRT0hayL7L) | [DJ Difficult](https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39), [A.B.E](https://open.spotify.com/artist/6xZs87XR7vPelRzsbyz17R), [Dj Popbang](https://open.spotify.com/artist/2BIIrGzP3w8YM9OhTmcgWy), [Slice ThaHitMaker](https://open.spotify.com/artist/6Vmkl1MWtu88DAcSWoMmul) | [Hit Dat Ass \(JERSEY CLUB\)](https://open.spotify.com/album/2LcPtjiQxbFCW0bnJOxRjz) | 4:19 | 2022-05-06 |  |
 | [Hold On](https://open.spotify.com/track/4yKQddXwEu8feEhYtV3mVP) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Hold On](https://open.spotify.com/album/4o79Ofism0WKksZ55QyEwp) | 3:24 | 2022-02-11 | 2022-07-29 |
 | [Honesty \(Jersey Club Remix\)](https://open.spotify.com/track/6w9UIffgXbITL5Jsb5j14J) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Honesty \(Jersey Club Remix\)](https://open.spotify.com/album/7nY4ha19e6NF6gJatEWjIO) | 2:10 | 2022-07-22 |  |
@@ -152,7 +153,7 @@
 | [Shake Dhat](https://open.spotify.com/track/1XH4xf7YuCDDCKvHRwGFR8) | [Dj Crazy](https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK), [Philly Goat Dice](https://open.spotify.com/artist/4ca91BWVgdWAOiATQiMoxl), [Zahsosaa](https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y) | [Shake Dhat](https://open.spotify.com/album/1pH2ngtMry9rL8fXvvdlvI) | 2:40 | 2022-02-11 | 2022-07-29 |
 | [Shake Dhat](https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4) | [Zahsosaa](https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y), [D STURDY](https://open.spotify.com/artist/4ca91BWVgdWAOiATQiMoxl), [Dj Crazy](https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK) | [Shake Dhat](https://open.spotify.com/album/2H7UA3WRJM2dGMZoMEhUYf) | 2:40 | 2022-07-22 |  |
 | [SHAWTY \(Mvntana Remix\)](https://open.spotify.com/track/41425sATIEwlRMiancX0MS) | [Yung Bambi](https://open.spotify.com/artist/2y8GmZ4zTMAEd5OuenMZdX), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki) | [SHAWTY](https://open.spotify.com/album/1dochdMLdJsihe9p3WCr3D) | 2:10 | 2022-02-11 | 2022-08-19 |
-| [She's From Jersey](https://open.spotify.com/track/57nbcWp3VhiQQBNcka0Eql) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 1:48 | 2022-02-11 |  |
+| [She's From Jersey](https://open.spotify.com/track/57nbcWp3VhiQQBNcka0Eql) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 1:48 | 2022-02-11 | 2022-08-27 |
 | [Shortys Theme](https://open.spotify.com/track/3HerlmmOF6KfUSKWYMQCnW) | [Jakkz](https://open.spotify.com/artist/6970dBjCH8MeminFC6L665) | [Jakked Up](https://open.spotify.com/album/6WQ17Gtu4QpSQvgnp6PSnv) | 1:46 | 2022-02-11 |  |
 | [SLIME PROTOCOL](https://open.spotify.com/track/3ldwM7zo4KDqdAymQ1eLHr) | [Koi the Alchemist](https://open.spotify.com/artist/4QaIOY2A21dfP0E6UN5Y7A), [Prvnci](https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW) | [SLIME PROTOCOL](https://open.spotify.com/album/7HEIOXw6lP2GKuJnYxQvgb) | 2:29 | 2022-07-08 |  |
 | [Slow Motion \(VIP\)](https://open.spotify.com/track/4gv8CrIsF5qBMstG7cFwhu) | [RYTM](https://open.spotify.com/artist/5Cm0HBRXfacRYdrqog3rDx) | [Slow Motion \(VIP\)](https://open.spotify.com/album/6iUEy35Zaa2I2RkomahqSm) | 2:12 | 2022-02-11 | 2022-07-29 |

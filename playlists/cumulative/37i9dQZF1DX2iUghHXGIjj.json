@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Banty Rooster Blues",
+        "url": "https://open.spotify.com/album/3XLhfpwOjTnPqRLg9AiNMA"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Peyton's Big Damn Band",
+          "url": "https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246511,
+      "name": "Banty Rooster Blues",
+      "url": "https://open.spotify.com/track/4qTmr1QcPZNzj06rf0GA92"
+    },
+    {
+      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -1128,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "stripped back (deluxe) [Stripped Back]",
+        "url": "https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "in three years' time - Stripped Back",
+      "url": "https://open.spotify.com/track/3Vr5sIoub3YGiXWsZvnlmQ"
+    },
+    {
+      "album": {
         "name": "It Would Be Better for the Bad to Be Good",
         "url": "https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y"
       },
@@ -1435,7 +1471,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 282428,
       "name": "Make Me A Pallet On Your Floor",
       "url": "https://open.spotify.com/track/4iZ0tK27xu65GMDW2mvOmg"
@@ -2227,7 +2263,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 347533,
       "name": "So Grateful",
       "url": "https://open.spotify.com/track/1U236FYzQEdMWn1hMM0gQn"

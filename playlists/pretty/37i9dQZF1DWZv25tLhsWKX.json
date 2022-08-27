@@ -1,12 +1,12 @@
 {
   "description": "Where Nashville, Memphis & the Shoals meet. Cover: Yola",
-  "num_followers": 10622,
+  "num_followers": 10624,
   "original_name": "Country Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzU3MjUzMCwwMDAwMDAwMDBmNzYxZjM2Y2Y0M2I1Yzc4OGY0NzA2OGMyZTYxOWE5",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDc1MmU4MWM0MDg4YjE2ZjczOTc3NDdlMWM4MzJkODc1",
   "tracks": [
     {
       "added_at": "2021-02-17 14:35:30",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/4lzTyLYXb3ED01TSLCJ1Hz"
     },
     {
-      "added_at": "2021-02-17 14:35:30",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+        "name": "That's How Love Is Made",
+        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 214187,
-      "name": "Are You Ready to Love Me?",
-      "url": "https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk"
+      "duration_ms": 226986,
+      "name": "That's How Love Is Made",
+      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
     },
     {
       "added_at": "2021-02-17 14:35:30",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-02-17 14:35:30",
       "album": {
-        "name": "Carolina Confessions",
-        "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
-      },
-      "artists": [
-        {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
-        }
-      ],
-      "duration_ms": 384373,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6"
-    },
-    {
-      "added_at": "2021-02-17 14:35:30",
-      "album": {
         "name": "Heart and Soul",
         "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
       },
@@ -135,22 +119,6 @@
       "duration_ms": 197309,
       "name": "Georgia Morning Dew",
       "url": "https://open.spotify.com/track/7njTQhjl2SIBLutKCw4r1l"
-    },
-    {
-      "added_at": "2021-02-17 14:35:30",
-      "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 125093,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
     },
     {
       "added_at": "2021-02-17 14:35:30",
@@ -217,6 +185,38 @@
       "url": "https://open.spotify.com/track/3MgHIcV9xc8tUdoekttdLM"
     },
     {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Put the Gun Down",
+        "url": "https://open.spotify.com/album/4WgAjLNij42ukPGP4nfX7N"
+      },
+      "artists": [
+        {
+          "name": "O.N.E The Duo",
+          "url": "https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe"
+        }
+      ],
+      "duration_ms": 171761,
+      "name": "Put the Gun Down",
+      "url": "https://open.spotify.com/track/7fpnWAkZA0YqOcy8dQvTbu"
+    },
+    {
+      "added_at": "2021-02-17 14:35:30",
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 125093,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
       "added_at": "2021-02-17 14:35:30",
       "album": {
         "name": "Common Hymnal (Live)",
@@ -267,6 +267,22 @@
       "duration_ms": 153493,
       "name": "Can't Nobody Love You",
       "url": "https://open.spotify.com/track/1ovGm2RHnWlTmbbtIxd2f8"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/7cMRrnL36PuZKENGx2tAkD"
+      },
+      "artists": [
+        {
+          "name": "Hueston",
+          "url": "https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/4AkWJQqHEEi8H7fuRTJl3b"
     },
     {
       "added_at": "2021-02-17 14:35:30",
@@ -435,6 +451,22 @@
     {
       "added_at": "2021-02-17 14:35:30",
       "album": {
+        "name": "Carolina Confessions",
+        "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
+      },
+      "artists": [
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "duration_ms": 384373,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6"
+    },
+    {
+      "added_at": "2021-02-17 14:35:30",
+      "album": {
         "name": "Every Single Star",
         "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
       },
@@ -503,18 +535,18 @@
     {
       "added_at": "2021-02-17 14:35:30",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 288120,
-      "name": "Wildflowers & Wine",
-      "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
+      "duration_ms": 214187,
+      "name": "Are You Ready to Love Me?",
+      "url": "https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk"
     },
     {
       "added_at": "2021-02-17 14:35:30",

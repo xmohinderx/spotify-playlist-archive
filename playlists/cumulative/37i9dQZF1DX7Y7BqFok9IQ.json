@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The best of modern blues rock. Cover: Marcus King",
+  "description": "The best of modern blues rock. Cover: Anthony Gomes",
   "name": "Modern Blues Rock",
   "published_playlist_ids": [
     "2ytdQyvJSh0gNxZ2IJT8lV"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 180586,
       "name": "Forgiveness Through Pain",
       "url": "https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y"
@@ -1194,6 +1194,24 @@
     },
     {
       "album": {
+        "name": "Nothing But The Blues",
+        "url": "https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201803,
+      "name": "Nothing But The Blues",
+      "url": "https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ"
+    },
+    {
+      "album": {
         "name": "Give It Back To You",
         "url": "https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3"
       },
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 274626,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/1HaJ3wcWeA8n7QVdqfagKx"
@@ -1281,6 +1299,24 @@
       "duration_ms": 238226,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/7KzCDlgiVOY8sQOKlbUy1m"
+    },
+    {
+      "album": {
+        "name": "Painted Horse",
+        "url": "https://open.spotify.com/album/0KFGI2lrMjXjq1w74dfDkz"
+      },
+      "artists": [
+        {
+          "name": "Anthony Gomes",
+          "url": "https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225309,
+      "name": "Painted Horse",
+      "url": "https://open.spotify.com/track/2FWKa4zEa6lrdTDuGNMur9"
     },
     {
       "album": {

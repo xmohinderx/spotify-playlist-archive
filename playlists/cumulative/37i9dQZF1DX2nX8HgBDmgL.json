@@ -1044,6 +1044,24 @@
     },
     {
       "album": {
+        "name": "I JUST WANT MONEY",
+        "url": "https://open.spotify.com/album/7h0jsIr2WAYUVmc0g49IpR"
+      },
+      "artists": [
+        {
+          "name": "Twinjabi",
+          "url": "https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207908,
+      "name": "I JUST WANT MONEY",
+      "url": "https://open.spotify.com/track/4PphpJYOOGClMpYZHgkyMc"
+    },
+    {
+      "album": {
         "name": "Illuminous",
         "url": "https://open.spotify.com/album/5tJE3R6o5gD1w1WSvvVrXt"
       },

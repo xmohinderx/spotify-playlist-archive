@@ -4,7 +4,7 @@
 
 > Female\-identifying only tunes, with some of  <a href=“spotify:artist:5rZUNweztKBI1Xy3XhYHoJ”>Danielle Ponder's</a> personal picks\. Cover: Danielle Ponder
 
-445 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+446 songs - 1 day 0 hr 28 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [OK With That](https://open.spotify.com/track/2ooyykGiladq5Rs0tRYITz) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [OK With That](https://open.spotify.com/album/2j2rYcajkYMdNuINcE03TX) | 3:38 | 2022-07-06 | 2022-08-04 |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-07-06 | 2022-08-04 |
 | [Only for Tonight](https://open.spotify.com/track/657VKliKlekLio3kYfCto7) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Only for Tonight](https://open.spotify.com/album/1SVYFK4ntH4SZelB4PZcWQ) | 2:38 | 2022-02-02 | 2022-03-09 |
+| [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 | 2022-08-26 |  |
 | [Ordinary](https://open.spotify.com/track/2POuS8xQxLtR52E8HFtAwB) | [Amber Ais](https://open.spotify.com/artist/3vPpiUL0ow9hQfhDMyGxle) | [Ordinary](https://open.spotify.com/album/18urkbnmlBBvY3WBHLL0kc) | 3:14 | 2022-04-06 | 2022-05-05 |
 | [Out Yonder](https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Out Yonder](https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P) | 3:22 | 2022-05-04 | 2022-06-01 |
 | [Overflow](https://open.spotify.com/track/46D2mvIxmuEL5YhdBHsQ4L) | [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Overflow](https://open.spotify.com/album/2ce9aI6qj6mOQOKT1cHs3P) | 3:25 | 2022-06-01 | 2022-07-07 |
@@ -326,7 +327,7 @@
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-06-01 | 2022-07-07 |
 | [Pressurized](https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Pressurized](https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe) | 2:16 | 2022-02-02 | 2022-03-09 |
 | [Price of Perfection](https://open.spotify.com/track/2bu6TFn64ASDFXocD9HQ38) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ), [Lilianne Coeverden](https://open.spotify.com/artist/3H1AhCg1QoUO8Hnl10Ze3E) | [Price of Perfection](https://open.spotify.com/album/2txLPaA4ixLXjw3yYJkcCH) | 3:26 | 2022-03-08 | 2022-04-07 |
-| [Prima Materia](https://open.spotify.com/track/0KR1fIsVTVSh0lv88KWzX6) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Prima Materia](https://open.spotify.com/album/1v3UC61wKMgUC9oWwYPUtZ) | 5:12 | 2022-08-03 |  |
+| [Prima Materia](https://open.spotify.com/track/0KR1fIsVTVSh0lv88KWzX6) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Prima Materia](https://open.spotify.com/album/1v3UC61wKMgUC9oWwYPUtZ) | 5:12 | 2022-08-03 | 2022-08-27 |
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-07-06 | 2022-08-04 |
 | [Problems](https://open.spotify.com/track/7nLEVh4vIhKOKNAFqQ1koF) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Songs For My Funeral](https://open.spotify.com/album/4SmLiMThmp5f4dCTOsIguj) | 3:08 | 2021-12-01 | 2022-01-06 |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2022-01-05 | 2022-02-03 |

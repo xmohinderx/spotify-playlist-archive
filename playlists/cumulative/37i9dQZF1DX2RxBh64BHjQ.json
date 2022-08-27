@@ -266,6 +266,24 @@
     },
     {
       "album": {
+        "name": "Addy",
+        "url": "https://open.spotify.com/album/57a2jFTnluxa3WNu6BrIDr"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123984,
+      "name": "Addy",
+      "url": "https://open.spotify.com/track/0MaNWrLab10U4DOi6nK6sB"
+    },
+    {
+      "album": {
         "name": "Freelance: Charlie",
         "url": "https://open.spotify.com/album/6JLtQCr4wR5TbPMCK53XDt"
       },
@@ -321,7 +339,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 128524,
       "name": "Aint No Fun",
       "url": "https://open.spotify.com/track/5LWAGw2GEbTHDWcV5coWyJ"
@@ -383,6 +401,28 @@
       "duration_ms": 160000,
       "name": "Allegations (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/1Fhb9neDPyEyTaZZ3qmIn4"
+    },
+    {
+      "album": {
+        "name": "Almighty Gnar",
+        "url": "https://open.spotify.com/album/2HBHBB0e7CXxfHhuSFhZiz"
+      },
+      "artists": [
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209581,
+      "name": "Almighty Gnar",
+      "url": "https://open.spotify.com/track/3psH7F78CNkOooducxwhqA"
     },
     {
       "album": {
@@ -481,6 +521,24 @@
       "duration_ms": 175716,
       "name": "Back 2 Back (feat. CEO Trayle)",
       "url": "https://open.spotify.com/track/3Lr9J0UuPrnTVlmA5wosqi"
+    },
+    {
+      "album": {
+        "name": "Back End",
+        "url": "https://open.spotify.com/album/77Hj5PiiIlIxI8l87wwVc1"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165487,
+      "name": "Back End",
+      "url": "https://open.spotify.com/track/3eHOsD9gXqWYPxVr0JVVWv"
     },
     {
       "album": {
@@ -941,7 +999,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
@@ -1341,7 +1399,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 175199,
       "name": "Bring Some Mo (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu"
@@ -1429,6 +1487,28 @@
       "duration_ms": 161816,
       "name": "BSU (Shut Up)",
       "url": "https://open.spotify.com/track/1Copp20ewBPoetwaP3XVDr"
+    },
+    {
+      "album": {
+        "name": "Public Housing",
+        "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157397,
+      "name": "Bullseye 2 (with Future)",
+      "url": "https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q"
     },
     {
       "album": {
@@ -1991,7 +2071,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 146440,
       "name": "Conceited",
       "url": "https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv"
@@ -2549,7 +2629,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 135384,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/6pi85Qq6rwDaTMKY6MapIV"
@@ -2945,7 +3025,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 217704,
       "name": "Don't Look At Numbers - Remix",
       "url": "https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi"
@@ -2999,7 +3079,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 120333,
       "name": "Don\u2019t Know How to Act",
       "url": "https://open.spotify.com/track/5T6W3m9DxbtFQa5XQ1YdvY"
@@ -4465,7 +4545,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 195160,
       "name": "HOME - Remix",
       "url": "https://open.spotify.com/track/3lcJOGpwiiLN7SjhV1UK9J"
@@ -4501,7 +4581,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 155350,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF"
@@ -4628,6 +4708,24 @@
     },
     {
       "album": {
+        "name": "How It Go",
+        "url": "https://open.spotify.com/album/3AKIaaqQzhPgzMIQHmDQgN"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191170,
+      "name": "How It Go",
+      "url": "https://open.spotify.com/track/6ib1c99Cryx0n13G88NAqZ"
+    },
+    {
+      "album": {
         "name": "The Evolution",
         "url": "https://open.spotify.com/album/4BMnMdQxaN0yj0jh2XSuTQ"
       },
@@ -4713,6 +4811,24 @@
       "duration_ms": 186566,
       "name": "I Been Gone",
       "url": "https://open.spotify.com/track/5UTRexfwga6KmBBZB4UzMM"
+    },
+    {
+      "album": {
+        "name": "I Guess",
+        "url": "https://open.spotify.com/album/0iNo8CyiLfDf2oTgMoStcj"
+      },
+      "artists": [
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176704,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/4ruLf1oN8eOxgLDdapGg7j"
     },
     {
       "album": {
@@ -4956,6 +5072,24 @@
     },
     {
       "album": {
+        "name": "India Me",
+        "url": "https://open.spotify.com/album/1vPxv5pAUpEJORNnjwogar"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "India Me",
+      "url": "https://open.spotify.com/track/3WWky2z2RbCuWmMJHJL5Rc"
+    },
+    {
+      "album": {
         "name": "Internet Shooter (Remix)",
         "url": "https://open.spotify.com/album/0SvfiyHkKuPSMu4t6o6BFM"
       },
@@ -5069,6 +5203,24 @@
       "duration_ms": 148234,
       "name": "It's Nuk",
       "url": "https://open.spotify.com/track/1gCuqZFxNtL0qZ9ziAesvt"
+    },
+    {
+      "album": {
+        "name": "Golden Child, Chapter 2",
+        "url": "https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "Jay N Bey!",
+      "url": "https://open.spotify.com/track/0pST9hoYDLC7cI71VrXxBW"
     },
     {
       "album": {
@@ -5294,6 +5446,28 @@
     },
     {
       "album": {
+        "name": "ANYWHERE BUT HERE",
+        "url": "https://open.spotify.com/album/23K73OQjOqGx2YeIfzRWTa"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        },
+        {
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158280,
+      "name": "KILL EM FOR ME (feat. KA$HDAMI)",
+      "url": "https://open.spotify.com/track/1Z96DR4JnccVo6uIp9a4Gw"
+    },
+    {
+      "album": {
         "name": "Angelic 7",
         "url": "https://open.spotify.com/album/0VqPgJ14lyu0JlERRgqgUw"
       },
@@ -5439,6 +5613,28 @@
       "duration_ms": 171033,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/4iYlas8ppT52QQE30MNXnk"
+    },
+    {
+      "album": {
+        "name": "Let Me In (feat. Fredo Bang)",
+        "url": "https://open.spotify.com/album/3nNaMwlUvGxRB7rF6hLyOZ"
+      },
+      "artists": [
+        {
+          "name": "FL Dusa",
+          "url": "https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG"
+        },
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142208,
+      "name": "Let Me In (feat. Fredo Bang)",
+      "url": "https://open.spotify.com/track/4EWoVKdU0NcVbsOrKEiyAT"
     },
     {
       "album": {
@@ -5907,7 +6103,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 137156,
       "name": "Make A Movie (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/6fDlAcex9PxMcvw4eiZjLq"
@@ -5987,6 +6183,24 @@
       "duration_ms": 165550,
       "name": "Maytag (Tax Free)",
       "url": "https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC"
+    },
+    {
+      "album": {
+        "name": "ME FIRST - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4xULzJV1dGpBSFI2au8Fdg"
+      },
+      "artists": [
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153573,
+      "name": "ME FIRST - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/27r0boXgMC64byb513mJNu"
     },
     {
       "album": {
@@ -6443,6 +6657,24 @@
       "duration_ms": 222798,
       "name": "MURDAMAN! (feat. Chief Keef)",
       "url": "https://open.spotify.com/track/32DFtWSM5SpEAHcyzW3m0A"
+    },
+    {
+      "album": {
+        "name": "Murder Bitch",
+        "url": "https://open.spotify.com/album/4jenlFugsErE0X5wP5ot79"
+      },
+      "artists": [
+        {
+          "name": "Anti Da Menace",
+          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293877,
+      "name": "Murder Bitch",
+      "url": "https://open.spotify.com/track/1SfiDsFHqJnQoiN7cLaRz0"
     },
     {
       "album": {
@@ -8235,6 +8467,28 @@
       "duration_ms": 181440,
       "name": "Rackz got m\u00eb (feat. Gunna)",
       "url": "https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv"
+    },
+    {
+      "album": {
+        "name": "VIRGOAT",
+        "url": "https://open.spotify.com/album/5TchtfpSg3MUUZu6pAqB3r"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        },
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203833,
+      "name": "RAGE (Sicc 'Em)",
+      "url": "https://open.spotify.com/track/19yyV2dXptig3a8CAzUzFZ"
     },
     {
       "album": {
@@ -10245,7 +10499,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 140373,
       "name": "TALK2ME",
       "url": "https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz"
@@ -10885,7 +11139,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 113844,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2RkyV0KXNLstEKn2qb1KZ6"
@@ -11613,7 +11867,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 201398,
       "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
@@ -11709,6 +11963,28 @@
       "duration_ms": 156005,
       "name": "WHOLE LOTTA MONEY",
       "url": "https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7"
+    },
+    {
+      "album": {
+        "name": "Why Would I Lack? (feat. SPMB Bills)",
+        "url": "https://open.spotify.com/album/0UhRHMR9Zg9kLm46BdvG9T"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        },
+        {
+          "name": "SPMB Bills",
+          "url": "https://open.spotify.com/artist/1PZWTOZpsAoK6tyNDPziOa"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176681,
+      "name": "Why Would I Lack? (feat. SPMB Bills)",
+      "url": "https://open.spotify.com/track/5NWnpj6yQXyBHRIJnCFELd"
     },
     {
       "album": {

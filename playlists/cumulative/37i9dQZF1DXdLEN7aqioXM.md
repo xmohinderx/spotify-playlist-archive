@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-337 songs - 1 day 0 hr 27 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+338 songs - 1 day 0 hr 30 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Gutterpunk Kids](https://open.spotify.com/track/0SovI9ZaXKFzN1b26U0627) | [Sami Matar](https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1) | [District 970](https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd) | 4:13 | 2021-10-15 |  |
 | [Head Over \- Short Edit](https://open.spotify.com/track/3ucGU1cxi9Mibxt1sczOVE) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Sinus](https://open.spotify.com/artist/6DPAQpHLo9eeC7jZp3mCEx) | [Head Over](https://open.spotify.com/album/0EYjauY01V6ev22m1R26W8) | 3:30 | 2022-04-01 | 2022-04-08 |
 | [Hello Again](https://open.spotify.com/track/5KtSImKBV61SOdlPW74tC0) | [Amber Moon](https://open.spotify.com/artist/2FCmrHOOh6MXieVBI9rS3s) | [Hello Again](https://open.spotify.com/album/5QCNKFroPgeh4aLCaY9Zxu) | 2:53 | 2021-10-15 | 2022-07-29 |
+| [Higher \- Radio Edit](https://open.spotify.com/track/5OymWMtaWum6xk1lOTyPUR) | [Shaker](https://open.spotify.com/artist/6L2J0lrqalkp9BEEDj1elG) | [Higher \(Radio Edit\)](https://open.spotify.com/album/73TJJgrDuvjoRctH9jWuZS) | 3:30 | 2022-08-26 |  |
 | [Homebound](https://open.spotify.com/track/1M7tv8CnuKzTVK4otfr355) | [Caspro](https://open.spotify.com/artist/2jtjyIKx9XY1wuIc5UKwSp) | [Homebound](https://open.spotify.com/album/6Mcfma2p4CnEQhCICR81iq) | 4:59 | 2021-10-15 | 2022-07-28 |
 | [Homo Deus](https://open.spotify.com/track/3l5bTYYEBEteJpi1MsA5qR) | [Felsmann + Tiley](https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P) | [Weltschmerz](https://open.spotify.com/album/2DSBwFmg0fIlgsDaf6eufG) | 2:39 | 2021-10-15 |  |
 | [Horizon \- Mitch Murder Remix](https://open.spotify.com/track/2GMabpd0wvxBxMbfQA5hsI) | [Worship](https://open.spotify.com/artist/6HYVC0sJVnVnsVmuH0Ofre) | [Horizon EP \- The Remixes](https://open.spotify.com/album/0Wrq4kCDzZdU0VN1Dvdqoo) | 4:39 | 2022-04-01 | 2022-04-19 |
@@ -260,7 +261,7 @@
 | [Running Wild](https://open.spotify.com/track/5TQaymkHP3a998Ad8Cs3ps) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD) | [Awakening](https://open.spotify.com/album/1ONI4ijDuoBaWYnB9wvoJz) | 4:28 | 2022-07-22 |  |
 | [Shadow’s Movement \- 16BL’s Universal Disco Mix](https://open.spotify.com/track/68QnK13w8jsIw5V1l9nUYJ) | [Michael Cassette](https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd), [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Temporarity \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7kePVkBLCrDB2g0YpMrxBn) | 4:18 | 2021-10-15 |  |
 | [Shame](https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6) | [Older Future](https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa) | [Shame](https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe) | 5:07 | 2021-10-15 | 2022-07-26 |
-| [Shape Of Your Heart](https://open.spotify.com/track/0imHx7hSqyhe4IuMR9QYc5) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [Shape Of Your Heart](https://open.spotify.com/album/0tCTCy2HRhWKY3uKC31A2u) | 4:55 | 2022-07-01 |  |
+| [Shape Of Your Heart](https://open.spotify.com/track/0imHx7hSqyhe4IuMR9QYc5) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [Shape Of Your Heart](https://open.spotify.com/album/0tCTCy2HRhWKY3uKC31A2u) | 4:55 | 2022-07-01 | 2022-08-27 |
 | [She Is Young, She Is Beautiful, She Is Next](https://open.spotify.com/track/2MBJZgztmtwcIsKXXwLxZI) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Dangerous Days](https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT) | 5:04 | 2022-02-25 | 2022-04-02 |
 | [Shimmer Isle](https://open.spotify.com/track/4MaEEuFFPYgOQQ2ibvcCsY) | [Shikimo](https://open.spotify.com/artist/322yxVmKeH1lKYRKEAXGhe), [Richard Alfaro](https://open.spotify.com/artist/4fQSVfiu7jVEHsMTdAPols) | [Shimmer Isle](https://open.spotify.com/album/3JHqSgeaDvreMmVXz5ajjU) | 4:00 | 2021-10-15 |  |
 | [Shoulder of Orion](https://open.spotify.com/track/7AkQVlVzkZMCCHLtIzUT9d) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Visitors](https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK) | 5:02 | 2022-04-01 |  |

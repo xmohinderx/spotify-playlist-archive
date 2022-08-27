@@ -1676,6 +1676,36 @@
     },
     {
       "album": {
+        "name": "Trifonov Plays Chamber Music (Live)",
+        "url": "https://open.spotify.com/album/7E4JlzzswrUxb2wPDWji7r"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        },
+        {
+          "name": "Ilya Gringolts",
+          "url": "https://open.spotify.com/artist/0gr5W6FgzzoMwp7PhpMRqD"
+        },
+        {
+          "name": "Truls M\u00f8rk",
+          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 631293,
+      "name": "Piano Trio No. 5 in D Major, Op. 70 No. 1 \"Geistertrio\": I. Allegro vivace e con brio - Live",
+      "url": "https://open.spotify.com/track/0N4mgaz975YMjRcbixYtHg"
+    },
+    {
+      "album": {
         "name": "Beethoven: Unknown Solo Piano Works",
         "url": "https://open.spotify.com/album/7DwSWi1dY5yeoVt8TarvyM"
       },

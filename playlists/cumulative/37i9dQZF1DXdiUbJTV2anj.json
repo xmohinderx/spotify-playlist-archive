@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "Heavy new bands you need to have an eye on. Cover: Chat Pile",
+  "description": "Heavy new bands you need to have an eye on. Cover: thoughtcrimes",
   "name": "New Blood",
   "published_playlist_ids": [
     "0gTCJ5PNCODVC0yVCIKhB7"
@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/0Jl2byDXilu4Iivo3QO7Ii"
+      },
+      "artists": [
+        {
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225718,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/0pNfjQmun4TkovFgLaJOR1"
+    },
+    {
+      "album": {
         "name": "Bleeding",
         "url": "https://open.spotify.com/album/1VCpl1Lu5xZbWhvxXEZdQ1"
       },
@@ -152,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Chlorine Tears",
+        "url": "https://open.spotify.com/album/7uk1TiN9BcMF8iL9amIteu"
+      },
+      "artists": [
+        {
+          "name": "Foreign Hands",
+          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237640,
+      "name": "Chlorine Tears",
+      "url": "https://open.spotify.com/track/554OCcyd1Q3O7bDXNdRZjS"
+    },
+    {
+      "album": {
         "name": "Profound Morality",
         "url": "https://open.spotify.com/album/5LDm7EQU04NgEHiLF2beaB"
       },
@@ -181,7 +217,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 183500,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/5o04G6JWxQAQGW572GHTNP"
@@ -289,7 +325,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 160263,
       "name": "Empty Vessels",
       "url": "https://open.spotify.com/track/0uAFXFjrVi3Bd1LDDMl4vI"
@@ -523,7 +559,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 178106,
       "name": "It's Art",
       "url": "https://open.spotify.com/track/4dGunaOmjXIIVbcB3c4RW6"
@@ -577,7 +613,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 216360,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/1tHk8blCzRJQKQd10K6i8I"
@@ -635,6 +671,24 @@
       "duration_ms": 395131,
       "name": "Message in Memories",
       "url": "https://open.spotify.com/track/5id2U2YgvAsJOkt421D2sC"
+    },
+    {
+      "album": {
+        "name": "Mirror Glue",
+        "url": "https://open.spotify.com/album/5vuqiIimLosYL6Gql82oXV"
+      },
+      "artists": [
+        {
+          "name": "thoughtcrimes",
+          "url": "https://open.spotify.com/artist/7xJ6tFnLODDMEhhlj6ftop"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311249,
+      "name": "Mirror Glue",
+      "url": "https://open.spotify.com/track/0fEWlqJr3lJXEXmLk7KFOD"
     },
     {
       "album": {
@@ -1047,10 +1101,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 249979,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
+    },
+    {
+      "album": {
+        "name": "Thanatos",
+        "url": "https://open.spotify.com/album/1SwglEKNRXgmlGP3csWSJV"
+      },
+      "artists": [
+        {
+          "name": "Dead/Awake",
+          "url": "https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176637,
+      "name": "Thanatos",
+      "url": "https://open.spotify.com/track/1nckYgkJGeJFvcEwKrSCe7"
     },
     {
       "album": {
@@ -1235,6 +1307,24 @@
       "duration_ms": 169324,
       "name": "Uncoil",
       "url": "https://open.spotify.com/track/092FbNQy7oYEtBbDA60xO3"
+    },
+    {
+      "album": {
+        "name": "Vultures of North",
+        "url": "https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278181,
+      "name": "Vultures of North",
+      "url": "https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9"
     },
     {
       "album": {

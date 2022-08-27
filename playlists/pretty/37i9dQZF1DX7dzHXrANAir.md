@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,669 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,747 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Vale](https://open.spotify.com/track/4RocG6490RoLRJgdbNZEEY) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90) | [Vale](https://open.spotify.com/album/7bzBIJynVYnwioBEY248DP) | 6:28 |
 | 80 | [Glass \- Solo Piano](https://open.spotify.com/track/0a4GdJi2TAYv2GvwX5svhK) | [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [Glass \(Solo Piano\)](https://open.spotify.com/album/1xS6uWpQd5FaZ086sq0FsX) | 6:15 |
 
-Snapshot ID: `MTY2MTQyNjg4NCwwMDAwMDAwMDUxMGMxYTY2M2Y3OTUyNmRmMjMxZDg5MGMxN2IzYTU3`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDczMzIyMWM0OWIzZGNjNTE4ZDUyZDg3NGUxNWNhMjI2`

@@ -968,6 +968,44 @@
     },
     {
       "album": {
+        "name": "Da Lama ao P\u00f3dio 5",
+        "url": "https://open.spotify.com/album/6od0dpHq2oSMtfj0VxUPku"
+      },
+      "artists": [
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Escobar Gaviria",
+          "url": "https://open.spotify.com/artist/40YcPKCssgBCtKd1H24QZa"
+        },
+        {
+          "name": "Insan Diego",
+          "url": "https://open.spotify.com/artist/2JnqMoi6qNxMEj8UqhlzWy"
+        },
+        {
+          "name": "Teagac\u00ea",
+          "url": "https://open.spotify.com/artist/0wopCcug83iymesVaCm04j"
+        },
+        {
+          "name": "Am\u00e9m Ore",
+          "url": "https://open.spotify.com/artist/1WJuFforgfkbtqDuziXJQD"
+        },
+        {
+          "name": "PRKILLA",
+          "url": "https://open.spotify.com/artist/5tMzPzM2QN1VlsaxPnjpNs"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474510,
+      "name": "Da Lama ao P\u00f3dio 5",
+      "url": "https://open.spotify.com/track/64baHb2xICO0irfFxquKKK"
+    },
+    {
+      "album": {
         "name": "Dai a Cesar o Que \u00c9 de Cesar",
         "url": "https://open.spotify.com/album/2O5WdoR4ZPa7PtVdT16Nzo"
       },
@@ -1893,7 +1931,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 181395,
       "name": "IRRESPONS\u00c1VEL",
       "url": "https://open.spotify.com/track/7kFfbrq3grPXKjVFoYQaae"
@@ -2093,6 +2131,36 @@
       "duration_ms": 203520,
       "name": "Luz da Lua",
       "url": "https://open.spotify.com/track/71i1attKK5wZKNPUYOHRB0"
+    },
+    {
+      "album": {
+        "name": "L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Lossio",
+          "url": "https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191961,
+      "name": "L\u00e1 Fora",
+      "url": "https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC"
     },
     {
       "album": {
@@ -2465,7 +2533,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 219685,
       "name": "Mob",
       "url": "https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN"
@@ -4103,7 +4171,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 135428,
       "name": "Se T\u00e1 Solteira - BADZILLA Remix",
       "url": "https://open.spotify.com/track/5XyF3O4y1LHOzO75t9J6FW"
@@ -4953,6 +5021,24 @@
       "duration_ms": 205714,
       "name": "Zero Um (Versus Vol. 1) [feat. Tropkillaz]",
       "url": "https://open.spotify.com/track/5UpXpV7YS9pdqlkMwRRH4a"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Verdade Esse Bilete",
+        "url": "https://open.spotify.com/album/1CEstB0kyjgFBdu7kGDWJu"
+      },
+      "artists": [
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193868,
+      "name": "\u00c9 Verdade Esse Bilete",
+      "url": "https://open.spotify.com/track/3KtQHdub9wOOGGNcC68nHr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0jAiO33gxlI"

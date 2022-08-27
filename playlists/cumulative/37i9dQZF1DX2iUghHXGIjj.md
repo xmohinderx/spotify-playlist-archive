@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-142 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+144 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bad Guy Necessity \- Acoustic](https://open.spotify.com/track/08qYcblROPJzWHOhMFqSt2) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Bad Guy Necessity \(acoustic\)](https://open.spotify.com/album/08aRguL8EvjUpy2oPH6Pqe) | 3:57 | 2020-08-11 | 2022-07-29 |
 | [Bad Guy Necessity \- Acoustic](https://open.spotify.com/track/4VthU2Re0xqGF0qt6XHPMD) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead \(Deluxe\)](https://open.spotify.com/album/76BB70ASc22gc7NcRTGSQl) | 3:57 | 2020-08-11 |  |
 | [Bad to the Bone](https://open.spotify.com/track/3yEPbndiOIRsH4FA2dBrTH) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 4:04 | 2020-08-11 |  |
+| [Banty Rooster Blues](https://open.spotify.com/track/4qTmr1QcPZNzj06rf0GA92) | [The Reverend Peyton's Big Damn Band](https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK) | [Banty Rooster Blues](https://open.spotify.com/album/3XLhfpwOjTnPqRLg9AiNMA) | 4:06 | 2022-08-26 |  |
 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 | 2020-08-11 |  |
 | [Behind the Sea](https://open.spotify.com/track/7lavAhhncYAkiKn8dwiDk3) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Behind the Sea](https://open.spotify.com/album/5NHQJ68C4tGz7wKQlkhPYZ) | 4:30 | 2022-06-17 |  |
 | [Big Mama's Door](https://open.spotify.com/track/3AkN7wZwvXmhvlSWDMKkbr) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Big Mama'S Door](https://open.spotify.com/album/3TNHq2DDgfhMnXsmGac0Bm) | 3:51 | 2020-08-11 |  |
@@ -68,6 +69,7 @@
 | [I'm Ready](https://open.spotify.com/track/2v7vMQGFva7ePcl4BiBF2K) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [I'm Ready](https://open.spotify.com/album/5gvcJLqMU4GFtCSFrHifY0) | 2:17 | 2021-04-16 |  |
 | [I'm So Lonely](https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY) | 4:40 | 2020-08-11 |  |
 | [I'm So Lonely](https://open.spotify.com/track/6BsaK0v4nm49vNd5ccHyRX) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/0njoBaMuox6zxRG9Is8WRF) | 4:40 | 2020-08-11 | 2022-07-29 |
+| [in three years' time \- Stripped Back](https://open.spotify.com/track/3Vr5sIoub3YGiXWsZvnlmQ) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back \(deluxe\) \[Stripped Back\]](https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS) | 2:55 | 2022-08-26 |  |
 | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 | 2022-05-20 |  |
 | [Johnny law](https://open.spotify.com/track/4z9Je08Qpyfn6q7bbiqmW5) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/3WjgDAPVhWl6cdc7q3EM1R) | 4:29 | 2020-08-11 | 2022-07-29 |
 | [Johnny law](https://open.spotify.com/track/50NxwJPlcjsT7IqFshyuYP) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J) | 4:29 | 2020-08-11 |  |
@@ -84,7 +86,7 @@
 | [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2021-07-30 | 2022-07-29 |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2021-07-30 |  |
 | [Make Me A Pallet On Your Floor](https://open.spotify.com/track/3HdPVdqcuD2Qt2QgNogHw7) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Avalon: A Tribute To Mississippi John Hurt](https://open.spotify.com/album/0IvcKOjiGavyX0GDsPI68h) | 4:42 | 2020-08-11 | 2022-07-29 |
-| [Make Me A Pallet On Your Floor](https://open.spotify.com/track/4iZ0tK27xu65GMDW2mvOmg) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Avalon: A Tribute To Mississippi John Hurt](https://open.spotify.com/album/3Uu8fwYnYrRgbFiWoRxIJB) | 4:42 | 2020-08-11 |  |
+| [Make Me A Pallet On Your Floor](https://open.spotify.com/track/4iZ0tK27xu65GMDW2mvOmg) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Avalon: A Tribute To Mississippi John Hurt](https://open.spotify.com/album/3Uu8fwYnYrRgbFiWoRxIJB) | 4:42 | 2020-08-11 | 2022-08-27 |
 | [Maybe I'll Go](https://open.spotify.com/track/0M3Ax4slidyDfv9Hq0rYQz) | [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Kokomo Kidd](https://open.spotify.com/album/3jS9ngQkhrfertgQCIqaLH) | 3:00 | 2020-08-11 |  |
 | [Maybe I'll Go](https://open.spotify.com/track/1cYa4SUJNBvpimXnJ5Usyk) | [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Kokomo Kidd](https://open.spotify.com/album/5rCddIMaL73dmo0h2pKOmb) | 3:00 | 2020-08-11 | 2022-07-29 |
 | [Medicine Man \- Acoustic](https://open.spotify.com/track/2ClSbxFxiinHO8ARbmgTn3) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Medicine Man \(Acoustic\)](https://open.spotify.com/album/13qZq0oPgSNewMJKCNKal4) | 3:26 | 2020-08-11 |  |
@@ -126,7 +128,7 @@
 | [Sideways](https://open.spotify.com/track/2hVQh6Yq26Qjk8tEp484Vb) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Sideways](https://open.spotify.com/album/5PdyH6DLYq6QQkeX1DRLYY) | 4:21 | 2020-08-11 |  |
 | [Slowly Slipping Away](https://open.spotify.com/track/1O3uMuRCBc6E4RmhJGW5Jn) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings Volume 3](https://open.spotify.com/album/5c7E6QImmtlRXTsbU4dQWC) | 3:26 | 2020-08-11 | 2022-07-29 |
 | [Slowly Slipping Away](https://open.spotify.com/track/2esnC3sEMqLfQvF4qaCJfA) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k) | 3:26 | 2020-08-11 |  |
-| [So Grateful](https://open.spotify.com/track/1U236FYzQEdMWn1hMM0gQn) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Stripped Down & Surrendered](https://open.spotify.com/album/4Clnz845KVZqqINWEsVZ7y) | 5:47 | 2020-08-11 |  |
+| [So Grateful](https://open.spotify.com/track/1U236FYzQEdMWn1hMM0gQn) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Stripped Down & Surrendered](https://open.spotify.com/album/4Clnz845KVZqqINWEsVZ7y) | 5:47 | 2020-08-11 | 2022-08-27 |
 | [Sun on My Face](https://open.spotify.com/track/2hHyeOI9VDvR5cBK4JF5DP) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sun on My Face](https://open.spotify.com/album/3HTbVEiLa8i13BNewI7nx2) | 4:05 | 2020-08-11 |  |
 | [Take Me to the Country](https://open.spotify.com/track/3zq0O9elfqNSrIWM9S5eV2) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Spectacular Class](https://open.spotify.com/album/3VnetMqM2L9pmXcdgixAq8) | 2:56 | 2020-08-11 |  |
 | [Talkin' To Jehova](https://open.spotify.com/track/2htN0gyb1WiJliAq9LtDza) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Brother Sinner & The Whale](https://open.spotify.com/album/7BsEu3aR82GbSKxMhbGnUS) | 4:36 | 2020-08-11 |  |

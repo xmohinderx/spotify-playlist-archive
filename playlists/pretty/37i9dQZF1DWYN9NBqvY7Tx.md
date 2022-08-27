@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, Bass, EDM, Trap: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,249 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,323 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Make Me Move](https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Make Me Move](https://open.spotify.com/album/1ON1B59MqwPAJXVLw3E43j) | 3:17 |
 | 100 | [Ghosts](https://open.spotify.com/track/1Rpj9CZE7cGSXUCfiBf0eA) | [Jacob Tillberg](https://open.spotify.com/artist/6aJRwrwfOffz7RMh2Cfm8e) | [Ghosts](https://open.spotify.com/album/5Y9i4ZFAG2GM7ugIM916dY) | 3:35 |
 
-Snapshot ID: `MTY2MTI1MTEzNSwwMDAwMDAwMDg5MDJhYzA2YTU0ODFhNzJiNTA0ZDVlZWUxNjVhNWY0`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGUxMjA1NTgyYjIyYTViZmI3OWYyNzcxMTczODViMmRl`

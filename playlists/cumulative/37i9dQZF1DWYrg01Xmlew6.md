@@ -4,7 +4,7 @@
 
 > Il meglio da Napoli e dalla scena campana\. Cover: Geolier
 
-94 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
+95 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Soldi](https://open.spotify.com/track/7rlhLWCYROT4H6YAzAyuPi) | [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [Soldi](https://open.spotify.com/album/3tm8GwPNOJPcr9rQAXMWgV) | 2:31 | 2022-07-28 | 2022-08-13 |
 | [SUL IJ E TE](https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SUL IJ E TE](https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS) | 2:16 | 2022-06-09 |  |
 | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn) | 2:57 | 2022-06-02 |  |
+| [T Pens](https://open.spotify.com/track/65U8ZFmt7JSrLdwH93q363) | [O'CINES](https://open.spotify.com/artist/6drNYL1qof91qhlkhrIjlS) | [T Pens](https://open.spotify.com/album/4goIUzzouxxq3nYDL3xFnm) | 1:48 | 2022-08-25 |  |
 | [Te penso ancora](https://open.spotify.com/track/1nt9UH3Bzu3wMCgE0LudzZ) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Rivoluzione](https://open.spotify.com/album/2vjQGNiqEcvNyvTPAlotQ2) | 2:28 | 2022-05-10 | 2022-07-29 |
 | [Te penso ancora](https://open.spotify.com/track/34ki4KNkR0lZmCDOASSLpx) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Rivoluzione](https://open.spotify.com/album/4Im07AiNZRmx2o0jGgEsal) | 2:28 | 2022-07-28 |  |
 | [Tetti \(feat\. Yung Snapp\)](https://open.spotify.com/track/7iJ95DAak22eCvQMLt44pB) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Tetti \(feat\. Yung Snapp\)](https://open.spotify.com/album/6qlwBaYchelwWoYPJkuQ0B) | 2:42 | 2022-05-10 | 2022-07-08 |

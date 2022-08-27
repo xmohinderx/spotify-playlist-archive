@@ -654,6 +654,24 @@
     },
     {
       "album": {
+        "name": "End of the Night",
+        "url": "https://open.spotify.com/album/7lylPOUHBlKJaNHJdxe7To"
+      },
+      "artists": [
+        {
+          "name": "Almira Zaky",
+          "url": "https://open.spotify.com/artist/62aXcFkYSHe0Kai0CImGyy"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "End of the Night",
+      "url": "https://open.spotify.com/track/341pIrVMrURjfbJDGg4MfD"
+    },
+    {
+      "album": {
         "name": "Ivory (Marfil)",
         "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
       },

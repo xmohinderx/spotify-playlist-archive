@@ -1,44 +1,88 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Allison Russell & Brandi Carlile",
-  "num_followers": 739556,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Valerie June",
+  "num_followers": 739695,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGRmMTQyNWMxMjZjZjE3Mzk5MmNlNDkwYzFkNzE2NzQ5",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDA2MDRlODFlZmJkMDBmNTcwODg4MGE5ZjVkODI4MGU1",
   "tracks": [
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Heartmind",
-        "url": "https://open.spotify.com/album/2HutgntzLdadMPeSLrwmT1"
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4"
       },
       "artists": [
         {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 251200,
-      "name": "New Earth",
-      "url": "https://open.spotify.com/track/3uT9svp7O7rAzrFgvCq8cW"
+      "duration_ms": 301506,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "complex (demo)",
+        "url": "https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 256107,
+      "name": "complex (demo)",
+      "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
     },
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+        "name": "Look At Miss Ohio",
+        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+      "duration_ms": 205760,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "That's How You Know",
+        "url": "https://open.spotify.com/album/3L2xXFvMayei3lV4JLqLTU"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Sima Cunningham",
+          "url": "https://open.spotify.com/artist/7hCrrpVmgtWF6Y3MZed12l"
+        },
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 225151,
+      "name": "That's How You Know",
+      "url": "https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -63,18 +107,34 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Love Each Other",
-        "url": "https://open.spotify.com/album/4IL0gqsbgk900pkIUNAE7v"
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
       },
       "artists": [
         {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Love Each Other",
-      "url": "https://open.spotify.com/track/69rxuEmtMKaYnNrFaokfh7"
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "On the Highway",
+        "url": "https://open.spotify.com/album/6boMPNouaBFYwXU3dspEuh"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "On the Highway",
+      "url": "https://open.spotify.com/track/2BMVIOP0O37s5K7OW9uW3b"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -91,6 +151,110 @@
       "duration_ms": 221082,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Better Off High",
+        "url": "https://open.spotify.com/album/5nMgnAmu8DnEHS1FVlsrB7"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 270806,
+      "name": "Better Off High",
+      "url": "https://open.spotify.com/track/4qErRQ7XZCogsJDzyvWTLY"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Real Low Down Lonesome",
+        "url": "https://open.spotify.com/album/1umFpAK7jLxvDo1gt4uMPZ"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 269346,
+      "name": "Real Low Down Lonesome",
+      "url": "https://open.spotify.com/track/3lTz2FIBPO41MvQSAMBEWq"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Dance with Everybody",
+        "url": "https://open.spotify.com/album/3mVV3jcal3oh3hiMmvrxgZ"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        },
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Dance with Everybody",
+      "url": "https://open.spotify.com/track/7qNIz2zkEnSjnDPuo10HEr"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Heartmind",
+        "url": "https://open.spotify.com/album/2HutgntzLdadMPeSLrwmT1"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "New Earth",
+      "url": "https://open.spotify.com/track/3uT9svp7O7rAzrFgvCq8cW"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Love Each Other",
+        "url": "https://open.spotify.com/album/4IL0gqsbgk900pkIUNAE7v"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Love Each Other",
+      "url": "https://open.spotify.com/track/69rxuEmtMKaYnNrFaokfh7"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -159,26 +323,6 @@
       "duration_ms": 169080,
       "name": "Still Water",
       "url": "https://open.spotify.com/track/3inIdx3pCVdZ3rlrDrDIHw"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Real Low Down Lonesome",
-        "url": "https://open.spotify.com/album/1umFpAK7jLxvDo1gt4uMPZ"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 269346,
-      "name": "Real Low Down Lonesome",
-      "url": "https://open.spotify.com/track/3lTz2FIBPO41MvQSAMBEWq"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -859,22 +1003,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Look At Miss Ohio",
-        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Take It Like A Man",
         "url": "https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY"
       },
@@ -903,22 +1031,6 @@
       "duration_ms": 234156,
       "name": "Quietly Yours",
       "url": "https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 253599,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1483,22 +1595,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/2MqgZPGy5XoByGtlsxYslL"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/0pmgZmtGIq5kfoGaOD5RGh"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "I'm a Man",
         "url": "https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn"
       },
@@ -1671,22 +1767,6 @@
       "duration_ms": 222896,
       "name": "Inhuman",
       "url": "https://open.spotify.com/track/0ncQ9YbooDMouzuq5SJOts"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "When I Die",
-        "url": "https://open.spotify.com/album/7pGwn0UyvXvl5nd2EvEG5f"
-      },
-      "artists": [
-        {
-          "name": "The A's",
-          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
-        }
-      ],
-      "duration_ms": 111080,
-      "name": "When I Die",
-      "url": "https://open.spotify.com/track/564BTb9z5fC0XGZzRAUNI2"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1943,46 +2023,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Ways & Means",
-        "url": "https://open.spotify.com/album/0k72s0eVcw3D2PRgZXdT94"
-      },
-      "artists": [
-        {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
-        },
-        {
-          "name": "Dan Cutler",
-          "url": "https://open.spotify.com/artist/4Z92aSgPiL4FSEUAQ6D2hY"
-        }
-      ],
-      "duration_ms": 193680,
-      "name": "Ways & Means",
-      "url": "https://open.spotify.com/track/1NHjq8AUZWmfk5dRNLdttv"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Old Men Drinking Seagram's",
-        "url": "https://open.spotify.com/album/6mNiBjmmhXUtNAp1culOxv"
-      },
-      "artists": [
-        {
-          "name": "Peter Mulvey",
-          "url": "https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h"
-        },
-        {
-          "name": "SistaStrings",
-          "url": "https://open.spotify.com/artist/4XCzC4PAZ8KyL7wzqU6z8g"
-        }
-      ],
-      "duration_ms": 232124,
-      "name": "Old Men Drinking Seagram's",
-      "url": "https://open.spotify.com/track/5x6oBT8u9FzFa8Sb7GxjJu"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Righter",
         "url": "https://open.spotify.com/album/7p0eKTOpxUkB2SxWDJJ2Nu"
       },
@@ -1995,26 +2035,6 @@
       "duration_ms": 236976,
       "name": "Righter",
       "url": "https://open.spotify.com/track/7aX7tlZXkjTfR2fTPtk5uN"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Don't Cry Ruby, It's Only the End of the World",
-        "url": "https://open.spotify.com/album/18PW7v4vmkDp2OvOU5DATP"
-      },
-      "artists": [
-        {
-          "name": "Corey Kilgannon",
-          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
-        },
-        {
-          "name": "Heckmann",
-          "url": "https://open.spotify.com/artist/0TaEKjhB31nWflngi9lNng"
-        }
-      ],
-      "duration_ms": 292571,
-      "name": "Don't Cry Ruby, It's Only the End of the World",
-      "url": "https://open.spotify.com/track/1Sec1BxKIsr3cmK7aZOJgv"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2479,22 +2499,6 @@
       "duration_ms": 170363,
       "name": "I Only Hope to Feel Love",
       "url": "https://open.spotify.com/track/1IdozL1GhMN6w0gjAdPLqb"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Break Me Open",
-        "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/7dZ723CDAVUmHtJRdghndW"
     }
   ],
   "unique_name": "Fresh Folk",

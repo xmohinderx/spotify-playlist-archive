@@ -1,13 +1,29 @@
 {
-  "description": "A new shade of Country. Cover: Billy Joe Shaver & Willie Nelson",
-  "num_followers": 393521,
+  "description": "A new shade of Country. Cover: Nikki Lane",
+  "num_followers": 393595,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDIyNWQ3MmFlMTc0NjY1M2IzMzgxYzM3NDVhYTg4MTdj",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDNlNWFkZDE3NGJkOWQ3YmFkMTdmZGM3ZmZmOTQxZWJi",
   "tracks": [
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Born Tough",
+        "url": "https://open.spotify.com/album/4evgvJle8aN0wyy5K5plu6"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 231132,
+      "name": "Born Tough",
+      "url": "https://open.spotify.com/track/0fk348ckpteb46vjTO9I0n"
+    },
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
@@ -27,6 +43,38 @@
       "duration_ms": 180135,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -61,20 +109,56 @@
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Tornillo",
-        "url": "https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT"
+        "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
+        "url": "https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 295776,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/2fMFGxKTLDYroA9v6eKv9N"
+      "duration_ms": 195386,
+      "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/2bsIieEAgCyVwcdGNiBDFB"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 286320,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/2YgmnWc5M8DDYLKgDarBq7"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "One Hell of an Angel",
+        "url": "https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 211517,
+      "name": "One Hell of an Angel",
+      "url": "https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -91,6 +175,70 @@
       "duration_ms": 169563,
       "name": "Backwater Blues",
       "url": "https://open.spotify.com/track/0grIyohjE5IbgzKfDKcEbL"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Wings on My Shoes",
+        "url": "https://open.spotify.com/album/3x6qsIvqAjncf61GgRegUv"
+      },
+      "artists": [
+        {
+          "name": "Will Hoge",
+          "url": "https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT"
+        }
+      ],
+      "duration_ms": 215060,
+      "name": "Ain't How It Used to Be",
+      "url": "https://open.spotify.com/track/3hAbrlI4sOugXvyMa8BPmR"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "That's How Love Is Made",
+        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "That's How Love Is Made",
+      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Been To The Mountain",
+        "url": "https://open.spotify.com/album/79EPswgfIWpxNAr63nLWAs"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 327520,
+      "name": "Been To The Mountain",
+      "url": "https://open.spotify.com/track/7fqPyOPznptdLLOnD63d8g"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Tornillo",
+        "url": "https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 295776,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/2fMFGxKTLDYroA9v6eKv9N"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -567,22 +715,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/2bsIieEAgCyVwcdGNiBDFB"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 286320,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/2YgmnWc5M8DDYLKgDarBq7"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "The Vandoliers",
         "url": "https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM"
       },
@@ -659,22 +791,6 @@
       "duration_ms": 170953,
       "name": "Last Cigarette - Acoustic",
       "url": "https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 186718,
-      "name": "Gettin' By",
-      "url": "https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1951,22 +2067,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Buckskin",
-        "url": "https://open.spotify.com/album/27K52pfrgwrUqsaAJZ2WLn"
-      },
-      "artists": [
-        {
-          "name": "Ned LeDoux",
-          "url": "https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q"
-        }
-      ],
-      "duration_ms": 252816,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/65bs9Mbl9VuJXtkMknT3lg"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "You, Yeah, You",
         "url": "https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY"
       },
@@ -1979,22 +2079,6 @@
       "duration_ms": 189329,
       "name": "Sweet Misery",
       "url": "https://open.spotify.com/track/5QDpRgmLJaWJaV7BUX5D0Y"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Wilder Days",
-      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
     },
     {
       "added_at": "2022-08-19 04:00:00",

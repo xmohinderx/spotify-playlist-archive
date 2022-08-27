@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-156 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
+157 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Fix you](https://open.spotify.com/track/5100NokEXg7OfxeW7WUv8K) | [Assunção Bossa](https://open.spotify.com/artist/4ix6MOO9gLIwpXR7XbPgr8) | [Fix you](https://open.spotify.com/album/0ZQziiIxQzG5uHnuYqO8n0) | 4:45 | 2021-12-09 |  |
 | [For Once In My Life](https://open.spotify.com/track/3ZjR1gKchO3742A8KRlVtQ) | [Brothers of Bossa](https://open.spotify.com/artist/1E7h6pUwUffzj0299qgm5y) | [For Once In My Life](https://open.spotify.com/album/5a29JELNdty5VN1G0aPZ8t) | 3:25 | 2021-12-09 |  |
 | [Garota de Ipanema \(The Girl From Ipanema\)](https://open.spotify.com/track/0xYbaQtR9Nj1VbkPPIAUII) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Chill in Saint Tropez](https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT) | 3:23 | 2021-12-09 |  |
+| [Get Lucky](https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Get Lucky](https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ) | 3:51 | 2022-08-26 |  |
 | [Girls Like You](https://open.spotify.com/track/269KxTQgkQuL9m5BQDESZn) | [Belmira](https://open.spotify.com/artist/4wsZN1JHWi561Kqlgo2cS1) | [Girls Like You](https://open.spotify.com/album/1LnVYXf8KSGZOKOtjnKMdl) | 3:13 | 2021-12-09 |  |
 | [Go Your Own Way](https://open.spotify.com/track/5UwOc7LbaoGEeemqLwSSTu) | [Nova Bossa Ltd.](https://open.spotify.com/artist/2jDHvU3y5xMaBc8u3O85nu), [Marvin](https://open.spotify.com/artist/1vS37gXPQ5Ne8eDbFzaMyF), [Natalie Renoir](https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87) | [Go Your Own Way](https://open.spotify.com/album/0J44SaeuvNREQ6LDBFuFOa) | 2:47 | 2021-12-09 |  |
 | [God Only Knows](https://open.spotify.com/track/5Gns8npv1HmkQ5BzZzWS9d) | [Lilia Tracie](https://open.spotify.com/artist/14JPzuBcED5VkwQQZTvgbX) | [God Only Knows](https://open.spotify.com/album/7GjKFcuEOZZaMGJXn7sK81) | 2:38 | 2021-12-09 |  |

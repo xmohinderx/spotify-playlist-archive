@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-60 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/2E2RyBcBkqOG7RVx0sFU7t)
+61 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/2E2RyBcBkqOG7RVx0sFU7t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Janáček: On an Overgrown Path, Book I: No\. 7, Good Night!](https://open.spotify.com/track/2DvAljfHQpHfhcGxajeiHj) | [Leoš Janáček](https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Good Night! \- Janáček: On an Overgrown Path, Book 1: No\. 7, Good Night!](https://open.spotify.com/album/5eBLo7LpwoA2iLtKS1HPru) | 3:19 | 2021-12-06 | 2022-07-29 |
 | [Janáček: On an Overgrown Path, Book I: No\. 7, Good Night!](https://open.spotify.com/track/5rTOQ1I0Ig9CglsssseeYe) | [Leoš Janáček](https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Good Night!](https://open.spotify.com/album/0vF1DJXd2ZWJxnsf8Wvqha) | 3:19 | 2022-07-08 |  |
 | [Kinderszenen, Op\. 15: 7\. Träumerei](https://open.spotify.com/track/7rrDSYbroZhV6aKkbYxiuG) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Schumann: Kreisleriana; Kinderszenen; Fantasiestücke](https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW) | 2:30 | 2021-12-06 |  |
+| [Kreisleriana, Op\. 16: IV\. Sehr langsam](https://open.spotify.com/track/117UK0UdhuFikHiKUUquUp) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Jean\-Baptiste Doulcet](https://open.spotify.com/artist/0UNH738aPkyYpDpcXO5ga5) | [Schumann : Kreisleriana, Op\. 16: IV\. Sehr langsam](https://open.spotify.com/album/0aRCmGD4UnHLGP1EsR3Kub) | 3:08 | 2022-08-26 |  |
 | [Lieder ohne Worte \(Songs without Words\), Book 2, Op\. 30: No\. 7 in E\-Flat Major, Op\. 30, No\. 1](https://open.spotify.com/track/00CXUMREit80f2McJsjcIz) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Péter Nagy](https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM) | [Mendelssohn, Felix: Songs Without Words, Vol\. 1](https://open.spotify.com/album/4oPL5qL3uEurG2nu1MsVwT) | 4:42 | 2021-12-06 |  |
 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 | 2021-12-06 |  |
 | [Mahler / Transcr\. Tharaud: Symphony No\. 5 in C\-Sharp Minor, Pt\. 3: IV\. Adagietto](https://open.spotify.com/track/2wRDxGoCJWiWVNgjC8eHwJ) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Le Poète du piano](https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk) | 10:36 | 2021-12-06 | 2022-03-18 |

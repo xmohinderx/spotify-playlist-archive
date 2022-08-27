@@ -4,7 +4,7 @@
 
 > Get ready for dinner with some upbeat, cool, funky and cooking jazz.
 
-159 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/6BjwyoA9Lay57oVZdsqp91)
+161 songs - 17 hr 17 min - [published](https://open.spotify.com/playlist/6BjwyoA9Lay57oVZdsqp91)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Birk's Works](https://open.spotify.com/track/2GlOhERrjjT5otcBi0jYa2) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 4:19 | 2022-05-11 |  |
 | [Blind Man, Blind Man \- Remastered](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 | 2021-12-21 |  |
 | [Bloos, Booze, Blues](https://open.spotify.com/track/6Hw7Rp62cMwVpAReee0chl) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [The Cool Sounds Of Pepper Adams](https://open.spotify.com/album/3z2vgBE5b5c09FNeaX6UC4) | 10:17 | 2021-12-21 |  |
+| [Blue bossa](https://open.spotify.com/track/4LbJFM4QRgvKoYU7nzj3Dx) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Biting The Apple](https://open.spotify.com/album/1M6C1WuBNfHnQ4H0eoAr0s) | 8:49 | 2022-08-26 |  |
 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 | 2021-12-21 | 2022-03-05 |
 | [Blue Lights](https://open.spotify.com/track/5ZLgq6ExLURYBhjIQuRbi1) | [Clifford Jordan](https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn), [John Gilmore](https://open.spotify.com/artist/65A4foeosCkf3zaigZJuzF) | [Blowing In From Chicago](https://open.spotify.com/album/1zy0Hh6qRfvWeZrdPbg6i5) | 6:37 | 2022-05-11 | 2022-07-25 |
 | [Blue Lights \- Rudy Van Gelder 24Bit Mastering](https://open.spotify.com/track/3N8cnNnRjBtPTT65alL2s1) | [Clifford Jordan](https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn), [John Gilmore](https://open.spotify.com/artist/65A4foeosCkf3zaigZJuzF) | [Blowing In From Chicago](https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6) | 6:38 | 2022-08-11 |  |
@@ -120,7 +121,7 @@
 | [Searchin'](https://open.spotify.com/track/46KW7r7jEF5mFUp6dvGWSi) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [McCoy Tyner Plays Ellington](https://open.spotify.com/album/6W2217tnANhBEJL8mUW0g3) | 4:31 | 2021-12-21 | 2022-07-29 |
 | [Searchin'](https://open.spotify.com/track/5o88f39bZrfk7auiBaSm0r) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [McCoy Tyner Plays Ellington](https://open.spotify.com/album/0oaA1qdVdWGmNYW2D1js9z) | 4:33 | 2022-06-29 |  |
 | [Second Balcony Jump \- Rudy Van Gelder Edition](https://open.spotify.com/track/2bkbV4FxwOAmgPTJHnCWgg) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 7:05 | 2022-01-20 |  |
-| [Shiny Stockings](https://open.spotify.com/track/3lul9ssgcVYSo7ivts4vPb) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:20 | 2022-03-04 |  |
+| [Shiny Stockings](https://open.spotify.com/track/3lul9ssgcVYSo7ivts4vPb) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:20 | 2022-03-04 | 2022-08-27 |
 | [Shulie A Bop](https://open.spotify.com/track/4nkqR6YY92pi7vCniJKhxI) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:42 | 2021-12-21 |  |
 | [Silver's Serenade \- 20\-Bit Remastering/1997](https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Finest](https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE) | 9:21 | 2022-03-04 |  |
 | [Sister Sadie](https://open.spotify.com/track/3R5K5Alv1Db3WRRAE3lr42) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Blowin' The Blues Away](https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc) | 6:19 | 2022-03-04 |  |
@@ -160,12 +161,13 @@
 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 | 2021-12-21 | 2022-03-05 |
 | [Voodoo](https://open.spotify.com/track/1XrghpSKRLuC4G8lpMth1B) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Leapin' And Lopin'](https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm) | 7:37 | 2022-05-11 |  |
 | [Walk On The Wild Side](https://open.spotify.com/track/2f7vnETYXqWYBJNfa3zkYj) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Talkin' Verve](https://open.spotify.com/album/2lhapGz7nbjmiJEil7iAFX) | 7:18 | 2021-12-21 |  |
+| [Walkin' Shoes](https://open.spotify.com/track/6BavxfUuSOBIhMaEJ6rjNs) | [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO) | [Gerry Mulligan Quartet Vol.1 \(Expanded Edition\)](https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB) | 3:13 | 2022-08-26 |  |
 | [Wigglin' \- Remastered](https://open.spotify.com/track/4N4bT7cB4Nu0BGIzaflIHM) | [Freddie Redd Quartet](https://open.spotify.com/artist/783qw4qFU02m8LQcPWajML), [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [The Music From "The Connection" \(2005 Rudy Van Gelder Edition\)](https://open.spotify.com/album/0OMYhZDRDDcUa5Ee0TyLJK) | 5:58 | 2021-12-21 |  |
 | [Willow Weep For Me \- Rudy Van Gelder Edition / 2003 Remaster](https://open.spotify.com/track/3TerEwVP6zs2QrsCoG0yFK) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Our Man In Paris \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088) | 8:47 | 2022-04-08 |  |
 | [Work Song \- Remastered](https://open.spotify.com/track/2J7tTIy7b4F78HuNwNmYVv) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Them Dirty Blues](https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7) | 5:07 | 2022-05-13 |  |
 | [You Stepped Out Of A Dream \- Remastered](https://open.spotify.com/track/1PiW5cq6ReVpNbSGMw2x1o) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:34 | 2022-01-20 |  |
 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY) | [The Al Cohn \- Zoot Sims Quintet](https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM) | [You 'N Me](https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G) | 4:51 | 2021-12-21 | 2022-06-10 |
 | [You've Come Home](https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:40 | 2021-12-21 |  |
-| [Young Bean](https://open.spotify.com/track/0jLNrHoBVaOm8V37QRRXEf) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster and Associates](https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR) | 6:03 | 2021-12-21 |  |
+| [Young Bean](https://open.spotify.com/track/0jLNrHoBVaOm8V37QRRXEf) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster and Associates](https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR) | 6:03 | 2021-12-21 | 2022-08-27 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

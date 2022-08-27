@@ -83,7 +83,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 154382,
       "name": "1991",
       "url": "https://open.spotify.com/track/2eSghUl6cJPDf4HjzDRsar"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 158317,
       "name": "Aben\u00e7oado",
       "url": "https://open.spotify.com/track/3MSDJCb8wukZ7ApJihP4yD"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 204000,
       "name": "Caso Cerrado",
       "url": "https://open.spotify.com/track/3jQXBjRY7j6WNKEq6ZByc9"
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 203809,
       "name": "Eu(S)",
       "url": "https://open.spotify.com/track/36jHpclKntpDEiyLVFoUNE"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 152000,
       "name": "Feito M\u00e1gica",
       "url": "https://open.spotify.com/track/1BhmfXfvJ42fkWr4WJwxUH"
@@ -1449,6 +1449,28 @@
       "duration_ms": 168000,
       "name": "Flores e Facas",
       "url": "https://open.spotify.com/track/5y6BXNz2jiBjZBvf8HCC05"
+    },
+    {
+      "album": {
+        "name": "Florescer",
+        "url": "https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x"
+      },
+      "artists": [
+        {
+          "name": "Mayarah Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p"
+        },
+        {
+          "name": "Blood Beatz",
+          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288068,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F"
     },
     {
       "album": {
@@ -1642,6 +1664,58 @@
     },
     {
       "album": {
+        "name": "Gest\u00e3o Inteligente",
+        "url": "https://open.spotify.com/album/3nMXu0UsQ9EsjArYfJEdeN"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T",
+          "url": "https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ"
+        },
+        {
+          "name": "Putodiparis",
+          "url": "https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b"
+        },
+        {
+          "name": "Sheik S",
+          "url": "https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Gest\u00e3o Inteligente",
+      "url": "https://open.spotify.com/track/2ZyWcxtPhrTC8mSNW1y4aL"
+    },
+    {
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/28PfTRuAUoB3lk8sWDxYhs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/2PvRDrC9kiHnLTljSYjCDg"
+    },
+    {
+      "album": {
         "name": "Duelo de MCs Nacional 2020",
         "url": "https://open.spotify.com/album/1gaBUYR3dUlbIfVLREJR2W"
       },
@@ -1695,6 +1769,28 @@
       "duration_ms": 114000,
       "name": "Guerra",
       "url": "https://open.spotify.com/track/2VpnrmkOaLW3SYEnoBleTN"
+    },
+    {
+      "album": {
+        "name": "Guerra",
+        "url": "https://open.spotify.com/album/0pbbJhOcA6v8AYZTBhRVM9"
+      },
+      "artists": [
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        },
+        {
+          "name": "lucasbin",
+          "url": "https://open.spotify.com/artist/7KYrffinPH0x6rrRIqIBid"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Guerra",
+      "url": "https://open.spotify.com/track/4VNQiOlGRKeGkEBntleFKe"
     },
     {
       "album": {
@@ -2125,7 +2221,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 315480,
       "name": "Mon\u00f3logo",
       "url": "https://open.spotify.com/track/12gq7G3vaOaqmgenVBkl9O"
@@ -2649,6 +2745,24 @@
       "duration_ms": 192000,
       "name": "Old Rap",
       "url": "https://open.spotify.com/track/2rKAfftXgnr0dmRkXmxPrJ"
+    },
+    {
+      "album": {
+        "name": "Mbaraet\u00e9",
+        "url": "https://open.spotify.com/album/2dmdMkuFDqx8dJnPqi7Wkv"
+      },
+      "artists": [
+        {
+          "name": "OWER\u00c1",
+          "url": "https://open.spotify.com/artist/3kRh9dS4gZMby51rEmFYzE"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234829,
+      "name": "Ower\u00e1 Chegou",
+      "url": "https://open.spotify.com/track/5SG5ECSzWTHcnKjo7pDKpr"
     },
     {
       "album": {
@@ -3380,6 +3494,28 @@
     },
     {
       "album": {
+        "name": "Ser\u00e1 Que Fica Novo Essa Velha",
+        "url": "https://open.spotify.com/album/7tG8FORtUmBb3ys0PVH47T"
+      },
+      "artists": [
+        {
+          "name": "Joaozinho Beatbox",
+          "url": "https://open.spotify.com/artist/6RSCinVsVheFsme8wR5qLX"
+        },
+        {
+          "name": "DJ Ak beats",
+          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121278,
+      "name": "Ser\u00e1 Que Fica Novo Essa Velha",
+      "url": "https://open.spotify.com/track/5mpcYoQj5jOLMM8PH2jNX8"
+    },
+    {
+      "album": {
         "name": "Sol Mixtape, Vol. 2",
         "url": "https://open.spotify.com/album/0vrOqP8vVBuFmgtMjoqCfG"
       },
@@ -4075,7 +4211,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 168157,
       "name": "Vil\u00e3o",
       "url": "https://open.spotify.com/track/0lJ4zbW3ItvxG2XJUHmC4R"
@@ -4119,6 +4255,28 @@
       "duration_ms": 159544,
       "name": "Vit\u00f3ria",
       "url": "https://open.spotify.com/track/3dbUNFPVonArFanzvuxK1J"
+    },
+    {
+      "album": {
+        "name": "Viver T\u00e1 Osso",
+        "url": "https://open.spotify.com/album/37sqcLKyDMdHdDgGWd0spl"
+      },
+      "artists": [
+        {
+          "name": "Cronicas de Um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215730,
+      "name": "Viver T\u00e1 Osso",
+      "url": "https://open.spotify.com/track/63WtsqSUUR75iWvGyBwnIw"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: AHYRE.
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los del Portezuelo + Destino San Javier.
 
-122 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+123 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Mi Regreso](https://open.spotify.com/track/1CfwzL2EwovUSJk12fhNva) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Mi Regreso](https://open.spotify.com/album/6IQdh1uIQiHyUuqfoCFtP4) | 2:59 | 2021-12-31 |  |
 | [Mientes](https://open.spotify.com/track/6w8vrqjspBrCckBZOerReI) | [Ceibo](https://open.spotify.com/artist/77AuP9c2svnUoh7JK5HrOp) | [Ceibo](https://open.spotify.com/album/1bop3bvcBDJjOFRhyVBIGs) | 3:36 | 2021-12-31 |  |
 | [Mundo](https://open.spotify.com/track/2jL5pH60kWWSNEyoxENRol) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mundo](https://open.spotify.com/album/3irWZcLfE9HCACenWfVp3E) | 3:42 | 2021-12-31 |  |
+| [Nada \- REMIX](https://open.spotify.com/track/2TjYOCmxd4HTjcZxtjoj1c) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW), [Juan Blas Caballero](https://open.spotify.com/artist/5TId3ZdYQ1j3i8FMidaec4) | [Nada \(REMIX\)](https://open.spotify.com/album/5CHPMtTMwLIL2vK6GnDjMM) | 3:31 | 2022-08-26 |  |
 | [Navidad y Año Nuevo](https://open.spotify.com/track/60SbkLG67htrmPIUDWv68D) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Navidad y Año Nuevo](https://open.spotify.com/album/1HRNGUWQDfazHryTekdgpN) | 2:24 | 2021-12-31 | 2022-07-02 |
 | [No Te Vayas Carnaval](https://open.spotify.com/track/4P1iwTp5ZqynYoV4X1GQx4) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Jorge Rojas](https://open.spotify.com/album/4Zu0dRK3MZLBOdKr5cM70J) | 4:00 | 2021-12-31 |  |
 | [Noctilucado](https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Noctilucado](https://open.spotify.com/album/7crNDxDK2sO3bp9hs1JTxw) | 2:45 | 2021-12-31 | 2022-05-14 |

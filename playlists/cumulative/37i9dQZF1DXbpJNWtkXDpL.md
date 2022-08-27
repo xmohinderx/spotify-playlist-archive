@@ -4,7 +4,7 @@
 
 > ¡Presentamos a Kevin Kaarl, nuestro artista Radar!
 
-194 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
+195 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 | 2022-05-13 |  |
 | [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 | 2021-10-01 | 2022-05-12 |
 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 | 2022-05-13 |  |
+| [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-08-26 |  |
 | [signos](https://open.spotify.com/track/4Yg9FM81cRqrbSZvr84k5J) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 2:52 | 2022-05-11 | 2022-07-27 |
 | [Sin Compromiso](https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Sin Compromiso](https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy) | 3:02 | 2021-10-01 | 2022-05-12 |
 | [Snakes](https://open.spotify.com/track/3XVP4UcQ6UtqUNUA7eOXsa) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn), [HiiTay](https://open.spotify.com/artist/2zoliOCqK1WrucYhdrjiHz), [Zerarri](https://open.spotify.com/artist/7ISdsaYvSq0pkEFwt3Tu2y) | [Snakes](https://open.spotify.com/album/4TQlTRsDAafp2rol1iAjgX) | 2:49 | 2022-05-13 | 2022-07-11 |
@@ -190,7 +191,7 @@
 | [Venus](https://open.spotify.com/track/6WiiqABNefc4RZTVmjHZQm) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Venus](https://open.spotify.com/album/7B5wZ550fbqIhhB850XlML) | 2:29 | 2021-10-01 | 2022-05-10 |
 | [Viva la Muerte](https://open.spotify.com/track/2CY8G2Z8Ek5puK1cnrmwEA) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 3:18 | 2022-05-11 | 2022-07-21 |
 | [Volando](https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Volando](https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp) | 3:38 | 2021-10-01 | 2022-05-10 |
-| [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 | 2022-05-09 |  |
+| [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 | 2022-05-09 | 2022-08-27 |
 | [Vraiment](https://open.spotify.com/track/0jIQK9Tu4oBOsErqtyIrIL) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Vraiment](https://open.spotify.com/album/0uVskkVbzIcbao9Nl7okhk) | 3:22 | 2021-10-01 | 2022-07-29 |
 | [Vámonos a Marte](https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 2:59 | 2022-08-01 |  |
 | [WiFi](https://open.spotify.com/track/2EagRPSXniHG3HAzQd8HUb) | [Nicole Gatti](https://open.spotify.com/artist/4j0wOwaGxwpKs2xrtvXqHE) | [WiFi](https://open.spotify.com/album/7j9bryut6U7Qxc0Z4zHLFZ) | 2:11 | 2021-10-01 | 2022-05-11 |

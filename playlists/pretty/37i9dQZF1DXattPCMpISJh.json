@@ -1,13 +1,29 @@
 {
-  "description": "A new take on a classic sound. Cover: The Knocks",
-  "num_followers": 54760,
+  "description": "A new take on a classic sound. Cover: Agnes",
+  "num_followers": 54910,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGY5NzE5NzY5ZGQ1OTZjYzBjZWNjYzZjNzU5MTJiMzNj",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDBiYTM4Y2UyYWI1OTM3ZTE1NDhmMmJjYzNiMmMwZGU3",
   "tracks": [
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Love And Appreciation (Radio Edit)",
+        "url": "https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 188216,
+      "name": "Love And Appreciation - Radio Edit",
+      "url": "https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT"
+    },
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
@@ -1759,30 +1775,6 @@
       "duration_ms": 194035,
       "name": "Only U - Original Mix",
       "url": "https://open.spotify.com/track/3TTEzp4OfO0nKcBlO8NstK"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Dancing into the Stars",
-        "url": "https://open.spotify.com/album/0mazR8hdLu7cyFfg7tjatb"
-      },
-      "artists": [
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
-        },
-        {
-          "name": "Horse Meat Disco",
-          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
-        },
-        {
-          "name": "Angela Johnson",
-          "url": "https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w"
-        }
-      ],
-      "duration_ms": 356974,
-      "name": "Dancing into the Stars - Dave Lee Super Soulful Mix",
-      "url": "https://open.spotify.com/track/4YStSwhggDOLlvU81OWW6c"
     },
     {
       "added_at": "2021-07-30 04:01:00",

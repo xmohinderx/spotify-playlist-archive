@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: YASSIQ Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,508 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,514 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [Ei Você](https://open.spotify.com/track/6kEsR6wVuS0TF0pzdhq5ge) | [BarbarAmor](https://open.spotify.com/artist/3HvaQsJWVdi2WvuWyq2SBJ) | [Ei Você](https://open.spotify.com/album/5flpZHlJ5BH0veAKsqJ3Nm) | 2:51 |
 | 80 | [Não Falo Mais Sobre Você](https://open.spotify.com/track/46Q39wJFet06LfwYry8lsR) | [NANNY](https://open.spotify.com/artist/3kosy0ERWA2PZ1zNi7PHSt) | [Não Falo Mais Sobre Você](https://open.spotify.com/album/4lygsdWpQVYh4qVMpq6dGD) | 3:46 |
 
-Snapshot ID: `MTY2MDg3ODAwMCwwMDAwMDAwMDM3ZmY2MmI2ODM3ODMxMGExNjBkNzBhYjhmYWRmMDM0`
+Snapshot ID: `MTY2MTQ4MjgwMCwwMDAwMDAwMDQ2ZTE0Mjg4NTVjNjEyZDY4YmFiYmYwMzE1YmM5ZWM5`

@@ -1,12 +1,12 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 163369,
+  "num_followers": 164145,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ1OTk5MiwwMDAwMDAwMDJkMzljNTM3NjE5YWZmZjQ4N2MwYzU5YTY3NjFmYmIw",
+  "snapshot_id": "MTY2MTUyMjQ5MSwwMDAwMDAwMDc3YmViMjM0MmViZWIzN2Q0ZWQ1OGJlN2FiYTY4ZmNj",
   "tracks": [
     {
       "added_at": "2022-08-08 21:53:31",
@@ -157,20 +157,20 @@
       "url": "https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso"
     },
     {
-      "added_at": "2022-08-05 10:25:00",
+      "added_at": "2022-08-26 14:01:31",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6"
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 168906,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3"
+      "duration_ms": 186815,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/3I0PsB3pr6PPyesjPIXjA9"
     },
     {
       "added_at": "2022-08-05 10:25:00",
@@ -299,6 +299,22 @@
       "duration_ms": 185176,
       "name": "I Hear a Symphony",
       "url": "https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv"
+    },
+    {
+      "added_at": "2022-08-05 10:25:00",
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3"
     },
     {
       "added_at": "2022-08-05 10:25:00",
@@ -979,22 +995,6 @@
     {
       "added_at": "2022-08-05 10:25:00",
       "album": {
-        "name": "Marvin's Marvelous Mechanical Museum",
-        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
-      },
-      "artists": [
-        {
-          "name": "Tally Hall",
-          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "Ruler of Everything",
-      "url": "https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X"
-    },
-    {
-      "added_at": "2022-08-05 10:25:00",
-      "album": {
         "name": "Numb Little Bug (Piano Version)",
         "url": "https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 189693,
       "name": "You Don't Know Me (feat. Regina Spektor)",
       "url": "https://open.spotify.com/track/1rihwqlxLr1kL7zg5193FF"
+    },
+    {
+      "added_at": "2022-08-05 10:25:00",
+      "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Ruler of Everything",
+      "url": "https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X"
     },
     {
       "added_at": "2022-08-05 10:25:00",

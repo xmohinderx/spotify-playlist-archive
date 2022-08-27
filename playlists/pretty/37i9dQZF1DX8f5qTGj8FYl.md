@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,182 likes - 80 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,302 likes - 80 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Say Goodbye](https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Nate Edgar](https://open.spotify.com/artist/5XJx5aio4PF3x4rdTkGmG0) | [Say Goodbye](https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG) | 3:07 |
 | 80 | [N.E.G.U](https://open.spotify.com/track/5vKuE21kmH89BH5w5yWume) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O) | [S3NS](https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo) | 5:57 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDVhMzNkYzVkNDEzMzM3ZmUwZDkwMGQ0ZTkzNmUwNGZm`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDVhMDYzNWI4YWE1YmZkNzdhNDk0Nzc0NjczYTRjNzhk`

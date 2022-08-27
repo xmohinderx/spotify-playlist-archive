@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-124 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/1KjSvUrAbFZ4YSc6mnzAWe)
+125 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/1KjSvUrAbFZ4YSc6mnzAWe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Ten Rounds with Jose Cuervo \- Recall Mix](https://open.spotify.com/track/26J61MmE6YCWqIyROZdEgL) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Ten Rounds](https://open.spotify.com/album/5wQ2fnyW0fe27ctaysMJS2) | 3:02 | 2020-09-08 | 2022-06-21 |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2022-04-24 |  |
 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 | 2022-04-24 |  |
+| [That's The Life I Want](https://open.spotify.com/track/5yQFc09wIKV4GXL0B3qDFJ) | [Alexander Ludwig](https://open.spotify.com/artist/0MlU9UKVEOkeyMdazSXif1) | [Highway 99](https://open.spotify.com/album/0d8JD5M3c5oH3TrxV6w0kL) | 3:18 | 2022-08-26 |  |
 | [The Day In The Life Of A Pearl Diver](https://open.spotify.com/track/6fiMo4GBjn6sosNSw3JRiz) | [Don Middlebrook & Living Soul](https://open.spotify.com/artist/5lQLIbbxuVhMWZj9IfTDXf) | [Boatdrink Island](https://open.spotify.com/album/1iqc2jcZcpglUjqI3ZBmKW) | 4:55 | 2020-09-08 | 2022-04-25 |
 | [The Last Resort](https://open.spotify.com/track/7f5z4IzFsYYhUyxBXbFXcr) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort](https://open.spotify.com/album/37oKdfR8Pp7h6f5ovGHGew) | 3:56 | 2022-06-20 |  |
 | [The Rest of It's Mine](https://open.spotify.com/track/2Bj7YGVBtjbVrWhhSRVwaj) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX), [Paul Overstreet](https://open.spotify.com/artist/3ylJ2aEWS2QkIj4XPiC28z) | [The Rest of It's Mine](https://open.spotify.com/album/6sCKgnzpFAqnJbGFZUFGl2) | 3:33 | 2022-06-10 |  |

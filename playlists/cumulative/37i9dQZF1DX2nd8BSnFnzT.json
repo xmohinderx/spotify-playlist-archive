@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Mukeka di Rato",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Ananda, Hotelo",
   "name": "P\u00e1tria Rock",
   "published_playlist_ids": [
     "0QCUPVPm5DzTYPmApO8yZ5"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 246151,
       "name": "Arranca a Cabe\u00e7a do Rei",
       "url": "https://open.spotify.com/track/6d1UM3VNmsv9rez4FTlGOP"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 177317,
       "name": "Boneco De Pano",
       "url": "https://open.spotify.com/track/1OTX3bcapb6eqiNq3KxU2t"
@@ -1262,6 +1262,24 @@
     },
     {
       "album": {
+        "name": "Fauna Abisal (Ale Zastras Remix)",
+        "url": "https://open.spotify.com/album/5UWBCwK8gOgNl8BJDZzSJE"
+      },
+      "artists": [
+        {
+          "name": "Autoramas",
+          "url": "https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200651,
+      "name": "Fauna Abisal - Ale Zastras Remix",
+      "url": "https://open.spotify.com/track/7Cz8xM8YGkVr2Xyug1bbE4"
+    },
+    {
+      "album": {
         "name": "Gruvi",
         "url": "https://open.spotify.com/album/6K4WxH4d1nWUSxk6Wlr84J"
       },
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 243057,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/3jZU0zo0TvD2HefcRyOfUa"
@@ -2811,6 +2829,28 @@
       "duration_ms": 191089,
       "name": "Permita-Se",
       "url": "https://open.spotify.com/track/0TulXMy4nmEKaSIHOyKTtL"
+    },
+    {
+      "album": {
+        "name": "ponto de vista",
+        "url": "https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206021,
+      "name": "ponto de vista",
+      "url": "https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY"
     },
     {
       "album": {

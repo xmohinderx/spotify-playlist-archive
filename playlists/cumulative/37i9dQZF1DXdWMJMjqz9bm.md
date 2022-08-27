@@ -2,15 +2,16 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop and a little bit of rap\. Cover: Nicky Youre
+> A little bit of pop, a little bit of rap\. Cover: anees
 
-347 songs - 16 hr 15 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+352 songs - 16 hr 28 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Grandkids](https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:38 | 2022-04-11 |  |
 | [1234](https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27) | 2:49 | 2022-08-12 |  |
 | [19](https://open.spotify.com/track/6vsXEuQuTx6eCRcTFwSUix) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [19](https://open.spotify.com/album/1brWVptBNPxK6vokRsL3op) | 2:06 | 2022-07-11 |  |
+| [2 more minutes](https://open.spotify.com/track/63kIONRvO9SrjwVsYbTFUJ) | [danny orange](https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT) | [fun while it lasted](https://open.spotify.com/album/3j4kTkeH2BCc0VwWqRVYds) | 2:16 | 2022-08-26 |  |
 | [2 The Weekend](https://open.spotify.com/track/4CLQ440AxCJfft2pwjDR8x) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [2 The Weekend](https://open.spotify.com/album/3IjdYALpGG1oDMU0PRmFTw) | 2:35 | 2021-11-19 | 2022-02-26 |
 | [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 3:40 | 2022-04-04 |  |
 | [22 and Confused](https://open.spotify.com/track/5cz5ks12l9nyKjwtoFEV6S) | [Johnny 2 Phones](https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy) | [22 and Confused](https://open.spotify.com/album/2lxnzpLEjE8hY3ikX06if5) | 2:03 | 2021-11-16 | 2022-02-19 |
@@ -93,6 +94,7 @@
 | [Do It Over](https://open.spotify.com/track/2lEGr8w1XYJ2cyRoKrGui7) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Do It Over](https://open.spotify.com/album/38lfw021YLO2OWKwHcvZUb) | 3:17 | 2021-11-16 | 2022-02-19 |
 | [Don't Wanna Fall In Love](https://open.spotify.com/track/1YakuHfzKxjnseCEeVQtrY) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle \(Extended\)](https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr) | 3:52 | 2022-04-04 | 2022-07-09 |
 | [Doses](https://open.spotify.com/track/7BuzrXNz1be3Ko6r77fGJK) | [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [Doses](https://open.spotify.com/album/0g8Vpwny9zWPCbZehp2OJn) | 3:12 | 2021-11-16 | 2022-02-19 |
+| [dreamerboi](https://open.spotify.com/track/0LDYevJeLyC0gXiohSvcoi) | [Alan Fiore](https://open.spotify.com/artist/7n0LV0swUfy2RXrZByeNxI) | [dreamerboi](https://open.spotify.com/album/0CfVqR4YYQMWEQuKkcTGcy) | 2:17 | 2022-08-26 |  |
 | [Drowsy](https://open.spotify.com/track/3u6DVaD9jGvI6HNm1ODrMa) | [OHNO](https://open.spotify.com/artist/6h3EDETuCnGDrUk9hwvbGp) | [Sunshine In A Bag](https://open.spotify.com/album/60OGodPKisTJO0HLhT2nZy) | 2:47 | 2022-06-10 | 2022-07-13 |
 | [DRUGS](https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34) | 2:39 | 2022-04-08 |  |
 | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3) | [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/album/7KgNMvzNbOs0LtO0dduZlt) | 3:28 | 2022-08-19 |  |
@@ -182,10 +184,12 @@
 | [La La Land](https://open.spotify.com/track/7taeV6Kz3xIgjx5QR0eG8p) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Carnival](https://open.spotify.com/album/1gTkvHFHZhcFMhpy0Ko2Ln) | 2:37 | 2022-07-12 |  |
 | [Latency](https://open.spotify.com/track/24bcu7IGNipuid5nU7oqgU) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Latency](https://open.spotify.com/album/4cOomZu7ZP0IZdcuSy15sh) | 2:52 | 2022-06-03 |  |
 | [lead me on](https://open.spotify.com/track/45HHTHXv7gQ5q2r89ui2Fy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [lead me on](https://open.spotify.com/album/3X368boMWsdwZGW8ByzNU9) | 2:07 | 2021-11-16 | 2022-02-26 |
+| [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 | 2022-08-26 |  |
 | [ledge](https://open.spotify.com/track/4qahEWQ9T4MlTFnDqbWtQU) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [ledge](https://open.spotify.com/album/4ucXenIHafaLWozWJhLp6y) | 2:36 | 2022-06-17 | 2022-07-12 |
 | [let you](https://open.spotify.com/track/5OJmt1xiOHZJGx8wTUAjEC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [let you](https://open.spotify.com/album/34GdjbBv0ZQYwmoYrfVM2O) | 2:31 | 2021-11-16 | 2022-02-26 |
 | [Let's go to Hell](https://open.spotify.com/track/5wxLJCLMUhyi7iTOCyuQrl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/0StPEpOcL93ORzJFiAFY8u) | 2:32 | 2021-12-03 | 2022-02-26 |
 | [life got crazy](https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the highs.](https://open.spotify.com/album/2phcfZd44niczjY0xybcS6) | 2:18 | 2021-12-03 | 2022-02-26 |
+| [like that](https://open.spotify.com/track/30iHJe2noaNkUtWanmH1D5) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [like that](https://open.spotify.com/album/2YoJieMK2NsxoS56vA01nc) | 2:32 | 2022-08-26 |  |
 | [Live Fast Die Numb](https://open.spotify.com/track/10omO03JNpJwhjo538gdNc) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Live Fast Die Numb](https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH) | 2:14 | 2022-06-10 |  |
 | [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 | 2021-11-16 | 2022-02-26 |
 | [LMK](https://open.spotify.com/track/19YxMrQzETGpRvMmFNbsPW) | [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki) | [LMK](https://open.spotify.com/album/3Xpq6wIvop8j2akHp9fkgp) | 2:07 | 2022-02-04 | 2022-05-20 |
@@ -288,6 +292,7 @@
 | [Smooth](https://open.spotify.com/track/4fI6dj7tYo7THZE5EJwPHZ) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Smooth](https://open.spotify.com/album/78vpDD60PJ8zJx19YP5qcj) | 2:17 | 2022-04-01 | 2022-07-13 |
 | [SNOWMAN](https://open.spotify.com/track/1uU0Q4JrDzgqWK1QWXccwb) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [SNOWMAN](https://open.spotify.com/album/0jbrRg5mahBKrvbPQDLisP) | 3:03 | 2021-12-17 | 2022-02-19 |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2022-04-11 |  |
+| [Solo](https://open.spotify.com/track/4iR9GcxaVVTHuZgb3KiNDY) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Solo](https://open.spotify.com/album/2W3oBE7aeeUYGvzwKKKaLL) | 2:37 | 2022-08-26 |  |
 | [Somebody Else](https://open.spotify.com/track/03gx1ylVNRQQtpv1VRIsHL) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Somebody Else](https://open.spotify.com/album/1p4YRsrgs9cUDNbtXN25AP) | 2:03 | 2021-11-16 | 2022-02-19 |
 | [Sorry Not Sorry](https://open.spotify.com/track/41ojBJmLyjj9l1e0iLK98X) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/1wG5Kl0kWVFOWxs3SZ2JTo) | 2:40 | 2022-08-03 |  |
 | [spilled drinks](https://open.spotify.com/track/78zcMX1Gpla399x1Clykdh) | [Eian Blue](https://open.spotify.com/artist/72n6CG0Bz1LM5zLWK54gVQ), [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV) | [spilled drinks](https://open.spotify.com/album/12lilHxzKXof8gLRxAILiW) | 1:55 | 2022-01-11 | 2022-02-19 |

@@ -4,7 +4,7 @@
 
 > canzoni da gridareee 🗣 blackbear in cover
 
-227 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+228 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [junkie](https://open.spotify.com/track/1EbsleQQFhD9HYxPaTqgfu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [junkie](https://open.spotify.com/album/0F3HviU9yaZBcYOHAfhOpE) | 2:39 | 2022-05-06 | 2022-06-17 |
 | [Kill me](https://open.spotify.com/track/61NuA3h0Sci2DzqMKJuQRj) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd), [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC), [Rich Meyer](https://open.spotify.com/artist/0gf7WPq62Kdo41WVmYQmMV) | [Kill me](https://open.spotify.com/album/2mERqCNjJa8xQ8AmGwxvTv) | 1:58 | 2022-05-06 | 2022-06-03 |
 | [KO \(fragili\)](https://open.spotify.com/track/0AGjnyfOlkHgCWGif5P3C5) | [fallen944](https://open.spotify.com/artist/2GFZTwhpDmwd8rw8ImmV5N) | [KO \(fragili\)](https://open.spotify.com/album/0YxnOSzvCvRlfZq9Sute4K) | 2:37 | 2022-05-06 | 2022-06-10 |
+| [LA CANZONE DELLA SBORRA](https://open.spotify.com/track/1r36WzYRZ2qba069DHK71H) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [LA CANZONE DELLA SBORRA](https://open.spotify.com/album/1KInHLAZ9DBMonjh7HdQQk) | 2:44 | 2022-08-26 |  |
 | [LA SAD ITALIANA](https://open.spotify.com/track/6Y4025mVnPucBiUDdQZk1p) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze) | [STO NELLA SAD](https://open.spotify.com/album/3UStaV5uSDqOmGVXbK6lgN) | 3:50 | 2022-05-06 |  |
 | [LACRIME](https://open.spotify.com/track/7vk8Z4eaJGAnYG11sE7zZ1) | [Revols](https://open.spotify.com/artist/0VYCdJoXqN7ewgwV5Diz4r), [sadnineteenbaby](https://open.spotify.com/artist/7uZvq84nHBNRptMjCbmood) | [LACRIME](https://open.spotify.com/album/3VNariQYcnXLuIP9tAJkDD) | 3:29 | 2022-08-11 | 2022-08-26 |
 | [Lacrime di sale](https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Lacrime di sale](https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A) | 3:15 | 2022-07-14 |  |

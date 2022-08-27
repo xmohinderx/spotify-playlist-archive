@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover:  Park Jaewoo\(박재우\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-410 songs - 1 day 0 hr 29 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
+411 songs - 1 day 0 hr 33 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [My secret, My everything](https://open.spotify.com/track/6VNyKGgsdiRCh7943735wV) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/3CtH176Djh4qoKAaV2NHdL) | 4:11 | 2022-05-13 |  |
 | [My World Is](https://open.spotify.com/track/2Daki1bJOM9Hc2fggCGwTR) | [Han Hee Jung](https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi) | [NOTATE](https://open.spotify.com/album/3wr995VlVU9qqONc0k0pZ2) | 3:14 | 2022-03-31 | 2022-04-14 |
 | [My Yellow](https://open.spotify.com/track/2QZ67tcgnbqziznZl6tC2k) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [My Yellow](https://open.spotify.com/album/30xUoTIuMQTUyFLreOiiDL) | 3:03 | 2021-12-10 | 2022-07-29 |
+| [Nap Fairy](https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nap Fairy \- SM STATION](https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ) | 3:36 | 2022-08-26 |  |
 | [Night](https://open.spotify.com/track/0COlCcBvnLcITfdEln4jAI) | [Hero](https://open.spotify.com/artist/5IkvD7Kp6LU8bkonq3nlXK) | [252524](https://open.spotify.com/album/6ojH0qotC5sEnihFD2ayfl) | 3:28 | 2022-03-31 | 2022-04-20 |
 | [Night Sky](https://open.spotify.com/track/2s1GJh3L6PXeEm5SgHALZT) | [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [Night Sky](https://open.spotify.com/album/0D9TASJi9ZEpwQFtfZWiDt) | 1:58 | 2021-12-10 | 2022-05-18 |
 | [No More Us \(feat\. Lovey\)](https://open.spotify.com/track/5r1aleHYFWqVEWqP4npcoL) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10), [Lovey](https://open.spotify.com/artist/2z72I5D1aakIVygNC7IAQV) | [No More Us \(feat\. Lovey\)](https://open.spotify.com/album/0AFSqDbXMvWwJ0gavf7kSI) | 2:58 | 2022-03-31 | 2022-04-20 |
@@ -394,7 +395,7 @@
 | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/track/7gNmBWybrfvC54kl980igz) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Kim Min Ki](https://open.spotify.com/artist/0vcaB67WgOvbcyhMvLpcXr) | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/album/2BCQe1hxo8uwyOpjdl1FdM) | 4:00 | 2022-03-31 | 2022-04-19 |
 | [Your sea \(Acc ver.\)](https://open.spotify.com/track/7gAcFTyzB81ACPs299HS4M) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:16 | 2021-12-10 | 2022-06-17 |
 | [YOUR SONG](https://open.spotify.com/track/6XshUdxavknBQlcnu72LpD) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [MY NAME IS SAM](https://open.spotify.com/album/6GUiTUgcpkhKlCZMTLLMI3) | 4:18 | 2021-12-10 | 2022-07-29 |
-| [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 | 2022-08-09 |  |
+| [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 | 2022-08-09 | 2022-08-27 |
 | [your voice\(acoustic\)](https://open.spotify.com/track/5ZJybAI37PVMbeEQwfkk3J) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [your voice\(acoustic\)](https://open.spotify.com/album/6zAiZBYCwmblKjIO3yJF0l) | 5:18 | 2022-03-07 | 2022-07-20 |
 | [겨울이 온 것처럼 말이지 \- From 'Hidden Track No.V' Vol.4](https://open.spotify.com/track/0w3kQmZr2nNZNNWBSI8lE2) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [겨울이 온 것처럼 말이지 \(From 'Hidden Track No.V' Vol.4\)](https://open.spotify.com/album/2ORxTBs669Atoz1MJinBLy) | 2:53 | 2022-03-31 | 2022-04-19 |
 | [그날에 우리 My Love](https://open.spotify.com/track/37ato9JpxggrmZsqaXa3qN) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [01](https://open.spotify.com/album/7gUFQ9ulk9EbbSz8U52xTp) | 3:53 | 2022-02-18 | 2022-06-19 |

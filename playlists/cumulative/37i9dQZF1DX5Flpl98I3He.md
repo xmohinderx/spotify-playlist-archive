@@ -4,7 +4,7 @@
 
 > Dive into the best\-loved works of Sergei Rachmaninoff.
 
-63 songs - 8 hr 42 min - not published yet
+63 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/6ZdFiJxJqwl73IyEnYlYrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

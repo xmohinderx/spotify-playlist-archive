@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Ramon Vega",
-  "num_followers": 56836,
+  "num_followers": 56844,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzQyMSwxOThiMzMwMmNjNDcxMTBhNDhkMWQzMDRkNThlYWMyYTAwZWNmZjhm",
+  "snapshot_id": "MzQyMyw0ZThjMmZjNDU1ZjRmMWQ3Njk2YTc3MDUzYzFiMTFkMGQ4Y2Y1YTAz",
   "tracks": [
     {
       "added_at": "2022-08-26 01:21:25",
@@ -45,6 +45,26 @@
       "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
     },
     {
+      "added_at": "2022-08-24 16:06:32",
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/3R3Kay5sDK4v3931l4evLG"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 225161,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/0969BXUHWVqlmZa7zhuuRV"
+    },
+    {
       "added_at": "2022-08-26 01:24:27",
       "album": {
         "name": "Platicamos",
@@ -65,24 +85,20 @@
       "url": "https://open.spotify.com/track/5E2iOjnZGDVjfGZygtISw9"
     },
     {
-      "added_at": "2022-08-24 16:06:32",
+      "added_at": "2022-08-26 16:48:05",
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/3R3Kay5sDK4v3931l4evLG"
+        "name": "Dinero, Fama y Poder",
+        "url": "https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL"
       },
       "artists": [
         {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 225161,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/0969BXUHWVqlmZa7zhuuRV"
+      "duration_ms": 154115,
+      "name": "Dinero, Fama y Poder",
+      "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
     },
     {
       "added_at": "2022-08-18 19:01:52",

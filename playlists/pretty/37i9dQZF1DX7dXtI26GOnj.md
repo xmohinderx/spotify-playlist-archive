@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo calor latino está aqui! 🔥  Foto: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,578 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,678 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 74 | [2 PALABRAS](https://open.spotify.com/track/69g0c784NPvnjGNyUEU1EX) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [2 PALABRAS](https://open.spotify.com/album/71Xgv22p8r6iIUGWxyrZio) | 2:55 |
 | 75 | [Guapetona](https://open.spotify.com/track/2TNXWnhVVDxC3Iyuo74mKS) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC) | [Guapetona](https://open.spotify.com/album/28B0mVX9c6ZlvKIZfJ5vYY) | 2:21 |
 
-Snapshot ID: `MTY2MDk0MDk4OCwwMDAwMDAwMDBlMGE0N2VjZmZhNzg0ZTc1YjUxYzMzNzVhNzQzMDZi`
+Snapshot ID: `MTY2MTQ4MjgwMCwwMDAwMDAwMDdmOTEwOWMxZTEwODRlZGU4ZTc4OTkxYzY5OWRlOGYx`

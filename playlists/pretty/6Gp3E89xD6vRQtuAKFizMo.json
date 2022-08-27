@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44475,
+  "num_followers": 44477,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NTg4MyxkNTk0ZDkyMWQ3N2Q0NWE4M2Q3YmUwN2I2ZTc3MzEyZjY1ZGMyOTA3",
+  "snapshot_id": "NTg5MSw0YWI0NjE4NjRhMGVjNDY5OTc1NGM0YjRlOWM5ZGFjN2I4ZDliOTFk",
   "tracks": [
     {
       "added_at": "2022-08-12 16:42:20",
@@ -33,6 +33,74 @@
       "url": "https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg"
     },
     {
+      "added_at": "2022-08-26 15:49:03",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/1yr7m2ScfY46QpjJacjdKG"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "duration_ms": 178501,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/6ApteRcCdPgoSlE5jCYWxs"
+    },
+    {
+      "added_at": "2022-08-26 15:49:01",
+      "album": {
+        "name": "Take My Breath Away (feat. Linney)",
+        "url": "https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 240444,
+      "name": "Take My Breath Away (feat. Linney)",
+      "url": "https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849"
+    },
+    {
+      "added_at": "2022-08-12 16:42:20",
+      "album": {
+        "name": "Return To Form",
+        "url": "https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX"
+      },
+      "artists": [
+        {
+          "name": "StayLoose",
+          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/5gCKPDM4n94TD4c0D8fxJj"
+    },
+    {
+      "added_at": "2022-08-16 23:02:23",
+      "album": {
+        "name": "Frenzy",
+        "url": "https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo"
+      },
+      "artists": [
+        {
+          "name": "Ivoryghost",
+          "url": "https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8"
+        }
+      ],
+      "duration_ms": 198753,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6"
+    },
+    {
       "added_at": "2022-08-19 16:46:37",
       "album": {
         "name": "We\u2019re Falling (feat. sapientdream)",
@@ -55,38 +123,6 @@
       "duration_ms": 174677,
       "name": "We\u2019re Falling (feat. sapientdream)",
       "url": "https://open.spotify.com/track/3kaVh7zUaVT87qnHngdnCF"
-    },
-    {
-      "added_at": "2022-08-16 23:02:23",
-      "album": {
-        "name": "Frenzy",
-        "url": "https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo"
-      },
-      "artists": [
-        {
-          "name": "Ivoryghost",
-          "url": "https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8"
-        }
-      ],
-      "duration_ms": 198753,
-      "name": "Frenzy",
-      "url": "https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6"
-    },
-    {
-      "added_at": "2022-08-12 16:42:20",
-      "album": {
-        "name": "Return To Form",
-        "url": "https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX"
-      },
-      "artists": [
-        {
-          "name": "StayLoose",
-          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Tempest",
-      "url": "https://open.spotify.com/track/5gCKPDM4n94TD4c0D8fxJj"
     },
     {
       "added_at": "2022-08-12 16:42:20",
@@ -691,30 +727,6 @@
     {
       "added_at": "2022-08-12 16:42:20",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/5WBfkg6Xg5MmTu8al5YPym"
-      },
-      "artists": [
-        {
-          "name": "Castion",
-          "url": "https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR"
-        },
-        {
-          "name": "Boges",
-          "url": "https://open.spotify.com/artist/2Wkblvn5eq5592TmfNSATt"
-        },
-        {
-          "name": "Jessica Chertock",
-          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
-        }
-      ],
-      "duration_ms": 169081,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/6O8f0nQc4KniCyqoUFcwJz"
-    },
-    {
-      "added_at": "2022-08-12 16:42:20",
-      "album": {
         "name": "Cassette",
         "url": "https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ"
       },
@@ -879,22 +891,6 @@
       "duration_ms": 189600,
       "name": "Plus 1 (feat. Nasty C)",
       "url": "https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj"
-    },
-    {
-      "added_at": "2022-08-12 16:42:20",
-      "album": {
-        "name": "El Pana Dero",
-        "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "El Pana Dero",
-      "url": "https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT"
     },
     {
       "added_at": "2022-08-12 16:42:20",

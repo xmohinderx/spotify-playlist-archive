@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-205 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+206 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [What Can I Do](https://open.spotify.com/track/6EnHdhpdycjPxayoU5VAU9) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [What Can I Do](https://open.spotify.com/album/3yhEW88F9UPUBoDcZNnxQl) | 4:16 | 2022-07-15 |  |
 | [What Have You Done To Me?](https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [What Have You Done To Me?](https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x) | 4:46 | 2021-12-03 |  |
 | [What It Used To Be](https://open.spotify.com/track/5PQBkYkta4muwWf7vZJoM7) | [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [What It Used To Be](https://open.spotify.com/album/5KF2JJfmBPvXvI2dwCmlJj) | 3:42 | 2022-03-04 |  |
+| [When I'm Gone](https://open.spotify.com/track/6upXAlN0tlTavXMenVWna9) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [XAELO](https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV) | [When I'm Gone](https://open.spotify.com/album/3ATE1QVGkAwClC83f3YeBG) | 4:22 | 2022-08-26 |  |
 | [Where Did You Go](https://open.spotify.com/track/69UhNEZfdWZ2e1nmIaJtUa) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Where Did You Go](https://open.spotify.com/album/5DYxA2kmNLhwiGauOOFtPK) | 3:44 | 2021-12-03 |  |
 | [Where Does Love Go](https://open.spotify.com/track/3VUwjqEHajKn7LXUAbQU4z) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Where Does Love Go](https://open.spotify.com/album/4ZTlaMTm9avp0E2n8TVGwI) | 4:23 | 2021-12-03 |  |
 | [White Lie](https://open.spotify.com/track/1njftOjmyXeibS6TvwiCB0) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Emma Mae](https://open.spotify.com/artist/43a6MOLTIzH1H3LjXIJOZv) | [White Lie](https://open.spotify.com/album/31wVVPpxS9EJFkuWiMvpc8) | 3:56 | 2022-07-08 |  |

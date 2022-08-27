@@ -4,7 +4,7 @@
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-190 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
+191 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Hurricane](https://open.spotify.com/track/79vU1wyG4aItMNYcyVSj88) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Cinematic Songs \(Vol\. 4\)](https://open.spotify.com/album/6FB8KXJpp2n7gGWc60VPcC) | 5:19 | 2022-07-22 |  |
 | [Hurricane Teddy](https://open.spotify.com/track/01yp23o1SMuksdaO7vuhyz) | [Teddy and The Rough Riders](https://open.spotify.com/artist/73PqmYewGOesbBVOciGNV8) | [The Congress of Teddy and the Rough Riders](https://open.spotify.com/album/2akTkwAXChXW4lg742knYn) | 2:42 | 2022-07-22 |  |
 | [I Don't Wanna Leave Ya](https://open.spotify.com/track/6fqFmBGToeTdV96VjsF2PF) | [Danica Dora](https://open.spotify.com/artist/4hnjUN6vIRhfSmtSFZvY2p) | [Together in Space](https://open.spotify.com/album/2zUxvIaHzt94Xln9MjhUkK) | 3:49 | 2022-07-22 |  |
-| [I Let You Win](https://open.spotify.com/track/0ucwnh0yKIrsm5FW8BPjw4) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [Half\-Hearted](https://open.spotify.com/album/6vapmEwPkUIcTgrA0t1SJE) | 3:21 | 2022-07-22 |  |
+| [I Let You Win](https://open.spotify.com/track/0ucwnh0yKIrsm5FW8BPjw4) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [Half\-Hearted](https://open.spotify.com/album/6vapmEwPkUIcTgrA0t1SJE) | 3:21 | 2022-07-22 | 2022-08-27 |
+| [I Let You Win](https://open.spotify.com/track/7bljVaNi0DZh6OiFO6JSY3) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [Half\-Hearted](https://open.spotify.com/album/5OeDlHDm1UqLSO7Q7LA1OZ) | 3:21 | 2022-07-22 |  |
 | [I Need Your Love](https://open.spotify.com/track/0hYZEuOjA0u7LLLuOPx3cd) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Cause And Effect \(Deluxe\)](https://open.spotify.com/album/2V3ebysBMSaKfYUcsCWmKX) | 4:11 | 2022-07-22 |  |
 | [I Won't Give Up](https://open.spotify.com/track/3qFekezetix5dI3n76EIUw) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Virgin River \(Music from the Netflix Series\)](https://open.spotify.com/album/1yP98guPImv2LUdjTSV461) | 3:18 | 2022-07-22 |  |
 | [I'm Here](https://open.spotify.com/track/5WTppsgHUggYFXopdCpyA9) | [Sweet Talk Radio](https://open.spotify.com/artist/0vgTfoEDCKTyYfGf5HIdH2) | [Horology](https://open.spotify.com/album/04SX63uZmcxPhY1EG6QVd3) | 3:45 | 2022-07-22 |  |

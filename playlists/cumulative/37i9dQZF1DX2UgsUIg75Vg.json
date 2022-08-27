@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods.",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Thee Sacred Souls",
   "name": "Chilled R&B",
   "published_playlist_ids": [
     "0z3nbjkWeZZbRZSs8bbW9u"
@@ -1077,10 +1077,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 188512,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/6tXuf3jm5wxrMPtvXREYoE"
+    },
+    {
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
     },
     {
       "album": {
@@ -1255,6 +1273,28 @@
       "duration_ms": 248904,
       "name": "Chasing Amy",
       "url": "https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c"
+    },
+    {
+      "album": {
+        "name": "Chocolate Love",
+        "url": "https://open.spotify.com/album/2ugP6Pt70ut2Wq2OyzjWvq"
+      },
+      "artists": [
+        {
+          "name": "Sanura",
+          "url": "https://open.spotify.com/artist/2KoEQq7EEpdOLErZi1K2eL"
+        },
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Chocolate Love",
+      "url": "https://open.spotify.com/track/50EwNNt7Xc3J7AVKLCcDiz"
     },
     {
       "album": {
@@ -2640,6 +2680,24 @@
     },
     {
       "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "Future Lover",
+      "url": "https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z"
+    },
+    {
+      "album": {
         "name": "FWM",
         "url": "https://open.spotify.com/album/19yDmZ6XifuMc31QkkmRVl"
       },
@@ -2975,11 +3033,15 @@
         {
           "name": "Alex Isley",
           "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
         }
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 204705,
       "name": "Good & Plenty - Remix",
       "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
@@ -3465,7 +3527,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 218432,
       "name": "If I Died",
       "url": "https://open.spotify.com/track/5RnBLK6r3sUBZlSCokuoVE"
@@ -5197,6 +5259,32 @@
       "duration_ms": 158107,
       "name": "Only Fan (feat. RILEY) - Remix",
       "url": "https://open.spotify.com/track/0o2yKdD8NUWo6GLSPDlfUl"
+    },
+    {
+      "album": {
+        "name": "Only Gold",
+        "url": "https://open.spotify.com/album/5wwnwOqtsULKtkFkUZwVvH"
+      },
+      "artists": [
+        {
+          "name": "Nakeyo",
+          "url": "https://open.spotify.com/artist/4LV0wxYWrzqjNntWbTIqv2"
+        },
+        {
+          "name": "Bertholet",
+          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
+        },
+        {
+          "name": "Patchwork",
+          "url": "https://open.spotify.com/artist/6jMR1IBDbQrnDgyodlBj9B"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Only Gold",
+      "url": "https://open.spotify.com/track/0hB6frMZMoJEUJIfcMYa5Y"
     },
     {
       "album": {
@@ -7129,6 +7217,24 @@
       "duration_ms": 209537,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/6LrZnsh8bhn70OEnDqXskh"
+    },
+    {
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6"
     },
     {
       "album": {

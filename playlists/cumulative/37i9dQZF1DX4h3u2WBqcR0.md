@@ -4,7 +4,7 @@
 
 > Discover the 2022 Best Original Score nominations alongside Oscar\-winning soundtracks from the past 80 years.
 
-66 songs - 4 hr 5 min - not published yet
+66 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/3KijMwC9mkEPSY5VXnu8uA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: Dabeull",
-  "num_followers": 269580,
+  "num_followers": 269750,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDhiNmRkNDliZTQ2OGQ4YTBlMzYzZDM0M2U0YmM3NDZj",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGRmOGYyNGE1MWViMjQ3MmJiMmRiMzc5YzdmNTI4NTAz",
   "tracks": [
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "I\u2019m Tight",
+        "url": "https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "duration_ms": 420613,
+      "name": "I\u2019m Tight",
+      "url": "https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB"
+    },
     {
       "added_at": "2022-06-24 04:02:00",
       "album": {
@@ -61,6 +77,26 @@
       "url": "https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Jammin' Tonight",
+        "url": "https://open.spotify.com/album/2JuAzf0eakBX1l47SyJbu7"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 247973,
+      "name": "Jammin' Tonight",
+      "url": "https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Major Love",
@@ -75,6 +111,22 @@
       "duration_ms": 136773,
       "name": "Major Love",
       "url": "https://open.spotify.com/track/5YwslI1NOE5ZIs99KYtO0z"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/45CGUxginHlvey2BY8E2pE"
+      },
+      "artists": [
+        {
+          "name": "Mothers Favorite Child",
+          "url": "https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/2PSissBzTet0WdjuFXU6A5"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -303,8 +355,8 @@
     {
       "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "Goodtime",
-        "url": "https://open.spotify.com/album/7mDDcLEWTPayHYopYr9cdl"
+        "name": "GOODTIME",
+        "url": "https://open.spotify.com/album/0dGvxkk3frDgCKp2nmHJXm"
       },
       "artists": [
         {
@@ -313,8 +365,8 @@
         }
       ],
       "duration_ms": 222272,
-      "name": "Goodtime",
-      "url": "https://open.spotify.com/track/34nfyP7ueTwzo08p1ALm31"
+      "name": "GOODTIME",
+      "url": "https://open.spotify.com/track/5GtOKiSXlRP03pgojQnOXi"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -1753,22 +1805,6 @@
       "url": "https://open.spotify.com/track/5nLKrvpQBb8sE3MvEfQGFI"
     },
     {
-      "added_at": "2021-07-30 04:09:00",
-      "album": {
-        "name": "ooeeooeeoo",
-        "url": "https://open.spotify.com/album/1AuujKU1n0lGYRp0fCUuGl"
-      },
-      "artists": [
-        {
-          "name": "CAPYAC",
-          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
-        }
-      ],
-      "duration_ms": 254700,
-      "name": "ooeeooeeoo",
-      "url": "https://open.spotify.com/track/2MNeT5RzegP7L6yyzodOVs"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Private Space",
@@ -1787,42 +1823,6 @@
       "duration_ms": 222901,
       "name": "Witchoo",
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
-    },
-    {
-      "added_at": "2021-07-30 04:09:00",
-      "album": {
-        "name": "Funk Olympics",
-        "url": "https://open.spotify.com/album/3agMx8gTl9bBWasc3sbSo9"
-      },
-      "artists": [
-        {
-          "name": "JORDANN",
-          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Funk Olympics",
-      "url": "https://open.spotify.com/track/7v1WsgCocJ5tLwDXqllQ8n"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "M\u00e9lange",
-        "url": "https://open.spotify.com/album/70ayx5Ku8J56Hw12VhrQ34"
-      },
-      "artists": [
-        {
-          "name": "vsteeze",
-          "url": "https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl"
-        },
-        {
-          "name": "Funky DL",
-          "url": "https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5"
-        }
-      ],
-      "duration_ms": 174272,
-      "name": "M\u00e9lange",
-      "url": "https://open.spotify.com/track/3KSJHjEiC5G0xcYEGr9oLU"
     }
   ],
   "unique_name": "Nu-Funk",

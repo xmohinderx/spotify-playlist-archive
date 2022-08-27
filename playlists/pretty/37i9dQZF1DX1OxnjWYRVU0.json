@@ -1,12 +1,12 @@
 {
   "description": "New takes on old classics!",
-  "num_followers": 333649,
+  "num_followers": 333826,
   "original_name": "Dance Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MDAwMCwwMDAwMDAwMDhhNjg3MzNhNTk1OWI1NzVmMGQ1ZmZhODZmY2Y3ZTJm",
+  "snapshot_id": "MTY2MTUwNTkzNCwwMDAwMDAwMGY0OThiYzJiZmNhN2I4OTg3ZTI5NjM4N2RhMDQyZmI5",
   "tracks": [
     {
       "added_at": "2022-08-18 22:00:00",
@@ -347,6 +347,26 @@
       "duration_ms": 233333,
       "name": "Hey Hey (Heard You Say)",
       "url": "https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS"
+    },
+    {
+      "added_at": "2022-08-26 09:25:34",
+      "album": {
+        "name": "Finally (paradise)",
+        "url": "https://open.spotify.com/album/4iYq4ofLc3TyHbGUL7BPQI"
+      },
+      "artists": [
+        {
+          "name": "Jodapac",
+          "url": "https://open.spotify.com/artist/1bA1Ys4ZfPhPfZ5gik0S5C"
+        },
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "Finally (paradise)",
+      "url": "https://open.spotify.com/track/1G8XxpaGAvKMhxamZWBM9q"
     },
     {
       "added_at": "2022-08-18 22:00:00",
@@ -4111,6 +4131,10 @@
         "url": "https://open.spotify.com/album/6BhCiPdND2Xf80HnksrJOR"
       },
       "artists": [
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
         {
           "name": "Besomage",
           "url": "https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q"

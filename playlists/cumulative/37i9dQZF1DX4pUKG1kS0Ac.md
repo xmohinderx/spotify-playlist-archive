@@ -2,7 +2,7 @@
 
 ### [Guilty Pleasures](https://open.spotify.com/playlist/37i9dQZF1DX4pUKG1kS0Ac)
 
-> You say guilty, we say a delight!
+> You say guilty, we say non stop bangers!
 
 447 songs - 1 day 4 hr 38 min - [published](https://open.spotify.com/playlist/3E1uCCU01gqnp80UIJaAJv)
 

@@ -1,13 +1,49 @@
 {
-  "description": "DMV music breaking waves. Cover: Ari Lennox",
-  "num_followers": 10467,
+  "description": "DMV music breaking waves. Cover: Joony",
+  "num_followers": 10462,
   "original_name": "Ripple Effect: DMV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4NzUyOCwwMDAwMDAwMDE5MzEyNWQ2ODdlN2RjMmE0YjVhYjhjYjljYjllMDNj",
+  "snapshot_id": "MTY2MTQ4ODc5MCwwMDAwMDAwMGFiOWVjMzQ0OWE1NmU2MmNjYTVmMzU3MmIzNWJiYmY4",
   "tracks": [
+    {
+      "added_at": "2022-08-26 04:39:50",
+      "album": {
+        "name": "VIRALITY",
+        "url": "https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        },
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "duration_ms": 161107,
+      "name": "QuikkSkope (feat. DC The Don)",
+      "url": "https://open.spotify.com/track/5Kvs2iitHuGu1PCaJESZJS"
+    },
+    {
+      "added_at": "2022-08-26 04:39:50",
+      "album": {
+        "name": "Tinted Lens",
+        "url": "https://open.spotify.com/album/2HY51P5tthMRdSxs3FMT0K"
+      },
+      "artists": [
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        }
+      ],
+      "duration_ms": 161736,
+      "name": "Tinted Lens",
+      "url": "https://open.spotify.com/track/6DLBRXR5tL21nvAaVp29Lv"
+    },
     {
       "added_at": "2022-08-12 06:58:48",
       "album": {
@@ -23,22 +59,6 @@
       "duration_ms": 244412,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2022-08-12 06:58:48",
-      "album": {
-        "name": "Pretty In Black (Deluxe)",
-        "url": "https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1"
-      },
-      "artists": [
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 123636,
-      "name": "AVENTADOR",
-      "url": "https://open.spotify.com/track/2NhVY8tOBvbQRCLvBXFrUJ"
     },
     {
       "added_at": "2022-07-09 03:45:38",
@@ -59,6 +79,130 @@
       "duration_ms": 198003,
       "name": "FYTB (FEAT. JOONY)",
       "url": "https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL"
+    },
+    {
+      "added_at": "2022-08-26 04:39:50",
+      "album": {
+        "name": "I'm Pressed",
+        "url": "https://open.spotify.com/album/6YrhUIZvO1zL3MN7d2tFZl"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 181009,
+      "name": "I'm Pressed",
+      "url": "https://open.spotify.com/track/4I2v5ENMvhNL51rmFx4t6o"
+    },
+    {
+      "added_at": "2022-08-26 04:39:50",
+      "album": {
+        "name": "VIRGOAT",
+        "url": "https://open.spotify.com/album/5TchtfpSg3MUUZu6pAqB3r"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        },
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "duration_ms": 203833,
+      "name": "RAGE (Sicc 'Em)",
+      "url": "https://open.spotify.com/track/19yyV2dXptig3a8CAzUzFZ"
+    },
+    {
+      "added_at": "2022-08-26 04:39:50",
+      "album": {
+        "name": "Drifting In The Rain",
+        "url": "https://open.spotify.com/album/1qeHv58WBGMOhXNdLGT7NA"
+      },
+      "artists": [
+        {
+          "name": "Rahiem Supreme",
+          "url": "https://open.spotify.com/artist/1F6QRQPzMp6gM6xydxbzIK"
+        },
+        {
+          "name": "WiFiGawd",
+          "url": "https://open.spotify.com/artist/2tM4YvbGRPeHpxdD6PqLwe"
+        }
+      ],
+      "duration_ms": 127296,
+      "name": "Drifting In The Rain",
+      "url": "https://open.spotify.com/track/21cpT4pGCV4wEeimiCsKx8"
+    },
+    {
+      "added_at": "2022-08-26 04:39:50",
+      "album": {
+        "name": "Callin' Back",
+        "url": "https://open.spotify.com/album/1ROdbrJaSN1Mcu2FVBwE7s"
+      },
+      "artists": [
+        {
+          "name": "DDK",
+          "url": "https://open.spotify.com/artist/7AfTMScTc5pSfjjxtatrIq"
+        },
+        {
+          "name": "Dre Wave$",
+          "url": "https://open.spotify.com/artist/1JmCy4jQegbbMjBWRI0iCt"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Callin' Back",
+      "url": "https://open.spotify.com/track/0S8q2ZpqR9eiNcEcm3Lqxo"
+    },
+    {
+      "added_at": "2022-08-26 04:39:50",
+      "album": {
+        "name": "TURBO",
+        "url": "https://open.spotify.com/album/1Eyp3APWXYIZuVVJ8KKGyb"
+      },
+      "artists": [
+        {
+          "name": "Kelow LaTesha",
+          "url": "https://open.spotify.com/artist/6oUUlugyY0JajHnw3FYAKb"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Charizard",
+      "url": "https://open.spotify.com/track/4oH9lGjM9U4yHDLnNM7G1W"
+    },
+    {
+      "added_at": "2022-08-26 04:39:50",
+      "album": {
+        "name": "W13",
+        "url": "https://open.spotify.com/album/2UQ8TnK4dXTwd66W9bQZz9"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Free Slime",
+      "url": "https://open.spotify.com/track/4Wgu0FPMdz24m4TBc7kyk2"
+    },
+    {
+      "added_at": "2022-08-12 06:58:48",
+      "album": {
+        "name": "Pretty In Black (Deluxe)",
+        "url": "https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 123636,
+      "name": "AVENTADOR",
+      "url": "https://open.spotify.com/track/2NhVY8tOBvbQRCLvBXFrUJ"
     },
     {
       "added_at": "2022-08-12 06:58:48",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\. Cover: <a href="https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=qvOypJUQRzeVnO3tUyQdnwg"> Ckay </a>
+> The hottest Afropop records on the planet\. Cover: <a href="https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=qvOypJUQRzeVnO3tUyQdnwg"> CKay </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,480 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,850 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 59 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 |
 | 60 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 |
 
-Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMDFlYmFiY2IxODgzZGZiMDE5ZDhjZDNjMDMxYzIzZDEx`
+Snapshot ID: `MTY2MTUxMTY0NywwMDAwMDAwMGFhODBjZDYwNTc3MjZmMGFkNGM2MzM4NWNiOGYyZWNl`

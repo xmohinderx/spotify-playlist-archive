@@ -2670,6 +2670,24 @@
     },
     {
       "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2GQ9yHFndyliRHDm8yri8v"
+      },
+      "artists": [
+        {
+          "name": "The Weathered Souls",
+          "url": "https://open.spotify.com/artist/0zJN9JGIfTEIiL8E58NDtI"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248126,
+      "name": "The Way I Am",
+      "url": "https://open.spotify.com/track/4IWbCGhs0jqdts7HyqWtyM"
+    },
+    {
+      "album": {
         "name": "The Well",
         "url": "https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA"
       },

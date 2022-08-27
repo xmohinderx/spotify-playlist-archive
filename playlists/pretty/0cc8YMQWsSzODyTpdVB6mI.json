@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43085,
+  "num_followers": 43097,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MjkyMCw5YTEwMmM2NWRjZWM3OTgyMDMwODExMGQ2YWIyNTQ5ZjljMWNkYWI2",
+  "snapshot_id": "MjkyMixhYzU1NGNiNWQ1OTc0NmIzMDlkOTEzNzYzNmY3NGJmMGU1OGFmMmVi",
   "tracks": [
+    {
+      "added_at": "2022-08-26 08:30:57",
+      "album": {
+        "name": "The Way You Move It",
+        "url": "https://open.spotify.com/album/3rmYMf2QUh3D78uBiZApw6"
+      },
+      "artists": [
+        {
+          "name": "James Juke",
+          "url": "https://open.spotify.com/artist/6gbPKiUthmk2t7K57AS3mf"
+        }
+      ],
+      "duration_ms": 220714,
+      "name": "The Way You Move It - Radio Edit",
+      "url": "https://open.spotify.com/track/50wq9ALHIyympgfiXUiHfq"
+    },
     {
       "added_at": "2022-08-24 13:35:46",
       "album": {
@@ -427,22 +443,6 @@
       "duration_ms": 213300,
       "name": "Leather Free Seats",
       "url": "https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf"
-    },
-    {
-      "added_at": "2022-06-13 08:26:36",
-      "album": {
-        "name": "Saint",
-        "url": "https://open.spotify.com/album/37iu4n6JCr1jz4KXEjTaMc"
-      },
-      "artists": [
-        {
-          "name": "Tobias.wav",
-          "url": "https://open.spotify.com/artist/5uMPzdNRQFj0lZ6h95gyxN"
-        }
-      ],
-      "duration_ms": 120312,
-      "name": "Saint",
-      "url": "https://open.spotify.com/track/0CGl71PsT1460rkbfUdbef"
     },
     {
       "added_at": "2021-11-05 15:47:43",

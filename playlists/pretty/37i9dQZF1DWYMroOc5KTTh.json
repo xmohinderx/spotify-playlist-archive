@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 359940,
+  "num_followers": 359998,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU2NjIxMiwwMDAwMDAwMGVmNDJiYjcxMTM4NjE0NWYwZWFiOTU4N2VmOGVlZGZj",
+  "snapshot_id": "MTY2MTUyOTM5MywwMDAwMDAwMDRmY2E5MjhiYzM3MjJlY2QzMzg3MGVhMzA2NmQ2MTdl",
   "tracks": [
     {
       "added_at": "2022-08-15 12:23:32",
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-08-15 12:23:32",
       "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2022-08-15 12:23:32",
-      "album": {
         "name": "Recap (with VanJess & Channel Tres)",
         "url": "https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj"
       },
@@ -903,6 +883,22 @@
       "duration_ms": 144201,
       "name": "Don't Hurt Me Baby",
       "url": "https://open.spotify.com/track/7ez7Ld3pAXLa7QWgnr5a1e"
+    },
+    {
+      "added_at": "2022-08-15 12:23:32",
+      "album": {
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 243945,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa"
     }
   ],
   "unique_name": "Serotonin",

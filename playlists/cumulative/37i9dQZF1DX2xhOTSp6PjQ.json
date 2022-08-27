@@ -331,6 +331,24 @@
     {
       "album": {
         "name": "Imbizo",
+        "url": "https://open.spotify.com/album/7GwtOivf91juFQ7MINxers"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi",
+          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238026,
+      "name": "Imbizo",
+      "url": "https://open.spotify.com/track/41NvPWbuUFdEeLV8rlYwIB"
+    },
+    {
+      "album": {
+        "name": "Imbizo",
         "url": "https://open.spotify.com/album/7oZQe5vQ6TLRZlkuJEYIw0"
       },
       "artists": [
@@ -359,7 +377,7 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 239800,
       "name": "Imbizo",
       "url": "https://open.spotify.com/track/2Kg74EtKg8Lo18r1cUtZBV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,777 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,894 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 20 | [Hunker Down](https://open.spotify.com/track/1a2PHxjQkWGDz5MS9dPony) | [The Roseline](https://open.spotify.com/artist/6fLmBunD1XB6d30Fu9xIh7) | [Constancy](https://open.spotify.com/album/4w8TwbZ2eyuk3wEmT38IzZ) | 5:50 |
 | 21 | [Moving On](https://open.spotify.com/track/3OiBUTN46KTEHAGr1bfoQU) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober EP](https://open.spotify.com/album/637BqG5QCMGQArqYDelpbV) | 3:14 |
 | 22 | [You?](https://open.spotify.com/track/7aW115ZGsZcA0Y2HQxiUIU) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Pink](https://open.spotify.com/album/3gk5LmXVewb5mo4FWHuZI6) | 2:49 |
-| 23 | [I Let You Win](https://open.spotify.com/track/0ucwnh0yKIrsm5FW8BPjw4) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [Half\-Hearted](https://open.spotify.com/album/6vapmEwPkUIcTgrA0t1SJE) | 3:21 |
+| 23 | [I Let You Win](https://open.spotify.com/track/7bljVaNi0DZh6OiFO6JSY3) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [Half\-Hearted](https://open.spotify.com/album/5OeDlHDm1UqLSO7Q7LA1OZ) | 3:21 |
 | 24 | [Joy](https://open.spotify.com/track/5R2xhSemgq9meswcXVBl0f) | [The Roseline](https://open.spotify.com/artist/6fLmBunD1XB6d30Fu9xIh7) | [Constancy](https://open.spotify.com/album/4w8TwbZ2eyuk3wEmT38IzZ) | 4:14 |
 | 25 | [Pieces](https://open.spotify.com/track/3Pi88eCkbjFKn5bSXFUI1i) | [Josh Rennie\-Hynes](https://open.spotify.com/artist/3YRZWrA1WzMaDfOPoQVHCp) | [Pieces](https://open.spotify.com/album/4qHcEgmbLSuKv1zlw75qAV) | 3:18 |
 | 26 | [Strangers In Our Town](https://open.spotify.com/track/0RPZwMP9EEp4wuTqA8QonM) | [Jesse Terry](https://open.spotify.com/artist/66yAk0gh9Pdm7VtKm4OP1q) | [When We Wander](https://open.spotify.com/album/2PM0PtcMhk2tJdhs2qVpd4) | 2:53 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 175 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 176 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMGE0YjA2Y2JmMTBhYjJkZTIwNzIyYzdmOWI1ZmU5YTgy`
+Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDVjNDM2M2FjZDM5ZmVhZDI0N2FkZjJiNzlhN2RhZWQ4`

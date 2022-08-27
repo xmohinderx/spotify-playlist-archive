@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "97 Bop",
+        "url": "https://open.spotify.com/album/4vtnejKQkMPFpWDggqDOu7"
+      },
+      "artists": [
+        {
+          "name": "Ethan Fields",
+          "url": "https://open.spotify.com/artist/2SqxqNtAbLxHG8FB2gGiIJ"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86796,
+      "name": "97 Bop",
+      "url": "https://open.spotify.com/track/4r8EoLjUp9dRe2pCJQlWff"
+    },
+    {
+      "album": {
         "name": "A LOT (Remix)",
         "url": "https://open.spotify.com/album/5vOFnRoNxmsLBm8FyCDdrU"
       },
@@ -45,6 +63,24 @@
       "duration_ms": 148868,
       "name": "A LOT - Remix",
       "url": "https://open.spotify.com/track/1cxPOIEirHd43X5qeGebUY"
+    },
+    {
+      "album": {
+        "name": "Ahora Te Puedes Marchar",
+        "url": "https://open.spotify.com/album/6Zyd6ygLsqstLeSZm5HeOW"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150257,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/4aWuoE57P5KteX0L57OrJs"
     },
     {
       "album": {
@@ -1110,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "happy stuff",
+        "url": "https://open.spotify.com/album/7myEihXeFfL1dv63LDaJoF"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162134,
+      "name": "happy stuff",
+      "url": "https://open.spotify.com/track/1C7eURT2UroBgmOEAX2eiR"
+    },
+    {
+      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -1823,6 +1877,24 @@
       "duration_ms": 225148,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+    },
+    {
+      "album": {
+        "name": "On Top",
+        "url": "https://open.spotify.com/album/3tagPi6IgnB2UihDeO4Eot"
+      },
+      "artists": [
+        {
+          "name": "I Am Nova",
+          "url": "https://open.spotify.com/artist/1PYFWo7UIJQBW441tashW3"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195825,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/1P3w91ud5pF4JO80730Mra"
     },
     {
       "album": {

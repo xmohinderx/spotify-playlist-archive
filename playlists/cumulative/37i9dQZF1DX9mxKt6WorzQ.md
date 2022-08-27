@@ -4,7 +4,7 @@
 
 > Relax and sleep to the soft, melodic, and rhythmic rumbling of the night train
 
-69 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/44a6jNfzSHHbwUP2hz8CzV)
+73 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/44a6jNfzSHHbwUP2hz8CzV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,8 @@
 | [Modern Train](https://open.spotify.com/track/0gzmVDa2Ph4ASZlrS9tlsN) | [Live Locomotive](https://open.spotify.com/artist/4CFDsfQ5yeDw8J2l6hUr4m) | [On Track \- Train Sounds](https://open.spotify.com/album/4KPbPPnnYMa4AIvHVEGmcu) | 2:51 | 2022-07-29 |  |
 | [Moving Train Sound](https://open.spotify.com/track/2Q64Y5vG4PuS9qFCR8n84H) | [FX Factory](https://open.spotify.com/artist/409gC0geMBaOqqq230slNU) | [Train Sound Effects](https://open.spotify.com/album/1bGI7fSb2szvXYOsr5xx3H) | 3:34 | 2022-07-29 |  |
 | [Muffled Train Sound](https://open.spotify.com/track/72X3fieIPzZeoifUGi4yQL) | [Sleep Genius](https://open.spotify.com/artist/12feGAYnkGkOpubXHFo6rw) | [Sleep Sounds \- Train Edition](https://open.spotify.com/album/0hBj5gkqnrqbel84uaISGN) | 3:33 | 2022-07-29 |  |
+| [Nap On The Train](https://open.spotify.com/track/3jyEGsc1Tca4MygygNiNDn) | [Bruce White](https://open.spotify.com/artist/4mzeWWSIsYV5WMOWtNkZ0x) | [Sleep Station](https://open.spotify.com/album/6euGL8NW5DCmFiZrdlYxy5) | 1:54 | 2022-08-26 |  |
+| [Next Stop Sleep](https://open.spotify.com/track/4NvPoE32Doo1fDJBuAFwMS) | [Pink Noise Panther](https://open.spotify.com/artist/0qJsh3RHy0fi68ruyX3Kjf) | [Rails Of Sleep](https://open.spotify.com/album/6CzQdyEuURFqqVmXZeMdRq) | 1:24 | 2022-08-26 |  |
 | [Night Train](https://open.spotify.com/track/3ANYHvJllwYYxKt20U3FZi) | [The Railwayers](https://open.spotify.com/artist/2YdRFg3oHeTDQi1OMLg95m) | [On Track \- Train Sounds](https://open.spotify.com/album/4KPbPPnnYMa4AIvHVEGmcu) | 2:57 | 2022-07-29 |  |
 | [Noisy Train Cabin](https://open.spotify.com/track/0hhgM94IBDLQKqEeqVlQWn) | [From A To B](https://open.spotify.com/artist/3DCP3x9FHOsIQk1TlKE040) | [Train Sound Collection](https://open.spotify.com/album/14yJi5EC1ZZc2aItBSE1OP) | 4:16 | 2022-07-29 |  |
 | [On The Railway](https://open.spotify.com/track/5567dJ8VPiIiwBw2TG3wkF) | [Brooke St.](https://open.spotify.com/artist/1YCAJzn4RldXoowAlME5uB) | [Wagon Dreams](https://open.spotify.com/album/6XiHNgQZrR3gutfWS1LfP1) | 1:48 | 2022-07-29 |  |
@@ -44,6 +46,7 @@
 | [Passing Trains](https://open.spotify.com/track/0X53VXgxvtSLf0ssXi3Wmz) | [From A To B](https://open.spotify.com/artist/3DCP3x9FHOsIQk1TlKE040) | [Train Sound Collection](https://open.spotify.com/album/14yJi5EC1ZZc2aItBSE1OP) | 3:08 | 2022-07-29 |  |
 | [Peaceful Train Sound](https://open.spotify.com/track/5wUvHyQ9XCvoYqG9SyzJI3) | [Live Locomotive](https://open.spotify.com/artist/4CFDsfQ5yeDw8J2l6hUr4m) | [On Track \- Train Sounds](https://open.spotify.com/album/4KPbPPnnYMa4AIvHVEGmcu) | 3:31 | 2022-07-29 |  |
 | [Rail Away](https://open.spotify.com/track/3tECLyeHW37YTH5SkrpQbd) | [Brooke St.](https://open.spotify.com/artist/1YCAJzn4RldXoowAlME5uB) | [Rail Away](https://open.spotify.com/album/2TyTEgQJnzhMP8mrS6sQxT) | 1:52 | 2022-07-29 |  |
+| [Rails Of Sleep](https://open.spotify.com/track/06D7NhSXIs1k8nG5jT0uP5) | [Pink Noise Panther](https://open.spotify.com/artist/0qJsh3RHy0fi68ruyX3Kjf) | [Rails Of Sleep](https://open.spotify.com/album/6CzQdyEuURFqqVmXZeMdRq) | 1:54 | 2022-08-26 |  |
 | [Railway Express](https://open.spotify.com/track/57w2PtfGRtww8JYBrKV9HZ) | [Brooke St.](https://open.spotify.com/artist/1YCAJzn4RldXoowAlME5uB) | [Railway Express](https://open.spotify.com/album/3cGGU3QEfRMF1bstbe4zzV) | 2:21 | 2022-07-29 |  |
 | [Relaxing Train Noise](https://open.spotify.com/track/0UrT4utKrLNVuT6bGM3QoR) | [Railway Recorders](https://open.spotify.com/artist/6RK3PgtGHNMqK9zQkqCHSF) | [Train Sound Collection](https://open.spotify.com/album/14yJi5EC1ZZc2aItBSE1OP) | 3:08 | 2022-07-29 |  |
 | [Repetitive Train Tracks](https://open.spotify.com/track/2a3fYmhmyREEvFT3hQVk8u) | [Railway Recorders](https://open.spotify.com/artist/6RK3PgtGHNMqK9zQkqCHSF) | [Train Sound Collection](https://open.spotify.com/album/14yJi5EC1ZZc2aItBSE1OP) | 2:46 | 2022-07-29 |  |
@@ -51,6 +54,7 @@
 | [Rumbling Sleep](https://open.spotify.com/track/0Q6a7Wlfo4sF6yRtYWrxFW) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Rumbling Sleep](https://open.spotify.com/album/0lQgSkapGUsZPzCnI3MqAt) | 2:03 | 2022-07-29 |  |
 | [Shibuya Night Train](https://open.spotify.com/track/2cifMzH5wCOW2EIKnsbCjz) | [Genki Desu](https://open.spotify.com/artist/6Qf1TunOhzHCzTiIwZNrMp) | [Tokyo Night Streets](https://open.spotify.com/album/0y2b7qJD8gnorRoD0Av0dD) | 2:58 | 2022-07-29 |  |
 | [Sleep In The Compartment Coach](https://open.spotify.com/track/4GdXYIWxr87L3jyOpQ2GCG) | [Brooke St.](https://open.spotify.com/artist/1YCAJzn4RldXoowAlME5uB) | [Rail Away](https://open.spotify.com/album/2TyTEgQJnzhMP8mrS6sQxT) | 1:58 | 2022-07-29 |  |
+| [Sleep Station](https://open.spotify.com/track/0JRR1J2l4NUWBvqshHmlXh) | [Bruce White](https://open.spotify.com/artist/4mzeWWSIsYV5WMOWtNkZ0x) | [Sleep Station](https://open.spotify.com/album/6euGL8NW5DCmFiZrdlYxy5) | 1:46 | 2022-08-26 |  |
 | [Sleepy Train](https://open.spotify.com/track/2ramaiWalLOjWQLO46GJpn) | [Treyn](https://open.spotify.com/artist/6k55b19QHSIaukTKfIeQ7X) | [Steel of Wheels](https://open.spotify.com/album/0EDPgMo24oomhLxwlNfthe) | 2:14 | 2022-07-29 |  |
 | [Sleepy Train Noise](https://open.spotify.com/track/6IhCVL0RABB6TasrKYaWuV) | [Binaural Trains](https://open.spotify.com/artist/1GWRwEp77PEypj22vVUuvP) | [Train Sound Collection](https://open.spotify.com/album/14yJi5EC1ZZc2aItBSE1OP) | 2:30 | 2022-07-29 |  |
 | [Slow Train](https://open.spotify.com/track/1Hz32r4uZXKF1I8CibhcBP) | [Zound Effectz](https://open.spotify.com/artist/1gXnErhxU6okboLE4hXzfE) | [Trains](https://open.spotify.com/album/3ERFNp6zkwTixHX0wUy7Y3) | 3:26 | 2022-07-29 |  |

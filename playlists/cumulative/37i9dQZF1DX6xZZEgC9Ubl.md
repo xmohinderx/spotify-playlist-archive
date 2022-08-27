@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: 347aidan
 
-713 songs - 1 day 8 hr 31 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+714 songs - 1 day 8 hr 35 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Drugs](https://open.spotify.com/track/4aPzU7jCuoBibw6zGuzRdq) | [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [Drugs](https://open.spotify.com/album/3C4ylZD6KW6biZ0W5JPcdv) | 3:14 | 2021-01-15 | 2021-04-24 |
 | [Duct Tape Lips](https://open.spotify.com/track/1CSohYbqNK5ocN3ibvDlkf) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Duct Tape Lips](https://open.spotify.com/album/0Jo9yhXyNn8cSylX2xTPdf) | 2:47 | 2021-07-04 | 2022-07-01 |
 | [DYE](https://open.spotify.com/track/4jmSE3WCZNyjbzLPVi3uHU) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [DYE](https://open.spotify.com/album/0YWf0a8b0suTBu0r8W97kX) | 3:13 | 2022-01-14 | 2022-07-29 |
+| [Dying](https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe) | [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4), [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [The OC Season 3](https://open.spotify.com/album/1zkV84STH54WfqwcUvE9F0) | 3:29 | 2022-08-26 |  |
 | [dying lately](https://open.spotify.com/track/5DvCLCw2DNo1W6MfsStxId) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [dying lately](https://open.spotify.com/album/41bT6urTGZMbjbO2NmsoCu) | 3:41 | 2020-12-13\* | 2022-04-23 |
 | [DYNAMITE](https://open.spotify.com/track/5CVrsuiBTFVTtLOYfSSgc7) | [MOBILE PRO](https://open.spotify.com/artist/59aB5xrNTvKR1Ch0T778IL) | [DYNAMITE](https://open.spotify.com/album/6TFSZ8pWCYbSZs8RZHze9K) | 2:00 | 2020-12-13\* | 2021-01-15 |
 | [eastside](https://open.spotify.com/track/2KugH3Idz56J6bz32twprA) | [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4) | [eastside](https://open.spotify.com/album/5yQZEBelT182o1mpVJvAzD) | 4:13 | 2022-05-18 | 2022-05-20 |
@@ -396,7 +397,7 @@
 | [MEAN GIRLS](https://open.spotify.com/track/5KLo5emoCJT8Xk8MeOrSm5) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MEAN GIRLS](https://open.spotify.com/album/7BNrJv8BcbLsUlvKXrTBvl) | 2:10 | 2021-07-31 | 2022-07-26 |
 | [Meant To Be](https://open.spotify.com/track/6mtgVR9MNoWwjCxlKSruw7) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Meant To Be](https://open.spotify.com/album/63lAGUA7Muw8sviOb03TVI) | 3:06 | 2020-12-13\* | 2021-02-27 |
 | [medicine](https://open.spotify.com/track/38cHoGUA4FvEXiGRwZ32nM) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw), [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [medicine](https://open.spotify.com/album/0fXWPB2QCWc7uf7uG9lAOM) | 2:02 | 2021-09-17 | 2022-04-21 |
-| [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 | 2021-06-19 |  |
+| [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 | 2021-06-19 | 2022-08-27 |
 | [Memory](https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Memory](https://open.spotify.com/album/0vqbFCVFfruEwtG4Au08yD) | 2:14 | 2021-01-15 |  |
 | [memory\_lo55](https://open.spotify.com/track/2yyApFUUVm7G4ujRr0MT8B) | [Oliver Francis](https://open.spotify.com/artist/0WvTK38rXqPCD5pZMDuX20) | [memory\_lo55\_reloaded](https://open.spotify.com/album/0hsdw1CBoxDAHt33NyfkGP) | 4:23 | 2022-06-10 | 2022-06-17 |
 | [MESS](https://open.spotify.com/track/5ac2xlGNJWLpdpcVUV8DY8) | [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk) | [MESS](https://open.spotify.com/album/3sq7L8jBJ80mNvmFdGZp34) | 1:54 | 2021-12-03 | 2022-04-21 |
@@ -720,6 +721,6 @@
 | [Young Kid](https://open.spotify.com/track/7kXNWZbHd8ojf6H08XMdtC) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/0KCiBDv3FJ2HDEqddm8JK6) | 3:29 | 2021-04-01 |  |
 | [your favorite dress](https://open.spotify.com/track/1i5VGJwl7gFw0hQP4dVDgK) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [CASTLES II](https://open.spotify.com/album/4PBXjrqtjZmYtt37kB7px5) | 2:57 | 2021-07-04 | 2022-08-06 |
 | [YSL](https://open.spotify.com/track/0egYRyGuUQnqOMqf3EYVfC) | [Phazzze](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [YSL](https://open.spotify.com/album/6NcE9p2J2XKC341QzA9kWJ) | 3:07 | 2021-03-26 | 2021-05-29 |
-| [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 | 2022-07-29 |  |
+| [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 | 2022-07-29 | 2022-08-27 |
 
 \*This playlist was first scraped on 2020-12-13. Prior content cannot be recovered.

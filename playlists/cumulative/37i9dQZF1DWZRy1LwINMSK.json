@@ -1387,6 +1387,28 @@
     {
       "album": {
         "name": "SIN PRONTUARIO",
+        "url": "https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx"
+      },
+      "artists": [
+        {
+          "name": "Peke\u00f1o 77",
+          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "MaMa",
+      "url": "https://open.spotify.com/track/3bOawk8qClklX3sEhefu96"
+    },
+    {
+      "album": {
+        "name": "SIN PRONTUARIO",
         "url": "https://open.spotify.com/album/6Qfbi4ZYbhlQxjcddwg1G0"
       },
       "artists": [
@@ -1397,7 +1419,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 144466,
       "name": "MaMa",
       "url": "https://open.spotify.com/track/36AOJ35vNMNlWw9OWpwmKe"

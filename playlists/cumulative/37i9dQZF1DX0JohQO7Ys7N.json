@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC?si=BWGZugueSpqkPEGPqSBB1Q\">Karun</a> ",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR?si=OJHg-YkoR82PR1KsyHBt1Q\">Emmy Muthiga</a> ",
   "name": "NairoBae",
   "published_playlist_ids": [
     "05RBXY2jPO9XncKwkUOGKt"
@@ -157,6 +157,24 @@
       "duration_ms": 237391,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9"
+    },
+    {
+      "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/1eo8gcKfYcFCE12POc0Uqa"
+      },
+      "artists": [
+        {
+          "name": "Emmie Muthiga",
+          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Catch Me Later",
+      "url": "https://open.spotify.com/track/23ccG0YrcOB1ZiEMRfkNVq"
     },
     {
       "album": {
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 212210,
       "name": "Tender",
       "url": "https://open.spotify.com/track/4VGdRiXSYdL44YCz84jpG5"

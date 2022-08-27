@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > The freshest smooth jazz\. Cover: Nick Colionne
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,370 likes - 80 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,368 likes - 80 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 79 | [Safe and Sound](https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC) | [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [Piano Tales](https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL) | 4:08 |
 | 80 | [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMGM2MzA4NzYyNmZlN2RlN2UxY2NjYWYzMTNhZDIwYjAw`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDQ1ZTkwOWRlNzJjMTU4YmJjYWNkYWVhNWU2MzA2M2M3`

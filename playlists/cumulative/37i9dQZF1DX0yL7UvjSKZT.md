@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: The Brothers Comatose
 
-197 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+201 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,9 +90,11 @@
 | [I'll Be Lost](https://open.spotify.com/track/5QR7BtYDsTKReZJNrqZ3Rn) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [I'll Be Lost](https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy) | 3:22 | 2022-01-07 |  |
 | [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 | 2022-04-01 |  |
 | [If You See Me Riding By](https://open.spotify.com/track/2i17QDSujp8F9KI1VL0oAW) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [If You See Me Riding By](https://open.spotify.com/album/420pq9fEOP3PEMQ01No5p3) | 3:28 | 2022-06-11 |  |
+| [In Dreams \- Alternative Version](https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [In Dreams \(Alternative Version\)](https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM) | 2:43 | 2022-08-26 |  |
 | [Intentions](https://open.spotify.com/track/2D7OJKIDb9orPkcgZd5OAp) | [Sean Waters](https://open.spotify.com/artist/7xAiCdg8rJmhZtvpYnpbGD) | [Intentions](https://open.spotify.com/album/4RFlBj7vLZ72jtihEXY0Ib) | 3:32 | 2022-02-25 |  |
 | [Iron & Ore](https://open.spotify.com/track/0V5HKIZzUKlZ8He2Zfp4Eh) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [The Last Revel](https://open.spotify.com/album/3myX8j297y7X7rdSE3LVg2) | 3:54 | 2021-10-01 | 2022-07-29 |
 | [Iron & Ore](https://open.spotify.com/track/47vKr9ZnQj3wSyDQE0kEOL) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [The Last Revel](https://open.spotify.com/album/385iuK4kIgS4QobktCgoGB) | 3:54 | 2022-07-22 |  |
+| [Jenny Put the Kettle On](https://open.spotify.com/track/1vHYLSFXktaPllAwMj4bmJ) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/6IG1OlL4Z6fV3zh0hRGqIc) | 2:00 | 2022-08-26 |  |
 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2021-10-01 | 2022-01-22 |
 | [Julep](https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 5:26 | 2021-10-01 | 2022-01-22 |
 | [Just Pick One](https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Just Pick One](https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU) | 3:01 | 2022-03-04 |  |
@@ -112,6 +114,7 @@
 | [Marianne](https://open.spotify.com/track/54e9O9Y8iG3CCjCEdeQ7yy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Old Time Reverie](https://open.spotify.com/album/5AYjie5QDdpryswTiI5uo6) | 3:19 | 2022-07-22 |  |
 | [Marianne](https://open.spotify.com/track/4vx0FK5GfHdFSSNMRMeuLa) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Old Time Reverie](https://open.spotify.com/album/3uNiWWdpmOkw7i8DSaELav) | 3:22 | 2021-10-01 | 2022-07-29 |
 | [Meeting Is Over](https://open.spotify.com/track/0Jyru2R52NaBR6wiEGMQUp) | [Moira Smiley](https://open.spotify.com/artist/035KHOtaTMMoN7YASM6mwk), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd), [Seamus Egan](https://open.spotify.com/artist/5dWAsW7cMbMCswqTwN2jQm) | [Meeting Is Over](https://open.spotify.com/album/4YgPIWCcfPIfpkgmewgoYx) | 4:24 | 2021-12-31 |  |
+| [Mortal Like Me](https://open.spotify.com/track/0V0gmNQ5UL3paMRmKKx76J) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8), [Joe Troop](https://open.spotify.com/artist/6ZEEjgoF57Fa8eh2aXGoNa) | [Mortal Like Me](https://open.spotify.com/album/6ZFb24q2lPY70oVv9PgQMj) | 3:14 | 2022-08-26 |  |
 | [Mountains Quake](https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Leave Some Things Behind](https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd) | 2:01 | 2021-10-01 |  |
 | [My Oh My](https://open.spotify.com/track/4BJR7M2REDNVdhpHDfBBU5) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 4:18 | 2021-10-01 | 2022-01-15 |
 | [Narrow Line](https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr) | 4:35 | 2022-04-01 |  |
@@ -167,6 +170,7 @@
 | [The Devil In You](https://open.spotify.com/track/4nA3rdugWqbUozPJCrNR0j) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [LIVE CHIMES: Volume One](https://open.spotify.com/album/0HXxUy2QIIZEEEiVNRMlRX) | 2:22 | 2021-10-01 | 2022-07-29 |
 | [The Fox and the River](https://open.spotify.com/track/1hRSSZblPpjmq4vU4ZeZ0t) | [Kate Prascher](https://open.spotify.com/artist/26AEagFod7amlwiCyy0JsY) | [The Fox and the River](https://open.spotify.com/album/6ZMRkSwZzjYwBMmM3aCfeq) | 3:05 | 2022-02-25 |  |
 | [The High Road](https://open.spotify.com/track/2FaRTKC8O1ylcBlSY8P8NU) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:49 | 2021-10-01 | 2022-04-02 |
+| [The Horn](https://open.spotify.com/track/5mJ54mjLUJ7OSexRIVRmR4) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w) | [Lose Me In The Swamp](https://open.spotify.com/album/4WjMjQ7ojwSEaniI6rwMop) | 2:24 | 2022-08-26 |  |
 | [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 | 2021-10-01 |  |
 | [The Last Song](https://open.spotify.com/track/60YBCdChTNANPCInBE7nr1) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [The Last Song](https://open.spotify.com/album/051f2CtHH6ZUdj2R4PZ8qF) | 3:05 | 2022-07-29 |  |
 | [The Lonesome Season](https://open.spotify.com/track/3By1O4YkSJyMfBdRc9owtI) | [Andrew Crawford](https://open.spotify.com/artist/3E6LMXGg2UtOW7LaC4OHgN) | [The Lonesome Season](https://open.spotify.com/album/5efbJOZ97cdkB8bsHiRftB) | 3:48 | 2021-12-03 | 2022-07-16 |

@@ -480,6 +480,24 @@
     },
     {
       "album": {
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224160,
+      "name": "Country Boy's Prayer",
+      "url": "https://open.spotify.com/track/2Pnw07JGKNZYta0UrHox5X"
+    },
+    {
+      "album": {
         "name": "boom.",
         "url": "https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe"
       },
@@ -1027,6 +1045,32 @@
       "duration_ms": 198591,
       "name": "Hold On (feat. Lauren Weintraub)",
       "url": "https://open.spotify.com/track/1HkOYPY5Gx4CPYbCd6leKb"
+    },
+    {
+      "album": {
+        "name": "Hold Together",
+        "url": "https://open.spotify.com/album/7erbvztzF5K8So7dme7oKk"
+      },
+      "artists": [
+        {
+          "name": "Shadowlands",
+          "url": "https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe"
+        },
+        {
+          "name": "Luke Laird",
+          "url": "https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI"
+        },
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212279,
+      "name": "Hold Together",
+      "url": "https://open.spotify.com/track/2XCcWKqWhTcEIIioskq3bi"
     },
     {
       "album": {

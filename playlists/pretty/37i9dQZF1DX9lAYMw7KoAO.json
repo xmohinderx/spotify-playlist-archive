@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across the African continent. Worship in your mother tongue here!",
-  "num_followers": 55414,
+  "num_followers": 55471,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjM5NjQwMCwwMDAwMDAwMDg5Nzg3ZGI0ZTBhZmM1NTAwMGI1NWYzODI1ZTU2MjBk",
+  "snapshot_id": "MTY2MTUwNjk1MSwwMDAwMDAwMGExYTZjOWZiMGVjOGZjYzk0ZjIwODE0NWMyMzk5YzNl",
   "tracks": [
     {
       "added_at": "2020-06-05 06:50:34",
@@ -57,6 +57,30 @@
       "url": "https://open.spotify.com/track/6cJO5KcvPHzo50Q0EKS0Og"
     },
     {
+      "added_at": "2022-08-26 09:42:31",
+      "album": {
+        "name": "God Turned It Around",
+        "url": "https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 619333,
+      "name": "God Turned It Around",
+      "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
+    },
+    {
       "added_at": "2022-01-20 23:00:00",
       "album": {
         "name": "Always God",
@@ -105,6 +129,26 @@
       "url": "https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU"
     },
     {
+      "added_at": "2021-01-22 00:00:00",
+      "album": {
+        "name": "We Raise A Sound",
+        "url": "https://open.spotify.com/album/6JnxMe1t7VH6RP1mcJJBcg"
+      },
+      "artists": [
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        },
+        {
+          "name": "121selah",
+          "url": "https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa"
+        }
+      ],
+      "duration_ms": 432185,
+      "name": "We Raise A Sound",
+      "url": "https://open.spotify.com/track/40GqiANrV567E5vyDvHlos"
+    },
+    {
       "added_at": "2020-10-09 07:55:50",
       "album": {
         "name": "Udumo (Live at Pont De Val)",
@@ -141,6 +185,22 @@
       "url": "https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN"
     },
     {
+      "added_at": "2020-09-17 22:59:00",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/5YPxw37RZOlbWsVR08fcQ7"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 265613,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/0q4SXFe7bOiKsxOKIoXLr4"
+    },
+    {
       "added_at": "2019-11-06 14:24:49",
       "album": {
         "name": "Restored (Live)",
@@ -157,6 +217,30 @@
       "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
     },
     {
+      "added_at": "2020-05-15 08:28:24",
+      "album": {
+        "name": "Spirit of Praise, Vol. 5 (Live)",
+        "url": "https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Tshepiso",
+          "url": "https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I"
+        },
+        {
+          "name": "Thando",
+          "url": "https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn"
+        }
+      ],
+      "duration_ms": 406600,
+      "name": "Xa Ndiyekelelwa (Live)",
+      "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
+    },
+    {
       "added_at": "2019-11-06 14:24:49",
       "album": {
         "name": "WETIN I GAIN",
@@ -171,6 +255,22 @@
       "duration_ms": 232538,
       "name": "WETIN I GAIN",
       "url": "https://open.spotify.com/track/5ol1H9REx8MYJi8f27BMmU"
+    },
+    {
+      "added_at": "2020-10-29 22:59:00",
+      "album": {
+        "name": "No Void",
+        "url": "https://open.spotify.com/album/4r6aQghIBY7PwUViivOTQT"
+      },
+      "artists": [
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        }
+      ],
+      "duration_ms": 294916,
+      "name": "No Void",
+      "url": "https://open.spotify.com/track/5sqjOtOZB4MAvMO43ZeG1i"
     },
     {
       "added_at": "2020-11-20 00:49:54",
@@ -355,26 +455,6 @@
       "duration_ms": 290527,
       "name": "Adom Grace",
       "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Xorla (Savior)",
-        "url": "https://open.spotify.com/album/5ksHtx5tszK7XVxXjwAPzV"
-      },
-      "artists": [
-        {
-          "name": "Bethel Revival Choir",
-          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
-        },
-        {
-          "name": "Ps. Helen Yawson",
-          "url": "https://open.spotify.com/artist/6kTupYkSzsvfbbE75WuAlb"
-        }
-      ],
-      "duration_ms": 448804,
-      "name": "Xorla (Savior)",
-      "url": "https://open.spotify.com/track/5oeCjtT8jKUHnzRmRdPm5Q"
     },
     {
       "added_at": "2020-07-10 08:59:06",
@@ -677,30 +757,6 @@
       "url": "https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK"
     },
     {
-      "added_at": "2020-05-15 08:28:24",
-      "album": {
-        "name": "Spirit of Praise, Vol. 5 (Live)",
-        "url": "https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Tshepiso",
-          "url": "https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I"
-        },
-        {
-          "name": "Thando",
-          "url": "https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn"
-        }
-      ],
-      "duration_ms": 406600,
-      "name": "Xa Ndiyekelelwa (Live)",
-      "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
-    },
-    {
       "added_at": "2021-04-19 08:02:07",
       "album": {
         "name": "Joyous Celebration 25 - Still We Rise: Live At The Joburg Theatre",
@@ -917,26 +973,6 @@
       "url": "https://open.spotify.com/track/0t32E01dieVWKQqHKr0P6W"
     },
     {
-      "added_at": "2021-01-22 00:00:00",
-      "album": {
-        "name": "We Raise A Sound",
-        "url": "https://open.spotify.com/album/6JnxMe1t7VH6RP1mcJJBcg"
-      },
-      "artists": [
-        {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
-        },
-        {
-          "name": "121selah",
-          "url": "https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa"
-        }
-      ],
-      "duration_ms": 432185,
-      "name": "We Raise A Sound",
-      "url": "https://open.spotify.com/track/40GqiANrV567E5vyDvHlos"
-    },
-    {
       "added_at": "2020-11-20 00:49:54",
       "album": {
         "name": "Jesus Is Enough",
@@ -967,22 +1003,6 @@
       "duration_ms": 339800,
       "name": "Won Rope O Pede",
       "url": "https://open.spotify.com/track/7g5GsaCdI7slVkypFtDZcP"
-    },
-    {
-      "added_at": "2020-09-17 22:59:00",
-      "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/5YPxw37RZOlbWsVR08fcQ7"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 265613,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/0q4SXFe7bOiKsxOKIoXLr4"
     },
     {
       "added_at": "2018-10-01 23:13:33",
@@ -1043,22 +1063,6 @@
       "duration_ms": 183529,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG"
-    },
-    {
-      "added_at": "2020-10-29 22:59:00",
-      "album": {
-        "name": "No Void",
-        "url": "https://open.spotify.com/album/4r6aQghIBY7PwUViivOTQT"
-      },
-      "artists": [
-        {
-          "name": "Onos",
-          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
-        }
-      ],
-      "duration_ms": 294916,
-      "name": "No Void",
-      "url": "https://open.spotify.com/track/5sqjOtOZB4MAvMO43ZeG1i"
     },
     {
       "added_at": "2021-03-25 22:00:00",

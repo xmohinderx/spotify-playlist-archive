@@ -288,6 +288,24 @@
     },
     {
       "album": {
+        "name": "Ancient Delta",
+        "url": "https://open.spotify.com/album/2iOdIK10OleEonLl4phDyP"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133717,
+      "name": "Ancient Delta",
+      "url": "https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW"
+    },
+    {
+      "album": {
         "name": "Sounds of Color",
         "url": "https://open.spotify.com/album/1JtVGPcnUPJ1DlT9K56bLt"
       },
@@ -770,6 +788,24 @@
     },
     {
       "album": {
+        "name": "Mind Racing",
+        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
+      },
+      "artists": [
+        {
+          "name": "Noah Rosen",
+          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347368,
+      "name": "Carlyle Clyde",
+      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
+    },
+    {
+      "album": {
         "name": "Chandler",
         "url": "https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8"
       },
@@ -803,7 +839,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 231853,
       "name": "Charlier",
       "url": "https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR"
@@ -1280,6 +1316,28 @@
     },
     {
       "album": {
+        "name": "Dr. T",
+        "url": "https://open.spotify.com/album/3VyBpt3BJXx5GiuVAcBz1f"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        },
+        {
+          "name": "Jacob Mann",
+          "url": "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "Dr. T",
+      "url": "https://open.spotify.com/track/5x53ccMRbSrLsmdMhkZAHF"
+    },
+    {
+      "album": {
         "name": "Dream Drone",
         "url": "https://open.spotify.com/album/7tFujmdb2OsP05AVQaTR7q"
       },
@@ -1717,7 +1775,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 135849,
       "name": "Ghosted",
       "url": "https://open.spotify.com/track/2qPIpeVx42NgsaXdhwBbtd"
@@ -3681,7 +3739,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 282577,
       "name": "Sight Spring",
       "url": "https://open.spotify.com/track/1Y5iIqTBVLmR2CXzeYlEda"

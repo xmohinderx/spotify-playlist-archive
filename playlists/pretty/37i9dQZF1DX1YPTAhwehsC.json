@@ -1,48 +1,64 @@
 {
   "description": "Up and down I-95. Cover: Sheff G",
-  "num_followers": 415074,
+  "num_followers": 415160,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkzNzMyNCwwMDAwMDAwMDg0NDNhMTk3YTBmNjM0NjU3Zjg2ODlmNjZiOThkODk3",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDNkMWQ1OGRmMDUwZTg4ZWRiMzQwMzQ1OWQwNGRkMWY1",
   "tracks": [
     {
-      "added_at": "2022-08-19 04:01:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Sniper Gang Freestyle Pt. 2",
-        "url": "https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW"
+        "name": "Beat the Odds",
+        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Beat the Odds",
+      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Treesha",
+        "url": "https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 105693,
+      "name": "Treesha",
+      "url": "https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Why Would I Lack? (feat. SPMB Bills)",
+        "url": "https://open.spotify.com/album/0UhRHMR9Zg9kLm46BdvG9T"
       },
       "artists": [
         {
           "name": "22Gz",
           "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
-        }
-      ],
-      "duration_ms": 164608,
-      "name": "Sniper Gang Freestyle Pt. 2",
-      "url": "https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "The Golden Child",
-        "url": "https://open.spotify.com/album/5JtuaEXZo0QZ2scZGo7QVn"
-      },
-      "artists": [
-        {
-          "name": "Eli Fross",
-          "url": "https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg"
         },
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+          "name": "SPMB Bills",
+          "url": "https://open.spotify.com/artist/1PZWTOZpsAoK6tyNDPziOa"
         }
       ],
-      "duration_ms": 207253,
-      "name": "Bad Days (feat. Sleepy Hallow)",
-      "url": "https://open.spotify.com/track/3uTd2Vf1GiVLsxFfzzeSim"
+      "duration_ms": 176681,
+      "name": "Why Would I Lack? (feat. SPMB Bills)",
+      "url": "https://open.spotify.com/track/5NWnpj6yQXyBHRIJnCFELd"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -107,6 +123,38 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Sniper Gang Freestyle Pt. 2",
+        "url": "https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "duration_ms": 164608,
+      "name": "Sniper Gang Freestyle Pt. 2",
+      "url": "https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Let It Breathe",
+        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Let It Breathe",
+      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "We All We Got",
         "url": "https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O"
       },
@@ -123,6 +171,42 @@
       "duration_ms": 135572,
       "name": "Falsetto (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/0Qql7tnjwxJ4Lpmy8H3Uwl"
+      },
+      "artists": [
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "duration_ms": 165754,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/4TZxTK5bGS8dxjLTjcQsxx"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "The Golden Child",
+        "url": "https://open.spotify.com/album/5JtuaEXZo0QZ2scZGo7QVn"
+      },
+      "artists": [
+        {
+          "name": "Eli Fross",
+          "url": "https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "Bad Days (feat. Sleepy Hallow)",
+      "url": "https://open.spotify.com/track/3uTd2Vf1GiVLsxFfzzeSim"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -183,6 +267,22 @@
       "duration_ms": 131868,
       "name": "Q-Pid",
       "url": "https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "W13",
+        "url": "https://open.spotify.com/album/2UQ8TnK4dXTwd66W9bQZz9"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Free Slime",
+      "url": "https://open.spotify.com/track/4Wgu0FPMdz24m4TBc7kyk2"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -249,36 +349,24 @@
       "url": "https://open.spotify.com/track/55yPlote432saxAHYwlqp4"
     },
     {
-      "added_at": "2022-08-19 04:01:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "No Names",
-        "url": "https://open.spotify.com/album/7CID8lEFRgWbN3gfUpl8rD"
+        "name": "RICH HUSTLE",
+        "url": "https://open.spotify.com/album/0PJY2gSMWWAzcOq672mUac"
       },
       "artists": [
         {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        }
-      ],
-      "duration_ms": 145964,
-      "name": "No Names",
-      "url": "https://open.spotify.com/track/5o6KgsV5QCUdXwh0XEO7EZ"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/0Qql7tnjwxJ4Lpmy8H3Uwl"
-      },
-      "artists": [
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
         {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
         }
       ],
-      "duration_ms": 165754,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/4TZxTK5bGS8dxjLTjcQsxx"
+      "duration_ms": 142214,
+      "name": "RICH HUSTLE (with Jim Jones)",
+      "url": "https://open.spotify.com/track/2hFiYxiRV9pxM4BVATrKeX"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -389,6 +477,22 @@
       "url": "https://open.spotify.com/track/7Fb1CXeHkU4axxhebmT7Io"
     },
     {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "STONE COLD!",
+        "url": "https://open.spotify.com/album/4GTtDcfQD23xyt5otxlu7K"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "STONE COLD!",
+      "url": "https://open.spotify.com/track/3h4EcZwKDcJl11xjI3gPMQ"
+    },
+    {
       "added_at": "2022-08-19 04:01:00",
       "album": {
         "name": "Faster",
@@ -469,20 +573,20 @@
       "url": "https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK"
     },
     {
-      "added_at": "2022-08-19 04:01:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/31Bf8HUpvdPCUJBC1Cg1aK"
+        "name": "Dollar Menu 4",
+        "url": "https://open.spotify.com/album/07Mhy5JWKzHBaBdMCTfETC"
       },
       "artists": [
         {
-          "name": "KAS",
-          "url": "https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5"
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
         }
       ],
-      "duration_ms": 163783,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/5NSpJl6ebAZ55MOWq2NtR4"
+      "duration_ms": 129192,
+      "name": "Smokin' Kiki (Lonnie)",
+      "url": "https://open.spotify.com/track/5eQuikw6kyxRvjOMIAZGZb"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -499,6 +603,22 @@
       "duration_ms": 175813,
       "name": "ROLLIN N CONTROLLIN, PT. 3 (BEEN ROLLIN)",
       "url": "https://open.spotify.com/track/1vZgkcBv6DJMSvJl5g3fD1"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/6XdDkPjojt5FHlGBhZcjr5"
+      },
+      "artists": [
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        }
+      ],
+      "duration_ms": 164224,
+      "name": "Double Cup",
+      "url": "https://open.spotify.com/track/3GgHxYYLLaE1OnRKc9FznY"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -595,26 +715,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Die Young (feat. 347aidan)",
-        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 148816,
-      "name": "Die Young (feat. 347aidan)",
-      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Don't Panic (feat. Cito Blick & Pdot Sav)",
         "url": "https://open.spotify.com/album/6Tytk95IFZPX6ffCRpJcaz"
       },
@@ -695,6 +795,26 @@
       "duration_ms": 123636,
       "name": "AVENTADOR",
       "url": "https://open.spotify.com/track/2NhVY8tOBvbQRCLvBXFrUJ"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "VIRGOAT",
+        "url": "https://open.spotify.com/album/5TchtfpSg3MUUZu6pAqB3r"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        },
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "duration_ms": 203833,
+      "name": "RAGE (Sicc 'Em)",
+      "url": "https://open.spotify.com/track/19yyV2dXptig3a8CAzUzFZ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -959,26 +1079,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Make A Movie (feat. Fivio Foreign)",
-        "url": "https://open.spotify.com/album/4HFKc1vf00ooiAXuPIf5xv"
-      },
-      "artists": [
-        {
-          "name": "Kay Flock",
-          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 137156,
-      "name": "Make A Movie (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/6fDlAcex9PxMcvw4eiZjLq"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "SHOES",
         "url": "https://open.spotify.com/album/3i90iCj0jobNWhmg8gUpkI"
       },
@@ -999,22 +1099,6 @@
       "duration_ms": 142608,
       "name": "SHOES",
       "url": "https://open.spotify.com/track/3dvFEBKISIIFqmepTHvYnE"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "B.I.B.L.E.",
-        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 127552,
-      "name": "For Nothin",
-      "url": "https://open.spotify.com/track/1xkWTMhUSaeS4Zv9AhKhIn"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1067,30 +1151,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "MVP",
-        "url": "https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx"
-      },
-      "artists": [
-        {
-          "name": "FaZe Kaysan",
-          "url": "https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp"
-        },
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Shottas",
         "url": "https://open.spotify.com/album/5zLqDqJRSyMAu73Ra7XwhE"
       },
@@ -1107,42 +1167,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "What They Gon Say",
-        "url": "https://open.spotify.com/album/1myZxsTthy8vaYfv9UC2dU"
-      },
-      "artists": [
-        {
-          "name": "Ron Suno",
-          "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
-        },
-        {
-          "name": "Zay Munna",
-          "url": "https://open.spotify.com/artist/14AVlxYsgbbSygfGrNbG3n"
-        }
-      ],
-      "duration_ms": 151272,
-      "name": "What They Gon Say",
-      "url": "https://open.spotify.com/track/5XsXZ1c7GKFNfzSsoeYFY7"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "New Opps",
-        "url": "https://open.spotify.com/album/5Xw38QEyGPa5X1G51TvXpf"
-      },
-      "artists": [
-        {
-          "name": "Sha EK",
-          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
-        }
-      ],
-      "duration_ms": 108778,
-      "name": "New Opps",
-      "url": "https://open.spotify.com/track/5p2btOYmVnkJp6z8aoNMwl"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "TRIBORO",
         "url": "https://open.spotify.com/album/6cSas8iJsNMlJptuh152ES"
       },
@@ -1155,50 +1179,6 @@
       "duration_ms": 136312,
       "name": "TRIBORO",
       "url": "https://open.spotify.com/track/3YW6dTxbI2cFhrsvcUbiOS"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "The Lobby Boyz",
-        "url": "https://open.spotify.com/album/3O91a8cdAqPBQR4ebxr3JX"
-      },
-      "artists": [
-        {
-          "name": "Lobby Boyz",
-          "url": "https://open.spotify.com/artist/6LXO0sA79ErYKqqEu36N6z"
-        },
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Maino",
-          "url": "https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 223098,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/0LLI2ooU26dn3BYlb0vJtV"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Hoppin Out",
-        "url": "https://open.spotify.com/album/6Ab3Hqoowg6OjsWpAgxcwf"
-      },
-      "artists": [
-        {
-          "name": "Hardo",
-          "url": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
-        }
-      ],
-      "duration_ms": 161860,
-      "name": "Hoppin Out",
-      "url": "https://open.spotify.com/track/2qD5hkBGI47Pr1a2SnikZc"
     }
   ],
   "unique_name": "State of Mind",

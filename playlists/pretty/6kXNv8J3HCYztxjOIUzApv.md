@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Cover Artist: Nothing More &amp; Primal Darkness                                                  Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 57,017 likes - 157 songs - 10 hr 0 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 57,017 likes - 159 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,5 +165,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 155 | [Drop Dead Cynical](https://open.spotify.com/track/5VToMJACRoeT0YZNs5CYyp) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MASSIVE ADDICTIVE](https://open.spotify.com/album/0GCcO9StyRRAGumjCOTSpN) | 3:17 |
 | 156 | [1234](https://open.spotify.com/track/4Mbj2NKklmBRfs0ekO6cQ5) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [1234](https://open.spotify.com/album/55qWVcSQBFn5odd33hc1Ie) | 3:22 |
 | 157 | [Bottom of The Top](https://open.spotify.com/track/4MCko2lInqpb0hKRZxRdGz) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:30 |
+| 158 | [Who’s That Playing On The Radio? \(feat\. Danny Worsnop of Asking Alexandria and Mick Mars of Mötley Crüe\)](https://open.spotify.com/track/60873rJNFVxsGUrvVQenhS) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Who’s That Playing On The Radio? \(feat\. Danny Worsnop of Asking Alexandria and Mick Mars of Mötley Crüe\)](https://open.spotify.com/album/4SuFcZyW8cZ5owF1mj5KmC) | 3:25 |
+| 159 | [Thousand Lifetimes](https://open.spotify.com/track/3iSgwMXZtxE7fBMqK214JX) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Thousand Lifetimes](https://open.spotify.com/album/1AQe2iTO5cYZqmPDT52ti6) | 3:12 |
 
-Snapshot ID: `MTc5NSxiODBjY2ZlMWM1YzlkYWI0NjFjM2ZmOTA4YzI2MmFkZjI4MDRhNmY3`
+Snapshot ID: `MTc5NywzYmQ3MWVkM2FkNWZiMGRlMWY3Y2JiYWZkNzcxMGQ2Yzc4NGM0NGE3`

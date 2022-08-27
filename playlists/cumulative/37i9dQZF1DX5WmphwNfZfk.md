@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Devon Cole
 
-799 songs - 1 day 16 hr 48 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+800 songs - 1 day 16 hr 51 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Enemies](https://open.spotify.com/track/3EG1YH81iN2eJFTTfGrVaW) | [Lil Berete](https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx) | [Enemies](https://open.spotify.com/album/2ZlO1nrcmvMm6gu31lvp48) | 2:47 | 2022-02-04 | 2022-03-05 |
 | [Energy](https://open.spotify.com/track/12q3pDcjI9HYZwd5rhSSvY) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Loss Of Valuable Energy \(L.O.V.E.\)](https://open.spotify.com/album/0goRiyw1IR5vSWD8UNfnmy) | 3:16 | 2022-06-03 | 2022-07-02 |
 | [Enny One Wil Love You](https://open.spotify.com/track/4emcyB9LLzJGmxnms2Z0VD) | [Pony Girl](https://open.spotify.com/artist/4AHK4mLrsycTVKUQMAUsy0) | [Enny One Wil Love You](https://open.spotify.com/album/4YRgR8zE8wRNpfgmUqoXvp) | 3:52 | 2022-08-05 |  |
+| [Entice Me](https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Entice Me](https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT) | 2:36 | 2022-08-26 |  |
 | [Entre ici et les jours heureux](https://open.spotify.com/track/2PRJifg7tusptRu0HiodTt) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Entre ici et les jours heureux](https://open.spotify.com/album/6SH1H9eDpiT3dS8TVUCe0R) | 3:20 | 2022-06-03 | 2022-07-02 |
 | [Essayer](https://open.spotify.com/track/2lzkrk1S2oY4r46gMBwc8E) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Essayer](https://open.spotify.com/album/3GNSgrDaW3Fsffp6GijGdy) | 4:05 | 2021-12-06 | 2022-01-08 |
 | [Estrellas](https://open.spotify.com/track/12xPalbdr11FAzvb4GEQU9) | [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s) | [Estrellas](https://open.spotify.com/album/1XciJ0ujHmZSljO19r4sjs) | 2:59 | 2022-04-01 | 2022-05-07 |
@@ -240,7 +241,7 @@
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-06-03 | 2022-07-02 |
 | [Fast Life](https://open.spotify.com/track/6qv2lBdSdFof7UY0FLQMvu) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Fast Life](https://open.spotify.com/album/5w5Qyq7m9ZpQPmoRPx0IkF) | 1:55 | 2022-02-04 | 2022-03-05 |
 | [Favorite Liar](https://open.spotify.com/track/2w8MNUWzvE2ri20qia3jEI) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Favorite Liar](https://open.spotify.com/album/7yJff2hlRQQbGBcwnqY2nG) | 3:19 | 2022-02-04 | 2022-03-05 |
-| [Favours](https://open.spotify.com/track/4r3KSUUR5ISWWCjr2wEdRL) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Favours](https://open.spotify.com/album/3LlT9oh79fCGZ4P93DhfGA) | 3:53 | 2022-05-06 |  |
+| [Favours](https://open.spotify.com/track/4r3KSUUR5ISWWCjr2wEdRL) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Favours](https://open.spotify.com/album/3LlT9oh79fCGZ4P93DhfGA) | 3:53 | 2022-05-06 | 2022-08-27 |
 | [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 | 2021-12-06 | 2022-01-08 |
 | [Feel Everything](https://open.spotify.com/track/3cXOJWxmfKenN3fvpRMhS6) | [Kennedy Rd.](https://open.spotify.com/artist/1ZtRTibAPAEbO8iydpyzWu) | [Waves Of Love Vol 2](https://open.spotify.com/album/0nF6Edna9j21yUmCqAHotI) | 4:03 | 2022-07-01 | 2022-08-06 |
 | [feeling](https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [feeling](https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W) | 3:06 | 2022-02-04 | 2022-03-05 |

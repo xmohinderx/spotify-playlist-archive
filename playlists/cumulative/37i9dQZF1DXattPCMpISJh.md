@@ -2,9 +2,9 @@
 
 ### [Nu\-Disco](https://open.spotify.com/playlist/37i9dQZF1DXattPCMpISJh)
 
-> A new take on a classic sound\. Cover: The Knocks
+> A new take on a classic sound\. Cover: Agnes
 
-103 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
+104 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cry \(Just A Little\)](https://open.spotify.com/track/4DtxGurCuuY1yZLoAXLxFp) | [Disko Junkie](https://open.spotify.com/artist/0E3yCtI9D8vUfIIWDOO7zP) | [Cry \(Just A Little\)](https://open.spotify.com/album/2p7PtQmmI95HyirutUbrDp) | 3:44 | 2022-03-18 |  |
 | [Crying on the Dance Floor](https://open.spotify.com/track/71j6BFw8ZUvgYolCXfjyRd) | [Jessy Jones](https://open.spotify.com/artist/0iMXHXPmYYWhfvjnNK42Kd) | [Crying on the Dance Floor](https://open.spotify.com/album/7pzEWRSHiJ6SZA8lviN99M) | 3:25 | 2021-07-09 |  |
 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:26 | 2022-03-18 |  |
-| [Dancing into the Stars \- Dave Lee Super Soulful Mix](https://open.spotify.com/track/4YStSwhggDOLlvU81OWW6c) | [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [Dancing into the Stars](https://open.spotify.com/album/0mazR8hdLu7cyFfg7tjatb) | 5:56 | 2021-08-20 |  |
+| [Dancing into the Stars \- Dave Lee Super Soulful Mix](https://open.spotify.com/track/4YStSwhggDOLlvU81OWW6c) | [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [Dancing into the Stars](https://open.spotify.com/album/0mazR8hdLu7cyFfg7tjatb) | 5:56 | 2021-08-20 | 2022-08-27 |
 | [Different Directions](https://open.spotify.com/track/30QM80woaoPtONO99xRyyw) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Different Directions](https://open.spotify.com/album/4VOq3YC6cWd1kULS0oKEKL) | 3:51 | 2022-07-15 | 2022-08-13 |
 | [Do I Do \- Radio Edit](https://open.spotify.com/track/0GzNOBgWu5468S9emhSFRv) | [Micky More & Andy Tee](https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN), [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [Do I Do \(Radio Edit\)](https://open.spotify.com/album/6mXfyALqYhNgAKKBIlgyY3) | 3:29 | 2022-05-20 |  |
 | [Don’t Kill The Groove](https://open.spotify.com/track/4yOVPMnul0AFigIUX0yZ22) | [The Mamas](https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ), [Loulou LaMotte](https://open.spotify.com/artist/6xEkTJqTsYdjbnj0MJeu3j) | [Don’t Kill The Groove](https://open.spotify.com/album/0PAKxjEAyFRqLj815CVUWU) | 2:55 | 2021-10-22 |  |
@@ -69,6 +69,7 @@
 | [Let Your Body Move](https://open.spotify.com/track/0yQ5KcZnBCrUycJ81ewF5F) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Let Your Body Move](https://open.spotify.com/album/3lqdJrVDVedT2dfnDWhxTG) | 4:02 | 2021-09-24 |  |
 | [Living the Fantasy \- Edit](https://open.spotify.com/track/1YpxUaqkz9YOscGXTjkd5i) | [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ) | [Living the Fantasy](https://open.spotify.com/album/3CcdvFekEwCCuFAuIF683D) | 4:42 | 2022-04-29 |  |
 | [Lost Tonight](https://open.spotify.com/track/7yz9JSRAHicHMCzXUT4OBq) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Danny Dearden](https://open.spotify.com/artist/52kE0a8ilvPQop3NN7tplj) | [Lost Tonight](https://open.spotify.com/album/40EL8JYJETe50ES1GN39Kp) | 2:51 | 2022-05-20 |  |
+| [Love And Appreciation \- Radio Edit](https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Love And Appreciation \(Radio Edit\)](https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558) | 3:08 | 2022-08-26 |  |
 | [My Only](https://open.spotify.com/track/69yyZiAS9G6MvS7cke8zMh) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [My Only](https://open.spotify.com/album/0dVEwkb9LU5hqtXVy7I0D8) | 3:06 | 2022-05-13 |  |
 | [Mystery of Love \- Le Flex "Summer Mystery" Remix](https://open.spotify.com/track/2nDXRRl54WDUU8iDzDRm4f) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Mystery of Love \(Le Flex "Summer Mystery" Remix\)](https://open.spotify.com/album/6LozhAvGkGm2TlWnXsng7w) | 4:13 | 2022-08-19 |  |
 | [Never Enough](https://open.spotify.com/track/3SPR0vmGBKczy7976CLTQ6) | [DSCOSTU](https://open.spotify.com/artist/4vg4AC4wgDKwGNV1xemLr1), [Victor Perry](https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE) | [Never Enough](https://open.spotify.com/album/5LcrQlu6U8Y55Sv7NWXJOo) | 3:28 | 2022-05-06 |  |

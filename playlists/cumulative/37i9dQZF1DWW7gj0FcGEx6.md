@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-169 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+170 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [We Will Heal](https://open.spotify.com/track/0602EuPn3xAfSaX0Mz2IAE) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [She Will \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42OuXan0cgtOZsYZlFSXD5) | 3:27 | 2022-07-15 |  |
 | [Wedding Day](https://open.spotify.com/track/6FdZa2ipXEDOd6Hw3wE3r6) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Windfall \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/69e7XDQqWy86rMvK7dkBi1) | 2:02 | 2022-06-10 |  |
 | [Wicked Games](https://open.spotify.com/track/0FXSdzre3I9GaBB444umzh) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Wicked Games \(From Westworld: Season 3\)](https://open.spotify.com/album/1raeE4103hULnR9XjAUhzF) | 5:31 | 2021-12-20 | 2022-07-09 |
+| [Wrap Up](https://open.spotify.com/track/4jHpdfiSeaiE4n3ef9fVay) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Star Trek: Discovery \(Season 4\) \[Original Series Soundtrack\]](https://open.spotify.com/album/5XleeeAeYOAQV1bLKDnNQl) | 4:29 | 2022-08-26 |  |
 | [Xu Shang\-Chi](https://open.spotify.com/track/0U1X5zc0wvbT6C3YQEpK0q) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 2:55 | 2021-12-20 |  |
 | [Your Honor Opening](https://open.spotify.com/track/5XwhO05dtGJCbzJnhhP0Vq) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Your Honor: Season 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/138ukXcsF1KxtzaEwlVkoK) | 3:09 | 2021-12-20 |  |
 

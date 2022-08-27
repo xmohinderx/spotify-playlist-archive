@@ -17934,6 +17934,24 @@
     },
     {
       "album": {
+        "name": "Wasteman",
+        "url": "https://open.spotify.com/album/3HqUZzoYFbodugmeZhZuGt"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208281,
+      "name": "Wasteman",
+      "url": "https://open.spotify.com/track/6ZsWzKhxbkqwTqt72z1Lfi"
+    },
+    {
+      "album": {
         "name": "Watching You Disappear",
         "url": "https://open.spotify.com/album/00GvccCzssnxgeitqcLY2H"
       },

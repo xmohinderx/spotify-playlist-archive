@@ -1,13 +1,29 @@
 {
   "description": "consider this an RSVP to littest wedding parties ",
-  "num_followers": 587,
+  "num_followers": 594,
   "original_name": "Small Chops ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MzYwMCwwMDAwMDAwMGE4ZjQ4YTdjODliM2M0NjJkMjZlNDg1ZDViNjYxYjVh",
+  "snapshot_id": "MTY2MTUwNjIwMCwwMDAwMDAwMGQwOWM4MmQ0MWJlZWIwYTM1ZTRmYzY5NmRmN2UyMDVl",
   "tracks": [
+    {
+      "added_at": "2022-08-26 09:30:00",
+      "album": {
+        "name": "The Brother's Keeper",
+        "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
+      },
+      "artists": [
+        {
+          "name": "chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/0Bmw1fmFi01PvyIKT0akqt"
+    },
     {
       "added_at": "2022-08-18 23:00:00",
       "album": {

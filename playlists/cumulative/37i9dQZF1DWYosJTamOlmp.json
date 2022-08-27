@@ -626,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Ozomatli's Return, Pt. 1",
+        "url": "https://open.spotify.com/album/2cZM4pRGLs2lG5wTQskeAO"
+      },
+      "artists": [
+        {
+          "name": "The House Crew",
+          "url": "https://open.spotify.com/artist/4pApMs2qTlqTGwdHEJVeS4"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393619,
+      "name": "Keep The Fire Burning - Original",
+      "url": "https://open.spotify.com/track/0tehiE4ZCkJKyFN7iuAt8L"
+    },
+    {
+      "album": {
         "name": "Techno Party",
         "url": "https://open.spotify.com/album/2DSwIAQeu4bwSSgSplcFCW"
       },
@@ -637,7 +655,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 391106,
       "name": "Keep The Fire Burning - Original 12-Inch Versions",
       "url": "https://open.spotify.com/track/0nOqKydHOJHPGm3zd2SAej"

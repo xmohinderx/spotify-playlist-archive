@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-996 songs - 2 day 5 hr 55 min - [published](https://open.spotify.com/playlist/1Sy32iFBBMqMOiw8A7cPe3)
+997 songs - 2 day 5 hr 57 min - [published](https://open.spotify.com/playlist/1Sy32iFBBMqMOiw8A7cPe3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-31 |
 | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d) | 4:10 | 2022-02-19 | 2022-02-21 |
 | [Bad Liar](https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 4:20 | 2022-06-02 | 2022-06-06 |
+| [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2022-08-26 |  |
 | [Balle Baložos](https://open.spotify.com/track/1XIIlQJN0acfB45WvtWhTL) | [Jātnieki](https://open.spotify.com/artist/55aGTUHlkuaXPBsCwCSGaY) | [Dziesmu krūze \#1](https://open.spotify.com/album/1EeRZ9rQCFIU4UIbw5xRLQ) | 3:12 | 2021-06-25 | 2022-06-27 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-12 | 2022-04-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-07-18 |
@@ -600,7 +601,7 @@
 | [p u n c h i n ‘ \. t h e \. c l o c k](https://open.spotify.com/track/57ZUX6TNyKLBydAdVVd02x) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 1:52 | 2021-05-16 | 2021-05-18 |
 | [PABLO](https://open.spotify.com/track/6g2r8GK0vQz2xHBeMeBJth) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 1:53 | 2021-05-23 | 2021-05-26 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-09 |
-| [Papīra Lidmašīnas](https://open.spotify.com/track/4dkkfvKI61ONOTONUtmTOV) | [Prāta Vētra](https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy), [ansis](https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry) | [Gads Bez Kalendāra](https://open.spotify.com/album/11ENs0gcerHrD5Yp9Pi6qy) | 3:48 | 2021-10-31 |  |
+| [Papīra Lidmašīnas](https://open.spotify.com/track/4dkkfvKI61ONOTONUtmTOV) | [Prāta Vētra](https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy), [ansis](https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry) | [Gads Bez Kalendāra](https://open.spotify.com/album/11ENs0gcerHrD5Yp9Pi6qy) | 3:48 | 2021-10-31 | 2022-08-27 |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2021-03-27\* | 2021-07-20 |
 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 | 2021-04-13 | 2021-04-14 |
 | [Pasaule, Pasaulīt](https://open.spotify.com/track/2U900i1BYoj9WI6Nrqdz2c) | [Eolika](https://open.spotify.com/artist/7ibABXkd3udA7QNPrSSWnL) | [Kolekcija](https://open.spotify.com/album/3lCPCBjs07DQYj7qbLdjIj) | 3:24 | 2022-06-24 | 2022-06-27 |

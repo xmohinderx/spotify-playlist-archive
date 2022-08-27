@@ -4,7 +4,7 @@
 
 > On se retrouve au parc?
 
-111 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+112 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [La valse des trottoirs](https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages](https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp) | 2:37 | 2022-06-24 |  |
 | [LA.BELLE.JOURNÉE 1971](https://open.spotify.com/track/0jcmvJs02muGldvkNrkejV) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [A.M.I.E.S.A.M.O.U.R](https://open.spotify.com/album/4qwd82AW4N0n7ijigpNTmX) | 5:05 | 2022-06-24 |  |
 | [Le Jeune](https://open.spotify.com/track/6amKBSZGfDYxNbL2ByRnir) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Le Jeune](https://open.spotify.com/album/6f0YgX8Oec0sTVluzFCT9C) | 3:59 | 2022-06-24 |  |
+| [Le matin](https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le matin](https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM) | 2:48 | 2022-08-26 |  |
 | [LEAVE ME ALONE](https://open.spotify.com/track/3Q6VLMdtYAYRaCXfYUvhyR) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [99.9%](https://open.spotify.com/album/6ICXg5mVxz9S7B8Y9rrHG9) | 4:37 | 2022-06-24 | 2022-07-29 |
 | [LEAVE ME ALONE](https://open.spotify.com/track/4yYJUgayu4jKB258dukWaF) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:37 | 2022-07-16 |  |
 | [Les amants de Pompéi](https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:49 | 2022-06-24 |  |
@@ -90,7 +91,7 @@
 | [Permis b bébé](https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:09 | 2022-06-24 |  |
 | [Peur des filles](https://open.spotify.com/track/00mO8JKk2wQ7VqdPcY1r4O) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo](https://open.spotify.com/album/7gE23KRzNbXeB6nZmQVqa3) | 3:28 | 2022-06-24 |  |
 | [Photo souvenir](https://open.spotify.com/track/0ySd5x9f74pco3ZWReyYKw) | [Titelaine](https://open.spotify.com/artist/4nOSClD4ihq1iOVNShATHR) | [On veut vivre notre vie en vacances](https://open.spotify.com/album/0RIXCgC8ug9TLuvfeyVUXY) | 3:11 | 2022-06-24 | 2022-07-17 |
-| [PLS \- sunset version](https://open.spotify.com/track/4lJEaKy001HuFKCwQYqK6S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [SEUM](https://open.spotify.com/album/33CZjzTw0EWuESPByXMyJL) | 3:28 | 2022-06-24 |  |
+| [PLS \- sunset version](https://open.spotify.com/track/4lJEaKy001HuFKCwQYqK6S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [SEUM](https://open.spotify.com/album/33CZjzTw0EWuESPByXMyJL) | 3:28 | 2022-06-24 | 2022-08-27 |
 | [Point sensible](https://open.spotify.com/track/0YmYBHDSRT2rr5uvnDWPWg) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF), [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Troie](https://open.spotify.com/album/2qVuFxNnL4daaUtPZLnVtG) | 2:25 | 2022-06-24 |  |
 | [Potager \- Mmmmmathias Remix](https://open.spotify.com/track/4C5C9qLtRZKfM9if5c0l8V) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8), [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Mmmmmathias](https://open.spotify.com/artist/6sturD2FFaJwfstxm4u59X) | [Potager \(Mmmmmathias Remix\)](https://open.spotify.com/album/09FYKTqO9IU41osm552L5z) | 3:37 | 2022-06-24 |  |
 | [Que Onda](https://open.spotify.com/track/2tgo5F4FRSJfcVP3nGxaWO) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Que Onda](https://open.spotify.com/album/23o8t7odvfUsY9J9Ru6dB7) | 2:39 | 2022-06-24 |  |

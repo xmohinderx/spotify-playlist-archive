@@ -1243,6 +1243,10 @@
       },
       "artists": [
         {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
           "name": "Besomage",
           "url": "https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q"
         },
@@ -2571,6 +2575,28 @@
       "duration_ms": 173313,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
+    },
+    {
+      "album": {
+        "name": "Finally (paradise)",
+        "url": "https://open.spotify.com/album/4iYq4ofLc3TyHbGUL7BPQI"
+      },
+      "artists": [
+        {
+          "name": "Jodapac",
+          "url": "https://open.spotify.com/artist/1bA1Ys4ZfPhPfZ5gik0S5C"
+        },
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185066,
+      "name": "Finally (paradise)",
+      "url": "https://open.spotify.com/track/1G8XxpaGAvKMhxamZWBM9q"
     },
     {
       "album": {

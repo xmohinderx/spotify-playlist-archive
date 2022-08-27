@@ -2,7 +2,7 @@
 
 ### [Al Tiro](https://open.spotify.com/playlist/37i9dQZF1DXdDoYRQ4LfQJ)
 
-> The hottest corridos in the US! Bien Al Tiro con Junior H y Grupo Marca Registrada.
+> The hottest corridos in the US! Bien Al Tiro con Edgardo Nuñez y Fuerza Regida.
 
 174 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/4NUSWCdJAi5DEcSry3A1Ae)
 

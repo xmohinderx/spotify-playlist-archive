@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,384,580 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385,074 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [Kochi](https://open.spotify.com/track/3qda6E8ABSxAXfyxQtdtwF) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Kochi EP](https://open.spotify.com/album/0g8ukB0hRj9nW6bfJUUdfd) | 4:49 |
 | 100 | [Sleepless Nights](https://open.spotify.com/track/7hVkwBCfwGJ442dBh1G5Dv) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [Consequence of Society, Vol\. X](https://open.spotify.com/album/0b2KSA5ptsss2PgbElI69k) | 7:17 |
 
-Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDI2MjM4ZDM0YWY5OWVhMjgzODcxZTlmMGEzNzIwZDMy`
+Snapshot ID: `MTY2MTUyMDQ2NiwwMDAwMDAwMDJjMTQwMDI3YmZhYWQyNmE1Y2Q5YTkwMTJiMTNlYmYx`

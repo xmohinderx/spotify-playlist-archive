@@ -4,12 +4,13 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Alok
 
-86 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
+87 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't No Sunshine \(feat\. Jasmine Pace\)](https://open.spotify.com/track/3jKE64Lzp4fn9ZD28Z1dBc) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasmine Pace](https://open.spotify.com/artist/2URbjDB65sEN3MPX3e5tCy) | [Ain't No Sunshine \(feat\. Jasmine Pace\)](https://open.spotify.com/album/6EoWcArWFprS0ORf4oixfd) | 2:47 | 2021-12-24 | 2022-07-09 |
 | [All I Wonder](https://open.spotify.com/track/1eFE7mambCS0dUNz688ceT) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [CONTROVERSIA by Alok Vol\. 001](https://open.spotify.com/album/3q2KUJa8PNaSpO4Ma0lHW7) | 4:19 | 2021-12-24 | 2022-08-06 |
+| [Always Feel Like](https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Always Feel Like](https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1) | 3:01 | 2022-08-26 |  |
 | [Another You \(feat\. The Vamps\)](https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [BLOODLINE](https://open.spotify.com/artist/2XIjSIUqsAXWJbMrVykTZ3), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Another You \(feat\. The Vamps\)](https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV) | 2:38 | 2021-12-24 | 2022-03-05 |
 | [Anybody Else](https://open.spotify.com/track/4NbmxDHT22uG720SQjjJKf) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2) | [Anybody Else](https://open.spotify.com/album/3hF7QdLRT9vOxXKBgBriMF) | 2:56 | 2021-12-24 |  |
 | [ARPT](https://open.spotify.com/track/3obLSyxtsr0R5hGISMPwFd) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [ARPT](https://open.spotify.com/album/1nEOMBQLIp1YgBR3i9eyJP) | 3:15 | 2021-12-24 |  |
@@ -92,7 +93,7 @@
 | [This Feeling](https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe) | 3:16 | 2022-04-22 |  |
 | [Time \- Sevek Remix](https://open.spotify.com/track/5grzVCT8ZFzWGBLZQs5dkH) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Time \(Sevek Remix\)](https://open.spotify.com/album/58AZcrMLTjgrsHrTByNX5L) | 2:25 | 2022-07-01 |  |
 | [With You](https://open.spotify.com/track/3hx2GGk4lwbOislq85AE0q) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee) | [With You](https://open.spotify.com/album/68josQsaxs9CCBsoEpmOo4) | 4:13 | 2021-12-24 | 2022-05-07 |
-| [Worst Enemy](https://open.spotify.com/track/3N3H2fNepRQVf71lnWqJ8I) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Worst Enemy](https://open.spotify.com/album/4rhbowsSXfV2wH3vRau1RQ) | 2:44 | 2021-12-24 |  |
+| [Worst Enemy](https://open.spotify.com/track/3N3H2fNepRQVf71lnWqJ8I) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Worst Enemy](https://open.spotify.com/album/4rhbowsSXfV2wH3vRau1RQ) | 2:44 | 2021-12-24 | 2022-08-27 |
 | [Would You Blame Me](https://open.spotify.com/track/7hCIfAq7QL06nKnoeugoxl) | [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Would You Blame Me](https://open.spotify.com/album/7MsdbOGBxd8Lahj0oh6yvS) | 3:44 | 2022-03-18 |  |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

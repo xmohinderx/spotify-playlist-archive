@@ -1228,6 +1228,24 @@
     },
     {
       "album": {
+        "name": "Round Here (Live From Joe's Bar, Chicago / 2012)",
+        "url": "https://open.spotify.com/album/0D83bO5GmEHbFkmVVWPhYV"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244906,
+      "name": "Round Here - Live From Joe's Bar, Chicago / 2012",
+      "url": "https://open.spotify.com/track/40NEsJv5x0HsxDrvvxLwvc"
+    },
+    {
+      "album": {
         "name": "Live At The Ryman",
         "url": "https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi"
       },

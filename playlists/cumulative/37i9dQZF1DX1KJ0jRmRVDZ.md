@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-419 songs - 1 day 0 hr 6 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+420 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [INAZMA](https://open.spotify.com/track/3POLsjox8STfaKN7p1no44) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [INAZMA](https://open.spotify.com/album/6ahRrIWu33oElg0xP5Umsb) | 3:31 | 2022-06-13 | 2022-07-10 |
 | [Iranaiyo](https://open.spotify.com/track/2PKkqRTNxb7G9I7qGmsKkk) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Iranaiyo](https://open.spotify.com/album/2D7UMajfJXb0iy9hx6ktiJ) | 2:46 | 2022-07-28 | 2022-08-05 |
 | [ivy \- 案山子 Remix](https://open.spotify.com/track/054igXu6lULCOituDaKYtw) | [心悠](https://open.spotify.com/artist/3w2emKs367tVZRrVZzgqRZ), [案山子](https://open.spotify.com/artist/13kzWMPtOOXvXujXHbpjVj) | [ivy \(Remixes\)](https://open.spotify.com/album/6wjbKxlxsTSaHnRxweDQUf) | 3:35 | 2022-06-14 | 2022-06-22 |
+| [Kakureinnkya](https://open.spotify.com/track/24cDuwLAerdswc0obvMw58) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [Kakureinnkya](https://open.spotify.com/album/5Cq5KfoJnsISILpjQ09rwy) | 3:19 | 2022-08-25 |  |
 | [kitto kawaranai iro](https://open.spotify.com/track/2BWG6OHVB0zuky2mN3SOfn) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [kitto kawaranai iro](https://open.spotify.com/album/5A6H1IuZkDPdEl2bed6nDL) | 3:43 | 2022-06-23 | 2022-07-18 |
 | [Knickknack Kingdom](https://open.spotify.com/track/0ODFEhCNOo6XmAjpJrALAw) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Knickknack Kingdom](https://open.spotify.com/album/5hOcnt10bv1Qmy8sG7YzFn) | 3:00 | 2022-07-07 | 2022-07-27 |
 | [Koe Todoita Hikara](https://open.spotify.com/track/3q6G4DEStAQWFsEnwzNdw9) | [Harutya](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [Koe Todoita Hikara](https://open.spotify.com/album/5ZNzXtCuL3OxwisiApGPWt) | 4:32 | 2022-08-18 |  |
@@ -416,7 +417,7 @@
 | [鏡よ鏡](https://open.spotify.com/track/5lVo2vV7jtO80HFQ8UcjBJ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [鏡よ鏡](https://open.spotify.com/album/5x5UhyjIHJCpzRaz1RIKWK) | 3:30 | 2022-07-26 | 2022-07-28 |
 | [阿修羅ちゃん](https://open.spotify.com/track/0cN6iBeCR7NgeBeTIKjLml) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:15 | 2022-07-07 |  |
 | [陽炎と泡沫](https://open.spotify.com/track/6WcinHEF9Mft0ZUyVhsHEf) | [anone](https://open.spotify.com/artist/5MexCyFroTJh3EjjLopoOZ) | [陽炎と泡沫](https://open.spotify.com/album/4tIlfkOCzDmWoAeoohznII) | 4:31 | 2022-07-07 | 2022-07-10 |
-| [隠レ陰キャ](https://open.spotify.com/track/6TVfk4NF1s8qtzZmxKYy1u) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [隠レ陰キャ](https://open.spotify.com/album/57UsjjB2rPvK8xcHaqU1CT) | 3:19 | 2022-08-25 |  |
+| [隠レ陰キャ](https://open.spotify.com/track/6TVfk4NF1s8qtzZmxKYy1u) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [隠レ陰キャ](https://open.spotify.com/album/57UsjjB2rPvK8xcHaqU1CT) | 3:19 | 2022-08-25 | 2022-08-27 |
 | [隣り合わせ](https://open.spotify.com/track/3RHIKHMe9J6gRQchBAE7WM) | [ねんね](https://open.spotify.com/artist/6N4L6jhhiQKd4ZPWKxbXFL) | [隣り合わせ](https://open.spotify.com/album/05cZ2A7Ka0kmloTmZvAL9k) | 4:12 | 2022-06-09 | 2022-06-14 |
 | [雨上がり、夏の距離。](https://open.spotify.com/track/4wiUu0ZdNiH3BsxGTaKVbt) | [すいそうぐらし](https://open.spotify.com/artist/6jkFpm0ACKBzgIfqPrPXdm) | [雨上がり、夏の距離。](https://open.spotify.com/album/4114dCFOlAQ1URzSoWLhN1) | 3:24 | 2022-06-16 | 2022-07-28 |
 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-06-09 | 2022-07-09 |

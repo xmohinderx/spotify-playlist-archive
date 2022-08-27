@@ -1,32 +1,52 @@
 {
-  "description": "Sing Me a Lullaby, My Sweet Temptation, the latest album by the $uicideboy$. ",
-  "num_followers": 260957,
+  "description": "New CORPSE ft. Scarlxrd & Kordhell",
+  "num_followers": 262606,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTEwMTQyMiwwMDAwMDAwMDhmMzRiZDViODVkMjg3NTA3NmY4NTk4ZDgxMGVlMTk1",
+  "snapshot_id": "MTY2MTUyMjE4OSwwMDAwMDAwMDI3OTg5OGFkNzg1NTYyMjI2MDRjNmYzNmE0MjhlNWNh",
   "tracks": [
     {
-      "added_at": "2022-08-12 05:09:00",
+      "added_at": "2022-08-26 05:34:00",
       "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+        "name": "MISA MISA!",
+        "url": "https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 85894,
+      "name": "MISA MISA!",
+      "url": "https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw"
+    },
+    {
+      "added_at": "2022-07-29 04:15:00",
+      "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE"
       },
       "artists": [
         {
           "name": "Freddie Dredd",
           "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        },
-        {
-          "name": "prodby668",
-          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
         }
       ],
-      "duration_ms": 108013,
-      "name": "Want (feat. prodby668)",
-      "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
+      "duration_ms": 113553,
+      "name": "Wrath",
+      "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
     },
     {
       "added_at": "2022-08-12 05:09:00",
@@ -189,6 +209,42 @@
       "url": "https://open.spotify.com/track/041sluNZwBxTCOuu766eNi"
     },
     {
+      "added_at": "2022-08-12 05:09:00",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "duration_ms": 108013,
+      "name": "Want (feat. prodby668)",
+      "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
+    },
+    {
+      "added_at": "2022-08-26 05:34:00",
+      "album": {
+        "name": "LXVE TXWN",
+        "url": "https://open.spotify.com/album/04FHXUjQJckGhzOiPGZHlm"
+      },
+      "artists": [
+        {
+          "name": "CYPARISS",
+          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "LXVE TXWN",
+      "url": "https://open.spotify.com/track/1pCDWUyukLwNnDtKuDKk7j"
+    },
+    {
       "added_at": "2022-08-19 15:47:57",
       "album": {
         "name": "BULLET",
@@ -257,6 +313,34 @@
       "url": "https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp"
     },
     {
+      "added_at": "2022-08-26 05:34:00",
+      "album": {
+        "name": "KILL EM BODY",
+        "url": "https://open.spotify.com/album/1nuHNtS3tt47GoMJqy9LL6"
+      },
+      "artists": [
+        {
+          "name": "NIKKO",
+          "url": "https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC"
+        },
+        {
+          "name": "Daegho",
+          "url": "https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS"
+        },
+        {
+          "name": "MVRTYR",
+          "url": "https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ"
+        },
+        {
+          "name": "Xelishurt",
+          "url": "https://open.spotify.com/artist/3BXu6pDheQBfSmlIOkvGqz"
+        }
+      ],
+      "duration_ms": 228006,
+      "name": "KILL EM BODY",
+      "url": "https://open.spotify.com/track/7oIqB7dY8LY9hG08UPe1Qm"
+    },
+    {
       "added_at": "2022-07-29 04:15:00",
       "album": {
         "name": "Antarctica",
@@ -303,22 +387,6 @@
       "duration_ms": 95483,
       "name": "Break Shit",
       "url": "https://open.spotify.com/track/46PndWC5iW7JpdmaY2Jswq"
-    },
-    {
-      "added_at": "2022-07-29 04:15:00",
-      "album": {
-        "name": "Wrath",
-        "url": "https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 113553,
-      "name": "Wrath",
-      "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
     },
     {
       "added_at": "2022-07-29 04:15:00",
@@ -391,6 +459,50 @@
       "duration_ms": 171680,
       "name": "Kick Rocks (feat. Lil Darkie)",
       "url": "https://open.spotify.com/track/3E6coZX2cGtJVVfC3qeDwQ"
+    },
+    {
+      "added_at": "2022-08-26 05:34:00",
+      "album": {
+        "name": "DESERT STORM",
+        "url": "https://open.spotify.com/album/75KpUBu2QuWpHFMvzAp8iE"
+      },
+      "artists": [
+        {
+          "name": "Mexelio",
+          "url": "https://open.spotify.com/artist/5yR8KXW7sRjSHOp0XnFT0U"
+        },
+        {
+          "name": "AntXres",
+          "url": "https://open.spotify.com/artist/7v9CZIFskqQfiHrQbI8B3z"
+        },
+        {
+          "name": "SAOTOMAMORE",
+          "url": "https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM"
+        },
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "DESERT STORM",
+      "url": "https://open.spotify.com/track/5VJRDNBmIQdggjfz1RXQPC"
+    },
+    {
+      "added_at": "2022-08-26 05:34:00",
+      "album": {
+        "name": "Kayako",
+        "url": "https://open.spotify.com/album/6a4Jm2VxAAj5EPLzb7TFmf"
+      },
+      "artists": [
+        {
+          "name": "Numb$kull",
+          "url": "https://open.spotify.com/artist/7wQoo6BKPCAnSZRgE3qjp2"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Kayako",
+      "url": "https://open.spotify.com/track/7k3muSX9HBE63Vi1yZtLiC"
     },
     {
       "added_at": "2022-07-29 04:15:00",
@@ -511,6 +623,42 @@
       "duration_ms": 115849,
       "name": "PENDULUM",
       "url": "https://open.spotify.com/track/0HcnpTfok7xFG9l0BtW2r8"
+    },
+    {
+      "added_at": "2022-08-26 05:34:00",
+      "album": {
+        "name": "Dorohedorohe Drip",
+        "url": "https://open.spotify.com/album/1Uge5Im3luXyVeBvWUeEqW"
+      },
+      "artists": [
+        {
+          "name": "Faceless 1-7",
+          "url": "https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV"
+        },
+        {
+          "name": "TrippyThaKid",
+          "url": "https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz"
+        }
+      ],
+      "duration_ms": 126980,
+      "name": "Dorohedorohe Drip",
+      "url": "https://open.spotify.com/track/2lcRTWOwCNffdwCs8zEDo7"
+    },
+    {
+      "added_at": "2022-08-26 05:34:00",
+      "album": {
+        "name": "WICKED RITUALS",
+        "url": "https://open.spotify.com/album/2khD8vCEaCE0nX2NGz24wq"
+      },
+      "artists": [
+        {
+          "name": "TUNDRAMANE",
+          "url": "https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "WICKED RITUALS",
+      "url": "https://open.spotify.com/track/38l1bPo0NG2i5ABgNyeqT4"
     },
     {
       "added_at": "2022-07-29 04:15:00",
@@ -1383,22 +1531,6 @@
       "duration_ms": 141183,
       "name": "On The Weekends I Feel Like Drake - Studio Version",
       "url": "https://open.spotify.com/track/5HZ7CYcuQeQfwZ5vNve4Cg"
-    },
-    {
-      "added_at": "2022-07-29 04:15:00",
-      "album": {
-        "name": "LOOK BACK.",
-        "url": "https://open.spotify.com/album/2z7gaV2FLPkpj1GRRdRxSs"
-      },
-      "artists": [
-        {
-          "name": "SPIIRAL",
-          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "LOOK BACK.",
-      "url": "https://open.spotify.com/track/6LcmaUtUnGlVgGdFpCs01n"
     }
   ],
   "unique_name": "Tirade",

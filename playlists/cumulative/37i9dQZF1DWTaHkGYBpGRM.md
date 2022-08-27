@@ -4,7 +4,7 @@
 
 > Long distance is hard, but true love knows no boundaries.
 
-89 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/4ITWUe9tguZr37ZcyB09uq)
+90 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/4ITWUe9tguZr37ZcyB09uq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [See You Again](https://open.spotify.com/track/7gEIEG5i3oKLKRKBuvengF) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:26 | 2021-01-25 |  |
 | [See You Soon](https://open.spotify.com/track/1uKzAldJYlwje9HstlwTie) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [The Blue Room](https://open.spotify.com/album/3MVb2CWB36x7VwYo5sZmf2) | 2:51 | 2021-01-25 |  |
 | [Set The Fire To The Third Bar](https://open.spotify.com/track/2PQb0GbjqxVobQPaPuBg8x) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Up To Now](https://open.spotify.com/album/1IN1tRZL4wr52v3iZBz4Qb) | 3:22 | 2021-01-25 | 2022-07-29 |
-| [Set The Fire To The Third Bar](https://open.spotify.com/track/4kg5hAOumbLtNSg6J8aq8e) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 3:23 | 2021-01-25 |  |
+| [Set The Fire To The Third Bar](https://open.spotify.com/track/4kg5hAOumbLtNSg6J8aq8e) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 3:23 | 2021-01-25 | 2022-08-27 |
+| [Set The Fire To The Third Bar](https://open.spotify.com/track/5g0afUZsh5hiXBOT3eXuwd) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 3:23 | 2021-01-25 |  |
 | [So Soon](https://open.spotify.com/track/5bILhEJrVsV9SSyepmT1I4) | [The Graves](https://open.spotify.com/artist/1qQyOBGe2g114PNzK8xfiP) | [The Graves](https://open.spotify.com/album/0yIr2isTFFsqbHVx8D0nTA) | 3:30 | 2021-01-25 |  |
 | [Someday](https://open.spotify.com/track/1lFX2mAX3bi565hVZf0aqy) | [Bryan Greenberg](https://open.spotify.com/artist/2s7yDhxYxmB8aq5Skh3oTG) | [Waiting for Now](https://open.spotify.com/album/0dRaf3SWHcHmSy004vzPTp) | 4:06 | 2021-01-25 |  |
 | [Stay](https://open.spotify.com/track/24xqELXbmKDFLKkR3271jb) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Once Upon Another Time](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) | 4:22 | 2021-01-25 |  |

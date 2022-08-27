@@ -1,13 +1,29 @@
 {
   "description": "New music breaking waves.  Cover: Amindi",
-  "num_followers": 18051,
+  "num_followers": 18095,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg5MTM5MywwMDAwMDAwMGZiOWVmMGVhNzk3ZjBhMTQ2ZWJmOTM1N2YxN2QwNDli",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMGY4ZGMxODg3MTRjMDE3MzNlYjI5OWQ1MDg3ZGFjNTNm",
   "tracks": [
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 160154,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU"
+    },
     {
       "added_at": "2022-08-19 06:43:13",
       "album": {
@@ -27,6 +43,22 @@
       "duration_ms": 161107,
       "name": "QuikkSkope (feat. DC The Don)",
       "url": "https://open.spotify.com/track/5Kvs2iitHuGu1PCaJESZJS"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Good Movie",
+        "url": "https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB"
+      },
+      "artists": [
+        {
+          "name": "Pi\u2019erre Bourne",
+          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+        }
+      ],
+      "duration_ms": 185140,
+      "name": "Good Movie",
+      "url": "https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS"
     },
     {
       "added_at": "2022-08-05 06:20:49",
@@ -67,6 +99,22 @@
       "duration_ms": 123636,
       "name": "AVENTADOR",
       "url": "https://open.spotify.com/track/2NhVY8tOBvbQRCLvBXFrUJ"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "ME FIRST - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4xULzJV1dGpBSFI2au8Fdg"
+      },
+      "artists": [
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "ME FIRST - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/27r0boXgMC64byb513mJNu"
     },
     {
       "added_at": "2022-08-19 06:43:13",
@@ -115,6 +163,22 @@
       "duration_ms": 180983,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/1MqcGz8uF79zpVcH75JH19"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "duration_ms": 177396,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/1OcnAp6rB3ZbQbXw1ncAI3"
     },
     {
       "added_at": "2022-08-12 07:04:57",
@@ -781,22 +845,6 @@
       "url": "https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0"
     },
     {
-      "added_at": "2022-05-20 08:09:06",
-      "album": {
-        "name": "Xtasy",
-        "url": "https://open.spotify.com/album/4zH7FPMFwa1Q1D1e9ZP3lV"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Xtasy",
-      "url": "https://open.spotify.com/track/7yJ1KekatthELLQTE1VRc7"
-    },
-    {
       "added_at": "2022-05-12 20:54:23",
       "album": {
         "name": "Tip Toe",
@@ -811,74 +859,6 @@
       "duration_ms": 105926,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/5gHZrIUjZ6eniUIrySkv6Y"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "The God Hour",
-        "url": "https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6"
-      },
-      "artists": [
-        {
-          "name": "A$AP ANT",
-          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "The God Hour",
-      "url": "https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC"
-    },
-    {
-      "added_at": "2021-12-01 18:01:35",
-      "album": {
-        "name": "Sim Simma",
-        "url": "https://open.spotify.com/album/4y1JexJuRC9hzT2SHCYscg"
-      },
-      "artists": [
-        {
-          "name": "Luke Bar$",
-          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Sim Simma",
-      "url": "https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Set It Up",
-        "url": "https://open.spotify.com/album/1e3u8uTl5quNGWVIbpD9aF"
-      },
-      "artists": [
-        {
-          "name": "Pote Baby",
-          "url": "https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj"
-        }
-      ],
-      "duration_ms": 217635,
-      "name": "Set It Up",
-      "url": "https://open.spotify.com/track/1k9bp6yzlRTOwqB4JB7RFF"
-    },
-    {
-      "added_at": "2022-05-12 20:54:23",
-      "album": {
-        "name": "B4BMG: The Experience",
-        "url": "https://open.spotify.com/album/1EeapC8eRWGPZkfPJrvPSs"
-      },
-      "artists": [
-        {
-          "name": "TyFontaine",
-          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "Keep IT Real",
-      "url": "https://open.spotify.com/track/59VL7G69EtYe2LFJRhkfKr"
     }
   ],
   "unique_name": "Ripple Effect",

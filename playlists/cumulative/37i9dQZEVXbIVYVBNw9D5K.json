@@ -1691,7 +1691,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 204320,
       "name": "Bir Derdim Var",
       "url": "https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f"
@@ -7397,7 +7397,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 137624,
       "name": "Rastgele",
       "url": "https://open.spotify.com/track/0RAhUWTiBlDeSSRMmL35Aq"
@@ -8255,7 +8255,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 234820,
       "name": "SUBARU",
       "url": "https://open.spotify.com/track/5uO0itXWyTWla5UgoOPZkZ"
@@ -8555,6 +8555,24 @@
       "duration_ms": 185458,
       "name": "Umrumda De\u011fil",
       "url": "https://open.spotify.com/track/72t3CRd8YEFrlc3x0OVaob"
+    },
+    {
+      "album": {
+        "name": "Unutmak \u00d6yle Kolay M\u0131 Sand\u0131n",
+        "url": "https://open.spotify.com/album/1aa3sNKu8ulpGRTBVl2ck2"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144864,
+      "name": "Unutmak \u00d6yle Kolay M\u0131 Sand\u0131n",
+      "url": "https://open.spotify.com/track/2Pe8d9oClBgLkkz2N35AiN"
     },
     {
       "album": {

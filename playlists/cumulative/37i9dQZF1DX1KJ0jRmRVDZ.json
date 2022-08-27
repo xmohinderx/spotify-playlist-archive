@@ -1070,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "Kakureinnkya",
+        "url": "https://open.spotify.com/album/5Cq5KfoJnsISILpjQ09rwy"
+      },
+      "artists": [
+        {
+          "name": "\u7d42\u96fb\u9593\u969b\u2266\u30aa\u30f3\u30e9\u30a4\u30f3\u3002",
+          "url": "https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199821,
+      "name": "Kakureinnkya",
+      "url": "https://open.spotify.com/track/24cDuwLAerdswc0obvMw58"
+    },
+    {
+      "album": {
         "name": "kitto kawaranai iro",
         "url": "https://open.spotify.com/album/5A6H1IuZkDPdEl2bed6nDL"
       },
@@ -7807,7 +7825,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 199821,
       "name": "\u96a0\u30ec\u9670\u30ad\u30e3",
       "url": "https://open.spotify.com/track/6TVfk4NF1s8qtzZmxKYy1u"

@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Phạm Nguyên Ngọc; thiết kế: Isu Kim
 
-519 songs - 1 day 6 hr 13 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+520 songs - 1 day 6 hr 18 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [girl hai huoc nhung tim day vet xuoc](https://open.spotify.com/track/1yhdiXXiBDHj4M4W1qzXgE) | [Saabirose](https://open.spotify.com/artist/3IMLi0C3EgNuwDiksTxiS5) | [girl hai huoc nhung tim day vet xuoc](https://open.spotify.com/album/2rlxhUVYeGtcxxUVjd0TUo) | 3:12 | 2022-04-14 | 2022-06-19 |
 | [Giá Như](https://open.spotify.com/track/3HwSJHkGA7hWyI8U3hj2xX) | [Traang](https://open.spotify.com/artist/2OTl1gQWIVgQTBm0v6Ut51) | [Giá như](https://open.spotify.com/album/5tQRRKuEHn3kbNoB6PwQQE) | 3:56 | 2022-03-02 | 2022-04-04 |
 | [Giá Như Ta](https://open.spotify.com/track/7uOIMT5ZUuMR706rfUhx51) | [Starry Night](https://open.spotify.com/artist/3eIwGWU86iuKq4HoUoZl6P) | [Giá Như Ta](https://open.spotify.com/album/0S8sY3wJa8JwPRxdFHnQdm) | 3:45 | 2022-06-22 |  |
+| [Giấc Mơ Có Thật](https://open.spotify.com/track/6b2FyhgvZUKwtrlV0IUsgU) | [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Giấc Mơ Có Thật](https://open.spotify.com/album/1Lf38boWNm6TrJ8KPgqWxW) | 4:31 | 2022-08-26 |  |
 | [Giấc Mơ Rất Thơ](https://open.spotify.com/track/0xMIMrT7Vmwsejznw8LJAE) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [thaison!](https://open.spotify.com/artist/1VQyG9aks9QYQYzwmP12Fz) | [Giấc Mơ Rất Thơ](https://open.spotify.com/album/0Enf631SjxZSfjAHGPgpIU) | 2:52 | 2022-07-28 |  |
 | [Giấc Mơ Rất Thơ](https://open.spotify.com/track/546ce8vBSyZFwiEfOZ3fx1) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [thaison!](https://open.spotify.com/artist/1VQyG9aks9QYQYzwmP12Fz) | [Giấc Mơ Rất Thơ](https://open.spotify.com/album/3emRWovxjpnUNKVYbDTctY) | 2:52 | 2022-01-06 | 2022-07-29 |
 | [Giận Nè \(OST Em Là Người Anh Thích\)](https://open.spotify.com/track/7cGbbFGuVNuFMmysp5cI4L) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj) | [Giận Nè \(OST Em Là Người Anh Thích\)](https://open.spotify.com/album/68NQU4d1hFEttXOTntU6DS) | 3:20 | 2022-06-30 | 2022-08-19 |

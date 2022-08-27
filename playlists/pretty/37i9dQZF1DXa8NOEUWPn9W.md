@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: FISHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,670,069 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,670,835 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 99 | [Poison](https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Poison](https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6) | 3:26 |
 | 100 | [Chemical](https://open.spotify.com/track/77e0lnvWMyji6LrUlNSYhZ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Chemical](https://open.spotify.com/album/1wZ8FVTvRXubQlYnrRNF5B) | 2:42 |
 
-Snapshot ID: `MTY2MTI3MzI0MCwwMDAwMDAwMDY5NWM0YTdiMmIxMGYyOTg5NTU5MDc0YTRiZWI3ODJk`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDFmZmI1YzRlOWY1ZDdhYmY3ZGM2Y2JmMDI1NDM2ZjA3`

@@ -1764,6 +1764,24 @@
     },
     {
       "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/3muAl354ZsR01jO4Gsi22W"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183445,
+      "name": "Pleasure",
+      "url": "https://open.spotify.com/track/6INtRY5ec8tZ0DWkjHurfw"
+    },
+    {
+      "album": {
         "name": "Poppin'",
         "url": "https://open.spotify.com/album/16HLb3NFsQ4lZj405mBHyG"
       },

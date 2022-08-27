@@ -4,7 +4,7 @@
 
 > Another great metal year came to a close\. Explore the metal highlights of the year with this playlist!
 
-187 songs - 16 hr 28 min - [published](https://open.spotify.com/playlist/4JqspVHWvEa49wVXIwkCLI)
+188 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/4JqspVHWvEa49wVXIwkCLI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [512](https://open.spotify.com/track/6PSlMIgJvz2uYFUc1GeJIA) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII \- Sturm Und Drang](https://open.spotify.com/album/6nolgbuZopWCskNxwqpJyS) | 4:44 | 2015-12-07 | 2022-07-29 |
 | [512](https://open.spotify.com/track/7LsdvPwmV18qhipmHcRF8A) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 4:44 | 2022-07-29 |  |
 | [All Hail](https://open.spotify.com/track/448ZNTtqFo1jYuOYL27vHk) | [Firespawn](https://open.spotify.com/artist/6iuACyGPyhtixKHUiJ8mNu) | [Shadow Realms](https://open.spotify.com/album/5uVyEGWafTrJWYlyjS08ek) | 3:28 | 2015-12-07 |  |
-| [Alpha](https://open.spotify.com/track/2aYccp0EYBgJfcGSSIIIFA) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Juggernaut: Alpha](https://open.spotify.com/album/5D1Iz1Za4y9WJoHSQlYRgt) | 5:30 | 2022-07-29 |  |
+| [Alpha](https://open.spotify.com/track/2TipAy85MGsdUc4QgSrWjV) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Juggernaut: Alpha](https://open.spotify.com/album/5UaU32SWnH6fPoUa5WbbLM) | 5:30 | 2022-08-27 |  |
+| [Alpha](https://open.spotify.com/track/2aYccp0EYBgJfcGSSIIIFA) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Juggernaut: Alpha](https://open.spotify.com/album/5D1Iz1Za4y9WJoHSQlYRgt) | 5:30 | 2022-07-29 | 2022-08-27 |
 | [Alpha](https://open.spotify.com/track/6PQcccCgnPgyAUtQNMbBr0) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Juggernaut: Alpha \(NotSet\)](https://open.spotify.com/album/6QR5neAAIg3gRpZeHZ593c) | 5:30 | 2015-12-07 | 2022-07-29 |
 | [And My Father Left Forever](https://open.spotify.com/track/6Hy9f2hXOf1zDt49uta1jI) | [My Dying Bride](https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z) | [Feel The Misery](https://open.spotify.com/album/06kW5qiNpQxarGkAW2pyLF) | 9:21 | 2015-12-07 | 2022-07-29 |
 | [And My Father Left Forever](https://open.spotify.com/track/6c7019RaOHNDrdHP5noR1r) | [My Dying Bride](https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z) | [Feel the Misery](https://open.spotify.com/album/1os8hCeyRJk5B5RmwG4zaw) | 9:21 | 2022-07-29 |  |

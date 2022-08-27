@@ -1005,6 +1005,24 @@
     {
       "album": {
         "name": "Thundering Hopes",
+        "url": "https://open.spotify.com/album/6fiK3VPNK38HEYhnWzsIrw"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Karaoke",
+      "url": "https://open.spotify.com/track/2B2g136lFHdVblX24YhpAs"
+    },
+    {
+      "album": {
+        "name": "Thundering Hopes",
         "url": "https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U"
       },
       "artists": [
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 200000,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/5e6sklOXEsNqSrEPDR1T3Z"

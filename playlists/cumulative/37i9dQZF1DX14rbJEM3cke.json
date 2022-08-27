@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New Rock driving the current, every week. Black Punk Takeover by Rico Nasty",
+  "description": "New Rock driving the current, every week. Cover: Rico Nasty",
   "name": "Rock Frequency",
   "published_playlist_ids": [
     "2jxSs2Q6Z9zjjyOXKs22bg"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "\"Filthy\"",
+        "url": "https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181447,
+      "name": "\"Filthy\"",
+      "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
+    },
     {
       "album": {
         "name": "Life Is Peachy",
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 153600,
       "name": "A.D.I.D.A.S.",
       "url": "https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1"
@@ -59,7 +77,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 184508,
       "name": "ALL COPS ARE BASTARDS*",
       "url": "https://open.spotify.com/track/6Bike9oqxqToe0XPwtVIhD"
@@ -157,7 +175,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 132786,
       "name": "Banned in D.C.",
       "url": "https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov"
@@ -193,7 +211,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 187563,
       "name": "Better Off Without You",
       "url": "https://open.spotify.com/track/3rh08vqgwBzbRawiLjQk4O"
@@ -247,7 +265,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 150834,
       "name": "Black Punk",
       "url": "https://open.spotify.com/track/1irb49XkVPBjDpy0pckq5M"
@@ -283,7 +301,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 235893,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
@@ -301,7 +319,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 157462,
       "name": "BRITNEY BITCH",
       "url": "https://open.spotify.com/track/0y36K56bxbBUl2kjrBJdco"
@@ -417,6 +435,24 @@
       "duration_ms": 159651,
       "name": "Celebrity Skin",
       "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu"
+      },
+      "artists": [
+        {
+          "name": "Jany Green",
+          "url": "https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171381,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V"
     },
     {
       "album": {
@@ -561,7 +597,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 269081,
       "name": "Days",
       "url": "https://open.spotify.com/track/3xQoeVaWyF046QIhdbGRCO"
@@ -587,7 +623,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 176318,
       "name": "Definition (ft. Jason Aalon Of Fever 333)",
       "url": "https://open.spotify.com/track/4un1zMkZQeTvShAIeq7TZw"
@@ -634,6 +670,28 @@
     },
     {
       "album": {
+        "name": "DIRTY WHITE VANS REMIX// (feat. Wiz Khalifa)",
+        "url": "https://open.spotify.com/album/5jODAtLZwHOfDaOWprFtZL"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141090,
+      "name": "DIRTY WHITE VANS REMIX// (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/4itBuIySoAuWR1gVk1xA1S"
+    },
+    {
+      "album": {
         "name": "DIRTY WHITE VANS//",
         "url": "https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky"
       },
@@ -663,10 +721,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 156906,
       "name": "Don't Bother Me",
       "url": "https://open.spotify.com/track/29sqgoWhw6KZawQCnDvSIB"
+    },
+    {
+      "album": {
+        "name": "The Breakfast Club (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2"
+      },
+      "artists": [
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188237,
+      "name": "Don't Look At Me",
+      "url": "https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM"
     },
     {
       "album": {
@@ -797,7 +873,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 259040,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7w8MExakpbdxhVLos6ccRu"
@@ -873,7 +949,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 230613,
       "name": "Gimme Chocolate!!",
       "url": "https://open.spotify.com/track/16D5bGymrzpi9ZlnYXB5ql"
@@ -891,7 +967,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 174434,
       "name": "girls like drugs",
       "url": "https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW"
@@ -949,7 +1025,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 229813,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/1iMOLNyzKtIMucwZzQSjZi"
@@ -1021,7 +1097,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 372973,
       "name": "Headup",
       "url": "https://open.spotify.com/track/4dfvPFbLEa6JzZV4dZTWt7"
@@ -1039,7 +1115,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 281160,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
@@ -1075,7 +1151,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 151400,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/22FniXvTKV9IC6IhxCpYve"
@@ -1133,7 +1209,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 202053,
       "name": "I Don't Know How To Love",
       "url": "https://open.spotify.com/track/0MapHAOWC5xN9kypG84DUn"
@@ -1158,6 +1234,24 @@
     },
     {
       "album": {
+        "name": "i want to die in your arms",
+        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
+    },
+    {
+      "album": {
         "name": "Welcome to Condale",
         "url": "https://open.spotify.com/album/6bWX3aSyh4FvrnFnGp0xQr"
       },
@@ -1169,7 +1263,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 256867,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/4BjLHCeImBJ08vQI84DQp5"
@@ -1187,7 +1281,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 161062,
       "name": "i'm gonna tell my therapist on you",
       "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
@@ -1263,7 +1357,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 124683,
       "name": "Intrusive",
       "url": "https://open.spotify.com/track/277bSPoxSJT51c43jXVw7q"
@@ -1371,7 +1465,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 305506,
       "name": "Kerosene!",
       "url": "https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ"
@@ -1425,10 +1519,54 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 243345,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5fHTdGsnnj0minXaTKAdFV"
+    },
+    {
+      "album": {
+        "name": "Little",
+        "url": "https://open.spotify.com/album/6Vr5O6l6WpEMfAXS1AB9iv"
+      },
+      "artists": [
+        {
+          "name": "Jany Green",
+          "url": "https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157089,
+      "name": "Little",
+      "url": "https://open.spotify.com/track/2fozfsVzd6kCYp5OA3sOUJ"
+    },
+    {
+      "album": {
+        "name": "LOVE ME HATE ME",
+        "url": "https://open.spotify.com/album/5SeCLmnrUikDL9dMCAgBzz"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "CRAY",
+          "url": "https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K"
+        },
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215294,
+      "name": "LOVE ME HATE ME",
+      "url": "https://open.spotify.com/track/32FxL1gNFABVzfK4gK2Ate"
     },
     {
       "album": {
@@ -1443,7 +1581,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 197153,
       "name": "Mad",
       "url": "https://open.spotify.com/track/5jyrsygTAsGvAKsFGxTd6t"
@@ -1486,6 +1624,28 @@
     },
     {
       "album": {
+        "name": "Metal, Whips, & Chains",
+        "url": "https://open.spotify.com/album/1wRdbvhfZfvdQXkqtliAJS"
+      },
+      "artists": [
+        {
+          "name": "Zhariah",
+          "url": "https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7"
+        },
+        {
+          "name": "Breezy Supreme",
+          "url": "https://open.spotify.com/artist/4EYnKpPblwYYfZLTnV0vB1"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297936,
+      "name": "Metal, Whips, & Chains",
+      "url": "https://open.spotify.com/track/3TJUzoLxR1ElH5ZTPh0BYS"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/1S3YhavDzM2XHiZbTjNdIs"
       },
@@ -1515,7 +1675,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 178118,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/779GuRKb0pL3y6n4fdXnpT"
@@ -1555,7 +1715,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 210333,
       "name": "Pet Sematary",
       "url": "https://open.spotify.com/track/2PN0JeaGtkHrlcmwZFWzBM"
@@ -1779,10 +1939,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 212240,
       "name": "Round The Moon",
       "url": "https://open.spotify.com/track/4PtK2OUEIq5iKWKssS9WES"
+    },
+    {
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80190,
+      "name": "schizophrenia",
+      "url": "https://open.spotify.com/track/5b6zjsBrZCqe6RFycLz2tc"
     },
     {
       "album": {
@@ -1815,7 +1993,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 311333,
       "name": "Serial Thrilla",
       "url": "https://open.spotify.com/track/22KnVhB8fkH8Sb9lYVKHzr"
@@ -1833,7 +2011,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 241533,
       "name": "Sextape",
       "url": "https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE"
@@ -1953,7 +2131,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 115350,
       "name": "Strawberry Peels (feat. Young Thug & Gunna)",
       "url": "https://open.spotify.com/track/4lAQfuREAHG8IC0PiiigBt"
@@ -2091,7 +2269,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 165194,
       "name": "The World Is Waiting For You",
       "url": "https://open.spotify.com/track/5CDwO2RIv8UX0Q9MxdouZz"
@@ -2163,7 +2341,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 169394,
       "name": "TOO DEPRESSED 4 SEX",
       "url": "https://open.spotify.com/track/3fPQOhFj62RkiviJMZ7d0G"
@@ -2243,7 +2421,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 142250,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/6LUq1OaSbPwURziaLXmOvZ"
@@ -2265,7 +2443,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 223131,
       "name": "Victory (Feat. Matt B. of From Ashes To New)",
       "url": "https://open.spotify.com/track/7BF2ldGXrlGf9hRQWPeSc6"
@@ -2341,7 +2519,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 129985,
       "name": "Wasting Around",
       "url": "https://open.spotify.com/track/6WlVkldZfL0wdA7RLppJ1J"
@@ -2363,7 +2541,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 116162,
       "name": "Watch Your Man (feat. Marshmello)",
       "url": "https://open.spotify.com/track/6GiQfK7gtNGlODn53HZvpw"
@@ -2429,6 +2607,24 @@
       "duration_ms": 189152,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/4NDffVrm7zr0vJSzakrBbw"
+    },
+    {
+      "album": {
+        "name": "\u2022OUTSIDE\u2022",
+        "url": "https://open.spotify.com/album/4LDezpH6gU6VfBFkSdtNxc"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106097,
+      "name": "\u2022OUTSIDE\u2022",
+      "url": "https://open.spotify.com/track/5VSVz6wsmWEP1PiFfzPcn7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX14rbJEM3cke"

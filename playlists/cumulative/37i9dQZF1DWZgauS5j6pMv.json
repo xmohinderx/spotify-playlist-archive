@@ -1325,7 +1325,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 198000,
       "name": "Funk Olympics",
       "url": "https://open.spotify.com/track/7v1WsgCocJ5tLwDXqllQ8n"
@@ -1575,10 +1575,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 222272,
       "name": "Goodtime",
       "url": "https://open.spotify.com/track/34nfyP7ueTwzo08p1ALm31"
+    },
+    {
+      "album": {
+        "name": "GOODTIME",
+        "url": "https://open.spotify.com/album/0dGvxkk3frDgCKp2nmHJXm"
+      },
+      "artists": [
+        {
+          "name": "CAPYAC",
+          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222272,
+      "name": "GOODTIME",
+      "url": "https://open.spotify.com/track/5GtOKiSXlRP03pgojQnOXi"
     },
     {
       "album": {
@@ -1912,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m Tight",
+        "url": "https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420613,
+      "name": "I\u2019m Tight",
+      "url": "https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB"
+    },
+    {
+      "album": {
         "name": "J.A.M. (Just A Minute)",
         "url": "https://open.spotify.com/album/7umzCfogCGrZbYgTYqc2vh"
       },
@@ -1957,6 +1993,28 @@
       "duration_ms": 302560,
       "name": "Jam On",
       "url": "https://open.spotify.com/track/0qDpUNoPqMV4aTiVepqXOQ"
+    },
+    {
+      "album": {
+        "name": "Jammin' Tonight",
+        "url": "https://open.spotify.com/album/2JuAzf0eakBX1l47SyJbu7"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247973,
+      "name": "Jammin' Tonight",
+      "url": "https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO"
     },
     {
       "album": {
@@ -2613,7 +2671,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 174272,
       "name": "M\u00e9lange",
       "url": "https://open.spotify.com/track/3KSJHjEiC5G0xcYEGr9oLU"
@@ -2707,7 +2765,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 254700,
       "name": "ooeeooeeoo",
       "url": "https://open.spotify.com/track/2MNeT5RzegP7L6yyzodOVs"
@@ -3285,6 +3343,24 @@
       "duration_ms": 272211,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"
+    },
+    {
+      "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/45CGUxginHlvey2BY8E2pE"
+      },
+      "artists": [
+        {
+          "name": "Mothers Favorite Child",
+          "url": "https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250253,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/2PSissBzTet0WdjuFXU6A5"
     },
     {
       "album": {

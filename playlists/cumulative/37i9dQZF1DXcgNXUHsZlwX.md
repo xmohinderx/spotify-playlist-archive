@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Connor Seidel \(1969 Collective\)
 
-363 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+364 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Le Tour](https://open.spotify.com/track/2bstLxHshzom3DVgB5j8m4) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk) | 3:20 | 2021-09-20 |  |
 | [Le triomphe d'une perruche](https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Travelling](https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA) | 3:47 | 2021-01-03\* |  |
 | [Le vent se lève](https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Et on pleurera ensemble](https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM) | 3:11 | 2021-10-23 |  |
+| [leave the room and face the waves](https://open.spotify.com/track/0lI9WwS3bx3HJPv2BGDXLZ) | [Thanya Iyer](https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P) | [leave the room and face the waves](https://open.spotify.com/album/7yntKe1iGe6kyM6uncADp7) | 2:06 | 2022-08-26 |  |
 | [Les adieux](https://open.spotify.com/track/3PBofYxGj3mMOmvn1Ft1kM) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Les adieux](https://open.spotify.com/album/0W0b90RgNWquPQLLhEcMlD) | 2:52 | 2021-09-27 | 2022-07-28 |
 | [Les anniversaires](https://open.spotify.com/track/07cWpiBsWBWWmgoXpeHHZ0) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Les anniversaires](https://open.spotify.com/album/5eo4PDtQ5e8Dbl9ADexLHz) | 2:42 | 2021-01-03\* | 2021-10-02 |
 | [Les cascades \(Radio Edit\)](https://open.spotify.com/track/5dpLXg9vJMnr4fnnsbLB8w) | [Pat Groulx et les Bas Blancs](https://open.spotify.com/artist/7sj7sDK2ZfwTZ6vgPDcnpg) | [Les cascades \(Radio Edit\)](https://open.spotify.com/album/5tROpSoIqsCO2vEXFjomhF) | 4:02 | 2021-04-19 | 2021-05-07 |
@@ -303,7 +304,7 @@
 | [Rue de l'ours \- version du dimanche](https://open.spotify.com/track/67q2II41CAGAn3XAeE3qpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Rue de l'ours](https://open.spotify.com/album/77bSNDdVvlZALzMY2LKpsH) | 2:22 | 2021-06-13 | 2021-09-11 |
 | [Sagesse](https://open.spotify.com/track/6Lg74NbMBkG8mezUTNomyq) | [Patrick Prévost](https://open.spotify.com/artist/0dcJ5ddhY1kBbYM0990Wrf) | [Feu de shed](https://open.spotify.com/album/6Ro82MDllRMgOUMKihEtVf) | 4:04 | 2021-01-03\* | 2022-07-28 |
 | [Sailors](https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Sailors](https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7) | 4:01 | 2022-02-25 |  |
-| [Salut Salut](https://open.spotify.com/track/5E6zp4z4SmkssW22mqEcNM) | [Steven & Steeven](https://open.spotify.com/artist/1MjDrK68psYWDT1m91Z42h) | [Salut Salut](https://open.spotify.com/album/0ZrImajJoZNIPlXfNYGC8Q) | 3:01 | 2021-01-15 |  |
+| [Salut Salut](https://open.spotify.com/track/5E6zp4z4SmkssW22mqEcNM) | [Steven & Steeven](https://open.spotify.com/artist/1MjDrK68psYWDT1m91Z42h) | [Salut Salut](https://open.spotify.com/album/0ZrImajJoZNIPlXfNYGC8Q) | 3:01 | 2021-01-15 | 2022-08-27 |
 | [Sans Toi](https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:15 | 2022-07-08 |  |
 | [Sans toi](https://open.spotify.com/track/2TT8MHvlDdF8iIv59EkApc) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part One \- EP](https://open.spotify.com/album/6tMGm4n8cfIBK0dQw6tM1C) | 3:17 | 2021-01-15 | 2022-07-25 |
 | [Si jamais](https://open.spotify.com/track/6NxtWlb6CoJIJfdfz8VesK) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Si jamais](https://open.spotify.com/album/3QCebuc5TzgSQTkwXRCCvk) | 3:13 | 2021-01-03\* | 2021-09-26 |

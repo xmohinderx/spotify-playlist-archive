@@ -720,6 +720,24 @@
     },
     {
       "album": {
+        "name": "Huli",
+        "url": "https://open.spotify.com/album/0ER3BPTPVNeIEh6MN9H3Lf"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264490,
+      "name": "Huli",
+      "url": "https://open.spotify.com/track/3fWRjcmyiuRIodbyHH2c7A"
+    },
+    {
+      "album": {
         "name": "CHANGIN' Vol. 1",
         "url": "https://open.spotify.com/album/4bXcecNzDmfAS8pTtxNKT9"
       },
@@ -919,6 +937,28 @@
       "duration_ms": 256410,
       "name": "Lagi",
       "url": "https://open.spotify.com/track/6nyr7jWOZb86Kzjj34buF8"
+    },
+    {
+      "album": {
+        "name": "Leron (feat. Trisha Macapagal)",
+        "url": "https://open.spotify.com/album/0OVWJZkcHFVCzGuTw8Lauw"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        },
+        {
+          "name": "Trisha Macapagal",
+          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Leron (feat. Trisha Macapagal)",
+      "url": "https://open.spotify.com/track/0S9E3lwPotusU4QRVVg2wC"
     },
     {
       "album": {

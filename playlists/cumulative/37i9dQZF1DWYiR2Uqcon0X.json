@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 224626,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 266186,
       "name": "Body On Body",
       "url": "https://open.spotify.com/track/5CWPHctw7j1tLXQivEstv7"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189099,
       "name": "Breaking Hearts The Hard Way",
       "url": "https://open.spotify.com/track/4bhDhtSwRVRNoLZIy5cbfM"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 192556,
       "name": "By Our Design",
       "url": "https://open.spotify.com/track/218xrI3IoInlZWablELMrG"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 222028,
       "name": "Crystal Eyes",
       "url": "https://open.spotify.com/track/2dW9kl7WScv2wIY9JxjNN3"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 205498,
       "name": "Hold onto Me",
       "url": "https://open.spotify.com/track/0a45Bcf67CvGVCIaiydEzq"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245240,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5geXpnAg1h2r0fouEe3AHK"
@@ -1760,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+    },
+    {
+      "album": {
         "name": "what do i",
         "url": "https://open.spotify.com/album/0ohO8xT0avwVSfMqaOzoMq"
       },
@@ -1865,7 +1883,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 260826,
       "name": "Whiskey Lullaby",
       "url": "https://open.spotify.com/track/0f7OHfUNNs5DGTijGFPalp"

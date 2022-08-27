@@ -4,7 +4,7 @@
 
 > Hay otro sonido y lo encontrás acá\. <br/>Foto: Buenos Vampiros.
 
-85 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/5FP3dwk8hADhOl8RSWpO0T)
+86 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/5FP3dwk8hADhOl8RSWpO0T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,8 +64,9 @@
 | [Nube](https://open.spotify.com/track/0ptdCEFJjqE7hJJrUVz29z) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 1:10 | 2022-03-25 |  |
 | [Nube](https://open.spotify.com/track/6016U5kfHuP9AEktlYZfzr) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 1:10 | 2022-03-25 | 2022-07-29 |
 | [Para Darte](https://open.spotify.com/track/4Rb8aadEFGLziAJKfnOpt3) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:07 | 2022-03-25 |  |
-| [Para Renacer \(Lado V\)](https://open.spotify.com/track/2ESsyrSEGGBscCSZL4HKfM) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/1fXi7rF9qY5aabO0wtn78j) | 3:35 | 2022-03-25 |  |
+| [Para Renacer \(Lado V\)](https://open.spotify.com/track/2ESsyrSEGGBscCSZL4HKfM) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/1fXi7rF9qY5aabO0wtn78j) | 3:35 | 2022-03-25 | 2022-08-27 |
 | [Para Renacer \(Lado V\)](https://open.spotify.com/track/4jZDcaRTAESl4TMgXu35sL) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/0xUtJQzRNWrQurHiYzXLF7) | 3:35 | 2022-03-25 | 2022-07-29 |
+| [Para Renacer \- Lado V](https://open.spotify.com/track/4W1ejw0Xun7o8eIjFm5dWg) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/0H0L15hX6vsMEJSKWfP0JU) | 3:35 | 2022-03-25 |  |
 | [paredes](https://open.spotify.com/track/7x3jLfAF7sN5C8dDLD4V6b) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Paco Leiva](https://open.spotify.com/artist/2UQJDHNI1VGBhkHfbjeco3) | [paredes](https://open.spotify.com/album/0PBkxpGOXvB24zc9fXE6HU) | 3:17 | 2022-03-25 |  |
 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 | 2022-03-25 |  |
 | [Penso a te](https://open.spotify.com/track/0aKzj1pp5jtEUPf7uV0cvB) | [Las Cosas Que Pasan](https://open.spotify.com/artist/1ZqvJubgvceHoBn0ccE5oO), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Penso a te](https://open.spotify.com/album/5v0doOxorR4wQe3QU2ax6j) | 3:35 | 2022-03-25 |  |

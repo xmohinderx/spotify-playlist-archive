@@ -1456,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "Sunday Toasted",
+        "url": "https://open.spotify.com/album/7FtqnNR1z6z0nqEyinGd5F"
+      },
+      "artists": [
+        {
+          "name": "Zinn",
+          "url": "https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Sunday Toasted",
+      "url": "https://open.spotify.com/track/7trnSmH2rP4Dz9EWCigzhz"
+    },
+    {
+      "album": {
         "name": "Take Me As I Am",
         "url": "https://open.spotify.com/album/78WF3uDO2YnUTar5ujTsDO"
       },

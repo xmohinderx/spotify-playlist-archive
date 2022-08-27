@@ -4,7 +4,7 @@
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Southside, Lil Durk
 
-129 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
+130 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 | 2022-06-03 |  |
 | [Demons](https://open.spotify.com/track/7ai0VlJiTZXqIKRlgrx7zi) | [Lil 1 DTE](https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn) | [Demons](https://open.spotify.com/album/7uVVW3UQWcHg3o5X2vqd5R) | 2:11 | 2022-07-15 |  |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-06-03 |  |
-| [Disrespectful \(feat\. Jacquees\)](https://open.spotify.com/track/2OX8YEwvlVXbzAICWyYnh7) | [Chino Cappin'](https://open.spotify.com/artist/6luUAFb5mM6RM4OONhfZVV), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Permanently Scarred](https://open.spotify.com/album/0yD450hWe4Uwh9Ojw6eU3Y) | 3:15 | 2022-06-03 |  |
+| [Disrespectful \(feat\. Jacquees\)](https://open.spotify.com/track/2OX8YEwvlVXbzAICWyYnh7) | [Chino Cappin'](https://open.spotify.com/artist/6luUAFb5mM6RM4OONhfZVV), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Permanently Scarred](https://open.spotify.com/album/0yD450hWe4Uwh9Ojw6eU3Y) | 3:15 | 2022-06-03 | 2022-08-27 |
 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-06-03 |  |
 | [DMT Trip \(feat\. Lord Jah\-Monte Ogbon\)](https://open.spotify.com/track/3JTVqJoAFlGUal01D8qJ8s) | [Gromo](https://open.spotify.com/artist/0fZTPSPLC75QesDYUfSPdx), [LORD JAH\-MONTE OGBON](https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0) | [DMT Trip \(feat\. Lord Jah\-Monte Ogbon\)](https://open.spotify.com/album/1AXxXkeYpwgVPLN4UN6oB6) | 3:30 | 2022-06-03 |  |
 | [Dog Eat Dog \(feat\. Duke Deuce\) \- DJ Snake Remix](https://open.spotify.com/track/49uT6cp7GWk8GKnGOdPA1Q) | [YehMe2](https://open.spotify.com/artist/3kvnhwUU4VSXQqr2r9j6OO), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Dog Eat Dog \(feat\. Duke Deuce\) \[DJ Snake Remix\]](https://open.spotify.com/album/2bw7vBbFofWHpK4nhGbTqu) | 2:36 | 2022-06-03 |  |
@@ -65,6 +65,7 @@
 | [I Need a MIC](https://open.spotify.com/track/7mz7Xjxja8LnBqsJbxek6f) | [Everthe8](https://open.spotify.com/artist/7fZxnpq2mj2K0LBY3j1fBb), [Bmb Spacekid](https://open.spotify.com/artist/6ZlLGjV1Ml9JfAtesdWKxu) | [I Need A MIC](https://open.spotify.com/album/5ASQGw88Cw9TQttxHUMcn4) | 1:33 | 2022-06-03 |  |
 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 | 2022-06-03 | 2022-07-09 |
 | [Ice On My Baby \(feat\. Kevin Gates\) \- Remix](https://open.spotify.com/track/6muW8cSjJ3rusKJ0vH5olw) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Ice On My Baby \(feat\. Kevin Gates\) \[Remix\]](https://open.spotify.com/album/0Qqi2yVtUpp2jHYCxRYeoe) | 3:19 | 2022-06-03 | 2022-08-13 |
+| [If I Want You](https://open.spotify.com/track/4RTPe8icsISnFUp3IvEX4j) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [If I Want You](https://open.spotify.com/album/18WeqJ2p0BOIcPBTKzYso8) | 3:13 | 2022-08-26 |  |
 | [Imma Live Forever](https://open.spotify.com/track/2naEDgRa08mhhyZSRrVJbL) | [Xavier](https://open.spotify.com/artist/3ni7ANtyZJ4pc1P1reorEf) | [R.I.P\. Xavier \- EP](https://open.spotify.com/album/2ZfqUgyzyBpNGk9sVlQWMl) | 2:26 | 2022-06-03 |  |
 | [Impala](https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:05 | 2022-08-12 |  |
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-06-03 |  |

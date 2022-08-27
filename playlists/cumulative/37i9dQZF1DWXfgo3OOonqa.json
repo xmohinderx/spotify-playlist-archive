@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 140000,
       "name": "BASEMENT",
       "url": "https://open.spotify.com/track/3yZlrUyVGILBLjBUZ39u4x"
@@ -2263,7 +2263,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 150937,
       "name": "CORAZON",
       "url": "https://open.spotify.com/track/0J0e6xg3NUfL7Ic6aqKySC"
@@ -4558,6 +4558,24 @@
     },
     {
       "album": {
+        "name": "H\u00f6gt Om Mig",
+        "url": "https://open.spotify.com/album/0vGEghYckhYdihpztznA62"
+      },
+      "artists": [
+        {
+          "name": "Aleksej",
+          "url": "https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163106,
+      "name": "H\u00f6gt Om Mig",
+      "url": "https://open.spotify.com/track/0e9Remd7sQcEFohQKU4XNv"
+    },
+    {
+      "album": {
         "name": "H\u00f6rnet",
         "url": "https://open.spotify.com/album/3b9yiYuzsFKgExHdHNmzpR"
       },
@@ -6633,6 +6651,28 @@
       "duration_ms": 101692,
       "name": "MISSF\u00d6RST\u00c5TT",
       "url": "https://open.spotify.com/track/4RRNw7trorJaxdJLWDZTZL"
+    },
+    {
+      "album": {
+        "name": "MISSF\u00d6RST\u00c5TT (REMIX)",
+        "url": "https://open.spotify.com/album/1fEohUDf4DbVSBucgfAoCs"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        },
+        {
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100114,
+      "name": "MISSF\u00d6RST\u00c5TT - REMIX",
+      "url": "https://open.spotify.com/track/5eVpI0GKC0TimZWEsQ28cs"
     },
     {
       "album": {

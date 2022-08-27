@@ -2,7 +2,7 @@
 
 ### [Post Punk 2k](https://open.spotify.com/playlist/37i9dQZF1DWYwMzXER4RFF)
 
-> New no wave, post\-punk, and anything else\. Cover: Talk Show
+> New no wave, post\-punk, and anything else\. Cover: Viagra Boys
 
 283 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 

@@ -1,15 +1,15 @@
 {
-  "description": "From the Congo, to the world. / Du Congo, au monde. \ud83c\udf0d  Photo: Fally Ipupa",
-  "num_followers": 4086,
+  "description": "From the Congo, to the world. / Du Congo, au monde. \ud83c\udf0d  Photo: Serge Ibaka",
+  "num_followers": 4143,
   "original_name": "Biso Na Biso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDk4MjM4OWRjMTBiYmMxN2JkNTY0Njc1ZjUzZDBlNzY3",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDFmYjhiODliNzU4YTRkNmU1MWJlOGY2ZTZkYmZkYTM2",
   "tracks": [
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Bloqu\u00e9",
         "url": "https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8"
@@ -25,7 +25,75 @@
       "url": "https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "ART",
+        "url": "https://open.spotify.com/album/2UGjMioVdRsPg1lvm6dQnW"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        },
+        {
+          "name": "Bill Clinton",
+          "url": "https://open.spotify.com/artist/1Fi0mPF1fjcFrIhm6yhln9"
+        },
+        {
+          "name": "Tidiane Mario",
+          "url": "https://open.spotify.com/artist/7BwDIRZ2sBBVDSrTDQ9Wq4"
+        },
+        {
+          "name": "Afara Tsena",
+          "url": "https://open.spotify.com/artist/2e3NRawiBjPk6tzLO33Axu"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "Kin-Brazza",
+      "url": "https://open.spotify.com/track/58v78PuisC6mzn7SUnEAjw"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Feux de l'amour",
+        "url": "https://open.spotify.com/album/2R1EfXW4P5627Q6qZqxPtF"
+      },
+      "artists": [
+        {
+          "name": "J.B. Mpiana",
+          "url": "https://open.spotify.com/artist/6ZZMaIylugRJgjP7CAg7DX"
+        },
+        {
+          "name": "Wenge Musica",
+          "url": "https://open.spotify.com/artist/196Mh2yrd4xaNupimhUmpP"
+        },
+        {
+          "name": "Papa Wemba",
+          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Ndombolo",
+      "url": "https://open.spotify.com/track/2DzhQ5UXu8fDQaQ0WaMYHK"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Maison m\u00e8re",
+        "url": "https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU"
+      },
+      "artists": [
+        {
+          "name": "Wenge Musica Maison M\u00e8re",
+          "url": "https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp"
+        }
+      ],
+      "duration_ms": 422973,
+      "name": "Solola bien",
+      "url": "https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Obomi Nga",
         "url": "https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0"
@@ -53,47 +121,7 @@
       "url": "https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Feux de l'amour",
-        "url": "https://open.spotify.com/album/2R1EfXW4P5627Q6qZqxPtF"
-      },
-      "artists": [
-        {
-          "name": "J.B. Mpiana",
-          "url": "https://open.spotify.com/artist/6ZZMaIylugRJgjP7CAg7DX"
-        },
-        {
-          "name": "Wenge Musica",
-          "url": "https://open.spotify.com/artist/196Mh2yrd4xaNupimhUmpP"
-        },
-        {
-          "name": "Papa Wemba",
-          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Ndombolo",
-      "url": "https://open.spotify.com/track/2DzhQ5UXu8fDQaQ0WaMYHK"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Maison m\u00e8re",
-        "url": "https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU"
-      },
-      "artists": [
-        {
-          "name": "Wenge Musica Maison M\u00e8re",
-          "url": "https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp"
-        }
-      ],
-      "duration_ms": 422973,
-      "name": "Solola bien",
-      "url": "https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Tokooos II",
         "url": "https://open.spotify.com/album/2Tcx5XnaqhO7ooOH00iA6M"
@@ -113,7 +141,7 @@
       "url": "https://open.spotify.com/track/7kGG67A0QDHqcrhLFvvOZX"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Mondongo",
         "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
@@ -129,7 +157,7 @@
       "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Loi",
         "url": "https://open.spotify.com/album/3GTtST9Tk2rcDNxV5YFIBy"
@@ -145,7 +173,23 @@
       "url": "https://open.spotify.com/track/3ERMjh3EfOWWoLJjcxtpvt"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "WAKA WAKA",
+        "url": "https://open.spotify.com/album/7f2AMUr6ZW0OIfRzg7fsk3"
+      },
+      "artists": [
+        {
+          "name": "Ryan De La Cruz",
+          "url": "https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T"
+        }
+      ],
+      "duration_ms": 212401,
+      "name": "WAKA WAKA",
+      "url": "https://open.spotify.com/track/3IriOnjl5WTuREfvzDPjJ4"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Holla",
         "url": "https://open.spotify.com/album/4t8mt3i5hTBN8scNtYXY6w"
@@ -161,7 +205,7 @@
       "url": "https://open.spotify.com/track/02KE9xq0mTKsOaZhSOQ2Gp"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Yo Pe (Remix)",
         "url": "https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV"
@@ -181,7 +225,31 @@
       "url": "https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/3kkqZnyYwUVV3Om9UImDQ4"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        },
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        },
+        {
+          "name": "Cuppy",
+          "url": "https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f"
+        }
+      ],
+      "duration_ms": 208344,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/5ewp2zfpbjAfi8gqQq7FZ7"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "7 jours de la semaine",
         "url": "https://open.spotify.com/album/2rmeu6hYfpX84iyOKLjzsy"
@@ -197,7 +265,7 @@
       "url": "https://open.spotify.com/track/423bpv5RaWC3xEm2j2iAjv"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Ips\u00e9it\u00e9",
         "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
@@ -213,7 +281,7 @@
       "url": "https://open.spotify.com/track/6YuSiFqJP4MUo88RtUAfAX"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl"
@@ -233,7 +301,27 @@
       "url": "https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "VALABA",
+        "url": "https://open.spotify.com/album/3RhNnoJ7oIOj6HnRsMi6sz"
+      },
+      "artists": [
+        {
+          "name": "Odrey",
+          "url": "https://open.spotify.com/artist/4uMgvCxdUFjIOy4Nl1wKMj"
+        },
+        {
+          "name": "Stone",
+          "url": "https://open.spotify.com/artist/1QUKRGAAoys1E4p8kA7mHT"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "VALABA",
+      "url": "https://open.spotify.com/track/0hurXA0kT1G8xL1fs8ekxN"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Kita",
         "url": "https://open.spotify.com/album/1KxMpI9xFDsrzQ3AXq9Mge"
@@ -257,23 +345,7 @@
       "url": "https://open.spotify.com/track/0I4zmOt8SOMvMcJCB4YaIO"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/462IsccRxkCQdtqC1lszjb"
-      },
-      "artists": [
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "100",
-      "url": "https://open.spotify.com/track/5fo6cxM7tlDG0e0PO3OpkD"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Trop c'est trop",
         "url": "https://open.spotify.com/album/1wL4WyHqFJwnS9F1IgxeFW"
@@ -289,7 +361,7 @@
       "url": "https://open.spotify.com/track/6GvLQgYTEwmgTjadj3Agsw"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Mutu EBEBA",
         "url": "https://open.spotify.com/album/6ePKPQSOmiFxZYb9qyFemo"
@@ -305,7 +377,7 @@
       "url": "https://open.spotify.com/track/2GAA7jWcNgb0mMIZ4Zb3r1"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Papa Wemba",
         "url": "https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V"
@@ -321,7 +393,7 @@
       "url": "https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Emotion (Real World Gold)",
         "url": "https://open.spotify.com/album/7CHL3hxXPT9sTnQv3hZe39"
@@ -337,7 +409,7 @@
       "url": "https://open.spotify.com/track/4pkk2GgNZIWhqQpz39439P"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Duda",
         "url": "https://open.spotify.com/album/1ZZpj2GgG8vw6Gj4Jo2OAD"
@@ -353,7 +425,7 @@
       "url": "https://open.spotify.com/track/2fCkFI19Md79sMg9lyZSxq"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Koni Moko Etokisaka Nzungu Te",
         "url": "https://open.spotify.com/album/2Jis4aVlVx87Xc6Lmd3G1U"
@@ -369,7 +441,7 @@
       "url": "https://open.spotify.com/track/77HDy7Ns5VsRYttIbaTmtY"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Amani Bombe",
         "url": "https://open.spotify.com/album/7mrSqIQMuLxX6OQmYaT7kL"
@@ -385,7 +457,7 @@
       "url": "https://open.spotify.com/track/7qGZsPHy5NAkvtNeet3GXk"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/5oVYOWGSA1iXbviwW3SnTH"
@@ -401,7 +473,7 @@
       "url": "https://open.spotify.com/track/0HOdXa3PPnJhNRBlgO7Jhr"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "D\u00e9sir f\u00e9minin",
         "url": "https://open.spotify.com/album/19zapMhSNUbX8HBbP9nm0s"
@@ -421,7 +493,7 @@
       "url": "https://open.spotify.com/track/6itPjCyrWM9XyRfPRV36rb"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Cursus, Vol. 2",
         "url": "https://open.spotify.com/album/7JyPd01Qu6N2dvj6PTYfSe"
@@ -441,7 +513,7 @@
       "url": "https://open.spotify.com/track/0VF1VyAiS0oRk3O22mv13k"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Dynastie",
         "url": "https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg"
@@ -461,7 +533,7 @@
       "url": "https://open.spotify.com/track/7ns8gWGNO1vbNF2r7wDPEH"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Bokoko (Extra Musica)",
         "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
@@ -481,7 +553,7 @@
       "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Who Dembi",
         "url": "https://open.spotify.com/album/1FA9LlthaSq66VHen2U2c6"
@@ -501,7 +573,7 @@
       "url": "https://open.spotify.com/track/4TMimp5DUch0hydlFQbzph"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Coup\u00e9 D\u00e9cal\u00e9 Zone (Sushiraw)",
         "url": "https://open.spotify.com/album/1Vc4xc4Gfc1RAK33LFMJlQ"
@@ -517,7 +589,7 @@
       "url": "https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Mackpiano, Vol. 1",
         "url": "https://open.spotify.com/album/6KH1ywMPsztDOeymVcfrHZ"
@@ -537,7 +609,7 @@
       "url": "https://open.spotify.com/track/35GMKeItBSoJCpzwyQWdpN"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Julio Cesar (Amapiano)",
         "url": "https://open.spotify.com/album/0v7n1Dy8POTrf0uclPKm2P"
@@ -553,7 +625,7 @@
       "url": "https://open.spotify.com/track/3RDFbEo7EZado9KJVtLFc5"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Tlb",
         "url": "https://open.spotify.com/album/4xKh0zkc1agvKgK3bIgLyT"
@@ -569,31 +641,23 @@
       "url": "https://open.spotify.com/track/5MbgvVfSVON5bRng2iuboW"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/5VOK2852Mgf5GBTkUe1mFR"
+        "name": "Ebembe ya dula",
+        "url": "https://open.spotify.com/album/7MGOXUe5INfN1Xq94x3fDK"
       },
       "artists": [
         {
-          "name": "Serge Ibaka",
-          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Martial Pa'nucci",
+          "url": "https://open.spotify.com/artist/2SNXLRyVOjrNqMzqbUkjLB"
         }
       ],
-      "duration_ms": 164397,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/3NPhVitPBsJnXkJeMvjNb2"
+      "duration_ms": 261174,
+      "name": "Ebembe ya dula",
+      "url": "https://open.spotify.com/track/1gKHVSEhXOiBlygk6GnXty"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "White Berry (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5o4UdtYpFLzBSGIuAPiBDU"
@@ -613,7 +677,7 @@
       "url": "https://open.spotify.com/track/4UkJjtS8GCk1A0KDhV0K79"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Je Pense \u00ab Poison \u00bb",
         "url": "https://open.spotify.com/album/6J7Q7SA4FwKekL6vtcGrOL"
@@ -629,7 +693,7 @@
       "url": "https://open.spotify.com/track/5aanLdGgQfMm3qUViDhw2i"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Gbadolite",
         "url": "https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN"
@@ -653,7 +717,7 @@
       "url": "https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Lindanda",
         "url": "https://open.spotify.com/album/5935dQepHG1XuwfD56FCgF"
@@ -669,7 +733,7 @@
       "url": "https://open.spotify.com/track/6zGeeZu4ZIGWmGtUfnZxaq"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Mbila (Jo\u00e3o Selva Remix)",
         "url": "https://open.spotify.com/album/4CexHLC4PDH9rCz9l33xpo"
@@ -693,7 +757,7 @@
       "url": "https://open.spotify.com/track/1gW5zzEe41Hdbd3l1CYllP"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Olandi",
         "url": "https://open.spotify.com/album/7v6OQO2tJ2RgYlVb9uzPVX"
@@ -709,7 +773,7 @@
       "url": "https://open.spotify.com/track/5n2wtoHsSbah40D22SrHc5"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Bana Zamba",
         "url": "https://open.spotify.com/album/6fsvoJxNacQJtGVjCOjzRG"
@@ -725,7 +789,7 @@
       "url": "https://open.spotify.com/track/7dQ27JNR15yJITJaj8deG7"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Banzutu",
         "url": "https://open.spotify.com/album/7Jzjn8ohUShrkfdx2nItW5"
@@ -745,7 +809,7 @@
       "url": "https://open.spotify.com/track/4ZOWoIGZML7llXnJKaew7N"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Dindon",
         "url": "https://open.spotify.com/album/0GqeIb1eJrv7ihFpVb0y7z"
@@ -765,7 +829,7 @@
       "url": "https://open.spotify.com/track/6qPNkMZwvdlUUD3s1fXDQs"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Misu na misu",
         "url": "https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i"
@@ -781,7 +845,7 @@
       "url": "https://open.spotify.com/track/0rEnLlgpNdxntNU7irVb51"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Erratum (Deluxe Edition)",
         "url": "https://open.spotify.com/album/12bDmtxnWnTnZxNF8kpvac"
@@ -797,7 +861,7 @@
       "url": "https://open.spotify.com/track/6VWkqhuIWghoye62r47cpn"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Coup\u00e9 D\u00e9cal\u00e9 Congolais",
         "url": "https://open.spotify.com/album/6zcYVb2j21Mr2wHr7AlYOj"
@@ -813,7 +877,7 @@
       "url": "https://open.spotify.com/track/0rpHNyZcbc2CGPbQoTdUpm"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Nawe",
         "url": "https://open.spotify.com/album/6WgcT5ZDMaV10p0NdVwfKt"
@@ -837,7 +901,7 @@
       "url": "https://open.spotify.com/track/1eP4rDdU5UohUBzfksBzOX"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Okay Okay",
         "url": "https://open.spotify.com/album/4CHd2zP6zTBKzDSPq2yDez"
@@ -853,7 +917,7 @@
       "url": "https://open.spotify.com/track/1lTRxUk02o0pSya1bIQJyM"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Elengi (feat. Koffi Olomide)",
         "url": "https://open.spotify.com/album/1u1FkfGwN92at9xyF791nf"
@@ -873,7 +937,7 @@
       "url": "https://open.spotify.com/track/0TBRFyidKDV8Gswfc4haxh"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Quelle Ambiance",
         "url": "https://open.spotify.com/album/0dwSnuZAS4lbMnWMtLk6mO"
@@ -901,7 +965,7 @@
       "url": "https://open.spotify.com/track/2uRHFnYwI3vX5DAWqsWa26"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Paka",
         "url": "https://open.spotify.com/album/5MkA3ZHGmPmfeUlZLjNM9F"
@@ -917,7 +981,7 @@
       "url": "https://open.spotify.com/track/1KbEjbFZlGJv37Lm6XCfbl"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Chambre Noire",
         "url": "https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv"
@@ -933,7 +997,7 @@
       "url": "https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "C'est dos\u00e9",
         "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
@@ -949,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "SMS for Location, Vol. 4",
         "url": "https://open.spotify.com/album/6wTdl91po1VgHgLsFa6YJk"
@@ -969,7 +1033,7 @@
       "url": "https://open.spotify.com/track/74M1wN8Zv3mVZehAARrsU2"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Na Boyi",
         "url": "https://open.spotify.com/album/10CDU3zOIH1caB8E1MZa2y"
@@ -985,7 +1049,7 @@
       "url": "https://open.spotify.com/track/6T8xtq9KAapHyYAij2iRu6"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Toleka",
         "url": "https://open.spotify.com/album/6WKNnYnQRTex7lPuYM8PE8"
@@ -1001,7 +1065,7 @@
       "url": "https://open.spotify.com/track/1KEROJ9ebYie5dficNGUFD"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Trop d'style",
         "url": "https://open.spotify.com/album/1JK3DwucZnzPmNqeRhcNID"
@@ -1017,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3psZCp00KQYDNUEFomZuMt"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Yoka Ndul\u00e9",
         "url": "https://open.spotify.com/album/7vf9lrWbpi14omOpc9rlsh"
@@ -1033,7 +1097,7 @@
       "url": "https://open.spotify.com/track/1ZdJBKCthpJRygkyXfK6OE"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Dior (Remix)",
         "url": "https://open.spotify.com/album/6sZZqxemLuzmPWZiW6PFGu"
@@ -1049,7 +1113,7 @@
       "url": "https://open.spotify.com/track/0qMTefNvgkvCO9cQ4feQSe"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI"
@@ -1073,7 +1137,7 @@
       "url": "https://open.spotify.com/track/215HuX5KUiYvdfQ5cO33Xd"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Gentleman 2.0",
         "url": "https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv"
@@ -1097,7 +1161,7 @@
       "url": "https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Matete",
         "url": "https://open.spotify.com/album/2AIFNlOYysG3HqYjHnxaMd"
@@ -1113,7 +1177,7 @@
       "url": "https://open.spotify.com/track/5wp41PrAJyoA6PYfraw98Z"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "L\u00c9L\u00c9",
         "url": "https://open.spotify.com/album/4aHWhpQsSAa9NAgg8ldI4D"
@@ -1129,7 +1193,7 @@
       "url": "https://open.spotify.com/track/0GXrYFdjPgVYxxnERdqGj5"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
@@ -1149,7 +1213,23 @@
       "url": "https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Wosso",
+        "url": "https://open.spotify.com/album/4PZ3zMNWTBompKMYzwJYWj"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ritier Wata",
+          "url": "https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb"
+        }
+      ],
+      "duration_ms": 397022,
+      "name": "Wosso",
+      "url": "https://open.spotify.com/track/1BXm3Tq7FI0ZViLTQUaZM0"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Sakwado",
         "url": "https://open.spotify.com/album/1lXZ9T2DUQuxUnqtbiSL3W"
@@ -1173,7 +1253,7 @@
       "url": "https://open.spotify.com/track/6wQzmZREyVEFT2LTWoK3jE"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/3FUIw0addqmbvRuM00QECL"
@@ -1189,7 +1269,7 @@
       "url": "https://open.spotify.com/track/5YHN0JC9DIJW3UtNOlVJJz"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Burning Desire",
         "url": "https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b"
@@ -1205,7 +1285,7 @@
       "url": "https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Mbongo",
         "url": "https://open.spotify.com/album/5Jg5DLWuVnf08USPjI1cBs"
@@ -1221,27 +1301,7 @@
       "url": "https://open.spotify.com/track/7MNpmYELfvKKdLHAEUbCet"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "J'ai trop de doute",
-        "url": "https://open.spotify.com/album/7A1sGtnEjm2j2GAZiNeODh"
-      },
-      "artists": [
-        {
-          "name": "Unice Impacha",
-          "url": "https://open.spotify.com/artist/6LRDzElFJeeRgHwV50rfeE"
-        },
-        {
-          "name": "Muz",
-          "url": "https://open.spotify.com/artist/431RfrruAfhLUmeQz6GzXI"
-        }
-      ],
-      "duration_ms": 168671,
-      "name": "J'ai trop de doute",
-      "url": "https://open.spotify.com/track/6Y7id1J4IhIgAMUkNJDAjM"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/0isIGnIWJ4lVVmG2rvXF7I"
@@ -1261,23 +1321,7 @@
       "url": "https://open.spotify.com/track/4qRgqWuM5PNKiuD7x3UPP9"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Loketu",
-        "url": "https://open.spotify.com/album/7iAhhT4SscGaSNhsNEUFH6"
-      },
-      "artists": [
-        {
-          "name": "Ryan De La Cruz",
-          "url": "https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Loketu",
-      "url": "https://open.spotify.com/track/1z1QfpUCH0tp9T5aAVLStB"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/1lLdivmzyjNWRMos5ttRKa"
@@ -1293,7 +1337,7 @@
       "url": "https://open.spotify.com/track/2wu0PnQQt12He8L2pQUS7w"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/3xFXM7xa6al9Fgxn0m608C"
@@ -1313,7 +1357,7 @@
       "url": "https://open.spotify.com/track/4UuBi6buMUZ0kOlYHEIn1m"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Tu M'as Tout Donn\u00e9 (Extended Version)",
         "url": "https://open.spotify.com/album/77PWsjBJ56uVOvjZDE1zIT"
@@ -1329,7 +1373,7 @@
       "url": "https://open.spotify.com/track/3jt07FhLh159y0nT9sjP7R"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Do Me Like",
         "url": "https://open.spotify.com/album/0OqBGMazZrMYgRmmhPuvTO"
@@ -1357,7 +1401,7 @@
       "url": "https://open.spotify.com/track/4nQxcx1puImaEuSbglXFvt"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/29rzeyxIjhDvwo5Ht5mezJ"
@@ -1373,7 +1417,7 @@
       "url": "https://open.spotify.com/track/7mbjCt8jJCCdHJGiw8a9TL"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Pusana",
         "url": "https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD"
@@ -1393,7 +1437,7 @@
       "url": "https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Oya Ngai",
         "url": "https://open.spotify.com/album/3txMN0jWePWXPVvgxyMvOE"
@@ -1409,23 +1453,7 @@
       "url": "https://open.spotify.com/track/0fIrK7LNla8OK5QmIjTXP1"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7"
-      },
-      "artists": [
-        {
-          "name": "BMK",
-          "url": "https://open.spotify.com/artist/7glinXeNR9Fs1UXGRcrbDk"
-        }
-      ],
-      "duration_ms": 160007,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Pere (Remix Version)",
         "url": "https://open.spotify.com/album/25xdyOouxjZNZ5PSO6tieP"
@@ -1449,7 +1477,7 @@
       "url": "https://open.spotify.com/track/2c5vJZBWfxd6eTGkpg1PN2"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "A-T1",
         "url": "https://open.spotify.com/album/0LbmKrpTR7TE6VUN8nTpRs"
@@ -1465,7 +1493,7 @@
       "url": "https://open.spotify.com/track/3xAoNXwkn6sRB5SjYqtQvc"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Ba Koti",
         "url": "https://open.spotify.com/album/2X9h36btJkpeFwlcYVgoQz"
@@ -1485,7 +1513,7 @@
       "url": "https://open.spotify.com/track/6CbDfWbO76SoXmiGj2V01w"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Atalaku",
         "url": "https://open.spotify.com/album/6z4rOtn4oWJmSISqwXYhpE"
@@ -1501,23 +1529,7 @@
       "url": "https://open.spotify.com/track/4f45BUGMPheVBmtxg5jVAf"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Wosso",
-        "url": "https://open.spotify.com/album/4PZ3zMNWTBompKMYzwJYWj"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ritier Wata",
-          "url": "https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb"
-        }
-      ],
-      "duration_ms": 397022,
-      "name": "Wosso",
-      "url": "https://open.spotify.com/track/1BXm3Tq7FI0ZViLTQUaZM0"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Escapade",
         "url": "https://open.spotify.com/album/2i3fdjcO4bn4XSfrfqdyXl"
@@ -1533,7 +1545,7 @@
       "url": "https://open.spotify.com/track/0PaTtFEQVVzknrmkAxpEk9"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Kilulu",
         "url": "https://open.spotify.com/album/4PXi2QBQL40nhwlofLPM2w"
@@ -1559,22 +1571,6 @@
       "duration_ms": 234359,
       "name": "Kilulu",
       "url": "https://open.spotify.com/track/21EIqCWgU610VuoHSamaMu"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "2xt",
-        "url": "https://open.spotify.com/album/140TfqfjBZ0RrgdQHzpJjf"
-      },
-      "artists": [
-        {
-          "name": "Big Molimo AK",
-          "url": "https://open.spotify.com/artist/5rv1KON2TIHnOPhQYYDIEp"
-        }
-      ],
-      "duration_ms": 126673,
-      "name": "2xt",
-      "url": "https://open.spotify.com/track/3OJsrBDnnP0KuMvHJbD2Xk"
     }
   ],
   "unique_name": "Biso Na Biso",

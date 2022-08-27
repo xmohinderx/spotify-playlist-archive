@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Explore a genre bending universe centered around jazz. Cover: Cisco Swank & Luke Titus",
+  "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
   "name": "Orbit",
   "published_playlist_ids": [
     "1HzUqJHRCll2EIj4taxTFD"
@@ -45,6 +45,28 @@
       "duration_ms": 257079,
       "name": "'Til the Next Full (eyes)",
       "url": "https://open.spotify.com/track/7jA2864ZUuQjrio9h7sYkE"
+    },
+    {
+      "album": {
+        "name": "(Why You So) Green With Envy",
+        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Oscar #Worldpeace",
+          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292306,
+      "name": "(Why You So) Green With Envy",
+      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
     },
     {
       "album": {
@@ -129,6 +151,24 @@
       "duration_ms": 289332,
       "name": "4theDAE",
       "url": "https://open.spotify.com/track/51AqPrym1n5qGC5rtDHRiJ"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/6lTz3fldD77jsCYhkgSOAl"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174053,
+      "name": "777",
+      "url": "https://open.spotify.com/track/11cSwFAYTfXbeqwEvu2DQm"
     },
     {
       "album": {
@@ -1380,6 +1420,32 @@
     },
     {
       "album": {
+        "name": "Cryin' Heart",
+        "url": "https://open.spotify.com/album/01IOkT1OwNi3WhwsP2yojE"
+      },
+      "artists": [
+        {
+          "name": "Cloudchord",
+          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209428,
+      "name": "Cryin' Heart",
+      "url": "https://open.spotify.com/track/6ZMugawDueowg6Zi4X0mN3"
+    },
+    {
+      "album": {
         "name": "Keys Of Light",
         "url": "https://open.spotify.com/album/3AEzgItKU50BHG5AYLlp4q"
       },
@@ -1747,7 +1813,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 265357,
       "name": "Drones (feat. Kendrick Lamar, Snoop Dogg, Ty Dolla $ign & James Fauntleroy)",
       "url": "https://open.spotify.com/track/3zdsJOO5FIAgukJUMgboV8"
@@ -2759,7 +2825,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 230504,
       "name": "Is It Me?",
       "url": "https://open.spotify.com/track/3DSxZGmDPVSB4lgWVxBQ3P"
@@ -3147,7 +3213,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 219179,
       "name": "Let Me Tell You",
       "url": "https://open.spotify.com/track/6mvNXpr2TruQixVp4VjEQR"
@@ -3274,6 +3340,24 @@
     },
     {
       "album": {
+        "name": "Man Invisible",
+        "url": "https://open.spotify.com/album/6vwSRp65WbKvCTQhg2EKIz"
+      },
+      "artists": [
+        {
+          "name": "Elise Trouw",
+          "url": "https://open.spotify.com/artist/6jeroC7T0j4Dvz9y3gtofR"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Man Invisible",
+      "url": "https://open.spotify.com/track/0AMfoVsFl0tR9wgEzlJWBf"
+    },
+    {
+      "album": {
         "name": "Meet Me Halfway",
         "url": "https://open.spotify.com/album/6fG5gN4RuarlVkRhfM8e7H"
       },
@@ -3381,7 +3465,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 196845,
       "name": "Memory Leaves",
       "url": "https://open.spotify.com/track/4LprWT4OjEawpeh8WeDE8W"
@@ -3450,6 +3534,28 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/61JxJYtMRSaD7T2lToWmEu"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199155,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1esSsvske6kym5IbfBmPQZ"
+    },
+    {
+      "album": {
         "name": "More Than A Hustler",
         "url": "https://open.spotify.com/album/2KBqzJ2kZj9hFylfEO9QVH"
       },
@@ -3465,7 +3571,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 157613,
       "name": "More Than A Hustler",
       "url": "https://open.spotify.com/track/0KECJERVEYL0I72yErbHWm"
@@ -3743,7 +3849,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 121374,
       "name": "Nothing's Changed",
       "url": "https://open.spotify.com/track/3rjZ7w1ZCfCsHSRUAe6z3Q"
@@ -3865,6 +3971,36 @@
       "duration_ms": 72865,
       "name": "Old Antique Shop",
       "url": "https://open.spotify.com/track/3ccxDTiF91eNXnSbmL3ixM"
+    },
+    {
+      "album": {
+        "name": "Oasis Park III",
+        "url": "https://open.spotify.com/album/0gyKYbsf4q8U5RaSBSqp3s"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "Wendy Kay",
+          "url": "https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6"
+        },
+        {
+          "name": "DEZ",
+          "url": "https://open.spotify.com/artist/3msuv9fbuApqt9E4cJ6HWv"
+        },
+        {
+          "name": "Supersun",
+          "url": "https://open.spotify.com/artist/6CYl2WXTzos16wc8bl3ZPZ"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137076,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/1enl38hg9YOTE9odtClSAx"
     },
     {
       "album": {
@@ -4001,6 +4137,28 @@
       "duration_ms": 182052,
       "name": "Personal",
       "url": "https://open.spotify.com/track/0j7Z2IptRFKFlPWllx63hx"
+    },
+    {
+      "album": {
+        "name": "Peter Parker (feat. Asher Roth)",
+        "url": "https://open.spotify.com/album/6uq3jGgDfCNtyjtw1Man4x"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey",
+          "url": "https://open.spotify.com/artist/5srfZZrn66Wf2JoyO2o9yZ"
+        },
+        {
+          "name": "Asher Roth",
+          "url": "https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Peter Parker (feat. Asher Roth)",
+      "url": "https://open.spotify.com/track/6EYAJRC9blRX7SOGRU5u61"
     },
     {
       "album": {
@@ -4493,7 +4651,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 124505,
       "name": "Sacred Grounds",
       "url": "https://open.spotify.com/track/4uJSDkjMh3prFn7Zr8dARf"
@@ -5730,6 +5888,36 @@
     },
     {
       "album": {
+        "name": "Treat U Good",
+        "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
+      },
+      "artists": [
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        },
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        },
+        {
+          "name": "Lyriya",
+          "url": "https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI"
+        },
+        {
+          "name": "Meron",
+          "url": "https://open.spotify.com/artist/26K1nMBCHOa5K83lRkvAWL"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217791,
+      "name": "Treat U Good",
+      "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
+    },
+    {
+      "album": {
         "name": "Trouble - A COLORS ENCORE",
         "url": "https://open.spotify.com/album/2EGD759DhDCRXPT9vHiXjZ"
       },
@@ -5851,7 +6039,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 136000,
       "name": "Up to You",
       "url": "https://open.spotify.com/track/0GdeitSxIUCO33j7g710HF"
@@ -6154,6 +6342,24 @@
     },
     {
       "album": {
+        "name": "Without You, Within Me",
+        "url": "https://open.spotify.com/album/6ezqbzCKhFIyf7x0icOxUG"
+      },
+      "artists": [
+        {
+          "name": "30/70",
+          "url": "https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237240,
+      "name": "Without You, Whithin Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3wrq3jtpNuA8Dty2IKy2AI"
+    },
+    {
+      "album": {
         "name": "Wouldn't Even Notice",
         "url": "https://open.spotify.com/album/4CXhrvfA2cho9cnbhQ5faD"
       },
@@ -6195,7 +6401,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 223728,
       "name": "Your Greatest Weapon",
       "url": "https://open.spotify.com/track/3L0Xa2NRDhXYoQqLf2lkQx"

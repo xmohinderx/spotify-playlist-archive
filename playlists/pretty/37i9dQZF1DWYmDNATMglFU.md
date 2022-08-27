@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. leah kate
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,329 likes - 72 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,336 likes - 72 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

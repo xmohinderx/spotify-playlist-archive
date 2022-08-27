@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 179154,
       "name": "Fari Spenti.",
       "url": "https://open.spotify.com/track/4qzaQs0yLRwEaBwWHAIySU"
@@ -1690,6 +1690,28 @@
     },
     {
       "album": {
+        "name": "Kojima",
+        "url": "https://open.spotify.com/album/2YJSVXhcMTd6Ft8Rol8fUH"
+      },
+      "artists": [
+        {
+          "name": "Pufuleti",
+          "url": "https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A"
+        },
+        {
+          "name": "Zutera",
+          "url": "https://open.spotify.com/artist/3KQur0YWqvQYgn5PdXHnn0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126593,
+      "name": "Kojima",
+      "url": "https://open.spotify.com/track/2ADu47LHn7w7B9iNvgwadZ"
+    },
+    {
+      "album": {
         "name": "Riproduzione Vietata",
         "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
@@ -2009,7 +2031,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 262666,
       "name": "Liberi e schiavi",
       "url": "https://open.spotify.com/track/3LDkh7mW3sGkWY8hn2mdNZ"
@@ -2125,7 +2147,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 151623,
       "name": "Lunatico",
       "url": "https://open.spotify.com/track/7tS7fSQ34xZzMkWNNo1Sfm"
@@ -2939,7 +2961,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 127750,
       "name": "Oltre l'apparentemente bello",
       "url": "https://open.spotify.com/track/6cNRZxzb9Z7vBnM4tODloT"
@@ -3575,7 +3597,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 285600,
       "name": "Riflessioni di un'anima inquieta",
       "url": "https://open.spotify.com/track/2mVgLG2qHFV5x83Z0NUJ99"

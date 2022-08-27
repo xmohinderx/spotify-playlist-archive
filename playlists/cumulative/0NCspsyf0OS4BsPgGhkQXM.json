@@ -532,6 +532,24 @@
     },
     {
       "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/6VMdhmUtWuoZtG866uXm9j"
+      },
+      "artists": [
+        {
+          "name": "BB Cooper",
+          "url": "https://open.spotify.com/artist/2J1QfFspvaEyOJ4w4GhLGi"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Anywhere You Want",
+      "url": "https://open.spotify.com/track/5ELKE3vp9qZ2war37maWN3"
+    },
+    {
+      "album": {
         "name": "Apogee",
         "url": "https://open.spotify.com/album/2FxL8igcB5IhOs8wsauSnH"
       },
@@ -1017,6 +1035,28 @@
       "duration_ms": 213600,
       "name": "Break Off",
       "url": "https://open.spotify.com/track/0BtfxMl5G3h4mj9XQXuTDG"
+    },
+    {
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/3wDZeVyPFa6gindhyvg6bT"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/32ohfXjRAJoj43Jgtm02cP"
     },
     {
       "album": {
@@ -6370,6 +6410,28 @@
     },
     {
       "album": {
+        "name": "Pissed Off",
+        "url": "https://open.spotify.com/album/7yrnKNaZXJkE0HhafLbsHe"
+      },
+      "artists": [
+        {
+          "name": "Roet",
+          "url": "https://open.spotify.com/artist/3WMxxfaDFdQBmomHW2yGoY"
+        },
+        {
+          "name": "neverwaves",
+          "url": "https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "Pissed Off",
+      "url": "https://open.spotify.com/track/6cGqGZTaZWEA4uCTy2fadR"
+    },
+    {
+      "album": {
         "name": "PLEASE",
         "url": "https://open.spotify.com/album/3CdaspeVshcV4SSy4R0N1r"
       },
@@ -6921,7 +6983,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 220800,
       "name": "Sad Reality (feat. Casey Cook)",
       "url": "https://open.spotify.com/track/2O15uKcn4bG7XJNGgILDTE"
@@ -8500,6 +8562,28 @@
     },
     {
       "album": {
+        "name": "Two Face (Omido Remix)",
+        "url": "https://open.spotify.com/album/4OCnAlV40y5U5uFRtNFzpq"
+      },
+      "artists": [
+        {
+          "name": "Jake Daniels",
+          "url": "https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh"
+        },
+        {
+          "name": "Omido",
+          "url": "https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "Two Face (Omido Remix)",
+      "url": "https://open.spotify.com/track/3lXNIytpQCrM77Ul6ev03T"
+    },
+    {
+      "album": {
         "name": "ULTRA",
         "url": "https://open.spotify.com/album/7KFGsYeWP46xuPSOqP867h"
       },
@@ -8828,6 +8912,28 @@
     },
     {
       "album": {
+        "name": "Walked Through Fire",
+        "url": "https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn"
+      },
+      "artists": [
+        {
+          "name": "Awakend",
+          "url": "https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O"
+        },
+        {
+          "name": "Isaac Warburton",
+          "url": "https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214883,
+      "name": "Walked Through Fire",
+      "url": "https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug"
+    },
+    {
+      "album": {
         "name": "Want to Know",
         "url": "https://open.spotify.com/album/1lBWKizQH5gBD4ZLTyVtE6"
       },
@@ -9011,6 +9117,28 @@
       "duration_ms": 204000,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/7x9wHXfhDr63mFJJC0efxw"
+    },
+    {
+      "album": {
+        "name": "While We're Young (Marze Remix)",
+        "url": "https://open.spotify.com/album/62JCkNsrR5gweeEM5ySIWA"
+      },
+      "artists": [
+        {
+          "name": "Josh Rivera",
+          "url": "https://open.spotify.com/artist/1MPWHkKtgL5X61RI8JS6cn"
+        },
+        {
+          "name": "Marze",
+          "url": "https://open.spotify.com/artist/6JoNplNFJPDvDHBB4WRq7T"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "While We're Young - Marze Remix",
+      "url": "https://open.spotify.com/track/0B5jpdoINneNjnPZ8yAzCu"
     },
     {
       "album": {

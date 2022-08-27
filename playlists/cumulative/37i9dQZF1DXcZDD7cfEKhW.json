@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177929,
       "name": "All My Loving - Madism Remix",
       "url": "https://open.spotify.com/track/6iW66aukghrIFDU1uqLZYf"
@@ -326,6 +326,32 @@
     },
     {
       "album": {
+        "name": "All That Really Matters (Will Clarke Remix)",
+        "url": "https://open.spotify.com/album/4PXFoJesZ5XrO4mmwTSNfm"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229663,
+      "name": "All That Really Matters - Will Clarke Remix",
+      "url": "https://open.spotify.com/track/67stT9mRSOt6eO1bjB2AlH"
+    },
+    {
+      "album": {
         "name": "AM Gold (Tobtok Remix)",
         "url": "https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD"
       },
@@ -345,7 +371,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 189079,
       "name": "AM Gold - Tobtok Remix",
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
@@ -585,7 +611,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 249280,
       "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
       "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
@@ -607,7 +633,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 181927,
       "name": "Better Days - Galantis Remix",
       "url": "https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF"
@@ -1101,7 +1127,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 173709,
       "name": "Catching A Dream (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/3qBqh2AVvAJCoY3IR3k1jF"
@@ -1253,7 +1279,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
@@ -1523,7 +1549,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 156749,
       "name": "Crazy What Love Can Do (with Becky Hill) [\u00d6wnboss Remix]",
       "url": "https://open.spotify.com/track/0UV1xzcuNfWs4fWc8ZsB3Y"
@@ -1660,6 +1686,40 @@
     },
     {
       "album": {
+        "name": "Deep Down (feat. Never Dull) [Nathan Dawe Remix]",
+        "url": "https://open.spotify.com/album/0pTxtBYmfKmTqlMdJkQOhx"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166463,
+      "name": "Deep Down (feat. Never Dull) - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/6Ku2dAf2mm5ne7tT7QUbdF"
+    },
+    {
+      "album": {
         "name": "Deep End (SIDEPIECE Remix)",
         "url": "https://open.spotify.com/album/3G4HzFDfCJUBJ4u7G3IdVc"
       },
@@ -1753,6 +1813,32 @@
       "duration_ms": 125280,
       "name": "Do It To It - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
+    },
+    {
+      "album": {
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Don't Forget My Love - John Summit Remix",
+      "url": "https://open.spotify.com/track/1iKiLPkFnYhbCm5uvaDwjS"
     },
     {
       "album": {
@@ -2855,7 +2941,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 160666,
       "name": "Good Ones - THAT KIND Remix",
       "url": "https://open.spotify.com/track/1LHhEn432gLhN8tHz19uoE"
@@ -3428,6 +3514,28 @@
     },
     {
       "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202245,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "album": {
         "name": "Holiday (220 KID Remix)",
         "url": "https://open.spotify.com/album/6HWyyixlbUmg3e6aSU3WIX"
       },
@@ -3838,6 +3946,28 @@
     },
     {
       "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "album": {
         "name": "If The World Just Danced (MOTi Remix)",
         "url": "https://open.spotify.com/album/3z5pt1H2x64IxipkGh9pjy"
       },
@@ -3853,7 +3983,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 209013,
       "name": "If The World Just Danced - MOTi Remix",
       "url": "https://open.spotify.com/track/7kEh6jNlJOAhC0lv6XV3iw"
@@ -3997,7 +4127,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 267706,
       "name": "In The Dark - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/1Wy1cBJEgd9yV6fg97vFVz"
@@ -4737,7 +4867,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 182578,
       "name": "Maybe You\u2019re The Problem - Crush Club Remix",
       "url": "https://open.spotify.com/track/0Si1vYQbl3IHbMkukfEHir"
@@ -5025,7 +5155,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 278120,
       "name": "Moth To A Flame (with The Weeknd, Chris Lake) - Chris Lake Remix",
       "url": "https://open.spotify.com/track/7u6f174xl25TOBHA2HpFHO"
@@ -5963,7 +6093,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 264566,
       "name": "Run - Mel\u00e9 Remix",
       "url": "https://open.spotify.com/track/3Z5Wdw6oozG5KQtg4cGTDz"
@@ -5989,7 +6119,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 207096,
       "name": "Run - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/6GULHU9yNAGXYxCItTcLDz"
@@ -6239,7 +6369,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 244413,
       "name": "See-Line Woman - Riton Remix",
       "url": "https://open.spotify.com/track/2BnoxYpCeEiDQSUNx1TZpf"
@@ -6425,7 +6555,7 @@
       ],
       "date_added": "2021-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 189677,
       "name": "Show Me Love - Dubdogz Remix",
       "url": "https://open.spotify.com/track/3rawuN6ZSevOzM5FiAFRIO"
@@ -6825,7 +6955,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 188031,
       "name": "Still Dancing - Kito Remix",
       "url": "https://open.spotify.com/track/1XttwTKO9oQAPnAwiLrK2S"
@@ -6961,7 +7091,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 218110,
       "name": "Summer In New York - Illyus & Barrientos Remix",
       "url": "https://open.spotify.com/track/7wZdPcXiD9gqJa0uMxw2q9"
@@ -7182,6 +7312,28 @@
     },
     {
       "album": {
+        "name": "Sway (Devault Remix)",
+        "url": "https://open.spotify.com/album/1aTsk8WDk9Gt9HPaiuJRKF"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Sway - Devault Remix",
+      "url": "https://open.spotify.com/track/2x6JiPZP4myMTa0mqhWwNR"
+    },
+    {
+      "album": {
         "name": "Sweet Talker (Hot Since 82 Remix)",
         "url": "https://open.spotify.com/album/14CyZ9SYNAWp1reg3OfrHv"
       },
@@ -7323,7 +7475,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 260522,
       "name": "Teardrops (feat. Majid Jordan) - Belters Only Remix",
       "url": "https://open.spotify.com/track/4TtQjcHGtCmYA1UCINeLIZ"
@@ -7595,7 +7747,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 185218,
       "name": "The Feels - Benny Benassi Remix",
       "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
@@ -7943,7 +8095,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 181878,
       "name": "universe (DTB Remix) - Spotify Singles",
       "url": "https://open.spotify.com/track/3VgbUDt8Vz6RwcRRzjJ3xB"
@@ -8109,7 +8261,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 147096,
       "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/6NazIrzaE4n57E7ObZNVFC"
@@ -8323,7 +8475,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 207107,
       "name": "What, Me Worry? - A-Trak Remix",
       "url": "https://open.spotify.com/track/5Et1Ou9NJaX3f6vuWcsJDm"
@@ -8563,7 +8715,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 190327,
       "name": "Yo Yo - R3HAB Remix",
       "url": "https://open.spotify.com/track/3qJzTkJCiqEeoMcr0XYDGy"

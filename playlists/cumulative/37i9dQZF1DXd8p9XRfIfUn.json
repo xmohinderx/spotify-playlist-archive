@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-22",
-  "description": "Lo mejor de la nueva. Foto: ROBI, Jay Wheeler",
+  "description": "Lo mejor de la nueva. Foto: Kris Floys, Jota Rosa, Feid",
   "name": "Academia Reggaet\u00f3n",
   "published_playlist_ids": [
     "3ZGG1JOi7RasWn3HYxETEa"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0nzHhpOd7pV1ABo9P4mQfY"
+      },
+      "artists": [
+        {
+          "name": "Montano",
+          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195135,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/35ccLhqnXTaoA5kk8IPQdH"
+    },
     {
       "album": {
         "name": "Ayer (feat. Lautaro Lopez)",
@@ -414,6 +432,36 @@
     },
     {
       "album": {
+        "name": "Como \u00d1engo (feat. Kris Floyd)",
+        "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
+      },
+      "artists": [
+        {
+          "name": "Club Diecis\u00e9is",
+          "url": "https://open.spotify.com/artist/3PVOsu4zHMse1c46pqTfnT"
+        },
+        {
+          "name": "Jota Rosa",
+          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204136,
+      "name": "Como \u00d1engo (feat. Kris Floyd)",
+      "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
+    },
+    {
+      "album": {
         "name": "Completa",
         "url": "https://open.spotify.com/album/4YPZ6oBBlkzgR0tufiBXC3"
       },
@@ -645,7 +693,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 222127,
       "name": "Duro",
       "url": "https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo"
@@ -789,6 +837,24 @@
       "duration_ms": 202478,
       "name": "Garabatos (with Jay Wheeler)",
       "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
+    },
+    {
+      "album": {
+        "name": "Guilla",
+        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Guilla",
+      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
     },
     {
       "album": {
@@ -1061,7 +1127,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 131731,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/5qd9O3TogUZ6WTgyhpak1M"
@@ -1197,7 +1263,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 164002,
       "name": "La Pr\u00e1ctica",
       "url": "https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id"
@@ -1669,7 +1735,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 180140,
       "name": "No Digas Nada",
       "url": "https://open.spotify.com/track/6gB5c3HJIoc54dUgLCCQhp"
@@ -2604,6 +2670,50 @@
     },
     {
       "album": {
+        "name": "Te Juro",
+        "url": "https://open.spotify.com/album/1rwYQzE9zwJfz8gkqeRVVY"
+      },
+      "artists": [
+        {
+          "name": "Dejota2021",
+          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149326,
+      "name": "Te Juro",
+      "url": "https://open.spotify.com/track/0JElJmnJDGum8BGOE4yNsU"
+    },
+    {
+      "album": {
+        "name": "Te Toco",
+        "url": "https://open.spotify.com/album/5d7OxsTKbBnQBKTK90qvzT"
+      },
+      "artists": [
+        {
+          "name": "Gianni Rota",
+          "url": "https://open.spotify.com/artist/4QCnCsNS6EMIUbIccfZobj"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146768,
+      "name": "Te Toco",
+      "url": "https://open.spotify.com/track/5IrDx7oJmgwYRgNBzvpuwQ"
+    },
+    {
+      "album": {
         "name": "Toque de Queda",
         "url": "https://open.spotify.com/album/2rWEMcJOrENRu6uB4AJITv"
       },
@@ -2911,7 +3021,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 158546,
       "name": "Verificada",
       "url": "https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4"

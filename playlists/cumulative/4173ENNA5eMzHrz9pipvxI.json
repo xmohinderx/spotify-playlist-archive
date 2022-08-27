@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Yves V x Conor Maynard",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mike Williams",
   "name": "Spinnin' Records Brand New",
   "published_playlist_ids": [
     "5y4MrJJ7gKnIUTSID8FBc6"
@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Always Feel Like",
+        "url": "https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Always Feel Like",
+      "url": "https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS"
+    },
+    {
+      "album": {
         "name": "Always on My Mind (feat. Nelson Elle)",
         "url": "https://open.spotify.com/album/53A1vLUDmTn8143cTIRXXv"
       },
@@ -81,7 +99,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 164516,
       "name": "Always on My Mind (feat. Nelson Elle)",
       "url": "https://open.spotify.com/track/11z8WBKMnjcD3nwoAmybJm"
@@ -125,7 +143,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 155500,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/6vaZwaI3J0msnoAhX06Nmx"
@@ -363,7 +381,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 165294,
       "name": "Better Than Me (feat. Okafuwa)",
       "url": "https://open.spotify.com/track/4jB7Xfz069qEW3MaKH5vAy"
@@ -586,6 +604,28 @@
     },
     {
       "album": {
+        "name": "Closing Time",
+        "url": "https://open.spotify.com/album/0JERqErfZosNVy4N9TBOVH"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Matluck",
+          "url": "https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202714,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/4V5OXRGuvskptvPp4Ty1VK"
+    },
+    {
+      "album": {
         "name": "Club Sound",
         "url": "https://open.spotify.com/album/42CRuLjPlRuJD21zOiDJSF"
       },
@@ -637,7 +677,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 230909,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/1h1IERBZcsq6HVYbvLkmoT"
@@ -663,7 +703,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 142380,
       "name": "Danger (feat. \u00c9milie Rachel)",
       "url": "https://open.spotify.com/track/3np97yMp2XNmRw93pQhKOf"
@@ -817,6 +857,28 @@
       "duration_ms": 184761,
       "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
       "url": "https://open.spotify.com/track/0AukI6rH3HqIbVcKX8FjNk"
+    },
+    {
+      "album": {
+        "name": "E Samba (Wiwek Remix)",
+        "url": "https://open.spotify.com/album/1uj1MJFN6zeNsm3u7Bj4bx"
+      },
+      "artists": [
+        {
+          "name": "David Jones",
+          "url": "https://open.spotify.com/artist/2AjSYIqajsunXAn3B4tF9w"
+        },
+        {
+          "name": "Wiwek",
+          "url": "https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "E Samba - Wiwek Remix",
+      "url": "https://open.spotify.com/track/7kCSMjUzhBmigsYNOojBcJ"
     },
     {
       "album": {
@@ -1141,7 +1203,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 210000,
       "name": "Free",
       "url": "https://open.spotify.com/track/5zsEgQCTV8cXpqB9QRQYUO"
@@ -1229,6 +1291,32 @@
       "duration_ms": 175200,
       "name": "Goodbye (feat. Xillions) - Crude Intentions & Dr. Rude Remix",
       "url": "https://open.spotify.com/track/4Fn9Z5LVGc4f0Qq6L53eEg"
+    },
+    {
+      "album": {
+        "name": "Gravity (feat. Mary Jensen)",
+        "url": "https://open.spotify.com/album/01eVufLEnewrMjB0FMWAq8"
+      },
+      "artists": [
+        {
+          "name": "Wave Wave",
+          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
+        },
+        {
+          "name": "Cymo",
+          "url": "https://open.spotify.com/artist/647lzSJQDyYGmPtTl6LWjH"
+        },
+        {
+          "name": "Mary Jensen",
+          "url": "https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170235,
+      "name": "Gravity (feat. Mary Jensen)",
+      "url": "https://open.spotify.com/track/5PYCuWpTi45nGbzp4RQnAb"
     },
     {
       "album": {
@@ -1818,6 +1906,24 @@
     },
     {
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/6anUG6krraOoAkPDOz8W9J"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2f2pGGaRZQIBt3TthrVC93"
+    },
+    {
+      "album": {
         "name": "Lean On Me",
         "url": "https://open.spotify.com/album/7s0q6UVe9I9vof57x7dr2J"
       },
@@ -1891,7 +1997,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 136406,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/5eixoP6rucwSJuGcuweCmU"
@@ -1997,6 +2103,28 @@
       "duration_ms": 148037,
       "name": "Load Up",
       "url": "https://open.spotify.com/track/2y2SZlRTIK4wyFDOLpPiff"
+    },
+    {
+      "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/1Ai7YTsJSdn1PMIFLmq7yW"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/2SxJOFdhIco2uHQ0Bh5TXs"
     },
     {
       "album": {
@@ -2472,6 +2600,32 @@
     },
     {
       "album": {
+        "name": "Need U (feat. Hannah Boleyn)",
+        "url": "https://open.spotify.com/album/0R2KjEmMjlZwC2PrrvemUf"
+      },
+      "artists": [
+        {
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
+        },
+        {
+          "name": "MESZCA",
+          "url": "https://open.spotify.com/artist/2Tdl3r6583W3gcEdnXmmIr"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156895,
+      "name": "Need U (feat. Hannah Boleyn)",
+      "url": "https://open.spotify.com/track/3jQm9vFT0rePqjLGdk5B7W"
+    },
+    {
+      "album": {
         "name": "No Good",
         "url": "https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X"
       },
@@ -2592,6 +2746,28 @@
     },
     {
       "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+    },
+    {
+      "album": {
         "name": "Out The Sky",
         "url": "https://open.spotify.com/album/3b70vo35niRfuYl3NxFVtA"
       },
@@ -2607,7 +2783,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 205668,
       "name": "Out The Sky",
       "url": "https://open.spotify.com/track/4r1h23ciUE4yTebc1uQwNQ"
@@ -2691,7 +2867,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 231219,
       "name": "Phobos",
       "url": "https://open.spotify.com/track/7DdOZWue63vE4aekVQbmet"
@@ -2845,7 +3021,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 210240,
       "name": "Put Your Hands Up",
       "url": "https://open.spotify.com/track/5Ez4dUP6gZ4ILZOGkh1Url"
@@ -3057,7 +3233,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 155676,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo"
@@ -3075,7 +3251,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 161280,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/1YIYwFUDRzlQK0IXAVxPcN"
@@ -3215,6 +3391,36 @@
       "duration_ms": 217142,
       "name": "She Movin'",
       "url": "https://open.spotify.com/track/2Mx93ho6F2ovN2FA4vs3Ud"
+    },
+    {
+      "album": {
+        "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt"
+      },
+      "artists": [
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN"
     },
     {
       "album": {
@@ -3395,6 +3601,28 @@
       "duration_ms": 156908,
       "name": "Summer Love (feat. Erich Lennig)",
       "url": "https://open.spotify.com/track/7DG7wIZsVJKeQcaWNuhstl"
+    },
+    {
+      "album": {
+        "name": "Sun Goes Down (feat. KILLUA)",
+        "url": "https://open.spotify.com/album/5HXrynH3tTOYgjB0twZ2J1"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        },
+        {
+          "name": "Killua",
+          "url": "https://open.spotify.com/artist/1k2sH5qTixEnFNc8cJ8txi"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217261,
+      "name": "Sun Goes Down (feat. KILLUA)",
+      "url": "https://open.spotify.com/track/4DtxLmXT8W8YMobKviMy6w"
     },
     {
       "album": {
@@ -3701,7 +3929,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 193175,
       "name": "The Opera House (feat. LexBlaze)",
       "url": "https://open.spotify.com/track/5FbxBygQka7bfWjbudraqg"
@@ -3763,7 +3991,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 131500,
       "name": "The Whistle",
       "url": "https://open.spotify.com/track/2qkaDe3XrLXOwgeTHgPRJp"
@@ -3785,6 +4013,28 @@
       "duration_ms": 186260,
       "name": "There\u2019s Nothing Else",
       "url": "https://open.spotify.com/track/3379x2xu9JNFFjY3XFn61Z"
+    },
+    {
+      "album": {
+        "name": "Through The Dark",
+        "url": "https://open.spotify.com/album/7uO8n7odI6XcV5awepyFEM"
+      },
+      "artists": [
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        },
+        {
+          "name": "LinX",
+          "url": "https://open.spotify.com/artist/3h66WHHFengZXxReTxN7vy"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198805,
+      "name": "Through The Dark",
+      "url": "https://open.spotify.com/track/69FyW4BY48nB0jkAA7BAL6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-276 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
+277 songs - 15 hr 40 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Fall in Love Moody Good Remix](https://open.spotify.com/track/4ZnVn9qCN4ED4Nq4yNzA7z) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Fall in Love Moody Good Remix](https://open.spotify.com/album/0O35S4L5p7aT0pA3pvY8hh) | 3:15 | 2021-08-06 |  |
 | [FeelSad](https://open.spotify.com/track/6R8jpmLBOxq5thYbA43bNj) | [Cudos](https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Extra\-Curriculars](https://open.spotify.com/album/5MySEGmD9wGBWLpyABGsBB) | 3:34 | 2021-08-06 |  |
 | [Fever Dream](https://open.spotify.com/track/7nBFYnnuzZdqc6FN0elfl6) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Fever Dream](https://open.spotify.com/album/6Tj0ZOuQ5lxwtLgwQjErfE) | 3:44 | 2021-08-06 |  |
+| [find your way \- Elohim Remix](https://open.spotify.com/track/0wDh05fBIJpUajZSJXmJZF) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [bb u ok? deluxe](https://open.spotify.com/album/24zBlbEb8JuMqFxxXHCL66) | 2:54 | 2022-04-22 |  |
 | [find your way \- Elohim Remix](https://open.spotify.com/track/5edax8jve2PPCt877OCtNd) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [find your way \- Elohim Remix](https://open.spotify.com/album/73Sa3RIzUFr0dIjkOPopr9) | 2:54 | 2022-04-22 | 2022-07-29 |
 | [Find Yourself](https://open.spotify.com/track/0TBWdzXPZX8bGAqDY0Xxn0) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [World Famous Tour](https://open.spotify.com/album/3WXeQznuGDKqbGn9VUbeVE) | 3:53 | 2021-08-06 | 2022-07-29 |
 | [Flair](https://open.spotify.com/track/603bfdyalNWhlDuMLdINW9) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Momma Kismet](https://open.spotify.com/artist/7E3MHHCkgsYvFJHiKOKmfM) | [Flair](https://open.spotify.com/album/0tBTBuCoZR4a3DsIZDj6KN) | 3:23 | 2021-08-06 | 2022-07-19 |
@@ -173,7 +174,7 @@
 | [Open Spaces](https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces](https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt) | 3:26 | 2021-08-06 |  |
 | [Our Moving Picture](https://open.spotify.com/track/1CSFxhXzkjTXEy6hmb9zPK) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Our Moving Picture](https://open.spotify.com/album/1lqtTS2BGtyptpZegG7iGv) | 3:25 | 2021-08-06 | 2022-04-21 |
 | [Out For A Run](https://open.spotify.com/track/14sDWKdWYg5YK9I74rwQms) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Out For A Run](https://open.spotify.com/album/0fhh3punF2Jh5DP7ovMEsB) | 3:04 | 2022-03-25 | 2022-07-26 |
-| [Overthinker](https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/04jog2osd7pTEQc49jEIem) | 4:28 | 2021-08-06 |  |
+| [Overthinker](https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/04jog2osd7pTEQc49jEIem) | 4:28 | 2021-08-06 | 2022-08-27 |
 | [overwhelmed \- Ookay remix](https://open.spotify.com/track/64zyMkiyBPSyCUgLl4AIXB) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [overwhelmed \(the remixes\)](https://open.spotify.com/album/3tILcUFrdvba7jYG46EeOQ) | 3:01 | 2021-08-06 |  |
 | [Pale Blue Dot](https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 2:56 | 2021-08-06 |  |
 | [Petrichor](https://open.spotify.com/track/5e2QHek93FrcaKfH9znqZE) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f) | [Temp](https://open.spotify.com/album/3bN8zyo2OS44ePXdNaGv2T) | 3:31 | 2021-08-06 | 2022-07-24 |

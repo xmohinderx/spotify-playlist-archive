@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vikrant Rona",
-  "num_followers": 38105,
+  "num_followers": 38219,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ1MDQ2NCwwMDAwMDAwMGVhZmNjMjljOGNiNGY5YjVhODNiNjg2NzhlYjVkMmE3",
+  "snapshot_id": "MTY2MTUxNjA1NywwMDAwMDAwMDU0MmQzZjQyMmMzOGFiYTcxNWFjMzg0MzQxNTdlMzky",
   "tracks": [
     {
       "added_at": "2022-07-18 06:13:34",
@@ -31,6 +31,26 @@
       "duration_ms": 218343,
       "name": "Ra Ra Rakkamma (From \"Vikrant Rona\")",
       "url": "https://open.spotify.com/track/0stbF4C1ACmIvx0aW81ZXa"
+    },
+    {
+      "added_at": "2022-07-18 06:13:34",
+      "album": {
+        "name": "Maaya Gange (From \"Banaras\")",
+        "url": "https://open.spotify.com/album/217yRMaetQAa0Ay6xA91ta"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 275039,
+      "name": "Maaya Gange (From \"Banaras\")",
+      "url": "https://open.spotify.com/track/58H1xLatriC2xieOvwWqnN"
     },
     {
       "added_at": "2022-08-23 12:49:21",
@@ -67,26 +87,6 @@
       "duration_ms": 200407,
       "name": "Jajaang Jaang",
       "url": "https://open.spotify.com/track/0ce8GZqOCoIjBjnHx2jI5p"
-    },
-    {
-      "added_at": "2022-07-18 06:13:34",
-      "album": {
-        "name": "Maaya Gange (From \"Banaras\")",
-        "url": "https://open.spotify.com/album/217yRMaetQAa0Ay6xA91ta"
-      },
-      "artists": [
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 275039,
-      "name": "Maaya Gange (From \"Banaras\")",
-      "url": "https://open.spotify.com/track/58H1xLatriC2xieOvwWqnN"
     },
     {
       "added_at": "2022-08-23 12:49:21",
@@ -197,6 +197,34 @@
       "url": "https://open.spotify.com/track/02KtANsTSZJEEXHsa3C1IX"
     },
     {
+      "added_at": "2022-08-26 10:01:30",
+      "album": {
+        "name": "Shiva 143",
+        "url": "https://open.spotify.com/album/2VxoqmOPfQiUZ78eB4KdJJ"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Chethan Naik",
+          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
+        }
+      ],
+      "duration_ms": 263973,
+      "name": "Nanthak Baa",
+      "url": "https://open.spotify.com/track/6jGIdR3M2hS4EMmXYOg4pF"
+    },
+    {
       "added_at": "2022-08-16 05:56:32",
       "album": {
         "name": "Singara Siriye (From \"Kantara\")",
@@ -279,6 +307,42 @@
       "duration_ms": 278377,
       "name": "Kesariya Rangu (From \"Brahmastra (Kannada)\")",
       "url": "https://open.spotify.com/track/1F0i0Ynrv28aAvycSLsugZ"
+    },
+    {
+      "added_at": "2022-08-26 12:14:17",
+      "album": {
+        "name": "Aparoopa",
+        "url": "https://open.spotify.com/album/0Ck7TXeZ5dcPvf8n2K2U5T"
+      },
+      "artists": [
+        {
+          "name": "Prajwal Pai",
+          "url": "https://open.spotify.com/artist/5tCoxq4T37P4D3f4kCFNi8"
+        }
+      ],
+      "duration_ms": 251050,
+      "name": "Oh My Sweety Baby",
+      "url": "https://open.spotify.com/track/6n0Axu5XnBuci5czX1A1N5"
+    },
+    {
+      "added_at": "2022-08-26 10:01:30",
+      "album": {
+        "name": "Heart Breaku (From \"Nodi Swamy Ivanu Irode Heege\")",
+        "url": "https://open.spotify.com/album/2t3NxkB1QRvRRAcvlMXE9T"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Sivaraman",
+          "url": "https://open.spotify.com/artist/3VsrVjGesZwWFS9bFO44I9"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "duration_ms": 173262,
+      "name": "Heart Breaku (From \"Nodi Swamy Ivanu Irode Heege\")",
+      "url": "https://open.spotify.com/track/3dX9AkuovMhwxzYAtnWS6z"
     },
     {
       "added_at": "2022-08-23 12:49:21",
@@ -561,30 +625,6 @@
       "url": "https://open.spotify.com/track/2cmkOVmXw7DxjTVLQ3410u"
     },
     {
-      "added_at": "2022-07-21 13:09:01",
-      "album": {
-        "name": "Mayaviye (From \"Long Drive\")",
-        "url": "https://open.spotify.com/album/02ZvKLXZVBN4PsiVJa7KUM"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
-        },
-        {
-          "name": "Manasa Holla",
-          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
-        },
-        {
-          "name": "Vikas Vasishta",
-          "url": "https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4"
-        }
-      ],
-      "duration_ms": 252138,
-      "name": "Mayaviye (From \"Long Drive\")",
-      "url": "https://open.spotify.com/track/7dbCChaCJPf1H3Ac8ddS7w"
-    },
-    {
       "added_at": "2022-08-06 03:44:13",
       "album": {
         "name": "Aafat (Kannada) [From \"Liger (Kannada)\"]",
@@ -607,26 +647,6 @@
       "duration_ms": 163500,
       "name": "Aafat (Kannada) [From \"Liger (Kannada)\"]",
       "url": "https://open.spotify.com/track/2MCcgrxwqwnX9FzSKMBk4T"
-    },
-    {
-      "added_at": "2022-08-09 12:48:36",
-      "album": {
-        "name": "Ae Tagaru Kano Ninu Mama (Dhum) [From \"Ae Tagaru Kano Ninu Mama\"]",
-        "url": "https://open.spotify.com/album/0icZhdqeiIjKwTcednRnTg"
-      },
-      "artists": [
-        {
-          "name": "JEEVAa VARSHINI",
-          "url": "https://open.spotify.com/artist/5A1Dd1q3UnyDAltDOXGIIQ"
-        },
-        {
-          "name": "Lingaraaj",
-          "url": "https://open.spotify.com/artist/4kThlcLpQpDq8PTMzKyM2d"
-        }
-      ],
-      "duration_ms": 260333,
-      "name": "Ae Tagaru Kano Ninu Mama (Dhum) - From \"Ae Tagaru Kano Ninu Mama\"",
-      "url": "https://open.spotify.com/track/1JLQoeGSI4Pl9u5YxLG20c"
     },
     {
       "added_at": "2022-08-03 11:59:37",

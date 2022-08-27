@@ -3338,6 +3338,28 @@
     },
     {
       "album": {
+        "name": "The OC Season 3",
+        "url": "https://open.spotify.com/album/1zkV84STH54WfqwcUvE9F0"
+      },
+      "artists": [
+        {
+          "name": "Cold Hart",
+          "url": "https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4"
+        },
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209583,
+      "name": "Dying",
+      "url": "https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe"
+    },
+    {
+      "album": {
         "name": "dying lately",
         "url": "https://open.spotify.com/album/41bT6urTGZMbjbO2NmsoCu"
       },
@@ -7531,7 +7553,7 @@
       ],
       "date_added": "2021-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 137806,
       "name": "MEMORIES!",
       "url": "https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"
@@ -13911,7 +13933,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 190188,
       "name": "\u2022NOTDEAD!\u2022",
       "url": "https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms"

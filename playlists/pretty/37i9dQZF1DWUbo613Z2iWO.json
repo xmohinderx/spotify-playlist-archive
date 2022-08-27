@@ -1,13 +1,81 @@
 {
-  "description": "Make room for these R&B/Soul artists on the rise! Photo: Thuy",
-  "num_followers": 22733,
+  "description": "Make room for these R&B/Soul artists on the rise! Photo: Jade Novah",
+  "num_followers": 22792,
   "original_name": "The Newness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyMjg5OCwwMDAwMDAwMDhjMTc3M2M0OTRjZDZmMzVhOGM3M2NjNzk2ODRkY2Fl",
+  "snapshot_id": "MTY2MTQ4NzIxMSwwMDAwMDAwMDNjY2ZiZmM3MDFiNzNlNTlhNzk5NzRiYmQyNDYxNjcy",
   "tracks": [
+    {
+      "added_at": "2022-08-26 04:13:31",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "you",
+      "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
+    },
+    {
+      "added_at": "2022-08-05 04:17:15",
+      "album": {
+        "name": "Love Jones (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/6aMTYX9iwVfJjqZWypJj8I"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 183589,
+      "name": "Love Jones (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
+    },
+    {
+      "added_at": "2022-07-15 04:05:26",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 186685,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3"
+    },
     {
       "added_at": "2022-08-12 04:16:55",
       "album": {
@@ -25,20 +93,40 @@
       "url": "https://open.spotify.com/track/2AB3ZBErbY5P9PXIrTFAb9"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
+      "added_at": "2022-08-26 04:13:31",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb"
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/1MqcGz8uF79zpVcH75JH19"
       },
       "artists": [
         {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
         }
       ],
-      "duration_ms": 186685,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3"
+      "duration_ms": 177396,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/1OcnAp6rB3ZbQbXw1ncAI3"
+    },
+    {
+      "added_at": "2022-08-26 04:13:31",
+      "album": {
+        "name": "So Gone (feat. Naomi Wild)",
+        "url": "https://open.spotify.com/album/2C9mU98Ty3lPbQPne7wcse"
+      },
+      "artists": [
+        {
+          "name": "Tempest",
+          "url": "https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa"
+        },
+        {
+          "name": "Naomi Wild",
+          "url": "https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg"
+        }
+      ],
+      "duration_ms": 224340,
+      "name": "So Gone (feat. Naomi Wild)",
+      "url": "https://open.spotify.com/track/3wQTTzuD1SkXaKqpZmC0tQ"
     },
     {
       "added_at": "2022-08-19 04:23:16",
@@ -73,56 +161,20 @@
       "url": "https://open.spotify.com/track/5T7CQ8uxqtIEzZ47zUBnz0"
     },
     {
-      "added_at": "2022-08-19 04:23:16",
-      "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/1jnZuo1cL5ICy4uKci9aHb"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 156142,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/7gbB9Wy6GkDr0dOZvw6ihK"
-    },
-    {
       "added_at": "2022-07-15 04:05:26",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+        "name": "Before I Let Her Go EP",
+        "url": "https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Phabo",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
         }
       ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
-    },
-    {
-      "added_at": "2022-08-05 04:17:15",
-      "album": {
-        "name": "Love Jones (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/6aMTYX9iwVfJjqZWypJj8I"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 183589,
-      "name": "Love Jones (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
+      "duration_ms": 167364,
+      "name": "Achy",
+      "url": "https://open.spotify.com/track/24yW63G9CzOVKm1SRfAXmV"
     },
     {
       "added_at": "2022-08-19 04:23:16",
@@ -141,6 +193,38 @@
       "url": "https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM"
     },
     {
+      "added_at": "2022-08-12 04:16:55",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/02J88YmFnbuXmGUpRwpqDW"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/3MPh6fCxLilH9ZJ1sTLBlN"
+    },
+    {
+      "added_at": "2022-08-26 04:13:31",
+      "album": {
+        "name": "BARELY",
+        "url": "https://open.spotify.com/album/5offuB4rtzWAKoCkAgs4ff"
+      },
+      "artists": [
+        {
+          "name": "DIXSON",
+          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "BARELY",
+      "url": "https://open.spotify.com/track/2w4GndnzwwoaJRLzRsLkqk"
+    },
+    {
       "added_at": "2022-07-29 04:09:32",
       "album": {
         "name": "Give Me Time",
@@ -157,20 +241,20 @@
       "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
     },
     {
-      "added_at": "2022-07-15 04:05:26",
+      "added_at": "2022-08-26 04:13:31",
       "album": {
-        "name": "Before I Let Her Go EP",
-        "url": "https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg"
+        "name": "4 This Moment",
+        "url": "https://open.spotify.com/album/6TfPUynI7LH4DgW5mg0IUz"
       },
       "artists": [
         {
-          "name": "Phabo",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
         }
       ],
-      "duration_ms": 167364,
-      "name": "Achy",
-      "url": "https://open.spotify.com/track/24yW63G9CzOVKm1SRfAXmV"
+      "duration_ms": 127973,
+      "name": "4 This Moment",
+      "url": "https://open.spotify.com/track/4BfGlDPJrCBzk7gpQkwJUo"
     },
     {
       "added_at": "2022-07-29 04:09:32",
@@ -189,6 +273,22 @@
       "url": "https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi"
     },
     {
+      "added_at": "2022-08-19 04:23:16",
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/1jnZuo1cL5ICy4uKci9aHb"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 156142,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/7gbB9Wy6GkDr0dOZvw6ihK"
+    },
+    {
       "added_at": "2022-08-12 04:16:55",
       "album": {
         "name": "Love Quotes",
@@ -205,20 +305,36 @@
       "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
     },
     {
-      "added_at": "2022-08-19 04:23:16",
+      "added_at": "2022-08-26 04:13:31",
       "album": {
-        "name": "Most Girlz",
-        "url": "https://open.spotify.com/album/6fm8dGkZ9EH9euZQnm4Qbb"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/554InXSZQn2OSPG9btgK7F"
       },
       "artists": [
         {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
         }
       ],
-      "duration_ms": 166859,
-      "name": "Most Girlz",
-      "url": "https://open.spotify.com/track/5w5ztCy71lCOoIWCo7dJss"
+      "duration_ms": 189538,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/744mubICN4kiGxVJcOJmyQ"
+    },
+    {
+      "added_at": "2022-08-26 04:13:31",
+      "album": {
+        "name": "Catching Red Lights (EP)",
+        "url": "https://open.spotify.com/album/3GBJK7iG5XoASRgXnPIe3k"
+      },
+      "artists": [
+        {
+          "name": "Jayd Ink",
+          "url": "https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Rollin",
+      "url": "https://open.spotify.com/track/6dGxIEg9Cw0F8ayAarlX43"
     },
     {
       "added_at": "2022-08-12 04:16:55",
@@ -253,20 +369,52 @@
       "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
     },
     {
-      "added_at": "2022-08-12 04:16:55",
+      "added_at": "2022-08-26 04:13:31",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/02J88YmFnbuXmGUpRwpqDW"
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/5AIm2CIN2dIIlcsdgaAoHe"
       },
       "artists": [
         {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+          "name": "Rosemarie",
+          "url": "https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/3MPh6fCxLilH9ZJ1sTLBlN"
+      "duration_ms": 227217,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/1iKTbchBdnK8geYA2USn0n"
+    },
+    {
+      "added_at": "2022-08-19 04:23:16",
+      "album": {
+        "name": "Most Girlz",
+        "url": "https://open.spotify.com/album/6fm8dGkZ9EH9euZQnm4Qbb"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 166859,
+      "name": "Most Girlz",
+      "url": "https://open.spotify.com/track/5w5ztCy71lCOoIWCo7dJss"
+    },
+    {
+      "added_at": "2022-08-26 04:13:31",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2I0VwAeClbtch0ErYJbsDL"
+      },
+      "artists": [
+        {
+          "name": "Raiche",
+          "url": "https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI"
+        }
+      ],
+      "duration_ms": 211519,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/1IoUc7el8qPFVFOC5jSfl7"
     },
     {
       "added_at": "2022-07-22 04:15:19",
@@ -427,6 +575,22 @@
       "duration_ms": 169579,
       "name": "BAD bad",
       "url": "https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG"
+    },
+    {
+      "added_at": "2022-08-26 04:13:31",
+      "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/4gw6B4mV2AebjcFKDGdwc3"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "duration_ms": 165640,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/4XY348mLkMShpnyhhx9UYr"
     },
     {
       "added_at": "2022-08-12 04:16:55",
@@ -665,22 +829,6 @@
       "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
-      "added_at": "2022-08-12 04:16:55",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/30iqgFepgpkIF9uV1lgvCD"
-      },
-      "artists": [
-        {
-          "name": "Halima",
-          "url": "https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap"
-        }
-      ],
-      "duration_ms": 121610,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/2aSXyr2Oe8wsLAmu9vXRp6"
-    },
-    {
       "added_at": "2022-08-05 04:17:15",
       "album": {
         "name": "Hummingbird",
@@ -807,38 +955,6 @@
       "duration_ms": 159965,
       "name": "bend you",
       "url": "https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV"
-    },
-    {
-      "added_at": "2022-08-05 04:17:15",
-      "album": {
-        "name": "RED HOT",
-        "url": "https://open.spotify.com/album/7xksRxG6MURC3k7kOJ3Qo7"
-      },
-      "artists": [
-        {
-          "name": "Justin Garner",
-          "url": "https://open.spotify.com/artist/3xOsqNaO7F3UNdQjJJif8o"
-        }
-      ],
-      "duration_ms": 184543,
-      "name": "RED HOT",
-      "url": "https://open.spotify.com/track/3grdg1YUd5ypDi9gvchE3n"
-    },
-    {
-      "added_at": "2022-08-05 04:17:15",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/6CJovhbfLAxjmPSj2aFROJ"
-      },
-      "artists": [
-        {
-          "name": "Rileyy Lanez",
-          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
-        }
-      ],
-      "duration_ms": 181964,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/1YYNCyIJG9p7QxfdEiBs7N"
     },
     {
       "added_at": "2022-07-29 04:09:32",
@@ -1007,22 +1123,6 @@
       "duration_ms": 181103,
       "name": "Keep Doing You",
       "url": "https://open.spotify.com/track/5eTC1l296etdcgqsDqbTVC"
-    },
-    {
-      "added_at": "2022-07-22 04:15:19",
-      "album": {
-        "name": "Unless",
-        "url": "https://open.spotify.com/album/69NeEDtsHX9D4Nq6YHague"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 96806,
-      "name": "Unless",
-      "url": "https://open.spotify.com/track/2K6Qg2lX5mUb11no6S5Ma0"
     },
     {
       "added_at": "2022-07-29 04:09:32",
@@ -1229,26 +1329,6 @@
       "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
     },
     {
-      "added_at": "2022-07-22 04:15:19",
-      "album": {
-        "name": "Pain Never Looked This Good (Day)",
-        "url": "https://open.spotify.com/album/11vtZ9Rq13B9ThD5EJP9xG"
-      },
-      "artists": [
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 153941,
-      "name": "Fed Up",
-      "url": "https://open.spotify.com/track/0viobJwqYbzSAh9VtIVJVs"
-    },
-    {
       "added_at": "2022-07-09 03:35:55",
       "album": {
         "name": "Happy Lonely Boy",
@@ -1267,22 +1347,6 @@
     {
       "added_at": "2022-07-09 03:35:55",
       "album": {
-        "name": "What's A Monday",
-        "url": "https://open.spotify.com/album/6HfUGBPpQSsqAFDOAIzct1"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 153040,
-      "name": "What's A Monday",
-      "url": "https://open.spotify.com/track/3r3TNewGNpl7zKgzk9nYTJ"
-    },
-    {
-      "added_at": "2022-07-09 03:35:55",
-      "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
@@ -1295,26 +1359,6 @@
       "duration_ms": 218048,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
-    },
-    {
-      "added_at": "2022-06-03 05:00:00",
-      "album": {
-        "name": "Hello Poison",
-        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Bad Idea (feat. Blxst)",
-      "url": "https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb"
     },
     {
       "added_at": "2022-06-03 05:00:00",
@@ -1355,26 +1399,6 @@
       "duration_ms": 267510,
       "name": "Proven (with Rick Ross)",
       "url": "https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG"
-    },
-    {
-      "added_at": "2022-05-20 06:44:25",
-      "album": {
-        "name": "What's Good",
-        "url": "https://open.spotify.com/album/3mN6MrBpyxQ1iBUdHhva8m"
-      },
-      "artists": [
-        {
-          "name": "Skylar Stecker",
-          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
-        },
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 178928,
-      "name": "What's Good",
-      "url": "https://open.spotify.com/track/1RcUrR3PzhZlKJBpMW2ql0"
     }
   ],
   "unique_name": "The Newness",

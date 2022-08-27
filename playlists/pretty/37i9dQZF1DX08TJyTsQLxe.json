@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nosotras s\u00f3lo queremos divertirnos! ",
-  "num_followers": 112850,
+  "num_followers": 112936,
   "original_name": "Noche de Amigas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDYwMTQyOCwwMDAwMDAwMDlkMGZhMGNiNzI3ZWIyYzhhYzI1MzJjODAxZGNiODY5",
+  "snapshot_id": "MTY2MDYwMTQyOCwwMDAwMDAwMGY5OTNiYWViZTg3NDFlMzkwZmM2NTlmZmI1NGU2NDU5",
   "tracks": [
     {
       "added_at": "2022-08-15 22:10:28",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-08-15 22:10:28",
       "album": {
-        "name": "Todavia",
-        "url": "https://open.spotify.com/album/6MLmdGugNROactcsaoxk9n"
-      },
-      "artists": [
-        {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
-        }
-      ],
-      "duration_ms": 204904,
-      "name": "Todavia",
-      "url": "https://open.spotify.com/track/7gaovXojjqfn276uZR0omT"
-    },
-    {
-      "added_at": "2022-08-15 22:10:28",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -2351,6 +2335,26 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+    },
+    {
+      "added_at": "2022-08-15 22:10:28",
+      "album": {
+        "name": "Vente Pa' Ca (feat. Maluma)",
+        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 259195,
+      "name": "Vente Pa' Ca (feat. Maluma)",
+      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
     }
   ],
   "unique_name": "Noche de Amigas",

@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Cover: Nabi
 
-195 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+196 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [QUATTERI \#2](https://open.spotify.com/track/2mhjSMEAbReJIguSuAUP0Y) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [QUATTERI \#2](https://open.spotify.com/album/5rwB4fDaWfORiDU7KOhmuT) | 1:38 | 2022-08-04 |  |
 | [Que Pasa](https://open.spotify.com/track/0O5pS2v8X5o66vVeC3TXt0) | [Bastio 167](https://open.spotify.com/artist/5uuduZBPBsE0775rwu2IWa), [Ronny 167](https://open.spotify.com/artist/6W4RbYcnJGkxxmoNBLxlb8), [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw), [Shaka Muni](https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY), [Beniz](https://open.spotify.com/artist/1lyGkvW6FHmenE5FjjqL3F), [Rush 167](https://open.spotify.com/artist/7j4xqn8rHzenyZrfbOLMbP) | [Que Pasa](https://open.spotify.com/album/6xHQadbjK0DWeCQeWGG6JL) | 3:53 | 2022-06-16 | 2022-07-15 |
 | [R&R](https://open.spotify.com/track/5s6YjPaL77P28PQqG7wVLO) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [YaluDream](https://open.spotify.com/artist/2p06NWAbxsP7iFmrq9Ny4J) | [R&R](https://open.spotify.com/album/17SGMxNqxsNMk0ZrFI24jQ) | 2:08 | 2022-05-10 | 2022-06-17 |
+| [RainMan](https://open.spotify.com/track/0N02e1qf0mRMiJnRedzXKc) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [RainMan](https://open.spotify.com/album/5dYTGxy5K8H7RgD8xbxi5e) | 2:57 | 2022-08-26 |  |
 | [Resta Vivo](https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Resta Vivo](https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp) | 2:56 | 2022-05-30 | 2022-07-27 |
 | [Right](https://open.spotify.com/track/0erdE6iRaKH5IfAcYAFzqg) | [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf), [Murray](https://open.spotify.com/artist/5vCM8O3LYLrcx4QRyKzoQo) | [Right](https://open.spotify.com/album/129iazxnemeWUspTWcvHg3) | 2:29 | 2022-06-09 | 2022-06-24 |
 | [Robe Da Maranza](https://open.spotify.com/track/1IV4OGA1v2kBldTSmgIjy0) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/2TDtTQaaS9DH6KnZsgHP5r) | 2:33 | 2022-07-26 |  |

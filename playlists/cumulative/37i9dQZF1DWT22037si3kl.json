@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": ".38",
+        "url": "https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126678,
+      "name": ".38",
+      "url": "https://open.spotify.com/track/3nobSbq9rggHUEbRBoZaDg"
+    },
+    {
+      "album": {
         "name": "2 Cord\u00f5es",
         "url": "https://open.spotify.com/album/4T2BxDiQkKbmlqUkrlLthW"
       },
@@ -307,6 +333,36 @@
       "duration_ms": 164181,
       "name": "Burberry",
       "url": "https://open.spotify.com/track/6WUszwWJVz8CCtrTEOllSD"
+    },
+    {
+      "album": {
+        "name": "Cash",
+        "url": "https://open.spotify.com/album/4wE0QFfKjFvkvVojK4rmxT"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214507,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/5lMXToPjcZst8sItJeneYt"
     },
     {
       "album": {
@@ -1603,7 +1659,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 140856,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/2Lqt0JMtbWwiDrzNIrsPYc"
@@ -2127,7 +2183,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 201526,
       "name": "Para Sempre 21 - Remix",
       "url": "https://open.spotify.com/track/5di62sje3CXN84ejeAIaGx"
@@ -2584,6 +2640,32 @@
     },
     {
       "album": {
+        "name": "Santa F\u00e9",
+        "url": "https://open.spotify.com/album/3NeXJUqKg4iFpz3gGQQET6"
+      },
+      "artists": [
+        {
+          "name": "SoudCrime",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+        },
+        {
+          "name": "Nenz",
+          "url": "https://open.spotify.com/artist/1wYaQmaQqve7ig9GK8sO9Y"
+        },
+        {
+          "name": "Vil\u00e3odubeat",
+          "url": "https://open.spotify.com/artist/1QgZKfMoBYqm2LIArWWJ9W"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169616,
+      "name": "Santa F\u00e9",
+      "url": "https://open.spotify.com/track/5EYTdBSpwwdKjfswFez9xI"
+    },
+    {
+      "album": {
         "name": "SO SLATT",
         "url": "https://open.spotify.com/album/5dkmXEbt7nCqDwUGeXw97c"
       },
@@ -3005,7 +3087,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 151384,
       "name": "Volvo",
       "url": "https://open.spotify.com/track/2MfvRyM7Z8MVj8XSRBFEsR"

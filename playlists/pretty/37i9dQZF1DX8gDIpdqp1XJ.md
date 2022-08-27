@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,270 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,876 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 |
 | 100 | [Nightsift](https://open.spotify.com/track/2zxT7iTshvhM9K3439Ka7Y) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Freewave Lucifer f<ck f^ck f>ck](https://open.spotify.com/album/3b98O4yCJhkj5iiGNYLe0p) | 4:40 |
 
-Snapshot ID: `MTY2MDkyNDMzNywwMDAwMDAwMDE0YjU1YmUxOGRlOTA0MjdkNWYwZjFmN2EwNDYyYjAw`
+Snapshot ID: `MTY2MTU0MTMxNywwMDAwMDAwMDU0ZmRlM2JkOTgxODA4NjgwYTlhNmM1MDdlM2Y2Mjcz`

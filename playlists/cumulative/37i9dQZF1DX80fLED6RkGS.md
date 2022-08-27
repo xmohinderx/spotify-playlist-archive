@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q?si=dHc9UkpbQz2jb\-MNOXBWbw">Boondocks Gang</a>
 
-188 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
+189 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [WANJAPI 2](https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [WANJAPI 2](https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40) | 3:30 | 2022-06-30 |  |
 | [Wapi Hio Tumbler](https://open.spotify.com/track/1euOHNRbVXiIA8tKS9TBcV) | [Blueflame](https://open.spotify.com/artist/75gRD9fQD1xoggioVeHW7O) | [Wapi Hio Tumbler](https://open.spotify.com/album/5NhoZgb8dITNFeN5DK2GdF) | 2:52 | 2022-07-21 |  |
 | [Yea Yea Yea](https://open.spotify.com/track/4lD2nTM6ldiZe76QRHH0V5) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Yea Yea Yea](https://open.spotify.com/album/0Awx0OJ8SIMY98fLYB7ztT) | 3:15 | 2022-01-20 | 2022-01-28 |
+| [Zamali](https://open.spotify.com/track/2o0cwqpXOAl7yot2WT6vGw) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Zamali](https://open.spotify.com/album/2PFIkS3pTwyoj8AnwOJo5f) | 3:45 | 2022-08-26 |  |
 | [Zible](https://open.spotify.com/track/3lsjJxqvPZn5oKSiYoitzN) | [Krg The Don](https://open.spotify.com/artist/1EbpkFPrOPWVYq2UL8llHA), [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi), [Dj Lyta](https://open.spotify.com/artist/2lPEEC7Ci0BMaqyIKZryqL) | [Zible](https://open.spotify.com/album/1CYuFPOLRRRNOiI4x5cmvO) | 4:05 | 2022-02-10 | 2022-06-17 |
 | [Zimenice](https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Tezzla](https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3) | [Zimenice](https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0) | 3:32 | 2021-09-02 |  |
 | [Zimenyilo](https://open.spotify.com/track/2GNMxLvOFuxBV1b9NGzscD) | [Parroty](https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK), [Naiboi](https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6) | [Zimenyilo](https://open.spotify.com/album/4518jXSeHMv11oSsWYd8FN) | 3:23 | 2022-08-18 |  |

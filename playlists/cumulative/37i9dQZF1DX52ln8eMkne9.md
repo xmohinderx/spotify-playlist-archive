@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental jazz\. Cover: Melody Gardot
 
-209 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/37IsdW9n0SlbPN5SfSK6qD)
+210 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/37IsdW9n0SlbPN5SfSK6qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Discord](https://open.spotify.com/track/2lWUPIPZmGJPaqiPFsmHqy) | [Javier Nero](https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m), [Lauren Desberg](https://open.spotify.com/artist/3TfaPPKGoRgvEHpsAM7f5J), [Kyle Athayde](https://open.spotify.com/artist/0RzZX668EqWmLhtULOwDph), [Shelly Berg](https://open.spotify.com/artist/4U9TSTlbklvLVHcwbSH7FP) | [Discord](https://open.spotify.com/album/3bZaezUZTlv8LXIFmqA4u7) | 7:05 | 2021-12-17 | 2022-08-01 |
 | [Don't Explain](https://open.spotify.com/track/2JncPNDwT04u0FhWxfJbi5) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:14 | 2021-12-17 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:48 | 2021-12-17 |  |
+| [Don't Misunderstand](https://open.spotify.com/track/4vVxrc4FqD6FdolnLw3hlD) | [Jimmy Heath](https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Love Letter](https://open.spotify.com/album/03bWBECzM4shXQqXk0Beu4) | 5:32 | 2022-08-26 |  |
 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 | 2021-12-17 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/7x571g4w2cwwr6A3Dhjtn5) | [Grasiela Piasson](https://open.spotify.com/artist/4Pj02WhBGYtttMP4iud5hn), [Guga Stroeter](https://open.spotify.com/artist/6AZWEt3SrpxmPIuzT10RSk) | [Grasiela Piasson & Guga Stroeter](https://open.spotify.com/album/1bZ1IxMM8lVMtMVkLWqSZ4) | 4:09 | 2022-03-10 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2021-12-17 |  |
@@ -194,7 +195,7 @@
 | [This Foolish Heart Could Love You](https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [This Foolish Heart Could Love You](https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2) | 3:32 | 2022-03-17 |  |
 | [This Is Always](https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 3:11 | 2021-12-17 |  |
 | [This Is Always](https://open.spotify.com/track/3F4FaR55ghpY26f4o5Fk1f) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU), [Crosby Street String Quartet](https://open.spotify.com/artist/7cIBAVLZtrHM6AVH7yx9gQ) | [This Is Always](https://open.spotify.com/album/4RiAnwou3Pb8NgZ6BwKfLY) | 5:22 | 2022-05-05 | 2022-08-12 |
-| [Till I Waltz Again With You](https://open.spotify.com/track/5JSa7B1wgW5x5aNIziHjfM) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Till I Waltz Again With You](https://open.spotify.com/album/16YSrvXWcfeqUcHBGhCRmT) | 3:00 | 2021-12-17 |  |
+| [Till I Waltz Again With You](https://open.spotify.com/track/5JSa7B1wgW5x5aNIziHjfM) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Till I Waltz Again With You](https://open.spotify.com/album/16YSrvXWcfeqUcHBGhCRmT) | 3:00 | 2021-12-17 | 2022-08-27 |
 | [Till There Was You](https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 2:06 | 2022-01-13 |  |
 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 | 2021-12-17 | 2022-03-18 |
 | [Triste](https://open.spotify.com/track/1N9e1myOWV26evyObwnkoM) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:09 | 2021-12-17 |  |

@@ -1,13 +1,29 @@
 {
   "description": "more than just a lifestyle",
-  "num_followers": 737,
+  "num_followers": 773,
   "original_name": "soft life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4MTU1NSwwMDAwMDAwMDhiNzgwY2YwMDJjMWE3MjA0NjhhNmZjYTFkYzM3YTc0",
+  "snapshot_id": "MTY2MTUwNjM2MiwwMDAwMDAwMDk3ZWM3ZWQ4YTY3MWE5MmMyZmNjMTA0MDk5ZWVmMjQw",
   "tracks": [
+    {
+      "added_at": "2022-08-26 09:32:42",
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "duration_ms": 154615,
+      "name": "Soft Life",
+      "url": "https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe"
+    },
     {
       "added_at": "2022-07-27 09:28:40",
       "album": {
@@ -1047,26 +1063,6 @@
       "duration_ms": 248424,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/6u2IvQN4TBBPLXkGYwWTlw"
-    },
-    {
-      "added_at": "2022-07-27 09:28:40",
-      "album": {
-        "name": "2000AND4EVA",
-        "url": "https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 187991,
-      "name": "ATM (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/3cqm5i4yDaNuzu9oQmQzBC"
     },
     {
       "added_at": "2022-07-27 09:28:40",

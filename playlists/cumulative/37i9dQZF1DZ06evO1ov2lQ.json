@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 317834,
       "name": "Algae and Fungi part 2",
       "url": "https://open.spotify.com/track/0qveDw5Qx1zn1StsX81HvJ"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 107133,
       "name": "As the Sun Kissed the Horizon",
       "url": "https://open.spotify.com/track/7k1SYL49hsMcFgIPsG0FmO"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 48111,
       "name": "Grandiflora",
       "url": "https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 422932,
       "name": "Gravity Assist",
       "url": "https://open.spotify.com/track/5LadeNyOAJoxnHGriRc4il"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 345560,
       "name": "Hyperborea",
       "url": "https://open.spotify.com/track/1Sw8rWRv7yASSHcGgOPKR0"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 398306,
       "name": "Iberia Eterea",
       "url": "https://open.spotify.com/track/64O74NcCUUafwf3wmoVisX"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 350528,
       "name": "In Triple Time",
       "url": "https://open.spotify.com/track/3ErEIn3vPI9PqwhRdtgGjm"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 148593,
       "name": "Kent Country Train",
       "url": "https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 432600,
       "name": "Kobresia",
       "url": "https://open.spotify.com/track/5O6MFTh1rd9PeN8XEn1yCS"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 103096,
       "name": "Mestigoth",
       "url": "https://open.spotify.com/track/3CAZVIDUo5qfbaAJZ664F5"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 161706,
       "name": "Monju-1",
       "url": "https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj"
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 237893,
       "name": "Monju-2",
       "url": "https://open.spotify.com/track/5tHbDap6SZw6Ml49hJBmBt"
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 251066,
       "name": "Poa Alpina",
       "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
@@ -1239,10 +1239,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 480866,
       "name": "Sendai-1",
       "url": "https://open.spotify.com/track/222FcNSefEQFkhSHAr1vI0"
+    },
+    {
+      "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355358,
+      "name": "Sherbrooke",
+      "url": "https://open.spotify.com/track/2PRacJRgmydBflNzulhnBj"
     },
     {
       "album": {
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 474186,
       "name": "Shika-1",
       "url": "https://open.spotify.com/track/43Bx78yw7xZufzOXAZLDb2"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 473840,
       "name": "Silene",
       "url": "https://open.spotify.com/track/6l7ouzm1yKyTNaOKe87imj"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 277183,
       "name": "Spindrift",
       "url": "https://open.spotify.com/track/5n0zWKEVxHx5rRSy6wJC1E"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 205432,
       "name": "Talking to Some Imaginary Person",
       "url": "https://open.spotify.com/track/1xcpQJjF2TLxzCmQIIZPyY"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 308160,
       "name": "The Petrified Forest",
       "url": "https://open.spotify.com/track/6DgNfS4wYq7UUwuctdHNKY"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 511948,
       "name": "The Third Planet",
       "url": "https://open.spotify.com/track/13TUfTLlhSNXFtqtcYiJCY"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 291828,
       "name": "Too Fragile to Walk On",
       "url": "https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 498021,
       "name": "Tranquillizer",
       "url": "https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ"
@@ -1637,6 +1655,24 @@
       "duration_ms": 166480,
       "name": "Twin Decks",
       "url": "https://open.spotify.com/track/4rhZ726UASilAJG9vSJqGZ"
+    },
+    {
+      "album": {
+        "name": "Substrata + Man with a Movie Camera",
+        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181413,
+      "name": "Uva-Ursi",
+      "url": "https://open.spotify.com/track/40QwZW5GcnjtwuPRJEM9bx"
     },
     {
       "album": {
@@ -1695,7 +1731,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 405880,
       "name": "When I Leave - Finely Tuned Version",
       "url": "https://open.spotify.com/track/64HnjUbbmrAzK8QnUmCtRR"
@@ -1713,7 +1749,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 328585,
       "name": "Whole Forests Of Them Appearing",
       "url": "https://open.spotify.com/track/5dlFor9vsIMB4Nf71nK8kE"

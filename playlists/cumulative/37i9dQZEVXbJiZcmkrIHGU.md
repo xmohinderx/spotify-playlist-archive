@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,207 songs - 2 day 12 hr 8 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,208 songs - 2 day 12 hr 12 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,6 +696,7 @@
 | [Maria Maria](https://open.spotify.com/track/7LaVWcyzHTqoBFPolNiuyz) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Maria Maria](https://open.spotify.com/album/5Ujb3RDkOHs2v8rOyoi0E6) | 2:44 | 2022-08-06 | 2022-08-21 |
 | [Marilyn](https://open.spotify.com/track/6xR3FozPJRyIlaNU48pXV7) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Marilyn](https://open.spotify.com/album/0r01OVrWKzN05MYWpa2U0Y) | 2:53 | 2021-06-13 | 2021-06-14 |
 | [MARLBORO GOLD](https://open.spotify.com/track/6IoLxoMwkLbW8vsOOrDlsO) | [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [MARLBORO GOLD](https://open.spotify.com/album/1RJVgjA863K3YZN7z7AAfp) | 3:25 | 2021-09-19 | 2021-09-25 |
+| [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-26 |  |
 | [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 | 2022-06-20 | 2022-07-10 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 | 2022-05-27 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 | 2022-03-18 | 2022-03-25 |
@@ -811,7 +812,7 @@
 | [Nur ein Song \(I Need Some Sleep\)](https://open.spotify.com/track/6WrtlZnKUrg3KKDyjpnZBz) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Nur ein Song \(I Need Some Sleep\)](https://open.spotify.com/album/0mIMkAR1AK9yEls80nzUPc) | 2:41 | 2022-03-05 | 2022-03-13 |
 | [Nur ein Song \(I Need Some Sleep\)](https://open.spotify.com/track/6bfxmohPVmEuHveaFfzmjA) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [8](https://open.spotify.com/album/09mZJ7Dehdin0gblicwhkI) | 2:41 | 2022-03-12 | 2022-03-18 |
 | [OBSESSED \(feat\. RAF Camora\)](https://open.spotify.com/track/5t8abSvRpCuaLyDpRor2gD) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [OBSESSED \(feat\. RAF Camora\)](https://open.spotify.com/album/0l0PDgQIuNFT3pZnn25IHL) | 2:59 | 2022-05-07 | 2022-06-12 |
-| [OEO](https://open.spotify.com/track/5iRaaDJo5uz0ysY02Xedgz) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Bora / OEO](https://open.spotify.com/album/19uovrLfbW0AcgJClgRpMN) | 2:27 | 2022-08-11 |  |
+| [OEO](https://open.spotify.com/track/5iRaaDJo5uz0ysY02Xedgz) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Bora / OEO](https://open.spotify.com/album/19uovrLfbW0AcgJClgRpMN) | 2:27 | 2022-08-11 | 2022-08-27 |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-08-31 | 2021-09-05 |
 | [Offday](https://open.spotify.com/track/3z1wcTPPAKnuhKXHoFMXSb) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Magic](https://open.spotify.com/album/7AarLMaKEYfBWSmtUWZJ82) | 2:24 | 2022-02-26 | 2022-03-06 |
 | [OFFICIEL](https://open.spotify.com/track/4ZkwitJ9dSZDIdlI5xzX9q) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [AQUA](https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G) | 3:17 | 2021-07-04 | 2021-07-05 |

@@ -1,13 +1,29 @@
 {
-  "description": "A little bit of pop and a little bit of rap. Cover: Nicky Youre",
-  "num_followers": 167099,
+  "description": "A little bit of pop, a little bit of rap. Cover: anees",
+  "num_followers": 167210,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDIzYTQ5ZTQ4ZGZlNzExZTlhMzE4ZDgzNzEzYzdkMGFm",
+  "snapshot_id": "MTY2MTUyMjE0MiwwMDAwMDAwMDU1MGIyMzdiMTliMGFjNWJkMWVjYWQxYTNkZWJmNmI0",
   "tracks": [
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "leave me",
+        "url": "https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 220539,
+      "name": "leave me",
+      "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"
+    },
     {
       "added_at": "2022-08-08 17:12:34",
       "album": {
@@ -27,6 +43,22 @@
       "duration_ms": 168180,
       "name": "Miss You a Little (feat. lovelytheband)",
       "url": "https://open.spotify.com/track/2tijppLc0gaWA2AfPDANvq"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/2W3oBE7aeeUYGvzwKKKaLL"
+      },
+      "artists": [
+        {
+          "name": "A-Wall",
+          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4iR9GcxaVVTHuZgb3KiNDY"
     },
     {
       "added_at": "2022-08-05 06:44:00",
@@ -63,6 +95,22 @@
       "duration_ms": 168000,
       "name": "Alley-Oop",
       "url": "https://open.spotify.com/track/00lroakMBzkEPKCt2eNfrf"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "like that",
+        "url": "https://open.spotify.com/album/2YoJieMK2NsxoS56vA01nc"
+      },
+      "artists": [
+        {
+          "name": "Sally Boy",
+          "url": "https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf"
+        }
+      ],
+      "duration_ms": 152323,
+      "name": "like that",
+      "url": "https://open.spotify.com/track/30iHJe2noaNkUtWanmH1D5"
     },
     {
       "added_at": "2022-08-05 06:44:00",
@@ -121,28 +169,20 @@
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
-      "added_at": "2022-08-19 04:01:00",
+      "added_at": "2022-07-05 14:49:37",
       "album": {
-        "name": "Dump It Dummy (feat. 2rare)",
-        "url": "https://open.spotify.com/album/7KgNMvzNbOs0LtO0dduZlt"
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
       "artists": [
         {
-          "name": "Zai1k",
-          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
-        },
-        {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        },
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 208539,
-      "name": "Dump It Dummy (feat. 2rare)",
-      "url": "https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3"
+      "duration_ms": 128156,
+      "name": "My Shit",
+      "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
     },
     {
       "added_at": "2022-07-22 06:39:00",
@@ -195,6 +235,22 @@
       "duration_ms": 297404,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "dreamerboi",
+        "url": "https://open.spotify.com/album/0CfVqR4YYQMWEQuKkcTGcy"
+      },
+      "artists": [
+        {
+          "name": "Alan Fiore",
+          "url": "https://open.spotify.com/artist/7n0LV0swUfy2RXrZByeNxI"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "dreamerboi",
+      "url": "https://open.spotify.com/track/0LDYevJeLyC0gXiohSvcoi"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -253,6 +309,46 @@
       "url": "https://open.spotify.com/track/41ojBJmLyjj9l1e0iLK98X"
     },
     {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Dump It Dummy (feat. 2rare)",
+        "url": "https://open.spotify.com/album/7KgNMvzNbOs0LtO0dduZlt"
+      },
+      "artists": [
+        {
+          "name": "Zai1k",
+          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
+        },
+        {
+          "name": "Tre Oh Fie",
+          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 208539,
+      "name": "Dump It Dummy (feat. 2rare)",
+      "url": "https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3"
+    },
+    {
       "added_at": "2022-08-18 13:25:00",
       "album": {
         "name": "C'est la vie",
@@ -267,6 +363,22 @@
       "duration_ms": 171844,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "fun while it lasted",
+        "url": "https://open.spotify.com/album/3j4kTkeH2BCc0VwWqRVYds"
+      },
+      "artists": [
+        {
+          "name": "danny orange",
+          "url": "https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT"
+        }
+      ],
+      "duration_ms": 136941,
+      "name": "2 more minutes",
+      "url": "https://open.spotify.com/track/63kIONRvO9SrjwVsYbTFUJ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -299,6 +411,26 @@
       "duration_ms": 278506,
       "name": "100 Grandkids",
       "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "Eric B for President: Term 1",
+        "url": "https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Aroc!",
+          "url": "https://open.spotify.com/artist/0uT3QSrGqBESB5s0XMa3WK"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "G.O.A.T.",
+      "url": "https://open.spotify.com/track/0hUepWE4GoMwtKgU8vE617"
     },
     {
       "added_at": "2022-08-05 06:44:00",
@@ -467,22 +599,6 @@
       "duration_ms": 164602,
       "name": "profile",
       "url": "https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Artist",
-        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 128156,
-      "name": "My Shit",
-      "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
     },
     {
       "added_at": "2022-08-12 19:41:39",
@@ -697,22 +813,6 @@
       "url": "https://open.spotify.com/track/1O7cBHLXgkhH81A5Jax0mk"
     },
     {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
-    },
-    {
       "added_at": "2022-07-11 17:06:22",
       "album": {
         "name": "Flat Tire",
@@ -807,26 +907,6 @@
       "duration_ms": 217560,
       "name": "Full Monarch",
       "url": "https://open.spotify.com/track/6eD15T3BUxlhPXF8jFofPB"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Eric B for President: Term 1",
-        "url": "https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Aroc!",
-          "url": "https://open.spotify.com/artist/0uT3QSrGqBESB5s0XMa3WK"
-        }
-      ],
-      "duration_ms": 184905,
-      "name": "G.O.A.T.",
-      "url": "https://open.spotify.com/track/0hUepWE4GoMwtKgU8vE617"
     },
     {
       "added_at": "2022-07-05 14:49:37",

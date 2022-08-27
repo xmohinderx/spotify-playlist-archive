@@ -4,7 +4,7 @@
 
 > Rock N' Roll Swagger Served Straight Up  / Cover: Marcus King
 
-155 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
+156 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Tell Me Lies](https://open.spotify.com/track/2scIG4pnqvCStKHTZiWB0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:39 | 2020-08-21 |  |
 | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/2JVFcDHKmXvNJaaAVvxiOy) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/7kkh7fjvsHR8q5uxksS7ko) | 3:42 | 2021-10-22 | 2022-08-17 |
 | [The War Inside \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:49 | 2021-10-15 |  |
+| [The Way I Am](https://open.spotify.com/track/4IWbCGhs0jqdts7HyqWtyM) | [The Weathered Souls](https://open.spotify.com/artist/0zJN9JGIfTEIiL8E58NDtI) | [The Way I Am](https://open.spotify.com/album/2GQ9yHFndyliRHDm8yri8v) | 4:08 | 2022-08-26 |  |
 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2020-08-21 | 2022-06-04 |
 | [The Wire](https://open.spotify.com/track/2jDgvn31FTHSYgTMavDv3v) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/0vyPTdAxmOLpOHHAkWJAa0) | 3:05 | 2021-09-14 |  |
 | [Three Chords](https://open.spotify.com/track/2jgTCZyFY6ZqhyIcSwpuWk) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Three Chords](https://open.spotify.com/album/4ksvsvLoQ7DwjMwDS3Uyvt) | 3:47 | 2021-11-12 | 2022-06-04 |
