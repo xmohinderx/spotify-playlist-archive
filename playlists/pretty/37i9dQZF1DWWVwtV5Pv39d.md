@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,388 likes - 65 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,398 likes - 65 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 55 | [Let's Play Pack Away! \(Tidy Up Game\)](https://open.spotify.com/track/05vmTdz8fo6yVcb9gIRmXU) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 2:10 |
 | 56 | [Drivin' in My Car](https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Ralph's World](https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa) | 2:49 |
 | 57 | [Time To Eat](https://open.spotify.com/track/2J2hDDcafkw4EVQmGNpcAx) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Time To Eat](https://open.spotify.com/album/6mnhHmyuS8dZtSEuTjoUu7) | 1:35 |
-| 58 | [If You're Happy](https://open.spotify.com/track/3i5YdzGBo5ssO9NZrDicjz) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp) | 1:50 |
+| 58 | [If You're Happy](https://open.spotify.com/track/3i5YdzGBo5ssO9NZrDicjz) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp) | 1:50 |
 | 59 | [This Is the Way We Go to Bed](https://open.spotify.com/track/0KCeyKDukuYfbAoTTb60e6) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [It's Time for Bed](https://open.spotify.com/album/3MKm8koz5nvtGYRaTkLYXe) | 1:53 |
 | 60 | [Brush to the Beat](https://open.spotify.com/track/2TDrxx01O6iKxi5SGGKwo6) | [Felicia Barton](https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Mickey Mornings](https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh) | 2:01 |
 | 61 | [Bed Time](https://open.spotify.com/track/1joefUsccvoRXCu6mnLlDi) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Great Indoors](https://open.spotify.com/album/0UHnvtbbdIIOkcm6eAlzxR) | 2:04 |

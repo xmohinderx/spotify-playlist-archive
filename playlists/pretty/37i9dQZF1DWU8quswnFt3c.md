@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Nazia Hassan
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,933 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,882 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,19 +64,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 54 | [الوردة البيضا](https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [الوردة البيضا](https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO) | 3:57 |
 | 55 | [Plastic Flowers](https://open.spotify.com/track/733EegAvi6DRptoJSTc2mF) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Plastic Flowers](https://open.spotify.com/album/1ED0peXhq1bvjLKVNMbWL6) | 2:36 |
 | 56 | [it keeps on raining](https://open.spotify.com/track/7oPm32eIHb11cm4FJadA5p) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [it keeps on raining](https://open.spotify.com/album/0Qxp8yImfA544GEVQGvyQj) | 3:22 |
-| 57 | [سم فالكاندي](https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX) | 2:27 |
-| 58 | [Call Mi](https://open.spotify.com/track/2nYYjc3qevJl4pd1XXVhcg) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Call Mi](https://open.spotify.com/album/0tbVf3hH9dl7nH7ExGKrAA) | 3:15 |
-| 59 | [Casa](https://open.spotify.com/track/0qCy54FENC3CPqOSMjHzPw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:18 |
-| 60 | [Hate You](https://open.spotify.com/track/20DTxZFaXhUWsnWFRmWgya) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/62IzaVIraFlR3BZQBBqwk0) | 3:24 |
-| 61 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 |
-| 62 | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi) | 4:09 |
-| 63 | [Alchemy](https://open.spotify.com/track/4trTjRaAzPMQrAInUSEKZA) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Alchemy](https://open.spotify.com/album/0D8HrT2FaWgG6PBLxT6amn) | 2:25 |
-| 64 | [Binary](https://open.spotify.com/track/3gUUMVRtNe9hxD2JzJ6J4v) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [Binary](https://open.spotify.com/album/6kZmUW4IoAWfZDcTr0nXaK) | 3:46 |
-| 65 | [Girl From A Movie](https://open.spotify.com/track/4JaEvhhoQmAHSGwRWzKNrD) | [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Girl From A Movie](https://open.spotify.com/album/6t5K3cKJCLqT6OTj5dhLO8) | 4:16 |
-| 66 | [Khatt](https://open.spotify.com/track/7n6WZ6B685kKuhVsWCuZTe) | [Aqdas Asif](https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Khatt](https://open.spotify.com/album/5YE64t1MFZB7d5OOUGYAHq) | 3:52 |
-| 67 | [tricky situation](https://open.spotify.com/track/2RupwaICWPZgf5kK6WN9av) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [tricky situation](https://open.spotify.com/album/3LxNmsxNPOgG5HoDATneGG) | 2:06 |
-| 68 | [No More Doubt](https://open.spotify.com/track/4Oq69vJVrRt4Q5bSQhoeB4) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [No More Doubt](https://open.spotify.com/album/2KYLphOnR1zIzSF26BCoBA) | 2:56 |
-| 69 | [จ๊วดหน้าฮ้าน](https://open.spotify.com/track/5JqNGI6DXY8GUxFqtz4EwG) | [Jintara Poonlarp](https://open.spotify.com/artist/3KlfbBoTPmF2TwJxFzveRI) | [จ๊วดหน้าฮ้าน](https://open.spotify.com/album/1NLzon0T0W1MGIIS7M05fR) | 5:02 |
-| 70 | [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 |
+| 57 | [Call Mi](https://open.spotify.com/track/2nYYjc3qevJl4pd1XXVhcg) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Call Mi](https://open.spotify.com/album/0tbVf3hH9dl7nH7ExGKrAA) | 3:15 |
+| 58 | [Casa](https://open.spotify.com/track/0qCy54FENC3CPqOSMjHzPw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:18 |
+| 59 | [Hate You](https://open.spotify.com/track/20DTxZFaXhUWsnWFRmWgya) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/62IzaVIraFlR3BZQBBqwk0) | 3:24 |
+| 60 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 |
+| 61 | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi) | 4:09 |
+| 62 | [Alchemy](https://open.spotify.com/track/4trTjRaAzPMQrAInUSEKZA) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Alchemy](https://open.spotify.com/album/0D8HrT2FaWgG6PBLxT6amn) | 2:25 |
+| 63 | [Binary](https://open.spotify.com/track/3gUUMVRtNe9hxD2JzJ6J4v) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [Binary](https://open.spotify.com/album/6kZmUW4IoAWfZDcTr0nXaK) | 3:46 |
+| 64 | [Girl From A Movie](https://open.spotify.com/track/4JaEvhhoQmAHSGwRWzKNrD) | [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Girl From A Movie](https://open.spotify.com/album/6t5K3cKJCLqT6OTj5dhLO8) | 4:16 |
+| 65 | [Khatt](https://open.spotify.com/track/7n6WZ6B685kKuhVsWCuZTe) | [Aqdas Asif](https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Khatt](https://open.spotify.com/album/5YE64t1MFZB7d5OOUGYAHq) | 3:52 |
+| 66 | [tricky situation](https://open.spotify.com/track/2RupwaICWPZgf5kK6WN9av) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [tricky situation](https://open.spotify.com/album/3LxNmsxNPOgG5HoDATneGG) | 2:06 |
+| 67 | [No More Doubt](https://open.spotify.com/track/4Oq69vJVrRt4Q5bSQhoeB4) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [No More Doubt](https://open.spotify.com/album/2KYLphOnR1zIzSF26BCoBA) | 2:56 |
+| 68 | [จ๊วดหน้าฮ้าน](https://open.spotify.com/track/5JqNGI6DXY8GUxFqtz4EwG) | [Jintara Poonlarp](https://open.spotify.com/artist/3KlfbBoTPmF2TwJxFzveRI) | [จ๊วดหน้าฮ้าน](https://open.spotify.com/album/1NLzon0T0W1MGIIS7M05fR) | 5:02 |
+| 69 | [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 |
+| 70 | [سم فالكاندي](https://open.spotify.com/track/7qk1ioFJUp5wNzPtSvi2E3) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7j5yTR9UnX8gVfOJ8OdqCo) | 2:27 |
 
-Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMGQwOWJjOGU5MTQwMmE0NjUzNjM3NzRlYjQ1MzYzYjM3`
+Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMGEwZWEyMTlmZjEyMWEzYmI4ZjNmMGU0Yzk1YzM1Mzc0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 42 | [Mooi Begint Van Binnen](https://open.spotify.com/track/5C3cHlD6KyIBaeUpKXmbZp) | [Femke Meines](https://open.spotify.com/artist/008zrqBEErn7XcCzTxwNoV) | [Dichterbij \(Originele Soundtrack Engel\)](https://open.spotify.com/album/1OLJRUMxSCmUSz5kV6WbHX) | 2:49 |
 | 43 | [Cherry Pie \(My Oh My\)](https://open.spotify.com/track/7piQg3hJYM8s3BlFEoLZh5) | [Noa Neal](https://open.spotify.com/artist/2eiRmGrpDvwwyVwkDWbtKD) | [Cherry Pie \(My Oh My\)](https://open.spotify.com/album/2VdmVBxp1ZRfDUjTjk6Gxw) | 3:04 |
 | 44 | [Strange Desire](https://open.spotify.com/track/7HgpfbhruGC6bX8BYzRlqo) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 4:05 |
-| 45 | [All Your Kisses](https://open.spotify.com/track/0WnqVkeUxgbi8A1DchJx9o) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses](https://open.spotify.com/album/7AEzkVcSRLqyDwC2m39sPx) | 2:41 |
-| 46 | [Destiny's Child](https://open.spotify.com/track/1ZSSboAHLZZUPhXgAfHA8J) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Irreversible](https://open.spotify.com/album/4qmfxCE5ggeqEMx85yj2jG) | 2:42 |
-| 47 | [The Lost One](https://open.spotify.com/track/1GwIQTJWPl4Ok3uZ2dIHnV) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Lost One](https://open.spotify.com/album/5ANQGGco2PooDfulRsUGEB) | 3:14 |
-| 48 | [FLY AWAY](https://open.spotify.com/track/6xcC3CXu7MI0HFzSF5Zkh5) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [FLY AWAY](https://open.spotify.com/album/60qE1C65gbxL7oStfjNGYE) | 3:09 |
-| 49 | [The Right One](https://open.spotify.com/track/7l37dMgsRHPOb7yk34f78w) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Right One](https://open.spotify.com/album/0Hl4BSPGz624co8VIfRegt) | 2:50 |
+| 45 | [All Your Kisses \- Acoustic](https://open.spotify.com/track/1u5jjtVuVOimNEyfmIUzhA) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses \(Acoustic\)](https://open.spotify.com/album/4NI8xIoY0qojBv2fMU46f1) | 2:28 |
+| 46 | [All Your Kisses](https://open.spotify.com/track/0WnqVkeUxgbi8A1DchJx9o) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses](https://open.spotify.com/album/7AEzkVcSRLqyDwC2m39sPx) | 2:41 |
+| 47 | [Destiny's Child](https://open.spotify.com/track/1ZSSboAHLZZUPhXgAfHA8J) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Irreversible](https://open.spotify.com/album/4qmfxCE5ggeqEMx85yj2jG) | 2:42 |
+| 48 | [The Lost One](https://open.spotify.com/track/1GwIQTJWPl4Ok3uZ2dIHnV) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Lost One](https://open.spotify.com/album/5ANQGGco2PooDfulRsUGEB) | 3:14 |
+| 49 | [FLY AWAY](https://open.spotify.com/track/6xcC3CXu7MI0HFzSF5Zkh5) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [FLY AWAY](https://open.spotify.com/album/60qE1C65gbxL7oStfjNGYE) | 3:09 |
+| 50 | [The Right One](https://open.spotify.com/track/7l37dMgsRHPOb7yk34f78w) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Right One](https://open.spotify.com/album/0Hl4BSPGz624co8VIfRegt) | 2:50 |
 
-Snapshot ID: `Mjc2OTI3MjEsMDAwMDAwMDAyOTBkNDFmNzI1ZTczODdjMjU4MGI0MzYzNGZmMGU2ZQ==`
+Snapshot ID: `Mjc2OTQxNjIsMDAwMDAwMDA1ZDk1ZGZjYmMzMDIxMDgwNWRjOTJmMjM0NjNmZTRiOQ==`

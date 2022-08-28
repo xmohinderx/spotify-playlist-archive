@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HkeE0Yyy1n.md) - [plain]
 | 26 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj) | 2:41 |
 | 27 | [Dystopian Overture](https://open.spotify.com/track/1NLujLBH0yxoR31ZlvHK7k) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [The Astonishing](https://open.spotify.com/album/6SRlWxC7lMPu2qlwOMslrk) | 4:50 |
 | 28 | [Break Take Live \- Radio Edit](https://open.spotify.com/track/4VMZ462I5lQPCz5UZ5UwKi) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Break Take Live](https://open.spotify.com/album/4H6wVKNo6YxA99f5nrKWWk) | 3:57 |
-| 29 | [Marigold](https://open.spotify.com/track/56g7gV4V3YvAmo4zbwnh3j) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/45TYtX5PUFk1DlFB6m1N1M) | 7:19 |
+| 29 | [Marigold](https://open.spotify.com/track/0xaN6B7xNJU9czMXELDyDM) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/5L9ddlTFtgLj93nzy77MEO) | 7:19 |
 | 30 | [Breathing Lightning](https://open.spotify.com/track/7t5LlQjgGfDA3KO9InRCTY) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [For All Kings](https://open.spotify.com/album/3uaMUU4WpSbdlM2M3A8t4G) | 6:33 |
 | 31 | [Mass Extinction Six](https://open.spotify.com/track/4oWlYe1XF0zwVGBSnKhlFt) | [Jonestown](https://open.spotify.com/artist/4Pre4ATksTCd3UYLe4oUPM) | [Aokigahara](https://open.spotify.com/album/13LUSWEn3PwiuNdhCbBDVb) | 4:53 |
 | 32 | [Hate by Design](https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Incarnate](https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH) | 3:46 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HkeE0Yyy1n.md) - [plain]
 | 119 | [The Call to Orion](https://open.spotify.com/track/1rbfCsj5x84ozBCHxjgSLZ) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [Afterglow](https://open.spotify.com/album/69Eghq1EV8MOWLL8hvNMKG) | 8:24 |
 | 120 | [Home](https://open.spotify.com/track/7i5SczfeKOLNQiZC2D12S4) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Home](https://open.spotify.com/album/6VNsUyt9tbVu7WlfZeZsXG) | 9:13 |
 
-Snapshot ID: `MTQ5ODY1MTI1NywwMDAwMDAwMDlmNDYyZWJiMDM0MDg5ZDhmYzFjMjc3ODg2ODg5MGM5`
+Snapshot ID: `MTQ5ODY1MTI1NywwMDAwMDAwMDAyODczNDYwZDZjYjFlYmIyZjBiNjBmMjkwNDEzMmYz`

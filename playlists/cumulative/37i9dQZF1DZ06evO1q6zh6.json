@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 202600,
       "name": "Better by You, Better Than Me",
       "url": "https://open.spotify.com/track/0GpBFY4Mb7fZVyQgaWirNG"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 215560,
       "name": "Eat Me Alive",
       "url": "https://open.spotify.com/track/4dB5JlDpDT4WLUvX5xIXON"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 263040,
       "name": "Evil Never Dies",
       "url": "https://open.spotify.com/track/1I4bh7GClCeUW4uORsZhTs"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 287733,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
@@ -746,6 +746,24 @@
     },
     {
       "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173973,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/1Fr7OlVZrc3mDvru8j2cFi"
+    },
+    {
+      "album": {
         "name": "Screaming For Vengeance (Expanded Edition)",
         "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 253760,
       "name": "Pain and Pleasure",
       "url": "https://open.spotify.com/track/7Mt5iLXqe3NEfEOvxoms4v"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 323266,
       "name": "Rising From Ruins",
       "url": "https://open.spotify.com/track/1f2qbSrsGznurodPtpfjV2"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 351733,
       "name": "Sea of Red",
       "url": "https://open.spotify.com/track/5dw4MmyoGKxPuJVscY6FKk"

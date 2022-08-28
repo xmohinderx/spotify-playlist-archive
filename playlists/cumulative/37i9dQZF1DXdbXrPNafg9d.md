@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Miya Folick
 
-4,090 songs - 10 day 0 hr 17 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,091 songs - 10 day 0 hr 19 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -866,7 +866,7 @@
 | [Desert Flower](https://open.spotify.com/track/4fT4kJxP3QfmktqB6hxDhE) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:54 | 2020-12-12 | 2021-02-16 |
 | [Desert Flower \- Remix](https://open.spotify.com/track/3bp1bmo2Km9SFT12M0eVOZ) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Desert Flower \(Remix\)](https://open.spotify.com/album/0WSacNfJCRndicOmSSBwJ3) | 3:37 | 2021-07-17 | 2021-08-28 |
 | [Desert Man](https://open.spotify.com/track/32dct2bVa03koPOjrzBuMm) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Desert Man](https://open.spotify.com/album/0xcVP4jidpTIW8qyb1kwbr) | 3:26 | 2019-09-06 | 2019-09-27 |
-| [Desert Snow](https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Desert Snow](https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT) | 3:35 | 2022-07-22 |  |
+| [Desert Snow](https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Desert Snow / Hourglass](https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT) | 3:35 | 2022-07-22 |  |
 | [Desert Trash](https://open.spotify.com/track/53iTOA35rvHofZSSWEs5h9) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Desert Trash](https://open.spotify.com/album/46yXZKQj8yYomHuiPDnFm0) | 3:52 | 2020-01-24 | 2020-02-21 |
 | [Deserve You](https://open.spotify.com/track/0SYvQ4QBVJhsAEUPonXh63) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Deserve You](https://open.spotify.com/album/4GJLgga05CwlkBSHrR4eIp) | 2:31 | 2021-05-03 | 2021-06-26 |
 | [Desperado](https://open.spotify.com/track/3QCS74JWL3eelZXOsYhPxq) | [Baby Boys](https://open.spotify.com/artist/5h1aEtZ8g7GdavtgSg633u) | [Desperado](https://open.spotify.com/album/1NcxqABS6BV52FsIGpo4N6) | 2:26 | 2021-02-26 | 2021-04-10 |
@@ -1836,7 +1836,8 @@
 | [In The Air Tonight](https://open.spotify.com/track/20csyRmYJVPHrngpsIsiKA) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [In The Air Tonight](https://open.spotify.com/album/6mzKGx9xRlN9bzORcrWJsE) | 5:28 | 2019-10-11 | 2019-11-08 |
 | [In the Country](https://open.spotify.com/track/5WDNpaLcznJ2Q8t5IAKPnZ) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [In the Country](https://open.spotify.com/album/25oi07QfFa1s1ZHXz453Sm) | 3:20 | 2021-06-19 | 2021-08-07 |
 | [in the darkness](https://open.spotify.com/track/2zxe1bIcH0mHSMwuc9Fh1k) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:29 | 2021-09-11 | 2021-11-20 |
-| [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-05 |  |
+| [IN THE DOG HOUSE](https://open.spotify.com/track/0WFalqmpdkBXkD1RLet7hz) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 1:42 | 2022-08-05 |  |
+| [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-05 | 2022-08-28 |
 | [In The Eyes Of Our Love](https://open.spotify.com/track/2qMGjLc2WvkkbGz8e4CCbA) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [In The Eyes Of Our Love](https://open.spotify.com/album/2FacR597vrljhhdkh9iFEe) | 3:28 | 2022-01-14 | 2022-02-26 |
 | [In The Flowers](https://open.spotify.com/track/3MYwtTSyvNuHDc1VwUIubg) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In The Flowers](https://open.spotify.com/album/1hwqPMEVPbXdyPNOQq29h7) | 4:41 | 2022-01-28 | 2022-03-12 |
 | [In the Ground](https://open.spotify.com/track/02kKzWyyooIhMsqgt2UCqm) | [The Aubreys](https://open.spotify.com/artist/7ijkc3O3uxDdAmSuQUg2f2) | [Karaoke Alone](https://open.spotify.com/album/38fXXBRH67ERoGerpLIpaN) | 2:59 | 2021-11-06 | 2021-12-18 |

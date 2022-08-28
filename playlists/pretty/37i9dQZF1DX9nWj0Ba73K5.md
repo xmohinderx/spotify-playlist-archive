@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Josh Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,448 likes - 197 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,470 likes - 197 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 72 | [All The Things](https://open.spotify.com/track/24m5SLNQgZ6VDxvgF1LdxV) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [All The Things](https://open.spotify.com/album/2pURs14Vqk24X1f9QnDb7C) | 2:40 |
 | 73 | [When It's My Time](https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [When It's My Time](https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ) | 4:33 |
 | 74 | [Barefoot Blue Jean Night](https://open.spotify.com/track/5CQ1BKIfD8cpMsxn3rdEXm) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Even If It Breaks Your Barefoot Friday Night, Pt\. 1](https://open.spotify.com/album/2TDTiLd5HpKDkX5WxZmBJ3) | 2:56 |
-| 75 | [Walks On Whiskey](https://open.spotify.com/track/38Kr23AF7ClWkD8Tiew0Vj) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Walks On Whiskey](https://open.spotify.com/album/5bQGiywjN2dxEy2pqtPPOY) | 2:37 |
+| 75 | [Walks on Whiskey](https://open.spotify.com/track/7C5KYt5hyCqy0kMAq9jbEQ) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Walks on Whiskey](https://open.spotify.com/album/2WyX2r0I3bvNlE0lnHUK1c) | 2:37 |
 | 76 | [All I Need to See](https://open.spotify.com/track/1nggCj00NY7GRx0CyWcMKY) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [All I Need to See](https://open.spotify.com/album/748lkYrb1zeh6xMQ1ewWJ1) | 4:28 |
 | 77 | [Deeper Than The Holler](https://open.spotify.com/track/0XJJs5CnaQ0mKyFea5s1F0) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Mountaintop](https://open.spotify.com/album/31WOBFBlfjF7qjW3uURoT6) | 3:32 |
 | 78 | [Fire Away](https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:04 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 196 | [Girl Crush](https://open.spotify.com/track/1wPwNfgLh54akyMFRhkMzZ) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:25 |
 | 197 | [The Highwayman](https://open.spotify.com/track/5Uq2mhb7ZHCGlLLbVVIuAF) | [Jimmy Webb](https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB) | [Highwayman: The Greatest Hits](https://open.spotify.com/album/34u1HXTINbB3kfKUAj6PzV) | 3:50 |
 
-Snapshot ID: `MTY2MDg4Njg3NSwwMDAwMDAwMDcyNmJmODE5ZmExYzkzZTgxMmNjMWUxNzc0OTY4OGRl`
+Snapshot ID: `MTY2MDg4Njg3NSwwMDAwMDAwMDZkNDlmYzAwNWJjMmE5NGY5NWEzOTU5ODI1YTQ1ZGEx`

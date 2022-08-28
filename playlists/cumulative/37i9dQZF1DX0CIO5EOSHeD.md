@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Frankie Cosmos
 
-309 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+310 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Ill Die for U](https://open.spotify.com/track/5v7XjzreQIVYJQkI4V5c7j) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO), [Lul Patchy](https://open.spotify.com/artist/10aK4Kl54Gv2thryqsscMN) | [Ill Die for U](https://open.spotify.com/album/2zx4Ttn8iNSCRwQ7SKDvHV) | 2:27 | 2021-04-02 | 2022-04-29 |
 | [ily<3](https://open.spotify.com/track/3ZP4D8jYZ7CdqXUfp1o71I) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [ily<3](https://open.spotify.com/album/0o1clGmQMvWEhwQYH6TBWd) | 3:34 | 2022-03-03 | 2022-07-29 |
 | [In My Head](https://open.spotify.com/track/3Y6tV3yhArEd7yfGggq2WF) | [Andreww](https://open.spotify.com/artist/3nNrtcMuKJcs40QGH5xoQS) | [In My Head](https://open.spotify.com/album/2nxQBBRveSpoNgmDGCS8pE) | 2:52 | 2021-10-09 | 2022-04-18 |
-| [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-05 |  |
+| [IN THE DOG HOUSE](https://open.spotify.com/track/0WFalqmpdkBXkD1RLet7hz) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 1:42 | 2022-08-05 |  |
+| [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-05 | 2022-08-28 |
 | [Intersection](https://open.spotify.com/track/4rNqlRwYCCcVUv37ZLmMTY) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/7HxyUjqGjryGDxX0aVyoEh) | 3:53 | 2021-04-29 |  |
 | [Into](https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Into](https://open.spotify.com/album/22Ta1z6nV13bCOXLQpdY6f) | 3:59 | 2021-09-07 |  |
 | [into ash](https://open.spotify.com/track/2yPIuAeJ2Y5mKPo82Lruw3) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [into ash](https://open.spotify.com/album/7guivDMrs7rBgX84UAp2vL) | 1:29 | 2020-10-27\* | 2022-07-28 |

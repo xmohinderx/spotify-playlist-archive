@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona! ",
-  "num_followers": 191010,
+  "num_followers": 191371,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ3MjAwMCwwMDAwMDAwMDBhY2YxNzY3NmU2OGQxNGQ4MGM4MzkyNDMwZjA3ZmFk",
+  "snapshot_id": "MTY2MTQ3MjAwMCwwMDAwMDAwMDI3YjJkMTE1YTFhZjAyZWM0MWE1ZWNmZjNjZDI3NDcw",
   "tracks": [
     {
       "added_at": "2022-08-26 00:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-08-26 00:00:00",
       "album": {
-        "name": "Soy el Raton (En Vivo)",
-        "url": "https://open.spotify.com/album/5aH3RUQJT9dLVrtA5jZ5RW"
-      },
-      "artists": [
-        {
-          "name": "Ldln",
-          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
-        }
-      ],
-      "duration_ms": 175471,
-      "name": "Soy el Rat\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/1PjOEZ1ThSilwlLmXDb9W6"
-    },
-    {
-      "added_at": "2022-08-26 00:00:00",
-      "album": {
         "name": "DEV, Vol. 2",
         "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
@@ -1267,22 +1251,6 @@
     {
       "added_at": "2022-08-26 00:00:00",
       "album": {
-        "name": "Corridos Belicos",
-        "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 177057,
-      "name": "El Buho",
-      "url": "https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL"
-    },
-    {
-      "added_at": "2022-08-26 00:00:00",
-      "album": {
         "name": "H\u00edbrido",
         "url": "https://open.spotify.com/album/7CF6hkX3leaeUMnuG7bSQd"
       },
@@ -1295,6 +1263,22 @@
       "duration_ms": 174293,
       "name": "H\u00edbrido",
       "url": "https://open.spotify.com/track/3G7fQTjT7N6cPuBF9m8GDf"
+    },
+    {
+      "added_at": "2022-08-26 00:00:00",
+      "album": {
+        "name": "Corridos Belicos",
+        "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 177057,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL"
     },
     {
       "added_at": "2022-08-26 00:00:00",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2022-08-26 00:00:00",
       "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 183871,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13"
+    },
+    {
+      "added_at": "2022-08-26 00:00:00",
+      "album": {
         "name": "Mi Nueva Familia",
         "url": "https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS"
       },
@@ -1547,38 +1547,6 @@
     {
       "added_at": "2022-08-26 00:00:00",
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/3uxnlNzKbQfQcFZKleBKRe"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "El D\u00eda De Los Muertos",
-      "url": "https://open.spotify.com/track/4u0XPm834TLSPBKbl9rWP3"
-    },
-    {
-      "added_at": "2022-08-26 00:00:00",
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 183871,
-      "name": "Buenas Vibras",
-      "url": "https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13"
-    },
-    {
-      "added_at": "2022-08-26 00:00:00",
-      "album": {
         "name": "Moreno 80 (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
       },
@@ -1599,6 +1567,22 @@
     {
       "added_at": "2022-08-26 00:00:00",
       "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/3uxnlNzKbQfQcFZKleBKRe"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "El D\u00eda De Los Muertos",
+      "url": "https://open.spotify.com/track/4u0XPm834TLSPBKbl9rWP3"
+    },
+    {
+      "added_at": "2022-08-26 00:00:00",
+      "album": {
         "name": "Pa Que Vayan y Digan",
         "url": "https://open.spotify.com/album/3mLFnv3XBh9olLHaCU9SIN"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 182767,
       "name": "Pa Que Vayan y Digan",
       "url": "https://open.spotify.com/track/7pQvG1dQLjIFRQI3pLWT00"
+    },
+    {
+      "added_at": "2022-08-26 00:00:00",
+      "album": {
+        "name": "Bajo Efecto Del Alcohol",
+        "url": "https://open.spotify.com/album/6rtYoViAmt2WvS55wt1nop"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Bajo Efecto Del Alcohol",
+      "url": "https://open.spotify.com/track/1oxTXnbKs7l9s73H2fJXF6"
     },
     {
       "added_at": "2022-08-26 00:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-08-26 00:00:00",
       "album": {
-        "name": "Bajo Efecto Del Alcohol",
-        "url": "https://open.spotify.com/album/6rtYoViAmt2WvS55wt1nop"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Bajo Efecto Del Alcohol",
-      "url": "https://open.spotify.com/track/1oxTXnbKs7l9s73H2fJXF6"
-    },
-    {
-      "added_at": "2022-08-26 00:00:00",
-      "album": {
         "name": "Corazon Tumbado",
         "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
       },
@@ -1699,22 +1683,6 @@
       "duration_ms": 197585,
       "name": "No Soy Lo Que Piensas",
       "url": "https://open.spotify.com/track/6YviOFfwGAS5ZFLaWiVXNo"
-    },
-    {
-      "added_at": "2022-08-26 00:00:00",
-      "album": {
-        "name": "Vida Rencorosa",
-        "url": "https://open.spotify.com/album/4gNmyfqYP4Fy72OYAnbM6D"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Vida Rencorosa",
-      "url": "https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE"
     },
     {
       "added_at": "2022-08-26 00:00:00",
@@ -1751,6 +1719,22 @@
       "duration_ms": 199000,
       "name": "Ladeando",
       "url": "https://open.spotify.com/track/73Duclev4uTDiM70jH1G5h"
+    },
+    {
+      "added_at": "2022-08-26 00:00:00",
+      "album": {
+        "name": "Vida Rencorosa",
+        "url": "https://open.spotify.com/album/4gNmyfqYP4Fy72OYAnbM6D"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Vida Rencorosa",
+      "url": "https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE"
     },
     {
       "added_at": "2022-08-26 00:00:00",
@@ -2255,22 +2239,6 @@
     {
       "added_at": "2022-08-26 00:00:00",
       "album": {
-        "name": "Vengo De La Tia",
-        "url": "https://open.spotify.com/album/6lvUaSYHo9i6jGfH5DiZ3Y"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        }
-      ],
-      "duration_ms": 188117,
-      "name": "Vengo De La Tia",
-      "url": "https://open.spotify.com/track/0BUWUqaqyopQd6Rj79xNdc"
-    },
-    {
-      "added_at": "2022-08-26 00:00:00",
-      "album": {
         "name": "1942",
         "url": "https://open.spotify.com/album/1u6tT1pGTGqdJXmBIagCT9"
       },
@@ -2299,6 +2267,38 @@
       "duration_ms": 171391,
       "name": "It's Really True",
       "url": "https://open.spotify.com/track/00VarnepizaFbXU56M64QB"
+    },
+    {
+      "added_at": "2022-08-26 00:00:00",
+      "album": {
+        "name": "Goat",
+        "url": "https://open.spotify.com/album/2AbamYOdWkv83fvlev7qfx"
+      },
+      "artists": [
+        {
+          "name": "Colocho y Su Eminencia",
+          "url": "https://open.spotify.com/artist/6c61IOPGx9WFbMgtHvm8wz"
+        }
+      ],
+      "duration_ms": 178305,
+      "name": "Delincuente",
+      "url": "https://open.spotify.com/track/7t5hD3O8KBrr4yGAgHyn6F"
+    },
+    {
+      "added_at": "2022-08-26 00:00:00",
+      "album": {
+        "name": "Vengo De La Tia",
+        "url": "https://open.spotify.com/album/6lvUaSYHo9i6jGfH5DiZ3Y"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        }
+      ],
+      "duration_ms": 188117,
+      "name": "Vengo De La Tia",
+      "url": "https://open.spotify.com/track/0BUWUqaqyopQd6Rj79xNdc"
     }
   ],
   "unique_name": "La Mamalona",

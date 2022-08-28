@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414000,
+      "name": "Carola - En Vivo",
+      "url": "https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc"
+    },
+    {
+      "album": {
         "name": "Para Ellas",
         "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 209640,
       "name": "Como Esos Amantes",
       "url": "https://open.spotify.com/track/3VuLKZImxOy2bpMaA6ECB0"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 183333,
       "name": "El Caballito",
       "url": "https://open.spotify.com/track/3OanacoRGMSYjnedeXkUhQ"
@@ -494,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232750,
+      "name": "La Guitarra de Lolo - En Vivo",
+      "url": "https://open.spotify.com/track/5bmN1vFp6A1o83L57dv2yv"
+    },
+    {
+      "album": {
         "name": "Soy de Carne y Hueso",
         "url": "https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq"
       },
@@ -541,7 +577,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 151000,
       "name": "Las Medias Negras - En Vivo",
       "url": "https://open.spotify.com/track/4yPlCcF26zH7EqXHZ9k6xD"
@@ -973,7 +1009,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 175250,
       "name": "Quiero Que Me Vuelas Queder - En Vivo",
       "url": "https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK"

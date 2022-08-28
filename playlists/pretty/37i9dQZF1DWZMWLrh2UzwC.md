@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Elton John, Britney Spears
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,141 likes - 77 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,150 likes - 77 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 56 | [Peter Pan](https://open.spotify.com/track/2p7NeByZueWly6fo8Ogljl) | [Heerraa](https://open.spotify.com/artist/00w754f5rPht5LTVc45U4w) | [Peter Pan](https://open.spotify.com/album/5Iw7YpDkeIpmlzvOF1uzBW) | 3:46 |
 | 57 | [Let Me Love You](https://open.spotify.com/track/4EVM7DOPmwMNUGkm7EEEBC) | [Couple](https://open.spotify.com/artist/6JBkEZKgqOocVfjp0dOgAA) | [Let Me Love You](https://open.spotify.com/album/0EdgAp359QK9KQHXVVL8SL) | 3:57 |
 | 58 | [never be enough](https://open.spotify.com/track/4NAiXE4zNL3saeFqd91bJZ) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [never be enough](https://open.spotify.com/album/1Jve46w0D7RhC9tIQNVQ2x) | 4:02 |
-| 59 | [Falling \(Again\)](https://open.spotify.com/track/1Rgrp2kFOCpPIExRVzQN4e) | [Feir](https://open.spotify.com/artist/51MSXiv3fxha6qsKxZV4YY) | [Falling \(Again\)](https://open.spotify.com/album/1eexsL3MWZJxeSabrjgRdU) | 4:26 |
+| 59 | [Fall \(Again\)](https://open.spotify.com/track/1Rgrp2kFOCpPIExRVzQN4e) | [Feir](https://open.spotify.com/artist/51MSXiv3fxha6qsKxZV4YY) | [Fall \(Again\)](https://open.spotify.com/album/1eexsL3MWZJxeSabrjgRdU) | 4:26 |
 | 60 | [Black Mascara](https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Black Mascara](https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb) | 4:01 |
 | 61 | [Phantom](https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Phantom](https://open.spotify.com/album/4wJcxxuS21izYigHCM58gr) | 4:25 |
 | 62 | [Every Beginning Ends](https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 2:30 |

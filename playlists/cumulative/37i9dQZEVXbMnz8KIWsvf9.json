@@ -1508,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "the other side",
+        "url": "https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193560,
+      "name": "far away",
+      "url": "https://open.spotify.com/track/7bJ6jD8vlKDU2lmur1lMjp"
+    },
+    {
+      "album": {
         "name": "Favorite - The 3rd Album Repackage",
         "url": "https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX"
       },
@@ -1663,7 +1681,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 202533,
       "name": "FOREVER 1",
       "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -4880,6 +4898,24 @@
     },
     {
       "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+    },
+    {
+      "album": {
         "name": "DIMENSION : DILEMMA",
         "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
       },
@@ -5581,7 +5617,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 270750,
       "name": "\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9"
@@ -7181,6 +7217,24 @@
       "duration_ms": 288603,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e1a\u0e2d\u0e01\u0e43\u0e04\u0e23\u0e19\u0e30",
       "url": "https://open.spotify.com/track/0xG48CBxqMQoYscjjXwD6v"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e48\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e25\u0e22",
+        "url": "https://open.spotify.com/album/2CjUPTshiticCHDqPKpsbK"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226086,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e25\u0e22",
+      "url": "https://open.spotify.com/track/61faGyAiv8zqm0EUUpRYma"
     },
     {
       "album": {

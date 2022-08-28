@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 5 years<br/>Cover : Thiruchitrambalam
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,328 likes - 55 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,659 likes - 55 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 6 | [Once Upon a Time](https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 2:23 |
 | 7 | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt) | 4:39 |
 | 8 | [Adiye \- From "Bachelor"](https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Adiye \(From "Bachelor"\)](https://open.spotify.com/album/1vPj6t2spMcJkrtlDsFaC8) | 4:32 |
-| 9 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 |
+| 9 | [Life of Pazham \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6A6mDExVoAEJmc5JyVSQeK) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Life of Pazham \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/5jZCyxy9WjBt4EjVaX6akb) | 3:54 |
 | 10 | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO) | 3:31 |
-| 11 | [Life of Pazham \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6A6mDExVoAEJmc5JyVSQeK) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Life of Pazham \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/5jZCyxy9WjBt4EjVaX6akb) | 3:54 |
+| 11 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 |
 | 12 | [Ponni Nadhi \(From "Ponniyin Selvan Part \-1"\) \- Tamil](https://open.spotify.com/track/1uJ2czshFLqimctgvsxfv2) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A\. R\. Reihana](https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D) | [Ponni Nadhi \(From "Ponniyin Selvan Part \-1"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6uoefjrPMaieH3pKqBYDeM) | 4:50 |
 | 13 | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/4jFrwveExsKoWw4uxDu8kz) | 4:18 |
 | 14 | [Mehabooba](https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg) | 3:32 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 54 | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/track/6i5QcWVTuzM67pXgD9Q7Vw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/album/27NXMaoKgNJR3iCHWKnpA3) | 3:45 |
 | 55 | [Dharala Prabhu Title Track](https://open.spotify.com/track/7MtK3lPdVPq2WGO6EWHB9V) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Dharala Prabhu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4O5iuMBSmUXMZIrBgx3LOG) | 3:19 |
 
-Snapshot ID: `MTY2MTMzMjcyNSwwMDAwMDAwMGY1YWI3ZjRkZDkyMmU0Mjc1YjE2OGJkYmNlZDI1MGM4`
+Snapshot ID: `MTY2MTYxMDQ1MCwwMDAwMDAwMDk3ZTZhYzE0MWNkNGQzZWM3OTNjMGZmNmU5MDA3Yjlm`

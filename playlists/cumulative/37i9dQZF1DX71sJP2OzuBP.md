@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-224 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/4yEvFX7VUvJuAPsPMp0BtX)
+225 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/4yEvFX7VUvJuAPsPMp0BtX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [The Way You Smile](https://open.spotify.com/track/3FNJ3sJVzonsDofUVsjIYK) | [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [The Way You Smile](https://open.spotify.com/album/7c3YvezgLelud3X1R3v9GN) | 3:04 | 2022-06-06 | 2022-06-21 |
 | [WANT TOO](https://open.spotify.com/track/1xBLUezHIborqtET1vkfcY) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [WANT TOO](https://open.spotify.com/album/76c574QgbdN4As2a8yvspS) | 2:43 | 2022-06-06 | 2022-06-21 |
 | [Warning Signs](https://open.spotify.com/track/4zRcmMBLYd5nYpk5Jy1Gq7) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Warning Signs](https://open.spotify.com/album/3oy0O4DrNBpqfY54WCayI6) | 3:29 | 2022-06-06 | 2022-06-21 |
-| [What If Flowers…](https://open.spotify.com/track/33ggIHdSlZWUHZeDdoD5le) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [What If Flowers…](https://open.spotify.com/album/7xBMedtlcXg6MfFp9kUxhn) | 4:41 | 2022-07-25 |  |
+| [What If Flowers...](https://open.spotify.com/track/1CnTHvSu0B7Q6T1eY5Veds) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [Dear Life](https://open.spotify.com/album/10F9BrkqUHguqspwwn7Frd) | 4:40 | 2022-08-22 |  |
+| [What If Flowers…](https://open.spotify.com/track/33ggIHdSlZWUHZeDdoD5le) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [What If Flowers…](https://open.spotify.com/album/7xBMedtlcXg6MfFp9kUxhn) | 4:41 | 2022-07-25 | 2022-08-28 |
 | [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 | 2022-08-08 | 2022-08-16 |
 | [Whatchu Gonna...?](https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Whatchu Gonna...?](https://open.spotify.com/album/4C6O1vEFP0AM2ThBxFdma2) | 3:48 | 2022-08-01 | 2022-08-11 |
 | [WHY](https://open.spotify.com/track/53CCHKZXZGA1uUQFYfyDTw) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [WHY](https://open.spotify.com/album/2UblRGtrfpXGuqqndsBm4U) | 3:13 | 2022-08-08 |  |

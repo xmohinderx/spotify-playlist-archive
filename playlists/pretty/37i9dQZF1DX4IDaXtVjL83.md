@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: Bebe Rexha X ITZY\(YEJI & RYUJIN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,082 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,216 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 14 | [Wrap Me In Plastic](https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [CHROMANCE](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp) | [Wrap Me In Plastic](https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB) | 3:12 |
 | 15 | [Butter \- Megan Thee Stallion Remix](https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v) | 2:44 |
 | 16 | [Blueberry Eyes \(feat\. SUGA of BTS\)](https://open.spotify.com/track/5dn6QANKbf76pANGjMBida) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Blueberry Eyes \(feat\. SUGA of BTS\)](https://open.spotify.com/album/2dEJHnsuxIij7YeBbt0sVm) | 2:52 |
-| 17 | [I CAN'T STOP ME \- English Version](https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) | 3:25 |
+| 17 | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) | 3:25 |
 | 18 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 |
 | 19 | [Best Friend \(feat\. Doja Cat, Jamie & CHANMINA\) \[Remix\]](https://open.spotify.com/track/7L72EQGrKTteP3IjLHNdFJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\) \[Remix EP\] \[Extended Edition\]](https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA) | 3:26 |
 | 20 | [Fairytale](https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 2:52 |

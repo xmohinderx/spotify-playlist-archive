@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-440 songs - 1 day 2 hr 40 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+441 songs - 1 day 2 hr 43 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Long D](https://open.spotify.com/track/3tzjn5ILVuHc4eSLTH60lY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Long D](https://open.spotify.com/album/3SGir5Xnex2E02jNYAzRnr) | 3:41 | 2022-04-16 | 2022-05-28 |
 | [Loser](https://open.spotify.com/track/5MGYY2USzSzFFrJe2Nul7Q) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [Loser](https://open.spotify.com/album/6hxA2XnQbjGb6dt4F28CPA) | 4:13 | 2021-08-29 | 2022-02-20 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-21 |
-| [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-06 |  |
+| [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-06 | 2022-08-28 |
 | [LUNCH](https://open.spotify.com/track/23tnYfiqkTWhhb0q89SAqm) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [LUNCH](https://open.spotify.com/album/5Ym5RtpuJff5IAw6iQy38k) | 2:55 | 2022-04-16 | 2022-04-21 |
 | [Master Class](https://open.spotify.com/track/7xE3HkKaZFhtzrt2FiwNOd) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [Master Class](https://open.spotify.com/album/03psvIea883UU385SIAccE) | 3:33 | 2021-05-13 |  |
 | [Megahit](https://open.spotify.com/track/33bb4ipPqbeTdZLOAix27Z) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Megahit](https://open.spotify.com/album/3vwAviwOj5HoFL7WKlOH61) | 3:24 | 2021-09-24 |  |
@@ -237,6 +237,7 @@
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-15 | 2022-03-22 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-08-29 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
+| [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-27 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-03-27 |
 | [That Guy](https://open.spotify.com/track/4UkZekZxjzovQ3ErAQadFq) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [That Guy](https://open.spotify.com/album/798spbPFkOgWIoQlQzaSHg) | 2:48 | 2021-11-24 | 2021-11-27 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-07 | 2022-05-11 |
@@ -267,8 +268,8 @@
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-23 |
 | [もう少しだけ](https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [もう少しだけ](https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I) | 3:40 | 2021-05-12 | 2021-05-20 |
 | [一人之境 in C major](https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 3:15 | 2021-03-27\* |  |
-| [一號種籽](https://open.spotify.com/track/3i804ijVjXeLrMKGIiVCHm) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [一號種籽](https://open.spotify.com/album/5vdDXo15V2KaVH8lDpY0SI) | 3:57 | 2022-08-24 |  |
-| [一表人才](https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [一表人才](https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs) | 4:19 | 2021-11-20 | 2022-08-27 |
+| [一號種籽](https://open.spotify.com/track/3i804ijVjXeLrMKGIiVCHm) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [一號種籽](https://open.spotify.com/album/5vdDXo15V2KaVH8lDpY0SI) | 3:57 | 2022-08-24 | 2022-08-28 |
+| [一表人才](https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [一表人才](https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs) | 4:19 | 2021-11-20 |  |
 | [三個字](https://open.spotify.com/track/524AUGUhR1F8SRiumM4T5e) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D) | [三個字](https://open.spotify.com/album/4caS8RrS6eIRCPi5JTsFQG) | 3:46 | 2021-11-10 | 2022-02-16 |
 | [下一位前度](https://open.spotify.com/track/0Q3jOuEpx8Esi2qZMQSghl) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [下一位前度](https://open.spotify.com/album/59YA2cgcSxJ8ndjcWfNbYr) | 4:35 | 2021-03-27\* | 2021-11-12 |
 | [下一位前度 in Ab major](https://open.spotify.com/track/2KogAeAixsmxIzDmMHKhjY) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 4:35 | 2021-11-12 |  |
@@ -364,7 +365,7 @@
 | [東京人壽](https://open.spotify.com/track/1qc9E4zCJ5utXDQVIAZlkm) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [東京人壽](https://open.spotify.com/album/0w2tKyjNG1x1wgYyAnlTbG) | 4:17 | 2021-03-27\* | 2021-05-13 |
 | [某種老朋友](https://open.spotify.com/track/4c9hHw1PUYXHfKFASXo8H0) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [某種老朋友](https://open.spotify.com/album/4F9PntJ91ej5Uxyo1wgMii) | 4:30 | 2022-02-17 |  |
 | [樹](https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹](https://open.spotify.com/album/4RcQZBChNpUMXKcJmF5ErJ) | 3:55 | 2021-12-18 | 2021-12-19 |
-| [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 | 2022-06-25 | 2022-08-27 |
+| [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 | 2022-06-25 |  |
 | [櫻花樹下](https://open.spotify.com/track/2FgDWCqMCIAATvqr9ozeYm) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Urban Emotions](https://open.spotify.com/album/3fem0d1l01dbTq5goqW7QJ) | 4:09 | 2022-05-20 | 2022-07-03 |
 | [正式開始](https://open.spotify.com/track/1jVw3apCOogFU1mOquNIhC) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [正式開始](https://open.spotify.com/album/40i8Il5hBAX9OlqcZvQ2t0) | 3:28 | 2021-03-27\* | 2021-09-24 |
 | [每次你走的時分](https://open.spotify.com/track/5re2sW79DkSu7tyBjxCqUS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [每次你走的時分](https://open.spotify.com/album/5t0kPdHWUbtFPugupIGZrO) | 2:59 | 2021-08-26 | 2021-09-01 |
@@ -405,7 +406,7 @@
 | [聽風 in D major](https://open.spotify.com/track/6nfEYJH79mSjxsaesFBY64) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 3:16 | 2021-04-21 | 2021-04-28 |
 | [膠 on! \(膠戰S2 主題曲\)](https://open.spotify.com/track/3Hw5UuPArZWxOQUu6tYdf1) | [6膠](https://open.spotify.com/artist/1LVOxgnKHc1CWaiNoMuQ8s) | [膠 on! \(膠戰S2 主題曲\)](https://open.spotify.com/album/1UZHXtZuKCJKRBi6mtc0DX) | 3:46 | 2022-01-13 | 2022-02-19 |
 | [自毀的程序](https://open.spotify.com/track/5cGipBquhoVjNn5U6XX61k) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [自毀的程序](https://open.spotify.com/album/3aCajItUBZrwQZtdNTady7) | 3:58 | 2022-07-12 |  |
-| [蒙著嘴說愛你](https://open.spotify.com/track/2w9A7fvq6ka5CB9l7wDZXG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [蒙著嘴說愛你](https://open.spotify.com/album/6OPGexvajf1yf21kT1X0v9) | 4:00 | 2021-03-27\* |  |
+| [蒙著嘴說愛你](https://open.spotify.com/track/2w9A7fvq6ka5CB9l7wDZXG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [蒙著嘴說愛你](https://open.spotify.com/album/6OPGexvajf1yf21kT1X0v9) | 4:00 | 2021-03-27\* | 2022-08-28 |
 | [虎道門](https://open.spotify.com/track/7MwGjIfcuWQUbbv8LHnxbm) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D), [Lokman Yeung 楊樂文](https://open.spotify.com/artist/5ucyj0fSEfb4e6kchrXfxp) | [虎道門](https://open.spotify.com/album/35n4Z6jQ7H4cQh56Yeltzp) | 3:52 | 2021-08-22 | 2021-09-24 |
 | [蝸牛](https://open.spotify.com/track/4zYVhAyiJySa41foU2F645) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D), [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [蝸牛](https://open.spotify.com/album/2wXZTqMw8rjDyOFuc7h0aQ) | 4:17 | 2021-05-11 | 2021-10-19 |
 | [觸電](https://open.spotify.com/track/1Fho4dheJpucaeccEtbyjE) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Frenemy](https://open.spotify.com/album/3uAhnIdZUUJBLOPgQPLso2) | 3:22 | 2022-08-17 | 2022-08-19 |

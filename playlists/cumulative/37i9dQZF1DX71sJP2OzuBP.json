@@ -576,6 +576,24 @@
     },
     {
       "album": {
+        "name": "Dear Life",
+        "url": "https://open.spotify.com/album/10F9BrkqUHguqspwwn7Frd"
+      },
+      "artists": [
+        {
+          "name": "Yisa Yu",
+          "url": "https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280503,
+      "name": "What If Flowers...",
+      "url": "https://open.spotify.com/track/1CnTHvSu0B7Q6T1eY5Veds"
+    },
+    {
+      "album": {
         "name": "What If Flowers\u2026",
         "url": "https://open.spotify.com/album/7xBMedtlcXg6MfFp9kUxhn"
       },
@@ -587,7 +605,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 281012,
       "name": "What If Flowers\u2026",
       "url": "https://open.spotify.com/track/33ggIHdSlZWUHZeDdoD5le"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in jazz\. Cover: Charlie Parker
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,196 likes - 150 songs - 15 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,308 likes - 150 songs - 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 27 | [A Night In Tunisia \- Rudy Van Gelder Edition / 2003 Remaster](https://open.spotify.com/track/5KQ6uddno2Hht84gJDHsPF) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Our Man In Paris \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088) | 8:15 |
 | 28 | [Blues Inn \- Remastered](https://open.spotify.com/track/7Kwi4xmgY4qQwOhBe0zsbh) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 9:05 |
 | 29 | [Midnight Mood](https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Nearness Of You: The Ballad Book](https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY) | 6:23 |
-| 30 | [Prelude and Part I \(Remastered 2022\)](https://open.spotify.com/track/4zZJKgZoRr4O0hM9DNj5Ka) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Essential Classics, Vol\. 73: Phil Woods \(Remastered 2022\)](https://open.spotify.com/album/2n7KpFSavpCsDe2GJhZsLX) | 6:37 |
+| 30 | [Prelude and Part I](https://open.spotify.com/track/1gdTXBb4AsXkWYI8qJObkv) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Rights Of Swing](https://open.spotify.com/album/4oOLtlUXPWJyVax9ppvmLl) | 6:37 |
 | 31 | [Quintessence \- Remastered](https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:16 |
 | 32 | [I Remember You](https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 4:26 |
 | 33 | [From Dream to Dream](https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [New Time, New 'Tet](https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP) | 7:33 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 149 | [Salt And Pepper](https://open.spotify.com/track/1FISZKmm2qIIbh5dZttoFi) | [Fly Trio](https://open.spotify.com/artist/7ygwEivK0GOVKlrtEPK1y7) | [Year Of The Snake](https://open.spotify.com/album/7qVhLKleQh9hqqUdTtZJSh) | 5:04 |
 | 150 | [On the Trail](https://open.spotify.com/track/5MKKKVSZZalOWxwTfIDxkO) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b), [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [Twio](https://open.spotify.com/album/2ekSSgd5FCCjgkMwT3qVXb) | 6:07 |
 
-Snapshot ID: `MTY2MDczOTkxMCwwMDAwMDAwMGZiNzUyYzlhMGM4MDFmNmRmZGFjZjY3NGY0ODcyMjA0`
+Snapshot ID: `MTY2MDczOTkxMCwwMDAwMDAwMDllOGJmMGYyMGQ1MmEyZDVkNThmNjNhNDkwZmE3Zjg2`

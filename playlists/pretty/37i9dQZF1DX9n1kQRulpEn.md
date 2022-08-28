@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1kQRulpEn.md) - [plain]
 
 > A swinging jazz soundtrack for your drive time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,617 likes - 100 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,668 likes - 100 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1kQRulpEn.md) - [plain]
 | 10 | [Auditorium](https://open.spotify.com/track/2DPEXrjPvhTMD30TqMOzRs) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Auditorium](https://open.spotify.com/album/3gUTxP8aVrkNBG6lB2GTAf) | 4:28 |
 | 11 | [This I Dig Of You \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/5f0n6K8hW2RIVXuZjxO0bu) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:25 |
 | 12 | [Backstage Sally \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/69k61OD5QalC2EcDgzjA8f) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Buhaina's Delight \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9) | 5:58 |
-| 13 | [Tippin' \- Rudy Van Gelder Edition/2000 Digital Remaster/24\-Bit Mastering](https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 6:12 |
+| 13 | [Tippin' \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 6:12 |
 | 14 | [Driftin' \- Remastered](https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:57 |
 | 15 | [Nice And Easy \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 4:19 |
 | 16 | [Red Pepper Blues](https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 3:40 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1kQRulpEn.md) - [plain]
 | 52 | [This Here](https://open.spotify.com/track/73ywxvRTfXvgj2WP33Ud3Y) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [African Waltz](https://open.spotify.com/album/5sl60zyjldirYBI1kKxN9f) | 3:00 |
 | 53 | [Rollin' With Leo \- Remastered](https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 6:25 |
 | 54 | [Brown](https://open.spotify.com/track/7nsAltNT0LQC7f11Heikhd) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:30 |
-| 55 | [Camouflage \- Rudy Van Gelder Edition/1998 Digital Remaster/24\-Bit Mastering](https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 4:25 |
+| 55 | [Camouflage \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 4:25 |
 | 56 | [Blue Minor \- Rudy Van Gelder Edition/1998 Remaster](https://open.spotify.com/track/4K2wcfSfyNYIJNhoCvVnbP) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Cool Struttin' \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX) | 10:19 |
 | 57 | [Soulville \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 6:16 |
 | 58 | [The Song Is You](https://open.spotify.com/track/2BDZCdN2zLYjfbZ3WdqZBC) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [A Stranger In Town](https://open.spotify.com/album/7bzD7vIdt5nxTEJe8F6Y2k) | 9:42 |

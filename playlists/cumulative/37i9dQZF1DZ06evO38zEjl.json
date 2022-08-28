@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 784560,
       "name": "Abu Gil - Live",
       "url": "https://open.spotify.com/track/3X0BvVXZ5Xpx0oPN0di5yO"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 312666,
       "name": "Al Kongo Udu",
       "url": "https://open.spotify.com/track/10FHvZrlRbTxfInlNxzO7F"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 344093,
       "name": "Courtrais - Live",
       "url": "https://open.spotify.com/track/2UKP0Z8tMyjI7NprsS6GsB"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 832160,
       "name": "Darbari Extension I",
       "url": "https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 317093,
       "name": "Jadwa",
       "url": "https://open.spotify.com/track/0YaS2FdbEGt2huzABrHQYJ"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 392933,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/2s9A9QkP6poey6gfYdTeJF"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 427400,
       "name": "Ndeya",
       "url": "https://open.spotify.com/track/3d5NKtguBkKIHjvsNqK6hc"
@@ -863,6 +863,24 @@
       "duration_ms": 403040,
       "name": "Northline - Live",
       "url": "https://open.spotify.com/track/1m3zsapoK5CGtujd680k4c"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 707320,
+      "name": "Open Secret (Paris)",
+      "url": "https://open.spotify.com/track/2oNjchovVMPVouByxj0Zfv"
     },
     {
       "album": {
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 239706,
       "name": "Pastorale Vassant",
       "url": "https://open.spotify.com/track/7429GeBCGutDEUPy1L4Uv4"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 358506,
       "name": "Picnic",
       "url": "https://open.spotify.com/track/1VCvYkf9BjcXlAXzBCSALt"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 293373,
       "name": "Sundown Dance",
       "url": "https://open.spotify.com/track/2r8ZZIipWHs1cDJk5Ot2Fx"
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 263306,
       "name": "Warm Shift",
       "url": "https://open.spotify.com/track/148rRRlYecJVRehmVnY5yQ"

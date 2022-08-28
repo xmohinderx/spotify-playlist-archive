@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-900 songs - 2 day 7 hr 8 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
+901 songs - 2 day 7 hr 11 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,8 @@
 | [Enamorada de Estar Aquí](https://open.spotify.com/track/1didaZajvBkMbhkOocwWMc) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Quédate en Casa](https://open.spotify.com/album/5oVIeMN13WEZehXOSHXiPq) | 4:38 | 2022-04-01 | 2022-04-21 |
 | [Enero](https://open.spotify.com/track/1IUVBjVaK08NIpU0OjRZrF) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [atte\. Celli](https://open.spotify.com/album/3DupetZzSGjEyXBpZno7v3) | 3:08 | 2022-03-24 | 2022-07-29 |
 | [Entre Canibales \- MTV Unplugged](https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:54 | 2022-04-01 | 2022-04-20 |
-| [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 | 2022-07-25 |  |
+| [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 | 2022-07-25 | 2022-08-28 |
+| [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 | 2022-08-26 |  |
 | [Es la vida que me alcanza](https://open.spotify.com/track/4MFFkZDFrKA9rW5JJUCyCh) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Celesteacusticados!](https://open.spotify.com/album/2bGloQdDzVfkGvz5or4PJP) | 4:24 | 2022-03-28 | 2022-04-17 |
 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5J71hkfIz9JnxdeWeVj21V) | [DLUE](https://open.spotify.com/artist/6L3LZ6LttDdcERVuWHirlZ) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5FuilTHaS4pLXkdsRxoTk7) | 3:48 | 2022-03-28 | 2022-04-11 |
 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 | 2022-04-08 | 2022-04-19 |

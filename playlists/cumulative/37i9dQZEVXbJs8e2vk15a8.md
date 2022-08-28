@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-356 songs - 20 hr 14 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+357 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Cupido Bandido](https://open.spotify.com/track/7sB5kbd50q7k1qzm6Fz0G1) | [Jordan 23](https://open.spotify.com/artist/5cB6j8sWekYaDFwKwLpcYD) | [Cupido Bandido](https://open.spotify.com/album/4DWw0Jl801DE4vVw4K55R0) | 2:15 | 2022-08-09 | 2022-08-24 |
 | [Dejame Solo \(Pablo Chile\)](https://open.spotify.com/track/1kosY1ulR7Xnn2q1AGJQhV) | [aa44aaa44aaa](https://open.spotify.com/artist/6bOjk2pxlG2m94yupuLYzx) | [Dejame Solo \(Pablo Chile\)](https://open.spotify.com/album/3bfikovvMEQWjFTCqraiTY) | 3:13 | 2022-04-16 | 2022-04-27 |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-04-15 | 2022-04-27 |
-| [Dembow Cris MJ](https://open.spotify.com/track/2UDnuZTxZacqQCF67quCF5) | [Sosa Polo](https://open.spotify.com/artist/15GfHAKRCMB52bnRgqhPh4) | [Dembow Cris MJ](https://open.spotify.com/album/3qSLB7ctL54pMwi8NCSEVh) | 1:14 | 2022-08-16 |  |
+| [Dembow Cris MJ](https://open.spotify.com/track/2UDnuZTxZacqQCF67quCF5) | [Sosa Polo](https://open.spotify.com/artist/15GfHAKRCMB52bnRgqhPh4) | [Dembow Cris MJ](https://open.spotify.com/album/3qSLB7ctL54pMwi8NCSEVh) | 1:14 | 2022-08-16 | 2022-08-28 |
 | [Demons Around](https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [Demons Around](https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf) | 2:45 | 2022-08-16 |  |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-04-15 | 2022-05-25 |
 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 | 2022-05-24 | 2022-08-03 |
@@ -193,6 +193,7 @@
 | [Menorcito Jordan](https://open.spotify.com/track/3SgDHRlOooQVnyjm9VaEOV) | [Theft Dj](https://open.spotify.com/artist/5oCBwZ4bm6clXI151dpObo) | [Menorcito Jordan](https://open.spotify.com/album/0lQOUrsodBYWn7vJSnyutr) | 2:59 | 2022-04-15 | 2022-06-01 |
 | [Mercury](https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:55 | 2022-07-19 | 2022-07-29 |
 | [Messages from the Stars](https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Going Up](https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f) | 4:14 | 2022-05-10 | 2022-05-17 |
+| [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-08-27 |  |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/7hl8yi5iItAYKwtSVtbEhO) | [Blazer Zero](https://open.spotify.com/artist/2ihGOBxVB7zeDYbieFyeHO) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/5plDkotyuP7UBM9jkDktLB) | 3:39 | 2022-07-18 | 2022-07-21 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/4KbSQQsRUGuwnwe6PDZB9v) | [Martín Vizcarra](https://open.spotify.com/artist/1cmcYJNbE5UsCnPn5jtfUe) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/6KuRgyWHYHcec0e3YUqLdg) | 3:39 | 2022-07-09 | 2022-07-14 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/7dT3NxlPsOIdM6dftDNM5K) | [Nimaru Sasuki](https://open.spotify.com/artist/5UZD1JyyirR8AeaMaeQ0rs) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/2K6BxWzcd239wPWr3SVURE) | 3:39 | 2022-07-13 | 2022-07-19 |

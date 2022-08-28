@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Aary, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,089 likes - 120 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,116 likes - 120 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

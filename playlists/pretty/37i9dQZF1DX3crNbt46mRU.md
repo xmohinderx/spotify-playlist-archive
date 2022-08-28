@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Elton John, Britney Spears
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,031 likes - 110 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,036 likes - 110 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 67 | [Einer dieser Tage](https://open.spotify.com/track/5Q1Rtxbw5bHDO5ddg45Iel) | [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Einer dieser Tage](https://open.spotify.com/album/3xETzGXWTlQTvlJ2a3oZKq) | 2:46 |
 | 68 | [Willing](https://open.spotify.com/track/0OafQ7UgVmjYeJQEMQpJma) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Willing](https://open.spotify.com/album/1m4Kz1bpTdiWxnPkCsqpNL) | 2:55 |
 | 69 | [Pretty Town Easy](https://open.spotify.com/track/2T6fez7bbKKTvavCbLfwT0) | [Yes I'm Very Tired Now](https://open.spotify.com/artist/5LiroLnmyCBJ98EOxE9VFB) | [Pretty Town Easy](https://open.spotify.com/album/2f94UiVbwMxxcC7tzBQHVD) | 3:25 |
-| 70 | [Alles echt](https://open.spotify.com/track/0medqtksGf06kFHiVaA7XF) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Farce](https://open.spotify.com/album/4SR3k7sHSOTC1XDZ0Vh396) | 4:22 |
+| 70 | [Alles Echt](https://open.spotify.com/track/0medqtksGf06kFHiVaA7XF) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Farce](https://open.spotify.com/album/4SR3k7sHSOTC1XDZ0Vh396) | 4:22 |
 | 71 | [Feelings Come and Go](https://open.spotify.com/track/6JVxwRClflWCW5Kl8mf2Sz) | [Soft Captain](https://open.spotify.com/artist/5uno0fXonvhSYMkE3OrIXa) | [Soft Captain](https://open.spotify.com/album/3y0RADvuLqZZ7y1lRsdBDo) | 3:33 |
 | 72 | [Phantom](https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Phantom](https://open.spotify.com/album/4wJcxxuS21izYigHCM58gr) | 4:25 |
 | 73 | [Holiday](https://open.spotify.com/track/0mu7ZJvfnqGLkJDtJUhtgW) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Holiday](https://open.spotify.com/album/7c41gHpiXVBy6hoq6HnvmC) | 3:35 |

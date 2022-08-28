@@ -2691,10 +2691,28 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 217021,
       "name": "Hiya Hiya",
       "url": "https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ"
+    },
+    {
+      "album": {
+        "name": "Hiya hiya New Distribution",
+        "url": "https://open.spotify.com/album/4iJJ8pkyW3CY41C53B6KVq"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Hussam",
+          "url": "https://open.spotify.com/artist/1ZVYNea11w8l7t5pqZUYoM"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217080,
+      "name": "Hiya hiya New Distribution",
+      "url": "https://open.spotify.com/track/3GDe4ABAWZWP6XKYCPmrhc"
     },
     {
       "album": {

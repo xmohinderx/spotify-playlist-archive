@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 
 > One in a million! TWICE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,090,965 likes - 110 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,180 likes - 110 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 | 29 | [HELLO \(NAYEON, MOMO, CHAEYOUNG\)](https://open.spotify.com/track/1bXM8imxd31qCecbHgSk9E) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:03 |
 | 30 | [1, 3, 2 \(JEONGYEON, MINA, TZUYU\)](https://open.spotify.com/track/6bS9w12VuyaqkbNKnw5zZE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 31 | [CANDY](https://open.spotify.com/track/53Abp3QVXDA9z1VmJsOBXm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:15 |
-| 32 | [SCIENTIST \- R3HAB Remix](https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:28 |
+| 32 | [SCIENTIST \(R3HAB Remix\)](https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:28 |
 | 33 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 34 | [Perfect World](https://open.spotify.com/track/0iuZMy88H6vxDA2oaJNhJg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:02 |
 | 35 | [BETTER](https://open.spotify.com/track/1Wrn6btrungVsBjyViLnuY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:43 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 | 59 | [BELIEVER](https://open.spotify.com/track/7louodH5FUYuL3yvHQtq3O) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:16 |
 | 60 | [QUEEN](https://open.spotify.com/track/2xVCwFrNYnllRX1g0drYVI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:13 |
 | 61 | [GO HARD](https://open.spotify.com/track/5uZ5VUoj2al8GttE421bTD) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:01 |
-| 62 | [I CAN'T STOP ME \- English Version](https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) | 3:25 |
+| 62 | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) | 3:25 |
 | 63 | [SHOT CLOCK](https://open.spotify.com/track/5HSooivbDgCWBOv24vtYiB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:29 |
 | 64 | [HANDLE IT](https://open.spotify.com/track/2laLdXRHMaHCuqr3DXgzhZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 2:51 |
 | 65 | [DEPEND ON YOU](https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:18 |

@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-56 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
+57 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [90's Gibson](https://open.spotify.com/track/0K5b1Mllvlhg5vroZjHaik) | [Jordan Roy](https://open.spotify.com/artist/0Xbe5WowYl9OkE5bMMs7vp) | [90's Gibson](https://open.spotify.com/album/1rVN6ndCttiTdkIgBwsm4b) | 2:59 | 2022-05-29 |  |
 | [All Your Kisses](https://open.spotify.com/track/0WnqVkeUxgbi8A1DchJx9o) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses](https://open.spotify.com/album/7AEzkVcSRLqyDwC2m39sPx) | 2:41 | 2022-05-29 |  |
+| [All Your Kisses \- Acoustic](https://open.spotify.com/track/1u5jjtVuVOimNEyfmIUzhA) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses \(Acoustic\)](https://open.spotify.com/album/4NI8xIoY0qojBv2fMU46f1) | 2:28 | 2022-08-27 |  |
 | [Amplify](https://open.spotify.com/track/5I0esgCIo8V9qHamLPOErr) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [Amplify](https://open.spotify.com/album/1inKeG9SJ3NX8KZE1dpQVT) | 3:51 | 2022-05-29 | 2022-07-07 |
 | [Amplify](https://open.spotify.com/track/1NPMjz6Dmg5kQZU5FM8hLI) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [A Fool for Love](https://open.spotify.com/album/2Sn0PHXNQ1Lt50QU8LdIKw) | 4:02 | 2022-07-06 | 2022-08-01 |
 | [Amplify](https://open.spotify.com/track/2fFldkVRbdYP92VA59AgSE) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [A Fool for Love](https://open.spotify.com/album/7sQxXhdvCjZImo0WsWthAZ) | 4:02 | 2022-07-31 |  |

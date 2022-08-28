@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and happy jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,741 likes - 109 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,796 likes - 109 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 2 | [Barefoot Sunday Blues](https://open.spotify.com/track/4n5AUkvieP9NglLITjihFH) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 7:03 |
 | 3 | [Bang Bang](https://open.spotify.com/track/211mkZYf9YaQhlev1Vze5F) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Talkin' Verve](https://open.spotify.com/album/2lhapGz7nbjmiJEil7iAFX) | 3:03 |
 | 4 | [Used To Be Duke](https://open.spotify.com/track/5UI9nSnk8k5e6oMcGK55tt) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 7:19 |
-| 5 | [Tippin' \- Rudy Van Gelder Edition/2000 Digital Remaster/24\-Bit Mastering](https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 6:12 |
+| 5 | [Tippin' \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 6:12 |
 | 6 | [O Mama Enit \- Rudy Van Gelder 24\-Bit Mastering/2003 Remaster](https://open.spotify.com/track/6xFh3v76Pv1Ucqf4xAT2bY) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Boss Horn \(Remastered\)](https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk) | 5:34 |
 | 7 | [Lester Leaps In](https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Now!](https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG) | 6:21 |
 | 8 | [Bo\-Fill \- Rudy Van Gelder 24Bit Mastering](https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5) | [Clifford Jordan](https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn), [John Gilmore](https://open.spotify.com/artist/65A4foeosCkf3zaigZJuzF) | [Blowing In From Chicago](https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6) | 5:56 |

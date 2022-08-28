@@ -4,7 +4,7 @@
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/34gmDNfcLmugl6uIF1DSQm)
+56 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/34gmDNfcLmugl6uIF1DSQm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Coqueta](https://open.spotify.com/track/4jEbx9T3bj1RaL8xkbQabm) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7) | [Coqueta](https://open.spotify.com/album/1brstuPH1OauwKQILc17O3) | 3:57 | 2022-06-01 |  |
 | [Cuánto A Que Te Olvido](https://open.spotify.com/track/1oQaNAOQa1gdHpbHxxugSd) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:23 | 2022-06-01 |  |
 | [Dentro De Tu Corazón](https://open.spotify.com/track/4oJRZ1TI7S89tnDYZU2y9P) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:17 | 2022-06-01 |  |
+| [El Club De Los Dolidos](https://open.spotify.com/track/4A2n4Zss5KjRijiEC6mYas) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [El Club De Los Dolidos](https://open.spotify.com/album/7FWIe2JXLS20lAkOadKmbX) | 3:11 | 2022-08-27 |  |
 | [El Columpio](https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Columpio](https://open.spotify.com/album/2pLsmL7AGtNvyw839IYVfc) | 3:08 | 2022-06-01 |  |
 | [El Cuento Perfecto](https://open.spotify.com/track/1IT3kGP8FGkq74Co4B6Qm0) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:12 | 2022-06-01 |  |
 | [El Que Sigue De Mí](https://open.spotify.com/track/6aIW3bAThbuDnZmqC7hHqu) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/6hoLNlNN1dOq5Fl6dmOQ57) | 3:12 | 2022-06-01 |  |
@@ -39,9 +40,9 @@
 | [Mi Otro Yo](https://open.spotify.com/track/08c1QYTW9FxXlQAm9YNE2k) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 3:54 | 2022-06-01 |  |
 | [Mira Cómo Me Dejaste](https://open.spotify.com/track/1qsXhzldNXZDGEABxc6Abk) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i) | 3:25 | 2022-06-01 |  |
 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 | 2022-06-01 |  |
-| [Morir De Amor \- En Vivo](https://open.spotify.com/track/1JR3r3N2Nji7HBCh3hspCi) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pura Pisteadera En Vivo](https://open.spotify.com/album/53PAMHm0cCCDiDAkwjKVjH) | 3:09 | 2022-06-01 |  |
+| [Morir De Amor \- En Vivo](https://open.spotify.com/track/1JR3r3N2Nji7HBCh3hspCi) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pura Pisteadera En Vivo](https://open.spotify.com/album/53PAMHm0cCCDiDAkwjKVjH) | 3:09 | 2022-06-01 | 2022-08-28 |
 | [Nada Esta Escrito](https://open.spotify.com/track/5pK1UafIo4cuFVR6RipUIA) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Gracias A Ti](https://open.spotify.com/album/10OsSLByZLqo45ZNX37HhI) | 3:37 | 2022-06-01 |  |
-| [No Debería Quererte](https://open.spotify.com/track/7DljH7oWQcvxAC57SdYBQd) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 | 2022-06-01 | 2022-08-27 |
+| [No Debería Quererte](https://open.spotify.com/track/7DljH7oWQcvxAC57SdYBQd) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 | 2022-06-01 |  |
 | [No Me Mires Así](https://open.spotify.com/track/6RZX4pPGBsw5fijSmKFFv2) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:07 | 2022-06-01 |  |
 | [No Te Mereces](https://open.spotify.com/track/0CpMGnPzmU9KGyB05D0a5l) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:16 | 2022-06-01 |  |
 | [Olvidarte No Es Lo Mío](https://open.spotify.com/track/7eHM7vCmPlBYjcjHnWgFy4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:02 | 2022-06-12 |  |
@@ -55,7 +56,7 @@
 | [Sigo Adelante](https://open.spotify.com/track/10eFFITOIKej2Z8dTrS711) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sigo Adelante](https://open.spotify.com/album/1V2ZmX5Onv4YaHW4FhlWIC) | 2:50 | 2022-06-01 |  |
 | [Sin Miedo Al Éxito](https://open.spotify.com/track/21YeNeTRlPnYgKvdLYFs2C) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/5Wfvg8DIqTcq7LcoG92dZh) | 2:12 | 2022-06-01 |  |
 | [Sinceramente](https://open.spotify.com/track/3HII4HrkJUq8zDso1f42xS) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/6hoLNlNN1dOq5Fl6dmOQ57) | 3:27 | 2022-06-01 |  |
-| [Su Ex](https://open.spotify.com/track/5iOBVp8GOUNi7McqMkkP0e) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Su Ex](https://open.spotify.com/album/2t5OkH8EsSABpNopumZDHs) | 2:56 | 2022-06-01 |  |
+| [Su Ex](https://open.spotify.com/track/5iOBVp8GOUNi7McqMkkP0e) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Su Ex](https://open.spotify.com/album/2t5OkH8EsSABpNopumZDHs) | 2:56 | 2022-06-01 | 2022-08-28 |
 | [Te Dedico](https://open.spotify.com/track/2RJOWQ7ZORSXE8MJJNJEhF) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:19 | 2022-06-01 |  |
 | [Te Prometo](https://open.spotify.com/track/52e9XXEgDuyQ1FYK5aJaYZ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Te Prometo](https://open.spotify.com/album/2LP0reDguNHlmKi0C1mS8V) | 3:58 | 2022-06-01 |  |
 | [Tú Y Mi Ex](https://open.spotify.com/track/4H3vMhKCS8wn1lJdcwYiBV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Tú Y Mi Ex](https://open.spotify.com/album/4g7nDlkHIw3kZ9TovWje5u) | 2:35 | 2022-07-03 |  |

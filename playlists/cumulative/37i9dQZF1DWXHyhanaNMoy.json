@@ -74,7 +74,7 @@
     },
     {
       "album": {
-        "name": "Anders Doet",
+        "name": "Anders Doet (feat. Jayh)",
         "url": "https://open.spotify.com/album/7t8phcsa3My41H39G8Dwa5"
       },
       "artists": [
@@ -91,7 +91,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172563,
-      "name": "Anders Doet",
+      "name": "Anders Doet (feat. Jayh)",
       "url": "https://open.spotify.com/track/3Vv17RtSLI7x4yNYWvFrnf"
     },
     {
@@ -1798,7 +1798,7 @@
     },
     {
       "album": {
-        "name": "Mercedes Tintea",
+        "name": "Mercedes Tintia",
         "url": "https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s"
       },
       "artists": [
@@ -1811,7 +1811,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195348,
-      "name": "Mercedes Tintea",
+      "name": "Mercedes Tintia",
       "url": "https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp"
     },
     {
@@ -1945,10 +1945,28 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 151690,
       "name": "Mood",
       "url": "https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU"
+    },
+    {
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151690,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
     },
     {
       "album": {

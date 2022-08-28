@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,249 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,671 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 67 | [61 Grad \(Deep House RMX\)](https://open.spotify.com/track/5gRXyFtArVXYk8OOSWIXBO) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7) | [61 Grad \(Deep House RMX\)](https://open.spotify.com/album/1nKs8Er1df14iV7EHSydim) | 1:53 |
 | 68 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |
 | 69 | [Best Friend](https://open.spotify.com/track/5Ll0JNNVo0vuQnUGdRfUst) | [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How) | [Best Friend](https://open.spotify.com/album/026b8sTRSg4vmhz8e8p4k3) | 1:51 |
-| 70 | [Mood](https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA) | 2:31 |
+| 70 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 |
 | 71 | [Shut Up and Listen](https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0) | [Nicholas Bonnin](https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Shut Up and Listen](https://open.spotify.com/album/3wAAwpD30OPym42xsioMmc) | 4:03 |
 | 72 | [Life Sux](https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Life Sux](https://open.spotify.com/album/0PLBxxxm3JBEGoUCkTUVBJ) | 2:54 |
 | 73 | [Ticket nach Ketama \(feat\. Liaze\)](https://open.spotify.com/track/7KWwQ8SokgUDO7es6Q4ZGW) | [ARY](https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4), [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [Ticket nach Ketama \(feat\. Liaze\)](https://open.spotify.com/album/1VzaGDvMcgi3PbBZhfrbLV) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Romantic Homicide](https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2) | 2:12 |
 | 100 | [Only Fans](https://open.spotify.com/track/0leFOfqRs3rC8GHFSysAET) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Only Fans](https://open.spotify.com/album/1hUCrAa6N9Gr9aZHhi2N1C) | 1:36 |
 
-Snapshot ID: `MTY2MTQ2NDg2MCwwMDAwMDAwMGNhYTYzN2U1NWI5OTM0MDAwMTM2MGUwMjgwNmNlYjY5`
+Snapshot ID: `MTY2MTQ2NDg2MCwwMDAwMDAwMDIzODY1MGQ5ZDBjODNiNTBkNDI2ZDVlYzA1ODM2ZDRj`

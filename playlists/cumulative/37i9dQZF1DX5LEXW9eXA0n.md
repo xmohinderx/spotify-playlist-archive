@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: 2am\) \(당신의 감성에 발라드, 려요\)
 
-520 songs - 1 day 9 hr 48 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+521 songs - 1 day 9 hr 51 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2021-12-20 | 2022-07-03 |
 | [Beautiful](https://open.spotify.com/track/4VsjMhMOhz9XGDNIzFNGgr) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [Oh My Baby \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/0bSiD69h6j7OFrw8KB0Da4) | 4:10 | 2021-12-20 | 2022-06-30 |
 | [Beautiful \(Part.3\)](https://open.spotify.com/track/3xQH4yPHm6qVmV0JH7iaT5) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [B\-Side](https://open.spotify.com/album/5BaFlgq8oi3I0ql6zj1gmu) | 3:54 | 2022-01-27 | 2022-06-29 |
+| [Beautiful Memories](https://open.spotify.com/track/3fsuqdPCR4rJCYJoyi2FTu) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Beautiful Memories](https://open.spotify.com/album/5ZCMg1aIst5LPixDLg69bL) | 3:35 | 2022-08-27 |  |
 | [Beautiful My Love](https://open.spotify.com/track/6lAFMbiZ00wBYwvDGA5PmB) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4f415rW7jQPbi5a2tPo4pA) | 3:50 | 2021-12-20 | 2022-07-07 |
 | [Beauty\(2021\)](https://open.spotify.com/track/2aY3oOlqP2IfFeyLL2Xjyu) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Beauty\(2021\)](https://open.spotify.com/album/2POm3VpxdpC8NyZ5qpC5G8) | 3:41 | 2022-03-31 | 2022-04-13 |
 | [Beauty\(2022\)](https://open.spotify.com/track/1gaE9GDp3ctETPzSPcjhZs) | [SONG YUVIN](https://open.spotify.com/artist/5bO0Iy0ozHhSelVBOttCyT) | [Beauty\(2022\)](https://open.spotify.com/album/1afUq7Xry5pM5ueGbcPCVg) | 3:51 | 2022-08-18 |  |

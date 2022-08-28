@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: L.S\. Dunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,731 likes - 62 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,934 likes - 62 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 9 | [Get A Job](https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 3:06 |
 | 10 | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 |
 | 11 | [Who’s That Playing On The Radio? \(feat\. Danny Worsnop of Asking Alexandria and Mick Mars of Mötley Crüe\)](https://open.spotify.com/track/60873rJNFVxsGUrvVQenhS) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Who’s That Playing On The Radio? \(feat\. Danny Worsnop of Asking Alexandria and Mick Mars of Mötley Crüe\)](https://open.spotify.com/album/4SuFcZyW8cZ5owF1mj5KmC) | 3:25 |
-| 12 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Kevin Hissink](https://open.spotify.com/artist/58hCvoKvdJWSjbrPGQuYwv), [Krupa](https://open.spotify.com/artist/1xGxUarRdmZB6O5AK2suVq) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 |
+| 12 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 |
 | 13 | [Thousand Lifetimes](https://open.spotify.com/track/3iSgwMXZtxE7fBMqK214JX) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Thousand Lifetimes](https://open.spotify.com/album/1AQe2iTO5cYZqmPDT52ti6) | 3:12 |
 | 14 | [Darker Still](https://open.spotify.com/track/3vODx9YwmM8irt3vZBfzjJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/0P5on9gXrHkBXYdxCRhUN9) | 6:50 |
 | 15 | [Without Me](https://open.spotify.com/track/1d46ed3h4U9ws3YsvUOMon) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Without Me](https://open.spotify.com/album/1ipW5HgZMdwxXFDNdTDePU) | 3:43 |

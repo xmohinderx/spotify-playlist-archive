@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-211 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+212 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [HELLO](https://open.spotify.com/track/54hxy2o48DD270KUt21Fp4) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [鈴木このみ5thアルバム「ULTRA FLASH」](https://open.spotify.com/album/6ZnPbcPpRkomKi28gJ1R8o) | 3:12 | 2022-05-28 | 2022-07-06 |
 | [HELLO CALLiNG](https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [HELLO CALLiNG](https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme) | 4:02 | 2022-06-09 | 2022-06-15 |
 | [HELLO HELLO HELLO](https://open.spotify.com/track/2CR2wXrrSqyAIegVOl8IzF) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/5gAsDpWG0nCLBdJSVkGXs7) | 4:03 | 2022-07-28 |  |
-| [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-07-28 |  |
+| [HOLLOW HUNGER](https://open.spotify.com/track/1lW6lfQZszjBQVN5rDLGKj) | [fantasy](https://open.spotify.com/artist/3jcjyxkrisZ1dxNuQyMFyO) | [HOLLOW HUNGER](https://open.spotify.com/album/2QNbOtPZP2TvtZYBzVIbW2) | 3:43 | 2022-08-23 |  |
+| [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-07-28 | 2022-08-28 |
 | [I AM I](https://open.spotify.com/track/4KKkvUpWlRUgw4MYh33X3N) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX), [Daisuke Asakura](https://open.spotify.com/artist/1UkEVUkVZVeSSxFvKHgcYZ), [Shinnosuke](https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu) | [I AM I](https://open.spotify.com/album/3jET3MbFSj79mOcamKMUGt) | 3:58 | 2022-08-02 | 2022-08-17 |
 | [I Believe](https://open.spotify.com/track/7HlJKKUv2NJq8q43yUkoL3) | [Zakuro Fujiwara\(CV:Momoka Ishii\)](https://open.spotify.com/artist/2AhkWcubMNCPU14jOpeNaI) | [I Believe](https://open.spotify.com/album/7qJPUOixcYQfpQjGwqIy6l) | 4:55 | 2022-07-28 | 2022-08-17 |
 | [ICHIBANBOSHI SONORITY](https://open.spotify.com/track/4ogyl3j9wSTM0YLiXrkC5t) | [Yuka Iguchi](https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP) | [ENDING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/2ur6B0p344bM6CHn7PNJu0) | 4:14 | 2022-08-02 | 2022-08-24 |

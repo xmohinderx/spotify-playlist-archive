@@ -3294,6 +3294,24 @@
     },
     {
       "album": {
+        "name": "Ei sanoja",
+        "url": "https://open.spotify.com/album/5c3Babxx0Bl3YnCCarChib"
+      },
+      "artists": [
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162179,
+      "name": "Ei sanoja",
+      "url": "https://open.spotify.com/track/1BYw3OamEsZoZQv2cEzuzI"
+    },
+    {
+      "album": {
         "name": "TEXAS - EP",
         "url": "https://open.spotify.com/album/0rwfQnSsfSq59VAl0yY3KJ"
       },
@@ -3529,6 +3547,24 @@
       "duration_ms": 206184,
       "name": "El\u00e4m\u00e4 on nyt (feat. Br\u00e4di) - Remix",
       "url": "https://open.spotify.com/track/510tiEyEldPLv0Ex8ss3Yb"
+    },
+    {
+      "album": {
+        "name": "El\u00e4m\u00e4 tuulee beibi",
+        "url": "https://open.spotify.com/album/0zQzFyPkCqZNHSRrTqr4Tc"
+      },
+      "artists": [
+        {
+          "name": "Antti Tuisku",
+          "url": "https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201641,
+      "name": "El\u00e4m\u00e4 tuulee beibi",
+      "url": "https://open.spotify.com/track/7akbXwGRPnErndmCs7gKbQ"
     },
     {
       "album": {
@@ -4524,6 +4560,24 @@
     },
     {
       "album": {
+        "name": "Gangsta Psykoosi",
+        "url": "https://open.spotify.com/album/4CF5Q8RHtLZnwEFXDhEJ3O"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146127,
+      "name": "Gangsta Psykoosi",
+      "url": "https://open.spotify.com/track/0hBcEuxni0Df5dZpYcj64W"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -4857,7 +4911,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 155905,
       "name": "GRINDR MAYHEM (feat. BESS)",
       "url": "https://open.spotify.com/track/4BdiKWwWtDZ3TA339ZgZnI"
@@ -5338,6 +5392,28 @@
     },
     {
       "album": {
+        "name": "Heroes Tonight",
+        "url": "https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM"
+      },
+      "artists": [
+        {
+          "name": "Janji",
+          "url": "https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E"
+        },
+        {
+          "name": "Johnning",
+          "url": "https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208139,
+      "name": "Heroes Tonight",
+      "url": "https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO"
+    },
+    {
+      "album": {
         "name": "Hetero",
         "url": "https://open.spotify.com/album/3WW5hLYm05CjbD4YrMfkFK"
       },
@@ -5447,6 +5523,28 @@
       "duration_ms": 199426,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
+    },
+    {
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202245,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
     },
     {
       "album": {
@@ -6217,6 +6315,28 @@
       "duration_ms": 264826,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ"
+    },
+    {
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
       "album": {
@@ -7677,7 +7797,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 163298,
       "name": "Kaukana (feat. ANI)",
       "url": "https://open.spotify.com/track/39wdle16eH2REy1Il2OCtL"
@@ -8551,7 +8671,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 136050,
       "name": "Kylm\u00e4\u00e4",
       "url": "https://open.spotify.com/track/6mkIVmVRwXYKjgf5h2c8E2"
@@ -8689,6 +8809,24 @@
       "duration_ms": 203429,
       "name": "Kyynelii",
       "url": "https://open.spotify.com/track/3YgOwQsqjzXIWzTwPPQz98"
+    },
+    {
+      "album": {
+        "name": "K\u00e4mmenen kuva poskeen",
+        "url": "https://open.spotify.com/album/5WqX6S8tooEQQLxkHwhxEM"
+      },
+      "artists": [
+        {
+          "name": "Apulanta",
+          "url": "https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216200,
+      "name": "K\u00e4mmenen kuva poskeen",
+      "url": "https://open.spotify.com/track/78LbF7hMmdzakQhHsKu9vZ"
     },
     {
       "album": {
@@ -10800,6 +10938,24 @@
     },
     {
       "album": {
+        "name": "Tykk\u00e4\u00e4t kummiski",
+        "url": "https://open.spotify.com/album/715VRR7Xw2Y4rSxEMH8X5n"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171455,
+      "name": "Muit ku me",
+      "url": "https://open.spotify.com/track/0HPRKUbiCMi379ksDyFbW0"
+    },
+    {
+      "album": {
         "name": "Mun kulta",
         "url": "https://open.spotify.com/album/5zWKU2KOp2K9bLZMnI0TMp"
       },
@@ -12685,7 +12841,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
@@ -12739,7 +12895,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 175113,
       "name": "Pohjola",
       "url": "https://open.spotify.com/track/6YFcvJlcgQceRfJrVpmJa0"
@@ -13099,6 +13255,24 @@
       "duration_ms": 132670,
       "name": "R.E.S.P.E.C.T.",
       "url": "https://open.spotify.com/track/5gD9kf2QGNUaYXElN4nhX5"
+    },
+    {
+      "album": {
+        "name": "Tykk\u00e4\u00e4t kummiski",
+        "url": "https://open.spotify.com/album/715VRR7Xw2Y4rSxEMH8X5n"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132670,
+      "name": "R.E.S.P.E.C.T.",
+      "url": "https://open.spotify.com/track/78P8mP7LWZ1bx7pllu9xsH"
     },
     {
       "album": {
@@ -14249,7 +14423,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -15155,7 +15329,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
@@ -16981,7 +17155,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 148944,
       "name": "UP",
       "url": "https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2"
@@ -17461,6 +17635,24 @@
       "duration_ms": 201123,
       "name": "Vett\u00e4 kaivoon (feat. Keko Salata)",
       "url": "https://open.spotify.com/track/1K0n5SZABSl7kdTPxZh8Gj"
+    },
+    {
+      "album": {
+        "name": "Miljoona vastausta",
+        "url": "https://open.spotify.com/album/5w5M9KkzGpdYSmVx9507zy"
+      },
+      "artists": [
+        {
+          "name": "Erin",
+          "url": "https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233206,
+      "name": "VGN",
+      "url": "https://open.spotify.com/track/3gCPzKR0Bnt6JYz386rR22"
     },
     {
       "album": {
@@ -18349,7 +18541,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 161833,
       "name": "WYD",
       "url": "https://open.spotify.com/track/4nPf3a74YvdiZT9L9ILMly"
@@ -18513,7 +18705,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 130166,
       "name": "YOUNG",
       "url": "https://open.spotify.com/track/4XsZDaFuVp4moPt9cp8dpm"

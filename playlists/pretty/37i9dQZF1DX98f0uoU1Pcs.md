@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: FIDLAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,223 likes - 126 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,360 likes - 126 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

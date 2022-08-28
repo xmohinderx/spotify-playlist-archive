@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Funky, Lizzy Parra, y Odanis BSK
 
-262 songs - 19 hr 48 min - [published](https://open.spotify.com/playlist/46xuGYmp3nbMhyLwZ3Xj5y)
+263 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/46xuGYmp3nbMhyLwZ3Xj5y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Calma](https://open.spotify.com/track/0QZMybAEsDqyLWlzCmjjIR) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Calma](https://open.spotify.com/album/2HJDfS7JE1jHLJzG8vJSwg) | 3:08 | 2022-04-01 |  |
 | [Canción Secreta \(feat\. Sin Pasado\)](https://open.spotify.com/track/1sCTzV3M9U08VBvnZ3z2fD) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6), [Sin Pasado](https://open.spotify.com/artist/7jrbsqbbA5fHXfRmEky9lo) | [Canción Secreta](https://open.spotify.com/album/39l7vcVMs335Rk1U3Rqlod) | 3:56 | 2022-05-06 | 2022-06-04 |
 | [Cansado Del Camino](https://open.spotify.com/track/4QIFeNCttETviYMfYwN5pK) | [Kyrios](https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B) | [Cansado Del Camino](https://open.spotify.com/album/4pbtaPiMrPw5ZRbcIzWSMf) | 3:49 | 2022-04-01 | 2022-05-07 |
-| [Cantando Bueno Es Dios](https://open.spotify.com/track/1cSekGdwfXFnq3KfFrVYUV) | [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh) | [Cantando Bueno Es Dios](https://open.spotify.com/album/03H9TbNM4rIg6NxyUGsTds) | 4:24 | 2022-05-13 |  |
+| [Cantando Bueno Es Dios](https://open.spotify.com/track/4m6rZMvNMNi3kNgJsoOsF6) | [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh) | [Cosas Nuevas](https://open.spotify.com/album/7N0rgEUYUUxqlZEDnOy6EA) | 4:24 | 2022-08-26 |  |
+| [Cantando Bueno Es Dios](https://open.spotify.com/track/1cSekGdwfXFnq3KfFrVYUV) | [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh) | [Cantando Bueno Es Dios](https://open.spotify.com/album/03H9TbNM4rIg6NxyUGsTds) | 4:24 | 2022-05-13 | 2022-08-28 |
 | [Champion](https://open.spotify.com/track/05Nv9lIMEtxcKuFoIC3C23) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Peter Metivier](https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg) | [Mi Mundo](https://open.spotify.com/album/1vHnWYTsrwRH1rljc1LuXi) | 2:39 | 2022-04-01 | 2022-06-18 |
 | [Cielo](https://open.spotify.com/track/6hqctfu3b8INEoarQ6GyzP) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Cielo](https://open.spotify.com/album/6QXkdgqP0i3oeA5TVF3zcJ) | 3:13 | 2022-05-06 | 2022-06-25 |
 | [Color de Alegría](https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV) | [Andy Alemany](https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv) | [Color de Alegría](https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9) | 2:41 | 2022-04-22 |  |

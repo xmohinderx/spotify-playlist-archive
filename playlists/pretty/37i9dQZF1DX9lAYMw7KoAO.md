@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,471 likes - 70 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,541 likes - 70 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Youth Choir](https://open.spotify.com/artist/4e1wKyDJhWiTS9zY8UH2kf) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 |
 | 2 | [Big God](https://open.spotify.com/track/44Mf6xg3FPKJWkHwjJue9F) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 14](https://open.spotify.com/album/6xz2qMcKIOi8Rj6wWSaQPt) | 5:30 |
 | 3 | [I Believe \(Live\)](https://open.spotify.com/track/6cJO5KcvPHzo50Q0EKS0Og) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Your Kingdom on Earth \(Live\)](https://open.spotify.com/album/0TYTdff6CTiivlJ13wHFfI) | 5:40 |
-| 4 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 |
+| 4 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 |
 | 5 | [Always God](https://open.spotify.com/track/7zbk4JGPAziL1DNv8MasHR) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Always God](https://open.spotify.com/album/2TckfbhLqj59dw5gYQ3wxu) | 9:04 |
 | 6 | [Always Win \(Solo Version\)](https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Always Win \(Solo Version\)](https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU) | 5:00 |
 | 7 | [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 |

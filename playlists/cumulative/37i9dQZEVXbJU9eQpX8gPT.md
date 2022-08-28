@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-771 songs - 1 day 18 hr 28 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+772 songs - 1 day 18 hr 32 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [NPNG](https://open.spotify.com/track/6TWd38PglTHmtEIlxOM7FG) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:37 | 2022-05-29 | 2022-05-31 |
 | [Nsiti](https://open.spotify.com/track/39IyCxrLN3USQLaTQ9tnMa) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/0uTXQyHxnSUibdyT05WCCu) | 2:52 | 2022-08-14 | 2022-08-24 |
 | [Numero uno](https://open.spotify.com/track/5H1HZedeDHC5ahCgoimGFM) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Numero uno](https://open.spotify.com/album/268SaqJcoWm0rt8xKlH1CV) | 4:00 | 2021-06-21 | 2021-07-18 |
+| [Numero Uno \- V2](https://open.spotify.com/track/4Sp90D9O8SXeBJx5RqU21b) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Numero Uno \(V2\)](https://open.spotify.com/album/1JZ3EzXKORa4LhBdMeFtRv) | 3:37 | 2022-08-27 |  |
 | [N’est Pas La](https://open.spotify.com/track/2qvNe5OPt3Ohi64AdaFejz) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:12 | 2022-05-29 | 2022-06-04 |
 | [Obscurité \(feat\. Hamza\)](https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 4:45 | 2021-03-27\* | 2022-05-08 |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-08-31 | 2021-09-05 |
@@ -750,7 +751,7 @@
 | [Ya Denya](https://open.spotify.com/track/16whsA6oQEJDzjKWa4hept) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ya Denya](https://open.spotify.com/album/2gS3rvgJD2djvs01xHCVAQ) | 4:12 | 2021-03-27\* | 2021-06-16 |
 | [Ya Hasra](https://open.spotify.com/track/46w0RuHSg4LYbMh1JjJU8j) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Hasra](https://open.spotify.com/album/0lHDyY2aMHz4WQrjFSpb20) | 5:40 | 2021-03-27\* | 2022-02-13 |
 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 | 2021-11-16 | 2022-05-06 |
-| [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2022-06-03 |  |
+| [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2022-06-03 | 2022-08-28 |
 | [Ya Omri](https://open.spotify.com/track/18ICzd2SoSH7ymhAezZbiy) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:34 | 2022-01-29 | 2022-02-25 |
 | [Ya Omri](https://open.spotify.com/track/2bohU7mZ0tR7AhFJn7hSUe) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [Ya Omri](https://open.spotify.com/album/4keo9yDR0CwU7P1OYt86Xc) | 3:55 | 2021-08-21 | 2021-08-31 |
 | [Ya Zina](https://open.spotify.com/track/3iN353HpREOoT6DMAepelv) | [Imad Maestro](https://open.spotify.com/artist/4VtlVixipE4d5qUyjxMk3j) | [Ya Zina](https://open.spotify.com/album/3OEEzOjJNSl4WTYtgqh9CO) | 3:15 | 2021-09-16 | 2021-11-03 |

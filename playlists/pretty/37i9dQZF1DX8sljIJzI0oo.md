@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Vibe to mixtape \#014 Featuring Luar La L\. 🔥 Find a new mixtape every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,779,872 likes - 25 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,780,115 likes - 25 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Ali Loka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,883 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,902 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 11 | [Ayam](https://open.spotify.com/track/0QKS9BuMqsfSyVRP2vWvzO) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Ayam](https://open.spotify.com/album/0HBSC3kSOgiV7hAwaycPhd) | 3:05 |
 | 12 | [Square One](https://open.spotify.com/track/2eicDRS52ZAT2LRuYzqkna) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [Zii](https://open.spotify.com/artist/3iO6JRHgp14ESXysByB3yl) | [Square One](https://open.spotify.com/album/1Vi1fKEfFBLHY09a6QAOqq) | 3:03 |
 | 13 | [LOVE DOCTOR](https://open.spotify.com/track/76IYiajfXenzXODVm000sw) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/6ICmtrFdtxFnCkZzscSQpU) | 2:01 |
-| 14 | [Hiya Hiya](https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H) | 3:37 |
+| 14 | [Hiya hiya New Distribution](https://open.spotify.com/track/3GDe4ABAWZWP6XKYCPmrhc) | [Mustafa Hussam](https://open.spotify.com/artist/1ZVYNea11w8l7t5pqZUYoM) | [Hiya hiya New Distribution](https://open.spotify.com/album/4iJJ8pkyW3CY41C53B6KVq) | 3:37 |
 | 15 | [Maghror Feek](https://open.spotify.com/track/0w0qNZagcCOBbgXOqVOKGU) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Maghror Feek](https://open.spotify.com/album/75XDoSO0iqvkQAWln9SXxL) | 3:02 |
 | 16 | [By The Sea](https://open.spotify.com/track/2TGQUjLw3zVxZgDWikfRzU) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [By The Sea](https://open.spotify.com/album/2HSbIrnOW1cdvwnhsiRkBS) | 2:50 |
 | 17 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 59 | [Yjeek Youm](https://open.spotify.com/track/7mhRSbBekfLTVLcWo3rxmW) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Yjeek Youm](https://open.spotify.com/album/2KShjcCHoSnt6qDnW9HxAz) | 3:36 |
 | 60 | [يا ترى](https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI) | 3:15 |
 
-Snapshot ID: `MTY1OTA5ODMyNywwMDAwMDAwMGE1NzliOWUyMmZmMDAzNmQxZTYwODkzNzdjODEzOTk5`
+Snapshot ID: `MTY1OTA5ODMyNywwMDAwMDAwMGI0NDY5NWE0YmVhNThlMGE1YjRlOGQyOWRjNGUzMzM3`

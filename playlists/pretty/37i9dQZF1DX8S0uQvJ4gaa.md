@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Seaforth
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,354 likes - 123 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,681 likes - 123 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

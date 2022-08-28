@@ -4,7 +4,7 @@
 
 > The best metal of 2016!
 
-194 songs - 17 hr 14 min - [published](https://open.spotify.com/playlist/78oYCipLw9bL0rcTsN8kW4)
+195 songs - 17 hr 21 min - [published](https://open.spotify.com/playlist/78oYCipLw9bL0rcTsN8kW4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,8 +110,9 @@
 | [Live and Burn](https://open.spotify.com/track/5kheBCHERdvNziSYgDdbc2) | [Deströyer 666](https://open.spotify.com/artist/67T5lWCllFJE7hDrslnxYK) | [Wildfire](https://open.spotify.com/album/29NdXziu9bQePCxjSf9b5G) | 4:31 | 2016-12-02 | 2022-07-29 |
 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj) | 2:41 | 2022-07-29 |  |
 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5hQfs9spSyXUavvPe7jmgn) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/300egwhkQSsKEFLbZgFa36) | 2:41 | 2016-12-02 | 2022-07-29 |
+| [Marigold](https://open.spotify.com/track/0xaN6B7xNJU9czMXELDyDM) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/5L9ddlTFtgLj93nzy77MEO) | 7:19 | 2022-08-28 |  |
 | [Marigold](https://open.spotify.com/track/2YZZ8qsDdvC008LgtpMoI6) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/1NBUh16Mfz7kNjIJKVO9sC) | 7:19 | 2016-12-02 | 2022-07-29 |
-| [Marigold](https://open.spotify.com/track/56g7gV4V3YvAmo4zbwnh3j) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/45TYtX5PUFk1DlFB6m1N1M) | 7:19 | 2022-07-29 |  |
+| [Marigold](https://open.spotify.com/track/56g7gV4V3YvAmo4zbwnh3j) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/45TYtX5PUFk1DlFB6m1N1M) | 7:19 | 2022-07-29 | 2022-08-28 |
 | [Marionette](https://open.spotify.com/track/4ecARQ4ZuW2m7CD5mZIWBv) | [Witherscape](https://open.spotify.com/artist/4JrXdJNYihZhEghyLh98fz) | [The Northern Sanctuary](https://open.spotify.com/album/1XZtrFV37rrdD40SvVm0Lu) | 4:37 | 2016-12-02 |  |
 | [Mark of the Blade](https://open.spotify.com/track/0fM5SeiszwDmtyndZKc6Hs) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Mark of the Blade](https://open.spotify.com/album/3z59OW4z7s6CMx63zn4Dbn) | 2:54 | 2016-12-02 |  |
 | [Mass Darkness](https://open.spotify.com/track/0yR4i9F5xUzEF9NdicptwE) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Arktis.](https://open.spotify.com/album/397XouQkm5WLVcPYVG76f3) | 3:52 | 2016-12-02 | 2022-07-29 |

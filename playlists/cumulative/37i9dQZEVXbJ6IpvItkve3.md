@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-493 songs - 1 day 3 hr 39 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+494 songs - 1 day 3 hr 42 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-10-23 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-04-14 | 2021-05-03 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-09 |  |
+| [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-08-27 |  |
 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 | 2021-03-27\* | 2021-06-06 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-24 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-20 |  |
@@ -260,7 +261,7 @@
 | [אבות ובנים](https://open.spotify.com/track/0LAPb9g7pvLmHgiVVmzyME) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/3b7OPwVWZgm4ifO1iRW5Nk) | 4:20 | 2022-05-05 | 2022-05-07 |
 | [אבות ובנים](https://open.spotify.com/track/1Nq92xyQrCzhHGuZSRtAcO) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/1uiw4JLkam9MJiHN7U12Z2) | 4:20 | 2021-04-16 | 2021-04-17 |
 | [אהבה בסוף הקיץ](https://open.spotify.com/track/5je9zjtFYe0YO16Gr8PyKA) | [Svika Pick](https://open.spotify.com/artist/7hMpCrQFkZm9Sy1S9ZwBFe) | [מוסיקה](https://open.spotify.com/album/528cpz61Bp02KfZ7ybRQvf) | 5:41 | 2022-08-16 | 2022-08-18 |
-| [אהובי לב אדום](https://open.spotify.com/track/2ICsg0MAobTLg4VVjW2iE5) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אהובי לב אדום](https://open.spotify.com/album/4OY25L91SZ7PPDiCgIHZDV) | 3:24 | 2022-06-03 |  |
+| [אהובי לב אדום](https://open.spotify.com/track/2ICsg0MAobTLg4VVjW2iE5) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אהובי לב אדום](https://open.spotify.com/album/4OY25L91SZ7PPDiCgIHZDV) | 3:24 | 2022-06-03 | 2022-08-28 |
 | [אהלן וסהלן](https://open.spotify.com/track/5paLSZ9sF5jc3aSOSjQf3b) | [Lehakat Sfataim](https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R) | [חגיגה מרוקאית](https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD) | 5:48 | 2021-04-05 | 2022-04-26 |
 | [אוחילה](https://open.spotify.com/track/07uIhNfeg1X7QZBl5BRxUK) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 3:50 | 2021-09-17 | 2021-09-18 |
 | [אור הירח](https://open.spotify.com/track/1B6qAMPiD7sv3WNI90ELMz) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [צו השעה \- צו שני](https://open.spotify.com/album/3pWGjr7mI83VwbBvYhzuhT) | 3:28 | 2021-03-27\* | 2021-04-01 |
@@ -361,7 +362,7 @@
 | [כוסות ריקות](https://open.spotify.com/track/6NzCGR1aXkl3z4tjUph4zH) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Lior Narkis](https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS) | [שבעה ירחים](https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY) | 2:14 | 2021-07-10 | 2021-08-21 |
 | [ככה כל יום](https://open.spotify.com/track/70Vsir4Wan3TrEzGCIZy0l) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [ככה כל יום](https://open.spotify.com/album/5CkUVNtP9mFb6spNR8ixHC) | 2:55 | 2022-02-10 | 2022-07-10 |
 | [כל הכוכבים](https://open.spotify.com/track/6xtqda5h0wlcFn3WdI4pb6) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 2:41 | 2021-12-18 | 2022-01-01 |
-| [כמו שאני](https://open.spotify.com/track/4OuoS8NAur7tj6rMDpTVjJ) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [כמו שאני](https://open.spotify.com/album/7C2J1726TKx0QfQXoIkkEl) | 3:22 | 2022-04-04 |  |
+| [כמו שאני](https://open.spotify.com/track/4OuoS8NAur7tj6rMDpTVjJ) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [כמו שאני](https://open.spotify.com/album/7C2J1726TKx0QfQXoIkkEl) | 3:22 | 2022-04-04 | 2022-08-28 |
 | [כשאת הולכת](https://open.spotify.com/track/2TE9K4A2YjHxkw7Um4Mudu) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [The 8](https://open.spotify.com/album/5dMa0I7cyLtXLn47oxGpph) | 3:30 | 2021-03-27\* | 2021-04-08 |
 | [לא היה מעולם](https://open.spotify.com/track/5pZmyjoGBrQ1inaZmXXpFA) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [לא היה מעולם](https://open.spotify.com/album/0g1opMY6902IcH7XIBrbLN) | 3:21 | 2022-06-18 | 2022-07-31 |
 | [לא להיות לבד](https://open.spotify.com/track/16tcNezkJ5VETVDVC4m7gj) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [לא להיות לבד](https://open.spotify.com/album/0k6UX8ZPGWtQ0ilP6r6knR) | 3:00 | 2021-10-23 | 2022-07-14 |
@@ -468,7 +469,7 @@
 | [רסיסים](https://open.spotify.com/track/4qAHhdpiGcbzqwjqmwuXwj) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [רסיסים](https://open.spotify.com/album/1VJTRr2sjWAUBN5vcfci6T) | 3:21 | 2021-03-27\* | 2022-04-12 |
 | [רסיסים](https://open.spotify.com/track/71h6sV5KytTmPARarI28wI) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [רסיסים](https://open.spotify.com/album/5EZtdMdFyk9kCQKRmdXmUY) | 3:21 | 2022-04-11 | 2022-08-26 |
 | [רעשים](https://open.spotify.com/track/1KszHjECoMXM3d5y31ZRVl) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [רעשים](https://open.spotify.com/album/7620BHUxKd5j1KF8CVE6Kb) | 3:40 | 2021-12-16 | 2022-03-27 |
-| [שבוע טוב](https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd) | [שבוע טוב](https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW) | 2:31 | 2021-03-27\* | 2022-08-02 |
+| [שבוע טוב](https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd) | [שבוע טוב](https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW) | 2:31 | 2021-03-27\* |  |
 | [שובו של מרדכי](https://open.spotify.com/track/1s8Mk9MmCPIhhhq2F9aGnz) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Oshik Levy](https://open.spotify.com/artist/3tjoGZmGJVn69uCacptnWh), [Teddy Neguse](https://open.spotify.com/artist/1SOCXWLgBvXDqNobiSnGM7) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:30 | 2021-12-18 | 2021-12-25 |
 | [שום דבר לא יפגע בי](https://open.spotify.com/track/3FAOYZtUlvrvs3EgZ3Nyy1) | [Knesiyat Hasechel](https://open.spotify.com/artist/16MkPn5NwSOt7xc4OqjOHp) | [שום דבר לא יפגע בי](https://open.spotify.com/album/2raX9lg2PnnTYO1lUBJoxZ) | 3:41 | 2022-05-05 | 2022-05-07 |
 | [שושנים עצובות \(ישראל בידור\)](https://open.spotify.com/track/1rmxF8VNLZ2gXwwzqGJ9tJ) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [שושנים עצובות \(ישראל בידור\)](https://open.spotify.com/album/6y4VKtxBdPN8jVmeyCp0Qv) | 3:29 | 2021-04-14 | 2022-05-07 |

@@ -4,7 +4,7 @@
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS\-wXav9tJWA">Phuzekhemisi</a>
 
-67 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/7MknMC7DjPGcBYDazt2RIC)
+68 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/7MknMC7DjPGcBYDazt2RIC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,8 +25,9 @@
 | [Ikhotha Eyikhothayo](https://open.spotify.com/track/3NMCy2Oi6rNDeddoxCTqnM) | [Abagqobhi](https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK) | [Inunu Engafi](https://open.spotify.com/album/1eWFVrvhJw2B87pKyGdl4k) | 4:47 | 2018-09-25 |  |
 | [Ikhotha Eyikhothayo](https://open.spotify.com/track/5lQrJySa8SnAVFzrppqOyo) | [Abagqobhi](https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK) | [Inunu Engafi](https://open.spotify.com/album/0nc4IHahVp9BvuMNpPMrTE) | 4:47 | 2018-09-25 | 2022-07-29 |
 | [Imali Yesoso](https://open.spotify.com/track/28ZztKoH4iovdVamlbNEPR) | [Ichwane Lebhaca](https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh) | [Imali Yesoso](https://open.spotify.com/album/1Vvgd9KgV5hQZKXLDLfGBc) | 5:07 | 2018-11-18 |  |
-| [Imbizo](https://open.spotify.com/track/41NvPWbuUFdEeLV8rlYwIB) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Imbizo](https://open.spotify.com/album/7GwtOivf91juFQ7MINxers) | 3:58 | 2018-09-25 |  |
+| [Imbizo](https://open.spotify.com/track/41NvPWbuUFdEeLV8rlYwIB) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Imbizo](https://open.spotify.com/album/7GwtOivf91juFQ7MINxers) | 3:58 | 2018-09-25 | 2022-08-28 |
 | [Imbizo](https://open.spotify.com/track/5sjYGxZrOVboftBZOn6AVu) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Imbizo](https://open.spotify.com/album/7oZQe5vQ6TLRZlkuJEYIw0) | 3:58 | 2018-09-25 | 2022-07-29 |
+| [Imbizo](https://open.spotify.com/track/5rd1OgQZU0TcRndLFOYECO) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Imbizo](https://open.spotify.com/album/33HOA4xP6hyXlm1CcUy5Ce) | 3:58 | 2018-09-25 |  |
 | [Imbizo](https://open.spotify.com/track/2Kg74EtKg8Lo18r1cUtZBV) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Imbizo](https://open.spotify.com/album/75ZCcbvBeLAzlzM6aDmcml) | 3:59 | 2018-09-25 | 2022-08-27 |
 | [Imikhuba](https://open.spotify.com/track/26ShN8gJb3wLqgLAA9dUSD) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Bayede Zulu](https://open.spotify.com/album/0xW1FZv5b6GM6hixos2FDu) | 4:11 | 2018-09-25 |  |
 | [Imikhuba](https://open.spotify.com/track/5DWe8RsOB3zQ8nGT870FwD) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Bayede Zulu](https://open.spotify.com/album/1CYUKc8tPKmyRAVxOMLbWd) | 4:11 | 2018-09-25 | 2022-07-29 |

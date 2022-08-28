@@ -1,12 +1,12 @@
 {
   "description": "Fresh and recent tracks from the world of Prog Metal. Cover: Architects",
-  "num_followers": 472473,
+  "num_followers": 472594,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyMjQwNiwwMDAwMDAwMDIxMjgxNTRlYWRiZTVjOWJmYzM4NDhhZDEzYzBlM2I2",
+  "snapshot_id": "MTY2MTUyMjQwNiwwMDAwMDAwMDBjYjBjNjZjMjdkZDI5MzkyMTE0NWFlNzcwNDUyNmY5",
   "tracks": [
     {
       "added_at": "2022-08-26 14:00:06",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-08-26 14:00:06",
       "album": {
-        "name": "Periphery III: Select Difficulty",
-        "url": "https://open.spotify.com/album/45TYtX5PUFk1DlFB6m1N1M"
-      },
-      "artists": [
-        {
-          "name": "Periphery",
-          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
-        }
-      ],
-      "duration_ms": 439840,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/56g7gV4V3YvAmo4zbwnh3j"
-    },
-    {
-      "added_at": "2022-08-26 14:00:06",
-      "album": {
         "name": "Phantom Anthem",
         "url": "https://open.spotify.com/album/5raPbxzLIp6YJTN5jyyT2f"
       },
@@ -543,22 +527,6 @@
     {
       "added_at": "2022-08-26 14:00:06",
       "album": {
-        "name": "Snowblood",
-        "url": "https://open.spotify.com/album/393HU6oEXQybzous3p0NC5"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 253680,
-      "name": "Snowblood",
-      "url": "https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h"
-    },
-    {
-      "added_at": "2022-08-26 14:00:06",
-      "album": {
         "name": "Aphelion",
         "url": "https://open.spotify.com/album/1FqPZscG7gDH6utCpoWnkG"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 424443,
       "name": "Nighttime Disguise",
       "url": "https://open.spotify.com/track/2cXtLOiUWyCDebAT65p5cJ"
+    },
+    {
+      "added_at": "2022-08-26 14:00:06",
+      "album": {
+        "name": "Snowblood",
+        "url": "https://open.spotify.com/album/393HU6oEXQybzous3p0NC5"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 253680,
+      "name": "Snowblood",
+      "url": "https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h"
     },
     {
       "added_at": "2022-08-26 14:00:06",
@@ -931,22 +915,6 @@
     {
       "added_at": "2022-08-26 14:00:06",
       "album": {
-        "name": "The Seed of Self-Destruction",
-        "url": "https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0"
-      },
-      "artists": [
-        {
-          "name": "Allt",
-          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
-        }
-      ],
-      "duration_ms": 243722,
-      "name": "Severance",
-      "url": "https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q"
-    },
-    {
-      "added_at": "2022-08-26 14:00:06",
-      "album": {
         "name": "Periphery IV: HAIL STAN",
         "url": "https://open.spotify.com/album/4b8Wu8BFcryfjXnVI5tTU0"
       },
@@ -959,6 +927,22 @@
       "duration_ms": 356506,
       "name": "Garden in the Bones",
       "url": "https://open.spotify.com/track/4ezBCuMm1YfzFIrrwfIQrz"
+    },
+    {
+      "added_at": "2022-08-26 14:00:06",
+      "album": {
+        "name": "The Seed of Self-Destruction",
+        "url": "https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0"
+      },
+      "artists": [
+        {
+          "name": "Allt",
+          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+        }
+      ],
+      "duration_ms": 243722,
+      "name": "Severance",
+      "url": "https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q"
     },
     {
       "added_at": "2022-08-26 14:00:06",
@@ -1175,22 +1159,6 @@
     {
       "added_at": "2022-08-26 14:00:06",
       "album": {
-        "name": "Dinner",
-        "url": "https://open.spotify.com/album/3pl00ZxrKeLIog0Qi8Tm4R"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Dinner",
-      "url": "https://open.spotify.com/track/7xKShfvVUZKcECyFaqhA7z"
-    },
-    {
-      "added_at": "2022-08-26 14:00:06",
-      "album": {
         "name": "Lavos (feat. Mick Gordon)",
         "url": "https://open.spotify.com/album/24oX2HkDQFdNAcoAmsj830"
       },
@@ -1207,6 +1175,22 @@
       "duration_ms": 255103,
       "name": "Lavos (feat. Mick Gordon) - single version",
       "url": "https://open.spotify.com/track/6zZWfiI6YTpEaF6yUENer6"
+    },
+    {
+      "added_at": "2022-08-26 14:00:06",
+      "album": {
+        "name": "Dinner",
+        "url": "https://open.spotify.com/album/3pl00ZxrKeLIog0Qi8Tm4R"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Dinner",
+      "url": "https://open.spotify.com/track/7xKShfvVUZKcECyFaqhA7z"
     },
     {
       "added_at": "2022-08-26 14:00:06",
@@ -2235,22 +2219,6 @@
     {
       "added_at": "2022-08-26 14:00:06",
       "album": {
-        "name": "In Cauda Venenum (Extended Edition)",
-        "url": "https://open.spotify.com/album/2fsdMzQ5Tr6GTS9XErOtP0"
-      },
-      "artists": [
-        {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
-        }
-      ],
-      "duration_ms": 396053,
-      "name": "Dignity",
-      "url": "https://open.spotify.com/track/27zLixLnXaVFkihr32cyWb"
-    },
-    {
-      "added_at": "2022-08-26 14:00:06",
-      "album": {
         "name": "The Long Road North",
         "url": "https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB"
       },
@@ -2263,6 +2231,22 @@
       "duration_ms": 699313,
       "name": "Blood Upon Stone",
       "url": "https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP"
+    },
+    {
+      "added_at": "2022-08-26 14:00:06",
+      "album": {
+        "name": "In Cauda Venenum (Extended Edition)",
+        "url": "https://open.spotify.com/album/2fsdMzQ5Tr6GTS9XErOtP0"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "duration_ms": 396053,
+      "name": "Dignity",
+      "url": "https://open.spotify.com/track/27zLixLnXaVFkihr32cyWb"
     },
     {
       "added_at": "2022-08-26 14:00:06",
@@ -3219,6 +3203,22 @@
     {
       "added_at": "2022-08-26 14:00:06",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/08nlmkzQCUll5KWafhAmNr"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 282566,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/7e1aLJw21Adnr97vIAc0TE"
+    },
+    {
+      "added_at": "2022-08-26 14:00:06",
+      "album": {
         "name": "Rise Radiant (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/1nIV5jr3c14glRyU3ax5PQ"
       },
@@ -3267,6 +3267,22 @@
     {
       "added_at": "2022-08-26 14:00:06",
       "album": {
+        "name": "Kijo",
+        "url": "https://open.spotify.com/album/4DsmxRjsSuFWq1tgZPQzvb"
+      },
+      "artists": [
+        {
+          "name": "Memorist",
+          "url": "https://open.spotify.com/artist/5iO99RO9AmhAr4rLgjZ1nn"
+        }
+      ],
+      "duration_ms": 222099,
+      "name": "Kijo",
+      "url": "https://open.spotify.com/track/608RRgKIml4mVLlDDwqBv4"
+    },
+    {
+      "added_at": "2022-08-26 14:00:06",
+      "album": {
         "name": "It Hurts",
         "url": "https://open.spotify.com/album/7Bskjsvg1IJ5xI11YHEt5w"
       },
@@ -3279,22 +3295,6 @@
       "duration_ms": 295147,
       "name": "It Hurts",
       "url": "https://open.spotify.com/track/0pmNiFoT6MwFbL1F2EjQ5a"
-    },
-    {
-      "added_at": "2022-08-26 14:00:06",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/08nlmkzQCUll5KWafhAmNr"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 282566,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/7e1aLJw21Adnr97vIAc0TE"
     }
   ],
   "unique_name": "Progressive Metal",

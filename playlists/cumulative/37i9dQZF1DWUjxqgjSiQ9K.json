@@ -810,6 +810,24 @@
     },
     {
       "album": {
+        "name": "Cosas Nuevas",
+        "url": "https://open.spotify.com/album/7N0rgEUYUUxqlZEDnOy6EA"
+      },
+      "artists": [
+        {
+          "name": "Jaz Jacob",
+          "url": "https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264347,
+      "name": "Cantando Bueno Es Dios",
+      "url": "https://open.spotify.com/track/4m6rZMvNMNi3kNgJsoOsF6"
+    },
+    {
+      "album": {
         "name": "Cantando Bueno Es Dios",
         "url": "https://open.spotify.com/album/03H9TbNM4rIg6NxyUGsTds"
       },
@@ -821,7 +839,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 264385,
       "name": "Cantando Bueno Es Dios",
       "url": "https://open.spotify.com/track/1cSekGdwfXFnq3KfFrVYUV"

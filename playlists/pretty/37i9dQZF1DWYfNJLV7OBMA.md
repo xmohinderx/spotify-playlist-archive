@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Yuki Navaratne, Ravi Jay
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,259 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,270 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 24 | [Sanda Nena Da](https://open.spotify.com/track/1YPG3UeO0a8vDabyoN9Zd7) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes) | [Sanda Nena Da](https://open.spotify.com/album/3Ac4Hi5jtv3fAxxP3iGajR) | 4:30 |
 | 25 | [Allan Yanna Bari Athak](https://open.spotify.com/track/3oCRnqSDze1igc7Vnovc5C) | [Sudeera Dilshan](https://open.spotify.com/artist/7gHkPTRQJ2DBMAqSvEgvzx) | [Allan Yanna Bari Athak](https://open.spotify.com/album/3HutgQn9ksIXiL9j5J0D3m) | 3:13 |
 | 26 | [Rathu Thol](https://open.spotify.com/track/03RhJg45ObSnOM1tWKNHh2) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o) | [Rathu Thol](https://open.spotify.com/album/1uYysu8etestPKWSzUIcSO) | 3:32 |
-| 27 | [Ice](https://open.spotify.com/track/7Couef9jj3sCL8TfrYxL5s) | [Costa](https://open.spotify.com/artist/0xQI3u4hVl2KnZf5tq38LR), [DKM](https://open.spotify.com/artist/24zd5PYOAMZVYGj8cnb7fh) | [Paavi Paavi 3](https://open.spotify.com/album/27ycfh55hituS67sDEjjks) | 3:42 |
+| 27 | [Ice](https://open.spotify.com/track/520xJKhwIuwUoWBn0sbaTV) | [Costa](https://open.spotify.com/artist/0xQI3u4hVl2KnZf5tq38LR), [DKM](https://open.spotify.com/artist/24zd5PYOAMZVYGj8cnb7fh) | [Paavi Paavi 3](https://open.spotify.com/album/5ajuurZv6QUR6suLZ1XMQL) | 3:42 |
 | 28 | [Me Hitha Na Palu](https://open.spotify.com/track/1r5X6i6U11nStErNNd0opg) | [Dhyan Hewage](https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G), [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Me Hitha Na Palu](https://open.spotify.com/album/18pO3n4X5utq5x0O0wl06l) | 3:08 |
 | 29 | [Ma Bala Kale](https://open.spotify.com/track/5Pl04ML5P00j4pTIpdHJDz) | [Gloomy](https://open.spotify.com/artist/5j4UviqN2JzBpWz3xeTXVk), [Tharin](https://open.spotify.com/artist/4pXt8q9ZIYh9QtgXsn1CEA), [Big Harsha](https://open.spotify.com/artist/0gomixYbUP7hmsfWERGyoL) | [Ma Bala Kale](https://open.spotify.com/album/1fExvR9pM30Vh0LjNE8oHt) | 3:48 |
 | 30 | [Kuludul Adare](https://open.spotify.com/track/424qj8CmCFtxb9g6Tt4B4c) | [Sandun Ratnayake](https://open.spotify.com/artist/6X1RuAr8tGgK6uIyXTX4Fv), [Shan M](https://open.spotify.com/artist/4WTflrBx9OyVyYqzktjOJU) | [Kuludul Adare](https://open.spotify.com/album/6cGW1JIJd76V7SDhGnHhUW) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 99 | [Pem Kekula](https://open.spotify.com/track/6NWjTke7IJDThX8ze3DUJN) | [DJ Mass](https://open.spotify.com/artist/7DDdKIvTMJoVym9n4UOKYA), [Romaine Willis](https://open.spotify.com/artist/5KW7Z7pvvXDPbig7Dlt4Rp), [Apzi](https://open.spotify.com/artist/12xBvaWtsb3RT5WPljGy2o) | [Pem Kekula](https://open.spotify.com/album/1mIVw6IZ0jqXKtDbeMWR42) | 2:38 |
 | 100 | [Kaalaye](https://open.spotify.com/track/6LMVEszqcrimXu6W7ueoUr) | [Vidula Ravishara](https://open.spotify.com/artist/4FzhdScTHPgweAc4Ka9fOB) | [Kaalaye](https://open.spotify.com/album/40oBMZD8C0NmAsMB8DaKzw) | 3:53 |
 
-Snapshot ID: `MTY2MDI5NDA3NiwwMDAwMDAwMDI0ZmU3ZjNmNGZiMWI2ZTE3MzhhM2QxOTAyMGRkMDIx`
+Snapshot ID: `MTY2MDI5NDA3NiwwMDAwMDAwMGE4MTQ5MjZhMzg4ZTlkZmYyNGRlNDJiYmJjODM4NWMz`

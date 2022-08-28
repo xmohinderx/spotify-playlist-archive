@@ -642,6 +642,32 @@
     },
     {
       "album": {
+        "name": "New Possibilities (Live)",
+        "url": "https://open.spotify.com/album/7jqW4veLuzeFVDOxv5ES3F"
+      },
+      "artists": [
+        {
+          "name": "Niclas Campagnol",
+          "url": "https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL"
+        },
+        {
+          "name": "S\u00f8ren Lee",
+          "url": "https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ"
+        },
+        {
+          "name": "Linley Marthe",
+          "url": "https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429466,
+      "name": "Heart Song - Live",
+      "url": "https://open.spotify.com/track/0DeDD3oOTOVpNjMusuSZDd"
+    },
+    {
+      "album": {
         "name": "Heart Song (Live)",
         "url": "https://open.spotify.com/album/5abUJ9e8YQ1nuLvldIk96e"
       },
@@ -661,7 +687,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 429466,
       "name": "Heart Song - Live",
       "url": "https://open.spotify.com/track/4auFbiuMrpvqxs3237Asgn"

@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-382 songs - 21 hr 53 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+383 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Entra En Mi Vida](https://open.spotify.com/track/6kpB9L4r25GM9i6a8YF8hC) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [Entra En Mi Vida](https://open.spotify.com/album/4MtfCKfYPxHrZlDBGFWlPa) | 3:38 | 2022-01-28 |  |
 | [Entre Paraísos](https://open.spotify.com/track/02P3oPhKA2SAlLlFvTvEgg) | [Arial](https://open.spotify.com/artist/0oegQ94V48WQtfYpkvaW2G) | [Entre Paraísos](https://open.spotify.com/album/0m1nXpYzV1JYQNp3hJrKGe) | 3:34 | 2022-01-07 | 2022-07-20 |
 | [Enumerar \(feat\. CLUBZ\)](https://open.spotify.com/track/5Khk0aRv1joKTcWbzNJvMB) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [TIMELESS](https://open.spotify.com/album/21WJxzQvyHOzHJHMUlD1MO) | 3:27 | 2022-04-01 | 2022-04-17 |
-| [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 | 2022-01-07 |  |
+| [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 | 2022-01-07 | 2022-08-28 |
+| [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 | 2022-08-26 |  |
 | [Escondidos](https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:51 | 2022-07-15 |  |
 | [Escondidos](https://open.spotify.com/track/6XEIBKpJa8IRkqcF54neol) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Escondidos](https://open.spotify.com/album/1azyCvjIL2p8EtrjsX5LeX) | 3:51 | 2022-01-07 | 2022-07-29 |
 | [Espiral](https://open.spotify.com/track/5g7JXDfVlF0uRUS1GEXRCD) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t), [Sofía Di Marco](https://open.spotify.com/artist/0mNJtxdQXXx6TphJwbRFwU) | [Espiral](https://open.spotify.com/album/4uUtn703QxFMR18qagkieq) | 4:05 | 2022-04-01 | 2022-04-19 |

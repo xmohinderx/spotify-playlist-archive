@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Camila Moreno + Princesa Alba
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,858 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,867 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 17 | [No Tendré Poder \(Pero Tengo Energía\)](https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [No Tendré Poder \(Pero Tengo Energía\)](https://open.spotify.com/album/3MvdAyZT7mGMrPFi9OgD2y) | 3:13 |
 | 18 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 |
 | 19 | [Fachada Continua](https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Fachada Continua](https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR) | 4:06 |
-| 20 | [Mi Querida Tempestad \(en un Vaso de Agua\)](https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mi Querida Tempestad \(en un Vaso de Agua\)](https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D) | 2:57 |
+| 20 | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D) | 2:57 |
 | 21 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 |
 | 22 | [Vuela Lejos](https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Vuela Lejos](https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO) | 5:07 |
 | 23 | [Vinito Chilenito](https://open.spotify.com/track/2VMwX7KXep4jOzWyfyuPJN) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Vinito Chilenito](https://open.spotify.com/album/2lHvzkJXXBE1WC6JzsAFYd) | 2:43 |

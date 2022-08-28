@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-491 songs - 1 day 1 hr 10 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+492 songs - 1 day 1 hr 13 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [ANTEN FREESTYLE \(PLA4 INTRO\)](https://open.spotify.com/track/6BEMX2p0T54cQlI8k33drI) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [ANTEN FREESTYLE \(PLA4 INTRO\)](https://open.spotify.com/album/5Mf7XUKnYNRfNe7Yhzufuu) | 2:28 | 2021-08-15 | 2021-08-17 |
 | [ANTRIKOT](https://open.spotify.com/track/34WZIBQM7PusIDr5LtVpav) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [ANTRIKOT](https://open.spotify.com/album/3RHfrDPc3SMfhvRkgWNlWs) | 2:41 | 2022-01-15 | 2022-04-30 |
 | [Anıları Sakla](https://open.spotify.com/track/4MKL1sm8VqknemVs2yjs4M) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Yolculuk](https://open.spotify.com/album/0ffhrMPhoprewPQPc5so04) | 3:36 | 2021-05-31 | 2021-12-25 |
-| [Ara](https://open.spotify.com/track/1iEMuRRbD04w92WzHYkJrF) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ara](https://open.spotify.com/album/6gkihcoEoX8nPLbTnzPygL) | 3:00 | 2022-07-30 |  |
+| [Ara](https://open.spotify.com/track/18Ies0Fsw2IwDuLoOhDlyy) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ara](https://open.spotify.com/album/0C3BRPMqyxppx6kJbOImCq) | 3:00 | 2022-08-27 |  |
+| [Ara](https://open.spotify.com/track/1iEMuRRbD04w92WzHYkJrF) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ara](https://open.spotify.com/album/6gkihcoEoX8nPLbTnzPygL) | 3:00 | 2022-07-30 | 2022-08-28 |
 | [ARASAN DA](https://open.spotify.com/track/72jYQj3RgTR1DFLfibD71B) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ARASAN DA](https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7) | 3:11 | 2022-03-18 |  |
 | [Arıyorum](https://open.spotify.com/track/1jWXlhsOpwVGXtYUcI96tV) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Arıyorum](https://open.spotify.com/album/13SQLlpjrblc3zRrdBvr7E) | 3:13 | 2021-09-19 | 2022-01-05 |
 | [Arıyorum](https://open.spotify.com/track/6g6MHm9u0h2Em9Xuk89eqR) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Arıyorum](https://open.spotify.com/album/7oRC48c8HLAkGYcoBTtMwH) | 3:13 | 2022-01-04 | 2022-08-03 |
@@ -58,7 +59,7 @@
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/6cygxIDSnHZtXI6LoidQdl) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Yaşım Çocuk](https://open.spotify.com/album/1rNrR7VKloorfaGSqunZoM) | 3:43 | 2021-09-14 | 2021-09-19 |
 | [Aşkın Mevsimi](https://open.spotify.com/track/15jCqbm4Fgcv6ux2lv2f1u) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/203bUdZtsey2yU4IMm07TX) | 2:44 | 2021-12-05 | 2022-01-05 |
 | [Aşkın Mevsimi](https://open.spotify.com/track/5jDtKz2JrYTvvU6b130S7g) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/1kGWYJoR7TE8Hr8crj9rgv) | 2:44 | 2022-01-04 | 2022-01-23 |
-| [Aşkın Olayım](https://open.spotify.com/track/4o4kbDP7DMVFPwAf5D5bj9) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ben Bazen](https://open.spotify.com/album/3q1dbJRFdUAdvRcq7Kmwra) | 4:11 | 2022-08-22 | 2022-08-26 |
+| [Aşkın Olayım](https://open.spotify.com/track/4o4kbDP7DMVFPwAf5D5bj9) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ben Bazen](https://open.spotify.com/album/3q1dbJRFdUAdvRcq7Kmwra) | 4:11 | 2022-08-22 |  |
 | [Aşığın Kaderi](https://open.spotify.com/track/03LlyuzR1zbPjMypv1Y1rp) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Aşığın Kaderi](https://open.spotify.com/album/2JdGneZvzps1z7MyvGmQHV) | 2:50 | 2021-08-14 | 2021-10-23 |
 | [B.S.G.](https://open.spotify.com/track/5KvWAPJDBNXzy5l1bywB7x) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [BEGEFENDİ](https://open.spotify.com/album/5uNcIKJl8eyNoVoqqT5744) | 2:10 | 2021-03-27\* | 2021-05-03 |
 | [Baba](https://open.spotify.com/track/4WVOnhv2a3vvBAzHbmdGHW) | [Ayaz Erdoğan](https://open.spotify.com/artist/2Y2hYlVGlZpTHAQ9UMaBCA), [Mengelez](https://open.spotify.com/artist/0YmKSLAY5SI1foE3K14u4g) | [Baba](https://open.spotify.com/album/5Lp153xQofl3Mje7Car9la) | 3:35 | 2021-10-07 | 2022-03-11 |
@@ -98,7 +99,7 @@
 | [Bilmem Mi?](https://open.spotify.com/track/0IF4B98sMyCv1lZjpS1FGz) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/3s82rScbmzY5VSjWHnMg4W) | 3:06 | 2021-09-01 | 2021-09-04 |
 | [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 | 2022-06-08 | 2022-08-27 |
 | [Bir Sebebi Var](https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bir Sebebi Var](https://open.spotify.com/album/1TOYbjUU1GF3KTbb6JZj1i) | 3:30 | 2021-03-27\* | 2021-09-03 |
-| [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 |  |
+| [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 | 2022-08-28 |
 | [BİLDİRİMLER KAPALI](https://open.spotify.com/track/3Pyy3y16EesdzWOfVSQesl) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [BİLDİRİMLER KAPALI](https://open.spotify.com/album/77j2RhU8nPDGqfOzYxYVzA) | 2:32 | 2022-01-29 | 2022-01-31 |
 | [Bla Bla Bla Bla](https://open.spotify.com/track/6fhcwrfGQCBT0VpbtjMRIm) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 4:39 | 2022-06-04 | 2022-06-17 |
 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 | 2021-05-20 | 2021-05-21 |

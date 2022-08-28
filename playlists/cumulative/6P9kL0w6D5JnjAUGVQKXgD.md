@@ -2,7 +2,7 @@
 
 ### [EDM Top 100](https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD)
 
-> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, LF SYSTEM
+> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, Armin van Buuren, R3HAB, Simon Ward
 
 1,302 songs - 2 day 20 hr 47 min - [published](https://open.spotify.com/playlist/0Ntnl9seA6EX8wAm2l1oSO)
 

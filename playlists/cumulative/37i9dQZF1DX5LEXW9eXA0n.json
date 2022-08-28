@@ -736,6 +736,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Memories",
+        "url": "https://open.spotify.com/album/5ZCMg1aIst5LPixDLg69bL"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215400,
+      "name": "Beautiful Memories",
+      "url": "https://open.spotify.com/track/3fsuqdPCR4rJCYJoyi2FTu"
+    },
+    {
+      "album": {
         "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/4f415rW7jQPbi5a2tPo4pA"
       },

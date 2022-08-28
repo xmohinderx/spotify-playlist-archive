@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310626,
+      "name": "CaCO -Instrumental",
+      "url": "https://open.spotify.com/track/58H90Fan0uwDxquVbZ6yFK"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
         "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 91000,
       "name": "HELLO HELLO HELLO -TV size ver",
       "url": "https://open.spotify.com/track/4ZqNeWPINaNzPcQ7rZ10gd"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 282813,
       "name": "SINGULARITY",
       "url": "https://open.spotify.com/track/0SD34sXHsm29Gm637omcuA"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 291746,
       "name": "\u30a2\u30ab\u30c4\u30ad",
       "url": "https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi"

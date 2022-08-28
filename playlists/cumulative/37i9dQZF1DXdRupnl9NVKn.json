@@ -1086,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Relay",
+        "url": "https://open.spotify.com/album/0k31vrIZQgqit8TjlQePM9"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223346,
+      "name": "Relay",
+      "url": "https://open.spotify.com/track/310Qb2mSocNLguFicxzRnD"
+    },
+    {
+      "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D"
       },
@@ -1447,24 +1465,6 @@
       "duration_ms": 212826,
       "name": "\ub108\ub294 \ub098\uc758 \uc228\uc774\uc600\ub2e4",
       "url": "https://open.spotify.com/track/49Su0Oz6iJlVO2qXAAYrss"
-    },
-    {
-      "album": {
-        "name": "\ub2ec\ub824! Relay",
-        "url": "https://open.spotify.com/album/0k31vrIZQgqit8TjlQePM9"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "date_added": "2022-07-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 223346,
-      "name": "\ub2ec\ub824! Relay",
-      "url": "https://open.spotify.com/track/310Qb2mSocNLguFicxzRnD"
     },
     {
       "album": {

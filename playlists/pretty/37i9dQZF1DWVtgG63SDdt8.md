@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  LOVKN
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,264 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,399 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 29 | [Altogether Good](https://open.spotify.com/track/64CMct78Rc1sUzUzYWDTLU) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Altogether Good](https://open.spotify.com/album/2IFmvx94ERXpZ9gRDSg6gD) | 5:09 |
 | 30 | [PHARISEE IN ME](https://open.spotify.com/track/15AlyfpwAXbBsu0lVfkWwj) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [PHARISEE IN ME](https://open.spotify.com/album/73kCHLQSDi4gGOm3ho6dlX) | 4:28 |
 | 31 | [Come to the Table \- Green Room Sessions](https://open.spotify.com/track/17tNLd3MIRfYMuH6bHXxTZ) | [Journey Worship Co.](https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco) | [Green Room Sessions](https://open.spotify.com/album/0Afm7W7aFpfQhGLKD18Jee) | 4:13 |
-| 32 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 |
+| 32 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 |
 | 33 | [Blessing Now](https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Blessing Now](https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM) | 3:28 |
 | 34 | [Awesome](https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA) | [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Awesome](https://open.spotify.com/album/0uWIKYtMsCNMlYMNyCcvBt) | 3:38 |
 | 35 | [All In](https://open.spotify.com/track/3VkbcfZhfbLjciAUp96jpZ) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [All In](https://open.spotify.com/album/3Gmehq02Bd4W7ctOlfHCb7) | 4:10 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 48 | [You Have My Yes](https://open.spotify.com/track/4qiVh3U2Qgd5RPOWjZcbLU) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Paul Daugherty](https://open.spotify.com/artist/4QU4v85xepqUOPZzHP6Cwc) | [both the night and day are the same to You](https://open.spotify.com/album/30FSDbzkZGcUciU1hCKK0x) | 5:54 |
 | 49 | [Safe Place](https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD) | [Pauline Zoe Park](https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T) | [Safe Place](https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx) | 3:31 |
 | 50 | [SO MUCH](https://open.spotify.com/track/1dtlsS6d2HWcc6dn2CmRIR) | [Marv](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [SO MUCH](https://open.spotify.com/album/1LHx6JeLDqE2reKEZFNUbY) | 3:06 |
-| 51 | [Nobody](https://open.spotify.com/track/13oiGSbxvEZD9MvRcPnrHy) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Nobody](https://open.spotify.com/album/3HYtZsdcAKrUQlc4FWM3jC) | 3:36 |
+| 51 | [Nobody](https://open.spotify.com/track/13oiGSbxvEZD9MvRcPnrHy) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Nobody](https://open.spotify.com/album/3HYtZsdcAKrUQlc4FWM3jC) | 2:36 |
 | 52 | [Covered](https://open.spotify.com/track/55BLK36N4ebg6am14GvZ1I) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Covered](https://open.spotify.com/album/6GajkGd1VC4cqCIspEJrT5) | 2:41 |
 | 53 | [Jesus Called My Name](https://open.spotify.com/track/749CMDRkLnWFXTYGT123S4) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Jesus Called My Name](https://open.spotify.com/album/53KVcS6ZFxmvtXbNxamie3) | 4:20 |
 | 54 | [SIX THIRTY](https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [SIX THIRTY](https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV) | 3:42 |

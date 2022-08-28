@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Josh Kerr
 
-205 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+206 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Up Down](https://open.spotify.com/track/4LMUMC48EGWeBzp1TyTcvw) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Michael Hardy](https://open.spotify.com/artist/0dggwcQzcosyXotXkNp2df) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:24 | 2022-01-01 |  |
 | [Uphill](https://open.spotify.com/track/2U8tmNAhE9LzmEoMABd5rk) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:01 | 2022-01-01 |  |
 | [Wake up Loving You](https://open.spotify.com/track/1E1LaXgZRkBOljpGXtlR7B) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion Originals](https://open.spotify.com/album/5khSHsmQhkTJ1iJr5FdAP8) | 3:48 | 2022-01-01 |  |
-| [Walks On Whiskey](https://open.spotify.com/track/38Kr23AF7ClWkD8Tiew0Vj) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Walks On Whiskey](https://open.spotify.com/album/5bQGiywjN2dxEy2pqtPPOY) | 2:37 | 2022-05-06 |  |
+| [Walks On Whiskey](https://open.spotify.com/track/38Kr23AF7ClWkD8Tiew0Vj) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Walks On Whiskey](https://open.spotify.com/album/5bQGiywjN2dxEy2pqtPPOY) | 2:37 | 2022-05-06 | 2022-08-28 |
+| [Walks on Whiskey](https://open.spotify.com/track/7C5KYt5hyCqy0kMAq9jbEQ) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Walks on Whiskey](https://open.spotify.com/album/2WyX2r0I3bvNlE0lnHUK1c) | 2:37 | 2022-08-19 |  |
 | [We Are Tonight \- Acoustic Mixtape](https://open.spotify.com/track/5G4upYoNLjklTY6qD32pSf) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Between The Pines \(Acoustic Mixtape\)](https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64) | 2:52 | 2022-02-28 |  |
 | [We Were](https://open.spotify.com/track/4t64dPfqlZa7fFGPSKavId) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [We Were](https://open.spotify.com/album/2Km77rh3Acs42qRQydKwLV) | 3:08 | 2022-02-28 |  |
 | [We Were Us](https://open.spotify.com/track/0pZpHs9BQfy6w11J0VpONW) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [The Worktapes.](https://open.spotify.com/album/4a4ETcRtvnEvypmzT4CfFd) | 2:48 | 2022-01-01 |  |

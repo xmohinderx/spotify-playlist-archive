@@ -1,12 +1,12 @@
 {
   "description": "Instrumental jazz to set the mood for a relaxed evening.",
-  "num_followers": 387899,
+  "num_followers": 387952,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2NDgwMCwwMDAwMDAwMDdmMTcxMTdlZjZjZjlmMjU1OWFiNjc3ZGUzNTljNjJm",
+  "snapshot_id": "MTY2MTQ2NDgwMCwwMDAwMDAwMGI2ZWYxNGM3OGE3MjVlY2M3MzRkODhlMGU0ZGE2ZDJk",
   "tracks": [
     {
       "added_at": "2022-08-25 22:00:00",
@@ -1831,30 +1831,6 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
-        "name": "Hidden Island",
-        "url": "https://open.spotify.com/album/1EnVCdjr7wRPXUjDWqT2G6"
-      },
-      "artists": [
-        {
-          "name": "Morten Schantz",
-          "url": "https://open.spotify.com/artist/0areODweNzGZZvnKlQjQw6"
-        },
-        {
-          "name": "Morten Ankarfeldt",
-          "url": "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
-        },
-        {
-          "name": "Janus Templeton",
-          "url": "https://open.spotify.com/artist/7k1xy8z0qkIlVuHctNPGlm"
-        }
-      ],
-      "duration_ms": 415802,
-      "name": "Hidden Island",
-      "url": "https://open.spotify.com/track/600RTP3vo0uKAtYu8sutbY"
-    },
-    {
-      "added_at": "2022-08-25 22:00:00",
-      "album": {
         "name": "Skylla",
         "url": "https://open.spotify.com/album/1pqpgB49R4Mtw8YvYFX2EZ"
       },
@@ -1915,6 +1891,30 @@
       "duration_ms": 354812,
       "name": "When You Wish Upon a Star",
       "url": "https://open.spotify.com/track/0xZyf3x2BDnKMbmtoIfRRO"
+    },
+    {
+      "added_at": "2022-08-25 22:00:00",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE"
+      },
+      "artists": [
+        {
+          "name": "Juan Ortiz",
+          "url": "https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U"
+        },
+        {
+          "name": "Gene Jackson",
+          "url": "https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8"
+        },
+        {
+          "name": "Hiroshi Takase",
+          "url": "https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H"
+        }
+      ],
+      "duration_ms": 324133,
+      "name": "Song for Selene (I'll Meet You in My Dreams)",
+      "url": "https://open.spotify.com/track/7667MFk3EPtbJJrXpPPmAg"
     }
   ],
   "unique_name": "Jazzy Dinner",

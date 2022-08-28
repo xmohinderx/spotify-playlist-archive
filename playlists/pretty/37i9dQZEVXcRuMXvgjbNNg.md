@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Malibu](https://open.spotify.com/track/5oWqt7bB2RfNdRXLAweBKk) | [DD WALKER](https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS) | [Malibu](https://open.spotify.com/album/1kixbq1b85DJOqAk9p1l3X) | 4:27 |
 | 30 | [Every Time I Look At You](https://open.spotify.com/track/4tCkxgvwL50VuqVmQtqfTz) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Power Station](https://open.spotify.com/album/5SBfou3NNkuYL0LeU004xy) | 3:53 |
 
-Snapshot ID: `MCwwMDAwMDAwMDY5NjBkYmNhOWZkMzQwMTA4ZjVhZWM5MjFmYTZhMjg4`
+Snapshot ID: `MCwwMDAwMDAwMGJkZGMxYzQ0Mzk0NmY2ZmVjMWE2NTYyZjk4MGM5YTNj`

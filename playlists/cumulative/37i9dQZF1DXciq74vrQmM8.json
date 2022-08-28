@@ -550,6 +550,24 @@
     },
     {
       "album": {
+        "name": "I Disagree",
+        "url": "https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182598,
+      "name": "BLOODMONEY",
+      "url": "https://open.spotify.com/track/6QPOr9B8aEquK1nGwG9Yj6"
+    },
+    {
+      "album": {
         "name": "Bloody Crescent",
         "url": "https://open.spotify.com/album/6V8LTX1vyMrJoHxjQ0Ye7R"
       },
@@ -671,6 +689,24 @@
       "duration_ms": 153899,
       "name": "break me!",
       "url": "https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1"
+    },
+    {
+      "album": {
+        "name": "Breakhearts",
+        "url": "https://open.spotify.com/album/19dbRtvQvOC2bd7YDNT1pH"
+      },
+      "artists": [
+        {
+          "name": "heffy",
+          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110310,
+      "name": "Breakhearts",
+      "url": "https://open.spotify.com/track/1c1Vw5n3oNvUk4AhsohBqC"
     },
     {
       "album": {
@@ -2024,6 +2060,28 @@
     },
     {
       "album": {
+        "name": "GOOD MOOD (feat. grandson)",
+        "url": "https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154680,
+      "name": "GOOD MOOD (feat. grandson)",
+      "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
+    },
+    {
+      "album": {
         "name": "Hate Me Too",
         "url": "https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr"
       },
@@ -2807,6 +2865,24 @@
       "duration_ms": 148000,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea"
+    },
+    {
+      "album": {
+        "name": "Love Is Dead And We Killed Her",
+        "url": "https://open.spotify.com/album/35xqb0JcBZm8WHClGfiv7Z"
+      },
+      "artists": [
+        {
+          "name": "Doll Skin",
+          "url": "https://open.spotify.com/artist/7vmwILw7lLaOfDnbGJB3iy"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187248,
+      "name": "Love Is Dead And We Killed Her",
+      "url": "https://open.spotify.com/track/1R0GUadaco9898cWY7pO2O"
     },
     {
       "album": {
@@ -4038,7 +4114,7 @@
     },
     {
       "album": {
-        "name": "Renegade",
+        "name": "RENEGADE",
         "url": "https://open.spotify.com/album/2htluTfqtMMHugQGCIUCgy"
       },
       "artists": [
@@ -4051,7 +4127,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 121724,
-      "name": "Renegade",
+      "name": "RENEGADE",
       "url": "https://open.spotify.com/track/5yoZNdTHwgQ71FJeB21wwP"
     },
     {
@@ -4089,6 +4165,28 @@
       "duration_ms": 109488,
       "name": "revenant",
       "url": "https://open.spotify.com/track/2pm8U6asi671SteGMdoODm"
+    },
+    {
+      "album": {
+        "name": "Rich Bitch Juice (Remixes)",
+        "url": "https://open.spotify.com/album/2I6rSGR9i4vBsefiCbN559"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140563,
+      "name": "Rich Bitch Juice - Laura Les Remix",
+      "url": "https://open.spotify.com/track/0hfjiQ13PQ4TcHOXyi1NWx"
     },
     {
       "album": {
@@ -5007,7 +5105,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 135877,
       "name": "Violent",
       "url": "https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg"
@@ -5285,6 +5383,24 @@
       "duration_ms": 146900,
       "name": "Word Vomit",
       "url": "https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp"
+    },
+    {
+      "album": {
+        "name": "xo I hope u die",
+        "url": "https://open.spotify.com/album/5DPzn03qYFHkkW2u8MF3Ge"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139417,
+      "name": "xo I hope u die",
+      "url": "https://open.spotify.com/track/7yFWkDBtuI18tyiE4atPPb"
     },
     {
       "album": {

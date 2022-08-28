@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Nazia Hassan
 
-610 songs - 1 day 9 hr 41 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+611 songs - 1 day 9 hr 43 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,7 +590,8 @@
 | [קוביד 19](https://open.spotify.com/track/7dEtCKY2MthcyP0U6aiMCW) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [סטטוס](https://open.spotify.com/album/25NrLi2xwYYO8WniTmdKL6) | 2:22 | 2022-08-03 |  |
 | [שלושה בנות](https://open.spotify.com/track/63TUZWEmunvQnAdLUD61yY) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Gitit Fisher](https://open.spotify.com/artist/1dhPws7AA939zNL1Fb7Nz0) | [שלושה בנות](https://open.spotify.com/album/6pUQfBq9yXndShYxbpi84y) | 3:37 | 2022-07-06 | 2022-08-04 |
 | [الوردة البيضا](https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [الوردة البيضا](https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO) | 3:57 | 2022-08-03 |  |
-| [سم فالكاندي](https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX) | 2:27 | 2022-08-03 |  |
+| [سم فالكاندي](https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX) | 2:27 | 2022-08-03 | 2022-08-28 |
+| [سم فالكاندي](https://open.spotify.com/track/7qk1ioFJUp5wNzPtSvi2E3) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7j5yTR9UnX8gVfOJ8OdqCo) | 2:27 | 2022-08-03 |  |
 | [شفت النجوم](https://open.spotify.com/track/2GQB3Xe1J9D2sK90AtHfhI) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [شفت النجوم](https://open.spotify.com/album/7150HyQxphdEnrai0PoxAc) | 3:50 | 2022-06-01 | 2022-07-07 |
 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 | 2022-06-01 | 2022-07-07 |
 | [จ๊วดหน้าฮ้าน](https://open.spotify.com/track/5JqNGI6DXY8GUxFqtz4EwG) | [Jintara Poonlarp](https://open.spotify.com/artist/3KlfbBoTPmF2TwJxFzveRI) | [จ๊วดหน้าฮ้าน](https://open.spotify.com/album/1NLzon0T0W1MGIIS7M05fR) | 5:02 | 2022-08-03 |  |

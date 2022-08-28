@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Kevin Kaarl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,950 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,206 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 6 | [Como Si Fuera Yo](https://open.spotify.com/track/53KqQmPI1BNgb1g7O2hPHV) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Como Si Fuera Yo](https://open.spotify.com/album/005n9T3G22CAiXUA1RF5Q8) | 3:16 |
 | 7 | [Manto Negro](https://open.spotify.com/track/52jWtWtmqVyjB6AEBcV5BT) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:44 |
 | 8 | [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 |
-| 9 | [DAMN](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
+| 9 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 10 | [Sol en Cáncer](https://open.spotify.com/track/38DJYCiiU3RF7Kn6lzTM6L) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [El Cofla](https://open.spotify.com/artist/1XavfVRANOemtSWXyUeLgk) | [Sol en Cáncer](https://open.spotify.com/album/5YX87vSzFOBuYzPXZS4yp5) | 3:07 |
 | 11 | [todo bien :\-\)](https://open.spotify.com/track/7Fp82vLuGKV6xYv9z3W9F2) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [todo bien :\-\)](https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS) | 2:56 |
 | 12 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 16 | [Otra Vez](https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [Una Vez Más](https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0) | 4:04 |
 | 17 | [Dicen](https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Dicen](https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq) | 2:44 |
 | 18 | [La Última Canción](https://open.spotify.com/track/1GScK9jvjpWjjhJVKV9M38) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Mentiroso](https://open.spotify.com/album/4YUMW0bvitjzVkuHoScz9V) | 2:54 |
-| 19 | [Mi Querida Tempestad \(en un Vaso de Agua\)](https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mi Querida Tempestad \(en un Vaso de Agua\)](https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D) | 2:57 |
+| 19 | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D) | 2:57 |
 | 20 | [ZIGZAG \(feat\. Alice Wonder\)](https://open.spotify.com/track/71E5TGusp7CNoO3hkjiIUx) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [ZIGZAG \(feat\. Alice Wonder\)](https://open.spotify.com/album/0GvWRr1JW2cuHUwApYoJIn) | 3:15 |
 | 21 | [Se Quemó](https://open.spotify.com/track/1GoYn2wYyblgUOKl38yAML) | [TAURO](https://open.spotify.com/artist/2B76nxBwYVPBmWnqUqbsIN), [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [Se Quemó](https://open.spotify.com/album/4MaWBboapIrjKm4cIIe6IP) | 3:47 |
 | 22 | [Olvidarte](https://open.spotify.com/track/77t0JVEA0Y8jvdSk2m6rUr) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Olvidarte](https://open.spotify.com/album/5Kf3lNPZC50JcbEd8X6HWB) | 2:53 |

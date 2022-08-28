@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 
 > Neverland, your queens are here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,090 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,234 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 | 67 | [DON'T TEXT ME](https://open.spotify.com/track/10gS1lJELCHguaUnrowonh) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:36 |
 | 68 | [What’s in your house?](https://open.spotify.com/track/2bSwPOwFskjLWMb09Ppqoo) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:27 |
 | 69 | [Hear me](https://open.spotify.com/track/2kgjb8aqV3202cAN7jUaNR) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:56 |
-| 70 | [달려! Relay](https://open.spotify.com/track/310Qb2mSocNLguFicxzRnD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [달려! Relay](https://open.spotify.com/album/0k31vrIZQgqit8TjlQePM9) | 3:43 |
+| 70 | [Relay](https://open.spotify.com/track/310Qb2mSocNLguFicxzRnD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Relay](https://open.spotify.com/album/0k31vrIZQgqit8TjlQePM9) | 3:43 |
 
 Snapshot ID: `MTY1Njk1MDQyMSwwMDAwMDAwMDZiNjMwNDRlYWMzZDI0YjAyOGMxOTIzYzcyODg1OTRl`

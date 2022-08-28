@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,153 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,160 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 87 | [Recuerdos de Ya](https://open.spotify.com/track/4slvAIKvQN5d8jCuzlFHZW) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [El Ataque Suave](https://open.spotify.com/album/1mB7emrGc7wKG4YtQJgLBI) | 2:11 |
 | 88 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 |
 | 89 | [Otra Temporada](https://open.spotify.com/track/6QLWfSMC5xy7l3RN02IkdF) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Santiago Palacios](https://open.spotify.com/artist/5qMJSUGULtqZMQ1nTXNB2I) | [Otra Temporada](https://open.spotify.com/album/7rhPutrEYnhtontH4puTpJ) | 4:01 |
-| 90 | [Nudos](https://open.spotify.com/track/0nZo1400P5g6WH70Riy4YB) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Nudos](https://open.spotify.com/album/2CHHKGh0bpnSeRzOQDYcrb) | 4:03 |
-| 91 | [Tiembla](https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5) | 3:36 |
-| 92 | [Plantas Negras](https://open.spotify.com/track/4WfgAerrEu6fFl8g1LBX3f) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B) | 3:24 |
-| 93 | [El Podio del TC](https://open.spotify.com/track/5Xl50bMwdD7WY2veOxmAi7) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:02 |
-| 94 | [Cara de Mapa](https://open.spotify.com/track/3ooLJyyIaxgdy9w7seHCBk) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Bronce](https://open.spotify.com/album/4IEK2cahs8y3gr2lKWz2pU) | 2:07 |
-| 95 | [Mas o Menos Bien](https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:13 |
-| 96 | [La Espesura](https://open.spotify.com/track/2XGSDaK7QO6R4qCUgYfGNq) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:26 |
-| 97 | [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 |
-| 98 | [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 |
-| 99 | [GULA](https://open.spotify.com/track/0LPse67daGLaALSH1mWcMx) | [Madiba](https://open.spotify.com/artist/6BkNASSNLsbqrhDlpX2V6X), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [GULA](https://open.spotify.com/album/2uYsAPcXA3NCB2V5xnWaGB) | 4:20 |
-| 100 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 |
+| 90 | [Tiembla](https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5) | 3:36 |
+| 91 | [Plantas Negras](https://open.spotify.com/track/4WfgAerrEu6fFl8g1LBX3f) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B) | 3:24 |
+| 92 | [El Podio del TC](https://open.spotify.com/track/5Xl50bMwdD7WY2veOxmAi7) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:02 |
+| 93 | [Cara de Mapa](https://open.spotify.com/track/3ooLJyyIaxgdy9w7seHCBk) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Bronce](https://open.spotify.com/album/4IEK2cahs8y3gr2lKWz2pU) | 2:07 |
+| 94 | [Mas o Menos Bien](https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:13 |
+| 95 | [La Espesura](https://open.spotify.com/track/2XGSDaK7QO6R4qCUgYfGNq) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:26 |
+| 96 | [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 |
+| 97 | [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 |
+| 98 | [GULA](https://open.spotify.com/track/0LPse67daGLaALSH1mWcMx) | [Madiba](https://open.spotify.com/artist/6BkNASSNLsbqrhDlpX2V6X), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [GULA](https://open.spotify.com/album/2uYsAPcXA3NCB2V5xnWaGB) | 4:20 |
+| 99 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 |
+| 100 | [Hemofilia](https://open.spotify.com/track/7naNjlQMQ6Jdh5Rm4VOztG) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Hemofilia](https://open.spotify.com/album/0fmzl1XzDM1S5onWYZZeS8) | 4:20 |
 
-Snapshot ID: `MTY1NzkxMTM4MCwwMDAwMDAwMDM5ODk4OGM4ZjZlMmRlN2JkOTBmNTJkZWNiYzc0MjJm`
+Snapshot ID: `MTY1NzkxMTM4MCwwMDAwMDAwMGRiMmU5NGU5YjY1ODdkMjYyMjg4MDYzYzVmZTUxZTgx`

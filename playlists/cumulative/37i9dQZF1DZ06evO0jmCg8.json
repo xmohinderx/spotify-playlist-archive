@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 196706,
       "name": "Dark Insanity",
       "url": "https://open.spotify.com/track/3CUjLbCW7Xn1raSw4sRE2F"
@@ -311,6 +311,24 @@
       "duration_ms": 231773,
       "name": "Deceiver, Deceiver",
       "url": "https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql"
+    },
+    {
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231773,
+      "name": "Deceiver, Deceiver",
+      "url": "https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp"
     },
     {
       "album": {
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 284613,
       "name": "Exiled from Earth",
       "url": "https://open.spotify.com/track/3XW4lv9a1APFISmf1cP1bT"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 229493,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/6SKe0n1Oe9P2o6GXp5nyFl"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 286306,
       "name": "Spreading Black Wings",
       "url": "https://open.spotify.com/track/1AjomJSkQXEJCEpgxBRCKB"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 261706,
       "name": "Yesterday Is Dead and Gone",
       "url": "https://open.spotify.com/track/0AOQFMydzS4AkbElri4FGw"

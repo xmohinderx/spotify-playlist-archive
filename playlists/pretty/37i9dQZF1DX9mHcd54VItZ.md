@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz?si=0Q0OnJy5StCjRQ68\-f\_T9A">Sold Ash</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,813 likes - 69 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,825 likes - 69 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

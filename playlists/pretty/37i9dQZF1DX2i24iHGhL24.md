@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sasha Alex Sloan
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,289 likes - 194 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,365 likes - 194 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

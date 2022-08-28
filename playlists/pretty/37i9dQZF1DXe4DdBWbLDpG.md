@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Carpediem y las mejores batallas\. Assista los clips y descubre música original de los participantes, solo aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,593 likes - 75 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,617 likes - 75 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

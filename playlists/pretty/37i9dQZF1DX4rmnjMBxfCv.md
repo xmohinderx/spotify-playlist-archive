@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: Jad Halal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,596 likes - 54 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,621 likes - 54 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 4 | [Ya Dam3i](https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 |
 | 5 | [Challenge](https://open.spotify.com/track/2sGnPdcKoE0y3LbVty41dj) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/07ajJhk49mdl63VL23JAqw) | 1:54 |
 | 6 | [Wesh Gabak](https://open.spotify.com/track/7sRWrhHBNDpUyPsjApWqYF) | [DEEJAY TAMER](https://open.spotify.com/artist/4NhgtxJKalwNrFHNGmOUeh) | [Wesh Gabak](https://open.spotify.com/album/1XqsRHBc8YU3Ix5jsvBXWK) | 4:09 |
-| 7 | [Hiya Hiya](https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H) | 3:37 |
+| 7 | [Hiya hiya New Distribution](https://open.spotify.com/track/3GDe4ABAWZWP6XKYCPmrhc) | [Mustafa Hussam](https://open.spotify.com/artist/1ZVYNea11w8l7t5pqZUYoM) | [Hiya hiya New Distribution](https://open.spotify.com/album/4iJJ8pkyW3CY41C53B6KVq) | 3:37 |
 | 8 | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 |
 | 9 | [Bala Ehsas \- Remix](https://open.spotify.com/track/7tfqN79YOCofQUGKvdK6gj) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df), [Karno Baghdassarian](https://open.spotify.com/artist/0oOTVy8P8M01l6Pyg4Oz5v) | [Bala Ehsas \(Remix\)](https://open.spotify.com/album/7E6xelo6R9ccoBJguBMwPf) | 3:49 |
 | 10 | [Ghareeb Alay \- R3HAB Remix](https://open.spotify.com/track/1U2BAJq4kvET6pN9gZnOvv) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghareeb Alay \(R3HAB Remix\)](https://open.spotify.com/album/78zVdyVqcYzpQNQWBWVjQv) | 2:02 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 53 | [Raina Rai](https://open.spotify.com/track/6uXkNygGn4fIMSitwP47wa) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Raina Rai](https://open.spotify.com/album/2kPkBpH8Mnu89fomCSUPfP) | 3:34 |
 | 54 | [Kun](https://open.spotify.com/track/38p1aFLLRYT8XbNal1PbWT) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 4:45 |
 
-Snapshot ID: `MTY2MTI1ODMxMCwwMDAwMDAwMDhjODQ4MmQ3NDNiYTM4Y2YxYzU4ZjAxNTg4NjU4MTlh`
+Snapshot ID: `MTY2MTI1ODMxMCwwMDAwMDAwMGQxOGJlNDE5YzQ2Zjg2NjFkNjAyMjRlNjQ1Zjc1MzVl`

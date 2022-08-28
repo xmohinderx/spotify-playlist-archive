@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,470 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,930 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 66 | [How It Go](https://open.spotify.com/track/6ib1c99Cryx0n13G88NAqZ) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [How It Go](https://open.spotify.com/album/3AKIaaqQzhPgzMIQHmDQgN) | 3:11 |
 | 67 | [Yes, You Did \(with Real Boston Richey\)](https://open.spotify.com/track/5AxedaN7Udvbrotg3xPXTp) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Yes, You Did \(with Real Boston Richey\)](https://open.spotify.com/album/4UUriZw5SIOFEF2eFdbSBx) | 2:37 |
 | 68 | [Murder Bitch](https://open.spotify.com/track/1SfiDsFHqJnQoiN7cLaRz0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder Bitch](https://open.spotify.com/album/4jenlFugsErE0X5wP5ot79) | 4:53 |
-| 69 | [Regular](https://open.spotify.com/track/0Tzlbq5k7SJo8IyokmLVU6) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Regular \(Explicit\)](https://open.spotify.com/album/0LJF6IU5U6F2pDVG0gYaOJ) | 2:14 |
+| 69 | [Regular](https://open.spotify.com/track/0Tzlbq5k7SJo8IyokmLVU6) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Regular](https://open.spotify.com/album/0LJF6IU5U6F2pDVG0gYaOJ) | 2:14 |
 | 70 | [Whatever \(feat\. Key Glock\)](https://open.spotify.com/track/6AH8UiIUKp6PXxXUXwB1HA) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Rich Off Pints 3](https://open.spotify.com/album/71AUiEqMJuQFGUzFmYYACn) | 3:19 |
 | 71 | [Stand Off \(feat\. DaBaby\)](https://open.spotify.com/track/1ca58x4jLrv0YjmZRPXhrD) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Rae Rae's Son](https://open.spotify.com/album/672JXSwE07jhPbJvfdSb3n) | 1:58 |
 | 72 | [JUGG](https://open.spotify.com/track/6gIRDURg5rYturCXSdDlAH) | [Swavay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [JUGG](https://open.spotify.com/album/2rEZFLjRcgMqezzZmcTzzA) | 2:47 |

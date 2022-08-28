@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,012 likes - 27 songs - 1 hr 28 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,013 likes - 27 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 16 | [FunkDashDance](https://open.spotify.com/track/6tU85Novxj33dhNJzLq6BR) | [Second Harmony](https://open.spotify.com/artist/7mFtj6p4OgHlpqoCvCfrTz) | [FunkDashDance](https://open.spotify.com/album/771GYEwKwI2fbLqjFttiYQ) | 2:37 |
 | 17 | [Ushaniteka](https://open.spotify.com/track/4slVtl5s7auVKL6fHTy5It) | [Rosada](https://open.spotify.com/artist/7sNbBlR22aMHVgKduwFJBT) | [Ushaniteka](https://open.spotify.com/album/1hH31129K3QLnuMwrOBPM4) | 3:30 |
 | 18 | [BLOMMOR](https://open.spotify.com/track/0SRYHnyUrDqOGrF2EY0tZu) | [Himlen Bror](https://open.spotify.com/artist/1H2Bbdo0ZjmdOhQy8iuWfP) | [BLOMMOR](https://open.spotify.com/album/3A0VPg9JRCXtDoZc6bweTS) | 2:24 |
-| 19 | [Maailman laidalle \- Sinus Remix](https://open.spotify.com/track/1YEul46gWhowuJJCx9FAtw) | [Mustat Ruusut](https://open.spotify.com/artist/4YKo4rt96rgkrEqWtWb12m), [SINUS](https://open.spotify.com/artist/0NHPXCS9FXSkHtkQ8yPniT) | [Synergia](https://open.spotify.com/album/5FL0FnyghDRi7iMX1A6r0J) | 4:00 |
+| 19 | [Maailman laidalle \- Sinus Remix](https://open.spotify.com/track/1YEul46gWhowuJJCx9FAtw) | [Mustat Ruusut](https://open.spotify.com/artist/4YKo4rt96rgkrEqWtWb12m), [Sinus](https://open.spotify.com/artist/4zM9TR73xmNSh9IX2pCF0f) | [Synergia](https://open.spotify.com/album/5FL0FnyghDRi7iMX1A6r0J) | 4:00 |
 | 20 | [Imorgon kan vi prata](https://open.spotify.com/track/4yYd6banPJZWEVBa7qKYhi) | [Danne Sannerdahl](https://open.spotify.com/artist/1JmTCXLjw0oC4Axzu0vmib) | [Imorgon kan vi prata](https://open.spotify.com/album/7AXCeGNRpz7H4Sp2Paz03L) | 3:53 |
 | 21 | [river road](https://open.spotify.com/track/2wSJtXY2ij9gUPb5Iw3FyM) | [alex gair](https://open.spotify.com/artist/4pLDPhc9F3t7eUzcMYNFX2) | [apricots](https://open.spotify.com/album/016JVuMSowrdsT0PpDRgSv) | 3:14 |
 | 22 | [PROUD](https://open.spotify.com/track/75xoS7KNJJZU2V5YMmqPc1) | [Rebecka Haak](https://open.spotify.com/artist/6Wpskz8FxT54ZGxqMsEOBJ) | [PROUD](https://open.spotify.com/album/2cdxLIyogoabIijN0SwyCl) | 4:48 |

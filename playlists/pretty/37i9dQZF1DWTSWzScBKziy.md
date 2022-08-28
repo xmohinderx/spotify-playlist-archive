@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,658 likes - 99 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,684 likes - 99 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 2 | [For All My Life](https://open.spotify.com/track/6qKbhIsM00FFhI1OKi74V7) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/5N03zjLUSu0iqsTitN5tt3) | 3:30 |
 | 3 | [Fill My Cup](https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Fill My Cup](https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O) | 3:27 |
 | 4 | [Build a Boat](https://open.spotify.com/track/3Kh9eZaRwd1teXFVOZ9xPv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Build a Boat](https://open.spotify.com/album/2gwY0QMAGKxWeyh1Z4fgVg) | 2:50 |
-| 5 | [Gratitude](https://open.spotify.com/track/7xAnK3cE81erl8ZTxJbYWq) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Gratitude](https://open.spotify.com/album/4j9zwwkAKxwLa32RnJHA4t) | 4:12 |
+| 5 | [Gratitude \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/track/7xAnK3cE81erl8ZTxJbYWq) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Gratitude \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/album/4j9zwwkAKxwLa32RnJHA4t) | 4:12 |
 | 6 | [Thank God For Sunday Morning](https://open.spotify.com/track/3P0ym6s1b2FCLC32C2uahw) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Thank God For Sunday Morning](https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb) | 3:28 |
 | 7 | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/track/61NMxrIZ0OYXHxG9lsl82z) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz) | 9:25 |
 | 8 | [The Healing](https://open.spotify.com/track/2At0XB6Jq68CBQLKvdRP6m) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [The Healing](https://open.spotify.com/album/2rp4zkcLtJfaet6Yhc6YpZ) | 3:49 |

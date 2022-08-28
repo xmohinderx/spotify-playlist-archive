@@ -4,7 +4,7 @@
 
 > Songs by Asian Americans calling for self\-empowerment, self\-determination, solidarity, and fighting erasure\. Built in partnership with <a href="https://hateisavirus.org/">Hate Is A Virus</a> & <a href="https://www.traktivist.com/">TRAKTIVIST</a>.
 
-52 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/2FvEkfftaPKO88puFMO8ny)
+53 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/2FvEkfftaPKO88puFMO8ny)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Division in the Heartland](https://open.spotify.com/track/2fQwuuwIjqXnmXJMzCrFEE) | [Bruce Lee Band](https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY) | [Division in the Heartland](https://open.spotify.com/album/6eDkHhRW0LobG3wUy3QFw5) | 2:01 | 2021-06-11 |  |
 | [Don't Sit Next To Me Just Because I'm Asian](https://open.spotify.com/track/4bCUYz5tMsUsyg8ER8xJyd) | [Bruce Lee Band](https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY) | [Bruce Lee Band](https://open.spotify.com/album/7IDAjCZvC6FGehfMb6Dm0N) | 17:59 | 2021-06-11 |  |
 | [Fighter \(feat\. Yoonmirae & Autolaser\)](https://open.spotify.com/track/4Faf5dhv1fAETedwbkeKnL) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Autolaser](https://open.spotify.com/artist/45sqz0r32KGuaur2QMd9iS), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Identity](https://open.spotify.com/album/5yCLcHxaYIV6xC1kTJO1W2) | 4:14 | 2021-06-11 |  |
-| [For the Prey](https://open.spotify.com/track/0GP4rw4OdBHMhB3BLWIDZq) | [Bambu](https://open.spotify.com/artist/0iPS5GpwbHSmgNXfGE674K) | [Prey for the Devil](https://open.spotify.com/album/1avhXO0PJ2QJ2SmcrYxSPv) | 5:16 | 2021-06-11 |  |
+| [For the Prey](https://open.spotify.com/track/0GP4rw4OdBHMhB3BLWIDZq) | [Bambu](https://open.spotify.com/artist/0iPS5GpwbHSmgNXfGE674K) | [Prey for the Devil](https://open.spotify.com/album/1avhXO0PJ2QJ2SmcrYxSPv) | 5:16 | 2021-06-11 | 2022-08-28 |
+| [For The Prey](https://open.spotify.com/track/7AAAwDJVSV0DfKgvdbXIbk) | [Bambu](https://open.spotify.com/artist/0iPS5GpwbHSmgNXfGE674K) | [Prey For The Devil](https://open.spotify.com/album/1muqY2S5vEafF0ieylPxzv) | 5:16 | 2021-06-11 |  |
 | [Go Back 2 China](https://open.spotify.com/track/1CGRxBplxZZUZBMZgOJ9Eb) | [Chow Mane](https://open.spotify.com/artist/0aTB9Tpg1cEl7feT369vWm), [Jason Chu](https://open.spotify.com/artist/4iYrlt4ga3CGYF7Z2mUDxV) | [Go Back 2 China](https://open.spotify.com/album/1FSzgribJhBESbxYEXgXnR) | 2:53 | 2021-06-11 |  |
 | [Good People \(Doing Bad Things\)](https://open.spotify.com/track/2ho1K1AyJGd75aI6gnXyIB) | [Prometheus Brown](https://open.spotify.com/artist/4M56KND9kU2FZaRqf00Nha) | [Tagsibol](https://open.spotify.com/album/1KkKkMajAfai0w9dvosW7B) | 3:39 | 2021-06-11 |  |
 | [Grace Lee](https://open.spotify.com/track/7em3bV28UtlFrCIrtMZk1N) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Grace Lee](https://open.spotify.com/album/7vl5GDFnXRxlviqI5APoBe) | 2:54 | 2021-06-11 |  |

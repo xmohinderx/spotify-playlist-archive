@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Almas
 
-296 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+297 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,8 @@
 | [زدني](https://open.spotify.com/track/3E1tVxMoF3w8oHGdG6i3J5) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [زدني](https://open.spotify.com/album/0AaafNn1A6tpN9D7Zw8euK) | 5:21 | 2022-08-19 |  |
 | [زعلانة من نفسي](https://open.spotify.com/track/6rPJBLRp8R0b3aQyb73wsr) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [زعلانة من نفسي](https://open.spotify.com/album/0uQIyzQ7u48jrBVQwFclUE) | 4:14 | 2021-12-23 | 2022-03-02 |
 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 | 2021-12-23 | 2022-03-02 |
-| [سم فالكاندي](https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX) | 2:27 | 2022-08-04 |  |
+| [سم فالكاندي](https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX) | 2:27 | 2022-08-04 | 2022-08-28 |
+| [سم فالكاندي](https://open.spotify.com/track/7qk1ioFJUp5wNzPtSvi2E3) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7j5yTR9UnX8gVfOJ8OdqCo) | 2:27 | 2022-08-25 |  |
 | [سولفت لأمي](https://open.spotify.com/track/6BfRyMh46F5cA3gkgyfh5u) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سولفت لأمي](https://open.spotify.com/album/4i19VcPBc8ufEIsIyFwY5j) | 2:29 | 2021-12-30 | 2022-03-01 |
 | [شيجيلا](https://open.spotify.com/track/4W166RiFWcUJXZgAVC2NRZ) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [شيجيلا](https://open.spotify.com/album/4GGynpOymFrlcEu07M1PjA) | 3:32 | 2021-12-23 | 2022-03-01 |
 | [صرتلكم شمس](https://open.spotify.com/track/3LStpDeZgBqK2O8sU7NP77) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [صرتلكم شمس](https://open.spotify.com/album/7tUqc0LPVpGb1VIBVvs3mE) | 4:31 | 2021-12-23 | 2022-03-02 |

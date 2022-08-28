@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-877 songs - 1 day 21 hr 4 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+878 songs - 1 day 21 hr 7 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Che senso ha](https://open.spotify.com/track/71mvjQrJ1erzNnVaSvXlaY) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [Multisala](https://open.spotify.com/album/2vJDycXrYXtGIpwV6DeCx0) | 3:53 | 2021-04-26 | 2021-04-29 |
 | [Che senso ha](https://open.spotify.com/track/7CXdIdQAQU4aDk4l7NwznL) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [Che senso ha](https://open.spotify.com/album/0GfBe24m57mlTc59JEjBey) | 3:53 | 2021-04-09 | 2021-04-11 |
 | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/track/3SpGoTOYQBkeXJWerkMOBE) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 3:07 | 2022-07-02 | 2022-07-06 |
+| [CHE UOMO \(feat\. bbno$ & Nello Taver\)](https://open.spotify.com/track/4hLdjsSdCWlXKNgKg3KyWa) | [Tuzzo](https://open.spotify.com/artist/528N5RTsLKjSxsHOB9AyWr), [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [CHE UOMO \(feat\. bbno$ & Nello Taver\)](https://open.spotify.com/album/6lc13FhHLuHIq7WNIRBcgz) | 2:46 | 2022-08-27 |  |
 | [Chiagne Ancora \(feat\. LIBERATO, J Lord\)](https://open.spotify.com/track/2M79CjIkz1FscycSFeIfxz) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Chiagne Ancora \(feat\. LIBERATO, J Lord\)](https://open.spotify.com/album/4ROwpGoDlwDcNdEyvE6s5q) | 3:38 | 2021-06-24 | 2021-06-25 |
 | [CHIAMAMI PER NOME](https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [CHIAMAMI PER NOME](https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O) | 3:42 | 2021-03-27\* | 2021-06-06 |
 | [Chillin'](https://open.spotify.com/track/4G5a7UOV5LhBWvTlQn6Mta) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:45 | 2021-11-14 | 2021-11-21 |
@@ -683,7 +684,7 @@
 | [Regina del Block](https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Regina del Block](https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD) | 3:18 | 2022-08-05 | 2022-08-07 |
 | [Regina del Block](https://open.spotify.com/track/5PsnJqZWXfBqcXYCVTIZhZ) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 3:18 | 2022-08-06 | 2022-08-10 |
 | [REPLAY](https://open.spotify.com/track/66b96Q6ljSGILgrtgqvPMH) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:11 | 2022-04-09 | 2022-04-18 |
-| [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-05-25 |  |
+| [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-05-25 | 2022-08-28 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-10 | 2021-12-27 |
 | [Rollin' Pt\. 2](https://open.spotify.com/track/1Q3G8aiT6zz1SzTT1JlyF6) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 2:43 | 2022-05-14 | 2022-05-19 |
 | [Romolo e Remo \(feat\. Pyrex\)](https://open.spotify.com/track/2DlnDlKeBUYOX8AfByrGtp) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 2:53 | 2021-06-06 | 2021-06-11 |

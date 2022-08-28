@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 312,667 likes - 143 songs - 8 hr 10 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 312,642 likes - 143 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 104 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 105 | [Quiero Decirte](https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Quiero Decirte](https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar) | 3:42 |
 | 106 | [ice water](https://open.spotify.com/track/3AYirxvYvayyrk0u4c2ytC) | [shallow pools](https://open.spotify.com/artist/5wg5i56CcvaCrZrveXt228) | [ice water](https://open.spotify.com/album/6Sd3EKHuEjV606YvZUF6pW) | 2:52 |
-| 107 | [Pressure \( with Alpha P, Lady Donli\)](https://open.spotify.com/track/11iSuemcTw1gnhyr7e2KXx) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Nativeworld](https://open.spotify.com/album/1ZJjKmDNfYzur7u3IfMcIH) | 3:37 |
+| 107 | [Pressure \( with Alpha P, Lady Donli\)](https://open.spotify.com/track/11iSuemcTw1gnhyr7e2KXx) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [NATIVEWORLD](https://open.spotify.com/album/1ZJjKmDNfYzur7u3IfMcIH) | 3:37 |
 | 108 | [Excuses](https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Excuses](https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt) | 2:25 |
 | 109 | [Downtown Baby](https://open.spotify.com/track/3NIMPlnySYOfVF5Vxr4Ae1) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Downtown Baby](https://open.spotify.com/album/2dbQaQFGQjxmQxicnp0701) | 2:47 |
 | 110 | [happy stuff](https://open.spotify.com/track/1C7eURT2UroBgmOEAX2eiR) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [happy stuff](https://open.spotify.com/album/7myEihXeFfL1dv63LDaJoF) | 2:42 |

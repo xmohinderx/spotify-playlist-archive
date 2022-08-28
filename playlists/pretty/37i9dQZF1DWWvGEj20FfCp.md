@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > where music and fashion meet, soundtrack for the look by stylist and designer, Misa Hylton
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,330 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,376 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [P.S.K\. 'What Does It Mean'?](https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW) | [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL) | [Schoolly D](https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU) | 6:28 |
 | 2 | [Make the Music with Your Mouth, Biz \(Best Of\)](https://open.spotify.com/track/1Sboz1oluTkhOLAYgc0ccM) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 5:04 |
-| 3 | [Public Enemy No.1](https://open.spotify.com/track/0KCzDMHq8UfMuhAGhroA3T) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Yo! Bum Rush The Show](https://open.spotify.com/album/0YI9ihAQIC63jyDuP5d6DN) | 4:40 |
+| 3 | [Public Enemy No\. 1](https://open.spotify.com/track/0KCzDMHq8UfMuhAGhroA3T) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Yo! Bum Rush The Show](https://open.spotify.com/album/0YI9ihAQIC63jyDuP5d6DN) | 4:40 |
 | 4 | [Do the James](https://open.spotify.com/track/7pJZMSCQ6QXcieK6G1akTg) | [Super Lover Cee](https://open.spotify.com/artist/3R7SOiZVE3VA35iLEk3QH5), [Casanova Rud](https://open.spotify.com/artist/6PxTHDQBX8QWHwBd18s445) | [DNA International 30th Anniversary Greatest Hits, Vol\. 1](https://open.spotify.com/album/74MzKh2vJoSxOuPuKHiCY2) | 3:45 |
 | 5 | [My Melody](https://open.spotify.com/track/7FWaqDbIq3OGZsC04CfuV9) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Marley Marl](https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 6:47 |
 | 6 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |

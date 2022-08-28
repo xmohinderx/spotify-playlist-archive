@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-179 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+180 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Gone \(Away\)](https://open.spotify.com/track/6UCdCOFnahKI4yjILCPn3H) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Gone \(Away\)](https://open.spotify.com/album/4vnVye9NBADjq2dYAinjMR) | 2:46 | 2022-08-26 |  |
 | [Greyhound](https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Greyhound](https://open.spotify.com/album/65CRcFpY94KnI8NGo6Ezq5) | 4:15 | 2022-08-26 |  |
 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 | 2022-08-12 |  |
+| [Healing](https://open.spotify.com/track/2RY74l2VPrBvVfMdO5nkrK) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Healing](https://open.spotify.com/album/19UhMQaBeeR2t3tdcnsInE) | 5:29 | 2022-08-26 |  |
 | [Heavy Heart](https://open.spotify.com/track/0OmapDIHy05UtpIf4eG60E) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [That Was You and Me](https://open.spotify.com/album/02erdeh5796mUBRQLIi6qH) | 3:10 | 2022-06-03 |  |
 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-05-13 | 2022-06-04 |
 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 | 2022-05-13 | 2022-06-18 |

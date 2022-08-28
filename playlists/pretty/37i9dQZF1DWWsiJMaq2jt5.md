@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Ofelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,986 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,985 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 29 | [Wakacyjny hit z gorzką historią w tle](https://open.spotify.com/track/4MNRgTFG22xKZspZF2QdlD) | [Żaneta Chełminiak](https://open.spotify.com/artist/4Lpo3zMUTdH69eWhxN3sfr), [St\. Elmo](https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy) | [Wakacyjny hit z gorzką historią w tle](https://open.spotify.com/album/777K2DV3yUeAQLnCv0qFMV) | 3:17 |
 | 30 | [Dres Dama](https://open.spotify.com/track/77e0Gq8yAxDPIQjWBGjMFP) | [Light On](https://open.spotify.com/artist/28YMxwKjLqEBL5VJhEDX3y) | [Dres Dama](https://open.spotify.com/album/5FS0wSzVqIdrkCLTslobRn) | 4:11 |
 | 31 | [Freski](https://open.spotify.com/track/1aJrmSUZAsse6xn9DijVWF) | [Nicole Kulesza](https://open.spotify.com/artist/6w2akRTl2UT8xdWikMr4Yy) | [Freski](https://open.spotify.com/album/4X8CAiGX5MYXqPCsDW72ll) | 3:18 |
-| 32 | [ups…](https://open.spotify.com/track/4UA8bJXYo4PMfVw14nH4zH) | [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS), [Agata Gołemberska](https://open.spotify.com/artist/0THfPyD0S6A8fSNqg8ccwk) | [ups…](https://open.spotify.com/album/5d6o2jmOyvTZ03n817h8sK) | 2:59 |
+| 32 | [ups…](https://open.spotify.com/track/4UA8bJXYo4PMfVw14nH4zH) | [anto9](https://open.spotify.com/artist/75vYKTvGKsrlVPZ9I2PXDZ), [Agata Gołemberska](https://open.spotify.com/artist/0THfPyD0S6A8fSNqg8ccwk) | [ups…](https://open.spotify.com/album/5d6o2jmOyvTZ03n817h8sK) | 2:59 |
 | 33 | [Obcy](https://open.spotify.com/track/78N1YpE7AZMPRZU35mc5uL) | [Sabina Szewczyk](https://open.spotify.com/artist/1Ofkj69uBttIicwL9skzh6) | [Obcy](https://open.spotify.com/album/52rcNRz8dTAkdU571uk1yR) | 3:35 |
 | 34 | [Doki Doki](https://open.spotify.com/track/7dmQcRzPulLmN7LR4tTk1g) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Doki Doki](https://open.spotify.com/album/2xDSiPViBCH4lQFZAQmVse) | 2:48 |
 | 35 | [Deja vu](https://open.spotify.com/track/6a4qoGKehBmSlA3Ean7RpD) | [AVEIRA](https://open.spotify.com/artist/43svwgNCwnxmv3rVRadlhh) | [Deja vu](https://open.spotify.com/album/3f4aDqF7PDNzwv46vb90C1) | 2:50 |
 | 36 | [Jajć](https://open.spotify.com/track/05hIMuoXnuOLcrQXyqbXAb) | [Maggy Moroz](https://open.spotify.com/artist/62z3GsLXzkKd6BEp0W9Go7), [Marceli Bober](https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH), [StreetSound](https://open.spotify.com/artist/1cK7RQWqqRpCYq9MWw4yEF) | [Jajć](https://open.spotify.com/album/1WO3MJKDv1rItfcIbK2cSr) | 3:30 |
-| 37 | [na haju w maj \- Akustycznie](https://open.spotify.com/track/030R5ii7nbPXVW2aiT1Wwu) | [Zagi](https://open.spotify.com/artist/2fLOBc2u4ihUBpfqumia4k), [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS) | [Na haju w maj](https://open.spotify.com/album/67OpdPMzvwSNVQNx6vHpV8) | 2:59 |
+| 37 | [na haju w maj \- Akustycznie](https://open.spotify.com/track/030R5ii7nbPXVW2aiT1Wwu) | [Zagi](https://open.spotify.com/artist/2fLOBc2u4ihUBpfqumia4k), [Anto9](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS) | [Na haju w maj](https://open.spotify.com/album/67OpdPMzvwSNVQNx6vHpV8) | 2:59 |
 | 38 | [szach\-mat](https://open.spotify.com/track/6BYP7oHa1mMgZ2brUcAZNE) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [szach\-mat](https://open.spotify.com/album/6l7Z9Mq59T3fx1mzdKrMND) | 4:23 |
 | 39 | [fine](https://open.spotify.com/track/60nf6R2O7poaPBCGcygsdy) | [cudoska](https://open.spotify.com/artist/0QNMhKZVc7yO9HjBkiE2oK) | [fine](https://open.spotify.com/album/4UzWXKtD0qfTjsS4XEY3OI) | 3:36 |
 | 40 | [Warszawskie kluby](https://open.spotify.com/track/3OhLqItVfLXCGyARoNpXvO) | [NICOL](https://open.spotify.com/artist/21T4JIxAwN0MhowdkrNa63) | [Warszawskie kluby](https://open.spotify.com/album/5SYtQ3VGpdroXZSwzi4hmM) | 2:47 |

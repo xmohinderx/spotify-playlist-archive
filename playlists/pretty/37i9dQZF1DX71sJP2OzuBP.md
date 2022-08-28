@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,010 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,023 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 70 | [予你](https://open.spotify.com/track/5ndsbKj1gN5j7mHD0J3hce) | [FS \(Fuying & Sam\)](https://open.spotify.com/artist/0vWI4yyM1HXGoK0tkHqbGi) | [予你](https://open.spotify.com/album/6wHs2SSHbRI864Frz9kfGo) | 3:56 |
 | 71 | [透明的你](https://open.spotify.com/track/4kKRDGpb1nNaPthYtRwYpW) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG), [Skippy](https://open.spotify.com/artist/1NOMIwjaZbLDHoruEWEQgl) | [透明的你](https://open.spotify.com/album/64bj7yraKPcvhOvW9yx09y) | 3:58 |
 | 72 | [平分慚愧](https://open.spotify.com/track/7A8oik3md31IzkgyDur4md) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [平分慚愧](https://open.spotify.com/album/1UfbxRaKju8W3BoATMcdyj) | 4:43 |
-| 73 | [What If Flowers…](https://open.spotify.com/track/33ggIHdSlZWUHZeDdoD5le) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [What If Flowers…](https://open.spotify.com/album/7xBMedtlcXg6MfFp9kUxhn) | 4:41 |
+| 73 | [What If Flowers...](https://open.spotify.com/track/1CnTHvSu0B7Q6T1eY5Veds) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [Dear Life](https://open.spotify.com/album/10F9BrkqUHguqspwwn7Frd) | 4:40 |
 | 74 | [你值得更好的](https://open.spotify.com/track/17S42LOKGflKulOljZ0ZYt) | [Jason Zhang](https://open.spotify.com/artist/75udD9hen8NeHTe92rUNLa) | [值得更好的](https://open.spotify.com/album/0CyWshsqrFjsxFtV8CqfLN) | 4:23 |
 | 75 | [WHY](https://open.spotify.com/track/53CCHKZXZGA1uUQFYfyDTw) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [WHY](https://open.spotify.com/album/2UblRGtrfpXGuqqndsBm4U) | 3:13 |
 | 76 | [《聊聊》\(喜马拉雅十周年特别企划主题曲\)](https://open.spotify.com/track/6hVklMOQVvNnPFBWb9CeC7) | [Mao Buyi](https://open.spotify.com/artist/6gvSKE72vF6N20LfBqrDmm) | [《聊聊》\(喜马拉雅十周年特别企划主题曲\)](https://open.spotify.com/album/05QDS5reeFEcGNxrMHL3X6) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [我的愛在我身邊](https://open.spotify.com/track/1aXD234i0urThmdBDmo4w1) | [方宥心](https://open.spotify.com/artist/50P8rIDVl6tfTLPEyxNoT7) | [大愛劇場《冬菊,沒問題!》主題曲](https://open.spotify.com/album/482E2gUEu2sewnTgRG1MkP) | 3:28 |
 | 100 | [沒有人寫歌給你過吧](https://open.spotify.com/track/7paJcaF3Vf6lGjhgDIeKUN) | [Ann Bai](https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s) | [沒有人寫歌給你過吧](https://open.spotify.com/album/4NvhYMKjYGD289X2lJOlSB) | 4:56 |
 
-Snapshot ID: `MTY2MTE0NzUwNSwwMDAwMDAwMDU5YThlOWJjZjk3YzFkYmUwMjlkZDY4MmIxNWRiYTk5`
+Snapshot ID: `MTY2MTE0NzUwNSwwMDAwMDAwMGU5MWQ0YzE0ZWU3M2I1NzY0YzUzYmNhZDJkNmIwMDc0`

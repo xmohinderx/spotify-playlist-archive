@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Cover: Alvvays
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,872 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,967 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 81 | [Distraction](https://open.spotify.com/track/7eRNT48fKCtZkq8ASyJGVS) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | ["Hello, Hi"](https://open.spotify.com/album/6GQh3hPNHA7ZOixEdKQKD9) | 5:10 |
 | 82 | [Feeling Like I Do \- Spotify Singles](https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Spotify Singles](https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN) | 3:56 |
 | 83 | [Violent](https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Violent](https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd) | 2:41 |
-| 84 | [Desert Snow](https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Desert Snow](https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT) | 3:35 |
+| 84 | [Desert Snow](https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Desert Snow / Hourglass](https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT) | 3:35 |
 | 85 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 |
 | 86 | [Addicted](https://open.spotify.com/track/2dlnnHHv1ntw2M4uM1ShK1) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Addicted](https://open.spotify.com/album/6mPTYS6E9dHHiIskWTfLgi) | 4:22 |
 | 87 | [Empty in My Mind](https://open.spotify.com/track/0hRPN2UcILtYirFkhQ6Y10) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:52 |

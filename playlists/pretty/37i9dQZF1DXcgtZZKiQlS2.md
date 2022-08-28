@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgtZZKiQlS2.md) - [plain]
 
 > The best of Detroit Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,649 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,655 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgtZZKiQlS2.md) - [plain]
 | 19 | [I Feel So Fine](https://open.spotify.com/track/0l3kg3lqdQP8tHroQz6oIW) | [Washboard Willie](https://open.spotify.com/artist/1miTDjcdGnj3OWFxvajNNa) | [American Blues Legends '73](https://open.spotify.com/album/6Lwxof9pIWT2ZLEI4UlzIR) | 2:22 |
 | 20 | [Cobb's Blues](https://open.spotify.com/track/0Ld7H6BM85TM6uZgarKZLG) | [Detroit Gary Wiggins](https://open.spotify.com/artist/4yeSZwbRtllHD7AtTmH6bg) | [Saxin' the Blues](https://open.spotify.com/album/0OBCCZoN77d7dMKbTF3Do2) | 5:08 |
 | 21 | [Three Cent Stamp Blues](https://open.spotify.com/track/7BKS5HgeXhT4NvNJ4VTIU2) | [Sylvester Cotton](https://open.spotify.com/artist/3SXLoYFqaRWdNnIPdY6g8v) | [Blues Sensation: Detroit Down Home Recordings 1948\-49](https://open.spotify.com/album/5uClUPQy00WNgSzh2MZbDQ) | 2:39 |
-| 22 | [Bacon Fat](https://open.spotify.com/track/0WGgptxgDjLKWbOELHKtjx) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [The Okeh Rhythm & Blues Story 1949\-1957](https://open.spotify.com/album/6U4RdMRAljDPCe7T6jMPuU) | 3:02 |
+| 22 | [Bacon Fat](https://open.spotify.com/track/1mjWWueEwPbTd0NOorW0Wf) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Fortune of Hits \(1955\-1960\)](https://open.spotify.com/album/4450CcX2Nl7CIcvYJfaJdG) | 3:03 |
 | 23 | [Papa's Boogie](https://open.spotify.com/track/7yg1FhiiqMWcumtyYRaPxA) | [Eddie Burns](https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO) | [Detroit City Blues, Vol\. 4](https://open.spotify.com/album/1cTsmvrW63RwPSzTxUyTGO) | 2:43 |
 | 24 | [Love Money Can't Buy](https://open.spotify.com/track/0ePxqRzmI90yaxH9af9sA2) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Gotta Boogie \- The Modern Recordings 1948\-55](https://open.spotify.com/album/0cVyOf0zKFIDMW5NziJ8Gf) | 2:40 |
 | 25 | [I Ain't Got Nobody To Tell My Troubles To](https://open.spotify.com/track/6wYUw9yuOZcbHx9oYuxxCO) | [The Butler Twins](https://open.spotify.com/artist/0MvgiHoMSPkfCcrXX6sKOp) | [Uncut Detroit II](https://open.spotify.com/album/1Y84fA1MxD5kRkd55S17Ni) | 7:11 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgtZZKiQlS2.md) - [plain]
 | 39 | [It's Hard Going Up \(But Twice As Hard Coming Down\)](https://open.spotify.com/track/6DnKM8x0Ai0AyV7M2MOtwN) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [Hard Goin' Up](https://open.spotify.com/album/6aLaVUMRalvPJ6bk1jj9Jo) | 3:54 |
 | 40 | [Orange Driver](https://open.spotify.com/track/0tFcLqJMik9ZhWne94mSYg) | [Eddie Burns](https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO), [Eddie Burns Blues Band](https://open.spotify.com/artist/0BZejzzjFxsvyPDyj3ItWF), [Eddie Burns, guitar, harmonica, vocal](https://open.spotify.com/artist/3pqSveCVLoTn3E03BYRW8i), [Joe Hunter, piano](https://open.spotify.com/artist/3ujZt3R1bUyY23qlV8UO2a), [Frank Bryant, bass](https://open.spotify.com/artist/5rEhGoeGEepz5Rn3NXzUB3), [Bobby Welch, drums](https://open.spotify.com/artist/5ipBht0WuuX2JRZRlNrTLp) | [Detroit](https://open.spotify.com/album/3Hh5V9WtEeHXIXeAoo2deI) | 4:26 |
 
-Snapshot ID: `MTYwMjYyMDAxOCwwMDAwMDAwMGJkNzYxY2JlNmY5Mjc1YzEwZWRkNDIyMTY1OTM5MmQ3`
+Snapshot ID: `MTYwMjYyMDAxOCwwMDAwMDAwMDM3YjJkM2JlYTc1YWYxMjBmNzA5ZGI2NjkwMTVkYjI2`

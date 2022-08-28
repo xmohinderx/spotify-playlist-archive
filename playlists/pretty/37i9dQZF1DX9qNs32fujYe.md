@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,132 likes - 200 songs - 14 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,841 likes - 200 songs - 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,10 +203,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 193 | [Northwards](https://open.spotify.com/track/5NS3gor1NtqKcp55Y6M2oD) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Halo](https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A) | 5:30 |
 | 194 | [The Writing On The Wall](https://open.spotify.com/track/6lIhdsIjY6iFPq6qZW2LIP) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 6:13 |
 | 195 | [New Millennium Cyanide Christ](https://open.spotify.com/track/0vpLgxoX2cpJM0Fvxwbw84) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Chaosphere \(Reloaded\)](https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw) | 5:35 |
-| 196 | [MY HANDS ARE EMPTY](https://open.spotify.com/track/6uFfNpLvsIesv0dNzsQPvT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [MY HANDS ARE EMPTY](https://open.spotify.com/album/66fbY55YzWvXGKIDEqxFAh) | 5:31 |
-| 197 | [Bring It On](https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:08 |
-| 198 | [Stockholm Syndrome](https://open.spotify.com/track/1dV3QltW7QIUXbH1u9JXhP) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Stockholm Syndrome](https://open.spotify.com/album/05FgwpLFT7x5i0RFdjxb5x) | 5:21 |
-| 199 | [Flying Whales](https://open.spotify.com/track/6SJ2LK3yMdGzC4AEcXJZo4) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/48oP5ver3MEQ68DvJ22CvY) | 7:44 |
-| 200 | [Mean, Green, Killing Machine](https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Grinding Wheel](https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz) | 7:29 |
+| 196 | [Bring It On](https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:08 |
+| 197 | [Stockholm Syndrome](https://open.spotify.com/track/1dV3QltW7QIUXbH1u9JXhP) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Stockholm Syndrome](https://open.spotify.com/album/05FgwpLFT7x5i0RFdjxb5x) | 5:21 |
+| 198 | [Flying Whales](https://open.spotify.com/track/6SJ2LK3yMdGzC4AEcXJZo4) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/48oP5ver3MEQ68DvJ22CvY) | 7:44 |
+| 199 | [Mean, Green, Killing Machine](https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Grinding Wheel](https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz) | 7:29 |
+| 200 | [Crimson Skies](https://open.spotify.com/track/0kAeOySijs6f5J97cEP5uq) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Crimson Skies](https://open.spotify.com/album/0SsMZzgebkTGO5mduRB7ji) | 4:09 |
 
-Snapshot ID: `MTY2MTUyMDI2MywwMDAwMDAwMDAxZTZkNTVkODg1Mzk2OTQ1NDIyOTdmM2E4YWFmZjFj`
+Snapshot ID: `MTY2MTUyMDI2MywwMDAwMDAwMDhlOTBlMjE1NGQxYTJlYjUxZGI2MDc4MDMyYWI2ZmVk`

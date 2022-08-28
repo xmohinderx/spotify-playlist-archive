@@ -4,7 +4,7 @@
 
 > Updated at least once a month..\. cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-88 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/3yFsbqWfSsFk9WHf1Xsvee)
+89 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/3yFsbqWfSsFk9WHf1Xsvee)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Switch](https://open.spotify.com/track/1EofGkwC0xRIDkCZjumEtM) | [JVST SAY YES](https://open.spotify.com/artist/7hwJ1s846DVAe2m0OIGupg), [Ephwurd](https://open.spotify.com/artist/548YUkLaLzti0BLqaWpn1W) | [JVST FRIENDS, Vol\. 1](https://open.spotify.com/album/4We2CzuNUPOPLoSLF1jEt5) | 3:00 | 2022-08-26 |  |
 | [The One](https://open.spotify.com/track/6U6nzpSvKxju6WA0Kojcxn) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [The One](https://open.spotify.com/album/7jTjkekiP10wcRMtmcDLm8) | 3:50 | 2022-07-29 | 2022-08-13 |
 | [The Pressure](https://open.spotify.com/track/236kN3RKjCEP9bzXpZgbRc) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [The Mandala](https://open.spotify.com/album/7eHBRdPMWBgp7lWQxTpj0q) | 3:29 | 2022-07-19 | 2022-07-30 |
+| [This Time](https://open.spotify.com/track/159xvbYorYT12WDpHe8bD3) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [This Time](https://open.spotify.com/album/4gITX0miY7CHCP4PukYZN2) | 2:50 | 2022-08-27 |  |
 | [Touch Me](https://open.spotify.com/track/6Sfe4iONRsJGuSadY1YPwl) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Touch Me](https://open.spotify.com/album/6eIObfIL8lRsUlclfpeJgD) | 3:13 | 2022-08-26 |  |
 | [Trouble](https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 2:49 | 2022-07-01 | 2022-07-20 |
 | [Untouchable](https://open.spotify.com/track/75LIPlQgaOj25RcphLiPtg) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Untouchable](https://open.spotify.com/album/3K43kgKEPolMuGPpdRnak9) | 4:45 | 2022-07-01 | 2022-07-20 |

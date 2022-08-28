@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Tiësto
 
-186 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
+187 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 | 2022-01-26 | 2022-03-03 |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-08-04 |  |
 | [Miss You](https://open.spotify.com/track/2JgciX6HkDVwRAU8e8VmR6) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/2Y3dHOjEIxYumXA17T7QDH) | 3:26 | 2022-07-27 | 2022-08-05 |
-| [Mood](https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA) | 2:31 | 2022-08-24 |  |
+| [Mood](https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA) | 2:31 | 2022-08-24 | 2022-08-28 |
+| [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 | 2022-08-24 |  |
 | [Move Your Body](https://open.spotify.com/track/5uSHDVIZf0ejiFzroIheiu) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body \(Extended Mix\)](https://open.spotify.com/album/3sBhqTQUVLgkNeBIZcLUST) | 2:37 | 2022-03-30 | 2022-05-19 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-01-26 | 2022-06-30 |
 | [Music Sounds Better with You](https://open.spotify.com/track/1djIwYoEhJj8xvcFeq2mWz) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y) | [Music Sounds Better with You](https://open.spotify.com/album/035YWVXzYCTD4ImhwCynSk) | 2:10 | 2022-04-13 | 2022-05-26 |

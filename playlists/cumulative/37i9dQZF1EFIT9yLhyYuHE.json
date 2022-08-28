@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "All Your Kisses (Acoustic)",
+        "url": "https://open.spotify.com/album/4NI8xIoY0qojBv2fMU46f1"
+      },
+      "artists": [
+        {
+          "name": "Cara Mel\u00edn",
+          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148833,
+      "name": "All Your Kisses - Acoustic",
+      "url": "https://open.spotify.com/track/1u5jjtVuVOimNEyfmIUzhA"
+    },
+    {
+      "album": {
         "name": "Amplify",
         "url": "https://open.spotify.com/album/1inKeG9SJ3NX8KZE1dpQVT"
       },

@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 177230,
       "name": "4 More",
       "url": "https://open.spotify.com/track/68SS9WH6kOOFZBWVONjlaS"
@@ -6613,7 +6613,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 240000,
       "name": "C\u00f4te d\u2019Azur",
       "url": "https://open.spotify.com/track/4V6aMBBXyg4BgCeX8S7kKS"
@@ -6913,7 +6913,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 186017,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/1HZAkD9kvJZcNgEyg5rYFC"
@@ -7199,7 +7199,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 147918,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/2RhTb78OPVZ7OrINB6nBBM"
@@ -9403,7 +9403,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 164671,
       "name": "Fighter Jet",
       "url": "https://open.spotify.com/track/3h0dPeWa84PAUXtxJsHuS8"
@@ -20421,7 +20421,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 208000,
       "name": "Omolola (Anita)",
       "url": "https://open.spotify.com/track/1GCWAvSUMkjhKHmds6a4oz"
@@ -22089,7 +22089,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 187880,
       "name": "Rain or Shine",
       "url": "https://open.spotify.com/track/5jlD6iV3CaO21rlenspVZu"
@@ -23799,7 +23799,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 343064,
       "name": "Sever, Pt. I",
       "url": "https://open.spotify.com/track/05geDVgQVEzh5v6NqG5Vz1"
@@ -24629,6 +24629,24 @@
       "duration_ms": 176413,
       "name": "Someday All This Pain Will Be Useful",
       "url": "https://open.spotify.com/track/7zcMMzn78hRiW71G4Zx2oD"
+    },
+    {
+      "album": {
+        "name": "Someday, Maybe",
+        "url": "https://open.spotify.com/album/4VJPUOeXMUZvCtNwJENJO4"
+      },
+      "artists": [
+        {
+          "name": "Sofi Gev",
+          "url": "https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193692,
+      "name": "Someday, Maybe",
+      "url": "https://open.spotify.com/track/4WzfB5HNHiaGat2pvzzyte"
     },
     {
       "album": {
@@ -26209,7 +26227,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 193200,
       "name": "Take From Me",
       "url": "https://open.spotify.com/track/0AOVNj7BINTEuDscgRWNIf"
@@ -28721,7 +28739,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 197877,
       "name": "US",
       "url": "https://open.spotify.com/track/74zFXe3DiGIokkW4jKX626"
@@ -31139,7 +31157,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 185801,
       "name": "You're Not Sorry",
       "url": "https://open.spotify.com/track/3qmwT1uepU0RWqRYHpLOOb"

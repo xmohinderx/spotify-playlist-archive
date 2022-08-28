@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Travis Greene and Forward City
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,882 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,069 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 38 | [House of the Lord \(No Limits\)](https://open.spotify.com/track/4QMZfsUTKlWljyRhvhHLgj) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Alive & Well: No Limits](https://open.spotify.com/album/5wogFi882sOPdMXJqxVMP6) | 4:10 |
 | 39 | [My Portion](https://open.spotify.com/track/0YnO0NlWKxEKHeOhfKARQx) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [My Portion](https://open.spotify.com/album/6C58XmJvIcml1Wgez0Ad8C) | 4:10 |
 | 40 | [More Than Enough](https://open.spotify.com/track/3qLQuhUegj9nStFKE2zUhq) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 7:39 |
-| 41 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 |
+| 41 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 |
 | 42 | [Not Moved](https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/11WIHYBbynfg1VwUlmHshG) | 4:33 |
 | 43 | [CALL](https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [CALL](https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j) | 2:40 |
 | 44 | [You](https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [You](https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY) | 3:06 |

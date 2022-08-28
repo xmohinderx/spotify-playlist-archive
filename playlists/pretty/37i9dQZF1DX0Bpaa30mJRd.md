@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > 8/14\(日\)に行われた<a href="https://www.promax.co.jp/studiochizu\-inconcert/">オーケストラコンサート</a>のセットリストを期間限定\(8/末まで\)で公開中！
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,744 likes - 29 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,823 likes - 29 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

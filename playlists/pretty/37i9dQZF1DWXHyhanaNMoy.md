@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en summer vibes! Cover: Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,964 likes - 66 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,022 likes - 66 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Van Mij Zijn](https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Van Mij Zijn](https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe) | 2:46 |
-| 2 | [Mercedes Tintea](https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Mercedes Tintea](https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s) | 3:15 |
-| 3 | [Anders Doet](https://open.spotify.com/track/3Vv17RtSLI7x4yNYWvFrnf) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Anders Doet](https://open.spotify.com/album/7t8phcsa3My41H39G8Dwa5) | 2:52 |
+| 2 | [Mercedes Tintia](https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Mercedes Tintia](https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s) | 3:15 |
+| 3 | [Anders Doet \(feat\. Jayh\)](https://open.spotify.com/track/3Vv17RtSLI7x4yNYWvFrnf) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Anders Doet \(feat\. Jayh\)](https://open.spotify.com/album/7t8phcsa3My41H39G8Dwa5) | 2:52 |
 | 4 | [BALANCE](https://open.spotify.com/track/1tf1A7fBIk05bEXotkbZJs) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [BALANCE](https://open.spotify.com/album/37GYdu01PcqkCvlqMBu1Ub) | 3:20 |
 | 5 | [Enjoyment](https://open.spotify.com/track/6joqibVw5dlmznb4bINJhb) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Enjoyment](https://open.spotify.com/album/3u7RahkGaDMBWG6W0JIVTn) | 3:14 |
 | 6 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
-| 7 | [Mood](https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA) | 2:31 |
+| 7 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 |
 | 8 | [OK](https://open.spotify.com/track/1iOuMmgWQGonnhIwvow7Ac) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [OK](https://open.spotify.com/album/6KDkAd47FLbeLIaymhkiYG) | 2:00 |
 | 9 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 |
 | 10 | [Tempty](https://open.spotify.com/track/4J2t3e9qK5fPxvMqkuBY6E) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN) | [Tempty](https://open.spotify.com/album/4IvU6iu0w5I8gDNX9K9k3E) | 2:30 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 65 | [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 |
 | 66 | [Ja zegt](https://open.spotify.com/track/0ePcSpTAUjAPD29GQi3eIM) | [Fous](https://open.spotify.com/artist/56TuyDjYJfwFFxxnnjZYAF), [Jayboogz](https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS), [Drayson Gashi](https://open.spotify.com/artist/6qZEFrMeWSuCwtZBPRvhIR) | [Ja zegt](https://open.spotify.com/album/4epXBfw8jOkN3nAwDcCJXD) | 2:56 |
 
-Snapshot ID: `MTY2MTQ2NDgwMCwwMDAwMDAwMGY5YmZiZWQ3NTgzYjVjZGFmMTE1MTlhYzVmYzlkYWEx`
+Snapshot ID: `MTY2MTQ2NDgwMCwwMDAwMDAwMDg1MTk1MDY5YjYxMzJmNDdhNmE5OWZjZjJkOGM4ZjIx`

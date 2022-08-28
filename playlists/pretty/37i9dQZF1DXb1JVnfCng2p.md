@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 
 > Get ready for dinner with some upbeat, cool, funky and cooking jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,210 likes - 100 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,250 likes - 100 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 | 63 | [The Way You Look Tonight \- Live](https://open.spotify.com/track/2azWTz31bxJMv1g53NVfPd) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 2: Live at the Village Vanguard](https://open.spotify.com/album/3gAmnTrafv3RJ8UcIvTKfe) | 12:32 |
 | 64 | [Hittin' The Jug \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 8:27 |
 | 65 | [Hello, Young Lovers \- Remastered 2006](https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Another Workout](https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji) | 8:03 |
-| 66 | [Camouflage \- Rudy Van Gelder Edition/1998 Digital Remaster/24\-Bit Mastering](https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 4:25 |
+| 66 | [Camouflage \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 4:25 |
 | 67 | [Birk's Works](https://open.spotify.com/track/2GlOhERrjjT5otcBi0jYa2) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 4:19 |
 | 68 | [Shulie A Bop](https://open.spotify.com/track/4nkqR6YY92pi7vCniJKhxI) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:42 |
 | 69 | [Just Blues](https://open.spotify.com/track/4XZCbio5t7KEmGYoLcYPE8) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 8:42 |

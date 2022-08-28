@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 
 > A gaming playlist for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,793 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,792 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 77 | [Super Cool \(feat\. Robyn & The Lonely Island\)](https://open.spotify.com/track/4JNCi8pelWu8lTG02yllPW) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The LEGO Movie 2: The Second Part \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vUakEBYI3YXIoAHHRufrq) | 3:23 |
 | 78 | [Tortoise Playing Minecraft](https://open.spotify.com/track/2je07NBiHQZNoZRvTNB0AO) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Tortoise Playing Minecraft](https://open.spotify.com/album/7KhfdyxlNNX1rZ7xS6dx5k) | 2:12 |
 | 79 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/7ahuMdaf5gdVi35BzyU9Qu) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Greatest Hits](https://open.spotify.com/album/1webHYaeCy8j9smqS23sgE) | 3:25 |
-| 80 | [Desde el Corazón](https://open.spotify.com/track/1R2mapMAUiYqre6jcFX57g) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Más de un Siglo](https://open.spotify.com/album/0kTaCeKofQWaCUnXUPx6eW) | 2:07 |
+| 80 | [Desde El Corazón](https://open.spotify.com/track/1PZpshxSsJopQFOHmYzLPi) | [B\. BC Music](https://open.spotify.com/artist/4NlbzjHlSyEbBvYLyjKn3r) | [Desde El Corazón](https://open.spotify.com/album/719rqbVPFO09271J5QQ1ay) | 2:07 |
 
-Snapshot ID: `MTY1MDM4MjQ0OCwwMDAwMDAwMDYwNDc5N2VkZGVmOWFlZGJhNDY3MTRiNGU5ZTI2Nzcw`
+Snapshot ID: `MTY1MDM4MjQ0OCwwMDAwMDAwMDRiZWMwMTAzMTY3ZWQzNTk2ZDcxODQ2ZDk3MmE2ODE4`

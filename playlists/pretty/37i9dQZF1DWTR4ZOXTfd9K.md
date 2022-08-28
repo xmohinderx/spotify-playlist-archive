@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,359 likes - 101 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,453 likes - 101 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 26 | [A Night In Tunisia \- Rudy Van Gelder Edition / Remastered 1998](https://open.spotify.com/track/7mwfuAhF0DclPHLhKEyYdl) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 4:16 |
 | 27 | [Congalegre](https://open.spotify.com/track/547xPOmLdBpM4X9B2lIW8B) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [Headin' South](https://open.spotify.com/album/3zLWpN31cZL0isbgDtdcXy) | 4:24 |
 | 28 | [Favela \- Remastered](https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 4:00 |
-| 29 | [Senor Blues \- Alternate 45 Take/Rudy Van Gelder Edition/2000 Digital Remaster/24\-Bit Mastering](https://open.spotify.com/track/1mdi0ijsIOSiSH4w1ZeD43) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 6:38 |
+| 29 | [Senor Blues \- Alternate 45 Take/ Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/1mdi0ijsIOSiSH4w1ZeD43) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 6:38 |
 | 30 | [Queen Of The South](https://open.spotify.com/track/7lOwjT4RAvA8DQAnt0uIUH) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Rainbow Sign](https://open.spotify.com/album/38R6cFBDMpVGvwx7Vuz4D5) | 4:20 |
 | 31 | [Speak No Evil \- Remastered 1998 / Rudy Van Gelder Edition](https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 8:23 |
 | 32 | [Requiem \- Live](https://open.spotify.com/track/6LUVIXTaZSuOcQchjxoL5d) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [8: Kindred Spirits \(Live From The Lobero\)](https://open.spotify.com/album/3kdaoYi2SztpyarxBZ3py6) | 11:32 |

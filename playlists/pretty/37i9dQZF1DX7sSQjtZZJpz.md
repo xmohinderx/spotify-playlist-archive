@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sSQjtZZJpz.md) - [plain]
 
 > Songs to help your kids learn in English and Spanish!
 
-[Spotify](https://open.spotify.com/user/spotify) - 640 likes - 65 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 641 likes - 65 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sSQjtZZJpz.md) - [plain]
 | 52 | [Thirty Days Has September](https://open.spotify.com/track/5KscD9ewLs2AVOl4TBdHHX) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [150 Preschool Songs](https://open.spotify.com/album/6vh3S6NVQ0pNEt70fj7oAf) | 1:19 |
 | 53 | [Mi Sopa de Letras](https://open.spotify.com/track/7e2ZoYqkJzphbPi57ShqYl) | [Panam y Circo](https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW) | [CD2:Yo Soy Panam \- Vol.2](https://open.spotify.com/album/2ettljH6l8EIeEsFc0rTGT) | 2:53 |
 | 54 | [Twelve Months in a Year](https://open.spotify.com/track/2PuQJ7Hn5DHwAXYMKIfhud) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:28 |
-| 55 | [The Alphabet Chant](https://open.spotify.com/track/4lmGHOgGeI327WihOT9B47) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 1:46 |
+| 55 | [The Alphabet Chant](https://open.spotify.com/track/4lmGHOgGeI327WihOT9B47) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 1:46 |
 | 56 | [Las Cuatro Estaciones](https://open.spotify.com/track/4qKLnu1BxIM7O3OoTk2wwR) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu Vol\. 2](https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U) | 1:44 |
 | 57 | [Los Pollitos Dicen Pio Pio](https://open.spotify.com/track/0Au8V5YJFWPWqDHfhKhHCz) | [La Vaca Lola La Vaca Lola](https://open.spotify.com/artist/1H89yfXllRrOvumojYn7yr) | [La Vaca Lola Y Otras Canciones Infantiles](https://open.spotify.com/album/4h2B0YWCUOVfOO7irnLB17) | 1:18 |
 | 58 | [Them ABC Bones](https://open.spotify.com/track/4ZpZ8CPqyZBV1h6wFRVGsj) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Learning Songs](https://open.spotify.com/album/05xhT2X7yGBhVsMWkv45Ly) | 2:34 |

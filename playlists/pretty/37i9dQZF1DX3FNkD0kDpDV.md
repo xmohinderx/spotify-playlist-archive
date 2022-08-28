@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Voted the \#1 Club In the World, <a href="spotify:user:31coqoicovg7m5ugwuaoty2ls5ia">Hï Ibiza</a> is the most technologically\-advanced club on the island and home to the world's biggest DJs as residents.
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,343 likes - 38 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,586 likes - 38 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: southstar
 
-298 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+299 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Miss You](https://open.spotify.com/track/2JgciX6HkDVwRAU8e8VmR6) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/2Y3dHOjEIxYumXA17T7QDH) | 3:26 | 2022-07-08 | 2022-08-06 |
 | [Mockingbird \- Remix](https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw) | [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B) | [Mockingbird \(Remix\)](https://open.spotify.com/album/7BXb7pTQSCicF0duwhWd9E) | 3:12 | 2022-07-25 |  |
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-07-25 | 2022-08-02 |
-| [Mood](https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA) | 2:31 | 2022-08-15 |  |
+| [Mood](https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA) | 2:31 | 2022-08-15 | 2022-08-28 |
+| [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 | 2022-08-25 |  |
 | [Moonlight](https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight](https://open.spotify.com/album/4IU5ADOJ9DnVa9clXVhrEE) | 2:53 | 2022-06-23 | 2022-07-05 |
 | [Morgen](https://open.spotify.com/track/5J6DWi4sOCKtUj6IU4AKRt) | [Pink Katana](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX) | [Morgen](https://open.spotify.com/album/4nRofugo8lfE7BaAeNZeSt) | 1:51 | 2022-08-25 |  |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-06-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover: <a href="https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=qvOypJUQRzeVnO3tUyQdnwg"> CKay </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,850 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,179 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 
 > Sweet dreams are made of this\. Relajate, es hora de dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,992 likes - 64 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,982 likes - 64 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

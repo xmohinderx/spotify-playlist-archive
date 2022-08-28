@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Funky, Lizzy Parra, y Odanis BSK
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,607 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,733 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 74 | [Anoche Llegaste Tarde feat\. Redimi2](https://open.spotify.com/track/1z7fvRmbZBfmIJtltBcTa3) | [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Tributo](https://open.spotify.com/album/1sH8cS9dAq4S5Ny13d4dyo) | 3:51 |
 | 75 | [Cómo No Confiar \(Live\)](https://open.spotify.com/track/1fjoVT35xY4SMcU3xE08vp) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Rey Del Cielo \(Live\)](https://open.spotify.com/album/1RXbNCk1PL83UW4Cp55dcp) | 6:55 |
 | 76 | [La Mesa](https://open.spotify.com/track/02LK8U3ubV5HzZYTBVXj54) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [La Mesa/The Table](https://open.spotify.com/album/0axaWqsUdI5jkiqgWanfXR) | 4:18 |
-| 77 | [Cantando Bueno Es Dios](https://open.spotify.com/track/1cSekGdwfXFnq3KfFrVYUV) | [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh) | [Cantando Bueno Es Dios](https://open.spotify.com/album/03H9TbNM4rIg6NxyUGsTds) | 4:24 |
+| 77 | [Cantando Bueno Es Dios](https://open.spotify.com/track/4m6rZMvNMNi3kNgJsoOsF6) | [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh) | [Cosas Nuevas](https://open.spotify.com/album/7N0rgEUYUUxqlZEDnOy6EA) | 4:24 |
 | 78 | [Miles de Aleluyas](https://open.spotify.com/track/36PtOlNj6AEeVIY3hWcAsI) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [Miles de Aleluyas](https://open.spotify.com/album/7ELZP2soBbhfWGJNHCcbn6) | 4:03 |
 | 79 | [Aquí Estoy](https://open.spotify.com/track/3qQwoMsksLnArEIa3iBTi0) | [Iglesia Rey De Reyes & Claudio Freidzon](https://open.spotify.com/artist/4xtmhwkXcI1bfDZNzQHR8F) | [Aquí Estoy](https://open.spotify.com/album/3l7p9AOyAssVRhiMBw6e4x) | 5:01 |
 | 80 | [Sáname Jesús](https://open.spotify.com/track/5GXgfaCCFW5pTRK6Sk6hMP) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Sáname Jesús](https://open.spotify.com/album/714SnJZhjTv8pfDyK2Yj6S) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [No Hay Nada Imposible](https://open.spotify.com/track/40lu3hXRB2fJhDKuPGrnGL) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edgar Aguilar](https://open.spotify.com/artist/7Mn27Z2iSFFaF4UP8UjqOG), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 9:48 |
 | 100 | [Apoyate en Mi](https://open.spotify.com/track/6e7IOcCCSHhJvUgWh0eryJ) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Apoyate en Mi](https://open.spotify.com/album/0OQXxLR9LOw8UwKRVFVkSs) | 4:19 |
 
-Snapshot ID: `MTY2MTUwMTQ2NywwMDAwMDAwMGI5MGM1YzhiZjgxOWUwYTJhNzliNTAyMjAxNzZlNzA0`
+Snapshot ID: `MTY2MTUwMTQ2NywwMDAwMDAwMDdhMWI4MTI1MGNkNDhhMzUwZDI2ODJjYTFkZWIwY2Zh`

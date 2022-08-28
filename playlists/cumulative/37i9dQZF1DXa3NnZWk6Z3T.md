@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-282 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+283 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Encontré \(feat\. Paulino Monroy\)](https://open.spotify.com/track/1z1g63pfuSMjk85tdeevBw) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Paulino Monroy](https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC) | [Encontré \(feat\. Paulino Monroy\)](https://open.spotify.com/album/7bxiQrYQAkeBMIvTOVJ4YR) | 3:16 | 2022-04-07 | 2022-04-21 |
 | [Entre Luca Y Juan Mejía](https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Entre Luca Y Juan Mejía](https://open.spotify.com/album/2i1R5n8KVFsa2iKe4KKz7Z) | 3:47 | 2021-12-09 |  |
 | [Epitafio](https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Epitafio](https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK) | 2:37 | 2021-12-09 |  |
-| [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 | 2021-12-09 |  |
+| [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 | 2021-12-09 | 2022-08-28 |
+| [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 | 2022-08-19 |  |
 | [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 | 2021-12-09 | 2022-08-06 |
 | [Espiritual](https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Espiritual](https://open.spotify.com/album/0pzR57yGM9wOsRzmVU64lP) | 3:51 | 2021-12-09 |  |
 | [Estrellitas y Duendes](https://open.spotify.com/track/7GC0j38KfkV70zgEzediuv) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Let's Get Lost](https://open.spotify.com/album/6TLoLpAz4m6oHZScZ9oSkK) | 3:20 | 2021-12-09 |  |

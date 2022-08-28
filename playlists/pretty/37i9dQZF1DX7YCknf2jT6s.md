@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Antonio Sánchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,803 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,963 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 6 | [E Basta \- Vincent Peirani](https://open.spotify.com/track/5TJfACNTfIZGwX36a5gONX) | [Simone Prattico](https://open.spotify.com/artist/5vMEIPZjcvn7bmnMjF1BIZ), [Vincent Peirani](https://open.spotify.com/artist/2aMYfhweGlfp6qj9r6OGUO), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd), [Marcello Giuliani](https://open.spotify.com/artist/2xMeLejHEJmdJ3Iwlu3yrx) | [That's it \(Oriundo\)](https://open.spotify.com/album/7mZ22LtynPQGkYueUtyUxQ) | 3:10 |
 | 7 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 |
 | 8 | [The Eleventh Hour](https://open.spotify.com/track/0BIoyx6pZfI4ctUSDMISBI) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [The Temple Within](https://open.spotify.com/album/6OiKVbUAaXsv7P0aDdWV5T) | 6:20 |
-| 9 | [Jaramillo Blues \(For Virginia and Danny\) \- Live](https://open.spotify.com/track/0tRBbXAO5V7thdcvYGW1s1) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5), [Anthony Wilson](https://open.spotify.com/artist/1zpjijZvliAWsGHVtDYRGh), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Jaramillo Blues \(For Virginia Jaramillo and Danny Johnson\) \[Live\]](https://open.spotify.com/album/1FJnJBCwzHIK4QlMl6utld) | 10:03 |
+| 9 | [Jaramillo Blues \(For Virginia Jaramillo and Danny Johnson\) \- Live](https://open.spotify.com/track/0tRBbXAO5V7thdcvYGW1s1) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5), [Anthony Wilson](https://open.spotify.com/artist/1zpjijZvliAWsGHVtDYRGh), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Jaramillo Blues \(For Virginia Jaramillo and Danny Johnson\) \[Live\]](https://open.spotify.com/album/1FJnJBCwzHIK4QlMl6utld) | 10:03 |
 | 10 | [aggressive breathing, an ode to the hunt](https://open.spotify.com/track/0S5CU1qqiw71M8sWKHNvSq) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng) | [aggressive breathing, an ode to the hunt](https://open.spotify.com/album/6VMzqZ1QYVeclKmvF0VCVD) | 2:17 |
 | 11 | [Midnight Crisp](https://open.spotify.com/track/44egUa8FkT17spwSFvQis6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG) | 5:26 |
 | 12 | [Love You Madly](https://open.spotify.com/track/5SBWY5cKgwTjJGeCtZRiJC) | [Cecil Alexander](https://open.spotify.com/artist/40G0MIppDnnEafs5kEVqlL) | [Love You Madly](https://open.spotify.com/album/3i0HypMPCkDghBM756TlOW) | 5:48 |

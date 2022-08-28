@@ -1868,6 +1868,24 @@
     },
     {
       "album": {
+        "name": "BAM",
+        "url": "https://open.spotify.com/album/0vasy6rPfFvhisUyh0iIjJ"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224714,
+      "name": "BAM",
+      "url": "https://open.spotify.com/track/4dp8UOBvsMQX7SI0eqD4Fb"
+    },
+    {
+      "album": {
         "name": "33:22",
         "url": "https://open.spotify.com/album/3Gsx4TDvO8KoZADPJxFEMO"
       },
@@ -7275,7 +7293,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 206930,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/1I8WeuAQ7UAfLZiExVRiKt"
@@ -10867,7 +10885,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 187972,
       "name": "Mili",
       "url": "https://open.spotify.com/track/4FMfbom8BeocIBepxkzTqK"
@@ -12317,6 +12335,24 @@
       "duration_ms": 206896,
       "name": "OLE",
       "url": "https://open.spotify.com/track/2G9iZhy22NiEkyAeKtKIXC"
+    },
+    {
+      "album": {
+        "name": "Omorfo Koritsi",
+        "url": "https://open.spotify.com/album/3QLklLgb5H2UIGzAk5IhjJ"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157768,
+      "name": "Omorfo Koritsi",
+      "url": "https://open.spotify.com/track/7jKvq8HTmWAvRCu8qq1Dc5"
     },
     {
       "album": {

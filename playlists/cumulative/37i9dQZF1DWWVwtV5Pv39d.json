@@ -795,24 +795,6 @@
     {
       "album": {
         "name": "The Bath Song & More Kids Songs",
-        "url": "https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        }
-      ],
-      "date_added": "2022-07-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 110846,
-      "name": "If You're Happy",
-      "url": "https://open.spotify.com/track/3i5YdzGBo5ssO9NZrDicjz"
-    },
-    {
-      "album": {
-        "name": "The Bath Song & More Kids Songs",
         "url": "https://open.spotify.com/album/5NCGJqs3KjGNEvSFwsfmYn"
       },
       "artists": [
@@ -827,6 +809,28 @@
       "duration_ms": 110846,
       "name": "If You're Happy",
       "url": "https://open.spotify.com/track/7HDs6BkJumMnN00yV9GuC4"
+    },
+    {
+      "album": {
+        "name": "The Bath Song & More Kids Songs",
+        "url": "https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110846,
+      "name": "If You're Happy",
+      "url": "https://open.spotify.com/track/3i5YdzGBo5ssO9NZrDicjz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,798 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,119 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 12 | [Good Morning \[New\] World!](https://open.spotify.com/track/1yUV3xzgaFWG2Koe9Sfcwd) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Good Morning \[New\] World!](https://open.spotify.com/album/4XJU7VESD3DYIkO8g2iGpE) | 4:18 |
 | 13 | [DREAMER](https://open.spotify.com/track/7yKbjz9hzbUY6zmIJ8nDDL) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [パリピ孔明 VOCAL COLLECTION MEGAMORI!!](https://open.spotify.com/album/1i9R3CdEU23BRYGaMkpSEC) | 4:49 |
 | 14 | [Face2](https://open.spotify.com/track/5N1bKDzbdCKnReop9O2YEG) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Face2](https://open.spotify.com/album/15eTxMxc2yzCOC4wveboLD) | 3:41 |
-| 15 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 |
+| 15 | [HOLLOW HUNGER](https://open.spotify.com/track/1lW6lfQZszjBQVN5rDLGKj) | [fantasy](https://open.spotify.com/artist/3jcjyxkrisZ1dxNuQyMFyO) | [HOLLOW HUNGER](https://open.spotify.com/album/2QNbOtPZP2TvtZYBzVIbW2) | 3:43 |
 | 16 | [Dance In The Game](https://open.spotify.com/track/5deMG1Ko0ycpPVYPwW0yi8) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Dance In The Game](https://open.spotify.com/album/1a2xSbvHc69UpRhx5MO2Nk) | 3:28 |
 | 17 | [Natsuyume noisy](https://open.spotify.com/track/1i4VjLtf3rtqF1eBPPJe92) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Natsuyume noisy](https://open.spotify.com/album/2JzBHYayYFeqaG1WntbNXk) | 4:16 |
 | 18 | [Starry\-eyed Chronicle](https://open.spotify.com/track/5KQ2PPh2ZY6WRMBur4Uvk7) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Starry\-eyed Chronicle](https://open.spotify.com/album/5Pxpgyy9CDEw3zwNwmQxRo) | 4:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 59 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 |
 | 60 | [断罪デモクラシー](https://open.spotify.com/track/1YYhcvF1ejO19vtEgVBzIg) | [自象存在name\-less](https://open.spotify.com/artist/05bI1rBSrKztoBYlHYYdH5) | [断罪デモクラシー](https://open.spotify.com/album/0aCbx2DAWTiKTkVEr206ZB) | 3:14 |
 
-Snapshot ID: `MTY2MTI3NTc2NSwwMDAwMDAwMDJkNjU3ZTZkMjY1MzAzZWU5ZmRjNzgwYWI4N2NmOTBk`
+Snapshot ID: `MTY2MTI3NTc2NSwwMDAwMDAwMDFkOTNhYWY4MWI3MzYyN2M5MzUyNDFhNGE0OTU1YmRj`

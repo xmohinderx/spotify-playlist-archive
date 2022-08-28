@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 
 > Songs by Asian Americans calling for self\-empowerment, self\-determination, solidarity, and fighting erasure\. Built in partnership with <a href="https://hateisavirus.org/">Hate Is A Virus</a> & <a href="https://www.traktivist.com/">TRAKTIVIST</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,065 likes - 48 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068 likes - 48 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 | 36 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
 | 37 | [Division in the Heartland](https://open.spotify.com/track/2fQwuuwIjqXnmXJMzCrFEE) | [Bruce Lee Band](https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY) | [Division in the Heartland](https://open.spotify.com/album/6eDkHhRW0LobG3wUy3QFw5) | 2:01 |
 | 38 | [Revolution](https://open.spotify.com/track/2lWXHFcyBzZjozeH2OkkoE) | [Chops](https://open.spotify.com/artist/7rZhd5CEGayD1QOJ7ENp3u), [Ann One](https://open.spotify.com/artist/0gbdUzudCwdzxynH0YSqhI), [KiWi](https://open.spotify.com/artist/5HGrny6JmCdxuXel6yqu3J), [Dj Neil Armstrong](https://open.spotify.com/artist/3rmfmBbj8DldzVjqTwhQZR), [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj) | [Strength in Numbers](https://open.spotify.com/album/4XrmPtfQjjHyplnErBVbcf) | 3:51 |
-| 39 | [For the Prey](https://open.spotify.com/track/0GP4rw4OdBHMhB3BLWIDZq) | [Bambu](https://open.spotify.com/artist/0iPS5GpwbHSmgNXfGE674K) | [Prey for the Devil](https://open.spotify.com/album/1avhXO0PJ2QJ2SmcrYxSPv) | 5:16 |
+| 39 | [For The Prey](https://open.spotify.com/track/7AAAwDJVSV0DfKgvdbXIbk) | [Bambu](https://open.spotify.com/artist/0iPS5GpwbHSmgNXfGE674K) | [Prey For The Devil](https://open.spotify.com/album/1muqY2S5vEafF0ieylPxzv) | 5:16 |
 | 40 | [Safe](https://open.spotify.com/track/4fTQvZSLJcOkOgtoeHfTRK) | [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Safe](https://open.spotify.com/album/1O6j8bvGcHlYzA73n46iIq) | 3:47 |
 | 41 | [Captain America](https://open.spotify.com/track/2OBzikeg3F6tHNxzkev6j8) | [YEAR OF THE OX](https://open.spotify.com/artist/614kirduDphBL5NZebU3Zi) | [Captain America](https://open.spotify.com/album/0qX5XZI6aYjjuvmnTCBhRM) | 3:44 |
 | 42 | [Brown Babies](https://open.spotify.com/track/4KQqpqEpGXDItKSQ3AqUTO) | [Rocky Rivera](https://open.spotify.com/artist/2GYpVuQKY90oIhLSA07G18) | [Nom de Guerre](https://open.spotify.com/album/4fIMCyVQ0QBfMijYuQas9S) | 3:06 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 | 47 | [We are the Children](https://open.spotify.com/track/3JpMNtEjO9Vvfa7nHRdk2R) | [Chris Kando Iijima](https://open.spotify.com/artist/1FVzKO0L8p3o2buKGX2pat), [Nobuko Miyamoto](https://open.spotify.com/artist/2Jrux4LmFNPS1Nk6NmA5yZ), [Charlie Chin](https://open.spotify.com/artist/6eX31rTtOkt0GKJt53Omyn) | [A Grain of Sand: Music for the Struggle by Asians in America](https://open.spotify.com/album/7tEIA1YsNtFg7I5InBEDpq) | 2:54 |
 | 48 | [I Am Not a Virus](https://open.spotify.com/track/0Js0zMozqoPq2jpdtnLghs) | [Jordan Vanhemert](https://open.spotify.com/artist/2Evoan7fHtMomWN9ONOsNB), [Rob Smith](https://open.spotify.com/artist/09NsR9F3P1Q9ocmJ0ULb7v), [Lisa Sung](https://open.spotify.com/artist/3L0ZbGmFzTiPaygVqAAFdg), [Kazuki Takemura](https://open.spotify.com/artist/1nu6AnXuhLN5VE8YK3Cv2x), [Andy Wheelock](https://open.spotify.com/artist/1fdOyp1kPBFm0K3ksV6sku) | [I Am Not a Virus](https://open.spotify.com/album/4ZXwN59UAoFksXPPqUyOop) | 8:42 |
 
-Snapshot ID: `MTYyMzQzNTQxNSwwMDAwMDAwMDBlZmY2MjJjMzQ0YzY2NGNjZjVmZTNhNDU5NzhhOTVl`
+Snapshot ID: `MTYyMzQzNTQxNSwwMDAwMDAwMDMxNTg4NWI5YzkzYzBjYTMzODFhYzBjMGI4ZjdlZjhj`

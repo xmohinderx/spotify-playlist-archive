@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Menor MC, DJ Matt D
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,527 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,643 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 46 | [Selena](https://open.spotify.com/track/1ml1SWrZMgdrD6rK6XZwGs) | [Ponce De'leioun](https://open.spotify.com/artist/12ppu07mxks8TZIJAKERdT), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Selena](https://open.spotify.com/album/71taPXkOez1R9ozQHVZNP6) | 3:52 |
 | 47 | [Rindo à Toa](https://open.spotify.com/track/60bmSo6VUfLzGHfzsCkaPT) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Pep Starling](https://open.spotify.com/artist/2OKT3UlyCvDefb14iq4E71) | [Rindo à Toa](https://open.spotify.com/album/3zA5dXoPunXQnP4RgjlNgk) | 3:40 |
 | 48 | [Oclin e Evoque](https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Oclin e Evoque](https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7) | 3:32 |
-| 49 | [Louca](https://open.spotify.com/track/2fWQW9vuTUfHhq4SbuC9aD) | [B.I.G Carter](https://open.spotify.com/artist/4FfTbOUdugEh4aAUj2vM70), [vg no beat](https://open.spotify.com/artist/7FH0V464o9KfPAWLH7nZEk), [T.D.L Music](https://open.spotify.com/artist/4ZpCGXNbBVYbVht0txq54g), [Ogmansha](https://open.spotify.com/artist/5PwQWhjrKuZ0XGpUBP007N) | [Louca](https://open.spotify.com/album/5FKM6iOGDE76xc8l2co4fm) | 3:28 |
+| 49 | [Louca](https://open.spotify.com/track/2fWQW9vuTUfHhq4SbuC9aD) | [B.I.G Carter](https://open.spotify.com/artist/4FfTbOUdugEh4aAUj2vM70), [vg no beat](https://open.spotify.com/artist/7FH0V464o9KfPAWLH7nZEk), [T.D.L Music](https://open.spotify.com/artist/4ZpCGXNbBVYbVht0txq54g) | [Louca](https://open.spotify.com/album/5FKM6iOGDE76xc8l2co4fm) | 3:28 |
 | 50 | [M4ndr4k4](https://open.spotify.com/track/0dwr8PSsYkf0PaLbYIzRj4) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [M4ndr4k4](https://open.spotify.com/album/7EAkSlUVCawHN3DxDxjNeR) | 2:30 |
 
 Snapshot ID: `MTY2MTUyMjQzNywwMDAwMDAwMDQxMTRiNDdhNzI4YWUxYmFmNzlmMzJjOTM5ZWU2N2Ex`

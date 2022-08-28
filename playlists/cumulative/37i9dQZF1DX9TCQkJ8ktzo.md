@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-88 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/45Y4ADhIS41wJfzyX9AM1P)
+89 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/45Y4ADhIS41wJfzyX9AM1P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Leroy](https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:23 | 2022-01-01 |  |
 | [Llegó Borracho el Borracho](https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:06 | 2022-01-01 |  |
 | [Locamente Te Amaré](https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Versiones Originales Vol.2](https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK) | 2:39 | 2022-01-01 |  |
-| [Maria Elena](https://open.spotify.com/track/1vve0rYomwnvFct5ptRQrf) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Latin Hits of the '60s \(Cha Cha Cha Gold\)](https://open.spotify.com/album/2jfpsUB1V2hw5jt5cRX8uz) | 3:05 | 2022-01-01 |  |
+| [Maria Elena](https://open.spotify.com/track/1vve0rYomwnvFct5ptRQrf) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Latin Hits of the '60s \(Cha Cha Cha Gold\)](https://open.spotify.com/album/2jfpsUB1V2hw5jt5cRX8uz) | 3:05 | 2022-01-01 | 2022-08-28 |
+| [María Elena](https://open.spotify.com/track/594Rs1exAlhb7De2unSQ8O) | [Los Hermanos Rigual](https://open.spotify.com/artist/0WpJFrdEiozmhUoOEYsVDW) | [Talent, 30 Original Songs: Boleros](https://open.spotify.com/album/1JpokNT8yJ8aXV3lRTAyWR) | 3:06 | 2022-01-01 |  |
 | [Me Siento Loco](https://open.spotify.com/track/2brVDUF6cn2b8451RSEbVz) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Olvidate](https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW) | 3:12 | 2022-01-01 |  |
 | [Mi Pueblo](https://open.spotify.com/track/15F0WHXpKYQQGUXkSVnOkJ) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Mi Pueblo](https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj) | 2:32 | 2022-01-01 | 2022-07-29 |
 | [Mi Pueblo](https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Mi Pueblo](https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2) | 2:32 | 2022-01-01 |  |

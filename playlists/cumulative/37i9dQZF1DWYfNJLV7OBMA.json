@@ -843,6 +843,28 @@
     {
       "album": {
         "name": "Paavi Paavi 3",
+        "url": "https://open.spotify.com/album/5ajuurZv6QUR6suLZ1XMQL"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/0xQI3u4hVl2KnZf5tq38LR"
+        },
+        {
+          "name": "DKM",
+          "url": "https://open.spotify.com/artist/24zd5PYOAMZVYGj8cnb7fh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222924,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/520xJKhwIuwUoWBn0sbaTV"
+    },
+    {
+      "album": {
+        "name": "Paavi Paavi 3",
         "url": "https://open.spotify.com/album/27ycfh55hituS67sDEjjks"
       },
       "artists": [
@@ -857,7 +879,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 222924,
       "name": "Ice",
       "url": "https://open.spotify.com/track/7Couef9jj3sCL8TfrYxL5s"
