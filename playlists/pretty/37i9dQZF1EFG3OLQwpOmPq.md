@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 71 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 511 likes - 71 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 39 | [sfs](https://open.spotify.com/track/0JnR8VnHPpeo2JfFlUGn7D) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [sfs](https://open.spotify.com/album/2eR1ow7k6QZqrCSMDoaHc2) | 2:39 |
 | 40 | [mexico city](https://open.spotify.com/track/4yl95JyeOUopdg7GXlnY0o) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:27 |
 | 41 | [Golden Roses](https://open.spotify.com/track/6CLvWzSVYzYNO2ePEqaQNl) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Blissful Ignorance](https://open.spotify.com/album/6teRzD3N6CNwWYHgHQyOPc) | 3:28 |
-| 42 | [Autopilot](https://open.spotify.com/track/4CF3Z1OmJLwSIqt3l8tdsR) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Autopilot](https://open.spotify.com/album/1Fj4667loGqnXZmuV8Ky5E) | 3:15 |
+| 42 | [Autopilot](https://open.spotify.com/track/0UvNdJWO4jRxAHi8pAv20Z) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Sim City](https://open.spotify.com/album/54wLYwAvsp61uxv4ciwYOZ) | 3:15 |
 | 43 | [Yours for the Night](https://open.spotify.com/track/3veOoTKXPdnXe5OyDyi8lS) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Worthy](https://open.spotify.com/album/6zbmQwwE1ootZFV4iAU2aD) | 3:13 |
 | 44 | [Not Your Baby](https://open.spotify.com/track/7LnHlo1rCs71sFwqYHntVj) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Not Your Baby](https://open.spotify.com/album/1RIfhmMrslY6PJsre7QTY8) | 3:34 |
 | 45 | [just another day](https://open.spotify.com/track/7J5lMhBctps6q86jQGAsUl) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:22 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 70 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 71 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc2OTQxNjAsMDAwMDAwMDBlNWFlYTgwMTI5MTViY2RkMmI0MDdiMjJlYTZiZjQ0Ng==`
+Snapshot ID: `Mjc2OTU2MDAsMDAwMDAwMDA3YmFlNjJmZTZhMzM3MzI3NTk5MGFlNTAwODIxOTFmZQ==`

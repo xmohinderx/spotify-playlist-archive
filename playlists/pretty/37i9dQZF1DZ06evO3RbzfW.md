@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,771 likes - 46 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,284 likes - 46 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 45 | [Te quiero puta!](https://open.spotify.com/track/0KwqP13BnZMIycfxnqWtK1) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:55 |
 | 46 | [Tier](https://open.spotify.com/track/0S2UfCA5A275xChEi9a6vU) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:46 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBjNzNlZjg0NDdmMmE1YzhiZDJlY2VjY2Q4NmVlODBmMg==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBhZjE5ZDQyM2RiNDExM2U0NDE1ZThmZDhjZmRlYmZhOQ==`

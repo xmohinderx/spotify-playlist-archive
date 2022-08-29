@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Meat Loaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,060,309 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,060,481 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

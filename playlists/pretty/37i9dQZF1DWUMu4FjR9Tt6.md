@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,212 likes - 86 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,219 likes - 86 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 49 | [Unwind Yourself](https://open.spotify.com/track/0h7pMUK2EKEj7E4gGvhDO5) | [Marva Whitney](https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h) | [It's My Thing](https://open.spotify.com/album/5DRDGz9y5gyLgd0S8gI0aO) | 2:50 |
 | 50 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 |
 | 51 | [Major Tom \- Coming Home](https://open.spotify.com/track/709ffFK4o4MtG1NKoLvOma) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [The Different Story \(World Of Lust And Crime\)](https://open.spotify.com/album/4YHQCvzRhFPYki87AK5Pdg) | 5:01 |
-| 52 | [He Can't Love You](https://open.spotify.com/track/1ieNiEe17fvlHnqalSoKZB) | [Joe Hunter](https://open.spotify.com/artist/2pSgCWyN14Fl8zfCybIbkr), [Four Holidays](https://open.spotify.com/artist/0W87O5rwe9qdB7k3LieHgZ) | [The Hawk](https://open.spotify.com/album/6t08qdgCTaJV5CfUsTIuS4) | 2:15 |
+| 52 | [He Can't Love You](https://open.spotify.com/track/0eZ2GOZGaDdsR5IXENExD1) | [Four Holidays](https://open.spotify.com/artist/0W87O5rwe9qdB7k3LieHgZ) | [The Hawk \(Extended\)](https://open.spotify.com/album/3xJoOTCkExSEqCjs8rG8ss) | 2:21 |
 | 53 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 |
 | 54 | [Bad Guy](https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Bad Guy](https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx) | 2:37 |
 | 55 | [Won't Be Long \- As heard in the Netflix series The Umbrella Academy](https://open.spotify.com/track/2LGyCIiVEF4ao8awkeS4dI) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha In Person with The Ray Bryant Combo \(Expanded Edition\)](https://open.spotify.com/album/5Fl6XHaArAnESQOThJktXv) | 3:07 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 85 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 |
 | 86 | [Hello](https://open.spotify.com/track/2ij8uf754WwccftaYn3kay) | [My Kullsvik](https://open.spotify.com/artist/5URiHHxjOuaGuNZPmccofu) | [Hello \(Swedish Cover\)](https://open.spotify.com/album/4HyNWn0hioQ8zyLbJVLa3i) | 4:22 |
 
-Snapshot ID: `MTY1NjA3OTQ0NywwMDAwMDAwMDc0ODI5OGJiYzk0M2M2MDMwMTEzY2Q5NGM4MjBkY2E1`
+Snapshot ID: `MTY1NjA3OTQ0NywwMDAwMDAwMDEyZjRmN2MzOGZhYjU1MGFhYjVmYTM2ZDU0MDMyZGFi`

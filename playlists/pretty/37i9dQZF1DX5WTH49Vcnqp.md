@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > all the hottest indie tunes in the world rn feat\. Winston, Milan Ring & Jerome Farah
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,607 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,605 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 61 | [GTFO](https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y) | 3:20 |
 | 62 | [T's To Cross](https://open.spotify.com/track/42ghWYx6rvIOYLbXsaelZw) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [T's To Cross](https://open.spotify.com/album/58Sgle0MTFxhyxAkvRFHOK) | 4:28 |
 | 63 | [Horses](https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Horses](https://open.spotify.com/album/4eVDNftCpVDAzrh80ayq1D) | 5:05 |
-| 64 | [Love, Try Not To Let Go](https://open.spotify.com/track/7AfohcV7S7wKlDxunC251v) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Love, Try Not To Let Go](https://open.spotify.com/album/2AFqo1i5mkxgmDu5AofJJ6) | 3:43 |
+| 64 | [Love, Try Not To Let Go](https://open.spotify.com/track/3deuNvlPWsdSSUmXt1xCG6) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 3:43 |
 | 65 | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/track/18DoMepvkwmJk4CPH0HCbk) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/album/2xd07PANaM6jBT50rfG50U) | 2:50 |
 | 66 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 |
 | 67 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 88 | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 |
 | 89 | [Sidewalk](https://open.spotify.com/track/6uy9SVkJLW4lqkosNsflfd) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Sidewalk](https://open.spotify.com/album/0OnTVLkesHC8y3tONTSkBr) | 4:38 |
 | 90 | [Always Got The Love](https://open.spotify.com/track/5WCvSTVdMrwwk50yGVHm1g) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Always Got The Love](https://open.spotify.com/album/7mV7NuKPXVlRXhE1BodCe1) | 3:27 |
-| 91 | [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 |
+| 91 | [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 |
 | 92 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 |
 | 93 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 |
 | 94 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 99 | [Black Cloud](https://open.spotify.com/track/7eKFpAosi1b37KQXHUVa7p) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/2dGVf0K5vgvhqrL3STAGoB) | 3:14 |
 | 100 | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt) | 2:33 |
 
-Snapshot ID: `MTY2MTQzNjAwMCwwMDAwMDAwMGVhNmMwNjhiMjAzYTRiMzI4ODMwMWY4Y2E1ZmQxZDA0`
+Snapshot ID: `MTY2MTQzNjAwMCwwMDAwMDAwMDY3YWQ5MDNjNGYyMDNlYzEwNzA4Zjc5YmYyZTc4ZGRm`

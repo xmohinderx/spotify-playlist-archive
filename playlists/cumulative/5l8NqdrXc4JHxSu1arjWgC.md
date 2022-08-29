@@ -4,7 +4,7 @@
 
 > 
 
-649 songs - 1 day 19 hr 39 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+650 songs - 1 day 19 hr 42 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [The Democratic Circus \- 2005 Remaster](https://open.spotify.com/track/4YOhKolwaOpEWHl2qwEUPt) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Naked](https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m) | 5:03 | 2020-10-01 |  |
 | [The Denial Twist](https://open.spotify.com/track/39vLalHjXhGbZRDdZ0hqCn) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/6K8LgaK1oJFfZfNGszd4TG) | 2:35 | 2018-12-12 |  |
 | [The Final Cut](https://open.spotify.com/track/5y1Uc72BAKxaleTEXpcJJq) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:42 | 2020-06-25 |  |
+| [The Getaway](https://open.spotify.com/track/6v4T1yS6LCRPMHE4zrgfKU) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [The Getaway](https://open.spotify.com/album/0XXzAo1VN3kdJmt1Z8YA14) | 3:05 | 2022-08-28 |  |
 | [The Gnome](https://open.spotify.com/track/1GqRmuG89ILDLcuAdcli6r) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 2:13 | 2019-07-26 |  |
 | [The Good Soldier](https://open.spotify.com/track/5i6drXxQsUWeutQBq9UmnE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Year Zero](https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN) | 3:23 | 2020-05-02 |  |
 | [The Gravediggers Song](https://open.spotify.com/track/1BMOKy6xoXOYFyQHczED6U) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Blues Funeral](https://open.spotify.com/album/0SvgSZT9yW6ocN88GtZwVG) | 3:43 | 2020-09-06 |  |

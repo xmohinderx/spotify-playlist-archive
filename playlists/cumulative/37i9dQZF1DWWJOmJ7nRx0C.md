@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover:  Ayron Jones
 
-447 songs - 1 day 3 hr 7 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+448 songs - 1 day 3 hr 12 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [Kids Against the Monsters](https://open.spotify.com/track/3XXNhHnzt8aOTgd7J5maCW) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Kids Against the Monsters](https://open.spotify.com/album/7JrCPgvDAbGsIgvF6p4Q9u) | 3:06 | 2021-12-03 | 2022-04-16 |
 | [Kids Against The Monsters \(Feat\. Corey Taylor\)](https://open.spotify.com/track/2gmnmexjXm0bM0piPpA4lU) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Kids Against The Monsters EP](https://open.spotify.com/album/5mjknvZrq8be2cZkT1YyHA) | 3:00 | 2022-04-15 | 2022-07-23 |
 | [Kill Beautiful Things](https://open.spotify.com/track/3xGdLKQgJVowEX0mUDDaOg) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Kill Beautiful Things](https://open.spotify.com/album/113q2hWF8haaxs4Jm8nqQW) | 4:11 | 2021-08-20 | 2022-06-04 |
-| [Kill Or Be Killed](https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX) | 4:59 | 2022-07-22 |  |
+| [Kill Or Be Killed](https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX) | 4:59 | 2022-07-22 | 2022-08-29 |
+| [Kill Or Be Killed](https://open.spotify.com/track/4scqfHWE0J9dgdbjqstjS3) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:59 | 2022-08-26 |  |
 | [Kill Or Be Killed](https://open.spotify.com/track/3J93pKujr39UHezVy10MW1) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7p4zzMN5NEUE6AMQdZFnzc) | 4:59 | 2022-07-22 | 2022-07-29 |
 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2022-04-08 | 2022-05-07 |
 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 | 2021-09-10 | 2022-02-26 |

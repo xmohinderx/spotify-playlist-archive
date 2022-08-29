@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104 likes - 68 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 68 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 67 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 68 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjc2OTQxNjAsMDAwMDAwMDAwMzNmNGY4ZGVhMzRkZTU2OTg5ZDY4NTRiMmQyM2UzNg==`
+Snapshot ID: `Mjc2OTU2MDAsMDAwMDAwMDBiMjA4YTYxMDVjM2NlODljZDYzYWYwYmQ4MWU4Nzc2Ng==`

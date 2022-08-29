@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > A collection of the best metal ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,780 likes - 110 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072,258 likes - 110 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670 likes - 153 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 672 likes - 153 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 92 | [Fin De Semana](https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Fin De Semana](https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B) | 2:31 |
 | 93 | [Escape](https://open.spotify.com/track/1PPHqTL7IpYToKeIuA5pi9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:10 |
 | 94 | [Hola](https://open.spotify.com/track/2taX5z5ZLyCBxkP504Nqmu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:48 |
-| 95 | [Sin Ropa](https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Sin Ropa](https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX) | 2:35 |
-| 96 | [Deja Tus Besos \- Remix](https://open.spotify.com/track/1XGpykJn12N7EQHtyerLKA) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Deja Tus Besos \(Remix\)](https://open.spotify.com/album/73Awf1O2lQwOcjUqfuUEFc) | 3:07 |
+| 95 | [Deja Tus Besos \- Remix](https://open.spotify.com/track/1XGpykJn12N7EQHtyerLKA) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Deja Tus Besos \(Remix\)](https://open.spotify.com/album/73Awf1O2lQwOcjUqfuUEFc) | 3:07 |
+| 96 | [Sin Ropa](https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Sin Ropa](https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX) | 2:35 |
 | 97 | [ZONA DEL PERREO](https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:11 |
 | 98 | [Pide Lo Que Tú Quieras](https://open.spotify.com/track/7IteHlPcwD5mzvkXZmimLI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 |
 | 99 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 109 | [Amigos Na' Mas](https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 |
 | 110 | [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 |
 | 111 | [OTRA NO](https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:32 |
-| 112 | [Como la Primera Vez](https://open.spotify.com/track/0UEtBB5XmhnvHJFYQhAFEH) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Como la Primera Vez](https://open.spotify.com/album/0pmiKB4we2oro8peDqzs5c) | 4:20 |
-| 113 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
+| 112 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
+| 113 | [Como la Primera Vez](https://open.spotify.com/track/0UEtBB5XmhnvHJFYQhAFEH) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Como la Primera Vez](https://open.spotify.com/album/0pmiKB4we2oro8peDqzs5c) | 4:20 |
 | 114 | [Obsesion](https://open.spotify.com/track/3nd5T9R83RsqZO6O9wuQnb) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:13 |
 | 115 | [Inmoral](https://open.spotify.com/track/46gbEJEggbwei6Jo9upjCc) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:57 |
 | 116 | [Déjame Saber](https://open.spotify.com/track/7HfZN66yT8nvaMpF1Gligt) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Déjame Saber](https://open.spotify.com/album/4cjJ5l83fvenum0M9GttmN) | 3:19 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 152 | [Rally](https://open.spotify.com/track/0snt078vtq4zd5F1K1zSOF) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:28 |
 | 153 | [Vida Cara](https://open.spotify.com/track/2lewSDdMSGQzszhKYhm2mo) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:10 |
 
-Snapshot ID: `Mjc2OTQxNDEsMDAwMDAwMDBiN2JjMGI3ZmM1YTQzNWRmNDdiZmFkN2FkODAzY2E2Mg==`
+Snapshot ID: `Mjc2OTU1ODEsMDAwMDAwMDBlODU3MDNkMzIzZmQ2MTA5ZjBiNDE5YWQyMjEyNmU5Zg==`

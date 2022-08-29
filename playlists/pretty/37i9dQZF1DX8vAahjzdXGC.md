@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,817 likes - 99 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,836 likes - 99 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

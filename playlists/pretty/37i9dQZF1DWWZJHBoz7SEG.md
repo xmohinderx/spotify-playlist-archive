@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Kevin Kaarl, Elton John y Britney Spears; KAROL G, Reik y Sech; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,308 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,364 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 17 | [Fuego Forestal](https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Fuego Forestal](https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q) | 3:18 |
 | 18 | [PRENDE OTRO](https://open.spotify.com/track/1PNNztcJlNIcThPBs9lKBi) | [Kalido](https://open.spotify.com/artist/7rnBtbzDCg9rhtHV6GH77K), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [PRENDE OTRO](https://open.spotify.com/album/6JnAfvezZhCZU6Lzg96Jai) | 4:10 |
 | 19 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
-| 20 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/5CuMcMc7DifQ9BVwi2ZXgY) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
+| 20 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/30wdrkW0hVWYdLxmUaIYZp) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
 | 21 | [Wherever You Go](https://open.spotify.com/track/7Emwu6FcGIENbWKmDiD2ct) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Wherever You Go](https://open.spotify.com/album/33zJ4SIK5Tf8YXlYSsvelT) | 2:49 |
 | 22 | [Ocean Of Tears](https://open.spotify.com/track/6oJIAZpChGNIEMAecud9SZ) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Ocean Of Tears](https://open.spotify.com/album/2zRkmxVhm6Isn66yIiBnLp) | 3:04 |
 | 23 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |

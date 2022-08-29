@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44lGmJ4Etu1.md) - [plain]
 
 > The Latin Pop hits of yesterday and today all in one place!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,011 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,020 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

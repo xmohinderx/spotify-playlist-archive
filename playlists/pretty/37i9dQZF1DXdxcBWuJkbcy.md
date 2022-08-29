@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,446,450 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,447,767 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 99 | [Make My Mind Go \(with Jonasu\)](https://open.spotify.com/track/6TO1XrGYwdw5y6lx3x5Aa7) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Make My Mind Go \(with Jonasu\)](https://open.spotify.com/album/5gfjgEbNItHW8BPeoLAA1u) | 2:31 |
 | 100 | [Step\-Grandma](https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Step\-Grandma](https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy) | 2:40 |
 
-Snapshot ID: `MTY2MTQ2NDkyMCwwMDAwMDAwMDIyYjY1OGE5ZTU4NDBmOTEyZTI5YTQ2ZDFmYjg3ZTlm`
+Snapshot ID: `MTY2MTY4MTI1NCwwMDAwMDAwMDkwNzZhMDExYzBmMjM2YWUwNzAyOGY0ZGQ5ZTM1YjIx`

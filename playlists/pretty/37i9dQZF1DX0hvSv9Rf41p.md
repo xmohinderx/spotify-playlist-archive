@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with GRiZ & LSDREAM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,801 likes - 137 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,972 likes - 137 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

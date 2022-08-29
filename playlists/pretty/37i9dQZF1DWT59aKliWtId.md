@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Ashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,163 likes - 126 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,227 likes - 126 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 62 | [Look To Him](https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Look To Him](https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1) | 4:11 |
 | 63 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 |
 | 64 | [Warning Signs](https://open.spotify.com/track/4Ip0oLPBQq9jbzEuR1foRV) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q) | 4:20 |
-| 65 | [How Was Your Day?](https://open.spotify.com/track/5zcKakuuuuYR2VhWQWnhDo) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [How Was Your Day?](https://open.spotify.com/album/5GZHr6rYHXp6v0pYAc1HZm) | 2:32 |
+| 65 | [How Was Your Day?](https://open.spotify.com/track/7oUXL2y3E7lDlSQn5qptxd) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 2:32 |
 | 66 | [Gold](https://open.spotify.com/track/2U8SVTHjyYK4nPofvO2Ncw) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Gold](https://open.spotify.com/album/4LGfwNskwBGfE6Ca3ekioV) | 3:22 |
 | 67 | [Lucky Ones](https://open.spotify.com/track/3ko12vQlZ4eOah2bbTP7c4) | [Julian Lennon](https://open.spotify.com/artist/4Tvos0a5rRrBu4Oodu5f79) | [Lucky Ones](https://open.spotify.com/album/7jmgdERMgJQAzgN4SXVIat) | 4:41 |
 | 68 | [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 113 | [Best I Can](https://open.spotify.com/track/7spqcauBWI88oEKjUgNebM) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Best I Can](https://open.spotify.com/album/5GA1Wp8OHxF4zdjHa4MTGI) | 3:18 |
 | 114 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 |
 | 115 | [Happiness Pie](https://open.spotify.com/track/17lBZ4fgi5MxPkz4dKl3gp) | [Motel Radio](https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7) | [Happiness Pie](https://open.spotify.com/album/2595VkvbpcBlsckPy945Bk) | 3:13 |
-| 116 | [Forever In Sunset](https://open.spotify.com/track/5g8FFO1MkitRDartlFKciT) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Forever In Sunset](https://open.spotify.com/album/0vyVVgohtd4dZNQMnIl7iO) | 4:22 |
+| 116 | [Forever In Sunset](https://open.spotify.com/track/7ofb8SMiE4pDit5ewXNArn) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l) | 4:22 |
 | 117 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 |
 | 118 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 |
 | 119 | [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 125 | [Bad Spell](https://open.spotify.com/track/3xMat5dBN7UXgK8a6E8n93) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2uX8wXgr0jog1Xz6vZSxLS) | 3:15 |
 | 126 | [Slide Tackle](https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:39 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDYyM2VlOGE3NTkzNzVhNGU2NWI2NjI1YzY0NTE0MWRj`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGYyYzJiNjU0ZGYzOWY2Mzc0NTYzOWNiNWNlNjg0NjZk`

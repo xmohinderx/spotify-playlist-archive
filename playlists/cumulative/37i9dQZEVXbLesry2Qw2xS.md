@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-971 songs - 2 day 4 hr 15 min - [published](https://open.spotify.com/playlist/3HQPm29HNUlIDpNo0WRR2W)
+972 songs - 2 day 4 hr 18 min - [published](https://open.spotify.com/playlist/3HQPm29HNUlIDpNo0WRR2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-23 |
 | [a p p l y i n g \. p r e s s u r e](https://open.spotify.com/track/1d7q712nXjG98HiwHk7HFS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:57 | 2021-05-16 | 2021-05-17 |
 | [A Tale By Quincy](https://open.spotify.com/track/759ndr57jb0URg4j9YSWml) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-08 | 2022-01-10 |
-| [A.V.R.](https://open.spotify.com/track/1idZtiuq0C6wJS6TB1PsTe) | [Suur Papa](https://open.spotify.com/artist/6cd9X2t4HN8zjoxOblaDTz) | [Näita Mulle Kuningat \(Mixtape\)](https://open.spotify.com/album/0ysSlGcO8OOFKD4Y6cgm4h) | 3:18 | 2021-08-29 |  |
+| [A.V.R.](https://open.spotify.com/track/1idZtiuq0C6wJS6TB1PsTe) | [Suur Papa](https://open.spotify.com/artist/6cd9X2t4HN8zjoxOblaDTz) | [Näita Mulle Kuningat \(Mixtape\)](https://open.spotify.com/album/0ysSlGcO8OOFKD4Y6cgm4h) | 3:18 | 2021-08-29 | 2022-08-29 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-16 | 2022-05-08 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-03 | 2022-07-17 |
 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-16 | 2022-07-24 |
@@ -795,6 +795,7 @@
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-25 | 2021-09-30 |
 | [SUN GOES DOWN](https://open.spotify.com/track/6btdl1Vl6Ta5lUwUSOFW2H) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:48 | 2021-09-19 | 2021-09-22 |
 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 | 2021-05-23 | 2021-05-30 |
+| [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-08-28 |  |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-16 | 2022-08-28 |
 | [Superkangekaelne](https://open.spotify.com/track/2CDeZce964TrswJRrhwYXX) | [Karl\-Erik Taukar](https://open.spotify.com/artist/0IBo1QzwnBeD4N8WS5aD5X) | [Superkangekaelne](https://open.spotify.com/album/5FJPK5gd3WJ1hYY0pzcjJg) | 3:13 | 2021-06-12 | 2021-07-13 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-14 |  |

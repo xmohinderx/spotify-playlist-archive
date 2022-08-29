@@ -2211,7 +2211,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 175720,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
@@ -3916,6 +3916,28 @@
     },
     {
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
+    },
+    {
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -5089,7 +5111,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 184104,
       "name": "Summer of Love (Shawn Mendes & Tainy)",
       "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
@@ -5209,7 +5231,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"

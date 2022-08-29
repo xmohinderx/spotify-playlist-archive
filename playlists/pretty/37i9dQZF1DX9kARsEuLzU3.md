@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 
 > Your queens are here Pink Panda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,520 likes - 134 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,534 likes - 134 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 | 61 | [I PRAY 4 YOU](https://open.spotify.com/track/4XwW7LHHmQilz4gLISOQXX) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [School 2017 Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1APuSx8wJm615bNJPzn7uY) | 3:50 |
 | 62 | [Love is](https://open.spotify.com/track/0eRJDYUrxbw9MzO1O0quBs) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Dream](https://open.spotify.com/album/2G6b8wax6wLnR6zMixJCfA) | 3:54 |
 | 63 | [Heaven](https://open.spotify.com/track/4XLM8v5Z646F6pwEYjr9Qm) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Dear](https://open.spotify.com/album/6gIu2MCKFkXziZ6GL02MsX) | 3:26 |
-| 64 | [Let's Eat Together \(feat.YOON BOMI of Apink\)](https://open.spotify.com/track/6dy31xfy9MkOV8eMYT0QFk) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [Let's Eat Together](https://open.spotify.com/album/5e0GEbTh4INJ2LdLdbfZZa) | 2:56 |
+| 64 | [Let's Eat Together \(feat.YOON BOMI of Apink\)](https://open.spotify.com/track/6dy31xfy9MkOV8eMYT0QFk) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2), [YOON BOMI](https://open.spotify.com/artist/41OOBawIDbmcvVkjD4M2P7) | [Let's Eat Together](https://open.spotify.com/album/5e0GEbTh4INJ2LdLdbfZZa) | 2:56 |
 | 65 | [Stay](https://open.spotify.com/track/0S7kB6ttDdAGyA53K9Njtd) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Suits \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4sSIR6nlrXbbq34LXuwq2b) | 3:43 |
 | 66 | [It's you](https://open.spotify.com/track/6L1Ryt0egm5hmKDPxjjL2k) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Dear](https://open.spotify.com/album/6gIu2MCKFkXziZ6GL02MsX) | 3:38 |
 | 67 | [Wish you are](https://open.spotify.com/track/18xvzY7DiwJOfyP6B5OdrT) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [Matrimonial Chaos \(Original Television Soundtrack\)](https://open.spotify.com/album/01JzSjEqeZ94KEuXRVoHpp) | 3:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,974 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,029 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

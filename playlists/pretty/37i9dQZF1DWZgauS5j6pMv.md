@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Dabeull
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,897 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,014 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

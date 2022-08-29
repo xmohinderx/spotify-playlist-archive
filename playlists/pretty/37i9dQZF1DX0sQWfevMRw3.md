@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Det enda som vi bryr oss i är att bli kanon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,651 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,256 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 49 | [Ragga runt \- N!NE EPA Remix](https://open.spotify.com/track/5j0HTlOCde9GOlgyP9lpM7) | [Eddie Meduza](https://open.spotify.com/artist/3cMEiDsx9VpGvF71hUGswS), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Ragga runt \(EPA Remix\)](https://open.spotify.com/album/0mktOSV7ZQ9pxPebTuz8f0) | 2:23 |
 | 50 | [VI SKA BLI FULLA](https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Danspunk](https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK) | 2:45 |
 
-Snapshot ID: `MTY2MTUxOTcwOSwwMDAwMDAwMDAyYjIzYjA1NWI0YzMzNGMzNmQ3ZWRkZGE5OTVlNWI1`
+Snapshot ID: `MTY2MTY4Mzc3NiwwMDAwMDAwMDY0MGU0NjIyMjkxOTZiMmNiM2VhNWE2ZmRhMTBiMDdi`

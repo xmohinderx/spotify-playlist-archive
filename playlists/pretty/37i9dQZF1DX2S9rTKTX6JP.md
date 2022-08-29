@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,170 likes - 125 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,306 likes - 125 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

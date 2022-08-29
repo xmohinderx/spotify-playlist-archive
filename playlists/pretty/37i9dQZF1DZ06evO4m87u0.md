@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,622 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,706 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 26 | [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 |
 | 27 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 |
 | 28 | [Run Right Back](https://open.spotify.com/track/5HgAZuHFAU5qLLMYuIQkgq) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:17 |
-| 29 | [10 Lovers](https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:33 |
+| 29 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 |
 | 30 | [Next Girl](https://open.spotify.com/track/2UE4m8egf0aREmOi47sDOk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:18 |
 | 31 | [Didn't I Love You](https://open.spotify.com/track/3ODV8hlwa7eLVuPMskWnQi) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 4:01 |
-| 32 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 |
+| 32 | [10 Lovers](https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:33 |
 | 33 | [Have Love Will Travel](https://open.spotify.com/track/46XzvI0GXvRwK7LV6vdn2v) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Thickfreakness](https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa) | 3:04 |
 | 34 | [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 |
 | 35 | [It Ain't Over](https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:48 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 48 | [Oceans & Streams](https://open.spotify.com/track/0RRS27vZj5U0N2eIBctL4K) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:25 |
 | 49 | [Crawling Kingsnake](https://open.spotify.com/track/4Yk7nkmqitDCycO0Z0UsKe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 6:08 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBjMWY0OTAyMjMzMWUxMmJjNzU5NzBhNjcxYWJkYmNlNw==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBlNzNhOGMwZmM2YTNjZGQzNDg4NDBhNDFlMzBhOWEzMg==`

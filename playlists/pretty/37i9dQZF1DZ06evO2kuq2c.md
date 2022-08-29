@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,507 likes - 39 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,527 likes - 39 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 3 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:08 |
 | 4 | [tear gas](https://open.spotify.com/track/2PIMvIwLS16zr5EBYss3pF) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [tear gas](https://open.spotify.com/album/7asPDnAVvFjretbhS9kXaL) | 4:17 |
 | 5 | [Gone With The Wind](https://open.spotify.com/track/6w9PFIfsLZvzo09nfmqjxQ) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:45 |
-| 6 | [Black Lungs](https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:51 |
+| 6 | [Giving Blood](https://open.spotify.com/track/5OVb8VkoO9ZYG64ngOPZpW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:32 |
 | 7 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
 | 8 | [Gravedigger](https://open.spotify.com/track/6n5njQ1hPrRVjBtlYNQtgu) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:05 |
 | 9 | [A Match Made In Heaven](https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:48 |
-| 10 | [Giving Blood](https://open.spotify.com/track/5OVb8VkoO9ZYG64ngOPZpW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:32 |
+| 10 | [Black Lungs](https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:51 |
 | 11 | [Royal Beggars](https://open.spotify.com/track/50xyeJL2Hs9FDgtI1ROeB0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:01 |
 | 12 | [Castles In The Air](https://open.spotify.com/track/1UNG4xf1SxhDE62c8vPCwR) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 3:42 |
 | 13 | [Nihilist](https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 2:51 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 38 | [Daybreak](https://open.spotify.com/track/1ARkHSVKsDO1RWu2vedbpm) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:32 |
 | 39 | [Black Blood](https://open.spotify.com/track/3zW2l6tss1kIZDj73CtJx6) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:33 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDAxYTRlYTgyOGI3YmU3MTlmMjc0OGZiZDQzZTVhMTYwZg==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBlMzQyZmQ1MDRiMDFmNmQzMjJlOTk3OTk2OGM2OGQ0NQ==`

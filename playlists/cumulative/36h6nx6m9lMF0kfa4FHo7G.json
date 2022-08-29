@@ -210,6 +210,28 @@
     },
     {
       "album": {
+        "name": "Tropic\u00e1lia Ou Panis Et Circensis",
+        "url": "https://open.spotify.com/album/0samM57T0WsA9JhEmWkKEM"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "Baby - Remastered",
+      "url": "https://open.spotify.com/track/3XLiFwo3E7GeX4ONxhGIgm"
+    },
+    {
+      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },

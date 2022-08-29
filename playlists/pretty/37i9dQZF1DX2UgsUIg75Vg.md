@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263,999 likes - 84 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,264,241 likes - 84 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -285,10 +285,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 225493,
       "name": "Burning",
       "url": "https://open.spotify.com/track/059CCHiMlUeKF7deDc1uN4"
+    },
+    {
+      "album": {
+        "name": "Strange Faces",
+        "url": "https://open.spotify.com/album/5myzv5MVvDrFji6BKIVbzS"
+      },
+      "artists": [
+        {
+          "name": "Mista Strange",
+          "url": "https://open.spotify.com/artist/6f2OiLi5ws1F1xkHgjDPBX"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225493,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/5UCL0TZACi3cgVaIPs0UVm"
     },
     {
       "album": {

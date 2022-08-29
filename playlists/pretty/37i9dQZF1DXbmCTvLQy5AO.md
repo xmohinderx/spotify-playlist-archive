@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Queen B
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,688 likes - 67 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,948 likes - 67 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 62 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
 | 63 | [Got Her Own](https://open.spotify.com/track/5s7REbEOo8rf3qeC0A7vVS) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 3:05 |
 | 64 | [LMK\_WHAT’S REALLY GOOD REMIX\_ FEAT\_PRINCESS NOKIA\_JUNGLEPUSSY\_CUPCAKKE\_MS\. BOOGIE\_100 BPM](https://open.spotify.com/track/1q5h9UkGVYVoec4ydU9P0d) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Ms\. Boogie](https://open.spotify.com/artist/7HVlaChQbM9guWdiKMGxBq) | [TAKE ME A\_PART, THE REMIXES](https://open.spotify.com/album/00bR0PfkGVAizXpN05DYrs) | 5:20 |
-| 65 | [Burning](https://open.spotify.com/track/059CCHiMlUeKF7deDc1uN4) | [Mista Strange](https://open.spotify.com/artist/6f2OiLi5ws1F1xkHgjDPBX) | [Strange Faces](https://open.spotify.com/album/5G9OTVHZqkaSVzw7pW5PkD) | 3:45 |
+| 65 | [Burning](https://open.spotify.com/track/5UCL0TZACi3cgVaIPs0UVm) | [Mista Strange](https://open.spotify.com/artist/6f2OiLi5ws1F1xkHgjDPBX) | [Strange Faces](https://open.spotify.com/album/5myzv5MVvDrFji6BKIVbzS) | 3:45 |
 | 66 | [Girlfriend](https://open.spotify.com/track/0jIUiSTrJuDxjkf7ddAEYy) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 4:03 |
 | 67 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
 
-Snapshot ID: `MTY2MDU1Mzg1OCwwMDAwMDAwMDExZDAwYTdiMjYwYmM4MzJlMDRiMGM1NTc5OWZmNzJk`
+Snapshot ID: `MTY2MDU1Mzg1OCwwMDAwMDAwMGNlNDZlMDgyMmFkY2ViM2U2ZGY2Nzc0ODZlMjQzOWQw`

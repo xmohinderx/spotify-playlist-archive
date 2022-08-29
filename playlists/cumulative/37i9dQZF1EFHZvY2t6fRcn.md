@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-88 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/4o2Z71UegJJzZwBY5b0Ao7)
+89 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/4o2Z71UegJJzZwBY5b0Ao7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [High & Dry](https://open.spotify.com/track/7rqYTfbYrg6GSSRza8KR2k) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 2:39 | 2021-12-27 |  |
 | [I Don't Love You](https://open.spotify.com/track/56DtlpHeMFHUIRf60GpBqa) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/0isT3M0fEUwPOiuECCGL9E) | 3:24 | 2021-12-27 |  |
 | [If We Were Made Of Water](https://open.spotify.com/track/2jWiqKyZKkcChQpwwmQH8k) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:24 | 2021-12-27 |  |
+| [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 | 2022-08-28 |  |
 | [Look at Us Now](https://open.spotify.com/track/0u8yYdOuMq7KyslQ4Chi5z) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:18 | 2021-12-27 |  |
 | [Look What You're Doing To Me](https://open.spotify.com/track/0tEIWklg5pvkQGvxboLegR) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 4:00 | 2021-12-27 |  |
 | [Messiah](https://open.spotify.com/track/5yRDS8rO2nWrNxcVcsCPl4) | [M\-Phazes](https://open.spotify.com/artist/4B1CeNsCcLfOvRBJ34UUSX), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Messiah](https://open.spotify.com/album/3oDCT5J0RlH4eGNFX51szn) | 3:43 | 2021-12-27 |  |

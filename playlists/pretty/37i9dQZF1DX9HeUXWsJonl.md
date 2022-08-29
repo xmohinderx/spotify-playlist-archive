@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > The sweet sounds of Tunisia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,425 likes - 41 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,472 likes - 41 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

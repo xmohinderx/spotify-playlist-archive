@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: Borges
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,426 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,473 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

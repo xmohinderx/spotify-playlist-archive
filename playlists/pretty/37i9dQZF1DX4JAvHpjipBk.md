@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from DJ Khaled, Elton John & Britney Spears, Joji, KAROL G,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,953,465 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,953,726 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 9 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 | 10 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 |
 | 11 | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/track/1OdXwV1ZqMDuMKsPThVfSB) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/album/55lsB4N2SNet2krI1SBXht) | 3:37 |
-| 12 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/5CuMcMc7DifQ9BVwi2ZXgY) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
+| 12 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/30wdrkW0hVWYdLxmUaIYZp) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
 | 13 | [Wrong Decisions](https://open.spotify.com/track/51tMT5eSEaUo40GcSjTZZt) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Wrong Decisions](https://open.spotify.com/album/77P2YNeTVk6kXjgEsz6dCD) | 2:59 |
 | 14 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
 | 15 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |

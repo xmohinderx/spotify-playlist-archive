@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 
 > The best Piano House tracks out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,828 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,855 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 14 | [Mad Love \- Blinkie Remix](https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Mad Love \(Remixes\)](https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW) | 3:20 |
 | 15 | [Sorry](https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Sorry](https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N) | 3:08 |
 | 16 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 |
-| 17 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\)](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
+| 17 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
 | 18 | [Move Your Body](https://open.spotify.com/track/3YXIVMQLRRq2K7kxC7UYx6) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Move Your Body](https://open.spotify.com/album/7KrVkLXp05Tn5MoZYVEhop) | 3:16 |
 | 19 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 |
 | 20 | [This Groove](https://open.spotify.com/track/6ZvLKwgPKlyZtDPkTWjPI7) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [This Groove](https://open.spotify.com/album/6V2cksv4xWiubhZdh2Kb1H) | 3:08 |

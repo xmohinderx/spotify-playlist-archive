@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,890 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,278 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 35 | [El De La S](https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:22 |
 | 36 | [El Comandante](https://open.spotify.com/track/5ZZIduUosHfi5GQQsbhGGu) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comandante](https://open.spotify.com/album/0vumH1IfChTf4mBo9iJtOM) | 2:14 |
 | 37 | [El 8](https://open.spotify.com/track/3MlwQd4W9ySCi505CK5N26) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El 8](https://open.spotify.com/album/7qfb8kvm6smyCu5HXefnME) | 2:45 |
-| 38 | [No Se Vallan Por Los Mitotes](https://open.spotify.com/track/1sQJkxf5nPTs2gEcr7YaUl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 4:05 |
+| 38 | [Equipo RR](https://open.spotify.com/track/14C4FsfMkXf4dmqKF2apqG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:56 |
 | 39 | [Por Clave El Chino](https://open.spotify.com/track/7MH1vx6qW9AUHk3sRriH7K) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:59 |
-| 40 | [Equipo RR](https://open.spotify.com/track/14C4FsfMkXf4dmqKF2apqG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:56 |
+| 40 | [No Se Vallan Por Los Mitotes](https://open.spotify.com/track/1sQJkxf5nPTs2gEcr7YaUl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 4:05 |
 | 41 | [El Cinco](https://open.spotify.com/track/3NOK9RbGnj09fhGFlqwUT3) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Cinco](https://open.spotify.com/album/166e2R73BtlDAk6RVHV2qC) | 3:38 |
 | 42 | [El Güero \(En Vivo\)](https://open.spotify.com/track/15J0GGYsaeGj0jyoGXPKXY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Güero \(En Vivo\)](https://open.spotify.com/album/4X4D0S2WG2GGTSFi7mJ9TZ) | 2:15 |
-| 43 | [El Gabito \(En Vivo\)](https://open.spotify.com/track/2KlWJQJY4iQ0wacmBrBFdj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gabito \(En Vivo\)](https://open.spotify.com/album/1oWBe0hMfCUMrr1PgH4mDo) | 3:17 |
-| 44 | [Por Clave 9\-1](https://open.spotify.com/track/0TnUV2vPKYf0TSgKuchTXU) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 3:17 |
+| 43 | [Por Clave 9\-1](https://open.spotify.com/track/0TnUV2vPKYf0TSgKuchTXU) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 3:17 |
+| 44 | [El Gabito \(En Vivo\)](https://open.spotify.com/track/2KlWJQJY4iQ0wacmBrBFdj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gabito \(En Vivo\)](https://open.spotify.com/album/1oWBe0hMfCUMrr1PgH4mDo) | 3:17 |
 | 45 | [No Le Busquen \(JG\)](https://open.spotify.com/track/2VaY5MqPffz37MMmjSH3iK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 3:18 |
 | 46 | [De Seattle Hasta San Diego](https://open.spotify.com/track/6cJZ0jt8KxTz8RXQDpmiUK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Seattle Hasta San Diego](https://open.spotify.com/album/2JpiptY2bA7LrAdybMIY7f) | 3:22 |
-| 47 | [Paz En Este Amor \(En Vivo\)](https://open.spotify.com/track/559TDjQpWrtOnZXdFnRfYj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Desde La Oficina \(En Vivo\)](https://open.spotify.com/album/6Ze9Ja5wGsNBu6igmWWBNy) | 3:26 |
-| 48 | [El 50](https://open.spotify.com/track/4fuXs2iGbUPp7ReStvNegS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 3:22 |
-| 49 | [El Chene](https://open.spotify.com/track/1tL6WxMlCow0c0MzbrIZhK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 4:39 |
-| 50 | [El Gordo](https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gordo](https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA) | 2:46 |
+| 47 | [El 50](https://open.spotify.com/track/4fuXs2iGbUPp7ReStvNegS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 3:22 |
+| 48 | [El Gordo](https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gordo](https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA) | 2:46 |
+| 49 | [Paz En Este Amor \(En Vivo\)](https://open.spotify.com/track/559TDjQpWrtOnZXdFnRfYj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Desde La Oficina \(En Vivo\)](https://open.spotify.com/album/6Ze9Ja5wGsNBu6igmWWBNy) | 3:26 |
+| 50 | [El Chene](https://open.spotify.com/track/1tL6WxMlCow0c0MzbrIZhK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 4:39 |
 
-Snapshot ID: `Mjc2OTM0NDYsMDAwMDAwMDAwYTQxMjliZjMzMWNmODQwZjM5YzAxNzQ2MWNiYjU5YQ==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDAyNjY2NzMzMjZjNWRmYTBiMGE1ZTc3MmQyZjY1ODRkOA==`

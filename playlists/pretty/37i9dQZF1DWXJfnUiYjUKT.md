@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: DJ Khaled
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,575 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,752 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 11 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
 | 12 | [Congrats](https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Congrats](https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL) | 3:37 |
 | 13 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
-| 14 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/5CuMcMc7DifQ9BVwi2ZXgY) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
+| 14 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/30wdrkW0hVWYdLxmUaIYZp) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
 | 15 | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/track/1OdXwV1ZqMDuMKsPThVfSB) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/album/55lsB4N2SNet2krI1SBXht) | 3:37 |
 | 16 | [Black Mascara](https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Black Mascara](https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb) | 4:01 |
 | 17 | [Dangerous](https://open.spotify.com/track/3DpxSpi0jot0XH73uZmlul) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Dangerous](https://open.spotify.com/album/7rH6ZOH1ZnbYqUfXEJW3xP) | 3:47 |

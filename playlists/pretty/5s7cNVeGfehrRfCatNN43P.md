@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,395 likes - 16 songs - 50 min 59 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,396 likes - 16 songs - 50 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 10 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 |
 | 11 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 |
 | 12 | [Watching](https://open.spotify.com/track/6SDAkr1UNA8vWt2wAopAAQ) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Watching](https://open.spotify.com/album/2COn5i2w4pQZwISFzunZ47) | 2:41 |
-| 13 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/5CuMcMc7DifQ9BVwi2ZXgY) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
+| 13 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/30wdrkW0hVWYdLxmUaIYZp) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
 | 14 | [i can't help it](https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [i can't help it](https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK) | 2:57 |
 | 15 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
 | 16 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |

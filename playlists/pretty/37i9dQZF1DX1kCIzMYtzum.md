@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > The latest hits from your favourite festival legends\. Peace, love, unity, respect\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,885 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,041 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

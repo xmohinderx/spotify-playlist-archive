@@ -4,7 +4,7 @@
 
 > 
 
-124 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/6Pa6YAec0uoo5SkRJc8HJg)
+125 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/6Pa6YAec0uoo5SkRJc8HJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 | 2022-06-12 |  |
 | [American Idiot](https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(Deluxe\)](https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g) | 2:54 | 2022-05-24 | 2022-07-31 |
 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 | 2022-07-25 |  |
+| [Baby \- Remastered](https://open.spotify.com/track/3XLiFwo3E7GeX4ONxhGIgm) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Tropicália Ou Panis Et Circensis](https://open.spotify.com/album/0samM57T0WsA9JhEmWkKEM) | 3:37 | 2022-08-28 |  |
 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 | 2022-05-24 | 2022-07-31 |
 | [Back to the Old House \- 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:06 | 2022-06-15 |  |
 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 | 2022-06-12 |  |

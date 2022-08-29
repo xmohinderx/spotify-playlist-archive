@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s\. Cover: Elvis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,617 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,704 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,18 +145,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 135 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/3JvDEbXLKUxaNv0D0txup5) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Ray Charles Story Volume 2](https://open.spotify.com/album/5xNwNgXgT3ZbBGlNZyziNC) | 6:31 |
 | 136 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/0Zkuewgtp8XbeJ5xInG4p8) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Complete Imperial Singles](https://open.spotify.com/album/6iaRjczTCIO23qM07qxMXs) | 2:22 |
 | 137 | [Rip It Up](https://open.spotify.com/track/3nUEF90dilZHOoURbBYDEo) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:28 |
-| 138 | [Red Hot](https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Red Hot / Pearly Lee](https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC) | 2:29 |
-| 139 | [Red River Rock](https://open.spotify.com/track/643QHUvRNchbEDfcDvMILB) | [Johnny & The Hurricanes](https://open.spotify.com/artist/5sgpmIi6mJNrm3fs3swCa7), [Johnny Paris](https://open.spotify.com/artist/3LzZD1ZCFsFRJfdRJRjaRl) | [Red River Rock](https://open.spotify.com/album/02IbUTmOjG1JiBNbJ1igvQ) | 2:18 |
-| 140 | [Rocket 88](https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g) | [Ike Turner](https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb) | [Presenting Ike Turner](https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC) | 2:49 |
-| 141 | [Is You Is or Is You Ain't My Baby \- 2002 Remaster](https://open.spotify.com/track/42gjKLOPmC7rjXZpDdTHcO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah '62](https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu) | 3:23 |
+| 138 | [Red River Rock](https://open.spotify.com/track/643QHUvRNchbEDfcDvMILB) | [Johnny & The Hurricanes](https://open.spotify.com/artist/5sgpmIi6mJNrm3fs3swCa7), [Johnny Paris](https://open.spotify.com/artist/3LzZD1ZCFsFRJfdRJRjaRl) | [Red River Rock](https://open.spotify.com/album/02IbUTmOjG1JiBNbJ1igvQ) | 2:18 |
+| 139 | [Rocket 88](https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g) | [Ike Turner](https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb) | [Presenting Ike Turner](https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC) | 2:49 |
+| 140 | [Is You Is or Is You Ain't My Baby \- 2002 Remaster](https://open.spotify.com/track/42gjKLOPmC7rjXZpDdTHcO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah '62](https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu) | 3:23 |
+| 141 | [Flyin' Saucers Rock & Roll](https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Flyin' Saucers Rock & Roll / I Want You Baby](https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS) | 2:02 |
 | 142 | [Waitin' In School \- Remastered](https://open.spotify.com/track/5zYvVUfInIEx5xGR2qe3Ls) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Nelson \(Expanded Edition / Remastered\)](https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt) | 2:02 |
 | 143 | [Boppin' The Blues](https://open.spotify.com/track/0wNnwLgq5N9lWYib8eUnu6) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:47 |
 | 144 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 |
 | 145 | [Just In Time \- Remastered/1998](https://open.spotify.com/track/1UzlJGnPQLCIDAHuKSjQQT) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 2:14 |
 | 146 | [Lipstick On Your Collar](https://open.spotify.com/track/5Y1GkapUCSqXvoAujohJL2) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:18 |
-| 147 | [Flyin' Saucers Rock & Roll](https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Flyin' Saucers Rock & Roll / I Want You Baby](https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS) | 2:02 |
-| 148 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
-| 149 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 |
-| 150 | [Ain't Got No Home \- Rerecorded](https://open.spotify.com/track/635WSqOORhDgO8sWWEoGen) | [Clarence "Frogman" Henry](https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf) | [20 Best of Doo Wop](https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5) | 2:18 |
+| 147 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
+| 148 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 |
+| 149 | [Ain't Got No Home \- Rerecorded](https://open.spotify.com/track/635WSqOORhDgO8sWWEoGen) | [Clarence "Frogman" Henry](https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf) | [20 Best of Doo Wop](https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5) | 2:18 |
+| 150 | [Move It \- Live; 1998 Remaster](https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [Cliff: Cliff Sings](https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er) | 2:18 |
 
-Snapshot ID: `MTY1NDc3NTk4NywwMDAwMDAwMGY3MTI2N2JjODYyNjQzZTZkNDgxNmQ1ODBjYjZmOWUx`
+Snapshot ID: `MTY1NDc3NTk4NywwMDAwMDAwMDUzNDYxZjE1ZjVmNjI2ZTU3OTE3OWRjNWQxZjhkYTAx`

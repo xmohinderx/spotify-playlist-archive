@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,529 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,659 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 49 | [Ghosts](https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 5:54 |
 | 50 | [Pink Cadillac \- Single B\-Side \- 1984](https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:33 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBkNjg0NWRlNmMwYzE3ZjY0ZjhkZDQyMTg4YmE4MzNhYg==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA1OGY5MWRlNmYzMmQ1NDQ4ZjcyMzQwNDJjNGMwYjI3Mw==`

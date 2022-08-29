@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Elton John, Britney Spears
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,150 likes - 77 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,153 likes - 77 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

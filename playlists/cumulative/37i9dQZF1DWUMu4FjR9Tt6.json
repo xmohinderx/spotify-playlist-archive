@@ -568,6 +568,24 @@
     },
     {
       "album": {
+        "name": "The Hawk (Extended)",
+        "url": "https://open.spotify.com/album/3xJoOTCkExSEqCjs8rG8ss"
+      },
+      "artists": [
+        {
+          "name": "Four Holidays",
+          "url": "https://open.spotify.com/artist/0W87O5rwe9qdB7k3LieHgZ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141266,
+      "name": "He Can't Love You",
+      "url": "https://open.spotify.com/track/0eZ2GOZGaDdsR5IXENExD1"
+    },
+    {
+      "album": {
         "name": "The Hawk",
         "url": "https://open.spotify.com/album/6t08qdgCTaJV5CfUsTIuS4"
       },
@@ -583,7 +601,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 135743,
       "name": "He Can't Love You",
       "url": "https://open.spotify.com/track/1ieNiEe17fvlHnqalSoKZB"

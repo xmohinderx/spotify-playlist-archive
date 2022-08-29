@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Kevin Kaarl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,206 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,107 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

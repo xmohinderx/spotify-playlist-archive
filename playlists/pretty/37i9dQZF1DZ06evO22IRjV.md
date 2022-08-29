@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,107 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,104 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 20 | [1/3の純情な感情](https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST](https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA) | 3:53 |
 | 21 | [BURN](https://open.spotify.com/track/2gUYrbCQ3kbtPr6Xcte7IB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:04 |
 | 22 | [DICE](https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE](https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1) | 4:25 |
-| 23 | [燈](https://open.spotify.com/track/5U5ZUDFkEDbErnxGUISDI5) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [燈](https://open.spotify.com/album/61xd3iE3CxUoBoswb7xrZ5) | 3:52 |
-| 24 | [虹の空 \-Album Ver\-](https://open.spotify.com/track/2s6rDhIa7l0UKvZGMOkSNs) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:44 |
+| 23 | [虹の空 \-Album Ver\-](https://open.spotify.com/track/2s6rDhIa7l0UKvZGMOkSNs) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:44 |
+| 24 | [燈](https://open.spotify.com/track/5U5ZUDFkEDbErnxGUISDI5) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [燈](https://open.spotify.com/album/61xd3iE3CxUoBoswb7xrZ5) | 3:52 |
 | 25 | [Answer](https://open.spotify.com/track/0lDEkAEv0QuxJGZ1nn4JIx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [アイル](https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg) | 4:39 |
 | 26 | [Hey!!!](https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [BLACK & WHITE](https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF) | 3:42 |
 | 27 | [PENDULUM](https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [TRIBALYTHM](https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar) | 4:12 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 44 | [Rookie](https://open.spotify.com/track/5Y1OvLqXxai7ZDTjtenWDm) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Golden Coast](https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB) | 3:24 |
 | 45 | [新世界](https://open.spotify.com/track/7bSJx8t6xQUlajgS0UecmL) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [新世界](https://open.spotify.com/album/6vjP2Ye1v3lFyG0CcwRnCf) | 3:53 |
 | 46 | [愛愛愛に撃たれてバイバイバイ \-Album Mix\-](https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [26 a Go Go !!!](https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs) | 4:09 |
-| 47 | [GLOW](https://open.spotify.com/track/1RDryrNg8yuMfMb51Geosd) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf) | 5:10 |
-| 48 | [NOT ENOUGH \- feat\. FLOW](https://open.spotify.com/track/1nwJKZkhSmVQBq9qxEdgUT) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [NOT ENOUGH \(feat\. FLOW\)](https://open.spotify.com/album/32ft4dKQZ22vGyKGd2WWzh) | 3:22 |
+| 47 | [NOT ENOUGH \- feat\. FLOW](https://open.spotify.com/track/1nwJKZkhSmVQBq9qxEdgUT) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [NOT ENOUGH \(feat\. FLOW\)](https://open.spotify.com/album/32ft4dKQZ22vGyKGd2WWzh) | 3:22 |
+| 48 | [GLOW](https://open.spotify.com/track/1RDryrNg8yuMfMb51Geosd) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf) | 5:10 |
 | 49 | [New World](https://open.spotify.com/track/0M2LuymnC548vTI54BxDNA) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [7 \-Seven\-](https://open.spotify.com/album/0wc895FLav9IyYVgGe8U1o) | 3:43 |
 | 50 | [モメント](https://open.spotify.com/track/1PpedV5nWpHk2R23ARixX9) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE \(Complete Edition\)](https://open.spotify.com/album/4PepWTYHniNNHAM5kbSk0Q) | 3:58 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBkOWE4MWY0OGFlYzQzNTY0N2M2ZmZmNGU2Yzk0NmIxMg==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBlNjhjZTg5YTdjOTc1ZGNjNDEwNmIxMjZkYjA5ZDYzYg==`

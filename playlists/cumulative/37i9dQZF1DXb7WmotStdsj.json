@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "Amour \u00e9ternel",
+        "url": "https://open.spotify.com/album/0rnOYqNe9BKgJw9VS12Zp0"
+      },
+      "artists": [
+        {
+          "name": "Cheb Wahid",
+          "url": "https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302307,
+      "name": "Amour \u00e9ternel",
+      "url": "https://open.spotify.com/track/4Sea9Lf0PINpNxhZi1N0eK"
+    },
+    {
+      "album": {
         "name": "Bagi Nwali Milliardaire",
         "url": "https://open.spotify.com/album/0HLrF0mYDsHcIPtUcILGhN"
       },

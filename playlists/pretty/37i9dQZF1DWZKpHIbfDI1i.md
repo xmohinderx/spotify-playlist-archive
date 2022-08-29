@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Danna Paola en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,857 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,216 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 61 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 |
 | 62 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
 | 63 | [Llévame](https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mundo](https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9) | 3:01 |
-| 64 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 64 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 65 | [El Callado](https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Callado](https://open.spotify.com/album/4hVjflE1kDLzwLNOtDsNq9) | 2:58 |
 | 66 | [Un Chingazo](https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Un Chingazo](https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG) | 3:09 |
 | 67 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,106 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,129 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 34 | [La Ruleta](https://open.spotify.com/track/3mK4Zv1oitX7LyUsKsVhwh) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:44 |
 | 35 | [A Punto De Llorar](https://open.spotify.com/track/37L9WDAl7Y81QYhkgoxJBQ) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Íconos 25 Éxitos](https://open.spotify.com/album/5sGSpfHovVN7Nvj4WWvZQR) | 3:01 |
 | 36 | [Voy A Dejarte](https://open.spotify.com/track/1P7iWhnMV5gY8jpxaEMNWW) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Pos' Que No...Claro Que Si](https://open.spotify.com/album/5tOoa6i00CvfkkBGJSrJtP) | 3:18 |
-| 37 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
-| 38 | [Tenía Razón Mi 'Amá](https://open.spotify.com/track/7fuPZGzcmnE6mio5Rsb9lM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:01 |
+| 37 | [Tenía Razón Mi 'Amá](https://open.spotify.com/track/7fuPZGzcmnE6mio5Rsb9lM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:01 |
+| 38 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
 | 39 | [Reina De Reyes](https://open.spotify.com/track/2Ey4ALvSymgKNQTXgnITHo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Moraleja](https://open.spotify.com/album/3l5CzjCkJqSBhvbwtrtATL) | 3:14 |
 | 40 | [El Maquinista](https://open.spotify.com/track/3mcYBTMWzLUn9E1sYPDuxk) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 3:03 |
 | 41 | [Mi Amor No Lo Mereces](https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 2:39 |
-| 42 | [¿Y Ahora Que?](https://open.spotify.com/track/2fSzRd5DUY27pBuFSaqRSW) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Pese A Quien Le Pese](https://open.spotify.com/album/1umeqNZCptQODifsdTUmOi) | 3:25 |
-| 43 | [Juan Marta](https://open.spotify.com/track/6JljTeuO2CI8J8Ou0QaUx9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Golosa](https://open.spotify.com/album/3TjccwMpSvm064wsjxbTzT) | 3:31 |
+| 42 | [Juan Marta](https://open.spotify.com/track/6JljTeuO2CI8J8Ou0QaUx9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Golosa](https://open.spotify.com/album/3TjccwMpSvm064wsjxbTzT) | 3:31 |
+| 43 | [¿Y Ahora Que?](https://open.spotify.com/track/2fSzRd5DUY27pBuFSaqRSW) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Pese A Quien Le Pese](https://open.spotify.com/album/1umeqNZCptQODifsdTUmOi) | 3:25 |
 | 44 | [Renunciacion](https://open.spotify.com/track/2z33LxY7FyiJA6Dyl5jVby) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Lo Bueno Lo Mejor](https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54) | 3:11 |
 | 45 | [Una Mujer Como Tú](https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:09 |
 | 46 | [Dulces Mentiras](https://open.spotify.com/track/1s90RxawZmkzRvL17uQbYP) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 49 | [Como Piedra En Pozo](https://open.spotify.com/track/1AIN8gEZXRwTJ30YYZsGjo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Aventura Pasada](https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx) | 2:39 |
 | 50 | [Desprecios Y Mentiras](https://open.spotify.com/track/2WXZzMxOFESxUETXSgPpoM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Y Que El Mundo Ruede](https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0) | 3:39 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBhODZkZjlhNDcxNzZhODJhZDVlZDVjZjQ0MjhhYjJiZA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA2NjMwMmNiY2Y5NTIyMWEzMWI4NThmNDNlMGNiMmMzZA==`

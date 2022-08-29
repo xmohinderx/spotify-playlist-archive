@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Ivonne Galaz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,913 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,958 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 27 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 |
 | 28 | [El H](https://open.spotify.com/track/2ztok6d84IR08FrwByYEEW) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:55 |
 | 29 | [No Te Lo Voy a Negar \(feat\. HERNAN TREJO\)](https://open.spotify.com/track/340OYprIslmjNCuJZKRjwn) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [No Te Lo Voy a Negar \(feat\. HERNAN TREJO\)](https://open.spotify.com/album/1qc0uWlaS1bswH57YVEZHU) | 4:00 |
-| 30 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 30 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 31 | [Yo Soy El Pirata](https://open.spotify.com/track/6syuatoW05nFiHFcT0uoKJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Yo Soy El Pirata](https://open.spotify.com/album/1sSKz7PYco6qblWi8cIZoM) | 2:48 |
 | 32 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 |
 | 33 | [Tiempos de Guerra](https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Tiempos de Guerra](https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt) | 2:52 |

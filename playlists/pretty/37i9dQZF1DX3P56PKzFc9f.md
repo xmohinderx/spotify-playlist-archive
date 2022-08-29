@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3P56PKzFc9f.md) - [plain]
 
 > Home is where the heart is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,150 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,185 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -9782,6 +9782,24 @@
     },
     {
       "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/0XXzAo1VN3kdJmt1Z8YA14"
+      },
+      "artists": [
+        {
+          "name": "The Afghan Whigs",
+          "url": "https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185826,
+      "name": "The Getaway",
+      "url": "https://open.spotify.com/track/6v4T1yS6LCRPMHE4zrgfKU"
+    },
+    {
+      "album": {
         "name": "The Piper at the Gates of Dawn",
         "url": "https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC"
       },

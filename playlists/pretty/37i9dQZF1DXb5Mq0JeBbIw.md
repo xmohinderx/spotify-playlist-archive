@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,509 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,543 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

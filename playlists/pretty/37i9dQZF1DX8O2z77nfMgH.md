@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Karol G y Maldy
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,894 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,005 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 5 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 |
 | 6 | [Corazoncito \- Regional Mexican Version](https://open.spotify.com/track/1NtLJWyxSzbu0HcKg6rCGG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 2:21 |
 | 7 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
-| 8 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/5CuMcMc7DifQ9BVwi2ZXgY) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
+| 8 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/30wdrkW0hVWYdLxmUaIYZp) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
 | 9 | [Ojos Marrones \- Con Sebastián Yatra](https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ojos Marrones \(Con Sebastián Yatra\)](https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd) | 3:18 |
 | 10 | [Si Es Trucho Es Trucho \(feat\. El Alfa & Farruko\) \- Tiësto Remix](https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Si Es Trucho Es Trucho \(feat\. El Alfa & Farruko\) \[Tiësto Remix\]](https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt) | 2:26 |
 | 11 | [Idilio](https://open.spotify.com/track/5FtjZf2fUJpwIrAkJwsK21) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Idilio](https://open.spotify.com/album/0g8fVIMvb5v9atJ0Uzv42o) | 2:44 |

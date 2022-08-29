@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-162 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
+163 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [C’Mon Everybody](https://open.spotify.com/track/7Lfp7FsKI4buEJYbMlt7QU) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 1:56 | 2022-05-06 |  |
 | [Daddy Cool / The Girl Can't Help It](https://open.spotify.com/track/10b9TrZBf0uP1EtAZHcKNh) | [Darts](https://open.spotify.com/artist/4PAOIh8yFHsrG0B0eDjOsY) | [Double Top \(Very Best Of\)](https://open.spotify.com/album/3xe1R7xAwmWqIfQqjbKhIa) | 2:29 | 2022-05-06 | 2022-08-19 |
 | [Debt With the Devil](https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q) | [Hillbilly Casino](https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO) | [Tennessee Stomp](https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni) | 2:13 | 2022-05-06 |  |
+| [Devil On My Shoulder](https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu) | [Kim Lenz & Her Jaguars](https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB) | [Kim Lenz And Her Jaguars](https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL) | 2:37 | 2022-08-12 |  |
 | [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 | 2022-07-05 | 2022-07-18 |
 | [Don't Come Knocking on My Door](https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Small Town Pimps](https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS) | [Don't Come Knocking on My Door](https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h) | 3:17 | 2022-05-06 |  |
 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 | 2022-05-06 | 2022-07-26 |
@@ -119,7 +120,7 @@
 | [Rebel Rouser](https://open.spotify.com/track/7jZwak3w1Sbwkb8aqusUwi) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [Twangin' The Golden Hits](https://open.spotify.com/album/5Q1rt5amRpPHzxAQnJkmd0) | 2:33 | 2022-07-05 |  |
 | [Red Cadillac And A Black Moustache](https://open.spotify.com/track/3GehJ8OZucZbEYmoB8fFRb) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [Rockabilly Sunset](https://open.spotify.com/album/75Arzpfai83IJjlYWZwGwG) | 2:35 | 2022-05-06 | 2022-07-28 |
 | [Red Hot](https://open.spotify.com/track/024xjVutLFgK3gInQCJxGj) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Very Best of Billy Lee Riley \- Red Hot](https://open.spotify.com/album/4RwrbZL7arossJkEToJsQi) | 2:29 | 2022-05-06 | 2022-07-29 |
-| [Red Hot](https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Red Hot / Pearly Lee](https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC) | 2:29 | 2022-07-05 |  |
+| [Red Hot](https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Red Hot / Pearly Lee](https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC) | 2:29 | 2022-07-05 | 2022-08-29 |
 | [Red Hot Car](https://open.spotify.com/track/4HoMuhnMw4ATOpfoI1gIym) | [Bobby Verne](https://open.spotify.com/artist/4vV8C8MfhRTOkl4PWVUF06) | [Keb Darge and Little Edith's Legendary Wild Rockers 5](https://open.spotify.com/album/2wrotF5eXgi7xCCKfqp4Jt) | 2:34 | 2022-05-06 | 2022-07-18 |
 | [Red Light \(Spells Danger\)](https://open.spotify.com/track/0Ujsx46cUBEIgt1rwLl6Wc) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD) | 3:05 | 2022-07-05 |  |
 | [Red Light \(Spells Danger\)](https://open.spotify.com/track/3fxkvUbO7w8CvHIGm4jnag) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/6WndJ7LmJSgozZcKFUVhC6) | 3:05 | 2022-05-06 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,382 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,385 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 38 | [La Muerta](https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:35 |
 | 39 | [Ya Llego la Banda Toro](https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:31 |
 | 40 | [Me Rio de Miedo](https://open.spotify.com/track/6WyCpcJaffr4lE9dmw0CiE) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:15 |
-| 41 | [Gema](https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:20 |
-| 42 | [Libro Abierto \- Con Mariachi](https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mis Primeras Canciones](https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs) | 2:01 |
+| 41 | [Libro Abierto \- Con Mariachi](https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mis Primeras Canciones](https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs) | 2:01 |
+| 42 | [Gema](https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:20 |
 | 43 | [El Gavilan](https://open.spotify.com/track/3UYUgdnBCbK8jgTKExNy1E) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 3:18 |
-| 44 | [El Pajaro Chogui](https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:43 |
-| 45 | [Te Sigo Amando](https://open.spotify.com/track/3hjU0dV58noafui2zYVnts) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:28 |
-| 46 | [El Pescuezo del Pollo](https://open.spotify.com/track/5JjQCDBEc9XHfTrjR1rAOO) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:26 |
+| 44 | [El Pescuezo del Pollo](https://open.spotify.com/track/5JjQCDBEc9XHfTrjR1rAOO) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:26 |
+| 45 | [El Pajaro Chogui](https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:43 |
+| 46 | [Te Sigo Amando](https://open.spotify.com/track/3hjU0dV58noafui2zYVnts) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:28 |
 | 47 | [El Parrandero](https://open.spotify.com/track/1OLk8kkjWQfaqQIxT5hq9d) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 3:27 |
-| 48 | [Ritmo Sabroson](https://open.spotify.com/track/1scnMYXYTgyP0MqdBAUDwb) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:36 |
-| 49 | [Vamos a la Playa](https://open.spotify.com/track/72oywVmmUrqh1uZeY032YA) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 3:57 |
-| 50 | [Los Gringos](https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:25 |
+| 48 | [Los Gringos](https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:25 |
+| 49 | [Ritmo Sabroson](https://open.spotify.com/track/1scnMYXYTgyP0MqdBAUDwb) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:36 |
+| 50 | [Vamos a la Playa](https://open.spotify.com/track/72oywVmmUrqh1uZeY032YA) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 3:57 |
 
-Snapshot ID: `Mjc2OTM0NDYsMDAwMDAwMDA4NTNlZGQ1N2VhNDAzNDA5ZTNhMDNhMmVmZGJlZTdlZQ==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDAzMjA5NmUzNzQxODJhYTNjNDI3OWEyZWE1YjEzNzM5OQ==`

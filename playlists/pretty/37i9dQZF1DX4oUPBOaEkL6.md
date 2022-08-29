@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 
 > The hottest Latin hits in the US! Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,727,273 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,727,424 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

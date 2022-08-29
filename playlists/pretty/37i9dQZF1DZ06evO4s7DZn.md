@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,188 likes - 39 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,190 likes - 39 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 38 | [Carola \- En Vivo](https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 6:54 |
 | 39 | [Que Le Vaya Bien \- En Vivo](https://open.spotify.com/track/7aCSchlgYsQbkfKxLISveJ) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 4:09 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBiMGVjNzFiYjM4YWMxOTg5MTRkOWUzYzMwMjAzYzIwYw==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBmMjVkOGRjYzcyM2E5YzZhNTVlNzY3MWIyZjNhNWFhMg==`

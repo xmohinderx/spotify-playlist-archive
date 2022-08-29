@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Sports Team
 
-238 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+239 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [I Feel So Cold But It's Warm Outside](https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [World Below](https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i) | 2:54 | 2022-08-18 |  |
 | [I Love You](https://open.spotify.com/track/2rDaHAwvDFpSR6hta7re5l) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/1ysn1KuQSSRBK96J17wGyD) | 5:05 | 2022-02-18 | 2022-07-29 |
 | [I Love You](https://open.spotify.com/track/4mKn6gwhP3HYuo11aNqI2y) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 5:05 | 2022-04-01 | 2022-08-19 |
-| [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-08-18 |  |
+| [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 | 2022-08-18 |  |
+| [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-08-18 | 2022-08-29 |
 | [I'll Make You Sorry](https://open.spotify.com/track/3d0BFjnCZeU2h3Dy7Ub56q) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/27WCDmHjVFzzdhxjqMKDgD) | 4:11 | 2021-03-09 | 2022-01-17 |
 | [I'm Just High](https://open.spotify.com/track/6HSXtGantJn5oWHwUcS01C) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [I’m Just High](https://open.spotify.com/album/0QAcRow6Z3bgb1rNtRPDEh) | 3:21 | 2022-08-18 |  |
 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 | 2022-08-18 |  |

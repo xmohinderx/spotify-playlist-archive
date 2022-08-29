@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,955 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,015 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

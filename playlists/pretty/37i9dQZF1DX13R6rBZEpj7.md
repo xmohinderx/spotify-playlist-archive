@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Zero
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,857 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,943 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

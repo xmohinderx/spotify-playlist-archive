@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, Armin van Buuren, R3HAB, Simon Ward
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,475 likes - 100 songs - 5 hr 10 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,474 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 71 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
 | 72 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 |
 | 73 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 |
-| 74 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 |
-| 75 | [Fav Boyz \(feat\. Thutmose\) \- Steve Aoki's Gold Star Remix](https://open.spotify.com/track/0jYtnvT7QIGeAyJ5wbOZsj) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Fav Boyz \(Steve Aoki's Gold Star Remix\)](https://open.spotify.com/album/4p15vw43AeTpxA70sTnjvX) | 3:50 |
+| 74 | [Fav Boyz \(feat\. Thutmose\) \- Steve Aoki's Gold Star Remix](https://open.spotify.com/track/0jYtnvT7QIGeAyJ5wbOZsj) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Fav Boyz \(Steve Aoki's Gold Star Remix\)](https://open.spotify.com/album/4p15vw43AeTpxA70sTnjvX) | 3:50 |
+| 75 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 |
 | 76 | [1, 2 Step \(Supersonic\)](https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [1, 2 Step \(Supersonic\)](https://open.spotify.com/album/4VX1pbjA9f0CKhuGRMBuZx) | 2:56 |
 | 77 | [Start Over](https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3) | [Allergic](https://open.spotify.com/artist/13tMH74ba9ZKRhh1Lx1QQX) | [Start Over](https://open.spotify.com/album/212iwiH8pN4s0RNnHH9sex) | 2:42 |
 | 78 | [Lights Out](https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Lights Out](https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [Feel The Vibe](https://open.spotify.com/track/12RAnp0xkdW22UGfgejElE) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Astrotrax](https://open.spotify.com/artist/0a2I09UQdWzcaUNwdjSjuc), [Shola Phillips](https://open.spotify.com/artist/28sPI1wCY2agHaLPz2Y5O3) | [Feel The Vibe](https://open.spotify.com/album/4jsHIqSscZmgLYIet5ikbm) | 3:05 |
 | 100 | [Story](https://open.spotify.com/track/2lKgMEjNbAq3cX93QuSfft) | [Thomas Irwin](https://open.spotify.com/artist/0gQVc6ZiCAzLXqyISPi0qT) | [Story](https://open.spotify.com/album/1RrdMjj57IqU76gY2JEnQJ) | 2:48 |
 
-Snapshot ID: `MTM4OCw0OTBjM2FkYmVlYzI0MmY4MzZkNzA0MDc5NmJmNTU1NDA1MTI1MDU0`
+Snapshot ID: `MTM4OSw1N2RkNDYwMWQwNTc2MDFiMTg1NjQyMjE5OTk3YTM5MzhiZTk2MDll`

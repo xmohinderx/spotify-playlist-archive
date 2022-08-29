@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,956 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,949 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 24 | [Silver Bells](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 |
 | 25 | [Santa Claus Got Stuck \(In My Chimney\)](https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Complete Decca Singles Vol\. 4: 1950\-1955](https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM) | 3:09 |
 | 26 | [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 |
-| 27 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 |
-| 28 | [The Man with the Bag \(Remastered 2022\)](https://open.spotify.com/track/6H6562sDE7h9pT2ARFjWoA) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Essential Classics, Vol\. 28: Kay Starr \(Remastered 2022\)](https://open.spotify.com/album/4Qk2j61UJwACEcfRGqemFX) | 2:42 |
+| 27 | [\(Everybody's Waitin' For\) The Man With The Bag \- Remastered 1996](https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Ultra\-Lounge: Christmas Cocktails](https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t) | 2:42 |
+| 28 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 |
 | 29 | [Show Me The Magic](https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Show Me The Magic](https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq) | 2:30 |
 | 30 | [Mele Kalikimaka](https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:33 |
 | 31 | [Mr\. Christmas](https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 59 | [Little White Berry](https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am), [Ben Castle](https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 3:24 |
 | 60 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 |
 
-Snapshot ID: `MTY0MTE5OTk3OCwwMDAwMDAwMDUyNmRhMTU2M2IxYjRjNDhjMmUxNDg0YjhmM2E3MGFj`
+Snapshot ID: `MTY0MTE5OTk3OCwwMDAwMDAwMGQ3ODBjYTA4Mzc4MTkxYzc1MTdjNzRhNjRlYzFhNjU4`

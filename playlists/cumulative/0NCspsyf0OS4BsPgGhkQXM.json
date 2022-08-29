@@ -8752,6 +8752,24 @@
     },
     {
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/7gYw0aHBDQ3il1QzOKpanx"
+      },
+      "artists": [
+        {
+          "name": "Sidewalks and Skeletons",
+          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172048,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/3FsvEEbnIbJzNdpFndf5iM"
+    },
+    {
+      "album": {
         "name": "Dime A Dozen",
         "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
       },

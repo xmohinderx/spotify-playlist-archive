@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-261 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+262 songs - 17 hr 21 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [CITY FLIGHT](https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [EP\-3](https://open.spotify.com/album/2abkuqj2lyCwE0dyQlnyMK) | 4:05 | 2022-05-24 | 2022-07-29 |
 | [Cosmic Love \(2021 Remix\)](https://open.spotify.com/track/0aXtD6yVzjYAdHcHVo16hU) | [1986 Omega Tribe](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [The Reverb 2022 OMEGA TRIBE \-VAP Edition\-](https://open.spotify.com/album/0YmD6k6pMLxnb9E3R1DdsY) | 4:12 | 2022-06-14 |  |
 | [Cry Now feat\. Chiaki Sato](https://open.spotify.com/track/4c1wyYgYhN8ckz4eOccw7r) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Cry Now feat\. Chiaki Sato](https://open.spotify.com/album/0eaGXqRgtmSVu2Dxvj6Ob4) | 4:12 | 2022-06-07 | 2022-07-10 |
+| [dance](https://open.spotify.com/track/4vURlCR65nymieanZFI26k) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [dance](https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5) | 3:19 | 2022-08-28 |  |
 | [Dance Today](https://open.spotify.com/track/4wJ3itF8IqpLBUdXqcawyH) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [SAMOEDO](https://open.spotify.com/album/43wwD2jSZ0cDAY6r4Zrr9t) | 2:07 | 2022-07-14 | 2022-07-20 |
 | [Day In Day Out](https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Day In Day Out](https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5) | 2:58 | 2022-06-14 | 2022-06-29 |
 | [Do you remember](https://open.spotify.com/track/3CPSBqZ58PQVzKnbwHBzsn) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Do you remember](https://open.spotify.com/album/69jHyS1wnU0YHFKCD55xQW) | 5:08 | 2022-06-21 | 2022-07-18 |
@@ -115,7 +116,7 @@
 | [PINK](https://open.spotify.com/track/2ep6JNo4lc3X9auNz575NE) | [桐生ちあり](https://open.spotify.com/artist/4WDwuJkUyjRpFACkXoCh4J) | [日常](https://open.spotify.com/album/3MLtWoulPfU1BCmjwFGuow) | 3:15 | 2022-06-16 | 2022-06-22 |
 | [Play Date](https://open.spotify.com/track/4gOriOXLBacndXNxdsjWHi) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Rie Tomosaka](https://open.spotify.com/artist/4Ozr0TBXSYzgGSF6cI1ks7) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:09 | 2022-06-07 | 2022-07-28 |
 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 | 2022-05-24 |  |
-| [pure](https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [pure](https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA) | 3:45 | 2022-06-21 |  |
+| [pure](https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [pure](https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA) | 3:45 | 2022-06-21 | 2022-08-29 |
 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 | 2022-07-19 |  |
 | [Rainy Runway](https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Rainy Runway](https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH) | 4:01 | 2022-06-21 |  |
 | [Rainy Talk](https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [Golden Circle](https://open.spotify.com/album/57BcxFEK536HPkPFLW6pI2) | 3:29 | 2022-05-24 | 2022-07-20 |

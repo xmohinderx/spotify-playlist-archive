@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,063 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,068 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 75 | [Writer's Block](https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [The Anecdote](https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q) | 3:38 |
 | 76 | [MIRACLE\(Album version\)](https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 2:03 |
 | 77 | [Brrr Get$](https://open.spotify.com/track/4kiD38roQQBlqEGMyTJXXh) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [JOWOOCHAN](https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Show Me the Money 6 Episode 3](https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa) | 4:23 |
-| 78 | [RESPECT \(feat\. GRAY & DJ Pumkin\)](https://open.spotify.com/track/75SBGFK831bsaD2QwBF4WR) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [DJ Pumkin](https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [RESPECT](https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT) | 3:04 |
+| 78 | [RESPECT \(feat.GRAY & DJ Pumkin\)](https://open.spotify.com/track/75SBGFK831bsaD2QwBF4WR) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [DJ Pumkin](https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [RESPECT](https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT) | 3:04 |
 | 79 | [SLASH \(Feat\. BIGONE\)](https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud) | [DO HAN SE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [BLAZE](https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ) | 2:11 |
 | 80 | [UDUDSTND \(Feat\. unofficialboyy, The Quiett\)](https://open.spotify.com/track/1smZ7W4gwWb8VezmLM6YRr) | [obiegogle](https://open.spotify.com/artist/7A90OUMBG7u61jxhAuz6to), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [PIXXEL](https://open.spotify.com/album/65PPkAKD3Np9uKA4zTQ2MV) | 3:03 |
 | 81 | [YOUTH! \(feat\. Bewhy, HAON & Coogie\)](https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [YOUTH! \(feat\. Bewhy, HAON & Coogie\)](https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap) | 3:26 |

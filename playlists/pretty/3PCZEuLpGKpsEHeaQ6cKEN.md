@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Mahalo
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 286,007 likes - 150 songs - 7 hr 46 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 286,006 likes - 150 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

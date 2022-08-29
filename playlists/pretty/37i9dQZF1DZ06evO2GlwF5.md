@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,468 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,472 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 | 16 | [指輪 \(Single Ver.\)](https://open.spotify.com/track/4LC4d4EHBSbWrFjdAQLG08) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「劇場用アニメーション エスカフローネ」主題歌 指輪](https://open.spotify.com/album/5WCmfHEXY07CkH1QORjNX7) | 3:43 |
 | 17 | [さいごの果実](https://open.spotify.com/track/3HMuIXGPVWXGUsdZpxyqrv) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [さいごの果実/ミツバチと科学者](https://open.spotify.com/album/7FFDPVVPKMnjlduHESU0CJ) | 4:48 |
 | 18 | [風待ちジェット](https://open.spotify.com/track/6elfYXeja90gz3lK3uvz4p) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [風待ちジェット / スピカ](https://open.spotify.com/album/3utevH6XoZFSjyurc7lPFT) | 3:51 |
-| 19 | [逆光](https://open.spotify.com/track/4G60bHjDnAihnuswrq7tk3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 4:48 |
-| 20 | [Break Free \- Japan Version](https://open.spotify.com/track/3svcAbXBX9Z4D8VqOL0bZN) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Tsukasa Saito](https://open.spotify.com/artist/0gpOzMyESiSTYaACIWLZW2) | [Sing 2 \(Original Motion Picture Soundtrack\) \[Alternate Version\]](https://open.spotify.com/album/4oPdS6pmyJhtm5W6TwzY7E) | 1:32 |
+| 19 | [Break Free \- Japan Version](https://open.spotify.com/track/3svcAbXBX9Z4D8VqOL0bZN) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Tsukasa Saito](https://open.spotify.com/artist/0gpOzMyESiSTYaACIWLZW2) | [Sing 2 \(Original Motion Picture Soundtrack\) \[Alternate Version\]](https://open.spotify.com/album/4oPdS6pmyJhtm5W6TwzY7E) | 1:32 |
+| 20 | [逆光](https://open.spotify.com/track/4G60bHjDnAihnuswrq7tk3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 4:48 |
 | 21 | [色彩](https://open.spotify.com/track/3SbOOdiONumSVvLtsSBKOt) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [幸せについて私が知っている5つの方法/色彩](https://open.spotify.com/album/4f2jYtFDHK66bUVSSzD6MD) | 4:33 |
 | 22 | [CLEAR](https://open.spotify.com/track/1dmxpZEJUyxglqyuo3DqGh) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [CLEAR](https://open.spotify.com/album/0YbibgkIYu30V8Zz0pEJNd) | 4:15 |
 | 23 | [Million Clouds](https://open.spotify.com/track/3AXxeu6r2EvXgndlh7aKRf) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 4:58 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 | 45 | [blind summer fish](https://open.spotify.com/track/5RCbiXSR2r2cw3KcPk8wQZ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [イージーリスニング](https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg) | 3:54 |
 | 46 | [まだうごく](https://open.spotify.com/track/7cLNdxNArBlr3J5ArlbyeB) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [あなたを保つもの/まだうごく](https://open.spotify.com/album/5d3fMo5ShVeEdncXnSAtYy) | 5:48 |
 | 47 | [ディーゼル](https://open.spotify.com/track/6Ukab7uqNtX78FPBJOjVMA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 3:48 |
-| 48 | [独白](https://open.spotify.com/track/73S6qXMFVhXb4MchX0KmwU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [独白→躍動 <FGO盤>](https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ) | 4:42 |
-| 49 | [アルコ](https://open.spotify.com/track/4kYA4Y4D89TnnsCf0xYBRy) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:40 |
+| 48 | [アルコ](https://open.spotify.com/track/4kYA4Y4D89TnnsCf0xYBRy) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:40 |
+| 49 | [独白](https://open.spotify.com/track/73S6qXMFVhXb4MchX0KmwU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [独白→躍動 <FGO盤>](https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ) | 4:42 |
 | 50 | [レコード](https://open.spotify.com/track/6wozmCqO8767ylHwjgqrZC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [CLEAR](https://open.spotify.com/album/0YbibgkIYu30V8Zz0pEJNd) | 4:43 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBkMTFlZmNiMDc5YmNiMDVmMzM4ODQ4ZjcyN2Y2YjhjNQ==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDAxNGQ1NzI4MGU0ZmY1ZjQ5ODUxMTgzY2YxZmJjMmY5Mg==`

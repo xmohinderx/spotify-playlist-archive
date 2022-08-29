@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Funky, Lizzy Parra, y Odanis BSK
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,733 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,852 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu Manto \- Remix](https://open.spotify.com/track/0BEDr7n9SCehDvhJnQPYok) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Tu Manto \(Remix\)](https://open.spotify.com/album/4eKpL9SKZ8fqWIOYq6B4o9) | 3:44 |
-| 2 | [El Final de Mis Sueños](https://open.spotify.com/track/1gXYe5u8NUTKNc7tmEDJSS) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [El Final de Mis Sueños](https://open.spotify.com/album/41ylKotUgXDqeIidwtYvKD) | 4:34 |
+| 2 | [El Final de Mis Sueños](https://open.spotify.com/track/1gXYe5u8NUTKNc7tmEDJSS) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [El Final de Mis Sueños](https://open.spotify.com/album/41ylKotUgXDqeIidwtYvKD) | 4:34 |
 | 3 | [Doble Filo](https://open.spotify.com/track/6AGv5GVeeCGwNr2KeNPhRb) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Doble Filo](https://open.spotify.com/album/5yTsLpw3nxNRFq6eFX59qb) | 2:20 |
 | 4 | [Dios No Ha Terminado Contigo](https://open.spotify.com/track/37qiAdXakIsMmY5SgXdmHW) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Dios No Ha Terminado Contigo](https://open.spotify.com/album/7nX6ZExMSeiCviItKuku22) | 3:30 |
 | 5 | [Tu Bondad](https://open.spotify.com/track/7xURcWepR5TwKQMhA3vnMC) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Tu Bondad](https://open.spotify.com/album/6czX5yPQCPYjFp7QU0eoqU) | 4:15 |

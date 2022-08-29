@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,433 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,464 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [El Mas Chico De Los Anthrax](https://open.spotify.com/track/0Apq3JwAePBL2QKZJ0FMFO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:35 |
 | 50 | [El Blue](https://open.spotify.com/track/3CfSS20rhCGYdjJSbt5qCz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:18 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBhZGE0MTM4ODQ1ZGQyZjhmZmI4YTI5MTQwZDliZGRkMA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBlMjM1MGMyYTE1MDE5NmYxMmRkYmQ4NTc5YmEzZjY1Mg==`

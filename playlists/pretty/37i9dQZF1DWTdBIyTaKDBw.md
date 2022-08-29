@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,765 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,822 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

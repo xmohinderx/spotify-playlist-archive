@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 
 > The biggest rock songs of the last decade\. Cover: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,285 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,421 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

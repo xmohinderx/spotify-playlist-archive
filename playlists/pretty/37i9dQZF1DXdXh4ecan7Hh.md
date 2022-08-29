@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Kane Brown, Kelsea Ballerini & Breland
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,534 likes - 65 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,542 likes - 65 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

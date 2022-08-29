@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Prince Royce, Nicky Jam & Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,028 likes - 120 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,116 likes - 120 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

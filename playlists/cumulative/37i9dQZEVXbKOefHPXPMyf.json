@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA"
       },
@@ -4639,7 +4657,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 183473,
       "name": "I Didn't Know",
       "url": "https://open.spotify.com/track/4tUwl5pPya2cmezWS0xjeU"
@@ -7337,6 +7355,24 @@
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "album": {
+        "name": "Fleur froide",
+        "url": "https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212013,
+      "name": "N'y pense plus",
+      "url": "https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH"
     },
     {
       "album": {
@@ -11487,7 +11523,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 189453,
       "name": "Valen M\u00e1s",
       "url": "https://open.spotify.com/track/6zLhpwZfSmKXx3qCEYFmOa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > despacito que no llevamos prisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,649 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,699 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 21 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
 | 22 | [Mi Razon De Ser](https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Mis Canciones De La Web](https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP) | 2:52 |
 | 23 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/6Y7W7sn8mT1C6FatpoPhhd) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Negociaré Con la Pena](https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx) | 4:31 |
-| 24 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 24 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 25 | [Te Hubieras Ido Antes](https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [De México](https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV) | 3:19 |
 | 26 | [Un Chingazo](https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Un Chingazo](https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG) | 3:09 |
 | 27 | [Te Voy a Perder](https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Viento A Favor](https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor) | 4:10 |

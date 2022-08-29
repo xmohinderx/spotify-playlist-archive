@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,531 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,551 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

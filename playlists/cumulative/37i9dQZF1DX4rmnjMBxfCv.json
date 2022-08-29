@@ -84,6 +84,28 @@
     },
     {
       "album": {
+        "name": "Amira",
+        "url": "https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269231,
+      "name": "Amira",
+      "url": "https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB"
+    },
+    {
+      "album": {
         "name": "Bala Ehsas (Remix)",
         "url": "https://open.spotify.com/album/7E6xelo6R9ccoBJguBMwPf"
       },

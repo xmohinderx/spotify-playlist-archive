@@ -4,7 +4,7 @@
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-66 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/7u9fww2Kdc2yvh821ta38P)
+68 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/7u9fww2Kdc2yvh821ta38P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [BECØME THE FIRESTØRM](https://open.spotify.com/track/7GvQCTBtBQ5izny7E7AB9v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:59 | 2022-08-27 |  |
 | [BECØME THE FIRESTØRM](https://open.spotify.com/track/3EPgili2JS1ZR9LVMj05Rq) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ARRØWS IN WØRDS FRØM THE SKY](https://open.spotify.com/album/3161fhMWzGaExi9Dky5MlX) | 5:00 | 2022-05-30 | 2022-08-21 |
 | [Beyond The Pale](https://open.spotify.com/track/2kHl3Ngt6kJsCuwq23KMIE) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 4:31 | 2022-05-30 |  |
-| [Bite the Bullet](https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 3:21 | 2022-05-30 |  |
+| [Bite the Bullet](https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 3:21 | 2022-05-30 | 2022-08-29 |
 | [Blood for Blood](https://open.spotify.com/track/3v4qL2RefiQZnMCQNrZYyH) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 3:40 | 2022-05-30 |  |
 | [Bulldozer](https://open.spotify.com/track/6T5xfC1iWSXttGlq3rTtNo) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 4:35 | 2022-05-30 |  |
 | [Bulletproof](https://open.spotify.com/track/3niNvr5rU58SPKdtGeMSJD) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Civil Unrest](https://open.spotify.com/album/42eklVVP8Eosdti7osH01B) | 4:59 | 2022-05-31 | 2022-08-28 |
@@ -52,7 +52,8 @@
 | [Left Unfinished](https://open.spotify.com/track/7KtlcMi3ZTfgCXnTOXvQan) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 5:32 | 2022-06-12 | 2022-06-14 |
 | [Locust](https://open.spotify.com/track/2A9BLDVuT6lfbRK3ZKBCFz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 7:36 | 2022-05-30 |  |
 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 | 2022-05-30 |  |
-| [MY HANDS ARE EMPTY](https://open.spotify.com/track/6uFfNpLvsIesv0dNzsQPvT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [MY HANDS ARE EMPTY](https://open.spotify.com/album/66fbY55YzWvXGKIDEqxFAh) | 5:31 | 2022-05-30 |  |
+| [MY HANDS ARE EMPTY](https://open.spotify.com/track/4RqYIpKL0gu6iCXhDwTVGz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 5:29 | 2022-08-28 |  |
+| [MY HANDS ARE EMPTY](https://open.spotify.com/track/6uFfNpLvsIesv0dNzsQPvT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [MY HANDS ARE EMPTY](https://open.spotify.com/album/66fbY55YzWvXGKIDEqxFAh) | 5:31 | 2022-05-30 | 2022-08-29 |
 | [Night Of Long Knives](https://open.spotify.com/track/5t1GMDeC8YcTuTs5eV8yaI) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:48 | 2022-05-30 |  |
 | [None but My Own](https://open.spotify.com/track/2VH5baF4DFeG4Lk7E7L6pB) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 6:14 | 2022-05-30 |  |
 | [Nothing Left](https://open.spotify.com/track/4yFMPvLJSrGUbItgYQ5P1X) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:04 | 2022-08-26 | 2022-08-28 |
@@ -66,6 +67,7 @@
 | [Stop The Bleeding \(Feat\. Jesse Leach\)](https://open.spotify.com/track/0yK3bCcDM5cDDykBlQ5S2w) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Civil Unrest](https://open.spotify.com/album/42eklVVP8Eosdti7osH01B) | 3:03 | 2022-05-30 |  |
 | [Take My Scars](https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:19 | 2022-05-30 |  |
 | [Ten Ton Hammer](https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:14 | 2022-05-30 |  |
+| [TERMINUS](https://open.spotify.com/track/1rfcsJ4bISd8CMGcMLTX2y) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 1:12 | 2022-08-28 |  |
 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 | 2022-05-30 |  |
 | [The Burning Red](https://open.spotify.com/track/6I1TUZcHHhcFfI2GNfXcYU) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 6:43 | 2022-05-30 |  |
 | [The Rage to Overcome](https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:46 | 2022-05-30 |  |

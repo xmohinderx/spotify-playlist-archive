@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 921 likes - 38 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 922 likes - 38 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 37 | [Hombre Muerto](https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:42 |
 | 38 | [Dejala Que Baile](https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:56 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBjZGY2YTg2OTUwODk4ODNiZjVlYmYyMGI0NDNhODU3ZA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDAyN2NkOTNkMGUxMjE3NjI4YzZmMzk3MjM0YTBkODFiYQ==`

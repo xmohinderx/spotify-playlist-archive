@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,633 songs - 3 day 23 hr 10 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,634 songs - 3 day 23 hr 13 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,6 +1194,7 @@
 | [Right in Line](https://open.spotify.com/track/1BKFYfoyCpFM6GJqdaiHhB) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Memorophilia](https://open.spotify.com/album/39ELei8sTtSxKOhBtSicWl) | 3:01 | 2021-01-18 | 2021-02-04 |
 | [Right Now](https://open.spotify.com/track/6G5ig6ahvOfT7P84wyAy1x) | [BilDine](https://open.spotify.com/artist/6B3l1c3Ueu3W4rlJuL5Usy), [Ravyyyy](https://open.spotify.com/artist/01vFdVil8bIUsBnzZD9ZW2) | [Right Now](https://open.spotify.com/album/5P2whAI7Hm1HKa9vJuUxER) | 3:07 | 2022-08-26 |  |
 | [Right Now](https://open.spotify.com/track/1HJpqiER8rSK7EvGyyWlyb) | [Pandariza](https://open.spotify.com/artist/6CncvXUf8gONynDezyZ6ay) | [Right Now](https://open.spotify.com/album/0gH23ovOTblBlbJoetTIBG) | 3:00 | 2022-08-19 |  |
+| [RIPPLES](https://open.spotify.com/track/7v35K1s5i5smRRHQkUq8xJ) | [BANTA.](https://open.spotify.com/artist/67cC7FAq0g7QBM0AtxLrxl), [Snory](https://open.spotify.com/artist/0dqFBXDxYVSrc3UfXzAYaT) | [RIPPLES](https://open.spotify.com/album/20BoMnXQO82zPVROkpCv7N) | 2:59 | 2022-08-28 |  |
 | [Risk](https://open.spotify.com/track/07tFH8SfpNIkTYOb4QB100) | [16B](https://open.spotify.com/artist/3x3ONGPgKqKos9d8DqQPwp), [Omid 16B](https://open.spotify.com/artist/47aK6l0pdWgMUrHKsen2Cg) | [SunTzu](https://open.spotify.com/album/1rBMytGwI3GwqPVydXXvFU) | 8:10 | 2021-04-10 | 2021-04-26 |
 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 | 2019-10-18 | 2019-12-11 |
 | [River](https://open.spotify.com/track/4BQNZFleobPMwespDHtgxW) | [Doug Kees](https://open.spotify.com/artist/5SnFCa8IkB3e0nvHV4cDlt) | [Eleven](https://open.spotify.com/album/6BWUOuXjvunZPIV56tLFQx) | 4:12 | 2021-10-30 | 2021-11-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,840 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,872 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 49 | [Mother Puncher](https://open.spotify.com/track/0mMi2FQIfXbHb8SilRoX8R) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 3:50 |
 | 50 | [Fallen Torches](https://open.spotify.com/track/55PBokVAiehQnFfapP54PK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:22 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA5OGUxYjI4YWQ0MmY4YmRkNGU4NmY5ZTEzODkzODg4OA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA3OGRiMDAwMmZjYmQ4OWEyYzYyYWY1ODcwNmJmZTI3Mg==`

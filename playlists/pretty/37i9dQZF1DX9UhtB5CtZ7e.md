@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UhtB5CtZ7e.md) - [plain]
 
 > Cozy and sweet songs guaranteed to shield you from the blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,637 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,654 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

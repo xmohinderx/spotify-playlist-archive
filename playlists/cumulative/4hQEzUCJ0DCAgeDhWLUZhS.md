@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Muse
 
-317 songs - 19 hr 8 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+318 songs - 19 hr 12 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-05-21 | 2022-03-18 |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-05-13 |  |
 | [Genesis](https://open.spotify.com/track/6FfMQVzOC46ZL5byOQfUhT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 5:17 | 2020-10-15 | 2022-03-18 |
+| [Get A Job](https://open.spotify.com/track/2iOMWossZttPvaGNzbEKCh) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/6t7SSMbSWvQxLpt3EUK2lr) | 3:08 | 2022-08-28 |  |
 | [Getaway Green](https://open.spotify.com/track/3pUJI1a0oZNHj9wRtZOf5O) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Getaway Green/Sleeping In/Some Kind Of Disaster](https://open.spotify.com/album/6g706eoQwOTiadVEkt2FKQ) | 2:47 | 2020-10-10\* | 2021-05-13 |
 | [GIVE IT ALL UP \(feat\. Tove Lo\)](https://open.spotify.com/track/43DFMjVuW7gYyh5Cpz94Js) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [FUTURE PAST](https://open.spotify.com/album/7GyGHJ1jv0v2Sa0pcgs4fD) | 5:07 | 2021-10-22 |  |
 | [Glasgow](https://open.spotify.com/track/6nCFIb0seIECUijbDpYNDu) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [W.L\. \(Deluxe\)](https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu) | 4:26 | 2021-04-06 | 2022-03-18 |

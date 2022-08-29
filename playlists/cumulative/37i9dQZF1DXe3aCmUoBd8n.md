@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Wael Kfoury.
 
-77 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
+79 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,8 @@
 | [Kelna Mnenjar](https://open.spotify.com/track/0KGZNoR5kZ1aUw83pfunng) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kelna Mnenjar](https://open.spotify.com/album/3cPQv8RJQYIShkRDMhaO2R) | 3:10 | 2022-05-04 |  |
 | [khallina N3esh](https://open.spotify.com/track/7qq9gkXMLG64zEnqTn2s9o) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [khallina N3esh](https://open.spotify.com/album/4bUVYFe5LEtKByQcKmRvQg) | 3:29 | 2022-06-20 |  |
 | [La Ouyounak El Helwin](https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounak El Helwin](https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA) | 3:42 | 2022-05-04 | 2022-06-05 |
+| [La Tsin El Sef](https://open.spotify.com/track/6dXc6JE3ytJYdp1Xpt0GZQ) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [La Tsin El Sef](https://open.spotify.com/album/1spUffO8GXhqfYE3uRupNn) | 3:10 | 2022-08-28 |  |
+| [Lama Tkooni](https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Lama Tkooni](https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB) | 3:31 | 2022-08-28 |  |
 | [Lesatni Janbi](https://open.spotify.com/track/2bzUNpvOeOKMZqPI6B3sns) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Lesatni Janbi](https://open.spotify.com/album/01MxqvhWMbLvIi3OLtSNYj) | 4:18 | 2022-05-04 |  |
 | [Ma B7ebak](https://open.spotify.com/track/3dl5HjZ7kdsvibYRTozyjE) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ma B7ebak](https://open.spotify.com/album/7jzYoKIXN4FSjA1GZCafAS) | 4:05 | 2022-05-04 |  |
 | [Madi Aswad](https://open.spotify.com/track/24IyeYzwIGXWBtqqxQ5Kde) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Madi Aswad](https://open.spotify.com/album/2ZiZGls3VjAKzK7Ga1ZBtw) | 3:17 | 2022-05-04 | 2022-07-17 |

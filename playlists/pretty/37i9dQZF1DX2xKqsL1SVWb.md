@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,802 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,813 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
 | 2 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 |
-| 3 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 3 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 4 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
 | 5 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 |
 | 6 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |

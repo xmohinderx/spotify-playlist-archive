@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 
 > Musica che, come la primavera, rende tutto più bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,645 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,643 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

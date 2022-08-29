@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 
 > This is Grouper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,884 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,887 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 | 18 | [Holofernes](https://open.spotify.com/track/4UL9DScE7SnHhcDlNVq4v0) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 1:32 |
 | 19 | [Moon Is Sharp](https://open.spotify.com/track/16CMp2RKshLATGZnpjPPgB) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:48 |
 | 20 | [Fishing Bird \(Empty Gutted in the Evening Breeze\)](https://open.spotify.com/track/637sViSUUQTBice1wmz5id) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 3:51 |
-| 21 | [The way her hair falls](https://open.spotify.com/track/0uwDgbSX1wIBVMSv4yHUKN) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:35 |
+| 21 | [Unclean mind](https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
 | 22 | [Water People](https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Water People 7"](https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx) | 4:07 |
 | 23 | [Mary, On the Wall \- Second Heart Tone](https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:07 |
 | 24 | [Traveling Through a Sea](https://open.spotify.com/track/5uOBRzLWxGnE564iW0PF7y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:23 |
-| 25 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
+| 25 | [The way her hair falls](https://open.spotify.com/track/0uwDgbSX1wIBVMSv4yHUKN) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:35 |
 | 26 | [Towers](https://open.spotify.com/track/16B3iA9vo22DeOe8ohyTcZ) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 5:19 |
 | 27 | [Soul Eraser](https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 8:00 |
-| 28 | [Opened Space](https://open.spotify.com/track/4qL78jNDOxMqRhjH5nKf1Z) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:22 |
-| 29 | [Unclean mind](https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
-| 30 | [Fallow](https://open.spotify.com/track/6sgr20vGQkBEHg0fXhz4EJ) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 4:07 |
+| 28 | [Fallow](https://open.spotify.com/track/6sgr20vGQkBEHg0fXhz4EJ) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 4:07 |
+| 29 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
+| 30 | [Opened Space](https://open.spotify.com/track/4qL78jNDOxMqRhjH5nKf1Z) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:22 |
 | 31 | [Atone](https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 4:55 |
 | 32 | [Labyrinth](https://open.spotify.com/track/3qKYIZTq1u62J2o98CzmGR) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 3:47 |
 | 33 | [Ode to the blue](https://open.spotify.com/track/6XtReyR9KbyDt8J3Va1UCM) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:53 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 | 45 | [Promise](https://open.spotify.com/track/1Kvrqt00lnQgjgHOWku4lF) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:49 |
 | 46 | [Hold](https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Hold / Sick \- Single](https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE) | 5:30 |
 | 47 | [Down to the Ocean](https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 6:07 |
-| 48 | [Call Across Rooms](https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 2:59 |
-| 49 | [Moving Machine](https://open.spotify.com/track/2K1CarKyRcBNV47HSPAnZV) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Water People 7"](https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx) | 5:10 |
-| 50 | [Wind Return](https://open.spotify.com/track/5zGdE2LqYQia3ZOO6DVJ9j) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 5:55 |
+| 48 | [Moving Machine](https://open.spotify.com/track/2K1CarKyRcBNV47HSPAnZV) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Water People 7"](https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx) | 5:10 |
+| 49 | [Wind Return](https://open.spotify.com/track/5zGdE2LqYQia3ZOO6DVJ9j) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 5:55 |
+| 50 | [Call Across Rooms](https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 2:59 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBkZDc1YWE4NWY2MmRmMTdiOTQ2ODkxNDJlZGMxMjVlOQ==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBhOWI2OGFmYTMyZDY2YTQ2ZGZhNDg0NWMwYTE4NGI0NA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,528 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,585 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 28 | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/track/46Pfb5oErr8WVn3frcXybC) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:39 |
 | 29 | [Apaga o Meu Número](https://open.spotify.com/track/2iYx9hAUSD5wz7cg5TVIbx) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Apaga o Meu Número](https://open.spotify.com/album/6eobNuVuaVKafZKIPAKvuP) | 2:56 |
 | 30 | [ES7ÁDIO](https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [ES7ÁDIO](https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq) | 3:37 |
-| 31 | [Errado Ou Certo](https://open.spotify.com/track/25mjzt2zSXWSMgOwliEaVW) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Errado Ou Certo](https://open.spotify.com/album/6Ldl8CFN2ekAROeSqSDKXZ) | 4:12 |
+| 31 | [Errado ou Certo](https://open.spotify.com/track/2bVf4gzQlwvpMpviDiB9NP) | [DEEZYX](https://open.spotify.com/artist/0aifFW6Ag5kaEcYPN1VZj8) | [Errado ou Certo](https://open.spotify.com/album/3wNd1Gd95BHO9lFoyNEyRJ) | 4:09 |
 | 32 | [Sabi na Sabura](https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sabi na Sabura](https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7) | 3:06 |
 | 33 | [Feeling](https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Feeling](https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm) | 3:45 |
 | 34 | [EViL](https://open.spotify.com/track/2VaLKyJgR9lIVoTqf4oIyY) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [EViL](https://open.spotify.com/album/3fCwkZDlvmzwqx0O2j3ASt) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Quitada](https://open.spotify.com/track/2syKsGREUuYq4pzIBxInwQ) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi) | [Quitada](https://open.spotify.com/album/1UKouz84LcP3b8XMmJiPmo) | 3:28 |
 | 75 | [Um Sonho & Uma Caneta](https://open.spotify.com/track/4tjiJdExledMjFkMEBySG2) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5) | [PRODIGIA\-TE \(Zuka Deluxe\)](https://open.spotify.com/album/2A48hZ68pXrEbj4P04s6Go) | 3:40 |
 
-Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMDA3ODY2MjcyY2E5NDk2Y2JlMzFmOTc3NDE1NDNjYTA5`
+Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMDc3ODJhODgwZmE0NjJhNmRjMTgxZDI2ZGUwMDJhZjA1`

@@ -4,7 +4,7 @@
 
 > Grentperez is our new RADAR artist to watch!
 
-143 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
+145 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Area Baby](https://open.spotify.com/track/5BFaSmEPZSu4A7hcTtoNlP) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:41 | 2021-10-15 | 2022-08-16 |
 | [Arizona](https://open.spotify.com/track/1mY2tkkszwkFccupfkOXe5) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Arizona](https://open.spotify.com/album/0t7Jb4Pk8yl7811JG5Khgg) | 2:57 | 2021-10-15 | 2022-08-16 |
 | [BAD LIKE RIRI](https://open.spotify.com/track/1rnTvRuAHx6NRcpC4fSXeg) | [Jesswar](https://open.spotify.com/artist/0A3iezHvtPZ8HxHn4RMmtl), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [BAD LIKE RIRI](https://open.spotify.com/album/6plQgIsPgXrRsIa0zZCe5r) | 3:37 | 2021-10-15 | 2022-08-16 |
+| [Bang Bang](https://open.spotify.com/track/1jpf91ngq4RrkajGFOqaGt) | [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [Bang Bang](https://open.spotify.com/album/78Df0kziilAoIaCTCvJtdA) | 4:03 | 2022-08-28 |  |
 | [Believe](https://open.spotify.com/track/7KSNAoH0zVnpb6bV7xezaX) | [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [Believe](https://open.spotify.com/album/3fphy1gARezaH2Xb96v5kQ) | 4:01 | 2022-08-15 |  |
 | [Billion Dollar Bitch](https://open.spotify.com/track/1NXsoL5kWo6j41SP1NUpLF) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Billion Dollar Bitch](https://open.spotify.com/album/5MiVQWINwHLDiOGTb20f0a) | 3:08 | 2021-10-15 | 2022-07-29 |
 | [Billion Dollar Bitch \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/2ERxhNVMT1Fd5fNyX6CIcW) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Billion Dollar Bitch \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/3fuXDz3sxWe8k9Ny9iqB0O) | 3:08 | 2021-10-15 | 2022-08-16 |
@@ -113,6 +114,7 @@
 | [Send My Love](https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Send My Love](https://open.spotify.com/album/4gmsZ9xHzrC5Xxto8DjySB) | 4:04 | 2021-10-15 | 2022-08-16 |
 | [Sentimental Surgery](https://open.spotify.com/track/22W2mAzEEk42hS8G5SKWBP) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Sentimental Surgery](https://open.spotify.com/album/2ayDoBtT4qvikjTWqxCF3b) | 2:34 | 2021-10-15 | 2022-08-16 |
 | [Serotonin](https://open.spotify.com/track/3sk8IBi4DhEAzmTtMdxc0t) | [Cellarr](https://open.spotify.com/artist/40hdxU4tcrbRkopSgr0arC), [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Serotonin](https://open.spotify.com/album/6j6q5exmxDb3IF0hz4xaUh) | 3:30 | 2021-10-15 | 2022-08-16 |
+| [Slow](https://open.spotify.com/track/0TcGDRh3AbdKBQXtAbtp3n) | [Sylvee](https://open.spotify.com/artist/1OmQ8TgrwtDSA6cPVWwUbR) | [Slow](https://open.spotify.com/album/4Vp8RMvNLZHccQxPZKqaj0) | 2:43 | 2022-08-28 |  |
 | [Smashmouth](https://open.spotify.com/track/0hqiP6ZADTynI136orAUpb) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Smashmouth](https://open.spotify.com/album/46WIzWMx67YUpASEdMTgVc) | 3:12 | 2021-10-15 | 2022-08-16 |
 | [Smashmouth](https://open.spotify.com/track/4cHSvShogdjsAdT50ysxds) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Smashmouth](https://open.spotify.com/album/5r27LuZamggikuwdMeKpuQ) | 3:12 | 2021-10-15 | 2022-07-29 |
 | [Soft Rock](https://open.spotify.com/track/7kNJ8lNMJ2cnNwSloYt3Ph) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Soft Rock](https://open.spotify.com/album/11oyqQEM0Cg679CH7XH15C) | 2:31 | 2021-10-15 | 2022-08-16 |

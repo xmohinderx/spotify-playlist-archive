@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Help Us Spead the Message",
+        "url": "https://open.spotify.com/album/5mVXKS05z5j74bpq26mE6E"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Ryeders",
+          "url": "https://open.spotify.com/artist/75gQ7DppTybJkSbxlwmkvo"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Evil Vibrations",
+      "url": "https://open.spotify.com/track/0RRpaBTAuZWFQlbFmKKdhL"
+    },
+    {
+      "album": {
         "name": "Best of Solid Disco",
         "url": "https://open.spotify.com/album/4qVWZbWVwc8D7NSURyQUBI"
       },
@@ -387,7 +405,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 225333,
       "name": "Evil Vibrations",
       "url": "https://open.spotify.com/track/7Mejr45Z682u03XdAMVhwB"

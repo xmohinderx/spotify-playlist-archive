@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,426 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,436 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 97 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 |
 | 98 | [Figment Of My Mind](https://open.spotify.com/track/3eZS4TyX2KMvD621AD9MqY) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:35 |
 | 99 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
-| 100 | [Emily](https://open.spotify.com/track/4vYGDBF9aI3Ro8RbMqKLIb) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Emily](https://open.spotify.com/album/4ApVfr2gmTFvwKgJRF6szr) | 3:03 |
+| 100 | [Fool's Gold](https://open.spotify.com/track/1AeBzNjTaDmIlTGv2ObhYn) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:21 |
 
-Snapshot ID: `MTY1NzU1MDI4MywwMDAwMDAwMDYzM2Y2MDdkNzc0NDJjMTM0ZGM3N2FhYjE2NWJhZDIy`
+Snapshot ID: `MTY1NzU1MDI4MywwMDAwMDAwMDY5ZDJlNGY5MzA3M2FlYTE5MGU5ZGQ5NDc4YmZhZDFk`

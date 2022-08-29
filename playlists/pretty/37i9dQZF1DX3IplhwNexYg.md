@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Sports Team
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,005 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,980 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 54 | [How Are You Feeling?](https://open.spotify.com/track/2ctbvOJeepAPf51RoeBE4m) | [George O'Hanlon](https://open.spotify.com/artist/5U7rIQxm8yEEXbJB3bl7JE) | [How Are You Feeling?](https://open.spotify.com/album/54TbLSAUGAQIIZSW4s8Jwu) | 2:56 |
 | 55 | [Try Try Try](https://open.spotify.com/track/5RIVwMLtGIriw8JS73Fleg) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:51 |
 | 56 | [No Driver](https://open.spotify.com/track/3MdmCprLdNoUQoobk2wBWw) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [No Driver](https://open.spotify.com/album/3EU4oLHfxIHLnJjtUvKFaX) | 4:05 |
-| 57 | [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 |
+| 57 | [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 |
 | 58 | [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 |
 | 59 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 |
 | 60 | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/track/42SeGdgNjDJxzuc9YRVOn6) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/album/764Zqu3swQwYLSLz5qftq6) | 4:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 79 | [Nervous](https://open.spotify.com/track/3JaI7w5XQuJni4fX03MZIb) | [HUSHPUPPY](https://open.spotify.com/artist/40OzWU8bIYirFgmNSy6qct) | [Nervous](https://open.spotify.com/album/3qLRGWTOndzbYgUDi2kd85) | 1:30 |
 | 80 | [Salt](https://open.spotify.com/track/0KbMVWAxdxV1KYWqjGd0ey) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Salt](https://open.spotify.com/album/2XzP8cHUnafrR7zgBdbn3t) | 3:24 |
 
-Snapshot ID: `MTY2MTQyMDQ3NiwwMDAwMDAwMDhkZDc0ZWYzNjE1ZjcyMTA5NWJmNTg2Y2IyZDExMTY0`
+Snapshot ID: `MTY2MTQyMDQ3NiwwMDAwMDAwMDY4OTZmMGYyZjliYjY4NjI1Y2FkZmVlM2YwZDg2MjAw`

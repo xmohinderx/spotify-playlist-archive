@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,218 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,225 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 3 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
 | 4 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 5 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 |
-| 6 | [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 |
+| 6 | [Orpheus](https://open.spotify.com/track/3nDlV6GuRRKqT3nK3nSwtM) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Orpheus](https://open.spotify.com/album/10sEnr5iBhFt3WXYJEaKG1) | 3:37 |
 | 7 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
 | 8 | [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 |
 | 9 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 |
 | 10 | [Happiness](https://open.spotify.com/track/3G9l0CsH7HCkr0SqDE1juj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 5:03 |
 | 11 | [White T Shirt Nights](https://open.spotify.com/track/4YsaW4CwJahPFA9BrzRbv8) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [You're Not A Bad Person, it's Just A Bad World](https://open.spotify.com/album/2oEIqV2KfZEAtdVjyKs6HH) | 2:16 |
-| 12 | [Orpheus](https://open.spotify.com/track/3nDlV6GuRRKqT3nK3nSwtM) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Orpheus](https://open.spotify.com/album/10sEnr5iBhFt3WXYJEaKG1) | 3:37 |
+| 12 | [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 |
 | 13 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 |
 | 14 | [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 |
 | 15 | [Seasons Change](https://open.spotify.com/track/36ZL5lijTM6ohAOr2i5lnv) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/7nIw5wLwAftZ93OMrADwJK) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 |
 | 100 | [No Peace](https://open.spotify.com/track/7g9pjsFLAC7inzCzZjaGHX) | [The Burning Hell](https://open.spotify.com/artist/09kohMK0MSHgpmKWiQeQ5E) | [Garbage Island](https://open.spotify.com/album/0J0edEr0oiC9D2EvzJFDKX) | 4:38 |
 
-Snapshot ID: `MTY2MTU1OTA3OCwwMDAwMDAwMGJmNjNkYWZjYjE5OTUxYWI4MTY2MmRkMTNiN2RkNWNh`
+Snapshot ID: `MTY2MTczNTgyMywwMDAwMDAwMDliNzIwNTc2ZjgzYjgzNWM1NGM5ZjRkNjZkMGNiZDZk`

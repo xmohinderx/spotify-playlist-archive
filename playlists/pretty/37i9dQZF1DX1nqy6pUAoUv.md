@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,971 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,985 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

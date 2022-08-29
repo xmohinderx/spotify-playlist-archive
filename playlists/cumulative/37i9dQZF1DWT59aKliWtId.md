@@ -4,7 +4,7 @@
 
 > A quality alternative blend\. Cover: Ashe
 
-461 songs - 1 day 4 hr 9 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+463 songs - 1 day 4 hr 16 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Flowers](https://open.spotify.com/track/086xC9yVCyoI0AaXzVvwAx) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Flowers](https://open.spotify.com/album/28Sk3IDRKR6DGybUw21nTH) | 3:38 | 2022-07-22 | 2022-08-06 |
 | [Flowers](https://open.spotify.com/track/4hv63SoULMZVYynykK6Wv0) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Flowers](https://open.spotify.com/album/1rjZKkFIFk1CsDKBeB0764) | 3:38 | 2022-06-10 | 2022-07-29 |
 | [Forever in Sunset](https://open.spotify.com/track/12BRuJGvSrjoVDfeBIpO1M) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Forever in Sunset](https://open.spotify.com/album/0MRtuttU8Z8Pk7W0apeKP2) | 4:22 | 2022-05-13 | 2022-07-29 |
-| [Forever In Sunset](https://open.spotify.com/track/5g8FFO1MkitRDartlFKciT) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Forever In Sunset](https://open.spotify.com/album/0vyVVgohtd4dZNQMnIl7iO) | 4:22 | 2022-07-22 |  |
+| [Forever In Sunset](https://open.spotify.com/track/5g8FFO1MkitRDartlFKciT) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Forever In Sunset](https://open.spotify.com/album/0vyVVgohtd4dZNQMnIl7iO) | 4:22 | 2022-07-22 | 2022-08-29 |
+| [Forever In Sunset](https://open.spotify.com/track/7ofb8SMiE4pDit5ewXNArn) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l) | 4:22 | 2022-08-26 |  |
 | [Free](https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:07 | 2022-02-25 | 2022-07-09 |
 | [Friends I Barely Know](https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Friends I Barely Know](https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5) | 2:59 | 2022-07-15 |  |
 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 | 2022-04-11 | 2022-05-28 |
@@ -186,7 +187,8 @@
 | [How Dare You Want More](https://open.spotify.com/track/4lKg94fHZZ3pozsNFTew2x) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 4:00 | 2022-01-14 | 2022-05-14 |
 | [How Dare You Want More \- Verdine White of Earth, Wind & Fire Remix](https://open.spotify.com/track/6xhRei2Te4AccMPnAFWven) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [Stop Making This Hurt \(A\. G\. Cook Remix\) / How Dare You Want More \(Verdine White of Earth, Wind & Fire Remix\)](https://open.spotify.com/album/4dphMEA8aTNDk07kNjKLqv) | 2:59 | 2022-06-17 | 2022-07-16 |
 | [How Low](https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [How Low](https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s) | 4:04 | 2021-12-10 | 2022-01-08 |
-| [How Was Your Day?](https://open.spotify.com/track/5zcKakuuuuYR2VhWQWnhDo) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [How Was Your Day?](https://open.spotify.com/album/5GZHr6rYHXp6v0pYAc1HZm) | 2:32 | 2022-08-12 |  |
+| [How Was Your Day?](https://open.spotify.com/track/5zcKakuuuuYR2VhWQWnhDo) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [How Was Your Day?](https://open.spotify.com/album/5GZHr6rYHXp6v0pYAc1HZm) | 2:32 | 2022-08-12 | 2022-08-29 |
+| [How Was Your Day?](https://open.spotify.com/track/7oUXL2y3E7lDlSQn5qptxd) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 2:32 | 2022-08-26 |  |
 | [I Believe in You](https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [I Believe in You](https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G) | 4:09 | 2022-06-10 |  |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-05-20 |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 | 2021-12-10 | 2022-05-07 |

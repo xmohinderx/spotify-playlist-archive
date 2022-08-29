@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-468 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
+469 songs - 1 day 4 hr 7 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,8 @@
 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2022-04-05 |  |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-08-29 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-11 | 2021-08-18 |
-| [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-27 |  |
+| [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-27 | 2022-08-29 |
+| [Talk that Talk](https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 2:57 | 2022-08-28 |  |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-04-20 | 2021-06-09 |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-10-14 | 2021-10-23 |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-02-10 | 2022-04-07 |

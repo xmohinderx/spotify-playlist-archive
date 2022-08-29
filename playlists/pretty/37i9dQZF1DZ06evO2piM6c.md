@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,184 likes - 45 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,285 likes - 45 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 44 | [Bring Me Home](https://open.spotify.com/track/1akRbcGtVdQl6xDIVBaExK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:07 |
 | 45 | [Turn My Back On You](https://open.spotify.com/track/7aiN4fPcpFmZeF88SiVdpS) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 6:06 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDAyZTQxODM4ZGMxNGNiOWJlMTI1YTU4NWJiOGUyNjZlMQ==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBkYjQ1OTNlZTc2M2U4OWY5YzdjMjRiNzZhM2EzYzU5MQ==`

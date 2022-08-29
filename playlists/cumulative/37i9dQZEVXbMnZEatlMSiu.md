@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-468 songs - 1 day 4 hr 47 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+469 songs - 1 day 4 hr 50 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-15 | 2022-03-30 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-09-03 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-09 | 2021-08-18 |
-| [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-27 |  |
+| [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-27 | 2022-08-29 |
+| [Talk that Talk](https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 2:57 | 2022-08-28 |  |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-07 | 2022-06-05 |
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-14 | 2022-05-29 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-21 | 2021-10-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,793 likes - 125 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,882 likes - 125 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 38 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 |
 | 39 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:30 |
 | 40 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 |
-| 41 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\)](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
+| 41 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\) \[Radio Edit\]](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
 | 42 | [You Don't Know Me \(feat\. RAYE\)](https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:32 |
 | 43 | [Reload \- Radio Edit](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG) | 3:41 |
 | 44 | [You & Me \- Flume Remix](https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(The Remixes\)](https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB) | 4:42 |

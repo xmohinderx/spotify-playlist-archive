@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,441 likes - 26 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,442 likes - 26 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 | 25 | [Desire Again Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:58 |
 | 26 | [OPENING Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/7lGqrHJq4niQ5F2GLqNYlE) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 1:32 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA2N2Y2OGU1ZTllYzIzNGI3Zjg4MDcyNTE2NjI3YTA2Yw==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA0YjhjNzZiZGQ4N2VkMTg5NWY4ZWNlZjRmZTVmMTFkNQ==`

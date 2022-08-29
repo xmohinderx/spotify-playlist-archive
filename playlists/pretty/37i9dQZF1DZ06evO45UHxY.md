@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 23 | [Reeventon Unisex](https://open.spotify.com/track/59tw8kwcnl7McG6Pgt38EG) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Reventon Unisex](https://open.spotify.com/album/1f4i5bez3wwuDT3SxlKMC3) | 4:05 |
 | 24 | [Sin Tu Amor](https://open.spotify.com/track/6zDbT0ltQqymfFwQekJHSU) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 3:23 |
 | 25 | [Borracho y Loco](https://open.spotify.com/track/2EpO1NIjQl9ICdA27YMKRH) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 4:01 |
-| 26 | [Mujer Al Volante](https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:10 |
-| 27 | [A Pesar de Todo](https://open.spotify.com/track/3WZZXkzNG9tXfVx0t6Pxbz) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 3:05 |
+| 26 | [A Pesar de Todo](https://open.spotify.com/track/3WZZXkzNG9tXfVx0t6Pxbz) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 3:05 |
+| 27 | [Mujer Al Volante](https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:10 |
 | 28 | [La chispa](https://open.spotify.com/track/5frBieEOpYDKSmYByQeQ4n) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:18 |
 | 29 | [El esdrújulo](https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Festival Grupero Vol\. I](https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc) | 2:25 |
 | 30 | [Estupendo](https://open.spotify.com/track/5s5i3LqYQ7F6fPdw2reBo2) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 49 | [El Taladro](https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:45 |
 | 50 | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/track/5v3SzNOKysnldqfaKFWkni) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/album/6azV2ELkuN4DafSlRJkTMN) | 2:48 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDAxYWRhZjQ3ODJkODY2MjQ2NmUyZjA5NDgxNmQwMWJmNQ==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA4MDY3ZjQ1Njk2Njk0ZjljNTIzZDUzYzhmYjMzMWU5Yw==`

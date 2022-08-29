@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Rafaga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,872 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,055 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

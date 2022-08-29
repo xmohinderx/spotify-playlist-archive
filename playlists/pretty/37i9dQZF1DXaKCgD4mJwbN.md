@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 
 > Puras rolitas pa' destapar un bote y empinar el codo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,497 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,992 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 | 86 | [Soñador Eterno](https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 2:57 |
 | 87 | [Mi Mayor Anhelo](https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 3:29 |
 | 88 | [En Esta Vida No Se Pudo](https://open.spotify.com/track/4ZRWZSgXGuMe9kILi6hzKL) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [25 Años, Vol\. 1](https://open.spotify.com/album/6yftM74Ij8cxnOSRax1hRE) | 4:26 |
-| 89 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 89 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 90 | [Palabra de Hombre](https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Palabra de Hombre](https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb) | 3:16 |
 | 91 | [Con Un Botecito A Pecho](https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Con Un Botecito A Pecho](https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k) | 2:56 |
 | 92 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |

@@ -4,7 +4,7 @@
 
 > all the hottest indie tunes in the world rn feat\. Winston, Milan Ring & Jerome Farah
 
-516 songs - 1 day 5 hr 34 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+518 songs - 1 day 5 hr 42 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,8 +229,9 @@
 | [I Like It Like](https://open.spotify.com/track/1J1BneZ7n94exyy4B9Qobx) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Between The Head & The Heart](https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH) | 3:30 | 2022-07-04 | 2022-08-26 |
 | [I Love This Song](https://open.spotify.com/track/2VKbUViTadYv4fH8JRPHDc) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Love This Song](https://open.spotify.com/album/4I5XWDLmyLUaNsJFulMhh7) | 3:26 | 2022-02-10 | 2022-04-01 |
 | [I Need a Doctor](https://open.spotify.com/track/5h7QCIkrAcCbdxILyK4pxF) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Journey to the Center of Myself, Vol\. 3](https://open.spotify.com/album/1cS2zM7E9G94LQgat1ANTR) | 2:12 | 2021-12-28 | 2022-02-11 |
+| [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 | 2022-08-25 |  |
 | [I Was Neon](https://open.spotify.com/track/65ikIJChIrHvha8l4zqP5P) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/3zonfnIlNcBvaAe1cVfPy6) | 4:02 | 2022-06-30 | 2022-07-29 |
-| [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-07-28 |  |
+| [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-07-28 | 2022-08-29 |
 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 | 2022-06-30 |  |
 | [IDK YOU](https://open.spotify.com/track/22Zey6Vk0e2lAkS1dsJ2CR) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [IDK YOU](https://open.spotify.com/album/2l9ESmzg5WmxwBCYkaTAHz) | 2:46 | 2022-06-09 | 2022-07-15 |
 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 | 2022-05-26 |  |
@@ -279,7 +280,8 @@
 | [lost](https://open.spotify.com/track/6XTAG7oS2qTKp9AOmbOczL) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [lost](https://open.spotify.com/album/3vMGA5wdFyAZ02c05F1KWy) | 3:37 | 2022-08-25 |  |
 | [Lots of Nothing](https://open.spotify.com/track/5A8f466QhliXjJxJ7h6LFB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lots of Nothing](https://open.spotify.com/album/2NqlE6CoTzeRYRYMVEab6H) | 3:16 | 2022-01-24 | 2022-03-30 |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-17 | 2022-03-11 |
-| [Love, Try Not To Let Go](https://open.spotify.com/track/7AfohcV7S7wKlDxunC251v) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Love, Try Not To Let Go](https://open.spotify.com/album/2AFqo1i5mkxgmDu5AofJJ6) | 3:43 | 2022-07-28 |  |
+| [Love, Try Not To Let Go](https://open.spotify.com/track/3deuNvlPWsdSSUmXt1xCG6) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 3:43 | 2022-08-25 |  |
+| [Love, Try Not To Let Go](https://open.spotify.com/track/7AfohcV7S7wKlDxunC251v) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Love, Try Not To Let Go](https://open.spotify.com/album/2AFqo1i5mkxgmDu5AofJJ6) | 3:43 | 2022-07-28 | 2022-08-29 |
 | [low down](https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/6Q9y1eI1EbuyVt5md6SlOT) | 3:02 | 2022-04-21 | 2022-07-15 |
 | [Lunchtime](https://open.spotify.com/track/6N62tx63qPmn4KvXJszqgr) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lunchtime](https://open.spotify.com/album/2CMjz9lnTrLQAecRlZZiL9) | 3:18 | 2021-12-28 | 2022-01-27 |
 | [Lupa](https://open.spotify.com/track/0BdZGPjIfihtxbB8YfGgLe) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [King Stingray](https://open.spotify.com/album/1I0ZpUzinqCX3rSEgADGJX) | 3:15 | 2022-08-05 |  |

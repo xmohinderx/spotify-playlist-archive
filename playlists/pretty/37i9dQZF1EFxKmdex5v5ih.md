@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,445 likes - 163 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,448 likes - 163 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 10 | [Mean It](https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:52 |
 | 11 | [Paris in the Rain](https://open.spotify.com/track/41CgzGD7xlgnJe14R4cqkL) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:24 |
 | 12 | [Feelings](https://open.spotify.com/track/0s26En1JoJhVj32vizElpA) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:09 |
-| 13 | [Never Not](https://open.spotify.com/track/4fFfyouye6vrX9o9z4PVMu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:28 |
-| 14 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
+| 13 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
+| 14 | [Never Not](https://open.spotify.com/track/4fFfyouye6vrX9o9z4PVMu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:28 |
 | 15 | [Who \(feat\. BTS\)](https://open.spotify.com/track/2qG81jL9UIP54uS8gYyP4k) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:00 |
 | 16 | [Blueberry Eyes \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6sI8Q7TTJeA9exw6hxEqq3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Colour Vision](https://open.spotify.com/album/2FwpEC226o3WpXoptGbk85) | 2:52 |
 | 17 | [Daisies](https://open.spotify.com/track/367wyLNqQMr5e8S2E6Zvpp) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:54 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 78 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
 | 79 | [For Now](https://open.spotify.com/track/0PxJmAlyKcRdd1r9FvDbTn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:09 |
 | 80 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
-| 81 | [El Tejano \(feat\. Sofía Reyes\)](https://open.spotify.com/track/0x68K3iDRHrtFl3YkH9bp4) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:11 |
-| 82 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 |
+| 81 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 |
+| 82 | [El Tejano \(feat\. Sofía Reyes\)](https://open.spotify.com/track/0x68K3iDRHrtFl3YkH9bp4) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:11 |
 | 83 | [Older](https://open.spotify.com/track/0hyVcO1sh9NkHmKHs3veRz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:27 |
 | 84 | [Try Again \(feat\. Lauv\)](https://open.spotify.com/track/0DHh3p0g7qmNNfNdRNwL6N) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Try Again \(feat\. Lauv\)](https://open.spotify.com/album/19CXVGNF0uSHVc5f4zCmi4) | 3:09 |
 | 85 | [Out Of My Head](https://open.spotify.com/track/6ovkLF42qFLN7VqKX0r0jT) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [single.](https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak) | 3:34 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 162 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 |
 | 163 | [The Rain](https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d) | [Samuel Harrell](https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo) | [The Book of Samuel](https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI) | 5:22 |
 
-Snapshot ID: `Mjc2OTQxNDgsMDAwMDAwMDBlN2YzNWQ5Y2NhNDUzNDZkYjJmNzE1MGVmNmNiODkyZA==`
+Snapshot ID: `Mjc2OTU1ODgsMDAwMDAwMDBiZmU0YTQ4OGRjMzM0ZTk5OGIwOWE2ZTYyNDQ3YzQxYw==`

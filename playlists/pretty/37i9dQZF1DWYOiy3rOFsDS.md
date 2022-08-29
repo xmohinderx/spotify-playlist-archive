@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Fernanda Ulibarri y Leiden en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,442 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,599 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

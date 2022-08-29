@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-89 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
+90 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [all the way over](https://open.spotify.com/track/4kFoTDLdg7VjMPjWLdmqaC) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [All the Way Over](https://open.spotify.com/album/50ZpYz9MN9r17I9mMhC1d6) | 2:32 | 2022-05-29 |  |
 | [almost](https://open.spotify.com/track/2TqAXfEi2xxvKAd2fCARUL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [almost](https://open.spotify.com/album/567ogrtJ5uGutnemapW5xO) | 2:51 | 2022-05-29 |  |
-| [Autopilot](https://open.spotify.com/track/4CF3Z1OmJLwSIqt3l8tdsR) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Autopilot](https://open.spotify.com/album/1Fj4667loGqnXZmuV8Ky5E) | 3:15 | 2022-05-29 |  |
+| [Autopilot](https://open.spotify.com/track/0UvNdJWO4jRxAHi8pAv20Z) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Sim City](https://open.spotify.com/album/54wLYwAvsp61uxv4ciwYOZ) | 3:15 | 2022-08-28 |  |
+| [Autopilot](https://open.spotify.com/track/4CF3Z1OmJLwSIqt3l8tdsR) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Autopilot](https://open.spotify.com/album/1Fj4667loGqnXZmuV8Ky5E) | 3:15 | 2022-05-29 | 2022-08-29 |
 | [Bipolar](https://open.spotify.com/track/1stlDAnoUlxaMaR1CIPn5f) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/13lsx3HiueZWyN5wSSNDEL) | 2:36 | 2022-05-29 |  |
 | [Bitter](https://open.spotify.com/track/35NDUYJIRkuYsAw7h8Zbrr) | [Yoe Mase](https://open.spotify.com/artist/4IuWSIEfIed8aZb49YA4Cj), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bitter](https://open.spotify.com/album/2e4yd8Fv3mYfpaIYeCAfzQ) | 3:17 | 2022-05-29 |  |
 | [Blue](https://open.spotify.com/track/4FSVM0jbDn8cspWfuJ3srv) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Blue](https://open.spotify.com/album/1yATfEBCy2ZuTSDpixl6VM) | 2:10 | 2022-05-29 |  |

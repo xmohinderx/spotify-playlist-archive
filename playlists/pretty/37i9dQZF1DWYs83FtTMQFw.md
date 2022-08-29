@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring Rod Wave, Drake, and Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124,512 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,124,664 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

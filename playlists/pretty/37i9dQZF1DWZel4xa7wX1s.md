@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,328 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,331 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

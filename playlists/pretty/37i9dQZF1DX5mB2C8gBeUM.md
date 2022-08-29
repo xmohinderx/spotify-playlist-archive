@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Abby Anderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,675 likes - 158 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,907 likes - 158 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

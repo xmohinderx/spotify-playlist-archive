@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Salma e Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,673 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,731 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

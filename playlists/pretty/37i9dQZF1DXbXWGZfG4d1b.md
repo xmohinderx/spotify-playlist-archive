@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,160 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,174 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

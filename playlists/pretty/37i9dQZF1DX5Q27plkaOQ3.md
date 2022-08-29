@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Sippy
 
-[Spotify](https://open.spotify.com/user/spotify) - 981,546 likes - 125 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,611 likes - 125 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

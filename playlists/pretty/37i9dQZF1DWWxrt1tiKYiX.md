@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,645 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,717 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

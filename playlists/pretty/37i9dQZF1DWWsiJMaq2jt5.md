@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Ofelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,985 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,989 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

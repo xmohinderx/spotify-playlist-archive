@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 > Soft and moody jazz for a rainy day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,770 likes - 154 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,904 likes - 154 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

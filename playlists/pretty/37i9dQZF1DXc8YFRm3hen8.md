@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > La banda de sonido de tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,023 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,102 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 62 | [Tu Amor](https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:06 |
 | 63 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
 | 64 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
-| 65 | [Había una Vez …](https://open.spotify.com/track/2mjtPZJEuPaUn4YD2s0BC8) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/71SBgWq7XwSn5ihSeCESn1) | 4:28 |
+| 65 | [Había una Vez ...](https://open.spotify.com/track/2mjtPZJEuPaUn4YD2s0BC8) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/71SBgWq7XwSn5ihSeCESn1) | 4:28 |
 | 66 | [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 |
 | 67 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 |
 | 68 | [No Me Dejan Salir](https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 4:23 |

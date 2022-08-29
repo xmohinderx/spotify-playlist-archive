@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wDmLW735Yd.md) - [plain]
 
 > CLIPZ & Nia Archives take over the world's biggest Drum 'n' Bass playlist for Notting Hill Carnival!
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,469 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,608 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

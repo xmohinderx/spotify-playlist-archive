@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-196 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
+197 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Beacon Of Light](https://open.spotify.com/track/4PAjV5ifAU2BD01vZI3xce) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Bobby Lee](https://open.spotify.com/artist/34nLg7bGBLd3sKqUYup7H6), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Beacon Of Light](https://open.spotify.com/album/0zDUfDAf9xnsjSGWz8wOWF) | 3:20 | 2021-12-10 | 2021-12-27 |
 | [Big Energy](https://open.spotify.com/track/2AjcrjatK9XbNMZdm42u0k) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Big Energy](https://open.spotify.com/album/3s0DBiTaAmLHY1rxJ0J0W2) | 3:03 | 2022-01-10 | 2022-02-07 |
 | [Blow It Up](https://open.spotify.com/track/0K93XuM3E3idV9CHp3HS5n) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Blow It Up](https://open.spotify.com/album/1ynjoX602qZk7aaeqDFQ7W) | 3:25 | 2021-12-10 | 2022-07-29 |
-| [Bowl For Two](https://open.spotify.com/track/260F1LrhRMiuXOZIaypMZd) | [The Expendables](https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9) | [Gettin' Filthy](https://open.spotify.com/album/5kEwAtq7VqWsm1Aa1Qqket) | 4:43 | 2022-07-06 |  |
+| [Bowl For Two](https://open.spotify.com/track/260F1LrhRMiuXOZIaypMZd) | [The Expendables](https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9) | [Gettin' Filthy](https://open.spotify.com/album/5kEwAtq7VqWsm1Aa1Qqket) | 4:43 | 2022-07-06 | 2022-08-29 |
+| [Bowl For Two](https://open.spotify.com/track/7wCgKgkuthR3K568qESxDp) | [The Expendables](https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9) | [Gettin' Filthy](https://open.spotify.com/album/3iIUl1OTJKggsB7m8JGE11) | 4:43 | 2022-08-05 |  |
 | [Bright Side \(with Luke Mitrani\)](https://open.spotify.com/track/7b1YnA9efj9Av2ovTEkXZ4) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Luke Mitrani](https://open.spotify.com/artist/6OzAqsb9KgjKjUyoTjZ6UV) | [Castles](https://open.spotify.com/album/2bPqn2djwKudWC02ohGPx4) | 3:53 | 2021-12-10 | 2022-08-19 |
 | [Brighter Day](https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Brighter Day](https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT) | 3:13 | 2022-06-03 |  |
 | [Bring Me Along](https://open.spotify.com/track/12hIOqdMjKmYatc3fwywL7) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [No Shame](https://open.spotify.com/album/1r1dc5yTdwHQk77JZibmCF) | 3:32 | 2022-07-06 |  |

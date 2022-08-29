@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Carin Leon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,849 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,006 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 42 | [Sencillo Soy](https://open.spotify.com/track/2cVqu4Y1kveK3KuL1aXgNj) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Un Album Sencillo](https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH) | 2:52 |
 | 43 | [Te Deseo Lo Mejor](https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Deseo Lo Mejor](https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc) | 2:20 |
 | 44 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
-| 45 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 45 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 46 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 |
 | 47 | [Quién Te Entiende](https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Hombre Afortunado](https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V) | 3:22 |
 | 48 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 |

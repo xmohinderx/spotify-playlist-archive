@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 
 > White noise to help babies fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,269 likes - 192 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,318 likes - 192 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

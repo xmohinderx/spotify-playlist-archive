@@ -4,7 +4,7 @@
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/2A2W6E9IWWEYyaOGZZsUVO)
+62 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/2A2W6E9IWWEYyaOGZZsUVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,15 +16,17 @@
 | [Butterflies and Hurricanes](https://open.spotify.com/track/0xJLcjd0gaZct43xG1UlXS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 5:01 | 2022-01-11 |  |
 | [Can't Take My Eyes off You](https://open.spotify.com/track/3Y4m9Td603gbfMB86UNafs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Dead Star / In Your World](https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G) | 3:31 | 2022-01-11 |  |
 | [Cave](https://open.spotify.com/track/6Jf7Sx68vsWFKeWjOxcLhQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 4:46 | 2022-01-11 | 2022-06-05 |
-| [Citizen Erased](https://open.spotify.com/track/177MZraDAxjRqqtZBz5Vhn) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 7:21 | 2022-01-11 |  |
+| [Citizen Erased](https://open.spotify.com/track/177MZraDAxjRqqtZBz5Vhn) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 7:21 | 2022-01-11 | 2022-08-29 |
 | [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-03-20 |  |
 | [Dead Inside](https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:22 | 2022-01-11 |  |
 | [Dead Star](https://open.spotify.com/track/2sP2TwYA3zewyBDrZsGahr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Dead Star / In Your World](https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G) | 3:40 | 2022-01-11 | 2022-08-28 |
 | [Defector](https://open.spotify.com/track/4FnAEvbT3mjxpkUKpGwXYM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:33 | 2022-01-11 | 2022-08-28 |
 | [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 | 2022-01-11 |  |
+| [Euphoria](https://open.spotify.com/track/5PCNd6UnT4y9Ygz0KFmIMC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:23 | 2022-08-28 |  |
 | [Feeling Good](https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:18 | 2022-01-11 |  |
 | [Follow Me](https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:50 | 2022-01-25 | 2022-07-31 |
-| [Glorious](https://open.spotify.com/track/6IfitwQQ1Gu9g9QnLWDHRY) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:41 | 2022-01-11 |  |
+| [Ghosts \(How Can I Move On\)](https://open.spotify.com/track/0C5U4go8KKWHmAipujRH6I) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:37 | 2022-08-28 |  |
+| [Glorious](https://open.spotify.com/track/6IfitwQQ1Gu9g9QnLWDHRY) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:41 | 2022-01-11 | 2022-08-29 |
 | [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 | 2022-01-11 | 2022-07-30 |
 | [Hysteria](https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:47 | 2022-01-11 |  |
 | [I Belong to You \(+Mon Coeur S'Ouvre a Ta Voix\)](https://open.spotify.com/track/114rzL6VEy9bb3amPcY3tw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:38 | 2022-01-11 | 2022-01-17 |
@@ -53,7 +55,7 @@
 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 | 2022-01-11 |  |
 | [Supremacy](https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:55 | 2022-01-11 |  |
 | [Survival](https://open.spotify.com/track/2IFqUmfW8oQoKn6ToxKsMs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:17 | 2022-01-11 |  |
-| [The 2nd Law: Isolated System](https://open.spotify.com/track/4nr4gSTFGmTTSbumSY3kfH) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:59 | 2022-01-11 |  |
+| [The 2nd Law: Isolated System](https://open.spotify.com/track/4nr4gSTFGmTTSbumSY3kfH) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:59 | 2022-01-11 | 2022-08-29 |
 | [The Dark Side](https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:47 | 2022-01-11 |  |
 | [The Handler](https://open.spotify.com/track/6xq3Bd7MvZVa7pda9tC4MW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:33 | 2022-01-11 |  |
 | [Thought Contagion](https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:26 | 2022-01-11 |  |
@@ -63,6 +65,7 @@
 | [United States of Eurasia \(+Collateral Damage\)](https://open.spotify.com/track/0tHbQRjL5phd8OoYl2Bdnd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:47 | 2022-01-17 |  |
 | [Unnatural Selection](https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 6:54 | 2022-01-11 |  |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2022-01-11 |  |
+| [Verona](https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:57 | 2022-08-28 |  |
 | [We Are Fucking Fucked](https://open.spotify.com/track/5IumuUJqNO7K5SvniuDrBz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:36 | 2022-08-27 |  |
 | [Will Of The People](https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/68J2rIUZze8X3hAa8ali4k) | 3:18 | 2022-06-04 |  |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-15 |  |

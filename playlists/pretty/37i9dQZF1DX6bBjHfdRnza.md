@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Mau P, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,444 likes - 95 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,509 likes - 95 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

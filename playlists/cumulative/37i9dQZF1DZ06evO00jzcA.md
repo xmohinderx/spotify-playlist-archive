@@ -4,13 +4,14 @@
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/0STv48kztmKltDvms2WfHH)
+70 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/0STv48kztmKltDvms2WfHH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Million To One](https://open.spotify.com/track/3Z7AIA7ZjItaRZvkE2Kxs2) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:11 | 2022-01-11 | 2022-03-27 |
 | [All Hell's Breakin' Loose](https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:34 | 2022-01-11 |  |
 | [Beth](https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:45 | 2022-01-11 |  |
+| [Betrayed \- Outtake](https://open.spotify.com/track/6EVZPA4FZ8dygeaCNtPlaA) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Betrayed \(Outtake\)](https://open.spotify.com/album/1cliarCXzPu1Ha0zYIOaKq) | 4:38 | 2022-08-28 |  |
 | [Black Diamond](https://open.spotify.com/track/6PmckFG2BhEELc5OM7O7DS) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 5:14 | 2022-01-11 |  |
 | [Burn Bitch Burn](https://open.spotify.com/track/7lX9cNmBs138KdCnmry4MC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 4:42 | 2022-01-18 |  |
 | [Calling Dr\. Love](https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:44 | 2022-01-11 |  |
@@ -76,6 +77,6 @@
 | [Unholy](https://open.spotify.com/track/1eyRkbW5tJ7YobW9wQ5zVB) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 3:42 | 2022-01-11 |  |
 | [War Machine](https://open.spotify.com/track/4GwuVp1NIhwnm5JDDhfAuX) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 4:14 | 2022-01-11 |  |
 | [We Are One](https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 4:41 | 2022-01-11 |  |
-| [Who Wants To Be Lonely](https://open.spotify.com/track/7FIq1KZva7CjQjHG6A8XUg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Asylum](https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast) | 4:02 | 2022-01-15 |  |
+| [Who Wants To Be Lonely](https://open.spotify.com/track/7FIq1KZva7CjQjHG6A8XUg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Asylum](https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast) | 4:02 | 2022-01-15 | 2022-08-29 |
 
 \*This playlist was first scraped on 2022-01-12. Prior content cannot be recovered.

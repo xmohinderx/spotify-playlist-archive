@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,315 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,615 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

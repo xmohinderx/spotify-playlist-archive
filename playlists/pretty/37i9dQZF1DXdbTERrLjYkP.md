@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: SAPPHIRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,335 likes - 85 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,387 likes - 85 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

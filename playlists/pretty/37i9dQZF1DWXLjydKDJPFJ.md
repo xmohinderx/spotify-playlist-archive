@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 
 > ¡Compare! Prenda el carbón y saque la bocina que ya se armó la carnita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,496 likes - 130 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,711 likes - 130 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 | 77 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 |
 | 78 | [Voy A Llorar Por Ti](https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Siempre Imitado, Jamas Igualado](https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5) | 2:45 |
 | 79 | [Sentimientos De Cartón](https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Necesito Más De Ti](https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9) | 3:03 |
-| 80 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 80 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 81 | [Palabra de Hombre](https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Palabra de Hombre](https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb) | 3:16 |
 | 82 | [A Ella](https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [A Ellas](https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u) | 3:46 |
 | 83 | [Supiste Hacerme Mal](https://open.spotify.com/track/49stmNyFjPLuYn3cD5UDDI) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Revancha](https://open.spotify.com/album/0bxNLKOGLChbrcK7xQ6gVm) | 3:45 |

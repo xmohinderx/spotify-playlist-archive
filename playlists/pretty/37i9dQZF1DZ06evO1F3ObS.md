@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,812 likes - 44 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,820 likes - 44 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 17 | [ALONE](https://open.spotify.com/track/08EaMQ9Ro0NavqaBpdfJDk) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw) | 5:01 |
 | 18 | [怪物の詩](https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:22 |
 | 19 | [Someday](https://open.spotify.com/track/6wI3Tt9Nwk3VPiL2FlqYxV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Someday](https://open.spotify.com/album/5Dfj0lFPagb6MG3cUV8lH3) | 5:18 |
-| 20 | [あしたはハレルヤ](https://open.spotify.com/track/2CjgUjb98tknCsDWiMn7Oz) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:12 |
+| 20 | [まっさら](https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:12 |
 | 21 | [Dancer in the Discord](https://open.spotify.com/track/5Y7cubpgAgilw7QGkMi0DL) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw) | 4:17 |
 | 22 | [テディ](https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [テディ](https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv) | 4:45 |
 | 23 | [トウシンダイ](https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2) | 5:14 |
-| 24 | [まっさら](https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:12 |
+| 24 | [あしたはハレルヤ](https://open.spotify.com/track/2CjgUjb98tknCsDWiMn7Oz) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:12 |
 | 25 | [Rea\(s\)oN \-Acoustic Live ver.\-](https://open.spotify.com/track/66SJdEgge2tTZQj6vWGP8s) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw) | 5:09 |
 | 26 | [Scar/let](https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 4:17 |
 | 27 | [決意の朝に](https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Null](https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC) | 5:11 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 43 | [Lost \-Game size\-](https://open.spotify.com/track/7g42Ofn6XWXD61OM8Vqwk0) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- Original Soundtrack](https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo) | 4:01 |
 | 44 | [ジュブナイル \-Game size\-](https://open.spotify.com/track/17JdWVTBngJuovKv7jCR7G) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- Original Soundtrack](https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo) | 1:45 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBlMTVkYTIyOGI1OTFhOTZhMzA4NTY2ODM3M2MyMWY0OQ==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDAxN2FlYzk5NDMxZTg2NGFjNDk0OTM2OTMwZTFhYmQ3MA==`

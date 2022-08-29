@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,584 likes - 649 songs - 1 day 19 hr 39 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,584 likes - 650 songs - 1 day 19 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -657,5 +657,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 647 | [Near Wild Heaven](https://open.spotify.com/track/378HOooPNo6LRIfVHb15nW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:19 |
 | 648 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 |
 | 649 | [I Don't Remember](https://open.spotify.com/track/6m3yuXdLzDTgwJ1y1VnNaH) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 3: Melt \(Remastered Version\)](https://open.spotify.com/album/0LF0vWmmKRVPXoikpNkO5W) | 4:42 |
+| 650 | [The Getaway](https://open.spotify.com/track/6v4T1yS6LCRPMHE4zrgfKU) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [The Getaway](https://open.spotify.com/album/0XXzAo1VN3kdJmt1Z8YA14) | 3:05 |
 
-Snapshot ID: `MTY3MiwyZmM5ZWE4MWRkNWFmNTg0ZWE1MmVjZTdhN2U1NTMyMjMwZTk4ZWI0`
+Snapshot ID: `MTY3MyxlYjUyYjA2ZmNiOTMyMmU3OTMyMDYzNWE3MTIyMDg2OWI3YjYzMzFm`

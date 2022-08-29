@@ -4,7 +4,7 @@
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-181 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/6RF1E793gGxvwvWp2MLyJS)
+182 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/6RF1E793gGxvwvWp2MLyJS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,13 +48,14 @@
 | [Don’t Wanna](https://open.spotify.com/track/1gB2IbSdMot7wOTbizuBuN) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Don't Wanna](https://open.spotify.com/album/4iNDXOLDZma37m0iWPkf0x) | 3:21 | 2022-04-18 | 2022-04-20 |
 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 | 2022-02-01 |  |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-16 |  |
-| [Emily](https://open.spotify.com/track/4vYGDBF9aI3Ro8RbMqKLIb) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Emily](https://open.spotify.com/album/4ApVfr2gmTFvwKgJRF6szr) | 3:03 | 2022-02-01 |  |
+| [Emily](https://open.spotify.com/track/4vYGDBF9aI3Ro8RbMqKLIb) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Emily](https://open.spotify.com/album/4ApVfr2gmTFvwKgJRF6szr) | 3:03 | 2022-02-01 | 2022-08-29 |
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2022-02-01 | 2022-02-19 |
 | [Exhale](https://open.spotify.com/track/3habomq2nwlaN5Jqrl5PT8) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Exhale](https://open.spotify.com/album/4c8EDhWsVDfqw8knVVTOn8) | 2:54 | 2022-04-18 | 2022-04-20 |
 | [Fell Apart](https://open.spotify.com/track/3hGS9sZkMm1yalQr76gcKd) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Fell Apart](https://open.spotify.com/album/6aUSwIj7mR3Z58gKG7rzHn) | 2:19 | 2022-04-18 | 2022-07-29 |
 | [Figment Of My Mind](https://open.spotify.com/track/04Uu1ZEM2WtDV7yBZA2jYi) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Figment Of My Mind](https://open.spotify.com/album/6ZB64rGLoKtqza4PmWFGf3) | 3:35 | 2022-04-18 | 2022-04-21 |
 | [Figment Of My Mind](https://open.spotify.com/track/3eZS4TyX2KMvD621AD9MqY) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:35 | 2022-07-11 |  |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-05-27 |  |
+| [Fool's Gold](https://open.spotify.com/track/1AeBzNjTaDmIlTGv2ObhYn) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:21 | 2022-07-11 |  |
 | [Fool's Gold](https://open.spotify.com/track/4rw4ME6nh2kFfpivQyOYyA) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Fool's Gold](https://open.spotify.com/album/5KS3QQBO5pvA2IOvHhrVcC) | 2:21 | 2022-02-01 | 2022-07-29 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2022-02-01 | 2022-06-25 |
 | [Freaks & Geeks](https://open.spotify.com/track/3ZGQI9j7Sal0lMXeNlr0Da) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freaks & Geeks](https://open.spotify.com/album/6cn8UgYmHfsNr6tCQM3xud) | 2:20 | 2022-02-11 | 2022-02-26 |

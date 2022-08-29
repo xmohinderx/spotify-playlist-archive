@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5ZOsG2Ogi1.md) - [plain]
 
 > ¡Perreo del bueno!<br/>Cover: YoGambii, Luar La L
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,865 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,920 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Elton John, Britney Spears
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,036 likes - 110 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,041 likes - 110 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 41 | [VINO BIANCO](https://open.spotify.com/track/3DoqlalXX3LxRyodPhuWVJ) | [Chilli Mari](https://open.spotify.com/artist/7w6AUKmYD57eVzS4kldhSt), [Luuk](https://open.spotify.com/artist/0gmyQ8yVCO4u4QZgwTnw2P) | [VINO BIANCO](https://open.spotify.com/album/1hBE7HwNRE4Kf0ZB6yGUnW) | 2:40 |
 | 42 | [Habibi](https://open.spotify.com/track/1VueoLGCvRRArsn8DgmH4X) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Habibi](https://open.spotify.com/album/1ifHM0bvcZoLyH0IRum8pR) | 2:42 |
 | 43 | [SL](https://open.spotify.com/track/42LJsfplyzViHvhx5zdils) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [SL](https://open.spotify.com/album/0tWAJasl4Zmda3msMtMnJ9) | 2:22 |
-| 44 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/5CuMcMc7DifQ9BVwi2ZXgY) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
+| 44 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/30wdrkW0hVWYdLxmUaIYZp) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
 | 45 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 |
 | 46 | [EINZIGE CHANCE](https://open.spotify.com/track/41RcZYrQlBLL7ExqdHLMQz) | [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [EINZIGE CHANCE](https://open.spotify.com/album/7bFGJaU0JsdniygCcZAmm2) | 3:03 |
 | 47 | [Toi](https://open.spotify.com/track/1g2NGyu1fL7B5RipZgmFNY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Toi](https://open.spotify.com/album/5JQodTDUxGraUtOXeYwIpV) | 3:11 |

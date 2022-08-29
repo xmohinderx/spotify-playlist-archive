@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,806 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,884 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 49 | [Blood Red Skies](https://open.spotify.com/track/7g796noAmjjQOibxStn85a) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 7:50 |
 | 50 | [Riding on the Wind](https://open.spotify.com/track/4Myj2cmlFC8tsq9cqj082O) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 3:09 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA0MjFlNDlmMjUyZGVmYTI3MDMwZDQ4ZWQ0MmM2MzkzYQ==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA1Y2JlOGJhMmU2NWNlNTdiMzdiN2U1ZTkwZTAzZWZmZQ==`

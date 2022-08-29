@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-440 songs - 23 hr 45 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+441 songs - 23 hr 48 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Useless](https://open.spotify.com/track/6hm2FJTdvkLis7O2HAwGJT) | [h3nlla](https://open.spotify.com/artist/0YWF99D1OENerVdcdzPZuQ) | [Useless](https://open.spotify.com/album/0RxGwv5L7REj4SPoKAVLcb) | 2:08 | 2022-01-14 | 2022-01-29 |
 | [Vans \- King Kavalier Remix](https://open.spotify.com/track/2PsA5RgMKiWCubVCJRxHvY) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [King Kavalier](https://open.spotify.com/artist/2WHVbKysnJdhkB4VBWxC3v) | [Fear \(The Remixes\)](https://open.spotify.com/album/4mf2DXx8ap2fliFDyYKleT) | 2:45 | 2022-01-14 |  |
 | [Visions](https://open.spotify.com/track/4Z3C4gdBVL8INjfDkUviNn) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [Visions](https://open.spotify.com/album/60MVEOKz4pVB7JKdHUyFyp) | 2:44 | 2022-03-10 | 2022-04-09 |
+| [Voices](https://open.spotify.com/track/3FsvEEbnIbJzNdpFndf5iM) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [Voices](https://open.spotify.com/album/7gYw0aHBDQ3il1QzOKpanx) | 2:52 | 2022-08-28 |  |
 | [Vortex](https://open.spotify.com/track/0QmjtrK695axPhCtW2uSqm) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj), [Skypierr](https://open.spotify.com/artist/6ikUaio9cyA7emXcX49hZP), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:07 | 2022-06-16 |  |
 | [wake up](https://open.spotify.com/track/0JN3OE3SSJdzi3KvUx0xiS) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Rando](https://open.spotify.com/artist/6JdqHrxwmL2eeJO2oAnQG9), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:13 | 2022-06-16 |  |
 | [Waking Up](https://open.spotify.com/track/2hF4pV2De5EmnN6eRoY0qt) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Becca Krueger](https://open.spotify.com/artist/7gYWrkrzD1y5yhakU5kWTE) | [Waking Up](https://open.spotify.com/album/12ExlHZJlb8p4Zwtv49160) | 4:03 | 2022-07-18 | 2022-08-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: DJ Khaled
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,251 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,289 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 14 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 |
 | 15 | [Aces](https://open.spotify.com/track/4NByZfyqqwILmcfKCezDm0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Aces](https://open.spotify.com/album/6qT3TmCxY22tIRxxjfF4cI) | 2:49 |
 | 16 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 |
-| 17 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/5CuMcMc7DifQ9BVwi2ZXgY) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
+| 17 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/30wdrkW0hVWYdLxmUaIYZp) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 |
 | 18 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
 | 19 | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/track/1OdXwV1ZqMDuMKsPThVfSB) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/album/55lsB4N2SNet2krI1SBXht) | 3:37 |
 | 20 | [Dance Like This](https://open.spotify.com/track/0zPRHnj8UVKetT0mIo2EWF) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Dance Like This](https://open.spotify.com/album/580TCktwPgL3nl5XF01R3V) | 2:32 |

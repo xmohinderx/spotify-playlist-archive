@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,736 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,806 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 87 | [If It Ain't Funky](https://open.spotify.com/track/5xLqifhKZLv724YpWls2kJ) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [Bustin' Loose](https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub) | 6:04 |
 | 88 | [You and Me](https://open.spotify.com/track/3qmPESdkRVY6qWrIQpuBQM) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e), [Jimmy Douglas](https://open.spotify.com/artist/2kLF5OqO9KpxWZl9bPy8hj) | [Slave](https://open.spotify.com/album/6FD0UvvoVyO4KF0KhqFdM1) | 6:41 |
 | 89 | [Say Brother](https://open.spotify.com/track/4fUaojQIp1G5wtrSIiisub) | [Stark Reality](https://open.spotify.com/artist/56gb9gCUTDLTNObeag9fNi) | [Roller Coaster Ride](https://open.spotify.com/album/2sz83lf4entpzZPzmU6Vj2) | 4:29 |
-| 90 | [Evil Vibrations](https://open.spotify.com/track/7Mejr45Z682u03XdAMVhwB) | [The Mighty Ryeders](https://open.spotify.com/artist/75gQ7DppTybJkSbxlwmkvo) | [Best of Solid Disco](https://open.spotify.com/album/4qVWZbWVwc8D7NSURyQUBI) | 3:45 |
+| 90 | [Evil Vibrations](https://open.spotify.com/track/0RRpaBTAuZWFQlbFmKKdhL) | [The Mighty Ryeders](https://open.spotify.com/artist/75gQ7DppTybJkSbxlwmkvo) | [Help Us Spead the Message](https://open.spotify.com/album/5mVXKS05z5j74bpq26mE6E) | 3:45 |
 | 91 | [Lovin' Man](https://open.spotify.com/track/1wUqPSPW6NOskhRHhIf9uU) | [Eugene McDaniels](https://open.spotify.com/artist/4k6kxW9Xv4kVbTblyLfygN) | [Headless Heroes of the Apocalypse](https://open.spotify.com/album/3d6r8XuRKejXiqXisnMNoi) | 4:49 |
 | 92 | [What About Love \- Mark Grusane Edit](https://open.spotify.com/track/1k6tMlJREcGSfijxtNj7sC) | [Brief Encounter](https://open.spotify.com/artist/4OEbC7T2MsiXplZhj7ljRj), [Mark Grusane](https://open.spotify.com/artist/4CbCjbCnAhZKQfLi21RNSM) | [The Real Sound of Mark Grusane](https://open.spotify.com/album/4yys6WC1buG4jdGy10Brxy) | 5:05 |
 | 93 | [Let It Shine](https://open.spotify.com/track/1uGVHr2GEaQkTZBfHv2TOn) | [9th Creation](https://open.spotify.com/artist/0JteaW1VUSassfQphZqD8X) | [A Step Ahead](https://open.spotify.com/album/7kLTbY2iPtSzJuIFHIhNyn) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/4pMG2a3r1AeVbV4FOJwuRn) | [Rokk](https://open.spotify.com/artist/7bLOOtxBWLOpBmhGX3cp0S) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/35IxeM8FWncBSFRH9soSTa) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/2xcxqTg21JxE6zPjT6xswd) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/5MRu2NKaMYjIvi7K2RMRGF) | 3:57 |
 
-Snapshot ID: `MTY1OTYwNDE4MywwMDAwMDAwMDA3ZGYyYzU0OWE5OTU5M2EyZjc1YjhhNDAxNTAxZjIx`
+Snapshot ID: `MTY1OTYwNDE4MywwMDAwMDAwMGE2ZjM4MjI3NDE2YWRlZmJmNjk4NDkxODViMzMxNjMx`

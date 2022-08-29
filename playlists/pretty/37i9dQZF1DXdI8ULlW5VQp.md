@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Yuridia y Banda MS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,652 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,704 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 17 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 |
 | 18 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 19 | [Vencer el Pasado](https://open.spotify.com/track/21uAJbkOwnIs4JjHXR8cSO) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Vencer el Pasado](https://open.spotify.com/album/2g4n6T7P1LyUpiRtlArPiO) | 3:48 |
-| 20 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 20 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 21 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 |
 | 22 | [Recuerdo](https://open.spotify.com/track/5nv8yhA2ySKUxofQ3Ei1er) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/0Yyill6hXJgajirOCDuGrT) | 3:29 |
 | 23 | [Toda Esta Ciudad](https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Toda Esta Ciudad](https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC) | 5:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,081 likes - 37 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,092 likes - 37 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 36 | [Smokes Quantity / 1986 Summer Fire](https://open.spotify.com/track/5KtVHAt2t83LstAewziMLf) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 4:48 |
 | 37 | [Iced Cooly](https://open.spotify.com/track/2puMrk8At4ws8Yo92320F7) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 2:22 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBhOGUzOTViMjIwMTgxZWY2ODgxZjcyMDBjMTU2YzJmZA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA4NTAyYzFlYmI4ZWMwZGQyZGEyMGUxZDkwOWQyMThmYQ==`

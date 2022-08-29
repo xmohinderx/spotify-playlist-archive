@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,402 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,403 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 24 | [Too Far To Be Gone](https://open.spotify.com/track/4LqNWOvsopAWsFsz8uMS2F) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Too Far To Be Gone](https://open.spotify.com/album/1sdSAjSEJ08bP1m1zcwEuy) | 3:46 |
 | 25 | [In The Blood Of The Blues](https://open.spotify.com/track/6ZmqDRKnUzyS1L3Df2BrRk) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:52 |
 | 26 | [Uncivil War](https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:45 |
-| 27 | [Turn The Heat Up](https://open.spotify.com/track/4ifseIlgKYEk3Oyx1L30zV) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 5:20 |
-| 28 | [Fried Catfish And Bibles](https://open.spotify.com/track/4pGSJx0gqo1HqadjSmXX1S) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:03 |
+| 27 | [Fried Catfish And Bibles](https://open.spotify.com/track/4pGSJx0gqo1HqadjSmXX1S) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:03 |
+| 28 | [Turn The Heat Up](https://open.spotify.com/track/4ifseIlgKYEk3Oyx1L30zV) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 5:20 |
 | 29 | [Such A Pretty Flame](https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:31 |
 | 30 | [It's 2 A.M.](https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:28 |
-| 31 | [Hand In Hand](https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2) | [Ian Siegal](https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Stone by Stone](https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl) | 4:28 |
-| 32 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 |
+| 31 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 |
+| 32 | [Hand In Hand](https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2) | [Ian Siegal](https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Stone by Stone](https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl) | 4:28 |
 | 33 | [Walk Until I Ride](https://open.spotify.com/track/5VGvCsAYlOTOTJTiyKyM1y) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:12 |
 | 34 | [Givin' Up You](https://open.spotify.com/track/4LoyfqghF75QfVFx08gAIh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU) | 3:26 |
 | 35 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/5vYM0NGLtGNidLnC34Ij4L) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 49 | [Beat Up Guitar](https://open.spotify.com/track/5MXGqDBmhnHELueZgK6ypP) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:27 |
 | 50 | [Too Close](https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 4:39 |
 
-Snapshot ID: `Mjc2OTM0NDYsMDAwMDAwMDAzYWViODY1Nzk5N2YwMDU5MjcxMjA1Y2E2Zjk4Yzc1YQ==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA0YTQzMzgzOTc3YWZhOTE3MTI1MTQ1ODhhZDM2NmI0Ng==`

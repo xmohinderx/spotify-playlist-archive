@@ -4,7 +4,7 @@
 
 > Plutonio entra na zona.
 
-101 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+102 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 | 2022-07-16 |  |
 | [Dona](https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s) | [Dona](https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo) | 4:05 | 2022-08-11 |  |
 | [Eqlibrio](https://open.spotify.com/track/3DBE7Y8iUKvBiTemUAVBxr) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Eqlibrio](https://open.spotify.com/album/0G6VzSlavGHhp2NCAWNbnz) | 4:31 | 2022-08-04 | 2022-08-12 |
-| [Errado Ou Certo](https://open.spotify.com/track/25mjzt2zSXWSMgOwliEaVW) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Errado Ou Certo](https://open.spotify.com/album/6Ldl8CFN2ekAROeSqSDKXZ) | 4:12 | 2022-08-25 |  |
+| [Errado Ou Certo](https://open.spotify.com/track/25mjzt2zSXWSMgOwliEaVW) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Errado Ou Certo](https://open.spotify.com/album/6Ldl8CFN2ekAROeSqSDKXZ) | 4:12 | 2022-08-25 | 2022-08-29 |
+| [Errado ou Certo](https://open.spotify.com/track/2bVf4gzQlwvpMpviDiB9NP) | [DEEZYX](https://open.spotify.com/artist/0aifFW6Ag5kaEcYPN1VZj8) | [Errado ou Certo](https://open.spotify.com/album/3wNd1Gd95BHO9lFoyNEyRJ) | 4:09 | 2022-08-25 |  |
 | [ES7ÁDIO](https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [ES7ÁDIO](https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq) | 3:37 | 2022-07-16 |  |
 | [Estadia](https://open.spotify.com/track/1ivRu9ANM1hYBgeNDZyRmX) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Estadia](https://open.spotify.com/album/7rHFACi1s7gKshBvKBCbDN) | 3:27 | 2022-07-16 |  |
 | [EUROPA \(feat\. Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [EUROPA \(feat\. Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 | 2022-07-16 |  |

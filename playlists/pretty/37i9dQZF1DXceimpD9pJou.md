@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: Gabriel EMC
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,986 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,055 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [El Final de Mis Sueños](https://open.spotify.com/track/1gXYe5u8NUTKNc7tmEDJSS) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [El Final de Mis Sueños](https://open.spotify.com/album/41ylKotUgXDqeIidwtYvKD) | 4:34 |
+| 1 | [El Final de Mis Sueños](https://open.spotify.com/track/1gXYe5u8NUTKNc7tmEDJSS) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [El Final de Mis Sueños](https://open.spotify.com/album/41ylKotUgXDqeIidwtYvKD) | 4:34 |
 | 2 | [Tamos de Fiesta](https://open.spotify.com/track/0ft6Igxvsf1HYVFHDp1aX1) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Tamos de Fiesta](https://open.spotify.com/album/6JCYBeSj1gVZoq0kbrxtao) | 3:18 |
 | 3 | [Paz](https://open.spotify.com/track/4AtzxpEuteSD6NkZ8ZfAde) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x) | [Paz](https://open.spotify.com/album/1Gbh8zYBWiXviLjGoLV25B) | 3:21 |
 | 4 | [Tu Manto \- Remix](https://open.spotify.com/track/0BEDr7n9SCehDvhJnQPYok) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Tu Manto \(Remix\)](https://open.spotify.com/album/4eKpL9SKZ8fqWIOYq6B4o9) | 3:44 |

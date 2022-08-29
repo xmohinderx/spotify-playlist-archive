@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,195 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,204 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,20 +13,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 3 | [Bleach Blonde Bottle Blues](https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:13 |
 | 4 | [Preachin' Blues](https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:21 |
 | 5 | [Nights In White Satin](https://open.spotify.com/track/5VuqRSDZ2qjA13Ngu8PDo0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:40 |
-| 6 | [Danger Angel](https://open.spotify.com/track/237ishmZPMHE8IZoMW5ARi) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:27 |
+| 6 | [Georgia off My Mind](https://open.spotify.com/track/2FB5zzkM1KLBMPZ0il54lF) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Georgia Off My Mind](https://open.spotify.com/album/7oUCaDFalrYoXSNFASHgOl) | 3:54 |
 | 7 | [Mississippi](https://open.spotify.com/track/0JsQSLUInJGc5RmWAOBs9p) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:39 |
 | 8 | [Black Betty](https://open.spotify.com/track/14b07Oyy41Y243WaJJivSO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 2:44 |
-| 9 | [Trouble in Mind](https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:42 |
-| 10 | [In The Air Tonight](https://open.spotify.com/track/6FuMaMKyjOqSnpIu89M1UU) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:21 |
-| 11 | [Georgia off My Mind](https://open.spotify.com/track/2FB5zzkM1KLBMPZ0il54lF) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Georgia Off My Mind](https://open.spotify.com/album/7oUCaDFalrYoXSNFASHgOl) | 3:54 |
+| 9 | [Danger Angel](https://open.spotify.com/track/237ishmZPMHE8IZoMW5ARi) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:27 |
+| 10 | [Trouble in Mind](https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:42 |
+| 11 | [In The Air Tonight](https://open.spotify.com/track/6FuMaMKyjOqSnpIu89M1UU) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:21 |
 | 12 | [She's A Self Made Man](https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [She's A Self Made Man](https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G) | 3:01 |
 | 13 | [Bad Spell](https://open.spotify.com/track/5cHukuRapWJdAY6EitrL2C) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2h7ZuJxpRNLE2B2FQwSIuq) | 3:15 |
 | 14 | [Back Down South](https://open.spotify.com/track/3eAwGZfTnsKwE7k7OexXu7) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:54 |
 | 15 | [Come on in My Kitchen](https://open.spotify.com/track/579GL5nioUg1vxV1ilSFRR) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 2:11 |
 | 16 | [Blood Harmony](https://open.spotify.com/track/4O1FoNb9yC3B7Ts3KOMWt2) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/3oghxFoXbe6RZup0thSLiz) | 4:05 |
-| 17 | [Don't](https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:04 |
+| 17 | [Bell Bottom Blues](https://open.spotify.com/track/4rt1XgXMAoCT97MhMj8bou) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:41 |
 | 18 | [Keep Diggin’](https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:13 |
-| 19 | [Bell Bottom Blues](https://open.spotify.com/track/4rt1XgXMAoCT97MhMj8bou) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:41 |
+| 19 | [Don't](https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:04 |
 | 20 | [Sometimes](https://open.spotify.com/track/32EakGEjZPjasCLjHN5ktx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 2:52 |
 | 21 | [John the Revelator](https://open.spotify.com/track/1Ozg06SCQcx6yBoIie8Xo7) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:19 |
 | 22 | [Easy Street](https://open.spotify.com/track/1JbHMSiZowEjVrRhXh3XjZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 49 | [Rattlesnake Shakin’ Woman](https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Co\-Starring](https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET) | 4:31 |
 | 50 | [Elephant](https://open.spotify.com/track/19UCWFnyGHSE3DOOtdFPGn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:29 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA0Y2IyOTQ0MmYzNTZkMzQ4NmE2ZTdiOGUxOTViZWNlNA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA5YjVjNzA3Njg0MjIxZmVjODdjZWFjMmE1Y2U3MDEzZA==`

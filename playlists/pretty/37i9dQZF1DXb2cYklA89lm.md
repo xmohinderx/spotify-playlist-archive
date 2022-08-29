@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,901 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,962 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

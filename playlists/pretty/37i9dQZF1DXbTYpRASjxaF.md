@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Menor MC, DJ Matt D
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,643 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,715 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

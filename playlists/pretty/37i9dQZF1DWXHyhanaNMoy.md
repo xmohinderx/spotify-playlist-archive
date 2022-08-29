@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en summer vibes! Cover: Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,022 likes - 66 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,092 likes - 66 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

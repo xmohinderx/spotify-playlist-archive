@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,160 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,404 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 66 | [Dreams](https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Starchild](https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx) | 3:51 |
 | 67 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 |
 | 68 | [Don't Stop](https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Gold](https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r) | 2:42 |
-| 69 | [Trade of Hearts](https://open.spotify.com/track/1n3lQ9NRhdY2Km9HGAUdmA) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 |
-| 70 | [Pelvis Pusher](https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Pelvis Pusher](https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8) | 3:07 |
+| 69 | [Pelvis Pusher](https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Pelvis Pusher](https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8) | 3:07 |
+| 70 | [Explore](https://open.spotify.com/track/15fow3n2T8cgsPH9FBItjL) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 4:46 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGNkZGRiZDUzZDRiYzA0ZGNlNjYwMmIxNGZmZGNiYTcz`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDE2ODQyZWQwMDJjY2E4ODg1NmYyMzc5MWUzZmNmMDdl`

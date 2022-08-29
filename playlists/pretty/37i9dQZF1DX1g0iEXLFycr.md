@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,571 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,566 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 68 | [Superstar \(feat\. Matthew Santos\)](https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:49 |
 | 69 | [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 |
 | 70 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
-| 71 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\)](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
+| 71 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
 | 72 | [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:32 |
 | 73 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
 | 74 | [Inner Smile](https://open.spotify.com/track/7zTbBG1yo6VUHbcqT2pAke) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [The Greatest Hits](https://open.spotify.com/album/0NP65tx92g74w3VMwcTodj) | 3:50 |

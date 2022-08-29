@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,289 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,337 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 47 | [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 |
 | 48 | [disco tits](https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [BLUE LIPS \(lady wood phase II\)](https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L) | 3:43 |
 | 49 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 |
-| 50 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\)](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
+| 50 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
 | 51 | [Neon Lights](https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:53 |
 | 52 | [Mine](https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Mine](https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP) | 2:39 |
 | 53 | [Magnets](https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 3:19 |

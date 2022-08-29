@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,297 likes - 44 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,353 likes - 44 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,30 +12,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 2 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 |
 | 3 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
 | 4 | [Wild Eyes](https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:18 |
-| 5 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
+| 5 | [Darker Still](https://open.spotify.com/track/3vODx9YwmM8irt3vZBfzjJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/0P5on9gXrHkBXYdxCRhUN9) | 6:50 |
 | 6 | [The Void](https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:53 |
-| 7 | [The Greatest Fear](https://open.spotify.com/track/4djFibnNhLYGcQra97W9N1) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [The Greatest Fear](https://open.spotify.com/album/7Jeto13iM7TeHsLhxeffb6) | 5:28 |
-| 8 | [Darker Still](https://open.spotify.com/track/3vODx9YwmM8irt3vZBfzjJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/0P5on9gXrHkBXYdxCRhUN9) | 6:50 |
-| 9 | [Bottom Feeder](https://open.spotify.com/track/6jQu1YuisnFu36Sof5wjym) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:20 |
-| 10 | [Sleepwalker](https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:01 |
-| 11 | [Idols and Anchors](https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:48 |
+| 7 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
+| 8 | [The Greatest Fear](https://open.spotify.com/track/4djFibnNhLYGcQra97W9N1) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [The Greatest Fear](https://open.spotify.com/album/7Jeto13iM7TeHsLhxeffb6) | 5:28 |
+| 9 | [Sleepwalker](https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:01 |
+| 10 | [Idols and Anchors](https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:48 |
+| 11 | [Bottom Feeder](https://open.spotify.com/track/6jQu1YuisnFu36Sof5wjym) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:20 |
 | 12 | [Dark Days](https://open.spotify.com/track/18Hju2cdvKh07eBmE4Sug5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:05 |
-| 13 | [Crushed](https://open.spotify.com/track/2BzEsfwqucjlBSFu8s74sz) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:36 |
-| 14 | [Deliver Me](https://open.spotify.com/track/1OuOKS43b3pRYb9d49WrBp) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:13 |
-| 15 | [Romance Is Dead](https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 5:17 |
+| 13 | [Deliver Me](https://open.spotify.com/track/1OuOKS43b3pRYb9d49WrBp) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:13 |
+| 14 | [Romance Is Dead](https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 5:17 |
+| 15 | [Crushed](https://open.spotify.com/track/2BzEsfwqucjlBSFu8s74sz) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:36 |
 | 16 | [Wishing Wells](https://open.spotify.com/track/6Fqdip4cWZEFwtmdhX9iNq) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 5:03 |
-| 17 | [The Siren's Song](https://open.spotify.com/track/6EhCOo20iD7JSvMP7fty7n) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:04 |
-| 18 | [Karma](https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:49 |
-| 19 | [Pandora](https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:58 |
+| 17 | [Karma](https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:49 |
+| 18 | [Pandora](https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:58 |
+| 19 | [The Siren's Song](https://open.spotify.com/track/6EhCOo20iD7JSvMP7fty7n) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:04 |
 | 20 | [Shadow Boxing](https://open.spotify.com/track/0IjgnngXXRb1adm4kYVeB2) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:50 |
 | 21 | [Swing](https://open.spotify.com/track/7EuOA3u04bWOvNw6RZQZy7) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 3:31 |
-| 22 | [Dead Man's Chest](https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:21 |
-| 23 | [Leviathan I](https://open.spotify.com/track/6FEkMS1Wiz5b1QLWLrbrne) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:49 |
-| 24 | [Chronos](https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 6:20 |
+| 22 | [Leviathan I](https://open.spotify.com/track/6FEkMS1Wiz5b1QLWLrbrne) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:49 |
+| 23 | [Dead Man's Chest](https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:21 |
+| 24 | [Absolute Power](https://open.spotify.com/track/3PBO2IOcxzIdDbpDwygejB) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:42 |
 | 25 | [Dream Run](https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:08 |
 | 26 | [Mutiny](https://open.spotify.com/track/0JhU5780ClX6njQAN21bP9) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:13 |
 | 27 | [Breaking Point](https://open.spotify.com/track/7nhVZs10XVluL6RKtv86q9) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:38 |
-| 28 | [Absolute Power](https://open.spotify.com/track/3PBO2IOcxzIdDbpDwygejB) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:42 |
+| 28 | [Chronos](https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 6:20 |
 | 29 | [Unrest](https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 2:19 |
 | 30 | [It's So Hard To Speak Without A Tongue](https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 4:16 |
 | 31 | [Sleight of Hand](https://open.spotify.com/track/4629CEGA4gQ065aiuoR32n) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:27 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 43 | [Writings on the Wall](https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
 | 44 | [The Sound of Violence](https://open.spotify.com/track/0M642wngTpDSoUTf6SYnSh) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 3:24 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBlOTYzOTg0MTg3NmY4ZGU5OWFhOGNkYzAxODQwMGI4Yg==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA4ZjE4ODQ2ZjdmMjJhM2M2MmY5MzQ3YTQ0OWQ2YmM1MA==`

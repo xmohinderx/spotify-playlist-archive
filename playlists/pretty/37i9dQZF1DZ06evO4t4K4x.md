@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696 likes - 33 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 699 likes - 33 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 29 | [Environmental Studies](https://open.spotify.com/track/6SH4xRo7J9eGtzZTvUIM2w) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:31 |
 | 30 | [Hannett and Delia synth exchanges track 10](https://open.spotify.com/track/4eSGGibTzb8uFGwwxMPd2A) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 4:57 |
 | 31 | [Know Your Car \(Get out and Get Under\)](https://open.spotify.com/track/5mFAUxtxUKV8HbNjhyqoGd) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:59 |
-| 32 | [A New View of Politics](https://open.spotify.com/track/2tLBAVvLREIyKdHClrtXkK) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:41 |
-| 33 | [Science and Health](https://open.spotify.com/track/4lWoCNmwIINJd79g59LZIC) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:57 |
+| 32 | [Science and Health](https://open.spotify.com/track/4lWoCNmwIINJd79g59LZIC) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:57 |
+| 33 | [A New View of Politics](https://open.spotify.com/track/2tLBAVvLREIyKdHClrtXkK) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:41 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA4ODc3MmRhMDUxMTgwMWUwMzEyMjNhNDQ4ODhlYzdhMw==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA1MTM1NGNiNjVlMDExZjkxNjUzNjljYzdkNjYwNTNkNw==`

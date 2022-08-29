@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover:  Ayron Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,536 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,670 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 44 | [Who’s That Playing On The Radio? \(feat\. Danny Worsnop of Asking Alexandria and Mick Mars of Mötley Crüe\)](https://open.spotify.com/track/60873rJNFVxsGUrvVQenhS) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Who’s That Playing On The Radio? \(feat\. Danny Worsnop of Asking Alexandria and Mick Mars of Mötley Crüe\)](https://open.spotify.com/album/4SuFcZyW8cZ5owF1mj5KmC) | 3:25 |
 | 45 | [Worst Is On Its Way](https://open.spotify.com/track/4mvAZT5CKaKZjvNGmjoHRA) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 4:03 |
 | 46 | [Welcome to the Chaos \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/1lk2MrlN6AEdDwWH4WxTPe) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome to the Chaos](https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc) | 3:28 |
-| 47 | [Kill Or Be Killed](https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX) | 4:59 |
+| 47 | [Kill Or Be Killed](https://open.spotify.com/track/4scqfHWE0J9dgdbjqstjS3) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:59 |
 | 48 | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 |
 | 49 | [RECOVER](https://open.spotify.com/track/2k7lPTbMXcVLDoHqTE2Yzt) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [RECOVER](https://open.spotify.com/album/2ClSrGoU8x1kY3wL6cgl6r) | 3:22 |
 | 50 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 149 | [Dark Side](https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Z6iyt5AgvnG2pPAgOTtSZ) | 2:57 |
 | 150 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDJiYjJmYTc4MDAzZmRlY2FiM2QxZjM1NmI3OTRmMTZk`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGI1MzY5MzRmNjM4YzE2ZDBhMTYyZDE5ZDE3YzRiY2U4`

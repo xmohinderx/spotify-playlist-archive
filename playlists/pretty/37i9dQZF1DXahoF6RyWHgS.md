@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,076 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,101 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

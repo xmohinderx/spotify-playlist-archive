@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Ponniyin Selvan
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,463 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,971 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

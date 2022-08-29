@@ -4,7 +4,7 @@
 
 > The very best Rai hits\. Cover: Cheb Bello.
 
-60 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+61 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Al Hachwa Hachwa](https://open.spotify.com/track/0GDjF1aq0W3hZN9whZtcmw) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 5:15 | 2021-10-19 | 2022-07-29 |
 | [Al Hachwa Hachwa](https://open.spotify.com/track/0TZ6DTWepaTh3yniKcaNYz) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 5:15 | 2022-05-11 | 2022-08-25 |
 | [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 | 2021-10-19 |  |
+| [Amour éternel](https://open.spotify.com/track/4Sea9Lf0PINpNxhZi1N0eK) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Amour éternel](https://open.spotify.com/album/0rnOYqNe9BKgJw9VS12Zp0) | 5:02 | 2022-08-28 |  |
 | [Bagi Nwali Milliardaire](https://open.spotify.com/track/5PEdfV2WSVKIywE2dTgPQF) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Bagi Nwali Milliardaire](https://open.spotify.com/album/0HLrF0mYDsHcIPtUcILGhN) | 4:24 | 2021-10-19 |  |
 | [Bechouiya 3la Galbi](https://open.spotify.com/track/073EMBsQPqd4j89yoztZ47) | [Rai Mix](https://open.spotify.com/artist/03sJ8qPVXuuOkHBdswV4pj) | [Dj ANes ReMix Rai](https://open.spotify.com/album/3e4hbnsuCNBmXPXdTDexzO) | 4:05 | 2021-10-19 | 2022-03-26 |
 | [Bghitona natfarko](https://open.spotify.com/track/30SPX8Eue4UhihxU9cio7p) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [Bghitona natfarko](https://open.spotify.com/album/4baIAIwbTC2MqgKeIliPKU) | 2:33 | 2021-10-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > Pop\-punk, emo, post\-hardcore, alternative \- it's whatever you want it to be\. Cover: nothing, nowhere
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,064 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,099 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

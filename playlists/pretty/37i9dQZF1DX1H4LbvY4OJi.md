@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 
 > Embrace those happy vibes with these feel\-good hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,443 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,489 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 | 79 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 80 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 |
 
-Snapshot ID: `MTY2MDgzMTIwMCwwMDAwMDAwMDhiMDI2NGJjYjE3OTk5ZDdlNTNiNmM4NTJlZmM1Zjcz`
+Snapshot ID: `MTY2MTcyMzQ5MywwMDAwMDAwMGIxZTc3MjIxMGE2ZTc5ZjYwZmQxMGJkMmFiMzA2N2Ri`

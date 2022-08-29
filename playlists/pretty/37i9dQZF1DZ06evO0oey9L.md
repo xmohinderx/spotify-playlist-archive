@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,018 likes - 47 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,032 likes - 47 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,19 +41,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 31 | [El Chuko](https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:52 |
 | 32 | [Crónicas De Mi Guitarra](https://open.spotify.com/track/76ZaecbpNsMJdhoB0LkhJG) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 4:01 |
 | 33 | [La Fiesta Ya Empezo](https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:28 |
-| 34 | [La Moneda Vueltas Dio](https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 3:29 |
+| 34 | [De Aquí Para Allá](https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [De Aquí Para Allá](https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q) | 3:36 |
 | 35 | [El Dios Del Trueno](https://open.spotify.com/track/1SCdueIbk9GhV2PVMVKY32) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 3:48 |
 | 36 | [El Intercambio](https://open.spotify.com/track/0frsTsRmNDlPMy2Sjpowqu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 4:00 |
 | 37 | [Vida De Locura](https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:26 |
-| 38 | [Me Pueden Juzgar](https://open.spotify.com/track/1jtw4JaOsoFCWflmycd1fD) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Me Pueden Juzgar](https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI) | 3:37 |
-| 39 | [10 Iniciales NC](https://open.spotify.com/track/0Y0qqu5lwjtQFzDfYgODls) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 4:06 |
-| 40 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
-| 41 | [La Gente Nueva](https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:37 |
-| 42 | [Calles De S.D.](https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:17 |
-| 43 | [Barrio Xolo](https://open.spotify.com/track/5yJPahX4wJlrRPH1agjvtH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Barrio Xolo](https://open.spotify.com/album/2WdXJMn7Y4jlMM5tXPzt7j) | 3:06 |
-| 44 | [De Aquí Para Allá](https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [De Aquí Para Allá](https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q) | 3:36 |
+| 38 | [La Moneda Vueltas Dio](https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 3:29 |
+| 39 | [Me Pueden Juzgar](https://open.spotify.com/track/1jtw4JaOsoFCWflmycd1fD) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Me Pueden Juzgar](https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI) | 3:37 |
+| 40 | [10 Iniciales NC](https://open.spotify.com/track/0Y0qqu5lwjtQFzDfYgODls) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 4:06 |
+| 41 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
+| 42 | [La Gente Nueva](https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:37 |
+| 43 | [Calles De S.D.](https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:17 |
+| 44 | [Barrio Xolo](https://open.spotify.com/track/5yJPahX4wJlrRPH1agjvtH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Barrio Xolo](https://open.spotify.com/album/2WdXJMn7Y4jlMM5tXPzt7j) | 3:06 |
 | 45 | [La Casita De Madera](https://open.spotify.com/track/24VN5sgRu9hvIElo0lRzHx) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:27 |
-| 46 | [Con Un Puño De Cannabis](https://open.spotify.com/track/38StyWZFxOVmZyciFwExOi) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:48 |
-| 47 | [Galil Rameado](https://open.spotify.com/track/7mTQYSdS2N4Fb9T2ieH7dl) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Galil Rameado](https://open.spotify.com/album/1QLEQpE84nhDO17QuAmyzT) | 3:16 |
+| 46 | [Galil Rameado](https://open.spotify.com/track/7mTQYSdS2N4Fb9T2ieH7dl) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Galil Rameado](https://open.spotify.com/album/1QLEQpE84nhDO17QuAmyzT) | 3:16 |
+| 47 | [Con Un Puño De Cannabis](https://open.spotify.com/track/38StyWZFxOVmZyciFwExOi) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:48 |
 
-Snapshot ID: `Mjc2OTM0NDYsMDAwMDAwMDBjZGNjYzNmNmZhOTIxOTZlMTg2NjQxMDYwOTE5OGE1MA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA4YTI0NzM3NDg2NjFkZWYwZjU3NmI4ZWIzNjQ0Mjc3Mg==`

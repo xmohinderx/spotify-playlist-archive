@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Fazerdaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,916 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,915 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 18 | [Teenage Dirtbag – Spotify Singles](https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Spotify Singles](https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU) | 3:06 |
 | 19 | [Haunted](https://open.spotify.com/track/5iazYkEr6zbeZYjoUGwEBn) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Haunted](https://open.spotify.com/album/1U7TrNXieHR1rMTjs7R2jj) | 3:23 |
 | 20 | [You Don't Decide](https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59) | 2:41 |
-| 21 | [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 |
+| 21 | [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 |
 | 22 | [Black Cloud](https://open.spotify.com/track/7eKFpAosi1b37KQXHUVa7p) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/2dGVf0K5vgvhqrL3STAGoB) | 3:14 |
 | 23 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 |
 | 24 | [Gravity](https://open.spotify.com/track/0HmX9AOxfCcFSHpNLcRrHi) | [Ahlei](https://open.spotify.com/artist/5QyAbE7iRKVzJ5PXa3WpHq) | [Gravity](https://open.spotify.com/album/4JNFIuyUgQhnZyS7RCvWzP) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Selfish](https://open.spotify.com/track/625zvGkOpwTNi4tZ54bdZH) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4F1hweOR3EvXq0VxMm6bUF) | 2:08 |
 | 100 | [Clueless In Suburbia](https://open.spotify.com/track/36Q7tpoLycNGNivepuUFxT) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Clueless In Suburbia](https://open.spotify.com/album/1BMcInMvgt6NOxxcWvv1hz) | 3:17 |
 
-Snapshot ID: `MTY1OTMwOTU0MywwMDAwMDAwMDYxYjUxN2VlZDFkZTU1YTYzZDFmOWFjYmFlZWY2MWMz`
+Snapshot ID: `MTY1OTMwOTU0MywwMDAwMDAwMGQ1NDVmZTk4MmQ3MWIwYTM1MzM4MTVkNTY3Yjk0YzE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,582 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,948 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 55 | [One More Time](https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [One More Time](https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM) | 2:28 |
 | 56 | [Astronomia](https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia](https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL) | 3:18 |
 | 57 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 |
-| 58 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\)](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
+| 58 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\) \[Radio Edit\]](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
 | 59 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 |
 | 60 | [Ritual](https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ritual](https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry) | 3:18 |
 | 61 | [Summer Feeling](https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Summer Feeling](https://open.spotify.com/album/7ljoppdRu0kbD3KLrbuXzY) | 3:00 |

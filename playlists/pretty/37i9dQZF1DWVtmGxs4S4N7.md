@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtmGxs4S4N7.md) - [plain]
 
 > Shout ¡Viva México! with these classics\. ¡Ay caramba! ¡Arriba!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,450 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,771 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtmGxs4S4N7.md) - [plain]
 | 13 | [Mil Horas](https://open.spotify.com/track/6aiOkKVEe8Mo0O3ycrrn7z) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:14 |
 | 14 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
 | 15 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/0cvrnpQP2UBc9f68M28JDt) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 4:28 |
-| 16 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 16 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 17 | [La Pistola y el Corazon](https://open.spotify.com/track/0113SDiIkRuKckSPmHuTvx) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Mexico and Mariachis](https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9) | 3:29 |
 | 18 | [El Noa Noa](https://open.spotify.com/track/2Bbvlv1uslztpJbGgEsckH) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2) | 4:17 |
 | 19 | [We Belong Together](https://open.spotify.com/track/5eywEEGsC0UXsGnvviKGvw) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba](https://open.spotify.com/album/4yruAhkPML9KnFteGkdaOV) | 1:59 |

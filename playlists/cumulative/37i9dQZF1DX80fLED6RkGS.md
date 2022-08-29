@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q?si=dHc9UkpbQz2jb\-MNOXBWbw">Boondocks Gang</a>
 
-189 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
+190 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Freshi Barida \- Remix](https://open.spotify.com/track/5YGdJhOjYHJsJgE9PGlCMF) | [Stevo Simple Boy](https://open.spotify.com/artist/4AWQoDrvQdiwSMZgphLTfI), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Ntosh Ngazi](https://open.spotify.com/artist/4QvwgtZXeVbmyeKTRqOczU), [Exray](https://open.spotify.com/artist/4LuC7VnBIHO29vdcrMtk8l) | [Freshi Barida \(Remix\)](https://open.spotify.com/album/4eXnMIxfeI9uvVhwanHigy) | 3:25 | 2022-08-11 |  |
 | [Gari Kubwa](https://open.spotify.com/track/3a4sGEpwMnreOVIIXBDsKS) | [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV) | [Gari Kubwa](https://open.spotify.com/album/4RUhXpGcQOHMRjxtVL7Ueg) | 3:07 | 2022-01-20 | 2022-01-28 |
 | [Geri Inengi](https://open.spotify.com/track/3mMCfqlXkDzH8jE9mjIu7d) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [SirBwoy](https://open.spotify.com/artist/2YGz5XZZOcYA9TjDacv2aC), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm), [Scar Mkadinali](https://open.spotify.com/artist/3RCoJbqdoT2wavPdNCob2T) | [EXPOSED \(Munga\`s Revenge\)](https://open.spotify.com/album/7EdsRJcXSbgaulhtzYN14n) | 4:30 | 2022-01-20 | 2022-01-28 |
-| [Gin ama Whiskey](https://open.spotify.com/track/4avsKo1gmFshYWbaom1ziJ) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Gin ama Whiskey](https://open.spotify.com/album/6F9EfYlmPZAosOTfVOCCx0) | 4:06 | 2022-03-18 |  |
+| [Gin ama Whiskey](https://open.spotify.com/track/4avsKo1gmFshYWbaom1ziJ) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Gin ama Whiskey](https://open.spotify.com/album/6F9EfYlmPZAosOTfVOCCx0) | 4:06 | 2022-03-18 | 2022-08-29 |
+| [Gin Ama Whiskey](https://open.spotify.com/track/6zhNp08Kd10UrhfvOCLu0d) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Gin Ama Whiskey](https://open.spotify.com/album/0IU5Kq4BLwGZRbDq1rIy93) | 4:06 | 2022-03-18 |  |
 | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr) | 3:07 | 2021-09-02 |  |
 | [Hayaa](https://open.spotify.com/track/1MIj6zLZKQRXol1hkxiAue) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Harry Crazy](https://open.spotify.com/artist/1OwIxXp3t3vayTNXc29qBf), [Zilla](https://open.spotify.com/artist/3vfobKrRFK4UAkjSTIdF4b) | [Hayaa](https://open.spotify.com/album/0DKYRLe6E7tjSoGz3TIAUf) | 3:19 | 2021-09-23 | 2022-03-04 |
 | [HIVI NA HIVO](https://open.spotify.com/track/0lbf1IBDUh0ZRfSefOpFZT) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [HIVI NA HIVO](https://open.spotify.com/album/2qkkyBXKPpsFw4Lkb0qafh) | 3:07 | 2021-11-11 |  |

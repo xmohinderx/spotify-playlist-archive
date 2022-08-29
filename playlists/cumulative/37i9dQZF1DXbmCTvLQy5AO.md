@@ -4,7 +4,7 @@
 
 > Empowered rhymes and vibes\. Cover: Queen B
 
-81 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/7wi1BWlfT5Ro0JXOEqc0TU)
+82 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/7wi1BWlfT5Ro0JXOEqc0TU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 | 2022-06-10 |  |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-24 |  |
 | [BREAK MY SOUL \- THE QUEENS REMIX](https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [BREAK MY SOUL \(THE QUEENS REMIX\)](https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J) | 5:56 | 2022-08-15 |  |
-| [Burning](https://open.spotify.com/track/059CCHiMlUeKF7deDc1uN4) | [Mista Strange](https://open.spotify.com/artist/6f2OiLi5ws1F1xkHgjDPBX) | [Strange Faces](https://open.spotify.com/album/5G9OTVHZqkaSVzw7pW5PkD) | 3:45 | 2022-03-21 |  |
+| [Burning](https://open.spotify.com/track/059CCHiMlUeKF7deDc1uN4) | [Mista Strange](https://open.spotify.com/artist/6f2OiLi5ws1F1xkHgjDPBX) | [Strange Faces](https://open.spotify.com/album/5G9OTVHZqkaSVzw7pW5PkD) | 3:45 | 2022-03-21 | 2022-08-29 |
+| [Burning](https://open.spotify.com/track/5UCL0TZACi3cgVaIPs0UVm) | [Mista Strange](https://open.spotify.com/artist/6f2OiLi5ws1F1xkHgjDPBX) | [Strange Faces](https://open.spotify.com/album/5myzv5MVvDrFji6BKIVbzS) | 3:45 | 2022-08-15 |  |
 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 | 2021-09-30 | 2022-01-22 |
 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 | 2022-03-21 |  |
 | [Do It](https://open.spotify.com/track/1bRjwdtScY2eMe9uMmsOkG) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Do It](https://open.spotify.com/album/3qv9FlK79TvW61dCRd1f76) | 2:56 | 2021-09-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > Slow burners for late nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,259 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,968 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

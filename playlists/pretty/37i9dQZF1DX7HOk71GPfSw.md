@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. Ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,318 likes - 105 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,402 likes - 105 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

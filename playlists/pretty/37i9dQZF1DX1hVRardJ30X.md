@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Justin Quiles
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,757 likes - 68 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,932 likes - 68 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

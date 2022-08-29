@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 176699,
       "name": "60 De Zile",
       "url": "https://open.spotify.com/track/6sOyrZvYjDeZ781vZomWXT"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
@@ -2421,6 +2421,24 @@
       "duration_ms": 164457,
       "name": "Butter (Megan Thee Stallion Remix)",
       "url": "https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5"
+    },
+    {
+      "album": {
+        "name": "Buzele Cu Rosu Inchis",
+        "url": "https://open.spotify.com/album/76E3t8ST8PA6GwJNL0btpz"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202478,
+      "name": "Buzele Cu Rosu Inchis",
+      "url": "https://open.spotify.com/track/2daDEsJ0IztRdLzUSLss6f"
     },
     {
       "album": {
@@ -6285,7 +6303,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 162224,
       "name": "Hai ca m-ai sedus",
       "url": "https://open.spotify.com/track/51v9SiSHL3DVrEC8QRxQN8"
@@ -8453,17 +8471,17 @@
           "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         },
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
           "name": "Jung Kook",
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
@@ -13271,7 +13289,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 200727,
       "name": "Sensibil La Lumina",
       "url": "https://open.spotify.com/track/0HQrHYghOsf7UVcBdSFRa2"
@@ -14919,7 +14937,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 76460,
       "name": "Timeout",
       "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
@@ -15835,7 +15853,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 211500,
       "name": "Veste",
       "url": "https://open.spotify.com/track/5wQYjcX7kA26lF4pIcNVnP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > is "dressing well" in the room with us? Cover: Bella Hadid
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,572 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,007 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

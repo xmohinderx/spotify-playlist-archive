@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/78Df0kziilAoIaCTCvJtdA"
+      },
+      "artists": [
+        {
+          "name": "AKOSIA",
+          "url": "https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243399,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/1jpf91ngq4RrkajGFOqaGt"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3fphy1gARezaH2Xb96v5kQ"
       },
@@ -2023,6 +2041,24 @@
       "duration_ms": 210897,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/3sk8IBi4DhEAzmTtMdxc0t"
+    },
+    {
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/4Vp8RMvNLZHccQxPZKqaj0"
+      },
+      "artists": [
+        {
+          "name": "Sylvee",
+          "url": "https://open.spotify.com/artist/1OmQ8TgrwtDSA6cPVWwUbR"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163962,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/0TcGDRh3AbdKBQXtAbtp3n"
     },
     {
       "album": {

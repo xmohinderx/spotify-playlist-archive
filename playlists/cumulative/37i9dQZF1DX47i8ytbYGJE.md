@@ -4,7 +4,7 @@
 
 > Hillbilly and Rock music fusing together called Rockabilly!  Thankyouverymuch...
 
-270 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/3GVV7z7IlOsMQHBFeVAJAv)
+271 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/3GVV7z7IlOsMQHBFeVAJAv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,8 +212,9 @@
 | [Rock The Joint](https://open.spotify.com/track/6uBOECJH1ZDjm83m5STkrk) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Universal Masters Collection](https://open.spotify.com/album/0K2om8TROi1YMEXmC69gm7) | 2:15 | 2020-10-11 | 2022-07-29 |
 | [Rock the Joint](https://open.spotify.com/track/3i1pqfP4SQVAw0iWh8GDsG) | [Jimmy Preston](https://open.spotify.com/artist/1NRTTzPGHng44EEV856n65) | [Volume 2 \- Rock the Joint](https://open.spotify.com/album/7H4vgJSMCKTJ57maK2Q1Oe) | 2:35 | 2020-10-11 |  |
 | [Rock This Town](https://open.spotify.com/track/2SknHmwY6GiOv6aK7YRahd) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:27 | 2020-10-11 |  |
-| [Rock with Me Baby](https://open.spotify.com/track/2w3C1VjhTTxJHHGqC890xG) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Rock with Me Baby / Trouble Bound](https://open.spotify.com/album/6qVn0ABhmZ0Vun9LrEve7Q) | 2:10 | 2020-10-11 |  |
+| [Rock with Me Baby](https://open.spotify.com/track/2w3C1VjhTTxJHHGqC890xG) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Rock with Me Baby / Trouble Bound](https://open.spotify.com/album/6qVn0ABhmZ0Vun9LrEve7Q) | 2:10 | 2020-10-11 | 2022-08-29 |
 | [Rock with Me Baby](https://open.spotify.com/track/5NvSQQGxSGU53Din72Y0Nj) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The 50 Best Rockabilly Songs Ever](https://open.spotify.com/album/0Nb8B0PNy4XnoZAPw2cSOU) | 2:11 | 2020-10-11 | 2022-07-29 |
+| [Rock with Me Baby](https://open.spotify.com/track/7chd9tmRcxbUFN8zUn5LFC) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Sun Records Sound of Billy Lee Riley \(20 Rockabilly Originals\)](https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk) | 2:11 | 2020-10-11 |  |
 | [Rock With Me Baby \(2016 Remaster\)](https://open.spotify.com/track/2OEEpVEdBbXpx8SiTad8hR) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Rock 'N' Roll Legend: Billy Lee Riley](https://open.spotify.com/album/4tiXYCGhEcjUA0YMx3N4wz) | 2:11 | 2020-10-11 | 2022-07-31 |
 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 | 2020-10-11 |  |
 | [Rockin' Rollin' Stone](https://open.spotify.com/track/06qGD5AoCHM0DOFoyOh88V) | [Andy Starr](https://open.spotify.com/artist/5XwjCCdpnaF4qz7nUUdNp9) | [Singles 1955\-1962](https://open.spotify.com/album/75fjiwthYBRJsdQvm8Eyem) | 2:51 | 2020-10-11 |  |

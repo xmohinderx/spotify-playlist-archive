@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Nahee\(나히\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,215 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,313 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

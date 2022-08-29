@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,145 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,147 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 29 | [The Girl From Ipanema \- Live](https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Blue Note Plays Bossa Nova](https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM) | 4:23 |
 | 30 | [From Now On](https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:54 |
 | 31 | [Let's Burn Down The Cornfield \- 2006 Remaster](https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Best Of Lou Rawls \- The Capitol Jazz & Blues Sessions](https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp) | 3:03 |
-| 32 | [Early Morning Love](https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 5:39 |
-| 33 | [Not the Staying Kind](https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:51 |
+| 32 | [Not the Staying Kind](https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:51 |
+| 33 | [Early Morning Love](https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 5:39 |
 | 34 | [Blessed Assurance](https://open.spotify.com/track/02486Bl2PJbj0h5am6U5kT) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sunday Morning Service: God's Promise](https://open.spotify.com/album/1FAfHaWyHBT9v0F5ZSXIMi) | 2:14 |
 | 35 | [Season Of The Witch](https://open.spotify.com/track/65CQSLIsCjbVyGXVRg97K4) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 5:51 |
 | 36 | [Nobody But Me](https://open.spotify.com/track/1TKnomDQTCtUQEKdGwaE5S) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Nobody But Lou](https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM) | 2:44 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 39 | [You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening \- Live](https://open.spotify.com/track/6ANn9X1Fi3w1xcWdxBQMHZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 5:17 |
 | 40 | [Back To You](https://open.spotify.com/track/1sZvWZAw38RsYW5CuyqCxz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Now Is The Time](https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58) | 3:26 |
 | 41 | [Wind Beneath My Wings \- Single Version](https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Lou Rawls \- The Very Best Of](https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN) | 3:52 |
-| 42 | [Fine Brown Frame](https://open.spotify.com/track/529bZN7XbpbDog5xQqC3wA) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 3:05 |
-| 43 | [Your Good Thing \(Is About To End\)](https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:53 |
-| 44 | [All The Way](https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 2:43 |
-| 45 | [Time Will Take Care of Everything](https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Let Me Be Good to You](https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY) | 4:36 |
-| 46 | [Sit Down and Talk to Me](https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:53 |
-| 47 | [All Around The World](https://open.spotify.com/track/77Ia9N4Gsw38dvqlbFBs7f) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 3:21 |
-| 48 | [She's Gone](https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 3:29 |
-| 49 | [Southside Blues/Tobacco Road \- Live/Medley](https://open.spotify.com/track/7E7IVQTT08vYalrSXXQajt) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 7:56 |
-| 50 | [Sweet Lover](https://open.spotify.com/track/0uLV5fXFiGv9i9UEKDOCGc) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sweet Chariot](https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal) | 3:11 |
+| 42 | [Sweet Lover](https://open.spotify.com/track/0uLV5fXFiGv9i9UEKDOCGc) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sweet Chariot](https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal) | 3:11 |
+| 43 | [Fine Brown Frame](https://open.spotify.com/track/529bZN7XbpbDog5xQqC3wA) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 3:05 |
+| 44 | [Your Good Thing \(Is About To End\)](https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:53 |
+| 45 | [All The Way](https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 2:43 |
+| 46 | [Time Will Take Care of Everything](https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Let Me Be Good to You](https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY) | 4:36 |
+| 47 | [Sit Down and Talk to Me](https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:53 |
+| 48 | [All Around The World](https://open.spotify.com/track/77Ia9N4Gsw38dvqlbFBs7f) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 3:21 |
+| 49 | [She's Gone](https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 3:29 |
+| 50 | [Southside Blues/Tobacco Road \- Live/Medley](https://open.spotify.com/track/7E7IVQTT08vYalrSXXQajt) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 7:56 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBjMmU4NmNiNGQxY2FlN2RhM2I0ZTBlYTM1MDVjM2ZjZQ==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA2MmE2OTJiODA3OWY0YWY4YmExYTY5OWI5MGJlYjFkMA==`

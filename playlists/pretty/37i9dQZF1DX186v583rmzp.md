@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,975,789 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,977,711 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

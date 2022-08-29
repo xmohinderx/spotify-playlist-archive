@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "2 Na' Ma",
+        "url": "https://open.spotify.com/album/1fdoSKzS80sJIl3flEkPR8"
+      },
+      "artists": [
+        {
+          "name": "EL YALA",
+          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113772,
+      "name": "2 Na' Ma",
+      "url": "https://open.spotify.com/track/2TAwTtG4uihlWzelKWRRLp"
+    },
+    {
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
       },
@@ -6449,7 +6467,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 201347,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/4lgF0pKxpNKbXVNa6TMtJ5"
@@ -8437,7 +8455,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 161311,
       "name": "Que Cojones",
       "url": "https://open.spotify.com/track/22TyikLrwsaXhsL31mewls"
@@ -11189,7 +11207,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"

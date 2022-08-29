@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, Armin van Buuren, R3HAB, Simon Ward",
-  "num_followers": 48475,
+  "num_followers": 48474,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTM4OCw0OTBjM2FkYmVlYzI0MmY4MzZkNzA0MDc5NmJmNTU1NDA1MTI1MDU0",
+  "snapshot_id": "MTM4OSw1N2RkNDYwMWQwNTc2MDFiMTg1NjQyMjE5OTk3YTM5MzhiZTk2MDll",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -1469,26 +1469,6 @@
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
     },
     {
-      "added_at": "2022-07-05 15:41:02",
-      "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
       "added_at": "2021-01-28 23:01:05",
       "album": {
         "name": "Fav Boyz (Steve Aoki's Gold Star Remix)",
@@ -1511,6 +1491,26 @@
       "duration_ms": 230000,
       "name": "Fav Boyz (feat. Thutmose) - Steve Aoki's Gold Star Remix",
       "url": "https://open.spotify.com/track/0jYtnvT7QIGeAyJ5wbOZsj"
+    },
+    {
+      "added_at": "2022-07-05 15:41:02",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
     },
     {
       "added_at": "2022-08-16 15:41:02",

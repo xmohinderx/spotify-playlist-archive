@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Fazerdaze
 
-234 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+235 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,8 +107,9 @@
 | [i lost my friend at a rave](https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [i lost my friend at a rave](https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g) | 3:00 | 2022-07-03 |  |
 | [I Need to Go Home](https://open.spotify.com/track/0pl86RyHZNLaWP6YeuJ9Cz) | [Isla Noon](https://open.spotify.com/artist/14DaqRFdDOsSnbpw4cNhku) | [I Need to Go Home](https://open.spotify.com/album/1dbPxOCa9AzupuTtqT5iAl) | 3:37 | 2022-02-03 | 2022-07-04 |
 | [I Suck At Being Lonely](https://open.spotify.com/track/2w7Li4lbevrPrPSY7pGpxG) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [I Suck At Being Lonely](https://open.spotify.com/album/7bA0Jk8tXScy1ELn54aPZZ) | 2:58 | 2022-03-06 |  |
+| [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 | 2022-07-31 |  |
 | [I Was Neon](https://open.spotify.com/track/65ikIJChIrHvha8l4zqP5P) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/3zonfnIlNcBvaAe1cVfPy6) | 4:02 | 2022-07-03 | 2022-07-29 |
-| [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-07-03 |  |
+| [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-07-03 | 2022-08-29 |
 | [I'm Upset](https://open.spotify.com/track/54H0lpWzFmkJHgwSTRJQLo) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Wear My Wounds Like Armour](https://open.spotify.com/album/23fM3XHDMqq62dPBIurneZ) | 3:31 | 2022-02-03 | 2022-07-04 |
 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 | 2022-05-27 |  |
 | [Inhuman](https://open.spotify.com/track/0ncQ9YbooDMouzuq5SJOts) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Inhuman](https://open.spotify.com/album/6TiXS3ESOjoZWt3ZwhqbF6) | 3:42 | 2022-07-31 |  |

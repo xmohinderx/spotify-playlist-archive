@@ -4,7 +4,7 @@
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/7bvO2wI468kcZn4rhLALZN)
+57 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/7bvO2wI468kcZn4rhLALZN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Be Good To Me \(feat\. Seinabo Sey\)](https://open.spotify.com/track/7juealXfkel1kLInjvY4W8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:10 | 2021-12-29 |  |
 | [Black N White](https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:38 | 2022-05-21 | 2022-08-19 |
 | [Blame](https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Blame](https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p) | 4:11 | 2021-12-28 |  |
-| [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 | 2021-12-28 |  |
+| [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 | 2021-12-28 | 2022-08-29 |
 | [By Design \[Evel Knievel\]](https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [By Design \[Evel Knievel\]](https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS) | 3:45 | 2022-06-11 |  |
 | [Chainsmoking](https://open.spotify.com/track/1EZfCViOJ9XKFbwX8FkZUF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:12 | 2021-12-28 |  |
 | [Coffee \(feat\. Jacob Banks\)](https://open.spotify.com/track/0sgWmb5j8NoyTFv97Wo3IW) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Postcards](https://open.spotify.com/album/5YYcCrRlLW0eyUJIghzV8p) | 2:22 | 2021-12-28 |  |
@@ -39,6 +39,7 @@
 | [Monster 2.0](https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Monster 2.0](https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX) | 3:37 | 2021-12-28 |  |
 | [Move with You](https://open.spotify.com/track/4VbvGwV24TbFIULF176HXF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Move With You](https://open.spotify.com/album/7iS8UdbCE1VJSYqUBs5y5d) | 3:09 | 2021-12-28 |  |
 | [Only Way Is Up](https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ) | [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lundi Méchant](https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv) | 3:51 | 2021-12-28 |  |
+| [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 | 2022-08-28 |  |
 | [Parade](https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:16 | 2021-12-28 |  |
 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 | 2021-12-28 |  |
 | [Photograph](https://open.spotify.com/track/6BvAeJI35GUw2kNK6yMupI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:17 | 2021-12-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 5 years<br/>Cover : Thiruchitrambalam
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,659 likes - 55 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,013 likes - 55 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

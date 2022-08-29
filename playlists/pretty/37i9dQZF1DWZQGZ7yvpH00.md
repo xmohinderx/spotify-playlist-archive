@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Los Aptos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,200 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,571 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 41 | [Dulcito e Coco](https://open.spotify.com/track/3tD4abUOGHZHeL1eOl0gyy) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Dulcito e Coco](https://open.spotify.com/album/74yUD8QPWPKOFsyLS93g92) | 3:18 |
 | 42 | [Tristeza Y Traicion](https://open.spotify.com/track/6dRAEG6dmMfP5SS9Vh1s56) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 3:39 |
 | 43 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
-| 44 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 44 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 45 | [Eres Tu / </3](https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Eres Tu / </3](https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx) | 3:25 |
 | 46 | [Volveremos](https://open.spotify.com/track/0atD69P4fKr8nBUi1FXBzX) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 5:28 |
 | 47 | [Diablo](https://open.spotify.com/track/2xmH5KTkTsRWAxxHbXJkoL) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [En Donde Quedo Yo](https://open.spotify.com/album/0fFL3CyMKpIA6OOfjKlDWo) | 2:48 |

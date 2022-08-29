@@ -4,13 +4,13 @@
 
 > The best in alt, folk, and indie rock\. Cover: Caamp
 
-208 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
+209 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11/17](https://open.spotify.com/track/3efydF0TF67eydgM86XEwq) | [The Honest Heart Collective](https://open.spotify.com/artist/2qgcVY8aup4vFHfp4uoZ2X) | [11/17](https://open.spotify.com/album/0VOFvOzlavgsiKF0e9bJhY) | 2:32 | 2021-08-06 | 2022-02-05 |
 | [A Ghost](https://open.spotify.com/track/6Nf3vTytXZsEb9vCf1RDt6) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [A Ghost](https://open.spotify.com/album/2WsikixYJMwnnXKiRf92xH) | 3:45 | 2021-01-29 |  |
-| [A Wave Across A Bay](https://open.spotify.com/track/1p9yDrQeXYbE3f6bW2YBAI) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [A Wave Across A Bay](https://open.spotify.com/album/7cBsGWCsDuu0KC38K3uBFF) | 3:43 | 2022-01-14 |  |
+| [A Wave Across A Bay](https://open.spotify.com/track/1p9yDrQeXYbE3f6bW2YBAI) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [A Wave Across A Bay](https://open.spotify.com/album/7cBsGWCsDuu0KC38K3uBFF) | 3:43 | 2022-01-14 | 2022-08-29 |
 | [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 | 2021-07-16 |  |
 | [All My Friends](https://open.spotify.com/track/40Uq8mjn19gIAtHIG6ERZ6) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [All My Friends](https://open.spotify.com/album/4qXJ9YaSl6N7Z9pSCasdBq) | 3:39 | 2021-01-29 | 2022-01-15 |
 | [All We Have](https://open.spotify.com/track/5DDPP6Fx6zg92LigkZzSuH) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [All We Have](https://open.spotify.com/album/5FddzoYjGX8wxomZzjgYnh) | 2:42 | 2021-10-29 | 2022-01-22 |
@@ -52,6 +52,7 @@
 | [Dead Man's Dream](https://open.spotify.com/track/4UGNJoeYVM8oDd56dJv549) | [Painted Shield](https://open.spotify.com/artist/7kmm4Wi3pbsCHHIYqgYgX9) | [Dead Man's Dream](https://open.spotify.com/album/1UT4dX7eAFJU7coodDgzvR) | 3:26 | 2022-01-28 | 2022-07-29 |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-01-21 |  |
 | [Do It Over](https://open.spotify.com/track/4BqKXZhbl6paNvkzk2YTa0) | [The Districts](https://open.spotify.com/artist/3HZgaiR960RFqx9d4LPraD) | [Do It Over](https://open.spotify.com/album/1gtGLWjoZG824QeK0pSp54) | 3:50 | 2021-11-19 | 2022-07-29 |
+| [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 | 2022-08-28 |  |
 | [Dream Never Dies](https://open.spotify.com/track/6xLX58MTspmLTj3YRCe7Bt) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Dream Never Dies](https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk) | 4:45 | 2021-11-23 |  |
 | [Electrify My Love](https://open.spotify.com/track/5WfVPULd9FbXo4TPb6NT1w) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Electrify My Love](https://open.spotify.com/album/3V6TXPJE3GEKWyptLYekM0) | 4:53 | 2022-05-25 | 2022-07-29 |
 | [Elizabeth Taylor](https://open.spotify.com/track/3ugqcqDDIuBGovoWueX1zP) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Elizabeth Taylor](https://open.spotify.com/album/59gCtHmNtSL4NzjIXYGL5g) | 3:15 | 2021-11-23 | 2022-03-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,639,021 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,639,685 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 29 | [Die, Die My Darling](https://open.spotify.com/track/0t7LcUic4qolMCysPrKeAd) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 2:26 |
 | 30 | [Don't Tread On Me](https://open.spotify.com/track/2b7r6fN91KiHnp00aqHZ7x) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 4:00 |
 | 31 | [Blackened](https://open.spotify.com/track/0Tp7uSZK21LZTbZRBNb9ud) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 6:40 |
-| 32 | [The Thing That Should Not Be](https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 6:36 |
-| 33 | [Mama Said](https://open.spotify.com/track/3dWNUqrgkQakv9fj5epwPK) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 5:19 |
+| 32 | [Mama Said](https://open.spotify.com/track/3dWNUqrgkQakv9fj5epwPK) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 5:19 |
+| 33 | [The Thing That Should Not Be](https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 6:36 |
 | 34 | [I Disappear](https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [I Disappear](https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM) | 4:26 |
 | 35 | [Harvester Of Sorrow](https://open.spotify.com/track/1V3wAgMB4ESaN4rStlrUNz) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 5:45 |
-| 36 | [Leper Messiah](https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 5:39 |
-| 37 | [King Nothing](https://open.spotify.com/track/30RKGpKHqr7ytcTljw436k) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 5:29 |
+| 36 | [King Nothing](https://open.spotify.com/track/30RKGpKHqr7ytcTljw436k) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 5:29 |
+| 37 | [Leper Messiah](https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 5:39 |
 | 38 | [Motorbreath \- Remastered](https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 3:07 |
 | 39 | [...And Justice For All](https://open.spotify.com/track/0eXz8pS25MoeUguNPR9VvD) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 9:46 |
 | 40 | [No Leaf Clover \- Live](https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [S&M](https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD) | 5:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [The Shortest Straw \(Remastered\)](https://open.spotify.com/track/2Rn5VhDVELkuB4BjZEVJKr) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice for All \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF) | 6:35 |
 | 50 | [Bleeding Me](https://open.spotify.com/track/7FLm43IriB4jxAposCv9Ji) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 8:17 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDAzNzZmNTM3MjVkNmU2M2JhNDViYjljNDc5OTVmYTQ0Zg==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBmNjlhMTViMWM5ZTM2MDgxMDA3MzBjMzMzODdlNjgxZA==`

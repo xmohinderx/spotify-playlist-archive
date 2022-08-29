@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,195 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,230 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 21 | [Me equivoqué](https://open.spotify.com/track/2yHKjT0dQOZJQlyIATUXit) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:25 |
 | 22 | [Dolerá](https://open.spotify.com/track/18hHM8kKKL6AUFtWYogA4X) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Dolerá](https://open.spotify.com/album/3zBgO51TuNj2zbfeBqqAph) | 3:10 |
 | 23 | [Desnudos](https://open.spotify.com/track/0nZz6tnshGTSRWYh8In6Hj) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:17 |
-| 24 | [2020 Romántico Incurable/Un Loco Solitario](https://open.spotify.com/track/6om6exl9c2oIOIbyr8VgPp) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [2020 Romántico Incurable/Un Loco Solitario](https://open.spotify.com/album/28zbY61jrjElCJNQaOvk6U) | 3:20 |
+| 24 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 |
 | 25 | [Mi corazón y yo](https://open.spotify.com/track/5Xb6GxBcyLNdeYpu4BoGJX) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 2:54 |
-| 26 | [La cuca](https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [En grande](https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA) | 2:55 |
-| 27 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 |
+| 26 | [2020 Romántico Incurable/Un Loco Solitario](https://open.spotify.com/track/6om6exl9c2oIOIbyr8VgPp) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [2020 Romántico Incurable/Un Loco Solitario](https://open.spotify.com/album/28zbY61jrjElCJNQaOvk6U) | 3:20 |
+| 27 | [La cuca](https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [En grande](https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA) | 2:55 |
 | 28 | [Ahora que no estás aquí](https://open.spotify.com/track/6gexgfw9UpdELEd77ztIWu) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 3:15 |
 | 29 | [Regálame](https://open.spotify.com/track/2SEwhWIcGazGlCwNLKrfHQ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:08 |
 | 30 | [Tu Castigo](https://open.spotify.com/track/2qgcvWIkezO74IpIOUHIJs) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 2:52 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 43 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 |
 | 44 | [Perdón](https://open.spotify.com/track/2JGAeqfGwHqmPgjoLEjXpy) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Aniversario](https://open.spotify.com/album/58sbO4leQqMEydqYOHE1Xq) | 3:32 |
 | 45 | [Obra Maestra](https://open.spotify.com/track/1l1nG6NS9S89SBdpanadQF) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Una Poesía](https://open.spotify.com/album/5X4ge35zs3SC798wQzyb6x) | 3:31 |
-| 46 | [Como Me Haces Falta](https://open.spotify.com/track/30Kg2SplsztQyDsurzkv50) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [El Grito de DolorEs](https://open.spotify.com/album/6aaAtHJaZdLjd1ZeYD1Ome) | 3:39 |
-| 47 | [No necesitas a Carlo](https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:08 |
+| 46 | [No necesitas a Carlo](https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:08 |
+| 47 | [Como Me Haces Falta](https://open.spotify.com/track/30Kg2SplsztQyDsurzkv50) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [El Grito de DolorEs](https://open.spotify.com/album/6aaAtHJaZdLjd1ZeYD1Ome) | 3:39 |
 | 48 | [Con Pensar En Ti](https://open.spotify.com/track/6VrmX4vLI0iQLcogIfMZIn) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 2:53 |
 | 49 | [Cobarde](https://open.spotify.com/track/6IWmc0xEesUHiuOvKGNEYX) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 2:47 |
 | 50 | [Llora el amor](https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 3:13 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDAzNTNhNGFjZDA4M2I2Yjc1YWY1Y2Q4Mzg0ZTdmNGU1OQ==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA5MjAwN2RiZjVmMjZkOGVjNjI2NDMxODFmMDFkZjYxNg==`

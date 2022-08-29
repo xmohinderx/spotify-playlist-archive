@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,478,836 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,479,303 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

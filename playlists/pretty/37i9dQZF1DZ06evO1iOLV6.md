@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,549 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,551 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 7 | [No Kissing Baby](https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:41 |
 | 8 | [Love You Die \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/6BnKiK0FwqJoqCdVKh442g) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Love You Die \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/55VuLbTps49geEwrRAB0OD) | 3:15 |
 | 9 | [Melanin](https://open.spotify.com/track/2iauO3C7vEcmJAyP9HXKYX) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Afrikan Sauce](https://open.spotify.com/album/6kn9tgw5ktETOGSdwEJI9F) | 4:27 |
-| 10 | [I'm In Love](https://open.spotify.com/track/1V9xax1XoP0YpVp941UHJt) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [I'm In Love](https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF) | 3:29 |
-| 11 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 |
-| 12 | [Suh Different](https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Suh Different](https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7) | 3:38 |
+| 10 | [Suh Different](https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Suh Different](https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7) | 3:38 |
+| 11 | [I'm In Love](https://open.spotify.com/track/1V9xax1XoP0YpVp941UHJt) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [I'm In Love](https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF) | 3:29 |
+| 12 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 |
 | 13 | [Girlie 'O' \- Remix](https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Girlie 'O' \(Remix\)](https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4) | 3:55 |
 | 14 | [Jah Eli Jah](https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jah Eli Jah](https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4) | 3:53 |
 | 15 | [Halé Halé](https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Heal D World](https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Heal D World](https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY) | 3:44 |
 | 50 | [Bwana Mdogo \(feat\. Patoranking\)](https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:25 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA4YzRjMWVlNDM3OGFhZjFjZTlmZTI5MmYxYTM0ZjQzZg==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA5NTBhNmZiMmExM2ZjYzMxNWY5MzcxMTRhMGY3YjEzMw==`

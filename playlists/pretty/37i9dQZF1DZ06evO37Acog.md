@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,975 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,004 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 44 | [No Porque Seas Tú](https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:22 |
 | 45 | [Central Camionera](https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Central Camionera](https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu) | 3:22 |
 | 46 | [Cuando Yo Era Un Jovencito](https://open.spotify.com/track/34HiQ9eroaoXlS4b5ZJQWh) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey Vol\. II \- 30 Joyas Musicales](https://open.spotify.com/album/472vMgzbpIpdZ4WAQgxu9Z) | 2:49 |
-| 47 | [Linda Chiquilla \- \(En Vivo\)](https://open.spotify.com/track/3P1s3K8V03Dhwq4o6LDAWH) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:03 |
-| 48 | [Mándame A La Tumba](https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 3:55 |
-| 49 | [Te Traigo Estas Flores A Dueto Con Freddie Martinez](https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES](https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp) | 2:47 |
-| 50 | [Hay Unos Ojos](https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [No Vengas A Rogarme](https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji) | 3:00 |
+| 47 | [Mándame A La Tumba](https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 3:55 |
+| 48 | [Te Traigo Estas Flores A Dueto Con Freddie Martinez](https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES](https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp) | 2:47 |
+| 49 | [Hay Unos Ojos](https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [No Vengas A Rogarme](https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji) | 3:00 |
+| 50 | [Linda Chiquilla \- \(En Vivo\)](https://open.spotify.com/track/3P1s3K8V03Dhwq4o6LDAWH) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:03 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA0YzdkODJhMjQyNGVmNmFjNWM4MjEwN2M3NzZhYzIxNA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA3NjEzZTU5YjkxMmY2ZGZiNDg5NWI3Y2M4ZDk2ODJlOA==`

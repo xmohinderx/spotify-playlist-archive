@@ -893,7 +893,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 161423,
       "name": "Heaven Is a Hand to Hold",
       "url": "https://open.spotify.com/track/5z2aQl5Kn9N2B6mwOfdXlx"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 161423,
       "name": "Heaven Is a Hand to Hold - From \"Love, Victor: Season 2\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/68vIiVKyNLYuAEQHk6HXBi"
@@ -2245,6 +2245,28 @@
       "duration_ms": 149113,
       "name": "The Phone Call",
       "url": "https://open.spotify.com/track/6j4IgCOt3BfxkTf5KKreml"
+    },
+    {
+      "album": {
+        "name": "The Wrong Party (with Fitz and The Tantrums)",
+        "url": "https://open.spotify.com/album/7d93DGgzIxU4mP3V71xO7D"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        },
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159825,
+      "name": "The Wrong Party (with Fitz and The Tantrums)",
+      "url": "https://open.spotify.com/track/0CZ4WDvSa2YyTei18Tapjd"
     },
     {
       "album": {

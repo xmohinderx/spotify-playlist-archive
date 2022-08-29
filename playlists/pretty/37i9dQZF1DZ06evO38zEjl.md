@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083 likes - 51 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,087 likes - 51 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,20 +44,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 34 | [Wing Melodies](https://open.spotify.com/track/3nWWMBKHbfhQGZOYHKynKb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 7:33 |
 | 35 | [Al Kongo Udu](https://open.spotify.com/track/10FHvZrlRbTxfInlNxzO7F) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 5:12 |
 | 36 | [Cobra Moon](https://open.spotify.com/track/7fxJEhbvh96daiTbfCSx8P) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 4:55 |
-| 37 | [Maarifa Street](https://open.spotify.com/track/1eL6wpxyDb1Wt7kgV8yNoE) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:09 |
+| 37 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 |
 | 38 | [Air](https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 5:20 |
-| 39 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 |
+| 39 | [Maarifa Street](https://open.spotify.com/track/1eL6wpxyDb1Wt7kgV8yNoE) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:09 |
 | 40 | [Tuchia](https://open.spotify.com/track/6G964j7YDebUoVPmUuVMeL) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 4:56 |
-| 41 | [Darbari Bridge](https://open.spotify.com/track/3IG17OU64mtHaPXz6ziFqN) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 11:42 |
-| 42 | [Tribal Secret](https://open.spotify.com/track/6kfsbwtYLZkcBP2lwfWVVb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 3:52 |
-| 43 | [Reykjavik](https://open.spotify.com/track/7GgsPMF25JBJtXdC50bhSc) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 2:16 |
+| 41 | [Tribal Secret](https://open.spotify.com/track/6kfsbwtYLZkcBP2lwfWVVb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 3:52 |
+| 42 | [Reykjavik](https://open.spotify.com/track/7GgsPMF25JBJtXdC50bhSc) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 2:16 |
+| 43 | [Darbari Bridge](https://open.spotify.com/track/3IG17OU64mtHaPXz6ziFqN) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 11:42 |
 | 44 | [Ndeya](https://open.spotify.com/track/3d5NKtguBkKIHjvsNqK6hc) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 7:07 |
 | 45 | [Kaboo \(Play\)](https://open.spotify.com/track/2TdwrQYsa1eTOH1R5NeZHX) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 2:54 |
-| 46 | [New Gods](https://open.spotify.com/track/3b80tMXogTgBVth0GyhSVU) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:55 |
-| 47 | [Sundown Dance](https://open.spotify.com/track/2r8ZZIipWHs1cDJk5Ot2Fx) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 4:53 |
+| 46 | [Sundown Dance](https://open.spotify.com/track/2r8ZZIipWHs1cDJk5Ot2Fx) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 4:53 |
+| 47 | [New Gods](https://open.spotify.com/track/3b80tMXogTgBVth0GyhSVU) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:55 |
 | 48 | [Darbari Extension I](https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 13:52 |
 | 49 | [Ya Andalucin](https://open.spotify.com/track/47DrzRMA800FMIMRi5eBsB) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 2:25 |
-| 50 | [Open Secret \(Paris\)](https://open.spotify.com/track/2oNjchovVMPVouByxj0Zfv) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 11:47 |
-| 51 | [Delicado](https://open.spotify.com/track/6OqlazjaFOPqlZI6gWvuvJ) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 4:02 |
+| 50 | [Delicado](https://open.spotify.com/track/6OqlazjaFOPqlZI6gWvuvJ) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 4:02 |
+| 51 | [Open Secret \(Paris\)](https://open.spotify.com/track/2oNjchovVMPVouByxj0Zfv) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 11:47 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBhOTQ4NDJiYzM0ZmMwZGVkMTM1OTcwNTI3OTVmMmQyOA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA2MTZmYTUzNThmNGZmYWVhN2E2YTEyY2VmZWIxZTU3ZA==`

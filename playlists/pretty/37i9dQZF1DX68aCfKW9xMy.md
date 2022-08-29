@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 
 > La casa de los corazones rotos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,331,107 likes - 125 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331,639 likes - 125 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 | 71 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 |
 | 72 | [Te Deseo Lo Mejor](https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Deseo Lo Mejor](https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc) | 2:20 |
 | 73 | [Ya Solo Eres Mi Ex](https://open.spotify.com/track/6uUbMoR46baP3QJHzFSgB9) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Ya Solo Eres Mi Ex](https://open.spotify.com/album/0sLWgcNk1NRPRRAfYGUELr) | 3:42 |
-| 74 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 74 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 75 | [Amor Limosnero](https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 3:40 |
 | 76 | [Un Desengaño](https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:34 |
 | 77 | [Palabra de Hombre](https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Palabra de Hombre](https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb) | 3:16 |

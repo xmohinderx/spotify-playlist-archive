@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Sim City",
+        "url": "https://open.spotify.com/album/54wLYwAvsp61uxv4ciwYOZ"
+      },
+      "artists": [
+        {
+          "name": "Halo Boy",
+          "url": "https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/0UvNdJWO4jRxAHi8pAv20Z"
+    },
+    {
+      "album": {
         "name": "Autopilot",
         "url": "https://open.spotify.com/album/1Fj4667loGqnXZmuV8Ky5E"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 195882,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/4CF3Z1OmJLwSIqt3l8tdsR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Bo Bundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,581 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,610 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

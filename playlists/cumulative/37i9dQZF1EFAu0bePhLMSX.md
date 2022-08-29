@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/1vO472V3XfC0C1yYfOuExo)
+143 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/1vO472V3XfC0C1yYfOuExo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Closer To Me](https://open.spotify.com/track/4yMw8K8oF4eO4LvUmFoACW) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 4:28 | 2021-12-27 |  |
 | [Connect](https://open.spotify.com/track/47MMhJCw8HIv5aOteBoTCI) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:10 | 2021-12-27 |  |
 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 | 2022-07-24 |  |
+| [Daydreaming](https://open.spotify.com/track/5WS84S6J67LJT8tHyE7otp) | [Alice Wondering](https://open.spotify.com/artist/2fz7bKNbqtzbbNN0slkUBp) | [Daydreaming](https://open.spotify.com/album/3EJfRbY1iKcv8oqG1BglzY) | 4:35 | 2022-08-28 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/17my6iBMd8qwYN2AZkTM5B) | [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB), [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [B Sides](https://open.spotify.com/album/6t4FKATeqkOSX5p6CKz7gX) | 4:17 | 2021-12-27 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/22ZpKYkR6pgBpNvAJAVtja) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential](https://open.spotify.com/album/5Wg92LM7Y8ITdVpT72qQ1k) | 4:46 | 2022-07-24 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/4mqnkUBTnxKbnzTzA1FXRJ) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential Will Young](https://open.spotify.com/album/5xcTzzjzn4mpmVpsNMuuC8) | 4:46 | 2021-12-27 | 2022-07-25 |

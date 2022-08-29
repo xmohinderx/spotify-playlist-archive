@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Rata Blanca
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,168 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,184 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1511,7 +1511,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 189946,
       "name": "Ballroom Extravaganza",
       "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
@@ -9152,6 +9152,28 @@
     },
     {
       "album": {
+        "name": "Nasha (Equals Sessions) - Single",
+        "url": "https://open.spotify.com/album/0DCY52sgebqixheOPwwasZ"
+      },
+      "artists": [
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "Amar Jalal",
+          "url": "https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287573,
+      "name": "Nasha (Equals Sessions)",
+      "url": "https://open.spotify.com/track/1rDjwexewf4hrdZT7SRNsH"
+    },
+    {
+      "album": {
         "name": "Ne Ay Geceden",
         "url": "https://open.spotify.com/album/4XNoVKD5AJ746I5UyoBNuG"
       },
@@ -9791,7 +9813,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 180157,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
@@ -11509,6 +11531,28 @@
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "album": {
+        "name": "SHADOW",
+        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
+      },
+      "artists": [
+        {
+          "name": "ONIMXRU",
+          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
+        },
+        {
+          "name": "SMITHMANE",
+          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162041,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
       "album": {

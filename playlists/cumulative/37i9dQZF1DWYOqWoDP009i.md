@@ -4,7 +4,7 @@
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-100 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/43vCWCUSR0OchxOLKb5RA4)
+101 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/43vCWCUSR0OchxOLKb5RA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Do It Any Way You Wanna](https://open.spotify.com/track/2Ede3F4IK319I9ZDpXmv8K) | [People's Choice](https://open.spotify.com/artist/5OPSpcX9nVVWCIOKcoM4ot) | [Boogie Down U.S.A.](https://open.spotify.com/album/7eo0EGtff3h3DVIk6x57U0) | 3:18 | 2020-12-01 |  |
 | [Engine Number 9 \- Single Version](https://open.spotify.com/track/0Q0E6Xe8OvefYLYfVPfRhs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In Philadelphia](https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase) | 2:51 | 2020-12-01 |  |
 | [Especially for You \- Mix](https://open.spotify.com/track/2va6W3z3nRdbz28akqjfxO) | [Positive Force](https://open.spotify.com/artist/3AESCWpgSq8ykxcctEQ2mb) | [We Got the Funk](https://open.spotify.com/album/4l3fIq8PVXepPJylqUzcbe) | 5:01 | 2020-12-01 |  |
-| [Evil Vibrations](https://open.spotify.com/track/7Mejr45Z682u03XdAMVhwB) | [The Mighty Ryeders](https://open.spotify.com/artist/75gQ7DppTybJkSbxlwmkvo) | [Best of Solid Disco](https://open.spotify.com/album/4qVWZbWVwc8D7NSURyQUBI) | 3:45 | 2020-12-01 |  |
+| [Evil Vibrations](https://open.spotify.com/track/0RRpaBTAuZWFQlbFmKKdhL) | [The Mighty Ryeders](https://open.spotify.com/artist/75gQ7DppTybJkSbxlwmkvo) | [Help Us Spead the Message](https://open.spotify.com/album/5mVXKS05z5j74bpq26mE6E) | 3:45 | 2020-12-01 |  |
+| [Evil Vibrations](https://open.spotify.com/track/7Mejr45Z682u03XdAMVhwB) | [The Mighty Ryeders](https://open.spotify.com/artist/75gQ7DppTybJkSbxlwmkvo) | [Best of Solid Disco](https://open.spotify.com/album/4qVWZbWVwc8D7NSURyQUBI) | 3:45 | 2020-12-01 | 2022-08-29 |
 | [Evolution](https://open.spotify.com/track/60lRT01X553ode0LvndRf0) | [Magnum](https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP) | [Fully Loaded](https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV) | 5:50 | 2020-12-01 |  |
 | [Family Tree](https://open.spotify.com/track/26ugarT7QUKgYO4vpAKPOc) | [Family Tree](https://open.spotify.com/artist/4gHOxcbbiAL2a560mYe1qt), [Sharon Brown](https://open.spotify.com/artist/5kpZHJtnWFKx8bvyvVgDdS) | [Family Tree](https://open.spotify.com/album/0vXkKhMMruiG4ATko8p2oJ) | 2:58 | 2020-12-01 |  |
 | [Fire](https://open.spotify.com/track/01kmJXmeQaNlSZFRyFlSmz) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Gold](https://open.spotify.com/album/4v80iarAuD237H08zEhDkP) | 4:24 | 2020-12-01 |  |

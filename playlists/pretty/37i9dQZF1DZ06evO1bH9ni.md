@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,465 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,636 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 25 | [Ya Pa' Que](https://open.spotify.com/track/5zYhfNeQYi7lMmTbQBXJjM) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Ya Pa' Que](https://open.spotify.com/album/1yU4RgPSiYayVJDlRQKJ76) | 4:02 |
 | 26 | [El Ranchero \- En Vivo](https://open.spotify.com/track/3GRAmRiwbmyTYhzzBtUTuU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:57 |
 | 27 | [Home Run](https://open.spotify.com/track/4RpMlYxvcb2jIWhQzZOOsZ) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Home Run](https://open.spotify.com/album/2r3lhz9lFzhX9eWZTivN7t) | 2:48 |
-| 28 | [Pepón](https://open.spotify.com/track/54Sblif2irWwPyCNGRAAuD) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:49 |
-| 29 | [Por Alguien Como Tú](https://open.spotify.com/track/1pavM6Yx6cQ4pRWE5KD6zb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Por Alguien Como Tú](https://open.spotify.com/album/2t2Q5bomEhtzOrsLZepfjZ) | 3:16 |
+| 28 | [Por Alguien Como Tú](https://open.spotify.com/track/1pavM6Yx6cQ4pRWE5KD6zb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Por Alguien Como Tú](https://open.spotify.com/album/2t2Q5bomEhtzOrsLZepfjZ) | 3:16 |
+| 29 | [Pepón](https://open.spotify.com/track/54Sblif2irWwPyCNGRAAuD) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:49 |
 | 30 | [El Inmigrante](https://open.spotify.com/track/4mbQrvmN8unsDdC08gCgXz) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:34 |
 | 31 | [Mi Profesión](https://open.spotify.com/track/6vZnpaBquxZQzTZqJrap1B) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:43 |
 | 32 | [Al Millón](https://open.spotify.com/track/6dJL9YwcrlXK7reyRfmM9V) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Millón](https://open.spotify.com/album/3l2ra3SNtDzWfjhhdx75Od) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 49 | [Cuadra los Parientes \- En Vivo](https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:55 |
 | 50 | [Imperio Beltrán Leyva](https://open.spotify.com/track/2oBh1SZ6c6SPl8FIEJiMFP) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Te Lo Dije](https://open.spotify.com/album/5qls46F3B2bIBWtN3U6Jpq) | 3:37 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA0NjgxNzgxMjI4MjU3NWZlZmU2MjI1MzI5NzQ5YjdlOA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBkZDAxNjIyNWUwNzc3NmNlMGYwNjRhYWRlYzRlMzI3Ng==`

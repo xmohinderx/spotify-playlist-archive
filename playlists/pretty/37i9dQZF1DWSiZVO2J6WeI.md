@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,207 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,681 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

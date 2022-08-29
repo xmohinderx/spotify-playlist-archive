@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > I CRY IN HIS BATHROOM HE TURNS OFF THE BIG LIGHT
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,840 likes - 547 songs - 1 day 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,994 likes - 547 songs - 1 day 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

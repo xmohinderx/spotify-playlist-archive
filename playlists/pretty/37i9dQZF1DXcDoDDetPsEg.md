@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > Skillibeng blesses the Who We Be playlist and takes it over for Notting Hill Carnival 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,572 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,657 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

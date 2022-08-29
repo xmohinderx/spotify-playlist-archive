@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,661 likes - 73 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,676 likes - 73 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 19 | [The Anthem](https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 2:55 |
 | 20 | [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 |
 | 21 | [Summer Paradise \(feat\. Sean Paul\) \- Single Version](https://open.spotify.com/track/6kcuYyyU2tPxGP3PDVWYJT) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Summer Paradise \(feat\. Sean Paul\)](https://open.spotify.com/album/6U12piIo0noLnBIRTzZS8l) | 3:54 |
-| 22 | [Teenage Dirtbag](https://open.spotify.com/track/7HYeWt67UHZELHCY0SrJ3E) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus \(Clean Version\)](https://open.spotify.com/album/4YiSn22yxCxPdwdx0EzE9H) | 4:01 |
+| 22 | [Teenage Dirtbag](https://open.spotify.com/track/7HYeWt67UHZELHCY0SrJ3E) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/4YiSn22yxCxPdwdx0EzE9H) | 4:01 |
 | 23 | [Shake Shake Shake](https://open.spotify.com/track/2ydiRk5x6nGWf3j4EoLfHK) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Weekend](https://open.spotify.com/album/2u6pFe7q6ugGVdKLAszncU) | 3:34 |
 | 24 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 |
 | 25 | [I Sat by the Ocean](https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 |

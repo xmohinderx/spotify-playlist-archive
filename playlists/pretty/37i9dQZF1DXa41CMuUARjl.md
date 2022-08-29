@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Kaleena Zanders.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,554 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,626 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 55 | [Elevate](https://open.spotify.com/track/3CkWkWAhZii9OWuQJw0NTe) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Elevate](https://open.spotify.com/album/53k8qzmKzuo6zxjEpeTSsM) | 3:17 |
 | 56 | [The Block](https://open.spotify.com/track/36qroL3JWol1vL8LPYc7Bz) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [SINO](https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3) | [The Block](https://open.spotify.com/album/5BwveOGqO5u6Y6mvRGdBu2) | 3:16 |
 | 57 | [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 |
-| 58 | [Truffle Shuffle](https://open.spotify.com/track/389Y7nyhEtTp5mGk8cLsGy) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Thurman](https://open.spotify.com/artist/4lAaHMWz8MWNRU76Vljx6R) | [ENDZ049](https://open.spotify.com/album/4WAClYmYzleyxIg8MtDeT7) | 6:15 |
+| 58 | [Truffle Shuffle](https://open.spotify.com/track/389Y7nyhEtTp5mGk8cLsGy) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Thurman](https://open.spotify.com/artist/7jQADWLBLpN2VovZpPFNoj) | [ENDZ049](https://open.spotify.com/album/4WAClYmYzleyxIg8MtDeT7) | 6:15 |
 | 59 | [Watching](https://open.spotify.com/track/6SDAkr1UNA8vWt2wAopAAQ) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Watching](https://open.spotify.com/album/2COn5i2w4pQZwISFzunZ47) | 2:41 |
 | 60 | [Losing Control](https://open.spotify.com/track/2SxJOFdhIco2uHQ0Bh5TXs) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Losing Control](https://open.spotify.com/album/1Ai7YTsJSdn1PMIFLmq7yW) | 2:53 |
 | 61 | [Salvation](https://open.spotify.com/track/7p313MHRh8nNOfRmKoxI3o) | [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Salvation](https://open.spotify.com/album/1KqIYVqFI05WWlUzsnf71x) | 3:34 |

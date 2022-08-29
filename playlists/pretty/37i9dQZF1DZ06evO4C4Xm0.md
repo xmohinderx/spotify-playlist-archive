@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,284 likes - 51 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,299 likes - 51 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [There Were Bells](https://open.spotify.com/track/3scoh1BWW0rVW5ZmrJQU3l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [There Were Bells](https://open.spotify.com/album/4aTHChoZPVwUVqHawBfoP0) | 4:52 |
 | 2 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
-| 3 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 |
-| 4 | [Iris](https://open.spotify.com/track/5gFsbxI10eCm40nP6GapHi) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 2:53 |
-| 5 | [By This River \- 2004 Digital Remaster](https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:03 |
+| 3 | [By This River \- 2004 Digital Remaster](https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:03 |
+| 4 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 |
+| 5 | [Iris](https://open.spotify.com/track/5gFsbxI10eCm40nP6GapHi) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 2:53 |
 | 6 | [The Big Ship \- 2004 Digital Remaster](https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:01 |
 | 7 | [Deep Blue Day \- Remastered 2005](https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 3:58 |
 | 8 | [Emerald and Stone](https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 2:12 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 50 | [Miss Sarajevo \- Live](https://open.spotify.com/track/5a376mA6M7RgxwrZFfJOYf) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Orchestra filarmonica di Torino](https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU), [Michael Kamen](https://open.spotify.com/artist/68bqsIINo5RFICYwbkChbb) | [Pavarotti & Friends Together For The Children Of Bosnia](https://open.spotify.com/album/6kbVOhOCjRxh34aaEfORZD) | 6:22 |
 | 51 | [The River](https://open.spotify.com/track/13dUXhm17eA1KWTpLp61pJ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wrong Way Up \[Expanded Edition\]](https://open.spotify.com/album/60iUtvboDimzQEiZjGfkzP) | 4:23 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA0NWI5ZDBhNTk1N2ZkODY1NGExNjAwYTM0ZjU5NjQyNA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDAyMDRhZTQ0N2IyNzgwY2UzZDVkMTJmOGVlODNlODNlNg==`

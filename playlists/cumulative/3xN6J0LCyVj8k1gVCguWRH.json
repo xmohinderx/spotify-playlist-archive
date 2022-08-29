@@ -22768,6 +22768,28 @@
     },
     {
       "album": {
+        "name": "RIPPLES",
+        "url": "https://open.spotify.com/album/20BoMnXQO82zPVROkpCv7N"
+      },
+      "artists": [
+        {
+          "name": "BANTA.",
+          "url": "https://open.spotify.com/artist/67cC7FAq0g7QBM0AtxLrxl"
+        },
+        {
+          "name": "Snory",
+          "url": "https://open.spotify.com/artist/0dqFBXDxYVSrc3UfXzAYaT"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179183,
+      "name": "RIPPLES",
+      "url": "https://open.spotify.com/track/7v35K1s5i5smRRHQkUq8xJ"
+    },
+    {
+      "album": {
         "name": "SunTzu",
         "url": "https://open.spotify.com/album/1rBMytGwI3GwqPVydXXvFU"
       },

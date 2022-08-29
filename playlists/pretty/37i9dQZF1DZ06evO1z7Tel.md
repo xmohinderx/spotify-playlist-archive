@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,929 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,942 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 10 | [El Chubasco](https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:08 |
 | 11 | [Arboles De La Barranca](https://open.spotify.com/track/3RIBgjIFE4UXMGTASfEk1s) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Retro Chingonas](https://open.spotify.com/album/4lYOAQavqEc198FSGiGbQe) | 2:21 |
 | 12 | [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/3jT3Rt7yQvoi2xVkJS9h7V) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 2:37 |
-| 13 | [La Cuerva De La Petaca](https://open.spotify.com/track/7wnQcqvcRvDWThWabN9BMs) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Pal Jefe](https://open.spotify.com/album/6JH1399KblhXLCUlJqJ9Fx) | 3:39 |
-| 14 | [Se Vende Esta Casa](https://open.spotify.com/track/3gkodEP1PBS8fAhBJyW1xE) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Una Rosa De Castilla](https://open.spotify.com/album/0Yt7GYHYoJseY90TbBqmZP) | 3:03 |
+| 13 | [Se Vende Esta Casa](https://open.spotify.com/track/3gkodEP1PBS8fAhBJyW1xE) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Una Rosa De Castilla](https://open.spotify.com/album/0Yt7GYHYoJseY90TbBqmZP) | 3:03 |
+| 14 | [La Cuerva De La Petaca](https://open.spotify.com/track/7wnQcqvcRvDWThWabN9BMs) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Pal Jefe](https://open.spotify.com/album/6JH1399KblhXLCUlJqJ9Fx) | 3:39 |
 | 15 | [Modesta Ayala](https://open.spotify.com/track/4StR1lNQoe9ngAUFjbi2dk) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Puros Exitos](https://open.spotify.com/album/1YCdH8G9ELHRzfmpJ7c0pl) | 3:03 |
 | 16 | [El Vino Y La Parranda](https://open.spotify.com/track/1nDgTKTlFu1MnY4AD1INKE) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Lo Más Escuchado De](https://open.spotify.com/album/1IVNmS6tX19lyAVSYpx3Do) | 3:12 |
 | 17 | [Jacinto Treviño](https://open.spotify.com/track/34vgrochxz5O9QPrz1peLq) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:23 |
@@ -31,24 +31,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 21 | [El Vengador de los Federales](https://open.spotify.com/track/2qolfM6jIjHcQ19oJTS1kB) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 2:56 |
 | 22 | [Beto Molina](https://open.spotify.com/track/23IFCQgkLCcfRTXBYIUTFS) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:30 |
 | 23 | [Cheque Al Portador](https://open.spotify.com/track/2NlV4fLXbXMoqZCuRQ7dJv) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW) | 2:31 |
-| 24 | [El Capitan Fantasma](https://open.spotify.com/track/11OvGYqYhmq0bZ7UAysOKw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:35 |
+| 24 | [La Noria Escondida](https://open.spotify.com/track/0H3GAtMSZMEF6gdcq7qvEg) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros 15 Exitos](https://open.spotify.com/album/7sXgyxW5GwAQfMTWA9NbWY) | 3:11 |
 | 25 | [Maquina 501](https://open.spotify.com/track/2ijdMgCQVTKqyLqjEJnDXZ) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:01 |
 | 26 | [El Rayo De Sinaloa](https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:45 |
-| 27 | [La Noria Escondida](https://open.spotify.com/track/0H3GAtMSZMEF6gdcq7qvEg) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros 15 Exitos](https://open.spotify.com/album/7sXgyxW5GwAQfMTWA9NbWY) | 3:11 |
+| 27 | [El Capitan Fantasma](https://open.spotify.com/track/11OvGYqYhmq0bZ7UAysOKw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:35 |
 | 28 | [Pancho Treviño](https://open.spotify.com/track/3TNrUd7umaRyh0RPjXbtep) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Con](https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR) | 2:41 |
 | 29 | [La Mata de Sandía](https://open.spotify.com/track/6TsHzzIwCxI6lsvfJFvWis) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Nuevo Albur de Amor](https://open.spotify.com/album/46qSRrnbd4My7mcFzuVSVI) | 3:05 |
 | 30 | [Jorge Y El Comandante](https://open.spotify.com/track/1gAcEksUFRcZqcuekVWdUG) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:44 |
 | 31 | [El Siete Leguas](https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Caballos Famosos Con](https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0) | 3:39 |
-| 32 | [Al Pie De Un Arbol](https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:07 |
-| 33 | [El Sauce Y La Palma](https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Noches Eternas](https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T) | 2:29 |
+| 32 | [El Sauce Y La Palma](https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Noches Eternas](https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T) | 2:29 |
+| 33 | [Al Pie De Un Arbol](https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:07 |
 | 34 | [Los Valientes De Teran](https://open.spotify.com/track/0hKxFIJAUmxWfff2aciU9Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Grandes Canciones](https://open.spotify.com/album/084lTJZiqiPOLBiPlnnGYr) | 3:29 |
-| 35 | [Jacinto el Tullido](https://open.spotify.com/track/1WAaIX3DOlmBMfLD2tnNXV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:53 |
+| 35 | [Dos Cruces En La Curva](https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 3:47 |
 | 36 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
-| 37 | [Dos Cruces En La Curva](https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 3:47 |
+| 37 | [Jacinto el Tullido](https://open.spotify.com/track/1WAaIX3DOlmBMfLD2tnNXV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:53 |
 | 38 | [Una Noche Serena Y Oscura](https://open.spotify.com/track/4s5UucTLMuov5FQnOn4Cqi) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Una Noche Serena Y Obscura](https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A) | 4:09 |
-| 39 | [José Silva Sánchez](https://open.spotify.com/track/71V2zS4cG5SN3rizPa6K8S) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Éxitos Con Carlos Y José](https://open.spotify.com/album/7yPKtlNWxPoPdB0MgI2YLh) | 3:03 |
+| 39 | [La Emboscada Del Gallo](https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:54 |
 | 40 | [Las Tres Tumbas](https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tres Tumbas](https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0) | 2:48 |
-| 41 | [La Emboscada Del Gallo](https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:54 |
+| 41 | [José Silva Sánchez](https://open.spotify.com/track/71V2zS4cG5SN3rizPa6K8S) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Éxitos Con Carlos Y José](https://open.spotify.com/album/7yPKtlNWxPoPdB0MgI2YLh) | 3:03 |
 | 42 | [Señorita Cantinera](https://open.spotify.com/track/7uJoaVON7EZpkNEpnltLnE) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Sus Exitos \#1](https://open.spotify.com/album/061jz0WaMwdoTM3kQhDnPz) | 3:17 |
 | 43 | [Que Tristeza Me Acompaña](https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:26 |
 | 44 | [El Tres Dedos](https://open.spotify.com/track/6UeGjn8CkmZYA1Wb6NvkT9) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Los 15 Mejores Corridos de Carlos y Jose, Vol\. 1](https://open.spotify.com/album/3bmUCbODBolcXg0WjaGvk2) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 49 | [El Manicero](https://open.spotify.com/track/3z7ksVvoZRPhQUJcSBrbd9) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Vienen Los Recuerdos](https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1) | 3:13 |
 | 50 | [El Quemador](https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 3:09 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA3MjI5NzQyMWEwZTc4OTRiMjk1NDYwN2UzZGY4MzM5ZA==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA4MGFjYjMxYWFhY2Q4ODNjOTIwMzAyODJkMzc4YmZlMQ==`

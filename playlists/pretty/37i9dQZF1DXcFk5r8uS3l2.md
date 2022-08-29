@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,320 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,386 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

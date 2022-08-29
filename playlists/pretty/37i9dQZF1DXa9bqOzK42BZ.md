@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-[Spotify](https://open.spotify.com/user/spotify) - 404 likes - 60 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 411 likes - 60 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 23 | [Mimi Ni Wa Juu](https://open.spotify.com/track/13uQrjPPEOv9pVfTJm14LU) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mimi Ni Wa Juu](https://open.spotify.com/album/6OYWPLTZstNkzi8de2fRdB) | 3:50 |
 | 24 | [Ebenezer](https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh) | [Angela Chibalonza](https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR) | [Nimekutana Na Yesu](https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2) | 4:55 |
 | 25 | [MOYO WANGU BMM Yombo Vituka](https://open.spotify.com/track/6X7sY5M6IziPbUJyG0G2xl) | [FLSA\_ENTERTAINMENT](https://open.spotify.com/artist/4KxxxfPxkFJ2IbWfVMU1Ye) | [EASTER PASAKA YETU](https://open.spotify.com/album/2sYU0Di9FKjrdTBn1nYQ1S) | 8:18 |
-| 26 | [Yesu Karibu Kwangu](https://open.spotify.com/track/5km2sSfnNyYkAqo4QaGjdk) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Yesu Karibu Kwangu](https://open.spotify.com/album/4RF4aF0SMIIFhzBJeMEGcE) | 6:54 |
+| 26 | [Yesu Karibu Kwangu](https://open.spotify.com/track/7h8lc1Hzhw4i1KGhWbgEGP) | [Rose Muhando](https://open.spotify.com/artist/4yJ8cEYvhv5blAUqfUkkdB) | [Miamba Imepasuka](https://open.spotify.com/album/3VocSMSSIm7jEXiWLn54W6) | 6:54 |
 | 27 | [Alfa Na Omega](https://open.spotify.com/track/5zZc2QyZfxqZcQ89REWyzW) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI) | [Tulia](https://open.spotify.com/album/6xsRFuy3hZsnxqppb5e6mT) | 4:54 |
 | 28 | [Shukurani](https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Shukurani](https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97) | 4:39 |
 | 29 | [Karibu Yesu](https://open.spotify.com/track/3uih4ZkASbxUJVKrLtlLqD) | [Ambwene Mwasongwe](https://open.spotify.com/artist/3VWdz8uTAUxMqnGDeKWqYH) | [Misuli Ya Imani](https://open.spotify.com/album/6mEMrQ5YWS5Tl3pIXqcPPR) | 6:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 59 | [Wewe Pekee](https://open.spotify.com/track/28IQhL2pviXFkWXMz4sxn3) | [Alice Kamande](https://open.spotify.com/artist/4jmGHeX5bemV98UWtA3nuJ) | [Wewe Pekee](https://open.spotify.com/album/1eP2tdKCLnJbBPuXiMiL2j) | 4:57 |
 | 60 | [Anatengeneza](https://open.spotify.com/track/52C9ZVQeeeVUb9q9hXe0f7) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 8:28 |
 
-Snapshot ID: `MTY1NjA5MjQ3MywwMDAwMDAwMGYzZjM0N2I0MTI1NTNjZmYxZWFmNjYyZTQwMWJiZWNj`
+Snapshot ID: `MTY1NjA5MjQ3MywwMDAwMDAwMDM5ZTZlMDhhZmU2MDI2MTkxZDdkYWE4NTRkMmZmYWY3`

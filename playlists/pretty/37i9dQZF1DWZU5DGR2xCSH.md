@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061,787 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,030 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 75 | [Milonga del marinero y el capitán](https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:26 |
 | 76 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
 | 77 | [Nos Veremos Otra Vez](https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:58 |
-| 78 | [Y Mientras Tanto el Sol Se Muere…](https://open.spotify.com/track/61WshNXtWtH8DzMoZA39JZ) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Porco Rex](https://open.spotify.com/album/5AMNeWGsW9kMzyc8qgxfDr) | 4:00 |
-| 79 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
-| 80 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 |
+| 78 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
+| 79 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 |
+| 80 | [Y Lo Que Quiero Es Que Pises Sin El Suelo](https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuentos Decapitados](https://open.spotify.com/album/4agUniovdijNcGf3blcYQM) | 3:12 |
 
-Snapshot ID: `MTY2MDI3MzIwMCwwMDAwMDAwMDViNDA3NzA4ZjQwMjNmZDMwMTQ4YjcyMDFjNWFmMjE0`
+Snapshot ID: `MTY2MDI3MzIwMCwwMDAwMDAwMGZjMTc4YmQ0NTIxYTQ0MDJmYmVjZWEzNTAyYTU5YzY2`

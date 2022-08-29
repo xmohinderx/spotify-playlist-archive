@@ -434,6 +434,24 @@
     },
     {
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/3EJfRbY1iKcv8oqG1BglzY"
+      },
+      "artists": [
+        {
+          "name": "Alice Wondering",
+          "url": "https://open.spotify.com/artist/2fz7bKNbqtzbbNN0slkUBp"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275176,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/5WS84S6J67LJT8tHyE7otp"
+    },
+    {
+      "album": {
         "name": "B Sides",
         "url": "https://open.spotify.com/album/6t4FKATeqkOSX5p6CKz7gX"
       },

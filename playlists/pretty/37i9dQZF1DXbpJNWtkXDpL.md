@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Presentamos a Kevin Kaarl, nuestro artista Radar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,317 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,327 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 3 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 |
 | 4 | [Morena](https://open.spotify.com/track/03NjizgksFxcj3JpxLh3vn) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Morena](https://open.spotify.com/album/1ceWXvh39yPWMZiR6d6rrV) | 3:40 |
 | 5 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
-| 6 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 6 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 7 | [Kódigos](https://open.spotify.com/track/4UmrVmSgfJPsYPqUdVxeYJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/3UPYvtNRePhVMLVrxR5a8i) | 3:47 |
 | 8 | [Soy de Sinaloa](https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Soy de Sinaloa](https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2) | 2:41 |
 | 9 | [tú vales la pena](https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [tú vales la pena](https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r) | 2:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fklOIFLGHF.md) - [plain]
 
 > Rock sin vueltas\. Foto: El Cuarteto De Nos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,729 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,745 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fklOIFLGHF.md) - [plain]
 | 97 | [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 |
 | 98 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 |
 | 99 | [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 |
-| 100 | [Había una Vez …](https://open.spotify.com/track/2mjtPZJEuPaUn4YD2s0BC8) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/71SBgWq7XwSn5ihSeCESn1) | 4:28 |
+| 100 | [Había una Vez ...](https://open.spotify.com/track/2mjtPZJEuPaUn4YD2s0BC8) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/71SBgWq7XwSn5ihSeCESn1) | 4:28 |
 
 Snapshot ID: `MTY2MTQ2MDY2NSwwMDAwMDAwMDExMzBmNWFiMGMwYmFhNjEzOTMxNTUzNzg5MDhhZTE2`

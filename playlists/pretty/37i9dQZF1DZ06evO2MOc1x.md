@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,276 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,308 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 23 | [Bluebird \- 2008 Remaster](https://open.spotify.com/track/78bu2DHF5nvCWmvh5VCe9P) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:29 |
 | 24 | [Thing Called Love](https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:52 |
 | 25 | [Two Lives \- 2008 Remaster](https://open.spotify.com/track/5WDhUWoBMq0f03Nxl1yYpt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:49 |
-| 26 | [Something's Got a Hold of My Heart](https://open.spotify.com/track/4cKrYwhGunX19sdbFZueAc) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 4:52 |
-| 27 | [Do I Ever Cross Your Mind](https://open.spotify.com/track/3GH1udndeAMY27JfXe0ecZ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Genius Loves Company](https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE) | 4:34 |
+| 26 | [Do I Ever Cross Your Mind](https://open.spotify.com/track/3GH1udndeAMY27JfXe0ecZ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Genius Loves Company](https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE) | 4:34 |
+| 27 | [Something's Got a Hold of My Heart](https://open.spotify.com/track/4cKrYwhGunX19sdbFZueAc) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 4:52 |
 | 28 | [That Song About the Midway \- 2008 Remaster](https://open.spotify.com/track/1MsYN2LmlINM37KGbfs91P) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 4:44 |
 | 29 | [Dimming Of The Day](https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Longing In Their Hearts](https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI) | 3:39 |
-| 30 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 |
-| 31 | [Runaway \- 2008 Remaster](https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:55 |
+| 30 | [Runaway \- 2008 Remaster](https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:55 |
+| 31 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 |
 | 32 | [I Got Plenty \- 2008 Remaster](https://open.spotify.com/track/39I0PqL6CGz9Nh3LnJt3R2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:09 |
 | 33 | [Not Cause I Wanted To](https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 3:32 |
 | 34 | [Gypsy In Me](https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 49 | [Love Letter](https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:04 |
 | 50 | [Guilty \- 2008 Remaster](https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:00 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDBkMWUxYWY1ZjkzMjU0MjdhZDRmYjNiZTU2N2YxZTZhMw==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBlYzg3ZGQ3YmQ1MWRlMmYxNTM5YjRiMDNkOGQ0YjBiNg==`

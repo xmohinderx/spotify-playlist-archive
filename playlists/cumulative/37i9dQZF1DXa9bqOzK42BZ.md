@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-64 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/3YgHxpdqRDtLNVGeLk32oI)
+65 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/3YgHxpdqRDtLNVGeLk32oI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Wewe Ni Zaidi](https://open.spotify.com/track/6tbeRA24xQkjvqB7nmqcfo) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:20 | 2022-06-24 |  |
 | [Wewe Pekee](https://open.spotify.com/track/28IQhL2pviXFkWXMz4sxn3) | [Alice Kamande](https://open.spotify.com/artist/4jmGHeX5bemV98UWtA3nuJ) | [Wewe Pekee](https://open.spotify.com/album/1eP2tdKCLnJbBPuXiMiL2j) | 4:57 | 2022-06-24 |  |
 | [Yatupasa Kushukuru](https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD) | [Ambassadors Of Christ Choir](https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi) | [Yatupasa Kushukuru](https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd) | 4:43 | 2022-06-24 |  |
-| [Yesu Karibu Kwangu](https://open.spotify.com/track/5km2sSfnNyYkAqo4QaGjdk) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Yesu Karibu Kwangu](https://open.spotify.com/album/4RF4aF0SMIIFhzBJeMEGcE) | 6:54 | 2022-06-24 |  |
+| [Yesu Karibu Kwangu](https://open.spotify.com/track/5km2sSfnNyYkAqo4QaGjdk) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Yesu Karibu Kwangu](https://open.spotify.com/album/4RF4aF0SMIIFhzBJeMEGcE) | 6:54 | 2022-06-24 | 2022-08-29 |
+| [Yesu Karibu Kwangu](https://open.spotify.com/track/7h8lc1Hzhw4i1KGhWbgEGP) | [Rose Muhando](https://open.spotify.com/artist/4yJ8cEYvhv5blAUqfUkkdB) | [Miamba Imepasuka](https://open.spotify.com/album/3VocSMSSIm7jEXiWLn54W6) | 6:54 | 2022-06-24 |  |
 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 | 2022-06-24 |  |
 
 \*This playlist was first scraped on 2022-06-26. Prior content cannot be recovered.

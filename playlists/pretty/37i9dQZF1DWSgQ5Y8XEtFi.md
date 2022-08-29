@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,570 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,971 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

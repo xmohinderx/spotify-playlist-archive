@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Sometimes it's nice to be nice, you know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,383 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,428 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 2 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 | 3 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 |
 | 4 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 |
-| 5 | [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 |
+| 5 | [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 |
 | 6 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
 | 7 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
 | 8 | [Australia](https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr) | 3:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 79 | [Moves](https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Moves](https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7) | 3:13 |
 | 80 | [Far Out](https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:18 |
 
-Snapshot ID: `MTY1OTY5NTUwMCwwMDAwMDAwMDJlODA4NGI1OWFhYzNkZTA5OGQ0ZDQ0NWVkOGRhZDRi`
+Snapshot ID: `MTY1OTY5NTUwMCwwMDAwMDAwMGVhNTZlZjY3N2E2MmNiOTQ2NzMyOTIxZDIxYjEyYzIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,612 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,684 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 20 | [La Viviana](https://open.spotify.com/track/6UsGCiKi5RwwosYEsVwQz3) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Aferrado Al Amor](https://open.spotify.com/album/6pEDYFi8ddb1yiJKF1h0yV) | 3:28 |
 | 21 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 |
 | 22 | [Lucio Peña](https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:13 |
-| 23 | [Que Poca](https://open.spotify.com/track/4XKtNegKyGMCdgIdCxfcMQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Tiempo Al Tiempo](https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne) | 3:22 |
-| 24 | [De Vida O Muerte](https://open.spotify.com/track/4TbjXIEyA9VKdBx5WuSw4B) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 3:01 |
+| 23 | [De Vida O Muerte](https://open.spotify.com/track/4TbjXIEyA9VKdBx5WuSw4B) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 3:01 |
+| 24 | [Que Poca](https://open.spotify.com/track/4XKtNegKyGMCdgIdCxfcMQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Tiempo Al Tiempo](https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne) | 3:22 |
 | 25 | [El Ultimo Cartucho](https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:21 |
 | 26 | [Vete Con El](https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 2:48 |
 | 27 | [Ni Dada La Quiero](https://open.spotify.com/track/4AplGNlqrFDyxkCM27gSCl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 49 | [Qué Valor De Mujer](https://open.spotify.com/track/4GT3fRkjpQO8uXEWe0A4oB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 3:13 |
 | 50 | [Reproches Del Viento](https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:26 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA0Yzc1OGRjNmFmMGM0ZjIyNmY4NzA2MWM0MjgzMjJiYw==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDA3MTExMjg2MGUzMmUzNGFhZTRiMzc2YTI2ZTFjMjkyZA==`

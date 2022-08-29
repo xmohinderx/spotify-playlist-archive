@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAXb45NEVkE.md) - [plain]
 
 > Hold up, run that back\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,852 likes - 101 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,896 likes - 101 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

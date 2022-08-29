@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Almas
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,316 likes - 53 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,334 likes - 53 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,25 +41,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 31 | [ادري جرحتك](https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi) | [Kadejah Moaath \| خديجة معاذ](https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv) | [ادري جرحتك](https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy) | 3:28 |
 | 32 | [Keda Wala Keda](https://open.spotify.com/track/5jpNJTb9XKt6WVxEQfKLYK) | [Jori Kattan](https://open.spotify.com/artist/3auQGROryTRCO2rgjeyGHD) | [Keda Wala Keda](https://open.spotify.com/album/3tr3MAqqpmGfYA69xfVIRb) | 2:39 |
 | 33 | [ISMAK](https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL) | 3:10 |
-| 34 | [قيود](https://open.spotify.com/track/3jaY0nkYO9qFBjA4XNEZtI) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قيود](https://open.spotify.com/album/3ipg4bP7o5IWZP44gtWX0W) | 2:56 |
-| 35 | [Atoul](https://open.spotify.com/track/2nxNsJ9Lve8edydwY8oL5b) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Atoul](https://open.spotify.com/album/7uR9bmwan77bo430VOvIzX) | 2:42 |
-| 36 | [Ala El Hady](https://open.spotify.com/track/2wdjKsBwJikP1TPNhKuyyo) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Ala El Hady](https://open.spotify.com/album/6riYimL3CYEpHcq8k8Agla) | 3:04 |
-| 37 | [Helo Moodak](https://open.spotify.com/track/5qUWv52tFjCXXBrqxju8Tt) | [Bsmalla](https://open.spotify.com/artist/15GZ42GmfWZOctYdJf6UYY) | [Helo Moodak](https://open.spotify.com/album/3aZtYcXeg46YuOUFSmBT0h) | 3:17 |
-| 38 | [Fini Kther](https://open.spotify.com/track/7kMclfTeBnMbkPOcoClFlx) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [One Playlist](https://open.spotify.com/album/2wtZWooYfOuUHDGztpH4s3) | 4:11 |
-| 39 | [Ya Yema](https://open.spotify.com/track/0yhfnQQXbiBPAfPHGRBLfM) | [Bouchra Elm](https://open.spotify.com/artist/2JeWGigve92LrpLG6UfEwd) | [Ya Yema](https://open.spotify.com/album/6ncyf9iCc3h3gvtPmvmPbd) | 2:28 |
-| 40 | [El Sa3a Tes3a](https://open.spotify.com/track/1M7N6cJY42AXOhpRwKzUFU) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G) | 3:25 |
-| 41 | [زدني](https://open.spotify.com/track/3E1tVxMoF3w8oHGdG6i3J5) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [زدني](https://open.spotify.com/album/0AaafNn1A6tpN9D7Zw8euK) | 5:21 |
-| 42 | [Hnaya](https://open.spotify.com/track/37fxraGklh1llULoyhcFCz) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Hnaya](https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U) | 3:08 |
+| 34 | [Atoul](https://open.spotify.com/track/2nxNsJ9Lve8edydwY8oL5b) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Atoul](https://open.spotify.com/album/7uR9bmwan77bo430VOvIzX) | 2:42 |
+| 35 | [Ala El Hady](https://open.spotify.com/track/2wdjKsBwJikP1TPNhKuyyo) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Ala El Hady](https://open.spotify.com/album/6riYimL3CYEpHcq8k8Agla) | 3:04 |
+| 36 | [Helo Moodak](https://open.spotify.com/track/5qUWv52tFjCXXBrqxju8Tt) | [Bsmalla](https://open.spotify.com/artist/15GZ42GmfWZOctYdJf6UYY) | [Helo Moodak](https://open.spotify.com/album/3aZtYcXeg46YuOUFSmBT0h) | 3:17 |
+| 37 | [Fini Kther](https://open.spotify.com/track/7kMclfTeBnMbkPOcoClFlx) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [One Playlist](https://open.spotify.com/album/2wtZWooYfOuUHDGztpH4s3) | 4:11 |
+| 38 | [Ya Yema](https://open.spotify.com/track/0yhfnQQXbiBPAfPHGRBLfM) | [Bouchra Elm](https://open.spotify.com/artist/2JeWGigve92LrpLG6UfEwd) | [Ya Yema](https://open.spotify.com/album/6ncyf9iCc3h3gvtPmvmPbd) | 2:28 |
+| 39 | [El Sa3a Tes3a](https://open.spotify.com/track/1M7N6cJY42AXOhpRwKzUFU) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G) | 3:25 |
+| 40 | [زدني](https://open.spotify.com/track/3E1tVxMoF3w8oHGdG6i3J5) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [زدني](https://open.spotify.com/album/0AaafNn1A6tpN9D7Zw8euK) | 5:21 |
+| 41 | [Hnaya](https://open.spotify.com/track/37fxraGklh1llULoyhcFCz) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Hnaya](https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U) | 3:08 |
+| 42 | [El Galb Yefdak](https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [El Galb Yefdak](https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw) | 3:45 |
 | 43 | [Mishta'a](https://open.spotify.com/track/4w2hGIB38EBnf4l0y8Y1UE) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Mishta'a](https://open.spotify.com/album/2JX4flVTuPELhry4HCPu1I) | 3:47 |
 | 44 | [Mishtaq](https://open.spotify.com/track/4j65JzQYXQ4PNZ3PlO4LvD) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [Mishtaq](https://open.spotify.com/album/4goCWF3XFvbLmjHExq4adp) | 2:00 |
 | 45 | [Sowarna](https://open.spotify.com/track/5aMf5XddEvzeC1m88J6x4v) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Sowarna](https://open.spotify.com/album/3K3l4mS2yhPMaKkNbsAgpn) | 3:34 |
 | 46 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 |
-| 47 | [El Galb Yefdak](https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [El Galb Yefdak](https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw) | 3:45 |
-| 48 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 |
-| 49 | [Eh Aadi](https://open.spotify.com/track/62Imq6fPJkweUSZsA7wiVc) | [Lama Shreif](https://open.spotify.com/artist/3g6wVPkHomiONRHWn6v5YZ) | [Eh Aadi](https://open.spotify.com/album/7k2QlgdalWVBEYWfgZv5tf) | 2:12 |
-| 50 | [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 |
-| 51 | [يا صبر الليل](https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [يا صبر الليل](https://open.spotify.com/album/1eJTKJZZ8DwHTS2bB9aphX) | 4:22 |
-| 52 | [Bizarre](https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Bizarre](https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n) | 2:40 |
-| 53 | [محتاج بساط](https://open.spotify.com/track/1D4qNDL64nDuCwOI9spXI9) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [محتاج بساط](https://open.spotify.com/album/0Nf9o2JVSlpFLAvllnL9bN) | 2:27 |
+| 47 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 |
+| 48 | [Eh Aadi](https://open.spotify.com/track/62Imq6fPJkweUSZsA7wiVc) | [Lama Shreif](https://open.spotify.com/artist/3g6wVPkHomiONRHWn6v5YZ) | [Eh Aadi](https://open.spotify.com/album/7k2QlgdalWVBEYWfgZv5tf) | 2:12 |
+| 49 | [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 |
+| 50 | [يا صبر الليل](https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [يا صبر الليل](https://open.spotify.com/album/1eJTKJZZ8DwHTS2bB9aphX) | 4:22 |
+| 51 | [Bizarre](https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Bizarre](https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n) | 2:40 |
+| 52 | [محتاج بساط](https://open.spotify.com/track/1D4qNDL64nDuCwOI9spXI9) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [محتاج بساط](https://open.spotify.com/album/0Nf9o2JVSlpFLAvllnL9bN) | 2:27 |
+| 53 | [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 |
 
-Snapshot ID: `MTY2MTQ2NDk2MiwwMDAwMDAwMGE2MTM3NTYxMjZiYmNmOWY2MjliNGI1MjgwZjhkNjg5`
+Snapshot ID: `MTY2MTQ2NDk2MiwwMDAwMDAwMDI1YWFiMDMxOGY5ZDI3MjMyMTRiZDVmYjlhYzNhYjBm`

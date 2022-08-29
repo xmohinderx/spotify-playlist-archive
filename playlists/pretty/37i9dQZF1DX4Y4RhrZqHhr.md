@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,281 likes - 226 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,506 likes - 226 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 117 | [L'amour Toujours \(Small Mix\)](https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujour](https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP) | 4:02 |
 | 118 | [Silhouettes \- Original Radio Edit](https://open.spotify.com/track/06h3McKzmxS8Bx58USHiMq) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Silhouettes](https://open.spotify.com/album/56Wdv50B0BK8z3PhOIz7WE) | 3:31 |
 | 119 | [Instruction \(feat\. Demi Lovato & Stefflon Don\)](https://open.spotify.com/track/06VsoIC668pU516T6qrgkJ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:45 |
-| 120 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\)](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
+| 120 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
 | 121 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
 | 122 | [Only Want You \- Sam Feldt Remix](https://open.spotify.com/track/2wOVXsIRIoniqipE9I5ZVx) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Only Want You \(Sam Feldt Remix\)](https://open.spotify.com/album/7c9f6egxXKmO7tb0Hrhgrt) | 2:59 |
 | 123 | [Insomnia \- King Topher Remix](https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2) | [Insomnia \(King Topher Remix\)](https://open.spotify.com/album/50HIbfbrQemacUUAD9UfNX) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Mike Williams
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,225 likes - 25 songs - 1 hr 14 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,232 likes - 25 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 2 | [Si Es Trucho Es Trucho \(feat\. El Alfa & Farruko\) \- Tiësto Remix](https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Si Es Trucho Es Trucho \(feat\. El Alfa & Farruko\) \[Tiësto Remix\]](https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt) | 2:26 |
 | 3 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 |
 | 4 | [Always Feel Like](https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Always Feel Like](https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1) | 3:01 |
-| 5 | [Sun Goes Down \(feat\. KILLUA\)](https://open.spotify.com/track/4DtxLmXT8W8YMobKviMy6w) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Killua](https://open.spotify.com/artist/1k2sH5qTixEnFNc8cJ8txi) | [Sun Goes Down \(feat\. KILLUA\)](https://open.spotify.com/album/5HXrynH3tTOYgjB0twZ2J1) | 3:37 |
+| 5 | [Sun Goes Down \(feat\. KILLUA\)](https://open.spotify.com/track/4DtxLmXT8W8YMobKviMy6w) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo) | [Sun Goes Down \(feat\. KILLUA\)](https://open.spotify.com/album/5HXrynH3tTOYgjB0twZ2J1) | 3:37 |
 | 6 | [Don't Hurt Me \(What Is Love\)](https://open.spotify.com/track/6Lytqcs0fMmCO8JNewrnbj) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Don't Hurt Me \(What Is Love\)](https://open.spotify.com/album/4NM3zrdNq6tpELPeaPM8QY) | 2:37 |
 | 7 | [Need U \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/3jQm9vFT0rePqjLGdk5B7W) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [MESZCA](https://open.spotify.com/artist/2Tdl3r6583W3gcEdnXmmIr), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Need U \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/0R2KjEmMjlZwC2PrrvemUf) | 2:36 |
 | 8 | [La Fiesta](https://open.spotify.com/track/2f2pGGaRZQIBt3TthrVC93) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [La Fiesta](https://open.spotify.com/album/6anUG6krraOoAkPDOz8W9J) | 3:24 |

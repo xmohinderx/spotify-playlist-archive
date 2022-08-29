@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,451 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,471 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 8 | [Que Se Mueran de Envidia](https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Que Se Mueran de Envidia](https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ) | 3:34 |
 | 9 | [Para Que Regreses](https://open.spotify.com/track/0EZ5c3oWdpWIaYHvifMqI2) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:14 |
 | 10 | [A Ti Sí Puedo Decirte](https://open.spotify.com/track/3RHWOxvj9Tj6dae3ayCPgu) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:12 |
-| 11 | [Sueño De Amor](https://open.spotify.com/track/4UIGSDbEbBGM2GDUentqRe) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Decretos](https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ) | 3:13 |
-| 12 | [Cuando Era Niño](https://open.spotify.com/track/4NddcjnH1xdec9o8Y88IIE) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:21 |
+| 11 | [Cuando Era Niño](https://open.spotify.com/track/4NddcjnH1xdec9o8Y88IIE) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:21 |
+| 12 | [Sueño De Amor](https://open.spotify.com/track/4UIGSDbEbBGM2GDUentqRe) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Decretos](https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ) | 3:13 |
 | 13 | [Tú, Yo Y La Luna](https://open.spotify.com/track/37Pq9KiFf4jMkIXXra7Jbt) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 2:32 |
 | 14 | [Mi Todo](https://open.spotify.com/track/11BkL2zleBIdQoaO8ycDfA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corazon de Nino](https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh) | 2:42 |
 | 15 | [Maldito Licor](https://open.spotify.com/track/5UZxsxodMAfhXQk2nE0oEy) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 2:56 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 42 | [Esa Fue Mi Novia](https://open.spotify.com/track/0UfhN8MDNdqBeVJM2cYqSE) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [20 Grandes Exitos](https://open.spotify.com/album/56x9DFswcIstlVuPa0WG13) | 2:27 |
 | 43 | [Juan Martha](https://open.spotify.com/track/6XxETo2rCSl3A9I6zXjR0f) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Los Mejores 15 Exitos](https://open.spotify.com/album/2nfLRPRrEuNLHbiOtxgdu9) | 3:46 |
 | 44 | [De Nayarit a Tijuana](https://open.spotify.com/track/2NipbSffrwVdoKtv2PFLqa) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Ambiciosa](https://open.spotify.com/album/3NnfZz4LSjS7dJuLQtQrF6) | 2:49 |
-| 45 | [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 |
-| 46 | [El Paletero](https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Rancheras Consentidas](https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH) | 3:15 |
+| 45 | [El Paletero](https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Rancheras Consentidas](https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH) | 3:15 |
+| 46 | [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 |
 | 47 | [Que Te Ha Dado Esa Mujer](https://open.spotify.com/track/5RPtcMJ9q1zfgw2OfTbFlQ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [20 Grandes Exitos](https://open.spotify.com/album/56x9DFswcIstlVuPa0WG13) | 3:15 |
 | 48 | [Ella \(Me Cansé De Rogarle\)](https://open.spotify.com/track/3pwWfa8pqHCoDJrFwwQCkk) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 3:22 |
 | 49 | [El Dolido](https://open.spotify.com/track/3QUVQh9YRliiLmBShel2DO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:09 |
 | 50 | [Loco \- Version Mariachi](https://open.spotify.com/track/1SFSlKPiGIhMUuTULvzdSO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Loco \(Version Mariachi\)](https://open.spotify.com/album/67sPpbNpfW5iOFwrZmbWb6) | 3:01 |
 
-Snapshot ID: `Mjc2OTM0NDUsMDAwMDAwMDA3N2ZhMWE1NDgyZWM2MjkyY2IzOTI2MzVhYWVlYjVhYw==`
+Snapshot ID: `Mjc2OTQ5NzksMDAwMDAwMDBmZjBhNGNlMGU4Y2ZkYjJhN2FmMjA1ODVjMTg4M2Q3ZA==`
